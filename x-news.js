@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-05T03:57:05.622Z",
+  "updatedAt": "2026-10-05T04:30:17.639Z",
   "items": [
     {
-      "time": "11:22",
-      "title": "台風27号 小笠原諸島は高波警戒",
+      "time": "12:09",
+      "title": "人手不足倒産 上半期で過去最多",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597589?source=rss",
-      "publishedAt": "2026-10-05T02:22:08.000Z",
-      "xQuery": "台風27号 小笠原諸島は高波警戒"
+      "url": "https://news.yahoo.co.jp/pickup/6597600?source=rss",
+      "publishedAt": "2026-10-05T03:09:24.000Z",
+      "xQuery": "人手不足倒産 上半期で過去最多"
     },
     {
       "time": "12:01",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "那覇強殺 知事上京し政府に抗議へ"
     },
     {
-      "time": "12:30",
-      "title": "小松空港 ひび割れで滑走路を閉鎖",
+      "time": "13:05",
+      "title": "大和証券 顧客情報11万人分漏洩か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597603?source=rss",
-      "publishedAt": "2026-10-05T03:30:24.000Z",
-      "xQuery": "小松空港 ひび割れで滑走路を閉鎖"
+      "url": "https://news.yahoo.co.jp/pickup/6597607?source=rss",
+      "publishedAt": "2026-10-05T04:05:47.000Z",
+      "xQuery": "大和証券 顧客情報11万人分漏洩か"
     },
     {
-      "time": "12:05",
-      "title": "ハリケーンが台風28号に 3年ぶり",
+      "time": "12:39",
+      "title": "路線バスと車が衝突7人けが 金沢",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597598?source=rss",
-      "publishedAt": "2026-10-05T03:05:19.000Z",
-      "xQuery": "ハリケーンが台風28号に 3年ぶり"
+      "url": "https://news.yahoo.co.jp/pickup/6597604?source=rss",
+      "publishedAt": "2026-10-05T03:39:11.000Z",
+      "xQuery": "路線バスと車が衝突7人けが 金沢"
     }
   ]
 };

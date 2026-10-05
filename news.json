@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T03:57:04.957Z",
+  "updatedAt": "2026-10-05T04:30:16.805Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -19,8 +19,15 @@
       {
         "time": "05:00",
         "title": "ADASカメラの焦点ずれ防止 芝浦機械､ゆがまぬ金型加工",
-        "source": "nikkei.com",
+        "source": "日本経済新聞",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1BbGc5bGpoMDhqUVJUbnZFSVFKaWp3OUhabkZNQTVqNnBqZFhsNmhRYnM4eHU1c0RQRnFlMXNENUl2cl9Td3RnVmQ4Q3NCRE91Q1d5LUVqRDhWM1lCMERwaVNBYTZndHFzTTQxTlF0a0tITXNDcEdvSkZFal8zaGs?oc=5",
+        "publishedAt": "2026-10-04T20:00:00.000Z"
+      },
+      {
+        "time": "05:00",
+        "title": "パナエナジー、EV・DC用電池開発拠点が稼働",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBYVy1scVN6Vkk0RXplLUpDNkpnc3FPbUIyWEtkRXYtMXg2OFE3bkQycEIzcXdxbnRjYlB6VnkwZjFjeHNLRTdvVFRWT3k1cFFCN21TQkpQSGk?oc=5",
         "publishedAt": "2026-10-04T20:00:00.000Z"
       },
       {
@@ -40,7 +47,7 @@
       {
         "time": "15:20",
         "title": "『京bizX』「ビジタネ」コーナーに日本電産マシンツールが登場！(2022年1月14日・21日放送) Seven Film (SKrEGCbse1)",
-        "source": "media.unisba.ac.id",
+        "source": "Unisba Media",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBTQ3F1akdJeFFlcnpjaW9Hdnh1b0k0cE5kQjY4QTNNenl0cWduTXZIakYxODlVajRJRTBYdU50SVNTTmRIOFlvZnFLTEdKUE95OHhnNS1iVVJaemE0NXEwVVdRdDFGR1JyYUNv?oc=5",
         "publishedAt": "2026-10-04T06:20:42.000Z"
       },
@@ -50,16 +57,16 @@
         "source": "アットプレス",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBFVjJHYkZ6QlhEb3dkTGxvakRoWl9QSjZlZXRtalV6RWNHMzFaZXplUmx3eFR1dUhBWFFLQWhGd1QxY192RjNMcDJHVzcySmc?oc=5",
         "publishedAt": "2026-10-05T03:00:00.000Z"
-      },
-      {
-        "time": "10:28",
-        "title": "IDECが上場来高値更新､27年3月期業績予想を上方修正",
-        "source": "四季報オンライン",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ZTzBPVlk3T2EzUDdBYVhhWk1XVkxmUEQ4RmlIbE9paDFxNGZROXFGNmdyWVFiVUI2LVZSMGkxYmIzRXdfYms1V2tlUjhqcGR2QlBYZHA5OA?oc=5",
-        "publishedAt": "2026-10-05T01:28:33.000Z"
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "12:01",
+        "title": "ブラジル大統領選 決選投票へ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6597597?source=rss",
+        "publishedAt": "2026-10-05T03:01:24.000Z"
+      },
       {
         "time": "10:02",
         "title": "米軍 英空軍基地から爆撃機を撤収",
@@ -68,11 +75,11 @@
         "publishedAt": "2026-10-05T01:02:51.000Z"
       },
       {
-        "time": "12:01",
-        "title": "ブラジル大統領選 決選投票へ",
+        "time": "13:27",
+        "title": "海外の米軍基地を狙う脅威 教訓は",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597597?source=rss",
-        "publishedAt": "2026-10-05T03:01:24.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6597602?source=rss",
+        "publishedAt": "2026-10-05T04:27:58.000Z"
       },
       {
         "time": "06:47",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6597536?source=rss",
         "publishedAt": "2026-10-04T09:54:00.000Z"
-      },
-      {
-        "time": "21:34",
-        "title": "露元首相 プーチン氏の過ち語る",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597552?source=rss",
-        "publishedAt": "2026-10-04T12:34:33.000Z"
       }
     ],
     "economyHeadlines": [
@@ -163,20 +163,6 @@
         "publishedAt": "2026-10-05T02:59:54.000Z"
       },
       {
-        "time": "09:46",
-        "title": "ネイリスト殺害 大晦日の「悲劇」",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597577?source=rss",
-        "publishedAt": "2026-10-05T00:46:10.000Z"
-      },
-      {
-        "time": "20:33",
-        "title": "ごみ収集車で頭巻き込まれる 死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597547?source=rss",
-        "publishedAt": "2026-10-04T11:33:46.000Z"
-      },
-      {
         "time": "12:39",
         "title": "路線バスと車が衝突7人けが 金沢",
         "source": "Yahoo!ニュース",
@@ -189,6 +175,20 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6597561?source=rss",
         "publishedAt": "2026-10-04T21:19:27.000Z"
+      },
+      {
+        "time": "13:00",
+        "title": "ごみ袋1枚135円 財政危機の北見市",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6597606?source=rss",
+        "publishedAt": "2026-10-05T04:00:48.000Z"
+      },
+      {
+        "time": "11:42",
+        "title": "ふるさと納税除外1年 余波続く市",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6597594?source=rss",
+        "publishedAt": "2026-10-05T02:42:08.000Z"
       }
     ],
     "subsidyHeadlines": [
