@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T16:21:40.359Z",
+  "updatedAt": "2026-10-05T16:45:11.882Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -12,7 +12,7 @@
       {
         "time": "17:30",
         "title": "M2X、東京海上ホールディングスと業務提携…製造業の設備保全DXを共同推進",
-        "source": "レスポンス（Response.jp）",
+        "source": "response.jp",
         "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE80UWZHcHNGQXl0aUh3ejByNDJ1ZkMtYlcwcUxEY2tfQWZtbkhWd01LWS10OGJ3RzBrdjJNa3NhQV8wcl9oOWp4dkZ5VG9xUzhoc3JKMFQyV3daOUdXNmlr?oc=5",
         "publishedAt": "2026-10-05T08:30:04.000Z"
       },
@@ -33,7 +33,7 @@
       {
         "time": "16:55",
         "title": "ＩＤＥＣ急騰、通期営業利益予想を94億円に大幅増額",
-        "source": "BigGo ファイナンス",
+        "source": "finance.biggo.jp",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9WM2dpSUxtdVhtZjhrMUY1Z1N1WjRjUWVhYmhTQjZYVUJFSzZLLWg0N1hOdkJBM1RmcnBhSVh2VVI1VEFSMnAwRllFLUYxM3FhcXNsSTRTSEdTdXhGYWx0U3BuMHlvd0cweUJCeHBaMjFadG5m?oc=5",
         "publishedAt": "2026-10-05T07:55:00.000Z"
       },
@@ -45,18 +45,18 @@
         "publishedAt": "2026-10-04T20:00:00.000Z"
       },
       {
-        "time": "05:00",
-        "title": "新刊／堀内公博著 『なぜ戦略は正しいのに成果があがらないのか？』",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9ONmswSHMzRFJYX0R4dG9xc3hReU5vQ2lQeld2N3ZtS2F6MDRMNHVEZkpEN3JabWw4RDdTQ0cwWHVwaWxkOGNxVFl2eUhIdTVvZm1ORzZNLThBQUhTT1hCMHM1cUlaaG8wODRuNDl2bDdrTkZWcHllVWFZQQ?oc=5",
-        "publishedAt": "2026-10-04T20:00:00.000Z"
-      },
-      {
         "time": "11:45",
         "title": "切削CAEソフトウェアのThird Wave Systemsが、JIMTOF 2026に出展",
         "source": "Infoseek",
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1hM2ZhdWt0OUg1MlNJWnBwbUtVUEY4WjU2MmU3bWZrUWs1UEluRDZjOFh4TnY1X0VxeU9UTHZzU0lOMVNVYkhPckRJU2w2clJwRUY0bmUxX3ptVHg2SnI5NzZ0UGFybU1XMEdCNzZqSkd6dw?oc=5",
         "publishedAt": "2026-10-05T02:45:23.000Z"
+      },
+      {
+        "time": "09:26",
+        "title": "日本のサーボモーター・ドライブ市場規模2026年～2033年：技術、展開、収益、最新トレ",
+        "source": "pando.life",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9WS3FwMFBBSEZST3FMTGlQTGtwV2F4amg1N2s4Nk5aNURQSFoxRWNBNk00NTBtZ3FlRzl3MVlyTDZfYzdSNlM5eURn?oc=5",
+        "publishedAt": "2026-10-05T00:26:52.000Z"
       }
     ],
     "worldHeadlines": [
