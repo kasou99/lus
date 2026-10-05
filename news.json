@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T09:31:44.995Z",
+  "updatedAt": "2026-10-05T10:22:32.737Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -105,6 +105,13 @@
     ],
     "economyHeadlines": [
       {
+        "time": "18:51",
+        "title": "東海汽船・山崎社長が辞任へ 引責",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6597654?source=rss",
+        "publishedAt": "2026-10-05T09:51:28.000Z"
+      },
+      {
         "time": "13:52",
         "title": "安川電機前社長 小川昌寛さん死去",
         "source": "Yahoo!ニュース",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6597648?source=rss",
         "publishedAt": "2026-10-05T09:28:26.000Z"
-      },
-      {
-        "time": "17:11",
-        "title": "薬剤師が「カスハラ」に苦慮 背景",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597637?source=rss",
-        "publishedAt": "2026-10-05T08:11:00.000Z"
       }
     ],
     "localHeadlines": [
@@ -184,11 +184,11 @@
         "publishedAt": "2026-10-05T09:13:58.000Z"
       },
       {
-        "time": "15:28",
-        "title": "路線バスと車が衝突 乗客8人けが",
+        "time": "18:43",
+        "title": "東レの工場で爆発3人けが 滋賀",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597620?source=rss",
-        "publishedAt": "2026-10-05T06:28:19.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6597653?source=rss",
+        "publishedAt": "2026-10-05T09:43:13.000Z"
       }
     ],
     "subsidyHeadlines": [

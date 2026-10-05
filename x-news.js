@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-05T09:31:45.839Z",
+  "updatedAt": "2026-10-05T10:22:33.563Z",
   "items": [
     {
       "time": "17:39",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "トリプル台風 今後の進路に注意"
     },
     {
-      "time": "17:36",
-      "title": "スペイン 議会解散し11月に総選挙",
+      "time": "18:51",
+      "title": "東海汽船・山崎社長が辞任へ 引責",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597642?source=rss",
-      "publishedAt": "2026-10-05T08:36:41.000Z",
-      "xQuery": "スペイン 議会解散し11月に総選挙"
+      "url": "https://news.yahoo.co.jp/pickup/6597654?source=rss",
+      "publishedAt": "2026-10-05T09:51:28.000Z",
+      "xQuery": "東海汽船・山崎社長が辞任へ 引責"
     },
     {
       "time": "16:29",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "草刈り中 パーキングでひかれ死亡"
     },
     {
-      "time": "17:52",
-      "title": "元SB選手の宮地克彦氏を不起訴",
+      "time": "18:43",
+      "title": "東レの工場で爆発3人けが 滋賀",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597645?source=rss",
-      "publishedAt": "2026-10-05T08:52:34.000Z",
-      "xQuery": "元SB選手の宮地克彦氏を不起訴"
+      "url": "https://news.yahoo.co.jp/pickup/6597653?source=rss",
+      "publishedAt": "2026-10-05T09:43:13.000Z",
+      "xQuery": "東レの工場で爆発3人けが 滋賀"
     }
   ]
 };
