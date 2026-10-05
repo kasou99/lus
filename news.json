@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T20:20:36.246Z",
+  "updatedAt": "2026-10-05T21:26:55.741Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -52,11 +52,11 @@
         "publishedAt": "2026-10-05T02:45:23.000Z"
       },
       {
-        "time": "05:23",
-        "title": "萩原エレクトロニクス 設備保全サービス提供へ 製造業のデータ活用支援",
-        "source": "ｄメニューニュース",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcWhTN0JSbVNEMWNoY1hrUVpERTM4aFlUNDlmblc2WTRRTGRjemRlbTkyRUNPS0djOE5SSThYUzRoWm1DT21uQ0lMZ1Q0NGZGZmtNQ0JmamlMR0trRDB1TXBWdXkyeVYtU2lGX3ZIbHlpVXNYQlpwZjE1V1Q0MzZpQm9NdHVWbXI1Q3M1WE5zbGdrVElBR0wxVFEwRk4wRDhl0gGTAUFVX3lxTE5pWmkwUEhaMElRbnJWMEpjN19GMTk2YXZwbXhUalRiVmQ2MEh2aElLdnpyRExfbHVEdC1CVE1BOWc1RS13amN1RnpseEV6WldCSVlzYnZ4RkNNXzR2a21lRTBOckoyYzBFRERPTUxUY0tBRkdfMU5zem5vcU5OUWZwYlZlaGdtMnRFQkVZdWNMVndZOA?oc=5",
-        "publishedAt": "2026-10-04T20:23:31.000Z"
+        "time": "23:15",
+        "title": "産業用製品比較販売サービス「メトリー」、佐々木希さんを起用した新広告を、都営地下鉄にて掲出開始",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1mYjdpNzBVeGZSZi01THB5RGtrMEZaYVFNTFltTTl5UnFDOUxpcXVvS2JsMjdUdVFnUktNWDRUekVLTXZ1ZTdKMVNOcllYRi1IdENWbmNKZ3BqZ0RGd3JxaEM5YlpjaU5XYk5ObGk3RlNjYnpfSWNkRjdDcw?oc=5",
+        "publishedAt": "2026-10-05T14:15:34.000Z"
       }
     ],
     "worldHeadlines": [
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "06:09",
+        "title": "ハッカー集団メンバー 日本で拘束",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6597688?source=rss",
+        "publishedAt": "2026-10-05T21:09:03.000Z"
+      },
+      {
         "time": "11:08",
         "title": "6人死亡放火殺人 起訴内容を否認",
         "source": "Yahoo!ニュース",
@@ -161,13 +168,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6597596?source=rss",
         "publishedAt": "2026-10-05T02:59:54.000Z"
-      },
-      {
-        "time": "15:33",
-        "title": "交際相手の遺体遺棄疑い 男を逮捕",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597624?source=rss",
-        "publishedAt": "2026-10-05T06:33:28.000Z"
       },
       {
         "time": "17:15",
@@ -218,8 +218,8 @@
       },
       {
         "time": "16:00",
-        "title": "【2026年最新】中小企業向け補助金6制度まとめ｜締切・補助率・上限額一覧 - hojyokin-portal.jp",
-        "source": "hojyokin-portal.jp",
+        "title": "【2026年最新】中小企業向け補助金6制度まとめ｜締切・補助率・上限額一覧",
+        "source": "補助金ポータル",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Idm5vYjJtajVIYjhheTZVVTVQTXRXMndVNkRmWnVEZnZyNVRRV3ZncXZhREsxNXBqYXFZSlZmNHhLeHhkbUNRcXljRlJNWVh2ZmZrSXlsVVJsdGI5RGtBdmoxUGx1YlozMUE?oc=5",
         "publishedAt": "2026-09-30T07:00:00.000Z"
       }

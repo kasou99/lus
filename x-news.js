@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-05T20:20:36.998Z",
+  "updatedAt": "2026-10-05T21:26:56.964Z",
   "items": [
     {
       "time": "22:18",
@@ -18,6 +18,14 @@ window.LUS_X_NEWS = {
       "xQuery": "フジパン熊本工場 生産再開を断念"
     },
     {
+      "time": "06:09",
+      "title": "ハッカー集団メンバー 日本で拘束",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6597688?source=rss",
+      "publishedAt": "2026-10-05T21:09:03.000Z",
+      "xQuery": "ハッカー集団メンバー 日本で拘束"
+    },
+    {
       "time": "22:49",
       "title": "妻子殺害疑い 死亡の夫を書類送検",
       "source": "Yahoo!ニュース",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6597686?source=rss",
       "publishedAt": "2026-10-05T14:38:13.000Z",
       "xQuery": "トラックの資材落下 12台絡む事故"
-    },
-    {
-      "time": "23:24",
-      "title": "塩野義 米バイオ医薬品企業買収へ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597685?source=rss",
-      "publishedAt": "2026-10-05T14:24:10.000Z",
-      "xQuery": "塩野義 米バイオ医薬品企業買収へ"
     }
   ]
 };
