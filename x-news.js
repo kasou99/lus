@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-05T10:44:49.660Z",
+  "updatedAt": "2026-10-05T11:18:00.862Z",
   "items": [
     {
       "time": "19:24",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "トリプル台風 今後の進路に注意"
     },
     {
-      "time": "18:51",
-      "title": "東海汽船・山崎社長が辞任へ 引責",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597654?source=rss",
-      "publishedAt": "2026-10-05T09:51:28.000Z",
-      "xQuery": "東海汽船・山崎社長が辞任へ 引責"
-    },
-    {
       "time": "18:13",
       "title": "草刈り中 パーキングでひかれ死亡",
       "source": "Yahoo!ニュース",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6597644?source=rss",
       "publishedAt": "2026-10-05T08:43:10.000Z",
       "xQuery": "焼肉きんぐ 1078万人分の情報流出"
+    },
+    {
+      "time": "18:08",
+      "title": "稼ぎより家族 時短選んだ父の不安",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6597646?source=rss",
+      "publishedAt": "2026-10-05T09:08:13.000Z",
+      "xQuery": "稼ぎより家族 時短選んだ父の不安"
     }
   ]
 };

@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-10-05T10:44:49.112Z",
+  "updatedAt": "2026-10-05T11:18:00.280Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "17:39",
+        "title": "(株)岡本工作機械製作所【6125】：株価・株式情報（夜間PTS含む）",
+        "source": "Yahoo!ファイナンス",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1LLVpzMFl2YnFWYS10V1pyaGxRdTZLZVJlUGJUUzJjeTd0MnA3YlpDWEx3NXdiUFhFNGp1QUE0WWdNMklsNklTREpkcm1FbGdXd1E?oc=5",
+        "publishedAt": "2026-10-05T08:39:01.000Z"
+      },
       {
         "time": "17:30",
         "title": "M2X、東京海上ホールディングスと業務提携…製造業の設備保全DXを共同推進",
@@ -50,13 +57,6 @@
         "source": "pando.life",
         "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9WS3FwMFBBSEZST3FMTGlQTGtwV2F4amg1N2s4Nk5aNURQSFoxRWNBNk00NTBtZ3FlRzl3MVlyTDZfYzdSNlM5eURn?oc=5",
         "publishedAt": "2026-10-05T00:26:52.000Z"
-      },
-      {
-        "time": "02:07",
-        "title": "ウルトラ精密加工システム市場に関する指標（規模、成長、シェアなど）は、本市場レポートにお",
-        "source": "pando.life",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE0tUUdhQmlJQkFXRW9FenQ0Rkd2cU5vdFF0NHhiWG1qRXFGYnc2OFRzOFJNb1hOTjFhN29rcFpaWHAzaVN0c19aMHZn?oc=5",
-        "publishedAt": "2026-10-04T17:07:16.000Z"
       }
     ],
     "worldHeadlines": [
@@ -218,8 +218,8 @@
       },
       {
         "time": "16:00",
-        "title": "【2026年最新】中小企業向け補助金6制度まとめ｜締切・補助率・上限額一覧",
-        "source": "補助金ポータル",
+        "title": "【2026年最新】中小企業向け補助金6制度まとめ｜締切・補助率・上限額一覧 - hojyokin-portal.jp",
+        "source": "hojyokin-portal.jp",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Idm5vYjJtajVIYjhheTZVVTVQTXRXMndVNkRmWnVEZnZyNVRRV3ZncXZhREsxNXBqYXFZSlZmNHhLeHhkbUNRcXljRlJNWVh2ZmZrSXlsVVJsdGI5RGtBdmoxUGx1YlozMUE?oc=5",
         "publishedAt": "2026-09-30T07:00:00.000Z"
       }
