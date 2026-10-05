@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-05T06:47:07.204Z",
+  "updatedAt": "2026-10-05T07:42:15.040Z",
   "items": [
     {
-      "time": "14:40",
-      "title": "首相 沖縄の事件「極めて遺憾」",
+      "time": "15:57",
+      "title": "予算カット発言 農相が撤回し謝罪",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597616?source=rss",
-      "publishedAt": "2026-10-05T05:40:44.000Z",
-      "xQuery": "首相 沖縄の事件「極めて遺憾」"
+      "url": "https://news.yahoo.co.jp/pickup/6597627?source=rss",
+      "publishedAt": "2026-10-05T06:57:48.000Z",
+      "xQuery": "予算カット発言 農相が撤回し謝罪"
     },
     {
-      "time": "15:09",
-      "title": "海外の米基地に脅威 日本への教訓",
+      "time": "15:39",
+      "title": "首相が所信表明 経済最優先を強調",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597619?source=rss",
-      "publishedAt": "2026-10-05T06:09:41.000Z",
-      "xQuery": "海外の米基地に脅威 日本への教訓"
+      "url": "https://news.yahoo.co.jp/pickup/6597623?source=rss",
+      "publishedAt": "2026-10-05T06:39:25.000Z",
+      "xQuery": "首相が所信表明 経済最優先を強調"
     },
     {
       "time": "14:41",

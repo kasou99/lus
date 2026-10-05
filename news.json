@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T06:47:06.371Z",
+  "updatedAt": "2026-10-05T07:42:14.384Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,13 +31,6 @@
         "publishedAt": "2026-10-04T20:00:00.000Z"
       },
       {
-        "time": "11:45",
-        "title": "切削CAEソフトウェアのThird Wave Systemsが、JIMTOF 2026に出展",
-        "source": "Infoseek",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1hM2ZhdWt0OUg1MlNJWnBwbUtVUEY4WjU2MmU3bWZrUWs1UEluRDZjOFh4TnY1X0VxeU9UTHZzU0lOMVNVYkhPckRJU2w2clJwRUY0bmUxX3ptVHg2SnI5NzZ0UGFybU1XMEdCNzZqSkd6dw?oc=5",
-        "publishedAt": "2026-10-05T02:45:23.000Z"
-      },
-      {
         "time": "09:26",
         "title": "日本のサーボモーター・ドライブ市場規模2026年～2033年：技術、展開、収益、最新トレ",
         "source": "pando.life",
@@ -57,6 +50,13 @@
         "source": "pando.life",
         "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE0tUUdhQmlJQkFXRW9FenQ0Rkd2cU5vdFF0NHhiWG1qRXFGYnc2OFRzOFJNb1hOTjFhN29rcFpaWHAzaVN0c19aMHZn?oc=5",
         "publishedAt": "2026-10-04T17:07:16.000Z"
+      },
+      {
+        "time": "01:27",
+        "title": "マルチターンアブソリュートロータリエンコーダ市場トップ10企業",
+        "source": "pando.life",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9aZWVCYVpMeWJ1dUNyRTFRalFYWGxVVm9GaEdIOHlWY1U5VGlsdktUcFBQNjFsdWpyRzNBMzNyMnhwWmhoZDZfWFFn?oc=5",
+        "publishedAt": "2026-10-04T16:27:33.000Z"
       }
     ],
     "worldHeadlines": [
@@ -112,13 +112,6 @@
         "publishedAt": "2026-10-05T04:52:30.000Z"
       },
       {
-        "time": "10:51",
-        "title": "日経平均が一時7万円台 3カ月ぶり",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597585?source=rss",
-        "publishedAt": "2026-10-05T01:51:46.000Z"
-      },
-      {
         "time": "12:09",
         "title": "人手不足倒産 上半期で過去最多",
         "source": "Yahoo!ニュース",
@@ -145,6 +138,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6597622?source=rss",
         "publishedAt": "2026-10-05T06:26:54.000Z"
+      },
+      {
+        "time": "16:10",
+        "title": "シャウエッセン 実質値上げ発表",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6597628?source=rss",
+        "publishedAt": "2026-10-05T07:10:45.000Z"
       }
     ],
     "localHeadlines": [
