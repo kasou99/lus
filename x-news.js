@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-05T03:28:49.456Z",
+  "updatedAt": "2026-10-05T03:57:05.622Z",
   "items": [
     {
       "time": "11:22",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "台風27号 小笠原諸島は高波警戒"
     },
     {
-      "time": "10:49",
-      "title": "イエメン フーシ派へ軍事作戦開始",
+      "time": "12:01",
+      "title": "ブラジル大統領選 決選投票へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597582?source=rss",
-      "publishedAt": "2026-10-05T01:49:08.000Z",
-      "xQuery": "イエメン フーシ派へ軍事作戦開始"
+      "url": "https://news.yahoo.co.jp/pickup/6597597?source=rss",
+      "publishedAt": "2026-10-05T03:01:24.000Z",
+      "xQuery": "ブラジル大統領選 決選投票へ"
     },
     {
       "time": "11:59",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "那覇強殺 知事上京し政府に抗議へ"
     },
     {
-      "time": "12:09",
-      "title": "人手不足倒産 上半期で過去最多",
+      "time": "12:30",
+      "title": "小松空港 ひび割れで滑走路を閉鎖",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597600?source=rss",
-      "publishedAt": "2026-10-05T03:09:24.000Z",
-      "xQuery": "人手不足倒産 上半期で過去最多"
+      "url": "https://news.yahoo.co.jp/pickup/6597603?source=rss",
+      "publishedAt": "2026-10-05T03:30:24.000Z",
+      "xQuery": "小松空港 ひび割れで滑走路を閉鎖"
     },
     {
-      "time": "11:38",
-      "title": "SNSに夢中の中2 私たちドパガキ",
+      "time": "12:05",
+      "title": "ハリケーンが台風28号に 3年ぶり",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597593?source=rss",
-      "publishedAt": "2026-10-05T02:38:58.000Z",
-      "xQuery": "SNSに夢中の中2 私たちドパガキ"
+      "url": "https://news.yahoo.co.jp/pickup/6597598?source=rss",
+      "publishedAt": "2026-10-05T03:05:19.000Z",
+      "xQuery": "ハリケーンが台風28号に 3年ぶり"
     }
   ]
 };

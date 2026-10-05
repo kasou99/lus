@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T03:28:48.344Z",
+  "updatedAt": "2026-10-05T03:57:04.957Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -25,13 +25,6 @@
       },
       {
         "time": "05:00",
-        "title": "パナエナジー、EV・DC用電池開発拠点が稼働",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBYVy1scVN6Vkk0RXplLUpDNkpnc3FPbUIyWEtkRXYtMXg2OFE3bkQycEIzcXdxbnRjYlB6VnkwZjFjeHNLRTdvVFRWT3k1cFFCN21TQkpQSGk?oc=5",
-        "publishedAt": "2026-10-04T20:00:00.000Z"
-      },
-      {
-        "time": "05:00",
         "title": "新刊／堀内公博著 『なぜ戦略は正しいのに成果があがらないのか？』",
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9ONmswSHMzRFJYX0R4dG9xc3hReU5vQ2lQeld2N3ZtS2F6MDRMNHVEZkpEN3JabWw4RDdTQ0cwWHVwaWxkOGNxVFl2eUhIdTVvZm1ORzZNLThBQUhTT1hCMHM1cUlaaG8wODRuNDl2bDdrTkZWcHllVWFZQQ?oc=5",
@@ -47,7 +40,7 @@
       {
         "time": "15:20",
         "title": "『京bizX』「ビジタネ」コーナーに日本電産マシンツールが登場！(2022年1月14日・21日放送) Seven Film (SKrEGCbse1)",
-        "source": "Unisba Media",
+        "source": "media.unisba.ac.id",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBTQ3F1akdJeFFlcnpjaW9Hdnh1b0k0cE5kQjY4QTNNenl0cWduTXZIakYxODlVajRJRTBYdU50SVNTTmRIOFlvZnFLTEdKUE95OHhnNS1iVVJaemE0NXEwVVdRdDFGR1JyYUNv?oc=5",
         "publishedAt": "2026-10-04T06:20:42.000Z"
       },
@@ -57,6 +50,13 @@
         "source": "アットプレス",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBFVjJHYkZ6QlhEb3dkTGxvakRoWl9QSjZlZXRtalV6RWNHMzFaZXplUmx3eFR1dUhBWFFLQWhGd1QxY192RjNMcDJHVzcySmc?oc=5",
         "publishedAt": "2026-10-05T03:00:00.000Z"
+      },
+      {
+        "time": "10:28",
+        "title": "IDECが上場来高値更新､27年3月期業績予想を上方修正",
+        "source": "四季報オンライン",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ZTzBPVlk3T2EzUDdBYVhhWk1XVkxmUEQ4RmlIbE9paDFxNGZROXFGNmdyWVFiVUI2LVZSMGkxYmIzRXdfYms1V2tlUjhqcGR2QlBYZHA5OA?oc=5",
+        "publishedAt": "2026-10-05T01:28:33.000Z"
       }
     ],
     "worldHeadlines": [
@@ -133,18 +133,18 @@
         "publishedAt": "2026-10-05T02:05:18.000Z"
       },
       {
+        "time": "12:30",
+        "title": "小松空港 ひび割れで滑走路を閉鎖",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6597603?source=rss",
+        "publishedAt": "2026-10-05T03:30:24.000Z"
+      },
+      {
         "time": "18:02",
         "title": "サザン関口氏会社 申告漏れを謝罪",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6597529?source=rss",
         "publishedAt": "2026-10-04T09:02:05.000Z"
-      },
-      {
-        "time": "15:29",
-        "title": "企業は「高専卒」に熱視線か 背景",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597509?source=rss",
-        "publishedAt": "2026-10-04T06:29:46.000Z"
       }
     ],
     "localHeadlines": [
@@ -170,13 +170,6 @@
         "publishedAt": "2026-10-05T00:46:10.000Z"
       },
       {
-        "time": "06:19",
-        "title": "駐車場で親子3人に車衝突 父重傷",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597561?source=rss",
-        "publishedAt": "2026-10-04T21:19:27.000Z"
-      },
-      {
         "time": "20:33",
         "title": "ごみ収集車で頭巻き込まれる 死亡",
         "source": "Yahoo!ニュース",
@@ -184,11 +177,18 @@
         "publishedAt": "2026-10-04T11:33:46.000Z"
       },
       {
-        "time": "08:19",
-        "title": "那覇強殺 女性の首にひも状の痕",
+        "time": "12:39",
+        "title": "路線バスと車が衝突7人けが 金沢",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597570?source=rss",
-        "publishedAt": "2026-10-04T23:19:52.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6597604?source=rss",
+        "publishedAt": "2026-10-05T03:39:11.000Z"
+      },
+      {
+        "time": "06:19",
+        "title": "駐車場で親子3人に車衝突 父重傷",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6597561?source=rss",
+        "publishedAt": "2026-10-04T21:19:27.000Z"
       }
     ],
     "subsidyHeadlines": [
