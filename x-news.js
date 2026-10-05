@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-05T05:32:01.871Z",
+  "updatedAt": "2026-10-05T06:47:07.204Z",
   "items": [
     {
-      "time": "12:09",
-      "title": "人手不足倒産 上半期で過去最多",
+      "time": "14:40",
+      "title": "首相 沖縄の事件「極めて遺憾」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597600?source=rss",
-      "publishedAt": "2026-10-05T03:09:24.000Z",
-      "xQuery": "人手不足倒産 上半期で過去最多"
+      "url": "https://news.yahoo.co.jp/pickup/6597616?source=rss",
+      "publishedAt": "2026-10-05T05:40:44.000Z",
+      "xQuery": "首相 沖縄の事件「極めて遺憾」"
     },
     {
-      "time": "13:05",
-      "title": "大和証券 顧客情報11万人分漏洩か",
+      "time": "15:09",
+      "title": "海外の米基地に脅威 日本への教訓",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597607?source=rss",
-      "publishedAt": "2026-10-05T04:05:47.000Z",
-      "xQuery": "大和証券 顧客情報11万人分漏洩か"
+      "url": "https://news.yahoo.co.jp/pickup/6597619?source=rss",
+      "publishedAt": "2026-10-05T06:09:41.000Z",
+      "xQuery": "海外の米基地に脅威 日本への教訓"
     },
     {
-      "time": "13:52",
-      "title": "安川電機前社長 小川昌寛さん死去",
+      "time": "14:41",
+      "title": "富山交番襲撃差し戻し審 被告黙秘",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597610?source=rss",
-      "publishedAt": "2026-10-05T04:52:30.000Z",
-      "xQuery": "安川電機前社長 小川昌寛さん死去"
+      "url": "https://news.yahoo.co.jp/pickup/6597614?source=rss",
+      "publishedAt": "2026-10-05T05:41:39.000Z",
+      "xQuery": "富山交番襲撃差し戻し審 被告黙秘"
     },
     {
-      "time": "13:00",
-      "title": "ごみ袋1枚135円 財政危機の北見市",
+      "time": "15:33",
+      "title": "交際相手の遺体遺棄疑い 男を逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597606?source=rss",
-      "publishedAt": "2026-10-05T04:00:48.000Z",
-      "xQuery": "ごみ袋1枚135円 財政危機の北見市"
+      "url": "https://news.yahoo.co.jp/pickup/6597624?source=rss",
+      "publishedAt": "2026-10-05T06:33:28.000Z",
+      "xQuery": "交際相手の遺体遺棄疑い 男を逮捕"
     },
     {
-      "time": "11:38",
-      "title": "就活生の公安庁ツアー応募増 驚き",
+      "time": "15:28",
+      "title": "路線バスと車が衝突 乗客8人けが",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597592?source=rss",
-      "publishedAt": "2026-10-05T02:38:10.000Z",
-      "xQuery": "就活生の公安庁ツアー応募増 驚き"
+      "url": "https://news.yahoo.co.jp/pickup/6597620?source=rss",
+      "publishedAt": "2026-10-05T06:28:19.000Z",
+      "xQuery": "路線バスと車が衝突 乗客8人けが"
     }
   ]
 };
