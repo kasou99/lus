@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-05T02:36:48.673Z",
+  "updatedAt": "2026-10-05T03:28:49.456Z",
   "items": [
     {
-      "time": "10:51",
-      "title": "日経平均が一時7万円台 3カ月ぶり",
+      "time": "11:22",
+      "title": "台風27号 小笠原諸島は高波警戒",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597585?source=rss",
-      "publishedAt": "2026-10-05T01:51:46.000Z",
-      "xQuery": "日経平均が一時7万円台 3カ月ぶり"
+      "url": "https://news.yahoo.co.jp/pickup/6597589?source=rss",
+      "publishedAt": "2026-10-05T02:22:08.000Z",
+      "xQuery": "台風27号 小笠原諸島は高波警戒"
     },
     {
       "time": "10:49",
@@ -18,28 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "イエメン フーシ派へ軍事作戦開始"
     },
     {
-      "time": "11:08",
-      "title": "6人死亡放火殺人 起訴内容を否認",
+      "time": "11:59",
+      "title": "那覇強殺 知事上京し政府に抗議へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597581?source=rss",
-      "publishedAt": "2026-10-05T02:08:27.000Z",
-      "xQuery": "6人死亡放火殺人 起訴内容を否認"
+      "url": "https://news.yahoo.co.jp/pickup/6597596?source=rss",
+      "publishedAt": "2026-10-05T02:59:54.000Z",
+      "xQuery": "那覇強殺 知事上京し政府に抗議へ"
     },
     {
-      "time": "10:36",
-      "title": "定置網で男性が見つかる 死亡確認",
+      "time": "12:09",
+      "title": "人手不足倒産 上半期で過去最多",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597583?source=rss",
-      "publishedAt": "2026-10-05T01:36:36.000Z",
-      "xQuery": "定置網で男性が見つかる 死亡確認"
+      "url": "https://news.yahoo.co.jp/pickup/6597600?source=rss",
+      "publishedAt": "2026-10-05T03:09:24.000Z",
+      "xQuery": "人手不足倒産 上半期で過去最多"
     },
     {
-      "time": "11:05",
-      "title": "フィジカルAIで異業種連携相次ぐ",
+      "time": "11:38",
+      "title": "SNSに夢中の中2 私たちドパガキ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597586?source=rss",
-      "publishedAt": "2026-10-05T02:05:18.000Z",
-      "xQuery": "フィジカルAIで異業種連携相次ぐ"
+      "url": "https://news.yahoo.co.jp/pickup/6597593?source=rss",
+      "publishedAt": "2026-10-05T02:38:58.000Z",
+      "xQuery": "SNSに夢中の中2 私たちドパガキ"
     }
   ]
 };

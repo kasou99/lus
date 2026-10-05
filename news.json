@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T02:36:48.246Z",
+  "updatedAt": "2026-10-05T03:28:48.344Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -10,18 +10,18 @@
         "publishedAt": "2026-10-04T20:00:00.000Z"
       },
       {
-        "time": "01:52",
-        "title": "(株)岡本工作機械製作所【6125】：株価・株式情報（夜間PTS含む）",
-        "source": "Yahoo!ファイナンス",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1LLVpzMFl2YnFWYS10V1pyaGxRdTZLZVJlUGJUUzJjeTd0MnA3YlpDWEx3NXdiUFhFNGp1QUE0WWdNMklsNklTREpkcm1FbGdXd1E?oc=5",
-        "publishedAt": "2026-10-04T16:52:26.000Z"
-      },
-      {
         "time": "09:26",
         "title": "日本のサーボモーター・ドライブ市場規模2026年～2033年：技術、展開、収益、最新トレ",
         "source": "pando.life",
         "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9WS3FwMFBBSEZST3FMTGlQTGtwV2F4amg1N2s4Nk5aNURQSFoxRWNBNk00NTBtZ3FlRzl3MVlyTDZfYzdSNlM5eURn?oc=5",
         "publishedAt": "2026-10-05T00:26:52.000Z"
+      },
+      {
+        "time": "05:00",
+        "title": "ADASカメラの焦点ずれ防止 芝浦機械､ゆがまぬ金型加工",
+        "source": "nikkei.com",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1BbGc5bGpoMDhqUVJUbnZFSVFKaWp3OUhabkZNQTVqNnBqZFhsNmhRYnM4eHU1c0RQRnFlMXNENUl2cl9Td3RnVmQ4Q3NCRE91Q1d5LUVqRDhWM1lCMERwaVNBYTZndHFzTTQxTlF0a0tITXNDcEdvSkZFal8zaGs?oc=5",
+        "publishedAt": "2026-10-04T20:00:00.000Z"
       },
       {
         "time": "05:00",
@@ -38,25 +38,25 @@
         "publishedAt": "2026-10-04T20:00:00.000Z"
       },
       {
-        "time": "05:00",
-        "title": "ADASカメラの焦点ずれ防止 芝浦機械､ゆがまぬ金型加工",
-        "source": "nikkei.com",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1BbGc5bGpoMDhqUVJUbnZFSVFKaWp3OUhabkZNQTVqNnBqZFhsNmhRYnM4eHU1c0RQRnFlMXNENUl2cl9Td3RnVmQ4Q3NCRE91Q1d5LUVqRDhWM1lCMERwaVNBYTZndHFzTTQxTlF0a0tITXNDcEdvSkZFal8zaGs?oc=5",
-        "publishedAt": "2026-10-04T20:00:00.000Z"
+        "time": "02:07",
+        "title": "ウルトラ精密加工システム市場に関する指標（規模、成長、シェアなど）は、本市場レポートにお",
+        "source": "pando.life",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE0tUUdhQmlJQkFXRW9FenQ0Rkd2cU5vdFF0NHhiWG1qRXFGYnc2OFRzOFJNb1hOTjFhN29rcFpaWHAzaVN0c19aMHZn?oc=5",
+        "publishedAt": "2026-10-04T17:07:16.000Z"
       },
       {
-        "time": "10:28",
-        "title": "IDECが上場来高値更新､27年3月期業績予想を上方修正",
-        "source": "四季報オンライン",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ZTzBPVlk3T2EzUDdBYVhhWk1XVkxmUEQ4RmlIbE9paDFxNGZROXFGNmdyWVFiVUI2LVZSMGkxYmIzRXdfYms1V2tlUjhqcGR2QlBYZHA5OA?oc=5",
-        "publishedAt": "2026-10-05T01:28:33.000Z"
+        "time": "15:20",
+        "title": "『京bizX』「ビジタネ」コーナーに日本電産マシンツールが登場！(2022年1月14日・21日放送) Seven Film (SKrEGCbse1)",
+        "source": "Unisba Media",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBTQ3F1akdJeFFlcnpjaW9Hdnh1b0k0cE5kQjY4QTNNenl0cWduTXZIakYxODlVajRJRTBYdU50SVNTTmRIOFlvZnFLTEdKUE95OHhnNS1iVVJaemE0NXEwVVdRdDFGR1JyYUNv?oc=5",
+        "publishedAt": "2026-10-04T06:20:42.000Z"
       },
       {
-        "time": "12:30",
-        "title": "CNCウォームねじ研削盤の世界市場（2026年～2032年）、市場規模（シングルヘッド、マルチヘッド）・分析レポートを発表",
+        "time": "12:00",
+        "title": "縦型多穴加工機の世界市場（2026年～2032年）、市場規模（固定スピンドル式ギャングドリル、調整式スピンドル式ギャングドリル、CNC制御式ギャングドリル）・分析レポートを発表",
         "source": "アットプレス",
-        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4wS2o3eV9ZdldBMzBqZzJscHNVSE1JVk1mdEVKUjdScXBtUzBzZlFwOURPSGM1ODdKamJodGEwZktaeTVZakM4Qk50VWgtdw?oc=5",
-        "publishedAt": "2026-10-04T03:30:00.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBFVjJHYkZ6QlhEb3dkTGxvakRoWl9QSjZlZXRtalV6RWNHMzFaZXplUmx3eFR1dUhBWFFLQWhGd1QxY192RjNMcDJHVzcySmc?oc=5",
+        "publishedAt": "2026-10-05T03:00:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -68,11 +68,11 @@
         "publishedAt": "2026-10-05T01:02:51.000Z"
       },
       {
-        "time": "21:54",
-        "title": "ブラジル大統領選 決選投票の公算",
+        "time": "12:01",
+        "title": "ブラジル大統領選 決選投票へ",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597553?source=rss",
-        "publishedAt": "2026-10-04T12:54:18.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6597597?source=rss",
+        "publishedAt": "2026-10-05T03:01:24.000Z"
       },
       {
         "time": "06:47",
@@ -112,11 +112,11 @@
         "publishedAt": "2026-10-05T01:51:46.000Z"
       },
       {
-        "time": "18:00",
-        "title": "食品消費税1%に賛否 減税効果は",
+        "time": "12:09",
+        "title": "人手不足倒産 上半期で過去最多",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597415?source=rss",
-        "publishedAt": "2026-10-03T09:00:18.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6597600?source=rss",
+        "publishedAt": "2026-10-05T03:09:24.000Z"
       },
       {
         "time": "08:51",
@@ -133,18 +133,18 @@
         "publishedAt": "2026-10-05T02:05:18.000Z"
       },
       {
-        "time": "07:35",
-        "title": "サザン関口氏会社5.8億円申告漏れ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597461?source=rss",
-        "publishedAt": "2026-10-03T22:35:32.000Z"
-      },
-      {
         "time": "18:02",
         "title": "サザン関口氏会社 申告漏れを謝罪",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6597529?source=rss",
         "publishedAt": "2026-10-04T09:02:05.000Z"
+      },
+      {
+        "time": "15:29",
+        "title": "企業は「高専卒」に熱視線か 背景",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6597509?source=rss",
+        "publishedAt": "2026-10-04T06:29:46.000Z"
       }
     ],
     "localHeadlines": [
@@ -156,11 +156,11 @@
         "publishedAt": "2026-10-05T02:08:27.000Z"
       },
       {
-        "time": "08:19",
-        "title": "那覇強殺 女性の首にひも状の痕",
+        "time": "11:59",
+        "title": "那覇強殺 知事上京し政府に抗議へ",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597570?source=rss",
-        "publishedAt": "2026-10-04T23:19:52.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6597596?source=rss",
+        "publishedAt": "2026-10-05T02:59:54.000Z"
       },
       {
         "time": "09:46",
@@ -184,11 +184,11 @@
         "publishedAt": "2026-10-04T11:33:46.000Z"
       },
       {
-        "time": "22:30",
-        "title": "遮断器ない踏切 15歳はねられ死亡",
+        "time": "08:19",
+        "title": "那覇強殺 女性の首にひも状の痕",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597556?source=rss",
-        "publishedAt": "2026-10-04T13:30:39.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6597570?source=rss",
+        "publishedAt": "2026-10-04T23:19:52.000Z"
       }
     ],
     "subsidyHeadlines": [
