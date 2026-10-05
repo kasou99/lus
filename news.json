@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-10-05T07:42:14.384Z",
+  "updatedAt": "2026-10-05T08:35:29.038Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "17:30",
+        "title": "M2X、東京海上ホールディングスと業務提携…製造業の設備保全DXを共同推進",
+        "source": "レスポンス（Response.jp）",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9CTjNDMEcyaGdfRmNhWV82dFpNRi1wRTlmdnJWdlVxZ0ppLU0ybFU2X2xwMWt3OHRvV2VuUmh6cmFORW9saTJuSmNIN3dYU2RrZTlsUXI5S3BxbGFHN3ZNT2Nn?oc=5",
+        "publishedAt": "2026-10-05T08:30:04.000Z"
+      },
       {
         "time": "05:00",
         "title": "萩原エレクトロニクス 設備保全サービス提供へ 製造業のデータ活用支援",
@@ -18,17 +25,24 @@
       },
       {
         "time": "05:00",
+        "title": "パナエナジー、EV・DC用電池開発拠点が稼働",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBYVy1scVN6Vkk0RXplLUpDNkpnc3FPbUIyWEtkRXYtMXg2OFE3bkQycEIzcXdxbnRjYlB6VnkwZjFjeHNLRTdvVFRWT3k1cFFCN21TQkpQSGk?oc=5",
+        "publishedAt": "2026-10-04T20:00:00.000Z"
+      },
+      {
+        "time": "05:00",
         "title": "ADASカメラの焦点ずれ防止 芝浦機械､ゆがまぬ金型加工",
         "source": "日本経済新聞",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1BbGc5bGpoMDhqUVJUbnZFSVFKaWp3OUhabkZNQTVqNnBqZFhsNmhRYnM4eHU1c0RQRnFlMXNENUl2cl9Td3RnVmQ4Q3NCRE91Q1d5LUVqRDhWM1lCMERwaVNBYTZndHFzTTQxTlF0a0tITXNDcEdvSkZFal8zaGs?oc=5",
         "publishedAt": "2026-10-04T20:00:00.000Z"
       },
       {
-        "time": "05:00",
-        "title": "パナエナジー、EV・DC用電池開発拠点が稼働",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBYVy1scVN6Vkk0RXplLUpDNkpnc3FPbUIyWEtkRXYtMXg2OFE3bkQycEIzcXdxbnRjYlB6VnkwZjFjeHNLRTdvVFRWT3k1cFFCN21TQkpQSGk?oc=5",
-        "publishedAt": "2026-10-04T20:00:00.000Z"
+        "time": "11:45",
+        "title": "切削CAEソフトウェアのThird Wave Systemsが、JIMTOF 2026に出展",
+        "source": "Infoseek",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1hM2ZhdWt0OUg1MlNJWnBwbUtVUEY4WjU2MmU3bWZrUWs1UEluRDZjOFh4TnY1X0VxeU9UTHZzU0lOMVNVYkhPckRJU2w2clJwRUY0bmUxX3ptVHg2SnI5NzZ0UGFybU1XMEdCNzZqSkd6dw?oc=5",
+        "publishedAt": "2026-10-05T02:45:23.000Z"
       },
       {
         "time": "09:26",
@@ -43,20 +57,6 @@
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9ONmswSHMzRFJYX0R4dG9xc3hReU5vQ2lQeld2N3ZtS2F6MDRMNHVEZkpEN3JabWw4RDdTQ0cwWHVwaWxkOGNxVFl2eUhIdTVvZm1ORzZNLThBQUhTT1hCMHM1cUlaaG8wODRuNDl2bDdrTkZWcHllVWFZQQ?oc=5",
         "publishedAt": "2026-10-04T20:00:00.000Z"
-      },
-      {
-        "time": "02:07",
-        "title": "ウルトラ精密加工システム市場に関する指標（規模、成長、シェアなど）は、本市場レポートにお",
-        "source": "pando.life",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE0tUUdhQmlJQkFXRW9FenQ0Rkd2cU5vdFF0NHhiWG1qRXFGYnc2OFRzOFJNb1hOTjFhN29rcFpaWHAzaVN0c19aMHZn?oc=5",
-        "publishedAt": "2026-10-04T17:07:16.000Z"
-      },
-      {
-        "time": "01:27",
-        "title": "マルチターンアブソリュートロータリエンコーダ市場トップ10企業",
-        "source": "pando.life",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9aZWVCYVpMeWJ1dUNyRTFRalFYWGxVVm9GaEdIOHlWY1U5VGlsdktUcFBQNjFsdWpyRzNBMzNyMnhwWmhoZDZfWFFn?oc=5",
-        "publishedAt": "2026-10-04T16:27:33.000Z"
       }
     ],
     "worldHeadlines": [
@@ -170,6 +170,13 @@
         "publishedAt": "2026-10-05T06:33:28.000Z"
       },
       {
+        "time": "17:15",
+        "title": "出産した男児2人殺害疑い 母逮捕",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6597635?source=rss",
+        "publishedAt": "2026-10-05T08:15:36.000Z"
+      },
+      {
         "time": "15:28",
         "title": "路線バスと車が衝突 乗客8人けが",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6597561?source=rss",
         "publishedAt": "2026-10-04T21:19:27.000Z"
-      },
-      {
-        "time": "14:41",
-        "title": "富山交番襲撃差し戻し審 被告黙秘",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597614?source=rss",
-        "publishedAt": "2026-10-05T05:41:39.000Z"
       }
     ],
     "subsidyHeadlines": [

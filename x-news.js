@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-05T07:42:15.040Z",
+  "updatedAt": "2026-10-05T08:35:29.826Z",
   "items": [
     {
       "time": "15:57",
@@ -18,28 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "首相が所信表明 経済最優先を強調"
     },
     {
-      "time": "14:41",
-      "title": "富山交番襲撃差し戻し審 被告黙秘",
+      "time": "16:29",
+      "title": "強殺事件 在沖米軍トップ謝罪せず",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597614?source=rss",
-      "publishedAt": "2026-10-05T05:41:39.000Z",
-      "xQuery": "富山交番襲撃差し戻し審 被告黙秘"
+      "url": "https://news.yahoo.co.jp/pickup/6597631?source=rss",
+      "publishedAt": "2026-10-05T07:29:14.000Z",
+      "xQuery": "強殺事件 在沖米軍トップ謝罪せず"
     },
     {
-      "time": "15:33",
-      "title": "交際相手の遺体遺棄疑い 男を逮捕",
+      "time": "17:15",
+      "title": "出産した男児2人殺害疑い 母逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597624?source=rss",
-      "publishedAt": "2026-10-05T06:33:28.000Z",
-      "xQuery": "交際相手の遺体遺棄疑い 男を逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6597635?source=rss",
+      "publishedAt": "2026-10-05T08:15:36.000Z",
+      "xQuery": "出産した男児2人殺害疑い 母逮捕"
     },
     {
-      "time": "15:28",
-      "title": "路線バスと車が衝突 乗客8人けが",
+      "time": "16:10",
+      "title": "シャウエッセン 実質値上げ発表",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597620?source=rss",
-      "publishedAt": "2026-10-05T06:28:19.000Z",
-      "xQuery": "路線バスと車が衝突 乗客8人けが"
+      "url": "https://news.yahoo.co.jp/pickup/6597628?source=rss",
+      "publishedAt": "2026-10-05T07:10:45.000Z",
+      "xQuery": "シャウエッセン 実質値上げ発表"
     }
   ]
 };
