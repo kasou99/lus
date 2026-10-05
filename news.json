@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-04T23:39:25.639Z",
+  "updatedAt": "2026-10-05T00:57:34.037Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,10 +17,24 @@
         "publishedAt": "2026-10-04T20:00:00.000Z"
       },
       {
+        "time": "09:26",
+        "title": "日本のサーボモーター・ドライブ市場規模2026年～2033年：技術、展開、収益、最新トレ",
+        "source": "pando.life",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9WS3FwMFBBSEZST3FMTGlQTGtwV2F4amg1N2s4Nk5aNURQSFoxRWNBNk00NTBtZ3FlRzl3MVlyTDZfYzdSNlM5eURn?oc=5",
+        "publishedAt": "2026-10-05T00:26:52.000Z"
+      },
+      {
         "time": "05:00",
         "title": "ADASカメラの焦点ずれ防止 芝浦機械､ゆがまぬ金型加工",
         "source": "日本経済新聞",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1BbGc5bGpoMDhqUVJUbnZFSVFKaWp3OUhabkZNQTVqNnBqZFhsNmhRYnM4eHU1c0RQRnFlMXNENUl2cl9Td3RnVmQ4Q3NCRE91Q1d5LUVqRDhWM1lCMERwaVNBYTZndHFzTTQxTlF0a0tITXNDcEdvSkZFal8zaGs?oc=5",
+        "publishedAt": "2026-10-04T20:00:00.000Z"
+      },
+      {
+        "time": "05:00",
+        "title": "新刊／堀内公博著 『なぜ戦略は正しいのに成果があがらないのか？』",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9ONmswSHMzRFJYX0R4dG9xc3hReU5vQ2lQeld2N3ZtS2F6MDRMNHVEZkpEN3JabWw4RDdTQ0cwWHVwaWxkOGNxVFl2eUhIdTVvZm1ORzZNLThBQUhTT1hCMHM1cUlaaG8wODRuNDl2bDdrTkZWcHllVWFZQQ?oc=5",
         "publishedAt": "2026-10-04T20:00:00.000Z"
       },
       {
@@ -31,18 +45,11 @@
         "publishedAt": "2026-10-04T16:52:26.000Z"
       },
       {
-        "time": "05:00",
-        "title": "準大手・中堅ゼネコントップに聞く（3）戸田建設社長・大谷清介氏",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBpSk1vTTFfSzNUQ2ZZcXZqRVNpVDZHUy1VMjNmWjhKbUx5NW5UQ21PTFFucGJud2xfd0o1cnQ4YWhLbms1dklCUy1UUGJsaURBNmowMFZHT2o?oc=5",
-        "publishedAt": "2026-10-04T20:00:00.000Z"
-      },
-      {
-        "time": "09:48",
-        "title": "広島のトーヨーエイテック、工作機械の新モデル開発",
-        "source": "中国新聞デジタル",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1xZFpPNmRTcTZWc2RXTkxkVXd4SmdHLWthS3hROVhqNm5xWGswdVlmZEp4OHlGX09IQ3hiWldzSy1UcWxNZW1NTzNSUVRvZUlBZk9INWpkUTRjZw?oc=5",
-        "publishedAt": "2026-10-04T00:48:00.000Z"
+        "time": "12:30",
+        "title": "CNCウォームねじ研削盤の世界市場（2026年～2032年）、市場規模（シングルヘッド、マルチヘッド）・分析レポートを発表",
+        "source": "アットプレス",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4wS2o3eV9ZdldBMzBqZzJscHNVSE1JVk1mdEVKUjdScXBtUzBzZlFwOURPSGM1ODdKamJodGEwZktaeTVZakM4Qk50VWgtdw?oc=5",
+        "publishedAt": "2026-10-04T03:30:00.000Z"
       },
       {
         "time": "02:07",
@@ -50,13 +57,6 @@
         "source": "pando.life",
         "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE0tUUdhQmlJQkFXRW9FenQ0Rkd2cU5vdFF0NHhiWG1qRXFGYnc2OFRzOFJNb1hOTjFhN29rcFpaWHAzaVN0c19aMHZn?oc=5",
         "publishedAt": "2026-10-04T17:07:16.000Z"
-      },
-      {
-        "time": "12:30",
-        "title": "CNCウォームねじ研削盤の世界市場（2026年～2032年）、市場規模（シングルヘッド、マルチヘッド）・分析レポートを発表",
-        "source": "アットプレス",
-        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4wS2o3eV9ZdldBMzBqZzJscHNVSE1JVk1mdEVKUjdScXBtUzBzZlFwOURPSGM1ODdKamJodGEwZktaeTVZakM4Qk50VWgtdw?oc=5",
-        "publishedAt": "2026-10-04T03:30:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -119,6 +119,13 @@
         "publishedAt": "2026-10-03T13:57:57.000Z"
       },
       {
+        "time": "08:51",
+        "title": "8年で20倍 民泊規制強化と争奪戦",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6597572?source=rss",
+        "publishedAt": "2026-10-04T23:51:16.000Z"
+      },
+      {
         "time": "07:35",
         "title": "サザン関口氏会社5.8億円申告漏れ",
         "source": "Yahoo!ニュース",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6597509?source=rss",
         "publishedAt": "2026-10-04T06:29:46.000Z"
-      },
-      {
-        "time": "13:07",
-        "title": "「こどもNISA」注意点 専門家解説",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597376?source=rss",
-        "publishedAt": "2026-10-03T04:07:37.000Z"
       }
     ],
     "localHeadlines": [
@@ -163,6 +163,13 @@
         "publishedAt": "2026-10-04T11:28:09.000Z"
       },
       {
+        "time": "09:46",
+        "title": "ネイリスト殺害 大晦日の「悲劇」",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6597577?source=rss",
+        "publishedAt": "2026-10-05T00:46:10.000Z"
+      },
+      {
         "time": "06:11",
         "title": "知人女性の腹刺した疑い 男を逮捕",
         "source": "Yahoo!ニュース",
@@ -177,18 +184,11 @@
         "publishedAt": "2026-10-04T21:19:27.000Z"
       },
       {
-        "time": "22:00",
-        "title": "愛知県知事 アジア大会を巡り謝罪",
+        "time": "20:33",
+        "title": "ごみ収集車で頭巻き込まれる 死亡",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597554?source=rss",
-        "publishedAt": "2026-10-04T13:00:47.000Z"
-      },
-      {
-        "time": "23:43",
-        "title": "台風被害の千葉 なぜ盛り土崩落",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597557?source=rss",
-        "publishedAt": "2026-10-04T14:43:58.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6597547?source=rss",
+        "publishedAt": "2026-10-04T11:33:46.000Z"
       }
     ],
     "subsidyHeadlines": [

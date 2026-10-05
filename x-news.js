@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-04T23:39:26.580Z",
+  "updatedAt": "2026-10-05T00:57:34.552Z",
   "items": [
     {
-      "time": "07:18",
-      "title": "臨時国会召集へ 消費減税など焦点",
+      "time": "07:55",
+      "title": "DV被害者らの情報漏洩 5年で68件",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597564?source=rss",
-      "publishedAt": "2026-10-04T22:18:12.000Z",
-      "xQuery": "臨時国会召集へ 消費減税など焦点"
+      "url": "https://news.yahoo.co.jp/pickup/6597568?source=rss",
+      "publishedAt": "2026-10-04T22:55:43.000Z",
+      "xQuery": "DV被害者らの情報漏洩 5年で68件"
     },
     {
       "time": "07:43",
@@ -18,12 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "AI自動運航船 自衛隊に導入へ"
     },
     {
-      "time": "07:43",
-      "title": "個人情報提供 事前報告を義務化へ",
+      "time": "09:34",
+      "title": "マスク氏「スペースXSI」に改称へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597566?source=rss",
-      "publishedAt": "2026-10-04T22:43:34.000Z",
-      "xQuery": "個人情報提供 事前報告を義務化へ"
+      "url": "https://news.yahoo.co.jp/pickup/6597576?source=rss",
+      "publishedAt": "2026-10-05T00:34:16.000Z",
+      "xQuery": "マスク氏「スペースXSI」に改称へ"
+    },
+    {
+      "time": "09:46",
+      "title": "ネイリスト殺害 大晦日の「悲劇」",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6597577?source=rss",
+      "publishedAt": "2026-10-05T00:46:10.000Z",
+      "xQuery": "ネイリスト殺害 大晦日の「悲劇」"
     },
     {
       "time": "08:19",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6597570?source=rss",
       "publishedAt": "2026-10-04T23:19:52.000Z",
       "xQuery": "那覇強殺 女性の首にひも状の痕"
-    },
-    {
-      "time": "06:19",
-      "title": "駐車場で親子3人に車衝突 父重傷",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597561?source=rss",
-      "publishedAt": "2026-10-04T21:19:27.000Z",
-      "xQuery": "駐車場で親子3人に車衝突 父重傷"
     }
   ]
 };
