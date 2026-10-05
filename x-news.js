@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-05T13:25:57.235Z",
+  "updatedAt": "2026-10-05T13:47:43.058Z",
   "items": [
+    {
+      "time": "22:18",
+      "title": "首相所信表明 野党から批判相次ぐ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6597677?source=rss",
+      "publishedAt": "2026-10-05T13:18:57.000Z",
+      "xQuery": "首相所信表明 野党から批判相次ぐ"
+    },
     {
       "time": "20:59",
       "title": "土石流の捜索打ち切り ネパール",
@@ -10,20 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "土石流の捜索打ち切り ネパール"
     },
     {
-      "time": "20:01",
-      "title": "「没入型」新感覚の防災訓練 狙い",
+      "time": "21:29",
+      "title": "過去ナチス式敬礼 サモア首相謝罪",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597660?source=rss",
-      "publishedAt": "2026-10-05T11:01:40.000Z",
-      "xQuery": "「没入型」新感覚の防災訓練 狙い"
-    },
-    {
-      "time": "21:58",
-      "title": "中国-北朝鮮の新大橋 近く開通か",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597675?source=rss",
-      "publishedAt": "2026-10-05T12:58:10.000Z",
-      "xQuery": "中国-北朝鮮の新大橋 近く開通か"
+      "url": "https://news.yahoo.co.jp/pickup/6597670?source=rss",
+      "publishedAt": "2026-10-05T12:29:41.000Z",
+      "xQuery": "過去ナチス式敬礼 サモア首相謝罪"
     },
     {
       "time": "20:58",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "フジパン熊本工場 生産再開を断念"
     },
     {
-      "time": "17:43",
-      "title": "焼肉きんぐ 1078万人分の情報流出",
+      "time": "18:13",
+      "title": "草刈り中 パーキングでひかれ死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597644?source=rss",
-      "publishedAt": "2026-10-05T08:43:10.000Z",
-      "xQuery": "焼肉きんぐ 1078万人分の情報流出"
+      "url": "https://news.yahoo.co.jp/pickup/6597647?source=rss",
+      "publishedAt": "2026-10-05T09:13:58.000Z",
+      "xQuery": "草刈り中 パーキングでひかれ死亡"
     }
   ]
 };
