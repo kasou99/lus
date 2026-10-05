@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T04:30:16.805Z",
+  "updatedAt": "2026-10-05T05:32:01.113Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -10,11 +10,11 @@
         "publishedAt": "2026-10-04T20:00:00.000Z"
       },
       {
-        "time": "09:26",
-        "title": "日本のサーボモーター・ドライブ市場規模2026年～2033年：技術、展開、収益、最新トレ",
+        "time": "14:08",
+        "title": "日本電機制御盤市場の動向と収益予測：2026年から2033年までの年平均成長率（CAGR",
         "source": "pando.life",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9WS3FwMFBBSEZST3FMTGlQTGtwV2F4amg1N2s4Nk5aNURQSFoxRWNBNk00NTBtZ3FlRzl3MVlyTDZfYzdSNlM5eURn?oc=5",
-        "publishedAt": "2026-10-05T00:26:52.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE80TWI1RWd0UDA3b0ktYjJ4TjhuT3R6azhxRlRBMkNJTGhZQmczWE9xME9UR1VTel9hSTd1LV91eXNDMERHQ0JRdTBn?oc=5",
+        "publishedAt": "2026-10-05T05:08:05.000Z"
       },
       {
         "time": "05:00",
@@ -31,6 +31,13 @@
         "publishedAt": "2026-10-04T20:00:00.000Z"
       },
       {
+        "time": "09:26",
+        "title": "日本のサーボモーター・ドライブ市場規模2026年～2033年：技術、展開、収益、最新トレ",
+        "source": "pando.life",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9WS3FwMFBBSEZST3FMTGlQTGtwV2F4amg1N2s4Nk5aNURQSFoxRWNBNk00NTBtZ3FlRzl3MVlyTDZfYzdSNlM5eURn?oc=5",
+        "publishedAt": "2026-10-05T00:26:52.000Z"
+      },
+      {
         "time": "05:00",
         "title": "新刊／堀内公博著 『なぜ戦略は正しいのに成果があがらないのか？』",
         "source": "日刊工業新聞",
@@ -45,13 +52,6 @@
         "publishedAt": "2026-10-04T17:07:16.000Z"
       },
       {
-        "time": "15:20",
-        "title": "『京bizX』「ビジタネ」コーナーに日本電産マシンツールが登場！(2022年1月14日・21日放送) Seven Film (SKrEGCbse1)",
-        "source": "Unisba Media",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBTQ3F1akdJeFFlcnpjaW9Hdnh1b0k0cE5kQjY4QTNNenl0cWduTXZIakYxODlVajRJRTBYdU50SVNTTmRIOFlvZnFLTEdKUE95OHhnNS1iVVJaemE0NXEwVVdRdDFGR1JyYUNv?oc=5",
-        "publishedAt": "2026-10-04T06:20:42.000Z"
-      },
-      {
         "time": "12:00",
         "title": "縦型多穴加工機の世界市場（2026年～2032年）、市場規模（固定スピンドル式ギャングドリル、調整式スピンドル式ギャングドリル、CNC制御式ギャングドリル）・分析レポートを発表",
         "source": "アットプレス",
@@ -61,11 +61,11 @@
     ],
     "worldHeadlines": [
       {
-        "time": "12:01",
-        "title": "ブラジル大統領選 決選投票へ",
+        "time": "13:46",
+        "title": "機長襲撃 空港に墜落を計画と供述",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597597?source=rss",
-        "publishedAt": "2026-10-05T03:01:24.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6597609?source=rss",
+        "publishedAt": "2026-10-05T04:46:42.000Z"
       },
       {
         "time": "10:02",
@@ -96,14 +96,21 @@
         "publishedAt": "2026-10-05T01:49:08.000Z"
       },
       {
-        "time": "18:54",
-        "title": "独 ウに2400億円相当を追加支援へ",
+        "time": "12:01",
+        "title": "ブラジル大統領選 決選投票へ",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597536?source=rss",
-        "publishedAt": "2026-10-04T09:54:00.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6597597?source=rss",
+        "publishedAt": "2026-10-05T03:01:24.000Z"
       }
     ],
     "economyHeadlines": [
+      {
+        "time": "13:52",
+        "title": "安川電機前社長 小川昌寛さん死去",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6597610?source=rss",
+        "publishedAt": "2026-10-05T04:52:30.000Z"
+      },
       {
         "time": "10:51",
         "title": "日経平均が一時7万円台 3カ月ぶり",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6597603?source=rss",
         "publishedAt": "2026-10-05T03:30:24.000Z"
-      },
-      {
-        "time": "18:02",
-        "title": "サザン関口氏会社 申告漏れを謝罪",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597529?source=rss",
-        "publishedAt": "2026-10-04T09:02:05.000Z"
       }
     ],
     "localHeadlines": [
@@ -218,8 +218,8 @@
       },
       {
         "time": "16:00",
-        "title": "【2026年最新】中小企業向け補助金6制度まとめ｜締切・補助率・上限額一覧",
-        "source": "補助金ポータル",
+        "title": "【2026年最新】中小企業向け補助金6制度まとめ｜締切・補助率・上限額一覧 - hojyokin-portal.jp",
+        "source": "hojyokin-portal.jp",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Idm5vYjJtajVIYjhheTZVVTVQTXRXMndVNkRmWnVEZnZyNVRRV3ZncXZhREsxNXBqYXFZSlZmNHhLeHhkbUNRcXljRlJNWVh2ZmZrSXlsVVJsdGI5RGtBdmoxUGx1YlozMUE?oc=5",
         "publishedAt": "2026-09-30T07:00:00.000Z"
       }

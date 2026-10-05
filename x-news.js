@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-05T04:30:17.639Z",
+  "updatedAt": "2026-10-05T05:32:01.871Z",
   "items": [
     {
       "time": "12:09",
@@ -10,22 +10,6 @@ window.LUS_X_NEWS = {
       "xQuery": "人手不足倒産 上半期で過去最多"
     },
     {
-      "time": "12:01",
-      "title": "ブラジル大統領選 決選投票へ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597597?source=rss",
-      "publishedAt": "2026-10-05T03:01:24.000Z",
-      "xQuery": "ブラジル大統領選 決選投票へ"
-    },
-    {
-      "time": "11:59",
-      "title": "那覇強殺 知事上京し政府に抗議へ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597596?source=rss",
-      "publishedAt": "2026-10-05T02:59:54.000Z",
-      "xQuery": "那覇強殺 知事上京し政府に抗議へ"
-    },
-    {
       "time": "13:05",
       "title": "大和証券 顧客情報11万人分漏洩か",
       "source": "Yahoo!ニュース",
@@ -34,12 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "大和証券 顧客情報11万人分漏洩か"
     },
     {
-      "time": "12:39",
-      "title": "路線バスと車が衝突7人けが 金沢",
+      "time": "13:52",
+      "title": "安川電機前社長 小川昌寛さん死去",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597604?source=rss",
-      "publishedAt": "2026-10-05T03:39:11.000Z",
-      "xQuery": "路線バスと車が衝突7人けが 金沢"
+      "url": "https://news.yahoo.co.jp/pickup/6597610?source=rss",
+      "publishedAt": "2026-10-05T04:52:30.000Z",
+      "xQuery": "安川電機前社長 小川昌寛さん死去"
+    },
+    {
+      "time": "13:00",
+      "title": "ごみ袋1枚135円 財政危機の北見市",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6597606?source=rss",
+      "publishedAt": "2026-10-05T04:00:48.000Z",
+      "xQuery": "ごみ袋1枚135円 財政危機の北見市"
+    },
+    {
+      "time": "11:38",
+      "title": "就活生の公安庁ツアー応募増 驚き",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6597592?source=rss",
+      "publishedAt": "2026-10-05T02:38:10.000Z",
+      "xQuery": "就活生の公安庁ツアー応募増 驚き"
     }
   ]
 };
