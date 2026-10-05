@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-05T21:26:55.741Z",
+  "updatedAt": "2026-10-05T21:41:32.579Z",
   "groups": {
     "machineHeadlines": [
       {
         "time": "17:30",
         "title": "M2X、東京海上ホールディングスと業務提携…製造業の設備保全DXを共同推進",
-        "source": "response.jp",
+        "source": "レスポンス（Response.jp）",
         "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE80UWZHcHNGQXl0aUh3ejByNDJ1ZkMtYlcwcUxEY2tfQWZtbkhWd01LWS10OGJ3RzBrdjJNa3NhQV8wcl9oOWp4dkZ5VG9xUzhoc3JKMFQyV3daOUdXNmlr?oc=5",
         "publishedAt": "2026-10-05T08:30:04.000Z"
       },
@@ -19,7 +19,7 @@
       {
         "time": "16:55",
         "title": "ＩＤＥＣ急騰、通期営業利益予想を94億円に大幅増額",
-        "source": "BigGo ファイナンス",
+        "source": "finance.biggo.jp",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9WM2dpSUxtdVhtZjhrMUY1Z1N1WjRjUWVhYmhTQjZYVUJFSzZLLWg0N1hOdkJBM1RmcnBhSVh2VVI1VEFSMnAwRllFLUYxM3FhcXNsSTRTSEdTdXhGYWx0U3BuMHlvd0cweUJCeHBaMjFadG5m?oc=5",
         "publishedAt": "2026-10-05T07:55:00.000Z"
       },
@@ -61,6 +61,13 @@
     ],
     "worldHeadlines": [
       {
+        "time": "06:30",
+        "title": "露のペスト研究所員死亡 米が注視",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6597690?source=rss",
+        "publishedAt": "2026-10-05T21:30:32.000Z"
+      },
+      {
         "time": "20:59",
         "title": "土石流の捜索打ち切り ネパール",
         "source": "Yahoo!ニュース",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6597582?source=rss",
         "publishedAt": "2026-10-05T01:49:08.000Z"
-      },
-      {
-        "time": "12:01",
-        "title": "ブラジル大統領選 決選投票へ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597597?source=rss",
-        "publishedAt": "2026-10-05T03:01:24.000Z"
       }
     ],
     "economyHeadlines": [

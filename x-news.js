@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-05T21:26:56.964Z",
+  "updatedAt": "2026-10-05T21:41:33.162Z",
   "items": [
     {
       "time": "22:18",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "フジパン熊本工場 生産再開を断念"
     },
     {
+      "time": "06:30",
+      "title": "露のペスト研究所員死亡 米が注視",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6597690?source=rss",
+      "publishedAt": "2026-10-05T21:30:32.000Z",
+      "xQuery": "露のペスト研究所員死亡 米が注視"
+    },
+    {
       "time": "06:09",
       "title": "ハッカー集団メンバー 日本で拘束",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6597688?source=rss",
       "publishedAt": "2026-10-05T21:09:03.000Z",
       "xQuery": "ハッカー集団メンバー 日本で拘束"
-    },
-    {
-      "time": "22:49",
-      "title": "妻子殺害疑い 死亡の夫を書類送検",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597680?source=rss",
-      "publishedAt": "2026-10-05T13:49:00.000Z",
-      "xQuery": "妻子殺害疑い 死亡の夫を書類送検"
     },
     {
       "time": "23:38",
