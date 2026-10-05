@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-05T08:35:29.826Z",
+  "updatedAt": "2026-10-05T09:31:45.839Z",
   "items": [
     {
-      "time": "15:57",
-      "title": "予算カット発言 農相が撤回し謝罪",
+      "time": "17:39",
+      "title": "トリプル台風 今後の進路に注意",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597627?source=rss",
-      "publishedAt": "2026-10-05T06:57:48.000Z",
-      "xQuery": "予算カット発言 農相が撤回し謝罪"
+      "url": "https://news.yahoo.co.jp/pickup/6597640?source=rss",
+      "publishedAt": "2026-10-05T08:39:52.000Z",
+      "xQuery": "トリプル台風 今後の進路に注意"
     },
     {
-      "time": "15:39",
-      "title": "首相が所信表明 経済最優先を強調",
+      "time": "17:36",
+      "title": "スペイン 議会解散し11月に総選挙",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597623?source=rss",
-      "publishedAt": "2026-10-05T06:39:25.000Z",
-      "xQuery": "首相が所信表明 経済最優先を強調"
+      "url": "https://news.yahoo.co.jp/pickup/6597642?source=rss",
+      "publishedAt": "2026-10-05T08:36:41.000Z",
+      "xQuery": "スペイン 議会解散し11月に総選挙"
     },
     {
       "time": "16:29",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "強殺事件 在沖米軍トップ謝罪せず"
     },
     {
-      "time": "17:15",
-      "title": "出産した男児2人殺害疑い 母逮捕",
+      "time": "18:13",
+      "title": "草刈り中 パーキングでひかれ死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597635?source=rss",
-      "publishedAt": "2026-10-05T08:15:36.000Z",
-      "xQuery": "出産した男児2人殺害疑い 母逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6597647?source=rss",
+      "publishedAt": "2026-10-05T09:13:58.000Z",
+      "xQuery": "草刈り中 パーキングでひかれ死亡"
     },
     {
-      "time": "16:10",
-      "title": "シャウエッセン 実質値上げ発表",
+      "time": "17:52",
+      "title": "元SB選手の宮地克彦氏を不起訴",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597628?source=rss",
-      "publishedAt": "2026-10-05T07:10:45.000Z",
-      "xQuery": "シャウエッセン 実質値上げ発表"
+      "url": "https://news.yahoo.co.jp/pickup/6597645?source=rss",
+      "publishedAt": "2026-10-05T08:52:34.000Z",
+      "xQuery": "元SB選手の宮地克彦氏を不起訴"
     }
   ]
 };
