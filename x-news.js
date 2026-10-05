@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-05T13:47:43.058Z",
+  "updatedAt": "2026-10-05T14:23:11.521Z",
   "items": [
     {
       "time": "22:18",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "土石流の捜索打ち切り ネパール"
     },
     {
-      "time": "21:29",
-      "title": "過去ナチス式敬礼 サモア首相謝罪",
+      "time": "22:49",
+      "title": "妻子殺害疑い 死亡の夫を書類送検",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597670?source=rss",
-      "publishedAt": "2026-10-05T12:29:41.000Z",
-      "xQuery": "過去ナチス式敬礼 サモア首相謝罪"
+      "url": "https://news.yahoo.co.jp/pickup/6597680?source=rss",
+      "publishedAt": "2026-10-05T13:49:00.000Z",
+      "xQuery": "妻子殺害疑い 死亡の夫を書類送検"
     },
     {
       "time": "20:58",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "フジパン熊本工場 生産再開を断念"
     },
     {
-      "time": "18:13",
-      "title": "草刈り中 パーキングでひかれ死亡",
+      "time": "17:23",
+      "title": "Codex「今後28日間は毎日改善」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597647?source=rss",
-      "publishedAt": "2026-10-05T09:13:58.000Z",
-      "xQuery": "草刈り中 パーキングでひかれ死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6597638?source=rss",
+      "publishedAt": "2026-10-05T08:23:29.000Z",
+      "xQuery": "Codex「今後28日間は毎日改善」"
     }
   ]
 };
