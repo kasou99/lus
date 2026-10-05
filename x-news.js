@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-05T14:23:11.521Z",
+  "updatedAt": "2026-10-05T14:46:06.563Z",
   "items": [
     {
       "time": "22:18",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "首相所信表明 野党から批判相次ぐ"
     },
     {
-      "time": "20:59",
-      "title": "土石流の捜索打ち切り ネパール",
+      "time": "20:58",
+      "title": "フジパン熊本工場 生産再開を断念",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597668?source=rss",
-      "publishedAt": "2026-10-05T11:59:58.000Z",
-      "xQuery": "土石流の捜索打ち切り ネパール"
+      "url": "https://news.yahoo.co.jp/pickup/6597666?source=rss",
+      "publishedAt": "2026-10-05T11:58:26.000Z",
+      "xQuery": "フジパン熊本工場 生産再開を断念"
     },
     {
       "time": "22:49",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "妻子殺害疑い 死亡の夫を書類送検"
     },
     {
-      "time": "20:58",
-      "title": "フジパン熊本工場 生産再開を断念",
+      "time": "23:38",
+      "title": "トラックの資材落下 12台絡む事故",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597666?source=rss",
-      "publishedAt": "2026-10-05T11:58:26.000Z",
-      "xQuery": "フジパン熊本工場 生産再開を断念"
+      "url": "https://news.yahoo.co.jp/pickup/6597686?source=rss",
+      "publishedAt": "2026-10-05T14:38:13.000Z",
+      "xQuery": "トラックの資材落下 12台絡む事故"
     },
     {
-      "time": "17:23",
-      "title": "Codex「今後28日間は毎日改善」",
+      "time": "23:24",
+      "title": "塩野義 米バイオ医薬品企業買収へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597638?source=rss",
-      "publishedAt": "2026-10-05T08:23:29.000Z",
-      "xQuery": "Codex「今後28日間は毎日改善」"
+      "url": "https://news.yahoo.co.jp/pickup/6597685?source=rss",
+      "publishedAt": "2026-10-05T14:24:10.000Z",
+      "xQuery": "塩野義 米バイオ医薬品企業買収へ"
     }
   ]
 };

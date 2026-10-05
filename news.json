@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T14:23:10.523Z",
+  "updatedAt": "2026-10-05T14:46:05.978Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -13,7 +13,7 @@
         "time": "17:30",
         "title": "M2X、東京海上ホールディングスと業務提携…製造業の設備保全DXを共同推進",
         "source": "レスポンス（Response.jp）",
-        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9CTjNDMEcyaGdfRmNhWV82dFpNRi1wRTlmdnJWdlVxZ0ppLU0ybFU2X2xwMWt3OHRvV2VuUmh6cmFORW9saTJuSmNIN3dYU2RrZTlsUXI5S3BxbGFHN3ZNT2Nn?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE80UWZHcHNGQXl0aUh3ejByNDJ1ZkMtYlcwcUxEY2tfQWZtbkhWd01LWS10OGJ3RzBrdjJNa3NhQV8wcl9oOWp4dkZ5VG9xUzhoc3JKMFQyV3daOUdXNmlr?oc=5",
         "publishedAt": "2026-10-05T08:30:04.000Z"
       },
       {
@@ -31,9 +31,16 @@
         "publishedAt": "2026-10-05T05:08:05.000Z"
       },
       {
+        "time": "16:55",
+        "title": "ＩＤＥＣ急騰、通期営業利益予想を94億円に大幅増額",
+        "source": "BigGo ファイナンス",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9WM2dpSUxtdVhtZjhrMUY1Z1N1WjRjUWVhYmhTQjZYVUJFSzZLLWg0N1hOdkJBM1RmcnBhSVh2VVI1VEFSMnAwRllFLUYxM3FhcXNsSTRTSEdTdXhGYWx0U3BuMHlvd0cweUJCeHBaMjFadG5m?oc=5",
+        "publishedAt": "2026-10-05T07:55:00.000Z"
+      },
+      {
         "time": "05:00",
         "title": "ADASカメラの焦点ずれ防止 芝浦機械､ゆがまぬ金型加工",
-        "source": "nikkei.com",
+        "source": "日本経済新聞",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1BbGc5bGpoMDhqUVJUbnZFSVFKaWp3OUhabkZNQTVqNnBqZFhsNmhRYnM4eHU1c0RQRnFlMXNENUl2cl9Td3RnVmQ4Q3NCRE91Q1d5LUVqRDhWM1lCMERwaVNBYTZndHFzTTQxTlF0a0tITXNDcEdvSkZFal8zaGs?oc=5",
         "publishedAt": "2026-10-04T20:00:00.000Z"
       },
@@ -47,16 +54,9 @@
       {
         "time": "11:45",
         "title": "切削CAEソフトウェアのThird Wave Systemsが、JIMTOF 2026に出展",
-        "source": "Infoseek",
+        "source": "news.infoseek.co.jp",
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1hM2ZhdWt0OUg1MlNJWnBwbUtVUEY4WjU2MmU3bWZrUWs1UEluRDZjOFh4TnY1X0VxeU9UTHZzU0lOMVNVYkhPckRJU2w2clJwRUY0bmUxX3ptVHg2SnI5NzZ0UGFybU1XMEdCNzZqSkd6dw?oc=5",
         "publishedAt": "2026-10-05T02:45:23.000Z"
-      },
-      {
-        "time": "09:26",
-        "title": "日本のサーボモーター・ドライブ市場規模2026年～2033年：技術、展開、収益、最新トレ",
-        "source": "pando.life",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9WS3FwMFBBSEZST3FMTGlQTGtwV2F4amg1N2s4Nk5aNURQSFoxRWNBNk00NTBtZ3FlRzl3MVlyTDZfYzdSNlM5eURn?oc=5",
-        "publishedAt": "2026-10-05T00:26:52.000Z"
       }
     ],
     "worldHeadlines": [
@@ -119,18 +119,18 @@
         "publishedAt": "2026-10-05T11:58:26.000Z"
       },
       {
+        "time": "23:24",
+        "title": "塩野義 米バイオ医薬品企業買収へ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6597685?source=rss",
+        "publishedAt": "2026-10-05T14:24:10.000Z"
+      },
+      {
         "time": "12:09",
         "title": "人手不足倒産 上半期で過去最多",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6597600?source=rss",
         "publishedAt": "2026-10-05T03:09:24.000Z"
-      },
-      {
-        "time": "11:05",
-        "title": "フィジカルAIで異業種連携相次ぐ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597586?source=rss",
-        "publishedAt": "2026-10-05T02:05:18.000Z"
       },
       {
         "time": "16:10",
@@ -184,11 +184,11 @@
         "publishedAt": "2026-10-05T09:13:58.000Z"
       },
       {
-        "time": "22:49",
-        "title": "妻子殺害疑い 死亡の夫を書類送検",
+        "time": "23:38",
+        "title": "トラックの資材落下 12台絡む事故",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597680?source=rss",
-        "publishedAt": "2026-10-05T13:49:00.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6597686?source=rss",
+        "publishedAt": "2026-10-05T14:38:13.000Z"
       }
     ],
     "subsidyHeadlines": [
@@ -218,8 +218,8 @@
       },
       {
         "time": "16:00",
-        "title": "【2026年最新】中小企業向け補助金6制度まとめ｜締切・補助率・上限額一覧 - hojyokin-portal.jp",
-        "source": "hojyokin-portal.jp",
+        "title": "【2026年最新】中小企業向け補助金6制度まとめ｜締切・補助率・上限額一覧",
+        "source": "補助金ポータル",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Idm5vYjJtajVIYjhheTZVVTVQTXRXMndVNkRmWnVEZnZyNVRRV3ZncXZhREsxNXBqYXFZSlZmNHhLeHhkbUNRcXljRlJNWVh2ZmZrSXlsVVJsdGI5RGtBdmoxUGx1YlozMUE?oc=5",
         "publishedAt": "2026-09-30T07:00:00.000Z"
       }
