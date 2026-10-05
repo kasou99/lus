@@ -1,20 +1,13 @@
 {
-  "updatedAt": "2026-10-05T19:52:13.145Z",
+  "updatedAt": "2026-10-05T20:20:36.246Z",
   "groups": {
     "machineHeadlines": [
       {
         "time": "17:30",
         "title": "M2X、東京海上ホールディングスと業務提携…製造業の設備保全DXを共同推進",
-        "source": "レスポンス（Response.jp）",
+        "source": "response.jp",
         "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE80UWZHcHNGQXl0aUh3ejByNDJ1ZkMtYlcwcUxEY2tfQWZtbkhWd01LWS10OGJ3RzBrdjJNa3NhQV8wcl9oOWp4dkZ5VG9xUzhoc3JKMFQyV3daOUdXNmlr?oc=5",
         "publishedAt": "2026-10-05T08:30:04.000Z"
-      },
-      {
-        "time": "05:00",
-        "title": "萩原エレクトロニクス 設備保全サービス提供へ 製造業のデータ活用支援",
-        "source": "中部経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9Cei16SkpWN0lNWTBzWlBxcVhFZ3VYNzBnYTdndDJDT1dfRlNjQ2RLdXozeDgzTmZVVVNjemFocFZiSTZlTlllVVVqZmRQaFVvWUtSUDljTEEyQXNReU1RVGJjbzVYclpKa0k0ckZfeVFIRFU?oc=5",
-        "publishedAt": "2026-10-04T20:00:00.000Z"
       },
       {
         "time": "14:08",
@@ -38,11 +31,18 @@
         "publishedAt": "2026-10-05T06:30:00.000Z"
       },
       {
-        "time": "05:00",
-        "title": "ADASカメラの焦点ずれ防止 芝浦機械､ゆがまぬ金型加工",
-        "source": "日本経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1BbGc5bGpoMDhqUVJUbnZFSVFKaWp3OUhabkZNQTVqNnBqZFhsNmhRYnM4eHU1c0RQRnFlMXNENUl2cl9Td3RnVmQ4Q3NCRE91Q1d5LUVqRDhWM1lCMERwaVNBYTZndHFzTTQxTlF0a0tITXNDcEdvSkZFal8zaGs?oc=5",
-        "publishedAt": "2026-10-04T20:00:00.000Z"
+        "time": "12:00",
+        "title": "縦型多穴加工機の世界市場（2026年～2032年）、市場規模（固定スピンドル式ギャングドリル、調整式スピンドル式ギャングドリル、CNC制御式ギャングドリル）・分析レポートを発表",
+        "source": "アットプレス",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBFVjJHYkZ6QlhEb3dkTGxvakRoWl9QSjZlZXRtalV6RWNHMzFaZXplUmx3eFR1dUhBWFFLQWhGd1QxY192RjNMcDJHVzcySmc?oc=5",
+        "publishedAt": "2026-10-05T03:00:00.000Z"
+      },
+      {
+        "time": "10:28",
+        "title": "IDECが上場来高値更新､27年3月期業績予想を上方修正",
+        "source": "四季報オンライン",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ZTzBPVlk3T2EzUDdBYVhhWk1XVkxmUEQ4RmlIbE9paDFxNGZROXFGNmdyWVFiVUI2LVZSMGkxYmIzRXdfYms1V2tlUjhqcGR2QlBYZHA5OA?oc=5",
+        "publishedAt": "2026-10-05T01:28:33.000Z"
       },
       {
         "time": "11:45",
@@ -52,11 +52,11 @@
         "publishedAt": "2026-10-05T02:45:23.000Z"
       },
       {
-        "time": "05:00",
-        "title": "新刊／堀内公博著 『なぜ戦略は正しいのに成果があがらないのか？』",
-        "source": "nikkan.co.jp",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE91Q2hYd0xMbTFwaGlIY055ZjAyLV9peElXNmpGcVAwcTRINVVUTGVtRkN3SlFkbWhRamo3cWRTTFNIZlV3MUo0Tkltd1BJWmZidlZVQWxxb01JWS1HcWdEWEVzbzd3dlhBOGp1eV9zbw?oc=5",
-        "publishedAt": "2026-10-04T20:00:00.000Z"
+        "time": "05:23",
+        "title": "萩原エレクトロニクス 設備保全サービス提供へ 製造業のデータ活用支援",
+        "source": "ｄメニューニュース",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcWhTN0JSbVNEMWNoY1hrUVpERTM4aFlUNDlmblc2WTRRTGRjemRlbTkyRUNPS0djOE5SSThYUzRoWm1DT21uQ0lMZ1Q0NGZGZmtNQ0JmamlMR0trRDB1TXBWdXkyeVYtU2lGX3ZIbHlpVXNYQlpwZjE1V1Q0MzZpQm9NdHVWbXI1Q3M1WE5zbGdrVElBR0wxVFEwRk4wRDhl0gGTAUFVX3lxTE5pWmkwUEhaMElRbnJWMEpjN19GMTk2YXZwbXhUalRiVmQ2MEh2aElLdnpyRExfbHVEdC1CVE1BOWc1RS13amN1RnpseEV6WldCSVlzYnZ4RkNNXzR2a21lRTBOckoyYzBFRERPTUxUY0tBRkdfMU5zem5vcU5OUWZwYlZlaGdtMnRFQkVZdWNMVndZOA?oc=5",
+        "publishedAt": "2026-10-04T20:23:31.000Z"
       }
     ],
     "worldHeadlines": [
@@ -218,8 +218,8 @@
       },
       {
         "time": "16:00",
-        "title": "【2026年最新】中小企業向け補助金6制度まとめ｜締切・補助率・上限額一覧",
-        "source": "補助金ポータル",
+        "title": "【2026年最新】中小企業向け補助金6制度まとめ｜締切・補助率・上限額一覧 - hojyokin-portal.jp",
+        "source": "hojyokin-portal.jp",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Idm5vYjJtajVIYjhheTZVVTVQTXRXMndVNkRmWnVEZnZyNVRRV3ZncXZhREsxNXBqYXFZSlZmNHhLeHhkbUNRcXljRlJNWVh2ZmZrSXlsVVJsdGI5RGtBdmoxUGx1YlozMUE?oc=5",
         "publishedAt": "2026-09-30T07:00:00.000Z"
       }
