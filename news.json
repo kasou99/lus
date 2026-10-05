@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-10-05T21:41:32.579Z",
+  "updatedAt": "2026-10-05T22:17:33.518Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "07:00",
+        "title": "〈工作機械受注〉夏枯れかき消し絶好調継続､8月は前年比164.7％で過去2位の1978億円､外需は過去最高を更新",
+        "source": "東洋経済オンライン",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1LZjhmVDRFbm53MnpiaEV5b2dzSFhOOVhwcGNtd24zVlFBa1puVUlXVUVPTXktaGRpT3pGd0ZsdTZ1VVpseXJfNkNmUjBya09YTUFNTzlkbzM1RG1tbHVr?oc=5",
+        "publishedAt": "2026-10-05T22:00:00.000Z"
+      },
       {
         "time": "17:30",
         "title": "M2X、東京海上ホールディングスと業務提携…製造業の設備保全DXを共同推進",
@@ -19,7 +26,7 @@
       {
         "time": "16:55",
         "title": "ＩＤＥＣ急騰、通期営業利益予想を94億円に大幅増額",
-        "source": "finance.biggo.jp",
+        "source": "BigGo ファイナンス",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9WM2dpSUxtdVhtZjhrMUY1Z1N1WjRjUWVhYmhTQjZYVUJFSzZLLWg0N1hOdkJBM1RmcnBhSVh2VVI1VEFSMnAwRllFLUYxM3FhcXNsSTRTSEdTdXhGYWx0U3BuMHlvd0cweUJCeHBaMjFadG5m?oc=5",
         "publishedAt": "2026-10-05T07:55:00.000Z"
       },
@@ -38,13 +45,6 @@
         "publishedAt": "2026-10-05T03:00:00.000Z"
       },
       {
-        "time": "10:28",
-        "title": "IDECが上場来高値更新､27年3月期業績予想を上方修正",
-        "source": "四季報オンライン",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ZTzBPVlk3T2EzUDdBYVhhWk1XVkxmUEQ4RmlIbE9paDFxNGZROXFGNmdyWVFiVUI2LVZSMGkxYmIzRXdfYms1V2tlUjhqcGR2QlBYZHA5OA?oc=5",
-        "publishedAt": "2026-10-05T01:28:33.000Z"
-      },
-      {
         "time": "11:45",
         "title": "切削CAEソフトウェアのThird Wave Systemsが、JIMTOF 2026に出展",
         "source": "Infoseek",
@@ -54,12 +54,19 @@
       {
         "time": "23:15",
         "title": "産業用製品比較販売サービス「メトリー」、佐々木希さんを起用した新広告を、都営地下鉄にて掲出開始",
-        "source": "ニコニコニュース",
+        "source": "news.nicovideo.jp",
         "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1mYjdpNzBVeGZSZi01THB5RGtrMEZaYVFNTFltTTl5UnFDOUxpcXVvS2JsMjdUdVFnUktNWDRUekVLTXZ1ZTdKMVNOcllYRi1IdENWbmNKZ3BqZ0RGd3JxaEM5YlpjaU5XYk5ObGk3RlNjYnpfSWNkRjdDcw?oc=5",
         "publishedAt": "2026-10-05T14:15:34.000Z"
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "06:45",
+        "title": "米兵逮捕 米メディアも相次ぎ報道",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6597691?source=rss",
+        "publishedAt": "2026-10-05T21:45:07.000Z"
+      },
       {
         "time": "06:30",
         "title": "露のペスト研究所員死亡 米が注視",
@@ -80,13 +87,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6597609?source=rss",
         "publishedAt": "2026-10-05T04:46:42.000Z"
-      },
-      {
-        "time": "10:02",
-        "title": "米軍 英空軍基地から爆撃機を撤収",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597578?source=rss",
-        "publishedAt": "2026-10-05T01:02:51.000Z"
       },
       {
         "time": "15:09",

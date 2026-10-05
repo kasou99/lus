@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-05T21:41:33.162Z",
+  "updatedAt": "2026-10-05T22:17:34.258Z",
   "items": [
     {
       "time": "22:18",
@@ -18,6 +18,14 @@ window.LUS_X_NEWS = {
       "xQuery": "フジパン熊本工場 生産再開を断念"
     },
     {
+      "time": "06:45",
+      "title": "米兵逮捕 米メディアも相次ぎ報道",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6597691?source=rss",
+      "publishedAt": "2026-10-05T21:45:07.000Z",
+      "xQuery": "米兵逮捕 米メディアも相次ぎ報道"
+    },
+    {
       "time": "06:30",
       "title": "露のペスト研究所員死亡 米が注視",
       "source": "Yahoo!ニュース",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6597688?source=rss",
       "publishedAt": "2026-10-05T21:09:03.000Z",
       "xQuery": "ハッカー集団メンバー 日本で拘束"
-    },
-    {
-      "time": "23:38",
-      "title": "トラックの資材落下 12台絡む事故",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597686?source=rss",
-      "publishedAt": "2026-10-05T14:38:13.000Z",
-      "xQuery": "トラックの資材落下 12台絡む事故"
     }
   ]
 };
