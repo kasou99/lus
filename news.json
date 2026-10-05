@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T11:42:05.945Z",
+  "updatedAt": "2026-10-05T12:30:57.857Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -61,6 +61,13 @@
     ],
     "worldHeadlines": [
       {
+        "time": "20:59",
+        "title": "土石流の捜索打ち切り ネパール",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6597668?source=rss",
+        "publishedAt": "2026-10-05T11:59:58.000Z"
+      },
+      {
         "time": "13:46",
         "title": "機長襲撃 空港に墜落を計画と供述",
         "source": "Yahoo!ニュース",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6597563?source=rss",
         "publishedAt": "2026-10-04T21:47:44.000Z"
-      },
-      {
-        "time": "10:49",
-        "title": "イエメン フーシ派へ軍事作戦開始",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597582?source=rss",
-        "publishedAt": "2026-10-05T01:49:08.000Z"
       }
     ],
     "economyHeadlines": [
@@ -112,11 +112,11 @@
         "publishedAt": "2026-10-05T09:51:28.000Z"
       },
       {
-        "time": "13:52",
-        "title": "安川電機前社長 小川昌寛さん死去",
+        "time": "20:58",
+        "title": "フジパン熊本工場 生産再開を断念",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597610?source=rss",
-        "publishedAt": "2026-10-05T04:52:30.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6597666?source=rss",
+        "publishedAt": "2026-10-05T11:58:26.000Z"
       },
       {
         "time": "12:09",

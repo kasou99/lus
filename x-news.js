@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-05T11:42:06.675Z",
+  "updatedAt": "2026-10-05T12:30:58.435Z",
   "items": [
+    {
+      "time": "20:59",
+      "title": "土石流の捜索打ち切り ネパール",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6597668?source=rss",
+      "publishedAt": "2026-10-05T11:59:58.000Z",
+      "xQuery": "土石流の捜索打ち切り ネパール"
+    },
     {
       "time": "19:24",
       "title": "ノーベル生理医学賞 米・独の3人",
@@ -18,20 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "「没入型」新感覚の防災訓練 狙い"
     },
     {
-      "time": "18:13",
-      "title": "草刈り中 パーキングでひかれ死亡",
+      "time": "20:58",
+      "title": "フジパン熊本工場 生産再開を断念",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597647?source=rss",
-      "publishedAt": "2026-10-05T09:13:58.000Z",
-      "xQuery": "草刈り中 パーキングでひかれ死亡"
-    },
-    {
-      "time": "17:43",
-      "title": "焼肉きんぐ 1078万人分の情報流出",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597644?source=rss",
-      "publishedAt": "2026-10-05T08:43:10.000Z",
-      "xQuery": "焼肉きんぐ 1078万人分の情報流出"
+      "url": "https://news.yahoo.co.jp/pickup/6597666?source=rss",
+      "publishedAt": "2026-10-05T11:58:26.000Z",
+      "xQuery": "フジパン熊本工場 生産再開を断念"
     },
     {
       "time": "18:08",
