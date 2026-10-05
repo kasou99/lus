@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-05T11:18:00.862Z",
+  "updatedAt": "2026-10-05T11:42:06.675Z",
   "items": [
     {
       "time": "19:24",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "ノーベル生理医学賞 米・独の3人"
     },
     {
-      "time": "17:39",
-      "title": "トリプル台風 今後の進路に注意",
+      "time": "20:01",
+      "title": "「没入型」新感覚の防災訓練 狙い",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597640?source=rss",
-      "publishedAt": "2026-10-05T08:39:52.000Z",
-      "xQuery": "トリプル台風 今後の進路に注意"
+      "url": "https://news.yahoo.co.jp/pickup/6597660?source=rss",
+      "publishedAt": "2026-10-05T11:01:40.000Z",
+      "xQuery": "「没入型」新感覚の防災訓練 狙い"
     },
     {
       "time": "18:13",
