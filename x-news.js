@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-05T10:22:33.563Z",
+  "updatedAt": "2026-10-05T10:44:49.660Z",
   "items": [
+    {
+      "time": "19:24",
+      "title": "ノーベル生理医学賞 米・独の3人",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6597657?source=rss",
+      "publishedAt": "2026-10-05T10:24:48.000Z",
+      "xQuery": "ノーベル生理医学賞 米・独の3人"
+    },
     {
       "time": "17:39",
       "title": "トリプル台風 今後の進路に注意",
@@ -18,14 +26,6 @@ window.LUS_X_NEWS = {
       "xQuery": "東海汽船・山崎社長が辞任へ 引責"
     },
     {
-      "time": "16:29",
-      "title": "強殺事件 在沖米軍トップ謝罪せず",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597631?source=rss",
-      "publishedAt": "2026-10-05T07:29:14.000Z",
-      "xQuery": "強殺事件 在沖米軍トップ謝罪せず"
-    },
-    {
       "time": "18:13",
       "title": "草刈り中 パーキングでひかれ死亡",
       "source": "Yahoo!ニュース",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "草刈り中 パーキングでひかれ死亡"
     },
     {
-      "time": "18:43",
-      "title": "東レの工場で爆発3人けが 滋賀",
+      "time": "17:43",
+      "title": "焼肉きんぐ 1078万人分の情報流出",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597653?source=rss",
-      "publishedAt": "2026-10-05T09:43:13.000Z",
-      "xQuery": "東レの工場で爆発3人けが 滋賀"
+      "url": "https://news.yahoo.co.jp/pickup/6597644?source=rss",
+      "publishedAt": "2026-10-05T08:43:10.000Z",
+      "xQuery": "焼肉きんぐ 1078万人分の情報流出"
     }
   ]
 };
