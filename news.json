@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T00:57:34.037Z",
+  "updatedAt": "2026-10-05T01:42:41.663Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -61,6 +61,13 @@
     ],
     "worldHeadlines": [
       {
+        "time": "10:02",
+        "title": "米軍 英空軍基地から爆撃機を撤収",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6597578?source=rss",
+        "publishedAt": "2026-10-05T01:02:51.000Z"
+      },
+      {
         "time": "21:54",
         "title": "ブラジル大統領選 決選投票の公算",
         "source": "Yahoo!ニュース",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6597522?source=rss",
         "publishedAt": "2026-10-04T08:07:45.000Z"
-      },
-      {
-        "time": "15:32",
-        "title": "副操縦士襲撃 緊迫の状況語る機長",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597506?source=rss",
-        "publishedAt": "2026-10-04T06:32:44.000Z"
       }
     ],
     "economyHeadlines": [
@@ -170,13 +170,6 @@
         "publishedAt": "2026-10-05T00:46:10.000Z"
       },
       {
-        "time": "06:11",
-        "title": "知人女性の腹刺した疑い 男を逮捕",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597560?source=rss",
-        "publishedAt": "2026-10-04T21:11:35.000Z"
-      },
-      {
         "time": "06:19",
         "title": "駐車場で親子3人に車衝突 父重傷",
         "source": "Yahoo!ニュース",
@@ -189,6 +182,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6597547?source=rss",
         "publishedAt": "2026-10-04T11:33:46.000Z"
+      },
+      {
+        "time": "22:30",
+        "title": "遮断器ない踏切 15歳はねられ死亡",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6597556?source=rss",
+        "publishedAt": "2026-10-04T13:30:39.000Z"
       }
     ],
     "subsidyHeadlines": [

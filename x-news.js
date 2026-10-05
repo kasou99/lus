@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-05T00:57:34.552Z",
+  "updatedAt": "2026-10-05T01:42:42.593Z",
   "items": [
     {
       "time": "07:55",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "DV被害者らの情報漏洩 5年で68件"
     },
     {
-      "time": "07:43",
-      "title": "AI自動運航船 自衛隊に導入へ",
+      "time": "10:02",
+      "title": "米軍 英空軍基地から爆撃機を撤収",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597567?source=rss",
-      "publishedAt": "2026-10-04T22:43:34.000Z",
-      "xQuery": "AI自動運航船 自衛隊に導入へ"
+      "url": "https://news.yahoo.co.jp/pickup/6597578?source=rss",
+      "publishedAt": "2026-10-05T01:02:51.000Z",
+      "xQuery": "米軍 英空軍基地から爆撃機を撤収"
     },
     {
       "time": "09:34",
