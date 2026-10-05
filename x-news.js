@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-05T12:30:58.435Z",
+  "updatedAt": "2026-10-05T13:25:57.235Z",
   "items": [
     {
       "time": "20:59",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "土石流の捜索打ち切り ネパール"
     },
     {
-      "time": "19:24",
-      "title": "ノーベル生理医学賞 米・独の3人",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597657?source=rss",
-      "publishedAt": "2026-10-05T10:24:48.000Z",
-      "xQuery": "ノーベル生理医学賞 米・独の3人"
-    },
-    {
       "time": "20:01",
       "title": "「没入型」新感覚の防災訓練 狙い",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6597660?source=rss",
       "publishedAt": "2026-10-05T11:01:40.000Z",
       "xQuery": "「没入型」新感覚の防災訓練 狙い"
+    },
+    {
+      "time": "21:58",
+      "title": "中国-北朝鮮の新大橋 近く開通か",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6597675?source=rss",
+      "publishedAt": "2026-10-05T12:58:10.000Z",
+      "xQuery": "中国-北朝鮮の新大橋 近く開通か"
     },
     {
       "time": "20:58",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "フジパン熊本工場 生産再開を断念"
     },
     {
-      "time": "18:08",
-      "title": "稼ぎより家族 時短選んだ父の不安",
+      "time": "17:43",
+      "title": "焼肉きんぐ 1078万人分の情報流出",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597646?source=rss",
-      "publishedAt": "2026-10-05T09:08:13.000Z",
-      "xQuery": "稼ぎより家族 時短選んだ父の不安"
+      "url": "https://news.yahoo.co.jp/pickup/6597644?source=rss",
+      "publishedAt": "2026-10-05T08:43:10.000Z",
+      "xQuery": "焼肉きんぐ 1078万人分の情報流出"
     }
   ]
 };
