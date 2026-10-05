@@ -1,29 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-05T22:39:20.180Z",
+  "updatedAt": "2026-10-05T23:16:50.623Z",
   "items": [
     {
-      "time": "22:18",
-      "title": "首相所信表明 野党から批判相次ぐ",
+      "time": "07:58",
+      "title": "関東など暑さ戻る 気温変化大きく",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597677?source=rss",
-      "publishedAt": "2026-10-05T13:18:57.000Z",
-      "xQuery": "首相所信表明 野党から批判相次ぐ"
-    },
-    {
-      "time": "20:58",
-      "title": "フジパン熊本工場 生産再開を断念",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597666?source=rss",
-      "publishedAt": "2026-10-05T11:58:26.000Z",
-      "xQuery": "フジパン熊本工場 生産再開を断念"
-    },
-    {
-      "time": "06:45",
-      "title": "米兵逮捕 米メディアも相次ぎ報道",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597691?source=rss",
-      "publishedAt": "2026-10-05T21:45:07.000Z",
-      "xQuery": "米兵逮捕 米メディアも相次ぎ報道"
+      "url": "https://news.yahoo.co.jp/pickup/6597698?source=rss",
+      "publishedAt": "2026-10-05T22:58:15.000Z",
+      "xQuery": "関東など暑さ戻る 気温変化大きく"
     },
     {
       "time": "07:23",
@@ -34,12 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "NY州で緊急事態宣言 はしか増加"
     },
     {
+      "time": "06:45",
+      "title": "米兵逮捕 米メディアも相次ぎ報道",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6597691?source=rss",
+      "publishedAt": "2026-10-05T21:45:07.000Z",
+      "xQuery": "米兵逮捕 米メディアも相次ぎ報道"
+    },
+    {
       "time": "06:30",
       "title": "露のペスト研究所員死亡 米が注視",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6597690?source=rss",
       "publishedAt": "2026-10-05T21:30:32.000Z",
       "xQuery": "露のペスト研究所員死亡 米が注視"
+    },
+    {
+      "time": "06:09",
+      "title": "ハッカー集団メンバー 日本で拘束",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6597688?source=rss",
+      "publishedAt": "2026-10-05T21:09:03.000Z",
+      "xQuery": "ハッカー集団メンバー 日本で拘束"
     }
   ]
 };
