@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-05T22:17:34.258Z",
+  "updatedAt": "2026-10-05T22:39:20.180Z",
   "items": [
     {
       "time": "22:18",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "米兵逮捕 米メディアも相次ぎ報道"
     },
     {
+      "time": "07:23",
+      "title": "NY州で緊急事態宣言 はしか増加",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6597694?source=rss",
+      "publishedAt": "2026-10-05T22:23:55.000Z",
+      "xQuery": "NY州で緊急事態宣言 はしか増加"
+    },
+    {
       "time": "06:30",
       "title": "露のペスト研究所員死亡 米が注視",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6597690?source=rss",
       "publishedAt": "2026-10-05T21:30:32.000Z",
       "xQuery": "露のペスト研究所員死亡 米が注視"
-    },
-    {
-      "time": "06:09",
-      "title": "ハッカー集団メンバー 日本で拘束",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597688?source=rss",
-      "publishedAt": "2026-10-05T21:09:03.000Z",
-      "xQuery": "ハッカー集団メンバー 日本で拘束"
     }
   ]
 };

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T22:17:33.518Z",
+  "updatedAt": "2026-10-05T22:39:19.461Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,11 +17,18 @@
         "publishedAt": "2026-10-05T08:30:04.000Z"
       },
       {
-        "time": "14:08",
-        "title": "日本電機制御盤市場の動向と収益予測：2026年から2033年までの年平均成長率（CAGR",
+        "time": "23:27",
+        "title": "【9/16（水）11:00‐】次世代設備保全クラウド「M2X」で何ができる？無料オンラインデモセミナー開催",
+        "source": "朝日新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBTWDhoSnk2STBHcERodFViWklsV3NseXNoY3pVYnQyY0NKMGJaU2gwTEEyY0tBRDFDTWpRenFaUVlDRXl3S1I4U19zOEEwcGMyNE14U1hfZWtQaVk?oc=5",
+        "publishedAt": "2026-10-05T14:27:37.000Z"
+      },
+      {
+        "time": "06:27",
+        "title": "CNC自動旋盤市場の進展：2026年から2033年にかけて、年間平均成長率（CAGR）7",
         "source": "pando.life",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE80TWI1RWd0UDA3b0ktYjJ4TjhuT3R6azhxRlRBMkNJTGhZQmczWE9xME9UR1VTel9hSTd1LV91eXNDMERHQ0JRdTBn?oc=5",
-        "publishedAt": "2026-10-05T05:08:05.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE95dzdIWnRVTWZOMmdnUzY1c1N2aGx0Tjc0V3F1QlFFRzNXOGp6ZHpwYUdQanFaUmt4czkwV0Iwd1gyNllXVE9qcXlB?oc=5",
+        "publishedAt": "2026-10-05T21:27:56.000Z"
       },
       {
         "time": "16:55",
@@ -40,7 +47,7 @@
       {
         "time": "12:00",
         "title": "縦型多穴加工機の世界市場（2026年～2032年）、市場規模（固定スピンドル式ギャングドリル、調整式スピンドル式ギャングドリル、CNC制御式ギャングドリル）・分析レポートを発表",
-        "source": "アットプレス",
+        "source": "atpress.ne.jp",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBFVjJHYkZ6QlhEb3dkTGxvakRoWl9QSjZlZXRtalV6RWNHMzFaZXplUmx3eFR1dUhBWFFLQWhGd1QxY192RjNMcDJHVzcySmc?oc=5",
         "publishedAt": "2026-10-05T03:00:00.000Z"
       },
@@ -50,16 +57,16 @@
         "source": "Infoseek",
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1hM2ZhdWt0OUg1MlNJWnBwbUtVUEY4WjU2MmU3bWZrUWs1UEluRDZjOFh4TnY1X0VxeU9UTHZzU0lOMVNVYkhPckRJU2w2clJwRUY0bmUxX3ptVHg2SnI5NzZ0UGFybU1XMEdCNzZqSkd6dw?oc=5",
         "publishedAt": "2026-10-05T02:45:23.000Z"
-      },
-      {
-        "time": "23:15",
-        "title": "産業用製品比較販売サービス「メトリー」、佐々木希さんを起用した新広告を、都営地下鉄にて掲出開始",
-        "source": "news.nicovideo.jp",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1mYjdpNzBVeGZSZi01THB5RGtrMEZaYVFNTFltTTl5UnFDOUxpcXVvS2JsMjdUdVFnUktNWDRUekVLTXZ1ZTdKMVNOcllYRi1IdENWbmNKZ3BqZ0RGd3JxaEM5YlpjaU5XYk5ObGk3RlNjYnpfSWNkRjdDcw?oc=5",
-        "publishedAt": "2026-10-05T14:15:34.000Z"
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "07:23",
+        "title": "NY州で緊急事態宣言 はしか増加",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6597694?source=rss",
+        "publishedAt": "2026-10-05T22:23:55.000Z"
+      },
       {
         "time": "06:45",
         "title": "米兵逮捕 米メディアも相次ぎ報道",
@@ -80,13 +87,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6597668?source=rss",
         "publishedAt": "2026-10-05T11:59:58.000Z"
-      },
-      {
-        "time": "13:46",
-        "title": "機長襲撃 空港に墜落を計画と供述",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597609?source=rss",
-        "publishedAt": "2026-10-05T04:46:42.000Z"
       },
       {
         "time": "15:09",
