@@ -1,14 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-06T11:41:32.811Z",
+  "updatedAt": "2026-10-06T12:28:11.969Z",
   "items": [
-    {
-      "time": "19:18",
-      "title": "ノーベル物理学賞 米大教授が受賞",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597783?source=rss",
-      "publishedAt": "2026-10-06T10:18:47.000Z",
-      "xQuery": "ノーベル物理学賞 米大教授が受賞"
-    },
     {
       "time": "17:50",
       "title": "シチズン 約10万人分情報漏えいか",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6597787?source=rss",
       "publishedAt": "2026-10-06T11:17:50.000Z",
       "xQuery": "沖縄強殺 被害女性中傷に知事苦言"
+    },
+    {
+      "time": "16:23",
+      "title": "モバイルSuicaのteppay 20日開始",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6597759?source=rss",
+      "publishedAt": "2026-10-06T07:23:32.000Z",
+      "xQuery": "モバイルSuicaのteppay 20日開始"
     }
   ]
 };
