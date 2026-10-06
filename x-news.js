@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-06T14:43:10.238Z",
+  "updatedAt": "2026-10-06T15:17:42.626Z",
   "items": [
+    {
+      "time": "23:54",
+      "title": "沖縄の米軍関係者 48時間活動停止",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6597806?source=rss",
+      "publishedAt": "2026-10-06T14:54:27.000Z",
+      "xQuery": "沖縄の米軍関係者 48時間活動停止"
+    },
     {
       "time": "22:19",
       "title": "首相 米に日朝首脳会談の仲介要請",
@@ -10,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "首相 米に日朝首脳会談の仲介要請"
     },
     {
-      "time": "18:38",
-      "title": "韓国「金」で兵役特例 公平性疑問",
+      "time": "23:43",
+      "title": "台風で高波 西湘バイパス通行止め",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597770?source=rss",
-      "publishedAt": "2026-10-06T09:38:20.000Z",
-      "xQuery": "韓国「金」で兵役特例 公平性疑問"
+      "url": "https://news.yahoo.co.jp/pickup/6597805?source=rss",
+      "publishedAt": "2026-10-06T14:43:49.000Z",
+      "xQuery": "台風で高波 西湘バイパス通行止め"
     },
     {
       "time": "23:18",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6597794?source=rss",
       "publishedAt": "2026-10-06T13:10:05.000Z",
       "xQuery": "男児殺害疑い 育てる意思なかった"
-    },
-    {
-      "time": "23:14",
-      "title": "シルバーカーはまり電車衝突 死亡",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597801?source=rss",
-      "publishedAt": "2026-10-06T14:14:23.000Z",
-      "xQuery": "シルバーカーはまり電車衝突 死亡"
     }
   ]
 };
