@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-06T07:25:01.637Z",
+  "updatedAt": "2026-10-06T07:47:13.524Z",
   "items": [
     {
       "time": "14:32",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "不明邦人捜索継続 ネパールに要請"
     },
     {
+      "time": "16:26",
+      "title": "10年物国債 表面利率を年3.1%に",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6597758?source=rss",
+      "publishedAt": "2026-10-06T07:26:11.000Z",
+      "xQuery": "10年物国債 表面利率を年3.1%に"
+    },
+    {
       "time": "14:01",
       "title": "AI政策の司令塔 米大統領なぜ設置",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6597733?source=rss",
       "publishedAt": "2026-10-06T05:01:43.000Z",
       "xQuery": "AI政策の司令塔 米大統領なぜ設置"
-    },
-    {
-      "time": "12:09",
-      "title": "マスク氏 再び資産額1兆ドルに",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597734?source=rss",
-      "publishedAt": "2026-10-06T03:09:55.000Z",
-      "xQuery": "マスク氏 再び資産額1兆ドルに"
     },
     {
       "time": "15:25",
