@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-06T11:16:51.661Z",
+  "updatedAt": "2026-10-06T11:41:31.822Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -12,9 +12,16 @@
       {
         "time": "07:00",
         "title": "〈工作機械受注〉夏枯れかき消し絶好調継続､8月は前年比164.7％で過去2位の1978億円､外需は過去最高を更新",
-        "source": "東洋経済オンライン",
+        "source": "toyokeizai.net",
         "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1LZjhmVDRFbm53MnpiaEV5b2dzSFhOOVhwcGNtd24zVlFBa1puVUlXVUVPTXktaGRpT3pGd0ZsdTZ1VVpseXJfNkNmUjBya09YTUFNTzlkbzM1RG1tbHVr?oc=5",
         "publishedAt": "2026-10-05T22:00:00.000Z"
+      },
+      {
+        "time": "20:38",
+        "title": "8月機械受注（除船電民需）前月比は2カ月ぶりの増加に。関連データの工作機械受注（国内向け）8月は前年同月を大幅に上回る。日本の主要経済指標予測（2026年10月6日）―｜宅森昭吉（景気探検家・エコノミスト）",
+        "source": "note",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9LY3hhVjNsYW1iTEQ0dWFMV0R1UU9NMVNLTjdvZjNCQk9ReVJNWnl4Sk9BTlVON3Y5TW40eXV0dGhQUjB0QWZ6VC13RHJGekF4NXF4eDBBZkpQZUYtRGc?oc=5",
+        "publishedAt": "2026-10-06T11:38:03.000Z"
       },
       {
         "time": "13:45",
@@ -38,11 +45,11 @@
         "publishedAt": "2026-10-06T07:27:44.000Z"
       },
       {
-        "time": "10:00",
-        "title": "けいはんな学研都市の企業5社が共同出展 モノづくりフェア2026で独自の技術・製品を展示",
-        "source": "アットプレス",
-        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE45N2ZjZkx5N2pxMUJnVHgtcHJSTnI1ckFMUG8wRzgtYkhfYlUtRDJZbzNTcjRzaEN6RmQxTlVDX2RiazY2MXNzcUNma0NNZw?oc=5",
-        "publishedAt": "2026-10-06T01:00:00.000Z"
+        "time": "05:00",
+        "title": "富士フイルムBI、複合機起点にDX支援 クラウド利用10倍に",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1YZTg0Ymc3bHB6SHRYb1IydnBfbjEteVNpejN1NzZZdzQ1V1UzRF9TRzRqR0FfeWlrN3BhcF85bFJSR2xFdDV6Z25fNklpM3ZfTUo1a1FXZHE?oc=5",
+        "publishedAt": "2026-10-05T20:00:00.000Z"
       },
       {
         "time": "23:27",
@@ -50,13 +57,6 @@
         "source": "朝日新聞",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBTWDhoSnk2STBHcERodFViWklsV3NseXNoY3pVYnQyY0NKMGJaU2gwTEEyY0tBRDFDTWpRenFaUVlDRXl3S1I4U19zOEEwcGMyNE14U1hfZWtQaVk?oc=5",
         "publishedAt": "2026-10-05T14:27:37.000Z"
-      },
-      {
-        "time": "05:00",
-        "title": "富士フイルムBI、複合機起点にDX支援 クラウド利用10倍に",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1YZTg0Ymc3bHB6SHRYb1IydnBfbjEteVNpejN1NzZZdzQ1V1UzRF9TRzRqR0FfeWlrN3BhcF85bFJSR2xFdDV6Z25fNklpM3ZfTUo1a1FXZHE?oc=5",
-        "publishedAt": "2026-10-05T20:00:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -170,6 +170,13 @@
         "publishedAt": "2026-10-06T03:34:12.000Z"
       },
       {
+        "time": "20:17",
+        "title": "沖縄強殺 被害女性中傷に知事苦言",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6597787?source=rss",
+        "publishedAt": "2026-10-06T11:17:50.000Z"
+      },
+      {
         "time": "17:18",
         "title": "放課後クラブ 約50人が盗撮被害か",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6597780?source=rss",
         "publishedAt": "2026-10-06T10:12:49.000Z"
-      },
-      {
-        "time": "12:20",
-        "title": "子馬に虐待疑い 牧場など書類送検",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597740?source=rss",
-        "publishedAt": "2026-10-06T03:20:33.000Z"
       }
     ],
     "subsidyHeadlines": [

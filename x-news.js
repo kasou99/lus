@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-06T11:16:52.446Z",
+  "updatedAt": "2026-10-06T11:41:32.811Z",
   "items": [
     {
       "time": "19:18",
@@ -8,14 +8,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6597783?source=rss",
       "publishedAt": "2026-10-06T10:18:47.000Z",
       "xQuery": "ノーベル物理学賞 米大教授が受賞"
-    },
-    {
-      "time": "19:02",
-      "title": "海上に台風 関東7日まで高波警戒",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597781?source=rss",
-      "publishedAt": "2026-10-06T10:02:23.000Z",
-      "xQuery": "海上に台風 関東7日まで高波警戒"
     },
     {
       "time": "17:50",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6597782?source=rss",
       "publishedAt": "2026-10-06T10:51:52.000Z",
       "xQuery": "箱乗りさせ事故 殺人未遂疑い逮捕"
+    },
+    {
+      "time": "20:17",
+      "title": "沖縄強殺 被害女性中傷に知事苦言",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6597787?source=rss",
+      "publishedAt": "2026-10-06T11:17:50.000Z",
+      "xQuery": "沖縄強殺 被害女性中傷に知事苦言"
     }
   ]
 };
