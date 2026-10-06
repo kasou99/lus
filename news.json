@@ -1,13 +1,20 @@
 {
-  "updatedAt": "2026-10-06T00:51:52.973Z",
+  "updatedAt": "2026-10-06T01:34:50.056Z",
   "groups": {
     "machineHeadlines": [
       {
         "time": "07:00",
         "title": "〈工作機械受注〉夏枯れかき消し絶好調継続､8月は前年比164.7％で過去2位の1978億円､外需は過去最高を更新",
-        "source": "東洋経済オンライン",
+        "source": "toyokeizai.net",
         "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1LZjhmVDRFbm53MnpiaEV5b2dzSFhOOVhwcGNtd24zVlFBa1puVUlXVUVPTXktaGRpT3pGd0ZsdTZ1VVpseXJfNkNmUjBya09YTUFNTzlkbzM1RG1tbHVr?oc=5",
         "publishedAt": "2026-10-05T22:00:00.000Z"
+      },
+      {
+        "time": "09:00",
+        "title": "【業界特化調査 第17弾】AI検索パートナーズ（TechSuite株式会社）、工作機械選びのAI検索対策（LLMO/AIO/GEO/AEO）調査を実施｜首位の登場率は72.2%",
+        "source": "PR TIMES",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBaSEh4MjF4V1NITUs5b3V5aXFYVGFQNHdydnU5TkFoM2JVaWQ3bE1OUnNqUkVyWU84aElLRlBNTmNrRkJuZEpIUExsYWg5S3JFRm8tNllsVHZBNndBVVdtS25aazc2Qm12NkE?oc=5",
+        "publishedAt": "2026-10-06T00:00:02.000Z"
       },
       {
         "time": "17:30",
@@ -15,6 +22,13 @@
         "source": "レスポンス（Response.jp）",
         "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE80UWZHcHNGQXl0aUh3ejByNDJ1ZkMtYlcwcUxEY2tfQWZtbkhWd01LWS10OGJ3RzBrdjJNa3NhQV8wcl9oOWp4dkZ5VG9xUzhoc3JKMFQyV3daOUdXNmlr?oc=5",
         "publishedAt": "2026-10-05T08:30:04.000Z"
+      },
+      {
+        "time": "23:27",
+        "title": "【9/16（水）11:00‐】次世代設備保全クラウド「M2X」で何ができる？無料オンラインデモセミナー開催",
+        "source": "朝日新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBTWDhoSnk2STBHcERodFViWklsV3NseXNoY3pVYnQyY0NKMGJaU2gwTEEyY0tBRDFDTWpRenFaUVlDRXl3S1I4U19zOEEwcGMyNE14U1hfZWtQaVk?oc=5",
+        "publishedAt": "2026-10-05T14:27:37.000Z"
       },
       {
         "time": "05:00",
@@ -33,7 +47,7 @@
       {
         "time": "16:55",
         "title": "ＩＤＥＣ急騰、通期営業利益予想を94億円に大幅増額",
-        "source": "finance.biggo.jp",
+        "source": "BigGo ファイナンス",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9WM2dpSUxtdVhtZjhrMUY1Z1N1WjRjUWVhYmhTQjZYVUJFSzZLLWg0N1hOdkJBM1RmcnBhSVh2VVI1VEFSMnAwRllFLUYxM3FhcXNsSTRTSEdTdXhGYWx0U3BuMHlvd0cweUJCeHBaMjFadG5m?oc=5",
         "publishedAt": "2026-10-05T07:55:00.000Z"
       },
@@ -43,23 +57,16 @@
         "source": "Newscast.jp",
         "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9xVHdZNEh4UTVKNTYySERFZkY2TFEtbGlqQ2x6ckRkNXNKQ1NnbzBJQUVkay1DMWxXcFBZMGFrOVVselhmUzQ4?oc=5",
         "publishedAt": "2026-10-05T06:30:00.000Z"
-      },
-      {
-        "time": "12:00",
-        "title": "縦型多穴加工機の世界市場（2026年～2032年）、市場規模（固定スピンドル式ギャングドリル、調整式スピンドル式ギャングドリル、CNC制御式ギャングドリル）・分析レポートを発表",
-        "source": "アットプレス",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBFVjJHYkZ6QlhEb3dkTGxvakRoWl9QSjZlZXRtalV6RWNHMzFaZXplUmx3eFR1dUhBWFFLQWhGd1QxY192RjNMcDJHVzcySmc?oc=5",
-        "publishedAt": "2026-10-05T03:00:00.000Z"
-      },
-      {
-        "time": "11:45",
-        "title": "切削CAEソフトウェアのThird Wave Systemsが、JIMTOF 2026に出展",
-        "source": "Infoseek",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1hM2ZhdWt0OUg1MlNJWnBwbUtVUEY4WjU2MmU3bWZrUWs1UEluRDZjOFh4TnY1X0VxeU9UTHZzU0lOMVNVYkhPckRJU2w2clJwRUY0bmUxX3ptVHg2SnI5NzZ0UGFybU1XMEdCNzZqSkd6dw?oc=5",
-        "publishedAt": "2026-10-05T02:45:23.000Z"
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "10:23",
+        "title": "日本の制裁受け 露が対抗措置表明",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6597713?source=rss",
+        "publishedAt": "2026-10-06T01:23:30.000Z"
+      },
       {
         "time": "07:23",
         "title": "NY州で緊急事態宣言 はしか増加",
@@ -89,18 +96,11 @@
         "publishedAt": "2026-10-05T21:30:32.000Z"
       },
       {
-        "time": "20:59",
-        "title": "土石流の捜索打ち切り ネパール",
+        "time": "10:00",
+        "title": "米の公立学校で「禁書」が大幅増",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597668?source=rss",
-        "publishedAt": "2026-10-05T11:59:58.000Z"
-      },
-      {
-        "time": "15:09",
-        "title": "海外の米基地に脅威 日本への教訓",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597619?source=rss",
-        "publishedAt": "2026-10-05T06:09:41.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6597710?source=rss",
+        "publishedAt": "2026-10-06T01:00:29.000Z"
       }
     ],
     "economyHeadlines": [
@@ -163,13 +163,6 @@
         "publishedAt": "2026-10-06T00:02:09.000Z"
       },
       {
-        "time": "11:59",
-        "title": "那覇強殺 知事上京し政府に抗議へ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597596?source=rss",
-        "publishedAt": "2026-10-05T02:59:54.000Z"
-      },
-      {
         "time": "09:16",
         "title": "男性を襲い腕時計奪う 男2人逃走",
         "source": "Yahoo!ニュース",
@@ -189,6 +182,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6597686?source=rss",
         "publishedAt": "2026-10-05T14:38:13.000Z"
+      },
+      {
+        "time": "22:49",
+        "title": "妻子殺害疑い 死亡の夫を書類送検",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6597680?source=rss",
+        "publishedAt": "2026-10-05T13:49:00.000Z"
       }
     ],
     "subsidyHeadlines": [

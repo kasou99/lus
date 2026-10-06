@@ -1,29 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-06T00:51:53.669Z",
+  "updatedAt": "2026-10-06T01:34:51.282Z",
   "items": [
     {
-      "time": "07:58",
-      "title": "関東など暑さ戻る 気温変化大きく",
+      "time": "10:23",
+      "title": "日本の制裁受け 露が対抗措置表明",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597698?source=rss",
-      "publishedAt": "2026-10-05T22:58:15.000Z",
-      "xQuery": "関東など暑さ戻る 気温変化大きく"
+      "url": "https://news.yahoo.co.jp/pickup/6597713?source=rss",
+      "publishedAt": "2026-10-06T01:23:30.000Z",
+      "xQuery": "日本の制裁受け 露が対抗措置表明"
     },
     {
-      "time": "08:44",
-      "title": "印旛沼決壊 難防除雑草が拡散恐れ",
+      "time": "08:25",
+      "title": "サウジ 集団防衛態勢へ直ちに移行",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597703?source=rss",
-      "publishedAt": "2026-10-05T23:44:54.000Z",
-      "xQuery": "印旛沼決壊 難防除雑草が拡散恐れ"
-    },
-    {
-      "time": "07:23",
-      "title": "NY州で緊急事態宣言 はしか増加",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597694?source=rss",
-      "publishedAt": "2026-10-05T22:23:55.000Z",
-      "xQuery": "NY州で緊急事態宣言 はしか増加"
+      "url": "https://news.yahoo.co.jp/pickup/6597702?source=rss",
+      "publishedAt": "2026-10-05T23:25:37.000Z",
+      "xQuery": "サウジ 集団防衛態勢へ直ちに移行"
     },
     {
       "time": "09:16",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6597705?source=rss",
       "publishedAt": "2026-10-06T00:02:09.000Z",
       "xQuery": "逮捕の米兵 被害者と18キロ移動か"
+    },
+    {
+      "time": "10:00",
+      "title": "米の公立学校で「禁書」が大幅増",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6597710?source=rss",
+      "publishedAt": "2026-10-06T01:00:29.000Z",
+      "xQuery": "米の公立学校で「禁書」が大幅増"
     }
   ]
 };
