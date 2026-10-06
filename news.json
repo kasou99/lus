@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-06T21:39:47.714Z",
+  "updatedAt": "2026-10-06T22:18:24.425Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -22,13 +22,6 @@
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBzU081dWhyOFZRSmRKQy1wZ0dQeWdKaGc1bGVURFdicFNCcDdueUJjREpIMlp0WWI1MkNPZVFFTTdOUFJRVU9JbjVuejZCNUJUdjJxa082LXo?oc=5",
         "publishedAt": "2026-10-06T20:00:00.000Z"
-      },
-      {
-        "time": "07:00",
-        "title": "〈工作機械受注〉夏枯れかき消し絶好調継続､8月は前年比164.7％で過去2位の1978億円､外需は過去最高を更新",
-        "source": "東洋経済オンライン",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1LZjhmVDRFbm53MnpiaEV5b2dzSFhOOVhwcGNtd24zVlFBa1puVUlXVUVPTXktaGRpT3pGd0ZsdTZ1VVpseXJfNkNmUjBya09YTUFNTzlkbzM1RG1tbHVr?oc=5",
-        "publishedAt": "2026-10-05T22:00:00.000Z"
       },
       {
         "time": "20:38",
@@ -57,6 +50,13 @@
         "source": "pando.life",
         "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE8tdDJlSWF1dGF4VkYzdHYtMkl0UmZ2amJDcXJsMUN4Rl9QdGR1TVM3ZE1HTmEzSzc2d0owcjRoTXFaN2w1Q1ZzWldB?oc=5",
         "publishedAt": "2026-10-06T07:27:44.000Z"
+      },
+      {
+        "time": "10:00",
+        "title": "けいはんな学研都市の企業5社が共同出展 モノづくりフェア2026で独自の技術・製品を展示",
+        "source": "アットプレス",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE45N2ZjZkx5N2pxMUJnVHgtcHJSTnI1ckFMUG8wRzgtYkhfYlUtRDJZbzNTcjRzaEN6RmQxTlVDX2RiazY2MXNzcUNma0NNZw?oc=5",
+        "publishedAt": "2026-10-06T01:00:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -149,18 +149,18 @@
     ],
     "localHeadlines": [
       {
+        "time": "20:17",
+        "title": "沖縄強殺 被害女性中傷に知事苦言",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6597787?source=rss",
+        "publishedAt": "2026-10-06T11:17:50.000Z"
+      },
+      {
         "time": "19:51",
         "title": "箱乗りさせ事故 殺人未遂疑い逮捕",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6597782?source=rss",
         "publishedAt": "2026-10-06T10:51:52.000Z"
-      },
-      {
-        "time": "21:25",
-        "title": "駐車場出る車と衝突か 2歳児死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597792?source=rss",
-        "publishedAt": "2026-10-06T12:25:35.000Z"
       },
       {
         "time": "22:10",
@@ -170,18 +170,18 @@
         "publishedAt": "2026-10-06T13:10:05.000Z"
       },
       {
-        "time": "20:17",
-        "title": "沖縄強殺 被害女性中傷に知事苦言",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597787?source=rss",
-        "publishedAt": "2026-10-06T11:17:50.000Z"
-      },
-      {
         "time": "23:14",
         "title": "シルバーカーはまり電車衝突 死亡",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6597801?source=rss",
         "publishedAt": "2026-10-06T14:14:23.000Z"
+      },
+      {
+        "time": "06:55",
+        "title": "ヘアピンカーブで横転 高校生死傷",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6597812?source=rss",
+        "publishedAt": "2026-10-06T21:55:48.000Z"
       },
       {
         "time": "17:18",

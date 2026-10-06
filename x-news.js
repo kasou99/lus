@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-06T21:39:48.426Z",
+  "updatedAt": "2026-10-06T22:18:25.482Z",
   "items": [
     {
       "time": "23:54",
@@ -8,14 +8,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6597806?source=rss",
       "publishedAt": "2026-10-06T14:54:27.000Z",
       "xQuery": "沖縄の米軍関係者 48時間活動停止"
-    },
-    {
-      "time": "22:19",
-      "title": "首相 米に日朝首脳会談の仲介要請",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597796?source=rss",
-      "publishedAt": "2026-10-06T13:19:48.000Z",
-      "xQuery": "首相 米に日朝首脳会談の仲介要請"
     },
     {
       "time": "23:43",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6597801?source=rss",
       "publishedAt": "2026-10-06T14:14:23.000Z",
       "xQuery": "シルバーカーはまり電車衝突 死亡"
+    },
+    {
+      "time": "06:55",
+      "title": "ヘアピンカーブで横転 高校生死傷",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6597812?source=rss",
+      "publishedAt": "2026-10-06T21:55:48.000Z",
+      "xQuery": "ヘアピンカーブで横転 高校生死傷"
     }
   ]
 };
