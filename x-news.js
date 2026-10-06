@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-06T08:25:26.895Z",
+  "updatedAt": "2026-10-06T08:48:15.233Z",
   "items": [
     {
       "time": "16:26",
@@ -8,6 +8,22 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6597758?source=rss",
       "publishedAt": "2026-10-06T07:26:11.000Z",
       "xQuery": "10年物国債 表面利率を年3.1%に"
+    },
+    {
+      "time": "17:05",
+      "title": "国内不正アクセス 過去最多ペース",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6597763?source=rss",
+      "publishedAt": "2026-10-06T08:05:29.000Z",
+      "xQuery": "国内不正アクセス 過去最多ペース"
+    },
+    {
+      "time": "12:53",
+      "title": "子に体罰して自己嫌悪 親の葛藤",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6597743?source=rss",
+      "publishedAt": "2026-10-06T03:53:45.000Z",
+      "xQuery": "子に体罰して自己嫌悪 親の葛藤"
     },
     {
       "time": "16:51",
@@ -24,22 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6597767?source=rss",
       "publishedAt": "2026-10-06T08:18:52.000Z",
       "xQuery": "放課後クラブ 約50人が盗撮被害か"
-    },
-    {
-      "time": "15:25",
-      "title": "ピアニストの反田恭平氏 在宅起訴",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597753?source=rss",
-      "publishedAt": "2026-10-06T06:25:28.000Z",
-      "xQuery": "ピアニストの反田恭平氏 在宅起訴"
-    },
-    {
-      "time": "16:52",
-      "title": "ゆうちょATM ファミマ順次終了へ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597764?source=rss",
-      "publishedAt": "2026-10-06T07:52:38.000Z",
-      "xQuery": "ゆうちょATM ファミマ順次終了へ"
     }
   ]
 };

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-06T08:25:25.827Z",
+  "updatedAt": "2026-10-06T08:48:14.248Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,6 +38,13 @@
         "publishedAt": "2026-10-06T07:27:44.000Z"
       },
       {
+        "time": "10:00",
+        "title": "けいはんな学研都市の企業5社が共同出展 モノづくりフェア2026で独自の技術・製品を展示",
+        "source": "アットプレス",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE45N2ZjZkx5N2pxMUJnVHgtcHJSTnI1ckFMUG8wRzgtYkhfYlUtRDJZbzNTcjRzaEN6RmQxTlVDX2RiazY2MXNzcUNma0NNZw?oc=5",
+        "publishedAt": "2026-10-06T01:00:00.000Z"
+      },
+      {
         "time": "10:33",
         "title": "プレスリリース PRTIMES記事詳細 | さんにちEye 山梨日日新聞デジタル",
         "source": "sannichi.co.jp",
@@ -50,13 +57,6 @@
         "source": "Infoseek",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBWTm0weUNlZFBUcXZjcERzT1NtTXlNajZYNmRFc1BMVFFsN1hLTnNQbUZTdU8zX0E0RjRDMDJ1Qm1ycF8tNmtudUswRnRlWGN6TzVtcEpoY1NsSjlPZ0kxeXByeGttSkpqZW9z?oc=5",
         "publishedAt": "2026-10-06T00:55:00.000Z"
-      },
-      {
-        "time": "23:27",
-        "title": "【9/16（水）11:00‐】次世代設備保全クラウド「M2X」で何ができる？無料オンラインデモセミナー開催",
-        "source": "朝日新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBTWDhoSnk2STBHcERodFViWklsV3NseXNoY3pVYnQyY0NKMGJaU2gwTEEyY0tBRDFDTWpRenFaUVlDRXl3S1I4U19zOEEwcGMyNE14U1hfZWtQaVk?oc=5",
-        "publishedAt": "2026-10-05T14:27:37.000Z"
       }
     ],
     "worldHeadlines": [
@@ -149,11 +149,11 @@
     ],
     "localHeadlines": [
       {
-        "time": "11:28",
-        "title": "被告とAIの会話履歴 検察証拠活用",
+        "time": "17:40",
+        "title": "発進時衝突か 2歳児はねられ死亡",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597721?source=rss",
-        "publishedAt": "2026-10-06T02:28:22.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6597769?source=rss",
+        "publishedAt": "2026-10-06T08:40:18.000Z"
       },
       {
         "time": "10:49",
