@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-06T02:28:45.572Z",
+  "updatedAt": "2026-10-06T02:51:32.508Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "11:28",
+        "title": "被告とAIの会話履歴 検察証拠活用",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6597721?source=rss",
+        "publishedAt": "2026-10-06T02:28:22.000Z"
+      },
+      {
         "time": "06:09",
         "title": "ハッカー集団メンバー 日本で拘束",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6597686?source=rss",
         "publishedAt": "2026-10-05T14:38:13.000Z"
-      },
-      {
-        "time": "22:49",
-        "title": "妻子殺害疑い 死亡の夫を書類送検",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597680?source=rss",
-        "publishedAt": "2026-10-05T13:49:00.000Z"
       }
     ],
     "subsidyHeadlines": [
