@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-06T02:51:33.187Z",
+  "updatedAt": "2026-10-06T03:22:51.707Z",
   "items": [
     {
       "time": "11:15",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "危険アンダーパスに遮断機 国交省"
     },
     {
-      "time": "10:49",
-      "title": "那覇強殺事件 短時間で犯行か",
+      "time": "11:00",
+      "title": "なぜ不正アクセス急増 識者の見解",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597717?source=rss",
-      "publishedAt": "2026-10-06T01:49:01.000Z",
-      "xQuery": "那覇強殺事件 短時間で犯行か"
+      "url": "https://news.yahoo.co.jp/pickup/6597718?source=rss",
+      "publishedAt": "2026-10-06T02:00:42.000Z",
+      "xQuery": "なぜ不正アクセス急増 識者の見解"
     },
     {
       "time": "10:23",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "3度浸水のラーメン店 再開に行列"
     },
     {
-      "time": "10:00",
-      "title": "米の公立学校で「禁書」が大幅増",
+      "time": "11:09",
+      "title": "「eスカイ」11月発売 軽EVで最安",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597710?source=rss",
-      "publishedAt": "2026-10-06T01:00:29.000Z",
-      "xQuery": "米の公立学校で「禁書」が大幅増"
+      "url": "https://news.yahoo.co.jp/pickup/6597719?source=rss",
+      "publishedAt": "2026-10-06T02:09:01.000Z",
+      "xQuery": "「eスカイ」11月発売 軽EVで最安"
     }
   ]
 };
