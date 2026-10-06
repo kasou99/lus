@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-06T12:52:26.391Z",
+  "updatedAt": "2026-10-06T13:20:23.456Z",
   "items": [
     {
       "time": "17:50",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "シチズン 約10万人分情報漏えいか"
     },
     {
-      "time": "18:49",
-      "title": "元軍医に銃殺刑 トランプ氏が承認",
+      "time": "18:38",
+      "title": "韓国「金」で兵役特例 公平性疑問",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597779?source=rss",
-      "publishedAt": "2026-10-06T09:49:42.000Z",
-      "xQuery": "元軍医に銃殺刑 トランプ氏が承認"
+      "url": "https://news.yahoo.co.jp/pickup/6597770?source=rss",
+      "publishedAt": "2026-10-06T09:38:20.000Z",
+      "xQuery": "韓国「金」で兵役特例 公平性疑問"
     },
     {
       "time": "19:51",
