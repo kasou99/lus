@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-06T22:18:25.482Z",
+  "updatedAt": "2026-10-06T22:40:49.000Z",
   "items": [
     {
-      "time": "23:54",
-      "title": "沖縄の米軍関係者 48時間活動停止",
+      "time": "07:15",
+      "title": "自衛隊に原潜導入 検討案が浮上",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597806?source=rss",
-      "publishedAt": "2026-10-06T14:54:27.000Z",
-      "xQuery": "沖縄の米軍関係者 48時間活動停止"
+      "url": "https://news.yahoo.co.jp/pickup/6597813?source=rss",
+      "publishedAt": "2026-10-06T22:15:35.000Z",
+      "xQuery": "自衛隊に原潜導入 検討案が浮上"
     },
     {
       "time": "23:43",
@@ -16,14 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6597805?source=rss",
       "publishedAt": "2026-10-06T14:43:49.000Z",
       "xQuery": "台風で高波 西湘バイパス通行止め"
-    },
-    {
-      "time": "22:10",
-      "title": "男児殺害疑い 育てる意思なかった",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597794?source=rss",
-      "publishedAt": "2026-10-06T13:10:05.000Z",
-      "xQuery": "男児殺害疑い 育てる意思なかった"
     },
     {
       "time": "23:14",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6597812?source=rss",
       "publishedAt": "2026-10-06T21:55:48.000Z",
       "xQuery": "ヘアピンカーブで横転 高校生死傷"
+    },
+    {
+      "time": "23:36",
+      "title": "旭化成子会社 55万人分情報流出か",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6597804?source=rss",
+      "publishedAt": "2026-10-06T14:36:26.000Z",
+      "xQuery": "旭化成子会社 55万人分情報流出か"
     }
   ]
 };
