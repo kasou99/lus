@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-06T20:43:08.787Z",
+  "updatedAt": "2026-10-06T21:16:52.663Z",
   "items": [
     {
       "time": "23:54",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "台風で高波 西湘バイパス通行止め"
     },
     {
-      "time": "23:18",
-      "title": "日販 米AI企業への書籍販売認める",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597802?source=rss",
-      "publishedAt": "2026-10-06T14:18:41.000Z",
-      "xQuery": "日販 米AI企業への書籍販売認める"
-    },
-    {
       "time": "22:10",
       "title": "男児殺害疑い 育てる意思なかった",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6597794?source=rss",
       "publishedAt": "2026-10-06T13:10:05.000Z",
       "xQuery": "男児殺害疑い 育てる意思なかった"
+    },
+    {
+      "time": "23:14",
+      "title": "シルバーカーはまり電車衝突 死亡",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6597801?source=rss",
+      "publishedAt": "2026-10-06T14:14:23.000Z",
+      "xQuery": "シルバーカーはまり電車衝突 死亡"
     }
   ]
 };
