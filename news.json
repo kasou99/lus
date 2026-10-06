@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-06T18:22:57.970Z",
+  "updatedAt": "2026-10-06T18:47:22.257Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -45,18 +45,18 @@
         "publishedAt": "2026-10-06T07:27:44.000Z"
       },
       {
-        "time": "10:00",
-        "title": "けいはんな学研都市の企業5社が共同出展 モノづくりフェア2026で独自の技術・製品を展示",
-        "source": "アットプレス",
-        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE45N2ZjZkx5N2pxMUJnVHgtcHJSTnI1ckFMUG8wRzgtYkhfYlUtRDJZbzNTcjRzaEN6RmQxTlVDX2RiazY2MXNzcUNma0NNZw?oc=5",
-        "publishedAt": "2026-10-06T01:00:00.000Z"
-      },
-      {
         "time": "05:00",
         "title": "富士フイルムBI、複合機起点にDX支援 クラウド利用10倍に",
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1YZTg0Ymc3bHB6SHRYb1IydnBfbjEteVNpejN1NzZZdzQ1V1UzRF9TRzRqR0FfeWlrN3BhcF85bFJSR2xFdDV6Z25fNklpM3ZfTUo1a1FXZHE?oc=5",
         "publishedAt": "2026-10-05T20:00:00.000Z"
+      },
+      {
+        "time": "11:03",
+        "title": "日本のサーボモーター・ドライブ市場に関する包括的概要：成長要因と2026年から2033年",
+        "source": "pando.life",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBjNXg4bWh0RXRfVmlwV3JTQ1RSSFdpeS1HSzF3bTBuVFBTME1kc1Z3UVJiVnVqOHFpVGJVazZ5OV9qNDMydE1XM013?oc=5",
+        "publishedAt": "2026-10-06T02:03:29.000Z"
       }
     ],
     "worldHeadlines": [
