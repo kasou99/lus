@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-06T08:48:15.233Z",
+  "updatedAt": "2026-10-06T09:21:43.442Z",
   "items": [
+    {
+      "time": "18:18",
+      "title": "避難所ガチャ「TKB」現地の課題",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6597778?source=rss",
+      "publishedAt": "2026-10-06T09:18:39.000Z",
+      "xQuery": "避難所ガチャ「TKB」現地の課題"
+    },
     {
       "time": "16:26",
       "title": "10年物国債 表面利率を年3.1%に",
@@ -8,14 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6597758?source=rss",
       "publishedAt": "2026-10-06T07:26:11.000Z",
       "xQuery": "10年物国債 表面利率を年3.1%に"
-    },
-    {
-      "time": "17:05",
-      "title": "国内不正アクセス 過去最多ペース",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597763?source=rss",
-      "publishedAt": "2026-10-06T08:05:29.000Z",
-      "xQuery": "国内不正アクセス 過去最多ペース"
     },
     {
       "time": "12:53",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "子に体罰して自己嫌悪 親の葛藤"
     },
     {
-      "time": "16:51",
-      "title": "小沢一郎氏が無所属に 新党を模索",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597761?source=rss",
-      "publishedAt": "2026-10-06T07:51:42.000Z",
-      "xQuery": "小沢一郎氏が無所属に 新党を模索"
-    },
-    {
       "time": "17:18",
       "title": "放課後クラブ 約50人が盗撮被害か",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6597767?source=rss",
       "publishedAt": "2026-10-06T08:18:52.000Z",
       "xQuery": "放課後クラブ 約50人が盗撮被害か"
+    },
+    {
+      "time": "17:40",
+      "title": "発進時衝突か 2歳児はねられ死亡",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6597769?source=rss",
+      "publishedAt": "2026-10-06T08:40:18.000Z",
+      "xQuery": "発進時衝突か 2歳児はねられ死亡"
     }
   ]
 };
