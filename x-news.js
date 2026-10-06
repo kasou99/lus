@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-06T03:48:16.415Z",
+  "updatedAt": "2026-10-06T04:22:41.193Z",
   "items": [
     {
       "time": "11:15",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "危険アンダーパスに遮断機 国交省"
     },
     {
+      "time": "12:58",
+      "title": "簗氏を「応援」した自治体 予算増",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6597744?source=rss",
+      "publishedAt": "2026-10-06T03:58:09.000Z",
+      "xQuery": "簗氏を「応援」した自治体 予算増"
+    },
+    {
       "time": "11:00",
       "title": "なぜ不正アクセス急増 識者の見解",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6597718?source=rss",
       "publishedAt": "2026-10-06T02:00:42.000Z",
       "xQuery": "なぜ不正アクセス急増 識者の見解"
-    },
-    {
-      "time": "10:23",
-      "title": "日本の制裁受け 露が対抗措置表明",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597713?source=rss",
-      "publishedAt": "2026-10-06T01:23:30.000Z",
-      "xQuery": "日本の制裁受け 露が対抗措置表明"
     },
     {
       "time": "12:28",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "MrMax 最大173万人分の情報流出"
     },
     {
-      "time": "12:20",
-      "title": "子馬に虐待疑い 牧場など書類送検",
+      "time": "10:41",
+      "title": "「ケインとアベル」英作家が死去",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597740?source=rss",
-      "publishedAt": "2026-10-06T03:20:33.000Z",
-      "xQuery": "子馬に虐待疑い 牧場など書類送検"
+      "url": "https://news.yahoo.co.jp/pickup/6597714?source=rss",
+      "publishedAt": "2026-10-06T01:41:50.000Z",
+      "xQuery": "「ケインとアベル」英作家が死去"
     }
   ]
 };
