@@ -1,14 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-06T10:43:15.642Z",
+  "updatedAt": "2026-10-06T11:16:52.446Z",
   "items": [
-    {
-      "time": "18:33",
-      "title": "簗氏から減額圧力なかった 国交省",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597776?source=rss",
-      "publishedAt": "2026-10-06T09:33:46.000Z",
-      "xQuery": "簗氏から減額圧力なかった 国交省"
-    },
     {
       "time": "19:18",
       "title": "ノーベル物理学賞 米大教授が受賞",
@@ -16,6 +8,22 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6597783?source=rss",
       "publishedAt": "2026-10-06T10:18:47.000Z",
       "xQuery": "ノーベル物理学賞 米大教授が受賞"
+    },
+    {
+      "time": "19:02",
+      "title": "海上に台風 関東7日まで高波警戒",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6597781?source=rss",
+      "publishedAt": "2026-10-06T10:02:23.000Z",
+      "xQuery": "海上に台風 関東7日まで高波警戒"
+    },
+    {
+      "time": "17:50",
+      "title": "シチズン 約10万人分情報漏えいか",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6597772?source=rss",
+      "publishedAt": "2026-10-06T08:50:17.000Z",
+      "xQuery": "シチズン 約10万人分情報漏えいか"
     },
     {
       "time": "18:49",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "元軍医に銃殺刑 トランプ氏が承認"
     },
     {
-      "time": "17:18",
-      "title": "放課後クラブ 約50人が盗撮被害か",
+      "time": "19:51",
+      "title": "箱乗りさせ事故 殺人未遂疑い逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597767?source=rss",
-      "publishedAt": "2026-10-06T08:18:52.000Z",
-      "xQuery": "放課後クラブ 約50人が盗撮被害か"
-    },
-    {
-      "time": "17:40",
-      "title": "発進時衝突か 2歳児はねられ死亡",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597769?source=rss",
-      "publishedAt": "2026-10-06T08:40:18.000Z",
-      "xQuery": "発進時衝突か 2歳児はねられ死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6597782?source=rss",
+      "publishedAt": "2026-10-06T10:51:52.000Z",
+      "xQuery": "箱乗りさせ事故 殺人未遂疑い逮捕"
     }
   ]
 };
