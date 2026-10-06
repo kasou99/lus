@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-10-06T09:44:26.100Z",
+  "updatedAt": "2026-10-06T10:18:48.966Z",
   "groups": {
     "machineHeadlines": [
       {
         "time": "16:30",
         "title": "工作機械用グリースの世界市場（2026年～2032年）、市場規模（鉱物系グリース、合成グリース、バイオベースグリース）・分析レポートを発表",
-        "source": "newscast.jp",
+        "source": "Newscast.jp",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1peGdzcmVEYVBWMVY1b0xNRU13SjF4Z2s2eGhEaS1xTVdDWFBHSWFpWGV5dnNYaV91aTUzdGcwdU5oNjhZU2llU0M5ZFNCX1U?oc=5",
         "publishedAt": "2026-10-06T07:30:00.000Z"
       },
       {
         "time": "07:00",
         "title": "〈工作機械受注〉夏枯れかき消し絶好調継続､8月は前年比164.7％で過去2位の1978億円､外需は過去最高を更新",
-        "source": "toyokeizai.net",
+        "source": "東洋経済オンライン",
         "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1LZjhmVDRFbm53MnpiaEV5b2dzSFhOOVhwcGNtd24zVlFBa1puVUlXVUVPTXktaGRpT3pGd0ZsdTZ1VVpseXJfNkNmUjBya09YTUFNTzlkbzM1RG1tbHVr?oc=5",
         "publishedAt": "2026-10-05T22:00:00.000Z"
       },
@@ -24,11 +24,11 @@
         "publishedAt": "2026-10-06T04:46:00.000Z"
       },
       {
-        "time": "10:27",
-        "title": "分散する低圧蓄電所を1つの仮想蓄電所として束ね、一次調整力の制御に成功",
+        "time": "09:00",
+        "title": "【業界特化調査 第17弾】AI検索パートナーズ（TechSuite株式会社）、工作機械選びのAI検索対策（LLMO/AIO/GEO/AEO）調査を実施｜首位の登場率は72.2%",
         "source": "PR TIMES",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5LZXRkM243UnA4RFdKYzNJSDBBc3p0bnRMSXRJeXNlZUdicDlzVlY1M0hqTVJSYVFleHBzWF9ocUhxRC10SUl4LWZCcjk2aDRHUndVZlliSWlHQWdvb3FVeUNyMGxUWnZJS2c?oc=5",
-        "publishedAt": "2026-10-06T01:27:24.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBaSEh4MjF4V1NITUs5b3V5aXFYVGFQNHdydnU5TkFoM2JVaWQ3bE1OUnNqUkVyWU84aElLRlBNTmNrRkJuZEpIUExsYWg5S3JFRm8tNllsVHZBNndBVVdtS25aazc2Qm12NkE?oc=5",
+        "publishedAt": "2026-10-06T00:00:02.000Z"
       },
       {
         "time": "16:27",
@@ -45,18 +45,18 @@
         "publishedAt": "2026-10-06T01:00:00.000Z"
       },
       {
-        "time": "10:33",
-        "title": "プレスリリース PRTIMES記事詳細 | さんにちEye 山梨日日新聞デジタル",
-        "source": "sannichi.co.jp",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1FbzRZRVFlVlBJT25YNG45UEhNa2M5T01nRTRIb2dVSFFVMmJyTmc0UnlnUXZaaEJ1TDVpYjFCLXZTY3JfSVFLUmJuUHVxdFZpRzhqSmY5S1VZLS1sdnNYNmo1dXY?oc=5",
-        "publishedAt": "2026-10-06T01:33:07.000Z"
-      },
-      {
         "time": "09:55",
         "title": "ジェトロ、米シカゴの国際製造技術展「IMTS」にジャパンパビリオンを出展（米国、日本）",
         "source": "Infoseek",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBWTm0weUNlZFBUcXZjcERzT1NtTXlNajZYNmRFc1BMVFFsN1hLTnNQbUZTdU8zX0E0RjRDMDJ1Qm1ycF8tNmtudUswRnRlWGN6TzVtcEpoY1NsSjlPZ0kxeXByeGttSkpqZW9z?oc=5",
         "publishedAt": "2026-10-06T00:55:00.000Z"
+      },
+      {
+        "time": "23:27",
+        "title": "【9/16（水）11:00‐】次世代設備保全クラウド「M2X」で何ができる？無料オンラインデモセミナー開催",
+        "source": "asahi.com",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBTWDhoSnk2STBHcERodFViWklsV3NseXNoY3pVYnQyY0NKMGJaU2gwTEEyY0tBRDFDTWpRenFaUVlDRXl3S1I4U19zOEEwcGMyNE14U1hfZWtQaVk?oc=5",
+        "publishedAt": "2026-10-05T14:27:37.000Z"
       }
     ],
     "worldHeadlines": [
@@ -89,18 +89,18 @@
         "publishedAt": "2026-10-05T21:30:32.000Z"
       },
       {
+        "time": "18:49",
+        "title": "元軍医に銃殺刑 トランプ氏が承認",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6597779?source=rss",
+        "publishedAt": "2026-10-06T09:49:42.000Z"
+      },
+      {
         "time": "10:00",
         "title": "米の公立学校で「禁書」が大幅増",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6597710?source=rss",
         "publishedAt": "2026-10-06T01:00:29.000Z"
-      },
-      {
-        "time": "20:59",
-        "title": "土石流の捜索打ち切り ネパール",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597668?source=rss",
-        "publishedAt": "2026-10-05T11:59:58.000Z"
       }
     ],
     "economyHeadlines": [
@@ -119,11 +119,11 @@
         "publishedAt": "2026-10-05T11:58:26.000Z"
       },
       {
-        "time": "14:07",
-        "title": "AI街頭監視システム 中国が輸出増",
+        "time": "18:54",
+        "title": "AI企業に書籍販売か 日販に質問状",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597748?source=rss",
-        "publishedAt": "2026-10-06T05:07:06.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6597777?source=rss",
+        "publishedAt": "2026-10-06T09:54:10.000Z"
       },
       {
         "time": "08:16",
@@ -177,18 +177,18 @@
         "publishedAt": "2026-10-06T08:18:52.000Z"
       },
       {
+        "time": "19:12",
+        "title": "アジア大会 運営業者に知事が苦言",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6597780?source=rss",
+        "publishedAt": "2026-10-06T10:12:49.000Z"
+      },
+      {
         "time": "12:20",
         "title": "子馬に虐待疑い 牧場など書類送検",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6597740?source=rss",
         "publishedAt": "2026-10-06T03:20:33.000Z"
-      },
-      {
-        "time": "11:17",
-        "title": "3度浸水のラーメン店 再開に行列",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597722?source=rss",
-        "publishedAt": "2026-10-06T02:17:36.000Z"
       }
     ],
     "subsidyHeadlines": [
@@ -218,8 +218,8 @@
       },
       {
         "time": "16:00",
-        "title": "【2026年最新】中小企業向け補助金6制度まとめ｜締切・補助率・上限額一覧",
-        "source": "補助金ポータル",
+        "title": "【2026年最新】中小企業向け補助金6制度まとめ｜締切・補助率・上限額一覧 - hojyokin-portal.jp",
+        "source": "hojyokin-portal.jp",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Idm5vYjJtajVIYjhheTZVVTVQTXRXMndVNkRmWnVEZnZyNVRRV3ZncXZhREsxNXBqYXFZSlZmNHhLeHhkbUNRcXljRlJNWVh2ZmZrSXlsVVJsdGI5RGtBdmoxUGx1YlozMUE?oc=5",
         "publishedAt": "2026-09-30T07:00:00.000Z"
       }

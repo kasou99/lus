@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-06T09:44:27.141Z",
+  "updatedAt": "2026-10-06T10:18:49.696Z",
   "items": [
     {
       "time": "18:33",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "簗氏から減額圧力なかった 国交省"
     },
     {
-      "time": "18:18",
-      "title": "避難所ガチャ「TKB」現地の課題",
+      "time": "18:54",
+      "title": "AI企業に書籍販売か 日販に質問状",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597778?source=rss",
-      "publishedAt": "2026-10-06T09:18:39.000Z",
-      "xQuery": "避難所ガチャ「TKB」現地の課題"
+      "url": "https://news.yahoo.co.jp/pickup/6597777?source=rss",
+      "publishedAt": "2026-10-06T09:54:10.000Z",
+      "xQuery": "AI企業に書籍販売か 日販に質問状"
     },
     {
-      "time": "18:05",
-      "title": "デジ相 情報は自分で守る意識を",
+      "time": "18:49",
+      "title": "元軍医に銃殺刑 トランプ氏が承認",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597773?source=rss",
-      "publishedAt": "2026-10-06T09:05:32.000Z",
-      "xQuery": "デジ相 情報は自分で守る意識を"
+      "url": "https://news.yahoo.co.jp/pickup/6597779?source=rss",
+      "publishedAt": "2026-10-06T09:49:42.000Z",
+      "xQuery": "元軍医に銃殺刑 トランプ氏が承認"
     },
     {
       "time": "17:18",
