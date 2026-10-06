@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-06T03:22:51.707Z",
+  "updatedAt": "2026-10-06T03:48:16.415Z",
   "items": [
     {
       "time": "11:15",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "日本の制裁受け 露が対抗措置表明"
     },
     {
-      "time": "11:17",
-      "title": "3度浸水のラーメン店 再開に行列",
+      "time": "12:28",
+      "title": "MrMax 最大173万人分の情報流出",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597722?source=rss",
-      "publishedAt": "2026-10-06T02:17:36.000Z",
-      "xQuery": "3度浸水のラーメン店 再開に行列"
+      "url": "https://news.yahoo.co.jp/pickup/6597741?source=rss",
+      "publishedAt": "2026-10-06T03:28:46.000Z",
+      "xQuery": "MrMax 最大173万人分の情報流出"
     },
     {
-      "time": "11:09",
-      "title": "「eスカイ」11月発売 軽EVで最安",
+      "time": "12:20",
+      "title": "子馬に虐待疑い 牧場など書類送検",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597719?source=rss",
-      "publishedAt": "2026-10-06T02:09:01.000Z",
-      "xQuery": "「eスカイ」11月発売 軽EVで最安"
+      "url": "https://news.yahoo.co.jp/pickup/6597740?source=rss",
+      "publishedAt": "2026-10-06T03:20:33.000Z",
+      "xQuery": "子馬に虐待疑い 牧場など書類送検"
     }
   ]
 };
