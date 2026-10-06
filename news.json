@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-06T04:46:08.398Z",
+  "updatedAt": "2026-10-06T05:18:52.902Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -75,13 +75,6 @@
         "publishedAt": "2026-10-05T22:23:55.000Z"
       },
       {
-        "time": "06:45",
-        "title": "米兵逮捕 米メディアも相次ぎ報道",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597691?source=rss",
-        "publishedAt": "2026-10-05T21:45:07.000Z"
-      },
-      {
         "time": "10:41",
         "title": "「ケインとアベル」英作家が死去",
         "source": "Yahoo!ニュース",
@@ -94,6 +87,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6597690?source=rss",
         "publishedAt": "2026-10-05T21:30:32.000Z"
+      },
+      {
+        "time": "14:01",
+        "title": "AI政策の司令塔 米大統領なぜ設置",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6597733?source=rss",
+        "publishedAt": "2026-10-06T05:01:43.000Z"
       },
       {
         "time": "10:00",
@@ -119,6 +119,13 @@
         "publishedAt": "2026-10-05T11:58:26.000Z"
       },
       {
+        "time": "14:07",
+        "title": "AI街頭監視システム 中国が輸出増",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6597748?source=rss",
+        "publishedAt": "2026-10-06T05:07:06.000Z"
+      },
+      {
         "time": "11:56",
         "title": "タイムズカー情報漏洩 法的責任は",
         "source": "Yahoo!ニュース",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6597719?source=rss",
         "publishedAt": "2026-10-06T02:09:01.000Z"
-      },
-      {
-        "time": "12:09",
-        "title": "マスク氏 再び資産額1兆ドルに",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597734?source=rss",
-        "publishedAt": "2026-10-06T03:09:55.000Z"
       }
     ],
     "localHeadlines": [

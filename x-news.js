@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-06T04:46:09.346Z",
+  "updatedAt": "2026-10-06T05:18:53.756Z",
   "items": [
     {
       "time": "11:28",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "被告とAIの会話履歴 検察証拠活用"
     },
     {
-      "time": "11:00",
-      "title": "なぜ不正アクセス急増 識者の見解",
+      "time": "11:56",
+      "title": "タイムズカー情報漏洩 法的責任は",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597718?source=rss",
-      "publishedAt": "2026-10-06T02:00:42.000Z",
-      "xQuery": "なぜ不正アクセス急増 識者の見解"
+      "url": "https://news.yahoo.co.jp/pickup/6597727?source=rss",
+      "publishedAt": "2026-10-06T02:56:19.000Z",
+      "xQuery": "タイムズカー情報漏洩 法的責任は"
     },
     {
       "time": "12:58",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "MrMax 最大173万人分の情報流出"
     },
     {
-      "time": "10:41",
-      "title": "「ケインとアベル」英作家が死去",
+      "time": "13:51",
+      "title": "デヴィ夫人に罰金20万円の判決",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597714?source=rss",
-      "publishedAt": "2026-10-06T01:41:50.000Z",
-      "xQuery": "「ケインとアベル」英作家が死去"
+      "url": "https://news.yahoo.co.jp/pickup/6597747?source=rss",
+      "publishedAt": "2026-10-06T04:51:08.000Z",
+      "xQuery": "デヴィ夫人に罰金20万円の判決"
     }
   ]
 };
