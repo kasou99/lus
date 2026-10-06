@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-05T23:38:20.073Z",
+  "updatedAt": "2026-10-06T00:51:53.669Z",
   "items": [
     {
       "time": "07:58",
@@ -10,6 +10,14 @@ window.LUS_X_NEWS = {
       "xQuery": "関東など暑さ戻る 気温変化大きく"
     },
     {
+      "time": "08:44",
+      "title": "印旛沼決壊 難防除雑草が拡散恐れ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6597703?source=rss",
+      "publishedAt": "2026-10-05T23:44:54.000Z",
+      "xQuery": "印旛沼決壊 難防除雑草が拡散恐れ"
+    },
+    {
       "time": "07:23",
       "title": "NY州で緊急事態宣言 はしか増加",
       "source": "Yahoo!ニュース",
@@ -18,28 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "NY州で緊急事態宣言 はしか増加"
     },
     {
-      "time": "06:45",
-      "title": "米兵逮捕 米メディアも相次ぎ報道",
+      "time": "09:16",
+      "title": "男性を襲い腕時計奪う 男2人逃走",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597691?source=rss",
-      "publishedAt": "2026-10-05T21:45:07.000Z",
-      "xQuery": "米兵逮捕 米メディアも相次ぎ報道"
+      "url": "https://news.yahoo.co.jp/pickup/6597706?source=rss",
+      "publishedAt": "2026-10-06T00:16:07.000Z",
+      "xQuery": "男性を襲い腕時計奪う 男2人逃走"
     },
     {
-      "time": "06:30",
-      "title": "露のペスト研究所員死亡 米が注視",
+      "time": "09:02",
+      "title": "逮捕の米兵 被害者と18キロ移動か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597690?source=rss",
-      "publishedAt": "2026-10-05T21:30:32.000Z",
-      "xQuery": "露のペスト研究所員死亡 米が注視"
-    },
-    {
-      "time": "06:09",
-      "title": "ハッカー集団メンバー 日本で拘束",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597688?source=rss",
-      "publishedAt": "2026-10-05T21:09:03.000Z",
-      "xQuery": "ハッカー集団メンバー 日本で拘束"
+      "url": "https://news.yahoo.co.jp/pickup/6597705?source=rss",
+      "publishedAt": "2026-10-06T00:02:09.000Z",
+      "xQuery": "逮捕の米兵 被害者と18キロ移動か"
     }
   ]
 };
