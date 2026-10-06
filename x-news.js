@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-06T13:20:23.456Z",
+  "updatedAt": "2026-10-06T13:44:43.485Z",
   "items": [
+    {
+      "time": "22:19",
+      "title": "首相 米に日朝首脳会談の仲介要請",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6597796?source=rss",
+      "publishedAt": "2026-10-06T13:19:48.000Z",
+      "xQuery": "首相 米に日朝首脳会談の仲介要請"
+    },
     {
       "time": "17:50",
       "title": "シチズン 約10万人分情報漏えいか",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "箱乗りさせ事故 殺人未遂疑い逮捕"
     },
     {
-      "time": "20:17",
-      "title": "沖縄強殺 被害女性中傷に知事苦言",
+      "time": "22:10",
+      "title": "男児殺害疑い 育てる意思なかった",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597787?source=rss",
-      "publishedAt": "2026-10-06T11:17:50.000Z",
-      "xQuery": "沖縄強殺 被害女性中傷に知事苦言"
-    },
-    {
-      "time": "16:23",
-      "title": "モバイルSuicaのteppay 20日開始",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597759?source=rss",
-      "publishedAt": "2026-10-06T07:23:32.000Z",
-      "xQuery": "モバイルSuicaのteppay 20日開始"
+      "url": "https://news.yahoo.co.jp/pickup/6597794?source=rss",
+      "publishedAt": "2026-10-06T13:10:05.000Z",
+      "xQuery": "男児殺害疑い 育てる意思なかった"
     }
   ]
 };
