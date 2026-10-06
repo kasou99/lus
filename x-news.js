@@ -1,14 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-06T07:47:13.524Z",
+  "updatedAt": "2026-10-06T08:25:26.895Z",
   "items": [
-    {
-      "time": "14:32",
-      "title": "不明邦人捜索継続 ネパールに要請",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597751?source=rss",
-      "publishedAt": "2026-10-06T05:32:09.000Z",
-      "xQuery": "不明邦人捜索継続 ネパールに要請"
-    },
     {
       "time": "16:26",
       "title": "10年物国債 表面利率を年3.1%に",
@@ -18,12 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "10年物国債 表面利率を年3.1%に"
     },
     {
-      "time": "14:01",
-      "title": "AI政策の司令塔 米大統領なぜ設置",
+      "time": "16:51",
+      "title": "小沢一郎氏が無所属に 新党を模索",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597733?source=rss",
-      "publishedAt": "2026-10-06T05:01:43.000Z",
-      "xQuery": "AI政策の司令塔 米大統領なぜ設置"
+      "url": "https://news.yahoo.co.jp/pickup/6597761?source=rss",
+      "publishedAt": "2026-10-06T07:51:42.000Z",
+      "xQuery": "小沢一郎氏が無所属に 新党を模索"
+    },
+    {
+      "time": "17:18",
+      "title": "放課後クラブ 約50人が盗撮被害か",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6597767?source=rss",
+      "publishedAt": "2026-10-06T08:18:52.000Z",
+      "xQuery": "放課後クラブ 約50人が盗撮被害か"
     },
     {
       "time": "15:25",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "ピアニストの反田恭平氏 在宅起訴"
     },
     {
-      "time": "15:34",
-      "title": "アシックス 失速から売上1兆円へ",
+      "time": "16:52",
+      "title": "ゆうちょATM ファミマ順次終了へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597754?source=rss",
-      "publishedAt": "2026-10-06T06:34:29.000Z",
-      "xQuery": "アシックス 失速から売上1兆円へ"
+      "url": "https://news.yahoo.co.jp/pickup/6597764?source=rss",
+      "publishedAt": "2026-10-06T07:52:38.000Z",
+      "xQuery": "ゆうちょATM ファミマ順次終了へ"
     }
   ]
 };
