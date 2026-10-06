@@ -1,21 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-06T04:22:41.193Z",
+  "updatedAt": "2026-10-06T04:46:09.346Z",
   "items": [
     {
-      "time": "11:15",
-      "title": "危険アンダーパスに遮断機 国交省",
+      "time": "11:28",
+      "title": "被告とAIの会話履歴 検察証拠活用",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597720?source=rss",
-      "publishedAt": "2026-10-06T02:15:40.000Z",
-      "xQuery": "危険アンダーパスに遮断機 国交省"
-    },
-    {
-      "time": "12:58",
-      "title": "簗氏を「応援」した自治体 予算増",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597744?source=rss",
-      "publishedAt": "2026-10-06T03:58:09.000Z",
-      "xQuery": "簗氏を「応援」した自治体 予算増"
+      "url": "https://news.yahoo.co.jp/pickup/6597721?source=rss",
+      "publishedAt": "2026-10-06T02:28:22.000Z",
+      "xQuery": "被告とAIの会話履歴 検察証拠活用"
     },
     {
       "time": "11:00",
@@ -24,6 +16,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6597718?source=rss",
       "publishedAt": "2026-10-06T02:00:42.000Z",
       "xQuery": "なぜ不正アクセス急増 識者の見解"
+    },
+    {
+      "time": "12:58",
+      "title": "簗氏を「応援」した自治体 予算増",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6597744?source=rss",
+      "publishedAt": "2026-10-06T03:58:09.000Z",
+      "xQuery": "簗氏を「応援」した自治体 予算増"
     },
     {
       "time": "12:28",
