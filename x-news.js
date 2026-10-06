@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-06T09:21:43.442Z",
+  "updatedAt": "2026-10-06T09:44:27.141Z",
   "items": [
+    {
+      "time": "18:33",
+      "title": "簗氏から減額圧力なかった 国交省",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6597776?source=rss",
+      "publishedAt": "2026-10-06T09:33:46.000Z",
+      "xQuery": "簗氏から減額圧力なかった 国交省"
+    },
     {
       "time": "18:18",
       "title": "避難所ガチャ「TKB」現地の課題",
@@ -10,20 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "避難所ガチャ「TKB」現地の課題"
     },
     {
-      "time": "16:26",
-      "title": "10年物国債 表面利率を年3.1%に",
+      "time": "18:05",
+      "title": "デジ相 情報は自分で守る意識を",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597758?source=rss",
-      "publishedAt": "2026-10-06T07:26:11.000Z",
-      "xQuery": "10年物国債 表面利率を年3.1%に"
-    },
-    {
-      "time": "12:53",
-      "title": "子に体罰して自己嫌悪 親の葛藤",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597743?source=rss",
-      "publishedAt": "2026-10-06T03:53:45.000Z",
-      "xQuery": "子に体罰して自己嫌悪 親の葛藤"
+      "url": "https://news.yahoo.co.jp/pickup/6597773?source=rss",
+      "publishedAt": "2026-10-06T09:05:32.000Z",
+      "xQuery": "デジ相 情報は自分で守る意識を"
     },
     {
       "time": "17:18",
