@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-06T13:44:43.485Z",
+  "updatedAt": "2026-10-06T14:19:21.867Z",
   "items": [
     {
       "time": "22:19",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "首相 米に日朝首脳会談の仲介要請"
     },
     {
-      "time": "17:50",
-      "title": "シチズン 約10万人分情報漏えいか",
+      "time": "22:25",
+      "title": "北が声明 地雷は韓国側の自作自演",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597772?source=rss",
-      "publishedAt": "2026-10-06T08:50:17.000Z",
-      "xQuery": "シチズン 約10万人分情報漏えいか"
+      "url": "https://news.yahoo.co.jp/pickup/6597795?source=rss",
+      "publishedAt": "2026-10-06T13:25:14.000Z",
+      "xQuery": "北が声明 地雷は韓国側の自作自演"
     },
     {
       "time": "18:38",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "韓国「金」で兵役特例 公平性疑問"
     },
     {
-      "time": "19:51",
-      "title": "箱乗りさせ事故 殺人未遂疑い逮捕",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597782?source=rss",
-      "publishedAt": "2026-10-06T10:51:52.000Z",
-      "xQuery": "箱乗りさせ事故 殺人未遂疑い逮捕"
-    },
-    {
       "time": "22:10",
       "title": "男児殺害疑い 育てる意思なかった",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6597794?source=rss",
       "publishedAt": "2026-10-06T13:10:05.000Z",
       "xQuery": "男児殺害疑い 育てる意思なかった"
+    },
+    {
+      "time": "20:17",
+      "title": "沖縄強殺 被害女性中傷に知事苦言",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6597787?source=rss",
+      "publishedAt": "2026-10-06T11:17:50.000Z",
+      "xQuery": "沖縄強殺 被害女性中傷に知事苦言"
     }
   ]
 };

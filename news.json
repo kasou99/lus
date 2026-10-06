@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-06T13:44:42.296Z",
+  "updatedAt": "2026-10-06T14:19:21.105Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -12,21 +12,21 @@
       {
         "time": "07:00",
         "title": "〈工作機械受注〉夏枯れかき消し絶好調継続､8月は前年比164.7％で過去2位の1978億円､外需は過去最高を更新",
-        "source": "東洋経済オンライン",
+        "source": "toyokeizai.net",
         "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1LZjhmVDRFbm53MnpiaEV5b2dzSFhOOVhwcGNtd24zVlFBa1puVUlXVUVPTXktaGRpT3pGd0ZsdTZ1VVpseXJfNkNmUjBya09YTUFNTzlkbzM1RG1tbHVr?oc=5",
         "publishedAt": "2026-10-05T22:00:00.000Z"
       },
       {
         "time": "20:38",
         "title": "8月機械受注（除船電民需）前月比は2カ月ぶりの増加に。関連データの工作機械受注（国内向け）8月は前年同月を大幅に上回る。日本の主要経済指標予測（2026年10月6日）―｜宅森昭吉（景気探検家・エコノミスト）",
-        "source": "note",
+        "source": "note.com",
         "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9LY3hhVjNsYW1iTEQ0dWFMV0R1UU9NMVNLTjdvZjNCQk9ReVJNWnl4Sk9BTlVON3Y5TW40eXV0dGhQUjB0QWZ6VC13RHJGekF4NXF4eDBBZkpQZUYtRGc?oc=5",
         "publishedAt": "2026-10-06T11:38:03.000Z"
       },
       {
         "time": "21:45",
         "title": "【設備保全DX】TOKYO PACK 2026に次世代設備保全クラウド「M2X」ブースを出展",
-        "source": "news.nicovideo.jp",
+        "source": "ニコニコニュース",
         "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBwTjF2bmFSOUs3VmNJYllRMTBXREh0YVNsWGs5UWl3T2lNSG5XWkxMTkZhVXFLVS1SN21TRmIxOFNzQV90WGM1ejl0aXJnM2VlelBtenpKZ0xqN0V3bXBWaGFNbjRCTWJMNkx2YTdMeUFSakVSMXVSNEE1Yw?oc=5",
         "publishedAt": "2026-10-06T12:45:37.000Z"
       },
@@ -54,7 +54,7 @@
       {
         "time": "05:00",
         "title": "富士フイルムBI、複合機起点にDX支援 クラウド利用10倍に",
-        "source": "日刊工業新聞",
+        "source": "nikkan.co.jp",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1YZTg0Ymc3bHB6SHRYb1IydnBfbjEteVNpejN1NzZZdzQ1V1UzRF9TRzRqR0FfeWlrN3BhcF85bFJSR2xFdDV6Z25fNklpM3ZfTUo1a1FXZHE?oc=5",
         "publishedAt": "2026-10-05T20:00:00.000Z"
       }
@@ -177,18 +177,18 @@
         "publishedAt": "2026-10-06T11:17:50.000Z"
       },
       {
+        "time": "23:14",
+        "title": "シルバーカーはまり電車衝突 死亡",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6597801?source=rss",
+        "publishedAt": "2026-10-06T14:14:23.000Z"
+      },
+      {
         "time": "17:18",
         "title": "放課後クラブ 約50人が盗撮被害か",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6597767?source=rss",
         "publishedAt": "2026-10-06T08:18:52.000Z"
-      },
-      {
-        "time": "19:12",
-        "title": "アジア大会 運営業者に知事が苦言",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597780?source=rss",
-        "publishedAt": "2026-10-06T10:12:49.000Z"
       }
     ],
     "subsidyHeadlines": [
