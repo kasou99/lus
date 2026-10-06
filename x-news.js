@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-06T23:17:10.558Z",
+  "updatedAt": "2026-10-06T23:40:34.053Z",
   "items": [
+    {
+      "time": "07:31",
+      "title": "攻撃で情報漏洩被害 今年500件超",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6597815?source=rss",
+      "publishedAt": "2026-10-06T22:31:04.000Z",
+      "xQuery": "攻撃で情報漏洩被害 今年500件超"
+    },
     {
       "time": "07:15",
       "title": "自衛隊に原潜導入 検討案が浮上",
@@ -10,20 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "自衛隊に原潜導入 検討案が浮上"
     },
     {
-      "time": "23:43",
-      "title": "台風で高波 西湘バイパス通行止め",
+      "time": "08:27",
+      "title": "独情報機関の元長官 スパイ容疑",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597805?source=rss",
-      "publishedAt": "2026-10-06T14:43:49.000Z",
-      "xQuery": "台風で高波 西湘バイパス通行止め"
-    },
-    {
-      "time": "23:14",
-      "title": "シルバーカーはまり電車衝突 死亡",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597801?source=rss",
-      "publishedAt": "2026-10-06T14:14:23.000Z",
-      "xQuery": "シルバーカーはまり電車衝突 死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6597825?source=rss",
+      "publishedAt": "2026-10-06T23:27:54.000Z",
+      "xQuery": "独情報機関の元長官 スパイ容疑"
     },
     {
       "time": "06:55",

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-06T23:17:09.670Z",
+  "updatedAt": "2026-10-06T23:40:33.275Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,18 +38,18 @@
         "publishedAt": "2026-10-06T12:45:37.000Z"
       },
       {
-        "time": "09:00",
-        "title": "【業界特化調査 第17弾】AI検索パートナーズ（TechSuite株式会社）、工作機械選びのAI検索対策（LLMO/AIO/GEO/AEO）調査を実施｜首位の登場率は72.2%",
-        "source": "PR TIMES",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBaSEh4MjF4V1NITUs5b3V5aXFYVGFQNHdydnU5TkFoM2JVaWQ3bE1OUnNqUkVyWU84aElLRlBNTmNrRkJuZEpIUExsYWg5S3JFRm8tNllsVHZBNndBVVdtS25aazc2Qm12NkE?oc=5",
-        "publishedAt": "2026-10-06T00:00:02.000Z"
-      },
-      {
         "time": "16:27",
         "title": "日本電機制御盤市場の動向と収益予測：2026年から2033年までの年平均成長率（CAGR",
         "source": "pando.life",
         "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE8tdDJlSWF1dGF4VkYzdHYtMkl0UmZ2amJDcXJsMUN4Rl9QdGR1TVM3ZE1HTmEzSzc2d0owcjRoTXFaN2w1Q1ZzWldB?oc=5",
         "publishedAt": "2026-10-06T07:27:44.000Z"
+      },
+      {
+        "time": "09:00",
+        "title": "【業界特化調査 第17弾】AI検索パートナーズ（TechSuite株式会社）、工作機械選びのAI検索対策（LLMO/AIO/GEO/AEO）調査を実施｜首位の登場率は72.2%",
+        "source": "PR TIMES",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBaSEh4MjF4V1NITUs5b3V5aXFYVGFQNHdydnU5TkFoM2JVaWQ3bE1OUnNqUkVyWU84aElLRlBNTmNrRkJuZEpIUExsYWg5S3JFRm8tNllsVHZBNndBVVdtS25aazc2Qm12NkE?oc=5",
+        "publishedAt": "2026-10-06T00:00:02.000Z"
       },
       {
         "time": "10:00",
@@ -82,13 +82,6 @@
         "publishedAt": "2026-10-06T01:41:50.000Z"
       },
       {
-        "time": "06:30",
-        "title": "露のペスト研究所員死亡 米が注視",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597690?source=rss",
-        "publishedAt": "2026-10-05T21:30:32.000Z"
-      },
-      {
         "time": "18:49",
         "title": "元軍医に銃殺刑 トランプ氏が承認",
         "source": "Yahoo!ニュース",
@@ -101,6 +94,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6597710?source=rss",
         "publishedAt": "2026-10-06T01:00:29.000Z"
+      },
+      {
+        "time": "08:27",
+        "title": "独情報機関の元長官 スパイ容疑",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6597825?source=rss",
+        "publishedAt": "2026-10-06T23:27:54.000Z"
       }
     ],
     "economyHeadlines": [
@@ -133,11 +133,11 @@
         "publishedAt": "2026-10-06T06:34:29.000Z"
       },
       {
-        "time": "14:22",
-        "title": "居酒屋倒産 初の年間200件超視野",
+        "time": "08:31",
+        "title": "視力落ち鉄道運転士失職 業界課題",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597749?source=rss",
-        "publishedAt": "2026-10-06T05:22:44.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6597819?source=rss",
+        "publishedAt": "2026-10-06T23:31:08.000Z"
       },
       {
         "time": "20:07",
@@ -149,18 +149,18 @@
     ],
     "localHeadlines": [
       {
+        "time": "08:25",
+        "title": "国交省否定の簗氏圧力 市長は疑念",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6597823?source=rss",
+        "publishedAt": "2026-10-06T23:25:01.000Z"
+      },
+      {
         "time": "20:17",
         "title": "沖縄強殺 被害女性中傷に知事苦言",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6597787?source=rss",
         "publishedAt": "2026-10-06T11:17:50.000Z"
-      },
-      {
-        "time": "19:51",
-        "title": "箱乗りさせ事故 殺人未遂疑い逮捕",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597782?source=rss",
-        "publishedAt": "2026-10-06T10:51:52.000Z"
       },
       {
         "time": "22:10",
