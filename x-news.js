@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-06T22:40:49.000Z",
+  "updatedAt": "2026-10-06T23:17:10.558Z",
   "items": [
     {
       "time": "07:15",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "ヘアピンカーブで横転 高校生死傷"
     },
     {
-      "time": "23:36",
-      "title": "旭化成子会社 55万人分情報流出か",
+      "time": "08:04",
+      "title": "シャウエッセンのX投稿 なぜ炎上",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597804?source=rss",
-      "publishedAt": "2026-10-06T14:36:26.000Z",
-      "xQuery": "旭化成子会社 55万人分情報流出か"
+      "url": "https://news.yahoo.co.jp/pickup/6597822?source=rss",
+      "publishedAt": "2026-10-06T23:04:30.000Z",
+      "xQuery": "シャウエッセンのX投稿 なぜ炎上"
     }
   ]
 };
