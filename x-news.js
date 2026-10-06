@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-06T14:19:21.867Z",
+  "updatedAt": "2026-10-06T14:43:10.238Z",
   "items": [
     {
       "time": "22:19",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "首相 米に日朝首脳会談の仲介要請"
     },
     {
-      "time": "22:25",
-      "title": "北が声明 地雷は韓国側の自作自演",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597795?source=rss",
-      "publishedAt": "2026-10-06T13:25:14.000Z",
-      "xQuery": "北が声明 地雷は韓国側の自作自演"
-    },
-    {
       "time": "18:38",
       "title": "韓国「金」で兵役特例 公平性疑問",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6597770?source=rss",
       "publishedAt": "2026-10-06T09:38:20.000Z",
       "xQuery": "韓国「金」で兵役特例 公平性疑問"
+    },
+    {
+      "time": "23:18",
+      "title": "日販 米AI企業への書籍販売認める",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6597802?source=rss",
+      "publishedAt": "2026-10-06T14:18:41.000Z",
+      "xQuery": "日販 米AI企業への書籍販売認める"
     },
     {
       "time": "22:10",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "男児殺害疑い 育てる意思なかった"
     },
     {
-      "time": "20:17",
-      "title": "沖縄強殺 被害女性中傷に知事苦言",
+      "time": "23:14",
+      "title": "シルバーカーはまり電車衝突 死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597787?source=rss",
-      "publishedAt": "2026-10-06T11:17:50.000Z",
-      "xQuery": "沖縄強殺 被害女性中傷に知事苦言"
+      "url": "https://news.yahoo.co.jp/pickup/6597801?source=rss",
+      "publishedAt": "2026-10-06T14:14:23.000Z",
+      "xQuery": "シルバーカーはまり電車衝突 死亡"
     }
   ]
 };
