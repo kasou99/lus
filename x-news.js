@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-06T05:18:53.756Z",
+  "updatedAt": "2026-10-06T05:43:46.330Z",
   "items": [
     {
-      "time": "11:28",
-      "title": "被告とAIの会話履歴 検察証拠活用",
+      "time": "14:32",
+      "title": "不明邦人捜索継続 ネパールに要請",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597721?source=rss",
-      "publishedAt": "2026-10-06T02:28:22.000Z",
-      "xQuery": "被告とAIの会話履歴 検察証拠活用"
+      "url": "https://news.yahoo.co.jp/pickup/6597751?source=rss",
+      "publishedAt": "2026-10-06T05:32:09.000Z",
+      "xQuery": "不明邦人捜索継続 ネパールに要請"
     },
     {
       "time": "11:56",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "簗氏を「応援」した自治体 予算増"
     },
     {
-      "time": "12:28",
-      "title": "MrMax 最大173万人分の情報流出",
+      "time": "12:09",
+      "title": "マスク氏 再び資産額1兆ドルに",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597741?source=rss",
-      "publishedAt": "2026-10-06T03:28:46.000Z",
-      "xQuery": "MrMax 最大173万人分の情報流出"
+      "url": "https://news.yahoo.co.jp/pickup/6597734?source=rss",
+      "publishedAt": "2026-10-06T03:09:55.000Z",
+      "xQuery": "マスク氏 再び資産額1兆ドルに"
     },
     {
       "time": "13:51",

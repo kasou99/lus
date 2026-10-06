@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-06T05:18:52.902Z",
+  "updatedAt": "2026-10-06T05:43:45.592Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -105,13 +105,6 @@
     ],
     "economyHeadlines": [
       {
-        "time": "18:51",
-        "title": "東海汽船・山崎社長が辞任へ 引責",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597654?source=rss",
-        "publishedAt": "2026-10-05T09:51:28.000Z"
-      },
-      {
         "time": "20:58",
         "title": "フジパン熊本工場 生産再開を断念",
         "source": "Yahoo!ニュース",
@@ -138,6 +131,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6597701?source=rss",
         "publishedAt": "2026-10-05T23:16:09.000Z"
+      },
+      {
+        "time": "14:22",
+        "title": "居酒屋倒産 初の年間200件超視野",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6597749?source=rss",
+        "publishedAt": "2026-10-06T05:22:44.000Z"
       },
       {
         "time": "11:09",
