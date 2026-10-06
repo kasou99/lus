@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-06T06:32:42.354Z",
+  "updatedAt": "2026-10-06T07:25:00.729Z",
   "groups": {
     "machineHeadlines": [
       {
         "time": "07:00",
         "title": "〈工作機械受注〉夏枯れかき消し絶好調継続､8月は前年比164.7％で過去2位の1978億円､外需は過去最高を更新",
-        "source": "東洋経済オンライン",
+        "source": "toyokeizai.net",
         "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1LZjhmVDRFbm53MnpiaEV5b2dzSFhOOVhwcGNtd24zVlFBa1puVUlXVUVPTXktaGRpT3pGd0ZsdTZ1VVpseXJfNkNmUjBya09YTUFNTzlkbzM1RG1tbHVr?oc=5",
         "publishedAt": "2026-10-05T22:00:00.000Z"
       },
@@ -47,15 +47,15 @@
       {
         "time": "17:30",
         "title": "M2X、東京海上ホールディングスと業務提携…製造業の設備保全DXを共同推進",
-        "source": "レスポンス（Response.jp）",
+        "source": "response.jp",
         "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE80UWZHcHNGQXl0aUh3ejByNDJ1ZkMtYlcwcUxEY2tfQWZtbkhWd01LWS10OGJ3RzBrdjJNa3NhQV8wcl9oOWp4dkZ5VG9xUzhoc3JKMFQyV3daOUdXNmlr?oc=5",
         "publishedAt": "2026-10-05T08:30:04.000Z"
       },
       {
         "time": "05:00",
-        "title": "栃木県中央会、DXの動向や推進事例紹介",
+        "title": "データ・デザイン、計測用3Dスキャナー投入 車や航空宇宙に拡販",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1qUkZyS2Q4Z0tBY19CdHRpZ1dLNm8yRmhoUm42SmZnNVlET2VWd0gwdzJvMHRET3ZmY1h0NnI5SHJBdnpIS0NNZVBPcUtWbWJORzJNcDFITzE?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB2bTF0NHdIVzFqdWRKSFhHLS1KeFoyRkdKRDY4TlpxUnVpYXNNMWRvVC1mVk9tUHF6eW1ORC1RUUFyNGFqSXgyUnVxTXdrd2J1Uk9scFpSUmpodEkzSTBzZmNMUTNFaDRCazFzWXFsdXlYODV1bzBCSXMwcw?oc=5",
         "publishedAt": "2026-10-05T20:00:00.000Z"
       }
     ],
@@ -133,18 +133,18 @@
         "publishedAt": "2026-10-05T23:16:09.000Z"
       },
       {
+        "time": "15:34",
+        "title": "アシックス 失速から売上1兆円へ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6597754?source=rss",
+        "publishedAt": "2026-10-06T06:34:29.000Z"
+      },
+      {
         "time": "14:22",
         "title": "居酒屋倒産 初の年間200件超視野",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6597749?source=rss",
         "publishedAt": "2026-10-06T05:22:44.000Z"
-      },
-      {
-        "time": "11:09",
-        "title": "「eスカイ」11月発売 軽EVで最安",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597719?source=rss",
-        "publishedAt": "2026-10-06T02:09:01.000Z"
       }
     ],
     "localHeadlines": [

@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-06T06:32:42.980Z",
+  "updatedAt": "2026-10-06T07:25:01.637Z",
   "items": [
     {
       "time": "14:32",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "AI政策の司令塔 米大統領なぜ設置"
     },
     {
-      "time": "12:58",
-      "title": "簗氏を「応援」した自治体 予算増",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597744?source=rss",
-      "publishedAt": "2026-10-06T03:58:09.000Z",
-      "xQuery": "簗氏を「応援」した自治体 予算増"
-    },
-    {
       "time": "12:09",
       "title": "マスク氏 再び資産額1兆ドルに",
       "source": "Yahoo!ニュース",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6597753?source=rss",
       "publishedAt": "2026-10-06T06:25:28.000Z",
       "xQuery": "ピアニストの反田恭平氏 在宅起訴"
+    },
+    {
+      "time": "15:34",
+      "title": "アシックス 失速から売上1兆円へ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6597754?source=rss",
+      "publishedAt": "2026-10-06T06:34:29.000Z",
+      "xQuery": "アシックス 失速から売上1兆円へ"
     }
   ]
 };
