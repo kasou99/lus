@@ -1,6 +1,22 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-06T01:34:51.282Z",
+  "updatedAt": "2026-10-06T02:28:46.281Z",
   "items": [
+    {
+      "time": "11:15",
+      "title": "危険アンダーパスに遮断機 国交省",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6597720?source=rss",
+      "publishedAt": "2026-10-06T02:15:40.000Z",
+      "xQuery": "危険アンダーパスに遮断機 国交省"
+    },
+    {
+      "time": "10:49",
+      "title": "那覇強殺事件 短時間で犯行か",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6597717?source=rss",
+      "publishedAt": "2026-10-06T01:49:01.000Z",
+      "xQuery": "那覇強殺事件 短時間で犯行か"
+    },
     {
       "time": "10:23",
       "title": "日本の制裁受け 露が対抗措置表明",
@@ -10,28 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "日本の制裁受け 露が対抗措置表明"
     },
     {
-      "time": "08:25",
-      "title": "サウジ 集団防衛態勢へ直ちに移行",
+      "time": "11:17",
+      "title": "3度浸水のラーメン店 再開に行列",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597702?source=rss",
-      "publishedAt": "2026-10-05T23:25:37.000Z",
-      "xQuery": "サウジ 集団防衛態勢へ直ちに移行"
-    },
-    {
-      "time": "09:16",
-      "title": "男性を襲い腕時計奪う 男2人逃走",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597706?source=rss",
-      "publishedAt": "2026-10-06T00:16:07.000Z",
-      "xQuery": "男性を襲い腕時計奪う 男2人逃走"
-    },
-    {
-      "time": "09:02",
-      "title": "逮捕の米兵 被害者と18キロ移動か",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597705?source=rss",
-      "publishedAt": "2026-10-06T00:02:09.000Z",
-      "xQuery": "逮捕の米兵 被害者と18キロ移動か"
+      "url": "https://news.yahoo.co.jp/pickup/6597722?source=rss",
+      "publishedAt": "2026-10-06T02:17:36.000Z",
+      "xQuery": "3度浸水のラーメン店 再開に行列"
     },
     {
       "time": "10:00",
