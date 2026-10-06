@@ -1,20 +1,27 @@
 {
-  "updatedAt": "2026-10-06T05:43:45.592Z",
+  "updatedAt": "2026-10-06T06:32:42.354Z",
   "groups": {
     "machineHeadlines": [
-      {
-        "time": "12:00",
-        "title": "【設備保全DX】TOKYO PACK 2026に次世代設備保全クラウド「M2X」ブースを出展",
-        "source": "PR TIMES",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBHdDFTYnVlVklfS1l4bjg2eEUzVG9uZndKQ3cxSmVEYUZWR0xfSlQzc2ZkYnNxYVkyRzdqZ3pHS2c1aElGQWQ5S2tOdjFuWWhXWWx0UWxURHowVWlldUZoazJLZF8zMkcwZkE?oc=5",
-        "publishedAt": "2026-10-06T03:00:02.000Z"
-      },
       {
         "time": "07:00",
         "title": "〈工作機械受注〉夏枯れかき消し絶好調継続､8月は前年比164.7％で過去2位の1978億円､外需は過去最高を更新",
         "source": "東洋経済オンライン",
         "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1LZjhmVDRFbm53MnpiaEV5b2dzSFhOOVhwcGNtd24zVlFBa1puVUlXVUVPTXktaGRpT3pGd0ZsdTZ1VVpseXJfNkNmUjBya09YTUFNTzlkbzM1RG1tbHVr?oc=5",
         "publishedAt": "2026-10-05T22:00:00.000Z"
+      },
+      {
+        "time": "13:46",
+        "title": "【設備保全DX】TOKYO PACK 2026に次世代設備保全クラウド「M2X」ブースを出展",
+        "source": "jiji.com",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE53Y0hLbW9lM1Jmejgxc1BxWG9FbHBUeFpvWWU4R1d5dHVfYnZiaV8wMUotS0ZPSVZfZ1B2VVlJMkI0cXU1LXFmNWRhNVFaLTczNm5kRk9LbS1mbXpMVFJ4RXpIQ2ZhZnAzVEJz?oc=5",
+        "publishedAt": "2026-10-06T04:46:00.000Z"
+      },
+      {
+        "time": "09:00",
+        "title": "【業界特化調査 第17弾】AI検索パートナーズ（TechSuite株式会社）、工作機械選びのAI検索対策（LLMO/AIO/GEO/AEO）調査を実施｜首位の登場率は72.2%",
+        "source": "PR TIMES",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBaSEh4MjF4V1NITUs5b3V5aXFYVGFQNHdydnU5TkFoM2JVaWQ3bE1OUnNqUkVyWU84aElLRlBNTmNrRkJuZEpIUExsYWg5S3JFRm8tNllsVHZBNndBVVdtS25aazc2Qm12NkE?oc=5",
+        "publishedAt": "2026-10-06T00:00:02.000Z"
       },
       {
         "time": "11:03",
@@ -29,13 +36,6 @@
         "source": "アットプレス",
         "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE45N2ZjZkx5N2pxMUJnVHgtcHJSTnI1ckFMUG8wRzgtYkhfYlUtRDJZbzNTcjRzaEN6RmQxTlVDX2RiazY2MXNzcUNma0NNZw?oc=5",
         "publishedAt": "2026-10-06T01:00:00.000Z"
-      },
-      {
-        "time": "10:33",
-        "title": "プレスリリース PRTIMES記事詳細 | さんにちEye 山梨日日新聞デジタル",
-        "source": "sannichi.co.jp",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1FbzRZRVFlVlBJT25YNG45UEhNa2M5T01nRTRIb2dVSFFVMmJyTmc0UnlnUXZaaEJ1TDVpYjFCLXZTY3JfSVFLUmJuUHVxdFZpRzhqSmY5S1VZLS1sdnNYNmo1dXY?oc=5",
-        "publishedAt": "2026-10-06T01:33:07.000Z"
       },
       {
         "time": "23:27",
@@ -184,11 +184,11 @@
         "publishedAt": "2026-10-06T03:20:33.000Z"
       },
       {
-        "time": "09:16",
-        "title": "男性を襲い腕時計奪う 男2人逃走",
+        "time": "11:17",
+        "title": "3度浸水のラーメン店 再開に行列",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597706?source=rss",
-        "publishedAt": "2026-10-06T00:16:07.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6597722?source=rss",
+        "publishedAt": "2026-10-06T02:17:36.000Z"
       }
     ],
     "subsidyHeadlines": [

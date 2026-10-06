@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-06T05:43:46.330Z",
+  "updatedAt": "2026-10-06T06:32:42.980Z",
   "items": [
     {
       "time": "14:32",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "不明邦人捜索継続 ネパールに要請"
     },
     {
-      "time": "11:56",
-      "title": "タイムズカー情報漏洩 法的責任は",
+      "time": "14:01",
+      "title": "AI政策の司令塔 米大統領なぜ設置",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597727?source=rss",
-      "publishedAt": "2026-10-06T02:56:19.000Z",
-      "xQuery": "タイムズカー情報漏洩 法的責任は"
+      "url": "https://news.yahoo.co.jp/pickup/6597733?source=rss",
+      "publishedAt": "2026-10-06T05:01:43.000Z",
+      "xQuery": "AI政策の司令塔 米大統領なぜ設置"
     },
     {
       "time": "12:58",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "マスク氏 再び資産額1兆ドルに"
     },
     {
-      "time": "13:51",
-      "title": "デヴィ夫人に罰金20万円の判決",
+      "time": "15:25",
+      "title": "ピアニストの反田恭平氏 在宅起訴",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597747?source=rss",
-      "publishedAt": "2026-10-06T04:51:08.000Z",
-      "xQuery": "デヴィ夫人に罰金20万円の判決"
+      "url": "https://news.yahoo.co.jp/pickup/6597753?source=rss",
+      "publishedAt": "2026-10-06T06:25:28.000Z",
+      "xQuery": "ピアニストの反田恭平氏 在宅起訴"
     }
   ]
 };
