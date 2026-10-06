@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-06T10:18:49.696Z",
+  "updatedAt": "2026-10-06T10:43:15.642Z",
   "items": [
     {
       "time": "18:33",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "簗氏から減額圧力なかった 国交省"
     },
     {
-      "time": "18:54",
-      "title": "AI企業に書籍販売か 日販に質問状",
+      "time": "19:18",
+      "title": "ノーベル物理学賞 米大教授が受賞",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597777?source=rss",
-      "publishedAt": "2026-10-06T09:54:10.000Z",
-      "xQuery": "AI企業に書籍販売か 日販に質問状"
+      "url": "https://news.yahoo.co.jp/pickup/6597783?source=rss",
+      "publishedAt": "2026-10-06T10:18:47.000Z",
+      "xQuery": "ノーベル物理学賞 米大教授が受賞"
     },
     {
       "time": "18:49",
