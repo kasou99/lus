@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-10-07T10:43:14.714Z",
+  "updatedAt": "2026-10-07T11:16:38.783Z",
   "groups": {
     "machineHeadlines": [
-      {
-        "time": "19:00",
-        "title": "オムロン、「盤レス化ソリューション」展開強化 変わる制御盤とプロセス 変革へ大きな一歩 盤外設置用の機器を拡充",
-        "source": "オートメーション新聞WEB",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5fTmR4UkNlWmRyeGtnelFTam1lNDBlc1ZEdnVpbVM4dnNkQ1JDZzJMNHdqYWdLMVM3S2RiSFM5MlpjTGNySTBKRjZCdzlJQXcxWlc4Nkw1WUthZw?oc=5",
-        "publishedAt": "2026-10-07T10:00:00.000Z"
-      },
       {
         "time": "13:55",
         "title": "「JIMTOF2026第33回日本国際工作機械見本市」に出展",
         "source": "PR TIMES",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9pNnhleGgzaXNvcmthZFZ1cjZiRldQY2JJTnF4bnhqLTM2cmZleEZneWszMGN0OTViN21BY3ZreHYyQzkxUHVwQ1BuLXBrcTVLX2tBZlpmSkt1aXNaUS1wanhabVMxTnd3ZEE?oc=5",
         "publishedAt": "2026-10-07T04:55:01.000Z"
+      },
+      {
+        "time": "19:00",
+        "title": "オムロン、「盤レス化ソリューション」展開強化 変わる制御盤とプロセス 変革へ大きな一歩 盤外設置用の機器を拡充",
+        "source": "オートメーション新聞WEB",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5fTmR4UkNlWmRyeGtnelFTam1lNDBlc1ZEdnVpbVM4dnNkQ1JDZzJMNHdqYWdLMVM3S2RiSFM5MlpjTGNySTBKRjZCdzlJQXcxWlc4Nkw1WUthZw?oc=5",
+        "publishedAt": "2026-10-07T10:00:00.000Z"
       },
       {
         "time": "05:00",

@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-07T10:43:15.613Z",
+  "updatedAt": "2026-10-07T11:16:40.223Z",
   "items": [
     {
-      "time": "19:16",
-      "title": "ノーベル化学賞に硤合憲三氏ら",
+      "time": "19:58",
+      "title": "ノーベル化学賞に硤合憲三氏ら2人",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597913?source=rss",
-      "publishedAt": "2026-10-07T10:16:02.000Z",
-      "xQuery": "ノーベル化学賞に硤合憲三氏ら"
+      "url": "https://news.yahoo.co.jp/pickup/6597917?source=rss",
+      "publishedAt": "2026-10-07T10:58:19.000Z",
+      "xQuery": "ノーベル化学賞に硤合憲三氏ら2人"
     },
     {
       "time": "19:36",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "損保J 顧客情報6万件が漏えいか"
     },
     {
+      "time": "19:53",
+      "title": "琵琶湖に男子中学生転落 心肺停止",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6597918?source=rss",
+      "publishedAt": "2026-10-07T10:53:21.000Z",
+      "xQuery": "琵琶湖に男子中学生転落 心肺停止"
+    },
+    {
       "time": "17:37",
       "title": "三幸製菓火災 元CEOらを在宅起訴",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6597897?source=rss",
       "publishedAt": "2026-10-07T08:37:17.000Z",
       "xQuery": "三幸製菓火災 元CEOらを在宅起訴"
-    },
-    {
-      "time": "18:04",
-      "title": "HIS 旅券情報627人分が流出の恐れ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597900?source=rss",
-      "publishedAt": "2026-10-07T09:04:21.000Z",
-      "xQuery": "HIS 旅券情報627人分が流出の恐れ"
     }
   ]
 };
