@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-07T01:38:28.116Z",
+  "updatedAt": "2026-10-07T02:33:34.642Z",
   "items": [
+    {
+      "time": "10:45",
+      "title": "ビール大手4社カルテル疑い 調査",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6597843?source=rss",
+      "publishedAt": "2026-10-07T01:45:44.000Z",
+      "xQuery": "ビール大手4社カルテル疑い 調査"
+    },
     {
       "time": "09:55",
       "title": "実質賃金10年ぶり8カ月連続プラス",
@@ -10,36 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "実質賃金10年ぶり8カ月連続プラス"
     },
     {
-      "time": "07:31",
-      "title": "攻撃で情報漏洩被害 今年500件超",
+      "time": "08:25",
+      "title": "国交省否定の簗氏圧力 市長は疑念",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597815?source=rss",
-      "publishedAt": "2026-10-06T22:31:04.000Z",
-      "xQuery": "攻撃で情報漏洩被害 今年500件超"
+      "url": "https://news.yahoo.co.jp/pickup/6597823?source=rss",
+      "publishedAt": "2026-10-06T23:25:01.000Z",
+      "xQuery": "国交省否定の簗氏圧力 市長は疑念"
     },
     {
-      "time": "08:43",
-      "title": "水泳授業 性的被害相談把握も委託",
+      "time": "10:23",
+      "title": "中小の「賃上げ倒産」増加 背景は",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597826?source=rss",
-      "publishedAt": "2026-10-06T23:43:39.000Z",
-      "xQuery": "水泳授業 性的被害相談把握も委託"
+      "url": "https://news.yahoo.co.jp/pickup/6597839?source=rss",
+      "publishedAt": "2026-10-07T01:23:46.000Z",
+      "xQuery": "中小の「賃上げ倒産」増加 背景は"
     },
     {
-      "time": "09:33",
-      "title": "執行失敗の米死刑囚 意識戻り発話",
+      "time": "10:52",
+      "title": "ノーベル文学賞「男女交互」の謎",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597833?source=rss",
-      "publishedAt": "2026-10-07T00:33:55.000Z",
-      "xQuery": "執行失敗の米死刑囚 意識戻り発話"
-    },
-    {
-      "time": "08:04",
-      "title": "シャウエッセンのX投稿 なぜ炎上",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597822?source=rss",
-      "publishedAt": "2026-10-06T23:04:30.000Z",
-      "xQuery": "シャウエッセンのX投稿 なぜ炎上"
+      "url": "https://news.yahoo.co.jp/pickup/6597842?source=rss",
+      "publishedAt": "2026-10-07T01:52:27.000Z",
+      "xQuery": "ノーベル文学賞「男女交互」の謎"
     }
   ]
 };

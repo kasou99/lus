@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T01:38:27.476Z",
+  "updatedAt": "2026-10-07T02:33:33.366Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -10,11 +10,11 @@
         "publishedAt": "2026-10-06T20:00:00.000Z"
       },
       {
-        "time": "09:00",
+        "time": "10:30",
         "title": "次世代設備保全クラウド「M2X」が、点検の省人化と異常の早期発見を支える「メーター機能」をリリース",
-        "source": "PR TIMES",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0wVXZQNDNISXliVllseVJEWXRySDliRlRiQTdtaG1XMk5kZDduNHVLNVBoaG5zYkQ2dkxkOTlSTGVfYTZYTXFsUm1Zem94OFpxS01zNGRxcmNmLW0zVy1HNlJIWlNBWVZoRmc?oc=5",
-        "publishedAt": "2026-10-07T00:00:02.000Z"
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE84bXh1MDJZWGluZ2JPa0JRY1FNTDNMTjhSTXl3OTRZUm1aSl9hNVVwb3A5bTFnNmNMTV9Wa18yQXh3dkhwTnlWdFJPb3gtVklIQkNKWUEwdGdZOU1qSm9sQkVzTlJfZUJrYjR1cnkwdFlFamYxbEtiQ2p3SQ?oc=5",
+        "publishedAt": "2026-10-07T01:30:22.000Z"
       },
       {
         "time": "09:46",
@@ -32,9 +32,9 @@
       },
       {
         "time": "05:00",
-        "title": "JIMTOF2026インタビュー（7）オーエム製作所、野村製作所",
+        "title": "産業TREND／他山の石 事件・事故・史実に学ぶ（14）川重の架空発注事件（下）",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBzU081dWhyOFZRSmRKQy1wZ0dQeWdKaGc1bGVURFdicFNCcDdueUJjREpIMlp0WWI1MkNPZVFFTTdOUFJRVU9JbjVuejZCNUJUdjJxa082LXo?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBtOTQ5bk14aHZod3BYc2xUMUExekZ1aGxIdVJleWl3M1NQZ25GNy0xaGZJbTFGOVh3dXA0c0p3SjZ2QVo1azdkMFZ4RnNoQzZ4NFVCakxKc2o?oc=5",
         "publishedAt": "2026-10-06T20:00:00.000Z"
       },
       {
@@ -52,11 +52,11 @@
         "publishedAt": "2026-10-06T11:38:03.000Z"
       },
       {
-        "time": "21:45",
-        "title": "【設備保全DX】TOKYO PACK 2026に次世代設備保全クラウド「M2X」ブースを出展",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBwTjF2bmFSOUs3VmNJYllRMTBXREh0YVNsWGs5UWl3T2lNSG5XWkxMTkZhVXFLVS1SN21TRmIxOFNzQV90WGM1ejl0aXJnM2VlelBtenpKZ0xqN0V3bXBWaGFNbjRCTWJMNkx2YTdMeUFSakVSMXVSNEE1Yw?oc=5",
-        "publishedAt": "2026-10-06T12:45:37.000Z"
+        "time": "16:27",
+        "title": "日本電機制御盤市場の動向と収益予測：2026年から2033年までの年平均成長率（CAGR",
+        "source": "pando.life",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE8tdDJlSWF1dGF4VkYzdHYtMkl0UmZ2amJDcXJsMUN4Rl9QdGR1TVM3ZE1HTmEzSzc2d0owcjRoTXFaN2w1Q1ZzWldB?oc=5",
+        "publishedAt": "2026-10-06T07:27:44.000Z"
       }
     ],
     "worldHeadlines": [
@@ -105,6 +105,13 @@
     ],
     "economyHeadlines": [
       {
+        "time": "10:45",
+        "title": "ビール大手4社カルテル疑い 調査",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6597843?source=rss",
+        "publishedAt": "2026-10-07T01:45:44.000Z"
+      },
+      {
         "time": "16:26",
         "title": "10年物国債 表面利率を年3.1%に",
         "source": "Yahoo!ニュース",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6597802?source=rss",
         "publishedAt": "2026-10-06T14:18:41.000Z"
-      },
-      {
-        "time": "15:34",
-        "title": "アシックス 失速から売上1兆円へ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597754?source=rss",
-        "publishedAt": "2026-10-06T06:34:29.000Z"
       }
     ],
     "localHeadlines": [
