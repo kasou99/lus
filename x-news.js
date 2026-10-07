@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-07T04:22:45.345Z",
+  "updatedAt": "2026-10-07T04:46:54.651Z",
   "items": [
     {
       "time": "12:00",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "転落巻き添え死は「殺人」父訴え"
     },
     {
-      "time": "13:14",
-      "title": "ハッカー集団Qilin 取材に応じる",
+      "time": "13:31",
+      "title": "ハッカー集団Qilin 日本に言及",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597861?source=rss",
-      "publishedAt": "2026-10-07T04:14:29.000Z",
-      "xQuery": "ハッカー集団Qilin 取材に応じる"
+      "url": "https://news.yahoo.co.jp/pickup/6597862?source=rss",
+      "publishedAt": "2026-10-07T04:31:58.000Z",
+      "xQuery": "ハッカー集団Qilin 日本に言及"
     }
   ]
 };
