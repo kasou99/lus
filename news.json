@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T00:54:38.803Z",
+  "updatedAt": "2026-10-07T01:38:27.476Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,13 +17,6 @@
         "publishedAt": "2026-10-07T00:00:02.000Z"
       },
       {
-        "time": "16:30",
-        "title": "工作機械用グリースの世界市場（2026年～2032年）、市場規模（鉱物系グリース、合成グリース、バイオベースグリース）・分析レポートを発表",
-        "source": "Newscast.jp",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1peGdzcmVEYVBWMVY1b0xNRU13SjF4Z2s2eGhEaS1xTVdDWFBHSWFpWGV5dnNYaV91aTUzdGcwdU5oNjhZU2llU0M5ZFNCX1U?oc=5",
-        "publishedAt": "2026-10-06T07:30:00.000Z"
-      },
-      {
         "time": "09:46",
         "title": "教育用の原子炉、存続に課題 国内で稼働、近畿大の１基のみ 赤字運営や燃料返還 学生減、支援求める声",
         "source": "沖縄タイムス社",
@@ -31,11 +24,25 @@
         "publishedAt": "2026-10-07T00:46:30.000Z"
       },
       {
+        "time": "16:30",
+        "title": "工作機械用グリースの世界市場（2026年～2032年）、市場規模（鉱物系グリース、合成グリース、バイオベースグリース）・分析レポートを発表",
+        "source": "Newscast.jp",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1peGdzcmVEYVBWMVY1b0xNRU13SjF4Z2s2eGhEaS1xTVdDWFBHSWFpWGV5dnNYaV91aTUzdGcwdU5oNjhZU2llU0M5ZFNCX1U?oc=5",
+        "publishedAt": "2026-10-06T07:30:00.000Z"
+      },
+      {
         "time": "05:00",
         "title": "JIMTOF2026インタビュー（7）オーエム製作所、野村製作所",
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBzU081dWhyOFZRSmRKQy1wZ0dQeWdKaGc1bGVURFdicFNCcDdueUJjREpIMlp0WWI1MkNPZVFFTTdOUFJRVU9JbjVuejZCNUJUdjJxa082LXo?oc=5",
         "publishedAt": "2026-10-06T20:00:00.000Z"
+      },
+      {
+        "time": "09:46",
+        "title": "教育用の原子炉、存続に課題 国内で稼働、近畿大の1基のみ 赤字運営や燃料返還 学生減、支援求める声",
+        "source": "西日本新聞me",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5WTkR0UjdEN1ZabjNYRld2MXhicTA5NUVDZUZWZmhRY1NSQndvOGFNc211aW9peHZORGdGeGl1aVQ4UFozLWpRbnNUMVdTZWRtWngwVjZB?oc=5",
+        "publishedAt": "2026-10-07T00:46:30.000Z"
       },
       {
         "time": "20:38",
@@ -50,13 +57,6 @@
         "source": "ニコニコニュース",
         "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBwTjF2bmFSOUs3VmNJYllRMTBXREh0YVNsWGs5UWl3T2lNSG5XWkxMTkZhVXFLVS1SN21TRmIxOFNzQV90WGM1ejl0aXJnM2VlelBtenpKZ0xqN0V3bXBWaGFNbjRCTWJMNkx2YTdMeUFSakVSMXVSNEE1Yw?oc=5",
         "publishedAt": "2026-10-06T12:45:37.000Z"
-      },
-      {
-        "time": "16:27",
-        "title": "日本電機制御盤市場の動向と収益予測：2026年から2033年までの年平均成長率（CAGR",
-        "source": "pando.life",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE8tdDJlSWF1dGF4VkYzdHYtMkl0UmZ2amJDcXJsMUN4Rl9QdGR1TVM3ZE1HTmEzSzc2d0owcjRoTXFaN2w1Q1ZzWldB?oc=5",
-        "publishedAt": "2026-10-06T07:27:44.000Z"
       }
     ],
     "worldHeadlines": [
@@ -75,13 +75,6 @@
         "publishedAt": "2026-10-07T00:33:55.000Z"
       },
       {
-        "time": "10:41",
-        "title": "「ケインとアベル」英作家が死去",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597714?source=rss",
-        "publishedAt": "2026-10-06T01:41:50.000Z"
-      },
-      {
         "time": "18:49",
         "title": "元軍医に銃殺刑 トランプ氏が承認",
         "source": "Yahoo!ニュース",
@@ -94,6 +87,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6597825?source=rss",
         "publishedAt": "2026-10-06T23:27:54.000Z"
+      },
+      {
+        "time": "10:29",
+        "title": "故障でトイレ不足 NYに緊急着陸",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6597841?source=rss",
+        "publishedAt": "2026-10-07T01:29:06.000Z"
       },
       {
         "time": "09:44",
@@ -112,11 +112,18 @@
         "publishedAt": "2026-10-06T07:26:11.000Z"
       },
       {
-        "time": "23:18",
-        "title": "日販 米AI企業への書籍販売認める",
+        "time": "09:55",
+        "title": "実質賃金10年ぶり8カ月連続プラス",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597802?source=rss",
-        "publishedAt": "2026-10-06T14:18:41.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6597835?source=rss",
+        "publishedAt": "2026-10-07T00:55:21.000Z"
+      },
+      {
+        "time": "10:23",
+        "title": "中小の「賃上げ倒産」増加 背景は",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6597839?source=rss",
+        "publishedAt": "2026-10-07T01:23:46.000Z"
       },
       {
         "time": "23:43",
@@ -126,25 +133,18 @@
         "publishedAt": "2026-10-06T14:43:49.000Z"
       },
       {
+        "time": "23:18",
+        "title": "日販 米AI企業への書籍販売認める",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6597802?source=rss",
+        "publishedAt": "2026-10-06T14:18:41.000Z"
+      },
+      {
         "time": "15:34",
         "title": "アシックス 失速から売上1兆円へ",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6597754?source=rss",
         "publishedAt": "2026-10-06T06:34:29.000Z"
-      },
-      {
-        "time": "08:31",
-        "title": "視力落ち鉄道運転士失職 業界課題",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597819?source=rss",
-        "publishedAt": "2026-10-06T23:31:08.000Z"
-      },
-      {
-        "time": "20:07",
-        "title": "レタス5割高 9月下旬の価格高騰",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597786?source=rss",
-        "publishedAt": "2026-10-06T11:07:22.000Z"
       }
     ],
     "localHeadlines": [

@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-07T00:54:40.006Z",
+  "updatedAt": "2026-10-07T01:38:28.116Z",
   "items": [
+    {
+      "time": "09:55",
+      "title": "実質賃金10年ぶり8カ月連続プラス",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6597835?source=rss",
+      "publishedAt": "2026-10-07T00:55:21.000Z",
+      "xQuery": "実質賃金10年ぶり8カ月連続プラス"
+    },
     {
       "time": "07:31",
       "title": "攻撃で情報漏洩被害 今年500件超",
@@ -8,14 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6597815?source=rss",
       "publishedAt": "2026-10-06T22:31:04.000Z",
       "xQuery": "攻撃で情報漏洩被害 今年500件超"
-    },
-    {
-      "time": "08:27",
-      "title": "独情報機関の元長官 スパイ容疑",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597825?source=rss",
-      "publishedAt": "2026-10-06T23:27:54.000Z",
-      "xQuery": "独情報機関の元長官 スパイ容疑"
     },
     {
       "time": "08:43",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "執行失敗の米死刑囚 意識戻り発話"
     },
     {
-      "time": "09:39",
-      "title": "「最強の拍手」研究→校内で金賞",
+      "time": "08:04",
+      "title": "シャウエッセンのX投稿 なぜ炎上",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597836?source=rss",
-      "publishedAt": "2026-10-07T00:39:52.000Z",
-      "xQuery": "「最強の拍手」研究→校内で金賞"
+      "url": "https://news.yahoo.co.jp/pickup/6597822?source=rss",
+      "publishedAt": "2026-10-06T23:04:30.000Z",
+      "xQuery": "シャウエッセンのX投稿 なぜ炎上"
     }
   ]
 };
