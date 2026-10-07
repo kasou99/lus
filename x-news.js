@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-07T04:46:54.651Z",
+  "updatedAt": "2026-10-07T05:19:54.858Z",
   "items": [
+    {
+      "time": "14:08",
+      "title": "ガザ戦闘から3年 死者は7万4000人",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6597866?source=rss",
+      "publishedAt": "2026-10-07T05:08:04.000Z",
+      "xQuery": "ガザ戦闘から3年 死者は7万4000人"
+    },
     {
       "time": "12:00",
       "title": "簗農相 会見で辞任を改めて否定",
@@ -10,36 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "簗農相 会見で辞任を改めて否定"
     },
     {
-      "time": "10:45",
-      "title": "ビール大手4社カルテル疑い 調査",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597843?source=rss",
-      "publishedAt": "2026-10-07T01:45:44.000Z",
-      "xQuery": "ビール大手4社カルテル疑い 調査"
-    },
-    {
-      "time": "12:47",
-      "title": "立花氏切りつけ 男に懲役12年求刑",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597860?source=rss",
-      "publishedAt": "2026-10-07T03:47:11.000Z",
-      "xQuery": "立花氏切りつけ 男に懲役12年求刑"
-    },
-    {
-      "time": "11:34",
-      "title": "転落巻き添え死は「殺人」父訴え",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597845?source=rss",
-      "publishedAt": "2026-10-07T02:34:35.000Z",
-      "xQuery": "転落巻き添え死は「殺人」父訴え"
-    },
-    {
       "time": "13:31",
       "title": "ハッカー集団Qilin 日本に言及",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6597862?source=rss",
       "publishedAt": "2026-10-07T04:31:58.000Z",
       "xQuery": "ハッカー集団Qilin 日本に言及"
+    },
+    {
+      "time": "14:07",
+      "title": "ソフト強豪主将自殺 高校側を提訴",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6597865?source=rss",
+      "publishedAt": "2026-10-07T05:07:56.000Z",
+      "xQuery": "ソフト強豪主将自殺 高校側を提訴"
+    },
+    {
+      "time": "12:10",
+      "title": "PIECE OF BAKE運営破産申立てへ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6597853?source=rss",
+      "publishedAt": "2026-10-07T03:10:22.000Z",
+      "xQuery": "PIECE OF BAKE運営破産申立てへ"
     }
   ]
 };
