@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-07T09:45:47.696Z",
+  "updatedAt": "2026-10-07T10:18:39.227Z",
   "items": [
+    {
+      "time": "19:16",
+      "title": "ノーベル化学賞に硤合憲三氏ら",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6597913?source=rss",
+      "publishedAt": "2026-10-07T10:16:02.000Z",
+      "xQuery": "ノーベル化学賞に硤合憲三氏ら"
+    },
     {
       "time": "16:33",
       "title": "簗氏が別会合でも同様の発言 証言",
@@ -8,14 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6597882?source=rss",
       "publishedAt": "2026-10-07T07:33:46.000Z",
       "xQuery": "簗氏が別会合でも同様の発言 証言"
-    },
-    {
-      "time": "17:31",
-      "title": "選挙運動巡る判決 高校生らが控訴",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597895?source=rss",
-      "publishedAt": "2026-10-07T08:31:02.000Z",
-      "xQuery": "選挙運動巡る判決 高校生らが控訴"
     },
     {
       "time": "17:37",

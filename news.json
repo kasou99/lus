@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-10-07T09:45:47.084Z",
+  "updatedAt": "2026-10-07T10:18:37.926Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "19:00",
+        "title": "オムロン、「盤レス化ソリューション」展開強化 変わる制御盤とプロセス 変革へ大きな一歩 盤外設置用の機器を拡充",
+        "source": "オートメーション新聞WEB",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5fTmR4UkNlWmRyeGtnelFTam1lNDBlc1ZEdnVpbVM4dnNkQ1JDZzJMNHdqYWdLMVM3S2RiSFM5MlpjTGNySTBKRjZCdzlJQXcxWlc4Nkw1WUthZw?oc=5",
+        "publishedAt": "2026-10-07T10:00:00.000Z"
+      },
       {
         "time": "13:55",
         "title": "「JIMTOF2026第33回日本国際工作機械見本市」に出展",
@@ -50,13 +57,6 @@
         "source": "PR TIMES",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0wVXZQNDNISXliVllseVJEWXRySDliRlRiQTdtaG1XMk5kZDduNHVLNVBoaG5zYkQ2dkxkOTlSTGVfYTZYTXFsUm1Zem94OFpxS01zNGRxcmNmLW0zVy1HNlJIWlNBWVZoRmc?oc=5",
         "publishedAt": "2026-10-07T00:00:02.000Z"
-      },
-      {
-        "time": "10:21",
-        "title": "HIOKI、NEDO国際実証事業「成立性調査」に採択",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE15UGZZRExMX3daNzVSVVo5LXQyNi12OVAwU3pUNVQtMWJJRVBhY1ltQlV0cmZaTEc1YWZHVWlMMGFPVVFycVRCbU4zUS1CWm1YV0tXSmY2Njk5SmhIU3ZycFVLZzA3RlBObDE3QmJsQ01jcmJkT2owTl9KMA?oc=5",
-        "publishedAt": "2026-10-07T01:21:19.000Z"
       }
     ],
     "worldHeadlines": [
