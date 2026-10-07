@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-07T11:41:50.548Z",
+  "updatedAt": "2026-10-07T12:29:58.389Z",
   "items": [
     {
-      "time": "19:58",
-      "title": "ノーベル化学賞に硤合憲三氏ら2人",
+      "time": "19:56",
+      "title": "化学賞 日本人は2年連続10人目",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597917?source=rss",
-      "publishedAt": "2026-10-07T10:58:19.000Z",
-      "xQuery": "ノーベル化学賞に硤合憲三氏ら2人"
+      "url": "https://news.yahoo.co.jp/pickup/6597916?source=rss",
+      "publishedAt": "2026-10-07T10:56:44.000Z",
+      "xQuery": "化学賞 日本人は2年連続10人目"
     },
     {
       "time": "19:36",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "首相を中国側呼び捨て 外務省批判"
     },
     {
+      "time": "21:17",
+      "title": "宜野湾で女性殺害疑い 男を逮捕",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6597924?source=rss",
+      "publishedAt": "2026-10-07T12:17:12.000Z",
+      "xQuery": "宜野湾で女性殺害疑い 男を逮捕"
+    },
+    {
       "time": "18:14",
       "title": "損保J 顧客情報6万件が漏えいか",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6597901?source=rss",
       "publishedAt": "2026-10-07T09:14:22.000Z",
       "xQuery": "損保J 顧客情報6万件が漏えいか"
-    },
-    {
-      "time": "17:37",
-      "title": "三幸製菓火災 元CEOらを在宅起訴",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597897?source=rss",
-      "publishedAt": "2026-10-07T08:37:17.000Z",
-      "xQuery": "三幸製菓火災 元CEOらを在宅起訴"
     }
   ]
 };
