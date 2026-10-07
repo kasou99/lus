@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-07T13:24:14.267Z",
+  "updatedAt": "2026-10-07T13:43:49.524Z",
   "items": [
     {
       "time": "22:00",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "首相を中国側呼び捨て 外務省批判"
     },
     {
+      "time": "22:23",
+      "title": "愛知・大村知事の発言 タイで波紋",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6597927?source=rss",
+      "publishedAt": "2026-10-07T13:23:29.000Z",
+      "xQuery": "愛知・大村知事の発言 タイで波紋"
+    },
+    {
       "time": "21:17",
       "title": "宜野湾で女性殺害疑い 男を逮捕",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6597924?source=rss",
       "publishedAt": "2026-10-07T12:17:12.000Z",
       "xQuery": "宜野湾で女性殺害疑い 男を逮捕"
-    },
-    {
-      "time": "18:14",
-      "title": "損保J 顧客情報6万件が漏えいか",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597901?source=rss",
-      "publishedAt": "2026-10-07T09:14:22.000Z",
-      "xQuery": "損保J 顧客情報6万件が漏えいか"
     }
   ]
 };

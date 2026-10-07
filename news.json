@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-10-07T13:24:13.316Z",
+  "updatedAt": "2026-10-07T13:43:48.912Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "18:58",
+        "title": "【工作機械向け設計開発・製造管理支援サービス】日本精工、高度なスピンドル解析を可能にする「MT-Click!Speedy Premium」と軸受情報管理サービス「NSK Verify API」の提供開始",
+        "source": "www.ctiweb.co.jp",
+        "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxQQmo4YzIyLWVId194UGUzdlZJV29JUnNKUGFwdkJMa1M4VEM0MkRMVnAwTm5GelNjdlNGMm5DSHpyRU01cHhkRFBZN3BiX1hEa3g2MWQ2bHZlWm1YOUVVdWwyd1pyODE4TlVFSDR1NDZFd0RBVlNJYnN2YTVHX0U3dkliNFlGak5TLWR3eFBpYjcwcVBjTndzemljNWlHYW1xeDdQQ3ZPN3V0VVBaUjN1Nl9OZlgyQ19iR3NKUGt3ZmRnaWJEZzBwMVdvM1JYYUxMS3BPTzFuTkpEZmpMclNqU1ZBZGY5cEF6SXZNZGNodHkyLXBXLWl0UGx3VERxSnVKb00tUTJpdWNOTERUZFBPbmdJbVZQNTRSNmtmcFNCaER6WXNtbnQyMlZqSVI4T3gzRUxwZHlmM2FtM1dEdkZSNE1IR0M2TE16MEtVbTJQNHNaVjctdWc?oc=5",
+        "publishedAt": "2026-10-07T09:58:41.000Z"
+      },
       {
         "time": "13:55",
         "title": "「JIMTOF2026第33回日本国際工作機械見本市」に出展",
@@ -45,21 +52,21 @@
         "publishedAt": "2026-10-07T08:08:54.000Z"
       },
       {
-        "time": "09:46",
-        "title": "教育用の原子炉、存続に課題 国内で稼働、近畿大の１基のみ 赤字運営や燃料返還 学生減、支援求める声",
-        "source": "沖縄タイムス社",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5iN0tCd0s3Sm9ZQ2syUXBxNV9oZGVDZ2lXR2d3d0xranBNVjRnTjRBX0l4Z3J0T2dsU0JRY1Z1NVpQcjdrTGszeHFKR2VNSGhCWkpzTGswY1JmY2xLNnc?oc=5",
-        "publishedAt": "2026-10-07T00:46:30.000Z"
-      },
-      {
-        "time": "12:43",
-        "title": "工作機械向け設計開発・製造管理支援サービスのラインアップを拡充",
-        "source": "PR TIMES",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5kb09tMmdIelFrWkZ4SWxaMThWaFFUMExIdURGeGVsa19ZR2NuYm1lQ3ZQZWxWdkdzRk5weUI0MUE1M1VQOTNzdlpscTcxeXdzWllZUFhGcU1peS1BRnh5aXc1al9qMHFaeXc?oc=5",
-        "publishedAt": "2026-10-07T03:43:29.000Z"
+        "time": "10:15",
+        "title": "次世代設備保全クラウド「M2X」が、点検の省人化と異常の早期発見を支える「メーター機能」をリリース",
+        "source": "Infoseek",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE51TUJjenNfRzZXUjB5UExKanpveGxMTUdXZkNGdGphSm82MjJOSmt0bzNkak01eVF6al9HWDNHRFR3Qk5sRFZKRVRNdkFQZDExeUNFVXg4MDR4MHRya0lvTDdqbkZ1UmpHNHdHZ25Zekgzdw?oc=5",
+        "publishedAt": "2026-10-07T01:15:27.000Z"
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "22:23",
+        "title": "愛知・大村知事の発言 タイで波紋",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6597927?source=rss",
+        "publishedAt": "2026-10-07T13:23:29.000Z"
+      },
       {
         "time": "14:08",
         "title": "ガザ戦闘から3年 死者は7万4000人",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6597841?source=rss",
         "publishedAt": "2026-10-07T01:29:06.000Z"
-      },
-      {
-        "time": "09:44",
-        "title": "米スタバを提訴 「無糖」表示巡り",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597832?source=rss",
-        "publishedAt": "2026-10-07T00:44:51.000Z"
       }
     ],
     "economyHeadlines": [
