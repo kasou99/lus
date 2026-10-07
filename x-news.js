@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-07T03:48:49.747Z",
+  "updatedAt": "2026-10-07T04:22:45.345Z",
   "items": [
     {
       "time": "12:00",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "簗農相 会見で辞任を改めて否定"
     },
     {
-      "time": "11:11",
-      "title": "政府 第2次補正予算編成を検討",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597844?source=rss",
-      "publishedAt": "2026-10-07T02:11:56.000Z",
-      "xQuery": "政府 第2次補正予算編成を検討"
-    },
-    {
       "time": "10:45",
       "title": "ビール大手4社カルテル疑い 調査",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6597843?source=rss",
       "publishedAt": "2026-10-07T01:45:44.000Z",
       "xQuery": "ビール大手4社カルテル疑い 調査"
+    },
+    {
+      "time": "12:47",
+      "title": "立花氏切りつけ 男に懲役12年求刑",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6597860?source=rss",
+      "publishedAt": "2026-10-07T03:47:11.000Z",
+      "xQuery": "立花氏切りつけ 男に懲役12年求刑"
     },
     {
       "time": "11:34",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "転落巻き添え死は「殺人」父訴え"
     },
     {
-      "time": "12:10",
-      "title": "PIECE OF BAKE運営破産申立てへ",
+      "time": "13:14",
+      "title": "ハッカー集団Qilin 取材に応じる",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597853?source=rss",
-      "publishedAt": "2026-10-07T03:10:22.000Z",
-      "xQuery": "PIECE OF BAKE運営破産申立てへ"
+      "url": "https://news.yahoo.co.jp/pickup/6597861?source=rss",
+      "publishedAt": "2026-10-07T04:14:29.000Z",
+      "xQuery": "ハッカー集団Qilin 取材に応じる"
     }
   ]
 };
