@@ -1,14 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-07T08:50:53.445Z",
+  "updatedAt": "2026-10-07T09:22:11.896Z",
   "items": [
-    {
-      "time": "15:09",
-      "title": "公取委 ビール大手の動き長年注視",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597875?source=rss",
-      "publishedAt": "2026-10-07T06:09:57.000Z",
-      "xQuery": "公取委 ビール大手の動き長年注視"
-    },
     {
       "time": "16:33",
       "title": "簗氏が別会合でも同様の発言 証言",
@@ -16,6 +8,22 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6597882?source=rss",
       "publishedAt": "2026-10-07T07:33:46.000Z",
       "xQuery": "簗氏が別会合でも同様の発言 証言"
+    },
+    {
+      "time": "17:37",
+      "title": "三幸製菓火災 元CEOらを在宅起訴",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6597897?source=rss",
+      "publishedAt": "2026-10-07T08:37:17.000Z",
+      "xQuery": "三幸製菓火災 元CEOらを在宅起訴"
+    },
+    {
+      "time": "18:08",
+      "title": "琵琶湖に転落し心肺停止 10代か",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6597903?source=rss",
+      "publishedAt": "2026-10-07T09:08:25.000Z",
+      "xQuery": "琵琶湖に転落し心肺停止 10代か"
     },
     {
       "time": "16:36",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6597871?source=rss",
       "publishedAt": "2026-10-07T05:38:04.000Z",
       "xQuery": "マンジャロ求め訪日 韓国で広がり"
-    },
-    {
-      "time": "16:38",
-      "title": "茨城県・茨城県警のHP 閲覧不可",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597884?source=rss",
-      "publishedAt": "2026-10-07T07:38:13.000Z",
-      "xQuery": "茨城県・茨城県警のHP 閲覧不可"
     }
   ]
 };

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T08:50:52.464Z",
+  "updatedAt": "2026-10-07T09:22:11.303Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,13 +38,6 @@
         "publishedAt": "2026-10-07T05:45:00.000Z"
       },
       {
-        "time": "13:55",
-        "title": "プレスリリース PRTIMES記事詳細 | さんにちEye 山梨日日新聞デジタル",
-        "source": "sannichi.co.jp",
-        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBka0lSZTVQbWdWZElHazM1dmpVVUcwS0Z6by1lLWVrb3BSaDBDOWEwRjRsOG1ZY3liRnM5bm1ZOGtxV0JpNjQ4bVVRbUQ4WnhOTDFrd1FjSVFjZXE5aGxEckladw?oc=5",
-        "publishedAt": "2026-10-07T04:55:00.000Z"
-      },
-      {
         "time": "09:46",
         "title": "教育用の原子炉、存続に課題 国内で稼働、近畿大の１基のみ 赤字運営や燃料返還 学生減、支援求める声",
         "source": "沖縄タイムス社",
@@ -57,6 +50,13 @@
         "source": "PR TIMES",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0wVXZQNDNISXliVllseVJEWXRySDliRlRiQTdtaG1XMk5kZDduNHVLNVBoaG5zYkQ2dkxkOTlSTGVfYTZYTXFsUm1Zem94OFpxS01zNGRxcmNmLW0zVy1HNlJIWlNBWVZoRmc?oc=5",
         "publishedAt": "2026-10-07T00:00:02.000Z"
+      },
+      {
+        "time": "10:21",
+        "title": "HIOKI、NEDO国際実証事業「成立性調査」に採択",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE15UGZZRExMX3daNzVSVVo5LXQyNi12OVAwU3pUNVQtMWJJRVBhY1ltQlV0cmZaTEc1YWZHVWlMMGFPVVFycVRCbU4zUS1CWm1YV0tXSmY2Njk5SmhIU3ZycFVLZzA3RlBObDE3QmJsQ01jcmJkT2owTl9KMA?oc=5",
+        "publishedAt": "2026-10-07T01:21:19.000Z"
       }
     ],
     "worldHeadlines": [
@@ -140,11 +140,11 @@
         "publishedAt": "2026-10-07T01:23:46.000Z"
       },
       {
-        "time": "08:31",
-        "title": "視力落ち鉄道運転士失職 業界課題",
+        "time": "18:13",
+        "title": "育休でパタハラ 男性が会社側提訴",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597819?source=rss",
-        "publishedAt": "2026-10-06T23:31:08.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6597902?source=rss",
+        "publishedAt": "2026-10-07T09:13:37.000Z"
       }
     ],
     "localHeadlines": [
