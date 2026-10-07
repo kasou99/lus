@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-07T14:19:27.477Z",
+  "updatedAt": "2026-10-07T14:43:20.782Z",
   "items": [
+    {
+      "time": "23:33",
+      "title": "立憲 食料品消費税ゼロから転換",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6597930?source=rss",
+      "publishedAt": "2026-10-07T14:33:39.000Z",
+      "xQuery": "立憲 食料品消費税ゼロから転換"
+    },
     {
       "time": "23:16",
       "title": "硤合氏ら化学賞 1世紀超え謎解く",
@@ -10,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "硤合氏ら化学賞 1世紀超え謎解く"
     },
     {
-      "time": "18:07",
-      "title": "盲導犬との賃貸入居拒否 国調査へ",
+      "time": "20:37",
+      "title": "硤合さん 受賞の知らせは買い物中",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597904?source=rss",
-      "publishedAt": "2026-10-07T09:07:35.000Z",
-      "xQuery": "盲導犬との賃貸入居拒否 国調査へ"
+      "url": "https://news.yahoo.co.jp/pickup/6597922?source=rss",
+      "publishedAt": "2026-10-07T11:37:03.000Z",
+      "xQuery": "硤合さん 受賞の知らせは買い物中"
     },
     {
       "time": "20:13",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "首相を中国側呼び捨て 外務省批判"
     },
     {
-      "time": "22:44",
-      "title": "複数の自治体など HP閲覧できず",
+      "time": "23:33",
+      "title": "サンケイビル売却 入札額1兆円超",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597928?source=rss",
-      "publishedAt": "2026-10-07T13:44:42.000Z",
-      "xQuery": "複数の自治体など HP閲覧できず"
-    },
-    {
-      "time": "22:23",
-      "title": "愛知・大村知事の発言 タイで波紋",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597927?source=rss",
-      "publishedAt": "2026-10-07T13:23:29.000Z",
-      "xQuery": "愛知・大村知事の発言 タイで波紋"
+      "url": "https://news.yahoo.co.jp/pickup/6597933?source=rss",
+      "publishedAt": "2026-10-07T14:33:48.000Z",
+      "xQuery": "サンケイビル売却 入札額1兆円超"
     }
   ]
 };
