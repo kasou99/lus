@@ -1,14 +1,7 @@
 {
-  "updatedAt": "2026-10-07T05:44:46.330Z",
+  "updatedAt": "2026-10-07T06:31:58.999Z",
   "groups": {
     "machineHeadlines": [
-      {
-        "time": "13:39",
-        "title": "日本精工－反発 工作機械向け設計開発・製造管理支援サービスのラインアップを拡充(トレーダーズ・ウェブ)",
-        "source": "Yahoo!ファイナンス",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORk9jSTdyR3pIdDNYcGd2TGZ4WDhldWMySFdhQWw4R0dNQUdIekZHODkyVWhRY05KeUx2M0t0VGowd0dNc1oxcTV0YnZUTTF1aHdkc0w5VF92STBBWGJqX1A0UEo3YklkdlBXSjlIT0hrTlVSVTdUQjFWdGttWE5WMVBxeHlEeWs?oc=5",
-        "publishedAt": "2026-10-07T04:39:02.000Z"
-      },
       {
         "time": "13:55",
         "title": "「JIMTOF2026第33回日本国際工作機械見本市」に出展",
@@ -31,6 +24,13 @@
         "publishedAt": "2026-10-07T04:30:00.000Z"
       },
       {
+        "time": "14:45",
+        "title": "工作機械向け設計開発・製造管理支援サービスのラインアップを拡充",
+        "source": "Excite エキサイト",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB5WGdZZGd4aldqNHkxLUt2WWRBMEFTYk9yWFdaa2t5dEEzNkw0cWJGcWQ4REZXWGNiYm1VYTJNU0FVekNVRkxJZmNoRlJuVHlBUkQtRTQ1OHVqMVoyN2R2ejdDd2RXQWd4VkN4WFpObWJINzVf?oc=5",
+        "publishedAt": "2026-10-07T05:45:00.000Z"
+      },
+      {
         "time": "09:46",
         "title": "教育用の原子炉、存続に課題 国内で稼働、近畿大の１基のみ 赤字運営や燃料返還 学生減、支援求める声",
         "source": "沖縄タイムス社",
@@ -38,11 +38,11 @@
         "publishedAt": "2026-10-07T00:46:30.000Z"
       },
       {
-        "time": "12:43",
-        "title": "工作機械向け設計開発・製造管理支援サービスのラインアップを拡充",
+        "time": "09:00",
+        "title": "次世代設備保全クラウド「M2X」が、点検の省人化と異常の早期発見を支える「メーター機能」をリリース",
         "source": "PR TIMES",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5kb09tMmdIelFrWkZ4SWxaMThWaFFUMExIdURGeGVsa19ZR2NuYm1lQ3ZQZWxWdkdzRk5weUI0MUE1M1VQOTNzdlpscTcxeXdzWllZUFhGcU1peS1BRnh5aXc1al9qMHFaeXc?oc=5",
-        "publishedAt": "2026-10-07T03:43:29.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0wVXZQNDNISXliVllseVJEWXRySDliRlRiQTdtaG1XMk5kZDduNHVLNVBoaG5zYkQ2dkxkOTlSTGVfYTZYTXFsUm1Zem94OFpxS01zNGRxcmNmLW0zVy1HNlJIWlNBWVZoRmc?oc=5",
+        "publishedAt": "2026-10-07T00:00:02.000Z"
       },
       {
         "time": "16:30",
@@ -105,6 +105,13 @@
     ],
     "economyHeadlines": [
       {
+        "time": "15:09",
+        "title": "公取委 ビール大手の動き長年注視",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6597875?source=rss",
+        "publishedAt": "2026-10-07T06:09:57.000Z"
+      },
+      {
         "time": "12:19",
         "title": "公取委 なぜビール4社に強制調査",
         "source": "Yahoo!ニュース",
@@ -117,13 +124,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6597843?source=rss",
         "publishedAt": "2026-10-07T01:45:44.000Z"
-      },
-      {
-        "time": "16:26",
-        "title": "10年物国債 表面利率を年3.1%に",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597758?source=rss",
-        "publishedAt": "2026-10-06T07:26:11.000Z"
       },
       {
         "time": "09:55",
@@ -156,6 +156,13 @@
         "publishedAt": "2026-10-06T23:25:01.000Z"
       },
       {
+        "time": "14:59",
+        "title": "奈良母娘遺体 殺人疑いで男再逮捕",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6597874?source=rss",
+        "publishedAt": "2026-10-07T05:59:31.000Z"
+      },
+      {
         "time": "11:34",
         "title": "転落巻き添え死は「殺人」父訴え",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6597801?source=rss",
         "publishedAt": "2026-10-06T14:14:23.000Z"
-      },
-      {
-        "time": "12:16",
-        "title": "沖縄インフル流行 緊急事態と医師",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597858?source=rss",
-        "publishedAt": "2026-10-07T03:16:01.000Z"
       }
     ],
     "subsidyHeadlines": [

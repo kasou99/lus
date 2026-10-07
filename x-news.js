@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-07T05:44:46.997Z",
+  "updatedAt": "2026-10-07T06:31:59.566Z",
   "items": [
     {
       "time": "14:08",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "ソフト強豪主将自殺 高校側を提訴"
     },
     {
-      "time": "12:10",
-      "title": "PIECE OF BAKE運営破産申立てへ",
+      "time": "14:36",
+      "title": "採決で居眠り 起立せず「反対」に",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597853?source=rss",
-      "publishedAt": "2026-10-07T03:10:22.000Z",
-      "xQuery": "PIECE OF BAKE運営破産申立てへ"
+      "url": "https://news.yahoo.co.jp/pickup/6597872?source=rss",
+      "publishedAt": "2026-10-07T05:36:10.000Z",
+      "xQuery": "採決で居眠り 起立せず「反対」に"
     }
   ]
 };
