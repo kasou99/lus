@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-07T21:16:53.285Z",
+  "updatedAt": "2026-10-07T21:41:39.636Z",
   "items": [
     {
       "time": "04:25",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "千葉県で震度4 津波の心配なし"
     },
     {
-      "time": "23:16",
-      "title": "硤合氏ら化学賞 1世紀超え謎解く",
+      "time": "06:30",
+      "title": "硤合氏発見 不斉自己触媒作用とは",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597926?source=rss",
-      "publishedAt": "2026-10-07T14:16:51.000Z",
-      "xQuery": "硤合氏ら化学賞 1世紀超え謎解く"
+      "url": "https://news.yahoo.co.jp/pickup/6597938?source=rss",
+      "publishedAt": "2026-10-07T21:30:20.000Z",
+      "xQuery": "硤合氏発見 不斉自己触媒作用とは"
     },
     {
       "time": "23:47",
