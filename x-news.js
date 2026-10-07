@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-07T13:43:49.524Z",
+  "updatedAt": "2026-10-07T14:19:27.477Z",
   "items": [
     {
-      "time": "22:00",
-      "title": "中継 ノーベル化学賞の硤合氏会見",
+      "time": "23:16",
+      "title": "硤合氏ら化学賞 1世紀超え謎解く",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597923?source=rss",
-      "publishedAt": "2026-10-07T13:00:17.000Z",
-      "xQuery": "中継 ノーベル化学賞の硤合氏会見"
+      "url": "https://news.yahoo.co.jp/pickup/6597926?source=rss",
+      "publishedAt": "2026-10-07T14:16:51.000Z",
+      "xQuery": "硤合氏ら化学賞 1世紀超え謎解く"
     },
     {
-      "time": "19:56",
-      "title": "化学賞 日本人は2年連続10人目",
+      "time": "18:07",
+      "title": "盲導犬との賃貸入居拒否 国調査へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597916?source=rss",
-      "publishedAt": "2026-10-07T10:56:44.000Z",
-      "xQuery": "化学賞 日本人は2年連続10人目"
+      "url": "https://news.yahoo.co.jp/pickup/6597904?source=rss",
+      "publishedAt": "2026-10-07T09:07:35.000Z",
+      "xQuery": "盲導犬との賃貸入居拒否 国調査へ"
     },
     {
       "time": "20:13",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "首相を中国側呼び捨て 外務省批判"
     },
     {
+      "time": "22:44",
+      "title": "複数の自治体など HP閲覧できず",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6597928?source=rss",
+      "publishedAt": "2026-10-07T13:44:42.000Z",
+      "xQuery": "複数の自治体など HP閲覧できず"
+    },
+    {
       "time": "22:23",
       "title": "愛知・大村知事の発言 タイで波紋",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6597927?source=rss",
       "publishedAt": "2026-10-07T13:23:29.000Z",
       "xQuery": "愛知・大村知事の発言 タイで波紋"
-    },
-    {
-      "time": "21:17",
-      "title": "宜野湾で女性殺害疑い 男を逮捕",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597924?source=rss",
-      "publishedAt": "2026-10-07T12:17:12.000Z",
-      "xQuery": "宜野湾で女性殺害疑い 男を逮捕"
     }
   ]
 };
