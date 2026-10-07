@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T09:22:11.303Z",
+  "updatedAt": "2026-10-07T09:45:47.084Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -105,6 +105,13 @@
     ],
     "economyHeadlines": [
       {
+        "time": "18:21",
+        "title": "トラブル相次ぐ歯の自由診療 なぜ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6597890?source=rss",
+        "publishedAt": "2026-10-07T09:21:34.000Z"
+      },
+      {
         "time": "15:09",
         "title": "公取委 ビール大手の動き長年注視",
         "source": "Yahoo!ニュース",
@@ -124,13 +131,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6597843?source=rss",
         "publishedAt": "2026-10-07T01:45:44.000Z"
-      },
-      {
-        "time": "09:55",
-        "title": "実質賃金10年ぶり8カ月連続プラス",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597835?source=rss",
-        "publishedAt": "2026-10-07T00:55:21.000Z"
       },
       {
         "time": "10:23",

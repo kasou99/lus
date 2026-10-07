@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-07T09:22:11.896Z",
+  "updatedAt": "2026-10-07T09:45:47.696Z",
   "items": [
     {
       "time": "16:33",
@@ -8,6 +8,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6597882?source=rss",
       "publishedAt": "2026-10-07T07:33:46.000Z",
       "xQuery": "簗氏が別会合でも同様の発言 証言"
+    },
+    {
+      "time": "17:31",
+      "title": "選挙運動巡る判決 高校生らが控訴",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6597895?source=rss",
+      "publishedAt": "2026-10-07T08:31:02.000Z",
+      "xQuery": "選挙運動巡る判決 高校生らが控訴"
     },
     {
       "time": "17:37",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "琵琶湖に転落し心肺停止 10代か"
     },
     {
-      "time": "16:36",
-      "title": "貸トランクルームで遺体発見 愛知",
+      "time": "18:04",
+      "title": "HIS 旅券情報627人分が流出の恐れ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597880?source=rss",
-      "publishedAt": "2026-10-07T07:36:22.000Z",
-      "xQuery": "貸トランクルームで遺体発見 愛知"
-    },
-    {
-      "time": "14:38",
-      "title": "マンジャロ求め訪日 韓国で広がり",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597871?source=rss",
-      "publishedAt": "2026-10-07T05:38:04.000Z",
-      "xQuery": "マンジャロ求め訪日 韓国で広がり"
+      "url": "https://news.yahoo.co.jp/pickup/6597900?source=rss",
+      "publishedAt": "2026-10-07T09:04:21.000Z",
+      "xQuery": "HIS 旅券情報627人分が流出の恐れ"
     }
   ]
 };
