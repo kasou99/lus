@@ -1,21 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-07T02:33:34.642Z",
+  "updatedAt": "2026-10-07T03:24:49.372Z",
   "items": [
     {
-      "time": "10:45",
-      "title": "ビール大手4社カルテル疑い 調査",
+      "time": "11:11",
+      "title": "政府 第2次補正予算編成を検討",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597843?source=rss",
-      "publishedAt": "2026-10-07T01:45:44.000Z",
-      "xQuery": "ビール大手4社カルテル疑い 調査"
-    },
-    {
-      "time": "09:55",
-      "title": "実質賃金10年ぶり8カ月連続プラス",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597835?source=rss",
-      "publishedAt": "2026-10-07T00:55:21.000Z",
-      "xQuery": "実質賃金10年ぶり8カ月連続プラス"
+      "url": "https://news.yahoo.co.jp/pickup/6597844?source=rss",
+      "publishedAt": "2026-10-07T02:11:56.000Z",
+      "xQuery": "政府 第2次補正予算編成を検討"
     },
     {
       "time": "08:25",
@@ -26,20 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "国交省否定の簗氏圧力 市長は疑念"
     },
     {
-      "time": "10:23",
-      "title": "中小の「賃上げ倒産」増加 背景は",
+      "time": "10:45",
+      "title": "ビール大手4社カルテル疑い 調査",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597839?source=rss",
-      "publishedAt": "2026-10-07T01:23:46.000Z",
-      "xQuery": "中小の「賃上げ倒産」増加 背景は"
+      "url": "https://news.yahoo.co.jp/pickup/6597843?source=rss",
+      "publishedAt": "2026-10-07T01:45:44.000Z",
+      "xQuery": "ビール大手4社カルテル疑い 調査"
     },
     {
-      "time": "10:52",
-      "title": "ノーベル文学賞「男女交互」の謎",
+      "time": "11:34",
+      "title": "転落巻き添え死は「殺人」父訴え",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597842?source=rss",
-      "publishedAt": "2026-10-07T01:52:27.000Z",
-      "xQuery": "ノーベル文学賞「男女交互」の謎"
+      "url": "https://news.yahoo.co.jp/pickup/6597845?source=rss",
+      "publishedAt": "2026-10-07T02:34:35.000Z",
+      "xQuery": "転落巻き添え死は「殺人」父訴え"
+    },
+    {
+      "time": "08:04",
+      "title": "シャウエッセンのX投稿 なぜ炎上",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6597822?source=rss",
+      "publishedAt": "2026-10-06T23:04:30.000Z",
+      "xQuery": "シャウエッセンのX投稿 なぜ炎上"
     }
   ]
 };
