@@ -1,14 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-07T07:26:18.152Z",
+  "updatedAt": "2026-10-07T07:48:32.117Z",
   "items": [
-    {
-      "time": "14:08",
-      "title": "ガザ戦闘から3年 死者は7万4000人",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597866?source=rss",
-      "publishedAt": "2026-10-07T05:08:04.000Z",
-      "xQuery": "ガザ戦闘から3年 死者は7万4000人"
-    },
     {
       "time": "15:09",
       "title": "公取委 ビール大手の動き長年注視",
@@ -18,20 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "公取委 ビール大手の動き長年注視"
     },
     {
-      "time": "14:59",
-      "title": "奈良母娘遺体 殺人疑いで男再逮捕",
+      "time": "16:33",
+      "title": "簗氏が別会合でも同様の発言 証言",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597874?source=rss",
-      "publishedAt": "2026-10-07T05:59:31.000Z",
-      "xQuery": "奈良母娘遺体 殺人疑いで男再逮捕"
-    },
-    {
-      "time": "14:07",
-      "title": "ソフト強豪主将自殺 高校側を提訴",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597865?source=rss",
-      "publishedAt": "2026-10-07T05:07:56.000Z",
-      "xQuery": "ソフト強豪主将自殺 高校側を提訴"
+      "url": "https://news.yahoo.co.jp/pickup/6597882?source=rss",
+      "publishedAt": "2026-10-07T07:33:46.000Z",
+      "xQuery": "簗氏が別会合でも同様の発言 証言"
     },
     {
       "time": "14:36",
@@ -40,6 +24,22 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6597872?source=rss",
       "publishedAt": "2026-10-07T05:36:10.000Z",
       "xQuery": "採決で居眠り 起立せず「反対」に"
+    },
+    {
+      "time": "14:38",
+      "title": "マンジャロ求め訪日 韓国で広がり",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6597871?source=rss",
+      "publishedAt": "2026-10-07T05:38:04.000Z",
+      "xQuery": "マンジャロ求め訪日 韓国で広がり"
+    },
+    {
+      "time": "16:38",
+      "title": "茨城県・茨城県警のHP 閲覧不可",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6597884?source=rss",
+      "publishedAt": "2026-10-07T07:38:13.000Z",
+      "xQuery": "茨城県・茨城県警のHP 閲覧不可"
     }
   ]
 };
