@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T22:41:08.321Z",
+  "updatedAt": "2026-10-07T23:15:52.062Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -52,11 +52,11 @@
         "publishedAt": "2026-10-07T04:30:00.000Z"
       },
       {
-        "time": "10:15",
-        "title": "次世代設備保全クラウド「M2X」が、点検の省人化と異常の早期発見を支える「メーター機能」をリリース",
-        "source": "Infoseek",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE51TUJjenNfRzZXUjB5UExKanpveGxMTUdXZkNGdGphSm82MjJOSmt0bzNkak01eVF6al9HWDNHRFR3Qk5sRFZKRVRNdkFQZDExeUNFVXg4MDR4MHRya0lvTDdqbkZ1UmpHNHdHZ25Zekgzdw?oc=5",
-        "publishedAt": "2026-10-07T01:15:27.000Z"
+        "time": "05:00",
+        "title": "ブラザー工業、ベトナムに営業拠点新設 東南ア開拓加速",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE85bWxVbjRDN1YzWkNWblZya2R6a3drLU53cHJBMl9KRWpPaTZVdng5czhoTkFUTnJydmFUbl9qN0dsbnhHUEhEYjVQaGw5dUdnT3d6Tzl1WXQ?oc=5",
+        "publishedAt": "2026-10-07T20:00:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -105,18 +105,11 @@
     ],
     "economyHeadlines": [
       {
-        "time": "18:21",
-        "title": "トラブル相次ぐ歯の自由診療 なぜ",
+        "time": "10:45",
+        "title": "ビール大手4社カルテル疑い 調査",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597890?source=rss",
-        "publishedAt": "2026-10-07T09:21:34.000Z"
-      },
-      {
-        "time": "15:09",
-        "title": "公取委 ビール大手の動き長年注視",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597875?source=rss",
-        "publishedAt": "2026-10-07T06:09:57.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6597843?source=rss",
+        "publishedAt": "2026-10-07T01:45:44.000Z"
       },
       {
         "time": "12:19",
@@ -126,11 +119,25 @@
         "publishedAt": "2026-10-07T03:19:38.000Z"
       },
       {
-        "time": "10:45",
-        "title": "ビール大手4社カルテル疑い 調査",
+        "time": "15:09",
+        "title": "公取委 ビール大手の動き長年注視",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597843?source=rss",
-        "publishedAt": "2026-10-07T01:45:44.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6597875?source=rss",
+        "publishedAt": "2026-10-07T06:09:57.000Z"
+      },
+      {
+        "time": "07:40",
+        "title": "TOPIX構成銘柄 1634→986社へ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6597944?source=rss",
+        "publishedAt": "2026-10-07T22:40:31.000Z"
+      },
+      {
+        "time": "18:21",
+        "title": "トラブル相次ぐ歯の自由診療 なぜ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6597890?source=rss",
+        "publishedAt": "2026-10-07T09:21:34.000Z"
       },
       {
         "time": "23:33",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6597933?source=rss",
         "publishedAt": "2026-10-07T14:33:48.000Z"
-      },
-      {
-        "time": "10:23",
-        "title": "中小の「賃上げ倒産」増加 背景は",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597839?source=rss",
-        "publishedAt": "2026-10-07T01:23:46.000Z"
       }
     ],
     "localHeadlines": [

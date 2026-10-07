@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-07T22:41:09.630Z",
+  "updatedAt": "2026-10-07T23:15:53.195Z",
   "items": [
     {
-      "time": "04:25",
-      "title": "千葉県で震度4 津波の心配なし",
+      "time": "07:40",
+      "title": "TOPIX構成銘柄 1634→986社へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597936?source=rss",
-      "publishedAt": "2026-10-07T19:25:19.000Z",
-      "xQuery": "千葉県で震度4 津波の心配なし"
+      "url": "https://news.yahoo.co.jp/pickup/6597944?source=rss",
+      "publishedAt": "2026-10-07T22:40:31.000Z",
+      "xQuery": "TOPIX構成銘柄 1634→986社へ"
     },
     {
       "time": "06:30",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "硤合氏発見 不斉自己触媒作用とは"
     },
     {
-      "time": "23:47",
-      "title": "簗農相 衆院選巡り公選法違反疑い",
+      "time": "08:03",
+      "title": "外国人材 都市部への転職が増加",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597934?source=rss",
-      "publishedAt": "2026-10-07T14:47:39.000Z",
-      "xQuery": "簗農相 衆院選巡り公選法違反疑い"
+      "url": "https://news.yahoo.co.jp/pickup/6597945?source=rss",
+      "publishedAt": "2026-10-07T23:03:09.000Z",
+      "xQuery": "外国人材 都市部への転職が増加"
     },
     {
       "time": "23:33",
