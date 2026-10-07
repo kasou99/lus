@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-07T07:48:32.117Z",
+  "updatedAt": "2026-10-07T08:27:23.545Z",
   "items": [
     {
       "time": "15:09",
@@ -18,12 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "簗氏が別会合でも同様の発言 証言"
     },
     {
-      "time": "14:36",
-      "title": "採決で居眠り 起立せず「反対」に",
+      "time": "16:36",
+      "title": "貸トランクルームで遺体発見 愛知",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597872?source=rss",
-      "publishedAt": "2026-10-07T05:36:10.000Z",
-      "xQuery": "採決で居眠り 起立せず「反対」に"
+      "url": "https://news.yahoo.co.jp/pickup/6597880?source=rss",
+      "publishedAt": "2026-10-07T07:36:22.000Z",
+      "xQuery": "貸トランクルームで遺体発見 愛知"
+    },
+    {
+      "time": "16:55",
+      "title": "海の家を無許可経営疑い 組長逮捕",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6597885?source=rss",
+      "publishedAt": "2026-10-07T07:55:23.000Z",
+      "xQuery": "海の家を無許可経営疑い 組長逮捕"
     },
     {
       "time": "14:38",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6597871?source=rss",
       "publishedAt": "2026-10-07T05:38:04.000Z",
       "xQuery": "マンジャロ求め訪日 韓国で広がり"
-    },
-    {
-      "time": "16:38",
-      "title": "茨城県・茨城県警のHP 閲覧不可",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597884?source=rss",
-      "publishedAt": "2026-10-07T07:38:13.000Z",
-      "xQuery": "茨城県・茨城県警のHP 閲覧不可"
     }
   ]
 };
