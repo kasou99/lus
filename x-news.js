@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-07T19:16:30.698Z",
+  "updatedAt": "2026-10-07T19:40:10.561Z",
   "items": [
     {
-      "time": "23:33",
-      "title": "立憲 食料品消費税ゼロから転換",
+      "time": "04:25",
+      "title": "千葉県で震度4 津波の心配なし",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597930?source=rss",
-      "publishedAt": "2026-10-07T14:33:39.000Z",
-      "xQuery": "立憲 食料品消費税ゼロから転換"
+      "url": "https://news.yahoo.co.jp/pickup/6597936?source=rss",
+      "publishedAt": "2026-10-07T19:25:19.000Z",
+      "xQuery": "千葉県で震度4 津波の心配なし"
     },
     {
       "time": "23:16",
