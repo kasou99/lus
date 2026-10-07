@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T19:40:09.392Z",
+  "updatedAt": "2026-10-07T20:20:23.391Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,18 +17,18 @@
         "publishedAt": "2026-10-07T10:00:00.000Z"
       },
       {
-        "time": "13:55",
-        "title": "「JIMTOF2026第33回日本国際工作機械見本市」に出展",
-        "source": "PR TIMES",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9pNnhleGgzaXNvcmthZFZ1cjZiRldQY2JJTnF4bnhqLTM2cmZleEZneWszMGN0OTViN21BY3ZreHYyQzkxUHVwQ1BuLXBrcTVLX2tBZlpmSkt1aXNaUS1wanhabVMxTnd3ZEE?oc=5",
-        "publishedAt": "2026-10-07T04:55:01.000Z"
-      },
-      {
         "time": "22:27",
         "title": "画像 | 〈工作機械受注〉夏枯れかき消し絶好調継続､8月は前年比164.7％で過去2位の1978億円､外需は過去最高を更新",
         "source": "東洋経済オンライン",
         "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5UZkgtXzlidGhuTHZMT1E2MkVCY011WXBOMXd6MlpjbDFxQkVyVjUzaTRJWUpEWU0zRUVMVDFiN0VfeTBXV3pIQk9FbjVyNzNJSHRNSVlJeURtSXJ5UVE?oc=5",
         "publishedAt": "2026-10-07T13:27:49.000Z"
+      },
+      {
+        "time": "13:55",
+        "title": "「JIMTOF2026第33回日本国際工作機械見本市」に出展",
+        "source": "PR TIMES",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9pNnhleGgzaXNvcmthZFZ1cjZiRldQY2JJTnF4bnhqLTM2cmZleEZneWszMGN0OTViN21BY3ZreHYyQzkxUHVwQ1BuLXBrcTVLX2tBZlpmSkt1aXNaUS1wanhabVMxTnd3ZEE?oc=5",
+        "publishedAt": "2026-10-07T04:55:01.000Z"
       },
       {
         "time": "13:38",
@@ -38,17 +38,10 @@
         "publishedAt": "2026-10-07T04:38:00.000Z"
       },
       {
-        "time": "05:00",
-        "title": "DMG森精機の人事部長「工作機械に夢中になれる人に期待」",
-        "source": "日本経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBSUV8ybWxmMTVqb2FZOVF5MVcyc2RxSUUtZ2lpR2VfMkMwMkR1WHFab0FId2xMdGJ2V3ZGSWd0ODV2WmozNHJZOEZqTVlhQ2NvT25Ca0hwNTE0NkFGXzZlYXV0RWJBWGMzRFpaNA?oc=5",
-        "publishedAt": "2026-10-06T20:00:00.000Z"
-      },
-      {
         "time": "17:08",
         "title": "株式会社M2X、設備保全クラウドに新機能「メーター機能」を追加し点検の効率化を実現",
         "source": "ニュースメディアVOIX",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4zclVUVkhBN2c5bGRPc2RJOEF4SzVtSHUwdUlYYWZKT20yc3BSV0ZiNnhTdFBrUE9uNmFhLWxGVmpOSURwNkpzYTNCS0FYMFdXWlU3dC16ZWYxamhWa1dKbHpVdzl6TGI2MExYYw?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE42d2dUMEhjM3FnajlNQ3ZxbWZ0a0pOV184U25iN1RZY0dPc2RYVVlVdHItMGpiSTV5UjRKdUdoME5RVUh6bTFzT21hYjBCVU9rVDJIY1FWQ0JrYkZQdGphN1ZIR3RzQnJXdEE?oc=5",
         "publishedAt": "2026-10-07T08:08:54.000Z"
       },
       {
@@ -57,6 +50,13 @@
         "source": "Infoseek",
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE51TUJjenNfRzZXUjB5UExKanpveGxMTUdXZkNGdGphSm82MjJOSmt0bzNkak01eVF6al9HWDNHRFR3Qk5sRFZKRVRNdkFQZDExeUNFVXg4MDR4MHRya0lvTDdqbkZ1UmpHNHdHZ25Zekgzdw?oc=5",
         "publishedAt": "2026-10-07T01:15:27.000Z"
+      },
+      {
+        "time": "13:55",
+        "title": "プレスリリース PRTIMES記事詳細 | さんにちEye 山梨日日新聞デジタル",
+        "source": "sannichi.co.jp",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBka0lSZTVQbWdWZElHazM1dmpVVUcwS0Z6by1lLWVrb3BSaDBDOWEwRjRsOG1ZY3liRnM5bm1ZOGtxV0JpNjQ4bVVRbUQ4WnhOTDFrd1FjSVFjZXE5aGxEckladw?oc=5",
+        "publishedAt": "2026-10-07T04:55:00.000Z"
       }
     ],
     "worldHeadlines": [
