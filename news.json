@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T10:18:37.926Z",
+  "updatedAt": "2026-10-07T10:43:14.714Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,11 +38,18 @@
         "publishedAt": "2026-10-07T08:08:54.000Z"
       },
       {
-        "time": "14:45",
+        "time": "13:55",
+        "title": "プレスリリース PRTIMES記事詳細 | さんにちEye 山梨日日新聞デジタル",
+        "source": "sannichi.co.jp",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBka0lSZTVQbWdWZElHazM1dmpVVUcwS0Z6by1lLWVrb3BSaDBDOWEwRjRsOG1ZY3liRnM5bm1ZOGtxV0JpNjQ4bVVRbUQ4WnhOTDFrd1FjSVFjZXE5aGxEckladw?oc=5",
+        "publishedAt": "2026-10-07T04:55:00.000Z"
+      },
+      {
+        "time": "12:43",
         "title": "工作機械向け設計開発・製造管理支援サービスのラインアップを拡充",
-        "source": "Excite エキサイト",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB5WGdZZGd4aldqNHkxLUt2WWRBMEFTYk9yWFdaa2t5dEEzNkw0cWJGcWQ4REZXWGNiYm1VYTJNU0FVekNVRkxJZmNoRlJuVHlBUkQtRTQ1OHVqMVoyN2R2ejdDd2RXQWd4VkN4WFpObWJINzVf?oc=5",
-        "publishedAt": "2026-10-07T05:45:00.000Z"
+        "source": "PR TIMES",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5kb09tMmdIelFrWkZ4SWxaMThWaFFUMExIdURGeGVsa19ZR2NuYm1lQ3ZQZWxWdkdzRk5weUI0MUE1M1VQOTNzdlpscTcxeXdzWllZUFhGcU1peS1BRnh5aXc1al9qMHFaeXc?oc=5",
+        "publishedAt": "2026-10-07T03:43:29.000Z"
       },
       {
         "time": "09:46",
@@ -50,13 +57,6 @@
         "source": "沖縄タイムス社",
         "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5iN0tCd0s3Sm9ZQ2syUXBxNV9oZGVDZ2lXR2d3d0xranBNVjRnTjRBX0l4Z3J0T2dsU0JRY1Z1NVpQcjdrTGszeHFKR2VNSGhCWkpzTGswY1JmY2xLNnc?oc=5",
         "publishedAt": "2026-10-07T00:46:30.000Z"
-      },
-      {
-        "time": "09:00",
-        "title": "次世代設備保全クラウド「M2X」が、点検の省人化と異常の早期発見を支える「メーター機能」をリリース",
-        "source": "PR TIMES",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0wVXZQNDNISXliVllseVJEWXRySDliRlRiQTdtaG1XMk5kZDduNHVLNVBoaG5zYkQ2dkxkOTlSTGVfYTZYTXFsUm1Zem94OFpxS01zNGRxcmNmLW0zVy1HNlJIWlNBWVZoRmc?oc=5",
-        "publishedAt": "2026-10-07T00:00:02.000Z"
       }
     ],
     "worldHeadlines": [

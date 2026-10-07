@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-07T10:18:39.227Z",
+  "updatedAt": "2026-10-07T10:43:15.613Z",
   "items": [
     {
       "time": "19:16",
@@ -10,12 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "ノーベル化学賞に硤合憲三氏ら"
     },
     {
-      "time": "16:33",
-      "title": "簗氏が別会合でも同様の発言 証言",
+      "time": "19:36",
+      "title": "沖縄知事 首相に事件再発防止要求",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597882?source=rss",
-      "publishedAt": "2026-10-07T07:33:46.000Z",
-      "xQuery": "簗氏が別会合でも同様の発言 証言"
+      "url": "https://news.yahoo.co.jp/pickup/6597915?source=rss",
+      "publishedAt": "2026-10-07T10:36:58.000Z",
+      "xQuery": "沖縄知事 首相に事件再発防止要求"
+    },
+    {
+      "time": "18:14",
+      "title": "損保J 顧客情報6万件が漏えいか",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6597901?source=rss",
+      "publishedAt": "2026-10-07T09:14:22.000Z",
+      "xQuery": "損保J 顧客情報6万件が漏えいか"
     },
     {
       "time": "17:37",
@@ -24,14 +32,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6597897?source=rss",
       "publishedAt": "2026-10-07T08:37:17.000Z",
       "xQuery": "三幸製菓火災 元CEOらを在宅起訴"
-    },
-    {
-      "time": "18:08",
-      "title": "琵琶湖に転落し心肺停止 10代か",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597903?source=rss",
-      "publishedAt": "2026-10-07T09:08:25.000Z",
-      "xQuery": "琵琶湖に転落し心肺停止 10代か"
     },
     {
       "time": "18:04",
