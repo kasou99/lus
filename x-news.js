@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-07T06:31:59.566Z",
+  "updatedAt": "2026-10-07T07:26:18.152Z",
   "items": [
     {
       "time": "14:08",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "ガザ戦闘から3年 死者は7万4000人"
     },
     {
-      "time": "12:00",
-      "title": "簗農相 会見で辞任を改めて否定",
+      "time": "15:09",
+      "title": "公取委 ビール大手の動き長年注視",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597854?source=rss",
-      "publishedAt": "2026-10-07T03:00:42.000Z",
-      "xQuery": "簗農相 会見で辞任を改めて否定"
+      "url": "https://news.yahoo.co.jp/pickup/6597875?source=rss",
+      "publishedAt": "2026-10-07T06:09:57.000Z",
+      "xQuery": "公取委 ビール大手の動き長年注視"
     },
     {
-      "time": "13:31",
-      "title": "ハッカー集団Qilin 日本に言及",
+      "time": "14:59",
+      "title": "奈良母娘遺体 殺人疑いで男再逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597862?source=rss",
-      "publishedAt": "2026-10-07T04:31:58.000Z",
-      "xQuery": "ハッカー集団Qilin 日本に言及"
+      "url": "https://news.yahoo.co.jp/pickup/6597874?source=rss",
+      "publishedAt": "2026-10-07T05:59:31.000Z",
+      "xQuery": "奈良母娘遺体 殺人疑いで男再逮捕"
     },
     {
       "time": "14:07",
