@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T08:27:22.956Z",
+  "updatedAt": "2026-10-07T08:50:52.464Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -170,6 +170,13 @@
         "publishedAt": "2026-10-07T07:55:23.000Z"
       },
       {
+        "time": "17:37",
+        "title": "三幸製菓火災 元CEOらを在宅起訴",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6597897?source=rss",
+        "publishedAt": "2026-10-07T08:37:17.000Z"
+      },
+      {
         "time": "14:07",
         "title": "ソフト強豪主将自殺 高校側を提訴",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6597880?source=rss",
         "publishedAt": "2026-10-07T07:36:22.000Z"
-      },
-      {
-        "time": "23:14",
-        "title": "シルバーカーはまり電車衝突 死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597801?source=rss",
-        "publishedAt": "2026-10-06T14:14:23.000Z"
       }
     ],
     "subsidyHeadlines": [
