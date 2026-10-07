@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-07T14:43:20.782Z",
+  "updatedAt": "2026-10-07T15:27:58.227Z",
   "items": [
     {
       "time": "23:33",
@@ -18,20 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "硤合氏ら化学賞 1世紀超え謎解く"
     },
     {
-      "time": "20:37",
-      "title": "硤合さん 受賞の知らせは買い物中",
+      "time": "23:47",
+      "title": "簗農相 衆院選巡り公選法違反疑い",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597922?source=rss",
-      "publishedAt": "2026-10-07T11:37:03.000Z",
-      "xQuery": "硤合さん 受賞の知らせは買い物中"
-    },
-    {
-      "time": "20:13",
-      "title": "首相を中国側呼び捨て 外務省批判",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597919?source=rss",
-      "publishedAt": "2026-10-07T11:13:02.000Z",
-      "xQuery": "首相を中国側呼び捨て 外務省批判"
+      "url": "https://news.yahoo.co.jp/pickup/6597934?source=rss",
+      "publishedAt": "2026-10-07T14:47:39.000Z",
+      "xQuery": "簗農相 衆院選巡り公選法違反疑い"
     },
     {
       "time": "23:33",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6597933?source=rss",
       "publishedAt": "2026-10-07T14:33:48.000Z",
       "xQuery": "サンケイビル売却 入札額1兆円超"
+    },
+    {
+      "time": "22:23",
+      "title": "愛知・大村知事の発言 タイで波紋",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6597927?source=rss",
+      "publishedAt": "2026-10-07T13:23:29.000Z",
+      "xQuery": "愛知・大村知事の発言 タイで波紋"
     }
   ]
 };
