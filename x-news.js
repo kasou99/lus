@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-07T03:24:49.372Z",
+  "updatedAt": "2026-10-07T03:48:49.747Z",
   "items": [
+    {
+      "time": "12:00",
+      "title": "簗農相 会見で辞任を改めて否定",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6597854?source=rss",
+      "publishedAt": "2026-10-07T03:00:42.000Z",
+      "xQuery": "簗農相 会見で辞任を改めて否定"
+    },
     {
       "time": "11:11",
       "title": "政府 第2次補正予算編成を検討",
@@ -8,14 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6597844?source=rss",
       "publishedAt": "2026-10-07T02:11:56.000Z",
       "xQuery": "政府 第2次補正予算編成を検討"
-    },
-    {
-      "time": "08:25",
-      "title": "国交省否定の簗氏圧力 市長は疑念",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597823?source=rss",
-      "publishedAt": "2026-10-06T23:25:01.000Z",
-      "xQuery": "国交省否定の簗氏圧力 市長は疑念"
     },
     {
       "time": "10:45",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "転落巻き添え死は「殺人」父訴え"
     },
     {
-      "time": "08:04",
-      "title": "シャウエッセンのX投稿 なぜ炎上",
+      "time": "12:10",
+      "title": "PIECE OF BAKE運営破産申立てへ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597822?source=rss",
-      "publishedAt": "2026-10-06T23:04:30.000Z",
-      "xQuery": "シャウエッセンのX投稿 なぜ炎上"
+      "url": "https://news.yahoo.co.jp/pickup/6597853?source=rss",
+      "publishedAt": "2026-10-07T03:10:22.000Z",
+      "xQuery": "PIECE OF BAKE運営破産申立てへ"
     }
   ]
 };
