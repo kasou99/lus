@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-07T11:16:40.223Z",
+  "updatedAt": "2026-10-07T11:41:50.548Z",
   "items": [
     {
       "time": "19:58",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "沖縄知事 首相に事件再発防止要求"
     },
     {
+      "time": "20:13",
+      "title": "首相を中国側呼び捨て 外務省批判",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6597919?source=rss",
+      "publishedAt": "2026-10-07T11:13:02.000Z",
+      "xQuery": "首相を中国側呼び捨て 外務省批判"
+    },
+    {
       "time": "18:14",
       "title": "損保J 顧客情報6万件が漏えいか",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6597901?source=rss",
       "publishedAt": "2026-10-07T09:14:22.000Z",
       "xQuery": "損保J 顧客情報6万件が漏えいか"
-    },
-    {
-      "time": "19:53",
-      "title": "琵琶湖に男子中学生転落 心肺停止",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597918?source=rss",
-      "publishedAt": "2026-10-07T10:53:21.000Z",
-      "xQuery": "琵琶湖に男子中学生転落 心肺停止"
     },
     {
       "time": "17:37",
