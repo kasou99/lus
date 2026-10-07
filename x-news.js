@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-07T12:56:23.348Z",
+  "updatedAt": "2026-10-07T13:24:14.267Z",
   "items": [
+    {
+      "time": "22:00",
+      "title": "中継 ノーベル化学賞の硤合氏会見",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6597923?source=rss",
+      "publishedAt": "2026-10-07T13:00:17.000Z",
+      "xQuery": "中継 ノーベル化学賞の硤合氏会見"
+    },
     {
       "time": "19:56",
       "title": "化学賞 日本人は2年連続10人目",
@@ -8,14 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6597916?source=rss",
       "publishedAt": "2026-10-07T10:56:44.000Z",
       "xQuery": "化学賞 日本人は2年連続10人目"
-    },
-    {
-      "time": "19:36",
-      "title": "沖縄知事 首相に事件再発防止要求",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597915?source=rss",
-      "publishedAt": "2026-10-07T10:36:58.000Z",
-      "xQuery": "沖縄知事 首相に事件再発防止要求"
     },
     {
       "time": "20:13",
