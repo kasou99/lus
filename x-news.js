@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-06T23:40:34.053Z",
+  "updatedAt": "2026-10-07T00:54:40.006Z",
   "items": [
     {
       "time": "07:31",
@@ -10,14 +10,6 @@ window.LUS_X_NEWS = {
       "xQuery": "攻撃で情報漏洩被害 今年500件超"
     },
     {
-      "time": "07:15",
-      "title": "自衛隊に原潜導入 検討案が浮上",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597813?source=rss",
-      "publishedAt": "2026-10-06T22:15:35.000Z",
-      "xQuery": "自衛隊に原潜導入 検討案が浮上"
-    },
-    {
       "time": "08:27",
       "title": "独情報機関の元長官 スパイ容疑",
       "source": "Yahoo!ニュース",
@@ -26,20 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "独情報機関の元長官 スパイ容疑"
     },
     {
-      "time": "06:55",
-      "title": "ヘアピンカーブで横転 高校生死傷",
+      "time": "08:43",
+      "title": "水泳授業 性的被害相談把握も委託",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597812?source=rss",
-      "publishedAt": "2026-10-06T21:55:48.000Z",
-      "xQuery": "ヘアピンカーブで横転 高校生死傷"
+      "url": "https://news.yahoo.co.jp/pickup/6597826?source=rss",
+      "publishedAt": "2026-10-06T23:43:39.000Z",
+      "xQuery": "水泳授業 性的被害相談把握も委託"
     },
     {
-      "time": "08:04",
-      "title": "シャウエッセンのX投稿 なぜ炎上",
+      "time": "09:33",
+      "title": "執行失敗の米死刑囚 意識戻り発話",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597822?source=rss",
-      "publishedAt": "2026-10-06T23:04:30.000Z",
-      "xQuery": "シャウエッセンのX投稿 なぜ炎上"
+      "url": "https://news.yahoo.co.jp/pickup/6597833?source=rss",
+      "publishedAt": "2026-10-07T00:33:55.000Z",
+      "xQuery": "執行失敗の米死刑囚 意識戻り発話"
+    },
+    {
+      "time": "09:39",
+      "title": "「最強の拍手」研究→校内で金賞",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6597836?source=rss",
+      "publishedAt": "2026-10-07T00:39:52.000Z",
+      "xQuery": "「最強の拍手」研究→校内で金賞"
     }
   ]
 };
