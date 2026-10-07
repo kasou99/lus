@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T12:29:57.532Z",
+  "updatedAt": "2026-10-07T12:56:22.656Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -15,6 +15,13 @@
         "source": "オートメーション新聞WEB",
         "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5fTmR4UkNlWmRyeGtnelFTam1lNDBlc1ZEdnVpbVM4dnNkQ1JDZzJMNHdqYWdLMVM3S2RiSFM5MlpjTGNySTBKRjZCdzlJQXcxWlc4Nkw1WUthZw?oc=5",
         "publishedAt": "2026-10-07T10:00:00.000Z"
+      },
+      {
+        "time": "19:27",
+        "title": "画像 | 〈工作機械受注〉夏枯れかき消し絶好調継続､8月は前年比164.7％で過去2位の1978億円､外需は過去最高を更新",
+        "source": "東洋経済オンライン",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1fR3lOVEMwR09KcTFUS1prdGd5Y3JTRFU3RkQzOUFsdHBRMGlkMlJyMnhiWUlWd3ZnLXA1Tkh3TmFRdExvcmJaYllpcEsyQXZ3T0tDdDFiVQ?oc=5",
+        "publishedAt": "2026-10-07T10:27:09.000Z"
       },
       {
         "time": "05:00",
@@ -50,13 +57,6 @@
         "source": "PR TIMES",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5kb09tMmdIelFrWkZ4SWxaMThWaFFUMExIdURGeGVsa19ZR2NuYm1lQ3ZQZWxWdkdzRk5weUI0MUE1M1VQOTNzdlpscTcxeXdzWllZUFhGcU1peS1BRnh5aXc1al9qMHFaeXc?oc=5",
         "publishedAt": "2026-10-07T03:43:29.000Z"
-      },
-      {
-        "time": "12:00",
-        "title": "リックス・福岡事業所、研削自動化で内製率上げ 回転継ぎ手の需要増に対応",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9hYUhTSTdFb3hfME5kNnlwZXVrS3d5X2NDMW9nRm1Da3VQSko3aDl0M1dPNHdITll5cTJCcFUtaWJZV2pBcGtqTk5ka3BEaXd6SnVqWkVCZGY?oc=5",
-        "publishedAt": "2026-10-07T03:00:00.000Z"
       }
     ],
     "worldHeadlines": [
