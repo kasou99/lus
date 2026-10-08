@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-08T02:31:42.731Z",
+  "updatedAt": "2026-10-08T03:26:03.547Z",
   "items": [
     {
-      "time": "09:38",
-      "title": "ビール大手を調査 経営層関与焦点",
+      "time": "11:45",
+      "title": "首相 簗農相を更迭しない方針示す",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597955?source=rss",
-      "publishedAt": "2026-10-08T00:38:29.000Z",
-      "xQuery": "ビール大手を調査 経営層関与焦点"
+      "url": "https://news.yahoo.co.jp/pickup/6597972?source=rss",
+      "publishedAt": "2026-10-08T02:45:05.000Z",
+      "xQuery": "首相 簗農相を更迭しない方針示す"
     },
     {
       "time": "10:22",
@@ -18,6 +18,14 @@ window.LUS_X_NEWS = {
       "xQuery": "陸自情報収集 地検に告訴・告発状"
     },
     {
+      "time": "12:04",
+      "title": "硤合さん受賞 広島の仲間が祝福",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6597974?source=rss",
+      "publishedAt": "2026-10-08T03:04:45.000Z",
+      "xQuery": "硤合さん受賞 広島の仲間が祝福"
+    },
+    {
       "time": "10:48",
       "title": "湖に転落し中1心肺停止 呼吸回復",
       "source": "Yahoo!ニュース",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "湖に転落し中1心肺停止 呼吸回復"
     },
     {
-      "time": "09:02",
-      "title": "八田與一容疑者目撃情報 関東で増",
+      "time": "11:59",
+      "title": "千葉酒々井の団地 浸水深なお1m",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597952?source=rss",
-      "publishedAt": "2026-10-08T00:02:41.000Z",
-      "xQuery": "八田與一容疑者目撃情報 関東で増"
-    },
-    {
-      "time": "09:40",
-      "title": "意識回復の米死刑囚に重い症状",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597956?source=rss",
-      "publishedAt": "2026-10-08T00:40:19.000Z",
-      "xQuery": "意識回復の米死刑囚に重い症状"
+      "url": "https://news.yahoo.co.jp/pickup/6597975?source=rss",
+      "publishedAt": "2026-10-08T02:59:44.000Z",
+      "xQuery": "千葉酒々井の団地 浸水深なお1m"
     }
   ]
 };

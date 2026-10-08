@@ -1,65 +1,72 @@
 {
-  "updatedAt": "2026-10-08T02:31:42.059Z",
+  "updatedAt": "2026-10-08T03:25:55.497Z",
   "groups": {
     "machineHeadlines": [
       {
-        "time": "10:56",
-        "title": "工作機械展 小型ファイバーレーザー機 アマダが世界初披露 26日から（日刊産業新聞）",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9jZThPb00tUkZIczVnNjAtaFVoUkRWMEo0d3lCX3NhVWtJQk9fam1pM1N4NkVDS3lvX2MweXpwYzk1UE5pV0ptMjB1ZW9pdGRnd2dlVXZLWklhcm0yeTk4ZkJVT1dVS01veXNrdnVvYUVnM29XZDI3WmVqT1BnTlU?oc=5",
-        "publishedAt": "2026-10-08T01:56:03.000Z"
-      },
-      {
-        "time": "10:00",
-        "title": "コスモ石油とGE Vernovaが製油所の設備保全高度化に向けた覚書を締結 ～生成AI・データ分析を活用した次世代の設備保全を推進～",
-        "source": "PR TIMES",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1taUlUcEZUZl9hTjlYamZ6Q3o3YWplR2xDNjBzcElpcUplbXEwREZGaGlKbUlyREtxa2laSk9WcV9GZFZ6WkM1Q01VUkZOMk5SaFA2c1plN1hLZlp1WGNvLTlvdVJzVk1OWUE?oc=5",
-        "publishedAt": "2026-10-08T01:00:02.000Z"
-      },
-      {
-        "time": "18:58",
-        "title": "【工作機械向け設計開発・製造管理支援サービス】日本精工、高度なスピンドル解析を可能にする「MT-Click!Speedy Premium」と軸受情報管理サービス「NSK Verify API」の提供開始",
-        "source": "www.ctiweb.co.jp",
-        "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxQQmo4YzIyLWVId194UGUzdlZJV29JUnNKUGFwdkJMa1M4VEM0MkRMVnAwTm5GelNjdlNGMm5DSHpyRU01cHhkRFBZN3BiX1hEa3g2MWQ2bHZlWm1YOUVVdWwyd1pyODE4TlVFSDR1NDZFd0RBVlNJYnN2YTVHX0U3dkliNFlGak5TLWR3eFBpYjcwcVBjTndzemljNWlHYW1xeDdQQ3ZPN3V0VVBaUjN1Nl9OZlgyQ19iR3NKUGt3ZmRnaWJEZzBwMVdvM1JYYUxMS3BPTzFuTkpEZmpMclNqU1ZBZGY5cEF6SXZNZGNodHkyLXBXLWl0UGx3VERxSnVKb00tUTJpdWNOTERUZFBPbmdJbVZQNTRSNmtmcFNCaER6WXNtbnQyMlZqSVI4T3gzRUxwZHlmM2FtM1dEdkZSNE1IR0M2TE16MEtVbTJQNHNaVjctdWc?oc=5",
-        "publishedAt": "2026-10-07T09:58:41.000Z"
-      },
-      {
         "time": "10:45",
-        "title": "【10/20(火)・22(木)・27(火)11:00‐】次世代設備保全クラウド「M2X」で何ができる？無料オンラインデモセミナー開催",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5hcXdQdGx6X3N3dVd5aGdCbHVKWXNZb3dneFZjZXQ2SmM1cVJieGNNbTNJWVo5TElfVVpBV0xaS0dqWjBSblpKU04zWG1HSHpMeEw3eURKU0UtQmR3OGw5QkNlQUxlazVpb25EMUFTbjZEVnR3RHhFek1ldw?oc=5",
-        "publishedAt": "2026-10-08T01:45:23.000Z"
+        "title": "ビール大手4社カルテル疑い 調査",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6597843?source=rss",
+        "publishedAt": "2026-10-07T01:45:44.000Z"
       },
       {
-        "time": "11:05",
-        "title": "コスモ石油とGE Vernovaが手を組み、次世代設備保全の高度化を目指す覚書締結",
-        "source": "ニュースメディアVOIX",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBRY0JHYm00WkFiakFobnpUZnI3ZFJMamtpTURvY1hLR3A2cGxMX1k0UnE2X1FlYldsMXVRUUhtdWxBVjBGNkNTakJ0UTNPSmZNXzgxOTN5UWtLNlExajdBWnRNQ1h3eXNsaTdmbF9hMA?oc=5",
-        "publishedAt": "2026-10-08T02:05:54.000Z"
+        "time": "11:17",
+        "title": "ビール4社 価格一覧表を共有か",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6597970?source=rss",
+        "publishedAt": "2026-10-08T02:17:33.000Z"
       },
       {
-        "time": "19:00",
-        "title": "オムロン、「盤レス化ソリューション」展開強化 変わる制御盤とプロセス 変革へ大きな一歩 盤外設置用の機器を拡充",
-        "source": "オートメーション新聞WEB",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5fTmR4UkNlWmRyeGtnelFTam1lNDBlc1ZEdnVpbVM4dnNkQ1JDZzJMNHdqYWdLMVM3S2RiSFM5MlpjTGNySTBKRjZCdzlJQXcxWlc4Nkw1WUthZw?oc=5",
-        "publishedAt": "2026-10-07T10:00:00.000Z"
+        "time": "09:38",
+        "title": "ビール大手を調査 経営層関与焦点",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6597955?source=rss",
+        "publishedAt": "2026-10-08T00:38:29.000Z"
       },
       {
-        "time": "22:27",
-        "title": "画像 | 〈工作機械受注〉夏枯れかき消し絶好調継続､8月は前年比164.7％で過去2位の1978億円､外需は過去最高を更新",
-        "source": "東洋経済オンライン",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5UZkgtXzlidGhuTHZMT1E2MkVCY011WXBOMXd6MlpjbDFxQkVyVjUzaTRJWUpEWU0zRUVMVDFiN0VfeTBXV3pIQk9FbjVyNzNJSHRNSVlJeURtSXJ5UVE?oc=5",
-        "publishedAt": "2026-10-07T13:27:49.000Z"
+        "time": "07:40",
+        "title": "TOPIX構成銘柄 1634→986社へ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6597944?source=rss",
+        "publishedAt": "2026-10-07T22:40:31.000Z"
       },
       {
-        "time": "13:38",
-        "title": "日本精工－反発 工作機械向け設計開発・製造管理支援サービスのラインアップを拡充",
-        "source": "TradingView",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5wLVJ0NGlJRGk0V255elhMcXVRQlE0UERYeVVDZGl4UnBZeUNJeWRtX0ZaU2lSX3FKd3RaRFZSa2o2V0JwemVpa29kSU5EbjZvWF9mWTdqc0RnSGJGSWxjLWtrb3FqRmxadlNGaVcydUY?oc=5",
-        "publishedAt": "2026-10-07T04:38:00.000Z"
+        "time": "18:21",
+        "title": "トラブル相次ぐ歯の自由診療 なぜ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6597890?source=rss",
+        "publishedAt": "2026-10-07T09:21:34.000Z"
+      },
+      {
+        "time": "23:33",
+        "title": "サンケイビル売却 入札額1兆円超",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6597933?source=rss",
+        "publishedAt": "2026-10-07T14:33:48.000Z"
+      },
+      {
+        "time": "18:13",
+        "title": "育休でパタハラ 男性が会社側提訴",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6597902?source=rss",
+        "publishedAt": "2026-10-07T09:13:37.000Z"
+      },
+      {
+        "time": "12:24",
+        "title": "新聞印刷工場で栽培 キクラゲ人気",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6597980?source=rss",
+        "publishedAt": "2026-10-08T03:24:25.000Z"
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "12:21",
+        "title": "米国防総省 イラン攻撃準備命令か",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6597981?source=rss",
+        "publishedAt": "2026-10-08T03:21:16.000Z"
+      },
       {
         "time": "11:29",
         "title": "ペスト疑い 露政府は「誤報」主張",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6597871?source=rss",
         "publishedAt": "2026-10-07T05:38:04.000Z"
-      },
-      {
-        "time": "10:29",
-        "title": "故障でトイレ不足 NYに緊急着陸",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597841?source=rss",
-        "publishedAt": "2026-10-07T01:29:06.000Z"
       }
     ],
     "economyHeadlines": [
@@ -149,18 +149,25 @@
     ],
     "localHeadlines": [
       {
+        "time": "12:04",
+        "title": "硤合さん受賞 広島の仲間が祝福",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6597974?source=rss",
+        "publishedAt": "2026-10-08T03:04:45.000Z"
+      },
+      {
+        "time": "11:59",
+        "title": "千葉酒々井の団地 浸水深なお1m",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6597975?source=rss",
+        "publishedAt": "2026-10-08T02:59:44.000Z"
+      },
+      {
         "time": "21:17",
         "title": "宜野湾で女性殺害疑い 男を逮捕",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6597924?source=rss",
         "publishedAt": "2026-10-07T12:17:12.000Z"
-      },
-      {
-        "time": "12:47",
-        "title": "立花氏切りつけ 男に懲役12年求刑",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597860?source=rss",
-        "publishedAt": "2026-10-07T03:47:11.000Z"
       },
       {
         "time": "10:48",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6597931?source=rss",
         "publishedAt": "2026-10-07T14:13:30.000Z"
-      },
-      {
-        "time": "17:37",
-        "title": "三幸製菓火災 元CEOらを在宅起訴",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597897?source=rss",
-        "publishedAt": "2026-10-07T08:37:17.000Z"
       }
     ],
     "subsidyHeadlines": [
@@ -215,13 +215,6 @@
         "title": "中小企業省力化投資補助金の公募・採択情報を確認",
         "source": "中小機構",
         "url": "https://seisansei.smrj.go.jp/subsidy_info/laborsaving_subsidy.html"
-      },
-      {
-        "time": "16:00",
-        "title": "【2026年最新】中小企業向け補助金6制度まとめ｜締切・補助率・上限額一覧",
-        "source": "補助金ポータル",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Idm5vYjJtajVIYjhheTZVVTVQTXRXMndVNkRmWnVEZnZyNVRRV3ZncXZhREsxNXBqYXFZSlZmNHhLeHhkbUNRcXljRlJNWVh2ZmZrSXlsVVJsdGI5RGtBdmoxUGx1YlozMUE?oc=5",
-        "publishedAt": "2026-09-30T07:00:00.000Z"
       }
     ]
   }
