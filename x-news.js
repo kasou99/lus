@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-08T13:44:38.180Z",
+  "updatedAt": "2026-10-08T14:20:11.419Z",
   "items": [
     {
-      "time": "17:48",
-      "title": "ハッカー集団の男 独当局が逮捕",
+      "time": "22:55",
+      "title": "在沖縄米軍 9日まで通常訓練停止",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598023?source=rss",
-      "publishedAt": "2026-10-08T08:48:23.000Z",
-      "xQuery": "ハッカー集団の男 独当局が逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6598059?source=rss",
+      "publishedAt": "2026-10-08T13:55:00.000Z",
+      "xQuery": "在沖縄米軍 9日まで通常訓練停止"
     },
     {
-      "time": "20:17",
-      "title": "ノーベル文学賞にカナダ出身詩人",
+      "time": "23:02",
+      "title": "参院幹事長の交代 自民議員が批判",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598049?source=rss",
-      "publishedAt": "2026-10-08T11:17:54.000Z",
-      "xQuery": "ノーベル文学賞にカナダ出身詩人"
+      "url": "https://news.yahoo.co.jp/pickup/6598060?source=rss",
+      "publishedAt": "2026-10-08T14:02:27.000Z",
+      "xQuery": "参院幹事長の交代 自民議員が批判"
     },
     {
       "time": "22:30",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "ロシア ICC所長らの引き渡し要求"
     },
     {
-      "time": "20:00",
-      "title": "韓国とウクライナ 対立深まる背景",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598034?source=rss",
-      "publishedAt": "2026-10-08T11:00:12.000Z",
-      "xQuery": "韓国とウクライナ 対立深まる背景"
-    },
-    {
       "time": "22:00",
       "title": "ローソン 約215万件の情報漏えい",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6598056?source=rss",
       "publishedAt": "2026-10-08T13:00:36.000Z",
       "xQuery": "ローソン 約215万件の情報漏えい"
+    },
+    {
+      "time": "18:16",
+      "title": "3COINS成長鈍化 脱マンネリ急ぐ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6598025?source=rss",
+      "publishedAt": "2026-10-08T09:16:28.000Z",
+      "xQuery": "3COINS成長鈍化 脱マンネリ急ぐ"
     }
   ]
 };
