@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-08T10:20:14.352Z",
+  "updatedAt": "2026-10-08T10:44:13.818Z",
   "items": [
     {
       "time": "18:06",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "韓国 駐ウクライナ大使の召還発表"
     },
     {
-      "time": "16:19",
-      "title": "スーパーカップ抹茶 製造終了の訳",
+      "time": "19:09",
+      "title": "はま寿司「22時間営業」狙いは",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598001?source=rss",
-      "publishedAt": "2026-10-08T07:19:52.000Z",
-      "xQuery": "スーパーカップ抹茶 製造終了の訳"
+      "url": "https://news.yahoo.co.jp/pickup/6598039?source=rss",
+      "publishedAt": "2026-10-08T10:09:00.000Z",
+      "xQuery": "はま寿司「22時間営業」狙いは"
     },
     {
       "time": "19:00",
