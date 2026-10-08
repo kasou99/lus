@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-08T21:17:14.086Z",
+  "updatedAt": "2026-10-08T21:41:55.337Z",
   "items": [
     {
-      "time": "22:55",
-      "title": "在沖縄米軍 9日まで通常訓練停止",
+      "time": "06:16",
+      "title": "中間選挙前に攻撃しない 米大統領",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598059?source=rss",
-      "publishedAt": "2026-10-08T13:55:00.000Z",
-      "xQuery": "在沖縄米軍 9日まで通常訓練停止"
+      "url": "https://news.yahoo.co.jp/pickup/6598065?source=rss",
+      "publishedAt": "2026-10-08T21:16:09.000Z",
+      "xQuery": "中間選挙前に攻撃しない 米大統領"
     },
     {
       "time": "19:19",

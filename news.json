@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-08T21:17:13.197Z",
+  "updatedAt": "2026-10-08T21:41:54.572Z",
   "groups": {
     "machineHeadlines": [
       {
-        "time": "17:00",
-        "title": "DMG森精機社長が読むフィジカルAIの未来「中国勢と信頼性で勝負できる」",
-        "source": "日経ビジネス電子版",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE01Y0RRS01KdVdwN004M1lwdVE2MTFsNlEwWHh3V1lZWmwxYXZqS0NER1RobHNicmJwUkpzSmYzWE5uSlg4em5Wd0dRTk5qYWVWY29BdXdXV2ZGQzRfYkRONGdkMzczc00?oc=5",
-        "publishedAt": "2026-10-08T08:00:00.000Z"
+        "time": "05:00",
+        "title": "JIMTOF2026インタビュー（10）ブラザー工業、キタムラ機械",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1LczhaSDAtV0w4SEMtaEMxZTVwenFudDY1MHlfSzhjWEFvTUtEU1FBVGE4TU9ZNS1OTGlETi1LREFVbGp4UlJfY2J1WlIzOFBlNmRSUHRWTng?oc=5",
+        "publishedAt": "2026-10-08T20:00:00.000Z"
       },
       {
         "time": "10:56",
@@ -17,11 +17,11 @@
         "publishedAt": "2026-10-08T01:56:03.000Z"
       },
       {
-        "time": "05:00",
-        "title": "JIMTOF2026インタビュー（10）ブラザー工業、キタムラ機械",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1LczhaSDAtV0w4SEMtaEMxZTVwenFudDY1MHlfSzhjWEFvTUtEU1FBVGE4TU9ZNS1OTGlETi1LREFVbGp4UlJfY2J1WlIzOFBlNmRSUHRWTng?oc=5",
-        "publishedAt": "2026-10-08T20:00:00.000Z"
+        "time": "17:00",
+        "title": "DMG森精機社長が読むフィジカルAIの未来「中国勢と信頼性で勝負できる」",
+        "source": "日経ビジネス電子版",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE01Y0RRS01KdVdwN004M1lwdVE2MTFsNlEwWHh3V1lZWmwxYXZqS0NER1RobHNicmJwUkpzSmYzWE5uSlg4em5Wd0dRTk5qYWVWY29BdXdXV2ZGQzRfYkRONGdkMzczc00?oc=5",
+        "publishedAt": "2026-10-08T08:00:00.000Z"
       },
       {
         "time": "10:00",
@@ -61,6 +61,13 @@
     ],
     "worldHeadlines": [
       {
+        "time": "06:16",
+        "title": "中間選挙前に攻撃しない 米大統領",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598065?source=rss",
+        "publishedAt": "2026-10-08T21:16:09.000Z"
+      },
+      {
         "time": "22:30",
         "title": "ロシア ICC所長らの引き渡し要求",
         "source": "Yahoo!ニュース",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598023?source=rss",
         "publishedAt": "2026-10-08T08:48:23.000Z"
-      },
-      {
-        "time": "20:17",
-        "title": "ノーベル文学賞にカナダ出身詩人",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598049?source=rss",
-        "publishedAt": "2026-10-08T11:17:54.000Z"
       }
     ],
     "economyHeadlines": [
