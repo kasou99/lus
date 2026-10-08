@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-08T21:41:55.337Z",
+  "updatedAt": "2026-10-08T22:18:07.982Z",
   "items": [
     {
       "time": "06:16",
@@ -10,20 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "中間選挙前に攻撃しない 米大統領"
     },
     {
-      "time": "19:19",
-      "title": "ノーベル平和賞の候補にICC 背景",
+      "time": "22:00",
+      "title": "ローソン 約215万件の情報漏えい",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598033?source=rss",
-      "publishedAt": "2026-10-08T10:19:09.000Z",
-      "xQuery": "ノーベル平和賞の候補にICC 背景"
-    },
-    {
-      "time": "23:40",
-      "title": "関東-九州は秋晴れ多い 1カ月予報",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598062?source=rss",
-      "publishedAt": "2026-10-08T14:40:47.000Z",
-      "xQuery": "関東-九州は秋晴れ多い 1カ月予報"
+      "url": "https://news.yahoo.co.jp/pickup/6598056?source=rss",
+      "publishedAt": "2026-10-08T13:00:36.000Z",
+      "xQuery": "ローソン 約215万件の情報漏えい"
     },
     {
       "time": "00:06",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "プルデンシャル 不正巡り64人解雇"
     },
     {
-      "time": "22:00",
-      "title": "ローソン 約215万件の情報漏えい",
+      "time": "19:19",
+      "title": "ノーベル平和賞の候補にICC 背景",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598056?source=rss",
-      "publishedAt": "2026-10-08T13:00:36.000Z",
-      "xQuery": "ローソン 約215万件の情報漏えい"
+      "url": "https://news.yahoo.co.jp/pickup/6598033?source=rss",
+      "publishedAt": "2026-10-08T10:19:09.000Z",
+      "xQuery": "ノーベル平和賞の候補にICC 背景"
+    },
+    {
+      "time": "06:49",
+      "title": "米スタバ メキシコ料理買収を検討",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6598068?source=rss",
+      "publishedAt": "2026-10-08T21:49:10.000Z",
+      "xQuery": "米スタバ メキシコ料理買収を検討"
     }
   ]
 };
