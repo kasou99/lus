@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T11:42:36.201Z",
+  "updatedAt": "2026-10-08T12:29:31.065Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,6 +38,13 @@
         "publishedAt": "2026-10-08T05:09:03.000Z"
       },
       {
+        "time": "15:19",
+        "title": "SDGsに貢献できる 環境に配慮したダイヤモンド 建設工具を世界に展開",
+        "source": "ひろしま企業図鑑",
+        "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5abnFpNjdveDYxYmJSZlJuam9xSGhkSEpjYTFzQXVINTlHU1NlVTBFMENYQmZKa1VRTWQ5VDlsWkJDeTljeFE?oc=5",
+        "publishedAt": "2026-10-08T06:19:41.000Z"
+      },
+      {
         "time": "10:45",
         "title": "【10/20(火)・22(木)・27(火)11:00‐】次世代設備保全クラウド「M2X」で何ができる？無料オンラインデモセミナー開催",
         "source": "ニコニコニュース",
@@ -50,13 +57,6 @@
         "source": "ニュースメディアVOIX",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5zY0FXQ29FSlJDZVI0RXlvNDFxV3p6dWp1SzdKWDlXVFRlWVQ2NlpWTnR3a1BQQnVNMF9PbzVvd0x2OVRXc0o3eHI5c28xVE9TdHJ2cGxfemVrTXBmWnZtRkFVc1ZkS2dJak1acw?oc=5",
         "publishedAt": "2026-10-08T02:05:54.000Z"
-      },
-      {
-        "time": "22:51",
-        "title": "「JIMTOF2026第33回日本国際工作機械見本市」に出展",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBwTzBoR1gtZm5WTmt5bHBneFIzUG1McHVyNDd3U2xLSFFDYkxoMVlVMnVVSnVna3NVTFFpUTNLUmNKSTZhUW5zeDFLdnR0NXFwVDBYdw?oc=5",
-        "publishedAt": "2026-10-07T13:51:24.000Z"
       }
     ],
     "worldHeadlines": [

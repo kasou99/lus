@@ -1,14 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-08T11:42:36.957Z",
+  "updatedAt": "2026-10-08T12:29:32.069Z",
   "items": [
-    {
-      "time": "18:06",
-      "title": "アサヒGHD社長 カルテル認識ない",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598028?source=rss",
-      "publishedAt": "2026-10-08T09:06:35.000Z",
-      "xQuery": "アサヒGHD社長 カルテル認識ない"
-    },
     {
       "time": "18:40",
       "title": "参院農水委の開催に応じず 立憲",
@@ -16,14 +8,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6598036?source=rss",
       "publishedAt": "2026-10-08T09:40:49.000Z",
       "xQuery": "参院農水委の開催に応じず 立憲"
-    },
-    {
-      "time": "20:18",
-      "title": "外務省前で事故 1台は露大使館車",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598048?source=rss",
-      "publishedAt": "2026-10-08T11:18:29.000Z",
-      "xQuery": "外務省前で事故 1台は露大使館車"
     },
     {
       "time": "20:17",
@@ -40,6 +24,22 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6598039?source=rss",
       "publishedAt": "2026-10-08T10:09:00.000Z",
       "xQuery": "はま寿司「22時間営業」狙いは"
+    },
+    {
+      "time": "19:00",
+      "title": "「季節を選ばない服」が人気 なぜ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6598040?source=rss",
+      "publishedAt": "2026-10-08T10:00:47.000Z",
+      "xQuery": "「季節を選ばない服」が人気 なぜ"
+    },
+    {
+      "time": "16:19",
+      "title": "スーパーカップ抹茶 製造終了の訳",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6598001?source=rss",
+      "publishedAt": "2026-10-08T07:19:52.000Z",
+      "xQuery": "スーパーカップ抹茶 製造終了の訳"
     }
   ]
 };
