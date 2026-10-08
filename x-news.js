@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-08T01:38:05.178Z",
+  "updatedAt": "2026-10-08T02:31:42.731Z",
   "items": [
     {
       "time": "09:38",
@@ -10,12 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "ビール大手を調査 経営層関与焦点"
     },
     {
-      "time": "08:03",
-      "title": "外国人材 都市部への転職が増加",
+      "time": "10:22",
+      "title": "陸自情報収集 地検に告訴・告発状",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597945?source=rss",
-      "publishedAt": "2026-10-07T23:03:09.000Z",
-      "xQuery": "外国人材 都市部への転職が増加"
+      "url": "https://news.yahoo.co.jp/pickup/6597959?source=rss",
+      "publishedAt": "2026-10-08T01:22:54.000Z",
+      "xQuery": "陸自情報収集 地検に告訴・告発状"
+    },
+    {
+      "time": "10:48",
+      "title": "湖に転落し中1心肺停止 呼吸回復",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6597965?source=rss",
+      "publishedAt": "2026-10-08T01:48:16.000Z",
+      "xQuery": "湖に転落し中1心肺停止 呼吸回復"
     },
     {
       "time": "09:02",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6597956?source=rss",
       "publishedAt": "2026-10-08T00:40:19.000Z",
       "xQuery": "意識回復の米死刑囚に重い症状"
-    },
-    {
-      "time": "08:37",
-      "title": "194歳ゾウガメのゲノム解析 研究",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597950?source=rss",
-      "publishedAt": "2026-10-07T23:37:15.000Z",
-      "xQuery": "194歳ゾウガメのゲノム解析 研究"
     }
   ]
 };
