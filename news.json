@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T03:49:20.546Z",
+  "updatedAt": "2026-10-08T04:22:55.491Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -15,6 +15,13 @@
         "source": "PR TIMES",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1taUlUcEZUZl9hTjlYamZ6Q3o3YWplR2xDNjBzcElpcUplbXEwREZGaGlKbUlyREtxa2laSk9WcV9GZFZ6WkM1Q01VUkZOMk5SaFA2c1plN1hLZlp1WGNvLTlvdVJzVk1OWUE?oc=5",
         "publishedAt": "2026-10-08T01:00:02.000Z"
+      },
+      {
+        "time": "09:43",
+        "title": "「2026年度 小中学生のためのものづくり教室」を実施",
+        "source": "金沢大学",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBZSEpGbnNnTFpmSEwwejNsTnFfc0pSQ3IybHRpX0x1V29fUUg4S0NzdjlFY1dia2lvTDFJQnllZXc5QU40TTV4QTRVYXdFLW54MjhR?oc=5",
+        "publishedAt": "2026-10-08T00:43:28.000Z"
       },
       {
         "time": "10:45",
@@ -43,13 +50,6 @@
         "source": "東洋経済オンライン",
         "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5UZkgtXzlidGhuTHZMT1E2MkVCY011WXBOMXd6MlpjbDFxQkVyVjUzaTRJWUpEWU0zRUVMVDFiN0VfeTBXV3pIQk9FbjVyNzNJSHRNSVlJeURtSXJ5UVE?oc=5",
         "publishedAt": "2026-10-07T13:27:49.000Z"
-      },
-      {
-        "time": "13:38",
-        "title": "日本精工－反発 工作機械向け設計開発・製造管理支援サービスのラインアップを拡充",
-        "source": "TradingView",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA1dXF1a2NjM3FnSWxyNTlEM2VMdmdSMEdCSWFVcGo1VmNIZ0tOQUNzOFhRdE5JNzF2Qm4yQUNpbDVodTRsc2NUenJtZThsX3VZOTh4NmhnUkQ0bjZWN2c1dXdDVzdYOWNNbUcya2Z4NA?oc=5",
-        "publishedAt": "2026-10-07T04:38:00.000Z"
       },
       {
         "time": "19:00",
@@ -119,11 +119,11 @@
         "publishedAt": "2026-10-08T02:17:33.000Z"
       },
       {
-        "time": "09:38",
-        "title": "ビール大手を調査 経営層関与焦点",
+        "time": "13:21",
+        "title": "ビール4社 業者間の「合意」焦点",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597955?source=rss",
-        "publishedAt": "2026-10-08T00:38:29.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6597983?source=rss",
+        "publishedAt": "2026-10-08T04:21:21.000Z"
       },
       {
         "time": "07:40",

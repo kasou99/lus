@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-08T03:49:21.288Z",
+  "updatedAt": "2026-10-08T04:22:56.698Z",
   "items": [
     {
       "time": "11:45",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "首相 簗農相を更迭しない方針示す"
     },
     {
-      "time": "10:22",
-      "title": "陸自情報収集 地検に告訴・告発状",
+      "time": "11:17",
+      "title": "ビール4社 価格一覧表を共有か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597959?source=rss",
-      "publishedAt": "2026-10-08T01:22:54.000Z",
-      "xQuery": "陸自情報収集 地検に告訴・告発状"
+      "url": "https://news.yahoo.co.jp/pickup/6597970?source=rss",
+      "publishedAt": "2026-10-08T02:17:33.000Z",
+      "xQuery": "ビール4社 価格一覧表を共有か"
     },
     {
       "time": "12:04",
