@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-08T04:22:56.698Z",
+  "updatedAt": "2026-10-08T04:47:47.048Z",
   "items": [
     {
       "time": "11:45",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "ビール4社 価格一覧表を共有か"
     },
     {
-      "time": "12:04",
-      "title": "硤合さん受賞 広島の仲間が祝福",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597974?source=rss",
-      "publishedAt": "2026-10-08T03:04:45.000Z",
-      "xQuery": "硤合さん受賞 広島の仲間が祝福"
-    },
-    {
       "time": "10:48",
       "title": "湖に転落し中1心肺停止 呼吸回復",
       "source": "Yahoo!ニュース",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6597975?source=rss",
       "publishedAt": "2026-10-08T02:59:44.000Z",
       "xQuery": "千葉酒々井の団地 浸水深なお1m"
+    },
+    {
+      "time": "12:24",
+      "title": "新聞印刷工場で栽培 キクラゲ人気",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6597980?source=rss",
+      "publishedAt": "2026-10-08T03:24:25.000Z",
+      "xQuery": "新聞印刷工場で栽培 キクラゲ人気"
     }
   ]
 };
