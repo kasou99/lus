@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-08T12:29:32.069Z",
+  "updatedAt": "2026-10-08T12:55:52.078Z",
   "items": [
     {
       "time": "18:40",
@@ -18,6 +18,14 @@ window.LUS_X_NEWS = {
       "xQuery": "ノーベル文学賞にカナダ出身詩人"
     },
     {
+      "time": "18:49",
+      "title": "ペスト疑い WHOが露に情報要求",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6598037?source=rss",
+      "publishedAt": "2026-10-08T09:49:51.000Z",
+      "xQuery": "ペスト疑い WHOが露に情報要求"
+    },
+    {
       "time": "19:09",
       "title": "はま寿司「22時間営業」狙いは",
       "source": "Yahoo!ニュース",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "はま寿司「22時間営業」狙いは"
     },
     {
-      "time": "19:00",
-      "title": "「季節を選ばない服」が人気 なぜ",
+      "time": "21:41",
+      "title": "ローソン情報漏えい 第一興商もか",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598040?source=rss",
-      "publishedAt": "2026-10-08T10:00:47.000Z",
-      "xQuery": "「季節を選ばない服」が人気 なぜ"
-    },
-    {
-      "time": "16:19",
-      "title": "スーパーカップ抹茶 製造終了の訳",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598001?source=rss",
-      "publishedAt": "2026-10-08T07:19:52.000Z",
-      "xQuery": "スーパーカップ抹茶 製造終了の訳"
+      "url": "https://news.yahoo.co.jp/pickup/6598054?source=rss",
+      "publishedAt": "2026-10-08T12:41:55.000Z",
+      "xQuery": "ローソン情報漏えい 第一興商もか"
     }
   ]
 };
