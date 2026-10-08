@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-08T13:24:35.315Z",
+  "updatedAt": "2026-10-08T13:44:38.180Z",
   "items": [
     {
       "time": "17:48",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "ノーベル文学賞にカナダ出身詩人"
     },
     {
-      "time": "18:49",
-      "title": "ペスト疑い WHOが露に情報要求",
+      "time": "22:30",
+      "title": "ロシア ICC所長らの引き渡し要求",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598037?source=rss",
-      "publishedAt": "2026-10-08T09:49:51.000Z",
-      "xQuery": "ペスト疑い WHOが露に情報要求"
+      "url": "https://news.yahoo.co.jp/pickup/6598055?source=rss",
+      "publishedAt": "2026-10-08T13:30:01.000Z",
+      "xQuery": "ロシア ICC所長らの引き渡し要求"
     },
     {
       "time": "20:00",

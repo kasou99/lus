@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T13:24:34.639Z",
+  "updatedAt": "2026-10-08T13:44:37.214Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,18 +31,18 @@
         "publishedAt": "2026-10-08T00:43:28.000Z"
       },
       {
+        "time": "21:19",
+        "title": "SDGsに貢献できる 環境に配慮したダイヤモンド 建設工具を世界に展開",
+        "source": "ひろしま企業図鑑",
+        "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5abnFpNjdveDYxYmJSZlJuam9xSGhkSEpjYTFzQXVINTlHU1NlVTBFMENYQmZKa1VRTWQ5VDlsWkJDeTljeFE?oc=5",
+        "publishedAt": "2026-10-08T12:19:41.000Z"
+      },
+      {
         "time": "14:09",
         "title": "台湾（中国）の工作機械メーカーがMTAハノイ2026に参加する。",
         "source": "Vietnam.vn",
         "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOGlWU0MteWxvR3d0czNjSGpiQzVMeEs1bHBZcWRaMTNVc1FkU01WSmc2LUJKa0R3aW5MLTBoWnVqbXNsU0xsNm1KLVRCYllqbU9CeGY5Y1NZTUR0OWF4aERRbmo1LURKNXZwZXVMZ2hmTWZBWHlYX1RBTW1abVp6U194RXlWaGtRanN5azlnQjhLY0NFR200ZXR3?oc=5",
         "publishedAt": "2026-10-08T05:09:03.000Z"
-      },
-      {
-        "time": "15:19",
-        "title": "SDGsに貢献できる 環境に配慮したダイヤモンド 建設工具を世界に展開",
-        "source": "ひろしま企業図鑑",
-        "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5abnFpNjdveDYxYmJSZlJuam9xSGhkSEpjYTFzQXVINTlHU1NlVTBFMENYQmZKa1VRTWQ5VDlsWkJDeTljeFE?oc=5",
-        "publishedAt": "2026-10-08T06:19:41.000Z"
       },
       {
         "time": "10:45",
@@ -60,6 +60,13 @@
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "22:30",
+        "title": "ロシア ICC所長らの引き渡し要求",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598055?source=rss",
+        "publishedAt": "2026-10-08T13:30:01.000Z"
+      },
       {
         "time": "20:00",
         "title": "韓国とウクライナ 対立深まる背景",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598049?source=rss",
         "publishedAt": "2026-10-08T11:17:54.000Z"
-      },
-      {
-        "time": "19:19",
-        "title": "ノーベル平和賞の候補にICC 背景",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598033?source=rss",
-        "publishedAt": "2026-10-08T10:19:09.000Z"
       }
     ],
     "economyHeadlines": [
@@ -119,11 +119,11 @@
         "publishedAt": "2026-10-08T09:06:35.000Z"
       },
       {
-        "time": "17:04",
-        "title": "ビール4社の地方支店にも強制調査",
+        "time": "22:31",
+        "title": "進む脱炭素 中国依存拡大のリスク",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598011?source=rss",
-        "publishedAt": "2026-10-08T08:04:55.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6598057?source=rss",
+        "publishedAt": "2026-10-08T13:31:29.000Z"
       },
       {
         "time": "16:31",
