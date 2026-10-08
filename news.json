@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T20:44:24.947Z",
+  "updatedAt": "2026-10-08T21:17:13.197Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -15,6 +15,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSjFESGRpa2s4Nk1QeEpMbERSSzh4T0lWeGt5OEhrSTROYWlKaFdvNy1yR2d4dV8zYkhpUmJCdU94SFZmdEZ3cDNOMGhtRlAxUkZFREdNelVudG56VUIwNWhwbndQQmJwRUR1REwtNVBhbVBmMVdsT1BnLV8xeUpoM3JyV0xzbVQwUWxnRENR?oc=5",
         "publishedAt": "2026-10-08T01:56:03.000Z"
+      },
+      {
+        "time": "05:00",
+        "title": "JIMTOF2026インタビュー（10）ブラザー工業、キタムラ機械",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1LczhaSDAtV0w4SEMtaEMxZTVwenFudDY1MHlfSzhjWEFvTUtEU1FBVGE4TU9ZNS1OTGlETi1LREFVbGp4UlJfY2J1WlIzOFBlNmRSUHRWTng?oc=5",
+        "publishedAt": "2026-10-08T20:00:00.000Z"
       },
       {
         "time": "10:00",
@@ -36,13 +43,6 @@
         "source": "ひろしま企業図鑑",
         "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5abnFpNjdveDYxYmJSZlJuam9xSGhkSEpjYTFzQXVINTlHU1NlVTBFMENYQmZKa1VRTWQ5VDlsWkJDeTljeFE?oc=5",
         "publishedAt": "2026-10-08T12:19:41.000Z"
-      },
-      {
-        "time": "16:39",
-        "title": "挑む・モノづくりヒトづくり／日本ハムファクトリー兵庫工場長・林泰弘氏",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA2c3Z5ZERWUy1qelQwOGtoLUJFbzFENkM0VXBJSm8tWUJReDJxaFBSM2lLSjNmVjhIV1pJaWhybnRFUllkVjB6LURENXBqTXdDV0xqNmZnTC0?oc=5",
-        "publishedAt": "2026-10-08T07:39:53.000Z"
       },
       {
         "time": "14:09",
