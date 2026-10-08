@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-08T14:20:11.419Z",
+  "updatedAt": "2026-10-08T14:45:33.758Z",
   "items": [
     {
       "time": "22:55",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "在沖縄米軍 9日まで通常訓練停止"
     },
     {
-      "time": "23:02",
-      "title": "参院幹事長の交代 自民議員が批判",
+      "time": "22:31",
+      "title": "進む脱炭素 中国依存拡大のリスク",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598060?source=rss",
-      "publishedAt": "2026-10-08T14:02:27.000Z",
-      "xQuery": "参院幹事長の交代 自民議員が批判"
+      "url": "https://news.yahoo.co.jp/pickup/6598057?source=rss",
+      "publishedAt": "2026-10-08T13:31:29.000Z",
+      "xQuery": "進む脱炭素 中国依存拡大のリスク"
     },
     {
       "time": "22:30",
