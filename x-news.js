@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-08T14:45:33.758Z",
+  "updatedAt": "2026-10-08T15:18:07.127Z",
   "items": [
     {
       "time": "22:55",
@@ -10,20 +10,28 @@ window.LUS_X_NEWS = {
       "xQuery": "在沖縄米軍 9日まで通常訓練停止"
     },
     {
-      "time": "22:31",
-      "title": "進む脱炭素 中国依存拡大のリスク",
+      "time": "19:24",
+      "title": "エルニーニョ 最も強い水準の恐れ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598057?source=rss",
-      "publishedAt": "2026-10-08T13:31:29.000Z",
-      "xQuery": "進む脱炭素 中国依存拡大のリスク"
+      "url": "https://news.yahoo.co.jp/pickup/6598041?source=rss",
+      "publishedAt": "2026-10-08T10:24:21.000Z",
+      "xQuery": "エルニーニョ 最も強い水準の恐れ"
     },
     {
-      "time": "22:30",
-      "title": "ロシア ICC所長らの引き渡し要求",
+      "time": "19:19",
+      "title": "ノーベル平和賞の候補にICC 背景",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598055?source=rss",
-      "publishedAt": "2026-10-08T13:30:01.000Z",
-      "xQuery": "ロシア ICC所長らの引き渡し要求"
+      "url": "https://news.yahoo.co.jp/pickup/6598033?source=rss",
+      "publishedAt": "2026-10-08T10:19:09.000Z",
+      "xQuery": "ノーベル平和賞の候補にICC 背景"
+    },
+    {
+      "time": "00:06",
+      "title": "プルデンシャル 不正巡り64人解雇",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6598063?source=rss",
+      "publishedAt": "2026-10-08T15:06:53.000Z",
+      "xQuery": "プルデンシャル 不正巡り64人解雇"
     },
     {
       "time": "22:00",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6598056?source=rss",
       "publishedAt": "2026-10-08T13:00:36.000Z",
       "xQuery": "ローソン 約215万件の情報漏えい"
-    },
-    {
-      "time": "18:16",
-      "title": "3COINS成長鈍化 脱マンネリ急ぐ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598025?source=rss",
-      "publishedAt": "2026-10-08T09:16:28.000Z",
-      "xQuery": "3COINS成長鈍化 脱マンネリ急ぐ"
     }
   ]
 };
