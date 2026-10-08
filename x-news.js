@@ -1,37 +1,37 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-08T07:50:51.420Z",
+  "updatedAt": "2026-10-08T08:27:46.481Z",
   "items": [
     {
-      "time": "13:21",
-      "title": "ビール4社 業者間の「合意」焦点",
+      "time": "17:04",
+      "title": "ビール4社の地方支店にも強制調査",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597983?source=rss",
-      "publishedAt": "2026-10-08T04:21:21.000Z",
-      "xQuery": "ビール4社 業者間の「合意」焦点"
+      "url": "https://news.yahoo.co.jp/pickup/6598011?source=rss",
+      "publishedAt": "2026-10-08T08:04:55.000Z",
+      "xQuery": "ビール4社の地方支店にも強制調査"
     },
     {
-      "time": "12:21",
-      "title": "米国防総省 イラン攻撃準備命令か",
+      "time": "16:32",
+      "title": "消費減税 中小零細農家に補填へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597981?source=rss",
-      "publishedAt": "2026-10-08T03:21:16.000Z",
-      "xQuery": "米国防総省 イラン攻撃準備命令か"
+      "url": "https://news.yahoo.co.jp/pickup/6598002?source=rss",
+      "publishedAt": "2026-10-08T07:32:44.000Z",
+      "xQuery": "消費減税 中小零細農家に補填へ"
     },
     {
-      "time": "14:05",
-      "title": "那須町長選当選無効取り消し 高裁",
+      "time": "17:10",
+      "title": "プルデンシャル不正 約52億円被害",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597991?source=rss",
-      "publishedAt": "2026-10-08T05:05:13.000Z",
-      "xQuery": "那須町長選当選無効取り消し 高裁"
+      "url": "https://news.yahoo.co.jp/pickup/6598015?source=rss",
+      "publishedAt": "2026-10-08T08:10:42.000Z",
+      "xQuery": "プルデンシャル不正 約52億円被害"
     },
     {
-      "time": "15:03",
-      "title": "タイで波紋 大村知事が発言を説明",
+      "time": "17:20",
+      "title": "首相 簗氏に「働いて仕事で返せ」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597995?source=rss",
-      "publishedAt": "2026-10-08T06:03:22.000Z",
-      "xQuery": "タイで波紋 大村知事が発言を説明"
+      "url": "https://news.yahoo.co.jp/pickup/6598019?source=rss",
+      "publishedAt": "2026-10-08T08:20:19.000Z",
+      "xQuery": "首相 簗氏に「働いて仕事で返せ」"
     },
     {
       "time": "16:28",
