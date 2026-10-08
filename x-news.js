@@ -1,13 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-08T23:16:50.126Z",
+  "updatedAt": "2026-10-08T23:40:59.978Z",
   "items": [
     {
-      "time": "06:16",
-      "title": "中間選挙前に攻撃しない 米大統領",
+      "time": "07:31",
+      "title": "火葬能力 政令市4割超ひっ迫恐れ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598065?source=rss",
-      "publishedAt": "2026-10-08T21:16:09.000Z",
-      "xQuery": "中間選挙前に攻撃しない 米大統領"
+      "url": "https://news.yahoo.co.jp/pickup/6598071?source=rss",
+      "publishedAt": "2026-10-08T22:31:08.000Z",
+      "xQuery": "火葬能力 政令市4割超ひっ迫恐れ"
+    },
+    {
+      "time": "07:56",
+      "title": "蛇口の水恐怖 ネパールでトラウマ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6598073?source=rss",
+      "publishedAt": "2026-10-08T22:56:13.000Z",
+      "xQuery": "蛇口の水恐怖 ネパールでトラウマ"
     },
     {
       "time": "07:31",
@@ -16,14 +24,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6598070?source=rss",
       "publishedAt": "2026-10-08T22:31:45.000Z",
       "xQuery": "ロケット短期製造 防衛省調査へ"
-    },
-    {
-      "time": "19:19",
-      "title": "ノーベル平和賞の候補にICC 背景",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598033?source=rss",
-      "publishedAt": "2026-10-08T10:19:09.000Z",
-      "xQuery": "ノーベル平和賞の候補にICC 背景"
     },
     {
       "time": "07:49",

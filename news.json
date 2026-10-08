@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T23:16:49.366Z",
+  "updatedAt": "2026-10-08T23:40:58.980Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -96,11 +96,11 @@
         "publishedAt": "2026-10-08T09:54:20.000Z"
       },
       {
-        "time": "18:49",
-        "title": "ペスト疑い WHOが露に情報要求",
+        "time": "08:33",
+        "title": "露でペスト疑い 接触者に異常なし",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598037?source=rss",
-        "publishedAt": "2026-10-08T09:49:51.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6598077?source=rss",
+        "publishedAt": "2026-10-08T23:33:55.000Z"
       }
     ],
     "economyHeadlines": [
