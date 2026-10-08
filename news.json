@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T04:47:46.443Z",
+  "updatedAt": "2026-10-08T05:20:30.916Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -22,6 +22,13 @@
         "source": "金沢大学",
         "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBZSEpGbnNnTFpmSEwwejNsTnFfc0pSQ3IybHRpX0x1V29fUUg4S0NzdjlFY1dia2lvTDFJQnllZXc5QU40TTV4QTRVYXdFLW54MjhR?oc=5",
         "publishedAt": "2026-10-08T00:43:28.000Z"
+      },
+      {
+        "time": "14:09",
+        "title": "台湾（中国）の工作機械メーカーがMTAハノイ2026に参加する。",
+        "source": "Vietnam.vn",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOGlWU0MteWxvR3d0czNjSGpiQzVMeEs1bHBZcWRaMTNVc1FkU01WSmc2LUJKa0R3aW5MLTBoWnVqbXNsU0xsNm1KLVRCYllqbU9CeGY5Y1NZTUR0OWF4aERRbmo1LURKNXZwZXVMZ2hmTWZBWHlYX1RBTW1abVp6U194RXlWaGtRanN5azlnQjhLY0NFR200ZXR3?oc=5",
+        "publishedAt": "2026-10-08T05:09:03.000Z"
       },
       {
         "time": "10:45",
@@ -50,13 +57,6 @@
         "source": "東洋経済オンライン",
         "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5UZkgtXzlidGhuTHZMT1E2MkVCY011WXBOMXd6MlpjbDFxQkVyVjUzaTRJWUpEWU0zRUVMVDFiN0VfeTBXV3pIQk9FbjVyNzNJSHRNSVlJeURtSXJ5UVE?oc=5",
         "publishedAt": "2026-10-07T13:27:49.000Z"
-      },
-      {
-        "time": "19:00",
-        "title": "オムロン、「盤レス化ソリューション」展開強化 変わる制御盤とプロセス 変革へ大きな一歩 盤外設置用の機器を拡充",
-        "source": "オートメーション新聞WEB",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5fTmR4UkNlWmRyeGtnelFTam1lNDBlc1ZEdnVpbVM4dnNkQ1JDZzJMNHdqYWdLMVM3S2RiSFM5MlpjTGNySTBKRjZCdzlJQXcxWlc4Nkw1WUthZw?oc=5",
-        "publishedAt": "2026-10-07T10:00:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "14:05",
+        "title": "那須町長選当選無効取り消し 高裁",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6597991?source=rss",
+        "publishedAt": "2026-10-08T05:05:13.000Z"
+      },
+      {
         "time": "12:04",
         "title": "硤合さん受賞 広島の仲間が祝福",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6597952?source=rss",
         "publishedAt": "2026-10-08T00:02:41.000Z"
-      },
-      {
-        "time": "23:13",
-        "title": "余命1年の元教諭 生きる力伝える",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597931?source=rss",
-        "publishedAt": "2026-10-07T14:13:30.000Z"
       }
     ],
     "subsidyHeadlines": [

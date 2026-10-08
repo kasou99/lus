@@ -1,14 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-08T04:47:47.048Z",
+  "updatedAt": "2026-10-08T05:20:31.558Z",
   "items": [
-    {
-      "time": "11:45",
-      "title": "首相 簗農相を更迭しない方針示す",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597972?source=rss",
-      "publishedAt": "2026-10-08T02:45:05.000Z",
-      "xQuery": "首相 簗農相を更迭しない方針示す"
-    },
     {
       "time": "11:17",
       "title": "ビール4社 価格一覧表を共有か",
@@ -18,12 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "ビール4社 価格一覧表を共有か"
     },
     {
-      "time": "10:48",
-      "title": "湖に転落し中1心肺停止 呼吸回復",
+      "time": "12:21",
+      "title": "米国防総省 イラン攻撃準備命令か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597965?source=rss",
-      "publishedAt": "2026-10-08T01:48:16.000Z",
-      "xQuery": "湖に転落し中1心肺停止 呼吸回復"
+      "url": "https://news.yahoo.co.jp/pickup/6597981?source=rss",
+      "publishedAt": "2026-10-08T03:21:16.000Z",
+      "xQuery": "米国防総省 イラン攻撃準備命令か"
+    },
+    {
+      "time": "14:05",
+      "title": "那須町長選当選無効取り消し 高裁",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6597991?source=rss",
+      "publishedAt": "2026-10-08T05:05:13.000Z",
+      "xQuery": "那須町長選当選無効取り消し 高裁"
     },
     {
       "time": "11:59",
