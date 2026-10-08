@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-07T23:40:11.495Z",
+  "updatedAt": "2026-10-08T00:53:53.105Z",
   "items": [
+    {
+      "time": "09:38",
+      "title": "ビール大手を調査 経営層関与焦点",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6597955?source=rss",
+      "publishedAt": "2026-10-08T00:38:29.000Z",
+      "xQuery": "ビール大手を調査 経営層関与焦点"
+    },
     {
       "time": "08:03",
       "title": "外国人材 都市部への転職が増加",
@@ -10,36 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "外国人材 都市部への転職が増加"
     },
     {
-      "time": "06:30",
-      "title": "硤合氏発見 不斉自己触媒作用とは",
+      "time": "09:02",
+      "title": "八田與一容疑者目撃情報 関東で増",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597938?source=rss",
-      "publishedAt": "2026-10-07T21:30:20.000Z",
-      "xQuery": "硤合氏発見 不斉自己触媒作用とは"
+      "url": "https://news.yahoo.co.jp/pickup/6597952?source=rss",
+      "publishedAt": "2026-10-08T00:02:41.000Z",
+      "xQuery": "八田與一容疑者目撃情報 関東で増"
     },
     {
-      "time": "07:40",
-      "title": "TOPIX構成銘柄 1634→986社へ",
+      "time": "09:40",
+      "title": "意識回復の米死刑囚に重い症状",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597944?source=rss",
-      "publishedAt": "2026-10-07T22:40:31.000Z",
-      "xQuery": "TOPIX構成銘柄 1634→986社へ"
+      "url": "https://news.yahoo.co.jp/pickup/6597956?source=rss",
+      "publishedAt": "2026-10-08T00:40:19.000Z",
+      "xQuery": "意識回復の米死刑囚に重い症状"
     },
     {
-      "time": "23:33",
-      "title": "サンケイビル売却 入札額1兆円超",
+      "time": "08:37",
+      "title": "194歳ゾウガメのゲノム解析 研究",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597933?source=rss",
-      "publishedAt": "2026-10-07T14:33:48.000Z",
-      "xQuery": "サンケイビル売却 入札額1兆円超"
-    },
-    {
-      "time": "22:23",
-      "title": "愛知・大村知事の発言 タイで波紋",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597927?source=rss",
-      "publishedAt": "2026-10-07T13:23:29.000Z",
-      "xQuery": "愛知・大村知事の発言 タイで波紋"
+      "url": "https://news.yahoo.co.jp/pickup/6597950?source=rss",
+      "publishedAt": "2026-10-07T23:37:15.000Z",
+      "xQuery": "194歳ゾウガメのゲノム解析 研究"
     }
   ]
 };

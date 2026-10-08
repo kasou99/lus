@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-10-07T23:40:10.963Z",
+  "updatedAt": "2026-10-08T00:53:52.112Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "09:00",
+        "title": "【10/20(火)・22(木)・27(火)11:00‐】次世代設備保全クラウド「M2X」で何ができる？無料オンラインデモセミナー開催",
+        "source": "PR TIMES",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9IMTFrMktnZzhtdUs3NXlNZzU1UjBoa19HdnFrc2lDbE9PbkhMdnhwUmNtS0FSaVl6RGxPTGdDbDNHbE9seURlamhWa0YyN1AyUGtGSWZ6ejZzaE9zOURxbzA2c0d1QmExQVE?oc=5",
+        "publishedAt": "2026-10-08T00:00:01.000Z"
+      },
       {
         "time": "18:58",
         "title": "【工作機械向け設計開発・製造管理支援サービス】日本精工、高度なスピンドル解析を可能にする「MT-Click!Speedy Premium」と軸受情報管理サービス「NSK Verify API」の提供開始",
@@ -15,13 +22,6 @@
         "source": "オートメーション新聞WEB",
         "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5fTmR4UkNlWmRyeGtnelFTam1lNDBlc1ZEdnVpbVM4dnNkQ1JDZzJMNHdqYWdLMVM3S2RiSFM5MlpjTGNySTBKRjZCdzlJQXcxWlc4Nkw1WUthZw?oc=5",
         "publishedAt": "2026-10-07T10:00:00.000Z"
-      },
-      {
-        "time": "13:55",
-        "title": "「JIMTOF2026第33回日本国際工作機械見本市」に出展",
-        "source": "PR TIMES",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9pNnhleGgzaXNvcmthZFZ1cjZiRldQY2JJTnF4bnhqLTM2cmZleEZneWszMGN0OTViN21BY3ZreHYyQzkxUHVwQ1BuLXBrcTVLX2tBZlpmSkt1aXNaUS1wanhabVMxTnd3ZEE?oc=5",
-        "publishedAt": "2026-10-07T04:55:01.000Z"
       },
       {
         "time": "22:27",
@@ -45,11 +45,11 @@
         "publishedAt": "2026-10-07T08:08:54.000Z"
       },
       {
-        "time": "13:30",
-        "title": "新たなソーヘッド機構と専用ブレード搭載、アマダマシナリーの超速バンドソー：工作機械",
-        "source": "MONOist",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBPRXgyMmpybUZEbEllR0hycmg1YzJBbmExSXlZMWo1Yi1hN2FWdl8zSTJBSzdfNERoc3paM012LVJ1VE0wbzdWbkxCcXc3Y2owRTVNR09uVElmbEw0VXVDNjhpTzl0UWVNazdUdnpiaw?oc=5",
-        "publishedAt": "2026-10-07T04:30:00.000Z"
+        "time": "13:55",
+        "title": "プレスリリース PRTIMES記事詳細 | さんにちEye 山梨日日新聞デジタル",
+        "source": "sannichi.co.jp",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBka0lSZTVQbWdWZElHazM1dmpVVUcwS0Z6by1lLWVrb3BSaDBDOWEwRjRsOG1ZY3liRnM5bm1ZOGtxV0JpNjQ4bVVRbUQ4WnhOTDFrd1FjSVFjZXE5aGxEckladw?oc=5",
+        "publishedAt": "2026-10-07T04:55:00.000Z"
       },
       {
         "time": "10:15",
@@ -75,11 +75,11 @@
         "publishedAt": "2026-10-07T05:08:04.000Z"
       },
       {
-        "time": "09:33",
-        "title": "執行失敗の米死刑囚 意識戻り発話",
+        "time": "09:40",
+        "title": "意識回復の米死刑囚に重い症状",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597833?source=rss",
-        "publishedAt": "2026-10-07T00:33:55.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6597956?source=rss",
+        "publishedAt": "2026-10-08T00:40:19.000Z"
       },
       {
         "time": "08:27",
@@ -112,18 +112,18 @@
         "publishedAt": "2026-10-07T01:45:44.000Z"
       },
       {
+        "time": "09:38",
+        "title": "ビール大手を調査 経営層関与焦点",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6597955?source=rss",
+        "publishedAt": "2026-10-08T00:38:29.000Z"
+      },
+      {
         "time": "12:19",
         "title": "公取委 なぜビール4社に強制調査",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6597856?source=rss",
         "publishedAt": "2026-10-07T03:19:38.000Z"
-      },
-      {
-        "time": "15:09",
-        "title": "公取委 ビール大手の動き長年注視",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597875?source=rss",
-        "publishedAt": "2026-10-07T06:09:57.000Z"
       },
       {
         "time": "07:40",
@@ -170,6 +170,13 @@
         "publishedAt": "2026-10-07T07:55:23.000Z"
       },
       {
+        "time": "09:02",
+        "title": "八田與一容疑者目撃情報 関東で増",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6597952?source=rss",
+        "publishedAt": "2026-10-08T00:02:41.000Z"
+      },
+      {
         "time": "23:13",
         "title": "余命1年の元教諭 生きる力伝える",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6597897?source=rss",
         "publishedAt": "2026-10-07T08:37:17.000Z"
-      },
-      {
-        "time": "14:07",
-        "title": "ソフト強豪主将自殺 高校側を提訴",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597865?source=rss",
-        "publishedAt": "2026-10-07T05:07:56.000Z"
       }
     ],
     "subsidyHeadlines": [
