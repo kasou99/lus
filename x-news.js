@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-08T09:46:05.974Z",
+  "updatedAt": "2026-10-08T10:20:14.352Z",
   "items": [
     {
       "time": "18:06",
@@ -10,28 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "アサヒGHD社長 カルテル認識ない"
     },
     {
-      "time": "17:10",
-      "title": "プルデンシャル不正 約52億円被害",
+      "time": "18:40",
+      "title": "参院農水委の開催に応じず 立憲",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598015?source=rss",
-      "publishedAt": "2026-10-08T08:10:42.000Z",
-      "xQuery": "プルデンシャル不正 約52億円被害"
+      "url": "https://news.yahoo.co.jp/pickup/6598036?source=rss",
+      "publishedAt": "2026-10-08T09:40:49.000Z",
+      "xQuery": "参院農水委の開催に応じず 立憲"
     },
     {
-      "time": "17:20",
-      "title": "首相 簗氏に「働いて仕事で返せ」",
+      "time": "18:54",
+      "title": "韓国 駐ウクライナ大使の召還発表",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598019?source=rss",
-      "publishedAt": "2026-10-08T08:20:19.000Z",
-      "xQuery": "首相 簗氏に「働いて仕事で返せ」"
-    },
-    {
-      "time": "16:31",
-      "title": "ファストリ 過去最高業績を更新",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598005?source=rss",
-      "publishedAt": "2026-10-08T07:31:36.000Z",
-      "xQuery": "ファストリ 過去最高業績を更新"
+      "url": "https://news.yahoo.co.jp/pickup/6598038?source=rss",
+      "publishedAt": "2026-10-08T09:54:20.000Z",
+      "xQuery": "韓国 駐ウクライナ大使の召還発表"
     },
     {
       "time": "16:19",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6598001?source=rss",
       "publishedAt": "2026-10-08T07:19:52.000Z",
       "xQuery": "スーパーカップ抹茶 製造終了の訳"
+    },
+    {
+      "time": "19:00",
+      "title": "「季節を選ばない服」が人気 なぜ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6598040?source=rss",
+      "publishedAt": "2026-10-08T10:00:47.000Z",
+      "xQuery": "「季節を選ばない服」が人気 なぜ"
     }
   ]
 };
