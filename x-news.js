@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-08T05:20:31.558Z",
+  "updatedAt": "2026-10-08T05:44:57.016Z",
   "items": [
     {
-      "time": "11:17",
-      "title": "ビール4社 価格一覧表を共有か",
+      "time": "13:21",
+      "title": "ビール4社 業者間の「合意」焦点",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597970?source=rss",
-      "publishedAt": "2026-10-08T02:17:33.000Z",
-      "xQuery": "ビール4社 価格一覧表を共有か"
+      "url": "https://news.yahoo.co.jp/pickup/6597983?source=rss",
+      "publishedAt": "2026-10-08T04:21:21.000Z",
+      "xQuery": "ビール4社 業者間の「合意」焦点"
     },
     {
       "time": "12:21",
