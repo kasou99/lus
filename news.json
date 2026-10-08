@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-10-08T19:41:35.901Z",
+  "updatedAt": "2026-10-08T20:19:55.202Z",
   "groups": {
     "machineHeadlines": [
-      {
-        "time": "10:56",
-        "title": "工作機械展 小型ファイバーレーザー機 アマダが世界初披露 26日から（日刊産業新聞）",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSjFESGRpa2s4Nk1QeEpMbERSSzh4T0lWeGt5OEhrSTROYWlKaFdvNy1yR2d4dV8zYkhpUmJCdU94SFZmdEZ3cDNOMGhtRlAxUkZFREdNelVudG56VUIwNWhwbndQQmJwRUR1REwtNVBhbVBmMVdsT1BnLV8xeUpoM3JyV0xzbVQwUWxnRENR?oc=5",
-        "publishedAt": "2026-10-08T01:56:03.000Z"
-      },
       {
         "time": "17:00",
         "title": "DMG森精機社長が読むフィジカルAIの未来「中国勢と信頼性で勝負できる」",
         "source": "日経ビジネス電子版",
         "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE01Y0RRS01KdVdwN004M1lwdVE2MTFsNlEwWHh3V1lZWmwxYXZqS0NER1RobHNicmJwUkpzSmYzWE5uSlg4em5Wd0dRTk5qYWVWY29BdXdXV2ZGQzRfYkRONGdkMzczc00?oc=5",
         "publishedAt": "2026-10-08T08:00:00.000Z"
+      },
+      {
+        "time": "10:56",
+        "title": "工作機械展 小型ファイバーレーザー機 アマダが世界初披露 26日から（日刊産業新聞）",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSjFESGRpa2s4Nk1QeEpMbERSSzh4T0lWeGt5OEhrSTROYWlKaFdvNy1yR2d4dV8zYkhpUmJCdU94SFZmdEZ3cDNOMGhtRlAxUkZFREdNelVudG56VUIwNWhwbndQQmJwRUR1REwtNVBhbVBmMVdsT1BnLV8xeUpoM3JyV0xzbVQwUWxnRENR?oc=5",
+        "publishedAt": "2026-10-08T01:56:03.000Z"
       },
       {
         "time": "10:00",
@@ -38,6 +38,13 @@
         "publishedAt": "2026-10-08T12:19:41.000Z"
       },
       {
+        "time": "16:39",
+        "title": "挑む・モノづくりヒトづくり／日本ハムファクトリー兵庫工場長・林泰弘氏",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA2c3Z5ZERWUy1qelQwOGtoLUJFbzFENkM0VXBJSm8tWUJReDJxaFBSM2lLSjNmVjhIV1pJaWhybnRFUllkVjB6LURENXBqTXdDV0xqNmZnTC0?oc=5",
+        "publishedAt": "2026-10-08T07:39:53.000Z"
+      },
+      {
         "time": "14:09",
         "title": "台湾（中国）の工作機械メーカーがMTAハノイ2026に参加する。",
         "source": "Vietnam.vn",
@@ -50,13 +57,6 @@
         "source": "Infoseek",
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE13ZzFXSjk3Uk1pVkZHMk5DUkwyUHJXYy01SDlsbDBpLTQ0cERvOEV4MWNIbTlqbGY2c1RxVFlqZjNfNHJmai15SVdlV2hSbkJweG45S2dIU2pfVXRXdEFoY3JydkdYOVp0d3hFWDc0aWU4QQ?oc=5",
         "publishedAt": "2026-10-08T01:15:39.000Z"
-      },
-      {
-        "time": "11:05",
-        "title": "コスモ石油とGE Vernovaが手を組み、次世代設備保全の高度化を目指す覚書締結",
-        "source": "ニュースメディアVOIX",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5zY0FXQ29FSlJDZVI0RXlvNDFxV3p6dWp1SzdKWDlXVFRlWVQ2NlpWTnR3a1BQQnVNMF9PbzVvd0x2OVRXc0o3eHI5c28xVE9TdHJ2cGxfemVrTXBmWnZtRkFVc1ZkS2dJak1acw?oc=5",
-        "publishedAt": "2026-10-08T02:05:54.000Z"
       }
     ],
     "worldHeadlines": [
