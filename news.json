@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-10-08T22:18:07.204Z",
+  "updatedAt": "2026-10-08T22:42:30.547Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "05:00",
+        "title": "JIMTOF2026インタビュー（10）ブラザー工業、キタムラ機械",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1LczhaSDAtV0w4SEMtaEMxZTVwenFudDY1MHlfSzhjWEFvTUtEU1FBVGE4TU9ZNS1OTGlETi1LREFVbGp4UlJfY2J1WlIzOFBlNmRSUHRWTng?oc=5",
+        "publishedAt": "2026-10-08T20:00:00.000Z"
+      },
       {
         "time": "17:00",
         "title": "DMG森精機社長が読むフィジカルAIの未来「中国勢と信頼性で勝負できる」",
@@ -43,13 +50,6 @@
         "source": "Vietnam.vn",
         "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOGlWU0MteWxvR3d0czNjSGpiQzVMeEs1bHBZcWRaMTNVc1FkU01WSmc2LUJKa0R3aW5MLTBoWnVqbXNsU0xsNm1KLVRCYllqbU9CeGY5Y1NZTUR0OWF4aERRbmo1LURKNXZwZXVMZ2hmTWZBWHlYX1RBTW1abVp6U194RXlWaGtRanN5azlnQjhLY0NFR200ZXR3?oc=5",
         "publishedAt": "2026-10-08T05:09:03.000Z"
-      },
-      {
-        "time": "17:23",
-        "title": "教育用の原子炉、存続に課題 国内で稼働、近畿大の１基のみ 赤字運営や燃料返還 学生減、支援求める声 | | プライムニュース",
-        "source": "佐賀新聞",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAtT1doTEZHQ041RVpNbktzblc3WXREdkRGSENCazVwNDY4Wkt1YnVndnptSFUwVjFnWkJLZ0JWVFQ5aGxRVUh1ZWQ1UU16cHAtZmdhX0pjeVJRQUpSQ2pJOTVoRUc?oc=5",
-        "publishedAt": "2026-10-08T08:23:15.000Z"
       },
       {
         "time": "10:15",

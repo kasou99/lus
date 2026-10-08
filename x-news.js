@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-08T22:18:07.982Z",
+  "updatedAt": "2026-10-08T22:42:31.601Z",
   "items": [
     {
       "time": "06:16",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "中間選挙前に攻撃しない 米大統領"
     },
     {
-      "time": "22:00",
-      "title": "ローソン 約215万件の情報漏えい",
+      "time": "07:31",
+      "title": "ロケット短期製造 防衛省調査へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598056?source=rss",
-      "publishedAt": "2026-10-08T13:00:36.000Z",
-      "xQuery": "ローソン 約215万件の情報漏えい"
+      "url": "https://news.yahoo.co.jp/pickup/6598070?source=rss",
+      "publishedAt": "2026-10-08T22:31:45.000Z",
+      "xQuery": "ロケット短期製造 防衛省調査へ"
     },
     {
       "time": "00:06",
