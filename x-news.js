@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-08T07:27:45.203Z",
+  "updatedAt": "2026-10-08T07:50:51.420Z",
   "items": [
     {
       "time": "13:21",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "那須町長選当選無効取り消し 高裁"
     },
     {
-      "time": "14:45",
-      "title": "宜野湾殺害 男は事前に刃物用意か",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597993?source=rss",
-      "publishedAt": "2026-10-08T05:45:41.000Z",
-      "xQuery": "宜野湾殺害 男は事前に刃物用意か"
-    },
-    {
       "time": "15:03",
       "title": "タイで波紋 大村知事が発言を説明",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6597995?source=rss",
       "publishedAt": "2026-10-08T06:03:22.000Z",
       "xQuery": "タイで波紋 大村知事が発言を説明"
+    },
+    {
+      "time": "16:28",
+      "title": "巡査長 失効免許証を不正持ち出し",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6598003?source=rss",
+      "publishedAt": "2026-10-08T07:28:33.000Z",
+      "xQuery": "巡査長 失効免許証を不正持ち出し"
     }
   ]
 };
