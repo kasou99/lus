@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T10:44:12.940Z",
+  "updatedAt": "2026-10-08T11:17:39.841Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -61,6 +61,13 @@
     ],
     "worldHeadlines": [
       {
+        "time": "20:00",
+        "title": "韓国とウクライナ 対立深まる背景",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598034?source=rss",
+        "publishedAt": "2026-10-08T11:00:12.000Z"
+      },
+      {
         "time": "18:54",
         "title": "韓国 駐ウクライナ大使の召還発表",
         "source": "Yahoo!ニュース",
@@ -80,13 +87,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6597969?source=rss",
         "publishedAt": "2026-10-08T02:29:34.000Z"
-      },
-      {
-        "time": "12:21",
-        "title": "米国防総省 イラン攻撃準備命令か",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597981?source=rss",
-        "publishedAt": "2026-10-08T03:21:16.000Z"
       },
       {
         "time": "17:48",
