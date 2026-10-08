@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-08T05:44:57.016Z",
+  "updatedAt": "2026-10-08T06:34:13.114Z",
   "items": [
     {
       "time": "13:21",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "那須町長選当選無効取り消し 高裁"
     },
     {
-      "time": "11:59",
-      "title": "千葉酒々井の団地 浸水深なお1m",
+      "time": "15:03",
+      "title": "タイで波紋 大村知事が発言を説明",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597975?source=rss",
-      "publishedAt": "2026-10-08T02:59:44.000Z",
-      "xQuery": "千葉酒々井の団地 浸水深なお1m"
+      "url": "https://news.yahoo.co.jp/pickup/6597995?source=rss",
+      "publishedAt": "2026-10-08T06:03:22.000Z",
+      "xQuery": "タイで波紋 大村知事が発言を説明"
     },
     {
       "time": "12:24",
