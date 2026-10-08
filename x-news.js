@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-08T11:17:40.994Z",
+  "updatedAt": "2026-10-08T11:42:36.957Z",
   "items": [
     {
       "time": "18:06",
@@ -18,12 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "参院農水委の開催に応じず 立憲"
     },
     {
-      "time": "18:54",
-      "title": "韓国 駐ウクライナ大使の召還発表",
+      "time": "20:18",
+      "title": "外務省前で事故 1台は露大使館車",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598038?source=rss",
-      "publishedAt": "2026-10-08T09:54:20.000Z",
-      "xQuery": "韓国 駐ウクライナ大使の召還発表"
+      "url": "https://news.yahoo.co.jp/pickup/6598048?source=rss",
+      "publishedAt": "2026-10-08T11:18:29.000Z",
+      "xQuery": "外務省前で事故 1台は露大使館車"
+    },
+    {
+      "time": "20:17",
+      "title": "ノーベル文学賞にカナダ出身詩人",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6598049?source=rss",
+      "publishedAt": "2026-10-08T11:17:54.000Z",
+      "xQuery": "ノーベル文学賞にカナダ出身詩人"
     },
     {
       "time": "19:09",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6598039?source=rss",
       "publishedAt": "2026-10-08T10:09:00.000Z",
       "xQuery": "はま寿司「22時間営業」狙いは"
-    },
-    {
-      "time": "19:00",
-      "title": "「季節を選ばない服」が人気 なぜ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598040?source=rss",
-      "publishedAt": "2026-10-08T10:00:47.000Z",
-      "xQuery": "「季節を選ばない服」が人気 なぜ"
     }
   ]
 };

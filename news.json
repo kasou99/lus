@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T11:17:39.841Z",
+  "updatedAt": "2026-10-08T11:42:36.201Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,13 +38,6 @@
         "publishedAt": "2026-10-08T05:09:03.000Z"
       },
       {
-        "time": "15:19",
-        "title": "SDGsに貢献できる 環境に配慮したダイヤモンド 建設工具を世界に展開",
-        "source": "ひろしま企業図鑑",
-        "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5abnFpNjdveDYxYmJSZlJuam9xSGhkSEpjYTFzQXVINTlHU1NlVTBFMENYQmZKa1VRTWQ5VDlsWkJDeTljeFE?oc=5",
-        "publishedAt": "2026-10-08T06:19:41.000Z"
-      },
-      {
         "time": "10:45",
         "title": "【10/20(火)・22(木)・27(火)11:00‐】次世代設備保全クラウド「M2X」で何ができる？無料オンラインデモセミナー開催",
         "source": "ニコニコニュース",
@@ -57,6 +50,13 @@
         "source": "ニュースメディアVOIX",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5zY0FXQ29FSlJDZVI0RXlvNDFxV3p6dWp1SzdKWDlXVFRlWVQ2NlpWTnR3a1BQQnVNMF9PbzVvd0x2OVRXc0o3eHI5c28xVE9TdHJ2cGxfemVrTXBmWnZtRkFVc1ZkS2dJak1acw?oc=5",
         "publishedAt": "2026-10-08T02:05:54.000Z"
+      },
+      {
+        "time": "22:51",
+        "title": "「JIMTOF2026第33回日本国際工作機械見本市」に出展",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBwTzBoR1gtZm5WTmt5bHBneFIzUG1McHVyNDd3U2xLSFFDYkxoMVlVMnVVSnVna3NVTFFpUTNLUmNKSTZhUW5zeDFLdnR0NXFwVDBYdw?oc=5",
+        "publishedAt": "2026-10-07T13:51:24.000Z"
       }
     ],
     "worldHeadlines": [
@@ -82,18 +82,18 @@
         "publishedAt": "2026-10-08T09:49:51.000Z"
       },
       {
-        "time": "11:29",
-        "title": "ペスト疑い 露政府は「誤報」主張",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597969?source=rss",
-        "publishedAt": "2026-10-08T02:29:34.000Z"
-      },
-      {
         "time": "17:48",
         "title": "ハッカー集団の男 独当局が逮捕",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598023?source=rss",
         "publishedAt": "2026-10-08T08:48:23.000Z"
+      },
+      {
+        "time": "20:17",
+        "title": "ノーベル文学賞にカナダ出身詩人",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598049?source=rss",
+        "publishedAt": "2026-10-08T11:17:54.000Z"
       },
       {
         "time": "19:19",
@@ -170,6 +170,13 @@
         "publishedAt": "2026-10-08T07:28:33.000Z"
       },
       {
+        "time": "20:18",
+        "title": "外務省前で事故 1台は露大使館車",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598048?source=rss",
+        "publishedAt": "2026-10-08T11:18:29.000Z"
+      },
+      {
         "time": "15:03",
         "title": "タイで波紋 大村知事が発言を説明",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6597952?source=rss",
         "publishedAt": "2026-10-08T00:02:41.000Z"
-      },
-      {
-        "time": "18:01",
-        "title": "成田空港 機内でモバイル電池発火",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598031?source=rss",
-        "publishedAt": "2026-10-08T09:01:46.000Z"
       }
     ],
     "subsidyHeadlines": [
