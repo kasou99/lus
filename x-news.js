@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-08T22:42:31.601Z",
+  "updatedAt": "2026-10-08T23:16:50.126Z",
   "items": [
     {
       "time": "06:16",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "ロケット短期製造 防衛省調査へ"
     },
     {
-      "time": "00:06",
-      "title": "プルデンシャル 不正巡り64人解雇",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598063?source=rss",
-      "publishedAt": "2026-10-08T15:06:53.000Z",
-      "xQuery": "プルデンシャル 不正巡り64人解雇"
-    },
-    {
       "time": "19:19",
       "title": "ノーベル平和賞の候補にICC 背景",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6598033?source=rss",
       "publishedAt": "2026-10-08T10:19:09.000Z",
       "xQuery": "ノーベル平和賞の候補にICC 背景"
+    },
+    {
+      "time": "07:49",
+      "title": "タイヤ交換中に破裂 作業員が死亡",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6598072?source=rss",
+      "publishedAt": "2026-10-08T22:49:38.000Z",
+      "xQuery": "タイヤ交換中に破裂 作業員が死亡"
     },
     {
       "time": "06:49",
