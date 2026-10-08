@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-08T08:51:33.219Z",
+  "updatedAt": "2026-10-08T09:22:41.607Z",
   "items": [
     {
       "time": "17:04",
@@ -8,14 +8,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6598011?source=rss",
       "publishedAt": "2026-10-08T08:04:55.000Z",
       "xQuery": "ビール4社の地方支店にも強制調査"
-    },
-    {
-      "time": "16:32",
-      "title": "消費減税 中小零細農家に補填へ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598002?source=rss",
-      "publishedAt": "2026-10-08T07:32:44.000Z",
-      "xQuery": "消費減税 中小零細農家に補填へ"
     },
     {
       "time": "17:10",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "首相 簗氏に「働いて仕事で返せ」"
     },
     {
-      "time": "16:28",
-      "title": "巡査長 失効免許証を不正持ち出し",
+      "time": "18:01",
+      "title": "成田空港 機内でモバイル電池発火",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598003?source=rss",
-      "publishedAt": "2026-10-08T07:28:33.000Z",
-      "xQuery": "巡査長 失効免許証を不正持ち出し"
+      "url": "https://news.yahoo.co.jp/pickup/6598031?source=rss",
+      "publishedAt": "2026-10-08T09:01:46.000Z",
+      "xQuery": "成田空港 機内でモバイル電池発火"
+    },
+    {
+      "time": "17:17",
+      "title": "青森「ミスりんご」活動終了へ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6598021?source=rss",
+      "publishedAt": "2026-10-08T08:17:34.000Z",
+      "xQuery": "青森「ミスりんご」活動終了へ"
     }
   ]
 };

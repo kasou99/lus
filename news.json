@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T08:51:32.317Z",
+  "updatedAt": "2026-10-08T09:22:40.832Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -8,13 +8,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9jZThPb00tUkZIczVnNjAtaFVoUkRWMEo0d3lCX3NhVWtJQk9fam1pM1N4NkVDS3lvX2MweXpwYzk1UE5pV0ptMjB1ZW9pdGRnd2dlVXZLWklhcm0yeTk4ZkJVT1dVS01veXNrdnVvYUVnM29XZDI3WmVqT1BnTlU?oc=5",
         "publishedAt": "2026-10-08T01:56:03.000Z"
-      },
-      {
-        "time": "17:00",
-        "title": "DMG森精機社長が読むフィジカルAIの未来「中国勢と信頼性で勝負できる」",
-        "source": "日経ビジネス電子版",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE01Y0RRS01KdVdwN004M1lwdVE2MTFsNlEwWHh3V1lZWmwxYXZqS0NER1RobHNicmJwUkpzSmYzWE5uSlg4em5Wd0dRTk5qYWVWY29BdXdXV2ZGQzRfYkRONGdkMzczc00?oc=5",
-        "publishedAt": "2026-10-08T08:00:00.000Z"
       },
       {
         "time": "10:00",
@@ -57,6 +50,13 @@
         "source": "www.ctiweb.co.jp",
         "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxQQmo4YzIyLWVId194UGUzdlZJV29JUnNKUGFwdkJMa1M4VEM0MkRMVnAwTm5GelNjdlNGMm5DSHpyRU01cHhkRFBZN3BiX1hEa3g2MWQ2bHZlWm1YOUVVdWwyd1pyODE4TlVFSDR1NDZFd0RBVlNJYnN2YTVHX0U3dkliNFlGak5TLWR3eFBpYjcwcVBjTndzemljNWlHYW1xeDdQQ3ZPN3V0VVBaUjN1Nl9OZlgyQ19iR3NKUGt3ZmRnaWJEZzBwMVdvM1JYYUxMS3BPTzFuTkpEZmpMclNqU1ZBZGY5cEF6SXZNZGNodHkyLXBXLWl0UGx3VERxSnVKb00tUTJpdWNOTERUZFBPbmdJbVZQNTRSNmtmcFNCaER6WXNtbnQyMlZqSVI4T3gzRUxwZHlmM2FtM1dEdkZSNE1IR0M2TE16MEtVbTJQNHNaVjctdWc?oc=5",
         "publishedAt": "2026-10-07T09:58:41.000Z"
+      },
+      {
+        "time": "19:00",
+        "title": "オムロン、「盤レス化ソリューション」展開強化 変わる制御盤とプロセス 変革へ大きな一歩 盤外設置用の機器を拡充",
+        "source": "オートメーション新聞WEB",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5fTmR4UkNlWmRyeGtnelFTam1lNDBlc1ZEdnVpbVM4dnNkQ1JDZzJMNHdqYWdLMVM3S2RiSFM5MlpjTGNySTBKRjZCdzlJQXcxWlc4Nkw1WUthZw?oc=5",
+        "publishedAt": "2026-10-07T10:00:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -112,25 +112,18 @@
         "publishedAt": "2026-10-08T08:10:42.000Z"
       },
       {
+        "time": "18:06",
+        "title": "アサヒGHD社長 カルテル認識ない",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598028?source=rss",
+        "publishedAt": "2026-10-08T09:06:35.000Z"
+      },
+      {
         "time": "17:04",
         "title": "ビール4社の地方支店にも強制調査",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598011?source=rss",
         "publishedAt": "2026-10-08T08:04:55.000Z"
-      },
-      {
-        "time": "11:17",
-        "title": "ビール4社 価格一覧表を共有か",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597970?source=rss",
-        "publishedAt": "2026-10-08T02:17:33.000Z"
-      },
-      {
-        "time": "13:21",
-        "title": "ビール4社 業者間の「合意」焦点",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597983?source=rss",
-        "publishedAt": "2026-10-08T04:21:21.000Z"
       },
       {
         "time": "16:32",
@@ -145,6 +138,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598005?source=rss",
         "publishedAt": "2026-10-08T07:31:36.000Z"
+      },
+      {
+        "time": "17:53",
+        "title": "季節を選ばない服人気 業界に変化",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598026?source=rss",
+        "publishedAt": "2026-10-08T08:53:13.000Z"
       }
     ],
     "localHeadlines": [
@@ -154,13 +154,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6597991?source=rss",
         "publishedAt": "2026-10-08T05:05:13.000Z"
-      },
-      {
-        "time": "12:04",
-        "title": "硤合さん受賞 広島の仲間が祝福",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597974?source=rss",
-        "publishedAt": "2026-10-08T03:04:45.000Z"
       },
       {
         "time": "11:59",
@@ -189,6 +182,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6597952?source=rss",
         "publishedAt": "2026-10-08T00:02:41.000Z"
+      },
+      {
+        "time": "18:01",
+        "title": "成田空港 機内でモバイル電池発火",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598031?source=rss",
+        "publishedAt": "2026-10-08T09:01:46.000Z"
       }
     ],
     "subsidyHeadlines": [
