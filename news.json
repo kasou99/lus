@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T06:34:12.166Z",
+  "updatedAt": "2026-10-08T07:27:44.192Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -105,13 +105,6 @@
     ],
     "economyHeadlines": [
       {
-        "time": "10:45",
-        "title": "ビール大手4社カルテル疑い 調査",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597843?source=rss",
-        "publishedAt": "2026-10-07T01:45:44.000Z"
-      },
-      {
         "time": "11:17",
         "title": "ビール4社 価格一覧表を共有か",
         "source": "Yahoo!ニュース",
@@ -145,6 +138,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6597933?source=rss",
         "publishedAt": "2026-10-07T14:33:48.000Z"
+      },
+      {
+        "time": "18:13",
+        "title": "育休でパタハラ 男性が会社側提訴",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6597902?source=rss",
+        "publishedAt": "2026-10-07T09:13:37.000Z"
       }
     ],
     "localHeadlines": [
