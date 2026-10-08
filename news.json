@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-10-08T09:22:40.832Z",
+  "updatedAt": "2026-10-08T09:46:05.253Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "17:00",
+        "title": "DMG森精機社長が読むフィジカルAIの未来「中国勢と信頼性で勝負できる」",
+        "source": "日経ビジネス電子版",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE01Y0RRS01KdVdwN004M1lwdVE2MTFsNlEwWHh3V1lZWmwxYXZqS0NER1RobHNicmJwUkpzSmYzWE5uSlg4em5Wd0dRTk5qYWVWY29BdXdXV2ZGQzRfYkRONGdkMzczc00?oc=5",
+        "publishedAt": "2026-10-08T08:00:00.000Z"
+      },
       {
         "time": "10:56",
         "title": "工作機械展 小型ファイバーレーザー機 アマダが世界初披露 26日から（日刊産業新聞）",
@@ -50,13 +57,6 @@
         "source": "www.ctiweb.co.jp",
         "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxQQmo4YzIyLWVId194UGUzdlZJV29JUnNKUGFwdkJMa1M4VEM0MkRMVnAwTm5GelNjdlNGMm5DSHpyRU01cHhkRFBZN3BiX1hEa3g2MWQ2bHZlWm1YOUVVdWwyd1pyODE4TlVFSDR1NDZFd0RBVlNJYnN2YTVHX0U3dkliNFlGak5TLWR3eFBpYjcwcVBjTndzemljNWlHYW1xeDdQQ3ZPN3V0VVBaUjN1Nl9OZlgyQ19iR3NKUGt3ZmRnaWJEZzBwMVdvM1JYYUxMS3BPTzFuTkpEZmpMclNqU1ZBZGY5cEF6SXZNZGNodHkyLXBXLWl0UGx3VERxSnVKb00tUTJpdWNOTERUZFBPbmdJbVZQNTRSNmtmcFNCaER6WXNtbnQyMlZqSVI4T3gzRUxwZHlmM2FtM1dEdkZSNE1IR0M2TE16MEtVbTJQNHNaVjctdWc?oc=5",
         "publishedAt": "2026-10-07T09:58:41.000Z"
-      },
-      {
-        "time": "19:00",
-        "title": "オムロン、「盤レス化ソリューション」展開強化 変わる制御盤とプロセス 変革へ大きな一歩 盤外設置用の機器を拡充",
-        "source": "オートメーション新聞WEB",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5fTmR4UkNlWmRyeGtnelFTam1lNDBlc1ZEdnVpbVM4dnNkQ1JDZzJMNHdqYWdLMVM3S2RiSFM5MlpjTGNySTBKRjZCdzlJQXcxWlc4Nkw1WUthZw?oc=5",
-        "publishedAt": "2026-10-07T10:00:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -89,18 +89,18 @@
         "publishedAt": "2026-10-07T13:23:29.000Z"
       },
       {
-        "time": "14:08",
-        "title": "ガザ戦闘から3年 死者は7万4000人",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597866?source=rss",
-        "publishedAt": "2026-10-07T05:08:04.000Z"
-      },
-      {
         "time": "09:40",
         "title": "意識回復の米死刑囚に重い症状",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6597956?source=rss",
         "publishedAt": "2026-10-08T00:40:19.000Z"
+      },
+      {
+        "time": "18:31",
+        "title": "インド 国際会議場に安倍記念通路",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598035?source=rss",
+        "publishedAt": "2026-10-08T09:31:22.000Z"
       }
     ],
     "economyHeadlines": [

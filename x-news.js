@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-08T09:22:41.607Z",
+  "updatedAt": "2026-10-08T09:46:05.974Z",
   "items": [
     {
-      "time": "17:04",
-      "title": "ビール4社の地方支店にも強制調査",
+      "time": "18:06",
+      "title": "アサヒGHD社長 カルテル認識ない",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598011?source=rss",
-      "publishedAt": "2026-10-08T08:04:55.000Z",
-      "xQuery": "ビール4社の地方支店にも強制調査"
+      "url": "https://news.yahoo.co.jp/pickup/6598028?source=rss",
+      "publishedAt": "2026-10-08T09:06:35.000Z",
+      "xQuery": "アサヒGHD社長 カルテル認識ない"
     },
     {
       "time": "17:10",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "首相 簗氏に「働いて仕事で返せ」"
     },
     {
-      "time": "18:01",
-      "title": "成田空港 機内でモバイル電池発火",
+      "time": "16:31",
+      "title": "ファストリ 過去最高業績を更新",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598031?source=rss",
-      "publishedAt": "2026-10-08T09:01:46.000Z",
-      "xQuery": "成田空港 機内でモバイル電池発火"
+      "url": "https://news.yahoo.co.jp/pickup/6598005?source=rss",
+      "publishedAt": "2026-10-08T07:31:36.000Z",
+      "xQuery": "ファストリ 過去最高業績を更新"
     },
     {
-      "time": "17:17",
-      "title": "青森「ミスりんご」活動終了へ",
+      "time": "16:19",
+      "title": "スーパーカップ抹茶 製造終了の訳",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598021?source=rss",
-      "publishedAt": "2026-10-08T08:17:34.000Z",
-      "xQuery": "青森「ミスりんご」活動終了へ"
+      "url": "https://news.yahoo.co.jp/pickup/6598001?source=rss",
+      "publishedAt": "2026-10-08T07:19:52.000Z",
+      "xQuery": "スーパーカップ抹茶 製造終了の訳"
     }
   ]
 };
