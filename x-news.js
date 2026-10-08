@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-08T15:18:07.127Z",
+  "updatedAt": "2026-10-08T15:44:45.092Z",
   "items": [
     {
       "time": "22:55",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "在沖縄米軍 9日まで通常訓練停止"
     },
     {
-      "time": "19:24",
-      "title": "エルニーニョ 最も強い水準の恐れ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598041?source=rss",
-      "publishedAt": "2026-10-08T10:24:21.000Z",
-      "xQuery": "エルニーニョ 最も強い水準の恐れ"
-    },
-    {
       "time": "19:19",
       "title": "ノーベル平和賞の候補にICC 背景",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6598033?source=rss",
       "publishedAt": "2026-10-08T10:19:09.000Z",
       "xQuery": "ノーベル平和賞の候補にICC 背景"
+    },
+    {
+      "time": "23:40",
+      "title": "関東-九州は秋晴れ多い 1カ月予報",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6598062?source=rss",
+      "publishedAt": "2026-10-08T14:40:47.000Z",
+      "xQuery": "関東-九州は秋晴れ多い 1カ月予報"
     },
     {
       "time": "00:06",
