@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-10-08T12:55:51.209Z",
+  "updatedAt": "2026-10-08T13:24:34.639Z",
   "groups": {
     "machineHeadlines": [
-      {
-        "time": "17:00",
-        "title": "DMG森精機社長が読むフィジカルAIの未来「中国勢と信頼性で勝負できる」",
-        "source": "日経ビジネス電子版",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE01Y0RRS01KdVdwN004M1lwdVE2MTFsNlEwWHh3V1lZWmwxYXZqS0NER1RobHNicmJwUkpzSmYzWE5uSlg4em5Wd0dRTk5qYWVWY29BdXdXV2ZGQzRfYkRONGdkMzczc00?oc=5",
-        "publishedAt": "2026-10-08T08:00:00.000Z"
-      },
       {
         "time": "10:56",
         "title": "工作機械展 小型ファイバーレーザー機 アマダが世界初披露 26日から（日刊産業新聞）",
         "source": "Yahoo!ニュース",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9jZThPb00tUkZIczVnNjAtaFVoUkRWMEo0d3lCX3NhVWtJQk9fam1pM1N4NkVDS3lvX2MweXpwYzk1UE5pV0ptMjB1ZW9pdGRnd2dlVXZLWklhcm0yeTk4ZkJVT1dVS01veXNrdnVvYUVnM29XZDI3WmVqT1BnTlU?oc=5",
         "publishedAt": "2026-10-08T01:56:03.000Z"
+      },
+      {
+        "time": "17:00",
+        "title": "DMG森精機社長が読むフィジカルAIの未来「中国勢と信頼性で勝負できる」",
+        "source": "日経ビジネス電子版",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE01Y0RRS01KdVdwN004M1lwdVE2MTFsNlEwWHh3V1lZWmwxYXZqS0NER1RobHNicmJwUkpzSmYzWE5uSlg4em5Wd0dRTk5qYWVWY29BdXdXV2ZGQzRfYkRONGdkMzczc00?oc=5",
+        "publishedAt": "2026-10-08T08:00:00.000Z"
       },
       {
         "time": "10:00",

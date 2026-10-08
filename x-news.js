@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-08T12:55:52.078Z",
+  "updatedAt": "2026-10-08T13:24:35.315Z",
   "items": [
     {
-      "time": "18:40",
-      "title": "参院農水委の開催に応じず 立憲",
+      "time": "17:48",
+      "title": "ハッカー集団の男 独当局が逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598036?source=rss",
-      "publishedAt": "2026-10-08T09:40:49.000Z",
-      "xQuery": "参院農水委の開催に応じず 立憲"
+      "url": "https://news.yahoo.co.jp/pickup/6598023?source=rss",
+      "publishedAt": "2026-10-08T08:48:23.000Z",
+      "xQuery": "ハッカー集団の男 独当局が逮捕"
     },
     {
       "time": "20:17",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "ペスト疑い WHOが露に情報要求"
     },
     {
-      "time": "19:09",
-      "title": "はま寿司「22時間営業」狙いは",
+      "time": "20:00",
+      "title": "韓国とウクライナ 対立深まる背景",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598039?source=rss",
-      "publishedAt": "2026-10-08T10:09:00.000Z",
-      "xQuery": "はま寿司「22時間営業」狙いは"
+      "url": "https://news.yahoo.co.jp/pickup/6598034?source=rss",
+      "publishedAt": "2026-10-08T11:00:12.000Z",
+      "xQuery": "韓国とウクライナ 対立深まる背景"
     },
     {
-      "time": "21:41",
-      "title": "ローソン情報漏えい 第一興商もか",
+      "time": "22:00",
+      "title": "ローソン 約215万件の情報漏えい",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598054?source=rss",
-      "publishedAt": "2026-10-08T12:41:55.000Z",
-      "xQuery": "ローソン情報漏えい 第一興商もか"
+      "url": "https://news.yahoo.co.jp/pickup/6598056?source=rss",
+      "publishedAt": "2026-10-08T13:00:36.000Z",
+      "xQuery": "ローソン 約215万件の情報漏えい"
     }
   ]
 };
