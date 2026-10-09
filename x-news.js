@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-09T05:20:40.810Z",
+  "updatedAt": "2026-10-09T05:45:38.195Z",
   "items": [
     {
       "time": "14:01",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "スカイチケット 1464万件情報流出"
     },
     {
-      "time": "11:58",
-      "title": "自分の情報が流出したら 対処法",
+      "time": "11:38",
+      "title": "授乳で不快感「D-MER」とは",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598109?source=rss",
-      "publishedAt": "2026-10-09T02:58:14.000Z",
-      "xQuery": "自分の情報が流出したら 対処法"
+      "url": "https://news.yahoo.co.jp/pickup/6598105?source=rss",
+      "publishedAt": "2026-10-09T02:38:51.000Z",
+      "xQuery": "授乳で不快感「D-MER」とは"
     }
   ]
 };

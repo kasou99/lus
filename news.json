@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T05:20:39.766Z",
+  "updatedAt": "2026-10-09T05:45:37.556Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -45,18 +45,18 @@
         "publishedAt": "2026-10-08T08:00:00.000Z"
       },
       {
-        "time": "21:19",
-        "title": "SDGsに貢献できる 環境に配慮したダイヤモンド 建設工具を世界に展開",
-        "source": "ひろしま企業図鑑",
-        "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5abnFpNjdveDYxYmJSZlJuam9xSGhkSEpjYTFzQXVINTlHU1NlVTBFMENYQmZKa1VRTWQ5VDlsWkJDeTljeFE?oc=5",
-        "publishedAt": "2026-10-08T12:19:41.000Z"
-      },
-      {
         "time": "12:03",
         "title": "高精度型トラスロボットの世界市場2026年、グローバル市場規模（2軸、3軸、4軸、5軸、6軸）・分析レポートを発表",
         "source": "ニコニコニュース",
         "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4zblU0TV91VU9ucjRqd0QtMXdLUXpfR2FOODM5Zzd1SE5KVGhlcUtwWHhsR3o5SEZ5MmFEbmhRSy1pdXhLaEhad3JzLVYzUi05YU9teFZtLU0yZVN4N28wamk1RHRDT3l6R2prMkNkRDdrWGVwSjJOOExNZw?oc=5",
         "publishedAt": "2026-10-09T03:03:35.000Z"
+      },
+      {
+        "time": "21:19",
+        "title": "SDGsに貢献できる 環境に配慮したダイヤモンド 建設工具を世界に展開",
+        "source": "ひろしま企業図鑑",
+        "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5abnFpNjdveDYxYmJSZlJuam9xSGhkSEpjYTFzQXVINTlHU1NlVTBFMENYQmZKa1VRTWQ5VDlsWkJDeTljeFE?oc=5",
+        "publishedAt": "2026-10-08T12:19:41.000Z"
       }
     ],
     "worldHeadlines": [
