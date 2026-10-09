@@ -1,13 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-09T01:41:03.613Z",
+  "updatedAt": "2026-10-09T02:33:28.747Z",
   "items": [
     {
-      "time": "10:00",
-      "title": "簗氏予算カット発言 収束見通せず",
+      "time": "10:38",
+      "title": "政府 消費減税法案を閣議決定",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598088?source=rss",
-      "publishedAt": "2026-10-09T01:00:17.000Z",
-      "xQuery": "簗氏予算カット発言 収束見通せず"
+      "url": "https://news.yahoo.co.jp/pickup/6598094?source=rss",
+      "publishedAt": "2026-10-09T01:38:53.000Z",
+      "xQuery": "政府 消費減税法案を閣議決定"
+    },
+    {
+      "time": "10:52",
+      "title": "熊本地震で液状化現象 住民頭抱え",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6598099?source=rss",
+      "publishedAt": "2026-10-09T01:52:40.000Z",
+      "xQuery": "熊本地震で液状化現象 住民頭抱え"
+    },
+    {
+      "time": "11:19",
+      "title": "党会合で簗氏謝罪 宗男氏の激怒で",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6598101?source=rss",
+      "publishedAt": "2026-10-09T02:19:28.000Z",
+      "xQuery": "党会合で簗氏謝罪 宗男氏の激怒で"
     },
     {
       "time": "08:33",
@@ -18,28 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "露でペスト疑い 接触者に異常なし"
     },
     {
-      "time": "08:58",
-      "title": "米国防総省 銃殺刑を生配信へ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598082?source=rss",
-      "publishedAt": "2026-10-08T23:58:22.000Z",
-      "xQuery": "米国防総省 銃殺刑を生配信へ"
-    },
-    {
       "time": "10:06",
       "title": "ブックオフ 約643万件情報流出か",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6598089?source=rss",
       "publishedAt": "2026-10-09T01:06:02.000Z",
       "xQuery": "ブックオフ 約643万件情報流出か"
-    },
-    {
-      "time": "07:49",
-      "title": "タイヤ交換中に破裂 作業員が死亡",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598072?source=rss",
-      "publishedAt": "2026-10-08T22:49:38.000Z",
-      "xQuery": "タイヤ交換中に破裂 作業員が死亡"
     }
   ]
 };
