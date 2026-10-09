@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-09T07:27:04.358Z",
+  "updatedAt": "2026-10-09T07:51:01.718Z",
   "items": [
     {
       "time": "15:21",
@@ -18,20 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "参院野党 農相の問責決議案検討へ"
     },
     {
-      "time": "13:56",
-      "title": "スカイチケット 1464万件情報流出",
+      "time": "16:19",
+      "title": "JR東 個人情報のべ206万件漏洩か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598122?source=rss",
-      "publishedAt": "2026-10-09T04:56:35.000Z",
-      "xQuery": "スカイチケット 1464万件情報流出"
-    },
-    {
-      "time": "15:56",
-      "title": "元防衛庁長官 斉藤斗志二さん死去",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598131?source=rss",
-      "publishedAt": "2026-10-09T06:56:43.000Z",
-      "xQuery": "元防衛庁長官 斉藤斗志二さん死去"
+      "url": "https://news.yahoo.co.jp/pickup/6598137?source=rss",
+      "publishedAt": "2026-10-09T07:19:11.000Z",
+      "xQuery": "JR東 個人情報のべ206万件漏洩か"
     },
     {
       "time": "16:15",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6598135?source=rss",
       "publishedAt": "2026-10-09T07:15:35.000Z",
       "xQuery": "立花氏を襲撃 被告に懲役9年判決"
+    },
+    {
+      "time": "15:45",
+      "title": "知床沈没の船体 社長に返却へ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6598130?source=rss",
+      "publishedAt": "2026-10-09T06:45:19.000Z",
+      "xQuery": "知床沈没の船体 社長に返却へ"
     }
   ]
 };
