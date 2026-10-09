@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-09T12:53:19.474Z",
+  "updatedAt": "2026-10-09T13:21:39.371Z",
   "items": [
+    {
+      "time": "22:13",
+      "title": "個人情報巡る対策 政府が緊急要請",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6598186?source=rss",
+      "publishedAt": "2026-10-09T13:13:04.000Z",
+      "xQuery": "個人情報巡る対策 政府が緊急要請"
+    },
     {
       "time": "21:19",
       "title": "簗氏「国交省にやらせる」 24年に",
@@ -8,14 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6598180?source=rss",
       "publishedAt": "2026-10-09T12:19:46.000Z",
       "xQuery": "簗氏「国交省にやらせる」 24年に"
-    },
-    {
-      "time": "16:09",
-      "title": "バンス氏発言 米は対イラン軟化?",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598111?source=rss",
-      "publishedAt": "2026-10-09T07:09:58.000Z",
-      "xQuery": "バンス氏発言 米は対イラン軟化?"
     },
     {
       "time": "20:28",
