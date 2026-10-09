@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-09T10:44:26.825Z",
+  "updatedAt": "2026-10-09T11:17:09.290Z",
   "items": [
     {
       "time": "18:24",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "転落死遺族 四電送配電を提訴意向"
     },
     {
-      "time": "17:21",
-      "title": "AI「Claude」への虐待行為 禁止",
+      "time": "20:03",
+      "title": "クーリッシュに血液 原因は未特定",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598146?source=rss",
-      "publishedAt": "2026-10-09T08:21:13.000Z",
-      "xQuery": "AI「Claude」への虐待行為 禁止"
+      "url": "https://news.yahoo.co.jp/pickup/6598172?source=rss",
+      "publishedAt": "2026-10-09T11:03:27.000Z",
+      "xQuery": "クーリッシュに血液 原因は未特定"
     }
   ]
 };
