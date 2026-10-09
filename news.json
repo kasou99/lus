@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T11:17:08.271Z",
+  "updatedAt": "2026-10-09T11:40:26.655Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -177,18 +177,18 @@
         "publishedAt": "2026-10-09T10:20:45.000Z"
       },
       {
+        "time": "20:28",
+        "title": "屋外授業で女児死亡 父親が市提訴",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598176?source=rss",
+        "publishedAt": "2026-10-09T11:28:41.000Z"
+      },
+      {
         "time": "16:39",
         "title": "認知症の入所者にプロレス技 虐待",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598140?source=rss",
         "publishedAt": "2026-10-09T07:39:32.000Z"
-      },
-      {
-        "time": "15:45",
-        "title": "知床沈没の船体 社長に返却へ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598130?source=rss",
-        "publishedAt": "2026-10-09T06:45:19.000Z"
       }
     ],
     "subsidyHeadlines": [

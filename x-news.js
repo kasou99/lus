@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-09T11:17:09.290Z",
+  "updatedAt": "2026-10-09T11:40:27.339Z",
   "items": [
     {
       "time": "18:24",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "ノーベル平和賞 南アの国際法学者"
     },
     {
-      "time": "17:38",
-      "title": "チューハイも価格調整 複数社説明",
+      "time": "16:09",
+      "title": "バンス氏発言 米は対イラン軟化?",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598149?source=rss",
-      "publishedAt": "2026-10-09T08:38:00.000Z",
-      "xQuery": "チューハイも価格調整 複数社説明"
+      "url": "https://news.yahoo.co.jp/pickup/6598111?source=rss",
+      "publishedAt": "2026-10-09T07:09:58.000Z",
+      "xQuery": "バンス氏発言 米は対イラン軟化?"
     },
     {
       "time": "17:58",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "岩屋前外相 中国の対日批判に苦言"
     },
     {
-      "time": "19:20",
-      "title": "転落死遺族 四電送配電を提訴意向",
+      "time": "20:28",
+      "title": "屋外授業で女児死亡 父親が市提訴",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598167?source=rss",
-      "publishedAt": "2026-10-09T10:20:45.000Z",
-      "xQuery": "転落死遺族 四電送配電を提訴意向"
+      "url": "https://news.yahoo.co.jp/pickup/6598176?source=rss",
+      "publishedAt": "2026-10-09T11:28:41.000Z",
+      "xQuery": "屋外授業で女児死亡 父親が市提訴"
     },
     {
       "time": "20:03",
