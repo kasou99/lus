@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T02:33:27.472Z",
+  "updatedAt": "2026-10-09T03:25:15.405Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -45,18 +45,18 @@
         "publishedAt": "2026-10-08T12:19:41.000Z"
       },
       {
+        "time": "12:03",
+        "title": "高精度型トラスロボットの世界市場2026年、グローバル市場規模（2軸、3軸、4軸、5軸、6軸）・分析レポートを発表",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4zblU0TV91VU9ucjRqd0QtMXdLUXpfR2FOODM5Zzd1SE5KVGhlcUtwWHhsR3o5SEZ5MmFEbmhRSy1pdXhLaEhad3JzLVYzUi05YU9teFZtLU0yZVN4N28wamk1RHRDT3l6R2prMkNkRDdrWGVwSjJOOExNZw?oc=5",
+        "publishedAt": "2026-10-09T03:03:35.000Z"
+      },
+      {
         "time": "10:25",
         "title": "日本精工がＪＩＭＴＯＦに出展 システムの最適化提案や顧客の課題を解決",
         "source": "ゴムタイムス",
         "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1teEJ0VEdFZldkNmlibjZRaWtwTnh1UXJNSHppLVEtc0hWdFRLbXBKTVBvNm95bU13OUVzYnUyakJWN0FsUFJiU0dDZy1IUQ?oc=5",
         "publishedAt": "2026-10-09T01:25:48.000Z"
-      },
-      {
-        "time": "18:09",
-        "title": "教育用の原子炉、存続に課題 国内で稼働、近畿大の１基のみ 赤字運営や燃料返還 学生減、支援求める声 | | プライムニュース",
-        "source": "佐賀新聞",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBnVmZ5LUlOM0FxbURScUxmZ2tQUld0UUVHeXlGZ1NmbmswajQ2UXFKbEFXSTlBN2ZDeUFtbFFvandIQVYtUUtDenV2dFhGVjhTbUFrTlBFbWRRU1Z3NEE?oc=5",
-        "publishedAt": "2026-10-08T09:09:24.000Z"
       }
     ],
     "worldHeadlines": [
@@ -133,21 +133,28 @@
         "publishedAt": "2026-10-08T09:06:35.000Z"
       },
       {
+        "time": "11:37",
+        "title": "国家公務員の給与 5年連続増",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598103?source=rss",
+        "publishedAt": "2026-10-09T02:37:57.000Z"
+      },
+      {
         "time": "22:31",
         "title": "進む脱炭素 中国依存拡大のリスク",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598057?source=rss",
         "publishedAt": "2026-10-08T13:31:29.000Z"
-      },
-      {
-        "time": "19:00",
-        "title": "「季節を選ばない服」が人気 なぜ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598040?source=rss",
-        "publishedAt": "2026-10-08T10:00:47.000Z"
       }
     ],
     "localHeadlines": [
+      {
+        "time": "12:21",
+        "title": "台風影響 千葉の751人登校できず",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598113?source=rss",
+        "publishedAt": "2026-10-09T03:21:29.000Z"
+      },
       {
         "time": "14:05",
         "title": "那須町長選当選無効取り消し 高裁",
@@ -161,13 +168,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598099?source=rss",
         "publishedAt": "2026-10-09T01:52:40.000Z"
-      },
-      {
-        "time": "11:59",
-        "title": "千葉酒々井の団地 浸水深なお1m",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597975?source=rss",
-        "publishedAt": "2026-10-08T02:59:44.000Z"
       },
       {
         "time": "20:18",
@@ -215,13 +215,6 @@
         "title": "中小企業省力化投資補助金の公募・採択情報を確認",
         "source": "中小機構",
         "url": "https://seisansei.smrj.go.jp/subsidy_info/laborsaving_subsidy.html"
-      },
-      {
-        "time": "16:00",
-        "title": "【2026年最新】中小企業向け補助金6制度まとめ｜締切・補助率・上限額一覧",
-        "source": "補助金ポータル",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Idm5vYjJtajVIYjhheTZVVTVQTXRXMndVNkRmWnVEZnZyNVRRV3ZncXZhREsxNXBqYXFZSlZmNHhLeHhkbUNRcXljRlJNWVh2ZmZrSXlsVVJsdGI5RGtBdmoxUGx1YlozMUE?oc=5",
-        "publishedAt": "2026-09-30T07:00:00.000Z"
       }
     ]
   }

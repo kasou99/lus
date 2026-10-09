@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-09T02:33:28.747Z",
+  "updatedAt": "2026-10-09T03:25:16.456Z",
   "items": [
     {
       "time": "10:38",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "政府 消費減税法案を閣議決定"
     },
     {
-      "time": "10:52",
-      "title": "熊本地震で液状化現象 住民頭抱え",
+      "time": "11:37",
+      "title": "国家公務員の給与 5年連続増",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598099?source=rss",
-      "publishedAt": "2026-10-09T01:52:40.000Z",
-      "xQuery": "熊本地震で液状化現象 住民頭抱え"
+      "url": "https://news.yahoo.co.jp/pickup/6598103?source=rss",
+      "publishedAt": "2026-10-09T02:37:57.000Z",
+      "xQuery": "国家公務員の給与 5年連続増"
     },
     {
       "time": "11:19",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "党会合で簗氏謝罪 宗男氏の激怒で"
     },
     {
-      "time": "08:33",
-      "title": "露でペスト疑い 接触者に異常なし",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598077?source=rss",
-      "publishedAt": "2026-10-08T23:33:55.000Z",
-      "xQuery": "露でペスト疑い 接触者に異常なし"
-    },
-    {
       "time": "10:06",
       "title": "ブックオフ 約643万件情報流出か",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6598089?source=rss",
       "publishedAt": "2026-10-09T01:06:02.000Z",
       "xQuery": "ブックオフ 約643万件情報流出か"
+    },
+    {
+      "time": "11:54",
+      "title": "消防職員が虚偽通報疑い 書類送検",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6598108?source=rss",
+      "publishedAt": "2026-10-09T02:54:34.000Z",
+      "xQuery": "消防職員が虚偽通報疑い 書類送検"
     }
   ]
 };
