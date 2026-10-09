@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-09T08:51:41.340Z",
+  "updatedAt": "2026-10-09T09:23:13.583Z",
   "items": [
     {
       "time": "17:38",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "参院野党 農相の問責決議案検討へ"
     },
     {
+      "time": "17:58",
+      "title": "岩屋前外相 中国の対日批判に苦言",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6598153?source=rss",
+      "publishedAt": "2026-10-09T08:58:22.000Z",
+      "xQuery": "岩屋前外相 中国の対日批判に苦言"
+    },
+    {
       "time": "16:19",
       "title": "JR東 個人情報のべ206万件漏洩か",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6598137?source=rss",
       "publishedAt": "2026-10-09T07:19:11.000Z",
       "xQuery": "JR東 個人情報のべ206万件漏洩か"
-    },
-    {
-      "time": "17:21",
-      "title": "AI「Claude」への虐待行為 禁止",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598146?source=rss",
-      "publishedAt": "2026-10-09T08:21:13.000Z",
-      "xQuery": "AI「Claude」への虐待行為 禁止"
     }
   ]
 };
