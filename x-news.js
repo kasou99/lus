@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-09T00:56:15.474Z",
+  "updatedAt": "2026-10-09T01:41:03.613Z",
   "items": [
     {
-      "time": "07:31",
-      "title": "火葬能力 政令市4割超ひっ迫恐れ",
+      "time": "10:00",
+      "title": "簗氏予算カット発言 収束見通せず",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598071?source=rss",
-      "publishedAt": "2026-10-08T22:31:08.000Z",
-      "xQuery": "火葬能力 政令市4割超ひっ迫恐れ"
+      "url": "https://news.yahoo.co.jp/pickup/6598088?source=rss",
+      "publishedAt": "2026-10-09T01:00:17.000Z",
+      "xQuery": "簗氏予算カット発言 収束見通せず"
     },
     {
-      "time": "09:19",
-      "title": "プルデンシャル 背景に独特の文化",
+      "time": "08:33",
+      "title": "露でペスト疑い 接触者に異常なし",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598084?source=rss",
-      "publishedAt": "2026-10-09T00:19:47.000Z",
-      "xQuery": "プルデンシャル 背景に独特の文化"
+      "url": "https://news.yahoo.co.jp/pickup/6598077?source=rss",
+      "publishedAt": "2026-10-08T23:33:55.000Z",
+      "xQuery": "露でペスト疑い 接触者に異常なし"
     },
     {
       "time": "08:58",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "米国防総省 銃殺刑を生配信へ"
     },
     {
-      "time": "07:56",
-      "title": "蛇口の水恐怖 ネパールでトラウマ",
+      "time": "10:06",
+      "title": "ブックオフ 約643万件情報流出か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598073?source=rss",
-      "publishedAt": "2026-10-08T22:56:13.000Z",
-      "xQuery": "蛇口の水恐怖 ネパールでトラウマ"
+      "url": "https://news.yahoo.co.jp/pickup/6598089?source=rss",
+      "publishedAt": "2026-10-09T01:06:02.000Z",
+      "xQuery": "ブックオフ 約643万件情報流出か"
     },
     {
       "time": "07:49",
