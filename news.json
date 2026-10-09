@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T16:19:24.089Z",
+  "updatedAt": "2026-10-09T16:44:49.301Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -8,13 +8,6 @@
         "source": "MONOist",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5PRE5JVE1QX1BuRWVWVjdIREY0YUoyaHQzVE9rOENBYm5TWGdBcnQ1Q1p3RXhqMVQ3VmExYXEtbmJ1WTQ3cWp4dEx2QmZZak5XYnRVbXNKQnB4YjFGVWR5SEZkc2g5UEthNWdVOUtTNA?oc=5",
         "publishedAt": "2026-10-09T04:00:00.000Z"
-      },
-      {
-        "time": "17:07",
-        "title": "9月の工作機械受注速報、前年同月比60．4％増の2232億0900万円(時事通信)",
-        "source": "Yahoo!ファイナンス",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNaWhZckE2UkNpYWZFSkRIQjVIeUk3QmpYa2l3bFZ5NlpHb0x6MWdRVlFMM1lXV3hvS19LaW04djBWUl9CQWtaWVRwS2kzclc3d2RuWmJ5ZnZfdWlJaHR0SzRMdm1lSjFTM3ZqbDRPdV9ndmFxME1aMS1RNXFaT01tSWRkRWl4dkk?oc=5",
-        "publishedAt": "2026-10-09T08:07:33.000Z"
       },
       {
         "time": "15:24",
@@ -29,6 +22,13 @@
         "source": "| 製造現場ドットコム",
         "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBkaC1aQ2JOa2U2ZGd0NWJLWFFVaEIzRDExZW1veXN2VTF3YWxSSUh4RkN3b25BMk02clV3M3ZvQkdhS0dPSkJTeEtB?oc=5",
         "publishedAt": "2026-10-09T00:29:46.000Z"
+      },
+      {
+        "time": "07:10",
+        "title": "今日のスケジュール－8月家計調査や9月工作機械受注など(トレーダーズ・ウェブ)",
+        "source": "Yahoo!ファイナンス",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPckFHUGp1MnY2REtkTjJoV2YyQ3dNZnpvUUJDQmg2ejlhV2VueDZSTk1VU05jdkNIVkt6SER1SUdZR1BTSVpaR20xRmdPcDQ1ZDRaYWh4X21CU3ZpeE1nYUIwMWVuMElJV2pWV1lVa00zZ3B1SkpsZThVcWgwd3EwdjNpaldXMEk?oc=5",
+        "publishedAt": "2026-10-08T22:10:02.000Z"
       },
       {
         "time": "10:24",
@@ -52,11 +52,11 @@
         "publishedAt": "2026-10-09T00:12:25.000Z"
       },
       {
-        "time": "07:10",
-        "title": "今日のスケジュール－8月家計調査や9月工作機械受注など(トレーダーズ・ウェブ)",
-        "source": "Yahoo!ファイナンス",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPckFHUGp1MnY2REtkTjJoV2YyQ3dNZnpvUUJDQmg2ejlhV2VueDZSTk1VU05jdkNIVkt6SER1SUdZR1BTSVpaR20xRmdPcDQ1ZDRaYWh4X21CU3ZpeE1nYUIwMWVuMElJV2pWV1lVa00zZ3B1SkpsZThVcWgwd3EwdjNpaldXMEk?oc=5",
-        "publishedAt": "2026-10-08T22:10:02.000Z"
+        "time": "10:00",
+        "title": "SCANOLOGYがJIMTOF 2026に出展！複雑形状の3D測定を効率化するソリューションを展示",
+        "source": "テクノエッジ TechnoEdge",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5hTEVpUF9FUmN3dkE5RUhiUWVOSGJjODZHZF9NVG5fMC1KZzBJeE5CZzhlSUZ2TzJOYm9OeFBILVNRdXcwcjd6bUZwSzhHZEVMTGR5NDdWX18xQ3NLUGt4eTItQTM4bGZ2R3NVUDFnTGg4dw?oc=5",
+        "publishedAt": "2026-10-09T01:00:00.000Z"
       }
     ],
     "worldHeadlines": [
