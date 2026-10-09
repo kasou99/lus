@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-08T23:40:59.978Z",
+  "updatedAt": "2026-10-09T00:56:15.474Z",
   "items": [
     {
       "time": "07:31",
@@ -10,6 +10,22 @@ window.LUS_X_NEWS = {
       "xQuery": "火葬能力 政令市4割超ひっ迫恐れ"
     },
     {
+      "time": "09:19",
+      "title": "プルデンシャル 背景に独特の文化",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6598084?source=rss",
+      "publishedAt": "2026-10-09T00:19:47.000Z",
+      "xQuery": "プルデンシャル 背景に独特の文化"
+    },
+    {
+      "time": "08:58",
+      "title": "米国防総省 銃殺刑を生配信へ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6598082?source=rss",
+      "publishedAt": "2026-10-08T23:58:22.000Z",
+      "xQuery": "米国防総省 銃殺刑を生配信へ"
+    },
+    {
       "time": "07:56",
       "title": "蛇口の水恐怖 ネパールでトラウマ",
       "source": "Yahoo!ニュース",
@@ -18,28 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "蛇口の水恐怖 ネパールでトラウマ"
     },
     {
-      "time": "07:31",
-      "title": "ロケット短期製造 防衛省調査へ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598070?source=rss",
-      "publishedAt": "2026-10-08T22:31:45.000Z",
-      "xQuery": "ロケット短期製造 防衛省調査へ"
-    },
-    {
       "time": "07:49",
       "title": "タイヤ交換中に破裂 作業員が死亡",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6598072?source=rss",
       "publishedAt": "2026-10-08T22:49:38.000Z",
       "xQuery": "タイヤ交換中に破裂 作業員が死亡"
-    },
-    {
-      "time": "06:49",
-      "title": "米スタバ メキシコ料理買収を検討",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598068?source=rss",
-      "publishedAt": "2026-10-08T21:49:10.000Z",
-      "xQuery": "米スタバ メキシコ料理買収を検討"
     }
   ]
 };
