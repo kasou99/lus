@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T22:42:12.147Z",
+  "updatedAt": "2026-10-09T23:16:43.845Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -68,11 +68,11 @@
         "publishedAt": "2026-10-09T15:07:57.000Z"
       },
       {
-        "time": "14:01",
-        "title": "3回の米朝首脳会談 拉致問題提起",
+        "time": "08:06",
+        "title": "制裁対象指定 ICC赤根所長が声明",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598121?source=rss",
-        "publishedAt": "2026-10-09T05:01:31.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6598208?source=rss",
+        "publishedAt": "2026-10-09T23:06:25.000Z"
       },
       {
         "time": "07:39",
@@ -82,25 +82,25 @@
         "publishedAt": "2026-10-09T22:39:46.000Z"
       },
       {
+        "time": "08:04",
+        "title": "ガザ停戦1年 続く命がけの日常",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598209?source=rss",
+        "publishedAt": "2026-10-09T23:04:24.000Z"
+      },
+      {
+        "time": "14:01",
+        "title": "3回の米朝首脳会談 拉致問題提起",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598121?source=rss",
+        "publishedAt": "2026-10-09T05:01:31.000Z"
+      },
+      {
         "time": "16:09",
         "title": "バンス氏発言 米は対イラン軟化?",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598111?source=rss",
         "publishedAt": "2026-10-09T07:09:58.000Z"
-      },
-      {
-        "time": "08:58",
-        "title": "米国防総省 銃殺刑を生配信へ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598082?source=rss",
-        "publishedAt": "2026-10-08T23:58:22.000Z"
-      },
-      {
-        "time": "07:56",
-        "title": "蛇口の水恐怖 ネパールでトラウマ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598073?source=rss",
-        "publishedAt": "2026-10-08T22:56:13.000Z"
       }
     ],
     "economyHeadlines": [
@@ -126,6 +126,13 @@
         "publishedAt": "2026-10-09T08:38:00.000Z"
       },
       {
+        "time": "07:49",
+        "title": "グレーゾーンのカスハラ どう対応",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598205?source=rss",
+        "publishedAt": "2026-10-09T22:49:25.000Z"
+      },
+      {
         "time": "17:42",
         "title": "木久蔵も挑戦 間借り飲食店の実態",
         "source": "Yahoo!ニュース",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598172?source=rss",
         "publishedAt": "2026-10-09T11:03:27.000Z"
-      },
-      {
-        "time": "22:39",
-        "title": "イオン系食品スーパー100店閉店へ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598188?source=rss",
-        "publishedAt": "2026-10-09T13:39:49.000Z"
       }
     ],
     "localHeadlines": [

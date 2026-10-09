@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-09T22:42:12.640Z",
+  "updatedAt": "2026-10-09T23:16:44.779Z",
   "items": [
+    {
+      "time": "08:06",
+      "title": "制裁対象指定 ICC赤根所長が声明",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6598208?source=rss",
+      "publishedAt": "2026-10-09T23:06:25.000Z",
+      "xQuery": "制裁対象指定 ICC赤根所長が声明"
+    },
     {
       "time": "07:39",
       "title": "パナマでM7.7 ホテルなど倒壊か",
@@ -8,14 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6598202?source=rss",
       "publishedAt": "2026-10-09T22:39:46.000Z",
       "xQuery": "パナマでM7.7 ホテルなど倒壊か"
-    },
-    {
-      "time": "00:07",
-      "title": "米 ICC本体を制裁対象⁠に指定",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598196?source=rss",
-      "publishedAt": "2026-10-09T15:07:57.000Z",
-      "xQuery": "米 ICC本体を制裁対象⁠に指定"
     },
     {
       "time": "07:12",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "露軍航空機 北方領土の領空を侵犯"
     },
     {
+      "time": "08:07",
+      "title": "画像流出 免許再交付の負担に不満",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6598207?source=rss",
+      "publishedAt": "2026-10-09T23:07:39.000Z",
+      "xQuery": "画像流出 免許再交付の負担に不満"
+    },
+    {
       "time": "07:21",
       "title": "キノコ採りに山へ 長野の町長死亡",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6598197?source=rss",
       "publishedAt": "2026-10-09T22:21:27.000Z",
       "xQuery": "キノコ採りに山へ 長野の町長死亡"
-    },
-    {
-      "time": "22:39",
-      "title": "イオン系食品スーパー100店閉店へ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598188?source=rss",
-      "publishedAt": "2026-10-09T13:39:49.000Z",
-      "xQuery": "イオン系食品スーパー100店閉店へ"
     }
   ]
 };
