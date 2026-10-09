@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-09T07:51:01.718Z",
+  "updatedAt": "2026-10-09T08:27:37.286Z",
   "items": [
     {
       "time": "15:21",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "JR東 個人情報のべ206万件漏洩か"
     },
     {
-      "time": "16:15",
-      "title": "立花氏を襲撃 被告に懲役9年判決",
+      "time": "16:39",
+      "title": "認知症の入所者にプロレス技 虐待",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598135?source=rss",
-      "publishedAt": "2026-10-09T07:15:35.000Z",
-      "xQuery": "立花氏を襲撃 被告に懲役9年判決"
+      "url": "https://news.yahoo.co.jp/pickup/6598140?source=rss",
+      "publishedAt": "2026-10-09T07:39:32.000Z",
+      "xQuery": "認知症の入所者にプロレス技 虐待"
     },
     {
-      "time": "15:45",
-      "title": "知床沈没の船体 社長に返却へ",
+      "time": "16:50",
+      "title": "通信制なのに全寮制 高校が開校へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598130?source=rss",
-      "publishedAt": "2026-10-09T06:45:19.000Z",
-      "xQuery": "知床沈没の船体 社長に返却へ"
+      "url": "https://news.yahoo.co.jp/pickup/6598141?source=rss",
+      "publishedAt": "2026-10-09T07:50:08.000Z",
+      "xQuery": "通信制なのに全寮制 高校が開校へ"
     }
   ]
 };

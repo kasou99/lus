@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T07:51:01.136Z",
+  "updatedAt": "2026-10-09T08:27:36.299Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -45,11 +45,11 @@
         "publishedAt": "2026-10-09T00:12:25.000Z"
       },
       {
-        "time": "21:19",
-        "title": "SDGsに貢献できる 環境に配慮したダイヤモンド 建設工具を世界に展開",
-        "source": "ひろしま企業図鑑",
-        "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5abnFpNjdveDYxYmJSZlJuam9xSGhkSEpjYTFzQXVINTlHU1NlVTBFMENYQmZKa1VRTWQ5VDlsWkJDeTljeFE?oc=5",
-        "publishedAt": "2026-10-08T12:19:41.000Z"
+        "time": "10:00",
+        "title": "SCANOLOGYがJIMTOF 2026に出展！複雑形状の3D測定を効率化するソリューションを展示",
+        "source": "テクノエッジ TechnoEdge",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5hTEVpUF9FUmN3dkE5RUhiUWVOSGJjODZHZF9NVG5fMC1KZzBJeE5CZzhlSUZ2TzJOYm9OeFBILVNRdXcwcjd6bUZwSzhHZEVMTGR5NDdWX18xQ3NLUGt4eTItQTM4bGZ2R3NVUDFnTGg4dw?oc=5",
+        "publishedAt": "2026-10-09T01:00:00.000Z"
       },
       {
         "time": "12:03",
@@ -119,20 +119,6 @@
         "publishedAt": "2026-10-08T15:06:53.000Z"
       },
       {
-        "time": "06:49",
-        "title": "米スタバ メキシコ料理買収を検討",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598068?source=rss",
-        "publishedAt": "2026-10-08T21:49:10.000Z"
-      },
-      {
-        "time": "18:06",
-        "title": "アサヒGHD社長 カルテル認識ない",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598028?source=rss",
-        "publishedAt": "2026-10-08T09:06:35.000Z"
-      },
-      {
         "time": "11:37",
         "title": "国家公務員の給与 5年連続増",
         "source": "Yahoo!ニュース",
@@ -145,6 +131,20 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598057?source=rss",
         "publishedAt": "2026-10-08T13:31:29.000Z"
+      },
+      {
+        "time": "16:50",
+        "title": "通信制なのに全寮制 高校が開校へ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598141?source=rss",
+        "publishedAt": "2026-10-09T07:50:08.000Z"
+      },
+      {
+        "time": "17:21",
+        "title": "女性着飾る理由に「推し活」見解",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598147?source=rss",
+        "publishedAt": "2026-10-09T08:21:10.000Z"
       }
     ],
     "localHeadlines": [
@@ -163,18 +163,18 @@
         "publishedAt": "2026-10-09T01:52:40.000Z"
       },
       {
-        "time": "12:50",
-        "title": "事故受け 同志社国際高の補助減額",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598116?source=rss",
-        "publishedAt": "2026-10-09T03:50:35.000Z"
-      },
-      {
         "time": "16:15",
         "title": "立花氏を襲撃 被告に懲役9年判決",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598135?source=rss",
         "publishedAt": "2026-10-09T07:15:35.000Z"
+      },
+      {
+        "time": "17:26",
+        "title": "女川原発で作業員が転落 意識不明",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598148?source=rss",
+        "publishedAt": "2026-10-09T08:26:10.000Z"
       },
       {
         "time": "16:39",
