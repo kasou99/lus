@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-09T12:27:21.450Z",
+  "updatedAt": "2026-10-09T12:53:19.474Z",
   "items": [
     {
       "time": "21:19",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "屋外授業で女児死亡 父親が市提訴"
     },
     {
+      "time": "21:39",
+      "title": "採石場で落石 トラックの男性死亡",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6598183?source=rss",
+      "publishedAt": "2026-10-09T12:39:43.000Z",
+      "xQuery": "採石場で落石 トラックの男性死亡"
+    },
+    {
       "time": "20:03",
       "title": "クーリッシュに血液 原因は未特定",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6598172?source=rss",
       "publishedAt": "2026-10-09T11:03:27.000Z",
       "xQuery": "クーリッシュに血液 原因は未特定"
-    },
-    {
-      "time": "18:44",
-      "title": "大学教授がAI使い著書に誤り 絶版",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598161?source=rss",
-      "publishedAt": "2026-10-09T09:44:26.000Z",
-      "xQuery": "大学教授がAI使い著書に誤り 絶版"
     }
   ]
 };
