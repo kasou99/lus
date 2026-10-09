@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T03:49:50.487Z",
+  "updatedAt": "2026-10-09T04:23:55.188Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -24,18 +24,18 @@
         "publishedAt": "2026-10-08T20:00:00.000Z"
       },
       {
-        "time": "17:00",
-        "title": "DMG森精機社長が読むフィジカルAIの未来「中国勢と信頼性で勝負できる」",
-        "source": "日経ビジネス電子版",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE01Y0RRS01KdVdwN004M1lwdVE2MTFsNlEwWHh3V1lZWmwxYXZqS0NER1RobHNicmJwUkpzSmYzWE5uSlg4em5Wd0dRTk5qYWVWY29BdXdXV2ZGQzRfYkRONGdkMzczc00?oc=5",
-        "publishedAt": "2026-10-08T08:00:00.000Z"
-      },
-      {
         "time": "09:12",
         "title": "芝浦機械 5軸精密マシニングセンタ「VM-450A(5)」を投入 ～UVMシリーズのDNA継承 医療・自動車光学部品など高度加工市場を狙う - | 製造現場ドットコム",
         "source": "| 製造現場ドットコム",
         "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBkaC1aQ2JOa2U2ZGd0NWJLWFFVaEIzRDExZW1veXN2VTF3YWxSSUh4RkN3b25BMk02clV3M3ZvQkdhS0dPSkJTeEtB?oc=5",
         "publishedAt": "2026-10-09T00:12:49.000Z"
+      },
+      {
+        "time": "17:00",
+        "title": "DMG森精機社長が読むフィジカルAIの未来「中国勢と信頼性で勝負できる」",
+        "source": "日経ビジネス電子版",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE01Y0RRS01KdVdwN004M1lwdVE2MTFsNlEwWHh3V1lZWmwxYXZqS0NER1RobHNicmJwUkpzSmYzWE5uSlg4em5Wd0dRTk5qYWVWY29BdXdXV2ZGQzRfYkRONGdkMzczc00?oc=5",
+        "publishedAt": "2026-10-08T08:00:00.000Z"
       },
       {
         "time": "21:19",
@@ -163,6 +163,13 @@
         "publishedAt": "2026-10-08T05:05:13.000Z"
       },
       {
+        "time": "12:50",
+        "title": "事故受け 同志社国際高の補助減額",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598116?source=rss",
+        "publishedAt": "2026-10-09T03:50:35.000Z"
+      },
+      {
         "time": "10:52",
         "title": "熊本地震で液状化現象 住民頭抱え",
         "source": "Yahoo!ニュース",
@@ -175,13 +182,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598048?source=rss",
         "publishedAt": "2026-10-08T11:18:29.000Z"
-      },
-      {
-        "time": "15:03",
-        "title": "タイで波紋 大村知事が発言を説明",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597995?source=rss",
-        "publishedAt": "2026-10-08T06:03:22.000Z"
       },
       {
         "time": "10:11",

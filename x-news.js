@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-09T03:49:51.138Z",
+  "updatedAt": "2026-10-09T04:23:55.926Z",
   "items": [
     {
       "time": "11:37",
@@ -18,6 +18,14 @@ window.LUS_X_NEWS = {
       "xQuery": "医療業界 精神障害の労災3倍に"
     },
     {
+      "time": "12:50",
+      "title": "事故受け 同志社国際高の補助減額",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6598116?source=rss",
+      "publishedAt": "2026-10-09T03:50:35.000Z",
+      "xQuery": "事故受け 同志社国際高の補助減額"
+    },
+    {
       "time": "11:19",
       "title": "党会合で簗氏謝罪 宗男氏の激怒で",
       "source": "Yahoo!ニュース",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "党会合で簗氏謝罪 宗男氏の激怒で"
     },
     {
-      "time": "10:06",
-      "title": "ブックオフ 約643万件情報流出か",
+      "time": "11:58",
+      "title": "自分の情報が流出したら 対処法",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598089?source=rss",
-      "publishedAt": "2026-10-09T01:06:02.000Z",
-      "xQuery": "ブックオフ 約643万件情報流出か"
-    },
-    {
-      "time": "11:54",
-      "title": "消防職員が虚偽通報疑い 書類送検",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598108?source=rss",
-      "publishedAt": "2026-10-09T02:54:34.000Z",
-      "xQuery": "消防職員が虚偽通報疑い 書類送検"
+      "url": "https://news.yahoo.co.jp/pickup/6598109?source=rss",
+      "publishedAt": "2026-10-09T02:58:14.000Z",
+      "xQuery": "自分の情報が流出したら 対処法"
     }
   ]
 };
