@@ -1,13 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-09T08:27:37.286Z",
+  "updatedAt": "2026-10-09T08:51:41.340Z",
   "items": [
     {
-      "time": "15:21",
-      "title": "プルデンシャル 一部業務停止命令",
+      "time": "17:38",
+      "title": "チューハイも価格調整 複数社説明",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598129?source=rss",
-      "publishedAt": "2026-10-09T06:21:10.000Z",
-      "xQuery": "プルデンシャル 一部業務停止命令"
+      "url": "https://news.yahoo.co.jp/pickup/6598149?source=rss",
+      "publishedAt": "2026-10-09T08:38:00.000Z",
+      "xQuery": "チューハイも価格調整 複数社説明"
+    },
+    {
+      "time": "14:03",
+      "title": "警視庁「自動運転企画室」設置へ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6598119?source=rss",
+      "publishedAt": "2026-10-09T05:03:19.000Z",
+      "xQuery": "警視庁「自動運転企画室」設置へ"
     },
     {
       "time": "16:13",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "JR東 個人情報のべ206万件漏洩か"
     },
     {
-      "time": "16:39",
-      "title": "認知症の入所者にプロレス技 虐待",
+      "time": "17:21",
+      "title": "AI「Claude」への虐待行為 禁止",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598140?source=rss",
-      "publishedAt": "2026-10-09T07:39:32.000Z",
-      "xQuery": "認知症の入所者にプロレス技 虐待"
-    },
-    {
-      "time": "16:50",
-      "title": "通信制なのに全寮制 高校が開校へ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598141?source=rss",
-      "publishedAt": "2026-10-09T07:50:08.000Z",
-      "xQuery": "通信制なのに全寮制 高校が開校へ"
+      "url": "https://news.yahoo.co.jp/pickup/6598146?source=rss",
+      "publishedAt": "2026-10-09T08:21:13.000Z",
+      "xQuery": "AI「Claude」への虐待行為 禁止"
     }
   ]
 };
