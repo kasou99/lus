@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T19:40:27.741Z",
+  "updatedAt": "2026-10-09T20:18:47.896Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,13 +38,6 @@
         "publishedAt": "2026-10-09T01:24:37.000Z"
       },
       {
-        "time": "05:00",
-        "title": "シチズンマシナリー、MC機能搭載の自動旋盤2種",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9IZF95aXNJVm51WU9ONjNTdlFZR0JzTDdsVlotSUtXV204VkRFWTR5cVNOanlKU0lHYTBpazFsUkg0MHBJX0taeXF4U3ZlZFFKUDRkdTczSUc?oc=5",
-        "publishedAt": "2026-10-08T20:00:00.000Z"
-      },
-      {
         "time": "09:12",
         "title": "2026年8月分工作機械受注総額は1978.7億円 - | 製造現場ドットコム",
         "source": "| 製造現場ドットコム",
@@ -57,6 +50,13 @@
         "source": "テクノエッジ TechnoEdge",
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5hTEVpUF9FUmN3dkE5RUhiUWVOSGJjODZHZF9NVG5fMC1KZzBJeE5CZzhlSUZ2TzJOYm9OeFBILVNRdXcwcjd6bUZwSzhHZEVMTGR5NDdWX18xQ3NLUGt4eTItQTM4bGZ2R3NVUDFnTGg4dw?oc=5",
         "publishedAt": "2026-10-09T01:00:00.000Z"
+      },
+      {
+        "time": "13:08",
+        "title": "「TOKYO PACK 2026」 14～16日 東京ビッグサイトで 日本包装技術協会",
+        "source": "Infoseek",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1tRDJaWmR5YlhEd3ZEVVJpal82eWlJOWttV0dsR2UzTnJ2aUtvNV9TQTBoTEVaeXIyOC1uS2luSnBrQWFsWUlfNGhLem9OcGJySlRYSW0xcWd5Q0p4aExKX1dB?oc=5",
+        "publishedAt": "2026-10-09T04:08:36.000Z"
       }
     ],
     "worldHeadlines": [
