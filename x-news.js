@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-09T04:47:59.229Z",
+  "updatedAt": "2026-10-09T05:20:40.810Z",
   "items": [
     {
-      "time": "11:37",
-      "title": "国家公務員の給与 5年連続増",
+      "time": "14:01",
+      "title": "3回の米朝首脳会談 拉致問題提起",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598103?source=rss",
-      "publishedAt": "2026-10-09T02:37:57.000Z",
-      "xQuery": "国家公務員の給与 5年連続増"
+      "url": "https://news.yahoo.co.jp/pickup/6598121?source=rss",
+      "publishedAt": "2026-10-09T05:01:31.000Z",
+      "xQuery": "3回の米朝首脳会談 拉致問題提起"
     },
     {
-      "time": "11:19",
-      "title": "党会合で簗氏謝罪 宗男氏の激怒で",
+      "time": "12:21",
+      "title": "台風影響 千葉の751人登校できず",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598101?source=rss",
-      "publishedAt": "2026-10-09T02:19:28.000Z",
-      "xQuery": "党会合で簗氏謝罪 宗男氏の激怒で"
+      "url": "https://news.yahoo.co.jp/pickup/6598113?source=rss",
+      "publishedAt": "2026-10-09T03:21:29.000Z",
+      "xQuery": "台風影響 千葉の751人登校できず"
     },
     {
       "time": "12:50",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "事故受け 同志社国際高の補助減額"
     },
     {
-      "time": "13:17",
-      "title": "スカイチケット 1400万件情報流出",
+      "time": "13:56",
+      "title": "スカイチケット 1464万件情報流出",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598118?source=rss",
-      "publishedAt": "2026-10-09T04:17:27.000Z",
-      "xQuery": "スカイチケット 1400万件情報流出"
+      "url": "https://news.yahoo.co.jp/pickup/6598122?source=rss",
+      "publishedAt": "2026-10-09T04:56:35.000Z",
+      "xQuery": "スカイチケット 1464万件情報流出"
     },
     {
       "time": "11:58",

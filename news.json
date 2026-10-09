@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-10-09T04:47:57.883Z",
+  "updatedAt": "2026-10-09T05:20:39.766Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "13:00",
+        "title": "工作機械のスピンドル設計に高度な解析レポート提供、日本精工が開始",
+        "source": "MONOist",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5PRE5JVE1QX1BuRWVWVjdIREY0YUoyaHQzVE9rOENBYm5TWGdBcnQ1Q1p3RXhqMVQ3VmExYXEtbmJ1WTQ3cWp4dEx2QmZZak5XYnRVbXNKQnB4YjFGVWR5SEZkc2g5UEthNWdVOUtTNA?oc=5",
+        "publishedAt": "2026-10-09T04:00:00.000Z"
+      },
       {
         "time": "09:12",
         "title": "2026年8月分工作機械受注総額は1978.7億円 - | 製造現場ドットコム",
@@ -50,16 +57,16 @@
         "source": "ニコニコニュース",
         "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4zblU0TV91VU9ucjRqd0QtMXdLUXpfR2FOODM5Zzd1SE5KVGhlcUtwWHhsR3o5SEZ5MmFEbmhRSy1pdXhLaEhad3JzLVYzUi05YU9teFZtLU0yZVN4N28wamk1RHRDT3l6R2prMkNkRDdrWGVwSjJOOExNZw?oc=5",
         "publishedAt": "2026-10-09T03:03:35.000Z"
-      },
-      {
-        "time": "10:25",
-        "title": "日本精工がＪＩＭＴＯＦに出展 システムの最適化提案や顧客の課題を解決",
-        "source": "ゴムタイムス",
-        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1teEJ0VEdFZldkNmlibjZRaWtwTnh1UXJNSHppLVEtc0hWdFRLbXBKTVBvNm95bU13OUVzYnUyakJWN0FsUFJiU0dDZy1IUQ?oc=5",
-        "publishedAt": "2026-10-09T01:25:48.000Z"
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "14:01",
+        "title": "3回の米朝首脳会談 拉致問題提起",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598121?source=rss",
+        "publishedAt": "2026-10-09T05:01:31.000Z"
+      },
       {
         "time": "06:16",
         "title": "中間選挙前に攻撃しない 米大統領",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598073?source=rss",
         "publishedAt": "2026-10-08T22:56:13.000Z"
-      },
-      {
-        "time": "18:54",
-        "title": "韓国 駐ウクライナ大使の召還発表",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598038?source=rss",
-        "publishedAt": "2026-10-08T09:54:20.000Z"
       }
     ],
     "economyHeadlines": [
