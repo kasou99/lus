@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-09T09:46:18.906Z",
+  "updatedAt": "2026-10-09T10:19:57.139Z",
   "items": [
     {
       "time": "18:24",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "岩屋前外相 中国の対日批判に苦言"
     },
     {
-      "time": "18:13",
-      "title": "大津いじめ中2死亡15年 父が憤り",
+      "time": "17:21",
+      "title": "AI「Claude」への虐待行為 禁止",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598154?source=rss",
-      "publishedAt": "2026-10-09T09:13:16.000Z",
-      "xQuery": "大津いじめ中2死亡15年 父が憤り"
+      "url": "https://news.yahoo.co.jp/pickup/6598146?source=rss",
+      "publishedAt": "2026-10-09T08:21:13.000Z",
+      "xQuery": "AI「Claude」への虐待行為 禁止"
     },
     {
-      "time": "18:12",
-      "title": "「バンドスコア」模倣 賠償が確定",
+      "time": "18:44",
+      "title": "大学教授がAI使い著書に誤り 絶版",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598155?source=rss",
-      "publishedAt": "2026-10-09T09:12:24.000Z",
-      "xQuery": "「バンドスコア」模倣 賠償が確定"
+      "url": "https://news.yahoo.co.jp/pickup/6598161?source=rss",
+      "publishedAt": "2026-10-09T09:44:26.000Z",
+      "xQuery": "大学教授がAI使い著書に誤り 絶版"
     }
   ]
 };
