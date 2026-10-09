@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T22:18:13.326Z",
+  "updatedAt": "2026-10-09T22:42:12.147Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -75,11 +75,11 @@
         "publishedAt": "2026-10-09T05:01:31.000Z"
       },
       {
-        "time": "06:16",
-        "title": "中間選挙前に攻撃しない 米大統領",
+        "time": "07:39",
+        "title": "パナマでM7.7 ホテルなど倒壊か",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598065?source=rss",
-        "publishedAt": "2026-10-08T21:16:09.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6598202?source=rss",
+        "publishedAt": "2026-10-09T22:39:46.000Z"
       },
       {
         "time": "16:09",
@@ -177,18 +177,18 @@
         "publishedAt": "2026-10-09T11:28:41.000Z"
       },
       {
+        "time": "07:21",
+        "title": "キノコ採りに山へ 長野の町長死亡",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598197?source=rss",
+        "publishedAt": "2026-10-09T22:21:27.000Z"
+      },
+      {
         "time": "16:39",
         "title": "認知症の入所者にプロレス技 虐待",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598140?source=rss",
         "publishedAt": "2026-10-09T07:39:32.000Z"
-      },
-      {
-        "time": "22:47",
-        "title": "給湯器点検商法 詐欺疑い8人逮捕",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598190?source=rss",
-        "publishedAt": "2026-10-09T13:47:48.000Z"
       }
     ],
     "subsidyHeadlines": [

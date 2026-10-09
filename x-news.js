@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-09T22:18:14.148Z",
+  "updatedAt": "2026-10-09T22:42:12.640Z",
   "items": [
+    {
+      "time": "07:39",
+      "title": "パナマでM7.7 ホテルなど倒壊か",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6598202?source=rss",
+      "publishedAt": "2026-10-09T22:39:46.000Z",
+      "xQuery": "パナマでM7.7 ホテルなど倒壊か"
+    },
     {
       "time": "00:07",
       "title": "米 ICC本体を制裁対象⁠に指定",
@@ -10,28 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "米 ICC本体を制裁対象⁠に指定"
     },
     {
-      "time": "23:22",
-      "title": "文科相 議員会館内でパーティーか",
+      "time": "07:12",
+      "title": "露軍航空機 北方領土の領空を侵犯",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598193?source=rss",
-      "publishedAt": "2026-10-09T14:22:04.000Z",
-      "xQuery": "文科相 議員会館内でパーティーか"
+      "url": "https://news.yahoo.co.jp/pickup/6598199?source=rss",
+      "publishedAt": "2026-10-09T22:12:07.000Z",
+      "xQuery": "露軍航空機 北方領土の領空を侵犯"
     },
     {
-      "time": "21:19",
-      "title": "簗氏「国交省にやらせる」 24年に",
+      "time": "07:21",
+      "title": "キノコ採りに山へ 長野の町長死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598180?source=rss",
-      "publishedAt": "2026-10-09T12:19:46.000Z",
-      "xQuery": "簗氏「国交省にやらせる」 24年に"
-    },
-    {
-      "time": "23:20",
-      "title": "ビール4社担当者 価格協議認める",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598192?source=rss",
-      "publishedAt": "2026-10-09T14:20:52.000Z",
-      "xQuery": "ビール4社担当者 価格協議認める"
+      "url": "https://news.yahoo.co.jp/pickup/6598197?source=rss",
+      "publishedAt": "2026-10-09T22:21:27.000Z",
+      "xQuery": "キノコ採りに山へ 長野の町長死亡"
     },
     {
       "time": "22:39",
