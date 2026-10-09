@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-09T09:23:13.583Z",
+  "updatedAt": "2026-10-09T09:46:18.906Z",
   "items": [
+    {
+      "time": "18:24",
+      "title": "ノーベル平和賞 南アの国際法学者",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6598160?source=rss",
+      "publishedAt": "2026-10-09T09:24:00.000Z",
+      "xQuery": "ノーベル平和賞 南アの国際法学者"
+    },
     {
       "time": "17:38",
       "title": "チューハイも価格調整 複数社説明",
@@ -8,22 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6598149?source=rss",
       "publishedAt": "2026-10-09T08:38:00.000Z",
       "xQuery": "チューハイも価格調整 複数社説明"
-    },
-    {
-      "time": "14:03",
-      "title": "警視庁「自動運転企画室」設置へ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598119?source=rss",
-      "publishedAt": "2026-10-09T05:03:19.000Z",
-      "xQuery": "警視庁「自動運転企画室」設置へ"
-    },
-    {
-      "time": "16:13",
-      "title": "参院野党 農相の問責決議案検討へ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598132?source=rss",
-      "publishedAt": "2026-10-09T07:13:40.000Z",
-      "xQuery": "参院野党 農相の問責決議案検討へ"
     },
     {
       "time": "17:58",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "岩屋前外相 中国の対日批判に苦言"
     },
     {
-      "time": "16:19",
-      "title": "JR東 個人情報のべ206万件漏洩か",
+      "time": "18:13",
+      "title": "大津いじめ中2死亡15年 父が憤り",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598137?source=rss",
-      "publishedAt": "2026-10-09T07:19:11.000Z",
-      "xQuery": "JR東 個人情報のべ206万件漏洩か"
+      "url": "https://news.yahoo.co.jp/pickup/6598154?source=rss",
+      "publishedAt": "2026-10-09T09:13:16.000Z",
+      "xQuery": "大津いじめ中2死亡15年 父が憤り"
+    },
+    {
+      "time": "18:12",
+      "title": "「バンドスコア」模倣 賠償が確定",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6598155?source=rss",
+      "publishedAt": "2026-10-09T09:12:24.000Z",
+      "xQuery": "「バンドスコア」模倣 賠償が確定"
     }
   ]
 };

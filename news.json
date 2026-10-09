@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T09:23:12.797Z",
+  "updatedAt": "2026-10-09T09:46:17.988Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,6 +31,13 @@
         "publishedAt": "2026-10-09T01:24:37.000Z"
       },
       {
+        "time": "17:35",
+        "title": "SCANOLOGYがJIMTOF 2026に出展！複雑形状の3D測定を効率化するソリューションを展示",
+        "source": "ASCII.jp",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5Jc1p5UUtwdzJ2eWFua1F3X19URnBCaGhMSGV4QmNSMElXLWxlYTRsQk5CekJNbG9rUzN2Ql80UEw3YW5iSWl0aEcxZXVLdXBNdjQwdQ?oc=5",
+        "publishedAt": "2026-10-09T08:35:38.000Z"
+      },
+      {
         "time": "05:00",
         "title": "シチズンマシナリー、MC機能搭載の自動旋盤2種",
         "source": "日刊工業新聞",
@@ -43,13 +50,6 @@
         "source": "| 製造現場ドットコム",
         "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9FQWJYZGNTck5OYVpkQWtuSDdHRkJOT2UzRkE4TWxla1dtdk9TQkRrR0RJTlhZYlBGdmxFV0xNZnJJb1VKTHoybC1n?oc=5",
         "publishedAt": "2026-10-09T00:12:25.000Z"
-      },
-      {
-        "time": "10:00",
-        "title": "SCANOLOGYがJIMTOF 2026に出展！複雑形状の3D測定を効率化するソリューションを展示",
-        "source": "テクノエッジ TechnoEdge",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5hTEVpUF9FUmN3dkE5RUhiUWVOSGJjODZHZF9NVG5fMC1KZzBJeE5CZzhlSUZ2TzJOYm9OeFBILVNRdXcwcjd6bUZwSzhHZEVMTGR5NDdWX18xQ3NLUGt4eTItQTM4bGZ2R3NVUDFnTGg4dw?oc=5",
-        "publishedAt": "2026-10-09T01:00:00.000Z"
       },
       {
         "time": "12:03",
