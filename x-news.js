@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-09T23:16:44.779Z",
+  "updatedAt": "2026-10-09T23:40:49.713Z",
   "items": [
     {
       "time": "08:06",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "パナマでM7.7 ホテルなど倒壊か"
     },
     {
-      "time": "07:12",
-      "title": "露軍航空機 北方領土の領空を侵犯",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598199?source=rss",
-      "publishedAt": "2026-10-09T22:12:07.000Z",
-      "xQuery": "露軍航空機 北方領土の領空を侵犯"
-    },
-    {
       "time": "08:07",
       "title": "画像流出 免許再交付の負担に不満",
       "source": "Yahoo!ニュース",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6598197?source=rss",
       "publishedAt": "2026-10-09T22:21:27.000Z",
       "xQuery": "キノコ採りに山へ 長野の町長死亡"
+    },
+    {
+      "time": "07:47",
+      "title": "いのちの党・木村英子氏が離党届",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6598204?source=rss",
+      "publishedAt": "2026-10-09T22:47:41.000Z",
+      "xQuery": "いのちの党・木村英子氏が離党届"
     }
   ]
 };
