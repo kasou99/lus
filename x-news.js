@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-09T14:20:16.346Z",
+  "updatedAt": "2026-10-09T14:46:37.894Z",
   "items": [
     {
       "time": "22:13",
@@ -10,14 +10,6 @@ window.LUS_X_NEWS = {
       "xQuery": "個人情報巡る対策 政府が緊急要請"
     },
     {
-      "time": "21:19",
-      "title": "簗氏「国交省にやらせる」 24年に",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598180?source=rss",
-      "publishedAt": "2026-10-09T12:19:46.000Z",
-      "xQuery": "簗氏「国交省にやらせる」 24年に"
-    },
-    {
       "time": "22:40",
       "title": "簗大臣お支えチーム 農水省新設",
       "source": "Yahoo!ニュース",
@@ -26,20 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "簗大臣お支えチーム 農水省新設"
     },
     {
-      "time": "20:28",
-      "title": "屋外授業で女児死亡 父親が市提訴",
+      "time": "21:19",
+      "title": "簗氏「国交省にやらせる」 24年に",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598176?source=rss",
-      "publishedAt": "2026-10-09T11:28:41.000Z",
-      "xQuery": "屋外授業で女児死亡 父親が市提訴"
+      "url": "https://news.yahoo.co.jp/pickup/6598180?source=rss",
+      "publishedAt": "2026-10-09T12:19:46.000Z",
+      "xQuery": "簗氏「国交省にやらせる」 24年に"
     },
     {
-      "time": "22:39",
-      "title": "イオン系食品スーパー100店閉店へ",
+      "time": "23:22",
+      "title": "文科相 議員会館内でパーティーか",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598188?source=rss",
-      "publishedAt": "2026-10-09T13:39:49.000Z",
-      "xQuery": "イオン系食品スーパー100店閉店へ"
+      "url": "https://news.yahoo.co.jp/pickup/6598193?source=rss",
+      "publishedAt": "2026-10-09T14:22:04.000Z",
+      "xQuery": "文科相 議員会館内でパーティーか"
+    },
+    {
+      "time": "23:20",
+      "title": "ビール4社担当者 価格協議認める",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6598192?source=rss",
+      "publishedAt": "2026-10-09T14:20:52.000Z",
+      "xQuery": "ビール4社担当者 価格協議認める"
     }
   ]
 };
