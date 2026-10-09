@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-09T06:33:06.365Z",
+  "updatedAt": "2026-10-09T07:27:04.358Z",
   "items": [
     {
       "time": "15:21",
@@ -10,28 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "プルデンシャル 一部業務停止命令"
     },
     {
-      "time": "14:01",
-      "title": "3回の米朝首脳会談 拉致問題提起",
+      "time": "16:13",
+      "title": "参院野党 農相の問責決議案検討へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598121?source=rss",
-      "publishedAt": "2026-10-09T05:01:31.000Z",
-      "xQuery": "3回の米朝首脳会談 拉致問題提起"
-    },
-    {
-      "time": "14:27",
-      "title": "ICC所長ら引き渡し要請 政府遺憾",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598124?source=rss",
-      "publishedAt": "2026-10-09T05:27:24.000Z",
-      "xQuery": "ICC所長ら引き渡し要請 政府遺憾"
-    },
-    {
-      "time": "12:21",
-      "title": "台風影響 千葉の751人登校できず",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598113?source=rss",
-      "publishedAt": "2026-10-09T03:21:29.000Z",
-      "xQuery": "台風影響 千葉の751人登校できず"
+      "url": "https://news.yahoo.co.jp/pickup/6598132?source=rss",
+      "publishedAt": "2026-10-09T07:13:40.000Z",
+      "xQuery": "参院野党 農相の問責決議案検討へ"
     },
     {
       "time": "13:56",
@@ -40,6 +24,22 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6598122?source=rss",
       "publishedAt": "2026-10-09T04:56:35.000Z",
       "xQuery": "スカイチケット 1464万件情報流出"
+    },
+    {
+      "time": "15:56",
+      "title": "元防衛庁長官 斉藤斗志二さん死去",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6598131?source=rss",
+      "publishedAt": "2026-10-09T06:56:43.000Z",
+      "xQuery": "元防衛庁長官 斉藤斗志二さん死去"
+    },
+    {
+      "time": "16:15",
+      "title": "立花氏を襲撃 被告に懲役9年判決",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6598135?source=rss",
+      "publishedAt": "2026-10-09T07:15:35.000Z",
+      "xQuery": "立花氏を襲撃 被告に懲役9年判決"
     }
   ]
 };

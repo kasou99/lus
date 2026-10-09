@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-10-09T06:33:05.689Z",
+  "updatedAt": "2026-10-09T07:27:03.451Z",
   "groups": {
     "machineHeadlines": [
-      {
-        "time": "13:00",
-        "title": "工作機械のスピンドル設計に高度な解析レポート提供、日本精工が開始",
-        "source": "MONOist",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5PRE5JVE1QX1BuRWVWVjdIREY0YUoyaHQzVE9rOENBYm5TWGdBcnQ1Q1p3RXhqMVQ3VmExYXEtbmJ1WTQ3cWp4dEx2QmZZak5XYnRVbXNKQnB4YjFGVWR5SEZkc2g5UEthNWdVOUtTNA?oc=5",
-        "publishedAt": "2026-10-09T04:00:00.000Z"
-      },
       {
         "time": "15:24",
         "title": "工作機械の受注残1兆円超 AI特需が押し上げ、芝浦機械は5割増産へ",
         "source": "日本経済新聞",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9OTEF4N3pmSzRmbGZDSlI0a1JfOERlYzFrY3FPc2lZRTZNaHphbEdTNHJ0RW1QbkdtVzQtYkluMXptVE04akE0M0YwM3M3X2JpQTdySHUwaDBtLVJSb3dMSlFtNDNPdVBkQXRqUg?oc=5",
         "publishedAt": "2026-10-09T06:24:15.000Z"
+      },
+      {
+        "time": "13:00",
+        "title": "工作機械のスピンドル設計に高度な解析レポート提供、日本精工が開始",
+        "source": "MONOist",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5PRE5JVE1QX1BuRWVWVjdIREY0YUoyaHQzVE9rOENBYm5TWGdBcnQ1Q1p3RXhqMVQ3VmExYXEtbmJ1WTQ3cWp4dEx2QmZZak5XYnRVbXNKQnB4YjFGVWR5SEZkc2g5UEthNWdVOUtTNA?oc=5",
+        "publishedAt": "2026-10-09T04:00:00.000Z"
       },
       {
         "time": "09:29",
@@ -45,18 +45,18 @@
         "publishedAt": "2026-10-09T00:12:25.000Z"
       },
       {
-        "time": "12:03",
-        "title": "高精度型トラスロボットの世界市場2026年、グローバル市場規模（2軸、3軸、4軸、5軸、6軸）・分析レポートを発表",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4zblU0TV91VU9ucjRqd0QtMXdLUXpfR2FOODM5Zzd1SE5KVGhlcUtwWHhsR3o5SEZ5MmFEbmhRSy1pdXhLaEhad3JzLVYzUi05YU9teFZtLU0yZVN4N28wamk1RHRDT3l6R2prMkNkRDdrWGVwSjJOOExNZw?oc=5",
-        "publishedAt": "2026-10-09T03:03:35.000Z"
-      },
-      {
         "time": "21:19",
         "title": "SDGsに貢献できる 環境に配慮したダイヤモンド 建設工具を世界に展開",
         "source": "ひろしま企業図鑑",
         "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5abnFpNjdveDYxYmJSZlJuam9xSGhkSEpjYTFzQXVINTlHU1NlVTBFMENYQmZKa1VRTWQ5VDlsWkJDeTljeFE?oc=5",
         "publishedAt": "2026-10-08T12:19:41.000Z"
+      },
+      {
+        "time": "12:03",
+        "title": "高精度型トラスロボットの世界市場2026年、グローバル市場規模（2軸、3軸、4軸、5軸、6軸）・分析レポートを発表",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4zblU0TV91VU9ucjRqd0QtMXdLUXpfR2FOODM5Zzd1SE5KVGhlcUtwWHhsR3o5SEZ5MmFEbmhRSy1pdXhLaEhad3JzLVYzUi05YU9teFZtLU0yZVN4N28wamk1RHRDT3l6R2prMkNkRDdrWGVwSjJOOExNZw?oc=5",
+        "publishedAt": "2026-10-09T03:03:35.000Z"
       }
     ],
     "worldHeadlines": [
@@ -75,6 +75,13 @@
         "publishedAt": "2026-10-08T21:16:09.000Z"
       },
       {
+        "time": "16:09",
+        "title": "バンス氏発言 米は対イラン軟化?",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598111?source=rss",
+        "publishedAt": "2026-10-09T07:09:58.000Z"
+      },
+      {
         "time": "22:30",
         "title": "ロシア ICC所長らの引き渡し要求",
         "source": "Yahoo!ニュース",
@@ -87,13 +94,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598082?source=rss",
         "publishedAt": "2026-10-08T23:58:22.000Z"
-      },
-      {
-        "time": "20:00",
-        "title": "韓国とウクライナ 対立深まる背景",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598034?source=rss",
-        "publishedAt": "2026-10-08T11:00:12.000Z"
       },
       {
         "time": "07:56",
@@ -156,13 +156,6 @@
         "publishedAt": "2026-10-09T03:21:29.000Z"
       },
       {
-        "time": "14:05",
-        "title": "那須町長選当選無効取り消し 高裁",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597991?source=rss",
-        "publishedAt": "2026-10-08T05:05:13.000Z"
-      },
-      {
         "time": "12:50",
         "title": "事故受け 同志社国際高の補助減額",
         "source": "Yahoo!ニュース",
@@ -184,11 +177,18 @@
         "publishedAt": "2026-10-08T11:18:29.000Z"
       },
       {
-        "time": "10:11",
-        "title": "トンネル事故「認識の遅れ」一因",
+        "time": "15:45",
+        "title": "知床沈没の船体 社長に返却へ",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598092?source=rss",
-        "publishedAt": "2026-10-09T01:11:33.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6598130?source=rss",
+        "publishedAt": "2026-10-09T06:45:19.000Z"
+      },
+      {
+        "time": "16:15",
+        "title": "立花氏を襲撃 被告に懲役9年判決",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598135?source=rss",
+        "publishedAt": "2026-10-09T07:15:35.000Z"
       }
     ],
     "subsidyHeadlines": [
