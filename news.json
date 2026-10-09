@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-10-09T13:21:38.310Z",
+  "updatedAt": "2026-10-09T13:45:06.400Z",
   "groups": {
     "machineHeadlines": [
-      {
-        "time": "17:07",
-        "title": "9月の工作機械受注速報、前年同月比60．4％増の2232億0900万円(時事通信)",
-        "source": "Yahoo!ファイナンス",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNaWhZckE2UkNpYWZFSkRIQjVIeUk3QmpYa2l3bFZ5NlpHb0x6MWdRVlFMM1lXV3hvS19LaW04djBWUl9CQWtaWVRwS2kzclc3d2RuWmJ5ZnZfdWlJaHR0SzRMdm1lSjFTM3ZqbDRPdV9ndmFxME1aMS1RNXFaT01tSWRkRWl4dkk?oc=5",
-        "publishedAt": "2026-10-09T08:07:33.000Z"
-      },
       {
         "time": "13:00",
         "title": "工作機械のスピンドル設計に高度な解析レポート提供、日本精工が開始",
         "source": "MONOist",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5PRE5JVE1QX1BuRWVWVjdIREY0YUoyaHQzVE9rOENBYm5TWGdBcnQ1Q1p3RXhqMVQ3VmExYXEtbmJ1WTQ3cWp4dEx2QmZZak5XYnRVbXNKQnB4YjFGVWR5SEZkc2g5UEthNWdVOUtTNA?oc=5",
         "publishedAt": "2026-10-09T04:00:00.000Z"
+      },
+      {
+        "time": "17:07",
+        "title": "9月の工作機械受注速報、前年同月比60．4％増の2232億0900万円(時事通信)",
+        "source": "Yahoo!ファイナンス",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNaWhZckE2UkNpYWZFSkRIQjVIeUk3QmpYa2l3bFZ5NlpHb0x6MWdRVlFMM1lXV3hvS19LaW04djBWUl9CQWtaWVRwS2kzclc3d2RuWmJ5ZnZfdWlJaHR0SzRMdm1lSjFTM3ZqbDRPdV9ndmFxME1aMS1RNXFaT01tSWRkRWl4dkk?oc=5",
+        "publishedAt": "2026-10-09T08:07:33.000Z"
       },
       {
         "time": "15:24",
@@ -38,13 +38,6 @@
         "publishedAt": "2026-10-09T01:24:37.000Z"
       },
       {
-        "time": "17:35",
-        "title": "SCANOLOGYがJIMTOF 2026に出展！複雑形状の3D測定を効率化するソリューションを展示",
-        "source": "ASCII.jp",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5Jc1p5UUtwdzJ2eWFua1F3X19URnBCaGhMSGV4QmNSMElXLWxlYTRsQk5CekJNbG9rUzN2Ql80UEw3YW5iSWl0aEcxZXVLdXBNdjQwdQ?oc=5",
-        "publishedAt": "2026-10-09T08:35:38.000Z"
-      },
-      {
         "time": "05:00",
         "title": "シチズンマシナリー、MC機能搭載の自動旋盤2種",
         "source": "日刊工業新聞",
@@ -57,6 +50,13 @@
         "source": "Yahoo!ファイナンス",
         "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPckFHUGp1MnY2REtkTjJoV2YyQ3dNZnpvUUJDQmg2ejlhV2VueDZSTk1VU05jdkNIVkt6SER1SUdZR1BTSVpaR20xRmdPcDQ1ZDRaYWh4X21CU3ZpeE1nYUIwMWVuMElJV2pWV1lVa00zZ3B1SkpsZThVcWgwd3EwdjNpaldXMEk?oc=5",
         "publishedAt": "2026-10-08T22:10:02.000Z"
+      },
+      {
+        "time": "09:12",
+        "title": "2026年8月分工作機械受注総額は1978.7億円 - | 製造現場ドットコム",
+        "source": "| 製造現場ドットコム",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9FQWJYZGNTck5OYVpkQWtuSDdHRkJOT2UzRkE4TWxla1dtdk9TQkRrR0RJTlhZYlBGdmxFV0xNZnJJb1VKTHoybC1n?oc=5",
+        "publishedAt": "2026-10-09T00:12:25.000Z"
       }
     ],
     "worldHeadlines": [
@@ -126,13 +126,6 @@
         "publishedAt": "2026-10-09T02:37:57.000Z"
       },
       {
-        "time": "16:50",
-        "title": "通信制なのに全寮制 高校が開校へ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598141?source=rss",
-        "publishedAt": "2026-10-09T07:50:08.000Z"
-      },
-      {
         "time": "17:42",
         "title": "木久蔵も挑戦 間借り飲食店の実態",
         "source": "Yahoo!ニュース",
@@ -145,6 +138,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598172?source=rss",
         "publishedAt": "2026-10-09T11:03:27.000Z"
+      },
+      {
+        "time": "22:39",
+        "title": "イオン系食品スーパー100店閉店へ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598188?source=rss",
+        "publishedAt": "2026-10-09T13:39:49.000Z"
       }
     ],
     "localHeadlines": [

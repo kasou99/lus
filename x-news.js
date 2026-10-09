@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-09T13:21:39.371Z",
+  "updatedAt": "2026-10-09T13:45:06.991Z",
   "items": [
     {
       "time": "22:13",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "採石場で落石 トラックの男性死亡"
     },
     {
-      "time": "20:03",
-      "title": "クーリッシュに血液 原因は未特定",
+      "time": "22:29",
+      "title": "白菜高騰「鍋できない」と客困惑",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598172?source=rss",
-      "publishedAt": "2026-10-09T11:03:27.000Z",
-      "xQuery": "クーリッシュに血液 原因は未特定"
+      "url": "https://news.yahoo.co.jp/pickup/6598187?source=rss",
+      "publishedAt": "2026-10-09T13:29:23.000Z",
+      "xQuery": "白菜高騰「鍋できない」と客困惑"
     }
   ]
 };
