@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-09T11:40:27.339Z",
+  "updatedAt": "2026-10-09T12:27:21.450Z",
   "items": [
     {
-      "time": "18:24",
-      "title": "ノーベル平和賞 南アの国際法学者",
+      "time": "21:19",
+      "title": "簗氏「国交省にやらせる」 24年に",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598160?source=rss",
-      "publishedAt": "2026-10-09T09:24:00.000Z",
-      "xQuery": "ノーベル平和賞 南アの国際法学者"
+      "url": "https://news.yahoo.co.jp/pickup/6598180?source=rss",
+      "publishedAt": "2026-10-09T12:19:46.000Z",
+      "xQuery": "簗氏「国交省にやらせる」 24年に"
     },
     {
       "time": "16:09",
@@ -16,14 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6598111?source=rss",
       "publishedAt": "2026-10-09T07:09:58.000Z",
       "xQuery": "バンス氏発言 米は対イラン軟化?"
-    },
-    {
-      "time": "17:58",
-      "title": "岩屋前外相 中国の対日批判に苦言",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598153?source=rss",
-      "publishedAt": "2026-10-09T08:58:22.000Z",
-      "xQuery": "岩屋前外相 中国の対日批判に苦言"
     },
     {
       "time": "20:28",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6598172?source=rss",
       "publishedAt": "2026-10-09T11:03:27.000Z",
       "xQuery": "クーリッシュに血液 原因は未特定"
+    },
+    {
+      "time": "18:44",
+      "title": "大学教授がAI使い著書に誤り 絶版",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6598161?source=rss",
+      "publishedAt": "2026-10-09T09:44:26.000Z",
+      "xQuery": "大学教授がAI使い著書に誤り 絶版"
     }
   ]
 };

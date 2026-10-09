@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-10-09T11:40:26.655Z",
+  "updatedAt": "2026-10-09T12:27:20.459Z",
   "groups": {
     "machineHeadlines": [
-      {
-        "time": "13:00",
-        "title": "工作機械のスピンドル設計に高度な解析レポート提供、日本精工が開始",
-        "source": "MONOist",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5PRE5JVE1QX1BuRWVWVjdIREY0YUoyaHQzVE9rOENBYm5TWGdBcnQ1Q1p3RXhqMVQ3VmExYXEtbmJ1WTQ3cWp4dEx2QmZZak5XYnRVbXNKQnB4YjFGVWR5SEZkc2g5UEthNWdVOUtTNA?oc=5",
-        "publishedAt": "2026-10-09T04:00:00.000Z"
-      },
       {
         "time": "17:07",
         "title": "9月の工作機械受注速報、前年同月比60．4％増の2232億0900万円(時事通信)",
         "source": "Yahoo!ファイナンス",
         "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNaWhZckE2UkNpYWZFSkRIQjVIeUk3QmpYa2l3bFZ5NlpHb0x6MWdRVlFMM1lXV3hvS19LaW04djBWUl9CQWtaWVRwS2kzclc3d2RuWmJ5ZnZfdWlJaHR0SzRMdm1lSjFTM3ZqbDRPdV9ndmFxME1aMS1RNXFaT01tSWRkRWl4dkk?oc=5",
         "publishedAt": "2026-10-09T08:07:33.000Z"
+      },
+      {
+        "time": "13:00",
+        "title": "工作機械のスピンドル設計に高度な解析レポート提供、日本精工が開始",
+        "source": "MONOist",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5PRE5JVE1QX1BuRWVWVjdIREY0YUoyaHQzVE9rOENBYm5TWGdBcnQ1Q1p3RXhqMVQ3VmExYXEtbmJ1WTQ3cWp4dEx2QmZZak5XYnRVbXNKQnB4YjFGVWR5SEZkc2g5UEthNWdVOUtTNA?oc=5",
+        "publishedAt": "2026-10-09T04:00:00.000Z"
       },
       {
         "time": "15:24",
@@ -112,13 +112,6 @@
         "publishedAt": "2026-10-09T06:21:10.000Z"
       },
       {
-        "time": "00:06",
-        "title": "プルデンシャル 不正巡り64人解雇",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598063?source=rss",
-        "publishedAt": "2026-10-08T15:06:53.000Z"
-      },
-      {
         "time": "17:38",
         "title": "チューハイも価格調整 複数社説明",
         "source": "Yahoo!ニュース",
@@ -145,6 +138,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598150?source=rss",
         "publishedAt": "2026-10-09T08:42:49.000Z"
+      },
+      {
+        "time": "20:03",
+        "title": "クーリッシュに血液 原因は未特定",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598172?source=rss",
+        "publishedAt": "2026-10-09T11:03:27.000Z"
       }
     ],
     "localHeadlines": [
