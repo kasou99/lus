@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-09T13:45:06.991Z",
+  "updatedAt": "2026-10-09T14:20:16.346Z",
   "items": [
     {
       "time": "22:13",
@@ -18,6 +18,14 @@ window.LUS_X_NEWS = {
       "xQuery": "簗氏「国交省にやらせる」 24年に"
     },
     {
+      "time": "22:40",
+      "title": "簗大臣お支えチーム 農水省新設",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6598189?source=rss",
+      "publishedAt": "2026-10-09T13:40:33.000Z",
+      "xQuery": "簗大臣お支えチーム 農水省新設"
+    },
+    {
       "time": "20:28",
       "title": "屋外授業で女児死亡 父親が市提訴",
       "source": "Yahoo!ニュース",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "屋外授業で女児死亡 父親が市提訴"
     },
     {
-      "time": "21:39",
-      "title": "採石場で落石 トラックの男性死亡",
+      "time": "22:39",
+      "title": "イオン系食品スーパー100店閉店へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598183?source=rss",
-      "publishedAt": "2026-10-09T12:39:43.000Z",
-      "xQuery": "採石場で落石 トラックの男性死亡"
-    },
-    {
-      "time": "22:29",
-      "title": "白菜高騰「鍋できない」と客困惑",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598187?source=rss",
-      "publishedAt": "2026-10-09T13:29:23.000Z",
-      "xQuery": "白菜高騰「鍋できない」と客困惑"
+      "url": "https://news.yahoo.co.jp/pickup/6598188?source=rss",
+      "publishedAt": "2026-10-09T13:39:49.000Z",
+      "xQuery": "イオン系食品スーパー100店閉店へ"
     }
   ]
 };
