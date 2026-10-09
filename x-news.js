@@ -1,14 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-09T03:25:16.456Z",
+  "updatedAt": "2026-10-09T03:49:51.138Z",
   "items": [
-    {
-      "time": "10:38",
-      "title": "政府 消費減税法案を閣議決定",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598094?source=rss",
-      "publishedAt": "2026-10-09T01:38:53.000Z",
-      "xQuery": "政府 消費減税法案を閣議決定"
-    },
     {
       "time": "11:37",
       "title": "国家公務員の給与 5年連続増",
@@ -16,6 +8,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6598103?source=rss",
       "publishedAt": "2026-10-09T02:37:57.000Z",
       "xQuery": "国家公務員の給与 5年連続増"
+    },
+    {
+      "time": "09:43",
+      "title": "医療業界 精神障害の労災3倍に",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6598086?source=rss",
+      "publishedAt": "2026-10-09T00:43:57.000Z",
+      "xQuery": "医療業界 精神障害の労災3倍に"
     },
     {
       "time": "11:19",
