@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-09T04:23:55.926Z",
+  "updatedAt": "2026-10-09T04:47:59.229Z",
   "items": [
     {
       "time": "11:37",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "国家公務員の給与 5年連続増"
     },
     {
-      "time": "09:43",
-      "title": "医療業界 精神障害の労災3倍に",
+      "time": "11:19",
+      "title": "党会合で簗氏謝罪 宗男氏の激怒で",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598086?source=rss",
-      "publishedAt": "2026-10-09T00:43:57.000Z",
-      "xQuery": "医療業界 精神障害の労災3倍に"
+      "url": "https://news.yahoo.co.jp/pickup/6598101?source=rss",
+      "publishedAt": "2026-10-09T02:19:28.000Z",
+      "xQuery": "党会合で簗氏謝罪 宗男氏の激怒で"
     },
     {
       "time": "12:50",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "事故受け 同志社国際高の補助減額"
     },
     {
-      "time": "11:19",
-      "title": "党会合で簗氏謝罪 宗男氏の激怒で",
+      "time": "13:17",
+      "title": "スカイチケット 1400万件情報流出",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598101?source=rss",
-      "publishedAt": "2026-10-09T02:19:28.000Z",
-      "xQuery": "党会合で簗氏謝罪 宗男氏の激怒で"
+      "url": "https://news.yahoo.co.jp/pickup/6598118?source=rss",
+      "publishedAt": "2026-10-09T04:17:27.000Z",
+      "xQuery": "スカイチケット 1400万件情報流出"
     },
     {
       "time": "11:58",
