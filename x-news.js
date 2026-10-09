@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-09T10:19:57.139Z",
+  "updatedAt": "2026-10-09T10:44:26.825Z",
   "items": [
     {
       "time": "18:24",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "岩屋前外相 中国の対日批判に苦言"
     },
     {
+      "time": "19:20",
+      "title": "転落死遺族 四電送配電を提訴意向",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6598167?source=rss",
+      "publishedAt": "2026-10-09T10:20:45.000Z",
+      "xQuery": "転落死遺族 四電送配電を提訴意向"
+    },
+    {
       "time": "17:21",
       "title": "AI「Claude」への虐待行為 禁止",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6598146?source=rss",
       "publishedAt": "2026-10-09T08:21:13.000Z",
       "xQuery": "AI「Claude」への虐待行為 禁止"
-    },
-    {
-      "time": "18:44",
-      "title": "大学教授がAI使い著書に誤り 絶版",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598161?source=rss",
-      "publishedAt": "2026-10-09T09:44:26.000Z",
-      "xQuery": "大学教授がAI使い著書に誤り 絶版"
     }
   ]
 };
