@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T05:45:37.556Z",
+  "updatedAt": "2026-10-09T06:33:05.689Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -10,11 +10,18 @@
         "publishedAt": "2026-10-09T04:00:00.000Z"
       },
       {
-        "time": "09:12",
-        "title": "2026年8月分工作機械受注総額は1978.7億円 - | 製造現場ドットコム",
+        "time": "15:24",
+        "title": "工作機械の受注残1兆円超 AI特需が押し上げ、芝浦機械は5割増産へ",
+        "source": "日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9OTEF4N3pmSzRmbGZDSlI0a1JfOERlYzFrY3FPc2lZRTZNaHphbEdTNHJ0RW1QbkdtVzQtYkluMXptVE04akE0M0YwM3M3X2JpQTdySHUwaDBtLVJSb3dMSlFtNDNPdVBkQXRqUg?oc=5",
+        "publishedAt": "2026-10-09T06:24:15.000Z"
+      },
+      {
+        "time": "09:29",
+        "title": "芝浦機械 5軸精密マシニングセンタ「VM-450A(5)」を投入 ～UVMシリーズのDNA継承 医療・自動車光学部品など高度加工市場を狙う - | 製造現場ドットコム",
         "source": "| 製造現場ドットコム",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9FQWJYZGNTck5OYVpkQWtuSDdHRkJOT2UzRkE4TWxla1dtdk9TQkRrR0RJTlhZYlBGdmxFV0xNZnJJb1VKTHoybC1n?oc=5",
-        "publishedAt": "2026-10-09T00:12:25.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBkaC1aQ2JOa2U2ZGd0NWJLWFFVaEIzRDExZW1veXN2VTF3YWxSSUh4RkN3b25BMk02clV3M3ZvQkdhS0dPSkJTeEtB?oc=5",
+        "publishedAt": "2026-10-09T00:29:46.000Z"
       },
       {
         "time": "10:24",
@@ -32,17 +39,10 @@
       },
       {
         "time": "09:12",
-        "title": "芝浦機械 5軸精密マシニングセンタ「VM-450A(5)」を投入 ～UVMシリーズのDNA継承 医療・自動車光学部品など高度加工市場を狙う - | 製造現場ドットコム",
+        "title": "2026年8月分工作機械受注総額は1978.7億円 - | 製造現場ドットコム",
         "source": "| 製造現場ドットコム",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBkaC1aQ2JOa2U2ZGd0NWJLWFFVaEIzRDExZW1veXN2VTF3YWxSSUh4RkN3b25BMk02clV3M3ZvQkdhS0dPSkJTeEtB?oc=5",
-        "publishedAt": "2026-10-09T00:12:49.000Z"
-      },
-      {
-        "time": "17:00",
-        "title": "DMG森精機社長が読むフィジカルAIの未来「中国勢と信頼性で勝負できる」",
-        "source": "日経ビジネス電子版",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE01Y0RRS01KdVdwN004M1lwdVE2MTFsNlEwWHh3V1lZWmwxYXZqS0NER1RobHNicmJwUkpzSmYzWE5uSlg4em5Wd0dRTk5qYWVWY29BdXdXV2ZGQzRfYkRONGdkMzczc00?oc=5",
-        "publishedAt": "2026-10-08T08:00:00.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9FQWJYZGNTck5OYVpkQWtuSDdHRkJOT2UzRkE4TWxla1dtdk9TQkRrR0RJTlhZYlBGdmxFV0xNZnJJb1VKTHoybC1n?oc=5",
+        "publishedAt": "2026-10-09T00:12:25.000Z"
       },
       {
         "time": "12:03",
@@ -105,11 +105,11 @@
     ],
     "economyHeadlines": [
       {
-        "time": "09:19",
-        "title": "プルデンシャル 背景に独特の文化",
+        "time": "15:21",
+        "title": "プルデンシャル 一部業務停止命令",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598084?source=rss",
-        "publishedAt": "2026-10-09T00:19:47.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6598129?source=rss",
+        "publishedAt": "2026-10-09T06:21:10.000Z"
       },
       {
         "time": "00:06",

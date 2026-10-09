@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-09T05:45:38.195Z",
+  "updatedAt": "2026-10-09T06:33:06.365Z",
   "items": [
+    {
+      "time": "15:21",
+      "title": "プルデンシャル 一部業務停止命令",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6598129?source=rss",
+      "publishedAt": "2026-10-09T06:21:10.000Z",
+      "xQuery": "プルデンシャル 一部業務停止命令"
+    },
     {
       "time": "14:01",
       "title": "3回の米朝首脳会談 拉致問題提起",
@@ -8,6 +16,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6598121?source=rss",
       "publishedAt": "2026-10-09T05:01:31.000Z",
       "xQuery": "3回の米朝首脳会談 拉致問題提起"
+    },
+    {
+      "time": "14:27",
+      "title": "ICC所長ら引き渡し要請 政府遺憾",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6598124?source=rss",
+      "publishedAt": "2026-10-09T05:27:24.000Z",
+      "xQuery": "ICC所長ら引き渡し要請 政府遺憾"
     },
     {
       "time": "12:21",
@@ -18,28 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "台風影響 千葉の751人登校できず"
     },
     {
-      "time": "12:50",
-      "title": "事故受け 同志社国際高の補助減額",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598116?source=rss",
-      "publishedAt": "2026-10-09T03:50:35.000Z",
-      "xQuery": "事故受け 同志社国際高の補助減額"
-    },
-    {
       "time": "13:56",
       "title": "スカイチケット 1464万件情報流出",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6598122?source=rss",
       "publishedAt": "2026-10-09T04:56:35.000Z",
       "xQuery": "スカイチケット 1464万件情報流出"
-    },
-    {
-      "time": "11:38",
-      "title": "授乳で不快感「D-MER」とは",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598105?source=rss",
-      "publishedAt": "2026-10-09T02:38:51.000Z",
-      "xQuery": "授乳で不快感「D-MER」とは"
     }
   ]
 };
