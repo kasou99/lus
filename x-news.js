@@ -1,29 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-09T14:46:37.894Z",
+  "updatedAt": "2026-10-09T15:17:04.362Z",
   "items": [
     {
-      "time": "22:13",
-      "title": "個人情報巡る対策 政府が緊急要請",
+      "time": "00:07",
+      "title": "米 ICC本体を制裁対象⁠に指定",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598186?source=rss",
-      "publishedAt": "2026-10-09T13:13:04.000Z",
-      "xQuery": "個人情報巡る対策 政府が緊急要請"
-    },
-    {
-      "time": "22:40",
-      "title": "簗大臣お支えチーム 農水省新設",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598189?source=rss",
-      "publishedAt": "2026-10-09T13:40:33.000Z",
-      "xQuery": "簗大臣お支えチーム 農水省新設"
-    },
-    {
-      "time": "21:19",
-      "title": "簗氏「国交省にやらせる」 24年に",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598180?source=rss",
-      "publishedAt": "2026-10-09T12:19:46.000Z",
-      "xQuery": "簗氏「国交省にやらせる」 24年に"
+      "url": "https://news.yahoo.co.jp/pickup/6598196?source=rss",
+      "publishedAt": "2026-10-09T15:07:57.000Z",
+      "xQuery": "米 ICC本体を制裁対象⁠に指定"
     },
     {
       "time": "23:22",
@@ -34,12 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "文科相 議員会館内でパーティーか"
     },
     {
+      "time": "21:19",
+      "title": "簗氏「国交省にやらせる」 24年に",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6598180?source=rss",
+      "publishedAt": "2026-10-09T12:19:46.000Z",
+      "xQuery": "簗氏「国交省にやらせる」 24年に"
+    },
+    {
       "time": "23:20",
       "title": "ビール4社担当者 価格協議認める",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6598192?source=rss",
       "publishedAt": "2026-10-09T14:20:52.000Z",
       "xQuery": "ビール4社担当者 価格協議認める"
+    },
+    {
+      "time": "22:39",
+      "title": "イオン系食品スーパー100店閉店へ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6598188?source=rss",
+      "publishedAt": "2026-10-09T13:39:49.000Z",
+      "xQuery": "イオン系食品スーパー100店閉店へ"
     }
   ]
 };

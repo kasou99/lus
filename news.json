@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T14:46:36.968Z",
+  "updatedAt": "2026-10-09T15:17:03.688Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -61,6 +61,13 @@
     ],
     "worldHeadlines": [
       {
+        "time": "00:07",
+        "title": "米 ICC本体を制裁対象⁠に指定",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598196?source=rss",
+        "publishedAt": "2026-10-09T15:07:57.000Z"
+      },
+      {
         "time": "14:01",
         "title": "3回の米朝首脳会談 拉致問題提起",
         "source": "Yahoo!ニュース",
@@ -80,13 +87,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598111?source=rss",
         "publishedAt": "2026-10-09T07:09:58.000Z"
-      },
-      {
-        "time": "22:30",
-        "title": "ロシア ICC所長らの引き渡し要求",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598055?source=rss",
-        "publishedAt": "2026-10-08T13:30:01.000Z"
       },
       {
         "time": "08:58",
