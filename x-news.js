@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-10T05:43:03.062Z",
+  "updatedAt": "2026-10-10T06:30:28.913Z",
   "items": [
     {
       "time": "11:08",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "衆院予算委 農水相への追及必至"
     },
     {
-      "time": "13:03",
-      "title": "トランプ氏 平和賞を逃し批判",
+      "time": "14:51",
+      "title": "「ふるさと住民」27年3月開始方針",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598243?source=rss",
-      "publishedAt": "2026-10-10T04:03:00.000Z",
-      "xQuery": "トランプ氏 平和賞を逃し批判"
+      "url": "https://news.yahoo.co.jp/pickup/6598257?source=rss",
+      "publishedAt": "2026-10-10T05:51:57.000Z",
+      "xQuery": "「ふるさと住民」27年3月開始方針"
     },
     {
-      "time": "13:03",
-      "title": "批判乗り越え 男性カップルの幸せ",
+      "time": "15:23",
+      "title": "だんじり横転 複数下敷き1人死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598242?source=rss",
-      "publishedAt": "2026-10-10T04:03:52.000Z",
-      "xQuery": "批判乗り越え 男性カップルの幸せ"
+      "url": "https://news.yahoo.co.jp/pickup/6598259?source=rss",
+      "publishedAt": "2026-10-10T06:23:03.000Z",
+      "xQuery": "だんじり横転 複数下敷き1人死亡"
     },
     {
       "time": "14:07",
