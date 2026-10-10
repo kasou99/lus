@@ -1,29 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-10T11:15:55.257Z",
+  "updatedAt": "2026-10-10T11:39:46.351Z",
   "items": [
     {
-      "time": "17:09",
-      "title": "消費減税後 8%に戻せるか識者疑問",
+      "time": "18:04",
+      "title": "いい迷惑 農相に地元から苦言続出",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598271?source=rss",
-      "publishedAt": "2026-10-10T08:09:33.000Z",
-      "xQuery": "消費減税後 8%に戻せるか識者疑問"
+      "url": "https://news.yahoo.co.jp/pickup/6598280?source=rss",
+      "publishedAt": "2026-10-10T09:04:06.000Z",
+      "xQuery": "いい迷惑 農相に地元から苦言続出"
     },
     {
-      "time": "18:44",
-      "title": "首相のG7欠席 野党から苦言続出",
+      "time": "19:32",
+      "title": "米長官 ICCの「資金源断ちきる」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598285?source=rss",
-      "publishedAt": "2026-10-10T09:44:38.000Z",
-      "xQuery": "首相のG7欠席 野党から苦言続出"
-    },
-    {
-      "time": "17:19",
-      "title": "だんじりの横転相次ぐ 計2人死亡",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598275?source=rss",
-      "publishedAt": "2026-10-10T08:19:06.000Z",
-      "xQuery": "だんじりの横転相次ぐ 計2人死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6598289?source=rss",
+      "publishedAt": "2026-10-10T10:32:26.000Z",
+      "xQuery": "米長官 ICCの「資金源断ちきる」"
     },
     {
       "time": "18:33",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "対向車線にバイク入る 衝突し死亡"
     },
     {
-      "time": "19:40",
-      "title": "マイカーもAI自動運転 続々投入へ",
+      "time": "20:14",
+      "title": "「日本一遅い列車」37年歴史に幕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598290?source=rss",
-      "publishedAt": "2026-10-10T10:40:16.000Z",
-      "xQuery": "マイカーもAI自動運転 続々投入へ"
+      "url": "https://news.yahoo.co.jp/pickup/6598293?source=rss",
+      "publishedAt": "2026-10-10T11:14:39.000Z",
+      "xQuery": "「日本一遅い列車」37年歴史に幕"
+    },
+    {
+      "time": "18:10",
+      "title": "年収2千万円ざら 稼ぐミカン農家",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6598278?source=rss",
+      "publishedAt": "2026-10-10T09:10:38.000Z",
+      "xQuery": "年収2千万円ざら 稼ぐミカン農家"
     }
   ]
 };

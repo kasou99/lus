@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T11:15:54.600Z",
+  "updatedAt": "2026-10-10T11:39:45.489Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -8,6 +8,13 @@
         "source": "pando.life",
         "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1tVGtERDctV05GTV92VFR4QmZSOWtnN1VwQ3BRajRUeXV6Z0VTTGd5blZReklhcEtnNW9rZWNtQ2F1XzI0TkduMGhn?oc=5",
         "publishedAt": "2026-10-10T10:26:39.000Z"
+      },
+      {
+        "time": "13:01",
+        "title": "駅名板やヘッドマークなどお宝40点 土浦まちかど蔵で「筑波鉄道展」",
+        "source": "NEWSつくば",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5lTHhkRnA0allkTVhteWxaOHZ1amh0LWtJbmRRT2FYSTRHVmVOb3ZIZGlTS0tNX0ZUb3pJem11ZGg4Sm5yOTlQRjdTNA?oc=5",
+        "publishedAt": "2026-10-10T04:01:25.000Z"
       },
       {
         "time": "12:10",
@@ -45,18 +52,11 @@
         "publishedAt": "2026-10-10T10:40:16.000Z"
       },
       {
-        "time": "11:50",
-        "title": "個人情報漏えい巡る賠償 補償額は",
+        "time": "20:14",
+        "title": "「日本一遅い列車」37年歴史に幕",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598235?source=rss",
-        "publishedAt": "2026-10-10T02:50:51.000Z"
-      },
-      {
-        "time": "15:42",
-        "title": "プルデンシャル 30年超続いた不正",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598260?source=rss",
-        "publishedAt": "2026-10-10T06:42:12.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6598293?source=rss",
+        "publishedAt": "2026-10-10T11:14:39.000Z"
       }
     ],
     "worldHeadlines": [
@@ -119,6 +119,13 @@
         "publishedAt": "2026-10-10T10:40:16.000Z"
       },
       {
+        "time": "20:14",
+        "title": "「日本一遅い列車」37年歴史に幕",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598293?source=rss",
+        "publishedAt": "2026-10-10T11:14:39.000Z"
+      },
+      {
         "time": "11:50",
         "title": "個人情報漏えい巡る賠償 補償額は",
         "source": "Yahoo!ニュース",
@@ -131,13 +138,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598260?source=rss",
         "publishedAt": "2026-10-10T06:42:12.000Z"
-      },
-      {
-        "time": "09:49",
-        "title": "物価高倒産が過去最多ペース なぜ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598219?source=rss",
-        "publishedAt": "2026-10-10T00:49:04.000Z"
       },
       {
         "time": "18:39",
