@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-10T14:17:20.403Z",
+  "updatedAt": "2026-10-10T14:40:36.675Z",
   "items": [
     {
-      "time": "18:04",
-      "title": "いい迷惑 農相に地元から苦言続出",
+      "time": "22:59",
+      "title": "外相 赤根・ルビオ両氏と電話協議",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598280?source=rss",
-      "publishedAt": "2026-10-10T09:04:06.000Z",
-      "xQuery": "いい迷惑 農相に地元から苦言続出"
+      "url": "https://news.yahoo.co.jp/pickup/6598307?source=rss",
+      "publishedAt": "2026-10-10T13:59:00.000Z",
+      "xQuery": "外相 赤根・ルビオ両氏と電話協議"
     },
     {
       "time": "22:09",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "ICCに制裁 ピレイ氏「悲しい日」"
     },
     {
-      "time": "22:20",
-      "title": "分電盤点検商法 トラブルが激増",
+      "time": "19:58",
+      "title": "カルテル疑惑 卸売業者が実態証言",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598301?source=rss",
-      "publishedAt": "2026-10-10T13:20:37.000Z",
-      "xQuery": "分電盤点検商法 トラブルが激増"
+      "url": "https://news.yahoo.co.jp/pickup/6598291?source=rss",
+      "publishedAt": "2026-10-10T10:58:38.000Z",
+      "xQuery": "カルテル疑惑 卸売業者が実態証言"
     },
     {
       "time": "22:30",

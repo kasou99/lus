@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T14:17:19.339Z",
+  "updatedAt": "2026-10-10T14:40:35.929Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -61,6 +61,13 @@
     ],
     "worldHeadlines": [
       {
+        "time": "23:19",
+        "title": "パレスチナ議会選 来年9月に延期",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598309?source=rss",
+        "publishedAt": "2026-10-10T14:19:20.000Z"
+      },
+      {
         "time": "22:09",
         "title": "ICCに制裁 ピレイ氏「悲しい日」",
         "source": "Yahoo!ニュース",
@@ -87,13 +94,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598243?source=rss",
         "publishedAt": "2026-10-10T04:03:00.000Z"
-      },
-      {
-        "time": "15:57",
-        "title": "ウ大統領 米露の軽油巡る合意非難",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598262?source=rss",
-        "publishedAt": "2026-10-10T06:57:39.000Z"
       },
       {
         "time": "09:39",
