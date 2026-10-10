@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-10-10T22:40:21.472Z",
+  "updatedAt": "2026-10-10T23:16:32.952Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "15:11",
+        "title": "協和機工、Fluke製品の国内向けカタログサイトを開設",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBvVmV0MENoRlU5eTlPRGlncnFRamN0VVhnZElIZFRDSWRMVEpURlhscWJOQ0JpLXFEZ0RNR2M1LTRUYXdSSlZjX3JoelpyRFYwdjd4UFVPUENfZkFuN19zSW8wQ2xXU2p4?oc=5",
+        "publishedAt": "2026-10-10T06:11:30.000Z"
+      },
       {
         "time": "19:26",
         "title": "日本のPC ベースのモーションコントローラー市場2026年版",
@@ -31,6 +38,13 @@
         "publishedAt": "2026-10-10T06:00:02.000Z"
       },
       {
+        "time": "07:55",
+        "title": "障害者50人 9カ月で雇用打ち切り",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598316?source=rss",
+        "publishedAt": "2026-10-10T22:55:09.000Z"
+      },
+      {
         "time": "19:58",
         "title": "カルテル疑惑 卸売業者が実態証言",
         "source": "Yahoo!ニュース",
@@ -43,36 +57,22 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598290?source=rss",
         "publishedAt": "2026-10-10T10:40:16.000Z"
-      },
-      {
-        "time": "20:14",
-        "title": "「日本一遅い列車」37年歴史に幕",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598293?source=rss",
-        "publishedAt": "2026-10-10T11:14:39.000Z"
-      },
-      {
-        "time": "11:50",
-        "title": "個人情報漏えい巡る賠償 補償額は",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598235?source=rss",
-        "publishedAt": "2026-10-10T02:50:51.000Z"
       }
     ],
     "worldHeadlines": [
       {
-        "time": "23:19",
-        "title": "パレスチナ議会選 来年9月に延期",
+        "time": "08:10",
+        "title": "サウジ首都の空港に攻撃 12人死亡",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598309?source=rss",
-        "publishedAt": "2026-10-10T14:19:20.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6598321?source=rss",
+        "publishedAt": "2026-10-10T23:10:14.000Z"
       },
       {
-        "time": "22:09",
-        "title": "ICCに制裁 ピレイ氏「悲しい日」",
+        "time": "08:03",
+        "title": "米大統領 製油所攻撃巡りウに警告",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598300?source=rss",
-        "publishedAt": "2026-10-10T13:09:20.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6598320?source=rss",
+        "publishedAt": "2026-10-10T23:03:56.000Z"
       },
       {
         "time": "14:41",
@@ -89,21 +89,28 @@
         "publishedAt": "2026-10-10T10:32:26.000Z"
       },
       {
+        "time": "08:02",
+        "title": "米で銃撃 子どもや妊婦ら8人死亡",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598319?source=rss",
+        "publishedAt": "2026-10-10T23:02:36.000Z"
+      },
+      {
         "time": "13:03",
         "title": "トランプ氏 平和賞を逃し批判",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598243?source=rss",
         "publishedAt": "2026-10-10T04:03:00.000Z"
-      },
-      {
-        "time": "09:39",
-        "title": "パナマでM7.7 ホテルなどが倒壊",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598220?source=rss",
-        "publishedAt": "2026-10-10T00:39:35.000Z"
       }
     ],
     "economyHeadlines": [
+      {
+        "time": "07:55",
+        "title": "障害者50人 9カ月で雇用打ち切り",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598316?source=rss",
+        "publishedAt": "2026-10-10T22:55:09.000Z"
+      },
       {
         "time": "19:58",
         "title": "カルテル疑惑 卸売業者が実態証言",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598260?source=rss",
         "publishedAt": "2026-10-10T06:42:12.000Z"
-      },
-      {
-        "time": "18:39",
-        "title": "大破したテスラ車 米で高騰の理由",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598286?source=rss",
-        "publishedAt": "2026-10-10T09:39:57.000Z"
       }
     ],
     "localHeadlines": [

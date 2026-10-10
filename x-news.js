@@ -1,13 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-10T22:40:22.145Z",
+  "updatedAt": "2026-10-10T23:16:33.883Z",
   "items": [
     {
-      "time": "22:59",
-      "title": "外相 赤根・ルビオ両氏と電話協議",
+      "time": "08:10",
+      "title": "サウジ首都の空港に攻撃 12人死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598307?source=rss",
-      "publishedAt": "2026-10-10T13:59:00.000Z",
-      "xQuery": "外相 赤根・ルビオ両氏と電話協議"
+      "url": "https://news.yahoo.co.jp/pickup/6598321?source=rss",
+      "publishedAt": "2026-10-10T23:10:14.000Z",
+      "xQuery": "サウジ首都の空港に攻撃 12人死亡"
+    },
+    {
+      "time": "08:03",
+      "title": "米大統領 製油所攻撃巡りウに警告",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6598320?source=rss",
+      "publishedAt": "2026-10-10T23:03:56.000Z",
+      "xQuery": "米大統領 製油所攻撃巡りウに警告"
     },
     {
       "time": "23:19",
@@ -18,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "パレスチナ議会選 来年9月に延期"
     },
     {
-      "time": "19:58",
-      "title": "カルテル疑惑 卸売業者が実態証言",
+      "time": "07:55",
+      "title": "障害者50人 9カ月で雇用打ち切り",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598291?source=rss",
-      "publishedAt": "2026-10-10T10:58:38.000Z",
-      "xQuery": "カルテル疑惑 卸売業者が実態証言"
+      "url": "https://news.yahoo.co.jp/pickup/6598316?source=rss",
+      "publishedAt": "2026-10-10T22:55:09.000Z",
+      "xQuery": "障害者50人 9カ月で雇用打ち切り"
     },
     {
       "time": "22:30",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6598304?source=rss",
       "publishedAt": "2026-10-10T13:30:01.000Z",
       "xQuery": "車と衝突 義父が用水路に落ち死亡"
-    },
-    {
-      "time": "18:10",
-      "title": "年収2千万円ざら 稼ぐミカン農家",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598278?source=rss",
-      "publishedAt": "2026-10-10T09:10:38.000Z",
-      "xQuery": "年収2千万円ざら 稼ぐミカン農家"
     }
   ]
 };
