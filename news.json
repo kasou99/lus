@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-10T10:16:56.409Z",
+  "updatedAt": "2026-10-10T10:40:38.822Z",
   "groups": {
     "machineHeadlines": [
       {
-        "time": "15:00",
-        "title": "日本のブラシレス DC モーター市場規模と動向",
+        "time": "19:26",
+        "title": "日本のPC ベースのモーションコントローラー市場2026年版",
         "source": "pando.life",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9iVzQzZzZqcWwtU3dJS2hSQkkzNlVRbHpBSHFHQWtkQ1ZBdS1sNWtwNjkxckhiZnc0d2RqU3RLcFBfbU5DSEpGWDln?oc=5",
-        "publishedAt": "2026-10-10T06:00:02.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1tVGtERDctV05GTV92VFR4QmZSOWtnN1VwQ3BRajRUeXV6Z0VTTGd5blZReklhcEtnNW9rZWNtQ2F1XzI0TkduMGhn?oc=5",
+        "publishedAt": "2026-10-10T10:26:39.000Z"
       },
       {
         "time": "12:10",
@@ -15,6 +15,13 @@
         "source": "Infoseek",
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4xNGJqSjlFa1hDdjF1aHk0ZkhENDdubTl6Z0hISnVoYWJOV0JQY2N2SU9UU09NeEtTWVZwVXlkUWtMY1dGelc2aENCRFpHYmJPQzBtd1E0ZXZRWkU4OUhUcy1oTXB2bDdqZF9qTkhLMklBZw?oc=5",
         "publishedAt": "2026-10-10T03:10:00.000Z"
+      },
+      {
+        "time": "15:00",
+        "title": "日本のブラシレス DC モーター市場規模と動向",
+        "source": "pando.life",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9iVzQzZzZqcWwtU3dJS2hSQkkzNlVRbHpBSHFHQWtkQ1ZBdS1sNWtwNjkxckhiZnc0d2RqU3RLcFBfbU5DSEpGWDln?oc=5",
+        "publishedAt": "2026-10-10T06:00:02.000Z"
       },
       {
         "time": "01:53",
@@ -50,23 +57,9 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598244?source=rss",
         "publishedAt": "2026-10-10T04:33:03.000Z"
-      },
-      {
-        "time": "18:39",
-        "title": "大破したテスラ車 米で高騰の理由",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598286?source=rss",
-        "publishedAt": "2026-10-10T09:39:57.000Z"
       }
     ],
     "worldHeadlines": [
-      {
-        "time": "00:07",
-        "title": "米 ICC本体を制裁対象⁠に指定",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598196?source=rss",
-        "publishedAt": "2026-10-09T15:07:57.000Z"
-      },
       {
         "time": "08:06",
         "title": "制裁対象指定 ICC赤根所長が声明",
@@ -80,6 +73,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598255?source=rss",
         "publishedAt": "2026-10-10T05:41:49.000Z"
+      },
+      {
+        "time": "19:32",
+        "title": "米長官 ICCの「資金源断ちきる」",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598289?source=rss",
+        "publishedAt": "2026-10-10T10:32:26.000Z"
       },
       {
         "time": "13:03",

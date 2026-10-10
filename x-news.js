@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-10T10:16:57.453Z",
+  "updatedAt": "2026-10-10T10:40:39.566Z",
   "items": [
     {
       "time": "17:09",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "だんじりの横転相次ぐ 計2人死亡"
     },
     {
+      "time": "18:33",
+      "title": "対向車線にバイク入る 衝突し死亡",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6598283?source=rss",
+      "publishedAt": "2026-10-10T09:33:24.000Z",
+      "xQuery": "対向車線にバイク入る 衝突し死亡"
+    },
+    {
       "time": "18:39",
       "title": "大破したテスラ車 米で高騰の理由",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6598286?source=rss",
       "publishedAt": "2026-10-10T09:39:57.000Z",
       "xQuery": "大破したテスラ車 米で高騰の理由"
-    },
-    {
-      "time": "18:10",
-      "title": "年収2千万円ざら 稼ぐミカン農家",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598278?source=rss",
-      "publishedAt": "2026-10-10T09:10:38.000Z",
-      "xQuery": "年収2千万円ざら 稼ぐミカン農家"
     }
   ]
 };
