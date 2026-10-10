@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T09:18:21.583Z",
+  "updatedAt": "2026-10-10T09:42:32.854Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -15,13 +15,6 @@
         "source": "Infoseek",
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4xNGJqSjlFa1hDdjF1aHk0ZkhENDdubTl6Z0hISnVoYWJOV0JQY2N2SU9UU09NeEtTWVZwVXlkUWtMY1dGelc2aENCRFpHYmJPQzBtd1E0ZXZRWkU4OUhUcy1oTXB2bDdqZF9qTkhLMklBZw?oc=5",
         "publishedAt": "2026-10-10T03:10:00.000Z"
-      },
-      {
-        "time": "18:28",
-        "title": "日本の振動監視装置市場の最新動向",
-        "source": "pando.life",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBFaTdTNVRnWS1ldjBINng3N25uYWd2MVE2UjFpc3FzN3hHbnBPMFZ5RVUxMC1TUWV0ZlBLTktPOGRpazNNQmRfLWFn?oc=5",
-        "publishedAt": "2026-10-09T09:28:02.000Z"
       },
       {
         "time": "01:53",
@@ -57,6 +50,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598244?source=rss",
         "publishedAt": "2026-10-10T04:33:03.000Z"
+      },
+      {
+        "time": "18:39",
+        "title": "大破したテスラ車 米で高騰の理由",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598286?source=rss",
+        "publishedAt": "2026-10-10T09:39:57.000Z"
       }
     ],
     "worldHeadlines": [
@@ -133,11 +133,11 @@
         "publishedAt": "2026-10-10T04:33:03.000Z"
       },
       {
-        "time": "17:45",
-        "title": "テスラの中古車 米で「異常高騰」",
+        "time": "18:39",
+        "title": "大破したテスラ車 米で高騰の理由",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598276?source=rss",
-        "publishedAt": "2026-10-10T08:45:46.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6598286?source=rss",
+        "publishedAt": "2026-10-10T09:39:57.000Z"
       },
       {
         "time": "22:39",
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "18:24",
+        "title": "都構想 ミャクミャ区案は採用せず",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598282?source=rss",
+        "publishedAt": "2026-10-10T09:24:33.000Z"
+      },
+      {
         "time": "17:21",
         "title": "市川市長 集団礼拝を巡り誤説明",
         "source": "Yahoo!ニュース",
@@ -156,18 +163,18 @@
         "publishedAt": "2026-10-10T08:21:03.000Z"
       },
       {
-        "time": "15:47",
-        "title": "米軍の反省期間 沖縄で疑問の声も",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598261?source=rss",
-        "publishedAt": "2026-10-10T06:47:19.000Z"
-      },
-      {
         "time": "17:19",
         "title": "だんじりの横転相次ぐ 計2人死亡",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598275?source=rss",
         "publishedAt": "2026-10-10T08:19:06.000Z"
+      },
+      {
+        "time": "18:33",
+        "title": "対向車線にバイク入る 衝突し死亡",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598283?source=rss",
+        "publishedAt": "2026-10-10T09:33:24.000Z"
       },
       {
         "time": "16:38",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598273?source=rss",
         "publishedAt": "2026-10-10T08:07:55.000Z"
-      },
-      {
-        "time": "11:35",
-        "title": "山に入った町長死亡 事故や病気か",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598236?source=rss",
-        "publishedAt": "2026-10-10T02:35:47.000Z"
       }
     ],
     "subsidyHeadlines": [

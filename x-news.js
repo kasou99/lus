@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-10T09:18:22.312Z",
+  "updatedAt": "2026-10-10T09:42:33.783Z",
   "items": [
     {
       "time": "14:56",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "プルデンシャル 30年超続いた不正"
     },
     {
-      "time": "16:23",
-      "title": "ゴキブリ党の創設者を拘束 インド",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598263?source=rss",
-      "publishedAt": "2026-10-10T07:23:18.000Z",
-      "xQuery": "ゴキブリ党の創設者を拘束 インド"
-    },
-    {
       "time": "17:19",
       "title": "だんじりの横転相次ぐ 計2人死亡",
       "source": "Yahoo!ニュース",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6598273?source=rss",
       "publishedAt": "2026-10-10T08:07:55.000Z",
       "xQuery": "女性が頭部を刺されけが 男逃走"
+    },
+    {
+      "time": "18:39",
+      "title": "大破したテスラ車 米で高騰の理由",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6598286?source=rss",
+      "publishedAt": "2026-10-10T09:39:57.000Z",
+      "xQuery": "大破したテスラ車 米で高騰の理由"
     }
   ]
 };
