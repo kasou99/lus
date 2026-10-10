@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T00:53:48.385Z",
+  "updatedAt": "2026-10-10T01:37:10.240Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,25 +17,11 @@
         "publishedAt": "2026-10-09T06:24:15.000Z"
       },
       {
-        "time": "10:24",
-        "title": "日本精工がラインアップを拡充 工作機械向け設計開発・製造管理支援サービス",
-        "source": "ゴムタイムス",
-        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1qLXZpSEI0OEttQkVlVEZRYnh0aDdDejZwOUJ6WHMtam1Ld2piXzRGUGtkQjd6Z0VaOWFsNU9tbEdBanQ1a2VuR0taUExmUQ?oc=5",
-        "publishedAt": "2026-10-09T01:24:37.000Z"
-      },
-      {
         "time": "13:08",
         "title": "「TOKYO PACK 2026」 14～16日 東京ビッグサイトで 日本包装技術協会",
         "source": "Infoseek",
         "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1tRDJaWmR5YlhEd3ZEVVJpal82eWlJOWttV0dsR2UzTnJ2aUtvNV9TQTBoTEVaeXIyOC1uS2luSnBrQWFsWUlfNGhLem9OcGJySlRYSW0xcWd5Q0p4aExKX1dB?oc=5",
         "publishedAt": "2026-10-09T04:08:36.000Z"
-      },
-      {
-        "time": "10:00",
-        "title": "SCANOLOGYがJIMTOF 2026に出展！複雑形状の3D測定を効率化するソリューションを展示",
-        "source": "テクノエッジ TechnoEdge",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5hTEVpUF9FUmN3dkE5RUhiUWVOSGJjODZHZF9NVG5fMC1KZzBJeE5CZzhlSUZ2TzJOYm9OeFBILVNRdXcwcjd6bUZwSzhHZEVMTGR5NDdWX18xQ3NLUGt4eTItQTM4bGZ2R3NVUDFnTGg4dw?oc=5",
-        "publishedAt": "2026-10-09T01:00:00.000Z"
       },
       {
         "time": "12:40",
@@ -52,11 +38,25 @@
         "publishedAt": "2026-10-09T05:30:21.000Z"
       },
       {
-        "time": "10:25",
-        "title": "日本精工がＪＩＭＴＯＦに出展 システムの最適化提案や顧客の課題を解決",
-        "source": "ゴムタイムス",
-        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1teEJ0VEdFZldkNmlibjZRaWtwTnh1UXJNSHppLVEtc0hWdFRLbXBKTVBvNm95bU13OUVzYnUyakJWN0FsUFJiU0dDZy1IUQ?oc=5",
-        "publishedAt": "2026-10-09T01:25:48.000Z"
+        "time": "18:28",
+        "title": "日本の振動監視装置市場の最新動向",
+        "source": "pando.life",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBFaTdTNVRnWS1ldjBINng3N25uYWd2MVE2UjFpc3FzN3hHbnBPMFZ5RVUxMC1TUWV0ZlBLTktPOGRpazNNQmRfLWFn?oc=5",
+        "publishedAt": "2026-10-09T09:28:02.000Z"
+      },
+      {
+        "time": "12:03",
+        "title": "高精度型トラスロボットの世界市場2026年、グローバル市場規模（2軸、3軸、4軸、5軸、6軸）・分析レポートを発表",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4zblU0TV91VU9ucjRqd0QtMXdLUXpfR2FOODM5Zzd1SE5KVGhlcUtwWHhsR3o5SEZ5MmFEbmhRSy1pdXhLaEhad3JzLVYzUi05YU9teFZtLU0yZVN4N28wamk1RHRDT3l6R2prMkNkRDdrWGVwSjJOOExNZw?oc=5",
+        "publishedAt": "2026-10-09T03:03:35.000Z"
+      },
+      {
+        "time": "13:45",
+        "title": "SCANOLOGYがJIMTOF 2026に出展！複雑形状の3D測定を効率化するソリューションを展示",
+        "source": "Infoseek",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4xNGJqSjlFa1hDdjF1aHk0ZkhENDdubTl6Z0hISnVoYWJOV0JQY2N2SU9UU09NeEtTWVZwVXlkUWtMY1dGelc2aENCRFpHYmJPQzBtd1E0ZXZRWkU4OUhUcy1oTXB2bDdqZF9qTkhLMklBZw?oc=5",
+        "publishedAt": "2026-10-09T04:45:37.000Z"
       }
     ],
     "worldHeadlines": [
@@ -96,11 +96,11 @@
         "publishedAt": "2026-10-09T23:04:24.000Z"
       },
       {
-        "time": "14:01",
-        "title": "3回の米朝首脳会談 拉致問題提起",
+        "time": "09:59",
+        "title": "米軍の銃殺刑生配信計画 非難殺到",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598121?source=rss",
-        "publishedAt": "2026-10-09T05:01:31.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6598221?source=rss",
+        "publishedAt": "2026-10-10T00:59:23.000Z"
       }
     ],
     "economyHeadlines": [
@@ -149,13 +149,6 @@
     ],
     "localHeadlines": [
       {
-        "time": "16:15",
-        "title": "立花氏を襲撃 被告に懲役9年判決",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598135?source=rss",
-        "publishedAt": "2026-10-09T07:15:35.000Z"
-      },
-      {
         "time": "18:13",
         "title": "大津いじめ中2死亡15年 父が憤り",
         "source": "Yahoo!ニュース",
@@ -189,6 +182,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598140?source=rss",
         "publishedAt": "2026-10-09T07:39:32.000Z"
+      },
+      {
+        "time": "22:47",
+        "title": "給湯器点検商法 詐欺疑い8人逮捕",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598190?source=rss",
+        "publishedAt": "2026-10-09T13:47:48.000Z"
       }
     ],
     "subsidyHeadlines": [

@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-10T00:53:49.098Z",
+  "updatedAt": "2026-10-10T01:37:11.150Z",
   "items": [
     {
-      "time": "08:06",
-      "title": "制裁対象指定 ICC赤根所長が声明",
+      "time": "08:45",
+      "title": "米がICC制裁 首相「深く懸念」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598208?source=rss",
-      "publishedAt": "2026-10-09T23:06:25.000Z",
-      "xQuery": "制裁対象指定 ICC赤根所長が声明"
+      "url": "https://news.yahoo.co.jp/pickup/6598212?source=rss",
+      "publishedAt": "2026-10-09T23:45:18.000Z",
+      "xQuery": "米がICC制裁 首相「深く懸念」"
     },
     {
-      "time": "09:39",
-      "title": "パナマでM7.7 ホテルなどが倒壊",
+      "time": "10:11",
+      "title": "簗氏巡り 自民に辞任不可避の声も",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598220?source=rss",
-      "publishedAt": "2026-10-10T00:39:35.000Z",
-      "xQuery": "パナマでM7.7 ホテルなどが倒壊"
+      "url": "https://news.yahoo.co.jp/pickup/6598223?source=rss",
+      "publishedAt": "2026-10-10T01:11:28.000Z",
+      "xQuery": "簗氏巡り 自民に辞任不可避の声も"
     },
     {
       "time": "08:47",
