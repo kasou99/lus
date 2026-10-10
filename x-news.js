@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-10T07:44:16.710Z",
+  "updatedAt": "2026-10-10T08:23:35.009Z",
   "items": [
     {
       "time": "14:41",
@@ -10,36 +10,36 @@ window.LUS_X_NEWS = {
       "xQuery": "米がICC制裁 日本など8カ国反対"
     },
     {
-      "time": "15:47",
-      "title": "米軍の反省期間 沖縄で疑問の声も",
+      "time": "15:57",
+      "title": "ウ大統領 米露の軽油巡る合意非難",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598261?source=rss",
-      "publishedAt": "2026-10-10T06:47:19.000Z",
-      "xQuery": "米軍の反省期間 沖縄で疑問の声も"
+      "url": "https://news.yahoo.co.jp/pickup/6598262?source=rss",
+      "publishedAt": "2026-10-10T06:57:39.000Z",
+      "xQuery": "ウ大統領 米露の軽油巡る合意非難"
     },
     {
-      "time": "15:23",
-      "title": "だんじり横転 複数下敷き1人死亡",
+      "time": "17:19",
+      "title": "だんじりの横転相次ぐ 計2人死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598259?source=rss",
-      "publishedAt": "2026-10-10T06:23:03.000Z",
-      "xQuery": "だんじり横転 複数下敷き1人死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6598275?source=rss",
+      "publishedAt": "2026-10-10T08:19:06.000Z",
+      "xQuery": "だんじりの横転相次ぐ 計2人死亡"
     },
     {
-      "time": "14:07",
-      "title": "太陽系外の惑星から電波 初検出",
+      "time": "17:07",
+      "title": "女性が頭部を刺されけが 男逃走",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598251?source=rss",
-      "publishedAt": "2026-10-10T05:07:25.000Z",
-      "xQuery": "太陽系外の惑星から電波 初検出"
+      "url": "https://news.yahoo.co.jp/pickup/6598273?source=rss",
+      "publishedAt": "2026-10-10T08:07:55.000Z",
+      "xQuery": "女性が頭部を刺されけが 男逃走"
     },
     {
-      "time": "13:33",
-      "title": "8月におせち「予約型社会」の特徴",
+      "time": "16:38",
+      "title": "住宅に遺体 世帯主の息子と判明",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598244?source=rss",
-      "publishedAt": "2026-10-10T04:33:03.000Z",
-      "xQuery": "8月におせち「予約型社会」の特徴"
+      "url": "https://news.yahoo.co.jp/pickup/6598266?source=rss",
+      "publishedAt": "2026-10-10T07:38:23.000Z",
+      "xQuery": "住宅に遺体 世帯主の息子と判明"
     }
   ]
 };

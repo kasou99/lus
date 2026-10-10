@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T07:44:15.945Z",
+  "updatedAt": "2026-10-10T08:23:34.142Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "17:21",
+        "title": "市川市長 集団礼拝を巡り誤説明",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598274?source=rss",
+        "publishedAt": "2026-10-10T08:21:03.000Z"
+      },
+      {
         "time": "15:47",
         "title": "米軍の反省期間 沖縄で疑問の声も",
         "source": "Yahoo!ニュース",
@@ -156,11 +163,11 @@
         "publishedAt": "2026-10-10T06:47:19.000Z"
       },
       {
-        "time": "15:23",
-        "title": "だんじり横転 複数下敷き1人死亡",
+        "time": "17:19",
+        "title": "だんじりの横転相次ぐ 計2人死亡",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598259?source=rss",
-        "publishedAt": "2026-10-10T06:23:03.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6598275?source=rss",
+        "publishedAt": "2026-10-10T08:19:06.000Z"
       },
       {
         "time": "16:38",
@@ -170,25 +177,18 @@
         "publishedAt": "2026-10-10T07:38:23.000Z"
       },
       {
+        "time": "17:07",
+        "title": "女性が頭部を刺されけが 男逃走",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598273?source=rss",
+        "publishedAt": "2026-10-10T08:07:55.000Z"
+      },
+      {
         "time": "11:35",
         "title": "山に入った町長死亡 事故や病気か",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598236?source=rss",
         "publishedAt": "2026-10-10T02:35:47.000Z"
-      },
-      {
-        "time": "13:03",
-        "title": "批判乗り越え 男性カップルの幸せ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598242?source=rss",
-        "publishedAt": "2026-10-10T04:03:52.000Z"
-      },
-      {
-        "time": "10:40",
-        "title": "工場の洗濯機に巻き込みか 死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598229?source=rss",
-        "publishedAt": "2026-10-10T01:40:16.000Z"
       }
     ],
     "subsidyHeadlines": [
