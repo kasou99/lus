@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-10T10:40:39.566Z",
+  "updatedAt": "2026-10-10T11:15:55.257Z",
   "items": [
     {
       "time": "17:09",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "対向車線にバイク入る 衝突し死亡"
     },
     {
-      "time": "18:39",
-      "title": "大破したテスラ車 米で高騰の理由",
+      "time": "19:40",
+      "title": "マイカーもAI自動運転 続々投入へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598286?source=rss",
-      "publishedAt": "2026-10-10T09:39:57.000Z",
-      "xQuery": "大破したテスラ車 米で高騰の理由"
+      "url": "https://news.yahoo.co.jp/pickup/6598290?source=rss",
+      "publishedAt": "2026-10-10T10:40:16.000Z",
+      "xQuery": "マイカーもAI自動運転 続々投入へ"
     }
   ]
 };

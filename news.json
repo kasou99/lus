@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T10:40:38.822Z",
+  "updatedAt": "2026-10-10T11:15:54.600Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,6 +31,20 @@
         "publishedAt": "2026-10-09T16:53:38.000Z"
       },
       {
+        "time": "19:58",
+        "title": "カルテル疑惑 卸売業者が実態証言",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598291?source=rss",
+        "publishedAt": "2026-10-10T10:58:38.000Z"
+      },
+      {
+        "time": "19:40",
+        "title": "マイカーもAI自動運転 続々投入へ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598290?source=rss",
+        "publishedAt": "2026-10-10T10:40:16.000Z"
+      },
+      {
         "time": "11:50",
         "title": "個人情報漏えい巡る賠償 補償額は",
         "source": "Yahoo!ニュース",
@@ -43,20 +57,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598260?source=rss",
         "publishedAt": "2026-10-10T06:42:12.000Z"
-      },
-      {
-        "time": "09:49",
-        "title": "物価高倒産が過去最多ペース なぜ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598219?source=rss",
-        "publishedAt": "2026-10-10T00:49:04.000Z"
-      },
-      {
-        "time": "13:33",
-        "title": "8月におせち「予約型社会」の特徴",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598244?source=rss",
-        "publishedAt": "2026-10-10T04:33:03.000Z"
       }
     ],
     "worldHeadlines": [
@@ -105,6 +105,20 @@
     ],
     "economyHeadlines": [
       {
+        "time": "19:58",
+        "title": "カルテル疑惑 卸売業者が実態証言",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598291?source=rss",
+        "publishedAt": "2026-10-10T10:58:38.000Z"
+      },
+      {
+        "time": "19:40",
+        "title": "マイカーもAI自動運転 続々投入へ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598290?source=rss",
+        "publishedAt": "2026-10-10T10:40:16.000Z"
+      },
+      {
         "time": "11:50",
         "title": "個人情報漏えい巡る賠償 補償額は",
         "source": "Yahoo!ニュース",
@@ -126,25 +140,11 @@
         "publishedAt": "2026-10-10T00:49:04.000Z"
       },
       {
-        "time": "13:33",
-        "title": "8月におせち「予約型社会」の特徴",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598244?source=rss",
-        "publishedAt": "2026-10-10T04:33:03.000Z"
-      },
-      {
         "time": "18:39",
         "title": "大破したテスラ車 米で高騰の理由",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598286?source=rss",
         "publishedAt": "2026-10-10T09:39:57.000Z"
-      },
-      {
-        "time": "22:39",
-        "title": "イオン系食品スーパー100店閉店へ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598188?source=rss",
-        "publishedAt": "2026-10-09T13:39:49.000Z"
       }
     ],
     "localHeadlines": [
@@ -154,13 +154,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598282?source=rss",
         "publishedAt": "2026-10-10T09:24:33.000Z"
-      },
-      {
-        "time": "17:21",
-        "title": "市川市長 集団礼拝を巡り誤説明",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598274?source=rss",
-        "publishedAt": "2026-10-10T08:21:03.000Z"
       },
       {
         "time": "17:19",
@@ -189,6 +182,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598273?source=rss",
         "publishedAt": "2026-10-10T08:07:55.000Z"
+      },
+      {
+        "time": "10:40",
+        "title": "工場の洗濯機に巻き込みか 死亡",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598229?source=rss",
+        "publishedAt": "2026-10-10T01:40:16.000Z"
       }
     ],
     "subsidyHeadlines": [
