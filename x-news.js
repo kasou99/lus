@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-10T05:17:31.565Z",
+  "updatedAt": "2026-10-10T05:43:03.062Z",
   "items": [
     {
       "time": "11:08",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "新給付制度 対象など白紙で審議へ"
     },
     {
-      "time": "11:50",
-      "title": "個人情報漏えい巡る賠償 補償額は",
+      "time": "14:27",
+      "title": "衆院予算委 農水相への追及必至",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598235?source=rss",
-      "publishedAt": "2026-10-10T02:50:51.000Z",
-      "xQuery": "個人情報漏えい巡る賠償 補償額は"
+      "url": "https://news.yahoo.co.jp/pickup/6598252?source=rss",
+      "publishedAt": "2026-10-10T05:27:12.000Z",
+      "xQuery": "衆院予算委 農水相への追及必至"
     },
     {
       "time": "13:03",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "トランプ氏 平和賞を逃し批判"
     },
     {
-      "time": "12:38",
-      "title": "インフルエンサー議員 存在感増す",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598239?source=rss",
-      "publishedAt": "2026-10-10T03:38:53.000Z",
-      "xQuery": "インフルエンサー議員 存在感増す"
-    },
-    {
       "time": "13:03",
       "title": "批判乗り越え 男性カップルの幸せ",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6598242?source=rss",
       "publishedAt": "2026-10-10T04:03:52.000Z",
       "xQuery": "批判乗り越え 男性カップルの幸せ"
+    },
+    {
+      "time": "14:07",
+      "title": "太陽系外の惑星から電波 初検出",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6598251?source=rss",
+      "publishedAt": "2026-10-10T05:07:25.000Z",
+      "xQuery": "太陽系外の惑星から電波 初検出"
     }
   ]
 };

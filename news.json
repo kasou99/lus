@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T05:17:30.846Z",
+  "updatedAt": "2026-10-10T05:43:01.526Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -15,13 +15,6 @@
         "source": "Infoseek",
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4xNGJqSjlFa1hDdjF1aHk0ZkhENDdubTl6Z0hISnVoYWJOV0JQY2N2SU9UU09NeEtTWVZwVXlkUWtMY1dGelc2aENCRFpHYmJPQzBtd1E0ZXZRWkU4OUhUcy1oTXB2bDdqZF9qTkhLMklBZw?oc=5",
         "publishedAt": "2026-10-10T03:10:00.000Z"
-      },
-      {
-        "time": "14:30",
-        "title": "【豊田市×AlphaDrive】豊田市の企業11社が新規事業の検討を開始。約半年後、2027年3月10日の「SPARK",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE80YWpjT1pLMEdwYXJQVkFITGpqYW96YTNteVZZMWRJSVlRNmJ2cFM1NldIa1NveFJyVzZhQTkwMU95bUdSWVg1TXhuWFp1d05RR25yOWl5dXctQktDaWQwX1FsRE83cnJjSXIxLVBEdEhmQVA5TDNmMUk1WQ?oc=5",
-        "publishedAt": "2026-10-09T05:30:21.000Z"
       },
       {
         "time": "18:28",
@@ -57,6 +50,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598213?source=rss",
         "publishedAt": "2026-10-09T23:47:56.000Z"
+      },
+      {
+        "time": "13:33",
+        "title": "8月におせち「予約型社会」の特徴",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598244?source=rss",
+        "publishedAt": "2026-10-10T04:33:03.000Z"
       }
     ],
     "worldHeadlines": [
@@ -75,6 +75,20 @@
         "publishedAt": "2026-10-09T23:06:25.000Z"
       },
       {
+        "time": "14:41",
+        "title": "米がICC制裁 日本など8カ国反対",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598255?source=rss",
+        "publishedAt": "2026-10-10T05:41:49.000Z"
+      },
+      {
+        "time": "13:03",
+        "title": "トランプ氏 平和賞を逃し批判",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598243?source=rss",
+        "publishedAt": "2026-10-10T04:03:00.000Z"
+      },
+      {
         "time": "09:09",
         "title": "露 米や世界向けの軽油供給開始へ",
         "source": "Yahoo!ニュース",
@@ -87,20 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598220?source=rss",
         "publishedAt": "2026-10-10T00:39:35.000Z"
-      },
-      {
-        "time": "08:04",
-        "title": "ガザ停戦1年 続く命がけの日常",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598209?source=rss",
-        "publishedAt": "2026-10-09T23:04:24.000Z"
-      },
-      {
-        "time": "09:59",
-        "title": "米軍の銃殺刑生配信計画 非難殺到",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598221?source=rss",
-        "publishedAt": "2026-10-10T00:59:23.000Z"
       }
     ],
     "economyHeadlines": [
