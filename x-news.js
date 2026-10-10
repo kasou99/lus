@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-10T13:39:58.645Z",
+  "updatedAt": "2026-10-10T14:17:20.403Z",
   "items": [
     {
       "time": "18:04",
@@ -8,14 +8,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6598280?source=rss",
       "publishedAt": "2026-10-10T09:04:06.000Z",
       "xQuery": "いい迷惑 農相に地元から苦言続出"
-    },
-    {
-      "time": "19:32",
-      "title": "米長官 ICCの「資金源断ちきる」",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598289?source=rss",
-      "publishedAt": "2026-10-10T10:32:26.000Z",
-      "xQuery": "米長官 ICCの「資金源断ちきる」"
     },
     {
       "time": "22:09",
@@ -32,6 +24,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6598301?source=rss",
       "publishedAt": "2026-10-10T13:20:37.000Z",
       "xQuery": "分電盤点検商法 トラブルが激増"
+    },
+    {
+      "time": "22:30",
+      "title": "車と衝突 義父が用水路に落ち死亡",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6598304?source=rss",
+      "publishedAt": "2026-10-10T13:30:01.000Z",
+      "xQuery": "車と衝突 義父が用水路に落ち死亡"
     },
     {
       "time": "21:19",
