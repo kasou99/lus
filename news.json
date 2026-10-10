@@ -1,13 +1,48 @@
 {
-  "updatedAt": "2026-10-10T06:30:21.141Z",
+  "updatedAt": "2026-10-10T07:21:38.416Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "15:00",
+        "title": "日本のブラシレス DC モーター市場規模と動向",
+        "source": "pando.life",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9iVzQzZzZqcWwtU3dJS2hSQkkzNlVRbHpBSHFHQWtkQ1ZBdS1sNWtwNjkxckhiZnc0d2RqU3RLcFBfbU5DSEpGWDln?oc=5",
+        "publishedAt": "2026-10-10T06:00:02.000Z"
+      },
+      {
+        "time": "12:10",
+        "title": "SCANOLOGYがJIMTOF 2026に出展！複雑形状の3D測定を効率化するソリューションを展示",
+        "source": "Infoseek",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4xNGJqSjlFa1hDdjF1aHk0ZkhENDdubTl6Z0hISnVoYWJOV0JQY2N2SU9UU09NeEtTWVZwVXlkUWtMY1dGelc2aENCRFpHYmJPQzBtd1E0ZXZRWkU4OUhUcy1oTXB2bDdqZF9qTkhLMklBZw?oc=5",
+        "publishedAt": "2026-10-10T03:10:00.000Z"
+      },
+      {
+        "time": "18:28",
+        "title": "日本の振動監視装置市場の最新動向",
+        "source": "pando.life",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBFaTdTNVRnWS1ldjBINng3N25uYWd2MVE2UjFpc3FzN3hHbnBPMFZ5RVUxMC1TUWV0ZlBLTktPOGRpazNNQmRfLWFn?oc=5",
+        "publishedAt": "2026-10-09T09:28:02.000Z"
+      },
+      {
+        "time": "01:53",
+        "title": "【次世代AIの主戦場】生成AIの先に広がるフィジカルAIとは？ 世界の技術潮流と日本株の注目領域",
+        "source": "Howl.Link",
+        "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE9DMF9RU1VjTTZXb3lXS19LU0pzcnFYWFNjb3J6VWRYSlFqbV94UG1mbXNaT2ZCaG5RTEZB?oc=5",
+        "publishedAt": "2026-10-09T16:53:38.000Z"
+      },
       {
         "time": "11:50",
         "title": "個人情報漏えい巡る賠償 補償額は",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598235?source=rss",
         "publishedAt": "2026-10-10T02:50:51.000Z"
+      },
+      {
+        "time": "15:42",
+        "title": "プルデンシャル 30年超続いた不正",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598260?source=rss",
+        "publishedAt": "2026-10-10T06:42:12.000Z"
       },
       {
         "time": "09:49",
@@ -22,41 +57,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598213?source=rss",
         "publishedAt": "2026-10-09T23:47:56.000Z"
-      },
-      {
-        "time": "13:33",
-        "title": "8月におせち「予約型社会」の特徴",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598244?source=rss",
-        "publishedAt": "2026-10-10T04:33:03.000Z"
-      },
-      {
-        "time": "22:39",
-        "title": "イオン系食品スーパー100店閉店へ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598188?source=rss",
-        "publishedAt": "2026-10-09T13:39:49.000Z"
-      },
-      {
-        "time": "22:29",
-        "title": "白菜高騰「鍋できない」と客困惑",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598187?source=rss",
-        "publishedAt": "2026-10-09T13:29:23.000Z"
-      },
-      {
-        "time": "07:49",
-        "title": "グレーゾーンのカスハラ どう対応",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598205?source=rss",
-        "publishedAt": "2026-10-09T22:49:25.000Z"
-      },
-      {
-        "time": "08:35",
-        "title": "服の「腰巻き・肩掛け」人気復活",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598210?source=rss",
-        "publishedAt": "2026-10-09T23:35:50.000Z"
       }
     ],
     "worldHeadlines": [
@@ -89,18 +89,18 @@
         "publishedAt": "2026-10-10T04:03:00.000Z"
       },
       {
+        "time": "15:57",
+        "title": "ウ大統領 米露の軽油巡る合意非難",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598262?source=rss",
+        "publishedAt": "2026-10-10T06:57:39.000Z"
+      },
+      {
         "time": "09:09",
         "title": "露 米や世界向けの軽油供給開始へ",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598216?source=rss",
         "publishedAt": "2026-10-10T00:09:39.000Z"
-      },
-      {
-        "time": "09:39",
-        "title": "パナマでM7.7 ホテルなどが倒壊",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598220?source=rss",
-        "publishedAt": "2026-10-10T00:39:35.000Z"
       }
     ],
     "economyHeadlines": [
@@ -110,6 +110,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598235?source=rss",
         "publishedAt": "2026-10-10T02:50:51.000Z"
+      },
+      {
+        "time": "15:42",
+        "title": "プルデンシャル 30年超続いた不正",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598260?source=rss",
+        "publishedAt": "2026-10-10T06:42:12.000Z"
       },
       {
         "time": "09:49",
@@ -138,16 +145,16 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598188?source=rss",
         "publishedAt": "2026-10-09T13:39:49.000Z"
-      },
-      {
-        "time": "22:29",
-        "title": "白菜高騰「鍋できない」と客困惑",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598187?source=rss",
-        "publishedAt": "2026-10-09T13:29:23.000Z"
       }
     ],
     "localHeadlines": [
+      {
+        "time": "15:47",
+        "title": "米軍の反省期間 沖縄で疑問の声も",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598261?source=rss",
+        "publishedAt": "2026-10-10T06:47:19.000Z"
+      },
       {
         "time": "15:23",
         "title": "だんじり横転 複数下敷き1人死亡",
@@ -161,13 +168,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598236?source=rss",
         "publishedAt": "2026-10-10T02:35:47.000Z"
-      },
-      {
-        "time": "20:28",
-        "title": "屋外授業で女児死亡 父親が市提訴",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598176?source=rss",
-        "publishedAt": "2026-10-09T11:28:41.000Z"
       },
       {
         "time": "13:03",
@@ -215,6 +215,13 @@
         "title": "中小企業省力化投資補助金の公募・採択情報を確認",
         "source": "中小機構",
         "url": "https://seisansei.smrj.go.jp/subsidy_info/laborsaving_subsidy.html"
+      },
+      {
+        "time": "16:00",
+        "title": "【2026年最新】中小企業向け補助金6制度まとめ｜締切・補助率・上限額一覧",
+        "source": "補助金ポータル",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Idm5vYjJtajVIYjhheTZVVTVQTXRXMndVNkRmWnVEZnZyNVRRV3ZncXZhREsxNXBqYXFZSlZmNHhLeHhkbUNRcXljRlJNWVh2ZmZrSXlsVVJsdGI5RGtBdmoxUGx1YlozMUE?oc=5",
+        "publishedAt": "2026-09-30T07:00:00.000Z"
       }
     ]
   }

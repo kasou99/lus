@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-10T06:30:28.913Z",
+  "updatedAt": "2026-10-10T07:21:39.225Z",
   "items": [
     {
-      "time": "11:08",
-      "title": "新給付制度 対象など白紙で審議へ",
+      "time": "14:41",
+      "title": "米がICC制裁 日本など8カ国反対",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598232?source=rss",
-      "publishedAt": "2026-10-10T02:08:26.000Z",
-      "xQuery": "新給付制度 対象など白紙で審議へ"
+      "url": "https://news.yahoo.co.jp/pickup/6598255?source=rss",
+      "publishedAt": "2026-10-10T05:41:49.000Z",
+      "xQuery": "米がICC制裁 日本など8カ国反対"
     },
     {
-      "time": "14:27",
-      "title": "衆院予算委 農水相への追及必至",
+      "time": "15:47",
+      "title": "米軍の反省期間 沖縄で疑問の声も",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598252?source=rss",
-      "publishedAt": "2026-10-10T05:27:12.000Z",
-      "xQuery": "衆院予算委 農水相への追及必至"
+      "url": "https://news.yahoo.co.jp/pickup/6598261?source=rss",
+      "publishedAt": "2026-10-10T06:47:19.000Z",
+      "xQuery": "米軍の反省期間 沖縄で疑問の声も"
     },
     {
       "time": "14:51",
