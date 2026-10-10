@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-10T04:21:15.152Z",
+  "updatedAt": "2026-10-10T04:45:54.085Z",
   "items": [
     {
       "time": "08:04",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "個人情報漏えい巡る賠償 補償額は"
     },
     {
-      "time": "09:49",
-      "title": "物価高倒産が過去最多ペース なぜ",
+      "time": "13:03",
+      "title": "トランプ氏 平和賞を逃し批判",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598219?source=rss",
-      "publishedAt": "2026-10-10T00:49:04.000Z",
-      "xQuery": "物価高倒産が過去最多ペース なぜ"
+      "url": "https://news.yahoo.co.jp/pickup/6598243?source=rss",
+      "publishedAt": "2026-10-10T04:03:00.000Z",
+      "xQuery": "トランプ氏 平和賞を逃し批判"
     },
     {
       "time": "10:40",
