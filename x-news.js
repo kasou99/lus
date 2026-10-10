@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-10T14:40:36.675Z",
+  "updatedAt": "2026-10-10T15:16:38.254Z",
   "items": [
     {
       "time": "22:59",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "外相 赤根・ルビオ両氏と電話協議"
     },
     {
-      "time": "22:09",
-      "title": "ICCに制裁 ピレイ氏「悲しい日」",
+      "time": "23:19",
+      "title": "パレスチナ議会選 来年9月に延期",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598300?source=rss",
-      "publishedAt": "2026-10-10T13:09:20.000Z",
-      "xQuery": "ICCに制裁 ピレイ氏「悲しい日」"
+      "url": "https://news.yahoo.co.jp/pickup/6598309?source=rss",
+      "publishedAt": "2026-10-10T14:19:20.000Z",
+      "xQuery": "パレスチナ議会選 来年9月に延期"
     },
     {
       "time": "19:58",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "車と衝突 義父が用水路に落ち死亡"
     },
     {
-      "time": "21:19",
-      "title": "少女成長の証 13年伸ばした髪提供",
+      "time": "18:10",
+      "title": "年収2千万円ざら 稼ぐミカン農家",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598297?source=rss",
-      "publishedAt": "2026-10-10T12:19:12.000Z",
-      "xQuery": "少女成長の証 13年伸ばした髪提供"
+      "url": "https://news.yahoo.co.jp/pickup/6598278?source=rss",
+      "publishedAt": "2026-10-10T09:10:38.000Z",
+      "xQuery": "年収2千万円ざら 稼ぐミカン農家"
     }
   ]
 };
