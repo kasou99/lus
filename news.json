@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T04:45:53.104Z",
+  "updatedAt": "2026-10-10T05:17:30.846Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -8,6 +8,13 @@
         "source": "日本経済新聞",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9OTEF4N3pmSzRmbGZDSlI0a1JfOERlYzFrY3FPc2lZRTZNaHphbEdTNHJ0RW1QbkdtVzQtYkluMXptVE04akE0M0YwM3M3X2JpQTdySHUwaDBtLVJSb3dMSlFtNDNPdVBkQXRqUg?oc=5",
         "publishedAt": "2026-10-09T06:24:15.000Z"
+      },
+      {
+        "time": "12:10",
+        "title": "SCANOLOGYがJIMTOF 2026に出展！複雑形状の3D測定を効率化するソリューションを展示",
+        "source": "Infoseek",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4xNGJqSjlFa1hDdjF1aHk0ZkhENDdubTl6Z0hISnVoYWJOV0JQY2N2SU9UU09NeEtTWVZwVXlkUWtMY1dGelc2aENCRFpHYmJPQzBtd1E0ZXZRWkU4OUhUcy1oTXB2bDdqZF9qTkhLMklBZw?oc=5",
+        "publishedAt": "2026-10-10T03:10:00.000Z"
       },
       {
         "time": "14:30",
@@ -22,20 +29,6 @@
         "source": "pando.life",
         "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBFaTdTNVRnWS1ldjBINng3N25uYWd2MVE2UjFpc3FzN3hHbnBPMFZ5RVUxMC1TUWV0ZlBLTktPOGRpazNNQmRfLWFn?oc=5",
         "publishedAt": "2026-10-09T09:28:02.000Z"
-      },
-      {
-        "time": "14:00",
-        "title": "SCANOLOGYがJIMTOF 2026に出展！複雑形状の3D測定を効率化するソリューションを展示",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE90d3k2a3ZscHZrTzdjakxDSUtGem9ONnJkRmpQSEdpYUZiSkRBMG1ya3FPblNWY1BRRlJTWFFqQ05MTDZmWXlfdV9zVlkydk1ONkdQTnB1dE1jSWg2bzJtaENKdV9XbjhFczg2b0RPWE9LYW5Sd05xQmEzRQ?oc=5",
-        "publishedAt": "2026-10-09T05:00:28.000Z"
-      },
-      {
-        "time": "14:03",
-        "title": "「データセンター用ラック内CDUポンプの世界市場」調査レポート（日本市場規模も記載）を発行、年平均32.0%で成長する見込み",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9aZDRMeXFSdTJRTnMwbGxJcTUxUUlzamZxcGVqejVBNXVIZXlVSjFGRXBOajNVTW5xM1pwSWFSSXpxY252N0tLZTNtSjdqYTdLYUFwLTlJNFNJZXg2QTkzbThoLXFEeFd5TUlvR1g2OXNwNGxxbWY4dkcybw?oc=5",
-        "publishedAt": "2026-10-09T05:03:16.000Z"
       },
       {
         "time": "01:53",
@@ -57,6 +50,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598219?source=rss",
         "publishedAt": "2026-10-10T00:49:04.000Z"
+      },
+      {
+        "time": "08:47",
+        "title": "カルテル疑惑 経営トップに報告か",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598213?source=rss",
+        "publishedAt": "2026-10-09T23:47:56.000Z"
       }
     ],
     "worldHeadlines": [

@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-10T04:45:54.085Z",
+  "updatedAt": "2026-10-10T05:17:31.565Z",
   "items": [
     {
-      "time": "08:04",
-      "title": "ガザ停戦1年 続く命がけの日常",
+      "time": "11:08",
+      "title": "新給付制度 対象など白紙で審議へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598209?source=rss",
-      "publishedAt": "2026-10-09T23:04:24.000Z",
-      "xQuery": "ガザ停戦1年 続く命がけの日常"
+      "url": "https://news.yahoo.co.jp/pickup/6598232?source=rss",
+      "publishedAt": "2026-10-10T02:08:26.000Z",
+      "xQuery": "新給付制度 対象など白紙で審議へ"
     },
     {
       "time": "11:50",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "トランプ氏 平和賞を逃し批判"
     },
     {
-      "time": "10:40",
-      "title": "工場の洗濯機に巻き込みか 死亡",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598229?source=rss",
-      "publishedAt": "2026-10-10T01:40:16.000Z",
-      "xQuery": "工場の洗濯機に巻き込みか 死亡"
-    },
-    {
       "time": "12:38",
       "title": "インフルエンサー議員 存在感増す",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6598239?source=rss",
       "publishedAt": "2026-10-10T03:38:53.000Z",
       "xQuery": "インフルエンサー議員 存在感増す"
+    },
+    {
+      "time": "13:03",
+      "title": "批判乗り越え 男性カップルの幸せ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6598242?source=rss",
+      "publishedAt": "2026-10-10T04:03:52.000Z",
+      "xQuery": "批判乗り越え 男性カップルの幸せ"
     }
   ]
 };
