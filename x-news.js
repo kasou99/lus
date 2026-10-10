@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-10T03:24:59.531Z",
+  "updatedAt": "2026-10-10T03:48:25.473Z",
   "items": [
+    {
+      "time": "08:04",
+      "title": "ガザ停戦1年 続く命がけの日常",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6598209?source=rss",
+      "publishedAt": "2026-10-09T23:04:24.000Z",
+      "xQuery": "ガザ停戦1年 続く命がけの日常"
+    },
     {
       "time": "09:09",
       "title": "露 米や世界向けの軽油供給開始へ",
@@ -18,28 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "物価高倒産が過去最多ペース なぜ"
     },
     {
-      "time": "09:59",
-      "title": "米軍の銃殺刑生配信計画 非難殺到",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598221?source=rss",
-      "publishedAt": "2026-10-10T00:59:23.000Z",
-      "xQuery": "米軍の銃殺刑生配信計画 非難殺到"
-    },
-    {
-      "time": "11:35",
-      "title": "山に入った町長死亡 事故や病気か",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598236?source=rss",
-      "publishedAt": "2026-10-10T02:35:47.000Z",
-      "xQuery": "山に入った町長死亡 事故や病気か"
-    },
-    {
       "time": "10:40",
       "title": "工場の洗濯機に巻き込みか 死亡",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6598229?source=rss",
       "publishedAt": "2026-10-10T01:40:16.000Z",
       "xQuery": "工場の洗濯機に巻き込みか 死亡"
+    },
+    {
+      "time": "11:09",
+      "title": "精神疾患 発症のピークは14.5歳",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6598233?source=rss",
+      "publishedAt": "2026-10-10T02:09:18.000Z",
+      "xQuery": "精神疾患 発症のピークは14.5歳"
     }
   ]
 };

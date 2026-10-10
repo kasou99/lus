@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T03:24:56.992Z",
+  "updatedAt": "2026-10-10T03:48:24.582Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,13 +38,6 @@
         "publishedAt": "2026-10-09T05:30:21.000Z"
       },
       {
-        "time": "12:40",
-        "title": "主力の一角が指数を下押し",
-        "source": "ｄメニューニュース",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWkloRTNDQ3hGRmVfaVhLWHJleXRPdllhVjJwMnI3TE5KZzhFanpxU0NSSDUzc2JaM2VfelNLS044bE53RTNHQTdjLUpjSEUwR0E1VEpCRmw0M19zSW9vZFJuYWU2SzBQMVhidjB5Sm13WDVPbWtMT1d2TkJuUHEwSHBtR2U2eXIwVmc0QdIBjAFBVV95cUxQWkloRTNDQ3hGRmVfaVhLWHJleXRPdllhVjJwMnI3TE5KZzhFanpxU0NSSDUzc2JaM2VfelNLS044bE53RTNHQTdjLUpjSEUwR0E1VEpCRmw0M19zSW9vZFJuYWU2SzBQMVhidjB5Sm13WDVPbWtMT1d2TkJuUHEwSHBtR2U2eXIwVmc0QQ?oc=5",
-        "publishedAt": "2026-10-09T03:40:00.000Z"
-      },
-      {
         "time": "18:28",
         "title": "日本の振動監視装置市場の最新動向",
         "source": "pando.life",
@@ -57,6 +50,13 @@
         "source": "Infoseek",
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4xNGJqSjlFa1hDdjF1aHk0ZkhENDdubTl6Z0hISnVoYWJOV0JQY2N2SU9UU09NeEtTWVZwVXlkUWtMY1dGelc2aENCRFpHYmJPQzBtd1E0ZXZRWkU4OUhUcy1oTXB2bDdqZF9qTkhLMklBZw?oc=5",
         "publishedAt": "2026-10-09T04:45:37.000Z"
+      },
+      {
+        "time": "14:03",
+        "title": "「データセンター用ラック内CDUポンプの世界市場」調査レポート（日本市場規模も記載）を発行、年平均32.0%で成長する見込み",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9aZDRMeXFSdTJRTnMwbGxJcTUxUUlzamZxcGVqejVBNXVIZXlVSjFGRXBOajNVTW5xM1pwSWFSSXpxY252N0tLZTNtSjdqYTdLYUFwLTlJNFNJZXg2QTkzbThoLXFEeFd5TUlvR1g2OXNwNGxxbWY4dkcybw?oc=5",
+        "publishedAt": "2026-10-09T05:03:16.000Z"
       }
     ],
     "worldHeadlines": [
