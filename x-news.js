@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-09T23:40:49.713Z",
+  "updatedAt": "2026-10-10T00:53:49.098Z",
   "items": [
     {
       "time": "08:06",
@@ -10,20 +10,28 @@ window.LUS_X_NEWS = {
       "xQuery": "制裁対象指定 ICC赤根所長が声明"
     },
     {
-      "time": "07:39",
-      "title": "パナマでM7.7 ホテルなど倒壊か",
+      "time": "09:39",
+      "title": "パナマでM7.7 ホテルなどが倒壊",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598202?source=rss",
-      "publishedAt": "2026-10-09T22:39:46.000Z",
-      "xQuery": "パナマでM7.7 ホテルなど倒壊か"
+      "url": "https://news.yahoo.co.jp/pickup/6598220?source=rss",
+      "publishedAt": "2026-10-10T00:39:35.000Z",
+      "xQuery": "パナマでM7.7 ホテルなどが倒壊"
     },
     {
-      "time": "08:07",
-      "title": "画像流出 免許再交付の負担に不満",
+      "time": "08:47",
+      "title": "カルテル疑惑 経営トップに報告か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598207?source=rss",
-      "publishedAt": "2026-10-09T23:07:39.000Z",
-      "xQuery": "画像流出 免許再交付の負担に不満"
+      "url": "https://news.yahoo.co.jp/pickup/6598213?source=rss",
+      "publishedAt": "2026-10-09T23:47:56.000Z",
+      "xQuery": "カルテル疑惑 経営トップに報告か"
+    },
+    {
+      "time": "08:42",
+      "title": "サイバー攻撃 なぜ日本が標的に",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6598211?source=rss",
+      "publishedAt": "2026-10-09T23:42:21.000Z",
+      "xQuery": "サイバー攻撃 なぜ日本が標的に"
     },
     {
       "time": "07:21",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6598197?source=rss",
       "publishedAt": "2026-10-09T22:21:27.000Z",
       "xQuery": "キノコ採りに山へ 長野の町長死亡"
-    },
-    {
-      "time": "07:47",
-      "title": "いのちの党・木村英子氏が離党届",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598204?source=rss",
-      "publishedAt": "2026-10-09T22:47:41.000Z",
-      "xQuery": "いのちの党・木村英子氏が離党届"
     }
   ]
 };
