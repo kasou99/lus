@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-10-10T20:42:09.217Z",
+  "updatedAt": "2026-10-10T21:15:58.648Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "15:11",
+        "title": "協和機工、Fluke製品の国内向けカタログサイトを開設",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBvVmV0MENoRlU5eTlPRGlncnFRamN0VVhnZElIZFRDSWRMVEpURlhscWJOQ0JpLXFEZ0RNR2M1LTRUYXdSSlZjX3JoelpyRFYwdjd4UFVPUENfZkFuN19zSW8wQ2xXU2p4?oc=5",
+        "publishedAt": "2026-10-10T06:11:30.000Z"
+      },
       {
         "time": "19:26",
         "title": "日本のPC ベースのモーションコントローラー市場2026年版",
@@ -50,13 +57,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598293?source=rss",
         "publishedAt": "2026-10-10T11:14:39.000Z"
-      },
-      {
-        "time": "11:50",
-        "title": "個人情報漏えい巡る賠償 補償額は",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598235?source=rss",
-        "publishedAt": "2026-10-10T02:50:51.000Z"
       }
     ],
     "worldHeadlines": [
