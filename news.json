@@ -1,14 +1,7 @@
 {
-  "updatedAt": "2026-10-10T03:48:24.582Z",
+  "updatedAt": "2026-10-10T04:21:14.554Z",
   "groups": {
     "machineHeadlines": [
-      {
-        "time": "13:00",
-        "title": "工作機械のスピンドル設計に高度な解析レポート提供、日本精工が開始",
-        "source": "MONOist",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5PRE5JVE1QX1BuRWVWVjdIREY0YUoyaHQzVE9rOENBYm5TWGdBcnQ1Q1p3RXhqMVQ3VmExYXEtbmJ1WTQ3cWp4dEx2QmZZak5XYnRVbXNKQnB4YjFGVWR5SEZkc2g5UEthNWdVOUtTNA?oc=5",
-        "publishedAt": "2026-10-09T04:00:00.000Z"
-      },
       {
         "time": "15:24",
         "title": "工作機械の受注残1兆円超 AI特需が押し上げ、芝浦機械は5割増産へ",
@@ -24,18 +17,11 @@
         "publishedAt": "2026-10-09T04:30:00.000Z"
       },
       {
-        "time": "13:08",
-        "title": "「TOKYO PACK 2026」 14～16日 東京ビッグサイトで 日本包装技術協会",
-        "source": "Infoseek",
-        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1tRDJaWmR5YlhEd3ZEVVJpal82eWlJOWttV0dsR2UzTnJ2aUtvNV9TQTBoTEVaeXIyOC1uS2luSnBrQWFsWUlfNGhLem9OcGJySlRYSW0xcWd5Q0p4aExKX1dB?oc=5",
-        "publishedAt": "2026-10-09T04:08:36.000Z"
-      },
-      {
-        "time": "14:30",
-        "title": "【豊田市×AlphaDrive】豊田市の企業11社が新規事業の検討を開始。約半年後、2027年3月10日の「SPARK",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE80YWpjT1pLMEdwYXJQVkFITGpqYW96YTNteVZZMWRJSVlRNmJ2cFM1NldIa1NveFJyVzZhQTkwMU95bUdSWVg1TXhuWFp1d05RR25yOWl5dXctQktDaWQwX1FsRE83cnJjSXIxLVBEdEhmQVA5TDNmMUk1WQ?oc=5",
-        "publishedAt": "2026-10-09T05:30:21.000Z"
+        "time": "01:53",
+        "title": "【次世代AIの主戦場】生成AIの先に広がるフィジカルAIとは？ 世界の技術潮流と日本株の注目領域",
+        "source": "Howl.Link",
+        "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE9DMF9RU1VjTTZXb3lXS19LU0pzcnFYWFNjb3J6VWRYSlFqbV94UG1mbXNaT2ZCaG5RTEZB?oc=5",
+        "publishedAt": "2026-10-09T16:53:38.000Z"
       },
       {
         "time": "18:28",
@@ -43,6 +29,13 @@
         "source": "pando.life",
         "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBFaTdTNVRnWS1ldjBINng3N25uYWd2MVE2UjFpc3FzN3hHbnBPMFZ5RVUxMC1TUWV0ZlBLTktPOGRpazNNQmRfLWFn?oc=5",
         "publishedAt": "2026-10-09T09:28:02.000Z"
+      },
+      {
+        "time": "14:30",
+        "title": "【豊田市×AlphaDrive】豊田市の企業11社が新規事業の検討を開始。約半年後、2027年3月10日の「SPARK",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE80YWpjT1pLMEdwYXJQVkFITGpqYW96YTNteVZZMWRJSVlRNmJ2cFM1NldIa1NveFJyVzZhQTkwMU95bUdSWVg1TXhuWFp1d05RR25yOWl5dXctQktDaWQwX1FsRE83cnJjSXIxLVBEdEhmQVA5TDNmMUk1WQ?oc=5",
+        "publishedAt": "2026-10-09T05:30:21.000Z"
       },
       {
         "time": "13:45",
@@ -57,6 +50,13 @@
         "source": "ニコニコニュース",
         "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9aZDRMeXFSdTJRTnMwbGxJcTUxUUlzamZxcGVqejVBNXVIZXlVSjFGRXBOajNVTW5xM1pwSWFSSXpxY252N0tLZTNtSjdqYTdLYUFwLTlJNFNJZXg2QTkzbThoLXFEeFd5TUlvR1g2OXNwNGxxbWY4dkcybw?oc=5",
         "publishedAt": "2026-10-09T05:03:16.000Z"
+      },
+      {
+        "time": "11:50",
+        "title": "個人情報漏えい巡る賠償 補償額は",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598235?source=rss",
+        "publishedAt": "2026-10-10T02:50:51.000Z"
       }
     ],
     "worldHeadlines": [
@@ -163,18 +163,18 @@
         "publishedAt": "2026-10-09T09:13:16.000Z"
       },
       {
-        "time": "19:20",
-        "title": "転落死遺族 四電送配電を提訴意向",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598167?source=rss",
-        "publishedAt": "2026-10-09T10:20:45.000Z"
-      },
-      {
         "time": "20:28",
         "title": "屋外授業で女児死亡 父親が市提訴",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598176?source=rss",
         "publishedAt": "2026-10-09T11:28:41.000Z"
+      },
+      {
+        "time": "13:03",
+        "title": "批判乗り越え 男性カップルの幸せ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598242?source=rss",
+        "publishedAt": "2026-10-10T04:03:52.000Z"
       },
       {
         "time": "10:40",

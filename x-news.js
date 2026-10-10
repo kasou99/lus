@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-10T03:48:25.473Z",
+  "updatedAt": "2026-10-10T04:21:15.152Z",
   "items": [
     {
       "time": "08:04",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "ガザ停戦1年 続く命がけの日常"
     },
     {
-      "time": "09:09",
-      "title": "露 米や世界向けの軽油供給開始へ",
+      "time": "11:50",
+      "title": "個人情報漏えい巡る賠償 補償額は",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598216?source=rss",
-      "publishedAt": "2026-10-10T00:09:39.000Z",
-      "xQuery": "露 米や世界向けの軽油供給開始へ"
+      "url": "https://news.yahoo.co.jp/pickup/6598235?source=rss",
+      "publishedAt": "2026-10-10T02:50:51.000Z",
+      "xQuery": "個人情報漏えい巡る賠償 補償額は"
     },
     {
       "time": "09:49",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "工場の洗濯機に巻き込みか 死亡"
     },
     {
-      "time": "11:09",
-      "title": "精神疾患 発症のピークは14.5歳",
+      "time": "12:38",
+      "title": "インフルエンサー議員 存在感増す",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598233?source=rss",
-      "publishedAt": "2026-10-10T02:09:18.000Z",
-      "xQuery": "精神疾患 発症のピークは14.5歳"
+      "url": "https://news.yahoo.co.jp/pickup/6598239?source=rss",
+      "publishedAt": "2026-10-10T03:38:53.000Z",
+      "xQuery": "インフルエンサー議員 存在感増す"
     }
   ]
 };
