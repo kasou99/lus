@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-10T01:37:11.150Z",
+  "updatedAt": "2026-10-10T02:32:00.517Z",
   "items": [
     {
-      "time": "08:45",
-      "title": "米がICC制裁 首相「深く懸念」",
+      "time": "09:09",
+      "title": "露 米や世界向けの軽油供給開始へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598212?source=rss",
-      "publishedAt": "2026-10-09T23:45:18.000Z",
-      "xQuery": "米がICC制裁 首相「深く懸念」"
+      "url": "https://news.yahoo.co.jp/pickup/6598216?source=rss",
+      "publishedAt": "2026-10-10T00:09:39.000Z",
+      "xQuery": "露 米や世界向けの軽油供給開始へ"
     },
     {
       "time": "10:11",
@@ -18,28 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "簗氏巡り 自民に辞任不可避の声も"
     },
     {
-      "time": "08:47",
-      "title": "カルテル疑惑 経営トップに報告か",
+      "time": "09:59",
+      "title": "米軍の銃殺刑生配信計画 非難殺到",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598213?source=rss",
-      "publishedAt": "2026-10-09T23:47:56.000Z",
-      "xQuery": "カルテル疑惑 経営トップに報告か"
+      "url": "https://news.yahoo.co.jp/pickup/6598221?source=rss",
+      "publishedAt": "2026-10-10T00:59:23.000Z",
+      "xQuery": "米軍の銃殺刑生配信計画 非難殺到"
     },
     {
-      "time": "08:42",
-      "title": "サイバー攻撃 なぜ日本が標的に",
+      "time": "10:40",
+      "title": "工場の洗濯機に巻き込みか 死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598211?source=rss",
-      "publishedAt": "2026-10-09T23:42:21.000Z",
-      "xQuery": "サイバー攻撃 なぜ日本が標的に"
+      "url": "https://news.yahoo.co.jp/pickup/6598229?source=rss",
+      "publishedAt": "2026-10-10T01:40:16.000Z",
+      "xQuery": "工場の洗濯機に巻き込みか 死亡"
     },
     {
-      "time": "07:21",
-      "title": "キノコ採りに山へ 長野の町長死亡",
+      "time": "11:09",
+      "title": "精神疾患 発症のピークは14.5歳",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598197?source=rss",
-      "publishedAt": "2026-10-09T22:21:27.000Z",
-      "xQuery": "キノコ採りに山へ 長野の町長死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6598233?source=rss",
+      "publishedAt": "2026-10-10T02:09:18.000Z",
+      "xQuery": "精神疾患 発症のピークは14.5歳"
     }
   ]
 };
