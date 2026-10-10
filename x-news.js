@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-10T08:45:12.507Z",
+  "updatedAt": "2026-10-10T09:18:22.312Z",
   "items": [
     {
       "time": "14:56",
@@ -10,12 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "日本版DOGE強化 減税財源確保へ"
     },
     {
-      "time": "15:57",
-      "title": "ウ大統領 米露の軽油巡る合意非難",
+      "time": "15:42",
+      "title": "プルデンシャル 30年超続いた不正",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598262?source=rss",
-      "publishedAt": "2026-10-10T06:57:39.000Z",
-      "xQuery": "ウ大統領 米露の軽油巡る合意非難"
+      "url": "https://news.yahoo.co.jp/pickup/6598260?source=rss",
+      "publishedAt": "2026-10-10T06:42:12.000Z",
+      "xQuery": "プルデンシャル 30年超続いた不正"
+    },
+    {
+      "time": "16:23",
+      "title": "ゴキブリ党の創設者を拘束 インド",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6598263?source=rss",
+      "publishedAt": "2026-10-10T07:23:18.000Z",
+      "xQuery": "ゴキブリ党の創設者を拘束 インド"
     },
     {
       "time": "17:19",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6598273?source=rss",
       "publishedAt": "2026-10-10T08:07:55.000Z",
       "xQuery": "女性が頭部を刺されけが 男逃走"
-    },
-    {
-      "time": "16:38",
-      "title": "住宅に遺体 世帯主の息子と判明",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598266?source=rss",
-      "publishedAt": "2026-10-10T07:38:23.000Z",
-      "xQuery": "住宅に遺体 世帯主の息子と判明"
     }
   ]
 };
