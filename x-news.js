@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-10T02:32:00.517Z",
+  "updatedAt": "2026-10-10T03:24:59.531Z",
   "items": [
     {
       "time": "09:09",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "露 米や世界向けの軽油供給開始へ"
     },
     {
-      "time": "10:11",
-      "title": "簗氏巡り 自民に辞任不可避の声も",
+      "time": "09:49",
+      "title": "物価高倒産が過去最多ペース なぜ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598223?source=rss",
-      "publishedAt": "2026-10-10T01:11:28.000Z",
-      "xQuery": "簗氏巡り 自民に辞任不可避の声も"
+      "url": "https://news.yahoo.co.jp/pickup/6598219?source=rss",
+      "publishedAt": "2026-10-10T00:49:04.000Z",
+      "xQuery": "物価高倒産が過去最多ペース なぜ"
     },
     {
       "time": "09:59",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "米軍の銃殺刑生配信計画 非難殺到"
     },
     {
+      "time": "11:35",
+      "title": "山に入った町長死亡 事故や病気か",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6598236?source=rss",
+      "publishedAt": "2026-10-10T02:35:47.000Z",
+      "xQuery": "山に入った町長死亡 事故や病気か"
+    },
+    {
       "time": "10:40",
       "title": "工場の洗濯機に巻き込みか 死亡",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6598229?source=rss",
       "publishedAt": "2026-10-10T01:40:16.000Z",
       "xQuery": "工場の洗濯機に巻き込みか 死亡"
-    },
-    {
-      "time": "11:09",
-      "title": "精神疾患 発症のピークは14.5歳",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598233?source=rss",
-      "publishedAt": "2026-10-10T02:09:18.000Z",
-      "xQuery": "精神疾患 発症のピークは14.5歳"
     }
   ]
 };
