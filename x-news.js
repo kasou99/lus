@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-10T13:15:45.266Z",
+  "updatedAt": "2026-10-10T13:39:58.645Z",
   "items": [
     {
       "time": "18:04",
@@ -18,28 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "米長官 ICCの「資金源断ちきる」"
     },
     {
-      "time": "18:33",
-      "title": "対向車線にバイク入る 衝突し死亡",
+      "time": "22:09",
+      "title": "ICCに制裁 ピレイ氏「悲しい日」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598283?source=rss",
-      "publishedAt": "2026-10-10T09:33:24.000Z",
-      "xQuery": "対向車線にバイク入る 衝突し死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6598300?source=rss",
+      "publishedAt": "2026-10-10T13:09:20.000Z",
+      "xQuery": "ICCに制裁 ピレイ氏「悲しい日」"
     },
     {
-      "time": "18:24",
-      "title": "都構想 ミャクミャ区案は採用せず",
+      "time": "22:20",
+      "title": "分電盤点検商法 トラブルが激増",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598282?source=rss",
-      "publishedAt": "2026-10-10T09:24:33.000Z",
-      "xQuery": "都構想 ミャクミャ区案は採用せず"
+      "url": "https://news.yahoo.co.jp/pickup/6598301?source=rss",
+      "publishedAt": "2026-10-10T13:20:37.000Z",
+      "xQuery": "分電盤点検商法 トラブルが激増"
     },
     {
-      "time": "18:10",
-      "title": "年収2千万円ざら 稼ぐミカン農家",
+      "time": "21:19",
+      "title": "少女成長の証 13年伸ばした髪提供",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598278?source=rss",
-      "publishedAt": "2026-10-10T09:10:38.000Z",
-      "xQuery": "年収2千万円ざら 稼ぐミカン農家"
+      "url": "https://news.yahoo.co.jp/pickup/6598297?source=rss",
+      "publishedAt": "2026-10-10T12:19:12.000Z",
+      "xQuery": "少女成長の証 13年伸ばした髪提供"
     }
   ]
 };
