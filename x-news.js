@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-10T08:23:35.009Z",
+  "updatedAt": "2026-10-10T08:45:12.507Z",
   "items": [
     {
-      "time": "14:41",
-      "title": "米がICC制裁 日本など8カ国反対",
+      "time": "14:56",
+      "title": "日本版DOGE強化 減税財源確保へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598255?source=rss",
-      "publishedAt": "2026-10-10T05:41:49.000Z",
-      "xQuery": "米がICC制裁 日本など8カ国反対"
+      "url": "https://news.yahoo.co.jp/pickup/6598256?source=rss",
+      "publishedAt": "2026-10-10T05:56:09.000Z",
+      "xQuery": "日本版DOGE強化 減税財源確保へ"
     },
     {
       "time": "15:57",
