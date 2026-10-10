@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-10T07:21:39.225Z",
+  "updatedAt": "2026-10-10T07:44:16.710Z",
   "items": [
     {
       "time": "14:41",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "米軍の反省期間 沖縄で疑問の声も"
     },
     {
-      "time": "14:51",
-      "title": "「ふるさと住民」27年3月開始方針",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598257?source=rss",
-      "publishedAt": "2026-10-10T05:51:57.000Z",
-      "xQuery": "「ふるさと住民」27年3月開始方針"
-    },
-    {
       "time": "15:23",
       "title": "だんじり横転 複数下敷き1人死亡",
       "source": "Yahoo!ニュース",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6598251?source=rss",
       "publishedAt": "2026-10-10T05:07:25.000Z",
       "xQuery": "太陽系外の惑星から電波 初検出"
+    },
+    {
+      "time": "13:33",
+      "title": "8月におせち「予約型社会」の特徴",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6598244?source=rss",
+      "publishedAt": "2026-10-10T04:33:03.000Z",
+      "xQuery": "8月におせち「予約型社会」の特徴"
     }
   ]
 };

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T07:21:38.416Z",
+  "updatedAt": "2026-10-10T07:44:15.945Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -96,11 +96,11 @@
         "publishedAt": "2026-10-10T06:57:39.000Z"
       },
       {
-        "time": "09:09",
-        "title": "露 米や世界向けの軽油供給開始へ",
+        "time": "09:39",
+        "title": "パナマでM7.7 ホテルなどが倒壊",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598216?source=rss",
-        "publishedAt": "2026-10-10T00:09:39.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6598220?source=rss",
+        "publishedAt": "2026-10-10T00:39:35.000Z"
       }
     ],
     "economyHeadlines": [
@@ -163,6 +163,13 @@
         "publishedAt": "2026-10-10T06:23:03.000Z"
       },
       {
+        "time": "16:38",
+        "title": "住宅に遺体 世帯主の息子と判明",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598266?source=rss",
+        "publishedAt": "2026-10-10T07:38:23.000Z"
+      },
+      {
         "time": "11:35",
         "title": "山に入った町長死亡 事故や病気か",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598229?source=rss",
         "publishedAt": "2026-10-10T01:40:16.000Z"
-      },
-      {
-        "time": "21:39",
-        "title": "採石場で落石 トラックの男性死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598183?source=rss",
-        "publishedAt": "2026-10-09T12:39:43.000Z"
       }
     ],
     "subsidyHeadlines": [
