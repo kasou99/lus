@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-10T09:42:33.783Z",
+  "updatedAt": "2026-10-10T10:16:57.453Z",
   "items": [
     {
-      "time": "14:56",
-      "title": "日本版DOGE強化 減税財源確保へ",
+      "time": "17:09",
+      "title": "消費減税後 8%に戻せるか識者疑問",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598256?source=rss",
-      "publishedAt": "2026-10-10T05:56:09.000Z",
-      "xQuery": "日本版DOGE強化 減税財源確保へ"
+      "url": "https://news.yahoo.co.jp/pickup/6598271?source=rss",
+      "publishedAt": "2026-10-10T08:09:33.000Z",
+      "xQuery": "消費減税後 8%に戻せるか識者疑問"
     },
     {
-      "time": "15:42",
-      "title": "プルデンシャル 30年超続いた不正",
+      "time": "18:44",
+      "title": "首相のG7欠席 野党から苦言続出",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598260?source=rss",
-      "publishedAt": "2026-10-10T06:42:12.000Z",
-      "xQuery": "プルデンシャル 30年超続いた不正"
+      "url": "https://news.yahoo.co.jp/pickup/6598285?source=rss",
+      "publishedAt": "2026-10-10T09:44:38.000Z",
+      "xQuery": "首相のG7欠席 野党から苦言続出"
     },
     {
       "time": "17:19",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "だんじりの横転相次ぐ 計2人死亡"
     },
     {
-      "time": "17:07",
-      "title": "女性が頭部を刺されけが 男逃走",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598273?source=rss",
-      "publishedAt": "2026-10-10T08:07:55.000Z",
-      "xQuery": "女性が頭部を刺されけが 男逃走"
-    },
-    {
       "time": "18:39",
       "title": "大破したテスラ車 米で高騰の理由",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6598286?source=rss",
       "publishedAt": "2026-10-10T09:39:57.000Z",
       "xQuery": "大破したテスラ車 米で高騰の理由"
+    },
+    {
+      "time": "18:10",
+      "title": "年収2千万円ざら 稼ぐミカン農家",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6598278?source=rss",
+      "publishedAt": "2026-10-10T09:10:38.000Z",
+      "xQuery": "年収2千万円ざら 稼ぐミカン農家"
     }
   ]
 };
