@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-10T11:39:46.351Z",
+  "updatedAt": "2026-10-10T12:26:04.016Z",
   "items": [
     {
       "time": "18:04",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "対向車線にバイク入る 衝突し死亡"
     },
     {
+      "time": "18:24",
+      "title": "都構想 ミャクミャ区案は採用せず",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6598282?source=rss",
+      "publishedAt": "2026-10-10T09:24:33.000Z",
+      "xQuery": "都構想 ミャクミャ区案は採用せず"
+    },
+    {
       "time": "20:14",
       "title": "「日本一遅い列車」37年歴史に幕",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6598293?source=rss",
       "publishedAt": "2026-10-10T11:14:39.000Z",
       "xQuery": "「日本一遅い列車」37年歴史に幕"
-    },
-    {
-      "time": "18:10",
-      "title": "年収2千万円ざら 稼ぐミカン農家",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598278?source=rss",
-      "publishedAt": "2026-10-10T09:10:38.000Z",
-      "xQuery": "年収2千万円ざら 稼ぐミカン農家"
     }
   ]
 };
