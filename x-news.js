@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-11T11:15:54.961Z",
+  "updatedAt": "2026-10-11T11:40:00.467Z",
   "items": [
     {
       "time": "18:36",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "サイバー防御サービス 相談が急増"
     },
     {
-      "time": "18:01",
-      "title": "石破氏 簗氏の発言を痛烈に批判",
+      "time": "16:04",
+      "title": "ガザ乳幼児の12%に成長遅れ 調査",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598401?source=rss",
-      "publishedAt": "2026-10-11T09:01:51.000Z",
-      "xQuery": "石破氏 簗氏の発言を痛烈に批判"
+      "url": "https://news.yahoo.co.jp/pickup/6598381?source=rss",
+      "publishedAt": "2026-10-11T07:04:03.000Z",
+      "xQuery": "ガザ乳幼児の12%に成長遅れ 調査"
     },
     {
       "time": "19:27",
