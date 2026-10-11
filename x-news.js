@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-11T22:41:30.453Z",
+  "updatedAt": "2026-10-11T23:17:05.479Z",
   "items": [
     {
-      "time": "00:18",
-      "title": "エネルギー停戦発表 ウは「初耳」",
+      "time": "07:56",
+      "title": "米ウ首脳 露軽油の制裁緩和で応酬",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598444?source=rss",
-      "publishedAt": "2026-10-11T15:18:09.000Z",
-      "xQuery": "エネルギー停戦発表 ウは「初耳」"
+      "url": "https://news.yahoo.co.jp/pickup/6598451?source=rss",
+      "publishedAt": "2026-10-11T22:56:33.000Z",
+      "xQuery": "米ウ首脳 露軽油の制裁緩和で応酬"
     },
     {
       "time": "07:28",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "重要医療機器の備蓄 企業に補助へ"
     },
     {
-      "time": "23:36",
-      "title": "ネパールで再び土石流 5人不明",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598442?source=rss",
-      "publishedAt": "2026-10-11T14:36:25.000Z",
-      "xQuery": "ネパールで再び土石流 5人不明"
-    },
-    {
       "time": "07:35",
       "title": "モトクロスバイク3台転倒 2人骨折",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6598450?source=rss",
       "publishedAt": "2026-10-11T22:35:46.000Z",
       "xQuery": "モトクロスバイク3台転倒 2人骨折"
+    },
+    {
+      "time": "07:56",
+      "title": "マツタケ狩りの男性 滑落し死亡",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6598454?source=rss",
+      "publishedAt": "2026-10-11T22:56:11.000Z",
+      "xQuery": "マツタケ狩りの男性 滑落し死亡"
     },
     {
       "time": "20:08",

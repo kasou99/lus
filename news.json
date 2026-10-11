@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T22:41:29.695Z",
+  "updatedAt": "2026-10-11T23:17:04.617Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,13 +31,6 @@
         "publishedAt": "2026-10-11T05:23:46.000Z"
       },
       {
-        "time": "08:07",
-        "title": "【トランスコスモスオンラインセミナー】製造業DXを加速する！シリーズ第4弾を9月17日（木）に開催",
-        "source": "朝日新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1PU1llZ29LYmJ2dm1aMWdVdmtBNTNZS3dLbmdyVHdQNlByaHpTdjZzZlo0a1RuNG1zZ2hJb0Rkekp0ckZmY2toWkxsOG1NNDUxdVNlM1pLWkdTQlE?oc=5",
-        "publishedAt": "2026-10-10T23:07:40.000Z"
-      },
-      {
         "time": "06:02",
         "title": "シリーズ最速の処理性能を備えるCPUユニットを追加／安川電機",
         "source": "robot digest",
@@ -57,6 +50,13 @@
         "source": "ｄメニューニュース",
         "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZURCc3Vpa1dQWC1CdTdmSnczc3BhZDd1dUdIOHhGaFpuTWllV3ZmNEg4bzJIb3A1dXZ1emYzZWVRMVE2MURiczRiRnhFV01pMXdjSzFUaFR2RjdKOUE3T0xvLXY5SDU1cllKUUtNSkdKdmJ3RmlHWlQwbXBzZ2YzaWYwaTU4MlBidFhXeS1RbnBfTDTSAZMBQVVfeXFMUGVEQnN1aWtXUFgtQnU3Zkp3M3NwYWQ3dXVHSDh4Rmhabk1pZVd2ZjRIOG8ySG9wNXV2dXpmM2VlUTFRNjFEYnM0YkZ4RVdNaTF3Y0sxVGhUdkY3SjlBN09Mby12OUg1NXJZSlFLTUpHSnZid0ZpR1pUMG1wc2dmM2lmMGk1ODJQYnRYV3ktUW5wX0w0?oc=5",
         "publishedAt": "2026-10-11T20:00:00.000Z"
+      },
+      {
+        "time": "05:00",
+        "title": "ＶＲ活用の安全教育提案 販促・ＤＸ支援の西川コミュニケーションズ リアルな訓練へ現場再現",
+        "source": "ｄメニューニュース",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWHRpYVRnNjRxa1hOMGFsTEpxbzdidmJ5QmNjaWttdVZNbnlKVVlFaXRfMk5qTWNYdTVWcGhHNXc4RWpzdFQtYThQd0dQOEpEYmJEMURVXzR3dFB0b1VCVW43STNDNF9qcVNGekFreG9PWDlkTl9DX2g1TVpMVzV1MHI3UzhqSnZETXB0bmQ0RFBNV0HSAZMBQVVfeXFMTlh0aWFUZzY0cWtYTjBhbExKcW83YnZieUJjY2lrbXVWTW55SlVZRWl0XzJOak1jWHU1VnBoRzV3OEVqc3RULWE4UHdHUDhKRGJiRDFEVV80d3RQdG9VQlVuN0kzQzRfanFTRnpBa3hvT1g5ZE5fQ19oNU1aTFc1dTByN1M4akp2RE1wdG5kNERQTVdB?oc=5",
+        "publishedAt": "2026-10-11T20:00:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -73,6 +73,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598438?source=rss",
         "publishedAt": "2026-10-11T13:51:26.000Z"
+      },
+      {
+        "time": "07:56",
+        "title": "米ウ首脳 露軽油の制裁緩和で応酬",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598451?source=rss",
+        "publishedAt": "2026-10-11T22:56:33.000Z"
       },
       {
         "time": "23:36",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598437?source=rss",
         "publishedAt": "2026-10-11T13:57:46.000Z"
-      },
-      {
-        "time": "22:29",
-        "title": "ローマ教皇手術へ 肺のしこり切除",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598431?source=rss",
-        "publishedAt": "2026-10-11T13:29:31.000Z"
       }
     ],
     "economyHeadlines": [
@@ -149,6 +149,20 @@
     ],
     "localHeadlines": [
       {
+        "time": "07:56",
+        "title": "マツタケ狩りの男性 滑落し死亡",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598454?source=rss",
+        "publishedAt": "2026-10-11T22:56:11.000Z"
+      },
+      {
+        "time": "07:35",
+        "title": "モトクロスバイク3台転倒 2人骨折",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598450?source=rss",
+        "publishedAt": "2026-10-11T22:35:46.000Z"
+      },
+      {
         "time": "20:54",
         "title": "頭から出血の男性死亡 ひき逃げか",
         "source": "Yahoo!ニュース",
@@ -168,20 +182,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598416?source=rss",
         "publishedAt": "2026-10-11T11:08:01.000Z"
-      },
-      {
-        "time": "07:35",
-        "title": "モトクロスバイク3台転倒 2人骨折",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598450?source=rss",
-        "publishedAt": "2026-10-11T22:35:46.000Z"
-      },
-      {
-        "time": "13:27",
-        "title": "看護師が撮った動画がSNSに 解雇",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598363?source=rss",
-        "publishedAt": "2026-10-11T04:27:18.000Z"
       },
       {
         "time": "22:52",
