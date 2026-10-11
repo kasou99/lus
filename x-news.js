@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-11T04:22:47.723Z",
+  "updatedAt": "2026-10-11T04:47:39.369Z",
   "items": [
     {
       "time": "11:40",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "刑執行失敗の米女性死刑囚 退院"
     },
     {
+      "time": "13:27",
+      "title": "看護師が撮った動画がSNSに 解雇",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6598363?source=rss",
+      "publishedAt": "2026-10-11T04:27:18.000Z",
+      "xQuery": "看護師が撮った動画がSNSに 解雇"
+    },
+    {
       "time": "12:17",
       "title": "山梨学院大 試験替え玉を複数確認",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6598356?source=rss",
       "publishedAt": "2026-10-11T03:17:00.000Z",
       "xQuery": "山梨学院大 試験替え玉を複数確認"
-    },
-    {
-      "time": "10:09",
-      "title": "動物公園でトラに襲われ死亡 英",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598340?source=rss",
-      "publishedAt": "2026-10-11T01:09:51.000Z",
-      "xQuery": "動物公園でトラに襲われ死亡 英"
     }
   ]
 };

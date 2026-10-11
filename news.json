@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T04:22:46.794Z",
+  "updatedAt": "2026-10-11T04:47:38.383Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -8,13 +8,6 @@
         "source": "PRESIDENT Online（プレジデントオンライン）",
         "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZkxyTXJIbmZaQ0s4cjVZTjVIcm9fOWNGbEFhaW5zMEFoaExKX3BvZFVYbXhHV0pta0ZFYU5BdW9XR3VHNkRDNVI4NjFJUlJlRXBwMFRFdnhYVlJ5Q3RXREpZQUJQUkhMTUlVM0dkU1pXSUlDUm5ERF8tdU44VTVxaW90LVluVXFVTy13X3dsT1ZESnpWQ1JUNE1aLUtBUTljYlVkY1NXNk5KUFRv?oc=5",
         "publishedAt": "2026-10-10T22:00:00.000Z"
-      },
-      {
-        "time": "15:11",
-        "title": "協和機工、Fluke製品の国内向けカタログサイトを開設",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBvVmV0MENoRlU5eTlPRGlncnFRamN0VVhnZElIZFRDSWRMVEpURlhscWJOQ0JpLXFEZ0RNR2M1LTRUYXdSSlZjX3JoelpyRFYwdjd4UFVPUENfZkFuN19zSW8wQ2xXU2p4?oc=5",
-        "publishedAt": "2026-10-10T06:11:30.000Z"
       },
       {
         "time": "19:26",
@@ -57,6 +50,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598318?source=rss",
         "publishedAt": "2026-10-10T22:51:30.000Z"
+      },
+      {
+        "time": "10:48",
+        "title": "就活セクハラ被害 求められる対策",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598344?source=rss",
+        "publishedAt": "2026-10-11T01:48:27.000Z"
       }
     ],
     "worldHeadlines": [
@@ -156,11 +156,11 @@
         "publishedAt": "2026-10-10T13:30:01.000Z"
       },
       {
-        "time": "18:24",
-        "title": "都構想 ミャクミャ区案は採用せず",
+        "time": "13:41",
+        "title": "女性刺傷 知人男性発見し事情聴取",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598282?source=rss",
-        "publishedAt": "2026-10-10T09:24:33.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6598366?source=rss",
+        "publishedAt": "2026-10-11T04:41:42.000Z"
       },
       {
         "time": "11:32",
@@ -177,11 +177,11 @@
         "publishedAt": "2026-10-10T08:19:06.000Z"
       },
       {
-        "time": "18:33",
-        "title": "対向車線にバイク入る 衝突し死亡",
+        "time": "13:27",
+        "title": "看護師が撮った動画がSNSに 解雇",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598283?source=rss",
-        "publishedAt": "2026-10-10T09:33:24.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6598363?source=rss",
+        "publishedAt": "2026-10-11T04:27:18.000Z"
       },
       {
         "time": "12:17",
