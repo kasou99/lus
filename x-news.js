@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-11T12:51:37.693Z",
+  "updatedAt": "2026-10-11T13:17:18.038Z",
   "items": [
     {
-      "time": "18:36",
-      "title": "サイバー防御サービス 相談が急増",
+      "time": "21:54",
+      "title": "防衛関連経費で鉄道整備検討 政府",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598407?source=rss",
-      "publishedAt": "2026-10-11T09:36:38.000Z",
-      "xQuery": "サイバー防御サービス 相談が急増"
+      "url": "https://news.yahoo.co.jp/pickup/6598427?source=rss",
+      "publishedAt": "2026-10-11T12:54:23.000Z",
+      "xQuery": "防衛関連経費で鉄道整備検討 政府"
     },
     {
-      "time": "19:27",
-      "title": "TSMC進出 高給目当て人材流出も",
+      "time": "16:55",
+      "title": "物流業界 外国人運転手の採用拡大",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598413?source=rss",
-      "publishedAt": "2026-10-11T10:27:50.000Z",
-      "xQuery": "TSMC進出 高給目当て人材流出も"
+      "url": "https://news.yahoo.co.jp/pickup/6598392?source=rss",
+      "publishedAt": "2026-10-11T07:55:41.000Z",
+      "xQuery": "物流業界 外国人運転手の採用拡大"
     },
     {
       "time": "20:54",
