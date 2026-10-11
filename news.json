@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T02:34:44.915Z",
+  "updatedAt": "2026-10-11T03:26:23.854Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,13 +31,6 @@
         "publishedAt": "2026-10-10T04:01:25.000Z"
       },
       {
-        "time": "12:10",
-        "title": "SCANOLOGYがJIMTOF 2026に出展！複雑形状の3D測定を効率化するソリューションを展示",
-        "source": "Infoseek",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4xNGJqSjlFa1hDdjF1aHk0ZkhENDdubTl6Z0hISnVoYWJOV0JQY2N2SU9UU09NeEtTWVZwVXlkUWtMY1dGelc2aENCRFpHYmJPQzBtd1E0ZXZRWkU4OUhUcy1oTXB2bDdqZF9qTkhLMklBZw?oc=5",
-        "publishedAt": "2026-10-10T03:10:00.000Z"
-      },
-      {
         "time": "15:00",
         "title": "日本のブラシレス DC モーター市場規模と動向",
         "source": "pando.life",
@@ -57,6 +50,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598291?source=rss",
         "publishedAt": "2026-10-10T10:58:38.000Z"
+      },
+      {
+        "time": "20:14",
+        "title": "「日本一遅い列車」37年歴史に幕",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598293?source=rss",
+        "publishedAt": "2026-10-10T11:14:39.000Z"
       }
     ],
     "worldHeadlines": [
@@ -66,6 +66,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598321?source=rss",
         "publishedAt": "2026-10-10T23:10:14.000Z"
+      },
+      {
+        "time": "12:07",
+        "title": "インド 抗議集会で6000人拘束か",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598354?source=rss",
+        "publishedAt": "2026-10-11T03:07:21.000Z"
       },
       {
         "time": "08:03",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598319?source=rss",
         "publishedAt": "2026-10-10T23:02:36.000Z"
-      },
-      {
-        "time": "09:05",
-        "title": "銃殺刑の配信 トランプ氏が判断へ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598331?source=rss",
-        "publishedAt": "2026-10-11T00:05:45.000Z"
       }
     ],
     "economyHeadlines": [
@@ -184,11 +184,11 @@
         "publishedAt": "2026-10-10T09:33:24.000Z"
       },
       {
-        "time": "17:07",
-        "title": "女性が頭部を刺されけが 男逃走",
+        "time": "12:17",
+        "title": "山梨学院大 試験替え玉を複数確認",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598273?source=rss",
-        "publishedAt": "2026-10-10T08:07:55.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6598356?source=rss",
+        "publishedAt": "2026-10-11T03:17:00.000Z"
       }
     ],
     "subsidyHeadlines": [

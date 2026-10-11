@@ -1,29 +1,37 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-11T02:34:46.126Z",
+  "updatedAt": "2026-10-11T03:26:24.702Z",
   "items": [
     {
-      "time": "11:09",
-      "title": "ICC議長団 米に制裁撤回を要求",
+      "time": "11:40",
+      "title": "東京都心37日連続で雨 なぜ続いた",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598349?source=rss",
-      "publishedAt": "2026-10-11T02:09:18.000Z",
-      "xQuery": "ICC議長団 米に制裁撤回を要求"
+      "url": "https://news.yahoo.co.jp/pickup/6598350?source=rss",
+      "publishedAt": "2026-10-11T02:40:44.000Z",
+      "xQuery": "東京都心37日連続で雨 なぜ続いた"
     },
     {
-      "time": "08:02",
-      "title": "米で銃撃 子どもや妊婦ら8人死亡",
+      "time": "12:07",
+      "title": "インド 抗議集会で6000人拘束か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598319?source=rss",
-      "publishedAt": "2026-10-10T23:02:36.000Z",
-      "xQuery": "米で銃撃 子どもや妊婦ら8人死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6598354?source=rss",
+      "publishedAt": "2026-10-11T03:07:21.000Z",
+      "xQuery": "インド 抗議集会で6000人拘束か"
     },
     {
-      "time": "10:07",
-      "title": "免許画像流出 再交付の申請相次ぐ",
+      "time": "11:32",
+      "title": "横浜で男性が刺されけが 男逃走",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598339?source=rss",
-      "publishedAt": "2026-10-11T01:07:47.000Z",
-      "xQuery": "免許画像流出 再交付の申請相次ぐ"
+      "url": "https://news.yahoo.co.jp/pickup/6598352?source=rss",
+      "publishedAt": "2026-10-11T02:32:20.000Z",
+      "xQuery": "横浜で男性が刺されけが 男逃走"
+    },
+    {
+      "time": "12:17",
+      "title": "山梨学院大 試験替え玉を複数確認",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6598356?source=rss",
+      "publishedAt": "2026-10-11T03:17:00.000Z",
+      "xQuery": "山梨学院大 試験替え玉を複数確認"
     },
     {
       "time": "10:09",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6598340?source=rss",
       "publishedAt": "2026-10-11T01:09:51.000Z",
       "xQuery": "動物公園でトラに襲われ死亡 英"
-    },
-    {
-      "time": "11:24",
-      "title": "離婚兆候?「別れの四重奏」とは",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598351?source=rss",
-      "publishedAt": "2026-10-11T02:24:32.000Z",
-      "xQuery": "離婚兆候?「別れの四重奏」とは"
     }
   ]
 };
