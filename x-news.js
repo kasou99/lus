@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-11T07:45:13.864Z",
+  "updatedAt": "2026-10-11T08:24:03.333Z",
   "items": [
     {
-      "time": "14:34",
-      "title": "消費減税方針は全くぶれず 片山氏",
+      "time": "16:06",
+      "title": "那覇強殺 米国務長官が哀悼の意",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598370?source=rss",
-      "publishedAt": "2026-10-11T05:34:00.000Z",
-      "xQuery": "消費減税方針は全くぶれず 片山氏"
+      "url": "https://news.yahoo.co.jp/pickup/6598382?source=rss",
+      "publishedAt": "2026-10-11T07:06:35.000Z",
+      "xQuery": "那覇強殺 米国務長官が哀悼の意"
     },
     {
       "time": "15:50",
