@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-11T08:24:03.333Z",
+  "updatedAt": "2026-10-11T08:46:00.169Z",
   "items": [
     {
       "time": "16:06",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "「18歳の壁」で就職に不安 ケア児"
     },
     {
+      "time": "16:12",
+      "title": "「予算カット」市町 工事先送りも",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6598383?source=rss",
+      "publishedAt": "2026-10-11T07:12:05.000Z",
+      "xQuery": "「予算カット」市町 工事先送りも"
+    },
+    {
       "time": "16:32",
       "title": "玄関先にクマ 襲われ頭などに重傷",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6598386?source=rss",
       "publishedAt": "2026-10-11T07:32:28.000Z",
       "xQuery": "玄関先にクマ 襲われ頭などに重傷"
-    },
-    {
-      "time": "13:27",
-      "title": "看護師が撮った動画がSNSに 解雇",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598363?source=rss",
-      "publishedAt": "2026-10-11T04:27:18.000Z",
-      "xQuery": "看護師が撮った動画がSNSに 解雇"
     },
     {
       "time": "15:34",
