@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-10T23:39:48.984Z",
+  "updatedAt": "2026-10-11T00:59:18.710Z",
   "items": [
+    {
+      "time": "09:19",
+      "title": "農相 当選重ねるごと「態度変化」",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6598332?source=rss",
+      "publishedAt": "2026-10-11T00:19:45.000Z",
+      "xQuery": "農相 当選重ねるごと「態度変化」"
+    },
     {
       "time": "08:10",
       "title": "サウジ首都の空港に攻撃 12人死亡",
@@ -10,20 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "サウジ首都の空港に攻撃 12人死亡"
     },
     {
-      "time": "08:03",
-      "title": "米大統領 製油所攻撃巡りウに警告",
+      "time": "09:05",
+      "title": "銃殺刑の配信 トランプ氏が判断へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598320?source=rss",
-      "publishedAt": "2026-10-10T23:03:56.000Z",
-      "xQuery": "米大統領 製油所攻撃巡りウに警告"
-    },
-    {
-      "time": "23:19",
-      "title": "パレスチナ議会選 来年9月に延期",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598309?source=rss",
-      "publishedAt": "2026-10-10T14:19:20.000Z",
-      "xQuery": "パレスチナ議会選 来年9月に延期"
+      "url": "https://news.yahoo.co.jp/pickup/6598331?source=rss",
+      "publishedAt": "2026-10-11T00:05:45.000Z",
+      "xQuery": "銃殺刑の配信 トランプ氏が判断へ"
     },
     {
       "time": "07:55",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "障害者50人 9カ月で雇用打ち切り"
     },
     {
-      "time": "22:30",
-      "title": "車と衝突 義父が用水路に落ち死亡",
+      "time": "08:21",
+      "title": "子供は毎日湯船つかるべき? 解説",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598304?source=rss",
-      "publishedAt": "2026-10-10T13:30:01.000Z",
-      "xQuery": "車と衝突 義父が用水路に落ち死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6598325?source=rss",
+      "publishedAt": "2026-10-10T23:21:47.000Z",
+      "xQuery": "子供は毎日湯船つかるべき? 解説"
     }
   ]
 };

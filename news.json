@@ -1,35 +1,7 @@
 {
-  "updatedAt": "2026-10-10T23:39:48.257Z",
+  "updatedAt": "2026-10-11T00:59:09.268Z",
   "groups": {
     "machineHeadlines": [
-      {
-        "time": "19:26",
-        "title": "日本のPC ベースのモーションコントローラー市場2026年版",
-        "source": "pando.life",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1tVGtERDctV05GTV92VFR4QmZSOWtnN1VwQ3BRajRUeXV6Z0VTTGd5blZReklhcEtnNW9rZWNtQ2F1XzI0TkduMGhn?oc=5",
-        "publishedAt": "2026-10-10T10:26:39.000Z"
-      },
-      {
-        "time": "13:01",
-        "title": "駅名板やヘッドマークなどお宝40点 土浦まちかど蔵で「筑波鉄道展」",
-        "source": "NEWSつくば",
-        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5lTHhkRnA0allkTVhteWxaOHZ1amh0LWtJbmRRT2FYSTRHVmVOb3ZIZGlTS0tNX0ZUb3pJem11ZGg4Sm5yOTlQRjdTNA?oc=5",
-        "publishedAt": "2026-10-10T04:01:25.000Z"
-      },
-      {
-        "time": "12:10",
-        "title": "SCANOLOGYがJIMTOF 2026に出展！複雑形状の3D測定を効率化するソリューションを展示",
-        "source": "Infoseek",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4xNGJqSjlFa1hDdjF1aHk0ZkhENDdubTl6Z0hISnVoYWJOV0JQY2N2SU9UU09NeEtTWVZwVXlkUWtMY1dGelc2aENCRFpHYmJPQzBtd1E0ZXZRWkU4OUhUcy1oTXB2bDdqZF9qTkhLMklBZw?oc=5",
-        "publishedAt": "2026-10-10T03:10:00.000Z"
-      },
-      {
-        "time": "15:00",
-        "title": "日本のブラシレス DC モーター市場規模と動向",
-        "source": "pando.life",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9iVzQzZzZqcWwtU3dJS2hSQkkzNlVRbHpBSHFHQWtkQ1ZBdS1sNWtwNjkxckhiZnc0d2RqU3RLcFBfbU5DSEpGWDln?oc=5",
-        "publishedAt": "2026-10-10T06:00:02.000Z"
-      },
       {
         "time": "07:55",
         "title": "障害者50人 9カ月で雇用打ち切り",
@@ -45,18 +17,46 @@
         "publishedAt": "2026-10-10T10:58:38.000Z"
       },
       {
-        "time": "19:40",
-        "title": "マイカーもAI自動運転 続々投入へ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598290?source=rss",
-        "publishedAt": "2026-10-10T10:40:16.000Z"
-      },
-      {
         "time": "20:14",
         "title": "「日本一遅い列車」37年歴史に幕",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598293?source=rss",
         "publishedAt": "2026-10-10T11:14:39.000Z"
+      },
+      {
+        "time": "15:42",
+        "title": "プルデンシャル 30年超続いた不正",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598260?source=rss",
+        "publishedAt": "2026-10-10T06:42:12.000Z"
+      },
+      {
+        "time": "07:51",
+        "title": "アパレル製造・卸で倒産増加 背景",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598318?source=rss",
+        "publishedAt": "2026-10-10T22:51:30.000Z"
+      },
+      {
+        "time": "18:39",
+        "title": "大破したテスラ車 米で高騰の理由",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598286?source=rss",
+        "publishedAt": "2026-10-10T09:39:57.000Z"
+      },
+      {
+        "time": "09:49",
+        "title": "幼児の新幹線自由席利用 広報見解",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598337?source=rss",
+        "publishedAt": "2026-10-11T00:49:02.000Z"
+      },
+      {
+        "time": "08:55",
+        "title": "割引やポイント還元 15日なぜ多い",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598328?source=rss",
+        "publishedAt": "2026-10-10T23:55:59.000Z"
       }
     ],
     "worldHeadlines": [
@@ -96,11 +96,11 @@
         "publishedAt": "2026-10-10T23:02:36.000Z"
       },
       {
-        "time": "13:03",
-        "title": "トランプ氏 平和賞を逃し批判",
+        "time": "09:05",
+        "title": "銃殺刑の配信 トランプ氏が判断へ",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598243?source=rss",
-        "publishedAt": "2026-10-10T04:03:00.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6598331?source=rss",
+        "publishedAt": "2026-10-11T00:05:45.000Z"
       }
     ],
     "economyHeadlines": [
@@ -119,13 +119,6 @@
         "publishedAt": "2026-10-10T10:58:38.000Z"
       },
       {
-        "time": "19:40",
-        "title": "マイカーもAI自動運転 続々投入へ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598290?source=rss",
-        "publishedAt": "2026-10-10T10:40:16.000Z"
-      },
-      {
         "time": "20:14",
         "title": "「日本一遅い列車」37年歴史に幕",
         "source": "Yahoo!ニュース",
@@ -133,18 +126,25 @@
         "publishedAt": "2026-10-10T11:14:39.000Z"
       },
       {
-        "time": "11:50",
-        "title": "個人情報漏えい巡る賠償 補償額は",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598235?source=rss",
-        "publishedAt": "2026-10-10T02:50:51.000Z"
-      },
-      {
         "time": "15:42",
         "title": "プルデンシャル 30年超続いた不正",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598260?source=rss",
         "publishedAt": "2026-10-10T06:42:12.000Z"
+      },
+      {
+        "time": "07:51",
+        "title": "アパレル製造・卸で倒産増加 背景",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598318?source=rss",
+        "publishedAt": "2026-10-10T22:51:30.000Z"
+      },
+      {
+        "time": "18:39",
+        "title": "大破したテスラ車 米で高騰の理由",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598286?source=rss",
+        "publishedAt": "2026-10-10T09:39:57.000Z"
       }
     ],
     "localHeadlines": [
@@ -215,13 +215,6 @@
         "title": "中小企業省力化投資補助金の公募・採択情報を確認",
         "source": "中小機構",
         "url": "https://seisansei.smrj.go.jp/subsidy_info/laborsaving_subsidy.html"
-      },
-      {
-        "time": "16:00",
-        "title": "【2026年最新】中小企業向け補助金6制度まとめ｜締切・補助率・上限額一覧",
-        "source": "補助金ポータル",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Idm5vYjJtajVIYjhheTZVVTVQTXRXMndVNkRmWnVEZnZyNVRRV3ZncXZhREsxNXBqYXFZSlZmNHhLeHhkbUNRcXljRlJNWVh2ZmZrSXlsVVJsdGI5RGtBdmoxUGx1YlozMUE?oc=5",
-        "publishedAt": "2026-09-30T07:00:00.000Z"
       }
     ]
   }
