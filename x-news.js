@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-11T09:18:14.293Z",
+  "updatedAt": "2026-10-11T09:43:06.234Z",
   "items": [
     {
       "time": "16:06",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "新築の平屋率が増加 耐震性に注目"
     },
     {
-      "time": "16:32",
-      "title": "玄関先にクマ 襲われ頭などに重傷",
+      "time": "18:08",
+      "title": "木曽川で泳ぎ溺れる 25歳男性死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598386?source=rss",
-      "publishedAt": "2026-10-11T07:32:28.000Z",
-      "xQuery": "玄関先にクマ 襲われ頭などに重傷"
+      "url": "https://news.yahoo.co.jp/pickup/6598403?source=rss",
+      "publishedAt": "2026-10-11T09:08:22.000Z",
+      "xQuery": "木曽川で泳ぎ溺れる 25歳男性死亡"
     },
     {
       "time": "10:09",
