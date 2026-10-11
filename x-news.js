@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-11T00:59:18.710Z",
+  "updatedAt": "2026-10-11T01:42:26.654Z",
   "items": [
     {
-      "time": "09:19",
-      "title": "農相 当選重ねるごと「態度変化」",
+      "time": "08:02",
+      "title": "米で銃撃 子どもや妊婦ら8人死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598332?source=rss",
-      "publishedAt": "2026-10-11T00:19:45.000Z",
-      "xQuery": "農相 当選重ねるごと「態度変化」"
+      "url": "https://news.yahoo.co.jp/pickup/6598319?source=rss",
+      "publishedAt": "2026-10-10T23:02:36.000Z",
+      "xQuery": "米で銃撃 子どもや妊婦ら8人死亡"
     },
     {
       "time": "08:10",
@@ -18,6 +18,14 @@ window.LUS_X_NEWS = {
       "xQuery": "サウジ首都の空港に攻撃 12人死亡"
     },
     {
+      "time": "09:19",
+      "title": "農相 当選重ねるごと「態度変化」",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6598332?source=rss",
+      "publishedAt": "2026-10-11T00:19:45.000Z",
+      "xQuery": "農相 当選重ねるごと「態度変化」"
+    },
+    {
       "time": "09:05",
       "title": "銃殺刑の配信 トランプ氏が判断へ",
       "source": "Yahoo!ニュース",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "銃殺刑の配信 トランプ氏が判断へ"
     },
     {
-      "time": "07:55",
-      "title": "障害者50人 9カ月で雇用打ち切り",
+      "time": "09:49",
+      "title": "幼児の新幹線自由席利用 広報見解",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598316?source=rss",
-      "publishedAt": "2026-10-10T22:55:09.000Z",
-      "xQuery": "障害者50人 9カ月で雇用打ち切り"
-    },
-    {
-      "time": "08:21",
-      "title": "子供は毎日湯船つかるべき? 解説",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598325?source=rss",
-      "publishedAt": "2026-10-10T23:21:47.000Z",
-      "xQuery": "子供は毎日湯船つかるべき? 解説"
+      "url": "https://news.yahoo.co.jp/pickup/6598337?source=rss",
+      "publishedAt": "2026-10-11T00:49:02.000Z",
+      "xQuery": "幼児の新幹線自由席利用 広報見解"
     }
   ]
 };

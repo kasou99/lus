@@ -1,7 +1,42 @@
 {
-  "updatedAt": "2026-10-11T00:59:09.268Z",
+  "updatedAt": "2026-10-11T01:42:25.927Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "22:45",
+        "title": "ブラザー、主軸30番の複合加工機で初となる64本の工具を搭載可能なモデルを開発",
+        "source": "朝日新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5uWi1tbUpDSlhZSmxKX2djN0JybFJRd3dCODZaMXVxT3h1eHRMdENEUWFWWWhiU2Z0LUhKV29HbmFIRERxdHBxX0Y5VVdSVGhsN2N0U3NnSzF4NmM?oc=5",
+        "publishedAt": "2026-10-10T13:45:52.000Z"
+      },
+      {
+        "time": "19:26",
+        "title": "日本のPC ベースのモーションコントローラー市場2026年版",
+        "source": "pando.life",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1tVGtERDctV05GTV92VFR4QmZSOWtnN1VwQ3BRajRUeXV6Z0VTTGd5blZReklhcEtnNW9rZWNtQ2F1XzI0TkduMGhn?oc=5",
+        "publishedAt": "2026-10-10T10:26:39.000Z"
+      },
+      {
+        "time": "13:01",
+        "title": "駅名板やヘッドマークなどお宝40点 土浦まちかど蔵で「筑波鉄道展」",
+        "source": "NEWSつくば",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5lTHhkRnA0allkTVhteWxaOHZ1amh0LWtJbmRRT2FYSTRHVmVOb3ZIZGlTS0tNX0ZUb3pJem11ZGg4Sm5yOTlQRjdTNA?oc=5",
+        "publishedAt": "2026-10-10T04:01:25.000Z"
+      },
+      {
+        "time": "12:10",
+        "title": "SCANOLOGYがJIMTOF 2026に出展！複雑形状の3D測定を効率化するソリューションを展示",
+        "source": "Infoseek",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4xNGJqSjlFa1hDdjF1aHk0ZkhENDdubTl6Z0hISnVoYWJOV0JQY2N2SU9UU09NeEtTWVZwVXlkUWtMY1dGelc2aENCRFpHYmJPQzBtd1E0ZXZRWkU4OUhUcy1oTXB2bDdqZF9qTkhLMklBZw?oc=5",
+        "publishedAt": "2026-10-10T03:10:00.000Z"
+      },
+      {
+        "time": "15:00",
+        "title": "日本のブラシレス DC モーター市場規模と動向",
+        "source": "pando.life",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9iVzQzZzZqcWwtU3dJS2hSQkkzNlVRbHpBSHFHQWtkQ1ZBdS1sNWtwNjkxckhiZnc0d2RqU3RLcFBfbU5DSEpGWDln?oc=5",
+        "publishedAt": "2026-10-10T06:00:02.000Z"
+      },
       {
         "time": "07:55",
         "title": "障害者50人 9カ月で雇用打ち切り",
@@ -22,41 +57,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598293?source=rss",
         "publishedAt": "2026-10-10T11:14:39.000Z"
-      },
-      {
-        "time": "15:42",
-        "title": "プルデンシャル 30年超続いた不正",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598260?source=rss",
-        "publishedAt": "2026-10-10T06:42:12.000Z"
-      },
-      {
-        "time": "07:51",
-        "title": "アパレル製造・卸で倒産増加 背景",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598318?source=rss",
-        "publishedAt": "2026-10-10T22:51:30.000Z"
-      },
-      {
-        "time": "18:39",
-        "title": "大破したテスラ車 米で高騰の理由",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598286?source=rss",
-        "publishedAt": "2026-10-10T09:39:57.000Z"
-      },
-      {
-        "time": "09:49",
-        "title": "幼児の新幹線自由席利用 広報見解",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598337?source=rss",
-        "publishedAt": "2026-10-11T00:49:02.000Z"
-      },
-      {
-        "time": "08:55",
-        "title": "割引やポイント還元 15日なぜ多い",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598328?source=rss",
-        "publishedAt": "2026-10-10T23:55:59.000Z"
       }
     ],
     "worldHeadlines": [
@@ -215,6 +215,13 @@
         "title": "中小企業省力化投資補助金の公募・採択情報を確認",
         "source": "中小機構",
         "url": "https://seisansei.smrj.go.jp/subsidy_info/laborsaving_subsidy.html"
+      },
+      {
+        "time": "16:00",
+        "title": "【2026年最新】中小企業向け補助金6制度まとめ｜締切・補助率・上限額一覧",
+        "source": "補助金ポータル",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Idm5vYjJtajVIYjhheTZVVTVQTXRXMndVNkRmWnVEZnZyNVRRV3ZncXZhREsxNXBqYXFZSlZmNHhLeHhkbUNRcXljRlJNWVh2ZmZrSXlsVVJsdGI5RGtBdmoxUGx1YlozMUE?oc=5",
+        "publishedAt": "2026-09-30T07:00:00.000Z"
       }
     ]
   }
