@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-11T13:40:37.773Z",
+  "updatedAt": "2026-10-11T14:17:22.583Z",
   "items": [
     {
-      "time": "21:54",
-      "title": "防衛関連経費で鉄道整備検討 政府",
+      "time": "22:14",
+      "title": "定数削減 自民幹事長の腹案に波紋",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598427?source=rss",
-      "publishedAt": "2026-10-11T12:54:23.000Z",
-      "xQuery": "防衛関連経費で鉄道整備検討 政府"
+      "url": "https://news.yahoo.co.jp/pickup/6598430?source=rss",
+      "publishedAt": "2026-10-11T13:14:12.000Z",
+      "xQuery": "定数削減 自民幹事長の腹案に波紋"
     },
     {
-      "time": "16:55",
-      "title": "物流業界 外国人運転手の採用拡大",
+      "time": "22:29",
+      "title": "ローマ教皇手術へ 肺のしこり切除",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598392?source=rss",
-      "publishedAt": "2026-10-11T07:55:41.000Z",
-      "xQuery": "物流業界 外国人運転手の採用拡大"
+      "url": "https://news.yahoo.co.jp/pickup/6598431?source=rss",
+      "publishedAt": "2026-10-11T13:29:31.000Z",
+      "xQuery": "ローマ教皇手術へ 肺のしこり切除"
     },
     {
       "time": "20:08",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "玄関先でクマに襲われる 眼球破裂"
     },
     {
-      "time": "21:47",
-      "title": "オウム信者だった母 女性の苦難",
+      "time": "22:42",
+      "title": "停車前にTXドア開く 客が操作か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598424?source=rss",
-      "publishedAt": "2026-10-11T12:47:26.000Z",
-      "xQuery": "オウム信者だった母 女性の苦難"
+      "url": "https://news.yahoo.co.jp/pickup/6598435?source=rss",
+      "publishedAt": "2026-10-11T13:42:08.000Z",
+      "xQuery": "停車前にTXドア開く 客が操作か"
     },
     {
-      "time": "20:34",
-      "title": "個人M&Aで多額損失「恋は盲目」",
+      "time": "18:45",
+      "title": "譲渡会前に保護ネコ妊娠 ボラ葛藤",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598418?source=rss",
-      "publishedAt": "2026-10-11T11:34:55.000Z",
-      "xQuery": "個人M&Aで多額損失「恋は盲目」"
+      "url": "https://news.yahoo.co.jp/pickup/6598408?source=rss",
+      "publishedAt": "2026-10-11T09:45:24.000Z",
+      "xQuery": "譲渡会前に保護ネコ妊娠 ボラ葛藤"
     }
   ]
 };

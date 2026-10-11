@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T13:40:37.022Z",
+  "updatedAt": "2026-10-11T14:17:21.723Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,13 +31,6 @@
         "publishedAt": "2026-10-10T22:00:00.000Z"
       },
       {
-        "time": "22:45",
-        "title": "ブラザー、主軸30番の複合加工機で初となる64本の工具を搭載可能なモデルを開発",
-        "source": "朝日新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5uWi1tbUpDSlhZSmxKX2djN0JybFJRd3dCODZaMXVxT3h1eHRMdENEUWFWWWhiU2Z0LUhKV29HbmFIRERxdHBxX0Y5VVdSVGhsN2N0U3NnSzF4NmM?oc=5",
-        "publishedAt": "2026-10-10T13:45:52.000Z"
-      },
-      {
         "time": "07:55",
         "title": "障害者50人 9カ月で雇用打ち切り",
         "source": "Yahoo!ニュース",
@@ -57,9 +50,23 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598418?source=rss",
         "publishedAt": "2026-10-11T11:34:55.000Z"
+      },
+      {
+        "time": "16:50",
+        "title": "新築の平屋率が増加 耐震性に注目",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598387?source=rss",
+        "publishedAt": "2026-10-11T07:50:06.000Z"
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "22:51",
+        "title": "ウ軍「露のGoogle」を相次ぎ攻撃",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598438?source=rss",
+        "publishedAt": "2026-10-11T13:51:26.000Z"
+      },
       {
         "time": "21:18",
         "title": "ジブチ沖移民船転覆 100人超死亡",
@@ -68,11 +75,11 @@
         "publishedAt": "2026-10-11T12:18:14.000Z"
       },
       {
-        "time": "16:06",
-        "title": "那覇強殺 米国務長官が哀悼の意",
+        "time": "22:57",
+        "title": "元独情報機関トップ逮捕 内外衝撃",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598382?source=rss",
-        "publishedAt": "2026-10-11T07:06:35.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6598437?source=rss",
+        "publishedAt": "2026-10-11T13:57:46.000Z"
       },
       {
         "time": "16:04",
@@ -80,13 +87,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598381?source=rss",
         "publishedAt": "2026-10-11T07:04:03.000Z"
-      },
-      {
-        "time": "08:10",
-        "title": "サウジ首都の空港に攻撃 12人死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598321?source=rss",
-        "publishedAt": "2026-10-10T23:10:14.000Z"
       },
       {
         "time": "22:29",
@@ -177,11 +177,11 @@
         "publishedAt": "2026-10-11T04:27:18.000Z"
       },
       {
-        "time": "16:51",
-        "title": "京都衝撃の寺乗っ取り事件 背景は",
+        "time": "22:52",
+        "title": "京都の「寺乗っ取り」事件 内情は",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598389?source=rss",
-        "publishedAt": "2026-10-11T07:51:13.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6598439?source=rss",
+        "publishedAt": "2026-10-11T13:52:55.000Z"
       },
       {
         "time": "22:27",
