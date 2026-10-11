@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-11T22:17:50.977Z",
+  "updatedAt": "2026-10-11T22:41:30.453Z",
   "items": [
     {
       "time": "00:18",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "エネルギー停戦発表 ウは「初耳」"
     },
     {
-      "time": "22:14",
-      "title": "定数削減 自民幹事長の腹案に波紋",
+      "time": "07:28",
+      "title": "重要医療機器の備蓄 企業に補助へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598430?source=rss",
-      "publishedAt": "2026-10-11T13:14:12.000Z",
-      "xQuery": "定数削減 自民幹事長の腹案に波紋"
+      "url": "https://news.yahoo.co.jp/pickup/6598448?source=rss",
+      "publishedAt": "2026-10-11T22:28:20.000Z",
+      "xQuery": "重要医療機器の備蓄 企業に補助へ"
     },
     {
       "time": "23:36",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "ネパールで再び土石流 5人不明"
     },
     {
+      "time": "07:35",
+      "title": "モトクロスバイク3台転倒 2人骨折",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6598450?source=rss",
+      "publishedAt": "2026-10-11T22:35:46.000Z",
+      "xQuery": "モトクロスバイク3台転倒 2人骨折"
+    },
+    {
       "time": "20:08",
       "title": "玄関先でクマに襲われる 眼球破裂",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6598416?source=rss",
       "publishedAt": "2026-10-11T11:08:01.000Z",
       "xQuery": "玄関先でクマに襲われる 眼球破裂"
-    },
-    {
-      "time": "23:24",
-      "title": "電車で心臓発作 8分の救命リレー",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598441?source=rss",
-      "publishedAt": "2026-10-11T14:24:37.000Z",
-      "xQuery": "電車で心臓発作 8分の救命リレー"
     }
   ]
 };
