@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-11T10:17:15.830Z",
+  "updatedAt": "2026-10-11T10:41:26.263Z",
   "items": [
+    {
+      "time": "18:36",
+      "title": "サイバー防御サービス 相談が急増",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6598407?source=rss",
+      "publishedAt": "2026-10-11T09:36:38.000Z",
+      "xQuery": "サイバー防御サービス 相談が急増"
+    },
     {
       "time": "18:01",
       "title": "石破氏 簗氏の発言を痛烈に批判",
@@ -8,14 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6598401?source=rss",
       "publishedAt": "2026-10-11T09:01:51.000Z",
       "xQuery": "石破氏 簗氏の発言を痛烈に批判"
-    },
-    {
-      "time": "16:06",
-      "title": "那覇強殺 米国務長官が哀悼の意",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598382?source=rss",
-      "publishedAt": "2026-10-11T07:06:35.000Z",
-      "xQuery": "那覇強殺 米国務長官が哀悼の意"
     },
     {
       "time": "17:29",
