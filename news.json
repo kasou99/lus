@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-10-11T04:47:38.383Z",
+  "updatedAt": "2026-10-11T05:18:37.116Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "14:00",
+        "title": "汎用旋盤の世界市場（2026年～2032年）、市場規模（旋削径：400 mm以下、旋削径：400～500 mm、旋削径：500 mm以上）・分析レポートを発表",
+        "source": "アットプレス",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE90cjREN0Rxc1VjWnJ2dFNPYzkyT083ZUNDNGkwdjhhTGJUaE5kVWliNzJMYlU5aEhOVmpnUDlENTlGZzA1QlY5cGhFVi1LWGM?oc=5",
+        "publishedAt": "2026-10-11T05:00:00.000Z"
+      },
       {
         "time": "07:00",
         "title": "画像 | トップの感情が引き金になることはある…中国が｢わずか1カ月で膨大な戦死者を出し撤退｣した1970年代の戦争",
@@ -50,13 +57,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598318?source=rss",
         "publishedAt": "2026-10-10T22:51:30.000Z"
-      },
-      {
-        "time": "10:48",
-        "title": "就活セクハラ被害 求められる対策",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598344?source=rss",
-        "publishedAt": "2026-10-11T01:48:27.000Z"
       }
     ],
     "worldHeadlines": [
