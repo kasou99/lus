@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-11T23:17:05.479Z",
+  "updatedAt": "2026-10-11T23:40:59.001Z",
   "items": [
+    {
+      "time": "08:30",
+      "title": "台風29号で高波 海のレジャー注意",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6598458?source=rss",
+      "publishedAt": "2026-10-11T23:30:15.000Z",
+      "xQuery": "台風29号で高波 海のレジャー注意"
+    },
     {
       "time": "07:56",
       "title": "米ウ首脳 露軽油の制裁緩和で応酬",
@@ -8,14 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6598451?source=rss",
       "publishedAt": "2026-10-11T22:56:33.000Z",
       "xQuery": "米ウ首脳 露軽油の制裁緩和で応酬"
-    },
-    {
-      "time": "07:28",
-      "title": "重要医療機器の備蓄 企業に補助へ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598448?source=rss",
-      "publishedAt": "2026-10-11T22:28:20.000Z",
-      "xQuery": "重要医療機器の備蓄 企業に補助へ"
     },
     {
       "time": "07:35",

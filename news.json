@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T23:17:04.617Z",
+  "updatedAt": "2026-10-11T23:40:56.731Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -82,6 +82,13 @@
         "publishedAt": "2026-10-11T22:56:33.000Z"
       },
       {
+        "time": "08:18",
+        "title": "サウジの安保が悪化 米国支援鈍く",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598456?source=rss",
+        "publishedAt": "2026-10-11T23:18:03.000Z"
+      },
+      {
         "time": "23:36",
         "title": "ネパールで再び土石流 5人不明",
         "source": "Yahoo!ニュース",
@@ -89,27 +96,20 @@
         "publishedAt": "2026-10-11T14:36:25.000Z"
       },
       {
-        "time": "21:18",
-        "title": "ジブチ沖移民船転覆 100人超死亡",
+        "time": "08:23",
+        "title": "ジブチ沖で移民船転覆 139人死亡",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598423?source=rss",
-        "publishedAt": "2026-10-11T12:18:14.000Z"
-      },
-      {
-        "time": "22:57",
-        "title": "元独情報機関トップ逮捕 内外衝撃",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598437?source=rss",
-        "publishedAt": "2026-10-11T13:57:46.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6598457?source=rss",
+        "publishedAt": "2026-10-11T23:23:05.000Z"
       }
     ],
     "economyHeadlines": [
       {
-        "time": "07:55",
-        "title": "障害者50人 9カ月で雇用打ち切り",
+        "time": "08:36",
+        "title": "ワークマン 値下げと利益両立の訳",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598316?source=rss",
-        "publishedAt": "2026-10-10T22:55:09.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6598459?source=rss",
+        "publishedAt": "2026-10-11T23:36:40.000Z"
       },
       {
         "time": "19:27",
@@ -126,18 +126,18 @@
         "publishedAt": "2026-10-11T11:34:55.000Z"
       },
       {
-        "time": "16:50",
-        "title": "新築の平屋率が増加 耐震性に注目",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598387?source=rss",
-        "publishedAt": "2026-10-11T07:50:06.000Z"
-      },
-      {
         "time": "16:55",
         "title": "物流業界 外国人運転手の採用拡大",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598392?source=rss",
         "publishedAt": "2026-10-11T07:55:41.000Z"
+      },
+      {
+        "time": "16:50",
+        "title": "新築の平屋率が増加 耐震性に注目",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598387?source=rss",
+        "publishedAt": "2026-10-11T07:50:06.000Z"
       },
       {
         "time": "18:20",
