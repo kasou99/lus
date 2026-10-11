@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-11T11:40:00.467Z",
+  "updatedAt": "2026-10-11T12:27:19.233Z",
   "items": [
     {
       "time": "18:36",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "サイバー防御サービス 相談が急増"
     },
     {
-      "time": "16:04",
-      "title": "ガザ乳幼児の12%に成長遅れ 調査",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598381?source=rss",
-      "publishedAt": "2026-10-11T07:04:03.000Z",
-      "xQuery": "ガザ乳幼児の12%に成長遅れ 調査"
-    },
-    {
       "time": "19:27",
       "title": "TSMC進出 高給目当て人材流出も",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6598413?source=rss",
       "publishedAt": "2026-10-11T10:27:50.000Z",
       "xQuery": "TSMC進出 高給目当て人材流出も"
+    },
+    {
+      "time": "20:54",
+      "title": "頭から出血の男性死亡 ひき逃げか",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6598420?source=rss",
+      "publishedAt": "2026-10-11T11:54:21.000Z",
+      "xQuery": "頭から出血の男性死亡 ひき逃げか"
     },
     {
       "time": "20:08",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "玄関先でクマに襲われる 眼球破裂"
     },
     {
-      "time": "18:49",
-      "title": "Bitcoin大暴落1年 流動性回復か",
+      "time": "20:34",
+      "title": "個人M&Aで多額損失「恋は盲目」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598410?source=rss",
-      "publishedAt": "2026-10-11T09:49:49.000Z",
-      "xQuery": "Bitcoin大暴落1年 流動性回復か"
+      "url": "https://news.yahoo.co.jp/pickup/6598418?source=rss",
+      "publishedAt": "2026-10-11T11:34:55.000Z",
+      "xQuery": "個人M&Aで多額損失「恋は盲目」"
     }
   ]
 };
