@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-11T21:16:02.283Z",
+  "updatedAt": "2026-10-11T21:40:47.059Z",
   "groups": {
     "machineHeadlines": [
       {
-        "time": "05:20",
-        "title": "工作機械のＦＵＪＩ 非自動車市場 開拓に力 チャックのノウハウ生かす（中部経済新聞）",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBtRnhkQTRJbkltSERURG1Fai1abVN2dTJ2Y3k3RjBVMDhDUWQ3WDBPZE40N09VRldWZHRreUdabEx2emhjZUJGMVVyanFyMUoxdVZDc181WWQ0SnBJZGIxRU81cXgyZEVNSWprTnJvUGY3NFlSdUpoVV9mblNWaE0?oc=5",
-        "publishedAt": "2026-10-11T20:20:01.000Z"
+        "time": "05:00",
+        "title": "工作機械のＦＵＪＩ 非自動車市場 開拓に力 チャックのノウハウ生かす",
+        "source": "中部経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1mbFR5RlBiSXUxZlVENFZDTWpHMXB0Y1p2eVpQZlYxdldmU0g2V2dZVWthQkVxOHRob3NscUpTZVZZNkxNWHB5NXFhLUFJVHQxOXBSSnFFbFJTem4wUjUwV28xSEVnN29PNmllOGdzcVgxX2s?oc=5",
+        "publishedAt": "2026-10-11T20:00:00.000Z"
       },
       {
         "time": "05:00",
@@ -15,6 +15,13 @@
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBNZmJFSGdkZ0dyWWV3a3psTUduTmJPeTZXeWoyTS1Fa1l4M29pUDFGUDRlTlVfQVJnREN5YTRLTzFILWR3SC1ZM3B6LTBRRXdxay1Cc3BRQ0U?oc=5",
         "publishedAt": "2026-10-11T20:00:00.000Z"
+      },
+      {
+        "time": "06:00",
+        "title": "日立笠戸の片野さん技能五輪国際大会で銀 「ＣＮＣ旋盤」想定外にも対応 力を出し切った",
+        "source": "山口新聞 電子版",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE94TmJIanBnci0yYVRHZGtsWEJNcV93cDEyNDE3c2I4akR0cXNNaWZjbm9xQVN6Nkl6N2FHUjdINTJ0bDhHVHFvTGxWbHhHVFowNkdLNjQtbWJxNi1heG1LLWxoM2VBNi1rNmc?oc=5",
+        "publishedAt": "2026-10-11T21:00:00.000Z"
       },
       {
         "time": "06:02",
@@ -38,13 +45,6 @@
         "publishedAt": "2026-10-10T23:07:40.000Z"
       },
       {
-        "time": "07:00",
-        "title": "画像 | トップの感情が引き金になることはある…中国が｢わずか1カ月で膨大な戦死者を出し撤退｣した1970年代の戦争",
-        "source": "PRESIDENT Online（プレジデントオンライン）",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZkxyTXJIbmZaQ0s4cjVZTjVIcm9fOWNGbEFhaW5zMEFoaExKX3BvZFVYbXhHV0pta0ZFYU5BdW9XR3VHNkRDNVI4NjFJUlJlRXBwMFRFdnhYVlJ5Q3RXREpZQUJQUkhMTUlVM0dkU1pXSUlDUm5ERF8tdU44VTVxaW90LVluVXFVTy13X3dsT1ZESnpWQ1JUNE1aLUtBUTljYlVkY1NXNk5KUFRv?oc=5",
-        "publishedAt": "2026-10-10T22:00:00.000Z"
-      },
-      {
         "time": "14:00",
         "title": "汎用旋盤の世界市場（2026年～2032年）、市場規模（旋削径：400 mm以下、旋削径：400～500 mm、旋削径：500 mm以上）・分析レポートを発表",
         "source": "アットプレス",
@@ -52,11 +52,11 @@
         "publishedAt": "2026-10-11T05:00:00.000Z"
       },
       {
-        "time": "07:55",
-        "title": "障害者50人 9カ月で雇用打ち切り",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598316?source=rss",
-        "publishedAt": "2026-10-10T22:55:09.000Z"
+        "time": "05:00",
+        "title": "名鉄Ｇの雑貨店 オンセブンデイズ 森下社長に聞く 商業施設に３年ぶり新店 集客力の向上狙う",
+        "source": "ｄメニューニュース",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZURCc3Vpa1dQWC1CdTdmSnczc3BhZDd1dUdIOHhGaFpuTWllV3ZmNEg4bzJIb3A1dXZ1emYzZWVRMVE2MURiczRiRnhFV01pMXdjSzFUaFR2RjdKOUE3T0xvLXY5SDU1cllKUUtNSkdKdmJ3RmlHWlQwbXBzZ2YzaWYwaTU4MlBidFhXeS1RbnBfTDTSAZMBQVVfeXFMUGVEQnN1aWtXUFgtQnU3Zkp3M3NwYWQ3dXVHSDh4Rmhabk1pZVd2ZjRIOG8ySG9wNXV2dXpmM2VlUTFRNjFEYnM0YkZ4RVdNaTF3Y0sxVGhUdkY3SjlBN09Mby12OUg1NXJZSlFLTUpHSnZid0ZpR1pUMG1wc2dmM2lmMGk1ODJQYnRYV3ktUW5wX0w0?oc=5",
+        "publishedAt": "2026-10-11T20:00:00.000Z"
       }
     ],
     "worldHeadlines": [
