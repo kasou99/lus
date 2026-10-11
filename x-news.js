@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-11T08:46:00.169Z",
+  "updatedAt": "2026-10-11T09:18:14.293Z",
   "items": [
     {
       "time": "16:06",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "那覇強殺 米国務長官が哀悼の意"
     },
     {
-      "time": "15:50",
-      "title": "「18歳の壁」で就職に不安 ケア児",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598379?source=rss",
-      "publishedAt": "2026-10-11T06:50:48.000Z",
-      "xQuery": "「18歳の壁」で就職に不安 ケア児"
-    },
-    {
       "time": "16:12",
       "title": "「予算カット」市町 工事先送りも",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6598383?source=rss",
       "publishedAt": "2026-10-11T07:12:05.000Z",
       "xQuery": "「予算カット」市町 工事先送りも"
+    },
+    {
+      "time": "16:50",
+      "title": "新築の平屋率が増加 耐震性に注目",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6598387?source=rss",
+      "publishedAt": "2026-10-11T07:50:06.000Z",
+      "xQuery": "新築の平屋率が増加 耐震性に注目"
     },
     {
       "time": "16:32",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "玄関先にクマ 襲われ頭などに重傷"
     },
     {
-      "time": "15:34",
-      "title": "学校隣にデータセンター計画 反発",
+      "time": "10:09",
+      "title": "動物公園でトラに襲われ死亡 英",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598378?source=rss",
-      "publishedAt": "2026-10-11T06:34:23.000Z",
-      "xQuery": "学校隣にデータセンター計画 反発"
+      "url": "https://news.yahoo.co.jp/pickup/6598340?source=rss",
+      "publishedAt": "2026-10-11T01:09:51.000Z",
+      "xQuery": "動物公園でトラに襲われ死亡 英"
     }
   ]
 };
