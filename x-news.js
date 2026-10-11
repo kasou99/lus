@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-11T09:43:06.234Z",
+  "updatedAt": "2026-10-11T10:17:15.830Z",
   "items": [
+    {
+      "time": "18:01",
+      "title": "石破氏 簗氏の発言を痛烈に批判",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6598401?source=rss",
+      "publishedAt": "2026-10-11T09:01:51.000Z",
+      "xQuery": "石破氏 簗氏の発言を痛烈に批判"
+    },
     {
       "time": "16:06",
       "title": "那覇強殺 米国務長官が哀悼の意",
@@ -10,36 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "那覇強殺 米国務長官が哀悼の意"
     },
     {
-      "time": "16:12",
-      "title": "「予算カット」市町 工事先送りも",
+      "time": "17:29",
+      "title": "30～40代女性に体力低下傾向 調査",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598383?source=rss",
-      "publishedAt": "2026-10-11T07:12:05.000Z",
-      "xQuery": "「予算カット」市町 工事先送りも"
+      "url": "https://news.yahoo.co.jp/pickup/6598399?source=rss",
+      "publishedAt": "2026-10-11T08:29:20.000Z",
+      "xQuery": "30～40代女性に体力低下傾向 調査"
     },
     {
-      "time": "16:50",
-      "title": "新築の平屋率が増加 耐震性に注目",
+      "time": "18:20",
+      "title": "続くサケ密漁 地元の怒りは頂点に",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598387?source=rss",
-      "publishedAt": "2026-10-11T07:50:06.000Z",
-      "xQuery": "新築の平屋率が増加 耐震性に注目"
+      "url": "https://news.yahoo.co.jp/pickup/6598405?source=rss",
+      "publishedAt": "2026-10-11T09:20:33.000Z",
+      "xQuery": "続くサケ密漁 地元の怒りは頂点に"
     },
     {
-      "time": "18:08",
-      "title": "木曽川で泳ぎ溺れる 25歳男性死亡",
+      "time": "18:49",
+      "title": "Bitcoin大暴落1年 流動性回復か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598403?source=rss",
-      "publishedAt": "2026-10-11T09:08:22.000Z",
-      "xQuery": "木曽川で泳ぎ溺れる 25歳男性死亡"
-    },
-    {
-      "time": "10:09",
-      "title": "動物公園でトラに襲われ死亡 英",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598340?source=rss",
-      "publishedAt": "2026-10-11T01:09:51.000Z",
-      "xQuery": "動物公園でトラに襲われ死亡 英"
+      "url": "https://news.yahoo.co.jp/pickup/6598410?source=rss",
+      "publishedAt": "2026-10-11T09:49:49.000Z",
+      "xQuery": "Bitcoin大暴落1年 流動性回復か"
     }
   ]
 };
