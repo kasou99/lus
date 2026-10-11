@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-11T14:41:44.819Z",
+  "updatedAt": "2026-10-11T15:16:43.535Z",
   "items": [
+    {
+      "time": "23:59",
+      "title": "露とウ エネルギー停戦で合意か",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6598443?source=rss",
+      "publishedAt": "2026-10-11T14:59:54.000Z",
+      "xQuery": "露とウ エネルギー停戦で合意か"
+    },
     {
       "time": "22:14",
       "title": "定数削減 自民幹事長の腹案に波紋",
@@ -10,20 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "定数削減 自民幹事長の腹案に波紋"
     },
     {
-      "time": "22:57",
-      "title": "元独情報機関トップ逮捕 内外衝撃",
+      "time": "23:36",
+      "title": "ネパールで再び土石流 5人不明",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598437?source=rss",
-      "publishedAt": "2026-10-11T13:57:46.000Z",
-      "xQuery": "元独情報機関トップ逮捕 内外衝撃"
-    },
-    {
-      "time": "21:18",
-      "title": "ジブチ沖移民船転覆 100人超死亡",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598423?source=rss",
-      "publishedAt": "2026-10-11T12:18:14.000Z",
-      "xQuery": "ジブチ沖移民船転覆 100人超死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6598442?source=rss",
+      "publishedAt": "2026-10-11T14:36:25.000Z",
+      "xQuery": "ネパールで再び土石流 5人不明"
     },
     {
       "time": "20:08",
