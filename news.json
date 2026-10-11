@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T05:18:37.116Z",
+  "updatedAt": "2026-10-11T05:43:35.640Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -68,6 +68,13 @@
         "publishedAt": "2026-10-10T23:10:14.000Z"
       },
       {
+        "time": "11:09",
+        "title": "ICC議長団 米に制裁撤回を要求",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598349?source=rss",
+        "publishedAt": "2026-10-11T02:09:18.000Z"
+      },
+      {
         "time": "12:07",
         "title": "インド 抗議集会で6000人拘束か",
         "source": "Yahoo!ニュース",
@@ -75,18 +82,11 @@
         "publishedAt": "2026-10-11T03:07:21.000Z"
       },
       {
-        "time": "08:03",
-        "title": "米大統領 製油所攻撃巡りウに警告",
+        "time": "14:33",
+        "title": "米当局 TV局との対立巡り5社調査",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598320?source=rss",
-        "publishedAt": "2026-10-10T23:03:56.000Z"
-      },
-      {
-        "time": "11:09",
-        "title": "ICC議長団 米に制裁撤回を要求",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598349?source=rss",
-        "publishedAt": "2026-10-11T02:09:18.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6598373?source=rss",
+        "publishedAt": "2026-10-11T05:33:07.000Z"
       },
       {
         "time": "08:02",
@@ -96,11 +96,11 @@
         "publishedAt": "2026-10-10T23:02:36.000Z"
       },
       {
-        "time": "09:05",
-        "title": "銃殺刑の配信 トランプ氏が判断へ",
+        "time": "14:26",
+        "title": "太平洋をトランプ洋に? 改称言及",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598331?source=rss",
-        "publishedAt": "2026-10-11T00:05:45.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6598372?source=rss",
+        "publishedAt": "2026-10-11T05:26:39.000Z"
       }
     ],
     "economyHeadlines": [
