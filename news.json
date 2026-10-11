@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T14:17:21.723Z",
+  "updatedAt": "2026-10-11T14:41:44.055Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -61,6 +61,13 @@
     ],
     "worldHeadlines": [
       {
+        "time": "23:36",
+        "title": "ネパールで再び土石流 5人不明",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598442?source=rss",
+        "publishedAt": "2026-10-11T14:36:25.000Z"
+      },
+      {
         "time": "22:51",
         "title": "ウ軍「露のGoogle」を相次ぎ攻撃",
         "source": "Yahoo!ニュース",
@@ -80,13 +87,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598437?source=rss",
         "publishedAt": "2026-10-11T13:57:46.000Z"
-      },
-      {
-        "time": "16:04",
-        "title": "ガザ乳幼児の12%に成長遅れ 調査",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598381?source=rss",
-        "publishedAt": "2026-10-11T07:04:03.000Z"
       },
       {
         "time": "22:29",
@@ -184,11 +184,11 @@
         "publishedAt": "2026-10-11T13:52:55.000Z"
       },
       {
-        "time": "22:27",
-        "title": "電車で心臓発作 救った命のリレー",
+        "time": "23:24",
+        "title": "電車で心臓発作 8分の救命リレー",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598429?source=rss",
-        "publishedAt": "2026-10-11T13:27:56.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6598441?source=rss",
+        "publishedAt": "2026-10-11T14:24:37.000Z"
       }
     ],
     "subsidyHeadlines": [

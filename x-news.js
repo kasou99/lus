@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-11T14:17:22.583Z",
+  "updatedAt": "2026-10-11T14:41:44.819Z",
   "items": [
     {
       "time": "22:14",
@@ -10,12 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "定数削減 自民幹事長の腹案に波紋"
     },
     {
-      "time": "22:29",
-      "title": "ローマ教皇手術へ 肺のしこり切除",
+      "time": "22:57",
+      "title": "元独情報機関トップ逮捕 内外衝撃",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598431?source=rss",
-      "publishedAt": "2026-10-11T13:29:31.000Z",
-      "xQuery": "ローマ教皇手術へ 肺のしこり切除"
+      "url": "https://news.yahoo.co.jp/pickup/6598437?source=rss",
+      "publishedAt": "2026-10-11T13:57:46.000Z",
+      "xQuery": "元独情報機関トップ逮捕 内外衝撃"
+    },
+    {
+      "time": "21:18",
+      "title": "ジブチ沖移民船転覆 100人超死亡",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6598423?source=rss",
+      "publishedAt": "2026-10-11T12:18:14.000Z",
+      "xQuery": "ジブチ沖移民船転覆 100人超死亡"
     },
     {
       "time": "20:08",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "玄関先でクマに襲われる 眼球破裂"
     },
     {
-      "time": "22:42",
-      "title": "停車前にTXドア開く 客が操作か",
+      "time": "23:24",
+      "title": "電車で心臓発作 8分の救命リレー",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598435?source=rss",
-      "publishedAt": "2026-10-11T13:42:08.000Z",
-      "xQuery": "停車前にTXドア開く 客が操作か"
-    },
-    {
-      "time": "18:45",
-      "title": "譲渡会前に保護ネコ妊娠 ボラ葛藤",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598408?source=rss",
-      "publishedAt": "2026-10-11T09:45:24.000Z",
-      "xQuery": "譲渡会前に保護ネコ妊娠 ボラ葛藤"
+      "url": "https://news.yahoo.co.jp/pickup/6598441?source=rss",
+      "publishedAt": "2026-10-11T14:24:37.000Z",
+      "xQuery": "電車で心臓発作 8分の救命リレー"
     }
   ]
 };
