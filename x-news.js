@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-11T15:16:43.535Z",
+  "updatedAt": "2026-10-11T15:40:51.998Z",
   "items": [
     {
-      "time": "23:59",
-      "title": "露とウ エネルギー停戦で合意か",
+      "time": "00:18",
+      "title": "エネルギー停戦発表 ウは「初耳」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598443?source=rss",
-      "publishedAt": "2026-10-11T14:59:54.000Z",
-      "xQuery": "露とウ エネルギー停戦で合意か"
+      "url": "https://news.yahoo.co.jp/pickup/6598444?source=rss",
+      "publishedAt": "2026-10-11T15:18:09.000Z",
+      "xQuery": "エネルギー停戦発表 ウは「初耳」"
     },
     {
       "time": "22:14",
