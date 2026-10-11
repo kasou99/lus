@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-11T07:22:39.272Z",
+  "updatedAt": "2026-10-11T07:45:13.864Z",
   "items": [
     {
       "time": "14:34",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "「18歳の壁」で就職に不安 ケア児"
     },
     {
-      "time": "10:48",
-      "title": "就活セクハラ被害 求められる対策",
+      "time": "16:32",
+      "title": "玄関先にクマ 襲われ頭などに重傷",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598344?source=rss",
-      "publishedAt": "2026-10-11T01:48:27.000Z",
-      "xQuery": "就活セクハラ被害 求められる対策"
+      "url": "https://news.yahoo.co.jp/pickup/6598386?source=rss",
+      "publishedAt": "2026-10-11T07:32:28.000Z",
+      "xQuery": "玄関先にクマ 襲われ頭などに重傷"
     },
     {
       "time": "13:27",
