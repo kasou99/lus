@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-11T13:17:18.038Z",
+  "updatedAt": "2026-10-11T13:40:37.773Z",
   "items": [
     {
       "time": "21:54",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "物流業界 外国人運転手の採用拡大"
     },
     {
-      "time": "20:54",
-      "title": "頭から出血の男性死亡 ひき逃げか",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598420?source=rss",
-      "publishedAt": "2026-10-11T11:54:21.000Z",
-      "xQuery": "頭から出血の男性死亡 ひき逃げか"
-    },
-    {
       "time": "20:08",
       "title": "玄関先でクマに襲われる 眼球破裂",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6598416?source=rss",
       "publishedAt": "2026-10-11T11:08:01.000Z",
       "xQuery": "玄関先でクマに襲われる 眼球破裂"
+    },
+    {
+      "time": "21:47",
+      "title": "オウム信者だった母 女性の苦難",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6598424?source=rss",
+      "publishedAt": "2026-10-11T12:47:26.000Z",
+      "xQuery": "オウム信者だった母 女性の苦難"
     },
     {
       "time": "20:34",
