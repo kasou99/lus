@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T10:41:25.372Z",
+  "updatedAt": "2026-10-11T11:15:53.734Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,6 +31,13 @@
         "publishedAt": "2026-10-10T22:00:00.000Z"
       },
       {
+        "time": "22:45",
+        "title": "ブラザー、主軸30番の複合加工機で初となる64本の工具を搭載可能なモデルを開発",
+        "source": "朝日新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5uWi1tbUpDSlhZSmxKX2djN0JybFJRd3dCODZaMXVxT3h1eHRMdENEUWFWWWhiU2Z0LUhKV29HbmFIRERxdHBxX0Y5VVdSVGhsN2N0U3NnSzF4NmM?oc=5",
+        "publishedAt": "2026-10-10T13:45:52.000Z"
+      },
+      {
         "time": "07:55",
         "title": "障害者50人 9カ月で雇用打ち切り",
         "source": "Yahoo!ニュース",
@@ -50,13 +57,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598387?source=rss",
         "publishedAt": "2026-10-11T07:50:06.000Z"
-      },
-      {
-        "time": "16:55",
-        "title": "物流業界 外国人運転手の採用拡大",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598392?source=rss",
-        "publishedAt": "2026-10-11T07:55:41.000Z"
       }
     ],
     "worldHeadlines": [
@@ -163,11 +163,11 @@
         "publishedAt": "2026-10-11T07:12:05.000Z"
       },
       {
-        "time": "16:32",
-        "title": "玄関先にクマ 襲われ頭などに重傷",
+        "time": "20:08",
+        "title": "玄関先でクマに襲われる 眼球破裂",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598386?source=rss",
-        "publishedAt": "2026-10-11T07:32:28.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6598416?source=rss",
+        "publishedAt": "2026-10-11T11:08:01.000Z"
       },
       {
         "time": "13:27",

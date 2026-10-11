@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-11T10:41:26.263Z",
+  "updatedAt": "2026-10-11T11:15:54.961Z",
   "items": [
     {
       "time": "18:36",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "石破氏 簗氏の発言を痛烈に批判"
     },
     {
-      "time": "17:29",
-      "title": "30～40代女性に体力低下傾向 調査",
+      "time": "19:27",
+      "title": "TSMC進出 高給目当て人材流出も",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598399?source=rss",
-      "publishedAt": "2026-10-11T08:29:20.000Z",
-      "xQuery": "30～40代女性に体力低下傾向 調査"
+      "url": "https://news.yahoo.co.jp/pickup/6598413?source=rss",
+      "publishedAt": "2026-10-11T10:27:50.000Z",
+      "xQuery": "TSMC進出 高給目当て人材流出も"
     },
     {
-      "time": "18:20",
-      "title": "続くサケ密漁 地元の怒りは頂点に",
+      "time": "20:08",
+      "title": "玄関先でクマに襲われる 眼球破裂",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598405?source=rss",
-      "publishedAt": "2026-10-11T09:20:33.000Z",
-      "xQuery": "続くサケ密漁 地元の怒りは頂点に"
+      "url": "https://news.yahoo.co.jp/pickup/6598416?source=rss",
+      "publishedAt": "2026-10-11T11:08:01.000Z",
+      "xQuery": "玄関先でクマに襲われる 眼球破裂"
     },
     {
       "time": "18:49",
