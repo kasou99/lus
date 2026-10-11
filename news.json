@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-10-11T20:18:23.198Z",
+  "updatedAt": "2026-10-11T20:42:37.603Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "05:20",
+        "title": "工作機械のＦＵＪＩ 非自動車市場 開拓に力 チャックのノウハウ生かす（中部経済新聞）",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBtRnhkQTRJbkltSERURG1Fai1abVN2dTJ2Y3k3RjBVMDhDUWQ3WDBPZE40N09VRldWZHRreUdabEx2emhjZUJGMVVyanFyMUoxdVZDc181WWQ0SnBJZGIxRU81cXgyZEVNSWprTnJvUGY3NFlSdUpoVV9mblNWaE0?oc=5",
+        "publishedAt": "2026-10-11T20:20:01.000Z"
+      },
       {
         "time": "05:00",
         "title": "9月の工作機械受注、最高更新2232億円 外需66.8％プラス",
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBNZmJFSGdkZ0dyWWV3a3psTUduTmJPeTZXeWoyTS1Fa1l4M29pUDFGUDRlTlVfQVJnREN5YTRLTzFILWR3SC1ZM3B6LTBRRXdxay1Cc3BRQ0U?oc=5",
-        "publishedAt": "2026-10-11T20:00:00.000Z"
-      },
-      {
-        "time": "05:00",
-        "title": "工作機械のＦＵＪＩ 非自動車市場 開拓に力 チャックのノウハウ生かす",
-        "source": "中部経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1mbFR5RlBiSXUxZlVENFZDTWpHMXB0Y1p2eVpQZlYxdldmU0g2V2dZVWthQkVxOHRob3NscUpTZVZZNkxNWHB5NXFhLUFJVHQxOXBSSnFFbFJTem4wUjUwV28xSEVnN29PNmllOGdzcVgxX2s?oc=5",
         "publishedAt": "2026-10-11T20:00:00.000Z"
       },
       {
@@ -31,13 +31,6 @@
         "publishedAt": "2026-10-10T21:00:00.000Z"
       },
       {
-        "time": "14:00",
-        "title": "汎用旋盤の世界市場（2026年～2032年）、市場規模（旋削径：400 mm以下、旋削径：400～500 mm、旋削径：500 mm以上）・分析レポートを発表",
-        "source": "アットプレス",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE90cjREN0Rxc1VjWnJ2dFNPYzkyT083ZUNDNGkwdjhhTGJUaE5kVWliNzJMYlU5aEhOVmpnUDlENTlGZzA1QlY5cGhFVi1LWGM?oc=5",
-        "publishedAt": "2026-10-11T05:00:00.000Z"
-      },
-      {
         "time": "08:07",
         "title": "【トランスコスモスオンラインセミナー】製造業DXを加速する！シリーズ第4弾を9月17日（木）に開催",
         "source": "朝日新聞",
@@ -50,6 +43,13 @@
         "source": "PRESIDENT Online（プレジデントオンライン）",
         "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZkxyTXJIbmZaQ0s4cjVZTjVIcm9fOWNGbEFhaW5zMEFoaExKX3BvZFVYbXhHV0pta0ZFYU5BdW9XR3VHNkRDNVI4NjFJUlJlRXBwMFRFdnhYVlJ5Q3RXREpZQUJQUkhMTUlVM0dkU1pXSUlDUm5ERF8tdU44VTVxaW90LVluVXFVTy13X3dsT1ZESnpWQ1JUNE1aLUtBUTljYlVkY1NXNk5KUFRv?oc=5",
         "publishedAt": "2026-10-10T22:00:00.000Z"
+      },
+      {
+        "time": "14:00",
+        "title": "汎用旋盤の世界市場（2026年～2032年）、市場規模（旋削径：400 mm以下、旋削径：400～500 mm、旋削径：500 mm以上）・分析レポートを発表",
+        "source": "アットプレス",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE90cjREN0Rxc1VjWnJ2dFNPYzkyT083ZUNDNGkwdjhhTGJUaE5kVWliNzJMYlU5aEhOVmpnUDlENTlGZzA1QlY5cGhFVi1LWGM?oc=5",
+        "publishedAt": "2026-10-11T05:00:00.000Z"
       },
       {
         "time": "07:55",
