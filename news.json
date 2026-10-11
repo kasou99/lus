@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T03:51:04.762Z",
+  "updatedAt": "2026-10-11T04:22:46.794Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -10,18 +10,18 @@
         "publishedAt": "2026-10-10T22:00:00.000Z"
       },
       {
+        "time": "15:11",
+        "title": "協和機工、Fluke製品の国内向けカタログサイトを開設",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBvVmV0MENoRlU5eTlPRGlncnFRamN0VVhnZElIZFRDSWRMVEpURlhscWJOQ0JpLXFEZ0RNR2M1LTRUYXdSSlZjX3JoelpyRFYwdjd4UFVPUENfZkFuN19zSW8wQ2xXU2p4?oc=5",
+        "publishedAt": "2026-10-10T06:11:30.000Z"
+      },
+      {
         "time": "19:26",
         "title": "日本のPC ベースのモーションコントローラー市場2026年版",
         "source": "pando.life",
         "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1tVGtERDctV05GTV92VFR4QmZSOWtnN1VwQ3BRajRUeXV6Z0VTTGd5blZReklhcEtnNW9rZWNtQ2F1XzI0TkduMGhn?oc=5",
         "publishedAt": "2026-10-10T10:26:39.000Z"
-      },
-      {
-        "time": "13:01",
-        "title": "駅名板やヘッドマークなどお宝40点 土浦まちかど蔵で「筑波鉄道展」",
-        "source": "NEWSつくば",
-        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5lTHhkRnA0allkTVhteWxaOHZ1amh0LWtJbmRRT2FYSTRHVmVOb3ZIZGlTS0tNX0ZUb3pJem11ZGg4Sm5yOTlQRjdTNA?oc=5",
-        "publishedAt": "2026-10-10T04:01:25.000Z"
       },
       {
         "time": "15:00",
@@ -89,18 +89,18 @@
         "publishedAt": "2026-10-11T02:09:18.000Z"
       },
       {
-        "time": "19:32",
-        "title": "米長官 ICCの「資金源断ちきる」",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598289?source=rss",
-        "publishedAt": "2026-10-10T10:32:26.000Z"
-      },
-      {
         "time": "08:02",
         "title": "米で銃撃 子どもや妊婦ら8人死亡",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598319?source=rss",
         "publishedAt": "2026-10-10T23:02:36.000Z"
+      },
+      {
+        "time": "09:05",
+        "title": "銃殺刑の配信 トランプ氏が判断へ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598331?source=rss",
+        "publishedAt": "2026-10-11T00:05:45.000Z"
       }
     ],
     "economyHeadlines": [

@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-11T03:51:05.583Z",
+  "updatedAt": "2026-10-11T04:22:47.723Z",
   "items": [
     {
       "time": "11:40",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "インド 抗議集会で6000人拘束か"
     },
     {
-      "time": "11:32",
-      "title": "横浜で男性が刺されけが 男逃走",
+      "time": "13:12",
+      "title": "刑執行失敗の米女性死刑囚 退院",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598352?source=rss",
-      "publishedAt": "2026-10-11T02:32:20.000Z",
-      "xQuery": "横浜で男性が刺されけが 男逃走"
+      "url": "https://news.yahoo.co.jp/pickup/6598362?source=rss",
+      "publishedAt": "2026-10-11T04:12:19.000Z",
+      "xQuery": "刑執行失敗の米女性死刑囚 退院"
     },
     {
       "time": "12:17",
