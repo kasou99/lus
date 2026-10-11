@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-11T01:42:26.654Z",
+  "updatedAt": "2026-10-11T02:34:46.126Z",
   "items": [
+    {
+      "time": "11:09",
+      "title": "ICC議長団 米に制裁撤回を要求",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6598349?source=rss",
+      "publishedAt": "2026-10-11T02:09:18.000Z",
+      "xQuery": "ICC議長団 米に制裁撤回を要求"
+    },
     {
       "time": "08:02",
       "title": "米で銃撃 子どもや妊婦ら8人死亡",
@@ -10,36 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "米で銃撃 子どもや妊婦ら8人死亡"
     },
     {
-      "time": "08:10",
-      "title": "サウジ首都の空港に攻撃 12人死亡",
+      "time": "10:07",
+      "title": "免許画像流出 再交付の申請相次ぐ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598321?source=rss",
-      "publishedAt": "2026-10-10T23:10:14.000Z",
-      "xQuery": "サウジ首都の空港に攻撃 12人死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6598339?source=rss",
+      "publishedAt": "2026-10-11T01:07:47.000Z",
+      "xQuery": "免許画像流出 再交付の申請相次ぐ"
     },
     {
-      "time": "09:19",
-      "title": "農相 当選重ねるごと「態度変化」",
+      "time": "10:09",
+      "title": "動物公園でトラに襲われ死亡 英",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598332?source=rss",
-      "publishedAt": "2026-10-11T00:19:45.000Z",
-      "xQuery": "農相 当選重ねるごと「態度変化」"
+      "url": "https://news.yahoo.co.jp/pickup/6598340?source=rss",
+      "publishedAt": "2026-10-11T01:09:51.000Z",
+      "xQuery": "動物公園でトラに襲われ死亡 英"
     },
     {
-      "time": "09:05",
-      "title": "銃殺刑の配信 トランプ氏が判断へ",
+      "time": "11:24",
+      "title": "離婚兆候?「別れの四重奏」とは",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598331?source=rss",
-      "publishedAt": "2026-10-11T00:05:45.000Z",
-      "xQuery": "銃殺刑の配信 トランプ氏が判断へ"
-    },
-    {
-      "time": "09:49",
-      "title": "幼児の新幹線自由席利用 広報見解",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598337?source=rss",
-      "publishedAt": "2026-10-11T00:49:02.000Z",
-      "xQuery": "幼児の新幹線自由席利用 広報見解"
+      "url": "https://news.yahoo.co.jp/pickup/6598351?source=rss",
+      "publishedAt": "2026-10-11T02:24:32.000Z",
+      "xQuery": "離婚兆候?「別れの四重奏」とは"
     }
   ]
 };
