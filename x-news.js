@@ -1,29 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-11T05:43:36.472Z",
+  "updatedAt": "2026-10-11T06:30:48.634Z",
   "items": [
     {
-      "time": "11:40",
-      "title": "東京都心37日連続で雨 なぜ続いた",
+      "time": "14:34",
+      "title": "消費減税方針は全くぶれず 片山氏",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598350?source=rss",
-      "publishedAt": "2026-10-11T02:40:44.000Z",
-      "xQuery": "東京都心37日連続で雨 なぜ続いた"
+      "url": "https://news.yahoo.co.jp/pickup/6598370?source=rss",
+      "publishedAt": "2026-10-11T05:34:00.000Z",
+      "xQuery": "消費減税方針は全くぶれず 片山氏"
     },
     {
-      "time": "12:07",
-      "title": "インド 抗議集会で6000人拘束か",
+      "time": "14:33",
+      "title": "米当局 TV局との対立巡り5社調査",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598354?source=rss",
-      "publishedAt": "2026-10-11T03:07:21.000Z",
-      "xQuery": "インド 抗議集会で6000人拘束か"
+      "url": "https://news.yahoo.co.jp/pickup/6598373?source=rss",
+      "publishedAt": "2026-10-11T05:33:07.000Z",
+      "xQuery": "米当局 TV局との対立巡り5社調査"
     },
     {
-      "time": "13:41",
-      "title": "女性刺傷 知人男性発見し事情聴取",
+      "time": "14:26",
+      "title": "太平洋をトランプ洋に? 改称言及",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598366?source=rss",
-      "publishedAt": "2026-10-11T04:41:42.000Z",
-      "xQuery": "女性刺傷 知人男性発見し事情聴取"
+      "url": "https://news.yahoo.co.jp/pickup/6598372?source=rss",
+      "publishedAt": "2026-10-11T05:26:39.000Z",
+      "xQuery": "太平洋をトランプ洋に? 改称言及"
     },
     {
       "time": "13:27",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "看護師が撮った動画がSNSに 解雇"
     },
     {
-      "time": "12:17",
-      "title": "山梨学院大 試験替え玉を複数確認",
+      "time": "08:55",
+      "title": "割引やポイント還元 15日なぜ多い",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598356?source=rss",
-      "publishedAt": "2026-10-11T03:17:00.000Z",
-      "xQuery": "山梨学院大 試験替え玉を複数確認"
+      "url": "https://news.yahoo.co.jp/pickup/6598328?source=rss",
+      "publishedAt": "2026-10-10T23:55:59.000Z",
+      "xQuery": "割引やポイント還元 15日なぜ多い"
     }
   ]
 };
