@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-11T06:30:48.634Z",
+  "updatedAt": "2026-10-11T07:22:39.272Z",
   "items": [
     {
       "time": "14:34",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "消費減税方針は全くぶれず 片山氏"
     },
     {
-      "time": "14:33",
-      "title": "米当局 TV局との対立巡り5社調査",
+      "time": "15:50",
+      "title": "「18歳の壁」で就職に不安 ケア児",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598373?source=rss",
-      "publishedAt": "2026-10-11T05:33:07.000Z",
-      "xQuery": "米当局 TV局との対立巡り5社調査"
+      "url": "https://news.yahoo.co.jp/pickup/6598379?source=rss",
+      "publishedAt": "2026-10-11T06:50:48.000Z",
+      "xQuery": "「18歳の壁」で就職に不安 ケア児"
     },
     {
-      "time": "14:26",
-      "title": "太平洋をトランプ洋に? 改称言及",
+      "time": "10:48",
+      "title": "就活セクハラ被害 求められる対策",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598372?source=rss",
-      "publishedAt": "2026-10-11T05:26:39.000Z",
-      "xQuery": "太平洋をトランプ洋に? 改称言及"
+      "url": "https://news.yahoo.co.jp/pickup/6598344?source=rss",
+      "publishedAt": "2026-10-11T01:48:27.000Z",
+      "xQuery": "就活セクハラ被害 求められる対策"
     },
     {
       "time": "13:27",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "看護師が撮った動画がSNSに 解雇"
     },
     {
-      "time": "08:55",
-      "title": "割引やポイント還元 15日なぜ多い",
+      "time": "15:34",
+      "title": "学校隣にデータセンター計画 反発",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598328?source=rss",
-      "publishedAt": "2026-10-10T23:55:59.000Z",
-      "xQuery": "割引やポイント還元 15日なぜ多い"
+      "url": "https://news.yahoo.co.jp/pickup/6598378?source=rss",
+      "publishedAt": "2026-10-11T06:34:23.000Z",
+      "xQuery": "学校隣にデータセンター計画 反発"
     }
   ]
 };

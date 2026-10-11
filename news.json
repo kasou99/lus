@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T06:30:47.863Z",
+  "updatedAt": "2026-10-11T07:22:38.572Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -8,6 +8,13 @@
         "source": "アットプレス",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE90cjREN0Rxc1VjWnJ2dFNPYzkyT083ZUNDNGkwdjhhTGJUaE5kVWliNzJMYlU5aEhOVmpnUDlENTlGZzA1QlY5cGhFVi1LWGM?oc=5",
         "publishedAt": "2026-10-11T05:00:00.000Z"
+      },
+      {
+        "time": "08:07",
+        "title": "【トランスコスモスオンラインセミナー】製造業DXを加速する！シリーズ第4弾を9月17日（木）に開催",
+        "source": "朝日新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1PU1llZ29LYmJ2dm1aMWdVdmtBNTNZS3dLbmdyVHdQNlByaHpTdjZzZlo0a1RuNG1zZ2hJb0Rkekp0ckZmY2toWkxsOG1NNDUxdVNlM1pLWkdTQlE?oc=5",
+        "publishedAt": "2026-10-10T23:07:40.000Z"
       },
       {
         "time": "07:00",
@@ -50,29 +57,29 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598318?source=rss",
         "publishedAt": "2026-10-10T22:51:30.000Z"
-      },
-      {
-        "time": "10:48",
-        "title": "就活セクハラ被害 求められる対策",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598344?source=rss",
-        "publishedAt": "2026-10-11T01:48:27.000Z"
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "16:06",
+        "title": "那覇強殺 米国務長官が哀悼の意",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598382?source=rss",
+        "publishedAt": "2026-10-11T07:06:35.000Z"
+      },
+      {
+        "time": "16:04",
+        "title": "ガザ乳幼児の12%に成長遅れ 調査",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598381?source=rss",
+        "publishedAt": "2026-10-11T07:04:03.000Z"
+      },
       {
         "time": "08:10",
         "title": "サウジ首都の空港に攻撃 12人死亡",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598321?source=rss",
         "publishedAt": "2026-10-10T23:10:14.000Z"
-      },
-      {
-        "time": "11:09",
-        "title": "ICC議長団 米に制裁撤回を要求",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598349?source=rss",
-        "publishedAt": "2026-10-11T02:09:18.000Z"
       },
       {
         "time": "12:07",
@@ -87,13 +94,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598373?source=rss",
         "publishedAt": "2026-10-11T05:33:07.000Z"
-      },
-      {
-        "time": "08:02",
-        "title": "米で銃撃 子どもや妊婦ら8人死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598319?source=rss",
-        "publishedAt": "2026-10-10T23:02:36.000Z"
       },
       {
         "time": "14:26",
@@ -149,11 +149,11 @@
     ],
     "localHeadlines": [
       {
-        "time": "22:30",
-        "title": "車と衝突 義父が用水路に落ち死亡",
+        "time": "16:12",
+        "title": "「予算カット」市町 工事先送りも",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598304?source=rss",
-        "publishedAt": "2026-10-10T13:30:01.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6598383?source=rss",
+        "publishedAt": "2026-10-11T07:12:05.000Z"
       },
       {
         "time": "13:41",
@@ -170,18 +170,18 @@
         "publishedAt": "2026-10-11T02:32:20.000Z"
       },
       {
-        "time": "17:19",
-        "title": "だんじりの横転相次ぐ 計2人死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598275?source=rss",
-        "publishedAt": "2026-10-10T08:19:06.000Z"
-      },
-      {
         "time": "13:27",
         "title": "看護師が撮った動画がSNSに 解雇",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598363?source=rss",
         "publishedAt": "2026-10-11T04:27:18.000Z"
+      },
+      {
+        "time": "15:34",
+        "title": "学校隣にデータセンター計画 反発",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598378?source=rss",
+        "publishedAt": "2026-10-11T06:34:23.000Z"
       },
       {
         "time": "12:17",
