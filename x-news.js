@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-12T06:48:09.833Z",
+  "updatedAt": "2026-10-12T07:46:54.855Z",
   "items": [
     {
       "time": "14:50",
@@ -18,20 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "欧州首脳ら ウクライナへ連帯表明"
     },
     {
-      "time": "13:12",
-      "title": "バイクと衝突し車が炎上 1人死亡",
+      "time": "15:38",
+      "title": "北発射 韓国ミサイルへの抗議か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598488?source=rss",
-      "publishedAt": "2026-10-12T04:12:54.000Z",
-      "xQuery": "バイクと衝突し車が炎上 1人死亡"
-    },
-    {
-      "time": "13:14",
-      "title": "住宅で女児死亡 外傷なく死因不明",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598490?source=rss",
-      "publishedAt": "2026-10-12T04:14:29.000Z",
-      "xQuery": "住宅で女児死亡 外傷なく死因不明"
+      "url": "https://news.yahoo.co.jp/pickup/6598514?source=rss",
+      "publishedAt": "2026-10-12T06:38:03.000Z",
+      "xQuery": "北発射 韓国ミサイルへの抗議か"
     },
     {
       "time": "14:24",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6598503?source=rss",
       "publishedAt": "2026-10-12T05:24:43.000Z",
       "xQuery": "モヤシ生産者減少 ラーメン店悲鳴"
+    },
+    {
+      "time": "16:13",
+      "title": "豪雨の中6歳と4歳迷子 夫婦が保護",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6598516?source=rss",
+      "publishedAt": "2026-10-12T07:13:38.000Z",
+      "xQuery": "豪雨の中6歳と4歳迷子 夫婦が保護"
     }
   ]
 };

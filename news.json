@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T06:48:08.515Z",
+  "updatedAt": "2026-10-12T07:46:53.923Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -22,13 +22,6 @@
         "source": "山口新聞 電子版",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE94TmJIanBnci0yYVRHZGtsWEJNcV93cDEyNDE3c2I4akR0cXNNaWZjbm9xQVN6Nkl6N2FHUjdINTJ0bDhHVHFvTGxWbHhHVFowNkdLNjQtbWJxNi1heG1LLWxoM2VBNi1rNmc?oc=5",
         "publishedAt": "2026-10-11T21:00:00.000Z"
-      },
-      {
-        "time": "20:09",
-        "title": "丸文、9月16日から開催の「JIMA2026 第13回総合検査機器展」に出展",
-        "source": "朝日新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9KNy1KM3RTLVFzY19oRU1YYkxrbGw2S3Q0ajlQdFpMekEwQ2cxSFM4VHNJTmdOcWExT2d6emdWTVgyamV4NVU0bmJCbGFfNmtCZ0VCRXZvWnVNZTg?oc=5",
-        "publishedAt": "2026-10-11T11:09:35.000Z"
       },
       {
         "time": "06:39",
@@ -56,6 +49,13 @@
         "title": "名鉄Ｇの雑貨店 オンセブンデイズ 森下社長に聞く 商業施設に３年ぶり新店 集客力の向上狙う",
         "source": "ｄメニューニュース",
         "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZURCc3Vpa1dQWC1CdTdmSnczc3BhZDd1dUdIOHhGaFpuTWllV3ZmNEg4bzJIb3A1dXZ1emYzZWVRMVE2MURiczRiRnhFV01pMXdjSzFUaFR2RjdKOUE3T0xvLXY5SDU1cllKUUtNSkdKdmJ3RmlHWlQwbXBzZ2YzaWYwaTU4MlBidFhXeS1RbnBfTDTSAZMBQVVfeXFMUGVEQnN1aWtXUFgtQnU3Zkp3M3NwYWQ3dXVHSDh4Rmhabk1pZVd2ZjRIOG8ySG9wNXV2dXpmM2VlUTFRNjFEYnM0YkZ4RVdNaTF3Y0sxVGhUdkY3SjlBN09Mby12OUg1NXJZSlFLTUpHSnZid0ZpR1pUMG1wc2dmM2lmMGk1ODJQYnRYV3ktUW5wX0w0?oc=5",
+        "publishedAt": "2026-10-11T20:00:00.000Z"
+      },
+      {
+        "time": "05:00",
+        "title": "ＶＲ活用の安全教育提案 販促・ＤＸ支援の西川コミュニケーションズ リアルな訓練へ現場再現",
+        "source": "ｄメニューニュース",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWHRpYVRnNjRxa1hOMGFsTEpxbzdidmJ5QmNjaWttdVZNbnlKVVlFaXRfMk5qTWNYdTVWcGhHNXc4RWpzdFQtYThQd0dQOEpEYmJEMURVXzR3dFB0b1VCVW43STNDNF9qcVNGekFreG9PWDlkTl9DX2g1TVpMVzV1MHI3UzhqSnZETXB0bmQ0RFBNV0HSAZMBQVVfeXFMTlh0aWFUZzY0cWtYTjBhbExKcW83YnZieUJjY2lrbXVWTW55SlVZRWl0XzJOak1jWHU1VnBoRzV3OEVqc3RULWE4UHdHUDhKRGJiRDFEVV80d3RQdG9VQlVuN0kzQzRfanFTRnpBa3hvT1g5ZE5fQ19oNU1aTFc1dTByN1M4akp2RE1wdG5kNERQTVdB?oc=5",
         "publishedAt": "2026-10-11T20:00:00.000Z"
       }
     ],
@@ -126,6 +126,13 @@
         "publishedAt": "2026-10-11T10:27:50.000Z"
       },
       {
+        "time": "16:42",
+        "title": "渋谷駅で事故 山手線一時見合わせ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598520?source=rss",
+        "publishedAt": "2026-10-12T07:42:52.000Z"
+      },
+      {
         "time": "20:34",
         "title": "個人M&Aで多額損失「恋は盲目」",
         "source": "Yahoo!ニュース",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598500?source=rss",
         "publishedAt": "2026-10-12T05:22:11.000Z"
-      },
-      {
-        "time": "22:42",
-        "title": "停車前にTXドア開く 客が操作か",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598435?source=rss",
-        "publishedAt": "2026-10-11T13:42:08.000Z"
       }
     ],
     "localHeadlines": [
