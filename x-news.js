@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-12T14:26:21.875Z",
+  "updatedAt": "2026-10-12T14:51:14.890Z",
   "items": [
     {
-      "time": "22:33",
-      "title": "中露朝が連動し日本批判 政府警戒",
+      "time": "23:27",
+      "title": "財務相 世銀IMF合同開発委議長に",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598555?source=rss",
-      "publishedAt": "2026-10-12T13:33:54.000Z",
-      "xQuery": "中露朝が連動し日本批判 政府警戒"
+      "url": "https://news.yahoo.co.jp/pickup/6598563?source=rss",
+      "publishedAt": "2026-10-12T14:27:58.000Z",
+      "xQuery": "財務相 世銀IMF合同開発委議長に"
     },
     {
       "time": "20:25",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "マンション高騰 売れ残り値下げも"
     },
     {
-      "time": "21:58",
-      "title": "木にみこし衝突 中学生ら5人けが",
+      "time": "23:08",
+      "title": "マイクロソフト 新型AI半導体発表",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598550?source=rss",
-      "publishedAt": "2026-10-12T12:58:40.000Z",
-      "xQuery": "木にみこし衝突 中学生ら5人けが"
+      "url": "https://news.yahoo.co.jp/pickup/6598562?source=rss",
+      "publishedAt": "2026-10-12T14:08:55.000Z",
+      "xQuery": "マイクロソフト 新型AI半導体発表"
     },
     {
-      "time": "19:40",
-      "title": "だんじり死傷事故 伝統か安全か",
+      "time": "21:39",
+      "title": "setlog流行 日常を切り取るリスク",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598537?source=rss",
-      "publishedAt": "2026-10-12T10:40:49.000Z",
-      "xQuery": "だんじり死傷事故 伝統か安全か"
+      "url": "https://news.yahoo.co.jp/pickup/6598548?source=rss",
+      "publishedAt": "2026-10-12T12:39:11.000Z",
+      "xQuery": "setlog流行 日常を切り取るリスク"
     }
   ]
 };
