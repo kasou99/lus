@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-12T11:44:51.602Z",
+  "updatedAt": "2026-10-12T12:40:26.043Z",
   "items": [
     {
       "time": "19:42",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "ノーベル経済学賞 米大教授2人に"
     },
     {
-      "time": "19:32",
-      "title": "情報流出に政府苦慮 打つ手乏しく",
+      "time": "20:47",
+      "title": "共産党 野党共闘路線を転換方針",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598536?source=rss",
-      "publishedAt": "2026-10-12T10:32:19.000Z",
-      "xQuery": "情報流出に政府苦慮 打つ手乏しく"
+      "url": "https://news.yahoo.co.jp/pickup/6598544?source=rss",
+      "publishedAt": "2026-10-12T11:47:02.000Z",
+      "xQuery": "共産党 野党共闘路線を転換方針"
     },
     {
       "time": "18:08",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "パリ最古 屋根付きマーケット全焼"
     },
     {
-      "time": "18:25",
-      "title": "台所で女性死亡 顔に出血伴う傷",
+      "time": "21:12",
+      "title": "車と衝突し11歳重傷 ひき逃げか",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598531?source=rss",
-      "publishedAt": "2026-10-12T09:25:27.000Z",
-      "xQuery": "台所で女性死亡 顔に出血伴う傷"
+      "url": "https://news.yahoo.co.jp/pickup/6598545?source=rss",
+      "publishedAt": "2026-10-12T12:12:57.000Z",
+      "xQuery": "車と衝突し11歳重傷 ひき逃げか"
     },
     {
       "time": "18:10",

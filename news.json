@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T11:44:51.011Z",
+  "updatedAt": "2026-10-12T12:40:25.409Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "21:12",
+        "title": "車と衝突し11歳重傷 ひき逃げか",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598545?source=rss",
+        "publishedAt": "2026-10-12T12:12:57.000Z"
+      },
+      {
         "time": "19:21",
         "title": "解体現場で鋼材の下敷き 男性死亡",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598525?source=rss",
         "publishedAt": "2026-10-12T08:36:41.000Z"
-      },
-      {
-        "time": "19:40",
-        "title": "だんじり死傷事故 伝統か安全か",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598537?source=rss",
-        "publishedAt": "2026-10-12T10:40:49.000Z"
       }
     ],
     "subsidyHeadlines": [
