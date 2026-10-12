@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-12T10:47:05.716Z",
+  "updatedAt": "2026-10-12T11:18:59.347Z",
   "items": [
     {
       "time": "18:54",
@@ -8,6 +8,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6598534?source=rss",
       "publishedAt": "2026-10-12T09:54:17.000Z",
       "xQuery": "北ミサイル一部 変則飛行の可能性"
+    },
+    {
+      "time": "18:08",
+      "title": "パリ最古 屋根付きマーケット全焼",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6598530?source=rss",
+      "publishedAt": "2026-10-12T09:08:31.000Z",
+      "xQuery": "パリ最古 屋根付きマーケット全焼"
     },
     {
       "time": "16:18",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6598531?source=rss",
       "publishedAt": "2026-10-12T09:25:27.000Z",
       "xQuery": "台所で女性死亡 顔に出血伴う傷"
-    },
-    {
-      "time": "17:36",
-      "title": "ハチの巣駆除が原因か 2棟燃える",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598525?source=rss",
-      "publishedAt": "2026-10-12T08:36:41.000Z",
-      "xQuery": "ハチの巣駆除が原因か 2棟燃える"
     }
   ]
 };
