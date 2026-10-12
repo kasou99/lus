@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-12T13:39:54.273Z",
+  "updatedAt": "2026-10-12T14:26:21.875Z",
   "items": [
+    {
+      "time": "22:33",
+      "title": "中露朝が連動し日本批判 政府警戒",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6598555?source=rss",
+      "publishedAt": "2026-10-12T13:33:54.000Z",
+      "xQuery": "中露朝が連動し日本批判 政府警戒"
+    },
     {
       "time": "20:25",
       "title": "ICC制裁 赤根智子所長がコメント",
@@ -10,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "ICC制裁 赤根智子所長がコメント"
     },
     {
-      "time": "20:47",
-      "title": "共産党 野党共闘路線を転換方針",
+      "time": "23:00",
+      "title": "マンション高騰 売れ残り値下げも",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598544?source=rss",
-      "publishedAt": "2026-10-12T11:47:02.000Z",
-      "xQuery": "共産党 野党共闘路線を転換方針"
+      "url": "https://news.yahoo.co.jp/pickup/6598560?source=rss",
+      "publishedAt": "2026-10-12T14:00:00.000Z",
+      "xQuery": "マンション高騰 売れ残り値下げも"
     },
     {
       "time": "21:58",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6598537?source=rss",
       "publishedAt": "2026-10-12T10:40:49.000Z",
       "xQuery": "だんじり死傷事故 伝統か安全か"
-    },
-    {
-      "time": "21:39",
-      "title": "setlog流行 日常を切り取るリスク",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598548?source=rss",
-      "publishedAt": "2026-10-12T12:39:11.000Z",
-      "xQuery": "setlog流行 日常を切り取るリスク"
     }
   ]
 };
