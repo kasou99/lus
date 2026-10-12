@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-12T21:41:07.179Z",
+  "updatedAt": "2026-10-12T22:18:09.335Z",
   "items": [
     {
       "time": "06:09",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "飲食店で男性刺される 男を逮捕"
     },
     {
-      "time": "23:56",
-      "title": "台所に女性遺体 傷害疑い長男逮捕",
+      "time": "06:56",
+      "title": "米俳優 セルマ・ブレア容疑者逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598564?source=rss",
-      "publishedAt": "2026-10-12T14:56:10.000Z",
-      "xQuery": "台所に女性遺体 傷害疑い長男逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6598569?source=rss",
+      "publishedAt": "2026-10-12T21:56:46.000Z",
+      "xQuery": "米俳優 セルマ・ブレア容疑者逮捕"
     }
   ]
 };
