@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-12T01:00:37.669Z",
+  "updatedAt": "2026-10-12T02:10:23.214Z",
   "items": [
     {
-      "time": "09:52",
-      "title": "北再び発射 弾道ミサイルの可能性",
+      "time": "10:19",
+      "title": "北が2度ミサイル EEZ外に落下か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598468?source=rss",
-      "publishedAt": "2026-10-12T00:52:39.000Z",
-      "xQuery": "北再び発射 弾道ミサイルの可能性"
+      "url": "https://news.yahoo.co.jp/pickup/6598471?source=rss",
+      "publishedAt": "2026-10-12T01:19:09.000Z",
+      "xQuery": "北が2度ミサイル EEZ外に落下か"
     },
     {
       "time": "08:18",
@@ -18,28 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "サウジの安保が悪化 米国支援鈍く"
     },
     {
-      "time": "08:55",
-      "title": "縛られた遺体 窃盗疑いの妹関与か",
+      "time": "10:53",
+      "title": "ひき逃げ疑い逮捕 仕事継続と供述",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598462?source=rss",
-      "publishedAt": "2026-10-11T23:55:20.000Z",
-      "xQuery": "縛られた遺体 窃盗疑いの妹関与か"
+      "url": "https://news.yahoo.co.jp/pickup/6598476?source=rss",
+      "publishedAt": "2026-10-12T01:53:25.000Z",
+      "xQuery": "ひき逃げ疑い逮捕 仕事継続と供述"
     },
     {
-      "time": "07:56",
-      "title": "マツタケ狩りの男性 滑落し死亡",
+      "time": "10:42",
+      "title": "中野窃盗 被告は国際的窃盗団か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598454?source=rss",
-      "publishedAt": "2026-10-11T22:56:11.000Z",
-      "xQuery": "マツタケ狩りの男性 滑落し死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6598475?source=rss",
+      "publishedAt": "2026-10-12T01:42:07.000Z",
+      "xQuery": "中野窃盗 被告は国際的窃盗団か"
     },
     {
-      "time": "08:36",
-      "title": "ワークマン 値下げと利益両立の訳",
+      "time": "10:03",
+      "title": "アシックスとナイキ なぜ「明暗」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598459?source=rss",
-      "publishedAt": "2026-10-11T23:36:40.000Z",
-      "xQuery": "ワークマン 値下げと利益両立の訳"
+      "url": "https://news.yahoo.co.jp/pickup/6598467?source=rss",
+      "publishedAt": "2026-10-12T01:03:13.000Z",
+      "xQuery": "アシックスとナイキ なぜ「明暗」"
     }
   ]
 };
