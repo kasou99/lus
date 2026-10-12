@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T10:23:48.649Z",
+  "updatedAt": "2026-10-12T10:47:04.859Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,6 +31,13 @@
         "publishedAt": "2026-10-11T21:00:00.000Z"
       },
       {
+        "time": "06:39",
+        "title": "シリーズ最速の処理性能を備えるCPUユニットを追加／安川電機",
+        "source": "robot digest",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9jeDY2UTRvbDY1MFRZLTREbG5nRE5IMEhBQ2l4bGg2bHZ5OWpwcDVTMU4ybHN0Z2NfTUh0RHZGYkhleUJOVHdIZC1RdWlBU0tVOEc1T0RjaERORXh3cmhfUnZaSEtCX2VpTmdN?oc=5",
+        "publishedAt": "2026-10-11T21:39:42.000Z"
+      },
+      {
         "time": "19:03",
         "title": "日本の電気配線相互接続システム市場2026年版",
         "source": "pando.life",
@@ -43,13 +50,6 @@
         "source": "朝日新聞",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9KNy1KM3RTLVFzY19oRU1YYkxrbGw2S3Q0ajlQdFpMekEwQ2cxSFM4VHNJTmdOcWExT2d6emdWTVgyamV4NVU0bmJCbGFfNmtCZ0VCRXZvWnVNZTg?oc=5",
         "publishedAt": "2026-10-11T11:09:35.000Z"
-      },
-      {
-        "time": "06:39",
-        "title": "シリーズ最速の処理性能を備えるCPUユニットを追加／安川電機",
-        "source": "robot digest",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9jeDY2UTRvbDY1MFRZLTREbG5nRE5IMEhBQ2l4bGg2bHZ5OWpwcDVTMU4ybHN0Z2NfTUh0RHZGYkhleUJOVHdIZC1RdWlBU0tVOEc1T0RjaERORXh3cmhfUnZaSEtCX2VpTmdN?oc=5",
-        "publishedAt": "2026-10-11T21:39:42.000Z"
       },
       {
         "time": "07:00",
@@ -105,6 +105,13 @@
     ],
     "economyHeadlines": [
       {
+        "time": "19:42",
+        "title": "ノーベル経済学賞 米大教授2人に",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598538?source=rss",
+        "publishedAt": "2026-10-12T10:42:51.000Z"
+      },
+      {
         "time": "10:03",
         "title": "アシックスとナイキ なぜ「明暗」",
         "source": "Yahoo!ニュース",
@@ -117,13 +124,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598459?source=rss",
         "publishedAt": "2026-10-11T23:36:40.000Z"
-      },
-      {
-        "time": "19:27",
-        "title": "TSMC進出 高給目当て人材流出も",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598413?source=rss",
-        "publishedAt": "2026-10-11T10:27:50.000Z"
       },
       {
         "time": "16:42",
@@ -177,18 +177,18 @@
         "publishedAt": "2026-10-12T04:14:29.000Z"
       },
       {
-        "time": "11:48",
-        "title": "キャンプ場の池に高齢男性 死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598479?source=rss",
-        "publishedAt": "2026-10-12T02:48:20.000Z"
-      },
-      {
         "time": "17:36",
         "title": "ハチの巣駆除が原因か 2棟燃える",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598525?source=rss",
         "publishedAt": "2026-10-12T08:36:41.000Z"
+      },
+      {
+        "time": "19:40",
+        "title": "だんじり死傷事故 伝統か安全か",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598537?source=rss",
+        "publishedAt": "2026-10-12T10:40:49.000Z"
       }
     ],
     "subsidyHeadlines": [

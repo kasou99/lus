@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-12T10:23:49.484Z",
+  "updatedAt": "2026-10-12T10:47:05.716Z",
   "items": [
     {
       "time": "18:54",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "休校いつまで クマ対応に学校苦慮"
     },
     {
-      "time": "17:10",
-      "title": "工場火災 10h超も鎮火めど立たず",
+      "time": "19:21",
+      "title": "解体現場で鋼材の下敷き 男性死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598523?source=rss",
-      "publishedAt": "2026-10-12T08:10:11.000Z",
-      "xQuery": "工場火災 10h超も鎮火めど立たず"
+      "url": "https://news.yahoo.co.jp/pickup/6598535?source=rss",
+      "publishedAt": "2026-10-12T10:21:28.000Z",
+      "xQuery": "解体現場で鋼材の下敷き 男性死亡"
     },
     {
       "time": "18:25",
