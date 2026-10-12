@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T19:15:02.027Z",
+  "updatedAt": "2026-10-12T19:41:10.628Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -10,18 +10,18 @@
         "publishedAt": "2026-10-11T20:00:00.000Z"
       },
       {
-        "time": "05:00",
-        "title": "工作機械4社、9月の受注53％増 米中好調続く",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9WWndyVWc5U1ZfakVueExHVlBDaVFKQWVVNjFYZ1pmQl9waEI4dF9sVjBQa2o1V1pRZjJQVU5EZE5NX2hUNHNVZDZwWl8yMVpTOV9qcWlnRGw?oc=5",
-        "publishedAt": "2026-10-11T20:00:00.000Z"
-      },
-      {
         "time": "05:15",
         "title": "工作機械のＦＵＪＩ 非自動車市場 開拓に力 チャックのノウハウ生かす (中部経済新聞)",
         "source": "Yahoo!ニュース",
         "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRmhkOXhZTGZSLURlVnltZFJuT0RNMzIxMmpSVWxtRkE0VzFfbmpMTWdxeThhTDFxT3loX2M0Y1AzMUhoSnpqQTRlYjJkS0g5djc5UXFpZFlfbUF2dzFkU3ZCNld6LXdETGd2dm1ENkQ1TFV3UUp5OHE2LTZtaV9SeF9zb2p3SlFIaE1QeXln?oc=5",
         "publishedAt": "2026-10-11T20:15:23.000Z"
+      },
+      {
+        "time": "05:00",
+        "title": "工作機械4社、9月の受注53％増 米中好調続く",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9WWndyVWc5U1ZfakVueExHVlBDaVFKQWVVNjFYZ1pmQl9waEI4dF9sVjBQa2o1V1pRZjJQVU5EZE5NX2hUNHNVZDZwWl8yMVpTOV9qcWlnRGw?oc=5",
+        "publishedAt": "2026-10-11T20:00:00.000Z"
       },
       {
         "time": "06:00",
