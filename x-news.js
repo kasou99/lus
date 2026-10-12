@@ -1,14 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-12T08:40:40.067Z",
+  "updatedAt": "2026-10-12T09:35:44.028Z",
   "items": [
-    {
-      "time": "14:50",
-      "title": "公明・岡本氏 自民含め連携目指す",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598505?source=rss",
-      "publishedAt": "2026-10-12T05:50:09.000Z",
-      "xQuery": "公明・岡本氏 自民含め連携目指す"
-    },
     {
       "time": "16:49",
       "title": "英首相 EU離脱投票「露が干渉」",
@@ -18,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "英首相 EU離脱投票「露が干渉」"
     },
     {
-      "time": "16:42",
-      "title": "渋谷駅で事故 山手線一時見合わせ",
+      "time": "16:18",
+      "title": "休校いつまで クマ対応に学校苦慮",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598520?source=rss",
-      "publishedAt": "2026-10-12T07:42:52.000Z",
-      "xQuery": "渋谷駅で事故 山手線一時見合わせ"
+      "url": "https://news.yahoo.co.jp/pickup/6598517?source=rss",
+      "publishedAt": "2026-10-12T07:18:06.000Z",
+      "xQuery": "休校いつまで クマ対応に学校苦慮"
     },
     {
       "time": "17:10",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "工場火災 10h超も鎮火めど立たず"
     },
     {
-      "time": "14:26",
-      "title": "孫育てで世代間トラブル 防ぐには",
+      "time": "17:36",
+      "title": "ハチの巣駆除が原因か 2棟燃える",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598501?source=rss",
-      "publishedAt": "2026-10-12T05:26:27.000Z",
-      "xQuery": "孫育てで世代間トラブル 防ぐには"
+      "url": "https://news.yahoo.co.jp/pickup/6598525?source=rss",
+      "publishedAt": "2026-10-12T08:36:41.000Z",
+      "xQuery": "ハチの巣駆除が原因か 2棟燃える"
+    },
+    {
+      "time": "17:15",
+      "title": "江東花火大会 保険巡り開催ピンチ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6598524?source=rss",
+      "publishedAt": "2026-10-12T08:15:06.000Z",
+      "xQuery": "江東花火大会 保険巡り開催ピンチ"
     }
   ]
 };

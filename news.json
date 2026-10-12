@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T08:40:39.233Z",
+  "updatedAt": "2026-10-12T09:35:42.641Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "18:25",
+        "title": "台所で女性死亡 顔に出血伴う傷",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598531?source=rss",
+        "publishedAt": "2026-10-12T09:25:27.000Z"
+      },
+      {
         "time": "17:10",
         "title": "工場火災 10h超も鎮火めど立たず",
         "source": "Yahoo!ニュース",
@@ -161,13 +168,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598490?source=rss",
         "publishedAt": "2026-10-12T04:14:29.000Z"
-      },
-      {
-        "time": "13:12",
-        "title": "バイクと衝突し車が炎上 1人死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598488?source=rss",
-        "publishedAt": "2026-10-12T04:12:54.000Z"
       },
       {
         "time": "10:53",
@@ -215,6 +215,13 @@
         "title": "中小企業省力化投資補助金の公募・採択情報を確認",
         "source": "中小機構",
         "url": "https://seisansei.smrj.go.jp/subsidy_info/laborsaving_subsidy.html"
+      },
+      {
+        "time": "16:00",
+        "title": "【2026年最新】中小企業向け補助金6制度まとめ｜締切・補助率・上限額一覧",
+        "source": "補助金ポータル",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Idm5vYjJtajVIYjhheTZVVTVQTXRXMndVNkRmWnVEZnZyNVRRV3ZncXZhREsxNXBqYXFZSlZmNHhLeHhkbUNRcXljRlJNWVh2ZmZrSXlsVVJsdGI5RGtBdmoxUGx1YlozMUE?oc=5",
+        "publishedAt": "2026-09-30T07:00:00.000Z"
       }
     ]
   }
