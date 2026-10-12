@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-12T14:51:14.890Z",
+  "updatedAt": "2026-10-12T15:20:11.164Z",
   "items": [
     {
       "time": "23:27",
@@ -18,6 +18,14 @@ window.LUS_X_NEWS = {
       "xQuery": "ICC制裁 赤根智子所長がコメント"
     },
     {
+      "time": "23:56",
+      "title": "台所に女性遺体 傷害疑い長男逮捕",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6598564?source=rss",
+      "publishedAt": "2026-10-12T14:56:10.000Z",
+      "xQuery": "台所に女性遺体 傷害疑い長男逮捕"
+    },
+    {
       "time": "23:00",
       "title": "マンション高騰 売れ残り値下げも",
       "source": "Yahoo!ニュース",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6598562?source=rss",
       "publishedAt": "2026-10-12T14:08:55.000Z",
       "xQuery": "マイクロソフト 新型AI半導体発表"
-    },
-    {
-      "time": "21:39",
-      "title": "setlog流行 日常を切り取るリスク",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598548?source=rss",
-      "publishedAt": "2026-10-12T12:39:11.000Z",
-      "xQuery": "setlog流行 日常を切り取るリスク"
     }
   ]
 };

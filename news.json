@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T14:51:14.153Z",
+  "updatedAt": "2026-10-12T15:20:08.263Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -52,11 +52,11 @@
         "publishedAt": "2026-10-11T22:00:00.000Z"
       },
       {
-        "time": "23:41",
-        "title": "アジア最大規模の産業展示会が中国・上海で開幕した。",
-        "source": "Vietnam.vn",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOLWxMNFl1ZVg2bTJnRHNOUV81STNLVWY1Y1RJNF9YWUhrcVpGNnQzX2lZdFdBanRtQjN2UmJlY09mUFJDbTFYanliMFZnWktoeUkzVUhyMUhNNFdVT2RzZVlSNWRvcU16SWRzS1duenFORXBsVF9PZ3V4MDRfbDVVRWpzQlA5UHNjVEhkZlBwUjNyTFAwYWFuY09nUnNDVk0?oc=5",
-        "publishedAt": "2026-10-12T14:41:16.000Z"
+        "time": "17:16",
+        "title": "【ひと・交差点】三成興業の渡辺大輔社長 よろず支援拠点の優良事例で表彰",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAtTmN0MU4wOTdRN2RPTjkwZGFCaVdHZWFrRENUNkJ5cmtaT29laDNWdklNU3R4MVctSURGemJ5dV9mNmVBZ3YxME50UXNXbmxuYlE?oc=5",
+        "publishedAt": "2026-10-12T08:16:03.000Z"
       }
     ],
     "worldHeadlines": [
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "23:56",
+        "title": "台所に女性遺体 傷害疑い長男逮捕",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598564?source=rss",
+        "publishedAt": "2026-10-12T14:56:10.000Z"
+      },
+      {
         "time": "21:12",
         "title": "車と衝突し11歳重傷 ひき逃げか",
         "source": "Yahoo!ニュース",
@@ -161,13 +168,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598535?source=rss",
         "publishedAt": "2026-10-12T10:21:28.000Z"
-      },
-      {
-        "time": "18:25",
-        "title": "台所で女性死亡 顔に出血伴う傷",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598531?source=rss",
-        "publishedAt": "2026-10-12T09:25:27.000Z"
       },
       {
         "time": "13:14",
