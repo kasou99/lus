@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T17:43:27.373Z",
+  "updatedAt": "2026-10-12T18:23:31.498Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,18 +31,18 @@
         "publishedAt": "2026-10-11T21:00:00.000Z"
       },
       {
-        "time": "06:39",
-        "title": "シリーズ最速の処理性能を備えるCPUユニットを追加／安川電機",
-        "source": "robot digest",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9jeDY2UTRvbDY1MFRZLTREbG5nRE5IMEhBQ2l4bGg2bHZ5OWpwcDVTMU4ybHN0Z2NfTUh0RHZGYkhleUJOVHdIZC1RdWlBU0tVOEc1T0RjaERORXh3cmhfUnZaSEtCX2VpTmdN?oc=5",
-        "publishedAt": "2026-10-11T21:39:42.000Z"
-      },
-      {
         "time": "19:03",
         "title": "日本の電気配線相互接続システム市場2026年版",
         "source": "pando.life",
         "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5xc1N0ZXRpaDJmSHJILUVkaTdOazUzLTRlM3RlQWtNcjRoVGRqMmNHVXVTN2Q2Q1ZjMXpXWGVGbzF4emZLaURkZmZB?oc=5",
         "publishedAt": "2026-10-12T10:03:54.000Z"
+      },
+      {
+        "time": "06:39",
+        "title": "シリーズ最速の処理性能を備えるCPUユニットを追加／安川電機",
+        "source": "robot digest",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9jeDY2UTRvbDY1MFRZLTREbG5nRE5IMEhBQ2l4bGg2bHZ5OWpwcDVTMU4ybHN0Z2NfTUh0RHZGYkhleUJOVHdIZC1RdWlBU0tVOEc1T0RjaERORXh3cmhfUnZaSEtCX2VpTmdN?oc=5",
+        "publishedAt": "2026-10-11T21:39:42.000Z"
       },
       {
         "time": "07:00",
