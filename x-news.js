@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-12T05:49:49.076Z",
+  "updatedAt": "2026-10-12T06:48:09.833Z",
   "items": [
     {
-      "time": "13:36",
-      "title": "1週間天気 高温傾向が続く見込み",
+      "time": "14:50",
+      "title": "公明・岡本氏 自民含め連携目指す",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598493?source=rss",
-      "publishedAt": "2026-10-12T04:36:28.000Z",
-      "xQuery": "1週間天気 高温傾向が続く見込み"
+      "url": "https://news.yahoo.co.jp/pickup/6598505?source=rss",
+      "publishedAt": "2026-10-12T05:50:09.000Z",
+      "xQuery": "公明・岡本氏 自民含め連携目指す"
     },
     {
-      "time": "12:14",
-      "title": "サウジの空港 フーシ派が再び攻撃",
+      "time": "12:52",
+      "title": "欧州首脳ら ウクライナへ連帯表明",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598483?source=rss",
-      "publishedAt": "2026-10-12T03:14:10.000Z",
-      "xQuery": "サウジの空港 フーシ派が再び攻撃"
+      "url": "https://news.yahoo.co.jp/pickup/6598489?source=rss",
+      "publishedAt": "2026-10-12T03:52:45.000Z",
+      "xQuery": "欧州首脳ら ウクライナへ連帯表明"
     },
     {
       "time": "13:12",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "住宅で女児死亡 外傷なく死因不明"
     },
     {
-      "time": "14:22",
-      "title": "店員へ社販強要はパワハラか 見解",
+      "time": "14:24",
+      "title": "モヤシ生産者減少 ラーメン店悲鳴",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598500?source=rss",
-      "publishedAt": "2026-10-12T05:22:11.000Z",
-      "xQuery": "店員へ社販強要はパワハラか 見解"
+      "url": "https://news.yahoo.co.jp/pickup/6598503?source=rss",
+      "publishedAt": "2026-10-12T05:24:43.000Z",
+      "xQuery": "モヤシ生産者減少 ラーメン店悲鳴"
     }
   ]
 };

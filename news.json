@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T05:49:48.190Z",
+  "updatedAt": "2026-10-12T06:48:08.515Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -61,6 +61,13 @@
     ],
     "worldHeadlines": [
       {
+        "time": "15:38",
+        "title": "北発射 韓国ミサイルへの抗議か",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598514?source=rss",
+        "publishedAt": "2026-10-12T06:38:03.000Z"
+      },
+      {
         "time": "12:14",
         "title": "サウジの空港 フーシ派が再び攻撃",
         "source": "Yahoo!ニュース",
@@ -87,13 +94,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598444?source=rss",
         "publishedAt": "2026-10-11T15:18:09.000Z"
-      },
-      {
-        "time": "22:51",
-        "title": "ウ軍「露のGoogle」を相次ぎ攻撃",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598438?source=rss",
-        "publishedAt": "2026-10-11T13:51:26.000Z"
       },
       {
         "time": "07:56",
