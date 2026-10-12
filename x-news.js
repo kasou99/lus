@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-12T12:40:26.043Z",
+  "updatedAt": "2026-10-12T13:39:54.273Z",
   "items": [
     {
-      "time": "19:42",
-      "title": "ノーベル経済学賞 米大教授2人に",
+      "time": "20:25",
+      "title": "ICC制裁 赤根智子所長がコメント",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598538?source=rss",
-      "publishedAt": "2026-10-12T10:42:51.000Z",
-      "xQuery": "ノーベル経済学賞 米大教授2人に"
+      "url": "https://news.yahoo.co.jp/pickup/6598542?source=rss",
+      "publishedAt": "2026-10-12T11:25:28.000Z",
+      "xQuery": "ICC制裁 赤根智子所長がコメント"
     },
     {
       "time": "20:47",
@@ -18,28 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "共産党 野党共闘路線を転換方針"
     },
     {
-      "time": "18:08",
-      "title": "パリ最古 屋根付きマーケット全焼",
+      "time": "21:58",
+      "title": "木にみこし衝突 中学生ら5人けが",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598530?source=rss",
-      "publishedAt": "2026-10-12T09:08:31.000Z",
-      "xQuery": "パリ最古 屋根付きマーケット全焼"
+      "url": "https://news.yahoo.co.jp/pickup/6598550?source=rss",
+      "publishedAt": "2026-10-12T12:58:40.000Z",
+      "xQuery": "木にみこし衝突 中学生ら5人けが"
     },
     {
-      "time": "21:12",
-      "title": "車と衝突し11歳重傷 ひき逃げか",
+      "time": "19:40",
+      "title": "だんじり死傷事故 伝統か安全か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598545?source=rss",
-      "publishedAt": "2026-10-12T12:12:57.000Z",
-      "xQuery": "車と衝突し11歳重傷 ひき逃げか"
+      "url": "https://news.yahoo.co.jp/pickup/6598537?source=rss",
+      "publishedAt": "2026-10-12T10:40:49.000Z",
+      "xQuery": "だんじり死傷事故 伝統か安全か"
     },
     {
-      "time": "18:10",
-      "title": "銀座で地べた座る観光客 警察困惑",
+      "time": "21:39",
+      "title": "setlog流行 日常を切り取るリスク",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598529?source=rss",
-      "publishedAt": "2026-10-12T09:10:15.000Z",
-      "xQuery": "銀座で地べた座る観光客 警察困惑"
+      "url": "https://news.yahoo.co.jp/pickup/6598548?source=rss",
+      "publishedAt": "2026-10-12T12:39:11.000Z",
+      "xQuery": "setlog流行 日常を切り取るリスク"
     }
   ]
 };
