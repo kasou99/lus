@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T11:18:58.293Z",
+  "updatedAt": "2026-10-12T11:44:51.011Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -82,6 +82,13 @@
         "publishedAt": "2026-10-12T03:14:10.000Z"
       },
       {
+        "time": "20:25",
+        "title": "ICC制裁 赤根智子所長がコメント",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598542?source=rss",
+        "publishedAt": "2026-10-12T11:25:28.000Z"
+      },
+      {
         "time": "16:49",
         "title": "英首相 EU離脱投票「露が干渉」",
         "source": "Yahoo!ニュース",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598489?source=rss",
         "publishedAt": "2026-10-12T03:52:45.000Z"
-      },
-      {
-        "time": "07:56",
-        "title": "米ウ首脳 露軽油の制裁緩和で応酬",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598451?source=rss",
-        "publishedAt": "2026-10-11T22:56:33.000Z"
       }
     ],
     "economyHeadlines": [
@@ -133,18 +133,18 @@
         "publishedAt": "2026-10-12T07:42:52.000Z"
       },
       {
-        "time": "20:34",
-        "title": "個人M&Aで多額損失「恋は盲目」",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598418?source=rss",
-        "publishedAt": "2026-10-11T11:34:55.000Z"
-      },
-      {
         "time": "14:22",
         "title": "店員へ社販強要はパワハラか 見解",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598500?source=rss",
         "publishedAt": "2026-10-12T05:22:11.000Z"
+      },
+      {
+        "time": "22:42",
+        "title": "停車前にTXドア開く 客が操作か",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598435?source=rss",
+        "publishedAt": "2026-10-11T13:42:08.000Z"
       }
     ],
     "localHeadlines": [

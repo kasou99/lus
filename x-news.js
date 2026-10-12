@@ -1,13 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-12T11:18:59.347Z",
+  "updatedAt": "2026-10-12T11:44:51.602Z",
   "items": [
     {
-      "time": "18:54",
-      "title": "北ミサイル一部 変則飛行の可能性",
+      "time": "19:42",
+      "title": "ノーベル経済学賞 米大教授2人に",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598534?source=rss",
-      "publishedAt": "2026-10-12T09:54:17.000Z",
-      "xQuery": "北ミサイル一部 変則飛行の可能性"
+      "url": "https://news.yahoo.co.jp/pickup/6598538?source=rss",
+      "publishedAt": "2026-10-12T10:42:51.000Z",
+      "xQuery": "ノーベル経済学賞 米大教授2人に"
+    },
+    {
+      "time": "19:32",
+      "title": "情報流出に政府苦慮 打つ手乏しく",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6598536?source=rss",
+      "publishedAt": "2026-10-12T10:32:19.000Z",
+      "xQuery": "情報流出に政府苦慮 打つ手乏しく"
     },
     {
       "time": "18:08",
@@ -18,28 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "パリ最古 屋根付きマーケット全焼"
     },
     {
-      "time": "16:18",
-      "title": "休校いつまで クマ対応に学校苦慮",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598517?source=rss",
-      "publishedAt": "2026-10-12T07:18:06.000Z",
-      "xQuery": "休校いつまで クマ対応に学校苦慮"
-    },
-    {
-      "time": "19:21",
-      "title": "解体現場で鋼材の下敷き 男性死亡",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598535?source=rss",
-      "publishedAt": "2026-10-12T10:21:28.000Z",
-      "xQuery": "解体現場で鋼材の下敷き 男性死亡"
-    },
-    {
       "time": "18:25",
       "title": "台所で女性死亡 顔に出血伴う傷",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6598531?source=rss",
       "publishedAt": "2026-10-12T09:25:27.000Z",
       "xQuery": "台所で女性死亡 顔に出血伴う傷"
+    },
+    {
+      "time": "18:10",
+      "title": "銀座で地べた座る観光客 警察困惑",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6598529?source=rss",
+      "publishedAt": "2026-10-12T09:10:15.000Z",
+      "xQuery": "銀座で地べた座る観光客 警察困惑"
     }
   ]
 };
