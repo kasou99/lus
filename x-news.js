@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-12T03:04:19.450Z",
+  "updatedAt": "2026-10-12T03:59:11.837Z",
   "items": [
     {
       "time": "11:23",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "原潜導入論 政治主導で議論曲折も"
     },
     {
-      "time": "08:23",
-      "title": "ジブチ沖で移民船転覆 139人死亡",
+      "time": "12:14",
+      "title": "サウジの空港 フーシ派が再び攻撃",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598457?source=rss",
-      "publishedAt": "2026-10-11T23:23:05.000Z",
-      "xQuery": "ジブチ沖で移民船転覆 139人死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6598483?source=rss",
+      "publishedAt": "2026-10-12T03:14:10.000Z",
+      "xQuery": "サウジの空港 フーシ派が再び攻撃"
     },
     {
       "time": "10:53",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "キャンプ場の池に高齢男性 死亡"
     },
     {
-      "time": "10:42",
-      "title": "中野窃盗 被告は国際的窃盗団か",
+      "time": "10:03",
+      "title": "アシックスとナイキ なぜ「明暗」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598475?source=rss",
-      "publishedAt": "2026-10-12T01:42:07.000Z",
-      "xQuery": "中野窃盗 被告は国際的窃盗団か"
+      "url": "https://news.yahoo.co.jp/pickup/6598467?source=rss",
+      "publishedAt": "2026-10-12T01:03:13.000Z",
+      "xQuery": "アシックスとナイキ なぜ「明暗」"
     }
   ]
 };

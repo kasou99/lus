@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T03:04:18.570Z",
+  "updatedAt": "2026-10-12T03:59:10.403Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -61,11 +61,25 @@
     ],
     "worldHeadlines": [
       {
-        "time": "10:19",
-        "title": "北が2度ミサイル EEZ外に落下か",
+        "time": "12:14",
+        "title": "サウジの空港 フーシ派が再び攻撃",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598471?source=rss",
-        "publishedAt": "2026-10-12T01:19:09.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6598483?source=rss",
+        "publishedAt": "2026-10-12T03:14:10.000Z"
+      },
+      {
+        "time": "08:18",
+        "title": "サウジの安保が悪化 米国支援鈍く",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598456?source=rss",
+        "publishedAt": "2026-10-11T23:18:03.000Z"
+      },
+      {
+        "time": "12:52",
+        "title": "欧州首脳ら ウクライナへ連帯表明",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598489?source=rss",
+        "publishedAt": "2026-10-12T03:52:45.000Z"
       },
       {
         "time": "00:18",
@@ -87,20 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598451?source=rss",
         "publishedAt": "2026-10-11T22:56:33.000Z"
-      },
-      {
-        "time": "08:18",
-        "title": "サウジの安保が悪化 米国支援鈍く",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598456?source=rss",
-        "publishedAt": "2026-10-11T23:18:03.000Z"
-      },
-      {
-        "time": "23:36",
-        "title": "ネパールで再び土石流 5人不明",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598442?source=rss",
-        "publishedAt": "2026-10-11T14:36:25.000Z"
       }
     ],
     "economyHeadlines": [
