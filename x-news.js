@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-12T02:10:23.214Z",
+  "updatedAt": "2026-10-12T03:04:19.450Z",
   "items": [
     {
-      "time": "10:19",
-      "title": "北が2度ミサイル EEZ外に落下か",
+      "time": "11:23",
+      "title": "原潜導入論 政治主導で議論曲折も",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598471?source=rss",
-      "publishedAt": "2026-10-12T01:19:09.000Z",
-      "xQuery": "北が2度ミサイル EEZ外に落下か"
+      "url": "https://news.yahoo.co.jp/pickup/6598478?source=rss",
+      "publishedAt": "2026-10-12T02:23:45.000Z",
+      "xQuery": "原潜導入論 政治主導で議論曲折も"
     },
     {
-      "time": "08:18",
-      "title": "サウジの安保が悪化 米国支援鈍く",
+      "time": "08:23",
+      "title": "ジブチ沖で移民船転覆 139人死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598456?source=rss",
-      "publishedAt": "2026-10-11T23:18:03.000Z",
-      "xQuery": "サウジの安保が悪化 米国支援鈍く"
+      "url": "https://news.yahoo.co.jp/pickup/6598457?source=rss",
+      "publishedAt": "2026-10-11T23:23:05.000Z",
+      "xQuery": "ジブチ沖で移民船転覆 139人死亡"
     },
     {
       "time": "10:53",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "ひき逃げ疑い逮捕 仕事継続と供述"
     },
     {
+      "time": "11:48",
+      "title": "キャンプ場の池に高齢男性 死亡",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6598479?source=rss",
+      "publishedAt": "2026-10-12T02:48:20.000Z",
+      "xQuery": "キャンプ場の池に高齢男性 死亡"
+    },
+    {
       "time": "10:42",
       "title": "中野窃盗 被告は国際的窃盗団か",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6598475?source=rss",
       "publishedAt": "2026-10-12T01:42:07.000Z",
       "xQuery": "中野窃盗 被告は国際的窃盗団か"
-    },
-    {
-      "time": "10:03",
-      "title": "アシックスとナイキ なぜ「明暗」",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598467?source=rss",
-      "publishedAt": "2026-10-12T01:03:13.000Z",
-      "xQuery": "アシックスとナイキ なぜ「明暗」"
     }
   ]
 };
