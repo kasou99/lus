@@ -1,6 +1,22 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-12T22:42:33.278Z",
+  "updatedAt": "2026-10-12T23:17:34.390Z",
   "items": [
+    {
+      "time": "07:44",
+      "title": "予算委 野党は簗氏の発言を追及へ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6598573?source=rss",
+      "publishedAt": "2026-10-12T22:44:47.000Z",
+      "xQuery": "予算委 野党は簗氏の発言を追及へ"
+    },
+    {
+      "time": "07:30",
+      "title": "JR東の法廷無断録音 新たに確認",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6598571?source=rss",
+      "publishedAt": "2026-10-12T22:30:13.000Z",
+      "xQuery": "JR東の法廷無断録音 新たに確認"
+    },
     {
       "time": "06:09",
       "title": "九州新幹線 全線で運転見合わせ",
@@ -8,22 +24,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6598565?source=rss",
       "publishedAt": "2026-10-12T21:09:16.000Z",
       "xQuery": "九州新幹線 全線で運転見合わせ"
-    },
-    {
-      "time": "23:27",
-      "title": "財務相 世銀IMF合同開発委議長に",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598563?source=rss",
-      "publishedAt": "2026-10-12T14:27:58.000Z",
-      "xQuery": "財務相 世銀IMF合同開発委議長に"
-    },
-    {
-      "time": "20:25",
-      "title": "ICC制裁 赤根智子所長がコメント",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598542?source=rss",
-      "publishedAt": "2026-10-12T11:25:28.000Z",
-      "xQuery": "ICC制裁 赤根智子所長がコメント"
     },
     {
       "time": "06:21",

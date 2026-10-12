@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-10-12T22:42:32.530Z",
+  "updatedAt": "2026-10-12T23:17:33.393Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "07:30",
+        "title": "シチズンマシナリーが旋盤でマシニング領域へ、より小径高精度で成長：工作機械（1/2 ページ）",
+        "source": "MONOist",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4zRnlPWV96ZXEyc2hvLUVCMW01dkdoaE5QT3JRVG53WlZBaEJ2RnRwWjVvaTRZbkRuOEp2UDdTdVdyU1hFSnZaR1NMRE15alZZX3BjNi1WcWF3cVpDWDVkT0ZUbEh4dGI5eVdXZzdnYw?oc=5",
+        "publishedAt": "2026-10-12T22:30:00.000Z"
+      },
+      {
+        "time": "08:00",
+        "title": "コスモとGE、製油所の設備保全高度化に向けた覚書を締結 - 生成AIなどを活用して次世代の設備保全を推進",
+        "source": "Infoseek",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1icFRGQXM0N3RfR0h5QWpFYmR6V3FUekdaR1Z4UkNwbXF2cGZWdmhaOWZvdTJfQVBoamg0dEZIVm8zQmlZdnRrem9iRlNSMEx4WDZfdDUyX2xTd2h2Z25VWQ?oc=5",
+        "publishedAt": "2026-10-12T23:00:00.000Z"
+      },
       {
         "time": "06:03",
         "title": "「ここはシュンク」増やす／シュンク・ジャパン 関谷行矩社長",
@@ -43,20 +57,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598538?source=rss",
         "publishedAt": "2026-10-12T10:42:51.000Z"
-      },
-      {
-        "time": "23:00",
-        "title": "マンション高騰 売れ残り値下げも",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598560?source=rss",
-        "publishedAt": "2026-10-12T14:00:00.000Z"
-      },
-      {
-        "time": "07:40",
-        "title": "米スタバ チポトレ買収を否定",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598572?source=rss",
-        "publishedAt": "2026-10-12T22:40:14.000Z"
       }
     ],
     "worldHeadlines": [
@@ -68,6 +68,13 @@
         "publishedAt": "2026-10-12T11:25:28.000Z"
       },
       {
+        "time": "08:16",
+        "title": "平和賞のピレイ氏 ICC職員を激励",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598576?source=rss",
+        "publishedAt": "2026-10-12T23:16:04.000Z"
+      },
+      {
         "time": "12:14",
         "title": "サウジの空港 フーシ派が再び攻撃",
         "source": "Yahoo!ニュース",
@@ -75,11 +82,11 @@
         "publishedAt": "2026-10-12T03:14:10.000Z"
       },
       {
-        "time": "15:38",
-        "title": "北発射 韓国ミサイルへの抗議か",
+        "time": "08:10",
+        "title": "英基地事件はイラン関与 共同声明",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598514?source=rss",
-        "publishedAt": "2026-10-12T06:38:03.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6598574?source=rss",
+        "publishedAt": "2026-10-12T23:10:20.000Z"
       },
       {
         "time": "16:49",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598489?source=rss",
         "publishedAt": "2026-10-12T03:52:45.000Z"
-      },
-      {
-        "time": "08:23",
-        "title": "ジブチ沖で移民船転覆 139人死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598457?source=rss",
-        "publishedAt": "2026-10-11T23:23:05.000Z"
       }
     ],
     "economyHeadlines": [
