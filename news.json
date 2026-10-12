@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T20:19:44.912Z",
+  "updatedAt": "2026-10-12T20:45:20.050Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -8,20 +8,6 @@
         "source": "山口新聞 電子版",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE94TmJIanBnci0yYVRHZGtsWEJNcV93cDEyNDE3c2I4akR0cXNNaWZjbm9xQVN6Nkl6N2FHUjdINTJ0bDhHVHFvTGxWbHhHVFowNkdLNjQtbWJxNi1heG1LLWxoM2VBNi1rNmc?oc=5",
         "publishedAt": "2026-10-11T21:00:00.000Z"
-      },
-      {
-        "time": "05:25",
-        "title": "工作機械のＦＵＪＩ 非自動車市場 開拓に力 チャックのノウハウ生かす",
-        "source": "ｄメニューニュース",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUzBvUmNnc3l6UVFndXZ0OVU1NXZZQVdadjFBWTFqcTJPZTl4QVVqTVdpdDFhVGVxMVZiQVQ2ZDBYMUxjSlNQU1M1LWlXYmFWTzVlV21HNDdfMkNKWjhPR05IRVFGc2hYeWZGenpqRWR2eXVzSTZNUUZsYmtSRDZRRU5EYUJXOGlCS1BRZ2dn0gGTAUFVX3lxTE9DQ3MtYnpKRWRrS1YzSnJzc0lFTHdfektzT2NfMzNSLXQxMExvbXhRcWJ4NUNQeGtwdlptOFo4WWUyM2tIWDNjRENnTlNReTE4OHFVN2szdlFBbHBrbHdWSmZOdDE4eUU2VV9QVnNMRUtDV1VXNi1Ia2RSc09nZnRPazEzMEc0X0J5UnNNOUVxOWhOTQ?oc=5",
-        "publishedAt": "2026-10-11T20:25:58.000Z"
-      },
-      {
-        "time": "19:03",
-        "title": "日本の電気配線相互接続システム市場2026年版",
-        "source": "pando.life",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5xc1N0ZXRpaDJmSHJILUVkaTdOazUzLTRlM3RlQWtNcjRoVGRqMmNHVXVTN2Q2Q1ZjMXpXWGVGbzF4emZLaURkZmZB?oc=5",
-        "publishedAt": "2026-10-12T10:03:54.000Z"
       },
       {
         "time": "06:39",
@@ -38,11 +24,11 @@
         "publishedAt": "2026-10-12T14:41:16.000Z"
       },
       {
-        "time": "17:16",
-        "title": "【ひと・交差点】三成興業の渡辺大輔社長 よろず支援拠点の優良事例で表彰",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAtTmN0MU4wOTdRN2RPTjkwZGFCaVdHZWFrRENUNkJ5cmtaT29laDNWdklNU3R4MVctSURGemJ5dV9mNmVBZ3YxME50UXNXbmxuYlE?oc=5",
-        "publishedAt": "2026-10-12T08:16:03.000Z"
+        "time": "19:03",
+        "title": "日本の電気配線相互接続システム市場2026年版",
+        "source": "pando.life",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5xc1N0ZXRpaDJmSHJILUVkaTdOazUzLTRlM3RlQWtNcjRoVGRqMmNHVXVTN2Q2Q1ZjMXpXWGVGbzF4emZLaURkZmZB?oc=5",
+        "publishedAt": "2026-10-12T10:03:54.000Z"
       },
       {
         "time": "07:00",
@@ -52,11 +38,25 @@
         "publishedAt": "2026-10-11T22:00:00.000Z"
       },
       {
+        "time": "17:16",
+        "title": "【ひと・交差点】三成興業の渡辺大輔社長 よろず支援拠点の優良事例で表彰",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAtTmN0MU4wOTdRN2RPTjkwZGFCaVdHZWFrRENUNkJ5cmtaT29laDNWdklNU3R4MVctSURGemJ5dV9mNmVBZ3YxME50UXNXbmxuYlE?oc=5",
+        "publishedAt": "2026-10-12T08:16:03.000Z"
+      },
+      {
         "time": "19:42",
         "title": "ノーベル経済学賞 米大教授2人に",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598538?source=rss",
         "publishedAt": "2026-10-12T10:42:51.000Z"
+      },
+      {
+        "time": "23:00",
+        "title": "マンション高騰 売れ残り値下げも",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598560?source=rss",
+        "publishedAt": "2026-10-12T14:00:00.000Z"
       }
     ],
     "worldHeadlines": [
