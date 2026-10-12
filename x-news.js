@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-12T05:25:27.146Z",
+  "updatedAt": "2026-10-12T05:49:49.076Z",
   "items": [
     {
       "time": "13:36",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "住宅で女児死亡 外傷なく死因不明"
     },
     {
-      "time": "11:48",
-      "title": "キャンプ場の池に高齢男性 死亡",
+      "time": "14:22",
+      "title": "店員へ社販強要はパワハラか 見解",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598479?source=rss",
-      "publishedAt": "2026-10-12T02:48:20.000Z",
-      "xQuery": "キャンプ場の池に高齢男性 死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6598500?source=rss",
+      "publishedAt": "2026-10-12T05:22:11.000Z",
+      "xQuery": "店員へ社販強要はパワハラか 見解"
     }
   ]
 };

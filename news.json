@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T05:25:26.277Z",
+  "updatedAt": "2026-10-12T05:49:48.190Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -133,18 +133,18 @@
         "publishedAt": "2026-10-11T11:34:55.000Z"
       },
       {
-        "time": "18:20",
-        "title": "続くサケ密漁 地元の怒りは頂点に",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598405?source=rss",
-        "publishedAt": "2026-10-11T09:20:33.000Z"
-      },
-      {
         "time": "14:22",
         "title": "店員へ社販強要はパワハラか 見解",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598500?source=rss",
         "publishedAt": "2026-10-12T05:22:11.000Z"
+      },
+      {
+        "time": "22:42",
+        "title": "停車前にTXドア開く 客が操作か",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598435?source=rss",
+        "publishedAt": "2026-10-11T13:42:08.000Z"
       }
     ],
     "localHeadlines": [
