@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-12T04:33:38.862Z",
+  "updatedAt": "2026-10-12T05:25:27.146Z",
   "items": [
     {
-      "time": "11:23",
-      "title": "原潜導入論 政治主導で議論曲折も",
+      "time": "13:36",
+      "title": "1週間天気 高温傾向が続く見込み",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598478?source=rss",
-      "publishedAt": "2026-10-12T02:23:45.000Z",
-      "xQuery": "原潜導入論 政治主導で議論曲折も"
+      "url": "https://news.yahoo.co.jp/pickup/6598493?source=rss",
+      "publishedAt": "2026-10-12T04:36:28.000Z",
+      "xQuery": "1週間天気 高温傾向が続く見込み"
     },
     {
       "time": "12:14",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "サウジの空港 フーシ派が再び攻撃"
     },
     {
+      "time": "13:12",
+      "title": "バイクと衝突し車が炎上 1人死亡",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6598488?source=rss",
+      "publishedAt": "2026-10-12T04:12:54.000Z",
+      "xQuery": "バイクと衝突し車が炎上 1人死亡"
+    },
+    {
       "time": "13:14",
       "title": "住宅で女児死亡 外傷なく死因不明",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6598490?source=rss",
       "publishedAt": "2026-10-12T04:14:29.000Z",
       "xQuery": "住宅で女児死亡 外傷なく死因不明"
-    },
-    {
-      "time": "10:53",
-      "title": "ひき逃げ疑い逮捕 仕事継続と供述",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598476?source=rss",
-      "publishedAt": "2026-10-12T01:53:25.000Z",
-      "xQuery": "ひき逃げ疑い逮捕 仕事継続と供述"
     },
     {
       "time": "11:48",
