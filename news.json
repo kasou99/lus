@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T09:35:42.641Z",
+  "updatedAt": "2026-10-12T10:23:48.649Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,6 +31,20 @@
         "publishedAt": "2026-10-11T21:00:00.000Z"
       },
       {
+        "time": "19:03",
+        "title": "日本の電気配線相互接続システム市場2026年版",
+        "source": "pando.life",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5xc1N0ZXRpaDJmSHJILUVkaTdOazUzLTRlM3RlQWtNcjRoVGRqMmNHVXVTN2Q2Q1ZjMXpXWGVGbzF4emZLaURkZmZB?oc=5",
+        "publishedAt": "2026-10-12T10:03:54.000Z"
+      },
+      {
+        "time": "20:09",
+        "title": "丸文、9月16日から開催の「JIMA2026 第13回総合検査機器展」に出展",
+        "source": "朝日新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9KNy1KM3RTLVFzY19oRU1YYkxrbGw2S3Q0ajlQdFpMekEwQ2cxSFM4VHNJTmdOcWExT2d6emdWTVgyamV4NVU0bmJCbGFfNmtCZ0VCRXZvWnVNZTg?oc=5",
+        "publishedAt": "2026-10-11T11:09:35.000Z"
+      },
+      {
         "time": "06:39",
         "title": "シリーズ最速の処理性能を備えるCPUユニットを追加／安川電機",
         "source": "robot digest",
@@ -43,23 +57,16 @@
         "source": "PRESIDENT Online（プレジデントオンライン）",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE16MUpyalRiS0RjMWk5bnE0RUFGdkZHZTh5bFdRbnJ5N3o2MmYzWW85NVJhMzJYdVh3VDlBb3o3RlFoZEd6eS1UQVMwbHkxeFlBdmFMc1duT1o0UDA?oc=5",
         "publishedAt": "2026-10-11T22:00:00.000Z"
-      },
-      {
-        "time": "05:00",
-        "title": "名鉄Ｇの雑貨店 オンセブンデイズ 森下社長に聞く 商業施設に３年ぶり新店 集客力の向上狙う",
-        "source": "ｄメニューニュース",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZURCc3Vpa1dQWC1CdTdmSnczc3BhZDd1dUdIOHhGaFpuTWllV3ZmNEg4bzJIb3A1dXZ1emYzZWVRMVE2MURiczRiRnhFV01pMXdjSzFUaFR2RjdKOUE3T0xvLXY5SDU1cllKUUtNSkdKdmJ3RmlHWlQwbXBzZ2YzaWYwaTU4MlBidFhXeS1RbnBfTDTSAZMBQVVfeXFMUGVEQnN1aWtXUFgtQnU3Zkp3M3NwYWQ3dXVHSDh4Rmhabk1pZVd2ZjRIOG8ySG9wNXV2dXpmM2VlUTFRNjFEYnM0YkZ4RVdNaTF3Y0sxVGhUdkY3SjlBN09Mby12OUg1NXJZSlFLTUpHSnZid0ZpR1pUMG1wc2dmM2lmMGk1ODJQYnRYV3ktUW5wX0w0?oc=5",
-        "publishedAt": "2026-10-11T20:00:00.000Z"
-      },
-      {
-        "time": "05:00",
-        "title": "ＶＲ活用の安全教育提案 販促・ＤＸ支援の西川コミュニケーションズ リアルな訓練へ現場再現",
-        "source": "ｄメニューニュース",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWHRpYVRnNjRxa1hOMGFsTEpxbzdidmJ5QmNjaWttdVZNbnlKVVlFaXRfMk5qTWNYdTVWcGhHNXc4RWpzdFQtYThQd0dQOEpEYmJEMURVXzR3dFB0b1VCVW43STNDNF9qcVNGekFreG9PWDlkTl9DX2g1TVpMVzV1MHI3UzhqSnZETXB0bmQ0RFBNV0HSAZMBQVVfeXFMTlh0aWFUZzY0cWtYTjBhbExKcW83YnZieUJjY2lrbXVWTW55SlVZRWl0XzJOak1jWHU1VnBoRzV3OEVqc3RULWE4UHdHUDhKRGJiRDFEVV80d3RQdG9VQlVuN0kzQzRfanFTRnpBa3hvT1g5ZE5fQ19oNU1aTFc1dTByN1M4akp2RE1wdG5kNERQTVdB?oc=5",
-        "publishedAt": "2026-10-11T20:00:00.000Z"
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "18:54",
+        "title": "北ミサイル一部 変則飛行の可能性",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598534?source=rss",
+        "publishedAt": "2026-10-12T09:54:17.000Z"
+      },
       {
         "time": "15:38",
         "title": "北発射 韓国ミサイルへの抗議か",
@@ -87,13 +94,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598489?source=rss",
         "publishedAt": "2026-10-12T03:52:45.000Z"
-      },
-      {
-        "time": "00:18",
-        "title": "エネルギー停戦発表 ウは「初耳」",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598444?source=rss",
-        "publishedAt": "2026-10-11T15:18:09.000Z"
       },
       {
         "time": "07:56",
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "19:21",
+        "title": "解体現場で鋼材の下敷き 男性死亡",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598535?source=rss",
+        "publishedAt": "2026-10-12T10:21:28.000Z"
+      },
+      {
         "time": "18:25",
         "title": "台所で女性死亡 顔に出血伴う傷",
         "source": "Yahoo!ニュース",
@@ -168,13 +175,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598490?source=rss",
         "publishedAt": "2026-10-12T04:14:29.000Z"
-      },
-      {
-        "time": "10:53",
-        "title": "ひき逃げ疑い逮捕 仕事継続と供述",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598476?source=rss",
-        "publishedAt": "2026-10-12T01:53:25.000Z"
       },
       {
         "time": "11:48",

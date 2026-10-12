@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-12T09:35:44.028Z",
+  "updatedAt": "2026-10-12T10:23:49.484Z",
   "items": [
     {
-      "time": "16:49",
-      "title": "英首相 EU離脱投票「露が干渉」",
+      "time": "18:54",
+      "title": "北ミサイル一部 変則飛行の可能性",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598522?source=rss",
-      "publishedAt": "2026-10-12T07:49:37.000Z",
-      "xQuery": "英首相 EU離脱投票「露が干渉」"
+      "url": "https://news.yahoo.co.jp/pickup/6598534?source=rss",
+      "publishedAt": "2026-10-12T09:54:17.000Z",
+      "xQuery": "北ミサイル一部 変則飛行の可能性"
     },
     {
       "time": "16:18",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "工場火災 10h超も鎮火めど立たず"
     },
     {
+      "time": "18:25",
+      "title": "台所で女性死亡 顔に出血伴う傷",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6598531?source=rss",
+      "publishedAt": "2026-10-12T09:25:27.000Z",
+      "xQuery": "台所で女性死亡 顔に出血伴う傷"
+    },
+    {
       "time": "17:36",
       "title": "ハチの巣駆除が原因か 2棟燃える",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6598525?source=rss",
       "publishedAt": "2026-10-12T08:36:41.000Z",
       "xQuery": "ハチの巣駆除が原因か 2棟燃える"
-    },
-    {
-      "time": "17:15",
-      "title": "江東花火大会 保険巡り開催ピンチ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598524?source=rss",
-      "publishedAt": "2026-10-12T08:15:06.000Z",
-      "xQuery": "江東花火大会 保険巡り開催ピンチ"
     }
   ]
 };
