@@ -1,29 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-11T23:40:59.001Z",
+  "updatedAt": "2026-10-12T01:00:37.669Z",
   "items": [
     {
-      "time": "08:30",
-      "title": "台風29号で高波 海のレジャー注意",
+      "time": "09:52",
+      "title": "北再び発射 弾道ミサイルの可能性",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598458?source=rss",
-      "publishedAt": "2026-10-11T23:30:15.000Z",
-      "xQuery": "台風29号で高波 海のレジャー注意"
+      "url": "https://news.yahoo.co.jp/pickup/6598468?source=rss",
+      "publishedAt": "2026-10-12T00:52:39.000Z",
+      "xQuery": "北再び発射 弾道ミサイルの可能性"
     },
     {
-      "time": "07:56",
-      "title": "米ウ首脳 露軽油の制裁緩和で応酬",
+      "time": "08:18",
+      "title": "サウジの安保が悪化 米国支援鈍く",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598451?source=rss",
-      "publishedAt": "2026-10-11T22:56:33.000Z",
-      "xQuery": "米ウ首脳 露軽油の制裁緩和で応酬"
+      "url": "https://news.yahoo.co.jp/pickup/6598456?source=rss",
+      "publishedAt": "2026-10-11T23:18:03.000Z",
+      "xQuery": "サウジの安保が悪化 米国支援鈍く"
     },
     {
-      "time": "07:35",
-      "title": "モトクロスバイク3台転倒 2人骨折",
+      "time": "08:55",
+      "title": "縛られた遺体 窃盗疑いの妹関与か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598450?source=rss",
-      "publishedAt": "2026-10-11T22:35:46.000Z",
-      "xQuery": "モトクロスバイク3台転倒 2人骨折"
+      "url": "https://news.yahoo.co.jp/pickup/6598462?source=rss",
+      "publishedAt": "2026-10-11T23:55:20.000Z",
+      "xQuery": "縛られた遺体 窃盗疑いの妹関与か"
     },
     {
       "time": "07:56",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "マツタケ狩りの男性 滑落し死亡"
     },
     {
-      "time": "20:08",
-      "title": "玄関先でクマに襲われる 眼球破裂",
+      "time": "08:36",
+      "title": "ワークマン 値下げと利益両立の訳",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598416?source=rss",
-      "publishedAt": "2026-10-11T11:08:01.000Z",
-      "xQuery": "玄関先でクマに襲われる 眼球破裂"
+      "url": "https://news.yahoo.co.jp/pickup/6598459?source=rss",
+      "publishedAt": "2026-10-11T23:36:40.000Z",
+      "xQuery": "ワークマン 値下げと利益両立の訳"
     }
   ]
 };

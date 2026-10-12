@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T23:40:56.731Z",
+  "updatedAt": "2026-10-12T01:00:36.788Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -24,18 +24,18 @@
         "publishedAt": "2026-10-11T21:00:00.000Z"
       },
       {
-        "time": "14:23",
-        "title": "設備保全クラウド「ミロクルカルテ」、新オプション「ミロクルAIメーター読み取り（α版）」をモノづくりフェア2026で初公開",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBWY2xSdGtWVS1mWng3c2o3NDVra1E0eVBOZWNldlNxaTNDVWNEVXNNTnVIM1BUaFVSWm9DcGcwRFNrclc3anZJSjBweGNoczJ5UEE?oc=5",
-        "publishedAt": "2026-10-11T05:23:46.000Z"
-      },
-      {
         "time": "06:02",
         "title": "シリーズ最速の処理性能を備えるCPUユニットを追加／安川電機",
         "source": "robot digest",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9jeDY2UTRvbDY1MFRZLTREbG5nRE5IMEhBQ2l4bGg2bHZ5OWpwcDVTMU4ybHN0Z2NfTUh0RHZGYkhleUJOVHdIZC1RdWlBU0tVOEc1T0RjaERORXh3cmhfUnZaSEtCX2VpTmdN?oc=5",
         "publishedAt": "2026-10-11T21:02:17.000Z"
+      },
+      {
+        "time": "14:23",
+        "title": "設備保全クラウド「ミロクルカルテ」、新オプション「ミロクルAIメーター読み取り（α版）」をモノづくりフェア2026で初公開",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBWY2xSdGtWVS1mWng3c2o3NDVra1E0eVBOZWNldlNxaTNDVWNEVXNNTnVIM1BUaFVSWm9DcGcwRFNrclc3anZJSjBweGNoczJ5UEE?oc=5",
+        "publishedAt": "2026-10-11T05:23:46.000Z"
       },
       {
         "time": "14:00",
@@ -60,6 +60,13 @@
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "09:52",
+        "title": "北再び発射 弾道ミサイルの可能性",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598468?source=rss",
+        "publishedAt": "2026-10-12T00:52:39.000Z"
+      },
       {
         "time": "00:18",
         "title": "エネルギー停戦発表 ウは「初耳」",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598442?source=rss",
         "publishedAt": "2026-10-11T14:36:25.000Z"
-      },
-      {
-        "time": "08:23",
-        "title": "ジブチ沖で移民船転覆 139人死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598457?source=rss",
-        "publishedAt": "2026-10-11T23:23:05.000Z"
       }
     ],
     "economyHeadlines": [
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "08:55",
+        "title": "縛られた遺体 窃盗疑いの妹関与か",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598462?source=rss",
+        "publishedAt": "2026-10-11T23:55:20.000Z"
+      },
+      {
         "time": "07:56",
         "title": "マツタケ狩りの男性 滑落し死亡",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598416?source=rss",
         "publishedAt": "2026-10-11T11:08:01.000Z"
-      },
-      {
-        "time": "22:52",
-        "title": "京都の「寺乗っ取り」事件 内情は",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598439?source=rss",
-        "publishedAt": "2026-10-11T13:52:55.000Z"
       }
     ],
     "subsidyHeadlines": [
