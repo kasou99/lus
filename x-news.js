@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-12T23:17:34.390Z",
+  "updatedAt": "2026-10-12T23:41:52.960Z",
   "items": [
     {
-      "time": "07:44",
-      "title": "予算委 野党は簗氏の発言を追及へ",
+      "time": "08:27",
+      "title": "正恩氏と「会うかも」トランプ氏",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598573?source=rss",
-      "publishedAt": "2026-10-12T22:44:47.000Z",
-      "xQuery": "予算委 野党は簗氏の発言を追及へ"
+      "url": "https://news.yahoo.co.jp/pickup/6598577?source=rss",
+      "publishedAt": "2026-10-12T23:27:12.000Z",
+      "xQuery": "正恩氏と「会うかも」トランプ氏"
     },
     {
       "time": "07:30",
