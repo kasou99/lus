@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-12T07:46:54.855Z",
+  "updatedAt": "2026-10-12T08:40:40.067Z",
   "items": [
     {
       "time": "14:50",
@@ -10,36 +10,36 @@ window.LUS_X_NEWS = {
       "xQuery": "公明・岡本氏 自民含め連携目指す"
     },
     {
-      "time": "12:52",
-      "title": "欧州首脳ら ウクライナへ連帯表明",
+      "time": "16:49",
+      "title": "英首相 EU離脱投票「露が干渉」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598489?source=rss",
-      "publishedAt": "2026-10-12T03:52:45.000Z",
-      "xQuery": "欧州首脳ら ウクライナへ連帯表明"
+      "url": "https://news.yahoo.co.jp/pickup/6598522?source=rss",
+      "publishedAt": "2026-10-12T07:49:37.000Z",
+      "xQuery": "英首相 EU離脱投票「露が干渉」"
     },
     {
-      "time": "15:38",
-      "title": "北発射 韓国ミサイルへの抗議か",
+      "time": "16:42",
+      "title": "渋谷駅で事故 山手線一時見合わせ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598514?source=rss",
-      "publishedAt": "2026-10-12T06:38:03.000Z",
-      "xQuery": "北発射 韓国ミサイルへの抗議か"
+      "url": "https://news.yahoo.co.jp/pickup/6598520?source=rss",
+      "publishedAt": "2026-10-12T07:42:52.000Z",
+      "xQuery": "渋谷駅で事故 山手線一時見合わせ"
     },
     {
-      "time": "14:24",
-      "title": "モヤシ生産者減少 ラーメン店悲鳴",
+      "time": "17:10",
+      "title": "工場火災 10h超も鎮火めど立たず",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598503?source=rss",
-      "publishedAt": "2026-10-12T05:24:43.000Z",
-      "xQuery": "モヤシ生産者減少 ラーメン店悲鳴"
+      "url": "https://news.yahoo.co.jp/pickup/6598523?source=rss",
+      "publishedAt": "2026-10-12T08:10:11.000Z",
+      "xQuery": "工場火災 10h超も鎮火めど立たず"
     },
     {
-      "time": "16:13",
-      "title": "豪雨の中6歳と4歳迷子 夫婦が保護",
+      "time": "14:26",
+      "title": "孫育てで世代間トラブル 防ぐには",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598516?source=rss",
-      "publishedAt": "2026-10-12T07:13:38.000Z",
-      "xQuery": "豪雨の中6歳と4歳迷子 夫婦が保護"
+      "url": "https://news.yahoo.co.jp/pickup/6598501?source=rss",
+      "publishedAt": "2026-10-12T05:26:27.000Z",
+      "xQuery": "孫育てで世代間トラブル 防ぐには"
     }
   ]
 };

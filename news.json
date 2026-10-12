@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T07:46:53.923Z",
+  "updatedAt": "2026-10-12T08:40:39.233Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -7,6 +7,13 @@
         "title": "工作機械のＦＵＪＩ 非自動車市場 開拓に力 チャックのノウハウ生かす",
         "source": "中部経済新聞",
         "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1mbFR5RlBiSXUxZlVENFZDTWpHMXB0Y1p2eVpQZlYxdldmU0g2V2dZVWthQkVxOHRob3NscUpTZVZZNkxNWHB5NXFhLUFJVHQxOXBSSnFFbFJTem4wUjUwV28xSEVnN29PNmllOGdzcVgxX2s?oc=5",
+        "publishedAt": "2026-10-11T20:00:00.000Z"
+      },
+      {
+        "time": "05:00",
+        "title": "工作機械4社、9月の受注53％増 米中好調続く",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9WWndyVWc5U1ZfakVueExHVlBDaVFKQWVVNjFYZ1pmQl9waEI4dF9sVjBQa2o1V1pRZjJQVU5EZE5NX2hUNHNVZDZwWl8yMVpTOV9qcWlnRGw?oc=5",
         "publishedAt": "2026-10-11T20:00:00.000Z"
       },
       {
@@ -29,13 +36,6 @@
         "source": "robot digest",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9jeDY2UTRvbDY1MFRZLTREbG5nRE5IMEhBQ2l4bGg2bHZ5OWpwcDVTMU4ybHN0Z2NfTUh0RHZGYkhleUJOVHdIZC1RdWlBU0tVOEc1T0RjaERORXh3cmhfUnZaSEtCX2VpTmdN?oc=5",
         "publishedAt": "2026-10-11T21:39:42.000Z"
-      },
-      {
-        "time": "05:00",
-        "title": "経営ひと言／アースブレイン・四家千佳史会長「誰でも図面作成」",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE80WDNxUXFqbU9SZnAxMmprc1FONlFmY1l4d1FWT2N2bGFRaFdDaU9NQlN5Yi0wWlFZQVhZRkVkS2pzaUFtd1FmRE5rTlk2cWhfeHVBRm1mYmdUMDhYN2Z0Rk1RX0ptY21HdmxXWEI0OVpZamU5azBGTGNNcw?oc=5",
-        "publishedAt": "2026-10-11T20:00:00.000Z"
       },
       {
         "time": "07:00",
@@ -75,11 +75,11 @@
         "publishedAt": "2026-10-12T03:14:10.000Z"
       },
       {
-        "time": "08:18",
-        "title": "サウジの安保が悪化 米国支援鈍く",
+        "time": "16:49",
+        "title": "英首相 EU離脱投票「露が干渉」",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598456?source=rss",
-        "publishedAt": "2026-10-11T23:18:03.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6598522?source=rss",
+        "publishedAt": "2026-10-12T07:49:37.000Z"
       },
       {
         "time": "12:52",
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "17:10",
+        "title": "工場火災 10h超も鎮火めど立たず",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598523?source=rss",
+        "publishedAt": "2026-10-12T08:10:11.000Z"
+      },
+      {
         "time": "13:14",
         "title": "住宅で女児死亡 外傷なく死因不明",
         "source": "Yahoo!ニュース",
@@ -170,25 +177,18 @@
         "publishedAt": "2026-10-12T01:53:25.000Z"
       },
       {
-        "time": "08:55",
-        "title": "縛られた遺体 窃盗疑いの妹関与か",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598462?source=rss",
-        "publishedAt": "2026-10-11T23:55:20.000Z"
-      },
-      {
-        "time": "10:42",
-        "title": "中野窃盗 被告は国際的窃盗団か",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598475?source=rss",
-        "publishedAt": "2026-10-12T01:42:07.000Z"
-      },
-      {
         "time": "11:48",
         "title": "キャンプ場の池に高齢男性 死亡",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598479?source=rss",
         "publishedAt": "2026-10-12T02:48:20.000Z"
+      },
+      {
+        "time": "17:36",
+        "title": "ハチの巣駆除が原因か 2棟燃える",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598525?source=rss",
+        "publishedAt": "2026-10-12T08:36:41.000Z"
       }
     ],
     "subsidyHeadlines": [
@@ -215,13 +215,6 @@
         "title": "中小企業省力化投資補助金の公募・採択情報を確認",
         "source": "中小機構",
         "url": "https://seisansei.smrj.go.jp/subsidy_info/laborsaving_subsidy.html"
-      },
-      {
-        "time": "16:00",
-        "title": "【2026年最新】中小企業向け補助金6制度まとめ｜締切・補助率・上限額一覧",
-        "source": "補助金ポータル",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Idm5vYjJtajVIYjhheTZVVTVQTXRXMndVNkRmWnVEZnZyNVRRV3ZncXZhREsxNXBqYXFZSlZmNHhLeHhkbUNRcXljRlJNWVh2ZmZrSXlsVVJsdGI5RGtBdmoxUGx1YlozMUE?oc=5",
-        "publishedAt": "2026-09-30T07:00:00.000Z"
       }
     ]
   }
