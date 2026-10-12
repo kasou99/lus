@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-12T03:59:11.837Z",
+  "updatedAt": "2026-10-12T04:33:38.862Z",
   "items": [
     {
       "time": "11:23",
@@ -18,6 +18,14 @@ window.LUS_X_NEWS = {
       "xQuery": "サウジの空港 フーシ派が再び攻撃"
     },
     {
+      "time": "13:14",
+      "title": "住宅で女児死亡 外傷なく死因不明",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6598490?source=rss",
+      "publishedAt": "2026-10-12T04:14:29.000Z",
+      "xQuery": "住宅で女児死亡 外傷なく死因不明"
+    },
+    {
       "time": "10:53",
       "title": "ひき逃げ疑い逮捕 仕事継続と供述",
       "source": "Yahoo!ニュース",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6598479?source=rss",
       "publishedAt": "2026-10-12T02:48:20.000Z",
       "xQuery": "キャンプ場の池に高齢男性 死亡"
-    },
-    {
-      "time": "10:03",
-      "title": "アシックスとナイキ なぜ「明暗」",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598467?source=rss",
-      "publishedAt": "2026-10-12T01:03:13.000Z",
-      "xQuery": "アシックスとナイキ なぜ「明暗」"
     }
   ]
 };
