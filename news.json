@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T21:15:01.134Z",
+  "updatedAt": "2026-10-12T21:41:06.572Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -8,6 +8,13 @@
         "source": "robot digest",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ZZzJHenJPTzR1bUhzQnQwejRwNlg5MmxrU0JzTWRGNzdZSDRWYUIxV1dkLXlkQmJVQmhFYUljd0hLcGpKSUs0WEltTlN6eUVENW91WGRRYUpGWnBGVDFrRzFRYUpHNHgyR3NF?oc=5",
         "publishedAt": "2026-10-12T21:03:09.000Z"
+      },
+      {
+        "time": "22:28",
+        "title": "【トランスコスモスオンラインセミナー】製造業DXを加速する！シリーズ第4弾を9月17日（木）に開催",
+        "source": "朝日新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1PU1llZ29LYmJ2dm1aMWdVdmtBNTNZS3dLbmdyVHdQNlByaHpTdjZzZlo0a1RuNG1zZ2hJb0Rkekp0ckZmY2toWkxsOG1NNDUxdVNlM1pLWkdTQlE?oc=5",
+        "publishedAt": "2026-10-12T13:28:51.000Z"
       },
       {
         "time": "23:41",
@@ -36,13 +43,6 @@
         "source": "PRESIDENT Online（プレジデントオンライン）",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE16MUpyalRiS0RjMWk5bnE0RUFGdkZHZTh5bFdRbnJ5N3o2MmYzWW85NVJhMzJYdVh3VDlBb3o3RlFoZEd6eS1UQVMwbHkxeFlBdmFMc1duT1o0UDA?oc=5",
         "publishedAt": "2026-10-11T22:00:00.000Z"
-      },
-      {
-        "time": "06:39",
-        "title": "シリーズ最速の処理性能を備えるCPUユニットを追加／安川電機",
-        "source": "robot digest",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9jeDY2UTRvbDY1MFRZLTREbG5nRE5IMEhBQ2l4bGg2bHZ5OWpwcDVTMU4ybHN0Z2NfTUh0RHZGYkhleUJOVHdIZC1RdWlBU0tVOEc1T0RjaERORXh3cmhfUnZaSEtCX2VpTmdN?oc=5",
-        "publishedAt": "2026-10-11T21:39:42.000Z"
       },
       {
         "time": "06:09",
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "06:21",
+        "title": "飲食店で男性刺される 男を逮捕",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598566?source=rss",
+        "publishedAt": "2026-10-12T21:21:55.000Z"
+      },
+      {
         "time": "23:56",
         "title": "台所に女性遺体 傷害疑い長男逮捕",
         "source": "Yahoo!ニュース",
@@ -156,25 +163,18 @@
         "publishedAt": "2026-10-12T14:56:10.000Z"
       },
       {
+        "time": "06:33",
+        "title": "台風被害 流れたニシキゴイを救出",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598567?source=rss",
+        "publishedAt": "2026-10-12T21:33:45.000Z"
+      },
+      {
         "time": "21:12",
         "title": "車と衝突し11歳重傷 ひき逃げか",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598545?source=rss",
         "publishedAt": "2026-10-12T12:12:57.000Z"
-      },
-      {
-        "time": "19:21",
-        "title": "解体現場で鋼材の下敷き 男性死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598535?source=rss",
-        "publishedAt": "2026-10-12T10:21:28.000Z"
-      },
-      {
-        "time": "13:14",
-        "title": "住宅で女児死亡 外傷なく死因不明",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598490?source=rss",
-        "publishedAt": "2026-10-12T04:14:29.000Z"
       },
       {
         "time": "17:36",

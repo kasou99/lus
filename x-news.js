@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-12T21:15:02.249Z",
+  "updatedAt": "2026-10-12T21:41:07.179Z",
   "items": [
     {
       "time": "06:09",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "ICC制裁 赤根智子所長がコメント"
     },
     {
+      "time": "06:21",
+      "title": "飲食店で男性刺される 男を逮捕",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6598566?source=rss",
+      "publishedAt": "2026-10-12T21:21:55.000Z",
+      "xQuery": "飲食店で男性刺される 男を逮捕"
+    },
+    {
       "time": "23:56",
       "title": "台所に女性遺体 傷害疑い長男逮捕",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6598564?source=rss",
       "publishedAt": "2026-10-12T14:56:10.000Z",
       "xQuery": "台所に女性遺体 傷害疑い長男逮捕"
-    },
-    {
-      "time": "23:00",
-      "title": "マンション高騰 売れ残り値下げも",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598560?source=rss",
-      "publishedAt": "2026-10-12T14:00:00.000Z",
-      "xQuery": "マンション高騰 売れ残り値下げも"
     }
   ]
 };
