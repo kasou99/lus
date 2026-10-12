@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-12T20:45:21.076Z",
+  "updatedAt": "2026-10-12T21:15:02.249Z",
   "items": [
+    {
+      "time": "06:09",
+      "title": "九州新幹線 全線で運転見合わせ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6598565?source=rss",
+      "publishedAt": "2026-10-12T21:09:16.000Z",
+      "xQuery": "九州新幹線 全線で運転見合わせ"
+    },
     {
       "time": "23:27",
       "title": "財務相 世銀IMF合同開発委議長に",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6598560?source=rss",
       "publishedAt": "2026-10-12T14:00:00.000Z",
       "xQuery": "マンション高騰 売れ残り値下げも"
-    },
-    {
-      "time": "23:08",
-      "title": "マイクロソフト 新型AI半導体発表",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598562?source=rss",
-      "publishedAt": "2026-10-12T14:08:55.000Z",
-      "xQuery": "マイクロソフト 新型AI半導体発表"
     }
   ]
 };
