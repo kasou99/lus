@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T10:45:50.315Z",
+  "updatedAt": "2026-10-13T11:17:50.595Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,11 +31,11 @@
         "publishedAt": "2026-10-13T04:00:00.000Z"
       },
       {
-        "time": "13:00",
-        "title": "応用技術、日本国際工作機械見本市「JIMTOF2026」に出展",
+        "time": "11:00",
+        "title": "丸の内熱供給が新設の熱供給洞道において、設備保全DXを提供する自動巡視型カメラ「トリノス」を導入",
         "source": "PR TIMES",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE94cWtYeDhzaGlsSWxKazgyR09jOERXMHpPMUtSMWVaT0FaWjQ0blZTcmMzcUxhNG5lTWRPd0xHcEUxU0ZGcGoxdWxHaTF3Y3FiN3FzVERaQjVfX1RweGlieXgtVFdBSm9mYUE?oc=5",
-        "publishedAt": "2026-10-13T04:00:01.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE94bGlCWDJDZS0wTDNiQTR6Zk9ILXNULTJGZFE5R3hDaWRpSjFULV9wVmk4WWNNSEE0a2QwOUZOZXZ5QVMzSkZHbUFEUy01U3ZYODNXNE1pb1NhM2hDTG1WWW9oZDFXTkc2d0E?oc=5",
+        "publishedAt": "2026-10-13T02:00:02.000Z"
       },
       {
         "time": "14:08",
@@ -105,6 +105,13 @@
     ],
     "economyHeadlines": [
       {
+        "time": "20:15",
+        "title": "イオン中間決算 災害の特損42億円",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598646?source=rss",
+        "publishedAt": "2026-10-13T11:15:18.000Z"
+      },
+      {
         "time": "15:54",
         "title": "九州新幹線 一部は終日見合わせに",
         "source": "Yahoo!ニュース",
@@ -117,13 +124,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598641?source=rss",
         "publishedAt": "2026-10-13T09:51:01.000Z"
-      },
-      {
-        "time": "12:03",
-        "title": "オムロン 米のPCメーカー買収",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598600?source=rss",
-        "publishedAt": "2026-10-13T03:03:46.000Z"
       },
       {
         "time": "17:59",
