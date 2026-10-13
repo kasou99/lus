@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T00:56:14.519Z",
+  "updatedAt": "2026-10-13T01:43:01.575Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -8,6 +8,13 @@
         "source": "MONOist",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4zRnlPWV96ZXEyc2hvLUVCMW01dkdoaE5QT3JRVG53WlZBaEJ2RnRwWjVvaTRZbkRuOEp2UDdTdVdyU1hFSnZaR1NMRE15alZZX3BjNi1WcWF3cVpDWDVkT0ZUbEh4dGI5eVdXZzdnYw?oc=5",
         "publishedAt": "2026-10-12T22:30:00.000Z"
+      },
+      {
+        "time": "10:10",
+        "title": "ブラザー、第33回日本国際工作機械見本市「JIMTOF2026」に出展",
+        "source": "PR TIMES",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBFWDRvVWtXYlNzMjI5bDR2TFVnYzZDaDNMbzlYcUd4X2FVb0sxODJUd3ZvUTg3RFQyRlFCc1laZU8wY3FadE9YU2xZVDBLZWx5b0UydnpkUnZqeVJRemhFQ0ZkaWViMjQtTWc?oc=5",
+        "publishedAt": "2026-10-13T01:10:01.000Z"
       },
       {
         "time": "09:00",
@@ -43,13 +50,6 @@
         "source": "pando.life",
         "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5xc1N0ZXRpaDJmSHJILUVkaTdOazUzLTRlM3RlQWtNcjRoVGRqMmNHVXVTN2Q2Q1ZjMXpXWGVGbzF4emZLaURkZmZB?oc=5",
         "publishedAt": "2026-10-12T10:03:54.000Z"
-      },
-      {
-        "time": "16:30",
-        "title": "ファッションでも旋風 BLACKPINK・リサ 豪華セレブそろったヴィトンの春夏コレクションで大注目",
-        "source": "au Webポータル",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1BTjVQMFNoMTViUnZHVTlFT0xzeklaZW5TclB1UUp5QnROUW1hbEFBa0ZlSG9DU3VkcDByRXlQQjFoaERGTDZhZTNic1I5R0RCck9FN1NTNjkxMUZVS3NURmVwTk9RSkpDX3FLSnZuOWRYUjVoTjNFeA?oc=5",
-        "publishedAt": "2026-10-12T07:30:00.000Z"
       },
       {
         "time": "17:16",

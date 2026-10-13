@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-13T00:56:15.606Z",
+  "updatedAt": "2026-10-13T01:43:02.478Z",
   "items": [
     {
       "time": "08:27",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "九州新幹線が全線運休 再開は午後"
     },
     {
-      "time": "08:50",
-      "title": "中国にもトー横? 日本との共通点",
+      "time": "09:33",
+      "title": "熟年離婚 修復経ず別れるケース増",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598578?source=rss",
-      "publishedAt": "2026-10-12T23:50:27.000Z",
-      "xQuery": "中国にもトー横? 日本との共通点"
+      "url": "https://news.yahoo.co.jp/pickup/6598584?source=rss",
+      "publishedAt": "2026-10-13T00:33:55.000Z",
+      "xQuery": "熟年離婚 修復経ず別れるケース増"
     },
     {
-      "time": "06:56",
-      "title": "米俳優 セルマ・ブレア容疑者逮捕",
+      "time": "09:48",
+      "title": "5年前から閉鎖 東大「赤門」は今",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598569?source=rss",
-      "publishedAt": "2026-10-12T21:56:46.000Z",
-      "xQuery": "米俳優 セルマ・ブレア容疑者逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6598585?source=rss",
+      "publishedAt": "2026-10-13T00:48:04.000Z",
+      "xQuery": "5年前から閉鎖 東大「赤門」は今"
     }
   ]
 };
