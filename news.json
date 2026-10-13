@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T22:14:59.564Z",
+  "updatedAt": "2026-10-13T22:38:04.645Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -119,13 +119,6 @@
         "publishedAt": "2026-10-13T14:25:23.000Z"
       },
       {
-        "time": "20:15",
-        "title": "イオン中間決算 災害の特損42億円",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598646?source=rss",
-        "publishedAt": "2026-10-13T11:15:18.000Z"
-      },
-      {
         "time": "18:51",
         "title": "都営地下鉄談合 5社に排除命令へ",
         "source": "Yahoo!ニュース",
@@ -145,6 +138,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598621?source=rss",
         "publishedAt": "2026-10-13T06:22:05.000Z"
+      },
+      {
+        "time": "18:14",
+        "title": "駅周辺にデータセンター計画 波紋",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598633?source=rss",
+        "publishedAt": "2026-10-13T09:14:16.000Z"
       }
     ],
     "localHeadlines": [

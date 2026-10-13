@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-13T22:15:00.227Z",
+  "updatedAt": "2026-10-13T22:38:05.414Z",
   "items": [
     {
       "time": "05:57",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "無免許運転か 車突っ込み男性死亡"
     },
     {
-      "time": "23:54",
-      "title": "Apple 新端末「HomeView」発表",
+      "time": "07:23",
+      "title": "道頓堀グリコサイン 来春7代目に",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598667?source=rss",
-      "publishedAt": "2026-10-13T14:54:47.000Z",
-      "xQuery": "Apple 新端末「HomeView」発表"
+      "url": "https://news.yahoo.co.jp/pickup/6598673?source=rss",
+      "publishedAt": "2026-10-13T22:23:24.000Z",
+      "xQuery": "道頓堀グリコサイン 来春7代目に"
     }
   ]
 };
