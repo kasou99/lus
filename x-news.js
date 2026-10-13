@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-13T15:19:53.270Z",
+  "updatedAt": "2026-10-13T15:45:01.296Z",
   "items": [
     {
       "time": "00:09",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "無免許運転か 車突っ込み男性死亡"
     },
     {
-      "time": "18:38",
-      "title": "ゼリー詰まらせ死亡 一口サイズか",
+      "time": "22:40",
+      "title": "列車撮影目的か 往来危険疑い逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598640?source=rss",
-      "publishedAt": "2026-10-13T09:38:43.000Z",
-      "xQuery": "ゼリー詰まらせ死亡 一口サイズか"
+      "url": "https://news.yahoo.co.jp/pickup/6598662?source=rss",
+      "publishedAt": "2026-10-13T13:40:52.000Z",
+      "xQuery": "列車撮影目的か 往来危険疑い逮捕"
     }
   ]
 };
