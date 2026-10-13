@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T13:26:11.462Z",
+  "updatedAt": "2026-10-13T13:49:44.327Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -156,6 +156,13 @@
         "publishedAt": "2026-10-13T03:46:58.000Z"
       },
       {
+        "time": "22:44",
+        "title": "無免許運転か 車突っ込み男性死亡",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598663?source=rss",
+        "publishedAt": "2026-10-13T13:44:13.000Z"
+      },
+      {
         "time": "12:02",
         "title": "渋滞で玉突き 追突された女性死亡",
         "source": "Yahoo!ニュース",
@@ -168,13 +175,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598652?source=rss",
         "publishedAt": "2026-10-13T12:21:16.000Z"
-      },
-      {
-        "time": "17:16",
-        "title": "那覇強殺 遺族「苦しい毎日」",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598629?source=rss",
-        "publishedAt": "2026-10-13T08:16:02.000Z"
       },
       {
         "time": "06:21",
