@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-13T21:38:24.673Z",
+  "updatedAt": "2026-10-13T22:15:00.227Z",
   "items": [
     {
       "time": "05:57",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "道新記者をサハリンで拘束 露当局"
     },
     {
-      "time": "00:09",
-      "title": "首相 14日に簗氏と面会する意向",
+      "time": "06:30",
+      "title": "九州新幹線 全線で運転再開",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598668?source=rss",
-      "publishedAt": "2026-10-13T15:09:03.000Z",
-      "xQuery": "首相 14日に簗氏と面会する意向"
+      "url": "https://news.yahoo.co.jp/pickup/6598672?source=rss",
+      "publishedAt": "2026-10-13T21:30:25.000Z",
+      "xQuery": "九州新幹線 全線で運転再開"
     },
     {
       "time": "23:25",
