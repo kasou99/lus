@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-13T15:45:01.296Z",
+  "updatedAt": "2026-10-13T16:20:54.608Z",
   "items": [
+    {
+      "time": "00:47",
+      "title": "道新記者をサハリンで拘束 露報道",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6598669?source=rss",
+      "publishedAt": "2026-10-13T15:47:05.000Z",
+      "xQuery": "道新記者をサハリンで拘束 露報道"
+    },
     {
       "time": "00:09",
       "title": "首相 14日に簗氏と面会する意向",
@@ -8,14 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6598668?source=rss",
       "publishedAt": "2026-10-13T15:09:03.000Z",
       "xQuery": "首相 14日に簗氏と面会する意向"
-    },
-    {
-      "time": "22:37",
-      "title": "情報漏えい 一因は「A2B攻撃」",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598659?source=rss",
-      "publishedAt": "2026-10-13T13:37:20.000Z",
-      "xQuery": "情報漏えい 一因は「A2B攻撃」"
     },
     {
       "time": "23:25",
