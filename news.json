@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T11:44:08.281Z",
+  "updatedAt": "2026-10-13T12:30:14.482Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -163,6 +163,13 @@
         "publishedAt": "2026-10-13T03:02:07.000Z"
       },
       {
+        "time": "21:21",
+        "title": "バイクではねて逃走疑い 17歳逮捕",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598652?source=rss",
+        "publishedAt": "2026-10-13T12:21:16.000Z"
+      },
+      {
         "time": "17:16",
         "title": "那覇強殺 遺族「苦しい毎日」",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598617?source=rss",
         "publishedAt": "2026-10-13T05:03:24.000Z"
-      },
-      {
-        "time": "18:38",
-        "title": "ゼリー詰まらせ死亡 一口サイズか",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598640?source=rss",
-        "publishedAt": "2026-10-13T09:38:43.000Z"
       }
     ],
     "subsidyHeadlines": [

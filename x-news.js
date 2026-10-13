@@ -1,14 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-13T11:44:09.041Z",
+  "updatedAt": "2026-10-13T12:30:15.233Z",
   "items": [
-    {
-      "time": "18:51",
-      "title": "都営地下鉄談合 5社に排除命令へ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598641?source=rss",
-      "publishedAt": "2026-10-13T09:51:01.000Z",
-      "xQuery": "都営地下鉄談合 5社に排除命令へ"
-    },
     {
       "time": "20:15",
       "title": "イオン中間決算 災害の特損42億円",
@@ -16,6 +8,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6598646?source=rss",
       "publishedAt": "2026-10-13T11:15:18.000Z",
       "xQuery": "イオン中間決算 災害の特損42億円"
+    },
+    {
+      "time": "20:58",
+      "title": "不正アクセス 自治体の配信が停止",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6598649?source=rss",
+      "publishedAt": "2026-10-13T11:58:48.000Z",
+      "xQuery": "不正アクセス 自治体の配信が停止"
     },
     {
       "time": "18:01",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "簗氏答弁受け 選管「あり得ない」"
     },
     {
-      "time": "18:29",
-      "title": "露でもクマ襲撃急増 生活に影響",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598639?source=rss",
-      "publishedAt": "2026-10-13T09:29:49.000Z",
-      "xQuery": "露でもクマ襲撃急増 生活に影響"
-    },
-    {
       "time": "18:38",
       "title": "ゼリー詰まらせ死亡 一口サイズか",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6598640?source=rss",
       "publishedAt": "2026-10-13T09:38:43.000Z",
       "xQuery": "ゼリー詰まらせ死亡 一口サイズか"
+    },
+    {
+      "time": "20:41",
+      "title": "看護師が患者の動画投稿 運営謝罪",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6598648?source=rss",
+      "publishedAt": "2026-10-13T11:41:36.000Z",
+      "xQuery": "看護師が患者の動画投稿 運営謝罪"
     }
   ]
 };
