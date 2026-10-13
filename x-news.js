@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-13T08:29:55.043Z",
+  "updatedAt": "2026-10-13T08:54:30.491Z",
   "items": [
     {
       "time": "16:44",
@@ -8,6 +8,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6598627?source=rss",
       "publishedAt": "2026-10-13T07:44:11.000Z",
       "xQuery": "首相 簗氏発言は「本当にダサイ」"
+    },
+    {
+      "time": "17:16",
+      "title": "那覇強殺 遺族「苦しい毎日」",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6598629?source=rss",
+      "publishedAt": "2026-10-13T08:16:02.000Z",
+      "xQuery": "那覇強殺 遺族「苦しい毎日」"
     },
     {
       "time": "16:13",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "九州新幹線 一部は終日見合わせに"
     },
     {
-      "time": "14:45",
-      "title": "死刑配信 米共和党からも出る批判",
+      "time": "16:44",
+      "title": "カメムシ大量発生 影響長引く恐れ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598607?source=rss",
-      "publishedAt": "2026-10-13T05:45:49.000Z",
-      "xQuery": "死刑配信 米共和党からも出る批判"
-    },
-    {
-      "time": "14:03",
-      "title": "こども園でゼリー詰まらせ4歳死亡",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598617?source=rss",
-      "publishedAt": "2026-10-13T05:03:24.000Z",
-      "xQuery": "こども園でゼリー詰まらせ4歳死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6598626?source=rss",
+      "publishedAt": "2026-10-13T07:44:04.000Z",
+      "xQuery": "カメムシ大量発生 影響長引く恐れ"
     }
   ]
 };
