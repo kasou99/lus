@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-13T03:55:22.041Z",
+  "updatedAt": "2026-10-13T04:27:58.794Z",
   "items": [
     {
-      "time": "11:59",
-      "title": "簗氏との面談記録作成せず 国交相",
+      "time": "12:33",
+      "title": "簗氏の「お支えチーム」本人釈明",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598602?source=rss",
-      "publishedAt": "2026-10-13T02:59:51.000Z",
-      "xQuery": "簗氏との面談記録作成せず 国交相"
+      "url": "https://news.yahoo.co.jp/pickup/6598610?source=rss",
+      "publishedAt": "2026-10-13T03:33:55.000Z",
+      "xQuery": "簗氏の「お支えチーム」本人釈明"
     },
     {
       "time": "10:49",
