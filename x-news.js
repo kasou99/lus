@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-13T04:27:58.794Z",
+  "updatedAt": "2026-10-13T04:52:22.176Z",
   "items": [
     {
       "time": "12:33",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "簗氏の「お支えチーム」本人釈明"
     },
     {
-      "time": "10:49",
-      "title": "九州新幹線 運転再開は夕方以降に",
+      "time": "13:38",
+      "title": "九州新幹線 新たに部品の損傷",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598590?source=rss",
-      "publishedAt": "2026-10-13T01:49:06.000Z",
-      "xQuery": "九州新幹線 運転再開は夕方以降に"
+      "url": "https://news.yahoo.co.jp/pickup/6598616?source=rss",
+      "publishedAt": "2026-10-13T04:38:09.000Z",
+      "xQuery": "九州新幹線 新たに部品の損傷"
     },
     {
       "time": "12:02",

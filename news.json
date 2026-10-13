@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-10-13T04:27:57.906Z",
+  "updatedAt": "2026-10-13T04:52:21.372Z",
   "groups": {
     "machineHeadlines": [
       {
-        "time": "10:10",
-        "title": "ブラザー、第33回日本国際工作機械見本市「JIMTOF2026」に出展",
-        "source": "PR TIMES",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBFWDRvVWtXYlNzMjI5bDR2TFVnYzZDaDNMbzlYcUd4X2FVb0sxODJUd3ZvUTg3RFQyRlFCc1laZU8wY3FadE9YU2xZVDBLZWx5b0UydnpkUnZqeVJRemhFQ0ZkaWViMjQtTWc?oc=5",
-        "publishedAt": "2026-10-13T01:10:01.000Z"
+        "time": "13:00",
+        "title": "ヤマザキマザック、省スペースの中大型部品向け門形マシニング 最大ワーク質量3t：工作機械",
+        "source": "MONOist",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE03R2F3dnFrSkVPWmVBdFNuRDJxTEk3TllEakRvR2R4U0oxZ1VLSXJQMzQwbVhuYmZILU9kSG5Eb1Q0MGtlT1ZKczlrdjZ5bW9YVmxQNWlsY0NGc01ESmJWMXNGN2plMjgwTXFPaGZfZw?oc=5",
+        "publishedAt": "2026-10-13T04:00:00.000Z"
       },
       {
-        "time": "07:30",
-        "title": "シチズンマシナリーが旋盤でマシニング領域へ、より小径高精度で成長：工作機械（1/2 ページ）",
-        "source": "MONOist",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4zRnlPWV96ZXEyc2hvLUVCMW01dkdoaE5QT3JRVG53WlZBaEJ2RnRwWjVvaTRZbkRuOEp2UDdTdVdyU1hFSnZaR1NMRE15alZZX3BjNi1WcWF3cVpDWDVkT0ZUbEh4dGI5eVdXZzdnYw?oc=5",
-        "publishedAt": "2026-10-12T22:30:00.000Z"
+        "time": "13:00",
+        "title": "応用技術、日本国際工作機械見本市「JIMTOF2026」に出展",
+        "source": "PR TIMES",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE94cWtYeDhzaGlsSWxKazgyR09jOERXMHpPMUtSMWVaT0FaWjQ0blZTcmMzcUxhNG5lTWRPd0xHcEUxU0ZGcGoxdWxHaTF3Y3FiN3FzVERaQjVfX1RweGlieXgtVFdBSm9mYUE?oc=5",
+        "publishedAt": "2026-10-13T04:00:01.000Z"
       },
       {
         "time": "09:00",
@@ -31,11 +31,18 @@
         "publishedAt": "2026-10-13T02:00:00.000Z"
       },
       {
-        "time": "13:00",
-        "title": "応用技術、日本国際工作機械見本市「JIMTOF2026」に出展",
+        "time": "10:10",
+        "title": "ブラザー、第33回日本国際工作機械見本市「JIMTOF2026」に出展",
         "source": "PR TIMES",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE94cWtYeDhzaGlsSWxKazgyR09jOERXMHpPMUtSMWVaT0FaWjQ0blZTcmMzcUxhNG5lTWRPd0xHcEUxU0ZGcGoxdWxHaTF3Y3FiN3FzVERaQjVfX1RweGlieXgtVFdBSm9mYUE?oc=5",
-        "publishedAt": "2026-10-13T04:00:01.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBFWDRvVWtXYlNzMjI5bDR2TFVnYzZDaDNMbzlYcUd4X2FVb0sxODJUd3ZvUTg3RFQyRlFCc1laZU8wY3FadE9YU2xZVDBLZWx5b0UydnpkUnZqeVJRemhFQ0ZkaWViMjQtTWc?oc=5",
+        "publishedAt": "2026-10-13T01:10:01.000Z"
+      },
+      {
+        "time": "07:30",
+        "title": "シチズンマシナリーが旋盤でマシニング領域へ、より小径高精度で成長：工作機械（1/2 ページ）",
+        "source": "MONOist",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4zRnlPWV96ZXEyc2hvLUVCMW01dkdoaE5QT3JRVG53WlZBaEJ2RnRwWjVvaTRZbkRuOEp2UDdTdVdyU1hFSnZaR1NMRE15alZZX3BjNi1WcWF3cVpDWDVkT0ZUbEh4dGI5eVdXZzdnYw?oc=5",
+        "publishedAt": "2026-10-12T22:30:00.000Z"
       },
       {
         "time": "12:59",
@@ -50,13 +57,6 @@
         "source": "robot digest",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ZZzJHenJPTzR1bUhzQnQwejRwNlg5MmxrU0JzTWRGNzdZSDRWYUIxV1dkLXlkQmJVQmhFYUljd0hLcGpKSUs0WEltTlN6eUVENW91WGRRYUpGWnBGVDFrRzFRYUpHNHgyR3NF?oc=5",
         "publishedAt": "2026-10-12T21:03:09.000Z"
-      },
-      {
-        "time": "00:37",
-        "title": "建築会社がつくる“牽引するお店”誕生!駐めた瞬間、そこが店舗になるトレーラー型ポップアップショップ",
-        "source": "朝日新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE80UnlQVExpSVdSQkZPclJFaUlXQnNnNWkyYko2b0pLYVJUTU9oNktQT0JwaEkxVHhEQTdQanhxNFZTVTVKMkV5OC1ma1ZfVlNpSkZjUUc0czlVMWs?oc=5",
-        "publishedAt": "2026-10-12T15:37:58.000Z"
       }
     ],
     "worldHeadlines": [
@@ -105,11 +105,11 @@
     ],
     "economyHeadlines": [
       {
-        "time": "10:49",
-        "title": "九州新幹線 運転再開は夕方以降に",
+        "time": "13:38",
+        "title": "九州新幹線 新たに部品の損傷",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598590?source=rss",
-        "publishedAt": "2026-10-13T01:49:06.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6598616?source=rss",
+        "publishedAt": "2026-10-13T04:38:09.000Z"
       },
       {
         "time": "19:42",
