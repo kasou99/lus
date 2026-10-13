@@ -1,29 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-13T01:43:02.478Z",
+  "updatedAt": "2026-10-13T02:38:01.982Z",
   "items": [
     {
-      "time": "08:27",
-      "title": "正恩氏と「会うかも」トランプ氏",
+      "time": "10:49",
+      "title": "九州新幹線 運転再開は夕方以降に",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598577?source=rss",
-      "publishedAt": "2026-10-12T23:27:12.000Z",
-      "xQuery": "正恩氏と「会うかも」トランプ氏"
+      "url": "https://news.yahoo.co.jp/pickup/6598590?source=rss",
+      "publishedAt": "2026-10-13T01:49:06.000Z",
+      "xQuery": "九州新幹線 運転再開は夕方以降に"
     },
     {
-      "time": "08:10",
-      "title": "英基地事件はイラン関与 共同声明",
+      "time": "11:15",
+      "title": "議員会館でパーティー 文科相謝罪",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598574?source=rss",
-      "publishedAt": "2026-10-12T23:10:20.000Z",
-      "xQuery": "英基地事件はイラン関与 共同声明"
-    },
-    {
-      "time": "09:05",
-      "title": "九州新幹線が全線運休 再開は午後",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598582?source=rss",
-      "publishedAt": "2026-10-13T00:05:57.000Z",
-      "xQuery": "九州新幹線が全線運休 再開は午後"
+      "url": "https://news.yahoo.co.jp/pickup/6598592?source=rss",
+      "publishedAt": "2026-10-13T02:15:24.000Z",
+      "xQuery": "議員会館でパーティー 文科相謝罪"
     },
     {
       "time": "09:33",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6598585?source=rss",
       "publishedAt": "2026-10-13T00:48:04.000Z",
       "xQuery": "5年前から閉鎖 東大「赤門」は今"
+    },
+    {
+      "time": "11:19",
+      "title": "家が買えない なぜ高騰している",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6598588?source=rss",
+      "publishedAt": "2026-10-13T02:19:22.000Z",
+      "xQuery": "家が買えない なぜ高騰している"
     }
   ]
 };
