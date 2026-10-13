@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-13T03:27:41.658Z",
+  "updatedAt": "2026-10-13T03:55:22.041Z",
   "items": [
     {
       "time": "11:59",
@@ -8,14 +8,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6598602?source=rss",
       "publishedAt": "2026-10-13T02:59:51.000Z",
       "xQuery": "簗氏との面談記録作成せず 国交相"
-    },
-    {
-      "time": "11:15",
-      "title": "議員会館でパーティー 文科相謝罪",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598592?source=rss",
-      "publishedAt": "2026-10-13T02:15:24.000Z",
-      "xQuery": "議員会館でパーティー 文科相謝罪"
     },
     {
       "time": "10:49",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "渋滞で玉突き 追突された女性死亡"
     },
     {
-      "time": "11:38",
-      "title": "愛知小1死亡事件 母親が無罪主張",
+      "time": "12:46",
+      "title": "愛知小1死亡事件 母親が故意否認",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598596?source=rss",
-      "publishedAt": "2026-10-13T02:38:04.000Z",
-      "xQuery": "愛知小1死亡事件 母親が無罪主張"
+      "url": "https://news.yahoo.co.jp/pickup/6598613?source=rss",
+      "publishedAt": "2026-10-13T03:46:58.000Z",
+      "xQuery": "愛知小1死亡事件 母親が故意否認"
+    },
+    {
+      "time": "11:19",
+      "title": "家が買えない なぜ高騰している",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6598588?source=rss",
+      "publishedAt": "2026-10-13T02:19:22.000Z",
+      "xQuery": "家が買えない なぜ高騰している"
     }
   ]
 };
