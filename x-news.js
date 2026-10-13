@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-13T09:24:41.324Z",
+  "updatedAt": "2026-10-13T09:47:18.396Z",
   "items": [
     {
       "time": "16:44",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "銀のさら運営 650万件情報漏洩か"
     },
     {
-      "time": "17:28",
-      "title": "NHK前会長の稲葉延雄さん死去",
+      "time": "18:14",
+      "title": "駅周辺にデータセンター計画 波紋",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598632?source=rss",
-      "publishedAt": "2026-10-13T08:28:09.000Z",
-      "xQuery": "NHK前会長の稲葉延雄さん死去"
+      "url": "https://news.yahoo.co.jp/pickup/6598633?source=rss",
+      "publishedAt": "2026-10-13T09:14:16.000Z",
+      "xQuery": "駅周辺にデータセンター計画 波紋"
     }
   ]
 };
