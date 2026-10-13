@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-12T23:41:52.960Z",
+  "updatedAt": "2026-10-13T00:56:15.606Z",
   "items": [
     {
       "time": "08:27",
@@ -10,28 +10,28 @@ window.LUS_X_NEWS = {
       "xQuery": "正恩氏と「会うかも」トランプ氏"
     },
     {
-      "time": "07:30",
-      "title": "JR東の法廷無断録音 新たに確認",
+      "time": "08:10",
+      "title": "英基地事件はイラン関与 共同声明",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598571?source=rss",
-      "publishedAt": "2026-10-12T22:30:13.000Z",
-      "xQuery": "JR東の法廷無断録音 新たに確認"
+      "url": "https://news.yahoo.co.jp/pickup/6598574?source=rss",
+      "publishedAt": "2026-10-12T23:10:20.000Z",
+      "xQuery": "英基地事件はイラン関与 共同声明"
     },
     {
-      "time": "06:09",
-      "title": "九州新幹線 全線で運転見合わせ",
+      "time": "09:05",
+      "title": "九州新幹線が全線運休 再開は午後",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598565?source=rss",
-      "publishedAt": "2026-10-12T21:09:16.000Z",
-      "xQuery": "九州新幹線 全線で運転見合わせ"
+      "url": "https://news.yahoo.co.jp/pickup/6598582?source=rss",
+      "publishedAt": "2026-10-13T00:05:57.000Z",
+      "xQuery": "九州新幹線が全線運休 再開は午後"
     },
     {
-      "time": "06:21",
-      "title": "飲食店で男性刺される 男を逮捕",
+      "time": "08:50",
+      "title": "中国にもトー横? 日本との共通点",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598566?source=rss",
-      "publishedAt": "2026-10-12T21:21:55.000Z",
-      "xQuery": "飲食店で男性刺される 男を逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6598578?source=rss",
+      "publishedAt": "2026-10-12T23:50:27.000Z",
+      "xQuery": "中国にもトー横? 日本との共通点"
     },
     {
       "time": "06:56",
