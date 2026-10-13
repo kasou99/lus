@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-13T12:30:15.233Z",
+  "updatedAt": "2026-10-13T13:26:12.406Z",
   "items": [
     {
-      "time": "20:15",
-      "title": "イオン中間決算 災害の特損42億円",
+      "time": "22:08",
+      "title": "首相 今夜にも簗氏に電話で聴取",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598646?source=rss",
-      "publishedAt": "2026-10-13T11:15:18.000Z",
-      "xQuery": "イオン中間決算 災害の特損42億円"
+      "url": "https://news.yahoo.co.jp/pickup/6598658?source=rss",
+      "publishedAt": "2026-10-13T13:08:05.000Z",
+      "xQuery": "首相 今夜にも簗氏に電話で聴取"
     },
     {
       "time": "20:58",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "不正アクセス 自治体の配信が停止"
     },
     {
-      "time": "18:01",
-      "title": "簗氏答弁受け 選管「あり得ない」",
+      "time": "21:45",
+      "title": "食事券発行の需要喚起策 見送りへ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598637?source=rss",
-      "publishedAt": "2026-10-13T09:01:25.000Z",
-      "xQuery": "簗氏答弁受け 選管「あり得ない」"
+      "url": "https://news.yahoo.co.jp/pickup/6598655?source=rss",
+      "publishedAt": "2026-10-13T12:45:36.000Z",
+      "xQuery": "食事券発行の需要喚起策 見送りへ"
     },
     {
       "time": "18:38",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "ゼリー詰まらせ死亡 一口サイズか"
     },
     {
-      "time": "20:41",
-      "title": "看護師が患者の動画投稿 運営謝罪",
+      "time": "21:21",
+      "title": "バイクではねて逃走疑い 17歳逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598648?source=rss",
-      "publishedAt": "2026-10-13T11:41:36.000Z",
-      "xQuery": "看護師が患者の動画投稿 運営謝罪"
+      "url": "https://news.yahoo.co.jp/pickup/6598652?source=rss",
+      "publishedAt": "2026-10-13T12:21:16.000Z",
+      "xQuery": "バイクではねて逃走疑い 17歳逮捕"
     }
   ]
 };
