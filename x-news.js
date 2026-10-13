@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-13T10:20:28.509Z",
+  "updatedAt": "2026-10-13T10:45:51.013Z",
   "items": [
     {
-      "time": "16:44",
-      "title": "首相 簗氏発言は「本当にダサイ」",
+      "time": "19:37",
+      "title": "14日広く天気急変の恐れ 雷雨注意",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598627?source=rss",
-      "publishedAt": "2026-10-13T07:44:11.000Z",
-      "xQuery": "首相 簗氏発言は「本当にダサイ」"
+      "url": "https://news.yahoo.co.jp/pickup/6598644?source=rss",
+      "publishedAt": "2026-10-13T10:37:34.000Z",
+      "xQuery": "14日広く天気急変の恐れ 雷雨注意"
     },
     {
-      "time": "17:59",
-      "title": "PayPay証券障害 日本株取引停止",
+      "time": "18:51",
+      "title": "都営地下鉄談合 5社に排除命令へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598630?source=rss",
-      "publishedAt": "2026-10-13T08:59:07.000Z",
-      "xQuery": "PayPay証券障害 日本株取引停止"
+      "url": "https://news.yahoo.co.jp/pickup/6598641?source=rss",
+      "publishedAt": "2026-10-13T09:51:01.000Z",
+      "xQuery": "都営地下鉄談合 5社に排除命令へ"
     },
     {
       "time": "18:38",
