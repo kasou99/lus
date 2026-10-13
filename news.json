@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T14:22:10.746Z",
+  "updatedAt": "2026-10-13T14:47:51.301Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -105,6 +105,13 @@
     ],
     "economyHeadlines": [
       {
+        "time": "23:25",
+        "title": "日本のGDP 来年世界6位の見込み",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598666?source=rss",
+        "publishedAt": "2026-10-13T14:25:23.000Z"
+      },
+      {
         "time": "20:15",
         "title": "イオン中間決算 災害の特損42億円",
         "source": "Yahoo!ニュース",
@@ -124,13 +131,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598630?source=rss",
         "publishedAt": "2026-10-13T08:59:07.000Z"
-      },
-      {
-        "time": "15:23",
-        "title": "中国車の輸出なぜ激増 欧州が対応",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598620?source=rss",
-        "publishedAt": "2026-10-13T06:23:36.000Z"
       },
       {
         "time": "23:05",

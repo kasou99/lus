@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-13T14:22:11.531Z",
+  "updatedAt": "2026-10-13T14:47:52.084Z",
   "items": [
     {
       "time": "22:08",
@@ -10,14 +10,6 @@ window.LUS_X_NEWS = {
       "xQuery": "首相 今夜にも簗氏に電話で聴取"
     },
     {
-      "time": "21:45",
-      "title": "食事券発行の需要喚起策 見送りへ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598655?source=rss",
-      "publishedAt": "2026-10-13T12:45:36.000Z",
-      "xQuery": "食事券発行の需要喚起策 見送りへ"
-    },
-    {
       "time": "23:04",
       "title": "教科書ページ上限設定へ 70年ぶり",
       "source": "Yahoo!ニュース",
@@ -26,20 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "教科書ページ上限設定へ 70年ぶり"
     },
     {
+      "time": "23:05",
+      "title": "防衛力強化の対象に鉄道 実現性は",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6598665?source=rss",
+      "publishedAt": "2026-10-13T14:05:13.000Z",
+      "xQuery": "防衛力強化の対象に鉄道 実現性は"
+    },
+    {
+      "time": "23:25",
+      "title": "日本のGDP 来年世界6位の見込み",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6598666?source=rss",
+      "publishedAt": "2026-10-13T14:25:23.000Z",
+      "xQuery": "日本のGDP 来年世界6位の見込み"
+    },
+    {
       "time": "22:44",
       "title": "無免許運転か 車突っ込み男性死亡",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6598663?source=rss",
       "publishedAt": "2026-10-13T13:44:13.000Z",
       "xQuery": "無免許運転か 車突っ込み男性死亡"
-    },
-    {
-      "time": "22:40",
-      "title": "列車撮影目的か 往来危険疑い逮捕",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598662?source=rss",
-      "publishedAt": "2026-10-13T13:40:52.000Z",
-      "xQuery": "列車撮影目的か 往来危険疑い逮捕"
     }
   ]
 };
