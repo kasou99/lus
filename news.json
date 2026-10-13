@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T21:14:22.445Z",
+  "updatedAt": "2026-10-13T21:38:24.023Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -105,6 +105,13 @@
     ],
     "economyHeadlines": [
       {
+        "time": "06:30",
+        "title": "九州新幹線 全線で運転再開",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598672?source=rss",
+        "publishedAt": "2026-10-13T21:30:25.000Z"
+      },
+      {
         "time": "23:25",
         "title": "日本のGDP 来年世界6位の見込み",
         "source": "Yahoo!ニュース",
@@ -131,13 +138,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598630?source=rss",
         "publishedAt": "2026-10-13T08:59:07.000Z"
-      },
-      {
-        "time": "23:05",
-        "title": "防衛力強化の対象に鉄道 実現性は",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598665?source=rss",
-        "publishedAt": "2026-10-13T14:05:13.000Z"
       },
       {
         "time": "15:22",

@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-13T21:14:23.479Z",
+  "updatedAt": "2026-10-13T21:38:24.673Z",
   "items": [
     {
       "time": "05:57",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "無免許運転か 車突っ込み男性死亡"
     },
     {
-      "time": "22:40",
-      "title": "列車撮影目的か 往来危険疑い逮捕",
+      "time": "23:54",
+      "title": "Apple 新端末「HomeView」発表",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598662?source=rss",
-      "publishedAt": "2026-10-13T13:40:52.000Z",
-      "xQuery": "列車撮影目的か 往来危険疑い逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6598667?source=rss",
+      "publishedAt": "2026-10-13T14:54:47.000Z",
+      "xQuery": "Apple 新端末「HomeView」発表"
     }
   ]
 };
