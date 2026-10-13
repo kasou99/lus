@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-13T04:52:22.176Z",
+  "updatedAt": "2026-10-13T05:22:32.449Z",
   "items": [
     {
       "time": "12:33",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "渋滞で玉突き 追突された女性死亡"
     },
     {
-      "time": "12:46",
-      "title": "愛知小1死亡事件 母親が故意否認",
+      "time": "14:03",
+      "title": "こども園でゼリー詰まらせ4歳死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598613?source=rss",
-      "publishedAt": "2026-10-13T03:46:58.000Z",
-      "xQuery": "愛知小1死亡事件 母親が故意否認"
+      "url": "https://news.yahoo.co.jp/pickup/6598617?source=rss",
+      "publishedAt": "2026-10-13T05:03:24.000Z",
+      "xQuery": "こども園でゼリー詰まらせ4歳死亡"
     },
     {
       "time": "11:19",
