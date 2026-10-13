@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T05:47:25.607Z",
+  "updatedAt": "2026-10-13T06:36:04.704Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -24,6 +24,13 @@
         "publishedAt": "2026-10-13T05:08:40.000Z"
       },
       {
+        "time": "10:45",
+        "title": "リックス(7525) 1Qの売上高・営業利益は過去最高。「電子・半導体」「工作機械」が特に好調",
+        "source": "QUICK Money World",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9jWkJoMEdtVHN3c2VXaGtUajFhd1RJUTBHU1hRZG9kT0w1Ykd3eTFZeTN0aElhQlpJWGx4akVFakM3Vm5hWVMzdkFrRmd1Nm1SU3pwVUZn?oc=5",
+        "publishedAt": "2026-10-13T01:45:00.000Z"
+      },
+      {
         "time": "11:00",
         "title": "丸の内熱供給が新設の熱供給洞道において、設備保全DXを提供する自動巡視型カメラ「トリノス」を導入｜Infoseekニュース",
         "source": "Infoseek",
@@ -43,13 +50,6 @@
         "source": "MONOist",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4zRnlPWV96ZXEyc2hvLUVCMW01dkdoaE5QT3JRVG53WlZBaEJ2RnRwWjVvaTRZbkRuOEp2UDdTdVdyU1hFSnZaR1NMRE15alZZX3BjNi1WcWF3cVpDWDVkT0ZUbEh4dGI5eVdXZzdnYw?oc=5",
         "publishedAt": "2026-10-12T22:30:00.000Z"
-      },
-      {
-        "time": "14:20",
-        "title": "京セラ、「JIMTOF2026」出展のご案内",
-        "source": "下野新聞社",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBaVjFRaDlZRk9nVjhLZ0FTblFsZ2pEdlU3dkItSUJDMmUyTlhPX29uSFdtZkdzaDJ1c3VNdGJ1U2dLd3A2WnJJWUVLWmJGU3Fjbklld29tbjFfQ1E?oc=5",
-        "publishedAt": "2026-10-13T05:20:00.000Z"
       },
       {
         "time": "12:59",
@@ -89,18 +89,18 @@
         "publishedAt": "2026-10-12T23:27:12.000Z"
       },
       {
-        "time": "08:10",
-        "title": "英基地事件はイラン関与 共同声明",
+        "time": "15:14",
+        "title": "ウ軍 なぜ露のデータセンター攻撃",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598574?source=rss",
-        "publishedAt": "2026-10-12T23:10:20.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6598604?source=rss",
+        "publishedAt": "2026-10-13T06:14:18.000Z"
       },
       {
-        "time": "06:56",
-        "title": "米俳優 セルマ・ブレア容疑者逮捕",
+        "time": "14:45",
+        "title": "死刑配信 米共和党からも出る批判",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598569?source=rss",
-        "publishedAt": "2026-10-12T21:56:46.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6598607?source=rss",
+        "publishedAt": "2026-10-13T05:45:49.000Z"
       }
     ],
     "economyHeadlines": [
@@ -112,11 +112,18 @@
         "publishedAt": "2026-10-13T04:38:09.000Z"
       },
       {
-        "time": "19:42",
-        "title": "ノーベル経済学賞 米大教授2人に",
+        "time": "15:22",
+        "title": "JR東など7社 磁気乗車券を廃止へ",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598538?source=rss",
-        "publishedAt": "2026-10-12T10:42:51.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6598621?source=rss",
+        "publishedAt": "2026-10-13T06:22:05.000Z"
+      },
+      {
+        "time": "12:03",
+        "title": "オムロン 米のPCメーカー買収",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598600?source=rss",
+        "publishedAt": "2026-10-13T03:03:46.000Z"
       },
       {
         "time": "11:19",
@@ -133,18 +140,11 @@
         "publishedAt": "2026-10-12T14:00:00.000Z"
       },
       {
-        "time": "12:03",
-        "title": "オムロン 米のPCメーカー買収",
+        "time": "15:23",
+        "title": "中国車の輸出なぜ激増 欧州が対応",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598600?source=rss",
-        "publishedAt": "2026-10-13T03:03:46.000Z"
-      },
-      {
-        "time": "07:40",
-        "title": "米スタバ チポトレ買収を否定",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598572?source=rss",
-        "publishedAt": "2026-10-12T22:40:14.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6598620?source=rss",
+        "publishedAt": "2026-10-13T06:23:36.000Z"
       }
     ],
     "localHeadlines": [

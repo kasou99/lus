@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-13T05:47:26.172Z",
+  "updatedAt": "2026-10-13T06:36:05.506Z",
   "items": [
     {
       "time": "12:33",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "九州新幹線 新たに部品の損傷"
     },
     {
-      "time": "12:02",
-      "title": "渋滞で玉突き 追突された女性死亡",
+      "time": "12:03",
+      "title": "オムロン 米のPCメーカー買収",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598601?source=rss",
-      "publishedAt": "2026-10-13T03:02:07.000Z",
-      "xQuery": "渋滞で玉突き 追突された女性死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6598600?source=rss",
+      "publishedAt": "2026-10-13T03:03:46.000Z",
+      "xQuery": "オムロン 米のPCメーカー買収"
     },
     {
       "time": "14:03",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "こども園でゼリー詰まらせ4歳死亡"
     },
     {
-      "time": "13:33",
-      "title": "シクラメン「生命の設計図」解読",
+      "time": "15:22",
+      "title": "JR東など7社 磁気乗車券を廃止へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598615?source=rss",
-      "publishedAt": "2026-10-13T04:33:56.000Z",
-      "xQuery": "シクラメン「生命の設計図」解読"
+      "url": "https://news.yahoo.co.jp/pickup/6598621?source=rss",
+      "publishedAt": "2026-10-13T06:22:05.000Z",
+      "xQuery": "JR東など7社 磁気乗車券を廃止へ"
     }
   ]
 };
