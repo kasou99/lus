@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-13T08:54:30.491Z",
+  "updatedAt": "2026-10-13T09:24:41.324Z",
   "items": [
     {
       "time": "16:44",
@@ -10,6 +10,14 @@ window.LUS_X_NEWS = {
       "xQuery": "首相 簗氏発言は「本当にダサイ」"
     },
     {
+      "time": "17:59",
+      "title": "PayPay証券障害 日本株取引停止",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6598630?source=rss",
+      "publishedAt": "2026-10-13T08:59:07.000Z",
+      "xQuery": "PayPay証券障害 日本株取引停止"
+    },
+    {
       "time": "17:16",
       "title": "那覇強殺 遺族「苦しい毎日」",
       "source": "Yahoo!ニュース",
@@ -18,28 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "那覇強殺 遺族「苦しい毎日」"
     },
     {
-      "time": "16:13",
-      "title": "韓国で切り付け事件 1人心肺停止",
+      "time": "18:11",
+      "title": "銀のさら運営 650万件情報漏洩か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598625?source=rss",
-      "publishedAt": "2026-10-13T07:13:32.000Z",
-      "xQuery": "韓国で切り付け事件 1人心肺停止"
+      "url": "https://news.yahoo.co.jp/pickup/6598636?source=rss",
+      "publishedAt": "2026-10-13T09:11:02.000Z",
+      "xQuery": "銀のさら運営 650万件情報漏洩か"
     },
     {
-      "time": "15:54",
-      "title": "九州新幹線 一部は終日見合わせに",
+      "time": "17:28",
+      "title": "NHK前会長の稲葉延雄さん死去",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598624?source=rss",
-      "publishedAt": "2026-10-13T06:54:30.000Z",
-      "xQuery": "九州新幹線 一部は終日見合わせに"
-    },
-    {
-      "time": "16:44",
-      "title": "カメムシ大量発生 影響長引く恐れ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598626?source=rss",
-      "publishedAt": "2026-10-13T07:44:04.000Z",
-      "xQuery": "カメムシ大量発生 影響長引く恐れ"
+      "url": "https://news.yahoo.co.jp/pickup/6598632?source=rss",
+      "publishedAt": "2026-10-13T08:28:09.000Z",
+      "xQuery": "NHK前会長の稲葉延雄さん死去"
     }
   ]
 };
