@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-13T22:38:05.414Z",
+  "updatedAt": "2026-10-13T23:14:25.359Z",
   "items": [
     {
       "time": "05:57",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "日本のGDP 来年世界6位の見込み"
     },
     {
-      "time": "22:44",
-      "title": "無免許運転か 車突っ込み男性死亡",
+      "time": "07:37",
+      "title": "ロッククライミング中に滑落 死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598663?source=rss",
-      "publishedAt": "2026-10-13T13:44:13.000Z",
-      "xQuery": "無免許運転か 車突っ込み男性死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6598675?source=rss",
+      "publishedAt": "2026-10-13T22:37:16.000Z",
+      "xQuery": "ロッククライミング中に滑落 死亡"
     },
     {
       "time": "07:23",
