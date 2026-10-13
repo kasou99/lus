@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-13T02:38:01.982Z",
+  "updatedAt": "2026-10-13T03:27:41.658Z",
   "items": [
     {
-      "time": "10:49",
-      "title": "九州新幹線 運転再開は夕方以降に",
+      "time": "11:59",
+      "title": "簗氏との面談記録作成せず 国交相",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598590?source=rss",
-      "publishedAt": "2026-10-13T01:49:06.000Z",
-      "xQuery": "九州新幹線 運転再開は夕方以降に"
+      "url": "https://news.yahoo.co.jp/pickup/6598602?source=rss",
+      "publishedAt": "2026-10-13T02:59:51.000Z",
+      "xQuery": "簗氏との面談記録作成せず 国交相"
     },
     {
       "time": "11:15",
@@ -18,28 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "議員会館でパーティー 文科相謝罪"
     },
     {
-      "time": "09:33",
-      "title": "熟年離婚 修復経ず別れるケース増",
+      "time": "10:49",
+      "title": "九州新幹線 運転再開は夕方以降に",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598584?source=rss",
-      "publishedAt": "2026-10-13T00:33:55.000Z",
-      "xQuery": "熟年離婚 修復経ず別れるケース増"
+      "url": "https://news.yahoo.co.jp/pickup/6598590?source=rss",
+      "publishedAt": "2026-10-13T01:49:06.000Z",
+      "xQuery": "九州新幹線 運転再開は夕方以降に"
     },
     {
-      "time": "09:48",
-      "title": "5年前から閉鎖 東大「赤門」は今",
+      "time": "12:02",
+      "title": "渋滞で玉突き 追突された女性死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598585?source=rss",
-      "publishedAt": "2026-10-13T00:48:04.000Z",
-      "xQuery": "5年前から閉鎖 東大「赤門」は今"
+      "url": "https://news.yahoo.co.jp/pickup/6598601?source=rss",
+      "publishedAt": "2026-10-13T03:02:07.000Z",
+      "xQuery": "渋滞で玉突き 追突された女性死亡"
     },
     {
-      "time": "11:19",
-      "title": "家が買えない なぜ高騰している",
+      "time": "11:38",
+      "title": "愛知小1死亡事件 母親が無罪主張",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598588?source=rss",
-      "publishedAt": "2026-10-13T02:19:22.000Z",
-      "xQuery": "家が買えない なぜ高騰している"
+      "url": "https://news.yahoo.co.jp/pickup/6598596?source=rss",
+      "publishedAt": "2026-10-13T02:38:04.000Z",
+      "xQuery": "愛知小1死亡事件 母親が無罪主張"
     }
   ]
 };
