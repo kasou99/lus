@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-13T07:31:22.432Z",
+  "updatedAt": "2026-10-13T08:29:55.043Z",
   "items": [
     {
-      "time": "15:54",
-      "title": "九州新幹線 一部は終日見合わせに",
+      "time": "16:44",
+      "title": "首相 簗氏発言は「本当にダサイ」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598624?source=rss",
-      "publishedAt": "2026-10-13T06:54:30.000Z",
-      "xQuery": "九州新幹線 一部は終日見合わせに"
+      "url": "https://news.yahoo.co.jp/pickup/6598627?source=rss",
+      "publishedAt": "2026-10-13T07:44:11.000Z",
+      "xQuery": "首相 簗氏発言は「本当にダサイ」"
     },
     {
       "time": "16:13",
@@ -18,12 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "韓国で切り付け事件 1人心肺停止"
     },
     {
-      "time": "15:23",
-      "title": "中国車の輸出なぜ激増 欧州が対応",
+      "time": "15:54",
+      "title": "九州新幹線 一部は終日見合わせに",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598620?source=rss",
-      "publishedAt": "2026-10-13T06:23:36.000Z",
-      "xQuery": "中国車の輸出なぜ激増 欧州が対応"
+      "url": "https://news.yahoo.co.jp/pickup/6598624?source=rss",
+      "publishedAt": "2026-10-13T06:54:30.000Z",
+      "xQuery": "九州新幹線 一部は終日見合わせに"
+    },
+    {
+      "time": "14:45",
+      "title": "死刑配信 米共和党からも出る批判",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6598607?source=rss",
+      "publishedAt": "2026-10-13T05:45:49.000Z",
+      "xQuery": "死刑配信 米共和党からも出る批判"
     },
     {
       "time": "14:03",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6598617?source=rss",
       "publishedAt": "2026-10-13T05:03:24.000Z",
       "xQuery": "こども園でゼリー詰まらせ4歳死亡"
-    },
-    {
-      "time": "15:22",
-      "title": "JR東など7社 磁気乗車券を廃止へ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598621?source=rss",
-      "publishedAt": "2026-10-13T06:22:05.000Z",
-      "xQuery": "JR東など7社 磁気乗車券を廃止へ"
     }
   ]
 };
