@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-13T20:42:22.985Z",
+  "updatedAt": "2026-10-13T21:14:23.479Z",
   "items": [
     {
-      "time": "00:47",
-      "title": "道新記者をサハリンで拘束 露報道",
+      "time": "05:57",
+      "title": "道新記者をサハリンで拘束 露当局",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598669?source=rss",
-      "publishedAt": "2026-10-13T15:47:05.000Z",
-      "xQuery": "道新記者をサハリンで拘束 露報道"
+      "url": "https://news.yahoo.co.jp/pickup/6598670?source=rss",
+      "publishedAt": "2026-10-13T20:57:07.000Z",
+      "xQuery": "道新記者をサハリンで拘束 露当局"
     },
     {
       "time": "00:09",
