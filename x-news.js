@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-13T23:14:25.359Z",
+  "updatedAt": "2026-10-13T23:37:19.667Z",
   "items": [
+    {
+      "time": "08:28",
+      "title": "農相の進退 首相が14日にも判断へ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6598682?source=rss",
+      "publishedAt": "2026-10-13T23:28:06.000Z",
+      "xQuery": "農相の進退 首相が14日にも判断へ"
+    },
     {
       "time": "05:57",
       "title": "道新記者をサハリンで拘束 露当局",
@@ -16,14 +24,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6598672?source=rss",
       "publishedAt": "2026-10-13T21:30:25.000Z",
       "xQuery": "九州新幹線 全線で運転再開"
-    },
-    {
-      "time": "23:25",
-      "title": "日本のGDP 来年世界6位の見込み",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598666?source=rss",
-      "publishedAt": "2026-10-13T14:25:23.000Z",
-      "xQuery": "日本のGDP 来年世界6位の見込み"
     },
     {
       "time": "07:37",
