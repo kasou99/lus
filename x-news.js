@@ -1,14 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-13T11:17:51.329Z",
+  "updatedAt": "2026-10-13T11:44:09.041Z",
   "items": [
-    {
-      "time": "19:37",
-      "title": "14日広く天気急変の恐れ 雷雨注意",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598644?source=rss",
-      "publishedAt": "2026-10-13T10:37:34.000Z",
-      "xQuery": "14日広く天気急変の恐れ 雷雨注意"
-    },
     {
       "time": "18:51",
       "title": "都営地下鉄談合 5社に排除命令へ",
@@ -18,28 +10,36 @@ window.LUS_X_NEWS = {
       "xQuery": "都営地下鉄談合 5社に排除命令へ"
     },
     {
+      "time": "20:15",
+      "title": "イオン中間決算 災害の特損42億円",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6598646?source=rss",
+      "publishedAt": "2026-10-13T11:15:18.000Z",
+      "xQuery": "イオン中間決算 災害の特損42億円"
+    },
+    {
+      "time": "18:01",
+      "title": "簗氏答弁受け 選管「あり得ない」",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6598637?source=rss",
+      "publishedAt": "2026-10-13T09:01:25.000Z",
+      "xQuery": "簗氏答弁受け 選管「あり得ない」"
+    },
+    {
+      "time": "18:29",
+      "title": "露でもクマ襲撃急増 生活に影響",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6598639?source=rss",
+      "publishedAt": "2026-10-13T09:29:49.000Z",
+      "xQuery": "露でもクマ襲撃急増 生活に影響"
+    },
+    {
       "time": "18:38",
       "title": "ゼリー詰まらせ死亡 一口サイズか",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6598640?source=rss",
       "publishedAt": "2026-10-13T09:38:43.000Z",
       "xQuery": "ゼリー詰まらせ死亡 一口サイズか"
-    },
-    {
-      "time": "18:11",
-      "title": "銀のさら運営 650万件情報漏洩か",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598636?source=rss",
-      "publishedAt": "2026-10-13T09:11:02.000Z",
-      "xQuery": "銀のさら運営 650万件情報漏洩か"
-    },
-    {
-      "time": "18:14",
-      "title": "駅周辺にデータセンター計画 波紋",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598633?source=rss",
-      "publishedAt": "2026-10-13T09:14:16.000Z",
-      "xQuery": "駅周辺にデータセンター計画 波紋"
     }
   ]
 };
