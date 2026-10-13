@@ -1,29 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-13T06:36:05.506Z",
+  "updatedAt": "2026-10-13T07:31:22.432Z",
   "items": [
     {
-      "time": "12:33",
-      "title": "簗氏の「お支えチーム」本人釈明",
+      "time": "15:54",
+      "title": "九州新幹線 一部は終日見合わせに",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598610?source=rss",
-      "publishedAt": "2026-10-13T03:33:55.000Z",
-      "xQuery": "簗氏の「お支えチーム」本人釈明"
+      "url": "https://news.yahoo.co.jp/pickup/6598624?source=rss",
+      "publishedAt": "2026-10-13T06:54:30.000Z",
+      "xQuery": "九州新幹線 一部は終日見合わせに"
     },
     {
-      "time": "13:38",
-      "title": "九州新幹線 新たに部品の損傷",
+      "time": "16:13",
+      "title": "韓国で切り付け事件 1人心肺停止",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598616?source=rss",
-      "publishedAt": "2026-10-13T04:38:09.000Z",
-      "xQuery": "九州新幹線 新たに部品の損傷"
+      "url": "https://news.yahoo.co.jp/pickup/6598625?source=rss",
+      "publishedAt": "2026-10-13T07:13:32.000Z",
+      "xQuery": "韓国で切り付け事件 1人心肺停止"
     },
     {
-      "time": "12:03",
-      "title": "オムロン 米のPCメーカー買収",
+      "time": "15:23",
+      "title": "中国車の輸出なぜ激増 欧州が対応",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598600?source=rss",
-      "publishedAt": "2026-10-13T03:03:46.000Z",
-      "xQuery": "オムロン 米のPCメーカー買収"
+      "url": "https://news.yahoo.co.jp/pickup/6598620?source=rss",
+      "publishedAt": "2026-10-13T06:23:36.000Z",
+      "xQuery": "中国車の輸出なぜ激増 欧州が対応"
     },
     {
       "time": "14:03",
