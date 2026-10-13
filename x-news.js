@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-13T05:22:32.449Z",
+  "updatedAt": "2026-10-13T05:47:26.172Z",
   "items": [
     {
       "time": "12:33",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "こども園でゼリー詰まらせ4歳死亡"
     },
     {
-      "time": "11:19",
-      "title": "家が買えない なぜ高騰している",
+      "time": "13:33",
+      "title": "シクラメン「生命の設計図」解読",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598588?source=rss",
-      "publishedAt": "2026-10-13T02:19:22.000Z",
-      "xQuery": "家が買えない なぜ高騰している"
+      "url": "https://news.yahoo.co.jp/pickup/6598615?source=rss",
+      "publishedAt": "2026-10-13T04:33:56.000Z",
+      "xQuery": "シクラメン「生命の設計図」解読"
     }
   ]
 };
