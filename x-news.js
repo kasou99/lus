@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-13T09:47:18.396Z",
+  "updatedAt": "2026-10-13T10:20:28.509Z",
   "items": [
     {
       "time": "16:44",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "PayPay証券障害 日本株取引停止"
     },
     {
-      "time": "17:16",
-      "title": "那覇強殺 遺族「苦しい毎日」",
+      "time": "18:38",
+      "title": "ゼリー詰まらせ死亡 一口サイズか",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598629?source=rss",
-      "publishedAt": "2026-10-13T08:16:02.000Z",
-      "xQuery": "那覇強殺 遺族「苦しい毎日」"
+      "url": "https://news.yahoo.co.jp/pickup/6598640?source=rss",
+      "publishedAt": "2026-10-13T09:38:43.000Z",
+      "xQuery": "ゼリー詰まらせ死亡 一口サイズか"
     },
     {
       "time": "18:11",
