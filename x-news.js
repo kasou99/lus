@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-13T13:49:45.355Z",
+  "updatedAt": "2026-10-13T14:22:11.531Z",
   "items": [
     {
       "time": "22:08",
@@ -10,14 +10,6 @@ window.LUS_X_NEWS = {
       "xQuery": "首相 今夜にも簗氏に電話で聴取"
     },
     {
-      "time": "20:58",
-      "title": "不正アクセス 自治体の配信が停止",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598649?source=rss",
-      "publishedAt": "2026-10-13T11:58:48.000Z",
-      "xQuery": "不正アクセス 自治体の配信が停止"
-    },
-    {
       "time": "21:45",
       "title": "食事券発行の需要喚起策 見送りへ",
       "source": "Yahoo!ニュース",
@@ -26,20 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "食事券発行の需要喚起策 見送りへ"
     },
     {
-      "time": "18:38",
-      "title": "ゼリー詰まらせ死亡 一口サイズか",
+      "time": "23:04",
+      "title": "教科書ページ上限設定へ 70年ぶり",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598640?source=rss",
-      "publishedAt": "2026-10-13T09:38:43.000Z",
-      "xQuery": "ゼリー詰まらせ死亡 一口サイズか"
+      "url": "https://news.yahoo.co.jp/pickup/6598664?source=rss",
+      "publishedAt": "2026-10-13T14:04:27.000Z",
+      "xQuery": "教科書ページ上限設定へ 70年ぶり"
     },
     {
-      "time": "21:21",
-      "title": "バイクではねて逃走疑い 17歳逮捕",
+      "time": "22:44",
+      "title": "無免許運転か 車突っ込み男性死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598652?source=rss",
-      "publishedAt": "2026-10-13T12:21:16.000Z",
-      "xQuery": "バイクではねて逃走疑い 17歳逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6598663?source=rss",
+      "publishedAt": "2026-10-13T13:44:13.000Z",
+      "xQuery": "無免許運転か 車突っ込み男性死亡"
+    },
+    {
+      "time": "22:40",
+      "title": "列車撮影目的か 往来危険疑い逮捕",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6598662?source=rss",
+      "publishedAt": "2026-10-13T13:40:52.000Z",
+      "xQuery": "列車撮影目的か 往来危険疑い逮捕"
     }
   ]
 };

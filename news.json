@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-10-13T13:49:44.327Z",
+  "updatedAt": "2026-10-13T14:22:10.746Z",
   "groups": {
     "machineHeadlines": [
-      {
-        "time": "15:04",
-        "title": "人手不足時代のものづくりを支える、オムロンが描く制御盤の進化",
-        "source": "OMRON Global",
-        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5TUzhnZ1FoMDdwNGppOHlpZ3pMN1lEdng0NjNsUzkyXzdnWkUwd3hiazQ3YnBKQmFTLXQ1LVNIdEpaWGRrYXA2M2F6MGNPbWdoYm9WS0JRMXgwV0JOc09xdA?oc=5",
-        "publishedAt": "2026-10-13T06:04:11.000Z"
-      },
       {
         "time": "17:02",
         "title": "【通期決算発表】 ミクロン精密：工作機械メーカー。自動車部品業界や建設機…(フィスコ)",
         "source": "Yahoo!ファイナンス",
         "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQYV9pX09rbTBYTlRRb2trVkRlY0RGYkU0RWpTaHdhRTVnNVlnVFJjVmFuSDREMXpDMzdiTnM1c1RzSVlnZ3FzVFA0enl3OEJVZnlEYzZJcDFvcEs5Q1Y5NGlCakFmTkxXaU4xVlhWZFBDcmVETnRlZlNJUTE0YTFpZkRQM1hZMEk?oc=5",
         "publishedAt": "2026-10-13T08:02:40.000Z"
+      },
+      {
+        "time": "15:04",
+        "title": "人手不足時代のものづくりを支える、オムロンが描く制御盤の進化",
+        "source": "OMRON Global",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5TUzhnZ1FoMDdwNGppOHlpZ3pMN1lEdng0NjNsUzkyXzdnWkUwd3hiazQ3YnBKQmFTLXQ1LVNIdEpaWGRrYXA2M2F6MGNPbWdoYm9WS0JRMXgwV0JOc09xdA?oc=5",
+        "publishedAt": "2026-10-13T06:04:11.000Z"
       },
       {
         "time": "10:50",
@@ -112,13 +112,6 @@
         "publishedAt": "2026-10-13T11:15:18.000Z"
       },
       {
-        "time": "15:54",
-        "title": "九州新幹線 一部は終日見合わせに",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598624?source=rss",
-        "publishedAt": "2026-10-13T06:54:30.000Z"
-      },
-      {
         "time": "18:51",
         "title": "都営地下鉄談合 5社に排除命令へ",
         "source": "Yahoo!ニュース",
@@ -138,6 +131,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598620?source=rss",
         "publishedAt": "2026-10-13T06:23:36.000Z"
+      },
+      {
+        "time": "23:05",
+        "title": "防衛力強化の対象に鉄道 実現性は",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598665?source=rss",
+        "publishedAt": "2026-10-13T14:05:13.000Z"
       },
       {
         "time": "15:22",
