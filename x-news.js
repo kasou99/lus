@@ -1,29 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-13T14:47:52.084Z",
+  "updatedAt": "2026-10-13T15:19:53.270Z",
   "items": [
     {
-      "time": "22:08",
-      "title": "首相 今夜にも簗氏に電話で聴取",
+      "time": "00:09",
+      "title": "首相 14日に簗氏と面会する意向",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598658?source=rss",
-      "publishedAt": "2026-10-13T13:08:05.000Z",
-      "xQuery": "首相 今夜にも簗氏に電話で聴取"
+      "url": "https://news.yahoo.co.jp/pickup/6598668?source=rss",
+      "publishedAt": "2026-10-13T15:09:03.000Z",
+      "xQuery": "首相 14日に簗氏と面会する意向"
     },
     {
-      "time": "23:04",
-      "title": "教科書ページ上限設定へ 70年ぶり",
+      "time": "22:37",
+      "title": "情報漏えい 一因は「A2B攻撃」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598664?source=rss",
-      "publishedAt": "2026-10-13T14:04:27.000Z",
-      "xQuery": "教科書ページ上限設定へ 70年ぶり"
-    },
-    {
-      "time": "23:05",
-      "title": "防衛力強化の対象に鉄道 実現性は",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598665?source=rss",
-      "publishedAt": "2026-10-13T14:05:13.000Z",
-      "xQuery": "防衛力強化の対象に鉄道 実現性は"
+      "url": "https://news.yahoo.co.jp/pickup/6598659?source=rss",
+      "publishedAt": "2026-10-13T13:37:20.000Z",
+      "xQuery": "情報漏えい 一因は「A2B攻撃」"
     },
     {
       "time": "23:25",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6598663?source=rss",
       "publishedAt": "2026-10-13T13:44:13.000Z",
       "xQuery": "無免許運転か 車突っ込み男性死亡"
+    },
+    {
+      "time": "18:38",
+      "title": "ゼリー詰まらせ死亡 一口サイズか",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6598640?source=rss",
+      "publishedAt": "2026-10-13T09:38:43.000Z",
+      "xQuery": "ゼリー詰まらせ死亡 一口サイズか"
     }
   ]
 };
