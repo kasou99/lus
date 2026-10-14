@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T15:44:08.733Z",
+  "updatedAt": "2026-10-14T16:19:12.337Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -8,6 +8,13 @@
         "source": "MONOist",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5hV01PcHN3WEVFbFFJaGJjTmV3SEFGaXFNRFd6RDdjQkNRRG5DWTJBYW90LXhQUEhYS25IQXRCd1h4VzByVUlxaFhvcVJ2UFVNdndRZTBHWGw1MnFSLVJTeWlkQVA5MGlNTWtWZmdtVQ?oc=5",
         "publishedAt": "2026-10-14T04:00:00.000Z"
+      },
+      {
+        "time": "00:10",
+        "title": "次世代設備保全クラウドのM2X、「ITreview Grid Award 2026 Fall」で最高位の「Leader」を8期連続受賞｜Infoseekニュース",
+        "source": "Infoseek",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE12TXpjY08zSVpjT2EtdHBZXzBRS3J2VVBxYTl2Q1dkd0VGR1JzczJCNk1sQXhvTVNGdGlNUTNNRjlLMXhuNjBoakw3dGZ1aklpdjlweV9udV9CM203WS0tN3diZDJYb2k1UXRvM2FDUkpVQQ?oc=5",
+        "publishedAt": "2026-10-14T15:10:02.000Z"
       },
       {
         "time": "16:23",
@@ -22,13 +29,6 @@
         "source": "オートメーション新聞WEB",
         "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9jZk9ocV9vSVM3Q2QxeTB1MkRHRzRBeVFRdXd0LVc2b25zRUtEQ1pwblZQSTRYSllPOUNLdWVTUWNSTkpsdHpEbGtaQWFyNnV4ZXNPajZIVUlXUQ?oc=5",
         "publishedAt": "2026-10-14T06:00:00.000Z"
-      },
-      {
-        "time": "18:21",
-        "title": "次世代設備保全クラウドのM2X、「ITreview Grid Award 2026 Fall」で最高位の「Leader」を8期連続受賞",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9xUmp2S1RlSDFOR01CaUYxOEVMZnk5WkQwRHJDMFJINjZ3aENodUl5Wm1zR3M0Xzl0U2trbWIxOVBteXpjSGRIVThPY0VWeXV3SDUxYg?oc=5",
-        "publishedAt": "2026-10-14T09:21:24.000Z"
       },
       {
         "time": "17:59",
