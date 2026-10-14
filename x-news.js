@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-14T00:44:26.451Z",
+  "updatedAt": "2026-10-14T01:25:26.458Z",
   "items": [
     {
       "time": "08:28",
@@ -18,12 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "大阪にアンソロ社データ拠点 調整"
     },
     {
-      "time": "09:16",
-      "title": "横浜市で住宅火災 2遺体見つかる",
+      "time": "10:01",
+      "title": "施設で入所者死亡 別の入所者逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598689?source=rss",
-      "publishedAt": "2026-10-14T00:16:12.000Z",
-      "xQuery": "横浜市で住宅火災 2遺体見つかる"
+      "url": "https://news.yahoo.co.jp/pickup/6598694?source=rss",
+      "publishedAt": "2026-10-14T01:01:09.000Z",
+      "xQuery": "施設で入所者死亡 別の入所者逮捕"
+    },
+    {
+      "time": "09:29",
+      "title": "ローマ教皇手術 肺腺がんを確認",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6598691?source=rss",
+      "publishedAt": "2026-10-14T00:29:53.000Z",
+      "xQuery": "ローマ教皇手術 肺腺がんを確認"
     },
     {
       "time": "08:31",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6598679?source=rss",
       "publishedAt": "2026-10-13T23:31:21.000Z",
       "xQuery": "停止義務ないのに違反に ミス63件"
-    },
-    {
-      "time": "09:21",
-      "title": "AIに任せた仕事でミス 責任は誰に",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598688?source=rss",
-      "publishedAt": "2026-10-14T00:21:56.000Z",
-      "xQuery": "AIに任せた仕事でミス 責任は誰に"
     }
   ]
 };
