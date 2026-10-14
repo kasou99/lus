@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-14T09:43:11.553Z",
+  "updatedAt": "2026-10-14T10:18:39.317Z",
   "items": [
     {
-      "time": "17:46",
-      "title": "首相 農相を交代させる方針固める",
+      "time": "19:01",
+      "title": "簗農相が辞表提出 事実上の更迭か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598753?source=rss",
-      "publishedAt": "2026-10-14T08:46:45.000Z",
-      "xQuery": "首相 農相を交代させる方針固める"
+      "url": "https://news.yahoo.co.jp/pickup/6598765?source=rss",
+      "publishedAt": "2026-10-14T10:01:47.000Z",
+      "xQuery": "簗農相が辞表提出 事実上の更迭か"
     },
     {
       "time": "17:55",
