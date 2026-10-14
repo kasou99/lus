@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-14T10:18:39.317Z",
+  "updatedAt": "2026-10-14T10:41:19.127Z",
   "items": [
     {
       "time": "19:01",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "幼い娘が偏食 追い詰められた母親"
     },
     {
-      "time": "17:20",
-      "title": "大樹生命の元社員を逮捕 詐取疑い",
+      "time": "19:14",
+      "title": "プール授業中に溺死 元担任も有罪",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598748?source=rss",
-      "publishedAt": "2026-10-14T08:20:06.000Z",
-      "xQuery": "大樹生命の元社員を逮捕 詐取疑い"
+      "url": "https://news.yahoo.co.jp/pickup/6598763?source=rss",
+      "publishedAt": "2026-10-14T10:14:38.000Z",
+      "xQuery": "プール授業中に溺死 元担任も有罪"
     },
     {
       "time": "12:11",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "給食に「貧相すぎ」と批判 市回答"
     },
     {
-      "time": "14:51",
-      "title": "ウインナー なぜ2袋セットで販売",
+      "time": "17:33",
+      "title": "BOOKOFF「本売るなら」から変身",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598731?source=rss",
-      "publishedAt": "2026-10-14T05:51:34.000Z",
-      "xQuery": "ウインナー なぜ2袋セットで販売"
+      "url": "https://news.yahoo.co.jp/pickup/6598750?source=rss",
+      "publishedAt": "2026-10-14T08:33:40.000Z",
+      "xQuery": "BOOKOFF「本売るなら」から変身"
     }
   ]
 };
