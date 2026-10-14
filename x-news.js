@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-14T07:22:17.230Z",
+  "updatedAt": "2026-10-14T07:44:22.648Z",
   "items": [
     {
       "time": "16:15",
@@ -10,22 +10,6 @@ window.LUS_X_NEWS = {
       "xQuery": "ワールドとTSI 経営統合で合意"
     },
     {
-      "time": "14:30",
-      "title": "ハッカー集団Qilin AI利用と主張",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598729?source=rss",
-      "publishedAt": "2026-10-14T05:30:04.000Z",
-      "xQuery": "ハッカー集団Qilin AI利用と主張"
-    },
-    {
-      "time": "14:01",
-      "title": "ウのEU加盟 ハンガリー反対撤回",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598724?source=rss",
-      "publishedAt": "2026-10-14T05:01:19.000Z",
-      "xQuery": "ウのEU加盟 ハンガリー反対撤回"
-    },
-    {
       "time": "15:27",
       "title": "簗氏 24年衆院選で運動員買収疑惑",
       "source": "Yahoo!ニュース",
@@ -34,12 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "簗氏 24年衆院選で運動員買収疑惑"
     },
     {
+      "time": "15:42",
+      "title": "露で記者拘束 道新「詳細確認中」",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6598736?source=rss",
+      "publishedAt": "2026-10-14T06:42:07.000Z",
+      "xQuery": "露で記者拘束 道新「詳細確認中」"
+    },
+    {
       "time": "14:14",
       "title": "積み荷はニワトリ3000羽 崩れ散乱",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6598727?source=rss",
       "publishedAt": "2026-10-14T05:14:43.000Z",
       "xQuery": "積み荷はニワトリ3000羽 崩れ散乱"
+    },
+    {
+      "time": "15:25",
+      "title": "だんじり事故 主催者らの責任は",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6598733?source=rss",
+      "publishedAt": "2026-10-14T06:25:06.000Z",
+      "xQuery": "だんじり事故 主催者らの責任は"
     }
   ]
 };

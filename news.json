@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T07:22:16.548Z",
+  "updatedAt": "2026-10-14T07:44:21.213Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,18 +31,18 @@
         "publishedAt": "2026-10-14T03:46:00.000Z"
       },
       {
-        "time": "12:00",
-        "title": "日鉄テックスエンジの多機能ポータブル診断機 危険個所の振動を安全に取得",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9WSWhLQ1F4QzNNR3gzellmbEMyRS1FYkY1RHdvSE9GcUJJU2thTUxuekN2UzBFS0hoMy01NHBuZDNaWlZySDdOZzJkczkwVEJXSlJST2dQSkI?oc=5",
-        "publishedAt": "2026-10-14T03:00:00.000Z"
-      },
-      {
         "time": "15:00",
         "title": "がん治療や廃炉の研究を支える「教育用原子炉」が存続危機…稼働中は近畿大の1基のみ",
         "source": "東京新聞",
         "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE00T3hNZFFOTW5WM2ZKQXMyY3gtQTNqQ3Q1Q2FtdWpXMjFQYjhDYVZsb2FBcXBYSm1Wa2lubWVYbkVudExJUURudmZ4Mmk5NTNncEF3?oc=5",
         "publishedAt": "2026-10-14T06:00:00.000Z"
+      },
+      {
+        "time": "12:00",
+        "title": "日鉄テックスエンジの多機能ポータブル診断機 危険個所の振動を安全に取得",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9WSWhLQ1F4QzNNR3gzellmbEMyRS1FYkY1RHdvSE9GcUJJU2thTUxuekN2UzBFS0hoMy01NHBuZDNaWlZySDdOZzJkczkwVEJXSlJST2dQSkI?oc=5",
+        "publishedAt": "2026-10-14T03:00:00.000Z"
       },
       {
         "time": "17:02",
@@ -52,11 +52,11 @@
         "publishedAt": "2026-10-13T08:02:40.000Z"
       },
       {
-        "time": "10:08",
-        "title": "【トランスコスモスオンラインセミナー】製造業DXを加速する！シリーズ第4弾を9月17日（木）に開催",
+        "time": "20:45",
+        "title": "【9/16（水）11:00‐】次世代設備保全クラウド「M2X」で何ができる？無料オンラインデモセミナー開催",
         "source": "朝日新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1PU1llZ29LYmJ2dm1aMWdVdmtBNTNZS3dLbmdyVHdQNlByaHpTdjZzZlo0a1RuNG1zZ2hJb0Rkekp0ckZmY2toWkxsOG1NNDUxdVNlM1pLWkdTQlE?oc=5",
-        "publishedAt": "2026-10-14T01:08:15.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBTWDhoSnk2STBHcERodFViWklsV3NseXNoY3pVYnQyY0NKMGJaU2gwTEEyY0tBRDFDTWpRenFaUVlDRXl3S1I4U19zOEEwcGMyNE14U1hfZWtQaVk?oc=5",
+        "publishedAt": "2026-10-13T11:45:31.000Z"
       }
     ],
     "worldHeadlines": [
