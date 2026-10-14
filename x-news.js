@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-14T12:49:11.595Z",
+  "updatedAt": "2026-10-14T13:16:10.295Z",
   "items": [
     {
       "time": "21:26",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "農相「これ以上迷惑かけられず」"
     },
     {
-      "time": "19:33",
-      "title": "警察官がひき逃げ疑い 書類送検",
+      "time": "22:01",
+      "title": "新宿109KENZO 池田容疑者を逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598767?source=rss",
-      "publishedAt": "2026-10-14T10:33:49.000Z",
-      "xQuery": "警察官がひき逃げ疑い 書類送検"
+      "url": "https://news.yahoo.co.jp/pickup/6598783?source=rss",
+      "publishedAt": "2026-10-14T13:01:56.000Z",
+      "xQuery": "新宿109KENZO 池田容疑者を逮捕"
     },
     {
       "time": "20:22",
