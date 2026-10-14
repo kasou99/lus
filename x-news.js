@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-14T05:17:37.000Z",
+  "updatedAt": "2026-10-14T05:42:04.304Z",
   "items": [
+    {
+      "time": "14:30",
+      "title": "ハッカー集団Qilin AI利用と主張",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6598729?source=rss",
+      "publishedAt": "2026-10-14T05:30:04.000Z",
+      "xQuery": "ハッカー集団Qilin AI利用と主張"
+    },
     {
       "time": "14:01",
       "title": "ウのEU加盟 ハンガリー反対撤回",
@@ -10,36 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "ウのEU加盟 ハンガリー反対撤回"
     },
     {
-      "time": "13:01",
-      "title": "PayPay証券 システム障害が解消",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598720?source=rss",
-      "publishedAt": "2026-10-14T04:01:42.000Z",
-      "xQuery": "PayPay証券 システム障害が解消"
-    },
-    {
-      "time": "11:45",
-      "title": "ブックオフ 退会の21万人も漏えい",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598706?source=rss",
-      "publishedAt": "2026-10-14T02:45:47.000Z",
-      "xQuery": "ブックオフ 退会の21万人も漏えい"
-    },
-    {
-      "time": "14:04",
-      "title": "内向の世代 黒井千次さんが死去",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598726?source=rss",
-      "publishedAt": "2026-10-14T05:04:29.000Z",
-      "xQuery": "内向の世代 黒井千次さんが死去"
-    },
-    {
       "time": "12:11",
       "title": "給食に「貧相すぎ」と批判 市回答",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6598715?source=rss",
       "publishedAt": "2026-10-14T03:11:33.000Z",
       "xQuery": "給食に「貧相すぎ」と批判 市回答"
+    },
+    {
+      "time": "14:14",
+      "title": "積み荷はニワトリ3000羽 崩れ散乱",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6598727?source=rss",
+      "publishedAt": "2026-10-14T05:14:43.000Z",
+      "xQuery": "積み荷はニワトリ3000羽 崩れ散乱"
+    },
+    {
+      "time": "14:26",
+      "title": "イオン系スーパー100店閉店 なぜ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6598728?source=rss",
+      "publishedAt": "2026-10-14T05:26:12.000Z",
+      "xQuery": "イオン系スーパー100店閉店 なぜ"
     }
   ]
 };

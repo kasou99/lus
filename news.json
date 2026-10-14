@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T05:17:36.333Z",
+  "updatedAt": "2026-10-14T05:42:03.547Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -105,13 +105,6 @@
     ],
     "economyHeadlines": [
       {
-        "time": "06:30",
-        "title": "九州新幹線 全線で運転再開",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598672?source=rss",
-        "publishedAt": "2026-10-13T21:30:25.000Z"
-      },
-      {
         "time": "13:01",
         "title": "PayPay証券 システム障害が解消",
         "source": "Yahoo!ニュース",
@@ -131,6 +124,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598633?source=rss",
         "publishedAt": "2026-10-13T09:14:16.000Z"
+      },
+      {
+        "time": "14:26",
+        "title": "イオン系スーパー100店閉店 なぜ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598728?source=rss",
+        "publishedAt": "2026-10-14T05:26:12.000Z"
       },
       {
         "time": "10:55",
