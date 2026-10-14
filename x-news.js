@@ -1,13 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-14T01:48:01.293Z",
+  "updatedAt": "2026-10-14T02:24:19.566Z",
   "items": [
     {
-      "time": "08:28",
-      "title": "農相の進退 首相が14日にも判断へ",
+      "time": "09:39",
+      "title": "米政権 看板の移民政策「逆風」に",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598682?source=rss",
-      "publishedAt": "2026-10-13T23:28:06.000Z",
-      "xQuery": "農相の進退 首相が14日にも判断へ"
+      "url": "https://news.yahoo.co.jp/pickup/6598692?source=rss",
+      "publishedAt": "2026-10-14T00:39:58.000Z",
+      "xQuery": "米政権 看板の移民政策「逆風」に"
+    },
+    {
+      "time": "10:37",
+      "title": "簗氏への抗議決議を可決 那須烏山",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6598698?source=rss",
+      "publishedAt": "2026-10-14T01:37:06.000Z",
+      "xQuery": "簗氏への抗議決議を可決 那須烏山"
     },
     {
       "time": "08:44",
@@ -18,14 +26,6 @@ window.LUS_X_NEWS = {
       "xQuery": "裁判所 夜間業務「性別問わず」に"
     },
     {
-      "time": "10:01",
-      "title": "施設で入所者死亡 別の入所者逮捕",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598694?source=rss",
-      "publishedAt": "2026-10-14T01:01:09.000Z",
-      "xQuery": "施設で入所者死亡 別の入所者逮捕"
-    },
-    {
       "time": "10:26",
       "title": "動物避けようとして車転落か 死亡",
       "source": "Yahoo!ニュース",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "動物避けようとして車転落か 死亡"
     },
     {
-      "time": "08:31",
-      "title": "停止義務ないのに違反に ミス63件",
+      "time": "11:13",
+      "title": "警察署金庫から百万円消える 捜査",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598679?source=rss",
-      "publishedAt": "2026-10-13T23:31:21.000Z",
-      "xQuery": "停止義務ないのに違反に ミス63件"
+      "url": "https://news.yahoo.co.jp/pickup/6598702?source=rss",
+      "publishedAt": "2026-10-14T02:13:55.000Z",
+      "xQuery": "警察署金庫から百万円消える 捜査"
     }
   ]
 };

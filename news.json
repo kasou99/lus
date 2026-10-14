@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T01:48:00.745Z",
+  "updatedAt": "2026-10-14T02:24:18.830Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,18 +31,18 @@
         "publishedAt": "2026-10-13T06:04:11.000Z"
       },
       {
-        "time": "10:50",
-        "title": "工作機械受注が教えてくれる日本株・世界経済（26 年9 月） | 藤代 宏一 | 第一ライフ資産運用経済研究所",
-        "source": "第一ライフ資産運用経済研究所",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBRaUktODNmSFlkTWd3VmhBVGJKNkpKN1BwdmlDQ1FFUGJGc2pTejJOQ1ZNWkZweDVXR0E1dVl2dk9FWHNpdzFWSmUyeDd4RVNtcE1BYjhZWGNzYjA?oc=5",
-        "publishedAt": "2026-10-13T01:50:40.000Z"
-      },
-      {
         "time": "13:00",
         "title": "ヤマザキマザック、省スペースの中大型部品向け門形マシニング 最大ワーク質量3t：工作機械",
         "source": "MONOist",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE03R2F3dnFrSkVPWmVBdFNuRDJxTEk3TllEakRvR2R4U0oxZ1VLSXJQMzQwbVhuYmZILU9kSG5Eb1Q0MGtlT1ZKczlrdjZ5bW9YVmxQNWlsY0NGc01ESmJWMXNGN2plMjgwTXFPaGZfZw?oc=5",
         "publishedAt": "2026-10-13T04:00:00.000Z"
+      },
+      {
+        "time": "11:00",
+        "title": "次世代設備保全クラウドのM2X、「ITreview Grid Award 2026 Fall」で最高位の「Leader」を8期連続受賞",
+        "source": "PR TIMES",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5kTXVPamNldGV6X1ViZUFaY2NaNnM1a3VvTUFvOVA1cHYtU1V5ejl6Zl80MS1PVzA2Rk1ZWUthOFpna2lwUEpHc3BqWTNXYzEySWg1dU5fUkZOR0Jrdk53NEFuVzNNbGsxdkE?oc=5",
+        "publishedAt": "2026-10-14T02:00:02.000Z"
       },
       {
         "time": "14:08",
@@ -66,6 +66,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598670?source=rss",
         "publishedAt": "2026-10-13T20:57:07.000Z"
+      },
+      {
+        "time": "11:00",
+        "title": "銃殺刑の配信 米大統領が中止検討",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598700?source=rss",
+        "publishedAt": "2026-10-14T02:00:59.000Z"
       },
       {
         "time": "09:29",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598604?source=rss",
         "publishedAt": "2026-10-13T06:14:18.000Z"
-      },
-      {
-        "time": "09:39",
-        "title": "米政権 看板の移民政策「逆風」に",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598692?source=rss",
-        "publishedAt": "2026-10-14T00:39:58.000Z"
       }
     ],
     "economyHeadlines": [
@@ -119,20 +119,6 @@
         "publishedAt": "2026-10-13T14:25:23.000Z"
       },
       {
-        "time": "18:51",
-        "title": "都営地下鉄談合 5社に排除命令へ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598641?source=rss",
-        "publishedAt": "2026-10-13T09:51:01.000Z"
-      },
-      {
-        "time": "17:59",
-        "title": "PayPay証券障害 日本株取引停止",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598630?source=rss",
-        "publishedAt": "2026-10-13T08:59:07.000Z"
-      },
-      {
         "time": "15:22",
         "title": "JR東など7社 磁気乗車券を廃止へ",
         "source": "Yahoo!ニュース",
@@ -145,6 +131,20 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598633?source=rss",
         "publishedAt": "2026-10-13T09:14:16.000Z"
+      },
+      {
+        "time": "11:19",
+        "title": "家が買えない なぜ高騰している",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598588?source=rss",
+        "publishedAt": "2026-10-13T02:19:22.000Z"
+      },
+      {
+        "time": "10:55",
+        "title": "吉本興業 SBIと戦略的業務提携へ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598699?source=rss",
+        "publishedAt": "2026-10-14T01:55:50.000Z"
       }
     ],
     "localHeadlines": [
@@ -154,13 +154,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598698?source=rss",
         "publishedAt": "2026-10-14T01:37:06.000Z"
-      },
-      {
-        "time": "09:16",
-        "title": "横浜市で住宅火災 2遺体見つかる",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598689?source=rss",
-        "publishedAt": "2026-10-14T00:16:12.000Z"
       },
       {
         "time": "10:26",
@@ -175,6 +168,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598675?source=rss",
         "publishedAt": "2026-10-13T22:37:16.000Z"
+      },
+      {
+        "time": "11:13",
+        "title": "警察署金庫から百万円消える 捜査",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598702?source=rss",
+        "publishedAt": "2026-10-14T02:13:55.000Z"
       },
       {
         "time": "22:44",
