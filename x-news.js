@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-14T01:25:26.458Z",
+  "updatedAt": "2026-10-14T01:48:01.293Z",
   "items": [
     {
       "time": "08:28",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "農相の進退 首相が14日にも判断へ"
     },
     {
-      "time": "09:02",
-      "title": "大阪にアンソロ社データ拠点 調整",
+      "time": "08:44",
+      "title": "裁判所 夜間業務「性別問わず」に",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598686?source=rss",
-      "publishedAt": "2026-10-14T00:02:47.000Z",
-      "xQuery": "大阪にアンソロ社データ拠点 調整"
+      "url": "https://news.yahoo.co.jp/pickup/6598684?source=rss",
+      "publishedAt": "2026-10-13T23:44:46.000Z",
+      "xQuery": "裁判所 夜間業務「性別問わず」に"
     },
     {
       "time": "10:01",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "施設で入所者死亡 別の入所者逮捕"
     },
     {
-      "time": "09:29",
-      "title": "ローマ教皇手術 肺腺がんを確認",
+      "time": "10:26",
+      "title": "動物避けようとして車転落か 死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598691?source=rss",
-      "publishedAt": "2026-10-14T00:29:53.000Z",
-      "xQuery": "ローマ教皇手術 肺腺がんを確認"
+      "url": "https://news.yahoo.co.jp/pickup/6598697?source=rss",
+      "publishedAt": "2026-10-14T01:26:21.000Z",
+      "xQuery": "動物避けようとして車転落か 死亡"
     },
     {
       "time": "08:31",
