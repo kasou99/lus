@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T05:42:03.547Z",
+  "updatedAt": "2026-10-14T06:30:18.909Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,18 +17,18 @@
         "publishedAt": "2026-10-14T00:15:00.000Z"
       },
       {
+        "time": "15:00",
+        "title": "盤レス or 通常の制御盤 という話ではない 選択肢ができた喜びを素直に享受しよう",
+        "source": "オートメーション新聞WEB",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9jZk9ocV9vSVM3Q2QxeTB1MkRHRzRBeVFRdXd0LVc2b25zRUtEQ1pwblZQSTRYSllPOUNLdWVTUWNSTkpsdHpEbGtaQWFyNnV4ZXNPajZIVUlXUQ?oc=5",
+        "publishedAt": "2026-10-14T06:00:00.000Z"
+      },
+      {
         "time": "12:46",
         "title": "JIMTOF2026にベッコフオートメーションが出展、工作機械の自由度の高い機能開発をテーマに展示",
         "source": "時事ドットコム",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9vN21FZjBkcmFTYUd5YmF6U0QwTG1RS052YVFrUVQ0VWNUSDVHNzUtMEc2T0JxNHFOWGdjRUJyN0ZEaGZ4VWZBSDU5ekRzbkx0bm9hWjFPeGpvM19LZHpTZ0puOENwbGpXMkxN?oc=5",
         "publishedAt": "2026-10-14T03:46:00.000Z"
-      },
-      {
-        "time": "17:02",
-        "title": "【通期決算発表】 ミクロン精密：工作機械メーカー。自動車部品業界や建設機…(フィスコ)",
-        "source": "Yahoo!ファイナンス",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQYV9pX09rbTBYTlRRb2trVkRlY0RGYkU0RWpTaHdhRTVnNVlnVFJjVmFuSDREMXpDMzdiTnM1c1RzSVlnZ3FzVFA0enl3OEJVZnlEYzZJcDFvcEs5Q1Y5NGlCakFmTkxXaU4xVlhWZFBDcmVETnRlZlNJUTE0YTFpZkRQM1hZMEk?oc=5",
-        "publishedAt": "2026-10-13T08:02:40.000Z"
       },
       {
         "time": "12:00",
@@ -38,25 +38,25 @@
         "publishedAt": "2026-10-14T03:00:00.000Z"
       },
       {
-        "time": "15:04",
-        "title": "人手不足時代のものづくりを支える、オムロンが描く制御盤の進化",
-        "source": "OMRON Global",
-        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5TUzhnZ1FoMDdwNGppOHlpZ3pMN1lEdng0NjNsUzkyXzdnWkUwd3hiazQ3YnBKQmFTLXQ1LVNIdEpaWGRrYXA2M2F6MGNPbWdoYm9WS0JRMXgwV0JOc09xdA?oc=5",
-        "publishedAt": "2026-10-13T06:04:11.000Z"
+        "time": "15:00",
+        "title": "がん治療や廃炉の研究を支える「教育用原子炉」が存続危機…稼働中は近畿大の1基のみ",
+        "source": "東京新聞",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE00T3hNZFFOTW5WM2ZKQXMyY3gtQTNqQ3Q1Q2FtdWpXMjFQYjhDYVZsb2FBcXBYSm1Wa2lubWVYbkVudExJUURudmZ4Mmk5NTNncEF3?oc=5",
+        "publishedAt": "2026-10-14T06:00:00.000Z"
       },
       {
-        "time": "13:16",
-        "title": "次世代設備保全クラウドのM2X、「ITreview Grid Award 2026 Fall」で最高位の「Leader」を8期連続受賞",
-        "source": "時事ドットコム",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBHQ090QXBVWFR4a1duSjFFRllBdko3aThrOTNoZGh6Q09SU0ozM1BELUlscjNfdXp5Vmg2bmE2UDZpNU9sOXNES3IzMTNKZlJIRHYyNkJpdkZ2OXJHdWlEQm41UDFUS0hjRklZ?oc=5",
-        "publishedAt": "2026-10-14T04:16:00.000Z"
+        "time": "17:02",
+        "title": "【通期決算発表】 ミクロン精密：工作機械メーカー。自動車部品業界や建設機…(フィスコ)",
+        "source": "Yahoo!ファイナンス",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQYV9pX09rbTBYTlRRb2trVkRlY0RGYkU0RWpTaHdhRTVnNVlnVFJjVmFuSDREMXpDMzdiTnM1c1RzSVlnZ3FzVFA0enl3OEJVZnlEYzZJcDFvcEs5Q1Y5NGlCakFmTkxXaU4xVlhWZFBDcmVETnRlZlNJUTE0YTFpZkRQM1hZMEk?oc=5",
+        "publishedAt": "2026-10-13T08:02:40.000Z"
       },
       {
-        "time": "22:00",
-        "title": "応用技術、日本国際工作機械見本市「JIMTOF2026」に出展",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBQRGV1a3J2amlVMWhUajIwMXhCOHFBNUV3NnNTWVVDdzRKVVp5WlVfY2hpUW5DWTNYVll2VVFmbmNtbWNsUFJsdGltbWJyMS04a3ZqVl9scFpzMXZZdUhMR1Rjb3p6anZl?oc=5",
-        "publishedAt": "2026-10-13T13:00:17.000Z"
+        "time": "20:45",
+        "title": "【9/16（水）11:00‐】次世代設備保全クラウド「M2X」で何ができる？無料オンラインデモセミナー開催",
+        "source": "朝日新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBTWDhoSnk2STBHcERodFViWklsV3NseXNoY3pVYnQyY0NKMGJaU2gwTEEyY0tBRDFDTWpRenFaUVlDRXl3S1I4U19zOEEwcGMyNE14U1hfZWtQaVk?oc=5",
+        "publishedAt": "2026-10-13T11:45:31.000Z"
       }
     ],
     "worldHeadlines": [
@@ -140,11 +140,11 @@
         "publishedAt": "2026-10-14T01:55:50.000Z"
       },
       {
-        "time": "07:23",
-        "title": "道頓堀グリコサイン 来春7代目に",
+        "time": "11:47",
+        "title": "ディズニー 客船名はIMAGINATION",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598673?source=rss",
-        "publishedAt": "2026-10-13T22:23:24.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6598705?source=rss",
+        "publishedAt": "2026-10-14T02:47:22.000Z"
       }
     ],
     "localHeadlines": [
@@ -170,11 +170,18 @@
         "publishedAt": "2026-10-14T01:26:21.000Z"
       },
       {
-        "time": "07:37",
-        "title": "ロッククライミング中に滑落 死亡",
+        "time": "15:25",
+        "title": "だんじり事故 主催者らの責任は",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598675?source=rss",
-        "publishedAt": "2026-10-13T22:37:16.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6598733?source=rss",
+        "publishedAt": "2026-10-14T06:25:06.000Z"
+      },
+      {
+        "time": "14:43",
+        "title": "店の犬猫に無資格で注射疑い 逮捕",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598730?source=rss",
+        "publishedAt": "2026-10-14T05:43:56.000Z"
       },
       {
         "time": "11:13",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598702?source=rss",
         "publishedAt": "2026-10-14T02:13:55.000Z"
-      },
-      {
-        "time": "08:31",
-        "title": "停止義務ないのに違反に ミス63件",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598679?source=rss",
-        "publishedAt": "2026-10-13T23:31:21.000Z"
       }
     ],
     "subsidyHeadlines": [
