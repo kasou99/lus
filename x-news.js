@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-14T11:40:36.559Z",
+  "updatedAt": "2026-10-14T12:27:14.847Z",
   "items": [
     {
       "time": "19:49",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "警察官がひき逃げ疑い 書類送検"
     },
     {
-      "time": "12:11",
-      "title": "給食に「貧相すぎ」と批判 市回答",
+      "time": "20:22",
+      "title": "がんでカツラ 1人で遺影撮った妻",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598715?source=rss",
-      "publishedAt": "2026-10-14T03:11:33.000Z",
-      "xQuery": "給食に「貧相すぎ」と批判 市回答"
+      "url": "https://news.yahoo.co.jp/pickup/6598775?source=rss",
+      "publishedAt": "2026-10-14T11:22:42.000Z",
+      "xQuery": "がんでカツラ 1人で遺影撮った妻"
     }
   ]
 };
