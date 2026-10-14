@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-13T23:37:18.800Z",
+  "updatedAt": "2026-10-14T00:44:25.728Z",
   "groups": {
     "machineHeadlines": [
       {
-        "time": "15:04",
-        "title": "人手不足時代のものづくりを支える、オムロンが描く制御盤の進化",
-        "source": "OMRON Global",
-        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5TUzhnZ1FoMDdwNGppOHlpZ3pMN1lEdng0NjNsUzkyXzdnWkUwd3hiazQ3YnBKQmFTLXQ1LVNIdEpaWGRrYXA2M2F6MGNPbWdoYm9WS0JRMXgwV0JOc09xdA?oc=5",
-        "publishedAt": "2026-10-13T06:04:11.000Z"
+        "time": "09:15",
+        "title": "「工作機械」に注目 政府が戦略17分野への投資強化、 工場の自動化投資も拡大",
+        "source": "日経CNBC online",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBySTB3ekJXdDZfQUoxVlNpcXU0MVZvSk5kSXVlOFhWcURmcnJiSlJ1QUJCV2dGaVktb3VLTEpMMDlQS0JRTVdGTUhDY2Z0aFRJQ1BTZg?oc=5",
+        "publishedAt": "2026-10-14T00:15:00.000Z"
       },
       {
         "time": "17:02",
@@ -15,6 +15,13 @@
         "source": "Yahoo!ファイナンス",
         "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQYV9pX09rbTBYTlRRb2trVkRlY0RGYkU0RWpTaHdhRTVnNVlnVFJjVmFuSDREMXpDMzdiTnM1c1RzSVlnZ3FzVFA0enl3OEJVZnlEYzZJcDFvcEs5Q1Y5NGlCakFmTkxXaU4xVlhWZFBDcmVETnRlZlNJUTE0YTFpZkRQM1hZMEk?oc=5",
         "publishedAt": "2026-10-13T08:02:40.000Z"
+      },
+      {
+        "time": "15:04",
+        "title": "人手不足時代のものづくりを支える、オムロンが描く制御盤の進化",
+        "source": "OMRON Global",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5TUzhnZ1FoMDdwNGppOHlpZ3pMN1lEdng0NjNsUzkyXzdnWkUwd3hiazQ3YnBKQmFTLXQ1LVNIdEpaWGRrYXA2M2F6MGNPbWdoYm9WS0JRMXgwV0JOc09xdA?oc=5",
+        "publishedAt": "2026-10-13T06:04:11.000Z"
       },
       {
         "time": "10:50",
@@ -50,13 +57,6 @@
         "source": "MOTA",
         "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBTbmdiaXRfbnVDMUJLMzQ2cGI5ZVlBWlNBdS1XTkt6b09zbDh5bFgyR010cURhN0t1OGFqMTBUM0M2WUtyZWhZd1BB?oc=5",
         "publishedAt": "2026-10-13T05:08:40.000Z"
-      },
-      {
-        "time": "10:45",
-        "title": "リックス(7525) 1Qの売上高・営業利益は過去最高。「電子・半導体」「工作機械」が特に好調",
-        "source": "QUICK Money World",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9jWkJoMEdtVHN3c2VXaGtUajFhd1RJUTBHU1hRZG9kT0w1Ykd3eTFZeTN0aElhQlpJWGx4akVFakM3Vm5hWVMzdkFrRmd1Nm1SU3pwVUZn?oc=5",
-        "publishedAt": "2026-10-13T01:45:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -68,6 +68,13 @@
         "publishedAt": "2026-10-13T20:57:07.000Z"
       },
       {
+        "time": "09:29",
+        "title": "ローマ教皇手術 肺腺がんを確認",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598691?source=rss",
+        "publishedAt": "2026-10-14T00:29:53.000Z"
+      },
+      {
         "time": "16:13",
         "title": "韓国で切り付け事件 1人心肺停止",
         "source": "Yahoo!ニュース",
@@ -75,18 +82,11 @@
         "publishedAt": "2026-10-13T07:13:32.000Z"
       },
       {
-        "time": "11:34",
-        "title": "中間選挙にマスク氏440億円投入か",
+        "time": "08:37",
+        "title": "写真大手ゲッティ 米破産法申請へ",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598597?source=rss",
-        "publishedAt": "2026-10-13T02:34:19.000Z"
-      },
-      {
-        "time": "08:27",
-        "title": "正恩氏と「会うかも」トランプ氏",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598577?source=rss",
-        "publishedAt": "2026-10-12T23:27:12.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6598683?source=rss",
+        "publishedAt": "2026-10-13T23:37:09.000Z"
       },
       {
         "time": "15:14",
@@ -96,11 +96,11 @@
         "publishedAt": "2026-10-13T06:14:18.000Z"
       },
       {
-        "time": "14:45",
-        "title": "死刑配信 米共和党からも出る批判",
+        "time": "09:39",
+        "title": "米政権 看板の移民政策「逆風」に",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598607?source=rss",
-        "publishedAt": "2026-10-13T05:45:49.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6598692?source=rss",
+        "publishedAt": "2026-10-14T00:39:58.000Z"
       }
     ],
     "economyHeadlines": [
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "09:16",
+        "title": "横浜市で住宅火災 2遺体見つかる",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598689?source=rss",
+        "publishedAt": "2026-10-14T00:16:12.000Z"
+      },
+      {
         "time": "07:37",
         "title": "ロッククライミング中に滑落 死亡",
         "source": "Yahoo!ニュース",
@@ -168,13 +175,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598663?source=rss",
         "publishedAt": "2026-10-13T13:44:13.000Z"
-      },
-      {
-        "time": "21:21",
-        "title": "バイクではねて逃走疑い 17歳逮捕",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598652?source=rss",
-        "publishedAt": "2026-10-13T12:21:16.000Z"
       },
       {
         "time": "14:03",

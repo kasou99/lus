@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-13T23:37:19.667Z",
+  "updatedAt": "2026-10-14T00:44:26.451Z",
   "items": [
     {
       "time": "08:28",
@@ -10,36 +10,36 @@ window.LUS_X_NEWS = {
       "xQuery": "農相の進退 首相が14日にも判断へ"
     },
     {
-      "time": "05:57",
-      "title": "道新記者をサハリンで拘束 露当局",
+      "time": "09:02",
+      "title": "大阪にアンソロ社データ拠点 調整",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598670?source=rss",
-      "publishedAt": "2026-10-13T20:57:07.000Z",
-      "xQuery": "道新記者をサハリンで拘束 露当局"
+      "url": "https://news.yahoo.co.jp/pickup/6598686?source=rss",
+      "publishedAt": "2026-10-14T00:02:47.000Z",
+      "xQuery": "大阪にアンソロ社データ拠点 調整"
     },
     {
-      "time": "06:30",
-      "title": "九州新幹線 全線で運転再開",
+      "time": "09:16",
+      "title": "横浜市で住宅火災 2遺体見つかる",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598672?source=rss",
-      "publishedAt": "2026-10-13T21:30:25.000Z",
-      "xQuery": "九州新幹線 全線で運転再開"
+      "url": "https://news.yahoo.co.jp/pickup/6598689?source=rss",
+      "publishedAt": "2026-10-14T00:16:12.000Z",
+      "xQuery": "横浜市で住宅火災 2遺体見つかる"
     },
     {
-      "time": "07:37",
-      "title": "ロッククライミング中に滑落 死亡",
+      "time": "08:31",
+      "title": "停止義務ないのに違反に ミス63件",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598675?source=rss",
-      "publishedAt": "2026-10-13T22:37:16.000Z",
-      "xQuery": "ロッククライミング中に滑落 死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6598679?source=rss",
+      "publishedAt": "2026-10-13T23:31:21.000Z",
+      "xQuery": "停止義務ないのに違反に ミス63件"
     },
     {
-      "time": "07:23",
-      "title": "道頓堀グリコサイン 来春7代目に",
+      "time": "09:21",
+      "title": "AIに任せた仕事でミス 責任は誰に",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598673?source=rss",
-      "publishedAt": "2026-10-13T22:23:24.000Z",
-      "xQuery": "道頓堀グリコサイン 来春7代目に"
+      "url": "https://news.yahoo.co.jp/pickup/6598688?source=rss",
+      "publishedAt": "2026-10-14T00:21:56.000Z",
+      "xQuery": "AIに任せた仕事でミス 責任は誰に"
     }
   ]
 };
