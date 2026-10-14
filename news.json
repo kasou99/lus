@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T03:21:05.476Z",
+  "updatedAt": "2026-10-14T03:45:08.178Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,13 +38,6 @@
         "publishedAt": "2026-10-13T04:00:00.000Z"
       },
       {
-        "time": "20:45",
-        "title": "【9/16（水）11:00‐】次世代設備保全クラウド「M2X」で何ができる？無料オンラインデモセミナー開催",
-        "source": "朝日新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBTWDhoSnk2STBHcERodFViWklsV3NseXNoY3pVYnQyY0NKMGJaU2gwTEEyY0tBRDFDTWpRenFaUVlDRXl3S1I4U19zOEEwcGMyNE14U1hfZWtQaVk?oc=5",
-        "publishedAt": "2026-10-13T11:45:31.000Z"
-      },
-      {
         "time": "11:00",
         "title": "次世代設備保全クラウドのM2X、「ITreview Grid Award 2026 Fall」で最高位の「Leader」を8期連続受賞",
         "source": "PR TIMES",
@@ -57,6 +50,13 @@
         "source": "MOTA",
         "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBTbmdiaXRfbnVDMUJLMzQ2cGI5ZVlBWlNBdS1XTkt6b09zbDh5bFgyR010cURhN0t1OGFqMTBUM0M2WUtyZWhZd1BB?oc=5",
         "publishedAt": "2026-10-13T05:08:40.000Z"
+      },
+      {
+        "time": "15:15",
+        "title": "応用技術、日本国際工作機械見本市「JIMTOF2026」に出展",
+        "source": "Excite エキサイト",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8xZU9aQlVSdjRnSEVCaTdDdlBZb0NlQm9MVnhFNnZsYkpKTzkwN1B4ZjBGVTBMLXpWcTZRZnhhQklTTVdlczZVNklaMU5vOHk4V1F0MWhQWkpTMThqSmhYdkZBX25rNXR6NThwZm9IVkk4cDNO?oc=5",
+        "publishedAt": "2026-10-13T06:15:00.000Z"
       }
     ],
     "worldHeadlines": [

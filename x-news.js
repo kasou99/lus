@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-14T03:21:06.210Z",
+  "updatedAt": "2026-10-14T03:45:09.667Z",
   "items": [
     {
       "time": "11:34",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "動物避けようとして車転落か 死亡"
     },
     {
-      "time": "10:10",
-      "title": "OpenAIのエンジニアを逮捕 FBI",
+      "time": "12:11",
+      "title": "給食に「貧相すぎ」と批判 市回答",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598695?source=rss",
-      "publishedAt": "2026-10-14T01:10:32.000Z",
-      "xQuery": "OpenAIのエンジニアを逮捕 FBI"
+      "url": "https://news.yahoo.co.jp/pickup/6598715?source=rss",
+      "publishedAt": "2026-10-14T03:11:33.000Z",
+      "xQuery": "給食に「貧相すぎ」と批判 市回答"
     }
   ]
 };
