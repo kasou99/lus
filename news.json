@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T04:44:34.149Z",
+  "updatedAt": "2026-10-14T05:17:36.333Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,6 +31,13 @@
         "publishedAt": "2026-10-13T08:02:40.000Z"
       },
       {
+        "time": "12:00",
+        "title": "日鉄テックスエンジの多機能ポータブル診断機 危険個所の振動を安全に取得",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9WSWhLQ1F4QzNNR3gzellmbEMyRS1FYkY1RHdvSE9GcUJJU2thTUxuekN2UzBFS0hoMy01NHBuZDNaWlZySDdOZzJkczkwVEJXSlJST2dQSkI?oc=5",
+        "publishedAt": "2026-10-14T03:00:00.000Z"
+      },
+      {
         "time": "15:04",
         "title": "人手不足時代のものづくりを支える、オムロンが描く制御盤の進化",
         "source": "OMRON Global",
@@ -45,13 +52,6 @@
         "publishedAt": "2026-10-14T04:16:00.000Z"
       },
       {
-        "time": "14:08",
-        "title": "ブラザー、第33回日本国際工作機械見本市「JIMTOF2026」に出展",
-        "source": "MOTA",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBTbmdiaXRfbnVDMUJLMzQ2cGI5ZVlBWlNBdS1XTkt6b09zbDh5bFgyR010cURhN0t1OGFqMTBUM0M2WUtyZWhZd1BB?oc=5",
-        "publishedAt": "2026-10-13T05:08:40.000Z"
-      },
-      {
         "time": "22:00",
         "title": "応用技術、日本国際工作機械見本市「JIMTOF2026」に出展",
         "source": "ニコニコニュース",
@@ -60,6 +60,13 @@
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "14:01",
+        "title": "ウのEU加盟 ハンガリー反対撤回",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598724?source=rss",
+        "publishedAt": "2026-10-14T05:01:19.000Z"
+      },
       {
         "time": "05:57",
         "title": "道新記者をサハリンで拘束 露当局",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598683?source=rss",
         "publishedAt": "2026-10-13T23:37:09.000Z"
-      },
-      {
-        "time": "10:10",
-        "title": "OpenAIのエンジニアを逮捕 FBI",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598695?source=rss",
-        "publishedAt": "2026-10-14T01:10:32.000Z"
       }
     ],
     "economyHeadlines": [
@@ -184,11 +184,11 @@
         "publishedAt": "2026-10-14T02:13:55.000Z"
       },
       {
-        "time": "10:01",
-        "title": "施設で入所者死亡 別の入所者逮捕",
+        "time": "08:31",
+        "title": "停止義務ないのに違反に ミス63件",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598694?source=rss",
-        "publishedAt": "2026-10-14T01:01:09.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6598679?source=rss",
+        "publishedAt": "2026-10-13T23:31:21.000Z"
       }
     ],
     "subsidyHeadlines": [

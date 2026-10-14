@@ -1,21 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-14T04:44:34.843Z",
+  "updatedAt": "2026-10-14T05:17:37.000Z",
   "items": [
     {
-      "time": "11:47",
-      "title": "簗氏 バス送迎の答弁を事実上修正",
+      "time": "14:01",
+      "title": "ウのEU加盟 ハンガリー反対撤回",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598707?source=rss",
-      "publishedAt": "2026-10-14T02:47:41.000Z",
-      "xQuery": "簗氏 バス送迎の答弁を事実上修正"
-    },
-    {
-      "time": "11:34",
-      "title": "記者拘束 人道的配慮要求と茂木氏",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598703?source=rss",
-      "publishedAt": "2026-10-14T02:34:49.000Z",
-      "xQuery": "記者拘束 人道的配慮要求と茂木氏"
+      "url": "https://news.yahoo.co.jp/pickup/6598724?source=rss",
+      "publishedAt": "2026-10-14T05:01:19.000Z",
+      "xQuery": "ウのEU加盟 ハンガリー反対撤回"
     },
     {
       "time": "13:01",
@@ -26,12 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "PayPay証券 システム障害が解消"
     },
     {
-      "time": "10:26",
-      "title": "動物避けようとして車転落か 死亡",
+      "time": "11:45",
+      "title": "ブックオフ 退会の21万人も漏えい",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598697?source=rss",
-      "publishedAt": "2026-10-14T01:26:21.000Z",
-      "xQuery": "動物避けようとして車転落か 死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6598706?source=rss",
+      "publishedAt": "2026-10-14T02:45:47.000Z",
+      "xQuery": "ブックオフ 退会の21万人も漏えい"
+    },
+    {
+      "time": "14:04",
+      "title": "内向の世代 黒井千次さんが死去",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6598726?source=rss",
+      "publishedAt": "2026-10-14T05:04:29.000Z",
+      "xQuery": "内向の世代 黒井千次さんが死去"
     },
     {
       "time": "12:11",
