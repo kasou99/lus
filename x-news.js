@@ -1,13 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-14T14:18:12.833Z",
+  "updatedAt": "2026-10-14T14:41:20.751Z",
   "items": [
     {
-      "time": "21:26",
-      "title": "農水相辞任 首相が任命責任に言及",
+      "time": "23:12",
+      "title": "農相辞表 内閣改造後わずか1カ月",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598778?source=rss",
-      "publishedAt": "2026-10-14T12:26:22.000Z",
-      "xQuery": "農水相辞任 首相が任命責任に言及"
+      "url": "https://news.yahoo.co.jp/pickup/6598790?source=rss",
+      "publishedAt": "2026-10-14T14:12:54.000Z",
+      "xQuery": "農相辞表 内閣改造後わずか1カ月"
+    },
+    {
+      "time": "22:38",
+      "title": "公明 統一選での協力解消を伝達",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6598785?source=rss",
+      "publishedAt": "2026-10-14T13:38:57.000Z",
+      "xQuery": "公明 統一選での協力解消を伝達"
     },
     {
       "time": "22:18",
@@ -16,14 +24,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6598757?source=rss",
       "publishedAt": "2026-10-14T13:18:09.000Z",
       "xQuery": "日銀利上げ 2%超える可能性は"
-    },
-    {
-      "time": "22:47",
-      "title": "東京都 23区内に火葬場の新設検討",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598786?source=rss",
-      "publishedAt": "2026-10-14T13:47:42.000Z",
-      "xQuery": "東京都 23区内に火葬場の新設検討"
     },
     {
       "time": "22:01",
