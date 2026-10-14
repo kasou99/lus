@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-14T02:24:19.566Z",
+  "updatedAt": "2026-10-14T02:45:18.766Z",
   "items": [
     {
       "time": "09:39",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "簗氏への抗議決議を可決 那須烏山"
     },
     {
-      "time": "08:44",
-      "title": "裁判所 夜間業務「性別問わず」に",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598684?source=rss",
-      "publishedAt": "2026-10-13T23:44:46.000Z",
-      "xQuery": "裁判所 夜間業務「性別問わず」に"
-    },
-    {
       "time": "10:26",
       "title": "動物避けようとして車転落か 死亡",
       "source": "Yahoo!ニュース",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6598702?source=rss",
       "publishedAt": "2026-10-14T02:13:55.000Z",
       "xQuery": "警察署金庫から百万円消える 捜査"
+    },
+    {
+      "time": "10:55",
+      "title": "吉本興業 SBIと戦略的業務提携へ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6598699?source=rss",
+      "publishedAt": "2026-10-14T01:55:50.000Z",
+      "xQuery": "吉本興業 SBIと戦略的業務提携へ"
     }
   ]
 };
