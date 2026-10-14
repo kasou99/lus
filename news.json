@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T02:45:17.406Z",
+  "updatedAt": "2026-10-14T03:21:05.476Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -133,18 +133,18 @@
         "publishedAt": "2026-10-13T09:14:16.000Z"
       },
       {
-        "time": "11:19",
-        "title": "家が買えない なぜ高騰している",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598588?source=rss",
-        "publishedAt": "2026-10-13T02:19:22.000Z"
-      },
-      {
         "time": "10:55",
         "title": "吉本興業 SBIと戦略的業務提携へ",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598699?source=rss",
         "publishedAt": "2026-10-14T01:55:50.000Z"
+      },
+      {
+        "time": "07:23",
+        "title": "道頓堀グリコサイン 来春7代目に",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598673?source=rss",
+        "publishedAt": "2026-10-13T22:23:24.000Z"
       }
     ],
     "localHeadlines": [
@@ -154,6 +154,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598698?source=rss",
         "publishedAt": "2026-10-14T01:37:06.000Z"
+      },
+      {
+        "time": "12:11",
+        "title": "給食に「貧相すぎ」と批判 市回答",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598715?source=rss",
+        "publishedAt": "2026-10-14T03:11:33.000Z"
       },
       {
         "time": "10:26",
@@ -175,13 +182,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598702?source=rss",
         "publishedAt": "2026-10-14T02:13:55.000Z"
-      },
-      {
-        "time": "22:44",
-        "title": "無免許運転か 車突っ込み男性死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598663?source=rss",
-        "publishedAt": "2026-10-13T13:44:13.000Z"
       },
       {
         "time": "10:01",

@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-14T02:45:18.766Z",
+  "updatedAt": "2026-10-14T03:21:06.210Z",
   "items": [
+    {
+      "time": "11:34",
+      "title": "記者拘束 人道的配慮要求と茂木氏",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6598703?source=rss",
+      "publishedAt": "2026-10-14T02:34:49.000Z",
+      "xQuery": "記者拘束 人道的配慮要求と茂木氏"
+    },
     {
       "time": "09:39",
       "title": "米政権 看板の移民政策「逆風」に",
@@ -10,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "米政権 看板の移民政策「逆風」に"
     },
     {
-      "time": "10:37",
-      "title": "簗氏への抗議決議を可決 那須烏山",
+      "time": "11:47",
+      "title": "簗氏 バス送迎の答弁を事実上修正",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598698?source=rss",
-      "publishedAt": "2026-10-14T01:37:06.000Z",
-      "xQuery": "簗氏への抗議決議を可決 那須烏山"
+      "url": "https://news.yahoo.co.jp/pickup/6598707?source=rss",
+      "publishedAt": "2026-10-14T02:47:41.000Z",
+      "xQuery": "簗氏 バス送迎の答弁を事実上修正"
     },
     {
       "time": "10:26",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "動物避けようとして車転落か 死亡"
     },
     {
-      "time": "11:13",
-      "title": "警察署金庫から百万円消える 捜査",
+      "time": "10:10",
+      "title": "OpenAIのエンジニアを逮捕 FBI",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598702?source=rss",
-      "publishedAt": "2026-10-14T02:13:55.000Z",
-      "xQuery": "警察署金庫から百万円消える 捜査"
-    },
-    {
-      "time": "10:55",
-      "title": "吉本興業 SBIと戦略的業務提携へ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598699?source=rss",
-      "publishedAt": "2026-10-14T01:55:50.000Z",
-      "xQuery": "吉本興業 SBIと戦略的業務提携へ"
+      "url": "https://news.yahoo.co.jp/pickup/6598695?source=rss",
+      "publishedAt": "2026-10-14T01:10:32.000Z",
+      "xQuery": "OpenAIのエンジニアを逮捕 FBI"
     }
   ]
 };
