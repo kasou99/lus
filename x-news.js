@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-14T06:30:19.647Z",
+  "updatedAt": "2026-10-14T07:22:17.230Z",
   "items": [
+    {
+      "time": "16:15",
+      "title": "ワールドとTSI 経営統合で合意",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6598738?source=rss",
+      "publishedAt": "2026-10-14T07:15:24.000Z",
+      "xQuery": "ワールドとTSI 経営統合で合意"
+    },
     {
       "time": "14:30",
       "title": "ハッカー集団Qilin AI利用と主張",
@@ -18,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "ウのEU加盟 ハンガリー反対撤回"
     },
     {
-      "time": "12:11",
-      "title": "給食に「貧相すぎ」と批判 市回答",
+      "time": "15:27",
+      "title": "簗氏 24年衆院選で運動員買収疑惑",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598715?source=rss",
-      "publishedAt": "2026-10-14T03:11:33.000Z",
-      "xQuery": "給食に「貧相すぎ」と批判 市回答"
+      "url": "https://news.yahoo.co.jp/pickup/6598734?source=rss",
+      "publishedAt": "2026-10-14T06:27:25.000Z",
+      "xQuery": "簗氏 24年衆院選で運動員買収疑惑"
     },
     {
       "time": "14:14",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6598727?source=rss",
       "publishedAt": "2026-10-14T05:14:43.000Z",
       "xQuery": "積み荷はニワトリ3000羽 崩れ散乱"
-    },
-    {
-      "time": "14:26",
-      "title": "イオン系スーパー100店閉店 なぜ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598728?source=rss",
-      "publishedAt": "2026-10-14T05:26:12.000Z",
-      "xQuery": "イオン系スーパー100店閉店 なぜ"
     }
   ]
 };

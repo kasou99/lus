@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T06:30:18.909Z",
+  "updatedAt": "2026-10-14T07:22:16.548Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -10,18 +10,18 @@
         "publishedAt": "2026-10-14T04:00:00.000Z"
       },
       {
-        "time": "09:15",
-        "title": "「工作機械」に注目 政府が戦略17分野への投資強化、 工場の自動化投資も拡大",
-        "source": "日経CNBC online",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBySTB3ekJXdDZfQUoxVlNpcXU0MVZvSk5kSXVlOFhWcURmcnJiSlJ1QUJCV2dGaVktb3VLTEpMMDlQS0JRTVdGTUhDY2Z0aFRJQ1BTZg?oc=5",
-        "publishedAt": "2026-10-14T00:15:00.000Z"
-      },
-      {
         "time": "15:00",
         "title": "盤レス or 通常の制御盤 という話ではない 選択肢ができた喜びを素直に享受しよう",
         "source": "オートメーション新聞WEB",
         "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9jZk9ocV9vSVM3Q2QxeTB1MkRHRzRBeVFRdXd0LVc2b25zRUtEQ1pwblZQSTRYSllPOUNLdWVTUWNSTkpsdHpEbGtaQWFyNnV4ZXNPajZIVUlXUQ?oc=5",
         "publishedAt": "2026-10-14T06:00:00.000Z"
+      },
+      {
+        "time": "09:15",
+        "title": "「工作機械」に注目 政府が戦略17分野への投資強化、 工場の自動化投資も拡大",
+        "source": "日経CNBC online",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBySTB3ekJXdDZfQUoxVlNpcXU0MVZvSk5kSXVlOFhWcURmcnJiSlJ1QUJCV2dGaVktb3VLTEpMMDlQS0JRTVdGTUhDY2Z0aFRJQ1BTZg?oc=5",
+        "publishedAt": "2026-10-14T00:15:00.000Z"
       },
       {
         "time": "12:46",
@@ -52,11 +52,11 @@
         "publishedAt": "2026-10-13T08:02:40.000Z"
       },
       {
-        "time": "20:45",
-        "title": "【9/16（水）11:00‐】次世代設備保全クラウド「M2X」で何ができる？無料オンラインデモセミナー開催",
+        "time": "10:08",
+        "title": "【トランスコスモスオンラインセミナー】製造業DXを加速する！シリーズ第4弾を9月17日（木）に開催",
         "source": "朝日新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBTWDhoSnk2STBHcERodFViWklsV3NseXNoY3pVYnQyY0NKMGJaU2gwTEEyY0tBRDFDTWpRenFaUVlDRXl3S1I4U19zOEEwcGMyNE14U1hfZWtQaVk?oc=5",
-        "publishedAt": "2026-10-13T11:45:31.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1PU1llZ29LYmJ2dm1aMWdVdmtBNTNZS3dLbmdyVHdQNlByaHpTdjZzZlo0a1RuNG1zZ2hJb0Rkekp0ckZmY2toWkxsOG1NNDUxdVNlM1pLWkdTQlE?oc=5",
+        "publishedAt": "2026-10-14T01:08:15.000Z"
       }
     ],
     "worldHeadlines": [
@@ -105,6 +105,13 @@
     ],
     "economyHeadlines": [
       {
+        "time": "16:15",
+        "title": "ワールドとTSI 経営統合で合意",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598738?source=rss",
+        "publishedAt": "2026-10-14T07:15:24.000Z"
+      },
+      {
         "time": "13:01",
         "title": "PayPay証券 システム障害が解消",
         "source": "Yahoo!ニュース",
@@ -117,13 +124,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598666?source=rss",
         "publishedAt": "2026-10-13T14:25:23.000Z"
-      },
-      {
-        "time": "18:14",
-        "title": "駅周辺にデータセンター計画 波紋",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598633?source=rss",
-        "publishedAt": "2026-10-13T09:14:16.000Z"
       },
       {
         "time": "14:26",
