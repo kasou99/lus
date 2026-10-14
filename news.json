@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-10-14T08:25:00.334Z",
+  "updatedAt": "2026-10-14T08:46:18.305Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "16:23",
+        "title": "JIMTOF2026にベッコフオートメーションが出展、工作機械の自由度の高い機能開発をテーマに展示",
+        "source": "ASCII.jp",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9WOVFBeW96eFgtU3J0Y082R3daUVEyZHVIX2xsV3pJMXpBTDlYVm5icW5iRVhzOWp1eUVvbWt2eUF5SVhuXzRCTFY5MnNuWENWVGtDXw?oc=5",
+        "publishedAt": "2026-10-14T07:23:05.000Z"
+      },
       {
         "time": "13:00",
         "title": "日本精工のボールねじ駆動油圧発生装置、工作機械の工具アンクランプ電力削減：FAニュース",
@@ -22,13 +29,6 @@
         "source": "日経CNBC online",
         "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBySTB3ekJXdDZfQUoxVlNpcXU0MVZvSk5kSXVlOFhWcURmcnJiSlJ1QUJCV2dGaVktb3VLTEpMMDlQS0JRTVdGTUhDY2Z0aFRJQ1BTZg?oc=5",
         "publishedAt": "2026-10-14T00:15:00.000Z"
-      },
-      {
-        "time": "17:15",
-        "title": "JIMTOF2026にベッコフオートメーションが出展、工作機械の自由度の高い機能開発をテーマに展示",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE90cXoyd1E3TFJaOFhiZWI0dE05ak1rVGsxUm1oWGxTN2d2YlNkc2o1NjhmaGRSVGEtRUZuWXBZTmVRQ3ZtSS1kWlJ3SzdVMEprTlZNbzNibWhYZXkzS3loelRFYWZZeWhMQlVwSmNlMHEzTFhjUGhXVUhmNA?oc=5",
-        "publishedAt": "2026-10-14T08:15:17.000Z"
       },
       {
         "time": "13:16",
@@ -119,6 +119,13 @@
         "publishedAt": "2026-10-14T07:50:23.000Z"
       },
       {
+        "time": "17:33",
+        "title": "BOOKOFF「本売るなら」から変身",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598750?source=rss",
+        "publishedAt": "2026-10-14T08:33:40.000Z"
+      },
+      {
         "time": "23:25",
         "title": "日本のGDP 来年世界6位の見込み",
         "source": "Yahoo!ニュース",
@@ -131,13 +138,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598728?source=rss",
         "publishedAt": "2026-10-14T05:26:12.000Z"
-      },
-      {
-        "time": "10:55",
-        "title": "吉本興業 SBIと戦略的業務提携へ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598699?source=rss",
-        "publishedAt": "2026-10-14T01:55:50.000Z"
       },
       {
         "time": "11:47",

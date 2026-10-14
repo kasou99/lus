@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-14T08:25:01.087Z",
+  "updatedAt": "2026-10-14T08:46:19.391Z",
   "items": [
     {
       "time": "16:15",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "ワールドとTSI 経営統合で合意"
     },
     {
-      "time": "15:42",
-      "title": "露で記者拘束 道新「詳細確認中」",
+      "time": "17:21",
+      "title": "外務省 駐日ロシア大使を呼び出し",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598736?source=rss",
-      "publishedAt": "2026-10-14T06:42:07.000Z",
-      "xQuery": "露で記者拘束 道新「詳細確認中」"
+      "url": "https://news.yahoo.co.jp/pickup/6598746?source=rss",
+      "publishedAt": "2026-10-14T08:21:57.000Z",
+      "xQuery": "外務省 駐日ロシア大使を呼び出し"
     },
     {
       "time": "15:27",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "大樹生命の元社員を逮捕 詐取疑い"
     },
     {
-      "time": "15:25",
-      "title": "だんじり事故 主催者らの責任は",
+      "time": "16:50",
+      "title": "サイゼ メニューを平均6%値上げへ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598733?source=rss",
-      "publishedAt": "2026-10-14T06:25:06.000Z",
-      "xQuery": "だんじり事故 主催者らの責任は"
+      "url": "https://news.yahoo.co.jp/pickup/6598740?source=rss",
+      "publishedAt": "2026-10-14T07:50:23.000Z",
+      "xQuery": "サイゼ メニューを平均6%値上げへ"
     }
   ]
 };
