@@ -1,13 +1,20 @@
 {
-  "updatedAt": "2026-10-14T03:45:08.178Z",
+  "updatedAt": "2026-10-14T04:21:43.593Z",
   "groups": {
     "machineHeadlines": [
       {
-        "time": "10:30",
-        "title": "JIMTOF2026にベッコフオートメーションが出展、工作機械の自由度の高い機能開発をテーマに展示",
+        "time": "13:00",
+        "title": "日本精工のボールねじ駆動油圧発生装置、工作機械の工具アンクランプ電力削減：FAニュース",
+        "source": "MONOist",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5hV01PcHN3WEVFbFFJaGJjTmV3SEFGaXFNRFd6RDdjQkNRRG5DWTJBYW90LXhQUEhYS25IQXRCd1h4VzByVUlxaFhvcVJ2UFVNdndRZTBHWGw1MnFSLVJTeWlkQVA5MGlNTWtWZmdtVQ?oc=5",
+        "publishedAt": "2026-10-14T04:00:00.000Z"
+      },
+      {
+        "time": "11:00",
+        "title": "次世代設備保全クラウドのM2X、「ITreview Grid Award 2026 Fall」で最高位の「Leader」を8期連続受賞",
         "source": "PR TIMES",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE92eUZ4d2ozYVR2ck5ERlV1Rm9tdElodzVPTW5UZzJremlzN182Q3BaZkdJbVFwZkZ3MVZ6Y1Jvd0cxT18xczNBTGtYWHdrYkhwUnQwa3JTeklHTm5vZ1pNMkxyb19rSmhHanc?oc=5",
-        "publishedAt": "2026-10-14T01:30:02.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5kTXVPamNldGV6X1ViZUFaY2NaNnM1a3VvTUFvOVA1cHYtU1V5ejl6Zl80MS1PVzA2Rk1ZWUthOFpna2lwUEpHc3BqWTNXYzEySWg1dU5fUkZOR0Jrdk53NEFuVzNNbGsxdkE?oc=5",
+        "publishedAt": "2026-10-14T02:00:02.000Z"
       },
       {
         "time": "09:15",
@@ -15,6 +22,13 @@
         "source": "日経CNBC online",
         "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBySTB3ekJXdDZfQUoxVlNpcXU0MVZvSk5kSXVlOFhWcURmcnJiSlJ1QUJCV2dGaVktb3VLTEpMMDlQS0JRTVdGTUhDY2Z0aFRJQ1BTZg?oc=5",
         "publishedAt": "2026-10-14T00:15:00.000Z"
+      },
+      {
+        "time": "12:46",
+        "title": "JIMTOF2026にベッコフオートメーションが出展、工作機械の自由度の高い機能開発をテーマに展示",
+        "source": "時事ドットコム",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9vN21FZjBkcmFTYUd5YmF6U0QwTG1RS052YVFrUVQ0VWNUSDVHNzUtMEc2T0JxNHFOWGdjRUJyN0ZEaGZ4VWZBSDU5ekRzbkx0bm9hWjFPeGpvM19LZHpTZ0puOENwbGpXMkxN?oc=5",
+        "publishedAt": "2026-10-14T03:46:00.000Z"
       },
       {
         "time": "17:02",
@@ -31,18 +45,11 @@
         "publishedAt": "2026-10-13T06:04:11.000Z"
       },
       {
-        "time": "13:00",
-        "title": "ヤマザキマザック、省スペースの中大型部品向け門形マシニング 最大ワーク質量3t：工作機械",
-        "source": "MONOist",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE03R2F3dnFrSkVPWmVBdFNuRDJxTEk3TllEakRvR2R4U0oxZ1VLSXJQMzQwbVhuYmZILU9kSG5Eb1Q0MGtlT1ZKczlrdjZ5bW9YVmxQNWlsY0NGc01ESmJWMXNGN2plMjgwTXFPaGZfZw?oc=5",
-        "publishedAt": "2026-10-13T04:00:00.000Z"
-      },
-      {
-        "time": "11:00",
-        "title": "次世代設備保全クラウドのM2X、「ITreview Grid Award 2026 Fall」で最高位の「Leader」を8期連続受賞",
-        "source": "PR TIMES",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5kTXVPamNldGV6X1ViZUFaY2NaNnM1a3VvTUFvOVA1cHYtU1V5ejl6Zl80MS1PVzA2Rk1ZWUthOFpna2lwUEpHc3BqWTNXYzEySWg1dU5fUkZOR0Jrdk53NEFuVzNNbGsxdkE?oc=5",
-        "publishedAt": "2026-10-14T02:00:02.000Z"
+        "time": "20:45",
+        "title": "【9/16（水）11:00‐】次世代設備保全クラウド「M2X」で何ができる？無料オンラインデモセミナー開催",
+        "source": "朝日新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBTWDhoSnk2STBHcERodFViWklsV3NseXNoY3pVYnQyY0NKMGJaU2gwTEEyY0tBRDFDTWpRenFaUVlDRXl3S1I4U19zOEEwcGMyNE14U1hfZWtQaVk?oc=5",
+        "publishedAt": "2026-10-13T11:45:31.000Z"
       },
       {
         "time": "14:08",
@@ -50,13 +57,6 @@
         "source": "MOTA",
         "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBTbmdiaXRfbnVDMUJLMzQ2cGI5ZVlBWlNBdS1XTkt6b09zbDh5bFgyR010cURhN0t1OGFqMTBUM0M2WUtyZWhZd1BB?oc=5",
         "publishedAt": "2026-10-13T05:08:40.000Z"
-      },
-      {
-        "time": "15:15",
-        "title": "応用技術、日本国際工作機械見本市「JIMTOF2026」に出展",
-        "source": "Excite エキサイト",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8xZU9aQlVSdjRnSEVCaTdDdlBZb0NlQm9MVnhFNnZsYkpKTzkwN1B4ZjBGVTBMLXpWcTZRZnhhQklTTVdlczZVNklaMU5vOHk4V1F0MWhQWkpTMThqSmhYdkZBX25rNXR6NThwZm9IVkk4cDNO?oc=5",
-        "publishedAt": "2026-10-13T06:15:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -112,18 +112,18 @@
         "publishedAt": "2026-10-13T21:30:25.000Z"
       },
       {
+        "time": "13:01",
+        "title": "PayPay証券 システム障害が解消",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598720?source=rss",
+        "publishedAt": "2026-10-14T04:01:42.000Z"
+      },
+      {
         "time": "23:25",
         "title": "日本のGDP 来年世界6位の見込み",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598666?source=rss",
         "publishedAt": "2026-10-13T14:25:23.000Z"
-      },
-      {
-        "time": "15:22",
-        "title": "JR東など7社 磁気乗車券を廃止へ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598621?source=rss",
-        "publishedAt": "2026-10-13T06:22:05.000Z"
       },
       {
         "time": "18:14",

@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-14T03:45:09.667Z",
+  "updatedAt": "2026-10-14T04:21:44.364Z",
   "items": [
     {
       "time": "11:34",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "記者拘束 人道的配慮要求と茂木氏"
     },
     {
-      "time": "09:39",
-      "title": "米政権 看板の移民政策「逆風」に",
+      "time": "13:01",
+      "title": "PayPay証券 システム障害が解消",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598692?source=rss",
-      "publishedAt": "2026-10-14T00:39:58.000Z",
-      "xQuery": "米政権 看板の移民政策「逆風」に"
+      "url": "https://news.yahoo.co.jp/pickup/6598720?source=rss",
+      "publishedAt": "2026-10-14T04:01:42.000Z",
+      "xQuery": "PayPay証券 システム障害が解消"
     },
     {
       "time": "11:47",
