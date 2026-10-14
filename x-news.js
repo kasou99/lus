@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-14T15:18:55.601Z",
+  "updatedAt": "2026-10-14T15:44:09.411Z",
   "items": [
     {
       "time": "23:12",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "新宿109KENZO 池田容疑者を逮捕"
     },
     {
-      "time": "17:53",
-      "title": "阪急電鉄 中吊広告を来年4月終了",
+      "time": "00:20",
+      "title": "万博未払い アンゴラ異例対応の訳",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598751?source=rss",
-      "publishedAt": "2026-10-14T08:53:13.000Z",
-      "xQuery": "阪急電鉄 中吊広告を来年4月終了"
+      "url": "https://news.yahoo.co.jp/pickup/6598795?source=rss",
+      "publishedAt": "2026-10-14T15:20:27.000Z",
+      "xQuery": "万博未払い アンゴラ異例対応の訳"
     }
   ]
 };

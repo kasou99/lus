@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T15:18:54.639Z",
+  "updatedAt": "2026-10-14T15:44:08.733Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -22,13 +22,6 @@
         "source": "オートメーション新聞WEB",
         "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9jZk9ocV9vSVM3Q2QxeTB1MkRHRzRBeVFRdXd0LVc2b25zRUtEQ1pwblZQSTRYSllPOUNLdWVTUWNSTkpsdHpEbGtaQWFyNnV4ZXNPajZIVUlXUQ?oc=5",
         "publishedAt": "2026-10-14T06:00:00.000Z"
-      },
-      {
-        "time": "09:15",
-        "title": "「工作機械」に注目 政府が戦略17分野への投資強化、 工場の自動化投資も拡大",
-        "source": "日経CNBC online",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBySTB3ekJXdDZfQUoxVlNpcXU0MVZvSk5kSXVlOFhWcURmcnJiSlJ1QUJCV2dGaVktb3VLTEpMMDlQS0JRTVdGTUhDY2Z0aFRJQ1BTZg?oc=5",
-        "publishedAt": "2026-10-14T00:15:00.000Z"
       },
       {
         "time": "18:21",
@@ -57,6 +50,13 @@
         "source": "朝日新聞",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1PU1llZ29LYmJ2dm1aMWdVdmtBNTNZS3dLbmdyVHdQNlByaHpTdjZzZlo0a1RuNG1zZ2hJb0Rkekp0ckZmY2toWkxsOG1NNDUxdVNlM1pLWkdTQlE?oc=5",
         "publishedAt": "2026-10-14T01:08:15.000Z"
+      },
+      {
+        "time": "05:00",
+        "title": "安川電機、インバーター用カード発売 安全通信の国際規格対応",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE14Y2V1WEpfWW01SFZRNkNfYmFaQkQxNG5VM2VlaVdLREtQWUxPZDc3UTItMTM0T3hyTVU3RUhzX3BCUXZUUGpoa1ZsdHhmSjJRQ3BHdlJRZFc?oc=5",
+        "publishedAt": "2026-10-13T20:00:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -126,11 +126,11 @@
         "publishedAt": "2026-10-14T07:50:23.000Z"
       },
       {
-        "time": "18:36",
-        "title": "サイゼが平均6%値上げする背景",
+        "time": "00:20",
+        "title": "万博未払い アンゴラ異例対応の訳",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598754?source=rss",
-        "publishedAt": "2026-10-14T09:36:58.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6598795?source=rss",
+        "publishedAt": "2026-10-14T15:20:27.000Z"
       },
       {
         "time": "17:33",
