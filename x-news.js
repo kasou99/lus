@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-14T21:38:19.733Z",
+  "updatedAt": "2026-10-14T22:15:36.709Z",
   "items": [
     {
       "time": "23:12",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "農相辞表 内閣改造後わずか1カ月"
     },
     {
+      "time": "06:38",
+      "title": "農相辞任「当然」地元有権者怒り",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6598798?source=rss",
+      "publishedAt": "2026-10-14T21:38:41.000Z",
+      "xQuery": "農相辞任「当然」地元有権者怒り"
+    },
+    {
       "time": "00:05",
       "title": "海峡で機雷接触の貨物船沈没 報道",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6598794?source=rss",
       "publishedAt": "2026-10-14T15:05:35.000Z",
       "xQuery": "海峡で機雷接触の貨物船沈没 報道"
-    },
-    {
-      "time": "23:34",
-      "title": "道新記者の拘束 日本政府に衝撃",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598791?source=rss",
-      "publishedAt": "2026-10-14T14:34:55.000Z",
-      "xQuery": "道新記者の拘束 日本政府に衝撃"
     },
     {
       "time": "06:20",
