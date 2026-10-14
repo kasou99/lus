@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-14T04:21:44.364Z",
+  "updatedAt": "2026-10-14T04:44:34.843Z",
   "items": [
+    {
+      "time": "11:47",
+      "title": "簗氏 バス送迎の答弁を事実上修正",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6598707?source=rss",
+      "publishedAt": "2026-10-14T02:47:41.000Z",
+      "xQuery": "簗氏 バス送迎の答弁を事実上修正"
+    },
     {
       "time": "11:34",
       "title": "記者拘束 人道的配慮要求と茂木氏",
@@ -16,14 +24,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6598720?source=rss",
       "publishedAt": "2026-10-14T04:01:42.000Z",
       "xQuery": "PayPay証券 システム障害が解消"
-    },
-    {
-      "time": "11:47",
-      "title": "簗氏 バス送迎の答弁を事実上修正",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598707?source=rss",
-      "publishedAt": "2026-10-14T02:47:41.000Z",
-      "xQuery": "簗氏 バス送迎の答弁を事実上修正"
     },
     {
       "time": "10:26",
