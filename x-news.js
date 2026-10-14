@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-14T12:27:14.847Z",
+  "updatedAt": "2026-10-14T12:49:11.595Z",
   "items": [
     {
-      "time": "19:49",
-      "title": "農相「これ以上迷惑かけられず」",
+      "time": "21:26",
+      "title": "農水相辞任 首相が任命責任に言及",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598770?source=rss",
-      "publishedAt": "2026-10-14T10:49:55.000Z",
-      "xQuery": "農相「これ以上迷惑かけられず」"
+      "url": "https://news.yahoo.co.jp/pickup/6598778?source=rss",
+      "publishedAt": "2026-10-14T12:26:22.000Z",
+      "xQuery": "農水相辞任 首相が任命責任に言及"
     },
     {
       "time": "20:20",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "名前を変える大学が増加 背景は"
     },
     {
-      "time": "19:14",
-      "title": "プール授業中に溺死 元担任も有罪",
+      "time": "19:49",
+      "title": "農相「これ以上迷惑かけられず」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598763?source=rss",
-      "publishedAt": "2026-10-14T10:14:38.000Z",
-      "xQuery": "プール授業中に溺死 元担任も有罪"
+      "url": "https://news.yahoo.co.jp/pickup/6598770?source=rss",
+      "publishedAt": "2026-10-14T10:49:55.000Z",
+      "xQuery": "農相「これ以上迷惑かけられず」"
     },
     {
       "time": "19:33",
