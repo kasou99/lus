@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T22:37:55.644Z",
+  "updatedAt": "2026-10-14T23:15:01.921Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -119,6 +119,13 @@
         "publishedAt": "2026-10-14T13:18:09.000Z"
       },
       {
+        "time": "07:37",
+        "title": "米上場の半導体株 下落止まらず",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598805?source=rss",
+        "publishedAt": "2026-10-14T22:37:50.000Z"
+      },
+      {
         "time": "06:20",
         "title": "ネトフリ 従業員約1000人を削減へ",
         "source": "Yahoo!ニュース",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598750?source=rss",
         "publishedAt": "2026-10-14T08:33:40.000Z"
-      },
-      {
-        "time": "14:26",
-        "title": "イオン系スーパー100店閉店 なぜ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598728?source=rss",
-        "publishedAt": "2026-10-14T05:26:12.000Z"
       }
     ],
     "localHeadlines": [
@@ -161,13 +161,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598763?source=rss",
         "publishedAt": "2026-10-14T10:14:38.000Z"
-      },
-      {
-        "time": "23:01",
-        "title": "札幌駅直結の施設で黒い煙 騒然",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598789?source=rss",
-        "publishedAt": "2026-10-14T14:01:00.000Z"
       },
       {
         "time": "17:20",
@@ -189,6 +182,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598714?source=rss",
         "publishedAt": "2026-10-14T03:02:58.000Z"
+      },
+      {
+        "time": "12:11",
+        "title": "給食に「貧相すぎ」と批判 市回答",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598715?source=rss",
+        "publishedAt": "2026-10-14T03:11:33.000Z"
       }
     ],
     "subsidyHeadlines": [

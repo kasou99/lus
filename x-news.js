@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-14T22:37:56.613Z",
+  "updatedAt": "2026-10-14T23:15:03.115Z",
   "items": [
     {
       "time": "23:12",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "農相辞任「当然」地元有権者怒り"
     },
     {
-      "time": "00:05",
-      "title": "海峡で機雷接触の貨物船沈没 報道",
+      "time": "07:37",
+      "title": "米上場の半導体株 下落止まらず",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598794?source=rss",
-      "publishedAt": "2026-10-14T15:05:35.000Z",
-      "xQuery": "海峡で機雷接触の貨物船沈没 報道"
+      "url": "https://news.yahoo.co.jp/pickup/6598805?source=rss",
+      "publishedAt": "2026-10-14T22:37:50.000Z",
+      "xQuery": "米上場の半導体株 下落止まらず"
     },
     {
       "time": "06:20",
