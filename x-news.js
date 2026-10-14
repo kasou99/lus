@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-14T23:15:03.115Z",
+  "updatedAt": "2026-10-14T23:36:11.866Z",
   "items": [
     {
       "time": "23:12",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "ネトフリ 従業員約1000人を削減へ"
     },
     {
-      "time": "22:01",
-      "title": "新宿109KENZO 池田容疑者を逮捕",
+      "time": "08:12",
+      "title": "区に個人が1億円寄付 進学支援へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598783?source=rss",
-      "publishedAt": "2026-10-14T13:01:56.000Z",
-      "xQuery": "新宿109KENZO 池田容疑者を逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6598810?source=rss",
+      "publishedAt": "2026-10-14T23:12:10.000Z",
+      "xQuery": "区に個人が1億円寄付 進学支援へ"
     }
   ]
 };
