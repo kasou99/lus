@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-14T09:19:56.491Z",
+  "updatedAt": "2026-10-14T09:43:11.553Z",
   "items": [
     {
       "time": "17:46",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "首相 農相を交代させる方針固める"
     },
     {
-      "time": "16:15",
-      "title": "ワールドとTSI 経営統合で合意",
+      "time": "17:55",
+      "title": "幼い娘が偏食 追い詰められた母親",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598738?source=rss",
-      "publishedAt": "2026-10-14T07:15:24.000Z",
-      "xQuery": "ワールドとTSI 経営統合で合意"
+      "url": "https://news.yahoo.co.jp/pickup/6598758?source=rss",
+      "publishedAt": "2026-10-14T08:55:59.000Z",
+      "xQuery": "幼い娘が偏食 追い詰められた母親"
     },
     {
       "time": "17:20",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "大樹生命の元社員を逮捕 詐取疑い"
     },
     {
-      "time": "14:43",
-      "title": "店の犬猫に無資格で注射疑い 逮捕",
+      "time": "12:11",
+      "title": "給食に「貧相すぎ」と批判 市回答",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598730?source=rss",
-      "publishedAt": "2026-10-14T05:43:56.000Z",
-      "xQuery": "店の犬猫に無資格で注射疑い 逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6598715?source=rss",
+      "publishedAt": "2026-10-14T03:11:33.000Z",
+      "xQuery": "給食に「貧相すぎ」と批判 市回答"
     },
     {
       "time": "14:51",

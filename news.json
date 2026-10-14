@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-10-14T09:19:55.674Z",
+  "updatedAt": "2026-10-14T09:43:10.511Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "16:23",
+        "title": "JIMTOF2026にベッコフオートメーションが出展、工作機械の自由度の高い機能開発をテーマに展示",
+        "source": "ASCII.jp",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9WOVFBeW96eFgtU3J0Y082R3daUVEyZHVIX2xsV3pJMXpBTDlYVm5icW5iRVhzOWp1eUVvbWt2eUF5SVhuXzRCTFY5MnNuWENWVGtDXw?oc=5",
+        "publishedAt": "2026-10-14T07:23:05.000Z"
+      },
       {
         "time": "13:00",
         "title": "日本精工のボールねじ駆動油圧発生装置、工作機械の工具アンクランプ電力削減：FAニュース",
@@ -17,25 +24,11 @@
         "publishedAt": "2026-10-14T06:00:00.000Z"
       },
       {
-        "time": "17:15",
-        "title": "JIMTOF2026にベッコフオートメーションが出展、工作機械の自由度の高い機能開発をテーマに展示",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9pNW9yRUFIbTZmX0pNVzc2MHJhRXIxYU15cTd1ZlpmeG1JQXJhNHB3cUhUY1lEcmtoLXUxYURsNkFDVmhlMFJ6aXZaOGNKODJrVm1xWVhNZkdIWmd4ZE9lN2Q2MjJHQ1pqN3FVbkNyOGRVTlpaa3Btb3JhOA?oc=5",
-        "publishedAt": "2026-10-14T08:15:17.000Z"
-      },
-      {
         "time": "09:15",
         "title": "「工作機械」に注目 政府が戦略17分野への投資強化、 工場の自動化投資も拡大",
         "source": "日経CNBC online",
         "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBySTB3ekJXdDZfQUoxVlNpcXU0MVZvSk5kSXVlOFhWcURmcnJiSlJ1QUJCV2dGaVktb3VLTEpMMDlQS0JRTVdGTUhDY2Z0aFRJQ1BTZg?oc=5",
         "publishedAt": "2026-10-14T00:15:00.000Z"
-      },
-      {
-        "time": "13:16",
-        "title": "次世代設備保全クラウドのM2X、「ITreview Grid Award 2026 Fall」で最高位の「Leader」を8期連続受賞",
-        "source": "時事ドットコム",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBHQ090QXBVWFR4a1duSjFFRllBdko3aThrOTNoZGh6Q09SU0ozM1BELUlscjNfdXp5Vmg2bmE2UDZpNU9sOXNES3IzMTNKZlJIRHYyNkJpdkZ2OXJHdWlEQm41UDFUS0hjRklZ?oc=5",
-        "publishedAt": "2026-10-14T04:16:00.000Z"
       },
       {
         "time": "17:59",
@@ -52,11 +45,18 @@
         "publishedAt": "2026-10-14T03:00:00.000Z"
       },
       {
-        "time": "10:08",
-        "title": "【トランスコスモスオンラインセミナー】製造業DXを加速する！シリーズ第4弾を9月17日（木）に開催",
+        "time": "20:45",
+        "title": "【9/16（水）11:00‐】次世代設備保全クラウド「M2X」で何ができる？無料オンラインデモセミナー開催",
         "source": "朝日新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1PU1llZ29LYmJ2dm1aMWdVdmtBNTNZS3dLbmdyVHdQNlByaHpTdjZzZlo0a1RuNG1zZ2hJb0Rkekp0ckZmY2toWkxsOG1NNDUxdVNlM1pLWkdTQlE?oc=5",
-        "publishedAt": "2026-10-14T01:08:15.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBTWDhoSnk2STBHcERodFViWklsV3NseXNoY3pVYnQyY0NKMGJaU2gwTEEyY0tBRDFDTWpRenFaUVlDRXl3S1I4U19zOEEwcGMyNE14U1hfZWtQaVk?oc=5",
+        "publishedAt": "2026-10-13T11:45:31.000Z"
+      },
+      {
+        "time": "18:21",
+        "title": "次世代設備保全クラウドのM2X、「ITreview Grid Award 2026 Fall」で最高位の「Leader」を8期連続受賞",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE50NjhfVDNZMlZONDg1bC1CZno3cVpNMEdJeW9BNnE0cjZNUnJMVFdrVGxYc0tLRzE1OU1haXRWYnVhcjFCZzhaQnJmbGRjNm9jSlNBRUMzZjUxOVhrM1I2dTBNV29BS1ZM?oc=5",
+        "publishedAt": "2026-10-14T09:21:24.000Z"
       }
     ],
     "worldHeadlines": [
@@ -119,6 +119,13 @@
         "publishedAt": "2026-10-14T07:50:23.000Z"
       },
       {
+        "time": "18:36",
+        "title": "サイゼが平均6%値上げする背景",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598754?source=rss",
+        "publishedAt": "2026-10-14T09:36:58.000Z"
+      },
+      {
         "time": "17:33",
         "title": "BOOKOFF「本売るなら」から変身",
         "source": "Yahoo!ニュース",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598728?source=rss",
         "publishedAt": "2026-10-14T05:26:12.000Z"
-      },
-      {
-        "time": "17:53",
-        "title": "阪急電鉄 中吊広告を来年4月終了",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598751?source=rss",
-        "publishedAt": "2026-10-14T08:53:13.000Z"
       }
     ],
     "localHeadlines": [
