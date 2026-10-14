@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T07:44:21.213Z",
+  "updatedAt": "2026-10-14T08:25:00.334Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -24,17 +24,24 @@
         "publishedAt": "2026-10-14T00:15:00.000Z"
       },
       {
-        "time": "12:46",
+        "time": "17:15",
         "title": "JIMTOF2026にベッコフオートメーションが出展、工作機械の自由度の高い機能開発をテーマに展示",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE90cXoyd1E3TFJaOFhiZWI0dE05ak1rVGsxUm1oWGxTN2d2YlNkc2o1NjhmaGRSVGEtRUZuWXBZTmVRQ3ZtSS1kWlJ3SzdVMEprTlZNbzNibWhYZXkzS3loelRFYWZZeWhMQlVwSmNlMHEzTFhjUGhXVUhmNA?oc=5",
+        "publishedAt": "2026-10-14T08:15:17.000Z"
+      },
+      {
+        "time": "13:16",
+        "title": "次世代設備保全クラウドのM2X、「ITreview Grid Award 2026 Fall」で最高位の「Leader」を8期連続受賞",
         "source": "時事ドットコム",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9vN21FZjBkcmFTYUd5YmF6U0QwTG1RS052YVFrUVQ0VWNUSDVHNzUtMEc2T0JxNHFOWGdjRUJyN0ZEaGZ4VWZBSDU5ekRzbkx0bm9hWjFPeGpvM19LZHpTZ0puOENwbGpXMkxN?oc=5",
-        "publishedAt": "2026-10-14T03:46:00.000Z"
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBHQ090QXBVWFR4a1duSjFFRllBdko3aThrOTNoZGh6Q09SU0ozM1BELUlscjNfdXp5Vmg2bmE2UDZpNU9sOXNES3IzMTNKZlJIRHYyNkJpdkZ2OXJHdWlEQm41UDFUS0hjRklZ?oc=5",
+        "publishedAt": "2026-10-14T04:16:00.000Z"
       },
       {
         "time": "15:00",
         "title": "がん治療や廃炉の研究を支える「教育用原子炉」が存続危機…稼働中は近畿大の1基のみ",
         "source": "東京新聞",
-        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE00T3hNZFFOTW5WM2ZKQXMyY3gtQTNqQ3Q1Q2FtdWpXMjFQYjhDYVZsb2FBcXBYSm1Wa2lubWVYbkVudExJUURudmZ4Mmk5NTNncEF3?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0zYmo2cU9rX2ZyajFLZGZhSW9fV29HaWRlTjlTTU1hVmEzeWF6LVd6MzFfVjJUeXJOeWdCRi1jYkV2TElRLXd0R3hGcHpYYjdrbW5yY09zOWRfamJiNHFmSjFGVWo?oc=5",
         "publishedAt": "2026-10-14T06:00:00.000Z"
       },
       {
@@ -45,18 +52,11 @@
         "publishedAt": "2026-10-14T03:00:00.000Z"
       },
       {
-        "time": "17:02",
-        "title": "【通期決算発表】 ミクロン精密：工作機械メーカー。自動車部品業界や建設機…(フィスコ)",
-        "source": "Yahoo!ファイナンス",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQYV9pX09rbTBYTlRRb2trVkRlY0RGYkU0RWpTaHdhRTVnNVlnVFJjVmFuSDREMXpDMzdiTnM1c1RzSVlnZ3FzVFA0enl3OEJVZnlEYzZJcDFvcEs5Q1Y5NGlCakFmTkxXaU4xVlhWZFBDcmVETnRlZlNJUTE0YTFpZkRQM1hZMEk?oc=5",
-        "publishedAt": "2026-10-13T08:02:40.000Z"
-      },
-      {
-        "time": "20:45",
-        "title": "【9/16（水）11:00‐】次世代設備保全クラウド「M2X」で何ができる？無料オンラインデモセミナー開催",
+        "time": "10:08",
+        "title": "【トランスコスモスオンラインセミナー】製造業DXを加速する！シリーズ第4弾を9月17日（木）に開催",
         "source": "朝日新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBTWDhoSnk2STBHcERodFViWklsV3NseXNoY3pVYnQyY0NKMGJaU2gwTEEyY0tBRDFDTWpRenFaUVlDRXl3S1I4U19zOEEwcGMyNE14U1hfZWtQaVk?oc=5",
-        "publishedAt": "2026-10-13T11:45:31.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1PU1llZ29LYmJ2dm1aMWdVdmtBNTNZS3dLbmdyVHdQNlByaHpTdjZzZlo0a1RuNG1zZ2hJb0Rkekp0ckZmY2toWkxsOG1NNDUxdVNlM1pLWkdTQlE?oc=5",
+        "publishedAt": "2026-10-14T01:08:15.000Z"
       }
     ],
     "worldHeadlines": [
@@ -112,11 +112,11 @@
         "publishedAt": "2026-10-14T07:15:24.000Z"
       },
       {
-        "time": "13:01",
-        "title": "PayPay証券 システム障害が解消",
+        "time": "16:50",
+        "title": "サイゼ メニューを平均6%値上げへ",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598720?source=rss",
-        "publishedAt": "2026-10-14T04:01:42.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6598740?source=rss",
+        "publishedAt": "2026-10-14T07:50:23.000Z"
       },
       {
         "time": "23:25",
@@ -177,18 +177,18 @@
         "publishedAt": "2026-10-14T06:25:06.000Z"
       },
       {
+        "time": "17:20",
+        "title": "大樹生命の元社員を逮捕 詐取疑い",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598748?source=rss",
+        "publishedAt": "2026-10-14T08:20:06.000Z"
+      },
+      {
         "time": "14:43",
         "title": "店の犬猫に無資格で注射疑い 逮捕",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598730?source=rss",
         "publishedAt": "2026-10-14T05:43:56.000Z"
-      },
-      {
-        "time": "11:13",
-        "title": "警察署金庫から百万円消える 捜査",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598702?source=rss",
-        "publishedAt": "2026-10-14T02:13:55.000Z"
       }
     ],
     "subsidyHeadlines": [

@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-14T07:44:22.648Z",
+  "updatedAt": "2026-10-14T08:25:01.087Z",
   "items": [
     {
       "time": "16:15",
@@ -10,14 +10,6 @@ window.LUS_X_NEWS = {
       "xQuery": "ワールドとTSI 経営統合で合意"
     },
     {
-      "time": "15:27",
-      "title": "簗氏 24年衆院選で運動員買収疑惑",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598734?source=rss",
-      "publishedAt": "2026-10-14T06:27:25.000Z",
-      "xQuery": "簗氏 24年衆院選で運動員買収疑惑"
-    },
-    {
       "time": "15:42",
       "title": "露で記者拘束 道新「詳細確認中」",
       "source": "Yahoo!ニュース",
@@ -26,12 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "露で記者拘束 道新「詳細確認中」"
     },
     {
-      "time": "14:14",
-      "title": "積み荷はニワトリ3000羽 崩れ散乱",
+      "time": "15:27",
+      "title": "簗氏 24年衆院選で運動員買収疑惑",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598727?source=rss",
-      "publishedAt": "2026-10-14T05:14:43.000Z",
-      "xQuery": "積み荷はニワトリ3000羽 崩れ散乱"
+      "url": "https://news.yahoo.co.jp/pickup/6598734?source=rss",
+      "publishedAt": "2026-10-14T06:27:25.000Z",
+      "xQuery": "簗氏 24年衆院選で運動員買収疑惑"
+    },
+    {
+      "time": "17:20",
+      "title": "大樹生命の元社員を逮捕 詐取疑い",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6598748?source=rss",
+      "publishedAt": "2026-10-14T08:20:06.000Z",
+      "xQuery": "大樹生命の元社員を逮捕 詐取疑い"
     },
     {
       "time": "15:25",
