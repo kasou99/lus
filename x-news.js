@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-14T13:40:35.972Z",
+  "updatedAt": "2026-10-14T14:18:12.833Z",
   "items": [
     {
       "time": "21:26",
@@ -10,12 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "農水相辞任 首相が任命責任に言及"
     },
     {
-      "time": "22:17",
-      "title": "防災メール停止など110自治体報告",
+      "time": "22:18",
+      "title": "日銀利上げ 2%超える可能性は",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598784?source=rss",
-      "publishedAt": "2026-10-14T13:17:46.000Z",
-      "xQuery": "防災メール停止など110自治体報告"
+      "url": "https://news.yahoo.co.jp/pickup/6598757?source=rss",
+      "publishedAt": "2026-10-14T13:18:09.000Z",
+      "xQuery": "日銀利上げ 2%超える可能性は"
+    },
+    {
+      "time": "22:47",
+      "title": "東京都 23区内に火葬場の新設検討",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6598786?source=rss",
+      "publishedAt": "2026-10-14T13:47:42.000Z",
+      "xQuery": "東京都 23区内に火葬場の新設検討"
     },
     {
       "time": "22:01",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6598751?source=rss",
       "publishedAt": "2026-10-14T08:53:13.000Z",
       "xQuery": "阪急電鉄 中吊広告を来年4月終了"
-    },
-    {
-      "time": "18:36",
-      "title": "サイゼが平均6%値上げする背景",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598754?source=rss",
-      "publishedAt": "2026-10-14T09:36:58.000Z",
-      "xQuery": "サイゼが平均6%値上げする背景"
     }
   ]
 };

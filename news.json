@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T13:40:35.455Z",
+  "updatedAt": "2026-10-14T14:18:12.060Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -45,18 +45,18 @@
         "publishedAt": "2026-10-14T03:00:00.000Z"
       },
       {
-        "time": "05:00",
-        "title": "アズビル、計測自動制御学会賞3件受賞 生産・安全性向上貢献技術で評価",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA0UkRHczVoMmJVZUcyZnZ0bmNRUWNwd3pWWng4ckxPQUdWS0I0cTl2eWMzbTg3amwyT05ZaDJyRW92SHJ1UnJWd05GOVY3VVhDU1hTdjExMTNnSUlBMEpBeGVXR1RVSU9KUGhLcTVuTUJzd0o4U2Z0R0lLdw?oc=5",
-        "publishedAt": "2026-10-13T20:00:00.000Z"
+        "time": "10:08",
+        "title": "【トランスコスモスオンラインセミナー】製造業DXを加速する！シリーズ第4弾を9月17日（木）に開催",
+        "source": "朝日新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1PU1llZ29LYmJ2dm1aMWdVdmtBNTNZS3dLbmdyVHdQNlByaHpTdjZzZlo0a1RuNG1zZ2hJb0Rkekp0ckZmY2toWkxsOG1NNDUxdVNlM1pLWkdTQlE?oc=5",
+        "publishedAt": "2026-10-14T01:08:15.000Z"
       },
       {
-        "time": "17:03",
-        "title": "日本工場自動化・産業用制御市場：オムロンのフィジカルAI事業拡大、日立製作所とファナックの提携、工作機械受注の過去最高",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ILXJINGY1WVo5U2RDRWh0Y053Q3ppYXN4alRweUh6M3RodExDSXZRQ2JNbmZnRUdNRHdRNUV1c1lTRHF4NmhtRDNrLUh1S1d3SUNPMS0yTFhvWFF5QTcyRUZaMjZ4d3RMdVZhQ0N3b2tkeURxek5TeHhvTQ?oc=5",
-        "publishedAt": "2026-10-14T08:03:37.000Z"
+        "time": "05:00",
+        "title": "安川電機、インバーター用カード発売 安全通信の国際規格対応",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE14Y2V1WEpfWW01SFZRNkNfYmFaQkQxNG5VM2VlaVdLREtQWUxPZDc3UTItMTM0T3hyTVU3RUhzX3BCUXZUUGpoa1ZsdHhmSjJRQ3BHdlJRZFc?oc=5",
+        "publishedAt": "2026-10-13T20:00:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "22:47",
+        "title": "東京都 23区内に火葬場の新設検討",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598786?source=rss",
+        "publishedAt": "2026-10-14T13:47:42.000Z"
+      },
+      {
         "time": "19:14",
         "title": "プール授業中に溺死 元担任も有罪",
         "source": "Yahoo!ニュース",
@@ -156,25 +163,11 @@
         "publishedAt": "2026-10-14T10:14:38.000Z"
       },
       {
-        "time": "19:33",
-        "title": "警察官がひき逃げ疑い 書類送検",
+        "time": "23:01",
+        "title": "札幌駅直結の施設で黒い煙 騒然",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598767?source=rss",
-        "publishedAt": "2026-10-14T10:33:49.000Z"
-      },
-      {
-        "time": "12:11",
-        "title": "給食に「貧相すぎ」と批判 市回答",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598715?source=rss",
-        "publishedAt": "2026-10-14T03:11:33.000Z"
-      },
-      {
-        "time": "15:25",
-        "title": "だんじり事故 主催者らの責任は",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598733?source=rss",
-        "publishedAt": "2026-10-14T06:25:06.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6598789?source=rss",
+        "publishedAt": "2026-10-14T14:01:00.000Z"
       },
       {
         "time": "17:20",
@@ -189,6 +182,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598783?source=rss",
         "publishedAt": "2026-10-14T13:01:56.000Z"
+      },
+      {
+        "time": "12:02",
+        "title": "我が家・杉山裕之さん 万引き疑い",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598714?source=rss",
+        "publishedAt": "2026-10-14T03:02:58.000Z"
       }
     ],
     "subsidyHeadlines": [
