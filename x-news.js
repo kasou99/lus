@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-14T08:46:19.391Z",
+  "updatedAt": "2026-10-14T09:19:56.491Z",
   "items": [
+    {
+      "time": "17:46",
+      "title": "首相 農相を交代させる方針固める",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6598753?source=rss",
+      "publishedAt": "2026-10-14T08:46:45.000Z",
+      "xQuery": "首相 農相を交代させる方針固める"
+    },
     {
       "time": "16:15",
       "title": "ワールドとTSI 経営統合で合意",
@@ -8,22 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6598738?source=rss",
       "publishedAt": "2026-10-14T07:15:24.000Z",
       "xQuery": "ワールドとTSI 経営統合で合意"
-    },
-    {
-      "time": "17:21",
-      "title": "外務省 駐日ロシア大使を呼び出し",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598746?source=rss",
-      "publishedAt": "2026-10-14T08:21:57.000Z",
-      "xQuery": "外務省 駐日ロシア大使を呼び出し"
-    },
-    {
-      "time": "15:27",
-      "title": "簗氏 24年衆院選で運動員買収疑惑",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598734?source=rss",
-      "publishedAt": "2026-10-14T06:27:25.000Z",
-      "xQuery": "簗氏 24年衆院選で運動員買収疑惑"
     },
     {
       "time": "17:20",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "大樹生命の元社員を逮捕 詐取疑い"
     },
     {
-      "time": "16:50",
-      "title": "サイゼ メニューを平均6%値上げへ",
+      "time": "14:43",
+      "title": "店の犬猫に無資格で注射疑い 逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598740?source=rss",
-      "publishedAt": "2026-10-14T07:50:23.000Z",
-      "xQuery": "サイゼ メニューを平均6%値上げへ"
+      "url": "https://news.yahoo.co.jp/pickup/6598730?source=rss",
+      "publishedAt": "2026-10-14T05:43:56.000Z",
+      "xQuery": "店の犬猫に無資格で注射疑い 逮捕"
+    },
+    {
+      "time": "14:51",
+      "title": "ウインナー なぜ2袋セットで販売",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6598731?source=rss",
+      "publishedAt": "2026-10-14T05:51:34.000Z",
+      "xQuery": "ウインナー なぜ2袋セットで販売"
     }
   ]
 };
