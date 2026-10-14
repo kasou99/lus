@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-14T10:41:19.127Z",
+  "updatedAt": "2026-10-14T11:17:05.031Z",
   "items": [
     {
-      "time": "19:01",
-      "title": "簗農相が辞表提出 事実上の更迭か",
+      "time": "19:49",
+      "title": "農相「これ以上迷惑かけられず」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598765?source=rss",
-      "publishedAt": "2026-10-14T10:01:47.000Z",
-      "xQuery": "簗農相が辞表提出 事実上の更迭か"
+      "url": "https://news.yahoo.co.jp/pickup/6598770?source=rss",
+      "publishedAt": "2026-10-14T10:49:55.000Z",
+      "xQuery": "農相「これ以上迷惑かけられず」"
     },
     {
-      "time": "17:55",
-      "title": "幼い娘が偏食 追い詰められた母親",
+      "time": "18:05",
+      "title": "校名変更する大学増加 背景を分析",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598758?source=rss",
-      "publishedAt": "2026-10-14T08:55:59.000Z",
-      "xQuery": "幼い娘が偏食 追い詰められた母親"
+      "url": "https://news.yahoo.co.jp/pickup/6598759?source=rss",
+      "publishedAt": "2026-10-14T09:05:26.000Z",
+      "xQuery": "校名変更する大学増加 背景を分析"
     },
     {
       "time": "19:14",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "プール授業中に溺死 元担任も有罪"
     },
     {
-      "time": "12:11",
-      "title": "給食に「貧相すぎ」と批判 市回答",
+      "time": "19:33",
+      "title": "警察官がひき逃げ疑い 書類送検",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598715?source=rss",
-      "publishedAt": "2026-10-14T03:11:33.000Z",
-      "xQuery": "給食に「貧相すぎ」と批判 市回答"
+      "url": "https://news.yahoo.co.jp/pickup/6598767?source=rss",
+      "publishedAt": "2026-10-14T10:33:49.000Z",
+      "xQuery": "警察官がひき逃げ疑い 書類送検"
     },
     {
-      "time": "17:33",
-      "title": "BOOKOFF「本売るなら」から変身",
+      "time": "19:45",
+      "title": "路上にニワトリ散乱 3hかけ回収",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598750?source=rss",
-      "publishedAt": "2026-10-14T08:33:40.000Z",
-      "xQuery": "BOOKOFF「本売るなら」から変身"
+      "url": "https://news.yahoo.co.jp/pickup/6598769?source=rss",
+      "publishedAt": "2026-10-14T10:45:57.000Z",
+      "xQuery": "路上にニワトリ散乱 3hかけ回収"
     }
   ]
 };

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T10:41:18.541Z",
+  "updatedAt": "2026-10-14T11:17:04.157Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,6 +17,13 @@
         "publishedAt": "2026-10-14T07:23:05.000Z"
       },
       {
+        "time": "09:15",
+        "title": "「工作機械」に注目 政府が戦略17分野への投資強化、 工場の自動化投資も拡大",
+        "source": "日経CNBC online",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBySTB3ekJXdDZfQUoxVlNpcXU0MVZvSk5kSXVlOFhWcURmcnJiSlJ1QUJCV2dGaVktb3VLTEpMMDlQS0JRTVdGTUhDY2Z0aFRJQ1BTZg?oc=5",
+        "publishedAt": "2026-10-14T00:15:00.000Z"
+      },
+      {
         "time": "15:00",
         "title": "盤レス or 通常の制御盤 という話ではない 選択肢ができた喜びを素直に享受しよう",
         "source": "オートメーション新聞WEB",
@@ -24,11 +31,11 @@
         "publishedAt": "2026-10-14T06:00:00.000Z"
       },
       {
-        "time": "09:15",
-        "title": "「工作機械」に注目 政府が戦略17分野への投資強化、 工場の自動化投資も拡大",
-        "source": "日経CNBC online",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBySTB3ekJXdDZfQUoxVlNpcXU0MVZvSk5kSXVlOFhWcURmcnJiSlJ1QUJCV2dGaVktb3VLTEpMMDlQS0JRTVdGTUhDY2Z0aFRJQ1BTZg?oc=5",
-        "publishedAt": "2026-10-14T00:15:00.000Z"
+        "time": "18:21",
+        "title": "次世代設備保全クラウドのM2X、「ITreview Grid Award 2026 Fall」で最高位の「Leader」を8期連続受賞",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9xUmp2S1RlSDFOR01CaUYxOEVMZnk5WkQwRHJDMFJINjZ3aENodUl5Wm1zR3M0Xzl0U2trbWIxOVBteXpjSGRIVThPY0VWeXV3SDUxYg?oc=5",
+        "publishedAt": "2026-10-14T09:21:24.000Z"
       },
       {
         "time": "17:59",
@@ -50,13 +57,6 @@
         "source": "朝日新聞",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBTWDhoSnk2STBHcERodFViWklsV3NseXNoY3pVYnQyY0NKMGJaU2gwTEEyY0tBRDFDTWpRenFaUVlDRXl3S1I4U19zOEEwcGMyNE14U1hfZWtQaVk?oc=5",
         "publishedAt": "2026-10-13T11:45:31.000Z"
-      },
-      {
-        "time": "18:21",
-        "title": "次世代設備保全クラウドのM2X、「ITreview Grid Award 2026 Fall」で最高位の「Leader」を8期連続受賞",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE50NjhfVDNZMlZONDg1bC1CZno3cVpNMEdJeW9BNnE0cjZNUnJMVFdrVGxYc0tLRzE1OU1haXRWYnVhcjFCZzhaQnJmbGRjNm9jSlNBRUMzZjUxOVhrM1I2dTBNV29BS1ZM?oc=5",
-        "publishedAt": "2026-10-14T09:21:24.000Z"
       }
     ],
     "worldHeadlines": [
