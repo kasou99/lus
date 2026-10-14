@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T16:43:22.610Z",
+  "updatedAt": "2026-10-14T17:14:34.875Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -8,6 +8,13 @@
         "source": "MONOist",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5hV01PcHN3WEVFbFFJaGJjTmV3SEFGaXFNRFd6RDdjQkNRRG5DWTJBYW90LXhQUEhYS25IQXRCd1h4VzByVUlxaFhvcVJ2UFVNdndRZTBHWGw1MnFSLVJTeWlkQVA5MGlNTWtWZmdtVQ?oc=5",
         "publishedAt": "2026-10-14T04:00:00.000Z"
+      },
+      {
+        "time": "20:05",
+        "title": "シチズンマシナリー、工作機械のハイスペックモデルと工具監視ソフトを相次ぎ発表",
+        "source": "電波新聞デジタル",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5HTjJyc1pTU0RONEJkWkMwV3V4YjVNY1FnZkVFbDY4NWIyNXpMN1pNS0dLdmhKZFp1eGdOQXl0MkhYZHpsUlNCdUhhOWJyTzl6RlE?oc=5",
+        "publishedAt": "2026-10-14T11:05:53.000Z"
       },
       {
         "time": "00:10",
@@ -45,18 +52,11 @@
         "publishedAt": "2026-10-14T03:00:00.000Z"
       },
       {
-        "time": "10:08",
-        "title": "【トランスコスモスオンラインセミナー】製造業DXを加速する！シリーズ第4弾を9月17日（木）に開催",
-        "source": "朝日新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1PU1llZ29LYmJ2dm1aMWdVdmtBNTNZS3dLbmdyVHdQNlByaHpTdjZzZlo0a1RuNG1zZ2hJb0Rkekp0ckZmY2toWkxsOG1NNDUxdVNlM1pLWkdTQlE?oc=5",
-        "publishedAt": "2026-10-14T01:08:15.000Z"
-      },
-      {
-        "time": "05:00",
-        "title": "安川電機、インバーター用カード発売 安全通信の国際規格対応",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE14Y2V1WEpfWW01SFZRNkNfYmFaQkQxNG5VM2VlaVdLREtQWUxPZDc3UTItMTM0T3hyTVU3RUhzX3BCUXZUUGpoa1ZsdHhmSjJRQ3BHdlJRZFc?oc=5",
-        "publishedAt": "2026-10-13T20:00:00.000Z"
+        "time": "17:03",
+        "title": "日本工場自動化・産業用制御市場：オムロンのフィジカルAI事業拡大、日立製作所とファナックの提携、工作機械受注の過去最高",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ILXJINGY1WVo5U2RDRWh0Y053Q3ppYXN4alRweUh6M3RodExDSXZRQ2JNbmZnRUdNRHdRNUV1c1lTRHF4NmhtRDNrLUh1S1d3SUNPMS0yTFhvWFF5QTcyRUZaMjZ4d3RMdVZhQ0N3b2tkeURxek5TeHhvTQ?oc=5",
+        "publishedAt": "2026-10-14T08:03:37.000Z"
       }
     ],
     "worldHeadlines": [
