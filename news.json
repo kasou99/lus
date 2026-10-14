@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T14:41:19.914Z",
+  "updatedAt": "2026-10-14T15:18:54.639Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -24,6 +24,13 @@
         "publishedAt": "2026-10-14T06:00:00.000Z"
       },
       {
+        "time": "09:15",
+        "title": "「工作機械」に注目 政府が戦略17分野への投資強化、 工場の自動化投資も拡大",
+        "source": "日経CNBC online",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBySTB3ekJXdDZfQUoxVlNpcXU0MVZvSk5kSXVlOFhWcURmcnJiSlJ1QUJCV2dGaVktb3VLTEpMMDlQS0JRTVdGTUhDY2Z0aFRJQ1BTZg?oc=5",
+        "publishedAt": "2026-10-14T00:15:00.000Z"
+      },
+      {
         "time": "18:21",
         "title": "次世代設備保全クラウドのM2X、「ITreview Grid Award 2026 Fall」で最高位の「Leader」を8期連続受賞",
         "source": "ニコニコニュース",
@@ -45,18 +52,11 @@
         "publishedAt": "2026-10-14T03:00:00.000Z"
       },
       {
-        "time": "19:08",
-        "title": "画像・写真 | 【大阪】キングコング西野亮廣による“新ハロウィンイベント” 南海なんば駅前、約5000個の提灯や目玉オブジェ 2枚目",
-        "source": "オリコンニュース",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9BbnZMUXVOWW1xQjhXY1B6V0VlSm5KWjFWaU84MnMxcUlwYlhIYXNjUXBabHVCVnZTU3FxdWtCaDBTenFZc0ZpVEQxRHJhZENlS19mT3pyR24xbGU4ZG5FM1FfaHo?oc=5",
-        "publishedAt": "2026-10-14T10:08:03.000Z"
-      },
-      {
-        "time": "15:00",
-        "title": "がん治療や廃炉の研究を支える「教育用原子炉」が存続危機…稼働中は近畿大の1基のみ",
-        "source": "東京新聞",
-        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE00T3hNZFFOTW5WM2ZKQXMyY3gtQTNqQ3Q1Q2FtdWpXMjFQYjhDYVZsb2FBcXBYSm1Wa2lubWVYbkVudExJUURudmZ4Mmk5NTNncEF3?oc=5",
-        "publishedAt": "2026-10-14T06:00:00.000Z"
+        "time": "10:08",
+        "title": "【トランスコスモスオンラインセミナー】製造業DXを加速する！シリーズ第4弾を9月17日（木）に開催",
+        "source": "朝日新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1PU1llZ29LYmJ2dm1aMWdVdmtBNTNZS3dLbmdyVHdQNlByaHpTdjZzZlo0a1RuNG1zZ2hJb0Rkekp0ckZmY2toWkxsOG1NNDUxdVNlM1pLWkdTQlE?oc=5",
+        "publishedAt": "2026-10-14T01:08:15.000Z"
       }
     ],
     "worldHeadlines": [
@@ -68,18 +68,18 @@
         "publishedAt": "2026-10-14T05:01:19.000Z"
       },
       {
-        "time": "05:57",
-        "title": "道新記者をサハリンで拘束 露当局",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598670?source=rss",
-        "publishedAt": "2026-10-13T20:57:07.000Z"
-      },
-      {
         "time": "11:00",
         "title": "銃殺刑の配信 米大統領が中止検討",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598700?source=rss",
         "publishedAt": "2026-10-14T02:00:59.000Z"
+      },
+      {
+        "time": "00:05",
+        "title": "海峡で機雷接触の貨物船沈没 報道",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598794?source=rss",
+        "publishedAt": "2026-10-14T15:05:35.000Z"
       },
       {
         "time": "18:17",
