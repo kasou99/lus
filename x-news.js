@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-14T21:15:30.341Z",
+  "updatedAt": "2026-10-14T21:38:19.733Z",
   "items": [
     {
       "time": "23:12",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "道新記者の拘束 日本政府に衝撃"
     },
     {
+      "time": "06:20",
+      "title": "ネトフリ 従業員約1000人を削減へ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6598797?source=rss",
+      "publishedAt": "2026-10-14T21:20:35.000Z",
+      "xQuery": "ネトフリ 従業員約1000人を削減へ"
+    },
+    {
       "time": "22:01",
       "title": "新宿109KENZO 池田容疑者を逮捕",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6598783?source=rss",
       "publishedAt": "2026-10-14T13:01:56.000Z",
       "xQuery": "新宿109KENZO 池田容疑者を逮捕"
-    },
-    {
-      "time": "00:20",
-      "title": "万博未払い アンゴラ異例対応の訳",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598795?source=rss",
-      "publishedAt": "2026-10-14T15:20:27.000Z",
-      "xQuery": "万博未払い アンゴラ異例対応の訳"
     }
   ]
 };
