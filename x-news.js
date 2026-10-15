@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-15T03:20:50.615Z",
+  "updatedAt": "2026-10-15T03:44:55.493Z",
   "items": [
     {
-      "time": "11:25",
-      "title": "邦人記者拘束 露の狙いを識者指摘",
+      "time": "12:10",
+      "title": "重責こなしたい 農相起用の武部氏",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598834?source=rss",
-      "publishedAt": "2026-10-15T02:25:47.000Z",
-      "xQuery": "邦人記者拘束 露の狙いを識者指摘"
+      "url": "https://news.yahoo.co.jp/pickup/6598849?source=rss",
+      "publishedAt": "2026-10-15T03:10:52.000Z",
+      "xQuery": "重責こなしたい 農相起用の武部氏"
     },
     {
-      "time": "11:57",
-      "title": "ストーカーにGPS装着検討 警察庁",
+      "time": "11:47",
+      "title": "北朝鮮 14日に潜水艦巡航ミサイル",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598842?source=rss",
-      "publishedAt": "2026-10-15T02:57:16.000Z",
-      "xQuery": "ストーカーにGPS装着検討 警察庁"
+      "url": "https://news.yahoo.co.jp/pickup/6598841?source=rss",
+      "publishedAt": "2026-10-15T02:47:27.000Z",
+      "xQuery": "北朝鮮 14日に潜水艦巡航ミサイル"
     },
     {
       "time": "11:21",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "運動会で孫の写真投稿 炎上相次ぐ"
     },
     {
-      "time": "10:46",
-      "title": "豆腐の移動販売で年商20億円 秘訣",
+      "time": "11:53",
+      "title": "サケの代わりに「マヒマヒ」大漁",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598825?source=rss",
-      "publishedAt": "2026-10-15T01:46:35.000Z",
-      "xQuery": "豆腐の移動販売で年商20億円 秘訣"
+      "url": "https://news.yahoo.co.jp/pickup/6598843?source=rss",
+      "publishedAt": "2026-10-15T02:53:18.000Z",
+      "xQuery": "サケの代わりに「マヒマヒ」大漁"
     }
   ]
 };

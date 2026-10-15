@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-10-15T03:20:49.881Z",
+  "updatedAt": "2026-10-15T03:44:54.584Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "12:22",
+        "title": "「工作機械」が１７位にランク、ＡＩ関連向けなどに受注拡大＜注目テーマ＞",
+        "source": "株探",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE42Tm5TaTNZTm54X3lEN2xEZUZZV0JaZWMtd2xLNFhQWGRBaWFyeFFRY1Z4Wk9jaE03MG9HY3o1YlNiSkkzNnJ3UFpDX0dpaUUxYUE?oc=5",
+        "publishedAt": "2026-10-15T03:22:00.000Z"
+      },
       {
         "time": "05:04",
         "title": "オムロン、制御盤レス化で攻勢 対応製品群を拡充",
@@ -50,13 +57,6 @@
         "source": "北海道新聞デジタル",
         "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9GQ0p2VkY0ZWFlRWNGZmp4aEtyQTNINS1QU184a0hUQXpIekJtWWpxRHZwTGdtR2pIYk9QRVNlTXppNUw1akxoZmtMb2RKY1dUM3IxZk1ZWWtHZw?oc=5",
         "publishedAt": "2026-10-14T08:59:02.000Z"
-      },
-      {
-        "time": "17:03",
-        "title": "日本工場自動化・産業用制御市場：オムロンのフィジカルAI事業拡大、日立製作所とファナックの提携、工作機械受注の過去最高",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1keWZObXNGQTBXcFROZHV5azVEeF9DNTRtOWhXbnh3SGF5TW1tVVJ4UC1CY1NZNEt0QldFd2lBTjhWV1c2dEhOUzNnVnpSZ2dWdEd5Ng?oc=5",
-        "publishedAt": "2026-10-14T08:03:37.000Z"
       }
     ],
     "worldHeadlines": [
