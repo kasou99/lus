@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-15T12:26:54.594Z",
+  "updatedAt": "2026-10-15T12:51:42.046Z",
   "items": [
     {
       "time": "17:58",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "米の新報道官 弁護士経歴に疑念"
     },
     {
-      "time": "18:58",
-      "title": "バスと車衝突し73歳死亡 孫が重体",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598906?source=rss",
-      "publishedAt": "2026-10-15T09:58:07.000Z",
-      "xQuery": "バスと車衝突し73歳死亡 孫が重体"
-    },
-    {
       "time": "20:29",
       "title": "年金だけで暮らせず 毎日働く71歳",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6598916?source=rss",
       "publishedAt": "2026-10-15T11:29:05.000Z",
       "xQuery": "年金だけで暮らせず 毎日働く71歳"
+    },
+    {
+      "time": "20:38",
+      "title": "闘病の22歳 両親に感謝伝えきれず",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6598911?source=rss",
+      "publishedAt": "2026-10-15T11:38:31.000Z",
+      "xQuery": "闘病の22歳 両親に感謝伝えきれず"
     },
     {
       "time": "20:09",
