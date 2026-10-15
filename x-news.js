@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-15T10:42:00.868Z",
+  "updatedAt": "2026-10-15T11:16:02.872Z",
   "items": [
     {
       "time": "14:53",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "麻生氏 簗氏の更迭「大変遺憾」"
     },
     {
-      "time": "18:49",
-      "title": "検事が「ガキ」発言 国の賠償確定",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598904?source=rss",
-      "publishedAt": "2026-10-15T09:49:19.000Z",
-      "xQuery": "検事が「ガキ」発言 国の賠償確定"
-    },
-    {
       "time": "18:58",
       "title": "バスと車衝突し73歳死亡 孫が重体",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6598906?source=rss",
       "publishedAt": "2026-10-15T09:58:07.000Z",
       "xQuery": "バスと車衝突し73歳死亡 孫が重体"
+    },
+    {
+      "time": "19:48",
+      "title": "DV加害者と避難先で3年同居 なぜ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6598909?source=rss",
+      "publishedAt": "2026-10-15T10:48:12.000Z",
+      "xQuery": "DV加害者と避難先で3年同居 なぜ"
     }
   ]
 };
