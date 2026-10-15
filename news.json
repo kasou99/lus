@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T10:17:33.763Z",
+  "updatedAt": "2026-10-15T10:41:59.859Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,6 +31,13 @@
         "publishedAt": "2026-10-14T20:04:40.000Z"
       },
       {
+        "time": "13:30",
+        "title": "ブラザー、2026年度グッドデザイン賞を受賞",
+        "source": "PR TIMES",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9QaDExU2lVOThKRV9sdklJenI0VzdMM09JeVNpQ0FYREhYWWtqTzB4QWU3YzlRS0trZWlTVjRzNUp5NWRsZnZ4T0o3aUlZSlZmSUlzVWxveGZLR3hWcGREQ3RsZXRuWEluVkE?oc=5",
+        "publishedAt": "2026-10-15T04:30:01.000Z"
+      },
+      {
         "time": "16:16",
         "title": "「2026年度グッドデザイン賞」を受賞：時事ドットコム",
         "source": "時事ドットコム",
@@ -50,13 +57,6 @@
         "source": "Infoseek",
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE12TXpjY08zSVpjT2EtdHBZXzBRS3J2VVBxYTl2Q1dkd0VGR1JzczJCNk1sQXhvTVNGdGlNUTNNRjlLMXhuNjBoakw3dGZ1aklpdjlweV9udV9CM203WS0tN3diZDJYb2k1UXRvM2FDUkpVQQ?oc=5",
         "publishedAt": "2026-10-14T15:10:02.000Z"
-      },
-      {
-        "time": "05:00",
-        "title": "経営ひと言／富士フイルムBI・鍋田敏之取締役常務執行役員CTO「複合機からDX」",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5QZk5odWZzOWlWZDVZNlBkTzI2LVpJY0ViRFlHY2xsMnpBMGRfaDZMSTN3emtLRE93a0FieURUcFBsVTRVQXJWdUo2RXBuX0lPb005TDRWdFo?oc=5",
-        "publishedAt": "2026-10-14T20:00:00.000Z"
       }
     ],
     "worldHeadlines": [
