@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T22:16:32.080Z",
+  "updatedAt": "2026-10-15T22:38:15.880Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -10,13 +10,6 @@
         "publishedAt": "2026-10-15T11:23:47.000Z"
       },
       {
-        "time": "00:00",
-        "title": "工作機械の程泰の中国工場、英制裁対象に",
-        "source": "NNAアジア",
-        "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1jdDVpNWk2VllzSVBvMERZRjBsYU5VMkNFT2k3Y1lQeTVfRUVnUXhoLWZyLVhBd3MzcXdvbWczRTNybk1McFE?oc=5",
-        "publishedAt": "2026-10-15T15:00:00.000Z"
-      },
-      {
         "time": "12:22",
         "title": "「工作機械」が１７位にランク、ＡＩ関連向けなどに受注拡大＜注目テーマ＞",
         "source": "株探",
@@ -24,18 +17,18 @@
         "publishedAt": "2026-10-15T03:22:00.000Z"
       },
       {
+        "time": "00:00",
+        "title": "工作機械の程泰の中国工場、英制裁対象に",
+        "source": "NNAアジア",
+        "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1jdDVpNWk2VllzSVBvMERZRjBsYU5VMkNFT2k3Y1lQeTVfRUVnUXhoLWZyLVhBd3MzcXdvbWczRTNybk1McFE?oc=5",
+        "publishedAt": "2026-10-15T15:00:00.000Z"
+      },
+      {
         "time": "05:00",
         "title": "日工会野球大会、6チームが熱戦",
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9JMWM2YVNTZExEUUhVOXRFRmFWamhwSE5hZ3ZtNEtvTVR3UWRDdkVJY1lVNVBWNmZKbE9YXzgzQjJmLWRTOXVTY0RfbWxaSWRmUGo2RVI4X2s?oc=5",
         "publishedAt": "2026-10-15T20:00:00.000Z"
-      },
-      {
-        "time": "19:05",
-        "title": "徳島県立中央テクノスクール会計年度任用職員（準高度業務・機械技術科指導員）の募集について｜徳島県ホームページ",
-        "source": "徳島県ホームページ",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1kV0QtMEJYVDZlb3hmeU1YbnVNWHVHZkFNMlNYdjVDUHRRcTdNU0lXYXlaSHByQU8xZ1ZWZ1ZlSVlMMUtZOExOa1B1ZnUxM1J2Vy1sVTFYRjlGYXNoUFhqOF9RblZIa0E1Rmc?oc=5",
-        "publishedAt": "2026-10-15T10:05:48.000Z"
       },
       {
         "time": "13:00",
@@ -57,6 +50,13 @@
         "source": "亜州ビジネス中国",
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1Tc3NiajRuRDNxLXB6Ym1zUkw2MENuTWx3SHpRR2tQSUNZNFVaNURFOWFFQXpESkZQTl92b2t0RUE5aGtTejI5TkR4VlV5TmtKeVhManlvYzEtYnVVMWhKRkkwbFRVeGE3?oc=5",
         "publishedAt": "2026-10-15T05:34:00.000Z"
+      },
+      {
+        "time": "13:30",
+        "title": "ブラザー、2026年度グッドデザイン賞を受賞",
+        "source": "PR TIMES",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9QaDExU2lVOThKRV9sdklJenI0VzdMM09JeVNpQ0FYREhYWWtqTzB4QWU3YzlRS0trZWlTVjRzNUp5NWRsZnZ4T0o3aUlZSlZmSUlzVWxveGZLR3hWcGREQ3RsZXRuWEluVkE?oc=5",
+        "publishedAt": "2026-10-15T04:30:01.000Z"
       }
     ],
     "worldHeadlines": [
@@ -177,18 +177,18 @@
         "publishedAt": "2026-10-15T22:06:01.000Z"
       },
       {
+        "time": "07:32",
+        "title": "八王子にクマ なぜ駆除まで2h超",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598943?source=rss",
+        "publishedAt": "2026-10-15T22:32:55.000Z"
+      },
+      {
         "time": "19:48",
         "title": "DV加害者と避難先で3年同居 なぜ",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598909?source=rss",
         "publishedAt": "2026-10-15T10:48:12.000Z"
-      },
-      {
-        "time": "17:49",
-        "title": "菌検出の温泉で措置せず 市長謝罪",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598891?source=rss",
-        "publishedAt": "2026-10-15T08:49:08.000Z"
       }
     ],
     "subsidyHeadlines": [

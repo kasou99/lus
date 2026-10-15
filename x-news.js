@@ -1,21 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-15T22:16:32.817Z",
+  "updatedAt": "2026-10-15T22:38:17.072Z",
   "items": [
     {
-      "time": "23:27",
-      "title": "うるう秒廃止 うるう時の導入決定",
+      "time": "07:29",
+      "title": "金融所得を医療費に反映 29年8月",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598933?source=rss",
-      "publishedAt": "2026-10-15T14:27:01.000Z",
-      "xQuery": "うるう秒廃止 うるう時の導入決定"
-    },
-    {
-      "time": "22:12",
-      "title": "タクシーやバス カスハラ客拒否へ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598926?source=rss",
-      "publishedAt": "2026-10-15T13:12:11.000Z",
-      "xQuery": "タクシーやバス カスハラ客拒否へ"
+      "url": "https://news.yahoo.co.jp/pickup/6598942?source=rss",
+      "publishedAt": "2026-10-15T22:29:26.000Z",
+      "xQuery": "金融所得を医療費に反映 29年8月"
     },
     {
       "time": "06:21",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6598939?source=rss",
       "publishedAt": "2026-10-15T22:06:01.000Z",
       "xQuery": "風俗店勤務要求疑い 元ホスト逮捕"
+    },
+    {
+      "time": "07:32",
+      "title": "八王子にクマ なぜ駆除まで2h超",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6598943?source=rss",
+      "publishedAt": "2026-10-15T22:32:55.000Z",
+      "xQuery": "八王子にクマ なぜ駆除まで2h超"
     }
   ]
 };
