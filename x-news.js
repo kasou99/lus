@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-15T03:44:55.493Z",
+  "updatedAt": "2026-10-15T04:20:00.425Z",
   "items": [
     {
       "time": "12:10",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "重責こなしたい 農相起用の武部氏"
     },
     {
-      "time": "11:47",
-      "title": "北朝鮮 14日に潜水艦巡航ミサイル",
+      "time": "07:19",
+      "title": "「異常分娩」表現使わぬ方向 政府",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598841?source=rss",
-      "publishedAt": "2026-10-15T02:47:27.000Z",
-      "xQuery": "北朝鮮 14日に潜水艦巡航ミサイル"
+      "url": "https://news.yahoo.co.jp/pickup/6598804?source=rss",
+      "publishedAt": "2026-10-14T22:19:55.000Z",
+      "xQuery": "「異常分娩」表現使わぬ方向 政府"
     },
     {
-      "time": "11:21",
-      "title": "4歳男児死亡 こども園に市が監査",
+      "time": "11:57",
+      "title": "ネイリスト殺害 拘禁刑20年が確定",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598836?source=rss",
-      "publishedAt": "2026-10-15T02:21:49.000Z",
-      "xQuery": "4歳男児死亡 こども園に市が監査"
+      "url": "https://news.yahoo.co.jp/pickup/6598846?source=rss",
+      "publishedAt": "2026-10-15T02:57:38.000Z",
+      "xQuery": "ネイリスト殺害 拘禁刑20年が確定"
     },
     {
       "time": "11:26",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "運動会で孫の写真投稿 炎上相次ぐ"
     },
     {
-      "time": "11:53",
-      "title": "サケの代わりに「マヒマヒ」大漁",
+      "time": "12:49",
+      "title": "「あけろ」文京区の督促状が物議",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598843?source=rss",
-      "publishedAt": "2026-10-15T02:53:18.000Z",
-      "xQuery": "サケの代わりに「マヒマヒ」大漁"
+      "url": "https://news.yahoo.co.jp/pickup/6598857?source=rss",
+      "publishedAt": "2026-10-15T03:49:54.000Z",
+      "xQuery": "「あけろ」文京区の督促状が物議"
     }
   ]
 };
