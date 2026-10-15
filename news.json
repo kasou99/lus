@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T17:14:51.789Z",
+  "updatedAt": "2026-10-15T17:39:14.161Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,18 +38,18 @@
         "publishedAt": "2026-10-15T05:34:00.000Z"
       },
       {
-        "time": "05:04",
-        "title": "オムロン、制御盤レス化で攻勢 対応製品群を拡充",
-        "source": "化学工業日報 電子版",
-        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBNemY0dF9xeDV4U0xCdnowNWhlNXlRaFYzbzM5Z1NacU9Wd3p2ckhyOF9VQzFBYTRKZlRyRHl3RkN3bzFRejdyU09lckk1aFNqSUt3?oc=5",
-        "publishedAt": "2026-10-14T20:04:40.000Z"
-      },
-      {
         "time": "13:30",
         "title": "ブラザー、2026年度グッドデザイン賞を受賞",
         "source": "PR TIMES",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9QaDExU2lVOThKRV9sdklJenI0VzdMM09JeVNpQ0FYREhYWWtqTzB4QWU3YzlRS0trZWlTVjRzNUp5NWRsZnZ4T0o3aUlZSlZmSUlzVWxveGZLR3hWcGREQ3RsZXRuWEluVkE?oc=5",
         "publishedAt": "2026-10-15T04:30:01.000Z"
+      },
+      {
+        "time": "05:04",
+        "title": "オムロン、制御盤レス化で攻勢 対応製品群を拡充",
+        "source": "化学工業日報 電子版",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBNemY0dF9xeDV4U0xCdnowNWhlNXlRaFYzbzM5Z1NacU9Wd3p2ckhyOF9VQzFBYTRKZlRyRHl3RkN3bzFRejdyU09lckk1aFNqSUt3?oc=5",
+        "publishedAt": "2026-10-14T20:04:40.000Z"
       },
       {
         "time": "11:11",
