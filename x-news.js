@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-15T14:41:45.461Z",
+  "updatedAt": "2026-10-15T15:18:27.014Z",
   "items": [
     {
       "time": "23:27",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "うるう秒廃止 うるう時の導入決定"
     },
     {
-      "time": "23:20",
-      "title": "ジャガイモ問題 新農相は板挟みか",
+      "time": "22:12",
+      "title": "タクシーやバス カスハラ客拒否へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598932?source=rss",
-      "publishedAt": "2026-10-15T14:20:26.000Z",
-      "xQuery": "ジャガイモ問題 新農相は板挟みか"
+      "url": "https://news.yahoo.co.jp/pickup/6598926?source=rss",
+      "publishedAt": "2026-10-15T13:12:11.000Z",
+      "xQuery": "タクシーやバス カスハラ客拒否へ"
     },
     {
       "time": "22:37",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "動画を苦に自殺 YouTuberを提訴"
     },
     {
-      "time": "20:14",
-      "title": "ペット店で無資格注射疑い 問題は",
+      "time": "21:02",
+      "title": "ヤンバルクイナの人工授精 初成功",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598914?source=rss",
-      "publishedAt": "2026-10-15T11:14:42.000Z",
-      "xQuery": "ペット店で無資格注射疑い 問題は"
+      "url": "https://news.yahoo.co.jp/pickup/6598918?source=rss",
+      "publishedAt": "2026-10-15T12:02:28.000Z",
+      "xQuery": "ヤンバルクイナの人工授精 初成功"
     }
   ]
 };
