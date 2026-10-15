@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-15T14:18:41.045Z",
+  "updatedAt": "2026-10-15T14:41:45.461Z",
   "items": [
     {
-      "time": "22:39",
-      "title": "木原官房長官 拉致未解決を陳謝",
+      "time": "23:27",
+      "title": "うるう秒廃止 うるう時の導入決定",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598929?source=rss",
-      "publishedAt": "2026-10-15T13:39:41.000Z",
-      "xQuery": "木原官房長官 拉致未解決を陳謝"
+      "url": "https://news.yahoo.co.jp/pickup/6598933?source=rss",
+      "publishedAt": "2026-10-15T14:27:01.000Z",
+      "xQuery": "うるう秒廃止 うるう時の導入決定"
     },
     {
-      "time": "20:41",
-      "title": "ジャガイモ問題 新農相どう対応",
+      "time": "23:20",
+      "title": "ジャガイモ問題 新農相は板挟みか",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598900?source=rss",
-      "publishedAt": "2026-10-15T11:41:12.000Z",
-      "xQuery": "ジャガイモ問題 新農相どう対応"
+      "url": "https://news.yahoo.co.jp/pickup/6598932?source=rss",
+      "publishedAt": "2026-10-15T14:20:26.000Z",
+      "xQuery": "ジャガイモ問題 新農相は板挟みか"
     },
     {
       "time": "22:37",
