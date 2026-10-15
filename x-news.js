@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-15T22:38:17.072Z",
+  "updatedAt": "2026-10-15T23:13:17.438Z",
   "items": [
     {
-      "time": "07:29",
-      "title": "金融所得を医療費に反映 29年8月",
+      "time": "07:39",
+      "title": "防衛費 米要求の3.5%明示見送りへ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598942?source=rss",
-      "publishedAt": "2026-10-15T22:29:26.000Z",
-      "xQuery": "金融所得を医療費に反映 29年8月"
+      "url": "https://news.yahoo.co.jp/pickup/6598944?source=rss",
+      "publishedAt": "2026-10-15T22:39:39.000Z",
+      "xQuery": "防衛費 米要求の3.5%明示見送りへ"
     },
     {
       "time": "06:21",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "トランプ氏 銃殺刑の配信計画中止"
     },
     {
-      "time": "22:50",
-      "title": "動画を苦に自殺 YouTuberを提訴",
+      "time": "07:29",
+      "title": "金融所得を医療費に反映 29年8月",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598927?source=rss",
-      "publishedAt": "2026-10-15T13:50:30.000Z",
-      "xQuery": "動画を苦に自殺 YouTuberを提訴"
+      "url": "https://news.yahoo.co.jp/pickup/6598942?source=rss",
+      "publishedAt": "2026-10-15T22:29:26.000Z",
+      "xQuery": "金融所得を医療費に反映 29年8月"
     },
     {
       "time": "07:06",
