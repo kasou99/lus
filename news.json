@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-10-15T01:48:36.162Z",
+  "updatedAt": "2026-10-15T02:24:07.934Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "05:04",
+        "title": "オムロン、制御盤レス化で攻勢 対応製品群を拡充",
+        "source": "化学工業日報 電子版",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBNemY0dF9xeDV4U0xCdnowNWhlNXlRaFYzbzM5Z1NacU9Wd3p2ckhyOF9VQzFBYTRKZlRyRHl3RkN3bzFRejdyU09lckk1aFNqSUt3?oc=5",
+        "publishedAt": "2026-10-14T20:04:40.000Z"
+      },
       {
         "time": "13:00",
         "title": "日本精工のボールねじ駆動油圧発生装置、工作機械の工具アンクランプ電力削減：FAニュース",
@@ -15,13 +22,6 @@
         "source": "電波新聞デジタル",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5HTjJyc1pTU0RONEJkWkMwV3V4YjVNY1FnZkVFbDY4NWIyNXpMN1pNS0dLdmhKZFp1eGdOQXl0MkhYZHpsUlNCdUhhOWJyTzl6RlE?oc=5",
         "publishedAt": "2026-10-14T11:05:53.000Z"
-      },
-      {
-        "time": "05:04",
-        "title": "オムロン、制御盤レス化で攻勢 対応製品群を拡充",
-        "source": "化学工業日報 電子版",
-        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBNemY0dF9xeDV4U0xCdnowNWhlNXlRaFYzbzM5Z1NacU9Wd3p2ckhyOF9VQzFBYTRKZlRyRHl3RkN3bzFRejdyU09lckk1aFNqSUt3?oc=5",
-        "publishedAt": "2026-10-14T20:04:40.000Z"
       },
       {
         "time": "16:23",
@@ -105,11 +105,11 @@
     ],
     "economyHeadlines": [
       {
-        "time": "10:04",
-        "title": "日経平均 一時2500円以上値下がり",
+        "time": "10:57",
+        "title": "日経平均 一時3000円以上値下がり",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598824?source=rss",
-        "publishedAt": "2026-10-15T01:04:06.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6598832?source=rss",
+        "publishedAt": "2026-10-15T01:57:34.000Z"
       },
       {
         "time": "16:15",
@@ -163,6 +163,13 @@
         "publishedAt": "2026-10-14T10:14:38.000Z"
       },
       {
+        "time": "11:21",
+        "title": "4歳男児死亡 こども園に市が監査",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598836?source=rss",
+        "publishedAt": "2026-10-15T02:21:49.000Z"
+      },
+      {
         "time": "10:37",
         "title": "金塊1.4億円相当 82歳が詐欺被害",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598783?source=rss",
         "publishedAt": "2026-10-14T13:01:56.000Z"
-      },
-      {
-        "time": "12:02",
-        "title": "我が家・杉山裕之さん 万引き疑い",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598714?source=rss",
-        "publishedAt": "2026-10-14T03:02:58.000Z"
       }
     ],
     "subsidyHeadlines": [
