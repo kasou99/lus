@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T09:19:18.429Z",
+  "updatedAt": "2026-10-15T09:43:27.519Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -112,6 +112,13 @@
         "publishedAt": "2026-10-15T06:54:08.000Z"
       },
       {
+        "time": "18:23",
+        "title": "サイゼリヤ株 一時14%高の急反発",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598901?source=rss",
+        "publishedAt": "2026-10-15T09:23:02.000Z"
+      },
+      {
         "time": "16:22",
         "title": "パナ ドラム式洗濯乾燥機リコール",
         "source": "Yahoo!ニュース",
@@ -124,13 +131,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598797?source=rss",
         "publishedAt": "2026-10-14T21:20:35.000Z"
-      },
-      {
-        "time": "00:20",
-        "title": "万博未払い アンゴラ異例対応の訳",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598795?source=rss",
-        "publishedAt": "2026-10-14T15:20:27.000Z"
       },
       {
         "time": "09:13",

@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-15T09:19:19.218Z",
+  "updatedAt": "2026-10-15T09:43:28.178Z",
   "items": [
     {
-      "time": "15:54",
-      "title": "東証終値3318円安 3番目の下げ幅",
+      "time": "18:15",
+      "title": "麻生氏 簗氏の更迭「大変遺憾」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598878?source=rss",
-      "publishedAt": "2026-10-15T06:54:08.000Z",
-      "xQuery": "東証終値3318円安 3番目の下げ幅"
+      "url": "https://news.yahoo.co.jp/pickup/6598898?source=rss",
+      "publishedAt": "2026-10-15T09:15:09.000Z",
+      "xQuery": "麻生氏 簗氏の更迭「大変遺憾」"
     },
     {
       "time": "16:38",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "台風発生 年間30個到達は13年ぶり"
     },
     {
-      "time": "17:00",
-      "title": "バスと車が衝突 5歳が意識不明",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598884?source=rss",
-      "publishedAt": "2026-10-15T08:00:02.000Z",
-      "xQuery": "バスと車が衝突 5歳が意識不明"
-    },
-    {
       "time": "18:13",
       "title": "神戸・三宮4人死傷事故 男を逮捕",
       "source": "Yahoo!ニュース",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "神戸・三宮4人死傷事故 男を逮捕"
     },
     {
-      "time": "17:55",
-      "title": "バーガーキング 約1118万件漏えい",
+      "time": "17:49",
+      "title": "菌検出の温泉で措置せず 市長謝罪",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598889?source=rss",
-      "publishedAt": "2026-10-15T08:55:02.000Z",
-      "xQuery": "バーガーキング 約1118万件漏えい"
+      "url": "https://news.yahoo.co.jp/pickup/6598891?source=rss",
+      "publishedAt": "2026-10-15T08:49:08.000Z",
+      "xQuery": "菌検出の温泉で措置せず 市長謝罪"
+    },
+    {
+      "time": "18:23",
+      "title": "サイゼリヤ株 一時14%高の急反発",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6598901?source=rss",
+      "publishedAt": "2026-10-15T09:23:02.000Z",
+      "xQuery": "サイゼリヤ株 一時14%高の急反発"
     }
   ]
 };
