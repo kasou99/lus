@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T07:43:54.784Z",
+  "updatedAt": "2026-10-15T08:24:59.632Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,6 +31,13 @@
         "publishedAt": "2026-10-14T20:04:40.000Z"
       },
       {
+        "time": "16:16",
+        "title": "「2026年度グッドデザイン賞」を受賞：時事ドットコム",
+        "source": "時事ドットコム",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0wZ2tUcnpzWkhvRnEyNjhYY0hHMXU3d1IzaVdCcEp4eE5EaTl1NXF2NXFWdnY2dUwxVWU3N3o4dlg3NFJnLWpuTmpVQnlhWkhwNzJROUJZOVc5RWxxOUotSTZ1UDAwY2lOY3hV?oc=5",
+        "publishedAt": "2026-10-15T07:16:00.000Z"
+      },
+      {
         "time": "20:05",
         "title": "シチズンマシナリー、工作機械のハイスペックモデルと工具監視ソフトを相次ぎ発表",
         "source": "電波新聞デジタル",
@@ -50,13 +57,6 @@
         "source": "北海道新聞デジタル",
         "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9GQ0p2VkY0ZWFlRWNGZmp4aEtyQTNINS1QU184a0hUQXpIekJtWWpxRHZwTGdtR2pIYk9QRVNlTXppNUw1akxoZmtMb2RKY1dUM3IxZk1ZWWtHZw?oc=5",
         "publishedAt": "2026-10-14T08:59:02.000Z"
-      },
-      {
-        "time": "17:15",
-        "title": "JIMTOF2026にベッコフオートメーションが出展、工作機械の自由度の高い機能開発をテーマに展示",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9pNW9yRUFIbTZmX0pNVzc2MHJhRXIxYU15cTd1ZlpmeG1JQXJhNHB3cUhUY1lEcmtoLXUxYURsNkFDVmhlMFJ6aXZaOGNKODJrVm1xWVhNZkdIWmd4ZE9lN2Q2MjJHQ1pqN3FVbkNyOGRVTlpaa3Btb3JhOA?oc=5",
-        "publishedAt": "2026-10-14T08:15:17.000Z"
       }
     ],
     "worldHeadlines": [
@@ -156,6 +156,13 @@
         "publishedAt": "2026-10-15T05:53:53.000Z"
       },
       {
+        "time": "17:00",
+        "title": "バスと車が衝突 5歳が意識不明",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598884?source=rss",
+        "publishedAt": "2026-10-15T08:00:02.000Z"
+      },
+      {
         "time": "16:20",
         "title": "神戸・三宮3人死傷事故 男を逮捕",
         "source": "Yahoo!ニュース",
@@ -168,13 +175,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598846?source=rss",
         "publishedAt": "2026-10-15T02:57:38.000Z"
-      },
-      {
-        "time": "11:21",
-        "title": "4歳男児死亡 こども園に市が監査",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598836?source=rss",
-        "publishedAt": "2026-10-15T02:21:49.000Z"
       },
       {
         "time": "10:37",

@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-15T07:43:55.558Z",
+  "updatedAt": "2026-10-15T08:25:00.406Z",
   "items": [
     {
       "time": "15:54",
@@ -10,12 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "東証終値3318円安 3番目の下げ幅"
     },
     {
-      "time": "14:44",
-      "title": "農相起用の武部氏 即戦力と首相",
+      "time": "16:38",
+      "title": "台風発生 年間30個到達は13年ぶり",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598869?source=rss",
-      "publishedAt": "2026-10-15T05:44:58.000Z",
-      "xQuery": "農相起用の武部氏 即戦力と首相"
+      "url": "https://news.yahoo.co.jp/pickup/6598882?source=rss",
+      "publishedAt": "2026-10-15T07:38:07.000Z",
+      "xQuery": "台風発生 年間30個到達は13年ぶり"
+    },
+    {
+      "time": "17:00",
+      "title": "バスと車が衝突 5歳が意識不明",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6598884?source=rss",
+      "publishedAt": "2026-10-15T08:00:02.000Z",
+      "xQuery": "バスと車が衝突 5歳が意識不明"
     },
     {
       "time": "16:20",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6598881?source=rss",
       "publishedAt": "2026-10-15T07:22:04.000Z",
       "xQuery": "パナ ドラム式洗濯乾燥機リコール"
-    },
-    {
-      "time": "15:48",
-      "title": "ドイツ 13歳未満のSNS利用禁止へ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598875?source=rss",
-      "publishedAt": "2026-10-15T06:48:52.000Z",
-      "xQuery": "ドイツ 13歳未満のSNS利用禁止へ"
     }
   ]
 };
