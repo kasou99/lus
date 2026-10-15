@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-10-15T11:40:18.689Z",
+  "updatedAt": "2026-10-15T12:26:53.788Z",
   "groups": {
     "machineHeadlines": [
-      {
-        "time": "12:22",
-        "title": "「工作機械」が１７位にランク、ＡＩ関連向けなどに受注拡大＜注目テーマ＞",
-        "source": "株探",
-        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1RRkpCOTBlc2hRQ01CX0VZNXYyM1dFWXd1ZmFoUzQzal9YTDBma3k3NGFGalJyS04wNFN2QmRQbFpwMFZpNkN6NUpKRFhGOS01Qi1sM3U4SE90TTRDOWJjbQ?oc=5",
-        "publishedAt": "2026-10-15T03:22:00.000Z"
-      },
       {
         "time": "20:23",
         "title": "福山のホーコス、工作機械2機種開発 自動車業界以外へ展開強化",
         "source": "47NEWS",
         "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBKVjVlZVA5RnRpdF94WENlUHEtRjdBWlFmTnl1M2ZXSWE5WE1LTTdMVHBQYlRCQUN4S1kzM3RCY3h1Slk3NkxueGRiTQ?oc=5",
         "publishedAt": "2026-10-15T11:23:47.000Z"
+      },
+      {
+        "time": "12:22",
+        "title": "「工作機械」が１７位にランク、ＡＩ関連向けなどに受注拡大＜注目テーマ＞",
+        "source": "株探",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1RRkpCOTBlc2hRQ01CX0VZNXYyM1dFWXd1ZmFoUzQzal9YTDBma3k3NGFGalJyS04wNFN2QmRQbFpwMFZpNkN6NUpKRFhGOS01Qi1sM3U4SE90TTRDOWJjbQ?oc=5",
+        "publishedAt": "2026-10-15T03:22:00.000Z"
       },
       {
         "time": "13:00",
@@ -25,8 +25,8 @@
       },
       {
         "time": "14:34",
-        "title": "中国：工作機械産業、25年売上高1.6兆元超 - ashu-chinastatistics.com",
-        "source": "ashu-chinastatistics.com",
+        "title": "中国：工作機械産業、25年売上高1.6兆元超",
+        "source": "亜州ビジネス中国",
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1Tc3NiajRuRDNxLXB6Ym1zUkw2MENuTWx3SHpRR2tQSUNZNFVaNURFOWFFQXpESkZQTl92b2t0RUE5aGtTejI5TkR4VlV5TmtKeVhManlvYzEtYnVVMWhKRkkwbFRVeGE3?oc=5",
         "publishedAt": "2026-10-15T05:34:00.000Z"
       },

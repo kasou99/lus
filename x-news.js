@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-15T11:40:19.265Z",
+  "updatedAt": "2026-10-15T12:26:54.594Z",
   "items": [
     {
       "time": "17:58",
@@ -18,6 +18,14 @@ window.LUS_X_NEWS = {
       "xQuery": "米の新報道官 弁護士経歴に疑念"
     },
     {
+      "time": "18:58",
+      "title": "バスと車衝突し73歳死亡 孫が重体",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6598906?source=rss",
+      "publishedAt": "2026-10-15T09:58:07.000Z",
+      "xQuery": "バスと車衝突し73歳死亡 孫が重体"
+    },
+    {
       "time": "20:29",
       "title": "年金だけで暮らせず 毎日働く71歳",
       "source": "Yahoo!ニュース",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "年金だけで暮らせず 毎日働く71歳"
     },
     {
-      "time": "18:15",
-      "title": "麻生氏 簗氏の更迭「大変遺憾」",
+      "time": "20:09",
+      "title": "ソースネクスト 2千万件超流出か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598898?source=rss",
-      "publishedAt": "2026-10-15T09:15:09.000Z",
-      "xQuery": "麻生氏 簗氏の更迭「大変遺憾」"
-    },
-    {
-      "time": "18:58",
-      "title": "バスと車衝突し73歳死亡 孫が重体",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598906?source=rss",
-      "publishedAt": "2026-10-15T09:58:07.000Z",
-      "xQuery": "バスと車衝突し73歳死亡 孫が重体"
+      "url": "https://news.yahoo.co.jp/pickup/6598913?source=rss",
+      "publishedAt": "2026-10-15T11:09:22.000Z",
+      "xQuery": "ソースネクスト 2千万件超流出か"
     }
   ]
 };
