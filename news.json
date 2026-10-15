@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T02:24:07.934Z",
+  "updatedAt": "2026-10-15T02:45:54.279Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -61,6 +61,13 @@
     ],
     "worldHeadlines": [
       {
+        "time": "11:25",
+        "title": "邦人記者拘束 露の狙いを識者指摘",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598834?source=rss",
+        "publishedAt": "2026-10-15T02:25:47.000Z"
+      },
+      {
         "time": "14:01",
         "title": "ウのEU加盟 ハンガリー反対撤回",
         "source": "Yahoo!ニュース",
@@ -87,13 +94,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598814?source=rss",
         "publishedAt": "2026-10-14T23:50:42.000Z"
-      },
-      {
-        "time": "18:17",
-        "title": "2014年完成の中朝結ぶ橋 15日開通",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598760?source=rss",
-        "publishedAt": "2026-10-14T09:17:31.000Z"
       },
       {
         "time": "08:38",

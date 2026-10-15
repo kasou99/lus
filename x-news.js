@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-15T02:24:09.618Z",
+  "updatedAt": "2026-10-15T02:45:55.217Z",
   "items": [
     {
       "time": "10:26",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "日経平均 一時3000円以上値下がり"
     },
     {
-      "time": "08:38",
-      "title": "仏で高校生がデモ 激化する背景",
+      "time": "11:21",
+      "title": "4歳男児死亡 こども園に市が監査",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598812?source=rss",
-      "publishedAt": "2026-10-14T23:38:28.000Z",
-      "xQuery": "仏で高校生がデモ 激化する背景"
+      "url": "https://news.yahoo.co.jp/pickup/6598836?source=rss",
+      "publishedAt": "2026-10-15T02:21:49.000Z",
+      "xQuery": "4歳男児死亡 こども園に市が監査"
     },
     {
-      "time": "10:37",
-      "title": "金塊1.4億円相当 82歳が詐欺被害",
+      "time": "11:26",
+      "title": "運動会で孫の写真投稿 炎上相次ぐ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598829?source=rss",
-      "publishedAt": "2026-10-15T01:37:55.000Z",
-      "xQuery": "金塊1.4億円相当 82歳が詐欺被害"
+      "url": "https://news.yahoo.co.jp/pickup/6598835?source=rss",
+      "publishedAt": "2026-10-15T02:26:29.000Z",
+      "xQuery": "運動会で孫の写真投稿 炎上相次ぐ"
     },
     {
       "time": "10:46",
