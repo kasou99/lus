@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T00:44:05.225Z",
+  "updatedAt": "2026-10-15T01:25:15.560Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -10,18 +10,18 @@
         "publishedAt": "2026-10-14T04:00:00.000Z"
       },
       {
-        "time": "05:04",
-        "title": "オムロン、制御盤レス化で攻勢 対応製品群を拡充",
-        "source": "化学工業日報 電子版",
-        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBNemY0dF9xeDV4U0xCdnowNWhlNXlRaFYzbzM5Z1NacU9Wd3p2ckhyOF9VQzFBYTRKZlRyRHl3RkN3bzFRejdyU09lckk1aFNqSUt3?oc=5",
-        "publishedAt": "2026-10-14T20:04:40.000Z"
-      },
-      {
         "time": "20:05",
         "title": "シチズンマシナリー、工作機械のハイスペックモデルと工具監視ソフトを相次ぎ発表",
         "source": "電波新聞デジタル",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5HTjJyc1pTU0RONEJkWkMwV3V4YjVNY1FnZkVFbDY4NWIyNXpMN1pNS0dLdmhKZFp1eGdOQXl0MkhYZHpsUlNCdUhhOWJyTzl6RlE?oc=5",
         "publishedAt": "2026-10-14T11:05:53.000Z"
+      },
+      {
+        "time": "05:04",
+        "title": "オムロン、制御盤レス化で攻勢 対応製品群を拡充",
+        "source": "化学工業日報 電子版",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBNemY0dF9xeDV4U0xCdnowNWhlNXlRaFYzbzM5Z1NacU9Wd3p2ckhyOF9VQzFBYTRKZlRyRHl3RkN3bzFRejdyU09lckk1aFNqSUt3?oc=5",
+        "publishedAt": "2026-10-14T20:04:40.000Z"
       },
       {
         "time": "16:23",
@@ -75,6 +75,13 @@
         "publishedAt": "2026-10-14T15:05:35.000Z"
       },
       {
+        "time": "09:53",
+        "title": "米大統領 機密情報漏れ説明し不満",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598822?source=rss",
+        "publishedAt": "2026-10-15T00:53:02.000Z"
+      },
+      {
         "time": "08:50",
         "title": "軽油価格の高騰 米国の農家は悲鳴",
         "source": "Yahoo!ニュース",
@@ -94,22 +101,15 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598812?source=rss",
         "publishedAt": "2026-10-14T23:38:28.000Z"
-      },
-      {
-        "time": "09:11",
-        "title": "米8州がオープンAIを提訴",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598818?source=rss",
-        "publishedAt": "2026-10-15T00:11:35.000Z"
       }
     ],
     "economyHeadlines": [
       {
-        "time": "09:26",
-        "title": "日経平均 一時2000円以上値下がり",
+        "time": "10:04",
+        "title": "日経平均 一時2500円以上値下がり",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598820?source=rss",
-        "publishedAt": "2026-10-15T00:26:26.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6598824?source=rss",
+        "publishedAt": "2026-10-15T01:04:06.000Z"
       },
       {
         "time": "16:15",

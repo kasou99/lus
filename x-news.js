@@ -1,29 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-15T00:44:05.959Z",
+  "updatedAt": "2026-10-15T01:25:16.307Z",
   "items": [
     {
-      "time": "09:26",
-      "title": "日経平均 一時2000円以上値下がり",
+      "time": "07:52",
+      "title": "簗農相の辞任 なぜこのタイミング",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598820?source=rss",
-      "publishedAt": "2026-10-15T00:26:26.000Z",
-      "xQuery": "日経平均 一時2000円以上値下がり"
+      "url": "https://news.yahoo.co.jp/pickup/6598808?source=rss",
+      "publishedAt": "2026-10-14T22:52:08.000Z",
+      "xQuery": "簗農相の辞任 なぜこのタイミング"
     },
     {
-      "time": "06:38",
-      "title": "農相辞任「当然」地元有権者怒り",
+      "time": "08:50",
+      "title": "軽油価格の高騰 米国の農家は悲鳴",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598798?source=rss",
-      "publishedAt": "2026-10-14T21:38:41.000Z",
-      "xQuery": "農相辞任「当然」地元有権者怒り"
+      "url": "https://news.yahoo.co.jp/pickup/6598814?source=rss",
+      "publishedAt": "2026-10-14T23:50:42.000Z",
+      "xQuery": "軽油価格の高騰 米国の農家は悲鳴"
     },
     {
-      "time": "08:14",
-      "title": "AIが自己改善「超知能」に危機感",
+      "time": "10:04",
+      "title": "日経平均 一時2500円以上値下がり",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598809?source=rss",
-      "publishedAt": "2026-10-14T23:14:44.000Z",
-      "xQuery": "AIが自己改善「超知能」に危機感"
+      "url": "https://news.yahoo.co.jp/pickup/6598824?source=rss",
+      "publishedAt": "2026-10-15T01:04:06.000Z",
+      "xQuery": "日経平均 一時2500円以上値下がり"
     },
     {
       "time": "09:11",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "米8州がオープンAIを提訴"
     },
     {
-      "time": "07:37",
-      "title": "米上場の半導体株 下落止まらず",
+      "time": "08:12",
+      "title": "区に個人が1億円寄付 進学支援へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598805?source=rss",
-      "publishedAt": "2026-10-14T22:37:50.000Z",
-      "xQuery": "米上場の半導体株 下落止まらず"
+      "url": "https://news.yahoo.co.jp/pickup/6598810?source=rss",
+      "publishedAt": "2026-10-14T23:12:10.000Z",
+      "xQuery": "区に個人が1億円寄付 進学支援へ"
     }
   ]
 };
