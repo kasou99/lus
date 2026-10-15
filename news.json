@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T05:17:48.049Z",
+  "updatedAt": "2026-10-15T05:41:41.477Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -15,6 +15,13 @@
         "source": "MONOist",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1VcDU4bG5UdWp1cFhiNFR2SHJZQXIzMXFvd1FadThhTkhLTEhaQm9Eel9hM1RRcDc4THJlYVlGUWowVUFIZWRJZ0g1QU5Id3JkM0NWRHotTHVrTlA5MkRqYjIwQktDXzBHX3YxVi1PWQ?oc=5",
         "publishedAt": "2026-10-15T04:00:00.000Z"
+      },
+      {
+        "time": "14:34",
+        "title": "中国：工作機械産業、25年売上高1.6兆元超 - ashu-chinastatistics.com",
+        "source": "ashu-chinastatistics.com",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1Tc3NiajRuRDNxLXB6Ym1zUkw2MENuTWx3SHpRR2tQSUNZNFVaNURFOWFFQXpESkZQTl92b2t0RUE5aGtTejI5TkR4VlV5TmtKeVhManlvYzEtYnVVMWhKRkkwbFRVeGE3?oc=5",
+        "publishedAt": "2026-10-15T05:34:00.000Z"
       },
       {
         "time": "05:04",
@@ -50,13 +57,6 @@
         "source": "オートメーション新聞WEB",
         "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9jZk9ocV9vSVM3Q2QxeTB1MkRHRzRBeVFRdXd0LVc2b25zRUtEQ1pwblZQSTRYSllPOUNLdWVTUWNSTkpsdHpEbGtaQWFyNnV4ZXNPajZIVUlXUQ?oc=5",
         "publishedAt": "2026-10-14T06:00:00.000Z"
-      },
-      {
-        "time": "17:59",
-        "title": "北見高等技術専門学院が11月から訓練生募集 5つの訓練科で4月入校",
-        "source": "北海道新聞デジタル",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9GQ0p2VkY0ZWFlRWNGZmp4aEtyQTNINS1QU184a0hUQXpIekJtWWpxRHZwTGdtR2pIYk9QRVNlTXppNUw1akxoZmtMb2RKY1dUM3IxZk1ZWWtHZw?oc=5",
-        "publishedAt": "2026-10-14T08:59:02.000Z"
       }
     ],
     "worldHeadlines": [

@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-15T05:17:52.728Z",
+  "updatedAt": "2026-10-15T05:41:42.226Z",
   "items": [
     {
       "time": "13:53",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "日経平均 一時3600円以上値下がり"
     },
     {
+      "time": "11:59",
+      "title": "1歳6人を1人で 保育現場の危機感",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6598845?source=rss",
+      "publishedAt": "2026-10-15T02:59:55.000Z",
+      "xQuery": "1歳6人を1人で 保育現場の危機感"
+    },
+    {
       "time": "12:42",
       "title": "トルコ沖沈没船 約4700年前のもの",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6598855?source=rss",
       "publishedAt": "2026-10-15T03:42:39.000Z",
       "xQuery": "トルコ沖沈没船 約4700年前のもの"
-    },
-    {
-      "time": "11:26",
-      "title": "運動会で孫の写真投稿 炎上相次ぐ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598835?source=rss",
-      "publishedAt": "2026-10-15T02:26:29.000Z",
-      "xQuery": "運動会で孫の写真投稿 炎上相次ぐ"
     }
   ]
 };
