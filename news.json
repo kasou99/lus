@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T01:25:15.560Z",
+  "updatedAt": "2026-10-15T01:48:36.162Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -163,6 +163,13 @@
         "publishedAt": "2026-10-14T10:14:38.000Z"
       },
       {
+        "time": "10:37",
+        "title": "金塊1.4億円相当 82歳が詐欺被害",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598829?source=rss",
+        "publishedAt": "2026-10-15T01:37:55.000Z"
+      },
+      {
         "time": "17:20",
         "title": "大樹生命の元社員を逮捕 詐取疑い",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598714?source=rss",
         "publishedAt": "2026-10-14T03:02:58.000Z"
-      },
-      {
-        "time": "12:11",
-        "title": "給食に「貧相すぎ」と批判 市回答",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598715?source=rss",
-        "publishedAt": "2026-10-14T03:11:33.000Z"
       }
     ],
     "subsidyHeadlines": [

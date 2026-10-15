@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-15T01:25:16.307Z",
+  "updatedAt": "2026-10-15T01:48:36.898Z",
   "items": [
     {
-      "time": "07:52",
-      "title": "簗農相の辞任 なぜこのタイミング",
+      "time": "10:26",
+      "title": "農相 後任に自民・武部新氏の方針",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598808?source=rss",
-      "publishedAt": "2026-10-14T22:52:08.000Z",
-      "xQuery": "簗農相の辞任 なぜこのタイミング"
+      "url": "https://news.yahoo.co.jp/pickup/6598828?source=rss",
+      "publishedAt": "2026-10-15T01:26:23.000Z",
+      "xQuery": "農相 後任に自民・武部新氏の方針"
     },
     {
       "time": "08:50",
