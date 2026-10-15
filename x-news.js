@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-15T08:46:43.431Z",
+  "updatedAt": "2026-10-15T09:19:19.218Z",
   "items": [
     {
       "time": "15:54",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "バスと車が衝突 5歳が意識不明"
     },
     {
-      "time": "16:20",
-      "title": "神戸・三宮3人死傷事故 男を逮捕",
+      "time": "18:13",
+      "title": "神戸・三宮4人死傷事故 男を逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598879?source=rss",
-      "publishedAt": "2026-10-15T07:20:37.000Z",
-      "xQuery": "神戸・三宮3人死傷事故 男を逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6598897?source=rss",
+      "publishedAt": "2026-10-15T09:13:06.000Z",
+      "xQuery": "神戸・三宮4人死傷事故 男を逮捕"
     },
     {
-      "time": "16:22",
-      "title": "パナ ドラム式洗濯乾燥機リコール",
+      "time": "17:55",
+      "title": "バーガーキング 約1118万件漏えい",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598881?source=rss",
-      "publishedAt": "2026-10-15T07:22:04.000Z",
-      "xQuery": "パナ ドラム式洗濯乾燥機リコール"
+      "url": "https://news.yahoo.co.jp/pickup/6598889?source=rss",
+      "publishedAt": "2026-10-15T08:55:02.000Z",
+      "xQuery": "バーガーキング 約1118万件漏えい"
     }
   ]
 };
