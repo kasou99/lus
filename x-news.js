@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-15T07:22:09.057Z",
+  "updatedAt": "2026-10-15T07:43:55.558Z",
   "items": [
     {
       "time": "15:54",
@@ -18,12 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "農相起用の武部氏 即戦力と首相"
     },
     {
-      "time": "13:53",
-      "title": "記者拘束 首相がスパイ活動を否定",
+      "time": "16:20",
+      "title": "神戸・三宮3人死傷事故 男を逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598866?source=rss",
-      "publishedAt": "2026-10-15T04:53:32.000Z",
-      "xQuery": "記者拘束 首相がスパイ活動を否定"
+      "url": "https://news.yahoo.co.jp/pickup/6598879?source=rss",
+      "publishedAt": "2026-10-15T07:20:37.000Z",
+      "xQuery": "神戸・三宮3人死傷事故 男を逮捕"
+    },
+    {
+      "time": "16:22",
+      "title": "パナ ドラム式洗濯乾燥機リコール",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6598881?source=rss",
+      "publishedAt": "2026-10-15T07:22:04.000Z",
+      "xQuery": "パナ ドラム式洗濯乾燥機リコール"
     },
     {
       "time": "15:48",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6598875?source=rss",
       "publishedAt": "2026-10-15T06:48:52.000Z",
       "xQuery": "ドイツ 13歳未満のSNS利用禁止へ"
-    },
-    {
-      "time": "14:43",
-      "title": "子の習い事 社会性やタイパ重視",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598870?source=rss",
-      "publishedAt": "2026-10-15T05:43:57.000Z",
-      "xQuery": "子の習い事 社会性やタイパ重視"
     }
   ]
 };
