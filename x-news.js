@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-15T04:20:00.425Z",
+  "updatedAt": "2026-10-15T04:43:04.231Z",
   "items": [
     {
       "time": "12:10",
@@ -10,20 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "重責こなしたい 農相起用の武部氏"
     },
     {
-      "time": "07:19",
-      "title": "「異常分娩」表現使わぬ方向 政府",
+      "time": "13:30",
+      "title": "日経平均 一時3600円以上値下がり",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598804?source=rss",
-      "publishedAt": "2026-10-14T22:19:55.000Z",
-      "xQuery": "「異常分娩」表現使わぬ方向 政府"
-    },
-    {
-      "time": "11:57",
-      "title": "ネイリスト殺害 拘禁刑20年が確定",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598846?source=rss",
-      "publishedAt": "2026-10-15T02:57:38.000Z",
-      "xQuery": "ネイリスト殺害 拘禁刑20年が確定"
+      "url": "https://news.yahoo.co.jp/pickup/6598860?source=rss",
+      "publishedAt": "2026-10-15T04:30:12.000Z",
+      "xQuery": "日経平均 一時3600円以上値下がり"
     },
     {
       "time": "11:26",
@@ -32,6 +24,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6598835?source=rss",
       "publishedAt": "2026-10-15T02:26:29.000Z",
       "xQuery": "運動会で孫の写真投稿 炎上相次ぐ"
+    },
+    {
+      "time": "13:06",
+      "title": "ソウルで最後の売春街 解体に本腰",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6598858?source=rss",
+      "publishedAt": "2026-10-15T04:06:17.000Z",
+      "xQuery": "ソウルで最後の売春街 解体に本腰"
     },
     {
       "time": "12:49",

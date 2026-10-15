@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T04:19:59.778Z",
+  "updatedAt": "2026-10-15T04:43:03.624Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -105,11 +105,11 @@
     ],
     "economyHeadlines": [
       {
-        "time": "10:57",
-        "title": "日経平均 一時3000円以上値下がり",
+        "time": "13:30",
+        "title": "日経平均 一時3600円以上値下がり",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598832?source=rss",
-        "publishedAt": "2026-10-15T01:57:34.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6598860?source=rss",
+        "publishedAt": "2026-10-15T04:30:12.000Z"
       },
       {
         "time": "22:18",
