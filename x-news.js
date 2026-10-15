@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-15T21:39:13.298Z",
+  "updatedAt": "2026-10-15T22:16:32.817Z",
   "items": [
     {
       "time": "23:27",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "動画を苦に自殺 YouTuberを提訴"
     },
     {
-      "time": "23:53",
-      "title": "コミックシーモア 一時停止を発表",
+      "time": "07:06",
+      "title": "風俗店勤務要求疑い 元ホスト逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598934?source=rss",
-      "publishedAt": "2026-10-15T14:53:05.000Z",
-      "xQuery": "コミックシーモア 一時停止を発表"
+      "url": "https://news.yahoo.co.jp/pickup/6598939?source=rss",
+      "publishedAt": "2026-10-15T22:06:01.000Z",
+      "xQuery": "風俗店勤務要求疑い 元ホスト逮捕"
     }
   ]
 };

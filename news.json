@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T21:39:12.463Z",
+  "updatedAt": "2026-10-15T22:16:32.080Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,6 +31,13 @@
         "publishedAt": "2026-10-15T20:00:00.000Z"
       },
       {
+        "time": "19:05",
+        "title": "徳島県立中央テクノスクール会計年度任用職員（準高度業務・機械技術科指導員）の募集について｜徳島県ホームページ",
+        "source": "徳島県ホームページ",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1kV0QtMEJYVDZlb3hmeU1YbnVNWHVHZkFNMlNYdjVDUHRRcTdNU0lXYXlaSHByQU8xZ1ZWZ1ZlSVlMMUtZOExOa1B1ZnUxM1J2Vy1sVTFYRjlGYXNoUFhqOF9RblZIa0E1Rmc?oc=5",
+        "publishedAt": "2026-10-15T10:05:48.000Z"
+      },
+      {
         "time": "13:00",
         "title": "工具の状態を電流値から可視化、シチズンマシナリーがソフト開発：工作機械",
         "source": "MONOist",
@@ -50,13 +57,6 @@
         "source": "亜州ビジネス中国",
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1Tc3NiajRuRDNxLXB6Ym1zUkw2MENuTWx3SHpRR2tQSUNZNFVaNURFOWFFQXpESkZQTl92b2t0RUE5aGtTejI5TkR4VlV5TmtKeVhManlvYzEtYnVVMWhKRkkwbFRVeGE3?oc=5",
         "publishedAt": "2026-10-15T05:34:00.000Z"
-      },
-      {
-        "time": "13:30",
-        "title": "ブラザー、2026年度グッドデザイン賞を受賞",
-        "source": "PR TIMES",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9QaDExU2lVOThKRV9sdklJenI0VzdMM09JeVNpQ0FYREhYWWtqTzB4QWU3YzlRS0trZWlTVjRzNUp5NWRsZnZ4T0o3aUlZSlZmSUlzVWxveGZLR3hWcGREQ3RsZXRuWEluVkE?oc=5",
-        "publishedAt": "2026-10-15T04:30:01.000Z"
       }
     ],
     "worldHeadlines": [
@@ -163,18 +163,18 @@
         "publishedAt": "2026-10-15T09:58:07.000Z"
       },
       {
-        "time": "18:13",
-        "title": "神戸・三宮4人死傷事故 男を逮捕",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598897?source=rss",
-        "publishedAt": "2026-10-15T09:13:06.000Z"
-      },
-      {
         "time": "18:49",
         "title": "検事が「ガキ」発言 国の賠償確定",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598904?source=rss",
         "publishedAt": "2026-10-15T09:49:19.000Z"
+      },
+      {
+        "time": "07:06",
+        "title": "風俗店勤務要求疑い 元ホスト逮捕",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598939?source=rss",
+        "publishedAt": "2026-10-15T22:06:01.000Z"
       },
       {
         "time": "19:48",
