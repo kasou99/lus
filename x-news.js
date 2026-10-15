@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-14T23:36:11.866Z",
+  "updatedAt": "2026-10-15T00:44:05.959Z",
   "items": [
     {
-      "time": "23:12",
-      "title": "農相辞表 内閣改造後わずか1カ月",
+      "time": "09:26",
+      "title": "日経平均 一時2000円以上値下がり",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598790?source=rss",
-      "publishedAt": "2026-10-14T14:12:54.000Z",
-      "xQuery": "農相辞表 内閣改造後わずか1カ月"
+      "url": "https://news.yahoo.co.jp/pickup/6598820?source=rss",
+      "publishedAt": "2026-10-15T00:26:26.000Z",
+      "xQuery": "日経平均 一時2000円以上値下がり"
     },
     {
       "time": "06:38",
@@ -18,28 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "農相辞任「当然」地元有権者怒り"
     },
     {
+      "time": "08:14",
+      "title": "AIが自己改善「超知能」に危機感",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6598809?source=rss",
+      "publishedAt": "2026-10-14T23:14:44.000Z",
+      "xQuery": "AIが自己改善「超知能」に危機感"
+    },
+    {
+      "time": "09:11",
+      "title": "米8州がオープンAIを提訴",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6598818?source=rss",
+      "publishedAt": "2026-10-15T00:11:35.000Z",
+      "xQuery": "米8州がオープンAIを提訴"
+    },
+    {
       "time": "07:37",
       "title": "米上場の半導体株 下落止まらず",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6598805?source=rss",
       "publishedAt": "2026-10-14T22:37:50.000Z",
       "xQuery": "米上場の半導体株 下落止まらず"
-    },
-    {
-      "time": "06:20",
-      "title": "ネトフリ 従業員約1000人を削減へ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598797?source=rss",
-      "publishedAt": "2026-10-14T21:20:35.000Z",
-      "xQuery": "ネトフリ 従業員約1000人を削減へ"
-    },
-    {
-      "time": "08:12",
-      "title": "区に個人が1億円寄付 進学支援へ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598810?source=rss",
-      "publishedAt": "2026-10-14T23:12:10.000Z",
-      "xQuery": "区に個人が1億円寄付 進学支援へ"
     }
   ]
 };
