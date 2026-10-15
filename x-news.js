@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-15T13:18:21.018Z",
+  "updatedAt": "2026-10-15T13:43:18.623Z",
   "items": [
     {
-      "time": "17:58",
-      "title": "農相に武部新氏「ワイルド」評",
+      "time": "22:39",
+      "title": "木原官房長官 拉致未解決を陳謝",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598890?source=rss",
-      "publishedAt": "2026-10-15T08:58:03.000Z",
-      "xQuery": "農相に武部新氏「ワイルド」評"
+      "url": "https://news.yahoo.co.jp/pickup/6598929?source=rss",
+      "publishedAt": "2026-10-15T13:39:41.000Z",
+      "xQuery": "木原官房長官 拉致未解決を陳謝"
     },
     {
-      "time": "16:21",
-      "title": "米の新報道官 弁護士経歴に疑念",
+      "time": "20:41",
+      "title": "ジャガイモ問題 新農相どう対応",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598880?source=rss",
-      "publishedAt": "2026-10-15T07:21:43.000Z",
-      "xQuery": "米の新報道官 弁護士経歴に疑念"
+      "url": "https://news.yahoo.co.jp/pickup/6598900?source=rss",
+      "publishedAt": "2026-10-15T11:41:12.000Z",
+      "xQuery": "ジャガイモ問題 新農相どう対応"
     },
     {
-      "time": "20:29",
-      "title": "年金だけで暮らせず 毎日働く71歳",
+      "time": "22:37",
+      "title": "洗濯機が発火恐れ パナがリコール",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598916?source=rss",
-      "publishedAt": "2026-10-15T11:29:05.000Z",
-      "xQuery": "年金だけで暮らせず 毎日働く71歳"
+      "url": "https://news.yahoo.co.jp/pickup/6598928?source=rss",
+      "publishedAt": "2026-10-15T13:37:32.000Z",
+      "xQuery": "洗濯機が発火恐れ パナがリコール"
     },
     {
-      "time": "20:38",
-      "title": "闘病の22歳 両親に感謝伝えきれず",
+      "time": "22:07",
+      "title": "大学生は部活サークル離れ? 調査",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598911?source=rss",
-      "publishedAt": "2026-10-15T11:38:31.000Z",
-      "xQuery": "闘病の22歳 両親に感謝伝えきれず"
+      "url": "https://news.yahoo.co.jp/pickup/6598925?source=rss",
+      "publishedAt": "2026-10-15T13:07:58.000Z",
+      "xQuery": "大学生は部活サークル離れ? 調査"
     },
     {
-      "time": "20:09",
-      "title": "ソースネクスト 2千万件超流出か",
+      "time": "20:14",
+      "title": "ペット店で無資格注射疑い 問題は",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598913?source=rss",
-      "publishedAt": "2026-10-15T11:09:22.000Z",
-      "xQuery": "ソースネクスト 2千万件超流出か"
+      "url": "https://news.yahoo.co.jp/pickup/6598914?source=rss",
+      "publishedAt": "2026-10-15T11:14:42.000Z",
+      "xQuery": "ペット店で無資格注射疑い 問題は"
     }
   ]
 };
