@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T11:16:01.805Z",
+  "updatedAt": "2026-10-15T11:40:18.689Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -8,6 +8,13 @@
         "source": "株探",
         "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1RRkpCOTBlc2hRQ01CX0VZNXYyM1dFWXd1ZmFoUzQzal9YTDBma3k3NGFGalJyS04wNFN2QmRQbFpwMFZpNkN6NUpKRFhGOS01Qi1sM3U4SE90TTRDOWJjbQ?oc=5",
         "publishedAt": "2026-10-15T03:22:00.000Z"
+      },
+      {
+        "time": "20:23",
+        "title": "福山のホーコス、工作機械2機種開発 自動車業界以外へ展開強化",
+        "source": "47NEWS",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBKVjVlZVA5RnRpdF94WENlUHEtRjdBWlFmTnl1M2ZXSWE5WE1LTTdMVHBQYlRCQUN4S1kzM3RCY3h1Slk3NkxueGRiTQ?oc=5",
+        "publishedAt": "2026-10-15T11:23:47.000Z"
       },
       {
         "time": "13:00",
@@ -50,13 +57,6 @@
         "source": "Infoseek",
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE12TXpjY08zSVpjT2EtdHBZXzBRS3J2VVBxYTl2Q1dkd0VGR1JzczJCNk1sQXhvTVNGdGlNUTNNRjlLMXhuNjBoakw3dGZ1aklpdjlweV9udV9CM203WS0tN3diZDJYb2k1UXRvM2FDUkpVQQ?oc=5",
         "publishedAt": "2026-10-14T15:10:02.000Z"
-      },
-      {
-        "time": "05:00",
-        "title": "経営ひと言／富士フイルムBI・鍋田敏之取締役常務執行役員CTO「複合機からDX」",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5QZk5odWZzOWlWZDVZNlBkTzI2LVpJY0ViRFlHY2xsMnpBMGRfaDZMSTN3emtLRE93a0FieURUcFBsVTRVQXJWdUo2RXBuX0lPb005TDRWdFo?oc=5",
-        "publishedAt": "2026-10-14T20:00:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -133,18 +133,18 @@
         "publishedAt": "2026-10-14T21:20:35.000Z"
       },
       {
+        "time": "20:29",
+        "title": "年金だけで暮らせず 毎日働く71歳",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598916?source=rss",
+        "publishedAt": "2026-10-15T11:29:05.000Z"
+      },
+      {
         "time": "09:13",
         "title": "うなぎパイ企業 部門赤字どう解消",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598819?source=rss",
         "publishedAt": "2026-10-15T00:13:37.000Z"
-      },
-      {
-        "time": "11:53",
-        "title": "サケの代わりに「マヒマヒ」大漁",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598843?source=rss",
-        "publishedAt": "2026-10-15T02:53:18.000Z"
       }
     ],
     "localHeadlines": [

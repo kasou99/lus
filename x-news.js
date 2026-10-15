@@ -1,21 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-15T11:16:02.872Z",
+  "updatedAt": "2026-10-15T11:40:19.265Z",
   "items": [
     {
-      "time": "14:53",
-      "title": "常陸大宮市 核ごみ文献調査開始",
+      "time": "17:58",
+      "title": "農相に武部新氏「ワイルド」評",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598871?source=rss",
-      "publishedAt": "2026-10-15T05:53:53.000Z",
-      "xQuery": "常陸大宮市 核ごみ文献調査開始"
+      "url": "https://news.yahoo.co.jp/pickup/6598890?source=rss",
+      "publishedAt": "2026-10-15T08:58:03.000Z",
+      "xQuery": "農相に武部新氏「ワイルド」評"
     },
     {
-      "time": "19:10",
-      "title": "露拘束 WSJ記者の過去事例がカギ",
+      "time": "16:21",
+      "title": "米の新報道官 弁護士経歴に疑念",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598908?source=rss",
-      "publishedAt": "2026-10-15T10:10:23.000Z",
-      "xQuery": "露拘束 WSJ記者の過去事例がカギ"
+      "url": "https://news.yahoo.co.jp/pickup/6598880?source=rss",
+      "publishedAt": "2026-10-15T07:21:43.000Z",
+      "xQuery": "米の新報道官 弁護士経歴に疑念"
+    },
+    {
+      "time": "20:29",
+      "title": "年金だけで暮らせず 毎日働く71歳",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6598916?source=rss",
+      "publishedAt": "2026-10-15T11:29:05.000Z",
+      "xQuery": "年金だけで暮らせず 毎日働く71歳"
     },
     {
       "time": "18:15",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6598906?source=rss",
       "publishedAt": "2026-10-15T09:58:07.000Z",
       "xQuery": "バスと車衝突し73歳死亡 孫が重体"
-    },
-    {
-      "time": "19:48",
-      "title": "DV加害者と避難先で3年同居 なぜ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598909?source=rss",
-      "publishedAt": "2026-10-15T10:48:12.000Z",
-      "xQuery": "DV加害者と避難先で3年同居 なぜ"
     }
   ]
 };
