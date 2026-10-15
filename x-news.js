@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-15T13:43:18.623Z",
+  "updatedAt": "2026-10-15T14:18:41.045Z",
   "items": [
     {
       "time": "22:39",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "洗濯機が発火恐れ パナがリコール"
     },
     {
-      "time": "22:07",
-      "title": "大学生は部活サークル離れ? 調査",
+      "time": "22:50",
+      "title": "動画を苦に自殺 YouTuberを提訴",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598925?source=rss",
-      "publishedAt": "2026-10-15T13:07:58.000Z",
-      "xQuery": "大学生は部活サークル離れ? 調査"
+      "url": "https://news.yahoo.co.jp/pickup/6598927?source=rss",
+      "publishedAt": "2026-10-15T13:50:30.000Z",
+      "xQuery": "動画を苦に自殺 YouTuberを提訴"
     },
     {
       "time": "20:14",
