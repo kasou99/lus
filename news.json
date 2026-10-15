@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T08:24:59.632Z",
+  "updatedAt": "2026-10-15T08:46:42.500Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -112,13 +112,6 @@
         "publishedAt": "2026-10-15T06:54:08.000Z"
       },
       {
-        "time": "22:18",
-        "title": "日銀利上げ 2%超える可能性は",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598757?source=rss",
-        "publishedAt": "2026-10-14T13:18:09.000Z"
-      },
-      {
         "time": "16:22",
         "title": "パナ ドラム式洗濯乾燥機リコール",
         "source": "Yahoo!ニュース",
@@ -138,6 +131,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598795?source=rss",
         "publishedAt": "2026-10-14T15:20:27.000Z"
+      },
+      {
+        "time": "09:13",
+        "title": "うなぎパイ企業 部門赤字どう解消",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598819?source=rss",
+        "publishedAt": "2026-10-15T00:13:37.000Z"
       },
       {
         "time": "11:53",
