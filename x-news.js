@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-15T21:16:55.213Z",
+  "updatedAt": "2026-10-15T21:39:13.298Z",
   "items": [
     {
       "time": "23:27",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "タクシーやバス カスハラ客拒否へ"
     },
     {
-      "time": "22:37",
-      "title": "洗濯機が発火恐れ パナがリコール",
+      "time": "06:21",
+      "title": "トランプ氏 銃殺刑の配信計画中止",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598928?source=rss",
-      "publishedAt": "2026-10-15T13:37:32.000Z",
-      "xQuery": "洗濯機が発火恐れ パナがリコール"
+      "url": "https://news.yahoo.co.jp/pickup/6598936?source=rss",
+      "publishedAt": "2026-10-15T21:21:48.000Z",
+      "xQuery": "トランプ氏 銃殺刑の配信計画中止"
     },
     {
       "time": "22:50",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "動画を苦に自殺 YouTuberを提訴"
     },
     {
-      "time": "21:02",
-      "title": "ヤンバルクイナの人工授精 初成功",
+      "time": "23:53",
+      "title": "コミックシーモア 一時停止を発表",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598918?source=rss",
-      "publishedAt": "2026-10-15T12:02:28.000Z",
-      "xQuery": "ヤンバルクイナの人工授精 初成功"
+      "url": "https://news.yahoo.co.jp/pickup/6598934?source=rss",
+      "publishedAt": "2026-10-15T14:53:05.000Z",
+      "xQuery": "コミックシーモア 一時停止を発表"
     }
   ]
 };
