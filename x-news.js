@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-15T23:13:17.438Z",
+  "updatedAt": "2026-10-15T23:36:44.332Z",
   "items": [
     {
       "time": "07:39",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "防衛費 米要求の3.5%明示見送りへ"
     },
     {
-      "time": "06:21",
-      "title": "トランプ氏 銃殺刑の配信計画中止",
+      "time": "08:12",
+      "title": "小学校銃撃で子ら4人死亡 米報道",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598936?source=rss",
-      "publishedAt": "2026-10-15T21:21:48.000Z",
-      "xQuery": "トランプ氏 銃殺刑の配信計画中止"
+      "url": "https://news.yahoo.co.jp/pickup/6598946?source=rss",
+      "publishedAt": "2026-10-15T23:12:00.000Z",
+      "xQuery": "小学校銃撃で子ら4人死亡 米報道"
     },
     {
       "time": "07:29",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "金融所得を医療費に反映 29年8月"
     },
     {
+      "time": "08:27",
+      "title": "男性市議からセクハラ 申し立て",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6598948?source=rss",
+      "publishedAt": "2026-10-15T23:27:43.000Z",
+      "xQuery": "男性市議からセクハラ 申し立て"
+    },
+    {
       "time": "07:06",
       "title": "風俗店勤務要求疑い 元ホスト逮捕",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6598939?source=rss",
       "publishedAt": "2026-10-15T22:06:01.000Z",
       "xQuery": "風俗店勤務要求疑い 元ホスト逮捕"
-    },
-    {
-      "time": "07:32",
-      "title": "八王子にクマ なぜ駆除まで2h超",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598943?source=rss",
-      "publishedAt": "2026-10-15T22:32:55.000Z",
-      "xQuery": "八王子にクマ なぜ駆除まで2h超"
     }
   ]
 };

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T23:13:16.283Z",
+  "updatedAt": "2026-10-15T23:36:43.824Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -10,18 +10,18 @@
         "publishedAt": "2026-10-15T11:23:47.000Z"
       },
       {
-        "time": "00:00",
-        "title": "工作機械の程泰の中国工場、英制裁対象に",
-        "source": "NNAアジア",
-        "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1jdDVpNWk2VllzSVBvMERZRjBsYU5VMkNFT2k3Y1lQeTVfRUVnUXhoLWZyLVhBd3MzcXdvbWczRTNybk1McFE?oc=5",
-        "publishedAt": "2026-10-15T15:00:00.000Z"
-      },
-      {
         "time": "12:22",
         "title": "「工作機械」が１７位にランク、ＡＩ関連向けなどに受注拡大＜注目テーマ＞",
         "source": "株探",
         "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1RRkpCOTBlc2hRQ01CX0VZNXYyM1dFWXd1ZmFoUzQzal9YTDBma3k3NGFGalJyS04wNFN2QmRQbFpwMFZpNkN6NUpKRFhGOS01Qi1sM3U4SE90TTRDOWJjbQ?oc=5",
         "publishedAt": "2026-10-15T03:22:00.000Z"
+      },
+      {
+        "time": "00:00",
+        "title": "工作機械の程泰の中国工場、英制裁対象に",
+        "source": "NNAアジア",
+        "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1jdDVpNWk2VllzSVBvMERZRjBsYU5VMkNFT2k3Y1lQeTVfRUVnUXhoLWZyLVhBd3MzcXdvbWczRTNybk1McFE?oc=5",
+        "publishedAt": "2026-10-15T15:00:00.000Z"
       },
       {
         "time": "05:00",
@@ -149,13 +149,6 @@
     ],
     "localHeadlines": [
       {
-        "time": "14:53",
-        "title": "常陸大宮市 核ごみ文献調査開始",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598871?source=rss",
-        "publishedAt": "2026-10-15T05:53:53.000Z"
-      },
-      {
         "time": "18:58",
         "title": "バスと車衝突し73歳死亡 孫が重体",
         "source": "Yahoo!ニュース",
@@ -182,6 +175,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598943?source=rss",
         "publishedAt": "2026-10-15T22:32:55.000Z"
+      },
+      {
+        "time": "08:27",
+        "title": "男性市議からセクハラ 申し立て",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598948?source=rss",
+        "publishedAt": "2026-10-15T23:27:43.000Z"
       },
       {
         "time": "19:48",
