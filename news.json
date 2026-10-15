@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T05:41:41.477Z",
+  "updatedAt": "2026-10-15T06:30:34.147Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -52,11 +52,11 @@
         "publishedAt": "2026-10-14T07:23:05.000Z"
       },
       {
-        "time": "15:00",
-        "title": "盤レス or 通常の制御盤 という話ではない 選択肢ができた喜びを素直に享受しよう",
-        "source": "オートメーション新聞WEB",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9jZk9ocV9vSVM3Q2QxeTB1MkRHRzRBeVFRdXd0LVc2b25zRUtEQ1pwblZQSTRYSllPOUNLdWVTUWNSTkpsdHpEbGtaQWFyNnV4ZXNPajZIVUlXUQ?oc=5",
-        "publishedAt": "2026-10-14T06:00:00.000Z"
+        "time": "17:59",
+        "title": "北見高等技術専門学院が11月から訓練生募集 5つの訓練科で4月入校",
+        "source": "北海道新聞デジタル",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9GQ0p2VkY0ZWFlRWNGZmp4aEtyQTNINS1QU184a0hUQXpIekJtWWpxRHZwTGdtR2pIYk9QRVNlTXppNUw1akxoZmtMb2RKY1dUM3IxZk1ZWWtHZw?oc=5",
+        "publishedAt": "2026-10-14T08:59:02.000Z"
       }
     ],
     "worldHeadlines": [
@@ -119,13 +119,6 @@
         "publishedAt": "2026-10-14T13:18:09.000Z"
       },
       {
-        "time": "07:37",
-        "title": "米上場の半導体株 下落止まらず",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598805?source=rss",
-        "publishedAt": "2026-10-14T22:37:50.000Z"
-      },
-      {
         "time": "06:20",
         "title": "ネトフリ 従業員約1000人を削減へ",
         "source": "Yahoo!ニュース",
@@ -145,9 +138,23 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598843?source=rss",
         "publishedAt": "2026-10-15T02:53:18.000Z"
+      },
+      {
+        "time": "09:13",
+        "title": "うなぎパイ企業 部門赤字どう解消",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598819?source=rss",
+        "publishedAt": "2026-10-15T00:13:37.000Z"
       }
     ],
     "localHeadlines": [
+      {
+        "time": "14:53",
+        "title": "常陸大宮市 核ごみ文献調査開始",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598871?source=rss",
+        "publishedAt": "2026-10-15T05:53:53.000Z"
+      },
       {
         "time": "22:47",
         "title": "東京都 23区内に火葬場の新設検討",
@@ -161,13 +168,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598846?source=rss",
         "publishedAt": "2026-10-15T02:57:38.000Z"
-      },
-      {
-        "time": "19:14",
-        "title": "プール授業中に溺死 元担任も有罪",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598763?source=rss",
-        "publishedAt": "2026-10-14T10:14:38.000Z"
       },
       {
         "time": "11:21",

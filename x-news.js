@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-15T05:41:42.226Z",
+  "updatedAt": "2026-10-15T06:30:35.095Z",
   "items": [
+    {
+      "time": "14:44",
+      "title": "農相起用の武部氏 即戦力と首相",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6598869?source=rss",
+      "publishedAt": "2026-10-15T05:44:58.000Z",
+      "xQuery": "農相起用の武部氏 即戦力と首相"
+    },
     {
       "time": "13:53",
       "title": "記者拘束 首相がスパイ活動を否定",
@@ -8,14 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6598866?source=rss",
       "publishedAt": "2026-10-15T04:53:32.000Z",
       "xQuery": "記者拘束 首相がスパイ活動を否定"
-    },
-    {
-      "time": "12:46",
-      "title": "比例定数削減巡り 与野党平行線",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598856?source=rss",
-      "publishedAt": "2026-10-15T03:46:37.000Z",
-      "xQuery": "比例定数削減巡り 与野党平行線"
     },
     {
       "time": "13:30",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "1歳6人を1人で 保育現場の危機感"
     },
     {
-      "time": "12:42",
-      "title": "トルコ沖沈没船 約4700年前のもの",
+      "time": "12:49",
+      "title": "「あけろ」文京区の督促状が物議",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598855?source=rss",
-      "publishedAt": "2026-10-15T03:42:39.000Z",
-      "xQuery": "トルコ沖沈没船 約4700年前のもの"
+      "url": "https://news.yahoo.co.jp/pickup/6598857?source=rss",
+      "publishedAt": "2026-10-15T03:49:54.000Z",
+      "xQuery": "「あけろ」文京区の督促状が物議"
     }
   ]
 };
