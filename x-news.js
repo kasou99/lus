@@ -1,6 +1,22 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-15T09:43:28.178Z",
+  "updatedAt": "2026-10-15T10:17:34.508Z",
   "items": [
+    {
+      "time": "14:53",
+      "title": "常陸大宮市 核ごみ文献調査開始",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6598871?source=rss",
+      "publishedAt": "2026-10-15T05:53:53.000Z",
+      "xQuery": "常陸大宮市 核ごみ文献調査開始"
+    },
+    {
+      "time": "19:10",
+      "title": "露拘束 WSJ記者の過去事例がカギ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6598908?source=rss",
+      "publishedAt": "2026-10-15T10:10:23.000Z",
+      "xQuery": "露拘束 WSJ記者の過去事例がカギ"
+    },
     {
       "time": "18:15",
       "title": "麻生氏 簗氏の更迭「大変遺憾」",
@@ -10,36 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "麻生氏 簗氏の更迭「大変遺憾」"
     },
     {
-      "time": "16:38",
-      "title": "台風発生 年間30個到達は13年ぶり",
+      "time": "18:49",
+      "title": "検事が「ガキ」発言 国の賠償確定",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598882?source=rss",
-      "publishedAt": "2026-10-15T07:38:07.000Z",
-      "xQuery": "台風発生 年間30個到達は13年ぶり"
+      "url": "https://news.yahoo.co.jp/pickup/6598904?source=rss",
+      "publishedAt": "2026-10-15T09:49:19.000Z",
+      "xQuery": "検事が「ガキ」発言 国の賠償確定"
     },
     {
-      "time": "18:13",
-      "title": "神戸・三宮4人死傷事故 男を逮捕",
+      "time": "18:58",
+      "title": "バスと車衝突し73歳死亡 孫が重体",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598897?source=rss",
-      "publishedAt": "2026-10-15T09:13:06.000Z",
-      "xQuery": "神戸・三宮4人死傷事故 男を逮捕"
-    },
-    {
-      "time": "17:49",
-      "title": "菌検出の温泉で措置せず 市長謝罪",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598891?source=rss",
-      "publishedAt": "2026-10-15T08:49:08.000Z",
-      "xQuery": "菌検出の温泉で措置せず 市長謝罪"
-    },
-    {
-      "time": "18:23",
-      "title": "サイゼリヤ株 一時14%高の急反発",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598901?source=rss",
-      "publishedAt": "2026-10-15T09:23:02.000Z",
-      "xQuery": "サイゼリヤ株 一時14%高の急反発"
+      "url": "https://news.yahoo.co.jp/pickup/6598906?source=rss",
+      "publishedAt": "2026-10-15T09:58:07.000Z",
+      "xQuery": "バスと車衝突し73歳死亡 孫が重体"
     }
   ]
 };
