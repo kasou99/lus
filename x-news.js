@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-15T06:30:35.095Z",
+  "updatedAt": "2026-10-15T07:22:09.057Z",
   "items": [
+    {
+      "time": "15:54",
+      "title": "東証終値3318円安 3番目の下げ幅",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6598878?source=rss",
+      "publishedAt": "2026-10-15T06:54:08.000Z",
+      "xQuery": "東証終値3318円安 3番目の下げ幅"
+    },
     {
       "time": "14:44",
       "title": "農相起用の武部氏 即戦力と首相",
@@ -18,28 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "記者拘束 首相がスパイ活動を否定"
     },
     {
-      "time": "13:30",
-      "title": "日経平均 一時3600円以上値下がり",
+      "time": "15:48",
+      "title": "ドイツ 13歳未満のSNS利用禁止へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598860?source=rss",
-      "publishedAt": "2026-10-15T04:30:12.000Z",
-      "xQuery": "日経平均 一時3600円以上値下がり"
+      "url": "https://news.yahoo.co.jp/pickup/6598875?source=rss",
+      "publishedAt": "2026-10-15T06:48:52.000Z",
+      "xQuery": "ドイツ 13歳未満のSNS利用禁止へ"
     },
     {
-      "time": "11:59",
-      "title": "1歳6人を1人で 保育現場の危機感",
+      "time": "14:43",
+      "title": "子の習い事 社会性やタイパ重視",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598845?source=rss",
-      "publishedAt": "2026-10-15T02:59:55.000Z",
-      "xQuery": "1歳6人を1人で 保育現場の危機感"
-    },
-    {
-      "time": "12:49",
-      "title": "「あけろ」文京区の督促状が物議",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598857?source=rss",
-      "publishedAt": "2026-10-15T03:49:54.000Z",
-      "xQuery": "「あけろ」文京区の督促状が物議"
+      "url": "https://news.yahoo.co.jp/pickup/6598870?source=rss",
+      "publishedAt": "2026-10-15T05:43:57.000Z",
+      "xQuery": "子の習い事 社会性やタイパ重視"
     }
   ]
 };

@@ -1,20 +1,13 @@
 {
-  "updatedAt": "2026-10-15T06:30:34.147Z",
+  "updatedAt": "2026-10-15T07:22:08.482Z",
   "groups": {
     "machineHeadlines": [
       {
         "time": "12:22",
         "title": "「工作機械」が１７位にランク、ＡＩ関連向けなどに受注拡大＜注目テーマ＞",
         "source": "株探",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE42Tm5TaTNZTm54X3lEN2xEZUZZV0JaZWMtd2xLNFhQWGRBaWFyeFFRY1Z4Wk9jaE03MG9HY3o1YlNiSkkzNnJ3UFpDX0dpaUUxYUE?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1RRkpCOTBlc2hRQ01CX0VZNXYyM1dFWXd1ZmFoUzQzal9YTDBma3k3NGFGalJyS04wNFN2QmRQbFpwMFZpNkN6NUpKRFhGOS01Qi1sM3U4SE90TTRDOWJjbQ?oc=5",
         "publishedAt": "2026-10-15T03:22:00.000Z"
-      },
-      {
-        "time": "13:00",
-        "title": "工具の状態を電流値から可視化、シチズンマシナリーがソフト開発：工作機械",
-        "source": "MONOist",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1VcDU4bG5UdWp1cFhiNFR2SHJZQXIzMXFvd1FadThhTkhLTEhaQm9Eel9hM1RRcDc4THJlYVlGUWowVUFIZWRJZ0g1QU5Id3JkM0NWRHotTHVrTlA5MkRqYjIwQktDXzBHX3YxVi1PWQ?oc=5",
-        "publishedAt": "2026-10-15T04:00:00.000Z"
       },
       {
         "time": "14:34",
@@ -52,11 +45,18 @@
         "publishedAt": "2026-10-14T07:23:05.000Z"
       },
       {
-        "time": "17:59",
-        "title": "北見高等技術専門学院が11月から訓練生募集 5つの訓練科で4月入校",
-        "source": "北海道新聞デジタル",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9GQ0p2VkY0ZWFlRWNGZmp4aEtyQTNINS1QU184a0hUQXpIekJtWWpxRHZwTGdtR2pIYk9QRVNlTXppNUw1akxoZmtMb2RKY1dUM3IxZk1ZWWtHZw?oc=5",
-        "publishedAt": "2026-10-14T08:59:02.000Z"
+        "time": "13:00",
+        "title": "工具の状態を電流値から可視化、シチズンマシナリーがソフト開発：工作機械",
+        "source": "MONOist",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1VcDU4bG5UdWp1cFhiNFR2SHJZQXIzMXFvd1FadThhTkhLTEhaQm9Eel9hM1RRcDc4THJlYVlGUWowVUFIZWRJZ0g1QU5Id3JkM0NWRHotTHVrTlA5MkRqYjIwQktDXzBHX3YxVi1PWQ?oc=5",
+        "publishedAt": "2026-10-15T04:00:00.000Z"
+      },
+      {
+        "time": "13:54",
+        "title": "オムロン、電源回路をスマートに集約するパワーサプライが「2026年度グッドデザイン賞」を受賞",
+        "source": "AGARA 紀伊民報",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9aNWRqZnp0NGVOeGlRZUh0SXNrQzhhZWcwX2tTWlR5UUFvSGlsdGhRTGtoOUJWMzZlakZsMzdVY0RUWTJZTVpfVHNlSUs4NkdLbFRTUUJXLVREZXJsazZLTA?oc=5",
+        "publishedAt": "2026-10-15T04:54:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -105,11 +105,11 @@
     ],
     "economyHeadlines": [
       {
-        "time": "13:30",
-        "title": "日経平均 一時3600円以上値下がり",
+        "time": "15:54",
+        "title": "東証終値3318円安 3番目の下げ幅",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598860?source=rss",
-        "publishedAt": "2026-10-15T04:30:12.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6598878?source=rss",
+        "publishedAt": "2026-10-15T06:54:08.000Z"
       },
       {
         "time": "22:18",
@@ -156,11 +156,11 @@
         "publishedAt": "2026-10-15T05:53:53.000Z"
       },
       {
-        "time": "22:47",
-        "title": "東京都 23区内に火葬場の新設検討",
+        "time": "16:20",
+        "title": "神戸・三宮3人死傷事故 男を逮捕",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598786?source=rss",
-        "publishedAt": "2026-10-14T13:47:42.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6598879?source=rss",
+        "publishedAt": "2026-10-15T07:20:37.000Z"
       },
       {
         "time": "11:57",
