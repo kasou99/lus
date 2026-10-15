@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-15T02:45:55.217Z",
+  "updatedAt": "2026-10-15T03:20:50.615Z",
   "items": [
     {
-      "time": "10:26",
-      "title": "農相 後任に自民・武部新氏の方針",
+      "time": "11:25",
+      "title": "邦人記者拘束 露の狙いを識者指摘",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598828?source=rss",
-      "publishedAt": "2026-10-15T01:26:23.000Z",
-      "xQuery": "農相 後任に自民・武部新氏の方針"
+      "url": "https://news.yahoo.co.jp/pickup/6598834?source=rss",
+      "publishedAt": "2026-10-15T02:25:47.000Z",
+      "xQuery": "邦人記者拘束 露の狙いを識者指摘"
     },
     {
-      "time": "10:57",
-      "title": "日経平均 一時3000円以上値下がり",
+      "time": "11:57",
+      "title": "ストーカーにGPS装着検討 警察庁",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598832?source=rss",
-      "publishedAt": "2026-10-15T01:57:34.000Z",
-      "xQuery": "日経平均 一時3000円以上値下がり"
+      "url": "https://news.yahoo.co.jp/pickup/6598842?source=rss",
+      "publishedAt": "2026-10-15T02:57:16.000Z",
+      "xQuery": "ストーカーにGPS装着検討 警察庁"
     },
     {
       "time": "11:21",
