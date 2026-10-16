@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-16T06:29:47.820Z",
+  "updatedAt": "2026-10-16T06:56:31.246Z",
   "items": [
     {
       "time": "15:13",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "気象庁 M6.9をM9.9と過大に予測"
     },
     {
+      "time": "15:31",
+      "title": "東海道新幹線のぞみ 来年値上げへ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6598992?source=rss",
+      "publishedAt": "2026-10-16T06:31:21.000Z",
+      "xQuery": "東海道新幹線のぞみ 来年値上げへ"
+    },
+    {
       "time": "13:35",
       "title": "王将社長射殺事件 男に無罪判決",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6598982?source=rss",
       "publishedAt": "2026-10-16T04:35:54.000Z",
       "xQuery": "王将社長射殺事件 男に無罪判決"
-    },
-    {
-      "time": "14:40",
-      "title": "ヤマト運輸 個人情報530万件流出",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598987?source=rss",
-      "publishedAt": "2026-10-16T05:40:39.000Z",
-      "xQuery": "ヤマト運輸 個人情報530万件流出"
     }
   ]
 };

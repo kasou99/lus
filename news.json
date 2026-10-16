@@ -1,14 +1,7 @@
 {
-  "updatedAt": "2026-10-16T06:29:47.059Z",
+  "updatedAt": "2026-10-16T06:56:30.498Z",
   "groups": {
     "machineHeadlines": [
-      {
-        "time": "13:59",
-        "title": "ヤマザキマザック、ABEJAと業務提携 工作機械にフィジカルAI実装",
-        "source": "日本経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9sWFhpSW93OXBDa2hDN2dtRXB6RVE1d2hha3JWZUlsWHMwWG9DNDFERFNfMEt2VDBRRzNybU14WTdQaVZxTTlUbHRTdkl0NkpnLVdJaUMxS3NzemZuWG5VdGZKNVh4SEs0QXVQMQ?oc=5",
-        "publishedAt": "2026-10-16T04:59:02.000Z"
-      },
       {
         "time": "14:06",
         "title": "工作機械のヤマザキマザック、加工工程と生産スケジュールをAIが提案、2028年度内の製品化目指す",
@@ -17,11 +10,25 @@
         "publishedAt": "2026-10-16T05:06:04.000Z"
       },
       {
+        "time": "13:59",
+        "title": "ヤマザキマザック、ABEJAと業務連携 工作機械にフィジカルAI実装",
+        "source": "日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9sWFhpSW93OXBDa2hDN2dtRXB6RVE1d2hha3JWZUlsWHMwWG9DNDFERFNfMEt2VDBRRzNybU14WTdQaVZxTTlUbHRTdkl0NkpnLVdJaUMxS3NzemZuWG5VdGZKNVh4SEs0QXVQMQ?oc=5",
+        "publishedAt": "2026-10-16T04:59:02.000Z"
+      },
+      {
         "time": "13:00",
         "title": "「JIMTOF2026 第33回日本国際工作機械見本市」出展のご案内",
         "source": "PR TIMES",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1jX2QzajJSdy1ab1AyaFZEb1FfZXBiQ193b3hGYnpMUzdOMFJXdlZUOGQwNExuV0ZVSG5MRGJENTlSbDFhSktTeHN0dS1rby02YXhTZVAxRTltRnAxZWdXYVg3VFlYdy14U3c?oc=5",
         "publishedAt": "2026-10-16T04:00:02.000Z"
+      },
+      {
+        "time": "15:35",
+        "title": "ヤマザキマザックとABEJA、工作機械にフィジカルAI実装へ共同開発",
+        "source": "BigGo ファイナンス",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBWTVRMSlBQQnJ2c253d0VQcWQ2ME5sQkY0S3V0akhkN1gtaTRxT285dDUwaWtVMFJBM1QyWF9QRlVUWmNmOTkwWkJkaExkeFp3UFB3dlJRaUhIUUhJTEZQUEZFMy16d0lBVERRSmltU21zbzdM?oc=5",
+        "publishedAt": "2026-10-16T06:35:00.000Z"
       },
       {
         "time": "20:23",
@@ -50,13 +57,6 @@
         "source": "ニコニコニュース",
         "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9VWFpaUWdPNG9fY2VjLVhwN2IwcGkxaFQ1OGtJUWQwVXJ6TWQ0MC1RT0ItTjZEYUhXSF9RSDhOSHEyNTl4Z1NZcUhaY0FRVmtJZGhqbVVHOWRodUkzTUlnQnQzN2g3ZTdoWlV6RkhHanJJd3ZUU2QtTTM1OA?oc=5",
         "publishedAt": "2026-10-16T02:48:17.000Z"
-      },
-      {
-        "time": "10:00",
-        "title": "【切削加工の常識を覆す次世代技術】超臨界CO2発生装置「Pure-Cut」の国内OEM生産を開始｜Infoseekニュース",
-        "source": "Infoseek",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1qaFR5bUJic2F6TGttNV8wNXJXWmdkamFVY3JIRXJwU3JyMXZsb2FNSFplRTRzdmZmdFA3d2ZYejBmZlV4RmFmVmhYeHlNdEVBUnFjTXl4ZmpfMEJHMklBRHFQTVhHbGFLWG5QZTRDQmRrQQ?oc=5",
-        "publishedAt": "2026-10-16T01:00:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -105,6 +105,13 @@
     ],
     "economyHeadlines": [
       {
+        "time": "15:31",
+        "title": "東海道新幹線のぞみ 来年値上げへ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598992?source=rss",
+        "publishedAt": "2026-10-16T06:31:21.000Z"
+      },
+      {
         "time": "14:40",
         "title": "ヤマト運輸 個人情報530万件流出",
         "source": "Yahoo!ニュース",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598952?source=rss",
         "publishedAt": "2026-10-16T00:05:49.000Z"
-      },
-      {
-        "time": "11:37",
-        "title": "帝国ホテル 不適切な展示巡り謝罪",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598963?source=rss",
-        "publishedAt": "2026-10-16T02:37:32.000Z"
       }
     ],
     "localHeadlines": [
