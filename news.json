@@ -1,14 +1,7 @@
 {
-  "updatedAt": "2026-10-16T08:45:40.108Z",
+  "updatedAt": "2026-10-16T09:18:26.322Z",
   "groups": {
     "machineHeadlines": [
-      {
-        "time": "13:59",
-        "title": "ヤマザキマザック、ABEJAと業務連携 工作機械にフィジカルAI実装",
-        "source": "日本経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9sWFhpSW93OXBDa2hDN2dtRXB6RVE1d2hha3JWZUlsWHMwWG9DNDFERFNfMEt2VDBRRzNybU14WTdQaVZxTTlUbHRTdkl0NkpnLVdJaUMxS3NzemZuWG5VdGZKNVh4SEs0QXVQMQ?oc=5",
-        "publishedAt": "2026-10-16T04:59:02.000Z"
-      },
       {
         "time": "14:06",
         "title": "工作機械のヤマザキマザック、加工工程と生産スケジュールをAIが提案、2028年度内の製品化目指す",
@@ -31,11 +24,11 @@
         "publishedAt": "2026-10-16T06:35:00.000Z"
       },
       {
-        "time": "05:00",
-        "title": "日工会野球大会、6チームが熱戦",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9JMWM2YVNTZExEUUhVOXRFRmFWamhwSE5hZ3ZtNEtvTVR3UWRDdkVJY1lVNVBWNmZKbE9YXzgzQjJmLWRTOXVTY0RfbWxaSWRmUGo2RVI4X2s?oc=5",
-        "publishedAt": "2026-10-15T20:00:00.000Z"
+        "time": "13:59",
+        "title": "ヤマザキマザック、ABEJAと業務連携 工作機械にフィジカルAI実装",
+        "source": "日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9sWFhpSW93OXBDa2hDN2dtRXB6RVE1d2hha3JWZUlsWHMwWG9DNDFERFNfMEt2VDBRRzNybU14WTdQaVZxTTlUbHRTdkl0NkpnLVdJaUMxS3NzemZuWG5VdGZKNVh4SEs0QXVQMQ?oc=5",
+        "publishedAt": "2026-10-16T04:59:02.000Z"
       },
       {
         "time": "20:23",
@@ -45,11 +38,18 @@
         "publishedAt": "2026-10-15T11:23:47.000Z"
       },
       {
-        "time": "11:48",
-        "title": "【生産管理とDXのテクノア】が『JIMTOF2026",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9VWFpaUWdPNG9fY2VjLVhwN2IwcGkxaFQ1OGtJUWQwVXJ6TWQ0MC1RT0ItTjZEYUhXSF9RSDhOSHEyNTl4Z1NZcUhaY0FRVmtJZGhqbVVHOWRodUkzTUlnQnQzN2g3ZTdoWlV6RkhHanJJd3ZUU2QtTTM1OA?oc=5",
-        "publishedAt": "2026-10-16T02:48:17.000Z"
+        "time": "05:00",
+        "title": "日工会野球大会、6チームが熱戦",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9JMWM2YVNTZExEUUhVOXRFRmFWamhwSE5hZ3ZtNEtvTVR3UWRDdkVJY1lVNVBWNmZKbE9YXzgzQjJmLWRTOXVTY0RfbWxaSWRmUGo2RVI4X2s?oc=5",
+        "publishedAt": "2026-10-15T20:00:00.000Z"
+      },
+      {
+        "time": "09:57",
+        "title": "工作機械選定のAI検索実測調査、回答根拠の約6割が比較メディア TechSuite調べ",
+        "source": "Dellows News",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBibXV0UFZNNHR5RWdNVHVoRVBrZmNPMEd4a3pzRERPYnRQNTh5X2laRkVLbUhXZkh1TUJEQXdDR0JJdUVPYjhRQnAwWVpoNmNwakdvRVVyUGd3WkVrQnV6REFQZURmOGZs?oc=5",
+        "publishedAt": "2026-10-16T00:57:58.000Z"
       },
       {
         "time": "00:00",
@@ -163,6 +163,13 @@
         "publishedAt": "2026-10-16T04:35:54.000Z"
       },
       {
+        "time": "17:51",
+        "title": "呉で中1死亡 いじめとの関連認定",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6599012?source=rss",
+        "publishedAt": "2026-10-16T08:51:33.000Z"
+      },
+      {
         "time": "15:13",
         "title": "猪苗代湖3人死傷 最高裁逆転有罪",
         "source": "Yahoo!ニュース",
@@ -170,25 +177,18 @@
         "publishedAt": "2026-10-16T06:13:49.000Z"
       },
       {
+        "time": "18:08",
+        "title": "印旛沼の堤防 緊急復旧が完了",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6599013?source=rss",
+        "publishedAt": "2026-10-16T09:08:45.000Z"
+      },
+      {
         "time": "14:46",
         "title": "露が記者拘束 北海道目線の重大さ",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598977?source=rss",
         "publishedAt": "2026-10-16T05:46:55.000Z"
-      },
-      {
-        "time": "11:06",
-        "title": "全国初 罰則付きカスハラ条例可決",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598960?source=rss",
-        "publishedAt": "2026-10-16T02:06:14.000Z"
-      },
-      {
-        "time": "12:26",
-        "title": "道頓堀川に男性投げ入れ疑い 逮捕",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598976?source=rss",
-        "publishedAt": "2026-10-16T03:26:08.000Z"
       }
     ],
     "subsidyHeadlines": [
@@ -222,13 +222,6 @@
         "source": "補助金ポータル",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Idm5vYjJtajVIYjhheTZVVTVQTXRXMndVNkRmWnVEZnZyNVRRV3ZncXZhREsxNXBqYXFZSlZmNHhLeHhkbUNRcXljRlJNWVh2ZmZrSXlsVVJsdGI5RGtBdmoxUGx1YlozMUE?oc=5",
         "publishedAt": "2026-09-30T07:00:00.000Z"
-      },
-      {
-        "time": "13:00",
-        "title": "クラウドシエン、サービスを全面リニューアル。累計補助金採択額300億円を突破、企業の挑戦を支える支援メニューを大幅拡充",
-        "source": "産経ニュース",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBBOGhxNjJ5Zl96TXY3a3lab09MNWVlemt0TEpVQ1pQWGI4U3NORXpRZjN1OEtvNFcxakFlY0g4NWJTMHRKRzRYa09FNDZqajJtT1BwTExGUEd0VElsVXRjR19FYzV0X3o0V180T0VIT0N1MzMwSHdiQWZpOA?oc=5",
-        "publishedAt": "2026-10-16T04:00:00.000Z"
       }
     ]
   }

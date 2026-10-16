@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-16T08:45:40.895Z",
+  "updatedAt": "2026-10-16T09:18:26.999Z",
   "items": [
     {
       "time": "15:58",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "インフル感染 前年同時期比5倍超"
     },
     {
-      "time": "15:13",
-      "title": "猪苗代湖3人死傷 最高裁逆転有罪",
+      "time": "17:58",
+      "title": "簗前農相 運動員への支払い指示か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598989?source=rss",
-      "publishedAt": "2026-10-16T06:13:49.000Z",
-      "xQuery": "猪苗代湖3人死傷 最高裁逆転有罪"
+      "url": "https://news.yahoo.co.jp/pickup/6599011?source=rss",
+      "publishedAt": "2026-10-16T08:58:39.000Z",
+      "xQuery": "簗前農相 運動員への支払い指示か"
     },
     {
       "time": "17:20",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "緊急地震速報取り消し 各地混乱"
     },
     {
-      "time": "16:18",
-      "title": "王将事件で無罪判決 被告コメント",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598994?source=rss",
-      "publishedAt": "2026-10-16T07:18:31.000Z",
-      "xQuery": "王将事件で無罪判決 被告コメント"
-    },
-    {
       "time": "17:13",
       "title": "日経新聞 個人情報が183万件流出",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6599004?source=rss",
       "publishedAt": "2026-10-16T08:13:11.000Z",
       "xQuery": "日経新聞 個人情報が183万件流出"
+    },
+    {
+      "time": "17:42",
+      "title": "攻撃受け 県メアドから迷惑メール",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599003?source=rss",
+      "publishedAt": "2026-10-16T08:42:36.000Z",
+      "xQuery": "攻撃受け 県メアドから迷惑メール"
     }
   ]
 };
