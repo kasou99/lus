@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T13:41:54.592Z",
+  "updatedAt": "2026-10-16T14:18:33.294Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -52,14 +52,21 @@
         "publishedAt": "2026-10-15T20:00:00.000Z"
       },
       {
-        "time": "09:57",
-        "title": "工作機械選定のAI検索実測調査、回答根拠の約6割が比較メディア TechSuite調べ",
-        "source": "Dellows News",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBibXV0UFZNNHR5RWdNVHVoRVBrZmNPMEd4a3pzRERPYnRQNTh5X2laRkVLbUhXZkh1TUJEQXdDR0JJdUVPYjhRQnAwWVpoNmNwakdvRVVyUGd3WkVrQnV6REFQZURmOGZs?oc=5",
-        "publishedAt": "2026-10-16T00:57:58.000Z"
+        "time": "00:00",
+        "title": "工作機械の程泰の中国工場、英制裁対象に",
+        "source": "NNAアジア",
+        "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1jdDVpNWk2VllzSVBvMERZRjBsYU5VMkNFT2k3Y1lQeTVfRUVnUXhoLWZyLVhBd3MzcXdvbWczRTNybk1McFE?oc=5",
+        "publishedAt": "2026-10-15T15:00:00.000Z"
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "23:05",
+        "title": "記者拘束 露国民との交換狙いか",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6599046?source=rss",
+        "publishedAt": "2026-10-16T14:05:39.000Z"
+      },
       {
         "time": "09:51",
         "title": "記者拘束で日本抗議 露大使館拒否",
@@ -80,13 +87,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598962?source=rss",
         "publishedAt": "2026-10-16T02:13:11.000Z"
-      },
-      {
-        "time": "11:47",
-        "title": "北朝鮮 14日に潜水艦巡航ミサイル",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598841?source=rss",
-        "publishedAt": "2026-10-15T02:47:27.000Z"
       },
       {
         "time": "08:57",

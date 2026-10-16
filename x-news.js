@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-16T13:41:55.586Z",
+  "updatedAt": "2026-10-16T14:18:34.073Z",
   "items": [
     {
       "time": "20:50",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "生活文化分野で人間国宝 初認定へ"
     },
     {
+      "time": "22:54",
+      "title": "緊急地震速報取り消し 2つの要因",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599044?source=rss",
+      "publishedAt": "2026-10-16T13:54:50.000Z",
+      "xQuery": "緊急地震速報取り消し 2つの要因"
+    },
+    {
       "time": "22:20",
       "title": "ニデック 永守氏らへの訴訟を検討",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6599040?source=rss",
       "publishedAt": "2026-10-16T13:20:06.000Z",
       "xQuery": "ニデック 永守氏らへの訴訟を検討"
-    },
-    {
-      "time": "21:27",
-      "title": "ガスト・サイゼ・ロイホ 戦略比較",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599029?source=rss",
-      "publishedAt": "2026-10-16T12:27:10.000Z",
-      "xQuery": "ガスト・サイゼ・ロイホ 戦略比較"
     },
     {
       "time": "22:04",
