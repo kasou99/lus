@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T06:56:30.498Z",
+  "updatedAt": "2026-10-16T07:21:47.127Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,18 +17,18 @@
         "publishedAt": "2026-10-16T04:59:02.000Z"
       },
       {
-        "time": "13:00",
-        "title": "「JIMTOF2026 第33回日本国際工作機械見本市」出展のご案内",
-        "source": "PR TIMES",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1jX2QzajJSdy1ab1AyaFZEb1FfZXBiQ193b3hGYnpMUzdOMFJXdlZUOGQwNExuV0ZVSG5MRGJENTlSbDFhSktTeHN0dS1rby02YXhTZVAxRTltRnAxZWdXYVg3VFlYdy14U3c?oc=5",
-        "publishedAt": "2026-10-16T04:00:02.000Z"
-      },
-      {
         "time": "15:35",
         "title": "ヤマザキマザックとABEJA、工作機械にフィジカルAI実装へ共同開発",
         "source": "BigGo ファイナンス",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBWTVRMSlBQQnJ2c253d0VQcWQ2ME5sQkY0S3V0akhkN1gtaTRxT285dDUwaWtVMFJBM1QyWF9QRlVUWmNmOTkwWkJkaExkeFp3UFB3dlJRaUhIUUhJTEZQUEZFMy16d0lBVERRSmltU21zbzdM?oc=5",
         "publishedAt": "2026-10-16T06:35:00.000Z"
+      },
+      {
+        "time": "13:00",
+        "title": "「JIMTOF2026 第33回日本国際工作機械見本市」出展のご案内",
+        "source": "PR TIMES",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1jX2QzajJSdy1ab1AyaFZEb1FfZXBiQ193b3hGYnpMUzdOMFJXdlZUOGQwNExuV0ZVSG5MRGJENTlSbDFhSktTeHN0dS1rby02YXhTZVAxRTltRnAxZWdXYVg3VFlYdy14U3c?oc=5",
+        "publishedAt": "2026-10-16T04:00:02.000Z"
       },
       {
         "time": "20:23",
@@ -105,6 +105,13 @@
     ],
     "economyHeadlines": [
       {
+        "time": "16:10",
+        "title": "JR東海 新幹線の新型車両を発表",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598995?source=rss",
+        "publishedAt": "2026-10-16T07:10:03.000Z"
+      },
+      {
         "time": "15:31",
         "title": "東海道新幹線のぞみ 来年値上げへ",
         "source": "Yahoo!ニュース",
@@ -138,16 +145,16 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598984?source=rss",
         "publishedAt": "2026-10-16T05:01:53.000Z"
-      },
-      {
-        "time": "09:05",
-        "title": "ソニー 93万円のウォークマン発表",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598952?source=rss",
-        "publishedAt": "2026-10-16T00:05:49.000Z"
       }
     ],
     "localHeadlines": [
+      {
+        "time": "16:18",
+        "title": "王将事件で無罪判決 被告コメント",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598994?source=rss",
+        "publishedAt": "2026-10-16T07:18:31.000Z"
+      },
       {
         "time": "13:35",
         "title": "王将社長射殺事件 男に無罪判決",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598976?source=rss",
         "publishedAt": "2026-10-16T03:26:08.000Z"
-      },
-      {
-        "time": "07:06",
-        "title": "風俗店勤務要求疑い 元ホスト逮捕",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598939?source=rss",
-        "publishedAt": "2026-10-15T22:06:01.000Z"
       }
     ],
     "subsidyHeadlines": [

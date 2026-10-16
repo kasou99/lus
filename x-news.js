@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-16T06:56:31.246Z",
+  "updatedAt": "2026-10-16T07:21:47.918Z",
   "items": [
     {
-      "time": "15:13",
-      "title": "猪苗代湖3人死傷 最高裁逆転有罪",
+      "time": "15:58",
+      "title": "インフル感染 前年同時期比5倍超",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598989?source=rss",
-      "publishedAt": "2026-10-16T06:13:49.000Z",
-      "xQuery": "猪苗代湖3人死傷 最高裁逆転有罪"
+      "url": "https://news.yahoo.co.jp/pickup/6598993?source=rss",
+      "publishedAt": "2026-10-16T06:58:57.000Z",
+      "xQuery": "インフル感染 前年同時期比5倍超"
     },
     {
       "time": "14:36",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "気象庁 M6.9をM9.9と過大に予測"
     },
     {
-      "time": "15:31",
-      "title": "東海道新幹線のぞみ 来年値上げへ",
+      "time": "15:13",
+      "title": "猪苗代湖3人死傷 最高裁逆転有罪",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598992?source=rss",
-      "publishedAt": "2026-10-16T06:31:21.000Z",
-      "xQuery": "東海道新幹線のぞみ 来年値上げへ"
+      "url": "https://news.yahoo.co.jp/pickup/6598989?source=rss",
+      "publishedAt": "2026-10-16T06:13:49.000Z",
+      "xQuery": "猪苗代湖3人死傷 最高裁逆転有罪"
     },
     {
       "time": "13:35",
