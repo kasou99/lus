@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-16T07:43:36.234Z",
+  "updatedAt": "2026-10-16T08:23:43.170Z",
   "items": [
     {
       "time": "15:58",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "猪苗代湖3人死傷 最高裁逆転有罪"
     },
     {
-      "time": "13:45",
-      "title": "気象庁 M6.9をM9.9と過大に予測",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598983?source=rss",
-      "publishedAt": "2026-10-16T04:45:24.000Z",
-      "xQuery": "気象庁 M6.9をM9.9と過大に予測"
-    },
-    {
       "time": "16:18",
       "title": "王将事件で無罪判決 被告コメント",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6598994?source=rss",
       "publishedAt": "2026-10-16T07:18:31.000Z",
       "xQuery": "王将事件で無罪判決 被告コメント"
+    },
+    {
+      "time": "12:19",
+      "title": "米報道官 弁護士資格なしを認める",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6598974?source=rss",
+      "publishedAt": "2026-10-16T03:19:08.000Z",
+      "xQuery": "米報道官 弁護士資格なしを認める"
     },
     {
       "time": "14:40",
