@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T05:42:01.170Z",
+  "updatedAt": "2026-10-16T06:29:47.059Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -52,11 +52,11 @@
         "publishedAt": "2026-10-16T02:48:17.000Z"
       },
       {
-        "time": "14:00",
-        "title": "【切削加工の常識を覆す次世代技術】超臨界CO2発生装置「Pure-Cut」の国内OEM生産を開始",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1ySG82M0NkZ2lSeUV2Z1Y4b3g3aVJyam1UUzNVQkZTcXo3aFNXX0lUZmtzeEpPaTMwVTRGaG8tWWh1X3djUXd0SUlwaDFXMWx6bW1jVDllT2IwM2NvSmpNOUQ4am03SkdJWTV1UVRaTnkzcU0?oc=5",
-        "publishedAt": "2026-10-16T05:00:35.000Z"
+        "time": "10:00",
+        "title": "【切削加工の常識を覆す次世代技術】超臨界CO2発生装置「Pure-Cut」の国内OEM生産を開始｜Infoseekニュース",
+        "source": "Infoseek",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1qaFR5bUJic2F6TGttNV8wNXJXWmdkamFVY3JIRXJwU3JyMXZsb2FNSFplRTRzdmZmdFA3d2ZYejBmZlV4RmFmVmhYeHlNdEVBUnFjTXl4ZmpfMEJHMklBRHFQTVhHbGFLWG5QZTRDQmRrQQ?oc=5",
+        "publishedAt": "2026-10-16T01:00:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -105,6 +105,13 @@
     ],
     "economyHeadlines": [
       {
+        "time": "14:40",
+        "title": "ヤマト運輸 個人情報530万件流出",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598987?source=rss",
+        "publishedAt": "2026-10-16T05:40:39.000Z"
+      },
+      {
         "time": "11:45",
         "title": "チョコザップ機器で事故 運営謝罪",
         "source": "Yahoo!ニュース",
@@ -112,25 +119,11 @@
         "publishedAt": "2026-10-16T02:45:12.000Z"
       },
       {
-        "time": "22:37",
-        "title": "洗濯機が発火恐れ パナがリコール",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598928?source=rss",
-        "publishedAt": "2026-10-15T13:37:32.000Z"
-      },
-      {
         "time": "07:56",
         "title": "「お得感」前面に ローソン好調",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598945?source=rss",
         "publishedAt": "2026-10-15T22:56:46.000Z"
-      },
-      {
-        "time": "20:29",
-        "title": "年金だけで暮らせず 毎日働く71歳",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598916?source=rss",
-        "publishedAt": "2026-10-15T11:29:05.000Z"
       },
       {
         "time": "14:01",
@@ -145,6 +138,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598952?source=rss",
         "publishedAt": "2026-10-16T00:05:49.000Z"
+      },
+      {
+        "time": "11:37",
+        "title": "帝国ホテル 不適切な展示巡り謝罪",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598963?source=rss",
+        "publishedAt": "2026-10-16T02:37:32.000Z"
       }
     ],
     "localHeadlines": [
@@ -156,18 +156,25 @@
         "publishedAt": "2026-10-16T04:35:54.000Z"
       },
       {
+        "time": "15:13",
+        "title": "猪苗代湖3人死傷 最高裁逆転有罪",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598989?source=rss",
+        "publishedAt": "2026-10-16T06:13:49.000Z"
+      },
+      {
+        "time": "14:46",
+        "title": "露が記者拘束 北海道目線の重大さ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598977?source=rss",
+        "publishedAt": "2026-10-16T05:46:55.000Z"
+      },
+      {
         "time": "11:06",
         "title": "全国初 罰則付きカスハラ条例可決",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598960?source=rss",
         "publishedAt": "2026-10-16T02:06:14.000Z"
-      },
-      {
-        "time": "09:23",
-        "title": "有罪か無罪か 王将射殺きょう判決",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598954?source=rss",
-        "publishedAt": "2026-10-16T00:23:13.000Z"
       },
       {
         "time": "12:26",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598939?source=rss",
         "publishedAt": "2026-10-15T22:06:01.000Z"
-      },
-      {
-        "time": "12:03",
-        "title": "矢野雅哉・前川誠太選手を不起訴",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598966?source=rss",
-        "publishedAt": "2026-10-16T03:03:18.000Z"
       }
     ],
     "subsidyHeadlines": [

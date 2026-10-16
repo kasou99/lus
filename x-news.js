@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-16T05:42:01.831Z",
+  "updatedAt": "2026-10-16T06:29:47.820Z",
   "items": [
+    {
+      "time": "15:13",
+      "title": "猪苗代湖3人死傷 最高裁逆転有罪",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6598989?source=rss",
+      "publishedAt": "2026-10-16T06:13:49.000Z",
+      "xQuery": "猪苗代湖3人死傷 最高裁逆転有罪"
+    },
     {
       "time": "14:36",
       "title": "気象庁 サイバー攻撃の可能性ない",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "王将社長射殺事件 男に無罪判決"
     },
     {
-      "time": "14:01",
-      "title": "テスラ新型車 空中旋回を実演",
+      "time": "14:40",
+      "title": "ヤマト運輸 個人情報530万件流出",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598984?source=rss",
-      "publishedAt": "2026-10-16T05:01:53.000Z",
-      "xQuery": "テスラ新型車 空中旋回を実演"
-    },
-    {
-      "time": "11:08",
-      "title": "葉物野菜高騰 家計に優しい料理は",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598961?source=rss",
-      "publishedAt": "2026-10-16T02:08:10.000Z",
-      "xQuery": "葉物野菜高騰 家計に優しい料理は"
+      "url": "https://news.yahoo.co.jp/pickup/6598987?source=rss",
+      "publishedAt": "2026-10-16T05:40:39.000Z",
+      "xQuery": "ヤマト運輸 個人情報530万件流出"
     }
   ]
 };
