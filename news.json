@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T20:16:20.770Z",
+  "updatedAt": "2026-10-16T20:40:43.039Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,13 +38,6 @@
         "publishedAt": "2026-10-16T04:00:02.000Z"
       },
       {
-        "time": "14:27",
-        "title": "ABEJAとヤマザキマザック、製造現場のフィジカルAI実装へ業務連携 共同開発を開始",
-        "source": "ビジネス+IT",
-        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5CbC1YMWMtbXRsemVMMVlaTE0wLXZzYjNvUFJGQnMxa0J0TkxqRDdnR01jbFFrUEJaTlJMVjFQcXU5SUFNRGdXS1g2MVRUcmlDQTZJ?oc=5",
-        "publishedAt": "2026-10-16T05:27:00.000Z"
-      },
-      {
         "time": "09:57",
         "title": "工作機械選定のAI検索実測調査、回答根拠の約6割が比較メディア TechSuite調べ",
         "source": "Dellows News",
@@ -57,6 +50,13 @@
         "source": "ニコニコニュース",
         "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9VWFpaUWdPNG9fY2VjLVhwN2IwcGkxaFQ1OGtJUWQwVXJ6TWQ0MC1RT0ItTjZEYUhXSF9RSDhOSHEyNTl4Z1NZcUhaY0FRVmtJZGhqbVVHOWRodUkzTUlnQnQzN2g3ZTdoWlV6RkhHanJJd3ZUU2QtTTM1OA?oc=5",
         "publishedAt": "2026-10-16T02:48:17.000Z"
+      },
+      {
+        "time": "10:00",
+        "title": "【切削加工の常識を覆す次世代技術】超臨界CO2発生装置「Pure-Cut」の国内OEM生産を開始｜Infoseekニュース",
+        "source": "Infoseek",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1qaFR5bUJic2F6TGttNV8wNXJXWmdkamFVY3JIRXJwU3JyMXZsb2FNSFplRTRzdmZmdFA3d2ZYejBmZlV4RmFmVmhYeHlNdEVBUnFjTXl4ZmpfMEJHMklBRHFQTVhHbGFLWG5QZTRDQmRrQQ?oc=5",
+        "publishedAt": "2026-10-16T01:00:00.000Z"
       }
     ],
     "worldHeadlines": [
