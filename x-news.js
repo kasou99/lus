@@ -1,21 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-16T04:43:52.531Z",
+  "updatedAt": "2026-10-16T05:17:29.459Z",
   "items": [
     {
-      "time": "12:53",
-      "title": "緊急地震速報を取り消し 気象庁",
+      "time": "13:58",
+      "title": "中継気象庁会見 地震速報取り消し",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598978?source=rss",
-      "publishedAt": "2026-10-16T03:53:55.000Z",
-      "xQuery": "緊急地震速報を取り消し 気象庁"
+      "url": "https://news.yahoo.co.jp/pickup/6598985?source=rss",
+      "publishedAt": "2026-10-16T04:58:06.000Z",
+      "xQuery": "中継気象庁会見 地震速報取り消し"
     },
     {
-      "time": "13:24",
-      "title": "気象庁 速報対象地震ではなかった",
+      "time": "13:45",
+      "title": "気象庁 M6.9をM9.9と過大に予測",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598980?source=rss",
-      "publishedAt": "2026-10-16T04:24:53.000Z",
-      "xQuery": "気象庁 速報対象地震ではなかった"
+      "url": "https://news.yahoo.co.jp/pickup/6598983?source=rss",
+      "publishedAt": "2026-10-16T04:45:24.000Z",
+      "xQuery": "気象庁 M6.9をM9.9と過大に予測"
+    },
+    {
+      "time": "12:34",
+      "title": "高市首相 簗前農相の交代を陳謝",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6598973?source=rss",
+      "publishedAt": "2026-10-16T03:34:22.000Z",
+      "xQuery": "高市首相 簗前農相の交代を陳謝"
     },
     {
       "time": "13:35",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "王将社長射殺事件 男に無罪判決"
     },
     {
-      "time": "12:06",
-      "title": "マスク氏 ウ大統領に退陣呼びかけ",
+      "time": "14:01",
+      "title": "テスラ新型車 空中旋回を実演",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598972?source=rss",
-      "publishedAt": "2026-10-16T03:06:21.000Z",
-      "xQuery": "マスク氏 ウ大統領に退陣呼びかけ"
-    },
-    {
-      "time": "12:26",
-      "title": "道頓堀川に男性投げ入れ疑い 逮捕",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598976?source=rss",
-      "publishedAt": "2026-10-16T03:26:08.000Z",
-      "xQuery": "道頓堀川に男性投げ入れ疑い 逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6598984?source=rss",
+      "publishedAt": "2026-10-16T05:01:53.000Z",
+      "xQuery": "テスラ新型車 空中旋回を実演"
     }
   ]
 };

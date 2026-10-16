@@ -1,13 +1,20 @@
 {
-  "updatedAt": "2026-10-16T04:43:51.937Z",
+  "updatedAt": "2026-10-16T05:17:28.379Z",
   "groups": {
     "machineHeadlines": [
       {
-        "time": "11:01",
-        "title": "【FISCO銘柄コメント】山善---工作機械・産業機器・機械工具等の生産財、住宅設備機器・家庭機…(フィスコ)",
-        "source": "Yahoo!ファイナンス",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYThkaEl2d00xVllHVUhKcE93M2NqdTd0MUFmd3NXTlRaZHhVZEhyczBVZllFbTdQZXRkbmRueFJrM3ZDdEs3VXM4MDlvcHdod1VRR3JaVlBWVVZ3UDNTVGtYbzYwLVIteWg0WnFicklkY0FNbHljTlY3VHh2azhlM0ZFejdxTmM?oc=5",
-        "publishedAt": "2026-10-16T02:01:05.000Z"
+        "time": "13:59",
+        "title": "ヤマザキマザック、ABEJAと業務提携 工作機械にフィジカルAI実装",
+        "source": "日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9sWFhpSW93OXBDa2hDN2dtRXB6RVE1d2hha3JWZUlsWHMwWG9DNDFERFNfMEt2VDBRRzNybU14WTdQaVZxTTlUbHRTdkl0NkpnLVdJaUMxS3NzemZuWG5VdGZKNVh4SEs0QXVQMQ?oc=5",
+        "publishedAt": "2026-10-16T04:59:02.000Z"
+      },
+      {
+        "time": "14:06",
+        "title": "工作機械のヤマザキマザック、加工工程と生産スケジュールをAIが提案、2028年度内の製品化目指す",
+        "source": "IT Leaders",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1LczR5MXNmT3FFdmd5TGhMLWg4akNoS1ZSbk5VX1hYT3kxa2s4TEg4NjF0UHFQc0ZyY3NPcjAxSUhHSF9ZRXpJcjBESEhwUW9rdDlN?oc=5",
+        "publishedAt": "2026-10-16T05:06:04.000Z"
       },
       {
         "time": "13:00",
@@ -45,18 +52,11 @@
         "publishedAt": "2026-10-16T02:48:17.000Z"
       },
       {
-        "time": "12:01",
-        "title": "ABEJAがヤマザキマザックと製造現場のAI実装で連携",
-        "source": "ニュースメディアVOIX",
-        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8xV1ZPN1V2dm00YWlDRnotNTV5dFU3aXo3LTZSV2xpTGEzTWpxMG5TZWVaWTNDTGN4dHhkUXRRVWluTE5MSEZlRzdhNXh1SHJfbE9R?oc=5",
-        "publishedAt": "2026-10-16T03:01:58.000Z"
-      },
-      {
-        "time": "19:05",
-        "title": "徳島県立中央テクノスクール会計年度任用職員（準高度業務・機械技術科指導員）の募集について｜徳島県ホームページ",
-        "source": "徳島県ホームページ",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1kV0QtMEJYVDZlb3hmeU1YbnVNWHVHZkFNMlNYdjVDUHRRcTdNU0lXYXlaSHByQU8xZ1ZWZ1ZlSVlMMUtZOExOa1B1ZnUxM1J2Vy1sVTFYRjlGYXNoUFhqOF9RblZIa0E1Rmc?oc=5",
-        "publishedAt": "2026-10-15T10:05:48.000Z"
+        "time": "10:00",
+        "title": "【切削加工の常識を覆す次世代技術】超臨界CO2発生装置「Pure-Cut」の国内OEM生産を開始｜Infoseekニュース",
+        "source": "Infoseek",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1qaFR5bUJic2F6TGttNV8wNXJXWmdkamFVY3JIRXJwU3JyMXZsb2FNSFplRTRzdmZmdFA3d2ZYejBmZlV4RmFmVmhYeHlNdEVBUnFjTXl4ZmpfMEJHMklBRHFQTVhHbGFLWG5QZTRDQmRrQQ?oc=5",
+        "publishedAt": "2026-10-16T01:00:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -119,13 +119,6 @@
         "publishedAt": "2026-10-15T13:37:32.000Z"
       },
       {
-        "time": "18:23",
-        "title": "サイゼリヤ株 一時14%高の急反発",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598901?source=rss",
-        "publishedAt": "2026-10-15T09:23:02.000Z"
-      },
-      {
         "time": "07:56",
         "title": "「お得感」前面に ローソン好調",
         "source": "Yahoo!ニュース",
@@ -138,6 +131,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598916?source=rss",
         "publishedAt": "2026-10-15T11:29:05.000Z"
+      },
+      {
+        "time": "14:01",
+        "title": "テスラ新型車 空中旋回を実演",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598984?source=rss",
+        "publishedAt": "2026-10-16T05:01:53.000Z"
       },
       {
         "time": "09:05",
@@ -222,6 +222,13 @@
         "source": "補助金ポータル",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Idm5vYjJtajVIYjhheTZVVTVQTXRXMndVNkRmWnVEZnZyNVRRV3ZncXZhREsxNXBqYXFZSlZmNHhLeHhkbUNRcXljRlJNWVh2ZmZrSXlsVVJsdGI5RGtBdmoxUGx1YlozMUE?oc=5",
         "publishedAt": "2026-09-30T07:00:00.000Z"
+      },
+      {
+        "time": "13:00",
+        "title": "クラウドシエン、サービスを全面リニューアル。累計補助金採択額300億円を突破、企業の挑戦を支える支援メニューを大幅拡充",
+        "source": "産経ニュース",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBBOGhxNjJ5Zl96TXY3a3lab09MNWVlemt0TEpVQ1pQWGI4U3NORXpRZjN1OEtvNFcxakFlY0g4NWJTMHRKRzRYa09FNDZqajJtT1BwTExGUEd0VElsVXRjR19FYzV0X3o0V180T0VIT0N1MzMwSHdiQWZpOA?oc=5",
+        "publishedAt": "2026-10-16T04:00:00.000Z"
       }
     ]
   }
