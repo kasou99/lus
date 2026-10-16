@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-16T11:39:40.336Z",
+  "updatedAt": "2026-10-16T12:26:44.856Z",
   "items": [
     {
-      "time": "17:58",
-      "title": "簗前農相 運動員への支払い指示か",
+      "time": "20:50",
+      "title": "自公再連立巡り 斉藤元代表が含み",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599011?source=rss",
-      "publishedAt": "2026-10-16T08:58:39.000Z",
-      "xQuery": "簗前農相 運動員への支払い指示か"
+      "url": "https://news.yahoo.co.jp/pickup/6599028?source=rss",
+      "publishedAt": "2026-10-16T11:50:10.000Z",
+      "xQuery": "自公再連立巡り 斉藤元代表が含み"
     },
     {
       "time": "18:42",
