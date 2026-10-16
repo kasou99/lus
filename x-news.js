@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-16T00:44:29.732Z",
+  "updatedAt": "2026-10-16T01:23:58.618Z",
   "items": [
     {
       "time": "09:23",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "匿流スマホ 遠隔解析で被害防止へ"
     },
     {
-      "time": "08:12",
-      "title": "小学校銃撃で子ら4人死亡 米報道",
+      "time": "08:57",
+      "title": "フーシ イエメンの大統領宮殿攻撃",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598946?source=rss",
-      "publishedAt": "2026-10-15T23:12:00.000Z",
-      "xQuery": "小学校銃撃で子ら4人死亡 米報道"
+      "url": "https://news.yahoo.co.jp/pickup/6598950?source=rss",
+      "publishedAt": "2026-10-15T23:57:52.000Z",
+      "xQuery": "フーシ イエメンの大統領宮殿攻撃"
     },
     {
       "time": "09:23",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "2児殺害 母「状況覚えていない」"
     },
     {
-      "time": "08:27",
-      "title": "男性市議からセクハラ 申し立て",
+      "time": "10:06",
+      "title": "看護師撮影の動画流出 なぜX拡散",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598948?source=rss",
-      "publishedAt": "2026-10-15T23:27:43.000Z",
-      "xQuery": "男性市議からセクハラ 申し立て"
+      "url": "https://news.yahoo.co.jp/pickup/6598956?source=rss",
+      "publishedAt": "2026-10-16T01:06:45.000Z",
+      "xQuery": "看護師撮影の動画流出 なぜX拡散"
     }
   ]
 };

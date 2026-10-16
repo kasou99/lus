@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T00:44:28.451Z",
+  "updatedAt": "2026-10-16T01:23:57.904Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -45,34 +45,34 @@
         "publishedAt": "2026-10-15T04:00:00.000Z"
       },
       {
-        "time": "04:48",
-        "title": "「2026年度グッドデザイン賞」を受賞",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE84WTI0RktfUDVSWWxrcWhJbDFjaFEtaWU0bEozN0t5Z1BnNFJFX29mbzVzLVd4UjJjWkNEdHhHWnBkNXdZdHNGM2Mwb2taaER6T0JlSUlBT2N6M2xydHFjRzdlUVd2N2hZUXVBUTVkSE1sWklXbWprelNBYw?oc=5",
-        "publishedAt": "2026-10-15T19:48:36.000Z"
-      },
-      {
         "time": "14:34",
         "title": "中国：工作機械産業、25年売上高1.6兆元超",
         "source": "亜州ビジネス中国",
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1Tc3NiajRuRDNxLXB6Ym1zUkw2MENuTWx3SHpRR2tQSUNZNFVaNURFOWFFQXpESkZQTl92b2t0RUE5aGtTejI5TkR4VlV5TmtKeVhManlvYzEtYnVVMWhKRkkwbFRVeGE3?oc=5",
         "publishedAt": "2026-10-15T05:34:00.000Z"
+      },
+      {
+        "time": "04:48",
+        "title": "「2026年度グッドデザイン賞」を受賞",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE84WTI0RktfUDVSWWxrcWhJbDFjaFEtaWU0bEozN0t5Z1BnNFJFX29mbzVzLVd4UjJjWkNEdHhHWnBkNXdZdHNGM2Mwb2taaER6T0JlSUlBT2N6M2xydHFjRzdlUVd2N2hZUXVBUTVkSE1sWklXbWprelNBYw?oc=5",
+        "publishedAt": "2026-10-15T19:48:36.000Z"
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "09:51",
+        "title": "記者拘束で日本抗議 露大使館拒否",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598955?source=rss",
+        "publishedAt": "2026-10-16T00:51:18.000Z"
+      },
       {
         "time": "11:47",
         "title": "北朝鮮 14日に潜水艦巡航ミサイル",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598841?source=rss",
         "publishedAt": "2026-10-15T02:47:27.000Z"
-      },
-      {
-        "time": "11:25",
-        "title": "邦人記者拘束 露の狙いを識者指摘",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598834?source=rss",
-        "publishedAt": "2026-10-15T02:25:47.000Z"
       },
       {
         "time": "08:57",
