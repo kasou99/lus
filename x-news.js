@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-16T11:16:25.060Z",
+  "updatedAt": "2026-10-16T11:39:40.336Z",
   "items": [
     {
       "time": "17:58",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "首相 外食支援で商品券なども検討"
     },
     {
-      "time": "17:20",
-      "title": "緊急地震速報取り消し 各地混乱",
+      "time": "20:24",
+      "title": "簗氏巡り 自民鶴保氏が首相に苦言",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599005?source=rss",
-      "publishedAt": "2026-10-16T08:20:17.000Z",
-      "xQuery": "緊急地震速報取り消し 各地混乱"
+      "url": "https://news.yahoo.co.jp/pickup/6599022?source=rss",
+      "publishedAt": "2026-10-16T11:24:05.000Z",
+      "xQuery": "簗氏巡り 自民鶴保氏が首相に苦言"
     },
     {
       "time": "18:46",
