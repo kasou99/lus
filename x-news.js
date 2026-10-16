@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-16T07:21:47.918Z",
+  "updatedAt": "2026-10-16T07:43:36.234Z",
   "items": [
     {
       "time": "15:58",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "インフル感染 前年同時期比5倍超"
     },
     {
-      "time": "14:36",
-      "title": "気象庁 サイバー攻撃の可能性ない",
+      "time": "15:13",
+      "title": "猪苗代湖3人死傷 最高裁逆転有罪",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598988?source=rss",
-      "publishedAt": "2026-10-16T05:36:29.000Z",
-      "xQuery": "気象庁 サイバー攻撃の可能性ない"
+      "url": "https://news.yahoo.co.jp/pickup/6598989?source=rss",
+      "publishedAt": "2026-10-16T06:13:49.000Z",
+      "xQuery": "猪苗代湖3人死傷 最高裁逆転有罪"
     },
     {
       "time": "13:45",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "気象庁 M6.9をM9.9と過大に予測"
     },
     {
-      "time": "15:13",
-      "title": "猪苗代湖3人死傷 最高裁逆転有罪",
+      "time": "16:18",
+      "title": "王将事件で無罪判決 被告コメント",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598989?source=rss",
-      "publishedAt": "2026-10-16T06:13:49.000Z",
-      "xQuery": "猪苗代湖3人死傷 最高裁逆転有罪"
+      "url": "https://news.yahoo.co.jp/pickup/6598994?source=rss",
+      "publishedAt": "2026-10-16T07:18:31.000Z",
+      "xQuery": "王将事件で無罪判決 被告コメント"
     },
     {
-      "time": "13:35",
-      "title": "王将社長射殺事件 男に無罪判決",
+      "time": "14:40",
+      "title": "ヤマト運輸 個人情報530万件流出",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598982?source=rss",
-      "publishedAt": "2026-10-16T04:35:54.000Z",
-      "xQuery": "王将社長射殺事件 男に無罪判決"
+      "url": "https://news.yahoo.co.jp/pickup/6598987?source=rss",
+      "publishedAt": "2026-10-16T05:40:39.000Z",
+      "xQuery": "ヤマト運輸 個人情報530万件流出"
     }
   ]
 };

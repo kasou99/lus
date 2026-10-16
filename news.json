@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T07:21:47.127Z",
+  "updatedAt": "2026-10-16T07:43:35.433Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,13 +31,6 @@
         "publishedAt": "2026-10-16T04:00:02.000Z"
       },
       {
-        "time": "20:23",
-        "title": "福山のホーコス、工作機械2機種開発 自動車業界以外へ展開強化",
-        "source": "中国新聞デジタル",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0wLVVxdlRJTERJN0o5aHFHVlVwcEJsMWk3ZEUya2JZUlk0VDJ2bEtVQk1jVnpYQzZ4elQ4WXp2QnlDa0Vqa3VSd09Ud0lKeG9RcjF4ajJPNmtuUQ?oc=5",
-        "publishedAt": "2026-10-15T11:23:47.000Z"
-      },
-      {
         "time": "05:00",
         "title": "日工会野球大会、6チームが熱戦",
         "source": "日刊工業新聞",
@@ -45,11 +38,11 @@
         "publishedAt": "2026-10-15T20:00:00.000Z"
       },
       {
-        "time": "00:00",
-        "title": "工作機械の程泰の中国工場、英制裁対象に",
-        "source": "NNAアジア",
-        "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1jdDVpNWk2VllzSVBvMERZRjBsYU5VMkNFT2k3Y1lQeTVfRUVnUXhoLWZyLVhBd3MzcXdvbWczRTNybk1McFE?oc=5",
-        "publishedAt": "2026-10-15T15:00:00.000Z"
+        "time": "20:23",
+        "title": "福山のホーコス、工作機械2機種開発 自動車業界以外へ展開強化",
+        "source": "中国新聞デジタル",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0wLVVxdlRJTERJN0o5aHFHVlVwcEJsMWk3ZEUya2JZUlk0VDJ2bEtVQk1jVnpYQzZ4elQ4WXp2QnlDa0Vqa3VSd09Ud0lKeG9RcjF4ajJPNmtuUQ?oc=5",
+        "publishedAt": "2026-10-15T11:23:47.000Z"
       },
       {
         "time": "11:48",
@@ -57,6 +50,13 @@
         "source": "ニコニコニュース",
         "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9VWFpaUWdPNG9fY2VjLVhwN2IwcGkxaFQ1OGtJUWQwVXJ6TWQ0MC1RT0ItTjZEYUhXSF9RSDhOSHEyNTl4Z1NZcUhaY0FRVmtJZGhqbVVHOWRodUkzTUlnQnQzN2g3ZTdoWlV6RkhHanJJd3ZUU2QtTTM1OA?oc=5",
         "publishedAt": "2026-10-16T02:48:17.000Z"
+      },
+      {
+        "time": "00:00",
+        "title": "工作機械の程泰の中国工場、英制裁対象に",
+        "source": "NNAアジア",
+        "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1jdDVpNWk2VllzSVBvMERZRjBsYU5VMkNFT2k3Y1lQeTVfRUVnUXhoLWZyLVhBd3MzcXdvbWczRTNybk1McFE?oc=5",
+        "publishedAt": "2026-10-15T15:00:00.000Z"
       }
     ],
     "worldHeadlines": [
