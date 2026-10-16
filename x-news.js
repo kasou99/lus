@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-16T14:42:38.261Z",
+  "updatedAt": "2026-10-16T15:15:43.053Z",
   "items": [
     {
       "time": "20:50",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "緊急地震速報取り消し 2つの要因"
     },
     {
+      "time": "21:53",
+      "title": "流出個人情報を売買 闇サイト実態",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599033?source=rss",
+      "publishedAt": "2026-10-16T12:53:16.000Z",
+      "xQuery": "流出個人情報を売買 闇サイト実態"
+    },
+    {
       "time": "23:34",
       "title": "猪苗代湖事故 判決受け両親が心境",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6599047?source=rss",
       "publishedAt": "2026-10-16T14:34:32.000Z",
       "xQuery": "猪苗代湖事故 判決受け両親が心境"
-    },
-    {
-      "time": "23:05",
-      "title": "記者拘束 露国民との交換狙いか",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599046?source=rss",
-      "publishedAt": "2026-10-16T14:05:39.000Z",
-      "xQuery": "記者拘束 露国民との交換狙いか"
     },
     {
       "time": "22:04",
