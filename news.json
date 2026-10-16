@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T18:20:12.958Z",
+  "updatedAt": "2026-10-16T18:44:35.631Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,18 +17,18 @@
         "publishedAt": "2026-10-16T05:06:12.000Z"
       },
       {
-        "time": "15:35",
-        "title": "ヤマザキマザックとABEJA、工作機械にフィジカルAI実装へ共同開発",
-        "source": "BigGo ファイナンス",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBWTVRMSlBQQnJ2c253d0VQcWQ2ME5sQkY0S3V0akhkN1gtaTRxT285dDUwaWtVMFJBM1QyWF9QRlVUWmNmOTkwWkJkaExkeFp3UFB3dlJRaUhIUUhJTEZQUEZFMy16d0lBVERRSmltU21zbzdM?oc=5",
-        "publishedAt": "2026-10-16T06:35:00.000Z"
-      },
-      {
         "time": "13:59",
         "title": "ヤマザキマザック、ABEJAと業務連携 工作機械にフィジカルAI実装",
         "source": "日本経済新聞",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9sWFhpSW93OXBDa2hDN2dtRXB6RVE1d2hha3JWZUlsWHMwWG9DNDFERFNfMEt2VDBRRzNybU14WTdQaVZxTTlUbHRTdkl0NkpnLVdJaUMxS3NzemZuWG5VdGZKNVh4SEs0QXVQMQ?oc=5",
         "publishedAt": "2026-10-16T04:59:02.000Z"
+      },
+      {
+        "time": "15:35",
+        "title": "ヤマザキマザックとABEJA、工作機械にフィジカルAI実装へ共同開発",
+        "source": "BigGo ファイナンス",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBWTVRMSlBQQnJ2c253d0VQcWQ2ME5sQkY0S3V0akhkN1gtaTRxT285dDUwaWtVMFJBM1QyWF9QRlVUWmNmOTkwWkJkaExkeFp3UFB3dlJRaUhIUUhJTEZQUEZFMy16d0lBVERRSmltU21zbzdM?oc=5",
+        "publishedAt": "2026-10-16T06:35:00.000Z"
       },
       {
         "time": "13:00",
