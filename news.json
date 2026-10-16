@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T19:38:06.292Z",
+  "updatedAt": "2026-10-16T20:16:20.770Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,18 +38,18 @@
         "publishedAt": "2026-10-16T04:00:02.000Z"
       },
       {
+        "time": "14:27",
+        "title": "ABEJAとヤマザキマザック、製造現場のフィジカルAI実装へ業務連携 共同開発を開始",
+        "source": "ビジネス+IT",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5CbC1YMWMtbXRsemVMMVlaTE0wLXZzYjNvUFJGQnMxa0J0TkxqRDdnR01jbFFrUEJaTlJMVjFQcXU5SUFNRGdXS1g2MVRUcmlDQTZJ?oc=5",
+        "publishedAt": "2026-10-16T05:27:00.000Z"
+      },
+      {
         "time": "09:57",
         "title": "工作機械選定のAI検索実測調査、回答根拠の約6割が比較メディア TechSuite調べ",
         "source": "Dellows News",
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBibXV0UFZNNHR5RWdNVHVoRVBrZmNPMEd4a3pzRERPYnRQNTh5X2laRkVLbUhXZkh1TUJEQXdDR0JJdUVPYjhRQnAwWVpoNmNwakdvRVVyUGd3WkVrQnV6REFQZURmOGZs?oc=5",
         "publishedAt": "2026-10-16T00:57:58.000Z"
-      },
-      {
-        "time": "05:00",
-        "title": "日工会野球大会、6チームが熱戦",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9JMWM2YVNTZExEUUhVOXRFRmFWamhwSE5hZ3ZtNEtvTVR3UWRDdkVJY1lVNVBWNmZKbE9YXzgzQjJmLWRTOXVTY0RfbWxaSWRmUGo2RVI4X2s?oc=5",
-        "publishedAt": "2026-10-15T20:00:00.000Z"
       },
       {
         "time": "11:48",
