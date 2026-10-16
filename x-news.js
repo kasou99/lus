@@ -1,21 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-16T02:45:39.312Z",
+  "updatedAt": "2026-10-16T03:20:50.935Z",
   "items": [
     {
-      "time": "11:06",
-      "title": "全国初 罰則付きカスハラ条例可決",
+      "time": "09:51",
+      "title": "記者拘束で日本抗議 露大使館拒否",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598960?source=rss",
-      "publishedAt": "2026-10-16T02:06:14.000Z",
-      "xQuery": "全国初 罰則付きカスハラ条例可決"
-    },
-    {
-      "time": "08:57",
-      "title": "フーシ イエメンの大統領宮殿攻撃",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598950?source=rss",
-      "publishedAt": "2026-10-15T23:57:52.000Z",
-      "xQuery": "フーシ イエメンの大統領宮殿攻撃"
+      "url": "https://news.yahoo.co.jp/pickup/6598955?source=rss",
+      "publishedAt": "2026-10-16T00:51:18.000Z",
+      "xQuery": "記者拘束で日本抗議 露大使館拒否"
     },
     {
       "time": "11:13",
@@ -26,20 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "米小学校で銃撃 16歳の容疑者死亡"
     },
     {
+      "time": "12:06",
+      "title": "マスク氏 ウ大統領に退陣呼びかけ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6598972?source=rss",
+      "publishedAt": "2026-10-16T03:06:21.000Z",
+      "xQuery": "マスク氏 ウ大統領に退陣呼びかけ"
+    },
+    {
+      "time": "11:45",
+      "title": "チョコザップ機器で事故 運営謝罪",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6598964?source=rss",
+      "publishedAt": "2026-10-16T02:45:12.000Z",
+      "xQuery": "チョコザップ機器で事故 運営謝罪"
+    },
+    {
       "time": "11:37",
       "title": "帝国ホテル 不適切な展示巡り謝罪",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6598963?source=rss",
       "publishedAt": "2026-10-16T02:37:32.000Z",
       "xQuery": "帝国ホテル 不適切な展示巡り謝罪"
-    },
-    {
-      "time": "10:06",
-      "title": "看護師撮影の動画流出 なぜX拡散",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598956?source=rss",
-      "publishedAt": "2026-10-16T01:06:45.000Z",
-      "xQuery": "看護師撮影の動画流出 なぜX拡散"
     }
   ]
 };
