@@ -1,14 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-16T22:15:31.153Z",
+  "updatedAt": "2026-10-16T22:38:23.697Z",
   "items": [
-    {
-      "time": "20:50",
-      "title": "自公再連立巡り 斉藤元代表が含み",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599028?source=rss",
-      "publishedAt": "2026-10-16T11:50:10.000Z",
-      "xQuery": "自公再連立巡り 斉藤元代表が含み"
-    },
     {
       "time": "22:54",
       "title": "緊急地震速報取り消し 2つの要因",
@@ -18,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "緊急地震速報取り消し 2つの要因"
     },
     {
-      "time": "23:34",
-      "title": "猪苗代湖事故 判決受け両親が心境",
+      "time": "07:35",
+      "title": "米大統領報道官 わずか5日で解任",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599047?source=rss",
-      "publishedAt": "2026-10-16T14:34:32.000Z",
-      "xQuery": "猪苗代湖事故 判決受け両親が心境"
+      "url": "https://news.yahoo.co.jp/pickup/6599054?source=rss",
+      "publishedAt": "2026-10-16T22:35:11.000Z",
+      "xQuery": "米大統領報道官 わずか5日で解任"
     },
     {
       "time": "21:53",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "流出個人情報を売買 闇サイト実態"
     },
     {
-      "time": "22:04",
-      "title": "ショップサーブの流出 2335万人分",
+      "time": "07:20",
+      "title": "荷物用エレベーターに挟まれ死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599039?source=rss",
-      "publishedAt": "2026-10-16T13:04:45.000Z",
-      "xQuery": "ショップサーブの流出 2335万人分"
+      "url": "https://news.yahoo.co.jp/pickup/6599053?source=rss",
+      "publishedAt": "2026-10-16T22:20:23.000Z",
+      "xQuery": "荷物用エレベーターに挟まれ死亡"
+    },
+    {
+      "time": "00:17",
+      "title": "テスラ新型車 空を飛び宙返り実演",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599049?source=rss",
+      "publishedAt": "2026-10-16T15:17:22.000Z",
+      "xQuery": "テスラ新型車 空を飛び宙返り実演"
     }
   ]
 };
