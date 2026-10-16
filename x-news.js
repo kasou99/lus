@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-16T13:17:12.753Z",
+  "updatedAt": "2026-10-16T13:41:55.586Z",
   "items": [
     {
       "time": "20:50",
@@ -10,20 +10,28 @@ window.LUS_X_NEWS = {
       "xQuery": "自公再連立巡り 斉藤元代表が含み"
     },
     {
-      "time": "20:24",
-      "title": "簗氏巡り 自民鶴保氏が首相に苦言",
+      "time": "18:27",
+      "title": "生活文化分野で人間国宝 初認定へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599022?source=rss",
-      "publishedAt": "2026-10-16T11:24:05.000Z",
-      "xQuery": "簗氏巡り 自民鶴保氏が首相に苦言"
+      "url": "https://news.yahoo.co.jp/pickup/6599014?source=rss",
+      "publishedAt": "2026-10-16T09:27:31.000Z",
+      "xQuery": "生活文化分野で人間国宝 初認定へ"
     },
     {
-      "time": "19:27",
-      "title": "緊急地震速報 ドコモで配信されず",
+      "time": "22:20",
+      "title": "ニデック 永守氏らへの訴訟を検討",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599019?source=rss",
-      "publishedAt": "2026-10-16T10:27:32.000Z",
-      "xQuery": "緊急地震速報 ドコモで配信されず"
+      "url": "https://news.yahoo.co.jp/pickup/6599040?source=rss",
+      "publishedAt": "2026-10-16T13:20:06.000Z",
+      "xQuery": "ニデック 永守氏らへの訴訟を検討"
+    },
+    {
+      "time": "21:27",
+      "title": "ガスト・サイゼ・ロイホ 戦略比較",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599029?source=rss",
+      "publishedAt": "2026-10-16T12:27:10.000Z",
+      "xQuery": "ガスト・サイゼ・ロイホ 戦略比較"
     },
     {
       "time": "22:04",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6599039?source=rss",
       "publishedAt": "2026-10-16T13:04:45.000Z",
       "xQuery": "ショップサーブの流出 2335万人分"
-    },
-    {
-      "time": "21:37",
-      "title": "日本郵便のメアドから迷惑メール",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599037?source=rss",
-      "publishedAt": "2026-10-16T12:37:09.000Z",
-      "xQuery": "日本郵便のメアドから迷惑メール"
     }
   ]
 };
