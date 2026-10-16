@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T04:20:05.883Z",
+  "updatedAt": "2026-10-16T04:43:51.937Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "13:35",
+        "title": "王将社長射殺事件 男に無罪判決",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598982?source=rss",
+        "publishedAt": "2026-10-16T04:35:54.000Z"
+      },
+      {
         "time": "11:06",
         "title": "全国初 罰則付きカスハラ条例可決",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598966?source=rss",
         "publishedAt": "2026-10-16T03:03:18.000Z"
-      },
-      {
-        "time": "07:32",
-        "title": "八王子にクマ なぜ駆除まで2h超",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598943?source=rss",
-        "publishedAt": "2026-10-15T22:32:55.000Z"
       }
     ],
     "subsidyHeadlines": [

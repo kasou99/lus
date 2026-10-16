@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-16T04:20:06.471Z",
+  "updatedAt": "2026-10-16T04:43:52.531Z",
   "items": [
     {
       "time": "12:53",
@@ -10,12 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "緊急地震速報を取り消し 気象庁"
     },
     {
-      "time": "09:51",
-      "title": "記者拘束で日本抗議 露大使館拒否",
+      "time": "13:24",
+      "title": "気象庁 速報対象地震ではなかった",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598955?source=rss",
-      "publishedAt": "2026-10-16T00:51:18.000Z",
-      "xQuery": "記者拘束で日本抗議 露大使館拒否"
+      "url": "https://news.yahoo.co.jp/pickup/6598980?source=rss",
+      "publishedAt": "2026-10-16T04:24:53.000Z",
+      "xQuery": "気象庁 速報対象地震ではなかった"
+    },
+    {
+      "time": "13:35",
+      "title": "王将社長射殺事件 男に無罪判決",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6598982?source=rss",
+      "publishedAt": "2026-10-16T04:35:54.000Z",
+      "xQuery": "王将社長射殺事件 男に無罪判決"
     },
     {
       "time": "12:06",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6598976?source=rss",
       "publishedAt": "2026-10-16T03:26:08.000Z",
       "xQuery": "道頓堀川に男性投げ入れ疑い 逮捕"
-    },
-    {
-      "time": "11:45",
-      "title": "チョコザップ機器で事故 運営謝罪",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598964?source=rss",
-      "publishedAt": "2026-10-16T02:45:12.000Z",
-      "xQuery": "チョコザップ機器で事故 運営謝罪"
     }
   ]
 };
