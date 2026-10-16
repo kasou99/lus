@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T15:15:42.119Z",
+  "updatedAt": "2026-10-16T15:39:24.793Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,13 +17,6 @@
         "publishedAt": "2026-10-16T05:06:12.000Z"
       },
       {
-        "time": "15:35",
-        "title": "ヤマザキマザックとABEJA、工作機械にフィジカルAI実装へ共同開発",
-        "source": "BigGo ファイナンス",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBWTVRMSlBQQnJ2c253d0VQcWQ2ME5sQkY0S3V0akhkN1gtaTRxT285dDUwaWtVMFJBM1QyWF9QRlVUWmNmOTkwWkJkaExkeFp3UFB3dlJRaUhIUUhJTEZQUEZFMy16d0lBVERRSmltU21zbzdM?oc=5",
-        "publishedAt": "2026-10-16T06:35:00.000Z"
-      },
-      {
         "time": "13:59",
         "title": "ヤマザキマザック、ABEJAと業務連携 工作機械にフィジカルAI実装",
         "source": "日本経済新聞",
@@ -38,6 +31,13 @@
         "publishedAt": "2026-10-16T02:01:05.000Z"
       },
       {
+        "time": "15:35",
+        "title": "ヤマザキマザックとABEJA、工作機械にフィジカルAI実装へ共同開発",
+        "source": "BigGo ファイナンス",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBWTVRMSlBQQnJ2c253d0VQcWQ2ME5sQkY0S3V0akhkN1gtaTRxT285dDUwaWtVMFJBM1QyWF9QRlVUWmNmOTkwWkJkaExkeFp3UFB3dlJRaUhIUUhJTEZQUEZFMy16d0lBVERRSmltU21zbzdM?oc=5",
+        "publishedAt": "2026-10-16T06:35:00.000Z"
+      },
+      {
         "time": "13:00",
         "title": "「JIMTOF2026 第33回日本国際工作機械見本市」出展のご案内",
         "source": "PR TIMES",
@@ -45,18 +45,18 @@
         "publishedAt": "2026-10-16T04:00:02.000Z"
       },
       {
+        "time": "05:00",
+        "title": "日工会野球大会、6チームが熱戦",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9JMWM2YVNTZExEUUhVOXRFRmFWamhwSE5hZ3ZtNEtvTVR3UWRDdkVJY1lVNVBWNmZKbE9YXzgzQjJmLWRTOXVTY0RfbWxaSWRmUGo2RVI4X2s?oc=5",
+        "publishedAt": "2026-10-15T20:00:00.000Z"
+      },
+      {
         "time": "09:57",
         "title": "工作機械選定のAI検索実測調査、回答根拠の約6割が比較メディア TechSuite調べ",
         "source": "Dellows News",
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBibXV0UFZNNHR5RWdNVHVoRVBrZmNPMEd4a3pzRERPYnRQNTh5X2laRkVLbUhXZkh1TUJEQXdDR0JJdUVPYjhRQnAwWVpoNmNwakdvRVVyUGd3WkVrQnV6REFQZURmOGZs?oc=5",
         "publishedAt": "2026-10-16T00:57:58.000Z"
-      },
-      {
-        "time": "10:00",
-        "title": "【切削加工の常識を覆す次世代技術】超臨界CO2発生装置「Pure-Cut」の国内OEM生産を開始｜Infoseekニュース",
-        "source": "Infoseek",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1qaFR5bUJic2F6TGttNV8wNXJXWmdkamFVY3JIRXJwU3JyMXZsb2FNSFplRTRzdmZmdFA3d2ZYejBmZlV4RmFmVmhYeHlNdEVBUnFjTXl4ZmpfMEJHMklBRHFQTVhHbGFLWG5QZTRDQmRrQQ?oc=5",
-        "publishedAt": "2026-10-16T01:00:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -133,11 +133,11 @@
         "publishedAt": "2026-10-16T09:46:20.000Z"
       },
       {
-        "time": "14:01",
-        "title": "テスラ新型車 空中旋回を実演",
+        "time": "00:17",
+        "title": "テスラ新型車 空を飛び宙返り実演",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598984?source=rss",
-        "publishedAt": "2026-10-16T05:01:53.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6599049?source=rss",
+        "publishedAt": "2026-10-16T15:17:22.000Z"
       },
       {
         "time": "09:05",
