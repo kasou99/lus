@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T14:18:33.294Z",
+  "updatedAt": "2026-10-16T14:42:37.658Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -45,18 +45,18 @@
         "publishedAt": "2026-10-16T04:00:02.000Z"
       },
       {
-        "time": "05:00",
-        "title": "日工会野球大会、6チームが熱戦",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9JMWM2YVNTZExEUUhVOXRFRmFWamhwSE5hZ3ZtNEtvTVR3UWRDdkVJY1lVNVBWNmZKbE9YXzgzQjJmLWRTOXVTY0RfbWxaSWRmUGo2RVI4X2s?oc=5",
-        "publishedAt": "2026-10-15T20:00:00.000Z"
-      },
-      {
         "time": "00:00",
         "title": "工作機械の程泰の中国工場、英制裁対象に",
         "source": "NNAアジア",
         "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1jdDVpNWk2VllzSVBvMERZRjBsYU5VMkNFT2k3Y1lQeTVfRUVnUXhoLWZyLVhBd3MzcXdvbWczRTNybk1McFE?oc=5",
         "publishedAt": "2026-10-15T15:00:00.000Z"
+      },
+      {
+        "time": "10:00",
+        "title": "【切削加工の常識を覆す次世代技術】超臨界CO2発生装置「Pure-Cut」の国内OEM生産を開始｜Infoseekニュース",
+        "source": "Infoseek",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1qaFR5bUJic2F6TGttNV8wNXJXWmdkamFVY3JIRXJwU3JyMXZsb2FNSFplRTRzdmZmdFA3d2ZYejBmZlV4RmFmVmhYeHlNdEVBUnFjTXl4ZmpfMEJHMklBRHFQTVhHbGFLWG5QZTRDQmRrQQ?oc=5",
+        "publishedAt": "2026-10-16T01:00:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -149,6 +149,20 @@
     ],
     "localHeadlines": [
       {
+        "time": "23:34",
+        "title": "猪苗代湖事故 判決受け両親が心境",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6599047?source=rss",
+        "publishedAt": "2026-10-16T14:34:32.000Z"
+      },
+      {
+        "time": "15:13",
+        "title": "猪苗代湖3人死傷 最高裁逆転有罪",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598989?source=rss",
+        "publishedAt": "2026-10-16T06:13:49.000Z"
+      },
+      {
         "time": "16:18",
         "title": "王将事件で無罪判決 被告コメント",
         "source": "Yahoo!ニュース",
@@ -168,20 +182,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6599012?source=rss",
         "publishedAt": "2026-10-16T08:51:33.000Z"
-      },
-      {
-        "time": "15:13",
-        "title": "猪苗代湖3人死傷 最高裁逆転有罪",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598989?source=rss",
-        "publishedAt": "2026-10-16T06:13:49.000Z"
-      },
-      {
-        "time": "18:08",
-        "title": "印旛沼の堤防 緊急復旧が完了",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599013?source=rss",
-        "publishedAt": "2026-10-16T09:08:45.000Z"
       },
       {
         "time": "14:46",

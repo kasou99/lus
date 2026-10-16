@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-16T14:18:34.073Z",
+  "updatedAt": "2026-10-16T14:42:38.261Z",
   "items": [
     {
       "time": "20:50",
@@ -10,14 +10,6 @@ window.LUS_X_NEWS = {
       "xQuery": "自公再連立巡り 斉藤元代表が含み"
     },
     {
-      "time": "18:27",
-      "title": "生活文化分野で人間国宝 初認定へ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599014?source=rss",
-      "publishedAt": "2026-10-16T09:27:31.000Z",
-      "xQuery": "生活文化分野で人間国宝 初認定へ"
-    },
-    {
       "time": "22:54",
       "title": "緊急地震速報取り消し 2つの要因",
       "source": "Yahoo!ニュース",
@@ -26,12 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "緊急地震速報取り消し 2つの要因"
     },
     {
-      "time": "22:20",
-      "title": "ニデック 永守氏らへの訴訟を検討",
+      "time": "23:34",
+      "title": "猪苗代湖事故 判決受け両親が心境",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599040?source=rss",
-      "publishedAt": "2026-10-16T13:20:06.000Z",
-      "xQuery": "ニデック 永守氏らへの訴訟を検討"
+      "url": "https://news.yahoo.co.jp/pickup/6599047?source=rss",
+      "publishedAt": "2026-10-16T14:34:32.000Z",
+      "xQuery": "猪苗代湖事故 判決受け両親が心境"
+    },
+    {
+      "time": "23:05",
+      "title": "記者拘束 露国民との交換狙いか",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599046?source=rss",
+      "publishedAt": "2026-10-16T14:05:39.000Z",
+      "xQuery": "記者拘束 露国民との交換狙いか"
     },
     {
       "time": "22:04",
