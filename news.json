@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T23:13:48.318Z",
+  "updatedAt": "2026-10-16T23:36:57.939Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,6 +31,13 @@
         "publishedAt": "2026-10-16T06:35:00.000Z"
       },
       {
+        "time": "06:26",
+        "title": "【JIMTOF2026】10月26日～31日、東京ビッグサイトで開催。22カ国・地域から1,134社、工作機械の最新技術が集結/出展社情報もお伝えします",
+        "source": "MICE TIMES ONLINE",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE54X3AxMW9OVlBQU0pMMTA2YTZrby1nOGJPNE9pRzJqdWhzMHdkY1VISEtNdGlCSWRwSHF4cmVrd2otZXFEcjdHcQ?oc=5",
+        "publishedAt": "2026-10-16T21:26:19.000Z"
+      },
+      {
         "time": "13:00",
         "title": "「JIMTOF2026 第33回日本国際工作機械見本市」出展のご案内",
         "source": "PR TIMES",
@@ -50,13 +57,6 @@
         "source": "ニコニコニュース",
         "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9VWFpaUWdPNG9fY2VjLVhwN2IwcGkxaFQ1OGtJUWQwVXJ6TWQ0MC1RT0ItTjZEYUhXSF9RSDhOSHEyNTl4Z1NZcUhaY0FRVmtJZGhqbVVHOWRodUkzTUlnQnQzN2g3ZTdoWlV6RkhHanJJd3ZUU2QtTTM1OA?oc=5",
         "publishedAt": "2026-10-16T02:48:17.000Z"
-      },
-      {
-        "time": "10:00",
-        "title": "【切削加工の常識を覆す次世代技術】超臨界CO2発生装置「Pure-Cut」の国内OEM生産を開始｜Infoseekニュース",
-        "source": "Infoseek",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1qaFR5bUJic2F6TGttNV8wNXJXWmdkamFVY3JIRXJwU3JyMXZsb2FNSFplRTRzdmZmdFA3d2ZYejBmZlV4RmFmVmhYeHlNdEVBUnFjTXl4ZmpfMEJHMklBRHFQTVhHbGFLWG5QZTRDQmRrQQ?oc=5",
-        "publishedAt": "2026-10-16T01:00:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -215,13 +215,6 @@
         "title": "中小企業省力化投資補助金の公募・採択情報を確認",
         "source": "中小機構",
         "url": "https://seisansei.smrj.go.jp/subsidy_info/laborsaving_subsidy.html"
-      },
-      {
-        "time": "16:00",
-        "title": "【2026年最新】中小企業向け補助金6制度まとめ｜締切・補助率・上限額一覧",
-        "source": "補助金ポータル",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Idm5vYjJtajVIYjhheTZVVTVQTXRXMndVNkRmWnVEZnZyNVRRV3ZncXZhREsxNXBqYXFZSlZmNHhLeHhkbUNRcXljRlJNWVh2ZmZrSXlsVVJsdGI5RGtBdmoxUGx1YlozMUE?oc=5",
-        "publishedAt": "2026-09-30T07:00:00.000Z"
       }
     ]
   }
