@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-16T01:48:12.074Z",
+  "updatedAt": "2026-10-16T02:23:46.887Z",
   "items": [
     {
-      "time": "09:23",
-      "title": "匿流スマホ 遠隔解析で被害防止へ",
+      "time": "11:06",
+      "title": "全国初 罰則付きカスハラ条例可決",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598953?source=rss",
-      "publishedAt": "2026-10-16T00:23:54.000Z",
-      "xQuery": "匿流スマホ 遠隔解析で被害防止へ"
+      "url": "https://news.yahoo.co.jp/pickup/6598960?source=rss",
+      "publishedAt": "2026-10-16T02:06:14.000Z",
+      "xQuery": "全国初 罰則付きカスハラ条例可決"
     },
     {
       "time": "08:57",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "フーシ イエメンの大統領宮殿攻撃"
     },
     {
+      "time": "11:13",
+      "title": "米小学校で銃撃 16歳の容疑者死亡",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6598962?source=rss",
+      "publishedAt": "2026-10-16T02:13:11.000Z",
+      "xQuery": "米小学校で銃撃 16歳の容疑者死亡"
+    },
+    {
       "time": "09:23",
       "title": "有罪か無罪か 王将射殺きょう判決",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6598954?source=rss",
       "publishedAt": "2026-10-16T00:23:13.000Z",
       "xQuery": "有罪か無罪か 王将射殺きょう判決"
-    },
-    {
-      "time": "08:56",
-      "title": "2児殺害 母「状況覚えていない」",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598951?source=rss",
-      "publishedAt": "2026-10-15T23:56:00.000Z",
-      "xQuery": "2児殺害 母「状況覚えていない」"
     },
     {
       "time": "10:06",

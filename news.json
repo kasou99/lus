@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T01:48:11.397Z",
+  "updatedAt": "2026-10-16T02:23:46.153Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -8,13 +8,6 @@
         "source": "中国新聞デジタル",
         "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0wLVVxdlRJTERJN0o5aHFHVlVwcEJsMWk3ZEUya2JZUlk0VDJ2bEtVQk1jVnpYQzZ4elQ4WXp2QnlDa0Vqa3VSd09Ud0lKeG9RcjF4ajJPNmtuUQ?oc=5",
         "publishedAt": "2026-10-15T11:23:47.000Z"
-      },
-      {
-        "time": "09:00",
-        "title": "【生産管理とDXのテクノア】が『JIMTOF2026 第33回日本国際工作機械見本市』に出展し、中小製造業様向けの「4つの新ソリューション」を初公開！",
-        "source": "PR TIMES",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBpQmZIT01MeGRqXzRfU0c3NWlCYThGSmxrZW5mNnRlYVhFVVZkWC1tODR0cHR5TGJHN2t4OXFjMFhQbUE0ZnEzem5Ta0puV0taYVJxSjBmUzBIQTR5Z3JESldSc1RXTGNIZEE?oc=5",
-        "publishedAt": "2026-10-16T00:00:02.000Z"
       },
       {
         "time": "00:00",
@@ -38,6 +31,20 @@
         "publishedAt": "2026-10-15T03:22:00.000Z"
       },
       {
+        "time": "10:16",
+        "title": "【生産管理とDXのテクノア】が『JIMTOF2026 第33回日本国際工作機械見本市』に出展し、中小製造業様向けの「4つの新ソリューション」を初公開！",
+        "source": "時事ドットコム",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBNR2hiaEg3UVdSNHZJb1JrRTNIU0wwZW9JaG1kc2s2akFIN1o2SjZHaGxhaE8xeEdVcG5PdHh0SkN3YmRJOU1fU1hhdkxSTVBUUXVHQXhiMV9CSTBNSXAtRXJjSHNYZnZUOFhz?oc=5",
+        "publishedAt": "2026-10-16T01:16:00.000Z"
+      },
+      {
+        "time": "19:05",
+        "title": "徳島県立中央テクノスクール会計年度任用職員（準高度業務・機械技術科指導員）の募集について｜徳島県ホームページ",
+        "source": "徳島県ホームページ",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1kV0QtMEJYVDZlb3hmeU1YbnVNWHVHZkFNMlNYdjVDUHRRcTdNU0lXYXlaSHByQU8xZ1ZWZ1ZlSVlMMUtZOExOa1B1ZnUxM1J2Vy1sVTFYRjlGYXNoUFhqOF9RblZIa0E1Rmc?oc=5",
+        "publishedAt": "2026-10-15T10:05:48.000Z"
+      },
+      {
         "time": "13:00",
         "title": "工具の状態を電流値から可視化、シチズンマシナリーがソフト開発：工作機械",
         "source": "MONOist",
@@ -50,13 +57,6 @@
         "source": "ニコニコニュース",
         "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE84WTI0RktfUDVSWWxrcWhJbDFjaFEtaWU0bEozN0t5Z1BnNFJFX29mbzVzLVd4UjJjWkNEdHhHWnBkNXdZdHNGM2Mwb2taaER6T0JlSUlBT2N6M2xydHFjRzdlUVd2N2hZUXVBUTVkSE1sWklXbWprelNBYw?oc=5",
         "publishedAt": "2026-10-15T19:48:36.000Z"
-      },
-      {
-        "time": "14:34",
-        "title": "中国：工作機械産業、25年売上高1.6兆元超",
-        "source": "亜州ビジネス中国",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1Tc3NiajRuRDNxLXB6Ym1zUkw2MENuTWx3SHpRR2tQSUNZNFVaNURFOWFFQXpESkZQTl92b2t0RUE5aGtTejI5TkR4VlV5TmtKeVhManlvYzEtYnVVMWhKRkkwbFRVeGE3?oc=5",
-        "publishedAt": "2026-10-15T05:34:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -66,6 +66,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598955?source=rss",
         "publishedAt": "2026-10-16T00:51:18.000Z"
+      },
+      {
+        "time": "11:13",
+        "title": "米小学校で銃撃 16歳の容疑者死亡",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598962?source=rss",
+        "publishedAt": "2026-10-16T02:13:11.000Z"
       },
       {
         "time": "11:47",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598936?source=rss",
         "publishedAt": "2026-10-15T21:21:48.000Z"
-      },
-      {
-        "time": "08:12",
-        "title": "小学校銃撃で子ら4人死亡 米報道",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598946?source=rss",
-        "publishedAt": "2026-10-15T23:12:00.000Z"
       }
     ],
     "economyHeadlines": [
@@ -133,21 +133,28 @@
         "publishedAt": "2026-10-15T11:29:05.000Z"
       },
       {
-        "time": "09:13",
-        "title": "うなぎパイ企業 部門赤字どう解消",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598819?source=rss",
-        "publishedAt": "2026-10-15T00:13:37.000Z"
-      },
-      {
         "time": "09:05",
         "title": "ソニー 93万円のウォークマン発表",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598952?source=rss",
         "publishedAt": "2026-10-16T00:05:49.000Z"
+      },
+      {
+        "time": "11:08",
+        "title": "葉物野菜高騰 家計に優しい料理は",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598961?source=rss",
+        "publishedAt": "2026-10-16T02:08:10.000Z"
       }
     ],
     "localHeadlines": [
+      {
+        "time": "11:06",
+        "title": "全国初 罰則付きカスハラ条例可決",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598960?source=rss",
+        "publishedAt": "2026-10-16T02:06:14.000Z"
+      },
       {
         "time": "09:23",
         "title": "有罪か無罪か 王将射殺きょう判決",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598943?source=rss",
         "publishedAt": "2026-10-15T22:32:55.000Z"
-      },
-      {
-        "time": "08:27",
-        "title": "男性市議からセクハラ 申し立て",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598948?source=rss",
-        "publishedAt": "2026-10-15T23:27:43.000Z"
       }
     ],
     "subsidyHeadlines": [
