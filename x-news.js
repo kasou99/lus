@@ -1,14 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-16T09:18:26.999Z",
+  "updatedAt": "2026-10-16T09:42:37.561Z",
   "items": [
-    {
-      "time": "15:58",
-      "title": "インフル感染 前年同時期比5倍超",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598993?source=rss",
-      "publishedAt": "2026-10-16T06:58:57.000Z",
-      "xQuery": "インフル感染 前年同時期比5倍超"
-    },
     {
       "time": "17:58",
       "title": "簗前農相 運動員への支払い指示か",
@@ -16,6 +8,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6599011?source=rss",
       "publishedAt": "2026-10-16T08:58:39.000Z",
       "xQuery": "簗前農相 運動員への支払い指示か"
+    },
+    {
+      "time": "18:08",
+      "title": "印旛沼の堤防 緊急復旧が完了",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599013?source=rss",
+      "publishedAt": "2026-10-16T09:08:45.000Z",
+      "xQuery": "印旛沼の堤防 緊急復旧が完了"
     },
     {
       "time": "17:20",
