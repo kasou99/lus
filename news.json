@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T05:17:28.379Z",
+  "updatedAt": "2026-10-16T05:42:01.170Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,18 +31,18 @@
         "publishedAt": "2026-10-15T11:23:47.000Z"
       },
       {
-        "time": "00:00",
-        "title": "工作機械の程泰の中国工場、英制裁対象に",
-        "source": "NNAアジア",
-        "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1jdDVpNWk2VllzSVBvMERZRjBsYU5VMkNFT2k3Y1lQeTVfRUVnUXhoLWZyLVhBd3MzcXdvbWczRTNybk1McFE?oc=5",
-        "publishedAt": "2026-10-15T15:00:00.000Z"
-      },
-      {
         "time": "05:00",
         "title": "日工会野球大会、6チームが熱戦",
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9JMWM2YVNTZExEUUhVOXRFRmFWamhwSE5hZ3ZtNEtvTVR3UWRDdkVJY1lVNVBWNmZKbE9YXzgzQjJmLWRTOXVTY0RfbWxaSWRmUGo2RVI4X2s?oc=5",
         "publishedAt": "2026-10-15T20:00:00.000Z"
+      },
+      {
+        "time": "00:00",
+        "title": "工作機械の程泰の中国工場、英制裁対象に",
+        "source": "NNAアジア",
+        "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1jdDVpNWk2VllzSVBvMERZRjBsYU5VMkNFT2k3Y1lQeTVfRUVnUXhoLWZyLVhBd3MzcXdvbWczRTNybk1McFE?oc=5",
+        "publishedAt": "2026-10-15T15:00:00.000Z"
       },
       {
         "time": "11:48",
@@ -52,11 +52,11 @@
         "publishedAt": "2026-10-16T02:48:17.000Z"
       },
       {
-        "time": "10:00",
-        "title": "【切削加工の常識を覆す次世代技術】超臨界CO2発生装置「Pure-Cut」の国内OEM生産を開始｜Infoseekニュース",
-        "source": "Infoseek",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1qaFR5bUJic2F6TGttNV8wNXJXWmdkamFVY3JIRXJwU3JyMXZsb2FNSFplRTRzdmZmdFA3d2ZYejBmZlV4RmFmVmhYeHlNdEVBUnFjTXl4ZmpfMEJHMklBRHFQTVhHbGFLWG5QZTRDQmRrQQ?oc=5",
-        "publishedAt": "2026-10-16T01:00:00.000Z"
+        "time": "14:00",
+        "title": "【切削加工の常識を覆す次世代技術】超臨界CO2発生装置「Pure-Cut」の国内OEM生産を開始",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1ySG82M0NkZ2lSeUV2Z1Y4b3g3aVJyam1UUzNVQkZTcXo3aFNXX0lUZmtzeEpPaTMwVTRGaG8tWWh1X3djUXd0SUlwaDFXMWx6bW1jVDllT2IwM2NvSmpNOUQ4am03SkdJWTV1UVRaTnkzcU0?oc=5",
+        "publishedAt": "2026-10-16T05:00:35.000Z"
       }
     ],
     "worldHeadlines": [

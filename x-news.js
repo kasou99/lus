@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-16T05:17:29.459Z",
+  "updatedAt": "2026-10-16T05:42:01.831Z",
   "items": [
     {
-      "time": "13:58",
-      "title": "中継気象庁会見 地震速報取り消し",
+      "time": "14:36",
+      "title": "気象庁 サイバー攻撃の可能性ない",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598985?source=rss",
-      "publishedAt": "2026-10-16T04:58:06.000Z",
-      "xQuery": "中継気象庁会見 地震速報取り消し"
+      "url": "https://news.yahoo.co.jp/pickup/6598988?source=rss",
+      "publishedAt": "2026-10-16T05:36:29.000Z",
+      "xQuery": "気象庁 サイバー攻撃の可能性ない"
     },
     {
       "time": "13:45",
@@ -16,14 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6598983?source=rss",
       "publishedAt": "2026-10-16T04:45:24.000Z",
       "xQuery": "気象庁 M6.9をM9.9と過大に予測"
-    },
-    {
-      "time": "12:34",
-      "title": "高市首相 簗前農相の交代を陳謝",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598973?source=rss",
-      "publishedAt": "2026-10-16T03:34:22.000Z",
-      "xQuery": "高市首相 簗前農相の交代を陳謝"
     },
     {
       "time": "13:35",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6598984?source=rss",
       "publishedAt": "2026-10-16T05:01:53.000Z",
       "xQuery": "テスラ新型車 空中旋回を実演"
+    },
+    {
+      "time": "11:08",
+      "title": "葉物野菜高騰 家計に優しい料理は",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6598961?source=rss",
+      "publishedAt": "2026-10-16T02:08:10.000Z",
+      "xQuery": "葉物野菜高騰 家計に優しい料理は"
     }
   ]
 };
