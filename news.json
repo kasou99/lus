@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T22:38:22.831Z",
+  "updatedAt": "2026-10-16T23:13:48.318Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -61,6 +61,13 @@
     ],
     "worldHeadlines": [
       {
+        "time": "08:01",
+        "title": "露拘束の記者と領事面会できず",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6599059?source=rss",
+        "publishedAt": "2026-10-16T23:01:18.000Z"
+      },
+      {
         "time": "23:05",
         "title": "記者拘束 露国民との交換狙いか",
         "source": "Yahoo!ニュース",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598950?source=rss",
         "publishedAt": "2026-10-15T23:57:52.000Z"
-      },
-      {
-        "time": "06:21",
-        "title": "トランプ氏 銃殺刑の配信計画中止",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598936?source=rss",
-        "publishedAt": "2026-10-15T21:21:48.000Z"
       }
     ],
     "economyHeadlines": [
@@ -177,18 +177,18 @@
         "publishedAt": "2026-10-16T04:35:54.000Z"
       },
       {
-        "time": "17:51",
-        "title": "呉で中1死亡 いじめとの関連認定",
+        "time": "07:46",
+        "title": "福岡県 AM4時に百条委設置案可決",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599012?source=rss",
-        "publishedAt": "2026-10-16T08:51:33.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6599057?source=rss",
+        "publishedAt": "2026-10-16T22:46:30.000Z"
       },
       {
-        "time": "14:46",
-        "title": "露が記者拘束 北海道目線の重大さ",
+        "time": "12:26",
+        "title": "道頓堀川に男性投げ入れ疑い 逮捕",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598977?source=rss",
-        "publishedAt": "2026-10-16T05:46:55.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6598976?source=rss",
+        "publishedAt": "2026-10-16T03:26:08.000Z"
       }
     ],
     "subsidyHeadlines": [

@@ -1,13 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-16T22:38:23.697Z",
+  "updatedAt": "2026-10-16T23:13:49.096Z",
   "items": [
     {
-      "time": "22:54",
-      "title": "緊急地震速報取り消し 2つの要因",
+      "time": "07:46",
+      "title": "福岡県 AM4時に百条委設置案可決",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599044?source=rss",
-      "publishedAt": "2026-10-16T13:54:50.000Z",
-      "xQuery": "緊急地震速報取り消し 2つの要因"
+      "url": "https://news.yahoo.co.jp/pickup/6599057?source=rss",
+      "publishedAt": "2026-10-16T22:46:30.000Z",
+      "xQuery": "福岡県 AM4時に百条委設置案可決"
+    },
+    {
+      "time": "08:01",
+      "title": "露拘束の記者と領事面会できず",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599059?source=rss",
+      "publishedAt": "2026-10-16T23:01:18.000Z",
+      "xQuery": "露拘束の記者と領事面会できず"
     },
     {
       "time": "07:35",
@@ -18,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "米大統領報道官 わずか5日で解任"
     },
     {
-      "time": "21:53",
-      "title": "流出個人情報を売買 闇サイト実態",
+      "time": "07:43",
+      "title": "「警察車両が幅寄せ」拡散 調査へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599033?source=rss",
-      "publishedAt": "2026-10-16T12:53:16.000Z",
-      "xQuery": "流出個人情報を売買 闇サイト実態"
+      "url": "https://news.yahoo.co.jp/pickup/6599055?source=rss",
+      "publishedAt": "2026-10-16T22:43:59.000Z",
+      "xQuery": "「警察車両が幅寄せ」拡散 調査へ"
     },
     {
       "time": "07:20",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6599053?source=rss",
       "publishedAt": "2026-10-16T22:20:23.000Z",
       "xQuery": "荷物用エレベーターに挟まれ死亡"
-    },
-    {
-      "time": "00:17",
-      "title": "テスラ新型車 空を飛び宙返り実演",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599049?source=rss",
-      "publishedAt": "2026-10-16T15:17:22.000Z",
-      "xQuery": "テスラ新型車 空を飛び宙返り実演"
     }
   ]
 };
