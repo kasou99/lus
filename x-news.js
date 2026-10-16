@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-16T09:42:37.561Z",
+  "updatedAt": "2026-10-16T10:17:58.408Z",
   "items": [
     {
       "time": "17:58",
@@ -8,6 +8,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6599011?source=rss",
       "publishedAt": "2026-10-16T08:58:39.000Z",
       "xQuery": "簗前農相 運動員への支払い指示か"
+    },
+    {
+      "time": "18:42",
+      "title": "首相 外食支援で商品券なども検討",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599015?source=rss",
+      "publishedAt": "2026-10-16T09:42:36.000Z",
+      "xQuery": "首相 外食支援で商品券なども検討"
     },
     {
       "time": "18:08",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "緊急地震速報取り消し 各地混乱"
     },
     {
-      "time": "17:13",
-      "title": "日経新聞 個人情報が183万件流出",
+      "time": "18:46",
+      "title": "トヨタ 30年までに全車種をSDVに",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599004?source=rss",
-      "publishedAt": "2026-10-16T08:13:11.000Z",
-      "xQuery": "日経新聞 個人情報が183万件流出"
-    },
-    {
-      "time": "17:42",
-      "title": "攻撃受け 県メアドから迷惑メール",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599003?source=rss",
-      "publishedAt": "2026-10-16T08:42:36.000Z",
-      "xQuery": "攻撃受け 県メアドから迷惑メール"
+      "url": "https://news.yahoo.co.jp/pickup/6599017?source=rss",
+      "publishedAt": "2026-10-16T09:46:20.000Z",
+      "xQuery": "トヨタ 30年までに全車種をSDVに"
     }
   ]
 };
