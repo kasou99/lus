@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-16T12:50:21.799Z",
+  "updatedAt": "2026-10-16T13:17:12.753Z",
   "items": [
     {
       "time": "20:50",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "緊急地震速報 ドコモで配信されず"
     },
     {
-      "time": "18:46",
-      "title": "トヨタ 30年までに全車種をSDVに",
+      "time": "22:04",
+      "title": "ショップサーブの流出 2335万人分",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599017?source=rss",
-      "publishedAt": "2026-10-16T09:46:20.000Z",
-      "xQuery": "トヨタ 30年までに全車種をSDVに"
+      "url": "https://news.yahoo.co.jp/pickup/6599039?source=rss",
+      "publishedAt": "2026-10-16T13:04:45.000Z",
+      "xQuery": "ショップサーブの流出 2335万人分"
     },
     {
       "time": "21:37",
