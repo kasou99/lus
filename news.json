@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T03:45:18.857Z",
+  "updatedAt": "2026-10-16T04:20:05.883Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -8,6 +8,13 @@
         "source": "Yahoo!ファイナンス",
         "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYThkaEl2d00xVllHVUhKcE93M2NqdTd0MUFmd3NXTlRaZHhVZEhyczBVZllFbTdQZXRkbmRueFJrM3ZDdEs3VXM4MDlvcHdod1VRR3JaVlBWVVZ3UDNTVGtYbzYwLVIteWg0WnFicklkY0FNbHljTlY3VHh2azhlM0ZFejdxTmM?oc=5",
         "publishedAt": "2026-10-16T02:01:05.000Z"
+      },
+      {
+        "time": "13:00",
+        "title": "「JIMTOF2026 第33回日本国際工作機械見本市」出展のご案内",
+        "source": "PR TIMES",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1jX2QzajJSdy1ab1AyaFZEb1FfZXBiQ193b3hGYnpMUzdOMFJXdlZUOGQwNExuV0ZVSG5MRGJENTlSbDFhSktTeHN0dS1rby02YXhTZVAxRTltRnAxZWdXYVg3VFlYdy14U3c?oc=5",
+        "publishedAt": "2026-10-16T04:00:02.000Z"
       },
       {
         "time": "20:23",
@@ -38,13 +45,6 @@
         "publishedAt": "2026-10-16T02:48:17.000Z"
       },
       {
-        "time": "19:05",
-        "title": "徳島県立中央テクノスクール会計年度任用職員（準高度業務・機械技術科指導員）の募集について｜徳島県ホームページ",
-        "source": "徳島県ホームページ",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1kV0QtMEJYVDZlb3hmeU1YbnVNWHVHZkFNMlNYdjVDUHRRcTdNU0lXYXlaSHByQU8xZ1ZWZ1ZlSVlMMUtZOExOa1B1ZnUxM1J2Vy1sVTFYRjlGYXNoUFhqOF9RblZIa0E1Rmc?oc=5",
-        "publishedAt": "2026-10-15T10:05:48.000Z"
-      },
-      {
         "time": "12:01",
         "title": "ABEJAがヤマザキマザックと製造現場のAI実装で連携",
         "source": "ニュースメディアVOIX",
@@ -52,11 +52,11 @@
         "publishedAt": "2026-10-16T03:01:58.000Z"
       },
       {
-        "time": "13:00",
-        "title": "工具の状態を電流値から可視化、シチズンマシナリーがソフト開発：工作機械",
-        "source": "MONOist",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1VcDU4bG5UdWp1cFhiNFR2SHJZQXIzMXFvd1FadThhTkhLTEhaQm9Eel9hM1RRcDc4THJlYVlGUWowVUFIZWRJZ0g1QU5Id3JkM0NWRHotTHVrTlA5MkRqYjIwQktDXzBHX3YxVi1PWQ?oc=5",
-        "publishedAt": "2026-10-15T04:00:00.000Z"
+        "time": "19:05",
+        "title": "徳島県立中央テクノスクール会計年度任用職員（準高度業務・機械技術科指導員）の募集について｜徳島県ホームページ",
+        "source": "徳島県ホームページ",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1kV0QtMEJYVDZlb3hmeU1YbnVNWHVHZkFNMlNYdjVDUHRRcTdNU0lXYXlaSHByQU8xZ1ZWZ1ZlSVlMMUtZOExOa1B1ZnUxM1J2Vy1sVTFYRjlGYXNoUFhqOF9RblZIa0E1Rmc?oc=5",
+        "publishedAt": "2026-10-15T10:05:48.000Z"
       }
     ],
     "worldHeadlines": [

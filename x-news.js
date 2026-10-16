@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-16T03:45:19.741Z",
+  "updatedAt": "2026-10-16T04:20:06.471Z",
   "items": [
+    {
+      "time": "12:53",
+      "title": "緊急地震速報を取り消し 気象庁",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6598978?source=rss",
+      "publishedAt": "2026-10-16T03:53:55.000Z",
+      "xQuery": "緊急地震速報を取り消し 気象庁"
+    },
     {
       "time": "09:51",
       "title": "記者拘束で日本抗議 露大使館拒否",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6598964?source=rss",
       "publishedAt": "2026-10-16T02:45:12.000Z",
       "xQuery": "チョコザップ機器で事故 運営謝罪"
-    },
-    {
-      "time": "11:37",
-      "title": "帝国ホテル 不適切な展示巡り謝罪",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598963?source=rss",
-      "publishedAt": "2026-10-16T02:37:32.000Z",
-      "xQuery": "帝国ホテル 不適切な展示巡り謝罪"
     }
   ]
 };
