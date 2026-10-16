@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T23:36:43.824Z",
+  "updatedAt": "2026-10-16T00:44:28.451Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -10,11 +10,11 @@
         "publishedAt": "2026-10-15T11:23:47.000Z"
       },
       {
-        "time": "12:22",
-        "title": "「工作機械」が１７位にランク、ＡＩ関連向けなどに受注拡大＜注目テーマ＞",
-        "source": "株探",
-        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1RRkpCOTBlc2hRQ01CX0VZNXYyM1dFWXd1ZmFoUzQzal9YTDBma3k3NGFGalJyS04wNFN2QmRQbFpwMFZpNkN6NUpKRFhGOS01Qi1sM3U4SE90TTRDOWJjbQ?oc=5",
-        "publishedAt": "2026-10-15T03:22:00.000Z"
+        "time": "09:00",
+        "title": "【生産管理とDXのテクノア】が『JIMTOF2026 第33回日本国際工作機械見本市』に出展し、中小製造業様向けの「4つの新ソリューション」を初公開！",
+        "source": "PR TIMES",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBpQmZIT01MeGRqXzRfU0c3NWlCYThGSmxrZW5mNnRlYVhFVVZkWC1tODR0cHR5TGJHN2t4OXFjMFhQbUE0ZnEzem5Ta0puV0taYVJxSjBmUzBIQTR5Z3JESldSc1RXTGNIZEE?oc=5",
+        "publishedAt": "2026-10-16T00:00:02.000Z"
       },
       {
         "time": "00:00",
@@ -22,6 +22,13 @@
         "source": "NNAアジア",
         "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1jdDVpNWk2VllzSVBvMERZRjBsYU5VMkNFT2k3Y1lQeTVfRUVnUXhoLWZyLVhBd3MzcXdvbWczRTNybk1McFE?oc=5",
         "publishedAt": "2026-10-15T15:00:00.000Z"
+      },
+      {
+        "time": "12:22",
+        "title": "「工作機械」が１７位にランク、ＡＩ関連向けなどに受注拡大＜注目テーマ＞",
+        "source": "株探",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1RRkpCOTBlc2hRQ01CX0VZNXYyM1dFWXd1ZmFoUzQzal9YTDBma3k3NGFGalJyS04wNFN2QmRQbFpwMFZpNkN6NUpKRFhGOS01Qi1sM3U4SE90TTRDOWJjbQ?oc=5",
+        "publishedAt": "2026-10-15T03:22:00.000Z"
       },
       {
         "time": "05:00",
@@ -50,13 +57,6 @@
         "source": "亜州ビジネス中国",
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1Tc3NiajRuRDNxLXB6Ym1zUkw2MENuTWx3SHpRR2tQSUNZNFVaNURFOWFFQXpESkZQTl92b2t0RUE5aGtTejI5TkR4VlV5TmtKeVhManlvYzEtYnVVMWhKRkkwbFRVeGE3?oc=5",
         "publishedAt": "2026-10-15T05:34:00.000Z"
-      },
-      {
-        "time": "13:30",
-        "title": "ブラザー、2026年度グッドデザイン賞を受賞",
-        "source": "PR TIMES",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9QaDExU2lVOThKRV9sdklJenI0VzdMM09JeVNpQ0FYREhYWWtqTzB4QWU3YzlRS0trZWlTVjRzNUp5NWRsZnZ4T0o3aUlZSlZmSUlzVWxveGZLR3hWcGREQ3RsZXRuWEluVkE?oc=5",
-        "publishedAt": "2026-10-15T04:30:01.000Z"
       }
     ],
     "worldHeadlines": [
@@ -73,6 +73,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598834?source=rss",
         "publishedAt": "2026-10-15T02:25:47.000Z"
+      },
+      {
+        "time": "08:57",
+        "title": "フーシ イエメンの大統領宮殿攻撃",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598950?source=rss",
+        "publishedAt": "2026-10-15T23:57:52.000Z"
       },
       {
         "time": "09:53",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598946?source=rss",
         "publishedAt": "2026-10-15T23:12:00.000Z"
-      },
-      {
-        "time": "16:21",
-        "title": "米の新報道官 弁護士経歴に疑念",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598880?source=rss",
-        "publishedAt": "2026-10-15T07:21:43.000Z"
       }
     ],
     "economyHeadlines": [
@@ -126,13 +126,6 @@
         "publishedAt": "2026-10-15T22:56:46.000Z"
       },
       {
-        "time": "06:20",
-        "title": "ネトフリ 従業員約1000人を削減へ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598797?source=rss",
-        "publishedAt": "2026-10-14T21:20:35.000Z"
-      },
-      {
         "time": "20:29",
         "title": "年金だけで暮らせず 毎日働く71歳",
         "source": "Yahoo!ニュース",
@@ -145,9 +138,23 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598819?source=rss",
         "publishedAt": "2026-10-15T00:13:37.000Z"
+      },
+      {
+        "time": "09:05",
+        "title": "ソニー 93万円のウォークマン発表",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598952?source=rss",
+        "publishedAt": "2026-10-16T00:05:49.000Z"
       }
     ],
     "localHeadlines": [
+      {
+        "time": "09:23",
+        "title": "有罪か無罪か 王将射殺きょう判決",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598954?source=rss",
+        "publishedAt": "2026-10-16T00:23:13.000Z"
+      },
       {
         "time": "18:58",
         "title": "バスと車衝突し73歳死亡 孫が重体",
@@ -156,11 +163,11 @@
         "publishedAt": "2026-10-15T09:58:07.000Z"
       },
       {
-        "time": "18:49",
-        "title": "検事が「ガキ」発言 国の賠償確定",
+        "time": "08:56",
+        "title": "2児殺害 母「状況覚えていない」",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598904?source=rss",
-        "publishedAt": "2026-10-15T09:49:19.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6598951?source=rss",
+        "publishedAt": "2026-10-15T23:56:00.000Z"
       },
       {
         "time": "07:06",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598948?source=rss",
         "publishedAt": "2026-10-15T23:27:43.000Z"
-      },
-      {
-        "time": "19:48",
-        "title": "DV加害者と避難先で3年同居 なぜ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598909?source=rss",
-        "publishedAt": "2026-10-15T10:48:12.000Z"
       }
     ],
     "subsidyHeadlines": [
