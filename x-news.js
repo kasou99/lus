@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-16T03:20:50.935Z",
+  "updatedAt": "2026-10-16T03:45:19.741Z",
   "items": [
     {
       "time": "09:51",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "記者拘束で日本抗議 露大使館拒否"
     },
     {
-      "time": "11:13",
-      "title": "米小学校で銃撃 16歳の容疑者死亡",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598962?source=rss",
-      "publishedAt": "2026-10-16T02:13:11.000Z",
-      "xQuery": "米小学校で銃撃 16歳の容疑者死亡"
-    },
-    {
       "time": "12:06",
       "title": "マスク氏 ウ大統領に退陣呼びかけ",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6598972?source=rss",
       "publishedAt": "2026-10-16T03:06:21.000Z",
       "xQuery": "マスク氏 ウ大統領に退陣呼びかけ"
+    },
+    {
+      "time": "12:26",
+      "title": "道頓堀川に男性投げ入れ疑い 逮捕",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6598976?source=rss",
+      "publishedAt": "2026-10-16T03:26:08.000Z",
+      "xQuery": "道頓堀川に男性投げ入れ疑い 逮捕"
     },
     {
       "time": "11:45",
