@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-16T12:26:44.856Z",
+  "updatedAt": "2026-10-16T12:50:21.799Z",
   "items": [
     {
       "time": "20:50",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "自公再連立巡り 斉藤元代表が含み"
     },
     {
-      "time": "18:42",
-      "title": "首相 外食支援で商品券なども検討",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599015?source=rss",
-      "publishedAt": "2026-10-16T09:42:36.000Z",
-      "xQuery": "首相 外食支援で商品券なども検討"
-    },
-    {
       "time": "20:24",
       "title": "簗氏巡り 自民鶴保氏が首相に苦言",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6599022?source=rss",
       "publishedAt": "2026-10-16T11:24:05.000Z",
       "xQuery": "簗氏巡り 自民鶴保氏が首相に苦言"
+    },
+    {
+      "time": "19:27",
+      "title": "緊急地震速報 ドコモで配信されず",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599019?source=rss",
+      "publishedAt": "2026-10-16T10:27:32.000Z",
+      "xQuery": "緊急地震速報 ドコモで配信されず"
     },
     {
       "time": "18:46",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "トヨタ 30年までに全車種をSDVに"
     },
     {
-      "time": "19:27",
-      "title": "緊急地震速報 ドコモで配信されず",
+      "time": "21:37",
+      "title": "日本郵便のメアドから迷惑メール",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599019?source=rss",
-      "publishedAt": "2026-10-16T10:27:32.000Z",
-      "xQuery": "緊急地震速報 ドコモで配信されず"
+      "url": "https://news.yahoo.co.jp/pickup/6599037?source=rss",
+      "publishedAt": "2026-10-16T12:37:09.000Z",
+      "xQuery": "日本郵便のメアドから迷惑メール"
     }
   ]
 };
