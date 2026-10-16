@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-16T10:17:58.408Z",
+  "updatedAt": "2026-10-16T10:41:05.283Z",
   "items": [
     {
       "time": "17:58",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "首相 外食支援で商品券なども検討"
     },
     {
-      "time": "18:08",
-      "title": "印旛沼の堤防 緊急復旧が完了",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599013?source=rss",
-      "publishedAt": "2026-10-16T09:08:45.000Z",
-      "xQuery": "印旛沼の堤防 緊急復旧が完了"
-    },
-    {
       "time": "17:20",
       "title": "緊急地震速報取り消し 各地混乱",
       "source": "Yahoo!ニュース",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6599017?source=rss",
       "publishedAt": "2026-10-16T09:46:20.000Z",
       "xQuery": "トヨタ 30年までに全車種をSDVに"
+    },
+    {
+      "time": "19:27",
+      "title": "緊急地震速報 ドコモで配信されず",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599019?source=rss",
+      "publishedAt": "2026-10-16T10:27:32.000Z",
+      "xQuery": "緊急地震速報 ドコモで配信されず"
     }
   ]
 };
