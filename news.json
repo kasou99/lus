@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T02:23:46.153Z",
+  "updatedAt": "2026-10-16T02:45:38.759Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -89,18 +89,18 @@
         "publishedAt": "2026-10-15T23:57:52.000Z"
       },
       {
-        "time": "09:53",
-        "title": "米大統領 機密情報漏れ説明し不満",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598822?source=rss",
-        "publishedAt": "2026-10-15T00:53:02.000Z"
-      },
-      {
         "time": "06:21",
         "title": "トランプ氏 銃殺刑の配信計画中止",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6598936?source=rss",
         "publishedAt": "2026-10-15T21:21:48.000Z"
+      },
+      {
+        "time": "16:21",
+        "title": "米の新報道官 弁護士経歴に疑念",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598880?source=rss",
+        "publishedAt": "2026-10-15T07:21:43.000Z"
       }
     ],
     "economyHeadlines": [

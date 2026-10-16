@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-16T02:23:46.887Z",
+  "updatedAt": "2026-10-16T02:45:39.312Z",
   "items": [
     {
       "time": "11:06",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "米小学校で銃撃 16歳の容疑者死亡"
     },
     {
-      "time": "09:23",
-      "title": "有罪か無罪か 王将射殺きょう判決",
+      "time": "11:37",
+      "title": "帝国ホテル 不適切な展示巡り謝罪",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598954?source=rss",
-      "publishedAt": "2026-10-16T00:23:13.000Z",
-      "xQuery": "有罪か無罪か 王将射殺きょう判決"
+      "url": "https://news.yahoo.co.jp/pickup/6598963?source=rss",
+      "publishedAt": "2026-10-16T02:37:32.000Z",
+      "xQuery": "帝国ホテル 不適切な展示巡り謝罪"
     },
     {
       "time": "10:06",
