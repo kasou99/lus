@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-16T08:23:43.170Z",
+  "updatedAt": "2026-10-16T08:45:40.895Z",
   "items": [
     {
       "time": "15:58",
@@ -18,6 +18,14 @@ window.LUS_X_NEWS = {
       "xQuery": "猪苗代湖3人死傷 最高裁逆転有罪"
     },
     {
+      "time": "17:20",
+      "title": "緊急地震速報取り消し 各地混乱",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599005?source=rss",
+      "publishedAt": "2026-10-16T08:20:17.000Z",
+      "xQuery": "緊急地震速報取り消し 各地混乱"
+    },
+    {
       "time": "16:18",
       "title": "王将事件で無罪判決 被告コメント",
       "source": "Yahoo!ニュース",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "王将事件で無罪判決 被告コメント"
     },
     {
-      "time": "12:19",
-      "title": "米報道官 弁護士資格なしを認める",
+      "time": "17:13",
+      "title": "日経新聞 個人情報が183万件流出",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598974?source=rss",
-      "publishedAt": "2026-10-16T03:19:08.000Z",
-      "xQuery": "米報道官 弁護士資格なしを認める"
-    },
-    {
-      "time": "14:40",
-      "title": "ヤマト運輸 個人情報530万件流出",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6598987?source=rss",
-      "publishedAt": "2026-10-16T05:40:39.000Z",
-      "xQuery": "ヤマト運輸 個人情報530万件流出"
+      "url": "https://news.yahoo.co.jp/pickup/6599004?source=rss",
+      "publishedAt": "2026-10-16T08:13:11.000Z",
+      "xQuery": "日経新聞 個人情報が183万件流出"
     }
   ]
 };
