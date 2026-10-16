@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T01:23:57.904Z",
+  "updatedAt": "2026-10-16T01:48:11.397Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -24,18 +24,18 @@
         "publishedAt": "2026-10-15T15:00:00.000Z"
       },
       {
-        "time": "12:22",
-        "title": "「工作機械」が１７位にランク、ＡＩ関連向けなどに受注拡大＜注目テーマ＞",
-        "source": "株探",
-        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1RRkpCOTBlc2hRQ01CX0VZNXYyM1dFWXd1ZmFoUzQzal9YTDBma3k3NGFGalJyS04wNFN2QmRQbFpwMFZpNkN6NUpKRFhGOS01Qi1sM3U4SE90TTRDOWJjbQ?oc=5",
-        "publishedAt": "2026-10-15T03:22:00.000Z"
-      },
-      {
         "time": "05:00",
         "title": "日工会野球大会、6チームが熱戦",
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9JMWM2YVNTZExEUUhVOXRFRmFWamhwSE5hZ3ZtNEtvTVR3UWRDdkVJY1lVNVBWNmZKbE9YXzgzQjJmLWRTOXVTY0RfbWxaSWRmUGo2RVI4X2s?oc=5",
         "publishedAt": "2026-10-15T20:00:00.000Z"
+      },
+      {
+        "time": "12:22",
+        "title": "「工作機械」が１７位にランク、ＡＩ関連向けなどに受注拡大＜注目テーマ＞",
+        "source": "株探",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1RRkpCOTBlc2hRQ01CX0VZNXYyM1dFWXd1ZmFoUzQzal9YTDBma3k3NGFGalJyS04wNFN2QmRQbFpwMFZpNkN6NUpKRFhGOS01Qi1sM3U4SE90TTRDOWJjbQ?oc=5",
+        "publishedAt": "2026-10-15T03:22:00.000Z"
       },
       {
         "time": "13:00",
@@ -45,18 +45,18 @@
         "publishedAt": "2026-10-15T04:00:00.000Z"
       },
       {
-        "time": "14:34",
-        "title": "中国：工作機械産業、25年売上高1.6兆元超",
-        "source": "亜州ビジネス中国",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1Tc3NiajRuRDNxLXB6Ym1zUkw2MENuTWx3SHpRR2tQSUNZNFVaNURFOWFFQXpESkZQTl92b2t0RUE5aGtTejI5TkR4VlV5TmtKeVhManlvYzEtYnVVMWhKRkkwbFRVeGE3?oc=5",
-        "publishedAt": "2026-10-15T05:34:00.000Z"
-      },
-      {
         "time": "04:48",
         "title": "「2026年度グッドデザイン賞」を受賞",
         "source": "ニコニコニュース",
         "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE84WTI0RktfUDVSWWxrcWhJbDFjaFEtaWU0bEozN0t5Z1BnNFJFX29mbzVzLVd4UjJjWkNEdHhHWnBkNXdZdHNGM2Mwb2taaER6T0JlSUlBT2N6M2xydHFjRzdlUVd2N2hZUXVBUTVkSE1sWklXbWprelNBYw?oc=5",
         "publishedAt": "2026-10-15T19:48:36.000Z"
+      },
+      {
+        "time": "14:34",
+        "title": "中国：工作機械産業、25年売上高1.6兆元超",
+        "source": "亜州ビジネス中国",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1Tc3NiajRuRDNxLXB6Ym1zUkw2MENuTWx3SHpRR2tQSUNZNFVaNURFOWFFQXpESkZQTl92b2t0RUE5aGtTejI5TkR4VlV5TmtKeVhManlvYzEtYnVVMWhKRkkwbFRVeGE3?oc=5",
+        "publishedAt": "2026-10-15T05:34:00.000Z"
       }
     ],
     "worldHeadlines": [
