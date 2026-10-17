@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-17T07:16:06.521Z",
+  "updatedAt": "2026-10-17T07:39:04.902Z",
   "items": [
     {
       "time": "15:14",
@@ -18,6 +18,14 @@ window.LUS_X_NEWS = {
       "xQuery": "ローマ教皇 プーチン氏に停戦要請"
     },
     {
+      "time": "15:37",
+      "title": "「八百長」防ぐ新法 協議加速へ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599118?source=rss",
+      "publishedAt": "2026-10-17T06:37:36.000Z",
+      "xQuery": "「八百長」防ぐ新法 協議加速へ"
+    },
+    {
       "time": "14:53",
       "title": "「高市離れ」男性も加速 時事調査",
       "source": "Yahoo!ニュース",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6599107?source=rss",
       "publishedAt": "2026-10-17T05:28:45.000Z",
       "xQuery": "子ども食堂巡る投稿賛否 店主真意"
-    },
-    {
-      "time": "15:46",
-      "title": "故人のサブスク解約で苦労 注意点",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599119?source=rss",
-      "publishedAt": "2026-10-17T06:46:31.000Z",
-      "xQuery": "故人のサブスク解約で苦労 注意点"
     }
   ]
 };

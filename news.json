@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T07:16:05.376Z",
+  "updatedAt": "2026-10-17T07:39:04.046Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,6 +38,13 @@
         "publishedAt": "2026-10-16T13:45:28.000Z"
       },
       {
+        "time": "14:11",
+        "title": "共同通信ＰＲワイヤー",
+        "source": "山形新聞",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9XazQ2MFFvYXZ6T2k5aS12QVJxcUE2cjRmUlZPdjZwenVodU9YcS1GRWxkWVFuT1JKdU4wZHRvZGY1cWNSQUxmYVFuYWtPM3h4QlhEa3FPUUlQRjJSRGVPUHZMX0RaS0VYNmdB?oc=5",
+        "publishedAt": "2026-10-17T05:11:49.000Z"
+      },
+      {
         "time": "19:51",
         "title": "ABEJA、ヤマザキマザックと製造現場のフィジカルAI実装に向けた業務連携を開始",
         "source": "ASCII.jp",
@@ -45,18 +52,11 @@
         "publishedAt": "2026-10-16T10:51:04.000Z"
       },
       {
-        "time": "16:23",
-        "title": "フィジカルＡＩ実装へ連携",
-        "source": "京都新聞デジタル",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE52ekFubF9FdzctcV91TkZOSjlTTUVoVlVWRy1KQUtRM2NSZ2J1ODNBejB5U19UcFJ6dXVWR3pGYmRSaUhMT0d1enVwanlkeVl1WFBucUVKQVJxOHM?oc=5",
-        "publishedAt": "2026-10-16T07:23:35.000Z"
-      },
-      {
-        "time": "16:23",
-        "title": "フィジカルAI実装へ連携 マザックとアベジャ",
-        "source": "NEWSjp",
-        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1JbDRlajRMdWlDQkpZSDhyVHl2SldoUHRuRC1yeUZBbEpJRFdBLVlxWDJjUXdfVHhOOG04QVRtYlRlWVVUQ0tKS0lzSjFSUQ?oc=5",
-        "publishedAt": "2026-10-16T07:23:42.000Z"
+        "time": "22:09",
+        "title": "ヤマザキマザック、AI企業「ABEJA」とフィジカルAI共同開発へ：ニュース",
+        "source": "中日BIZナビ",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9HWVFPNUtHbG1oU2Q1dWxlZVFyVU1XV1NQZ21oNUw1R3NPVUQ2bE9BSDFJTzVFUHBfN3BwbXczZThGOFhXQjdnUzBqb05nRzNkamxnZG9rNE94X0RJb2VN?oc=5",
+        "publishedAt": "2026-10-16T13:09:58.000Z"
       }
     ],
     "worldHeadlines": [
@@ -105,6 +105,13 @@
     ],
     "economyHeadlines": [
       {
+        "time": "16:20",
+        "title": "IMF高官評価 日本の消費減税法案",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6599121?source=rss",
+        "publishedAt": "2026-10-17T07:20:56.000Z"
+      },
+      {
         "time": "09:53",
         "title": "タイムズカー 免許画像すぐ削除へ",
         "source": "Yahoo!ニュース",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6599101?source=rss",
         "publishedAt": "2026-10-17T04:18:51.000Z"
-      },
-      {
-        "time": "10:01",
-        "title": "サイゼ値上げ「安さの王者」異変",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599078?source=rss",
-        "publishedAt": "2026-10-17T01:01:46.000Z"
       }
     ],
     "localHeadlines": [
