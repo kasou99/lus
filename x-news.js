@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-17T22:13:38.568Z",
+  "updatedAt": "2026-10-17T22:36:18.982Z",
   "items": [
     {
       "time": "21:13",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "ITシステムの弱点 世界で発見急増"
     },
     {
-      "time": "23:31",
-      "title": "関東で今季初の冬日 栃木県日光市",
+      "time": "07:11",
+      "title": "東京・福生で男性刺され死亡 逃走",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599179?source=rss",
-      "publishedAt": "2026-10-17T14:31:41.000Z",
-      "xQuery": "関東で今季初の冬日 栃木県日光市"
+      "url": "https://news.yahoo.co.jp/pickup/6599183?source=rss",
+      "publishedAt": "2026-10-17T22:11:30.000Z",
+      "xQuery": "東京・福生で男性刺され死亡 逃走"
     },
     {
       "time": "23:59",
