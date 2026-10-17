@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-17T04:41:58.923Z",
+  "updatedAt": "2026-10-17T05:15:46.438Z",
   "items": [
     {
       "time": "12:54",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "米大統領 対露制裁関税適用を免除"
     },
     {
-      "time": "12:20",
-      "title": "北朝鮮が新型魚雷にAI使用 実験",
+      "time": "08:54",
+      "title": "9歳で失明し61歳で当選 市議の今",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599089?source=rss",
-      "publishedAt": "2026-10-17T03:20:59.000Z",
-      "xQuery": "北朝鮮が新型魚雷にAI使用 実験"
+      "url": "https://news.yahoo.co.jp/pickup/6599072?source=rss",
+      "publishedAt": "2026-10-16T23:54:23.000Z",
+      "xQuery": "9歳で失明し61歳で当選 市議の今"
     },
     {
       "time": "12:27",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "車にトラック追突 1人死亡1人重体"
     },
     {
-      "time": "08:54",
-      "title": "9歳で失明し61歳で当選 市議の今",
+      "time": "13:52",
+      "title": "住宅ローン金利上昇 今できること",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599072?source=rss",
-      "publishedAt": "2026-10-16T23:54:23.000Z",
-      "xQuery": "9歳で失明し61歳で当選 市議の今"
+      "url": "https://news.yahoo.co.jp/pickup/6599104?source=rss",
+      "publishedAt": "2026-10-17T04:52:59.000Z",
+      "xQuery": "住宅ローン金利上昇 今できること"
     },
     {
       "time": "13:18",

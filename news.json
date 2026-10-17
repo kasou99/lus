@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T04:41:58.010Z",
+  "updatedAt": "2026-10-17T05:15:45.703Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -8,13 +8,6 @@
         "source": "アットプレス",
         "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5hVjFrRmg4U1BYTy1tRElnYnRCdlJ4NnQ3cE4tTkZtM0pKdEJCQU5UWXoyOGlCT3FrUkxpMms5VTYzME11ZDJMWDhBM3JaUQ?oc=5",
         "publishedAt": "2026-10-16T09:30:00.000Z"
-      },
-      {
-        "time": "14:06",
-        "title": "工作機械のヤマザキマザック、加工工程と生産スケジュールをAIが提案、2028年度内の製品化目指す",
-        "source": "IT Leaders",
-        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1LczR5MXNmT3FFdmd5TGhMLWg4akNoS1ZSbk5VX1hYT3kxa2s4TEg4NjF0UHFQc0ZyY3NPcjAxSUhHSF9ZRXpJcjBESEhwUW9rdDlN?oc=5",
-        "publishedAt": "2026-10-16T05:06:12.000Z"
       },
       {
         "time": "06:26",
@@ -31,20 +24,6 @@
         "publishedAt": "2026-10-16T06:35:00.000Z"
       },
       {
-        "time": "13:59",
-        "title": "ヤマザキマザック、ABEJAと業務連携 工作機械にフィジカルAI実装",
-        "source": "日本経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9sWFhpSW93OXBDa2hDN2dtRXB6RVE1d2hha3JWZUlsWHMwWG9DNDFERFNfMEt2VDBRRzNybU14WTdQaVZxTTlUbHRTdkl0NkpnLVdJaUMxS3NzemZuWG5VdGZKNVh4SEs0QXVQMQ?oc=5",
-        "publishedAt": "2026-10-16T04:59:02.000Z"
-      },
-      {
-        "time": "01:20",
-        "title": "AIが自ら考えロボットを動かす技術「フィジカルAI」 ヤマザキマザックとABEJAが共同開発 人手不足の課題解決に向けて現場で導入目指す | 名古屋・愛知・岐阜・三重のニュース【CBC news】 | CBC web",
-        "source": "TBS NEWS DIG",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE45NXVveHg0d3VHQzZMckI1bmYtVFJqWFVjdWx3Wjg2RGFMbUlFYlc3NDhDUXVJd1FxSlBzSXA4QWVCU1ptRTJla2QybWpMbDNxdTNua3hCbFZGdw?oc=5",
-        "publishedAt": "2026-10-16T16:20:00.000Z"
-      },
-      {
         "time": "22:45",
         "title": "「JIMTOF2026 第33回日本国際工作機械見本市」出展のご案内",
         "source": "ニコニコニュース",
@@ -52,11 +31,32 @@
         "publishedAt": "2026-10-16T13:45:28.000Z"
       },
       {
+        "time": "01:20",
+        "title": "AIが自ら考えロボットを動かす技術「フィジカルAI」 ヤマザキマザックとABEJAが共同開発 人手不足の課題解決に向けて現場で導入目指す | 名古屋・愛知・岐阜・三重のニュース【CBC news】 | CBC web (1ページ)",
+        "source": "TBS NEWS DIG",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5WaklzTTFhOGRGT3A5TGxiX1R1N0JTS3dyT09qV3ByS1Z3WW5nSHlyUVRMQkZDUzI0bXprT3hPVjhrcEs3RkhaT3Y0YlVaMHZuaDNSYTROVVpwVEI0ZlpiR0MxdmR5VWM?oc=5",
+        "publishedAt": "2026-10-16T16:20:00.000Z"
+      },
+      {
         "time": "14:27",
         "title": "ABEJAとヤマザキマザック、製造現場のフィジカルAI実装へ業務連携 共同開発を開始",
         "source": "ビジネス+IT",
         "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5CbC1YMWMtbXRsemVMMVlaTE0wLXZzYjNvUFJGQnMxa0J0TkxqRDdnR01jbFFrUEJaTlJMVjFQcXU5SUFNRGdXS1g2MVRUcmlDQTZJ?oc=5",
         "publishedAt": "2026-10-16T05:27:00.000Z"
+      },
+      {
+        "time": "19:51",
+        "title": "ABEJA、ヤマザキマザックと製造現場のフィジカルAI実装に向けた業務連携を開始",
+        "source": "ASCII.jp",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBkVENTWW1lWV9aZnpEa2xGbU9fRmxhZjdrZ2djUG82YTk3azlBbUVzWjQ4QUxnUjlrVlpvWWNuc0NKUXdRZlhxSVViQTMxc2tSUkN3eA?oc=5",
+        "publishedAt": "2026-10-16T10:51:04.000Z"
+      },
+      {
+        "time": "16:23",
+        "title": "フィジカルＡＩ実装へ連携",
+        "source": "京都新聞デジタル",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE52ekFubF9FdzctcV91TkZOSjlTTUVoVlVWRy1KQUtRM2NSZ2J1ODNBejB5U19UcFJ6dXVWR3pGYmRSaUhMT0d1enVwanlkeVl1WFBucUVKQVJxOHM?oc=5",
+        "publishedAt": "2026-10-16T07:23:35.000Z"
       }
     ],
     "worldHeadlines": [
@@ -119,18 +119,18 @@
         "publishedAt": "2026-10-16T13:20:06.000Z"
       },
       {
-        "time": "18:46",
-        "title": "トヨタ 30年までに全車種をSDVに",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599017?source=rss",
-        "publishedAt": "2026-10-16T09:46:20.000Z"
-      },
-      {
         "time": "00:17",
         "title": "テスラ新型車 空を飛び宙返り実演",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6599049?source=rss",
         "publishedAt": "2026-10-16T15:17:22.000Z"
+      },
+      {
+        "time": "13:52",
+        "title": "住宅ローン金利上昇 今できること",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6599104?source=rss",
+        "publishedAt": "2026-10-17T04:52:59.000Z"
       },
       {
         "time": "13:18",
