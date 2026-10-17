@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-17T01:23:32.227Z",
+  "updatedAt": "2026-10-17T01:46:30.925Z",
   "items": [
+    {
+      "time": "10:15",
+      "title": "避難所に補助犬「想定」全国で1割",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599079?source=rss",
+      "publishedAt": "2026-10-17T01:15:31.000Z",
+      "xQuery": "避難所に補助犬「想定」全国で1割"
+    },
     {
       "time": "09:44",
       "title": "高市首相 靖国神社に真榊を奉納",
@@ -18,14 +26,6 @@ window.LUS_X_NEWS = {
       "xQuery": "地震速報 データの使用時に誤動作"
     },
     {
-      "time": "07:35",
-      "title": "米大統領報道官 わずか5日で解任",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599054?source=rss",
-      "publishedAt": "2026-10-16T22:35:11.000Z",
-      "xQuery": "米大統領報道官 わずか5日で解任"
-    },
-    {
       "time": "09:53",
       "title": "タイムズカー 免許画像すぐ削除へ",
       "source": "Yahoo!ニュース",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "タイムズカー 免許画像すぐ削除へ"
     },
     {
-      "time": "09:03",
-      "title": "県議「ばか」発言巡り朝まで審議",
+      "time": "10:43",
+      "title": "東北道でトラックが追突 1人死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599067?source=rss",
-      "publishedAt": "2026-10-17T00:03:08.000Z",
-      "xQuery": "県議「ばか」発言巡り朝まで審議"
+      "url": "https://news.yahoo.co.jp/pickup/6599081?source=rss",
+      "publishedAt": "2026-10-17T01:43:47.000Z",
+      "xQuery": "東北道でトラックが追突 1人死亡"
     }
   ]
 };
