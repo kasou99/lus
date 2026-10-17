@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-17T00:45:12.239Z",
+  "updatedAt": "2026-10-17T01:23:32.227Z",
   "items": [
+    {
+      "time": "09:44",
+      "title": "高市首相 靖国神社に真榊を奉納",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599075?source=rss",
+      "publishedAt": "2026-10-17T00:44:46.000Z",
+      "xQuery": "高市首相 靖国神社に真榊を奉納"
+    },
     {
       "time": "08:58",
       "title": "地震速報 データの使用時に誤動作",
@@ -8,14 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6599068?source=rss",
       "publishedAt": "2026-10-16T23:58:11.000Z",
       "xQuery": "地震速報 データの使用時に誤動作"
-    },
-    {
-      "time": "07:46",
-      "title": "福岡県 AM4時に百条委設置案可決",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599057?source=rss",
-      "publishedAt": "2026-10-16T22:46:30.000Z",
-      "xQuery": "福岡県 AM4時に百条委設置案可決"
     },
     {
       "time": "07:35",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "米大統領報道官 わずか5日で解任"
     },
     {
+      "time": "09:53",
+      "title": "タイムズカー 免許画像すぐ削除へ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599073?source=rss",
+      "publishedAt": "2026-10-17T00:53:22.000Z",
+      "xQuery": "タイムズカー 免許画像すぐ削除へ"
+    },
+    {
       "time": "09:03",
       "title": "県議「ばか」発言巡り朝まで審議",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6599067?source=rss",
       "publishedAt": "2026-10-17T00:03:08.000Z",
       "xQuery": "県議「ばか」発言巡り朝まで審議"
-    },
-    {
-      "time": "07:43",
-      "title": "「警察車両が幅寄せ」拡散 調査へ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599055?source=rss",
-      "publishedAt": "2026-10-16T22:43:59.000Z",
-      "xQuery": "「警察車両が幅寄せ」拡散 調査へ"
     }
   ]
 };
