@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T02:23:09.857Z",
+  "updatedAt": "2026-10-17T02:44:02.316Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,18 +17,18 @@
         "publishedAt": "2026-10-16T05:06:12.000Z"
       },
       {
-        "time": "15:35",
-        "title": "ヤマザキマザックとABEJA、工作機械にフィジカルAI実装へ共同開発",
-        "source": "BigGo ファイナンス",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBWTVRMSlBQQnJ2c253d0VQcWQ2ME5sQkY0S3V0akhkN1gtaTRxT285dDUwaWtVMFJBM1QyWF9QRlVUWmNmOTkwWkJkaExkeFp3UFB3dlJRaUhIUUhJTEZQUEZFMy16d0lBVERRSmltU21zbzdM?oc=5",
-        "publishedAt": "2026-10-16T06:35:00.000Z"
-      },
-      {
         "time": "06:26",
         "title": "【JIMTOF2026】10月26日～31日、東京ビッグサイトで開催。22カ国・地域から1,134社、工作機械の最新技術が集結/出展社情報もお伝えします",
         "source": "MICE TIMES ONLINE",
         "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE54X3AxMW9OVlBQU0pMMTA2YTZrby1nOGJPNE9pRzJqdWhzMHdkY1VISEtNdGlCSWRwSHF4cmVrd2otZXFEcjdHcQ?oc=5",
         "publishedAt": "2026-10-16T21:26:19.000Z"
+      },
+      {
+        "time": "15:35",
+        "title": "ヤマザキマザックとABEJA、工作機械にフィジカルAI実装へ共同開発",
+        "source": "BigGo ファイナンス",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBWTVRMSlBQQnJ2c253d0VQcWQ2ME5sQkY0S3V0akhkN1gtaTRxT285dDUwaWtVMFJBM1QyWF9QRlVUWmNmOTkwWkJkaExkeFp3UFB3dlJRaUhIUUhJTEZQUEZFMy16d0lBVERRSmltU21zbzdM?oc=5",
+        "publishedAt": "2026-10-16T06:35:00.000Z"
       },
       {
         "time": "13:59",
