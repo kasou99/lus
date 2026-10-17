@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-17T11:14:05.949Z",
+  "updatedAt": "2026-10-17T11:36:28.282Z",
   "items": [
     {
       "time": "17:10",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "新給付制度巡り平均3万円案 政府"
     },
     {
-      "time": "17:07",
-      "title": "誤報の地震速報 ぞっとした被災者",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599128?source=rss",
-      "publishedAt": "2026-10-17T08:07:34.000Z",
-      "xQuery": "誤報の地震速報 ぞっとした被災者"
-    },
-    {
       "time": "19:01",
       "title": "中国車 ノルウェー軍情報を記録",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6599145?source=rss",
       "publishedAt": "2026-10-17T10:01:54.000Z",
       "xQuery": "中国車 ノルウェー軍情報を記録"
+    },
+    {
+      "time": "20:02",
+      "title": "関東ｰ北海道 今季最も冷える所も",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599155?source=rss",
+      "publishedAt": "2026-10-17T11:02:54.000Z",
+      "xQuery": "関東ｰ北海道 今季最も冷える所も"
     },
     {
       "time": "18:42",
