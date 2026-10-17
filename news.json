@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T02:44:02.316Z",
+  "updatedAt": "2026-10-17T03:19:16.046Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -45,18 +45,18 @@
         "publishedAt": "2026-10-16T04:00:02.000Z"
       },
       {
+        "time": "01:20",
+        "title": "AIが自ら考えロボットを動かす技術「フィジカルAI」 ヤマザキマザックとABEJAが共同開発 人手不足の課題解決に向けて現場で導入目指す",
+        "source": "ｄメニューニュース",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1uUVFWUUJXb3NfRnhRZTVZWVQyZU5oaUFIQ3ZmVkdFTGQzNFh6N2xXX3AtRkZ1UTJlb0xXY3BweFBheU9JX1pfVnFZa2FfdTNicXMway1nbktiY09lcnR6RU5iazBGRDlpSmM0S21peGxUQUVGcjZFY0h30gF6QVVfeXFMTW5RUVZRQldvc19GeFFlNVlZVDJlTmhpQUhDdmZWR0VMZDM0WHo3bFdfcC1GRnVRMmVvTFdjcHB4UGF5T0lfWl9WcVlrYV91M2JxczBrLWduS2JjT2VydHpFTmJrMEZEOWlKYzRLbWl4bFRBRUZyNkVjSHc?oc=5",
+        "publishedAt": "2026-10-16T16:20:00.000Z"
+      },
+      {
         "time": "14:27",
         "title": "ABEJAとヤマザキマザック、製造現場のフィジカルAI実装へ業務連携 共同開発を開始",
         "source": "ビジネス+IT",
         "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5CbC1YMWMtbXRsemVMMVlaTE0wLXZzYjNvUFJGQnMxa0J0TkxqRDdnR01jbFFrUEJaTlJMVjFQcXU5SUFNRGdXS1g2MVRUcmlDQTZJ?oc=5",
         "publishedAt": "2026-10-16T05:27:00.000Z"
-      },
-      {
-        "time": "19:51",
-        "title": "ABEJA、ヤマザキマザックと製造現場のフィジカルAI実装に向けた業務連携を開始",
-        "source": "ASCII.jp",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBkVENTWW1lWV9aZnpEa2xGbU9fRmxhZjdrZ2djUG82YTk3azlBbUVzWjQ4QUxnUjlrVlpvWWNuc0NKUXdRZlhxSVViQTMxc2tSUkN3eA?oc=5",
-        "publishedAt": "2026-10-16T10:51:04.000Z"
       }
     ],
     "worldHeadlines": [

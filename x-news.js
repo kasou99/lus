@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-17T02:44:03.845Z",
+  "updatedAt": "2026-10-17T03:19:16.732Z",
   "items": [
     {
       "time": "11:07",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "タイムズカー 免許画像すぐ削除へ"
     },
     {
-      "time": "10:43",
-      "title": "東北道でトラックが追突 1人死亡",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599081?source=rss",
-      "publishedAt": "2026-10-17T01:43:47.000Z",
-      "xQuery": "東北道でトラックが追突 1人死亡"
-    },
-    {
       "time": "09:03",
       "title": "県議「ばか」発言巡り朝まで審議",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6599067?source=rss",
       "publishedAt": "2026-10-17T00:03:08.000Z",
       "xQuery": "県議「ばか」発言巡り朝まで審議"
+    },
+    {
+      "time": "10:01",
+      "title": "サイゼ値上げ「安さの王者」異変",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599078?source=rss",
+      "publishedAt": "2026-10-17T01:01:46.000Z",
+      "xQuery": "サイゼ値上げ「安さの王者」異変"
     }
   ]
 };
