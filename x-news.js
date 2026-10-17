@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-17T13:36:53.600Z",
+  "updatedAt": "2026-10-17T14:14:13.680Z",
   "items": [
     {
-      "time": "20:55",
-      "title": "情報漏えい 識者は「氷山の一角」",
+      "time": "21:13",
+      "title": "墜落の無人機胴体一部か 空自回収",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599161?source=rss",
-      "publishedAt": "2026-10-17T11:55:15.000Z",
-      "xQuery": "情報漏えい 識者は「氷山の一角」"
+      "url": "https://news.yahoo.co.jp/pickup/6599163?source=rss",
+      "publishedAt": "2026-10-17T12:13:39.000Z",
+      "xQuery": "墜落の無人機胴体一部か 空自回収"
     },
     {
-      "time": "17:19",
-      "title": "靖国に首相が真榊奉納 韓国は遺憾",
+      "time": "22:11",
+      "title": "ドコモの緊急地震速報 不具合解消",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599131?source=rss",
-      "publishedAt": "2026-10-17T08:19:09.000Z",
-      "xQuery": "靖国に首相が真榊奉納 韓国は遺憾"
+      "url": "https://news.yahoo.co.jp/pickup/6599170?source=rss",
+      "publishedAt": "2026-10-17T13:11:40.000Z",
+      "xQuery": "ドコモの緊急地震速報 不具合解消"
     },
     {
       "time": "21:01",

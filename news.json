@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T13:36:52.478Z",
+  "updatedAt": "2026-10-17T14:14:12.408Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -22,13 +22,6 @@
         "source": "TBS NEWS DIG",
         "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5WaklzTTFhOGRGT3A5TGxiX1R1N0JTS3dyT09qV3ByS1Z3WW5nSHlyUVRMQkZDUzI0bXprT3hPVjhrcEs3RkhaT3Y0YlVaMHZuaDNSYTROVVpwVEI0ZlpiR0MxdmR5VWM?oc=5",
         "publishedAt": "2026-10-16T16:20:00.000Z"
-      },
-      {
-        "time": "22:45",
-        "title": "「JIMTOF2026 第33回日本国際工作機械見本市」出展のご案内",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE00czR5Mmt0WjlrLVEtUUYtMDlkOUdOajBlWUoyRDQ4VWZQcjlIaFEzcEY5YVlvNWxIdEtjcW9Xc1phT1MteFZCUzFvNENsWjJZaVVRNlpodS1KdUM5NTNrYXZTZmtuU1FvSWlRem5HWQ?oc=5",
-        "publishedAt": "2026-10-16T13:45:28.000Z"
       },
       {
         "time": "14:11",
@@ -57,6 +50,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6599073?source=rss",
         "publishedAt": "2026-10-17T00:53:22.000Z"
+      },
+      {
+        "time": "18:42",
+        "title": "ソニー生命 50人を営業活動停止に",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6599146?source=rss",
+        "publishedAt": "2026-10-17T09:42:34.000Z"
       }
     ],
     "worldHeadlines": [
