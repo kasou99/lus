@@ -1,29 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-17T01:46:30.925Z",
+  "updatedAt": "2026-10-17T02:23:10.613Z",
   "items": [
     {
-      "time": "10:15",
-      "title": "避難所に補助犬「想定」全国で1割",
+      "time": "11:07",
+      "title": "簗氏辞任「参院の壁」浮き彫りに",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599079?source=rss",
-      "publishedAt": "2026-10-17T01:15:31.000Z",
-      "xQuery": "避難所に補助犬「想定」全国で1割"
+      "url": "https://news.yahoo.co.jp/pickup/6599085?source=rss",
+      "publishedAt": "2026-10-17T02:07:16.000Z",
+      "xQuery": "簗氏辞任「参院の壁」浮き彫りに"
     },
     {
-      "time": "09:44",
-      "title": "高市首相 靖国神社に真榊を奉納",
+      "time": "11:03",
+      "title": "ロシア 最激戦地「制圧」と主張",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599075?source=rss",
-      "publishedAt": "2026-10-17T00:44:46.000Z",
-      "xQuery": "高市首相 靖国神社に真榊を奉納"
-    },
-    {
-      "time": "08:58",
-      "title": "地震速報 データの使用時に誤動作",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599068?source=rss",
-      "publishedAt": "2026-10-16T23:58:11.000Z",
-      "xQuery": "地震速報 データの使用時に誤動作"
+      "url": "https://news.yahoo.co.jp/pickup/6599083?source=rss",
+      "publishedAt": "2026-10-17T02:03:35.000Z",
+      "xQuery": "ロシア 最激戦地「制圧」と主張"
     },
     {
       "time": "09:53",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6599081?source=rss",
       "publishedAt": "2026-10-17T01:43:47.000Z",
       "xQuery": "東北道でトラックが追突 1人死亡"
+    },
+    {
+      "time": "09:03",
+      "title": "県議「ばか」発言巡り朝まで審議",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599067?source=rss",
+      "publishedAt": "2026-10-17T00:03:08.000Z",
+      "xQuery": "県議「ばか」発言巡り朝まで審議"
     }
   ]
 };
