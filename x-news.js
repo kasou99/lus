@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-17T13:13:48.903Z",
+  "updatedAt": "2026-10-17T13:36:53.600Z",
   "items": [
     {
       "time": "20:55",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "母親を蹴り死なせた疑い 男を逮捕"
     },
     {
-      "time": "18:42",
-      "title": "ソニー生命 50人を営業活動停止に",
+      "time": "21:20",
+      "title": "米報道官が退任 働けて光栄だった",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599146?source=rss",
-      "publishedAt": "2026-10-17T09:42:34.000Z",
-      "xQuery": "ソニー生命 50人を営業活動停止に"
+      "url": "https://news.yahoo.co.jp/pickup/6599164?source=rss",
+      "publishedAt": "2026-10-17T12:20:05.000Z",
+      "xQuery": "米報道官が退任 働けて光栄だった"
     }
   ]
 };

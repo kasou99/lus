@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T13:13:47.763Z",
+  "updatedAt": "2026-10-17T13:36:52.478Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -24,18 +24,18 @@
         "publishedAt": "2026-10-16T16:20:00.000Z"
       },
       {
-        "time": "14:11",
-        "title": "共同通信ＰＲワイヤー",
-        "source": "山形新聞",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9XazQ2MFFvYXZ6T2k5aS12QVJxcUE2cjRmUlZPdjZwenVodU9YcS1GRWxkWVFuT1JKdU4wZHRvZGY1cWNSQUxmYVFuYWtPM3h4QlhEa3FPUUlQRjJSRGVPUHZMX0RaS0VYNmdB?oc=5",
-        "publishedAt": "2026-10-17T05:11:49.000Z"
-      },
-      {
         "time": "22:45",
         "title": "「JIMTOF2026 第33回日本国際工作機械見本市」出展のご案内",
         "source": "ニコニコニュース",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE00czR5Mmt0WjlrLVEtUUYtMDlkOUdOajBlWUoyRDQ4VWZQcjlIaFEzcEY5YVlvNWxIdEtjcW9Xc1phT1MteFZCUzFvNENsWjJZaVVRNlpodS1KdUM5NTNrYXZTZmtuU1FvSWlRem5HWQ?oc=5",
         "publishedAt": "2026-10-16T13:45:28.000Z"
+      },
+      {
+        "time": "14:11",
+        "title": "共同通信ＰＲワイヤー",
+        "source": "山形新聞",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9XazQ2MFFvYXZ6T2k5aS12QVJxcUE2cjRmUlZPdjZwenVodU9YcS1GRWxkWVFuT1JKdU4wZHRvZGY1cWNSQUxmYVFuYWtPM3h4QlhEa3FPUUlQRjJSRGVPUHZMX0RaS0VYNmdB?oc=5",
+        "publishedAt": "2026-10-17T05:11:49.000Z"
       },
       {
         "time": "05:00",
