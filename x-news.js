@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-17T10:36:53.986Z",
+  "updatedAt": "2026-10-17T11:14:05.949Z",
   "items": [
     {
       "time": "17:10",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "誤報の地震速報 ぞっとした被災者"
     },
     {
-      "time": "18:42",
-      "title": "ソニー生命 50人を営業活動停止に",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599146?source=rss",
-      "publishedAt": "2026-10-17T09:42:34.000Z",
-      "xQuery": "ソニー生命 50人を営業活動停止に"
-    },
-    {
       "time": "19:01",
       "title": "中国車 ノルウェー軍情報を記録",
       "source": "Yahoo!ニュース",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "中国車 ノルウェー軍情報を記録"
     },
     {
-      "time": "17:44",
-      "title": "中2で性被害 法廷立つ元入所女性",
+      "time": "18:42",
+      "title": "ソニー生命 50人を営業活動停止に",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599136?source=rss",
-      "publishedAt": "2026-10-17T08:44:48.000Z",
-      "xQuery": "中2で性被害 法廷立つ元入所女性"
+      "url": "https://news.yahoo.co.jp/pickup/6599146?source=rss",
+      "publishedAt": "2026-10-17T09:42:34.000Z",
+      "xQuery": "ソニー生命 50人を営業活動停止に"
+    },
+    {
+      "time": "20:07",
+      "title": "海で溺れていた高齢男女 意識不明",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599157?source=rss",
+      "publishedAt": "2026-10-17T11:07:51.000Z",
+      "xQuery": "海で溺れていた高齢男女 意識不明"
     }
   ]
 };

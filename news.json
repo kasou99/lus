@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T10:36:53.305Z",
+  "updatedAt": "2026-10-17T11:14:05.167Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -8,6 +8,20 @@
         "source": "MICE TIMES ONLINE",
         "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE54X3AxMW9OVlBQU0pMMTA2YTZrby1nOGJPNE9pRzJqdWhzMHdkY1VISEtNdGlCSWRwSHF4cmVrd2otZXFEcjdHcQ?oc=5",
         "publishedAt": "2026-10-17T04:28:57.000Z"
+      },
+      {
+        "time": "07:59",
+        "title": "精密スプリング製作所がＥＶ部品製造参入へ 自社技術応用、安価な複合材研究",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1jUnppR2hTeXR6Y1NmZ1ZZSUpSQVlxVldYZ205QTNWOFpwYUxtRERvLTVVc1Z3Zm9yWC1RbFUycHJNRUVlQ29BbmpOMXlKU1RnWnVvbE9lR09mMWhXUlhyemhyQndDUldtNGZhamFnUjV6NjViakhB?oc=5",
+        "publishedAt": "2026-10-16T22:59:05.000Z"
+      },
+      {
+        "time": "01:20",
+        "title": "AIが自ら考えロボットを動かす技術「フィジカルAI」 ヤマザキマザックとABEJAが共同開発 人手不足の課題解決に向けて現場で導入目指す | 名古屋・愛知・岐阜・三重のニュース【CBC news】 | CBC web (1ページ)",
+        "source": "TBS NEWS DIG",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5WaklzTTFhOGRGT3A5TGxiX1R1N0JTS3dyT09qV3ByS1Z3WW5nSHlyUVRMQkZDUzI0bXprT3hPVjhrcEs3RkhaT3Y0YlVaMHZuaDNSYTROVVpwVEI0ZlpiR0MxdmR5VWM?oc=5",
+        "publishedAt": "2026-10-16T16:20:00.000Z"
       },
       {
         "time": "14:11",
@@ -24,13 +38,6 @@
         "publishedAt": "2026-10-16T13:45:28.000Z"
       },
       {
-        "time": "01:20",
-        "title": "AIが自ら考えロボットを動かす技術「フィジカルAI」 ヤマザキマザックとABEJAが共同開発 人手不足の課題解決に向けて現場で導入目指す",
-        "source": "ｄメニューニュース",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1uUVFWUUJXb3NfRnhRZTVZWVQyZU5oaUFIQ3ZmVkdFTGQzNFh6N2xXX3AtRkZ1UTJlb0xXY3BweFBheU9JX1pfVnFZa2FfdTNicXMway1nbktiY09lcnR6RU5iazBGRDlpSmM0S21peGxUQUVGcjZFY0h30gF6QVVfeXFMTW5RUVZRQldvc19GeFFlNVlZVDJlTmhpQUhDdmZWR0VMZDM0WHo3bFdfcC1GRnVRMmVvTFdjcHB4UGF5T0lfWl9WcVlrYV91M2JxczBrLWduS2JjT2VydHpFTmJrMEZEOWlKYzRLbWl4bFRBRUZyNkVjSHc?oc=5",
-        "publishedAt": "2026-10-16T16:20:00.000Z"
-      },
-      {
         "time": "22:09",
         "title": "ヤマザキマザック、AI企業「ABEJA」とフィジカルAI共同開発へ：ニュース",
         "source": "中日BIZナビ",
@@ -38,18 +45,11 @@
         "publishedAt": "2026-10-16T13:09:58.000Z"
       },
       {
-        "time": "19:51",
+        "time": "21:00",
         "title": "ABEJA、ヤマザキマザックと製造現場のフィジカルAI実装に向けた業務連携を開始",
-        "source": "ASCII.jp",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBkVENTWW1lWV9aZnpEa2xGbU9fRmxhZjdrZ2djUG82YTk3azlBbUVzWjQ4QUxnUjlrVlpvWWNuc0NKUXdRZlhxSVViQTMxc2tSUkN3eA?oc=5",
-        "publishedAt": "2026-10-16T10:51:04.000Z"
-      },
-      {
-        "time": "19:53",
-        "title": "ヤマザキマザック、フィジカルＡＩでＡＩベンチャーと業務連携",
-        "source": "ｄメニューニュース",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5GRUxFNzF6VGlVenNYVVRVcUREbmhJa2ZwLXI0c3B2cEkwZS1FUnNtcHVsVFpiRWZFakZuVXIyM1hkWXpCZGxtUmxEejdxWlhJa3NsYWh0OTRBTEpTRmdfWEV6dGdFcWVSOUFsTWY2ZU9OenVUcm90NXJTRdIBgAFBVV95cUxNWWw4WUJqLV93Mm1ybGRza1VXanVIMjViZWRHMDRsVW53TXVjRGprSzRvV3p6VWFKVU1FbWcyLWtJSUlEZTF0SzVhUXF1UTgtYVhxQm9QencyRlloa0laQXFuaWxpTlpMek0wMFhjQkV0YTJlYWpkNUNOQmNsNEotZg?oc=5",
-        "publishedAt": "2026-10-16T10:53:00.000Z"
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ZaE1kOTRTUUNLVzk5Rlp1SmtPb0QyTmRTRUxtYS01SlJiNkdxcVZBU0FXOXFvbDg1U21KbTExNUo2R0dRTG40QTJfOUR0SjdrWHQwQkI2aklZOGRoSkl0R2c2X1o2aWZyUUU0V1RsZGJqNVBrMlhQcTktSQ?oc=5",
+        "publishedAt": "2026-10-16T12:00:24.000Z"
       },
       {
         "time": "05:00",
@@ -156,18 +156,18 @@
         "publishedAt": "2026-10-17T08:07:34.000Z"
       },
       {
-        "time": "07:46",
-        "title": "福岡県 AM4時に百条委設置案可決",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599057?source=rss",
-        "publishedAt": "2026-10-16T22:46:30.000Z"
-      },
-      {
         "time": "12:27",
         "title": "車にトラック追突 1人死亡1人重体",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6599092?source=rss",
         "publishedAt": "2026-10-17T03:27:05.000Z"
+      },
+      {
+        "time": "20:07",
+        "title": "海で溺れていた高齢男女 意識不明",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6599157?source=rss",
+        "publishedAt": "2026-10-17T11:07:51.000Z"
       },
       {
         "time": "09:46",
@@ -184,11 +184,11 @@
         "publishedAt": "2026-10-16T22:20:23.000Z"
       },
       {
-        "time": "17:44",
-        "title": "中2で性被害 法廷立つ元入所女性",
+        "time": "08:54",
+        "title": "9歳で失明し61歳で当選 市議の今",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599136?source=rss",
-        "publishedAt": "2026-10-17T08:44:48.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6599072?source=rss",
+        "publishedAt": "2026-10-16T23:54:23.000Z"
       }
     ],
     "subsidyHeadlines": [
