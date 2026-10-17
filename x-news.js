@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-16T23:37:05.695Z",
+  "updatedAt": "2026-10-17T00:45:12.239Z",
   "items": [
+    {
+      "time": "08:58",
+      "title": "地震速報 データの使用時に誤動作",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599068?source=rss",
+      "publishedAt": "2026-10-16T23:58:11.000Z",
+      "xQuery": "地震速報 データの使用時に誤動作"
+    },
     {
       "time": "07:46",
       "title": "福岡県 AM4時に百条委設置案可決",
@@ -8,14 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6599057?source=rss",
       "publishedAt": "2026-10-16T22:46:30.000Z",
       "xQuery": "福岡県 AM4時に百条委設置案可決"
-    },
-    {
-      "time": "08:01",
-      "title": "露拘束の記者と領事面会できず",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599059?source=rss",
-      "publishedAt": "2026-10-16T23:01:18.000Z",
-      "xQuery": "露拘束の記者と領事面会できず"
     },
     {
       "time": "07:35",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "米大統領報道官 わずか5日で解任"
     },
     {
+      "time": "09:03",
+      "title": "県議「ばか」発言巡り朝まで審議",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599067?source=rss",
+      "publishedAt": "2026-10-17T00:03:08.000Z",
+      "xQuery": "県議「ばか」発言巡り朝まで審議"
+    },
+    {
       "time": "07:43",
       "title": "「警察車両が幅寄せ」拡散 調査へ",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6599055?source=rss",
       "publishedAt": "2026-10-16T22:43:59.000Z",
       "xQuery": "「警察車両が幅寄せ」拡散 調査へ"
-    },
-    {
-      "time": "07:20",
-      "title": "荷物用エレベーターに挟まれ死亡",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599053?source=rss",
-      "publishedAt": "2026-10-16T22:20:23.000Z",
-      "xQuery": "荷物用エレベーターに挟まれ死亡"
     }
   ]
 };
