@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-17T08:41:45.868Z",
+  "updatedAt": "2026-10-17T09:16:19.041Z",
   "items": [
     {
       "time": "14:56",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "APECホスト役中国 監視態勢徹底"
     },
     {
-      "time": "17:10",
-      "title": "新給付制度巡り平均3万円案 政府",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599130?source=rss",
-      "publishedAt": "2026-10-17T08:10:40.000Z",
-      "xQuery": "新給付制度巡り平均3万円案 政府"
-    },
-    {
       "time": "16:20",
       "title": "IMF高官評価 日本の消費減税法案",
       "source": "Yahoo!ニュース",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "IMF高官評価 日本の消費減税法案"
     },
     {
-      "time": "15:46",
-      "title": "故人のサブスク解約で苦労 注意点",
+      "time": "17:10",
+      "title": "新給付制度巡り平均3万円案 政府",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599119?source=rss",
-      "publishedAt": "2026-10-17T06:46:31.000Z",
-      "xQuery": "故人のサブスク解約で苦労 注意点"
+      "url": "https://news.yahoo.co.jp/pickup/6599130?source=rss",
+      "publishedAt": "2026-10-17T08:10:40.000Z",
+      "xQuery": "新給付制度巡り平均3万円案 政府"
+    },
+    {
+      "time": "17:44",
+      "title": "中2で性被害 法廷立つ元入所女性",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599136?source=rss",
+      "publishedAt": "2026-10-17T08:44:48.000Z",
+      "xQuery": "中2で性被害 法廷立つ元入所女性"
     }
   ]
 };
