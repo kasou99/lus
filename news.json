@@ -1,7 +1,35 @@
 {
-  "updatedAt": "2026-10-17T21:36:55.181Z",
+  "updatedAt": "2026-10-17T22:13:37.676Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "18:08",
+        "title": "【探訪ザ・カンパニー】オーザック（福山市）安全支えるワイヤ金具",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB2YnlPN09iTUcyOGNldkhrT1k5RzQ5M0pLNkE3NkV1YzJxUDFPam9xOTV6dFZva2ZrNHNxNkZIOGYxMXN6R1JyUHFIMXZIamRMT2c?oc=5",
+        "publishedAt": "2026-10-17T09:08:15.000Z"
+      },
+      {
+        "time": "13:28",
+        "title": "【JIMTOF2026】10月26日～31日、東京ビッグサイトで開催。22カ国・地域から1,134社、工作機械の最新技術が集結/出展社情報もお伝えします",
+        "source": "MICE TIMES ONLINE",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE54X3AxMW9OVlBQU0pMMTA2YTZrby1nOGJPNE9pRzJqdWhzMHdkY1VISEtNdGlCSWRwSHF4cmVrd2otZXFEcjdHcQ?oc=5",
+        "publishedAt": "2026-10-17T04:28:57.000Z"
+      },
+      {
+        "time": "14:11",
+        "title": "共同通信ＰＲワイヤー",
+        "source": "山形新聞",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9XazQ2MFFvYXZ6T2k5aS12QVJxcUE2cjRmUlZPdjZwenVodU9YcS1GRWxkWVFuT1JKdU4wZHRvZGY1cWNSQUxmYVFuYWtPM3h4QlhEa3FPUUlQRjJSRGVPUHZMX0RaS0VYNmdB?oc=5",
+        "publishedAt": "2026-10-17T05:11:49.000Z"
+      },
+      {
+        "time": "07:59",
+        "title": "精密スプリング製作所がＥＶ部品製造参入へ 自社技術応用、安価な複合材研究",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1jUnppR2hTeXR6Y1NmZ1ZZSUpSQVlxVldYZ205QTNWOFpwYUxtRERvLTVVc1Z3Zm9yWC1RbFUycHJNRUVlQ29BbmpOMXlKU1RnWnVvbE9lR09mMWhXUlhyemhyQndDUldtNGZhamFnUjV6NjViakhB?oc=5",
+        "publishedAt": "2026-10-16T22:59:05.000Z"
+      },
       {
         "time": "16:20",
         "title": "IMF高官評価 日本の消費減税法案",
@@ -29,34 +57,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6599149?source=rss",
         "publishedAt": "2026-10-17T10:08:50.000Z"
-      },
-      {
-        "time": "13:52",
-        "title": "住宅ローン金利上昇 今できること",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599104?source=rss",
-        "publishedAt": "2026-10-17T04:52:59.000Z"
-      },
-      {
-        "time": "20:49",
-        "title": "なぜ都市部にデータセンター 解説",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599158?source=rss",
-        "publishedAt": "2026-10-17T11:49:59.000Z"
-      },
-      {
-        "time": "13:18",
-        "title": "「隠れ教育費」にモヤモヤ 親の声",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599101?source=rss",
-        "publishedAt": "2026-10-17T04:18:51.000Z"
-      },
-      {
-        "time": "18:31",
-        "title": "レタスが高値 マックやロイホ対応",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599147?source=rss",
-        "publishedAt": "2026-10-17T09:31:47.000Z"
       }
     ],
     "worldHeadlines": [
@@ -149,11 +149,11 @@
     ],
     "localHeadlines": [
       {
-        "time": "23:31",
-        "title": "関東で今季初の冬日 栃木県日光市",
+        "time": "07:11",
+        "title": "東京・福生で男性刺され死亡 逃走",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599179?source=rss",
-        "publishedAt": "2026-10-17T14:31:41.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6599183?source=rss",
+        "publishedAt": "2026-10-17T22:11:30.000Z"
       },
       {
         "time": "17:07",
@@ -215,6 +215,13 @@
         "title": "中小企業省力化投資補助金の公募・採択情報を確認",
         "source": "中小機構",
         "url": "https://seisansei.smrj.go.jp/subsidy_info/laborsaving_subsidy.html"
+      },
+      {
+        "time": "16:00",
+        "title": "【2026年最新】中小企業向け補助金6制度まとめ｜締切・補助率・上限額一覧",
+        "source": "補助金ポータル",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Idm5vYjJtajVIYjhheTZVVTVQTXRXMndVNkRmWnVEZnZyNVRRV3ZncXZhREsxNXBqYXFZSlZmNHhLeHhkbUNRcXljRlJNWVh2ZmZrSXlsVVJsdGI5RGtBdmoxUGx1YlozMUE?oc=5",
+        "publishedAt": "2026-09-30T07:00:00.000Z"
       }
     ]
   }
