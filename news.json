@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T12:43:57.436Z",
+  "updatedAt": "2026-10-17T13:13:47.763Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,13 +38,6 @@
         "publishedAt": "2026-10-16T13:45:28.000Z"
       },
       {
-        "time": "22:09",
-        "title": "ヤマザキマザック、AI企業「ABEJA」とフィジカルAI共同開発へ：ニュース",
-        "source": "中日BIZナビ",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9HWVFPNUtHbG1oU2Q1dWxlZVFyVU1XV1NQZ21oNUw1R3NPVUQ2bE9BSDFJTzVFUHBfN3BwbXczZThGOFhXQjdnUzBqb05nRzNkamxnZG9rNE94X0RJb2VN?oc=5",
-        "publishedAt": "2026-10-16T13:09:58.000Z"
-      },
-      {
         "time": "05:00",
         "title": "「フィジカルＡＩ」実装へ連携 ヤマザキマザック、ＡＢＥＪＡ社と",
         "source": "中部経済新聞",
@@ -57,6 +50,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6599121?source=rss",
         "publishedAt": "2026-10-17T07:20:56.000Z"
+      },
+      {
+        "time": "09:53",
+        "title": "タイムズカー 免許画像すぐ削除へ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6599073?source=rss",
+        "publishedAt": "2026-10-17T00:53:22.000Z"
       }
     ],
     "worldHeadlines": [

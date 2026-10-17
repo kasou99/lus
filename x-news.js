@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-17T12:43:58.187Z",
+  "updatedAt": "2026-10-17T13:13:48.903Z",
   "items": [
+    {
+      "time": "20:55",
+      "title": "情報漏えい 識者は「氷山の一角」",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599161?source=rss",
+      "publishedAt": "2026-10-17T11:55:15.000Z",
+      "xQuery": "情報漏えい 識者は「氷山の一角」"
+    },
     {
       "time": "17:19",
       "title": "靖国に首相が真榊奉納 韓国は遺憾",
@@ -10,20 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "靖国に首相が真榊奉納 韓国は遺憾"
     },
     {
-      "time": "19:01",
-      "title": "中国車 ノルウェー軍情報を記録",
+      "time": "21:01",
+      "title": "「簗前農相の圧力」の検証 困難に",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599145?source=rss",
-      "publishedAt": "2026-10-17T10:01:54.000Z",
-      "xQuery": "中国車 ノルウェー軍情報を記録"
-    },
-    {
-      "time": "20:02",
-      "title": "関東ｰ北海道 今季最も冷える所も",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599155?source=rss",
-      "publishedAt": "2026-10-17T11:02:54.000Z",
-      "xQuery": "関東ｰ北海道 今季最も冷える所も"
+      "url": "https://news.yahoo.co.jp/pickup/6599160?source=rss",
+      "publishedAt": "2026-10-17T12:01:26.000Z",
+      "xQuery": "「簗前農相の圧力」の検証 困難に"
     },
     {
       "time": "20:50",
