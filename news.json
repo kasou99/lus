@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T16:38:41.776Z",
+  "updatedAt": "2026-10-17T17:12:55.879Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,13 +31,6 @@
         "publishedAt": "2026-10-16T20:00:00.000Z"
       },
       {
-        "time": "01:42",
-        "title": "AIが自ら考えロボットを動かす技術「フィジカルAI」 ヤマザキマザックとABEJAが共同開発 人手不足の課題解決に向けて現場で導入目指す",
-        "source": "Excite エキサイト",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBzUXhFbnhTNDRHUkhvend6bG5MbDlUYXJlRl91YkNpY05OeW9kQklZMnNsSkNNRzVWcmxTemR1cXVNNXdlRkZQVmFzMmtxM3RXNEp2UTFPRXRxSTY3NFlPTXhxZmRleDQ?oc=5",
-        "publishedAt": "2026-10-16T16:42:42.000Z"
-      },
-      {
         "time": "16:20",
         "title": "IMF高官評価 日本の消費減税法案",
         "source": "Yahoo!ニュース",
@@ -57,6 +50,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6599146?source=rss",
         "publishedAt": "2026-10-17T09:42:34.000Z"
+      },
+      {
+        "time": "19:08",
+        "title": "冷凍食品 高級化に異業種の参入",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6599149?source=rss",
+        "publishedAt": "2026-10-17T10:08:50.000Z"
       }
     ],
     "worldHeadlines": [
