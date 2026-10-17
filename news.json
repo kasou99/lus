@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T14:14:12.408Z",
+  "updatedAt": "2026-10-17T14:37:05.748Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "23:31",
+        "title": "関東で今季初の冬日 栃木県日光市",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6599179?source=rss",
+        "publishedAt": "2026-10-17T14:31:41.000Z"
+      },
+      {
         "time": "17:07",
         "title": "誤報の地震速報 ぞっとした被災者",
         "source": "Yahoo!ニュース",
@@ -175,13 +182,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6599159?source=rss",
         "publishedAt": "2026-10-17T11:50:16.000Z"
-      },
-      {
-        "time": "09:46",
-        "title": "伐採中ショベルカーにひかれ死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599074?source=rss",
-        "publishedAt": "2026-10-17T00:46:07.000Z"
       },
       {
         "time": "07:20",

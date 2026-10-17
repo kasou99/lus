@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-17T14:14:13.680Z",
+  "updatedAt": "2026-10-17T14:37:06.213Z",
   "items": [
     {
       "time": "21:13",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "墜落の無人機胴体一部か 空自回収"
     },
     {
+      "time": "22:58",
+      "title": "高まる反移民感情 在留外国人最多",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599175?source=rss",
+      "publishedAt": "2026-10-17T13:58:09.000Z",
+      "xQuery": "高まる反移民感情 在留外国人最多"
+    },
+    {
       "time": "22:11",
       "title": "ドコモの緊急地震速報 不具合解消",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6599170?source=rss",
       "publishedAt": "2026-10-17T13:11:40.000Z",
       "xQuery": "ドコモの緊急地震速報 不具合解消"
-    },
-    {
-      "time": "21:01",
-      "title": "「簗前農相の圧力」の検証 困難に",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599160?source=rss",
-      "publishedAt": "2026-10-17T12:01:26.000Z",
-      "xQuery": "「簗前農相の圧力」の検証 困難に"
     },
     {
       "time": "20:50",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "母親を蹴り死なせた疑い 男を逮捕"
     },
     {
-      "time": "21:20",
-      "title": "米報道官が退任 働けて光栄だった",
+      "time": "23:20",
+      "title": "ローマ教皇退院 がん術後経過順調",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599164?source=rss",
-      "publishedAt": "2026-10-17T12:20:05.000Z",
-      "xQuery": "米報道官が退任 働けて光栄だった"
+      "url": "https://news.yahoo.co.jp/pickup/6599178?source=rss",
+      "publishedAt": "2026-10-17T14:20:00.000Z",
+      "xQuery": "ローマ教皇退院 がん術後経過順調"
     }
   ]
 };
