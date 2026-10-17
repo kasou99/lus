@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-17T11:36:28.282Z",
+  "updatedAt": "2026-10-17T12:22:22.418Z",
   "items": [
     {
-      "time": "17:10",
-      "title": "新給付制度巡り平均3万円案 政府",
+      "time": "17:19",
+      "title": "靖国に首相が真榊奉納 韓国は遺憾",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599130?source=rss",
-      "publishedAt": "2026-10-17T08:10:40.000Z",
-      "xQuery": "新給付制度巡り平均3万円案 政府"
+      "url": "https://news.yahoo.co.jp/pickup/6599131?source=rss",
+      "publishedAt": "2026-10-17T08:19:09.000Z",
+      "xQuery": "靖国に首相が真榊奉納 韓国は遺憾"
     },
     {
       "time": "19:01",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "関東ｰ北海道 今季最も冷える所も"
     },
     {
+      "time": "20:50",
+      "title": "母親を蹴り死なせた疑い 男を逮捕",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599159?source=rss",
+      "publishedAt": "2026-10-17T11:50:16.000Z",
+      "xQuery": "母親を蹴り死なせた疑い 男を逮捕"
+    },
+    {
       "time": "18:42",
       "title": "ソニー生命 50人を営業活動停止に",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6599146?source=rss",
       "publishedAt": "2026-10-17T09:42:34.000Z",
       "xQuery": "ソニー生命 50人を営業活動停止に"
-    },
-    {
-      "time": "20:07",
-      "title": "海で溺れていた高齢男女 意識不明",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599157?source=rss",
-      "publishedAt": "2026-10-17T11:07:51.000Z",
-      "xQuery": "海で溺れていた高齢男女 意識不明"
     }
   ]
 };
