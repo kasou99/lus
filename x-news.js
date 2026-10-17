@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-17T08:20:09.182Z",
+  "updatedAt": "2026-10-17T08:41:45.868Z",
   "items": [
+    {
+      "time": "14:56",
+      "title": "首相防戦 立民が簗氏更迭巡り追及",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599109?source=rss",
+      "publishedAt": "2026-10-17T05:56:21.000Z",
+      "xQuery": "首相防戦 立民が簗氏更迭巡り追及"
+    },
     {
       "time": "15:14",
       "title": "APECホスト役中国 監視態勢徹底",
@@ -10,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "APECホスト役中国 監視態勢徹底"
     },
     {
-      "time": "15:37",
-      "title": "「八百長」防ぐ新法 協議加速へ",
+      "time": "17:10",
+      "title": "新給付制度巡り平均3万円案 政府",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599118?source=rss",
-      "publishedAt": "2026-10-17T06:37:36.000Z",
-      "xQuery": "「八百長」防ぐ新法 協議加速へ"
+      "url": "https://news.yahoo.co.jp/pickup/6599130?source=rss",
+      "publishedAt": "2026-10-17T08:10:40.000Z",
+      "xQuery": "新給付制度巡り平均3万円案 政府"
     },
     {
       "time": "16:20",
@@ -24,14 +32,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6599121?source=rss",
       "publishedAt": "2026-10-17T07:20:56.000Z",
       "xQuery": "IMF高官評価 日本の消費減税法案"
-    },
-    {
-      "time": "14:53",
-      "title": "「高市離れ」男性も加速 時事調査",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599110?source=rss",
-      "publishedAt": "2026-10-17T05:53:03.000Z",
-      "xQuery": "「高市離れ」男性も加速 時事調査"
     },
     {
       "time": "15:46",

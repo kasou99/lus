@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T08:20:08.606Z",
+  "updatedAt": "2026-10-17T08:41:44.680Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,11 +17,11 @@
         "publishedAt": "2026-10-16T21:26:19.000Z"
       },
       {
-        "time": "01:20",
-        "title": "AIが自ら考えロボットを動かす技術「フィジカルAI」 ヤマザキマザックとABEJAが共同開発 人手不足の課題解決に向けて現場で導入目指す | 名古屋・愛知・岐阜・三重のニュース【CBC news】 | CBC web (1ページ)",
-        "source": "TBS NEWS DIG",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5WaklzTTFhOGRGT3A5TGxiX1R1N0JTS3dyT09qV3ByS1Z3WW5nSHlyUVRMQkZDUzI0bXprT3hPVjhrcEs3RkhaT3Y0YlVaMHZuaDNSYTROVVpwVEI0ZlpiR0MxdmR5VWM?oc=5",
-        "publishedAt": "2026-10-16T16:20:00.000Z"
+        "time": "07:59",
+        "title": "精密スプリング製作所がＥＶ部品製造参入へ 自社技術応用、安価な複合材研究",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1jUnppR2hTeXR6Y1NmZ1ZZSUpSQVlxVldYZ205QTNWOFpwYUxtRERvLTVVc1Z3Zm9yWC1RbFUycHJNRUVlQ29BbmpOMXlKU1RnWnVvbE9lR09mMWhXUlhyemhyQndDUldtNGZhamFnUjV6NjViakhB?oc=5",
+        "publishedAt": "2026-10-16T22:59:05.000Z"
       },
       {
         "time": "22:45",
@@ -31,18 +31,18 @@
         "publishedAt": "2026-10-16T13:45:28.000Z"
       },
       {
+        "time": "01:20",
+        "title": "AIが自ら考えロボットを動かす技術「フィジカルAI」 ヤマザキマザックとABEJAが共同開発 人手不足の課題解決に向けて現場で導入目指す | 名古屋・愛知・岐阜・三重のニュース【CBC news】 | CBC web (1ページ)",
+        "source": "TBS NEWS DIG",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5WaklzTTFhOGRGT3A5TGxiX1R1N0JTS3dyT09qV3ByS1Z3WW5nSHlyUVRMQkZDUzI0bXprT3hPVjhrcEs3RkhaT3Y0YlVaMHZuaDNSYTROVVpwVEI0ZlpiR0MxdmR5VWM?oc=5",
+        "publishedAt": "2026-10-16T16:20:00.000Z"
+      },
+      {
         "time": "14:11",
         "title": "共同通信ＰＲワイヤー",
         "source": "山形新聞",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9XazQ2MFFvYXZ6T2k5aS12QVJxcUE2cjRmUlZPdjZwenVodU9YcS1GRWxkWVFuT1JKdU4wZHRvZGY1cWNSQUxmYVFuYWtPM3h4QlhEa3FPUUlQRjJSRGVPUHZMX0RaS0VYNmdB?oc=5",
         "publishedAt": "2026-10-17T05:11:49.000Z"
-      },
-      {
-        "time": "22:09",
-        "title": "ヤマザキマザック、AI企業「ABEJA」とフィジカルAI共同開発へ：ニュース",
-        "source": "中日BIZナビ",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9HWVFPNUtHbG1oU2Q1dWxlZVFyVU1XV1NQZ21oNUw1R3NPVUQ2bE9BSDFJTzVFUHBfN3BwbXczZThGOFhXQjdnUzBqb05nRzNkamxnZG9rNE94X0RJb2VN?oc=5",
-        "publishedAt": "2026-10-16T13:09:58.000Z"
       },
       {
         "time": "19:51",
@@ -52,14 +52,21 @@
         "publishedAt": "2026-10-16T10:51:04.000Z"
       },
       {
-        "time": "18:34",
-        "title": "会社役員の男に懲役4年6月の実刑判決 ニデックTOB巡りインサイダー取引 東京地裁",
-        "source": "Infoseek",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNYUlMcDlIT0VwWHVkQkFRRl9qZlYtNlNEa0pIVTQ3UTBjVUFGWUY4QjVHNy1vMjVaM1VNMnQwcGFzcWxZa1NXR2Z0U0N1NTh4R3J2ak1UWmFPZG1wY2pPcndHUzZmQXZMQ29PYThCcTFnbTA0NXNFZTV3UVJWZ0o1Y3Z0WlJ6amJQeEdlWXd2OE1qUlJi0gGUAUFVX3lxTE1hSUxwOUhPRXBYdWRCQVFGX2pmVi02U0RrSkhVNDdRMGNVQUZZRjhCNUc3LW8yNVozVU0ydDBwYXNxbFlrU1dHZnRTQ3U1OHhHcnZqTVRaYU9kbXBjak9yd0dTNmZBdkxDb09hOEJxMWdtMDQ1c0VlNXdRUlZnSjVjdnRaUnpqYlB4R2VZd3Y4TWpSUmI?oc=5",
-        "publishedAt": "2026-10-16T09:34:01.000Z"
+        "time": "22:09",
+        "title": "ヤマザキマザック、AI企業「ABEJA」とフィジカルAI共同開発へ：ニュース",
+        "source": "中日BIZナビ",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9HWVFPNUtHbG1oU2Q1dWxlZVFyVU1XV1NQZ21oNUw1R3NPVUQ2bE9BSDFJTzVFUHBfN3BwbXczZThGOFhXQjdnUzBqb05nRzNkamxnZG9rNE94X0RJb2VN?oc=5",
+        "publishedAt": "2026-10-16T13:09:58.000Z"
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "17:19",
+        "title": "靖国に首相が真榊奉納 韓国は遺憾",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6599131?source=rss",
+        "publishedAt": "2026-10-17T08:19:09.000Z"
+      },
       {
         "time": "12:54",
         "title": "米大統領 対露制裁関税適用を免除",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6599083?source=rss",
         "publishedAt": "2026-10-17T02:03:35.000Z"
-      },
-      {
-        "time": "14:46",
-        "title": "ローマ教皇 プーチン氏に停戦要請",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599108?source=rss",
-        "publishedAt": "2026-10-17T05:46:19.000Z"
       }
     ],
     "economyHeadlines": [
