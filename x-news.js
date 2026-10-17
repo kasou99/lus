@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-17T09:16:19.041Z",
+  "updatedAt": "2026-10-17T09:38:12.574Z",
   "items": [
     {
       "time": "14:56",
@@ -8,14 +8,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6599109?source=rss",
       "publishedAt": "2026-10-17T05:56:21.000Z",
       "xQuery": "首相防戦 立民が簗氏更迭巡り追及"
-    },
-    {
-      "time": "15:14",
-      "title": "APECホスト役中国 監視態勢徹底",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599115?source=rss",
-      "publishedAt": "2026-10-17T06:14:42.000Z",
-      "xQuery": "APECホスト役中国 監視態勢徹底"
     },
     {
       "time": "16:20",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6599136?source=rss",
       "publishedAt": "2026-10-17T08:44:48.000Z",
       "xQuery": "中2で性被害 法廷立つ元入所女性"
+    },
+    {
+      "time": "18:31",
+      "title": "レタスが高値 マックやロイホ対応",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599147?source=rss",
+      "publishedAt": "2026-10-17T09:31:47.000Z",
+      "xQuery": "レタスが高値 マックやロイホ対応"
     }
   ]
 };
