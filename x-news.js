@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-17T06:50:31.836Z",
+  "updatedAt": "2026-10-17T07:16:06.521Z",
   "items": [
     {
-      "time": "14:53",
-      "title": "「高市離れ」男性も加速 時事調査",
+      "time": "15:14",
+      "title": "APECホスト役中国 監視態勢徹底",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599110?source=rss",
-      "publishedAt": "2026-10-17T05:53:03.000Z",
-      "xQuery": "「高市離れ」男性も加速 時事調査"
+      "url": "https://news.yahoo.co.jp/pickup/6599115?source=rss",
+      "publishedAt": "2026-10-17T06:14:42.000Z",
+      "xQuery": "APECホスト役中国 監視態勢徹底"
     },
     {
       "time": "14:46",
@@ -18,20 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "ローマ教皇 プーチン氏に停戦要請"
     },
     {
-      "time": "13:52",
-      "title": "住宅ローン金利上昇 今できること",
+      "time": "14:53",
+      "title": "「高市離れ」男性も加速 時事調査",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599104?source=rss",
-      "publishedAt": "2026-10-17T04:52:59.000Z",
-      "xQuery": "住宅ローン金利上昇 今できること"
-    },
-    {
-      "time": "13:18",
-      "title": "「隠れ教育費」にモヤモヤ 親の声",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599101?source=rss",
-      "publishedAt": "2026-10-17T04:18:51.000Z",
-      "xQuery": "「隠れ教育費」にモヤモヤ 親の声"
+      "url": "https://news.yahoo.co.jp/pickup/6599110?source=rss",
+      "publishedAt": "2026-10-17T05:53:03.000Z",
+      "xQuery": "「高市離れ」男性も加速 時事調査"
     },
     {
       "time": "14:28",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6599107?source=rss",
       "publishedAt": "2026-10-17T05:28:45.000Z",
       "xQuery": "子ども食堂巡る投稿賛否 店主真意"
+    },
+    {
+      "time": "15:46",
+      "title": "故人のサブスク解約で苦労 注意点",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599119?source=rss",
+      "publishedAt": "2026-10-17T06:46:31.000Z",
+      "xQuery": "故人のサブスク解約で苦労 注意点"
     }
   ]
 };
