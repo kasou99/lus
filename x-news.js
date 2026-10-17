@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-17T04:18:34.609Z",
+  "updatedAt": "2026-10-17T04:41:58.923Z",
   "items": [
     {
       "time": "12:54",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "北朝鮮が新型魚雷にAI使用 実験"
     },
     {
-      "time": "09:53",
-      "title": "タイムズカー 免許画像すぐ削除へ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599073?source=rss",
-      "publishedAt": "2026-10-17T00:53:22.000Z",
-      "xQuery": "タイムズカー 免許画像すぐ削除へ"
-    },
-    {
       "time": "12:27",
       "title": "車にトラック追突 1人死亡1人重体",
       "source": "Yahoo!ニュース",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6599072?source=rss",
       "publishedAt": "2026-10-16T23:54:23.000Z",
       "xQuery": "9歳で失明し61歳で当選 市議の今"
+    },
+    {
+      "time": "13:18",
+      "title": "「隠れ教育費」にモヤモヤ 親の声",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599101?source=rss",
+      "publishedAt": "2026-10-17T04:18:51.000Z",
+      "xQuery": "「隠れ教育費」にモヤモヤ 親の声"
     }
   ]
 };

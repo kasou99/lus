@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T04:18:32.920Z",
+  "updatedAt": "2026-10-17T04:41:58.010Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -112,13 +112,6 @@
         "publishedAt": "2026-10-17T00:53:22.000Z"
       },
       {
-        "time": "15:31",
-        "title": "東海道新幹線のぞみ 来年値上げへ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598992?source=rss",
-        "publishedAt": "2026-10-16T06:31:21.000Z"
-      },
-      {
         "time": "22:20",
         "title": "ニデック 永守氏らへの訴訟を検討",
         "source": "Yahoo!ニュース",
@@ -138,6 +131,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6599049?source=rss",
         "publishedAt": "2026-10-16T15:17:22.000Z"
+      },
+      {
+        "time": "13:18",
+        "title": "「隠れ教育費」にモヤモヤ 親の声",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6599101?source=rss",
+        "publishedAt": "2026-10-17T04:18:51.000Z"
       },
       {
         "time": "10:01",
