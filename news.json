@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T05:39:02.687Z",
+  "updatedAt": "2026-10-17T06:26:47.736Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -24,6 +24,13 @@
         "publishedAt": "2026-10-16T06:35:00.000Z"
       },
       {
+        "time": "22:45",
+        "title": "「JIMTOF2026 第33回日本国際工作機械見本市」出展のご案内",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5zV3lGRF9ZR0pxZFZTYVhEcXRHOGhfem50cmVHMm1jWkpvX1lTRXpnME51dUNmWGxvbnZTZUxfUHQ1THdiMC1Pd284Vm1vbmd3Wkw1U3Etc29GWDNHUTdjRGlBRUV5QV9ZaE5pUnN2VmNQUmlNNEwzbHNjNA?oc=5",
+        "publishedAt": "2026-10-16T13:45:28.000Z"
+      },
+      {
         "time": "01:20",
         "title": "AIが自ら考えロボットを動かす技術「フィジカルAI」 ヤマザキマザックとABEJAが共同開発 人手不足の課題解決に向けて現場で導入目指す | 名古屋・愛知・岐阜・三重のニュース【CBC news】 | CBC web (1ページ)",
         "source": "TBS NEWS DIG",
@@ -31,11 +38,11 @@
         "publishedAt": "2026-10-16T16:20:00.000Z"
       },
       {
-        "time": "22:45",
-        "title": "「JIMTOF2026 第33回日本国際工作機械見本市」出展のご案内",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE00czR5Mmt0WjlrLVEtUUYtMDlkOUdOajBlWUoyRDQ4VWZQcjlIaFEzcEY5YVlvNWxIdEtjcW9Xc1phT1MteFZCUzFvNENsWjJZaVVRNlpodS1KdUM5NTNrYXZTZmtuU1FvSWlRem5HWQ?oc=5",
-        "publishedAt": "2026-10-16T13:45:28.000Z"
+        "time": "14:11",
+        "title": "共同通信ＰＲワイヤー",
+        "source": "山形新聞",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9XazQ2MFFvYXZ6T2k5aS12QVJxcUE2cjRmUlZPdjZwenVodU9YcS1GRWxkWVFuT1JKdU4wZHRvZGY1cWNSQUxmYVFuYWtPM3h4QlhEa3FPUUlQRjJSRGVPUHZMX0RaS0VYNmdB?oc=5",
+        "publishedAt": "2026-10-17T05:11:49.000Z"
       },
       {
         "time": "19:51",
@@ -50,13 +57,6 @@
         "source": "京都新聞デジタル",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE52ekFubF9FdzctcV91TkZOSjlTTUVoVlVWRy1KQUtRM2NSZ2J1ODNBejB5U19UcFJ6dXVWR3pGYmRSaUhMT0d1enVwanlkeVl1WFBucUVKQVJxOHM?oc=5",
         "publishedAt": "2026-10-16T07:23:35.000Z"
-      },
-      {
-        "time": "16:23",
-        "title": "フィジカルAI実装へ連携 マザックとアベジャ",
-        "source": "NEWSjp",
-        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1JbDRlajRMdWlDQkpZSDhyVHl2SldoUHRuRC1yeUZBbEpJRFdBLVlxWDJjUXdfVHhOOG04QVRtYlRlWVVUQ0tKS0lzSjFSUQ?oc=5",
-        "publishedAt": "2026-10-16T07:23:42.000Z"
       }
     ],
     "worldHeadlines": [
@@ -89,18 +89,18 @@
         "publishedAt": "2026-10-16T22:35:11.000Z"
       },
       {
-        "time": "11:13",
-        "title": "米小学校で銃撃 16歳の容疑者死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598962?source=rss",
-        "publishedAt": "2026-10-16T02:13:11.000Z"
-      },
-      {
         "time": "11:03",
         "title": "ロシア 最激戦地「制圧」と主張",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6599083?source=rss",
         "publishedAt": "2026-10-17T02:03:35.000Z"
+      },
+      {
+        "time": "14:46",
+        "title": "ローマ教皇 プーチン氏に停戦要請",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6599108?source=rss",
+        "publishedAt": "2026-10-17T05:46:19.000Z"
       }
     ],
     "economyHeadlines": [

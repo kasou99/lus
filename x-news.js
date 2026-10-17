@@ -1,29 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-17T05:39:03.152Z",
+  "updatedAt": "2026-10-17T06:26:48.760Z",
   "items": [
     {
-      "time": "12:54",
-      "title": "米大統領 対露制裁関税適用を免除",
+      "time": "14:53",
+      "title": "「高市離れ」男性も加速 時事調査",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599098?source=rss",
-      "publishedAt": "2026-10-17T03:54:30.000Z",
-      "xQuery": "米大統領 対露制裁関税適用を免除"
+      "url": "https://news.yahoo.co.jp/pickup/6599110?source=rss",
+      "publishedAt": "2026-10-17T05:53:03.000Z",
+      "xQuery": "「高市離れ」男性も加速 時事調査"
     },
     {
-      "time": "08:54",
-      "title": "9歳で失明し61歳で当選 市議の今",
+      "time": "14:46",
+      "title": "ローマ教皇 プーチン氏に停戦要請",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599072?source=rss",
-      "publishedAt": "2026-10-16T23:54:23.000Z",
-      "xQuery": "9歳で失明し61歳で当選 市議の今"
-    },
-    {
-      "time": "12:27",
-      "title": "車にトラック追突 1人死亡1人重体",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599092?source=rss",
-      "publishedAt": "2026-10-17T03:27:05.000Z",
-      "xQuery": "車にトラック追突 1人死亡1人重体"
+      "url": "https://news.yahoo.co.jp/pickup/6599108?source=rss",
+      "publishedAt": "2026-10-17T05:46:19.000Z",
+      "xQuery": "ローマ教皇 プーチン氏に停戦要請"
     },
     {
       "time": "13:52",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6599101?source=rss",
       "publishedAt": "2026-10-17T04:18:51.000Z",
       "xQuery": "「隠れ教育費」にモヤモヤ 親の声"
+    },
+    {
+      "time": "14:28",
+      "title": "子ども食堂巡る投稿賛否 店主真意",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599107?source=rss",
+      "publishedAt": "2026-10-17T05:28:45.000Z",
+      "xQuery": "子ども食堂巡る投稿賛否 店主真意"
     }
   ]
 };
