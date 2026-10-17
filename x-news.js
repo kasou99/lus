@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-17T14:37:06.213Z",
+  "updatedAt": "2026-10-17T15:13:46.173Z",
   "items": [
     {
       "time": "21:13",
@@ -18,28 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "高まる反移民感情 在留外国人最多"
     },
     {
-      "time": "22:11",
-      "title": "ドコモの緊急地震速報 不具合解消",
+      "time": "22:50",
+      "title": "ITシステムの弱点 世界で発見急増",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599170?source=rss",
-      "publishedAt": "2026-10-17T13:11:40.000Z",
-      "xQuery": "ドコモの緊急地震速報 不具合解消"
+      "url": "https://news.yahoo.co.jp/pickup/6599176?source=rss",
+      "publishedAt": "2026-10-17T13:50:29.000Z",
+      "xQuery": "ITシステムの弱点 世界で発見急増"
     },
     {
-      "time": "20:50",
-      "title": "母親を蹴り死なせた疑い 男を逮捕",
+      "time": "23:31",
+      "title": "関東で今季初の冬日 栃木県日光市",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599159?source=rss",
-      "publishedAt": "2026-10-17T11:50:16.000Z",
-      "xQuery": "母親を蹴り死なせた疑い 男を逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6599179?source=rss",
+      "publishedAt": "2026-10-17T14:31:41.000Z",
+      "xQuery": "関東で今季初の冬日 栃木県日光市"
     },
     {
-      "time": "23:20",
-      "title": "ローマ教皇退院 がん術後経過順調",
+      "time": "23:59",
+      "title": "祭りで太鼓台の下敷き 副市長死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599178?source=rss",
-      "publishedAt": "2026-10-17T14:20:00.000Z",
-      "xQuery": "ローマ教皇退院 がん術後経過順調"
+      "url": "https://news.yahoo.co.jp/pickup/6599181?source=rss",
+      "publishedAt": "2026-10-17T14:59:55.000Z",
+      "xQuery": "祭りで太鼓台の下敷き 副市長死亡"
     }
   ]
 };

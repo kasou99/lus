@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T14:37:05.748Z",
+  "updatedAt": "2026-10-17T15:13:45.235Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -163,13 +163,6 @@
         "publishedAt": "2026-10-17T08:07:34.000Z"
       },
       {
-        "time": "12:27",
-        "title": "車にトラック追突 1人死亡1人重体",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599092?source=rss",
-        "publishedAt": "2026-10-17T03:27:05.000Z"
-      },
-      {
         "time": "20:07",
         "title": "海で溺れていた高齢男女 意識不明",
         "source": "Yahoo!ニュース",
@@ -182,6 +175,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6599159?source=rss",
         "publishedAt": "2026-10-17T11:50:16.000Z"
+      },
+      {
+        "time": "23:59",
+        "title": "祭りで太鼓台の下敷き 副市長死亡",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6599181?source=rss",
+        "publishedAt": "2026-10-17T14:59:55.000Z"
       },
       {
         "time": "07:20",
