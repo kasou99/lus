@@ -1,29 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-17T23:12:49.432Z",
+  "updatedAt": "2026-10-17T23:36:56.958Z",
   "items": [
     {
-      "time": "21:13",
-      "title": "墜落の無人機胴体一部か 空自回収",
+      "time": "07:58",
+      "title": "閣僚更迭「高市1強」の弱点露呈",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599163?source=rss",
-      "publishedAt": "2026-10-17T12:13:39.000Z",
-      "xQuery": "墜落の無人機胴体一部か 空自回収"
-    },
-    {
-      "time": "22:58",
-      "title": "高まる反移民感情 在留外国人最多",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599175?source=rss",
-      "publishedAt": "2026-10-17T13:58:09.000Z",
-      "xQuery": "高まる反移民感情 在留外国人最多"
-    },
-    {
-      "time": "22:50",
-      "title": "ITシステムの弱点 世界で発見急増",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599176?source=rss",
-      "publishedAt": "2026-10-17T13:50:29.000Z",
-      "xQuery": "ITシステムの弱点 世界で発見急増"
+      "url": "https://news.yahoo.co.jp/pickup/6599190?source=rss",
+      "publishedAt": "2026-10-17T22:58:09.000Z",
+      "xQuery": "閣僚更迭「高市1強」の弱点露呈"
     },
     {
       "time": "07:11",
@@ -34,12 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "東京・福生で男性刺され死亡 逃走"
     },
     {
+      "time": "08:07",
+      "title": "死亡事故 無車検の車運転疑い逮捕",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599192?source=rss",
+      "publishedAt": "2026-10-17T23:07:41.000Z",
+      "xQuery": "死亡事故 無車検の車運転疑い逮捕"
+    },
+    {
       "time": "07:36",
       "title": "祭りで副市長が死亡 市長「痛恨」",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6599188?source=rss",
       "publishedAt": "2026-10-17T22:36:26.000Z",
       "xQuery": "祭りで副市長が死亡 市長「痛恨」"
+    },
+    {
+      "time": "07:35",
+      "title": "息子が赤ランドセル希望 母の不安",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599185?source=rss",
+      "publishedAt": "2026-10-17T22:35:05.000Z",
+      "xQuery": "息子が赤ランドセル希望 母の不安"
     }
   ]
 };
