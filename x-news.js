@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-17T09:38:12.574Z",
+  "updatedAt": "2026-10-17T10:15:03.482Z",
   "items": [
     {
       "time": "14:56",
@@ -10,14 +10,6 @@ window.LUS_X_NEWS = {
       "xQuery": "首相防戦 立民が簗氏更迭巡り追及"
     },
     {
-      "time": "16:20",
-      "title": "IMF高官評価 日本の消費減税法案",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599121?source=rss",
-      "publishedAt": "2026-10-17T07:20:56.000Z",
-      "xQuery": "IMF高官評価 日本の消費減税法案"
-    },
-    {
       "time": "17:10",
       "title": "新給付制度巡り平均3万円案 政府",
       "source": "Yahoo!ニュース",
@@ -26,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "新給付制度巡り平均3万円案 政府"
     },
     {
-      "time": "17:44",
-      "title": "中2で性被害 法廷立つ元入所女性",
+      "time": "18:42",
+      "title": "ソニー生命 50人を営業活動停止に",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599136?source=rss",
-      "publishedAt": "2026-10-17T08:44:48.000Z",
-      "xQuery": "中2で性被害 法廷立つ元入所女性"
+      "url": "https://news.yahoo.co.jp/pickup/6599146?source=rss",
+      "publishedAt": "2026-10-17T09:42:34.000Z",
+      "xQuery": "ソニー生命 50人を営業活動停止に"
     },
     {
       "time": "18:31",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6599147?source=rss",
       "publishedAt": "2026-10-17T09:31:47.000Z",
       "xQuery": "レタスが高値 マックやロイホ対応"
+    },
+    {
+      "time": "19:01",
+      "title": "中国車 ノルウェー軍情報を記録",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599145?source=rss",
+      "publishedAt": "2026-10-17T10:01:54.000Z",
+      "xQuery": "中国車 ノルウェー軍情報を記録"
     }
   ]
 };

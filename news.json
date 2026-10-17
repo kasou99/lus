@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T09:38:11.767Z",
+  "updatedAt": "2026-10-17T10:15:02.554Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,18 +17,18 @@
         "publishedAt": "2026-10-17T05:11:49.000Z"
       },
       {
-        "time": "22:45",
-        "title": "「JIMTOF2026 第33回日本国際工作機械見本市」出展のご案内",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE00czR5Mmt0WjlrLVEtUUYtMDlkOUdOajBlWUoyRDQ4VWZQcjlIaFEzcEY5YVlvNWxIdEtjcW9Xc1phT1MteFZCUzFvNENsWjJZaVVRNlpodS1KdUM5NTNrYXZTZmtuU1FvSWlRem5HWQ?oc=5",
-        "publishedAt": "2026-10-16T13:45:28.000Z"
-      },
-      {
         "time": "01:22",
         "title": "AIが自ら考えロボットを動かす技術「フィジカルAI」 ヤマザキマザックとABEJAが共同開発 人手不足の課題解決に向けて現場で導入目指す（CBCテレビ）",
         "source": "Yahoo!ニュース",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1fS2JabENMV3l2X3hqdmhDekRlUHZPT01iUjd1RVVPWHpPTFFSaV9Zc0RfbmFfV0I2SmxlLXhYU0kyV1o3RjlrVFZKc3JzQmpxUDNtY1FtdnN1LWNHYnBHVXlQTFVTVDhlSHc0V2Nrd1dkQ0VTcF9rZ3FEZkFyWGc?oc=5",
         "publishedAt": "2026-10-16T16:22:13.000Z"
+      },
+      {
+        "time": "22:45",
+        "title": "「JIMTOF2026 第33回日本国際工作機械見本市」出展のご案内",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE00czR5Mmt0WjlrLVEtUUYtMDlkOUdOajBlWUoyRDQ4VWZQcjlIaFEzcEY5YVlvNWxIdEtjcW9Xc1phT1MteFZCUzFvNENsWjJZaVVRNlpodS1KdUM5NTNrYXZTZmtuU1FvSWlRem5HWQ?oc=5",
+        "publishedAt": "2026-10-16T13:45:28.000Z"
       },
       {
         "time": "22:09",
@@ -75,18 +75,18 @@
         "publishedAt": "2026-10-17T03:54:30.000Z"
       },
       {
-        "time": "08:01",
-        "title": "露拘束の記者と領事面会できず",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599059?source=rss",
-        "publishedAt": "2026-10-16T23:01:18.000Z"
-      },
-      {
         "time": "23:05",
         "title": "記者拘束 露国民との交換狙いか",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6599046?source=rss",
         "publishedAt": "2026-10-16T14:05:39.000Z"
+      },
+      {
+        "time": "19:01",
+        "title": "中国車 ノルウェー軍情報を記録",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6599145?source=rss",
+        "publishedAt": "2026-10-17T10:01:54.000Z"
       },
       {
         "time": "07:35",
@@ -119,6 +119,13 @@
         "publishedAt": "2026-10-17T00:53:22.000Z"
       },
       {
+        "time": "18:42",
+        "title": "ソニー生命 50人を営業活動停止に",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6599146?source=rss",
+        "publishedAt": "2026-10-17T09:42:34.000Z"
+      },
+      {
         "time": "22:20",
         "title": "ニデック 永守氏らへの訴訟を検討",
         "source": "Yahoo!ニュース",
@@ -126,11 +133,11 @@
         "publishedAt": "2026-10-16T13:20:06.000Z"
       },
       {
-        "time": "00:17",
-        "title": "テスラ新型車 空を飛び宙返り実演",
+        "time": "19:08",
+        "title": "冷凍食品 高級化に異業種の参入",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599049?source=rss",
-        "publishedAt": "2026-10-16T15:17:22.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6599149?source=rss",
+        "publishedAt": "2026-10-17T10:08:50.000Z"
       },
       {
         "time": "13:52",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6599104?source=rss",
         "publishedAt": "2026-10-17T04:52:59.000Z"
-      },
-      {
-        "time": "13:18",
-        "title": "「隠れ教育費」にモヤモヤ 親の声",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599101?source=rss",
-        "publishedAt": "2026-10-17T04:18:51.000Z"
       }
     ],
     "localHeadlines": [
