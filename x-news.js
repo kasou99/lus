@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-17T03:42:45.177Z",
+  "updatedAt": "2026-10-17T04:18:34.609Z",
   "items": [
     {
-      "time": "11:07",
-      "title": "簗氏辞任「参院の壁」浮き彫りに",
+      "time": "12:54",
+      "title": "米大統領 対露制裁関税適用を免除",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599085?source=rss",
-      "publishedAt": "2026-10-17T02:07:16.000Z",
-      "xQuery": "簗氏辞任「参院の壁」浮き彫りに"
+      "url": "https://news.yahoo.co.jp/pickup/6599098?source=rss",
+      "publishedAt": "2026-10-17T03:54:30.000Z",
+      "xQuery": "米大統領 対露制裁関税適用を免除"
     },
     {
-      "time": "11:03",
-      "title": "ロシア 最激戦地「制圧」と主張",
+      "time": "12:20",
+      "title": "北朝鮮が新型魚雷にAI使用 実験",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599083?source=rss",
-      "publishedAt": "2026-10-17T02:03:35.000Z",
-      "xQuery": "ロシア 最激戦地「制圧」と主張"
+      "url": "https://news.yahoo.co.jp/pickup/6599089?source=rss",
+      "publishedAt": "2026-10-17T03:20:59.000Z",
+      "xQuery": "北朝鮮が新型魚雷にAI使用 実験"
     },
     {
       "time": "09:53",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "タイムズカー 免許画像すぐ削除へ"
     },
     {
-      "time": "09:03",
-      "title": "県議「ばか」発言巡り朝まで審議",
+      "time": "12:27",
+      "title": "車にトラック追突 1人死亡1人重体",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599067?source=rss",
-      "publishedAt": "2026-10-17T00:03:08.000Z",
-      "xQuery": "県議「ばか」発言巡り朝まで審議"
+      "url": "https://news.yahoo.co.jp/pickup/6599092?source=rss",
+      "publishedAt": "2026-10-17T03:27:05.000Z",
+      "xQuery": "車にトラック追突 1人死亡1人重体"
     },
     {
-      "time": "10:01",
-      "title": "サイゼ値上げ「安さの王者」異変",
+      "time": "08:54",
+      "title": "9歳で失明し61歳で当選 市議の今",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599078?source=rss",
-      "publishedAt": "2026-10-17T01:01:46.000Z",
-      "xQuery": "サイゼ値上げ「安さの王者」異変"
+      "url": "https://news.yahoo.co.jp/pickup/6599072?source=rss",
+      "publishedAt": "2026-10-16T23:54:23.000Z",
+      "xQuery": "9歳で失明し61歳で当選 市議の今"
     }
   ]
 };
