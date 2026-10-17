@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T03:19:16.046Z",
+  "updatedAt": "2026-10-17T03:42:44.155Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,18 +38,18 @@
         "publishedAt": "2026-10-16T04:59:02.000Z"
       },
       {
+        "time": "01:20",
+        "title": "AIが自ら考えロボットを動かす技術「フィジカルAI」 ヤマザキマザックとABEJAが共同開発 人手不足の課題解決に向けて現場で導入目指す | 名古屋・愛知・岐阜・三重のニュース【CBC news】 | CBC web",
+        "source": "TBS NEWS DIG",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE45NXVveHg0d3VHQzZMckI1bmYtVFJqWFVjdWx3Wjg2RGFMbUlFYlc3NDhDUXVJd1FxSlBzSXA4QWVCU1ptRTJla2QybWpMbDNxdTNua3hCbFZGdw?oc=5",
+        "publishedAt": "2026-10-16T16:20:00.000Z"
+      },
+      {
         "time": "13:00",
         "title": "「JIMTOF2026 第33回日本国際工作機械見本市」出展のご案内",
         "source": "PR TIMES",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1jX2QzajJSdy1ab1AyaFZEb1FfZXBiQ193b3hGYnpMUzdOMFJXdlZUOGQwNExuV0ZVSG5MRGJENTlSbDFhSktTeHN0dS1rby02YXhTZVAxRTltRnAxZWdXYVg3VFlYdy14U3c?oc=5",
         "publishedAt": "2026-10-16T04:00:02.000Z"
-      },
-      {
-        "time": "01:20",
-        "title": "AIが自ら考えロボットを動かす技術「フィジカルAI」 ヤマザキマザックとABEJAが共同開発 人手不足の課題解決に向けて現場で導入目指す",
-        "source": "ｄメニューニュース",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1uUVFWUUJXb3NfRnhRZTVZWVQyZU5oaUFIQ3ZmVkdFTGQzNFh6N2xXX3AtRkZ1UTJlb0xXY3BweFBheU9JX1pfVnFZa2FfdTNicXMway1nbktiY09lcnR6RU5iazBGRDlpSmM0S21peGxUQUVGcjZFY0h30gF6QVVfeXFMTW5RUVZRQldvc19GeFFlNVlZVDJlTmhpQUhDdmZWR0VMZDM0WHo3bFdfcC1GRnVRMmVvTFdjcHB4UGF5T0lfWl9WcVlrYV91M2JxczBrLWduS2JjT2VydHpFTmJrMEZEOWlKYzRLbWl4bFRBRUZyNkVjSHc?oc=5",
-        "publishedAt": "2026-10-16T16:20:00.000Z"
       },
       {
         "time": "14:27",
@@ -75,13 +75,6 @@
         "publishedAt": "2026-10-16T14:05:39.000Z"
       },
       {
-        "time": "09:51",
-        "title": "記者拘束で日本抗議 露大使館拒否",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6598955?source=rss",
-        "publishedAt": "2026-10-16T00:51:18.000Z"
-      },
-      {
         "time": "07:35",
         "title": "米大統領報道官 わずか5日で解任",
         "source": "Yahoo!ニュース",
@@ -101,6 +94,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6599083?source=rss",
         "publishedAt": "2026-10-17T02:03:35.000Z"
+      },
+      {
+        "time": "12:06",
+        "title": "マスク氏 ウ大統領に退陣呼びかけ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6598972?source=rss",
+        "publishedAt": "2026-10-16T03:06:21.000Z"
       }
     ],
     "economyHeadlines": [
@@ -163,11 +163,11 @@
         "publishedAt": "2026-10-16T07:18:31.000Z"
       },
       {
-        "time": "10:43",
-        "title": "東北道でトラックが追突 1人死亡",
+        "time": "12:27",
+        "title": "車にトラック追突 1人死亡1人重体",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599081?source=rss",
-        "publishedAt": "2026-10-17T01:43:47.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6599092?source=rss",
+        "publishedAt": "2026-10-17T03:27:05.000Z"
       },
       {
         "time": "09:46",
