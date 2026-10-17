@@ -1,14 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-17T10:15:03.482Z",
+  "updatedAt": "2026-10-17T10:36:53.986Z",
   "items": [
-    {
-      "time": "14:56",
-      "title": "首相防戦 立民が簗氏更迭巡り追及",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599109?source=rss",
-      "publishedAt": "2026-10-17T05:56:21.000Z",
-      "xQuery": "首相防戦 立民が簗氏更迭巡り追及"
-    },
     {
       "time": "17:10",
       "title": "新給付制度巡り平均3万円案 政府",
@@ -16,6 +8,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6599130?source=rss",
       "publishedAt": "2026-10-17T08:10:40.000Z",
       "xQuery": "新給付制度巡り平均3万円案 政府"
+    },
+    {
+      "time": "17:07",
+      "title": "誤報の地震速報 ぞっとした被災者",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599128?source=rss",
+      "publishedAt": "2026-10-17T08:07:34.000Z",
+      "xQuery": "誤報の地震速報 ぞっとした被災者"
     },
     {
       "time": "18:42",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "ソニー生命 50人を営業活動停止に"
     },
     {
-      "time": "18:31",
-      "title": "レタスが高値 マックやロイホ対応",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599147?source=rss",
-      "publishedAt": "2026-10-17T09:31:47.000Z",
-      "xQuery": "レタスが高値 マックやロイホ対応"
-    },
-    {
       "time": "19:01",
       "title": "中国車 ノルウェー軍情報を記録",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6599145?source=rss",
       "publishedAt": "2026-10-17T10:01:54.000Z",
       "xQuery": "中国車 ノルウェー軍情報を記録"
+    },
+    {
+      "time": "17:44",
+      "title": "中2で性被害 法廷立つ元入所女性",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599136?source=rss",
+      "publishedAt": "2026-10-17T08:44:48.000Z",
+      "xQuery": "中2で性被害 法廷立つ元入所女性"
     }
   ]
 };
