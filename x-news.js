@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-17T22:36:18.982Z",
+  "updatedAt": "2026-10-17T23:12:49.432Z",
   "items": [
     {
       "time": "21:13",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "東京・福生で男性刺され死亡 逃走"
     },
     {
-      "time": "23:59",
-      "title": "祭りで太鼓台の下敷き 副市長死亡",
+      "time": "07:36",
+      "title": "祭りで副市長が死亡 市長「痛恨」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599181?source=rss",
-      "publishedAt": "2026-10-17T14:59:55.000Z",
-      "xQuery": "祭りで太鼓台の下敷き 副市長死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6599188?source=rss",
+      "publishedAt": "2026-10-17T22:36:26.000Z",
+      "xQuery": "祭りで副市長が死亡 市長「痛恨」"
     }
   ]
 };
