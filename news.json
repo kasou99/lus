@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T19:37:03.390Z",
+  "updatedAt": "2026-10-17T20:15:52.114Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -22,13 +22,6 @@
         "source": "山形新聞",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9XazQ2MFFvYXZ6T2k5aS12QVJxcUE2cjRmUlZPdjZwenVodU9YcS1GRWxkWVFuT1JKdU4wZHRvZGY1cWNSQUxmYVFuYWtPM3h4QlhEa3FPUUlQRjJSRGVPUHZMX0RaS0VYNmdB?oc=5",
         "publishedAt": "2026-10-17T05:11:49.000Z"
-      },
-      {
-        "time": "05:00",
-        "title": "「フィジカルＡＩ」実装へ連携 ヤマザキマザック、ＡＢＥＪＡ社と",
-        "source": "中部経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9RZi1PU05HM2JreWhmTHBFaUszVVRCU0RIUjYxV3o0RjBsZXRsYndlMjI2c2JtbGhuaTloODhWamtGdnNPanVqRFNMSng2Vy1ubFFyR0cwY3VaWWltamJfQ1R4aWRNUGpqT0s5dzRSYXJsR0U?oc=5",
-        "publishedAt": "2026-10-16T20:00:00.000Z"
       },
       {
         "time": "16:20",
@@ -57,6 +50,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6599149?source=rss",
         "publishedAt": "2026-10-17T10:08:50.000Z"
+      },
+      {
+        "time": "13:52",
+        "title": "住宅ローン金利上昇 今できること",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6599104?source=rss",
+        "publishedAt": "2026-10-17T04:52:59.000Z"
       }
     ],
     "worldHeadlines": [
