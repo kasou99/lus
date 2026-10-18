@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T02:23:17.034Z",
+  "updatedAt": "2026-10-18T02:44:25.618Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -45,18 +45,18 @@
         "publishedAt": "2026-10-18T00:15:28.000Z"
       },
       {
+        "time": "11:33",
+        "title": "東大も新設「デザイン学部」とは",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6599215?source=rss",
+        "publishedAt": "2026-10-18T02:33:19.000Z"
+      },
+      {
         "time": "07:37",
         "title": "通販に未認証のチャイルドシート",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6599187?source=rss",
         "publishedAt": "2026-10-17T22:37:30.000Z"
-      },
-      {
-        "time": "16:20",
-        "title": "IMF高官評価 日本の消費減税法案",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599121?source=rss",
-        "publishedAt": "2026-10-17T07:20:56.000Z"
       }
     ],
     "worldHeadlines": [
@@ -119,18 +119,18 @@
         "publishedAt": "2026-10-18T00:15:28.000Z"
       },
       {
+        "time": "11:33",
+        "title": "東大も新設「デザイン学部」とは",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6599215?source=rss",
+        "publishedAt": "2026-10-18T02:33:19.000Z"
+      },
+      {
         "time": "07:37",
         "title": "通販に未認証のチャイルドシート",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6599187?source=rss",
         "publishedAt": "2026-10-17T22:37:30.000Z"
-      },
-      {
-        "time": "16:20",
-        "title": "IMF高官評価 日本の消費減税法案",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599121?source=rss",
-        "publishedAt": "2026-10-17T07:20:56.000Z"
       },
       {
         "time": "18:42",
@@ -140,11 +140,11 @@
         "publishedAt": "2026-10-17T09:42:34.000Z"
       },
       {
-        "time": "19:08",
-        "title": "冷凍食品 高級化に異業種の参入",
+        "time": "20:49",
+        "title": "なぜ都市部にデータセンター 解説",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599149?source=rss",
-        "publishedAt": "2026-10-17T10:08:50.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6599158?source=rss",
+        "publishedAt": "2026-10-17T11:49:59.000Z"
       }
     ],
     "localHeadlines": [

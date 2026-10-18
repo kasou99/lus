@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-18T02:23:17.821Z",
+  "updatedAt": "2026-10-18T02:44:26.159Z",
   "items": [
     {
       "time": "11:13",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "仏で55万人デモ 市庁舎ほぼ全焼"
     },
     {
-      "time": "07:36",
-      "title": "祭りで副市長が死亡 市長「痛恨」",
+      "time": "08:30",
+      "title": "シカ衝突し停車 追突され女性死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599188?source=rss",
-      "publishedAt": "2026-10-17T22:36:26.000Z",
-      "xQuery": "祭りで副市長が死亡 市長「痛恨」"
+      "url": "https://news.yahoo.co.jp/pickup/6599195?source=rss",
+      "publishedAt": "2026-10-17T23:30:31.000Z",
+      "xQuery": "シカ衝突し停車 追突され女性死亡"
     },
     {
       "time": "08:50",
