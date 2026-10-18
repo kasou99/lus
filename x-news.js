@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-18T04:18:39.160Z",
+  "updatedAt": "2026-10-18T04:42:34.901Z",
   "items": [
     {
       "time": "12:07",
@@ -8,14 +8,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6599221?source=rss",
       "publishedAt": "2026-10-18T03:07:59.000Z",
       "xQuery": "非常に強い台風30号 23日沖縄南に"
-    },
-    {
-      "time": "09:45",
-      "title": "施設で試合中に車進入2人死亡 米",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599204?source=rss",
-      "publishedAt": "2026-10-18T00:45:25.000Z",
-      "xQuery": "施設で試合中に車進入2人死亡 米"
     },
     {
       "time": "12:17",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6599220?source=rss",
       "publishedAt": "2026-10-18T02:54:44.000Z",
       "xQuery": "軽トラと車に挟まれ女性両足切断"
+    },
+    {
+      "time": "12:49",
+      "title": "インド祭典で群衆事故 40人超死傷",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599225?source=rss",
+      "publishedAt": "2026-10-18T03:49:28.000Z",
+      "xQuery": "インド祭典で群衆事故 40人超死傷"
     }
   ]
 };
