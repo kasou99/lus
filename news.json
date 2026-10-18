@@ -1,7 +1,42 @@
 {
-  "updatedAt": "2026-10-18T17:13:16.154Z",
+  "updatedAt": "2026-10-18T17:36:35.255Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "19:18",
+        "title": "【JIMTOF情報】JIMTOF2026開幕目前！ 日工会会員104社の見どころを先行公開！ - | 製造現場ドットコム",
+        "source": "| 製造現場ドットコム",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBjNkVmQW1GYk9YWkpBbnZIY05YYmRaOFdxaVdVR0ZkODFPRmNjQWlqbkVTSU90QU9yV25PREhPdHl2SDdvZG1MOXd3?oc=5",
+        "publishedAt": "2026-10-18T10:18:17.000Z"
+      },
+      {
+        "time": "15:27",
+        "title": "ヤマザキマザック 製造業向けAI開発へ 人手不足に対応（読売新聞オンライン）",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5rZmpFUjV3d0pKLXMyYWtGZWxQQUtadkZVVllWNllZVjFGbUZjZXh0X0dvQ0EyUzdMOUx6eFJjQ3FnSml3MWlfQUxLUmhCajhwUDBVdzdOZWlBb0FOUDZDazNFNmFIa21yQlczQUVxMVktS3NKX2w5VVAxTWRhVHc?oc=5",
+        "publishedAt": "2026-10-18T06:27:05.000Z"
+      },
+      {
+        "time": "18:30",
+        "title": "精密薄肉ベアリングの世界市場（2026年～2032年）、市場規模（アンギュラ玉軸受、円筒ころ軸受、両方向アンギュラスラスト玉軸受、アキシャル・ラジアル円筒ころ軸受、その他...",
+        "source": "アットプレス",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9HeHBMOG5sT3c0N19RUlVNTmQwM2FoRE5zbjIxVWdiTjJuRExKNURFTEVnb0hITldsd1Z6OENBR2t6RjBwZENvcW1haUxxcW8?oc=5",
+        "publishedAt": "2026-10-18T09:30:00.000Z"
+      },
+      {
+        "time": "09:14",
+        "title": "工房にウッドデッキ 地域住民らが製作 名張・神屋",
+        "source": "伊賀タウン情報 YOU",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE92UUdwNkpKQ0Z6LTNkWHRqRDlKbG0zVlI4cnItdVJDc1d6TVRqdktESG1lYXlwMFJBdnpLR2MtN2dOOUotX2ZzbERSSGVNZ3NVZ09iLWhUV0loREE?oc=5",
+        "publishedAt": "2026-10-18T00:14:09.000Z"
+      },
+      {
+        "time": "16:00",
+        "title": "ワークピース・タッチプローブの世界市場（2026年～2032年）、市場規模（ワイヤレス、有線）・分析レポートを発表",
+        "source": "アットプレス",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1WUXUzYVNLRWF5eVNYUU9nWDJ6blFVb0loRUczX0RrQ3hVZ0NQalUtSFJNbGZvMngycXVTM0oxLWRwN2NfMkUyZkZaNFhYVjA?oc=5",
+        "publishedAt": "2026-10-18T07:00:00.000Z"
+      },
       {
         "time": "18:34",
         "title": "SUBARU 20年代後半にSDV投入へ",
@@ -22,41 +57,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6599279?source=rss",
         "publishedAt": "2026-10-18T11:31:01.000Z"
-      },
-      {
-        "time": "11:33",
-        "title": "東大も新設「デザイン学部」とは",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599215?source=rss",
-        "publishedAt": "2026-10-18T02:33:19.000Z"
-      },
-      {
-        "time": "18:13",
-        "title": "ガソリンスタンドで子が給油 危険",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599263?source=rss",
-        "publishedAt": "2026-10-18T09:13:04.000Z"
-      },
-      {
-        "time": "16:21",
-        "title": "商店がない離島の自販機 なぜ撤去",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599249?source=rss",
-        "publishedAt": "2026-10-18T07:21:06.000Z"
-      },
-      {
-        "time": "16:52",
-        "title": "ベイブレード 香港で大人も熱狂",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599253?source=rss",
-        "publishedAt": "2026-10-18T07:52:28.000Z"
-      },
-      {
-        "time": "11:29",
-        "title": "スマホ通話で「ピザ持ち」増 なぜ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599214?source=rss",
-        "publishedAt": "2026-10-18T02:29:18.000Z"
       }
     ],
     "worldHeadlines": [
@@ -215,6 +215,13 @@
         "title": "中小企業省力化投資補助金の公募・採択情報を確認",
         "source": "中小機構",
         "url": "https://seisansei.smrj.go.jp/subsidy_info/laborsaving_subsidy.html"
+      },
+      {
+        "time": "16:00",
+        "title": "【2026年最新】中小企業向け補助金6制度まとめ｜締切・補助率・上限額一覧",
+        "source": "補助金ポータル",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Idm5vYjJtajVIYjhheTZVVTVQTXRXMndVNkRmWnVEZnZyNVRRV3ZncXZhREsxNXBqYXFZSlZmNHhLeHhkbUNRcXljRlJNWVh2ZmZrSXlsVVJsdGI5RGtBdmoxUGx1YlozMUE?oc=5",
+        "publishedAt": "2026-09-30T07:00:00.000Z"
       }
     ]
   }
