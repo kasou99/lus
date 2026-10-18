@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-18T01:51:33.546Z",
+  "updatedAt": "2026-10-18T02:23:17.821Z",
   "items": [
+    {
+      "time": "11:13",
+      "title": "消費減税法案 野党との間に隔たり",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599213?source=rss",
+      "publishedAt": "2026-10-18T02:13:29.000Z",
+      "xQuery": "消費減税法案 野党との間に隔たり"
+    },
     {
       "time": "09:39",
       "title": "医療機関の倒産 1-9月は過去最多",
@@ -8,14 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6599200?source=rss",
       "publishedAt": "2026-10-18T00:39:47.000Z",
       "xQuery": "医療機関の倒産 1-9月は過去最多"
-    },
-    {
-      "time": "09:38",
-      "title": "過激表現の規制 子どもを守るのか",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599203?source=rss",
-      "publishedAt": "2026-10-18T00:38:03.000Z",
-      "xQuery": "過激表現の規制 子どもを守るのか"
     },
     {
       "time": "10:16",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "仏で55万人デモ 市庁舎ほぼ全焼"
     },
     {
-      "time": "08:30",
-      "title": "シカ衝突し停車 追突され女性死亡",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599195?source=rss",
-      "publishedAt": "2026-10-17T23:30:31.000Z",
-      "xQuery": "シカ衝突し停車 追突され女性死亡"
-    },
-    {
       "time": "07:36",
       "title": "祭りで副市長が死亡 市長「痛恨」",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6599188?source=rss",
       "publishedAt": "2026-10-17T22:36:26.000Z",
       "xQuery": "祭りで副市長が死亡 市長「痛恨」"
+    },
+    {
+      "time": "08:50",
+      "title": "海で「溺れている」通報 2人死亡",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599197?source=rss",
+      "publishedAt": "2026-10-17T23:50:24.000Z",
+      "xQuery": "海で「溺れている」通報 2人死亡"
     }
   ]
 };
