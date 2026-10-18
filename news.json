@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T14:37:22.183Z",
+  "updatedAt": "2026-10-18T15:14:09.957Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -149,18 +149,18 @@
     ],
     "localHeadlines": [
       {
-        "time": "20:09",
-        "title": "横浜市長選 原沢敦美氏が当選確実",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599278?source=rss",
-        "publishedAt": "2026-10-18T11:09:32.000Z"
-      },
-      {
         "time": "21:10",
         "title": "横浜市長選で当確 原沢氏どんな人",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6599283?source=rss",
         "publishedAt": "2026-10-18T12:10:18.000Z"
+      },
+      {
+        "time": "23:55",
+        "title": "辺野古転覆 高校生の遺族が献花",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6599293?source=rss",
+        "publishedAt": "2026-10-18T14:55:38.000Z"
       },
       {
         "time": "07:36",

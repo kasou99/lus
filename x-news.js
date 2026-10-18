@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-18T14:37:23.522Z",
+  "updatedAt": "2026-10-18T15:14:10.705Z",
   "items": [
     {
       "time": "22:21",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "内閣支持率ほぼ横ばい57% 読売"
     },
     {
+      "time": "23:55",
+      "title": "辺野古転覆 高校生の遺族が献花",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599293?source=rss",
+      "publishedAt": "2026-10-18T14:55:38.000Z",
+      "xQuery": "辺野古転覆 高校生の遺族が献花"
+    },
+    {
       "time": "23:14",
       "title": "ローマ教皇 退院後初の集会で感謝",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6599295?source=rss",
       "publishedAt": "2026-10-18T14:14:55.000Z",
       "xQuery": "ローマ教皇 退院後初の集会で感謝"
-    },
-    {
-      "time": "21:10",
-      "title": "横浜市長選で当確 原沢氏どんな人",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599283?source=rss",
-      "publishedAt": "2026-10-18T12:10:18.000Z",
-      "xQuery": "横浜市長選で当確 原沢氏どんな人"
     },
     {
       "time": "22:23",
