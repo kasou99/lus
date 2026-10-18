@@ -1,29 +1,37 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-18T06:51:16.822Z",
+  "updatedAt": "2026-10-18T07:16:34.738Z",
   "items": [
     {
-      "time": "13:25",
-      "title": "消費減税法案 自民が譲歩に含み",
+      "time": "15:59",
+      "title": "対露制裁見送り 米ウの亀裂深刻",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599227?source=rss",
-      "publishedAt": "2026-10-18T04:25:22.000Z",
-      "xQuery": "消費減税法案 自民が譲歩に含み"
+      "url": "https://news.yahoo.co.jp/pickup/6599247?source=rss",
+      "publishedAt": "2026-10-18T06:59:58.000Z",
+      "xQuery": "対露制裁見送り 米ウの亀裂深刻"
     },
     {
-      "time": "14:12",
-      "title": "福生市で男性刺され死亡 男を確保",
+      "time": "15:37",
+      "title": "高度外国人材 年収要件上げる方針",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599233?source=rss",
-      "publishedAt": "2026-10-18T05:12:15.000Z",
-      "xQuery": "福生市で男性刺され死亡 男を確保"
+      "url": "https://news.yahoo.co.jp/pickup/6599245?source=rss",
+      "publishedAt": "2026-10-18T06:37:10.000Z",
+      "xQuery": "高度外国人材 年収要件上げる方針"
     },
     {
-      "time": "13:46",
-      "title": "図書館で車が2人はねる 57歳死亡",
+      "time": "14:24",
+      "title": "AIが家電侵入 サイバー攻撃の脅威",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599231?source=rss",
-      "publishedAt": "2026-10-18T04:46:41.000Z",
-      "xQuery": "図書館で車が2人はねる 57歳死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6599237?source=rss",
+      "publishedAt": "2026-10-18T05:24:22.000Z",
+      "xQuery": "AIが家電侵入 サイバー攻撃の脅威"
+    },
+    {
+      "time": "15:57",
+      "title": "40歳で若年性認知症に 前を向く今",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599246?source=rss",
+      "publishedAt": "2026-10-18T06:57:06.000Z",
+      "xQuery": "40歳で若年性認知症に 前を向く今"
     },
     {
       "time": "15:37",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6599244?source=rss",
       "publishedAt": "2026-10-18T06:37:21.000Z",
       "xQuery": "水路にうどん捨てないで 看板の訳"
-    },
-    {
-      "time": "15:09",
-      "title": "井脇ノブ子氏 ピンクスーツは47着",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599241?source=rss",
-      "publishedAt": "2026-10-18T06:09:35.000Z",
-      "xQuery": "井脇ノブ子氏 ピンクスーツは47着"
     }
   ]
 };
