@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-18T12:23:02.236Z",
+  "updatedAt": "2026-10-18T12:44:20.395Z",
   "items": [
     {
       "time": "19:52",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "フランス各地 デモ乗じ破壊や略奪"
     },
     {
-      "time": "20:09",
-      "title": "横浜市長選 原沢敦美氏が当選確実",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599278?source=rss",
-      "publishedAt": "2026-10-18T11:09:32.000Z",
-      "xQuery": "横浜市長選 原沢敦美氏が当選確実"
-    },
-    {
       "time": "21:10",
       "title": "横浜市長選で当確 原沢氏どんな人",
       "source": "Yahoo!ニュース",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6599269?source=rss",
       "publishedAt": "2026-10-18T09:47:35.000Z",
       "xQuery": "漏えい急増は中国製LLM起因 指摘"
+    },
+    {
+      "time": "21:15",
+      "title": "カーセンサーのサイト 一時停止",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599284?source=rss",
+      "publishedAt": "2026-10-18T12:15:22.000Z",
+      "xQuery": "カーセンサーのサイト 一時停止"
     }
   ]
 };
