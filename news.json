@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T22:36:42.400Z",
+  "updatedAt": "2026-10-18T23:13:16.454Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -45,21 +45,28 @@
         "publishedAt": "2026-10-18T06:27:05.000Z"
       },
       {
-        "time": "22:11",
-        "title": "日本最大の工場で作られる巨大プレジャーボートの製造プロセス Rudy Gobert (2cldFundgD)",
-        "source": "Unisba Media",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZV9pb3RYU1AwVjJkZFBMX2Zoem9aakNKeWMzY0FlQkRuaUk0UzBKMy1Ca0p2Q2dfX2doRGkwMzBpemFYWWxMRDdZVkdHcGpFS3NYSkdOMElzZEhMeC1FOVNkWnQyb3hDcUY1Tl9VcEI1aktVM1JaWFBMTTRYanNJX3paSVVOcTA?oc=5",
-        "publishedAt": "2026-10-18T13:11:31.000Z"
-      },
-      {
         "time": "18:30",
         "title": "精密薄肉ベアリングの世界市場（2026年～2032年）、市場規模（アンギュラ玉軸受、円筒ころ軸受、両方向アンギュラスラスト玉軸受、アキシャル・ラジアル円筒ころ軸受、その他...",
         "source": "アットプレス",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9HeHBMOG5sT3c0N19RUlVNTmQwM2FoRE5zbjIxVWdiTjJuRExKNURFTEVnb0hITldsd1Z6OENBR2t6RjBwZENvcW1haUxxcW8?oc=5",
         "publishedAt": "2026-10-18T09:30:00.000Z"
+      },
+      {
+        "time": "09:14",
+        "title": "工房にウッドデッキ 地域住民らが製作 名張・神屋",
+        "source": "伊賀タウン情報 YOU",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE92UUdwNkpKQ0Z6LTNkWHRqRDlKbG0zVlI4cnItdVJDc1d6TVRqdktESG1lYXlwMFJBdnpLR2MtN2dOOUotX2ZzbERSSGVNZ3NVZ09iLWhUV0loREE?oc=5",
+        "publishedAt": "2026-10-18T00:14:09.000Z"
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "07:39",
+        "title": "米中間選挙 争点にデータセンター",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6599311?source=rss",
+        "publishedAt": "2026-10-18T22:39:58.000Z"
+      },
       {
         "time": "06:59",
         "title": "フランス各地で暴動 2400人逮捕",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6599228?source=rss",
         "publishedAt": "2026-10-18T04:45:32.000Z"
-      },
-      {
-        "time": "23:14",
-        "title": "ローマ教皇 退院後初の集会で感謝",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599295?source=rss",
-        "publishedAt": "2026-10-18T14:14:55.000Z"
       }
     ],
     "economyHeadlines": [
@@ -117,6 +117,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6599279?source=rss",
         "publishedAt": "2026-10-18T11:31:01.000Z"
+      },
+      {
+        "time": "08:04",
+        "title": "東芝 難関大生から再評価される今",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6599312?source=rss",
+        "publishedAt": "2026-10-18T23:04:39.000Z"
       },
       {
         "time": "11:33",
@@ -138,22 +145,15 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6599249?source=rss",
         "publishedAt": "2026-10-18T07:21:06.000Z"
-      },
-      {
-        "time": "06:46",
-        "title": "新品畳に子が「臭い」畳店の思い",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599303?source=rss",
-        "publishedAt": "2026-10-18T21:46:09.000Z"
       }
     ],
     "localHeadlines": [
       {
-        "time": "21:10",
-        "title": "横浜市長選で当確 原沢氏どんな人",
+        "time": "07:36",
+        "title": "横浜前市長 パワハラに厳しい審判",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599283?source=rss",
-        "publishedAt": "2026-10-18T12:10:18.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6599310?source=rss",
+        "publishedAt": "2026-10-18T22:36:29.000Z"
       },
       {
         "time": "23:55",

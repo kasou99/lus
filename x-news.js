@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-18T22:36:43.157Z",
+  "updatedAt": "2026-10-18T23:13:17.077Z",
   "items": [
     {
       "time": "07:23",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "フランス各地で暴動 2400人逮捕"
     },
     {
+      "time": "07:36",
+      "title": "横浜前市長 パワハラに厳しい審判",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599310?source=rss",
+      "publishedAt": "2026-10-18T22:36:29.000Z",
+      "xQuery": "横浜前市長 パワハラに厳しい審判"
+    },
+    {
       "time": "07:16",
       "title": "サイバー攻撃 なぜ日本が狙われる",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6599306?source=rss",
       "publishedAt": "2026-10-18T22:16:37.000Z",
       "xQuery": "サイバー攻撃 なぜ日本が狙われる"
-    },
-    {
-      "time": "22:44",
-      "title": "カーセンサーの利用停止 復旧未定",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599294?source=rss",
-      "publishedAt": "2026-10-18T13:44:18.000Z",
-      "xQuery": "カーセンサーの利用停止 復旧未定"
     },
     {
       "time": "06:46",
