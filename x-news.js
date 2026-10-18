@@ -1,21 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-18T03:44:17.206Z",
+  "updatedAt": "2026-10-18T04:18:39.160Z",
   "items": [
     {
-      "time": "11:13",
-      "title": "消費減税法案 野党との間に隔たり",
+      "time": "12:07",
+      "title": "非常に強い台風30号 23日沖縄南に",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599213?source=rss",
-      "publishedAt": "2026-10-18T02:13:29.000Z",
-      "xQuery": "消費減税法案 野党との間に隔たり"
-    },
-    {
-      "time": "10:54",
-      "title": "米与野党 対露制裁巡り批判が噴出",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599212?source=rss",
-      "publishedAt": "2026-10-18T01:54:08.000Z",
-      "xQuery": "米与野党 対露制裁巡り批判が噴出"
+      "url": "https://news.yahoo.co.jp/pickup/6599221?source=rss",
+      "publishedAt": "2026-10-18T03:07:59.000Z",
+      "xQuery": "非常に強い台風30号 23日沖縄南に"
     },
     {
       "time": "09:45",
@@ -26,6 +18,14 @@ window.LUS_X_NEWS = {
       "xQuery": "施設で試合中に車進入2人死亡 米"
     },
     {
+      "time": "12:17",
+      "title": "群馬母子殺傷 殺人疑いで男再逮捕",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599223?source=rss",
+      "publishedAt": "2026-10-18T03:17:42.000Z",
+      "xQuery": "群馬母子殺傷 殺人疑いで男再逮捕"
+    },
+    {
       "time": "10:16",
       "title": "仏で55万人デモ 市庁舎ほぼ全焼",
       "source": "Yahoo!ニュース",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "仏で55万人デモ 市庁舎ほぼ全焼"
     },
     {
-      "time": "11:33",
-      "title": "東大も新設「デザイン学部」とは",
+      "time": "11:54",
+      "title": "軽トラと車に挟まれ女性両足切断",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599215?source=rss",
-      "publishedAt": "2026-10-18T02:33:19.000Z",
-      "xQuery": "東大も新設「デザイン学部」とは"
+      "url": "https://news.yahoo.co.jp/pickup/6599220?source=rss",
+      "publishedAt": "2026-10-18T02:54:44.000Z",
+      "xQuery": "軽トラと車に挟まれ女性両足切断"
     }
   ]
 };
