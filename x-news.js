@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-18T10:15:10.634Z",
+  "updatedAt": "2026-10-18T10:37:43.555Z",
   "items": [
     {
       "time": "17:45",
@@ -8,14 +8,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6599260?source=rss",
       "publishedAt": "2026-10-18T08:45:32.000Z",
       "xQuery": "内閣支持49%で発足以来最低 共同"
-    },
-    {
-      "time": "17:30",
-      "title": "不動産取引のマネロン点検強化へ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599259?source=rss",
-      "publishedAt": "2026-10-18T08:30:52.000Z",
-      "xQuery": "不動産取引のマネロン点検強化へ"
     },
     {
       "time": "18:34",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6599266?source=rss",
       "publishedAt": "2026-10-18T09:12:16.000Z",
       "xQuery": "傾いていた住宅が倒壊 86歳死亡"
+    },
+    {
+      "time": "17:50",
+      "title": "国道でバイク同士が衝突 2人死亡",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599262?source=rss",
+      "publishedAt": "2026-10-18T08:50:15.000Z",
+      "xQuery": "国道でバイク同士が衝突 2人死亡"
     }
   ]
 };
