@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-18T23:13:17.077Z",
+  "updatedAt": "2026-10-18T23:36:53.948Z",
   "items": [
     {
-      "time": "07:23",
-      "title": "広く大気不安定 天気の急変に注意",
+      "time": "08:13",
+      "title": "逮捕状の「電子令状」4都県から",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599308?source=rss",
-      "publishedAt": "2026-10-18T22:23:22.000Z",
-      "xQuery": "広く大気不安定 天気の急変に注意"
+      "url": "https://news.yahoo.co.jp/pickup/6599313?source=rss",
+      "publishedAt": "2026-10-18T23:13:34.000Z",
+      "xQuery": "逮捕状の「電子令状」4都県から"
     },
     {
       "time": "06:59",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "サイバー攻撃 なぜ日本が狙われる"
     },
     {
-      "time": "06:46",
-      "title": "新品畳に子が「臭い」畳店の思い",
+      "time": "08:04",
+      "title": "東芝 難関大生から再評価される今",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599303?source=rss",
-      "publishedAt": "2026-10-18T21:46:09.000Z",
-      "xQuery": "新品畳に子が「臭い」畳店の思い"
+      "url": "https://news.yahoo.co.jp/pickup/6599312?source=rss",
+      "publishedAt": "2026-10-18T23:04:39.000Z",
+      "xQuery": "東芝 難関大生から再評価される今"
     }
   ]
 };
