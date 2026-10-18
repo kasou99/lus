@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T21:37:00.485Z",
+  "updatedAt": "2026-10-18T22:14:25.287Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -61,6 +61,20 @@
     ],
     "worldHeadlines": [
       {
+        "time": "06:59",
+        "title": "フランス各地で暴動 2400人逮捕",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6599304?source=rss",
+        "publishedAt": "2026-10-18T21:59:51.000Z"
+      },
+      {
+        "time": "20:48",
+        "title": "フランス各地 デモ乗じ破壊や略奪",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6599281?source=rss",
+        "publishedAt": "2026-10-18T11:48:11.000Z"
+      },
+      {
         "time": "15:59",
         "title": "対露制裁見送り 米ウの亀裂深刻",
         "source": "Yahoo!ニュース",
@@ -82,25 +96,11 @@
         "publishedAt": "2026-10-18T04:45:32.000Z"
       },
       {
-        "time": "20:48",
-        "title": "フランス各地 デモ乗じ破壊や略奪",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599281?source=rss",
-        "publishedAt": "2026-10-18T11:48:11.000Z"
-      },
-      {
         "time": "23:14",
         "title": "ローマ教皇 退院後初の集会で感謝",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6599295?source=rss",
         "publishedAt": "2026-10-18T14:14:55.000Z"
-      },
-      {
-        "time": "16:59",
-        "title": "カナダ軍基地の爆発で7人死亡か",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599256?source=rss",
-        "publishedAt": "2026-10-18T07:59:18.000Z"
       }
     ],
     "economyHeadlines": [
@@ -110,13 +110,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6599267?source=rss",
         "publishedAt": "2026-10-18T09:34:26.000Z"
-      },
-      {
-        "time": "09:15",
-        "title": "中国人観光客 目立つ「大阪離れ」",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599199?source=rss",
-        "publishedAt": "2026-10-18T00:15:28.000Z"
       },
       {
         "time": "20:31",
@@ -145,6 +138,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6599249?source=rss",
         "publishedAt": "2026-10-18T07:21:06.000Z"
+      },
+      {
+        "time": "06:46",
+        "title": "新品畳に子が「臭い」畳店の思い",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6599303?source=rss",
+        "publishedAt": "2026-10-18T21:46:09.000Z"
       }
     ],
     "localHeadlines": [

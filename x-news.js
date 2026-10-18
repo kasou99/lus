@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-18T21:37:01.257Z",
+  "updatedAt": "2026-10-18T22:14:26.255Z",
   "items": [
     {
       "time": "22:21",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "辺野古転覆 高校生の遺族が献花"
     },
     {
-      "time": "22:23",
-      "title": "民家に夫婦の車突っ込む 夫が死亡",
+      "time": "06:59",
+      "title": "フランス各地で暴動 2400人逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599289?source=rss",
-      "publishedAt": "2026-10-18T13:23:25.000Z",
-      "xQuery": "民家に夫婦の車突っ込む 夫が死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6599304?source=rss",
+      "publishedAt": "2026-10-18T21:59:51.000Z",
+      "xQuery": "フランス各地で暴動 2400人逮捕"
     },
     {
       "time": "22:44",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "カーセンサーの利用停止 復旧未定"
     },
     {
-      "time": "22:16",
-      "title": "コミックシーモア 再開見通せず",
+      "time": "06:46",
+      "title": "新品畳に子が「臭い」畳店の思い",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599287?source=rss",
-      "publishedAt": "2026-10-18T13:16:19.000Z",
-      "xQuery": "コミックシーモア 再開見通せず"
+      "url": "https://news.yahoo.co.jp/pickup/6599303?source=rss",
+      "publishedAt": "2026-10-18T21:46:09.000Z",
+      "xQuery": "新品畳に子が「臭い」畳店の思い"
     }
   ]
 };
