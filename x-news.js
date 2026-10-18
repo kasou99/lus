@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-18T02:44:26.159Z",
+  "updatedAt": "2026-10-18T03:20:35.976Z",
   "items": [
     {
       "time": "11:13",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "消費減税法案 野党との間に隔たり"
     },
     {
-      "time": "09:39",
-      "title": "医療機関の倒産 1-9月は過去最多",
+      "time": "10:54",
+      "title": "米与野党 対露制裁巡り批判が噴出",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599200?source=rss",
-      "publishedAt": "2026-10-18T00:39:47.000Z",
-      "xQuery": "医療機関の倒産 1-9月は過去最多"
+      "url": "https://news.yahoo.co.jp/pickup/6599212?source=rss",
+      "publishedAt": "2026-10-18T01:54:08.000Z",
+      "xQuery": "米与野党 対露制裁巡り批判が噴出"
     },
     {
       "time": "10:16",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "仏で55万人デモ 市庁舎ほぼ全焼"
     },
     {
-      "time": "08:30",
-      "title": "シカ衝突し停車 追突され女性死亡",
+      "time": "11:33",
+      "title": "東大も新設「デザイン学部」とは",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599195?source=rss",
-      "publishedAt": "2026-10-17T23:30:31.000Z",
-      "xQuery": "シカ衝突し停車 追突され女性死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6599215?source=rss",
+      "publishedAt": "2026-10-18T02:33:19.000Z",
+      "xQuery": "東大も新設「デザイン学部」とは"
     },
     {
-      "time": "08:50",
-      "title": "海で「溺れている」通報 2人死亡",
+      "time": "11:54",
+      "title": "軽トラと車に挟まれ女性両足切断",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599197?source=rss",
-      "publishedAt": "2026-10-17T23:50:24.000Z",
-      "xQuery": "海で「溺れている」通報 2人死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6599220?source=rss",
+      "publishedAt": "2026-10-18T02:54:44.000Z",
+      "xQuery": "軽トラと車に挟まれ女性両足切断"
     }
   ]
 };
