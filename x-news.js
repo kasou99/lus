@@ -1,21 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-17T23:36:56.958Z",
+  "updatedAt": "2026-10-18T00:50:09.211Z",
   "items": [
     {
-      "time": "07:58",
-      "title": "閣僚更迭「高市1強」の弱点露呈",
+      "time": "08:32",
+      "title": "米の対露制裁見送り ウ大統領反発",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599190?source=rss",
-      "publishedAt": "2026-10-17T22:58:09.000Z",
-      "xQuery": "閣僚更迭「高市1強」の弱点露呈"
+      "url": "https://news.yahoo.co.jp/pickup/6599194?source=rss",
+      "publishedAt": "2026-10-17T23:32:57.000Z",
+      "xQuery": "米の対露制裁見送り ウ大統領反発"
     },
     {
-      "time": "07:11",
-      "title": "東京・福生で男性刺され死亡 逃走",
+      "time": "07:37",
+      "title": "通販に未認証のチャイルドシート",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599183?source=rss",
-      "publishedAt": "2026-10-17T22:11:30.000Z",
-      "xQuery": "東京・福生で男性刺され死亡 逃走"
+      "url": "https://news.yahoo.co.jp/pickup/6599187?source=rss",
+      "publishedAt": "2026-10-17T22:37:30.000Z",
+      "xQuery": "通販に未認証のチャイルドシート"
+    },
+    {
+      "time": "09:15",
+      "title": "中国人観光客 目立つ「大阪離れ」",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599199?source=rss",
+      "publishedAt": "2026-10-18T00:15:28.000Z",
+      "xQuery": "中国人観光客 目立つ「大阪離れ」"
     },
     {
       "time": "08:07",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "死亡事故 無車検の車運転疑い逮捕"
     },
     {
-      "time": "07:36",
-      "title": "祭りで副市長が死亡 市長「痛恨」",
+      "time": "08:30",
+      "title": "シカ衝突し停車 追突され女性死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599188?source=rss",
-      "publishedAt": "2026-10-17T22:36:26.000Z",
-      "xQuery": "祭りで副市長が死亡 市長「痛恨」"
-    },
-    {
-      "time": "07:35",
-      "title": "息子が赤ランドセル希望 母の不安",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599185?source=rss",
-      "publishedAt": "2026-10-17T22:35:05.000Z",
-      "xQuery": "息子が赤ランドセル希望 母の不安"
+      "url": "https://news.yahoo.co.jp/pickup/6599195?source=rss",
+      "publishedAt": "2026-10-17T23:30:31.000Z",
+      "xQuery": "シカ衝突し停車 追突され女性死亡"
     }
   ]
 };
