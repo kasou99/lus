@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-18T07:39:12.252Z",
+  "updatedAt": "2026-10-18T08:20:59.203Z",
   "items": [
     {
       "time": "15:59",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "高度外国人材 年収要件上げる方針"
     },
     {
-      "time": "14:24",
-      "title": "AIが家電侵入 サイバー攻撃の脅威",
+      "time": "16:59",
+      "title": "カナダ軍基地の爆発で7人死亡か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599237?source=rss",
-      "publishedAt": "2026-10-18T05:24:22.000Z",
-      "xQuery": "AIが家電侵入 サイバー攻撃の脅威"
+      "url": "https://news.yahoo.co.jp/pickup/6599256?source=rss",
+      "publishedAt": "2026-10-18T07:59:18.000Z",
+      "xQuery": "カナダ軍基地の爆発で7人死亡か"
     },
     {
       "time": "15:57",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "40歳で若年性認知症に 前を向く今"
     },
     {
-      "time": "15:37",
-      "title": "水路にうどん捨てないで 看板の訳",
+      "time": "17:13",
+      "title": "生理前のPMDD 本人気づかぬ例も",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599244?source=rss",
-      "publishedAt": "2026-10-18T06:37:21.000Z",
-      "xQuery": "水路にうどん捨てないで 看板の訳"
+      "url": "https://news.yahoo.co.jp/pickup/6599255?source=rss",
+      "publishedAt": "2026-10-18T08:13:20.000Z",
+      "xQuery": "生理前のPMDD 本人気づかぬ例も"
     }
   ]
 };
