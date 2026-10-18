@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-18T09:16:37.582Z",
+  "updatedAt": "2026-10-18T09:38:54.925Z",
   "items": [
     {
       "time": "17:45",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "国道でバイク同士が衝突 2人死亡"
     },
     {
-      "time": "17:27",
-      "title": "車と衝突 自転車の女子高校生重体",
+      "time": "18:13",
+      "title": "ガソリンスタンドで子が給油 危険",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599258?source=rss",
-      "publishedAt": "2026-10-18T08:27:27.000Z",
-      "xQuery": "車と衝突 自転車の女子高校生重体"
+      "url": "https://news.yahoo.co.jp/pickup/6599263?source=rss",
+      "publishedAt": "2026-10-18T09:13:04.000Z",
+      "xQuery": "ガソリンスタンドで子が給油 危険"
     }
   ]
 };

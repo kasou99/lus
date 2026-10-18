@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T09:16:36.844Z",
+  "updatedAt": "2026-10-18T09:38:53.831Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,11 +31,18 @@
         "publishedAt": "2026-10-17T13:29:58.000Z"
       },
       {
-        "time": "09:39",
-        "title": "医療機関の倒産 1-9月は過去最多",
+        "time": "04:58",
+        "title": "M-Board、ものづくりワールド大阪で配線工数削減のワンボードパネルを展示へ",
+        "source": "Dellows News",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5SbjlhdmR5VVJRMG1WeV9xdVpzbDBDQ3hqRUc3UUNkZDhnbzE4WUVEcHdaMkhTUE1ldE5KeXpXZm1VUUo4M2J5Z24zNm5NbHB4ZC00bWdrY1FlTE0xSDNXNHp5R3R4dU9J?oc=5",
+        "publishedAt": "2026-10-17T19:58:55.000Z"
+      },
+      {
+        "time": "18:34",
+        "title": "SUBARU 20年代後半にSDV投入へ",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599200?source=rss",
-        "publishedAt": "2026-10-18T00:39:47.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6599267?source=rss",
+        "publishedAt": "2026-10-18T09:34:26.000Z"
       },
       {
         "time": "09:15",
@@ -50,13 +57,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6599215?source=rss",
         "publishedAt": "2026-10-18T02:33:19.000Z"
-      },
-      {
-        "time": "18:13",
-        "title": "ガソリンスタンドで子が給油 危険",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599263?source=rss",
-        "publishedAt": "2026-10-18T09:13:04.000Z"
       }
     ],
     "worldHeadlines": [
@@ -105,11 +105,11 @@
     ],
     "economyHeadlines": [
       {
-        "time": "09:39",
-        "title": "医療機関の倒産 1-9月は過去最多",
+        "time": "18:34",
+        "title": "SUBARU 20年代後半にSDV投入へ",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599200?source=rss",
-        "publishedAt": "2026-10-18T00:39:47.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6599267?source=rss",
+        "publishedAt": "2026-10-18T09:34:26.000Z"
       },
       {
         "time": "09:15",
