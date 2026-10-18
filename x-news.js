@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-18T11:36:54.124Z",
+  "updatedAt": "2026-10-18T12:23:02.236Z",
   "items": [
     {
       "time": "19:52",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "19日大気不安定 激しい雨など注意"
     },
     {
-      "time": "18:47",
-      "title": "漏えい急増は中国製LLM起因 指摘",
+      "time": "20:48",
+      "title": "フランス各地 デモ乗じ破壊や略奪",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599269?source=rss",
-      "publishedAt": "2026-10-18T09:47:35.000Z",
-      "xQuery": "漏えい急増は中国製LLM起因 指摘"
+      "url": "https://news.yahoo.co.jp/pickup/6599281?source=rss",
+      "publishedAt": "2026-10-18T11:48:11.000Z",
+      "xQuery": "フランス各地 デモ乗じ破壊や略奪"
     },
     {
       "time": "20:09",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "横浜市長選 原沢敦美氏が当選確実"
     },
     {
-      "time": "18:34",
-      "title": "SUBARU 20年代後半にSDV投入へ",
+      "time": "21:10",
+      "title": "横浜市長選で当確 原沢氏どんな人",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599267?source=rss",
-      "publishedAt": "2026-10-18T09:34:26.000Z",
-      "xQuery": "SUBARU 20年代後半にSDV投入へ"
+      "url": "https://news.yahoo.co.jp/pickup/6599283?source=rss",
+      "publishedAt": "2026-10-18T12:10:18.000Z",
+      "xQuery": "横浜市長選で当確 原沢氏どんな人"
     },
     {
-      "time": "19:51",
-      "title": "福生市で男性刺され死亡 男を逮捕",
+      "time": "18:47",
+      "title": "漏えい急増は中国製LLM起因 指摘",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599276?source=rss",
-      "publishedAt": "2026-10-18T10:51:28.000Z",
-      "xQuery": "福生市で男性刺され死亡 男を逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6599269?source=rss",
+      "publishedAt": "2026-10-18T09:47:35.000Z",
+      "xQuery": "漏えい急増は中国製LLM起因 指摘"
     }
   ]
 };
