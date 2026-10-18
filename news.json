@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T09:38:53.831Z",
+  "updatedAt": "2026-10-18T10:15:09.925Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -15,6 +15,13 @@
         "source": "Newscast.jp",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB2R0RjS2s2UTVYUmlwNjllMGJlVjVXUjQxeFBnTlJRSUtFZUoxSXpsN2xCWlRrRzBxaDNGZnFfYTcxX2k5V2g5XzdyaDFlQ2M?oc=5",
         "publishedAt": "2026-10-18T07:00:00.000Z"
+      },
+      {
+        "time": "18:30",
+        "title": "精密薄肉ベアリングの世界市場（2026年～2032年）、市場規模（アンギュラ玉軸受、円筒ころ軸受、両方向アンギュラスラスト玉軸受、アキシャル・ラジアル円筒ころ軸受、その他...",
+        "source": "アットプレス",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9HeHBMOG5sT3c0N19RUlVNTmQwM2FoRE5zbjIxVWdiTjJuRExKNURFTEVnb0hITldsd1Z6OENBR2t6RjBwZENvcW1haUxxcW8?oc=5",
+        "publishedAt": "2026-10-18T09:30:00.000Z"
       },
       {
         "time": "09:14",
@@ -50,13 +57,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6599199?source=rss",
         "publishedAt": "2026-10-18T00:15:28.000Z"
-      },
-      {
-        "time": "11:33",
-        "title": "東大も新設「デザイン学部」とは",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599215?source=rss",
-        "publishedAt": "2026-10-18T02:33:19.000Z"
       }
     ],
     "worldHeadlines": [
@@ -149,13 +149,6 @@
     ],
     "localHeadlines": [
       {
-        "time": "14:12",
-        "title": "福生市で男性刺され死亡 男を確保",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599233?source=rss",
-        "publishedAt": "2026-10-18T05:12:15.000Z"
-      },
-      {
         "time": "13:46",
         "title": "図書館で車が2人はねる 57歳死亡",
         "source": "Yahoo!ニュース",
@@ -189,6 +182,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6599220?source=rss",
         "publishedAt": "2026-10-18T02:54:44.000Z"
+      },
+      {
+        "time": "17:27",
+        "title": "車と衝突 自転車の女子高校生重体",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6599258?source=rss",
+        "publishedAt": "2026-10-18T08:27:27.000Z"
       }
     ],
     "subsidyHeadlines": [

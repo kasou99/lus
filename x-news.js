@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-18T09:38:54.925Z",
+  "updatedAt": "2026-10-18T10:15:10.634Z",
   "items": [
     {
       "time": "17:45",
@@ -18,28 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "不動産取引のマネロン点検強化へ"
     },
     {
+      "time": "18:34",
+      "title": "SUBARU 20年代後半にSDV投入へ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599267?source=rss",
+      "publishedAt": "2026-10-18T09:34:26.000Z",
+      "xQuery": "SUBARU 20年代後半にSDV投入へ"
+    },
+    {
+      "time": "18:47",
+      "title": "漏えい急増は中国製LLM起因 指摘",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599269?source=rss",
+      "publishedAt": "2026-10-18T09:47:35.000Z",
+      "xQuery": "漏えい急増は中国製LLM起因 指摘"
+    },
+    {
       "time": "18:12",
       "title": "傾いていた住宅が倒壊 86歳死亡",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6599266?source=rss",
       "publishedAt": "2026-10-18T09:12:16.000Z",
       "xQuery": "傾いていた住宅が倒壊 86歳死亡"
-    },
-    {
-      "time": "17:50",
-      "title": "国道でバイク同士が衝突 2人死亡",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599262?source=rss",
-      "publishedAt": "2026-10-18T08:50:15.000Z",
-      "xQuery": "国道でバイク同士が衝突 2人死亡"
-    },
-    {
-      "time": "18:13",
-      "title": "ガソリンスタンドで子が給油 危険",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599263?source=rss",
-      "publishedAt": "2026-10-18T09:13:04.000Z",
-      "xQuery": "ガソリンスタンドで子が給油 危険"
     }
   ]
 };
