@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T10:37:42.661Z",
+  "updatedAt": "2026-10-18T11:13:20.251Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,6 +38,13 @@
         "publishedAt": "2026-10-17T13:29:58.000Z"
       },
       {
+        "time": "04:58",
+        "title": "M-Board、ものづくりワールド大阪で配線工数削減のワンボードパネルを展示へ",
+        "source": "Dellows News",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5SbjlhdmR5VVJRMG1WeV9xdVpzbDBDQ3hqRUc3UUNkZDhnbzE4WUVEcHdaMkhTUE1ldE5KeXpXZm1VUUo4M2J5Z24zNm5NbHB4ZC00bWdrY1FlTE0xSDNXNHp5R3R4dU9J?oc=5",
+        "publishedAt": "2026-10-17T19:58:55.000Z"
+      },
+      {
         "time": "18:34",
         "title": "SUBARU 20年代後半にSDV投入へ",
         "source": "Yahoo!ニュース",
@@ -50,13 +57,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6599199?source=rss",
         "publishedAt": "2026-10-18T00:15:28.000Z"
-      },
-      {
-        "time": "11:33",
-        "title": "東大も新設「デザイン学部」とは",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599215?source=rss",
-        "publishedAt": "2026-10-18T02:33:19.000Z"
       }
     ],
     "worldHeadlines": [
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "20:09",
+        "title": "横浜市長選 原沢敦美氏が当選確実",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6599278?source=rss",
+        "publishedAt": "2026-10-18T11:09:32.000Z"
+      },
+      {
         "time": "13:46",
         "title": "図書館で車が2人はねる 57歳死亡",
         "source": "Yahoo!ニュース",
@@ -163,6 +170,13 @@
         "publishedAt": "2026-10-17T22:36:26.000Z"
       },
       {
+        "time": "19:51",
+        "title": "福生市で男性刺され死亡 男を逮捕",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6599276?source=rss",
+        "publishedAt": "2026-10-18T10:51:28.000Z"
+      },
+      {
         "time": "17:50",
         "title": "国道でバイク同士が衝突 2人死亡",
         "source": "Yahoo!ニュース",
@@ -175,20 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6599266?source=rss",
         "publishedAt": "2026-10-18T09:12:16.000Z"
-      },
-      {
-        "time": "11:54",
-        "title": "軽トラと車に挟まれ女性両足切断",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599220?source=rss",
-        "publishedAt": "2026-10-18T02:54:44.000Z"
-      },
-      {
-        "time": "17:27",
-        "title": "車と衝突 自転車の女子高校生重体",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599258?source=rss",
-        "publishedAt": "2026-10-18T08:27:27.000Z"
       }
     ],
     "subsidyHeadlines": [
