@@ -1,20 +1,27 @@
 {
-  "updatedAt": "2026-10-18T20:38:25.238Z",
+  "updatedAt": "2026-10-18T21:13:32.183Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "06:00",
+        "title": "ヤマザキマザックとABEJA、工作機械へのフィジカルAI実装に向け業務連携開始 - LOGI-BIZ online",
+        "source": "LOGI-BIZ online",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5jQkRxYzBYS2tXQ2xEZmlsSklsdUljakdOcGZwSjVRcVVEVEJWUUFYaG41SVUwVFlUeUZtb1d2VnpiVExPeFZkYXpZQQ?oc=5",
+        "publishedAt": "2026-10-18T21:00:40.000Z"
+      },
+      {
+        "time": "06:04",
+        "title": "JIMTOF2026の企画展示でロボット技術に焦点",
+        "source": "robot digest",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9jRGtPLUFBSzhxOFZYN0RpWDBqX1VjRGlGMHFla1Z6RkVNTmpXTUx1TS01a1pfRlgtQlg1ZVdMYzNjaFRtQUZ0dGVyYkF6cjdGenZ5czhqUm15Sy1FZVljUDdjeElvaV84YVRV?oc=5",
+        "publishedAt": "2026-10-18T21:04:58.000Z"
+      },
       {
         "time": "05:00",
         "title": "碌々スマートテクノロジー、微細加工機2割増産 半導体関連需要が急増",
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA0Z2dQYVBoTEEza2NJcjVBVEZseXFiQi00cDYzZ3luZzQ1NWEtdzJXb0dIMnhrYmV4VENGMkFfVmhOTzEwWnJsZmw1Ti05S3ZpTUphOWloZjk?oc=5",
         "publishedAt": "2026-10-18T20:00:00.000Z"
-      },
-      {
-        "time": "19:18",
-        "title": "【JIMTOF情報】JIMTOF2026開幕目前！ 日工会会員104社の見どころを先行公開！ - | 製造現場ドットコム",
-        "source": "| 製造現場ドットコム",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBjNkVmQW1GYk9YWkpBbnZIY05YYmRaOFdxaVdVR0ZkODFPRmNjQWlqbkVTSU90QU9yV25PREhPdHl2SDdvZG1MOXd3?oc=5",
-        "publishedAt": "2026-10-18T10:18:17.000Z"
       },
       {
         "time": "15:27",
@@ -36,13 +43,6 @@
         "source": "伊賀タウン情報 YOU",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE92UUdwNkpKQ0Z6LTNkWHRqRDlKbG0zVlI4cnItdVJDc1d6TVRqdktESG1lYXlwMFJBdnpLR2MtN2dOOUotX2ZzbERSSGVNZ3NVZ09iLWhUV0loREE?oc=5",
         "publishedAt": "2026-10-18T00:14:09.000Z"
-      },
-      {
-        "time": "22:11",
-        "title": "日本最大の工場で作られる巨大プレジャーボートの製造プロセス Rudy Gobert (2cldFundgD)",
-        "source": "Unisba Media",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZV9pb3RYU1AwVjJkZFBMX2Zoem9aakNKeWMzY0FlQkRuaUk0UzBKMy1Ca0p2Q2dfX2doRGkwMzBpemFYWWxMRDdZVkdHcGpFS3NYSkdOMElzZEhMeC1FOVNkWnQyb3hDcUY1Tl9VcEI1aktVM1JaWFBMTTRYanNJX3paSVVOcTA?oc=5",
-        "publishedAt": "2026-10-18T13:11:31.000Z"
       },
       {
         "time": "16:00",

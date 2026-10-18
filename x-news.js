@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-18T20:38:25.922Z",
+  "updatedAt": "2026-10-18T21:13:32.868Z",
   "items": [
     {
       "time": "22:21",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "辺野古転覆 高校生の遺族が献花"
     },
     {
-      "time": "23:14",
-      "title": "ローマ教皇 退院後初の集会で感謝",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599295?source=rss",
-      "publishedAt": "2026-10-18T14:14:55.000Z",
-      "xQuery": "ローマ教皇 退院後初の集会で感謝"
-    },
-    {
       "time": "22:23",
       "title": "民家に夫婦の車突っ込む 夫が死亡",
       "source": "Yahoo!ニュース",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6599294?source=rss",
       "publishedAt": "2026-10-18T13:44:18.000Z",
       "xQuery": "カーセンサーの利用停止 復旧未定"
+    },
+    {
+      "time": "22:16",
+      "title": "コミックシーモア 再開見通せず",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599287?source=rss",
+      "publishedAt": "2026-10-18T13:16:19.000Z",
+      "xQuery": "コミックシーモア 再開見通せず"
     }
   ]
 };
