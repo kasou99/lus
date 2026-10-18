@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-18T03:20:35.976Z",
+  "updatedAt": "2026-10-18T03:44:17.206Z",
   "items": [
     {
       "time": "11:13",
@@ -18,6 +18,14 @@ window.LUS_X_NEWS = {
       "xQuery": "米与野党 対露制裁巡り批判が噴出"
     },
     {
+      "time": "09:45",
+      "title": "施設で試合中に車進入2人死亡 米",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599204?source=rss",
+      "publishedAt": "2026-10-18T00:45:25.000Z",
+      "xQuery": "施設で試合中に車進入2人死亡 米"
+    },
+    {
       "time": "10:16",
       "title": "仏で55万人デモ 市庁舎ほぼ全焼",
       "source": "Yahoo!ニュース",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6599215?source=rss",
       "publishedAt": "2026-10-18T02:33:19.000Z",
       "xQuery": "東大も新設「デザイン学部」とは"
-    },
-    {
-      "time": "11:54",
-      "title": "軽トラと車に挟まれ女性両足切断",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599220?source=rss",
-      "publishedAt": "2026-10-18T02:54:44.000Z",
-      "xQuery": "軽トラと車に挟まれ女性両足切断"
     }
   ]
 };
