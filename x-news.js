@@ -1,21 +1,37 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-18T08:42:10.609Z",
+  "updatedAt": "2026-10-18T09:16:37.582Z",
   "items": [
     {
-      "time": "15:59",
-      "title": "対露制裁見送り 米ウの亀裂深刻",
+      "time": "17:45",
+      "title": "内閣支持49%で発足以来最低 共同",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599247?source=rss",
-      "publishedAt": "2026-10-18T06:59:58.000Z",
-      "xQuery": "対露制裁見送り 米ウの亀裂深刻"
+      "url": "https://news.yahoo.co.jp/pickup/6599260?source=rss",
+      "publishedAt": "2026-10-18T08:45:32.000Z",
+      "xQuery": "内閣支持49%で発足以来最低 共同"
     },
     {
-      "time": "15:37",
-      "title": "高度外国人材 年収要件上げる方針",
+      "time": "17:30",
+      "title": "不動産取引のマネロン点検強化へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599245?source=rss",
-      "publishedAt": "2026-10-18T06:37:10.000Z",
-      "xQuery": "高度外国人材 年収要件上げる方針"
+      "url": "https://news.yahoo.co.jp/pickup/6599259?source=rss",
+      "publishedAt": "2026-10-18T08:30:52.000Z",
+      "xQuery": "不動産取引のマネロン点検強化へ"
+    },
+    {
+      "time": "18:12",
+      "title": "傾いていた住宅が倒壊 86歳死亡",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599266?source=rss",
+      "publishedAt": "2026-10-18T09:12:16.000Z",
+      "xQuery": "傾いていた住宅が倒壊 86歳死亡"
+    },
+    {
+      "time": "17:50",
+      "title": "国道でバイク同士が衝突 2人死亡",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599262?source=rss",
+      "publishedAt": "2026-10-18T08:50:15.000Z",
+      "xQuery": "国道でバイク同士が衝突 2人死亡"
     },
     {
       "time": "17:27",
@@ -24,22 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6599258?source=rss",
       "publishedAt": "2026-10-18T08:27:27.000Z",
       "xQuery": "車と衝突 自転車の女子高校生重体"
-    },
-    {
-      "time": "15:57",
-      "title": "40歳で若年性認知症に 前を向く今",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599246?source=rss",
-      "publishedAt": "2026-10-18T06:57:06.000Z",
-      "xQuery": "40歳で若年性認知症に 前を向く今"
-    },
-    {
-      "time": "17:13",
-      "title": "生理前のPMDD 本人気づかぬ例も",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599255?source=rss",
-      "publishedAt": "2026-10-18T08:13:20.000Z",
-      "xQuery": "生理前のPMDD 本人気づかぬ例も"
     }
   ]
 };
