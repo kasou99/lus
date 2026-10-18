@@ -1,21 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-18T22:14:26.255Z",
+  "updatedAt": "2026-10-18T22:36:43.157Z",
   "items": [
     {
-      "time": "22:21",
-      "title": "内閣支持率ほぼ横ばい57% 読売",
+      "time": "07:23",
+      "title": "広く大気不安定 天気の急変に注意",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599288?source=rss",
-      "publishedAt": "2026-10-18T13:21:29.000Z",
-      "xQuery": "内閣支持率ほぼ横ばい57% 読売"
-    },
-    {
-      "time": "23:55",
-      "title": "辺野古転覆 高校生の遺族が献花",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599293?source=rss",
-      "publishedAt": "2026-10-18T14:55:38.000Z",
-      "xQuery": "辺野古転覆 高校生の遺族が献花"
+      "url": "https://news.yahoo.co.jp/pickup/6599308?source=rss",
+      "publishedAt": "2026-10-18T22:23:22.000Z",
+      "xQuery": "広く大気不安定 天気の急変に注意"
     },
     {
       "time": "06:59",
@@ -24,6 +16,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6599304?source=rss",
       "publishedAt": "2026-10-18T21:59:51.000Z",
       "xQuery": "フランス各地で暴動 2400人逮捕"
+    },
+    {
+      "time": "07:16",
+      "title": "サイバー攻撃 なぜ日本が狙われる",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599306?source=rss",
+      "publishedAt": "2026-10-18T22:16:37.000Z",
+      "xQuery": "サイバー攻撃 なぜ日本が狙われる"
     },
     {
       "time": "22:44",
