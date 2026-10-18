@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-10-18T19:36:56.292Z",
+  "updatedAt": "2026-10-18T20:15:36.713Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "05:00",
+        "title": "碌々スマートテクノロジー、微細加工機2割増産 半導体関連需要が急増",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA0Z2dQYVBoTEEza2NJcjVBVEZseXFiQi00cDYzZ3luZzQ1NWEtdzJXb0dIMnhrYmV4VENGMkFfVmhOTzEwWnJsZmw1Ti05S3ZpTUphOWloZjk?oc=5",
+        "publishedAt": "2026-10-18T20:00:00.000Z"
+      },
       {
         "time": "19:18",
         "title": "【JIMTOF情報】JIMTOF2026開幕目前！ 日工会会員104社の見どころを先行公開！ - | 製造現場ドットコム",
@@ -31,13 +38,6 @@
         "publishedAt": "2026-10-18T00:14:09.000Z"
       },
       {
-        "time": "22:11",
-        "title": "日本最大の工場で作られる巨大プレジャーボートの製造プロセス Rudy Gobert (2cldFundgD)",
-        "source": "Unisba Media",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZV9pb3RYU1AwVjJkZFBMX2Zoem9aakNKeWMzY0FlQkRuaUk0UzBKMy1Ca0p2Q2dfX2doRGkwMzBpemFYWWxMRDdZVkdHcGpFS3NYSkdOMElzZEhMeC1FOVNkWnQyb3hDcUY1Tl9VcEI1aktVM1JaWFBMTTRYanNJX3paSVVOcTA?oc=5",
-        "publishedAt": "2026-10-18T13:11:31.000Z"
-      },
-      {
         "time": "16:00",
         "title": "ワークピース・タッチプローブの世界市場（2026年～2032年）、市場規模（ワイヤレス、有線）・分析レポートを発表",
         "source": "アットプレス",
@@ -45,18 +45,18 @@
         "publishedAt": "2026-10-18T07:00:00.000Z"
       },
       {
-        "time": "04:58",
-        "title": "M-Board、ものづくりワールド大阪で配線工数削減のワンボードパネルを展示へ",
-        "source": "Dellows News",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5SbjlhdmR5VVJRMG1WeV9xdVpzbDBDQ3hqRUc3UUNkZDhnbzE4WUVEcHdaMkhTUE1ldE5KeXpXZm1VUUo4M2J5Z24zNm5NbHB4ZC00bWdrY1FlTE0xSDNXNHp5R3R4dU9J?oc=5",
-        "publishedAt": "2026-10-17T19:58:55.000Z"
-      },
-      {
         "time": "18:34",
         "title": "SUBARU 20年代後半にSDV投入へ",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6599267?source=rss",
         "publishedAt": "2026-10-18T09:34:26.000Z"
+      },
+      {
+        "time": "09:15",
+        "title": "中国人観光客 目立つ「大阪離れ」",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6599199?source=rss",
+        "publishedAt": "2026-10-18T00:15:28.000Z"
       }
     ],
     "worldHeadlines": [
