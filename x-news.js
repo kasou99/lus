@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-18T08:20:59.203Z",
+  "updatedAt": "2026-10-18T08:42:10.609Z",
   "items": [
     {
       "time": "15:59",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "高度外国人材 年収要件上げる方針"
     },
     {
-      "time": "16:59",
-      "title": "カナダ軍基地の爆発で7人死亡か",
+      "time": "17:27",
+      "title": "車と衝突 自転車の女子高校生重体",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599256?source=rss",
-      "publishedAt": "2026-10-18T07:59:18.000Z",
-      "xQuery": "カナダ軍基地の爆発で7人死亡か"
+      "url": "https://news.yahoo.co.jp/pickup/6599258?source=rss",
+      "publishedAt": "2026-10-18T08:27:27.000Z",
+      "xQuery": "車と衝突 自転車の女子高校生重体"
     },
     {
       "time": "15:57",
