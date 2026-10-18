@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-18T14:14:27.252Z",
+  "updatedAt": "2026-10-18T14:37:23.522Z",
   "items": [
     {
       "time": "22:21",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "内閣支持率ほぼ横ばい57% 読売"
     },
     {
-      "time": "20:46",
-      "title": "JAXA 民間ロケット開発を後押し",
+      "time": "23:14",
+      "title": "ローマ教皇 退院後初の集会で感謝",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599280?source=rss",
-      "publishedAt": "2026-10-18T11:46:03.000Z",
-      "xQuery": "JAXA 民間ロケット開発を後押し"
+      "url": "https://news.yahoo.co.jp/pickup/6599295?source=rss",
+      "publishedAt": "2026-10-18T14:14:55.000Z",
+      "xQuery": "ローマ教皇 退院後初の集会で感謝"
     },
     {
       "time": "21:10",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "民家に夫婦の車突っ込む 夫が死亡"
     },
     {
-      "time": "17:13",
-      "title": "生理前のPMDD 本人気づかぬ例も",
+      "time": "22:44",
+      "title": "カーセンサーの利用停止 復旧未定",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599255?source=rss",
-      "publishedAt": "2026-10-18T08:13:20.000Z",
-      "xQuery": "生理前のPMDD 本人気づかぬ例も"
+      "url": "https://news.yahoo.co.jp/pickup/6599294?source=rss",
+      "publishedAt": "2026-10-18T13:44:18.000Z",
+      "xQuery": "カーセンサーの利用停止 復旧未定"
     }
   ]
 };
