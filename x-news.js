@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-18T05:16:05.498Z",
+  "updatedAt": "2026-10-18T05:39:12.368Z",
   "items": [
     {
       "time": "13:25",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "消費減税法案 自民が譲歩に含み"
     },
     {
-      "time": "12:07",
-      "title": "非常に強い台風30号 23日沖縄南に",
+      "time": "13:45",
+      "title": "NO KINGS 全米で反トランプデモ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599221?source=rss",
-      "publishedAt": "2026-10-18T03:07:59.000Z",
-      "xQuery": "非常に強い台風30号 23日沖縄南に"
+      "url": "https://news.yahoo.co.jp/pickup/6599228?source=rss",
+      "publishedAt": "2026-10-18T04:45:32.000Z",
+      "xQuery": "NO KINGS 全米で反トランプデモ"
     },
     {
-      "time": "12:17",
-      "title": "群馬母子殺傷 殺人疑いで男再逮捕",
+      "time": "14:12",
+      "title": "福生市で男性刺され死亡 男を確保",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599223?source=rss",
-      "publishedAt": "2026-10-18T03:17:42.000Z",
-      "xQuery": "群馬母子殺傷 殺人疑いで男再逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6599233?source=rss",
+      "publishedAt": "2026-10-18T05:12:15.000Z",
+      "xQuery": "福生市で男性刺され死亡 男を確保"
     },
     {
       "time": "13:46",
