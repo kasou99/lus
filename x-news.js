@@ -1,21 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-18T01:28:04.510Z",
+  "updatedAt": "2026-10-18T01:51:33.546Z",
   "items": [
     {
-      "time": "08:32",
-      "title": "米の対露制裁見送り ウ大統領反発",
+      "time": "09:39",
+      "title": "医療機関の倒産 1-9月は過去最多",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599194?source=rss",
-      "publishedAt": "2026-10-17T23:32:57.000Z",
-      "xQuery": "米の対露制裁見送り ウ大統領反発"
+      "url": "https://news.yahoo.co.jp/pickup/6599200?source=rss",
+      "publishedAt": "2026-10-18T00:39:47.000Z",
+      "xQuery": "医療機関の倒産 1-9月は過去最多"
     },
     {
-      "time": "07:37",
-      "title": "通販に未認証のチャイルドシート",
+      "time": "09:38",
+      "title": "過激表現の規制 子どもを守るのか",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599187?source=rss",
-      "publishedAt": "2026-10-17T22:37:30.000Z",
-      "xQuery": "通販に未認証のチャイルドシート"
+      "url": "https://news.yahoo.co.jp/pickup/6599203?source=rss",
+      "publishedAt": "2026-10-18T00:38:03.000Z",
+      "xQuery": "過激表現の規制 子どもを守るのか"
+    },
+    {
+      "time": "10:16",
+      "title": "仏で55万人デモ 市庁舎ほぼ全焼",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599210?source=rss",
+      "publishedAt": "2026-10-18T01:16:44.000Z",
+      "xQuery": "仏で55万人デモ 市庁舎ほぼ全焼"
     },
     {
       "time": "08:30",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6599188?source=rss",
       "publishedAt": "2026-10-17T22:36:26.000Z",
       "xQuery": "祭りで副市長が死亡 市長「痛恨」"
-    },
-    {
-      "time": "08:50",
-      "title": "海で「溺れている」通報 2人死亡",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599197?source=rss",
-      "publishedAt": "2026-10-17T23:50:24.000Z",
-      "xQuery": "海で「溺れている」通報 2人死亡"
     }
   ]
 };
