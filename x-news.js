@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-18T04:42:34.901Z",
+  "updatedAt": "2026-10-18T05:16:05.498Z",
   "items": [
+    {
+      "time": "13:25",
+      "title": "消費減税法案 自民が譲歩に含み",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599227?source=rss",
+      "publishedAt": "2026-10-18T04:25:22.000Z",
+      "xQuery": "消費減税法案 自民が譲歩に含み"
+    },
     {
       "time": "12:07",
       "title": "非常に強い台風30号 23日沖縄南に",
@@ -18,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "群馬母子殺傷 殺人疑いで男再逮捕"
     },
     {
-      "time": "10:16",
-      "title": "仏で55万人デモ 市庁舎ほぼ全焼",
+      "time": "13:46",
+      "title": "図書館で車が2人はねる 57歳死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599210?source=rss",
-      "publishedAt": "2026-10-18T01:16:44.000Z",
-      "xQuery": "仏で55万人デモ 市庁舎ほぼ全焼"
+      "url": "https://news.yahoo.co.jp/pickup/6599231?source=rss",
+      "publishedAt": "2026-10-18T04:46:41.000Z",
+      "xQuery": "図書館で車が2人はねる 57歳死亡"
     },
     {
       "time": "11:54",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6599220?source=rss",
       "publishedAt": "2026-10-18T02:54:44.000Z",
       "xQuery": "軽トラと車に挟まれ女性両足切断"
-    },
-    {
-      "time": "12:49",
-      "title": "インド祭典で群衆事故 40人超死傷",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599225?source=rss",
-      "publishedAt": "2026-10-18T03:49:28.000Z",
-      "xQuery": "インド祭典で群衆事故 40人超死傷"
     }
   ]
 };

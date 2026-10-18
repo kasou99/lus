@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T04:42:34.378Z",
+  "updatedAt": "2026-10-18T05:16:04.680Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -15,13 +15,6 @@
         "source": "山陽新聞",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB2YnlPN09iTUcyOGNldkhrT1k5RzQ5M0pLNkE3NkV1YzJxUDFPam9xOTV6dFZva2ZrNHNxNkZIOGYxMXN6R1JyUHFIMXZIamRMT2c?oc=5",
         "publishedAt": "2026-10-17T09:08:15.000Z"
-      },
-      {
-        "time": "14:11",
-        "title": "共同通信ＰＲワイヤー",
-        "source": "山形新聞",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9XazQ2MFFvYXZ6T2k5aS12QVJxcUE2cjRmUlZPdjZwenVodU9YcS1GRWxkWVFuT1JKdU4wZHRvZGY1cWNSQUxmYVFuYWtPM3h4QlhEa3FPUUlQRjJSRGVPUHZMX0RaS0VYNmdB?oc=5",
-        "publishedAt": "2026-10-17T05:11:49.000Z"
       },
       {
         "time": "09:39",
@@ -57,6 +50,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6599146?source=rss",
         "publishedAt": "2026-10-17T09:42:34.000Z"
+      },
+      {
+        "time": "20:49",
+        "title": "なぜ都市部にデータセンター 解説",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6599158?source=rss",
+        "publishedAt": "2026-10-17T11:49:59.000Z"
       }
     ],
     "worldHeadlines": [
@@ -75,18 +75,18 @@
         "publishedAt": "2026-10-17T23:32:57.000Z"
       },
       {
+        "time": "13:45",
+        "title": "NO KINGS 全米で反トランプデモ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6599228?source=rss",
+        "publishedAt": "2026-10-18T04:45:32.000Z"
+      },
+      {
         "time": "12:49",
         "title": "インド祭典で群衆事故 40人超死傷",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6599225?source=rss",
         "publishedAt": "2026-10-18T03:49:28.000Z"
-      },
-      {
-        "time": "17:19",
-        "title": "靖国に首相が真榊奉納 韓国は遺憾",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599131?source=rss",
-        "publishedAt": "2026-10-17T08:19:09.000Z"
       },
       {
         "time": "10:16",
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "14:12",
+        "title": "福生市で男性刺され死亡 男を確保",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6599233?source=rss",
+        "publishedAt": "2026-10-18T05:12:15.000Z"
+      },
+      {
         "time": "12:17",
         "title": "群馬母子殺傷 殺人疑いで男再逮捕",
         "source": "Yahoo!ニュース",
@@ -156,11 +163,11 @@
         "publishedAt": "2026-10-18T03:17:42.000Z"
       },
       {
-        "time": "08:50",
-        "title": "海で「溺れている」通報 2人死亡",
+        "time": "13:46",
+        "title": "図書館で車が2人はねる 57歳死亡",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599197?source=rss",
-        "publishedAt": "2026-10-17T23:50:24.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6599231?source=rss",
+        "publishedAt": "2026-10-18T04:46:41.000Z"
       },
       {
         "time": "08:07",
@@ -168,13 +175,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6599192?source=rss",
         "publishedAt": "2026-10-17T23:07:41.000Z"
-      },
-      {
-        "time": "07:11",
-        "title": "東京・福生で男性刺され死亡 逃走",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599183?source=rss",
-        "publishedAt": "2026-10-17T22:11:30.000Z"
       },
       {
         "time": "07:36",
