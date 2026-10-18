@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T00:50:08.442Z",
+  "updatedAt": "2026-10-18T01:28:03.968Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,13 +31,6 @@
         "publishedAt": "2026-10-17T05:11:49.000Z"
       },
       {
-        "time": "04:58",
-        "title": "M-Board、ものづくりワールド大阪で配線工数削減のワンボードパネルを展示へ",
-        "source": "Dellows News",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5SbjlhdmR5VVJRMG1WeV9xdVpzbDBDQ3hqRUc3UUNkZDhnbzE4WUVEcHdaMkhTUE1ldE5KeXpXZm1VUUo4M2J5Z24zNm5NbHB4ZC00bWdrY1FlTE0xSDNXNHp5R3R4dU9J?oc=5",
-        "publishedAt": "2026-10-17T19:58:55.000Z"
-      },
-      {
         "time": "09:39",
         "title": "医療機関の倒産 1-9月は過去最多",
         "source": "Yahoo!ニュース",
@@ -57,6 +50,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6599187?source=rss",
         "publishedAt": "2026-10-17T22:37:30.000Z"
+      },
+      {
+        "time": "16:20",
+        "title": "IMF高官評価 日本の消費減税法案",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6599121?source=rss",
+        "publishedAt": "2026-10-17T07:20:56.000Z"
       }
     ],
     "worldHeadlines": [
@@ -82,6 +82,13 @@
         "publishedAt": "2026-10-17T08:19:09.000Z"
       },
       {
+        "time": "10:16",
+        "title": "仏で55万人デモ 市庁舎ほぼ全焼",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6599210?source=rss",
+        "publishedAt": "2026-10-18T01:16:44.000Z"
+      },
+      {
         "time": "19:01",
         "title": "中国車 ノルウェー軍情報を記録",
         "source": "Yahoo!ニュース",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6599083?source=rss",
         "publishedAt": "2026-10-17T02:03:35.000Z"
-      },
-      {
-        "time": "09:45",
-        "title": "施設で試合中に車進入2人死亡 米",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599204?source=rss",
-        "publishedAt": "2026-10-18T00:45:25.000Z"
       }
     ],
     "economyHeadlines": [

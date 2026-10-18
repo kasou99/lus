@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-18T00:50:09.211Z",
+  "updatedAt": "2026-10-18T01:28:04.510Z",
   "items": [
     {
       "time": "08:32",
@@ -18,28 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "通販に未認証のチャイルドシート"
     },
     {
-      "time": "09:15",
-      "title": "中国人観光客 目立つ「大阪離れ」",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599199?source=rss",
-      "publishedAt": "2026-10-18T00:15:28.000Z",
-      "xQuery": "中国人観光客 目立つ「大阪離れ」"
-    },
-    {
-      "time": "08:07",
-      "title": "死亡事故 無車検の車運転疑い逮捕",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599192?source=rss",
-      "publishedAt": "2026-10-17T23:07:41.000Z",
-      "xQuery": "死亡事故 無車検の車運転疑い逮捕"
-    },
-    {
       "time": "08:30",
       "title": "シカ衝突し停車 追突され女性死亡",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6599195?source=rss",
       "publishedAt": "2026-10-17T23:30:31.000Z",
       "xQuery": "シカ衝突し停車 追突され女性死亡"
+    },
+    {
+      "time": "07:36",
+      "title": "祭りで副市長が死亡 市長「痛恨」",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599188?source=rss",
+      "publishedAt": "2026-10-17T22:36:26.000Z",
+      "xQuery": "祭りで副市長が死亡 市長「痛恨」"
+    },
+    {
+      "time": "08:50",
+      "title": "海で「溺れている」通報 2人死亡",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599197?source=rss",
+      "publishedAt": "2026-10-17T23:50:24.000Z",
+      "xQuery": "海で「溺れている」通報 2人死亡"
     }
   ]
 };
