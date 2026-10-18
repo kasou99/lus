@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-18T13:13:48.838Z",
+  "updatedAt": "2026-10-18T13:37:00.556Z",
   "items": [
     {
-      "time": "19:52",
-      "title": "19日大気不安定 激しい雨など注意",
+      "time": "22:21",
+      "title": "内閣支持率ほぼ横ばい57% 読売",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599277?source=rss",
-      "publishedAt": "2026-10-18T10:52:59.000Z",
-      "xQuery": "19日大気不安定 激しい雨など注意"
+      "url": "https://news.yahoo.co.jp/pickup/6599288?source=rss",
+      "publishedAt": "2026-10-18T13:21:29.000Z",
+      "xQuery": "内閣支持率ほぼ横ばい57% 読売"
     },
     {
-      "time": "20:48",
-      "title": "フランス各地 デモ乗じ破壊や略奪",
+      "time": "20:46",
+      "title": "JAXA 民間ロケット開発を後押し",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599281?source=rss",
-      "publishedAt": "2026-10-18T11:48:11.000Z",
-      "xQuery": "フランス各地 デモ乗じ破壊や略奪"
+      "url": "https://news.yahoo.co.jp/pickup/6599280?source=rss",
+      "publishedAt": "2026-10-18T11:46:03.000Z",
+      "xQuery": "JAXA 民間ロケット開発を後押し"
     },
     {
       "time": "21:10",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "横浜市長選で当確 原沢氏どんな人"
     },
     {
-      "time": "18:47",
-      "title": "漏えい急増は中国製LLM起因 指摘",
+      "time": "22:23",
+      "title": "民家に夫婦の車突っ込む 夫が死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599269?source=rss",
-      "publishedAt": "2026-10-18T09:47:35.000Z",
-      "xQuery": "漏えい急増は中国製LLM起因 指摘"
+      "url": "https://news.yahoo.co.jp/pickup/6599289?source=rss",
+      "publishedAt": "2026-10-18T13:23:25.000Z",
+      "xQuery": "民家に夫婦の車突っ込む 夫が死亡"
     },
     {
-      "time": "21:15",
-      "title": "カーセンサーのサイト 一時停止",
+      "time": "17:13",
+      "title": "生理前のPMDD 本人気づかぬ例も",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599284?source=rss",
-      "publishedAt": "2026-10-18T12:15:22.000Z",
-      "xQuery": "カーセンサーのサイト 一時停止"
+      "url": "https://news.yahoo.co.jp/pickup/6599255?source=rss",
+      "publishedAt": "2026-10-18T08:13:20.000Z",
+      "xQuery": "生理前のPMDD 本人気づかぬ例も"
     }
   ]
 };
