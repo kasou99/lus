@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T13:36:59.677Z",
+  "updatedAt": "2026-10-18T14:14:26.314Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,13 +38,6 @@
         "publishedAt": "2026-10-18T07:00:00.000Z"
       },
       {
-        "time": "04:58",
-        "title": "M-Board、ものづくりワールド大阪で配線工数削減のワンボードパネルを展示へ",
-        "source": "Dellows News",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5SbjlhdmR5VVJRMG1WeV9xdVpzbDBDQ3hqRUc3UUNkZDhnbzE4WUVEcHdaMkhTUE1ldE5KeXpXZm1VUUo4M2J5Z24zNm5NbHB4ZC00bWdrY1FlTE0xSDNXNHp5R3R4dU9J?oc=5",
-        "publishedAt": "2026-10-17T19:58:55.000Z"
-      },
-      {
         "time": "18:34",
         "title": "SUBARU 20年代後半にSDV投入へ",
         "source": "Yahoo!ニュース",
@@ -57,6 +50,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6599199?source=rss",
         "publishedAt": "2026-10-18T00:15:28.000Z"
+      },
+      {
+        "time": "20:31",
+        "title": "長雨や日照不足の影響 農家苦悩",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6599279?source=rss",
+        "publishedAt": "2026-10-18T11:31:01.000Z"
       }
     ],
     "worldHeadlines": [
