@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-18T05:39:12.368Z",
+  "updatedAt": "2026-10-18T06:27:17.044Z",
   "items": [
     {
       "time": "13:25",
@@ -8,14 +8,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6599227?source=rss",
       "publishedAt": "2026-10-18T04:25:22.000Z",
       "xQuery": "消費減税法案 自民が譲歩に含み"
-    },
-    {
-      "time": "13:45",
-      "title": "NO KINGS 全米で反トランプデモ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599228?source=rss",
-      "publishedAt": "2026-10-18T04:45:32.000Z",
-      "xQuery": "NO KINGS 全米で反トランプデモ"
     },
     {
       "time": "14:12",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6599220?source=rss",
       "publishedAt": "2026-10-18T02:54:44.000Z",
       "xQuery": "軽トラと車に挟まれ女性両足切断"
+    },
+    {
+      "time": "15:09",
+      "title": "井脇ノブ子氏 ピンクスーツは47着",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599241?source=rss",
+      "publishedAt": "2026-10-18T06:09:35.000Z",
+      "xQuery": "井脇ノブ子氏 ピンクスーツは47着"
     }
   ]
 };
