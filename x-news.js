@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-18T06:27:17.044Z",
+  "updatedAt": "2026-10-18T06:51:16.822Z",
   "items": [
     {
       "time": "13:25",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "図書館で車が2人はねる 57歳死亡"
     },
     {
-      "time": "11:54",
-      "title": "軽トラと車に挟まれ女性両足切断",
+      "time": "15:37",
+      "title": "水路にうどん捨てないで 看板の訳",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599220?source=rss",
-      "publishedAt": "2026-10-18T02:54:44.000Z",
-      "xQuery": "軽トラと車に挟まれ女性両足切断"
+      "url": "https://news.yahoo.co.jp/pickup/6599244?source=rss",
+      "publishedAt": "2026-10-18T06:37:21.000Z",
+      "xQuery": "水路にうどん捨てないで 看板の訳"
     },
     {
       "time": "15:09",

@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-10-18T06:27:16.408Z",
+  "updatedAt": "2026-10-18T06:51:15.992Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "15:27",
+        "title": "ヤマザキマザック 製造業向けAI開発へ 人手不足に対応（読売新聞オンライン）",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5rZmpFUjV3d0pKLXMyYWtGZWxQQUtadkZVVllWNllZVjFGbUZjZXh0X0dvQ0EyUzdMOUx6eFJjQ3FnSml3MWlfQUxLUmhCajhwUDBVdzdOZWlBb0FOUDZDazNFNmFIa21yQlczQUVxMVktS3NKX2w5VVAxTWRhVHc?oc=5",
+        "publishedAt": "2026-10-18T06:27:05.000Z"
+      },
       {
         "time": "09:14",
         "title": "工房にウッドデッキ 地域住民らが製作 名張・神屋",
@@ -50,13 +57,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6599242?source=rss",
         "publishedAt": "2026-10-18T06:22:00.000Z"
-      },
-      {
-        "time": "11:33",
-        "title": "東大も新設「デザイン学部」とは",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599215?source=rss",
-        "publishedAt": "2026-10-18T02:33:19.000Z"
       }
     ],
     "worldHeadlines": [
