@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-19T22:16:24.889Z",
+  "updatedAt": "2026-10-19T22:37:56.652Z",
   "items": [
     {
-      "time": "23:05",
-      "title": "仏首相 一部に夜間外出禁止令要請",
+      "time": "07:19",
+      "title": "トランプ氏 米露中会談に前向き",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599406?source=rss",
-      "publishedAt": "2026-10-19T14:05:17.000Z",
-      "xQuery": "仏首相 一部に夜間外出禁止令要請"
+      "url": "https://news.yahoo.co.jp/pickup/6599417?source=rss",
+      "publishedAt": "2026-10-19T22:19:09.000Z",
+      "xQuery": "トランプ氏 米露中会談に前向き"
     },
     {
       "time": "22:32",

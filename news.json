@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T22:16:24.381Z",
+  "updatedAt": "2026-10-19T22:37:55.707Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -61,18 +61,18 @@
     ],
     "worldHeadlines": [
       {
+        "time": "07:19",
+        "title": "トランプ氏 米露中会談に前向き",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6599417?source=rss",
+        "publishedAt": "2026-10-19T22:19:09.000Z"
+      },
+      {
         "time": "23:05",
         "title": "仏首相 一部に夜間外出禁止令要請",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6599406?source=rss",
         "publishedAt": "2026-10-19T14:05:17.000Z"
-      },
-      {
-        "time": "12:06",
-        "title": "プーチン氏が米中露会談提案 報道",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599341?source=rss",
-        "publishedAt": "2026-10-19T03:06:14.000Z"
       },
       {
         "time": "23:55",
