@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-19T08:52:04.172Z",
+  "updatedAt": "2026-10-19T09:26:31.113Z",
   "items": [
     {
       "time": "15:52",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "パーティ問題巡り 関氏に厳重注意"
     },
     {
-      "time": "14:45",
-      "title": "こどもNISA 知っておきたい注意点",
+      "time": "17:39",
+      "title": "仏で抗議デモ 欧州各地に広がり",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599354?source=rss",
-      "publishedAt": "2026-10-19T05:45:45.000Z",
-      "xQuery": "こどもNISA 知っておきたい注意点"
+      "url": "https://news.yahoo.co.jp/pickup/6599367?source=rss",
+      "publishedAt": "2026-10-19T08:39:49.000Z",
+      "xQuery": "仏で抗議デモ 欧州各地に広がり"
     },
     {
-      "time": "16:24",
-      "title": "個別指導トレーニング トラブル増",
+      "time": "17:42",
+      "title": "台風30号が猛烈な勢力に 進路は",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599359?source=rss",
-      "publishedAt": "2026-10-19T07:24:55.000Z",
-      "xQuery": "個別指導トレーニング トラブル増"
+      "url": "https://news.yahoo.co.jp/pickup/6599370?source=rss",
+      "publishedAt": "2026-10-19T08:42:32.000Z",
+      "xQuery": "台風30号が猛烈な勢力に 進路は"
     },
     {
       "time": "16:43",

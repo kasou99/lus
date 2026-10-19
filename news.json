@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T08:52:03.372Z",
+  "updatedAt": "2026-10-19T09:26:30.459Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "18:12",
+        "title": "死亡事故 防カメに猛スピードの車",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6599374?source=rss",
+        "publishedAt": "2026-10-19T09:12:52.000Z"
+      },
+      {
         "time": "14:09",
         "title": "バスや乗用車絡む事故 女性が死亡",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6599316?source=rss",
         "publishedAt": "2026-10-18T23:40:50.000Z"
-      },
-      {
-        "time": "16:43",
-        "title": "寄付された金延べ棒21kg 売却完了",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599361?source=rss",
-        "publishedAt": "2026-10-19T07:43:48.000Z"
       }
     ],
     "subsidyHeadlines": [
