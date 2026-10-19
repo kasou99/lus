@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T14:42:51.205Z",
+  "updatedAt": "2026-10-19T15:16:58.897Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -15,13 +15,6 @@
         "source": "LOGI-BIZ online",
         "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5jQkRxYzBYS2tXQ2xEZmlsSklsdUljakdOcGZwSjVRcVVEVEJWUUFYaG41SVUwVFlUeUZtb1d2VnpiVExPeFZkYXpZQQ?oc=5",
         "publishedAt": "2026-10-18T21:00:40.000Z"
-      },
-      {
-        "time": "16:00",
-        "title": "インターアクション[7725]：当社子会社（株式会社東京テクニカル）の「JIMTOF2026」出展のお知らせ 2026年10月19日(適時開示) ：日経会社情報DIGITAL",
-        "source": "日本経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQYVgzNHFJa2pocWUzeGtick1DdjI0cVZRNE43WndtVlZvREVvY3ljai1KSzMwR1BWNVZZVm0wbERIZ295a2VmdzRhMmRkM0dQMHlpRUROM1lFdVdTUFVUbEVoMm1sc0ljb3BqX3Z3NWZFekd1NkFnQnd5QnZONTU0OVVhYnB1aUN0aFZwUVRPUzNUbFA0QnY1T09iajNTSXBQeVlESmVEazlxbE51MlhCcTh3ZmdHWHhXNTZFV2xuZVpvODZnV1dVVDJZeVM?oc=5",
-        "publishedAt": "2026-10-19T07:00:00.000Z"
       },
       {
         "time": "08:30",
@@ -57,6 +50,13 @@
         "source": "航空新聞社",
         "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBYTkhfMlI4VTJpZ2RCNFVXNE04QU5QdGhnY3Z5Qm9oc0VKb1Zadk5fem0yTGdzRDZHaV95Qk1ZLVpHZEFhbjRtZg?oc=5",
         "publishedAt": "2026-10-19T05:35:48.000Z"
+      },
+      {
+        "time": "17:12",
+        "title": "Hantop ／JIMTOF 2026出展のお知らせ - https://pr-free.jp/",
+        "source": "https://pr-free.jp/",
+        "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9IQVU4Y3Z3YzdlSFlrZWdnX0hHbG1QZE05VHh6dUtQZ3c1NUlELVFkdFd1cV9pZVY5X214Vk5rU05URlBqeHc?oc=5",
+        "publishedAt": "2026-10-19T08:12:32.000Z"
       }
     ],
     "worldHeadlines": [
@@ -73,6 +73,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6599341?source=rss",
         "publishedAt": "2026-10-19T03:06:14.000Z"
+      },
+      {
+        "time": "23:55",
+        "title": "ウ軍 ドローンで空から負傷兵救出",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6599410?source=rss",
+        "publishedAt": "2026-10-19T14:55:38.000Z"
       },
       {
         "time": "17:39",
@@ -94,23 +101,9 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6599322?source=rss",
         "publishedAt": "2026-10-19T00:10:59.000Z"
-      },
-      {
-        "time": "10:18",
-        "title": "イタリアでもデモ 一部が暴徒化",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599328?source=rss",
-        "publishedAt": "2026-10-19T01:18:58.000Z"
       }
     ],
     "economyHeadlines": [
-      {
-        "time": "13:39",
-        "title": "イオン傘下も 普通のスーパー苦境",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599348?source=rss",
-        "publishedAt": "2026-10-19T04:39:42.000Z"
-      },
       {
         "time": "22:32",
         "title": "特定技能「給食」受け入れ再開へ",
@@ -145,6 +138,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6599389?source=rss",
         "publishedAt": "2026-10-19T11:04:05.000Z"
+      },
+      {
+        "time": "23:42",
+        "title": "研修にブラインドサッカー 企業増",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6599409?source=rss",
+        "publishedAt": "2026-10-19T14:42:59.000Z"
       }
     ],
     "localHeadlines": [

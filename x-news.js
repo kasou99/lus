@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-19T14:42:51.756Z",
+  "updatedAt": "2026-10-19T15:16:59.716Z",
   "items": [
     {
       "time": "23:05",
@@ -18,28 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "特定技能「給食」受け入れ再開へ"
     },
     {
-      "time": "19:34",
-      "title": "中国経済成長 テック産業が後押し",
+      "time": "23:55",
+      "title": "ウ軍 ドローンで空から負傷兵救出",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599384?source=rss",
-      "publishedAt": "2026-10-19T10:34:59.000Z",
-      "xQuery": "中国経済成長 テック産業が後押し"
+      "url": "https://news.yahoo.co.jp/pickup/6599410?source=rss",
+      "publishedAt": "2026-10-19T14:55:38.000Z",
+      "xQuery": "ウ軍 ドローンで空から負傷兵救出"
     },
     {
-      "time": "22:55",
-      "title": "部屋に遺体 包丁所持疑いで女逮捕",
+      "time": "18:36",
+      "title": "ユニクロ ソックス3点990円終了へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599402?source=rss",
-      "publishedAt": "2026-10-19T13:55:38.000Z",
-      "xQuery": "部屋に遺体 包丁所持疑いで女逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6599375?source=rss",
+      "publishedAt": "2026-10-19T09:36:29.000Z",
+      "xQuery": "ユニクロ ソックス3点990円終了へ"
     },
     {
-      "time": "22:41",
-      "title": "ユニクロが値上げ 11商品を11月に",
+      "time": "00:06",
+      "title": "JAL便に小動物 サイズは猫以下か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599401?source=rss",
-      "publishedAt": "2026-10-19T13:41:25.000Z",
-      "xQuery": "ユニクロが値上げ 11商品を11月に"
+      "url": "https://news.yahoo.co.jp/pickup/6599413?source=rss",
+      "publishedAt": "2026-10-19T15:06:45.000Z",
+      "xQuery": "JAL便に小動物 サイズは猫以下か"
     }
   ]
 };
