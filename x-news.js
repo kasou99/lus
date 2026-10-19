@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-19T23:16:21.144Z",
+  "updatedAt": "2026-10-19T23:39:01.636Z",
   "items": [
     {
       "time": "07:19",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "東北道で複数台絡む事故 2人死傷"
     },
     {
-      "time": "00:06",
-      "title": "JAL便に小動物 サイズは猫以下か",
+      "time": "08:05",
+      "title": "スイミングスクール 80代溺れ搬送",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599413?source=rss",
-      "publishedAt": "2026-10-19T15:06:45.000Z",
-      "xQuery": "JAL便に小動物 サイズは猫以下か"
+      "url": "https://news.yahoo.co.jp/pickup/6599420?source=rss",
+      "publishedAt": "2026-10-19T23:05:48.000Z",
+      "xQuery": "スイミングスクール 80代溺れ搬送"
     }
   ]
 };

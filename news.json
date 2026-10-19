@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T23:16:20.490Z",
+  "updatedAt": "2026-10-19T23:39:00.987Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -18,9 +18,9 @@
       },
       {
         "time": "05:00",
-        "title": "サプライチェーンの「変態」マテリアル編（47）「中の人」が選ぶ来年の注目テーマ",
+        "title": "ゴードーSOL、オークマ製設備と連携 工場可視化システム",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE11aDNnczVvZUlTZGQtczUwNFI4bGFOMkFKdmd6MGgzZm91LUZnNTVfWkZuSXhkSU1NdE92SEowak4yREpNaE5UNHVLMGtudjBVNndnYm1iRUc?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA1TXZ4VzZHSEptcmJIYTQyZ3AzeS10bDZyaV9KTFlNT29JTENsa0E0eXJINTlQdGJRcjRvb1hiVUJLVUNEdTl6U2N2OEZhV042X2wwLW5vUWw?oc=5",
         "publishedAt": "2026-10-19T20:00:00.000Z"
       },
       {
@@ -38,13 +38,6 @@
         "publishedAt": "2026-10-19T20:00:00.000Z"
       },
       {
-        "time": "08:30",
-        "title": "8月工作機械、内外需で６割増",
-        "source": "金属産業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE40OGJlRUxGcVgwUmYtd1hjejN6MHEweHV6ZmNVUVc1WUFHOXNvbDlJOUdmU1gyZTYxZk5pRS1yZ3c1aDFzVVl4U3VLSHFwR05lUHVCS3lhZEs?oc=5",
-        "publishedAt": "2026-10-18T23:30:21.000Z"
-      },
-      {
         "time": "14:35",
         "title": "ヤマザキマザック、ABEJAとフィジカルAI開発を本格化",
         "source": "航空新聞社",
@@ -57,6 +50,13 @@
         "source": "https://pr-free.jp/",
         "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9IQVU4Y3Z3YzdlSFlrZWdnX0hHbG1QZE05VHh6dUtQZ3c1NUlELVFkdFd1cV9pZVY5X214Vk5rU05URlBqeHc?oc=5",
         "publishedAt": "2026-10-19T08:12:32.000Z"
+      },
+      {
+        "time": "05:00",
+        "title": "カシフジ、本社工場刷新 組み立て・部品加工機能",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5TXzMzX2p5bC16S2NFYmhvc0xhZ0phendUcU1YY2xVemhDSGdCb2wtbHQzakVhc3ZPUi1FQ1lCZXVORXBKcEJxd3Zwcy0yal8wRmlsNUlaRFFyNXZ6WlZkLXVHaEFvSkFvRWd4RVNkQ2JQTTFDZlNybWkzZw?oc=5",
+        "publishedAt": "2026-10-19T20:00:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -68,18 +68,18 @@
         "publishedAt": "2026-10-19T22:19:09.000Z"
       },
       {
-        "time": "23:05",
-        "title": "仏首相 一部に夜間外出禁止令要請",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599406?source=rss",
-        "publishedAt": "2026-10-19T14:05:17.000Z"
-      },
-      {
         "time": "23:55",
         "title": "ウ軍 ドローンで空から負傷兵救出",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6599410?source=rss",
         "publishedAt": "2026-10-19T14:55:38.000Z"
+      },
+      {
+        "time": "23:05",
+        "title": "仏首相 一部に夜間外出禁止令要請",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6599406?source=rss",
+        "publishedAt": "2026-10-19T14:05:17.000Z"
       },
       {
         "time": "17:39",
@@ -89,18 +89,18 @@
         "publishedAt": "2026-10-19T08:39:49.000Z"
       },
       {
+        "time": "08:31",
+        "title": "スーチー氏に英国王書簡 親軍政権",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6599421?source=rss",
+        "publishedAt": "2026-10-19T23:31:03.000Z"
+      },
+      {
         "time": "21:26",
         "title": "金与正氏 韓国軍非難する談話発表",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6599392?source=rss",
         "publishedAt": "2026-10-19T12:26:49.000Z"
-      },
-      {
-        "time": "09:10",
-        "title": "仏大統領 暴徒に「怒りと恥辱」",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599322?source=rss",
-        "publishedAt": "2026-10-19T00:10:59.000Z"
       }
     ],
     "economyHeadlines": [
