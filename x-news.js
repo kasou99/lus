@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-19T21:15:38.045Z",
+  "updatedAt": "2026-10-19T21:38:30.540Z",
   "items": [
     {
       "time": "23:05",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "特定技能「給食」受け入れ再開へ"
     },
     {
-      "time": "23:55",
-      "title": "ウ軍 ドローンで空から負傷兵救出",
+      "time": "06:20",
+      "title": "H3ロケット10号機 打ち上げ成功",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599410?source=rss",
-      "publishedAt": "2026-10-19T14:55:38.000Z",
-      "xQuery": "ウ軍 ドローンで空から負傷兵救出"
+      "url": "https://news.yahoo.co.jp/pickup/6599414?source=rss",
+      "publishedAt": "2026-10-19T21:20:36.000Z",
+      "xQuery": "H3ロケット10号機 打ち上げ成功"
     },
     {
       "time": "18:36",
