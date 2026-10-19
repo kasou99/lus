@@ -1,14 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-19T05:18:32.985Z",
+  "updatedAt": "2026-10-19T05:43:52.668Z",
   "items": [
-    {
-      "time": "12:06",
-      "title": "プーチン氏が米中露会談提案 報道",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599341?source=rss",
-      "publishedAt": "2026-10-19T03:06:14.000Z",
-      "xQuery": "プーチン氏が米中露会談提案 報道"
-    },
     {
       "time": "09:49",
       "title": "道府県立高145校減か 40年度まで",
@@ -16,6 +8,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6599324?source=rss",
       "publishedAt": "2026-10-19T00:49:24.000Z",
       "xQuery": "道府県立高145校減か 40年度まで"
+    },
+    {
+      "time": "12:41",
+      "title": "こどもNISA 資産管理の注意点は",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599339?source=rss",
+      "publishedAt": "2026-10-19T03:41:52.000Z",
+      "xQuery": "こどもNISA 資産管理の注意点は"
     },
     {
       "time": "14:09",
