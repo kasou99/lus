@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-19T01:31:48.362Z",
+  "updatedAt": "2026-10-19T02:27:18.844Z",
   "items": [
     {
-      "time": "09:10",
-      "title": "仏大統領 暴徒に「怒りと恥辱」",
+      "time": "10:57",
+      "title": "首相 靖国神社に私費で玉串料奉納",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599322?source=rss",
-      "publishedAt": "2026-10-19T00:10:59.000Z",
-      "xQuery": "仏大統領 暴徒に「怒りと恥辱」"
+      "url": "https://news.yahoo.co.jp/pickup/6599331?source=rss",
+      "publishedAt": "2026-10-19T01:57:55.000Z",
+      "xQuery": "首相 靖国神社に私費で玉串料奉納"
     },
     {
       "time": "08:44",
@@ -18,28 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "タイアップ広告炎上 厚労省が指針"
     },
     {
-      "time": "07:36",
-      "title": "横浜前市長 パワハラに厳しい審判",
+      "time": "10:18",
+      "title": "イタリアでもデモ 一部が暴徒化",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599310?source=rss",
-      "publishedAt": "2026-10-18T22:36:29.000Z",
-      "xQuery": "横浜前市長 パワハラに厳しい審判"
+      "url": "https://news.yahoo.co.jp/pickup/6599328?source=rss",
+      "publishedAt": "2026-10-19T01:18:58.000Z",
+      "xQuery": "イタリアでもデモ 一部が暴徒化"
     },
     {
-      "time": "09:58",
-      "title": "日比谷線200m停止線越え 自動運転",
+      "time": "10:48",
+      "title": "バスやタクシー3台事故 13人搬送",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599326?source=rss",
-      "publishedAt": "2026-10-19T00:58:29.000Z",
-      "xQuery": "日比谷線200m停止線越え 自動運転"
+      "url": "https://news.yahoo.co.jp/pickup/6599330?source=rss",
+      "publishedAt": "2026-10-19T01:48:57.000Z",
+      "xQuery": "バスやタクシー3台事故 13人搬送"
     },
     {
-      "time": "08:04",
-      "title": "東芝 難関大生から再評価される今",
+      "time": "11:02",
+      "title": "ダンプカーが穴に転落 心肺停止",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599312?source=rss",
-      "publishedAt": "2026-10-18T23:04:39.000Z",
-      "xQuery": "東芝 難関大生から再評価される今"
+      "url": "https://news.yahoo.co.jp/pickup/6599332?source=rss",
+      "publishedAt": "2026-10-19T02:02:03.000Z",
+      "xQuery": "ダンプカーが穴に転落 心肺停止"
     }
   ]
 };

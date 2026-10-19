@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T01:31:47.435Z",
+  "updatedAt": "2026-10-19T02:27:18.008Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -32,10 +32,17 @@
       },
       {
         "time": "05:00",
-        "title": "NES、RFID搭載システム 安心・確実に車両入退場",
+        "title": "碌々スマートテクノロジー、微細加工機2割増産 半導体関連需要が急増",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBFSF9ucHlkNlJqRkZuc25OSkFONl94SVo5U0JPMXZ2MVBFclFNXzctVFNlNElwZk9hR1Rmckg4MzBwd21CQUtCZmNDV3F3Q09JWUtMd0lpUzRSVHlRTDUzQ1hxOENuUks1YUNXcjRLWHgxVURGcnp2bjJlOA?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA0Z2dQYVBoTEEza2NJcjVBVEZseXFiQi00cDYzZ3luZzQ1NWEtdzJXb0dIMnhrYmV4VENGMkFfVmhOTzEwWnJsZmw1Ti05S3ZpTUphOWloZjk?oc=5",
         "publishedAt": "2026-10-18T20:00:00.000Z"
+      },
+      {
+        "time": "11:00",
+        "title": "ブラザー、「THREEDIO」の無料モニター募集を開始",
+        "source": "PR TIMES",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9vRVlSZDNYaXRqWFhOYmxlaGtILUU0MFRBT0dXc2RiN1JURm5fTnhqUE1rdU5XTlExcm9xYVdZMHY2SlAyZGs5N3QtN1l3T1JfV0FIV0l2Q3RIb3lqenBnRXo4VWVrelljX1E?oc=5",
+        "publishedAt": "2026-10-19T02:00:01.000Z"
       },
       {
         "time": "19:18",
@@ -45,18 +52,11 @@
         "publishedAt": "2026-10-18T10:18:17.000Z"
       },
       {
-        "time": "15:27",
-        "title": "ヤマザキマザック 製造業向けAI開発へ 人手不足に対応（読売新聞オンライン）",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5rZmpFUjV3d0pKLXMyYWtGZWxQQUtadkZVVllWNllZVjFGbUZjZXh0X0dvQ0EyUzdMOUx6eFJjQ3FnSml3MWlfQUxLUmhCajhwUDBVdzdOZWlBb0FOUDZDazNFNmFIa21yQlczQUVxMVktS3NKX2w5VVAxTWRhVHc?oc=5",
-        "publishedAt": "2026-10-18T06:27:05.000Z"
-      },
-      {
-        "time": "18:30",
-        "title": "精密薄肉ベアリングの世界市場（2026年～2032年）、市場規模（アンギュラ玉軸受、円筒ころ軸受、両方向アンギュラスラスト玉軸受、アキシャル・ラジアル円筒ころ軸受、その他...",
-        "source": "アットプレス",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9HeHBMOG5sT3c0N19RUlVNTmQwM2FoRE5zbjIxVWdiTjJuRExKNURFTEVnb0hITldsd1Z6OENBR2t6RjBwZENvcW1haUxxcW8?oc=5",
-        "publishedAt": "2026-10-18T09:30:00.000Z"
+        "time": "05:00",
+        "title": "NES、RFID搭載システム 安心・確実に車両入退場",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBFSF9ucHlkNlJqRkZuc25OSkFONl94SVo5U0JPMXZ2MVBFclFNXzctVFNlNElwZk9hR1Rmckg4MzBwd21CQUtCZmNDV3F3Q09JWUtMd0lpUzRSVHlRTDUzQ1hxOENuUks1YUNXcjRLWHgxVURGcnp2bjJlOA?oc=5",
+        "publishedAt": "2026-10-18T20:00:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "10:48",
+        "title": "バスやタクシー3台事故 13人搬送",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6599330?source=rss",
+        "publishedAt": "2026-10-19T01:48:57.000Z"
+      },
+      {
         "time": "07:36",
         "title": "横浜前市長 パワハラに厳しい審判",
         "source": "Yahoo!ニュース",
@@ -163,6 +170,13 @@
         "publishedAt": "2026-10-18T23:40:50.000Z"
       },
       {
+        "time": "11:02",
+        "title": "ダンプカーが穴に転落 心肺停止",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6599332?source=rss",
+        "publishedAt": "2026-10-19T02:02:03.000Z"
+      },
+      {
         "time": "23:55",
         "title": "辺野古転覆 高校生の遺族が献花",
         "source": "Yahoo!ニュース",
@@ -175,20 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6599276?source=rss",
         "publishedAt": "2026-10-18T10:51:28.000Z"
-      },
-      {
-        "time": "22:23",
-        "title": "民家に夫婦の車突っ込む 夫が死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599289?source=rss",
-        "publishedAt": "2026-10-18T13:23:25.000Z"
-      },
-      {
-        "time": "18:12",
-        "title": "傾いていた住宅が倒壊 86歳死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599266?source=rss",
-        "publishedAt": "2026-10-18T09:12:16.000Z"
       }
     ],
     "subsidyHeadlines": [
