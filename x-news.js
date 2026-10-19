@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-19T05:43:52.668Z",
+  "updatedAt": "2026-10-19T06:40:45.903Z",
   "items": [
     {
       "time": "09:49",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "道府県立高145校減か 40年度まで"
     },
     {
-      "time": "12:41",
-      "title": "こどもNISA 資産管理の注意点は",
+      "time": "14:45",
+      "title": "こどもNISA 知っておきたい注意点",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599339?source=rss",
-      "publishedAt": "2026-10-19T03:41:52.000Z",
-      "xQuery": "こどもNISA 資産管理の注意点は"
+      "url": "https://news.yahoo.co.jp/pickup/6599354?source=rss",
+      "publishedAt": "2026-10-19T05:45:45.000Z",
+      "xQuery": "こどもNISA 知っておきたい注意点"
     },
     {
       "time": "14:09",
