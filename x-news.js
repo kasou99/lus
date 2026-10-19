@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-19T04:21:49.360Z",
+  "updatedAt": "2026-10-19T04:47:06.814Z",
   "items": [
     {
       "time": "12:06",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "プーチン氏が米中露会談提案 報道"
     },
     {
-      "time": "11:38",
-      "title": "首相 減税の財源に国債を否定せず",
+      "time": "09:49",
+      "title": "道府県立高145校減か 40年度まで",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599335?source=rss",
-      "publishedAt": "2026-10-19T02:38:05.000Z",
-      "xQuery": "首相 減税の財源に国債を否定せず"
+      "url": "https://news.yahoo.co.jp/pickup/6599324?source=rss",
+      "publishedAt": "2026-10-19T00:49:24.000Z",
+      "xQuery": "道府県立高145校減か 40年度まで"
     },
     {
       "time": "11:35",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "「子2人目望む」が過去最低 調査"
     },
     {
-      "time": "10:48",
-      "title": "バスやタクシー3台事故 13人搬送",
+      "time": "13:34",
+      "title": "バスや乗用車からむ事故 14人搬送",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599330?source=rss",
-      "publishedAt": "2026-10-19T01:48:57.000Z",
-      "xQuery": "バスやタクシー3台事故 13人搬送"
+      "url": "https://news.yahoo.co.jp/pickup/6599349?source=rss",
+      "publishedAt": "2026-10-19T04:34:14.000Z",
+      "xQuery": "バスや乗用車からむ事故 14人搬送"
     },
     {
       "time": "11:02",

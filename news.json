@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T04:21:48.345Z",
+  "updatedAt": "2026-10-19T04:47:06.168Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,18 +17,18 @@
         "publishedAt": "2026-10-18T23:30:21.000Z"
       },
       {
-        "time": "06:04",
-        "title": "JIMTOF2026の企画展示でロボット技術に焦点",
-        "source": "robot digest",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9jRGtPLUFBSzhxOFZYN0RpWDBqX1VjRGlGMHFla1Z6RkVNTmpXTUx1TS01a1pfRlgtQlg1ZVdMYzNjaFRtQUZ0dGVyYkF6cjdGenZ5czhqUm15Sy1FZVljUDdjeElvaV84YVRV?oc=5",
-        "publishedAt": "2026-10-18T21:04:58.000Z"
-      },
-      {
         "time": "07:15",
         "title": "マザック、加工の工程設計をAIエージェントで自動化 ABEJAと共同開発：工作機械（1/2 ページ）",
         "source": "MONOist",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBVM1phUVYtdDdYZWVhM18zdVBZaDJWVUsyMzMwblpBR045TFBReTZYV1A2b1V6ZnZLcFdCZlZVNGxnTUF5N1lhOEZxUjdnNjl4aXpDU2pnV1VoVnhyYVVMdW9IVXFmdVlMMktHbm1yYw?oc=5",
         "publishedAt": "2026-10-18T22:15:00.000Z"
+      },
+      {
+        "time": "06:04",
+        "title": "JIMTOF2026の企画展示でロボット技術に焦点",
+        "source": "robot digest",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9jRGtPLUFBSzhxOFZYN0RpWDBqX1VjRGlGMHFla1Z6RkVNTmpXTUx1TS01a1pfRlgtQlg1ZVdMYzNjaFRtQUZ0dGVyYkF6cjdGenZ5czhqUm15Sy1FZVljUDdjeElvaV84YVRV?oc=5",
+        "publishedAt": "2026-10-18T21:04:58.000Z"
       },
       {
         "time": "05:00",
@@ -53,9 +53,9 @@
       },
       {
         "time": "05:00",
-        "title": "NES、RFID搭載システム 安心・確実に車両入退場",
+        "title": "経営ひと言／米アンラ・テクノロジーズのアミット・ガンジューCEO「標準化で連携を」",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBFSF9ucHlkNlJqRkZuc25OSkFONl94SVo5U0JPMXZ2MVBFclFNXzctVFNlNElwZk9hR1Rmckg4MzBwd21CQUtCZmNDV3F3Q09JWUtMd0lpUzRSVHlRTDUzQ1hxOENuUks1YUNXcjRLWHgxVURGcnp2bjJlOA?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBwTnNZQmJDTlNvSm5WdjBjNlRXalNkeGVPVWtWd0JHMldDdWs1aEFkM0tPVnZvdEluQWlkOWhOTmpfZW13eFFGWjRkaXpabE1aVWxHSTFabmxHZHlwR0lXeHE5ZzB3R3pIN2I1LU1VWFY1YlJqb1hudk0tVQ?oc=5",
         "publishedAt": "2026-10-18T20:00:00.000Z"
       }
     ],
@@ -105,6 +105,13 @@
     ],
     "economyHeadlines": [
       {
+        "time": "13:39",
+        "title": "イオン傘下も 普通のスーパー苦境",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6599348?source=rss",
+        "publishedAt": "2026-10-19T04:39:42.000Z"
+      },
+      {
         "time": "12:06",
         "title": "バイクの「希望ナンバー制」開始",
         "source": "Yahoo!ニュース",
@@ -133,13 +140,6 @@
         "publishedAt": "2026-10-19T00:58:29.000Z"
       },
       {
-        "time": "18:13",
-        "title": "ガソリンスタンドで子が給油 危険",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599263?source=rss",
-        "publishedAt": "2026-10-18T09:13:04.000Z"
-      },
-      {
         "time": "12:41",
         "title": "こどもNISA 資産管理の注意点は",
         "source": "Yahoo!ニュース",
@@ -149,11 +149,11 @@
     ],
     "localHeadlines": [
       {
-        "time": "10:48",
-        "title": "バスやタクシー3台事故 13人搬送",
+        "time": "13:34",
+        "title": "バスや乗用車からむ事故 14人搬送",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599330?source=rss",
-        "publishedAt": "2026-10-19T01:48:57.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6599349?source=rss",
+        "publishedAt": "2026-10-19T04:34:14.000Z"
       },
       {
         "time": "07:36",
