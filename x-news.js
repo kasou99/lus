@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-19T07:34:14.300Z",
+  "updatedAt": "2026-10-19T08:29:13.971Z",
   "items": [
     {
       "time": "15:52",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "ダンプカーが貯水池に転落 死亡"
     },
     {
-      "time": "14:09",
-      "title": "バスや乗用車絡む事故 女性が死亡",
+      "time": "16:24",
+      "title": "個別指導トレーニング トラブル増",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599352?source=rss",
-      "publishedAt": "2026-10-19T05:09:16.000Z",
-      "xQuery": "バスや乗用車絡む事故 女性が死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6599359?source=rss",
+      "publishedAt": "2026-10-19T07:24:55.000Z",
+      "xQuery": "個別指導トレーニング トラブル増"
     },
     {
-      "time": "13:49",
-      "title": "医師が性暴力 私の被害なぜ不起訴",
+      "time": "17:16",
+      "title": "JAL機内に小動物 見つからず欠航",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599350?source=rss",
-      "publishedAt": "2026-10-19T04:49:28.000Z",
-      "xQuery": "医師が性暴力 私の被害なぜ不起訴"
+      "url": "https://news.yahoo.co.jp/pickup/6599368?source=rss",
+      "publishedAt": "2026-10-19T08:16:01.000Z",
+      "xQuery": "JAL機内に小動物 見つからず欠航"
     }
   ]
 };
