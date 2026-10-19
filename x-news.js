@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-19T12:28:25.309Z",
+  "updatedAt": "2026-10-19T12:53:27.599Z",
   "items": [
     {
       "time": "18:35",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "男児に花火当てた疑い 支援員逮捕"
     },
     {
-      "time": "18:12",
-      "title": "死亡事故 防カメに猛スピードの車",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599374?source=rss",
-      "publishedAt": "2026-10-19T09:12:52.000Z",
-      "xQuery": "死亡事故 防カメに猛スピードの車"
-    },
-    {
       "time": "19:24",
       "title": "「小泉総理」高市氏が言い間違え",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6599382?source=rss",
       "publishedAt": "2026-10-19T10:24:16.000Z",
       "xQuery": "「小泉総理」高市氏が言い間違え"
+    },
+    {
+      "time": "20:04",
+      "title": "タイムズカーの画像巡る懸念 回答",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599389?source=rss",
+      "publishedAt": "2026-10-19T11:04:05.000Z",
+      "xQuery": "タイムズカーの画像巡る懸念 回答"
     }
   ]
 };
