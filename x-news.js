@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-19T10:42:33.277Z",
+  "updatedAt": "2026-10-19T11:16:31.674Z",
   "items": [
     {
       "time": "18:35",
@@ -8,14 +8,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6599376?source=rss",
       "publishedAt": "2026-10-19T09:35:21.000Z",
       "xQuery": "海自の中東派遣 1年間延長の方針"
-    },
-    {
-      "time": "17:06",
-      "title": "再建急ぐ立憲 展望見えぬ衆参結集",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599363?source=rss",
-      "publishedAt": "2026-10-19T08:06:45.000Z",
-      "xQuery": "再建急ぐ立憲 展望見えぬ衆参結集"
     },
     {
       "time": "17:42",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6599382?source=rss",
       "publishedAt": "2026-10-19T10:24:16.000Z",
       "xQuery": "「小泉総理」高市氏が言い間違え"
+    },
+    {
+      "time": "19:53",
+      "title": "ふるさとチョイス 不正アクセスか",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599388?source=rss",
+      "publishedAt": "2026-10-19T10:53:34.000Z",
+      "xQuery": "ふるさとチョイス 不正アクセスか"
     }
   ]
 };
