@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-19T08:29:13.971Z",
+  "updatedAt": "2026-10-19T08:52:04.172Z",
   "items": [
     {
       "time": "15:52",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "こどもNISA 知っておきたい注意点"
     },
     {
-      "time": "15:15",
-      "title": "ダンプカーが貯水池に転落 死亡",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599355?source=rss",
-      "publishedAt": "2026-10-19T06:15:45.000Z",
-      "xQuery": "ダンプカーが貯水池に転落 死亡"
-    },
-    {
       "time": "16:24",
       "title": "個別指導トレーニング トラブル増",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6599359?source=rss",
       "publishedAt": "2026-10-19T07:24:55.000Z",
       "xQuery": "個別指導トレーニング トラブル増"
+    },
+    {
+      "time": "16:43",
+      "title": "寄付された金延べ棒21kg 売却完了",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599361?source=rss",
+      "publishedAt": "2026-10-19T07:43:48.000Z",
+      "xQuery": "寄付された金延べ棒21kg 売却完了"
     },
     {
       "time": "17:16",
