@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-19T12:53:27.599Z",
+  "updatedAt": "2026-10-19T13:20:59.351Z",
   "items": [
     {
       "time": "18:35",
@@ -10,12 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "海自の中東派遣 1年間延長の方針"
     },
     {
-      "time": "17:42",
-      "title": "台風30号が猛烈な勢力に 進路は",
+      "time": "21:26",
+      "title": "金与正氏 韓国軍非難する談話発表",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599370?source=rss",
-      "publishedAt": "2026-10-19T08:42:32.000Z",
-      "xQuery": "台風30号が猛烈な勢力に 進路は"
+      "url": "https://news.yahoo.co.jp/pickup/6599392?source=rss",
+      "publishedAt": "2026-10-19T12:26:49.000Z",
+      "xQuery": "金与正氏 韓国軍非難する談話発表"
+    },
+    {
+      "time": "19:14",
+      "title": "農作業の死亡事故多発 鳥取で警報",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599380?source=rss",
+      "publishedAt": "2026-10-19T10:14:07.000Z",
+      "xQuery": "農作業の死亡事故多発 鳥取で警報"
     },
     {
       "time": "18:56",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6599382?source=rss",
       "publishedAt": "2026-10-19T10:24:16.000Z",
       "xQuery": "「小泉総理」高市氏が言い間違え"
-    },
-    {
-      "time": "20:04",
-      "title": "タイムズカーの画像巡る懸念 回答",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599389?source=rss",
-      "publishedAt": "2026-10-19T11:04:05.000Z",
-      "xQuery": "タイムズカーの画像巡る懸念 回答"
     }
   ]
 };
