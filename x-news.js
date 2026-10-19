@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-19T06:40:45.903Z",
+  "updatedAt": "2026-10-19T07:34:14.300Z",
   "items": [
     {
-      "time": "09:49",
-      "title": "道府県立高145校減か 40年度まで",
+      "time": "15:52",
+      "title": "パーティ問題巡り 関氏に厳重注意",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599324?source=rss",
-      "publishedAt": "2026-10-19T00:49:24.000Z",
-      "xQuery": "道府県立高145校減か 40年度まで"
+      "url": "https://news.yahoo.co.jp/pickup/6599357?source=rss",
+      "publishedAt": "2026-10-19T06:52:41.000Z",
+      "xQuery": "パーティ問題巡り 関氏に厳重注意"
     },
     {
       "time": "14:45",
@@ -16,6 +16,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6599354?source=rss",
       "publishedAt": "2026-10-19T05:45:45.000Z",
       "xQuery": "こどもNISA 知っておきたい注意点"
+    },
+    {
+      "time": "15:15",
+      "title": "ダンプカーが貯水池に転落 死亡",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599355?source=rss",
+      "publishedAt": "2026-10-19T06:15:45.000Z",
+      "xQuery": "ダンプカーが貯水池に転落 死亡"
     },
     {
       "time": "14:09",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6599350?source=rss",
       "publishedAt": "2026-10-19T04:49:28.000Z",
       "xQuery": "医師が性暴力 私の被害なぜ不起訴"
-    },
-    {
-      "time": "14:05",
-      "title": "阪急阪神百貨店 約126万件漏洩か",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599351?source=rss",
-      "publishedAt": "2026-10-19T05:05:16.000Z",
-      "xQuery": "阪急阪神百貨店 約126万件漏洩か"
     }
   ]
 };
