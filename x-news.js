@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-19T10:17:58.242Z",
+  "updatedAt": "2026-10-19T10:42:33.277Z",
   "items": [
+    {
+      "time": "18:35",
+      "title": "海自の中東派遣 1年間延長の方針",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599376?source=rss",
+      "publishedAt": "2026-10-19T09:35:21.000Z",
+      "xQuery": "海自の中東派遣 1年間延長の方針"
+    },
     {
       "time": "17:06",
       "title": "再建急ぐ立憲 展望見えぬ衆参結集",
@@ -8,14 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6599363?source=rss",
       "publishedAt": "2026-10-19T08:06:45.000Z",
       "xQuery": "再建急ぐ立憲 展望見えぬ衆参結集"
-    },
-    {
-      "time": "17:39",
-      "title": "仏で抗議デモ 欧州各地に広がり",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599367?source=rss",
-      "publishedAt": "2026-10-19T08:39:49.000Z",
-      "xQuery": "仏で抗議デモ 欧州各地に広がり"
     },
     {
       "time": "17:42",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "死亡事故 防カメに猛スピードの車"
     },
     {
-      "time": "17:16",
-      "title": "JAL機内に小動物 見つからず欠航",
+      "time": "19:24",
+      "title": "「小泉総理」高市氏が言い間違え",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599368?source=rss",
-      "publishedAt": "2026-10-19T08:16:01.000Z",
-      "xQuery": "JAL機内に小動物 見つからず欠航"
+      "url": "https://news.yahoo.co.jp/pickup/6599382?source=rss",
+      "publishedAt": "2026-10-19T10:24:16.000Z",
+      "xQuery": "「小泉総理」高市氏が言い間違え"
     }
   ]
 };
