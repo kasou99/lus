@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T11:16:31.076Z",
+  "updatedAt": "2026-10-19T11:41:00.051Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -15,13 +15,6 @@
         "source": "LOGI-BIZ online",
         "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5jQkRxYzBYS2tXQ2xEZmlsSklsdUljakdOcGZwSjVRcVVEVEJWUUFYaG41SVUwVFlUeUZtb1d2VnpiVExPeFZkYXpZQQ?oc=5",
         "publishedAt": "2026-10-18T21:00:40.000Z"
-      },
-      {
-        "time": "16:00",
-        "title": "インターアクション[7725]：当社子会社（株式会社東京テクニカル）の「JIMTOF2026」出展のお知らせ 2026年10月19日(適時開示) ：日経会社情報DIGITAL",
-        "source": "日本経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQYVgzNHFJa2pocWUzeGtick1DdjI0cVZRNE43WndtVlZvREVvY3ljai1KSzMwR1BWNVZZVm0wbERIZ295a2VmdzRhMmRkM0dQMHlpRUROM1lFdVdTUFVUbEVoMm1sc0ljb3BqX3Z3NWZFekd1NkFnQnd5QnZONTU0OVVhYnB1aUN0aFZwUVRPUzNUbFA0QnY1T09iajNTSXBQeVlESmVEazlxbE51MlhCcTh3ZmdHWHhXNTZFV2xuZVpvODZnV1dVVDJZeVM?oc=5",
-        "publishedAt": "2026-10-19T07:00:00.000Z"
       },
       {
         "time": "08:30",
@@ -57,6 +50,13 @@
         "source": "https://pr-free.jp/",
         "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9IQVU4Y3Z3YzdlSFlrZWdnX0hHbG1QZE05VHh6dUtQZ3c1NUlELVFkdFd1cV9pZVY5X214Vk5rU05URlBqeHc?oc=5",
         "publishedAt": "2026-10-19T08:12:32.000Z"
+      },
+      {
+        "time": "11:00",
+        "title": "ブラザー、「THREEDIO」の無料モニター募集を開始",
+        "source": "PR TIMES",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9vRVlSZDNYaXRqWFhOYmxlaGtILUU0MFRBT0dXc2RiN1JURm5fTnhqUE1rdU5XTlExcm9xYVdZMHY2SlAyZGs5N3QtN1l3T1JfV0FIV0l2Q3RIb3lqenBnRXo4VWVrelljX1E?oc=5",
+        "publishedAt": "2026-10-19T02:00:01.000Z"
       }
     ],
     "worldHeadlines": [
