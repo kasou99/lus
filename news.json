@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T21:38:29.943Z",
+  "updatedAt": "2026-10-19T22:16:24.381Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -8,6 +8,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1CMTNIN3l1MVc2RW92Z1h0RFJIclFHRFl5Vjk0anlHeUcyLWJJS2IzLXNlVWFZbDZNd29xVFdicVFRRGVkcUxIWnBmWlA5WUdJeXU1dEhXR1BfNkxGZHR0S3YyYlBGVmZhUlEzS3lVNUg5Y2NWN2lud2RLcWQyTjg?oc=5",
         "publishedAt": "2026-10-19T08:05:18.000Z"
+      },
+      {
+        "time": "06:15",
+        "title": "日本サーボモータードライブ世界シェアランキング",
+        "source": "pando.life",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5mUjNUSDNudExXVmlFaGJkV0xLQ3pRZENWWHZKOFcyUTZZMWN4emFlTGdxWXN2bnpDbmpnbFJzTi1NcDNBeklvclln?oc=5",
+        "publishedAt": "2026-10-19T21:15:44.000Z"
       },
       {
         "time": "05:00",
@@ -31,11 +38,11 @@
         "publishedAt": "2026-10-18T23:30:21.000Z"
       },
       {
-        "time": "07:15",
-        "title": "マザック、加工の工程設計をAIエージェントで自動化 ABEJAと共同開発：工作機械（1/2 ページ）",
-        "source": "MONOist",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBVM1phUVYtdDdYZWVhM18zdVBZaDJWVUsyMzMwblpBR045TFBReTZYV1A2b1V6ZnZLcFdCZlZVNGxnTUF5N1lhOEZxUjdnNjl4aXpDU2pnV1VoVnhyYVVMdW9IVXFmdVlMMktHbm1yYw?oc=5",
-        "publishedAt": "2026-10-18T22:15:00.000Z"
+        "time": "05:00",
+        "title": "サイダＵＭＳ（焼津） 旋盤生産計画作成 ＤＸ化 時間４割削減 ノウハウ継承も",
+        "source": "静岡新聞DIGITAL",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9pdy1oM2NDdUczbHUwQlhURDV1MTRYLXVIUW4yN2RQWnNRY2wyWlE1eU9rQk5fQUlZdG5QWWNtVXFoS041ZENNamV4ckpFZw?oc=5",
+        "publishedAt": "2026-10-19T20:00:00.000Z"
       },
       {
         "time": "14:35",
@@ -45,18 +52,11 @@
         "publishedAt": "2026-10-19T05:35:48.000Z"
       },
       {
-        "time": "11:00",
-        "title": "ブラザー、「THREEDIO」の無料モニター募集を開始",
-        "source": "PR TIMES",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9vRVlSZDNYaXRqWFhOYmxlaGtILUU0MFRBT0dXc2RiN1JURm5fTnhqUE1rdU5XTlExcm9xYVdZMHY2SlAyZGs5N3QtN1l3T1JfV0FIV0l2Q3RIb3lqenBnRXo4VWVrelljX1E?oc=5",
-        "publishedAt": "2026-10-19T02:00:01.000Z"
-      },
-      {
-        "time": "04:02",
-        "title": "洞察に富むCNC自動旋盤市場分析：最近の実績と、2026年から2033年にかけての年平均",
-        "source": "pando.life",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE16QXVJcHFicmlYTUktSU8zaUdXSEdfOUFBWGZvU1dQcXNVUUExSFh1ajFWaEQ0Q1N6d0ZuYUtnRVpFdGNTZHoyNkpR?oc=5",
-        "publishedAt": "2026-10-19T19:02:40.000Z"
+        "time": "17:12",
+        "title": "Hantop ／JIMTOF 2026出展のお知らせ - https://pr-free.jp/",
+        "source": "https://pr-free.jp/",
+        "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9IQVU4Y3Z3YzdlSFlrZWdnX0hHbG1QZE05VHh6dUtQZ3c1NUlELVFkdFd1cV9pZVY5X214Vk5rU05URlBqeHc?oc=5",
+        "publishedAt": "2026-10-19T08:12:32.000Z"
       }
     ],
     "worldHeadlines": [
