@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T09:48:23.045Z",
+  "updatedAt": "2026-10-19T10:17:57.430Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -163,6 +163,20 @@
         "publishedAt": "2026-10-19T05:09:16.000Z"
       },
       {
+        "time": "18:56",
+        "title": "男児に花火当てた疑い 支援員逮捕",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6599377?source=rss",
+        "publishedAt": "2026-10-19T09:56:23.000Z"
+      },
+      {
+        "time": "19:14",
+        "title": "農作業の死亡事故多発 鳥取で警報",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6599380?source=rss",
+        "publishedAt": "2026-10-19T10:14:07.000Z"
+      },
+      {
         "time": "15:15",
         "title": "ダンプカーが貯水池に転落 死亡",
         "source": "Yahoo!ニュース",
@@ -175,20 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6599350?source=rss",
         "publishedAt": "2026-10-19T04:49:28.000Z"
-      },
-      {
-        "time": "07:36",
-        "title": "横浜前市長 パワハラに厳しい審判",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599310?source=rss",
-        "publishedAt": "2026-10-18T22:36:29.000Z"
-      },
-      {
-        "time": "08:40",
-        "title": "オートバイの男性死亡 ひき逃げか",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599316?source=rss",
-        "publishedAt": "2026-10-18T23:40:50.000Z"
       }
     ],
     "subsidyHeadlines": [

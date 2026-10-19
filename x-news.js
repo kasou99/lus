@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-19T09:48:23.880Z",
+  "updatedAt": "2026-10-19T10:17:58.242Z",
   "items": [
     {
       "time": "17:06",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "台風30号が猛烈な勢力に 進路は"
     },
     {
-      "time": "16:43",
-      "title": "寄付された金延べ棒21kg 売却完了",
+      "time": "18:12",
+      "title": "死亡事故 防カメに猛スピードの車",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599361?source=rss",
-      "publishedAt": "2026-10-19T07:43:48.000Z",
-      "xQuery": "寄付された金延べ棒21kg 売却完了"
+      "url": "https://news.yahoo.co.jp/pickup/6599374?source=rss",
+      "publishedAt": "2026-10-19T09:12:52.000Z",
+      "xQuery": "死亡事故 防カメに猛スピードの車"
     },
     {
-      "time": "18:36",
-      "title": "ユニクロ ソックス3点990円終了へ",
+      "time": "17:16",
+      "title": "JAL機内に小動物 見つからず欠航",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599375?source=rss",
-      "publishedAt": "2026-10-19T09:36:29.000Z",
-      "xQuery": "ユニクロ ソックス3点990円終了へ"
+      "url": "https://news.yahoo.co.jp/pickup/6599368?source=rss",
+      "publishedAt": "2026-10-19T08:16:01.000Z",
+      "xQuery": "JAL機内に小動物 見つからず欠航"
     }
   ]
 };
