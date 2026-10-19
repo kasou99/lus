@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T00:49:29.180Z",
+  "updatedAt": "2026-10-19T01:31:47.435Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -32,9 +32,9 @@
       },
       {
         "time": "05:00",
-        "title": "碌々スマートテクノロジー、微細加工機2割増産 半導体関連需要が急増",
+        "title": "NES、RFID搭載システム 安心・確実に車両入退場",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA0Z2dQYVBoTEEza2NJcjVBVEZseXFiQi00cDYzZ3luZzQ1NWEtdzJXb0dIMnhrYmV4VENGMkFfVmhOTzEwWnJsZmw1Ti05S3ZpTUphOWloZjk?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBFSF9ucHlkNlJqRkZuc25OSkFONl94SVo5U0JPMXZ2MVBFclFNXzctVFNlNElwZk9hR1Rmckg4MzBwd21CQUtCZmNDV3F3Q09JWUtMd0lpUzRSVHlRTDUzQ1hxOENuUks1YUNXcjRLWHgxVURGcnp2bjJlOA?oc=5",
         "publishedAt": "2026-10-18T20:00:00.000Z"
       },
       {
@@ -45,21 +45,28 @@
         "publishedAt": "2026-10-18T10:18:17.000Z"
       },
       {
-        "time": "07:51",
-        "title": "「JIMTOF2026」迫る 10月26日から東京ビッグサイト",
-        "source": "金属産業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1PZnFtS2p5Y0U3R1VtbFB5d2tPeEpTeXNqQTFOV1Z6UlJBZzNtaVlreHN3cWhtVF9hdzBOWHpqM2FHaGM2QjA5X0s2SkI5Y0pLbUFDejA0RGc?oc=5",
-        "publishedAt": "2026-10-18T22:51:09.000Z"
-      },
-      {
         "time": "15:27",
         "title": "ヤマザキマザック 製造業向けAI開発へ 人手不足に対応（読売新聞オンライン）",
         "source": "Yahoo!ニュース",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5rZmpFUjV3d0pKLXMyYWtGZWxQQUtadkZVVllWNllZVjFGbUZjZXh0X0dvQ0EyUzdMOUx6eFJjQ3FnSml3MWlfQUxLUmhCajhwUDBVdzdOZWlBb0FOUDZDazNFNmFIa21yQlczQUVxMVktS3NKX2w5VVAxTWRhVHc?oc=5",
         "publishedAt": "2026-10-18T06:27:05.000Z"
+      },
+      {
+        "time": "18:30",
+        "title": "精密薄肉ベアリングの世界市場（2026年～2032年）、市場規模（アンギュラ玉軸受、円筒ころ軸受、両方向アンギュラスラスト玉軸受、アキシャル・ラジアル円筒ころ軸受、その他...",
+        "source": "アットプレス",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9HeHBMOG5sT3c0N19RUlVNTmQwM2FoRE5zbjIxVWdiTjJuRExKNURFTEVnb0hITldsd1Z6OENBR2t6RjBwZENvcW1haUxxcW8?oc=5",
+        "publishedAt": "2026-10-18T09:30:00.000Z"
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "10:18",
+        "title": "イタリアでもデモ 一部が暴徒化",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6599328?source=rss",
+        "publishedAt": "2026-10-19T01:18:58.000Z"
+      },
       {
         "time": "09:10",
         "title": "仏大統領 暴徒に「怒りと恥辱」",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6599311?source=rss",
         "publishedAt": "2026-10-18T22:39:58.000Z"
-      },
-      {
-        "time": "15:59",
-        "title": "対露制裁見送り 米ウの亀裂深刻",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599247?source=rss",
-        "publishedAt": "2026-10-18T06:59:58.000Z"
       }
     ],
     "economyHeadlines": [
@@ -126,11 +126,11 @@
         "publishedAt": "2026-10-18T23:04:39.000Z"
       },
       {
-        "time": "11:33",
-        "title": "東大も新設「デザイン学部」とは",
+        "time": "09:58",
+        "title": "日比谷線200m停止線越え 自動運転",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599215?source=rss",
-        "publishedAt": "2026-10-18T02:33:19.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6599326?source=rss",
+        "publishedAt": "2026-10-19T00:58:29.000Z"
       },
       {
         "time": "18:13",

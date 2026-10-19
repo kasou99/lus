@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-19T00:49:29.911Z",
+  "updatedAt": "2026-10-19T01:31:48.362Z",
   "items": [
     {
-      "time": "08:43",
-      "title": "公明「打倒高市」後 描く政界再編",
+      "time": "09:10",
+      "title": "仏大統領 暴徒に「怒りと恥辱」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599317?source=rss",
-      "publishedAt": "2026-10-18T23:43:24.000Z",
-      "xQuery": "公明「打倒高市」後 描く政界再編"
+      "url": "https://news.yahoo.co.jp/pickup/6599322?source=rss",
+      "publishedAt": "2026-10-19T00:10:59.000Z",
+      "xQuery": "仏大統領 暴徒に「怒りと恥辱」"
     },
     {
-      "time": "07:39",
-      "title": "米中間選挙 争点にデータセンター",
+      "time": "08:44",
+      "title": "タイアップ広告炎上 厚労省が指針",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599311?source=rss",
-      "publishedAt": "2026-10-18T22:39:58.000Z",
-      "xQuery": "米中間選挙 争点にデータセンター"
+      "url": "https://news.yahoo.co.jp/pickup/6599318?source=rss",
+      "publishedAt": "2026-10-18T23:44:37.000Z",
+      "xQuery": "タイアップ広告炎上 厚労省が指針"
     },
     {
       "time": "07:36",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "横浜前市長 パワハラに厳しい審判"
     },
     {
-      "time": "08:40",
-      "title": "オートバイの男性死亡 ひき逃げか",
+      "time": "09:58",
+      "title": "日比谷線200m停止線越え 自動運転",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599316?source=rss",
-      "publishedAt": "2026-10-18T23:40:50.000Z",
-      "xQuery": "オートバイの男性死亡 ひき逃げか"
+      "url": "https://news.yahoo.co.jp/pickup/6599326?source=rss",
+      "publishedAt": "2026-10-19T00:58:29.000Z",
+      "xQuery": "日比谷線200m停止線越え 自動運転"
     },
     {
       "time": "08:04",
