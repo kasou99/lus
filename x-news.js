@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-19T03:23:08.665Z",
+  "updatedAt": "2026-10-19T03:48:19.135Z",
   "items": [
+    {
+      "time": "12:06",
+      "title": "プーチン氏が米中露会談提案 報道",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599341?source=rss",
+      "publishedAt": "2026-10-19T03:06:14.000Z",
+      "xQuery": "プーチン氏が米中露会談提案 報道"
+    },
     {
       "time": "11:38",
       "title": "首相 減税の財源に国債を否定せず",
@@ -10,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "首相 減税の財源に国債を否定せず"
     },
     {
-      "time": "08:47",
-      "title": "米大統領 ネタニヤフ氏の続投支持",
+      "time": "11:35",
+      "title": "「子2人目望む」が過去最低 調査",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599320?source=rss",
-      "publishedAt": "2026-10-18T23:47:03.000Z",
-      "xQuery": "米大統領 ネタニヤフ氏の続投支持"
+      "url": "https://news.yahoo.co.jp/pickup/6599334?source=rss",
+      "publishedAt": "2026-10-19T02:35:07.000Z",
+      "xQuery": "「子2人目望む」が過去最低 調査"
     },
     {
       "time": "10:48",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6599332?source=rss",
       "publishedAt": "2026-10-19T02:02:03.000Z",
       "xQuery": "ダンプカーが穴に転落 心肺停止"
-    },
-    {
-      "time": "11:35",
-      "title": "「子2人目望む」が過去最低 調査",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599334?source=rss",
-      "publishedAt": "2026-10-19T02:35:07.000Z",
-      "xQuery": "「子2人目望む」が過去最低 調査"
     }
   ]
 };
