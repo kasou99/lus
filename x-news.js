@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-19T11:41:00.852Z",
+  "updatedAt": "2026-10-19T12:28:25.309Z",
   "items": [
     {
       "time": "18:35",
@@ -18,6 +18,14 @@ window.LUS_X_NEWS = {
       "xQuery": "台風30号が猛烈な勢力に 進路は"
     },
     {
+      "time": "18:56",
+      "title": "男児に花火当てた疑い 支援員逮捕",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599377?source=rss",
+      "publishedAt": "2026-10-19T09:56:23.000Z",
+      "xQuery": "男児に花火当てた疑い 支援員逮捕"
+    },
+    {
       "time": "18:12",
       "title": "死亡事故 防カメに猛スピードの車",
       "source": "Yahoo!ニュース",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6599382?source=rss",
       "publishedAt": "2026-10-19T10:24:16.000Z",
       "xQuery": "「小泉総理」高市氏が言い間違え"
-    },
-    {
-      "time": "19:53",
-      "title": "ふるさとチョイス 不正アクセスか",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599388?source=rss",
-      "publishedAt": "2026-10-19T10:53:34.000Z",
-      "xQuery": "ふるさとチョイス 不正アクセスか"
     }
   ]
 };
