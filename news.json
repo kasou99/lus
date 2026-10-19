@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T20:18:01.097Z",
+  "updatedAt": "2026-10-19T20:41:48.517Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,18 +17,18 @@
         "publishedAt": "2026-10-19T20:00:00.000Z"
       },
       {
-        "time": "06:00",
-        "title": "ヤマザキマザックとABEJA、工作機械へのフィジカルAI実装に向け業務連携開始 - LOGI-BIZ online",
-        "source": "LOGI-BIZ online",
-        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5jQkRxYzBYS2tXQ2xEZmlsSklsdUljakdOcGZwSjVRcVVEVEJWUUFYaG41SVUwVFlUeUZtb1d2VnpiVExPeFZkYXpZQQ?oc=5",
-        "publishedAt": "2026-10-18T21:00:40.000Z"
-      },
-      {
         "time": "16:00",
         "title": "インターアクション[7725]：当社子会社（株式会社東京テクニカル）の「JIMTOF2026」出展のお知らせ 2026年10月19日(適時開示) ：日経会社情報DIGITAL",
         "source": "日本経済新聞",
         "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQYVgzNHFJa2pocWUzeGtick1DdjI0cVZRNE43WndtVlZvREVvY3ljai1KSzMwR1BWNVZZVm0wbERIZ295a2VmdzRhMmRkM0dQMHlpRUROM1lFdVdTUFVUbEVoMm1sc0ljb3BqX3Z3NWZFekd1NkFnQnd5QnZONTU0OVVhYnB1aUN0aFZwUVRPUzNUbFA0QnY1T09iajNTSXBQeVlESmVEazlxbE51MlhCcTh3ZmdHWHhXNTZFV2xuZVpvODZnV1dVVDJZeVM?oc=5",
         "publishedAt": "2026-10-19T07:00:00.000Z"
+      },
+      {
+        "time": "06:00",
+        "title": "ヤマザキマザックとABEJA、工作機械へのフィジカルAI実装に向け業務連携開始 - LOGI-BIZ online",
+        "source": "LOGI-BIZ online",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5jQkRxYzBYS2tXQ2xEZmlsSklsdUljakdOcGZwSjVRcVVEVEJWUUFYaG41SVUwVFlUeUZtb1d2VnpiVExPeFZkYXpZQQ?oc=5",
+        "publishedAt": "2026-10-18T21:00:40.000Z"
       },
       {
         "time": "08:30",
