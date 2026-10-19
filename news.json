@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T04:47:06.168Z",
+  "updatedAt": "2026-10-19T05:18:32.227Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -53,9 +53,9 @@
       },
       {
         "time": "05:00",
-        "title": "経営ひと言／米アンラ・テクノロジーズのアミット・ガンジューCEO「標準化で連携を」",
+        "title": "NES、RFID搭載システム 安心・確実に車両入退場",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBwTnNZQmJDTlNvSm5WdjBjNlRXalNkeGVPVWtWd0JHMldDdWs1aEFkM0tPVnZvdEluQWlkOWhOTmpfZW13eFFGWjRkaXpabE1aVWxHSTFabmxHZHlwR0lXeHE5ZzB3R3pIN2I1LU1VWFY1YlJqb1hudk0tVQ?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBFSF9ucHlkNlJqRkZuc25OSkFONl94SVo5U0JPMXZ2MVBFclFNXzctVFNlNElwZk9hR1Rmckg4MzBwd21CQUtCZmNDV3F3Q09JWUtMd0lpUzRSVHlRTDUzQ1hxOENuUks1YUNXcjRLWHgxVURGcnp2bjJlOA?oc=5",
         "publishedAt": "2026-10-18T20:00:00.000Z"
       }
     ],
@@ -149,11 +149,18 @@
     ],
     "localHeadlines": [
       {
-        "time": "13:34",
-        "title": "バスや乗用車からむ事故 14人搬送",
+        "time": "14:09",
+        "title": "バスや乗用車絡む事故 女性が死亡",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599349?source=rss",
-        "publishedAt": "2026-10-19T04:34:14.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6599352?source=rss",
+        "publishedAt": "2026-10-19T05:09:16.000Z"
+      },
+      {
+        "time": "13:49",
+        "title": "医師が性暴力 私の被害なぜ不起訴",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6599350?source=rss",
+        "publishedAt": "2026-10-19T04:49:28.000Z"
       },
       {
         "time": "07:36",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6599293?source=rss",
         "publishedAt": "2026-10-18T14:55:38.000Z"
-      },
-      {
-        "time": "19:51",
-        "title": "福生市で男性刺され死亡 男を逮捕",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599276?source=rss",
-        "publishedAt": "2026-10-18T10:51:28.000Z"
       }
     ],
     "subsidyHeadlines": [

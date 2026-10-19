@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-19T04:47:06.814Z",
+  "updatedAt": "2026-10-19T05:18:32.985Z",
   "items": [
     {
       "time": "12:06",
@@ -18,28 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "道府県立高145校減か 40年度まで"
     },
     {
-      "time": "11:35",
-      "title": "「子2人目望む」が過去最低 調査",
+      "time": "14:09",
+      "title": "バスや乗用車絡む事故 女性が死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599334?source=rss",
-      "publishedAt": "2026-10-19T02:35:07.000Z",
-      "xQuery": "「子2人目望む」が過去最低 調査"
+      "url": "https://news.yahoo.co.jp/pickup/6599352?source=rss",
+      "publishedAt": "2026-10-19T05:09:16.000Z",
+      "xQuery": "バスや乗用車絡む事故 女性が死亡"
     },
     {
-      "time": "13:34",
-      "title": "バスや乗用車からむ事故 14人搬送",
+      "time": "13:49",
+      "title": "医師が性暴力 私の被害なぜ不起訴",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599349?source=rss",
-      "publishedAt": "2026-10-19T04:34:14.000Z",
-      "xQuery": "バスや乗用車からむ事故 14人搬送"
+      "url": "https://news.yahoo.co.jp/pickup/6599350?source=rss",
+      "publishedAt": "2026-10-19T04:49:28.000Z",
+      "xQuery": "医師が性暴力 私の被害なぜ不起訴"
     },
     {
-      "time": "11:02",
-      "title": "ダンプカーが穴に転落 心肺停止",
+      "time": "14:05",
+      "title": "阪急阪神百貨店 約126万件漏洩か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599332?source=rss",
-      "publishedAt": "2026-10-19T02:02:03.000Z",
-      "xQuery": "ダンプカーが穴に転落 心肺停止"
+      "url": "https://news.yahoo.co.jp/pickup/6599351?source=rss",
+      "publishedAt": "2026-10-19T05:05:16.000Z",
+      "xQuery": "阪急阪神百貨店 約126万件漏洩か"
     }
   ]
 };
