@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-19T02:27:18.844Z",
+  "updatedAt": "2026-10-19T02:49:27.561Z",
   "items": [
     {
       "time": "10:57",
@@ -10,20 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "首相 靖国神社に私費で玉串料奉納"
     },
     {
-      "time": "08:44",
-      "title": "タイアップ広告炎上 厚労省が指針",
+      "time": "08:47",
+      "title": "米大統領 ネタニヤフ氏の続投支持",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599318?source=rss",
-      "publishedAt": "2026-10-18T23:44:37.000Z",
-      "xQuery": "タイアップ広告炎上 厚労省が指針"
-    },
-    {
-      "time": "10:18",
-      "title": "イタリアでもデモ 一部が暴徒化",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599328?source=rss",
-      "publishedAt": "2026-10-19T01:18:58.000Z",
-      "xQuery": "イタリアでもデモ 一部が暴徒化"
+      "url": "https://news.yahoo.co.jp/pickup/6599320?source=rss",
+      "publishedAt": "2026-10-18T23:47:03.000Z",
+      "xQuery": "米大統領 ネタニヤフ氏の続投支持"
     },
     {
       "time": "10:48",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6599332?source=rss",
       "publishedAt": "2026-10-19T02:02:03.000Z",
       "xQuery": "ダンプカーが穴に転落 心肺停止"
+    },
+    {
+      "time": "11:35",
+      "title": "「子2人目望む」が過去最低 調査",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599334?source=rss",
+      "publishedAt": "2026-10-19T02:35:07.000Z",
+      "xQuery": "「子2人目望む」が過去最低 調査"
     }
   ]
 };
