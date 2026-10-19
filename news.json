@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T22:37:55.707Z",
+  "updatedAt": "2026-10-19T23:16:20.490Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -18,9 +18,9 @@
       },
       {
         "time": "05:00",
-        "title": "ナベル、3D造形品を安全に分離 水平型放電加工機",
+        "title": "サプライチェーンの「変態」マテリアル編（47）「中の人」が選ぶ来年の注目テーマ",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBhVThMWmtMMUstY2RvY1JsMXdIdEZZb1hNQklheVA3VENmcWZmSk1sV0RRc0x4RjBZalJvZ01Nck11MVVLLUlVODNYZWpNWDZQQXExLXJVa3U?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE11aDNnczVvZUlTZGQtczUwNFI4bGFOMkFKdmd6MGgzZm91LUZnNTVfWkZuSXhkSU1NdE92SEowak4yREpNaE5UNHVLMGtudjBVNndnYm1iRUc?oc=5",
         "publishedAt": "2026-10-19T20:00:00.000Z"
       },
       {
@@ -31,18 +31,18 @@
         "publishedAt": "2026-10-19T07:00:00.000Z"
       },
       {
-        "time": "08:30",
-        "title": "8月工作機械、内外需で６割増",
-        "source": "金属産業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE40OGJlRUxGcVgwUmYtd1hjejN6MHEweHV6ZmNVUVc1WUFHOXNvbDlJOUdmU1gyZTYxZk5pRS1yZ3c1aDFzVVl4U3VLSHFwR05lUHVCS3lhZEs?oc=5",
-        "publishedAt": "2026-10-18T23:30:21.000Z"
-      },
-      {
         "time": "05:00",
         "title": "サイダＵＭＳ（焼津） 旋盤生産計画作成 ＤＸ化 時間４割削減 ノウハウ継承も",
         "source": "静岡新聞DIGITAL",
         "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9pdy1oM2NDdUczbHUwQlhURDV1MTRYLXVIUW4yN2RQWnNRY2wyWlE1eU9rQk5fQUlZdG5QWWNtVXFoS041ZENNamV4ckpFZw?oc=5",
         "publishedAt": "2026-10-19T20:00:00.000Z"
+      },
+      {
+        "time": "08:30",
+        "title": "8月工作機械、内外需で６割増",
+        "source": "金属産業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE40OGJlRUxGcVgwUmYtd1hjejN6MHEweHV6ZmNVUVc1WUFHOXNvbDlJOUdmU1gyZTYxZk5pRS1yZ3c1aDFzVVl4U3VLSHFwR05lUHVCS3lhZEs?oc=5",
+        "publishedAt": "2026-10-18T23:30:21.000Z"
       },
       {
         "time": "14:35",
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "07:38",
+        "title": "東北道で複数台絡む事故 2人死傷",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6599419?source=rss",
+        "publishedAt": "2026-10-19T22:38:09.000Z"
+      },
+      {
         "time": "22:55",
         "title": "部屋に遺体 包丁所持疑いで女逮捕",
         "source": "Yahoo!ニュース",
@@ -156,18 +163,18 @@
         "publishedAt": "2026-10-19T13:55:38.000Z"
       },
       {
+        "time": "08:05",
+        "title": "スイミングスクール 80代溺れ搬送",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6599420?source=rss",
+        "publishedAt": "2026-10-19T23:05:48.000Z"
+      },
+      {
         "time": "18:12",
         "title": "死亡事故 防カメに猛スピードの車",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6599374?source=rss",
         "publishedAt": "2026-10-19T09:12:52.000Z"
-      },
-      {
-        "time": "14:09",
-        "title": "バスや乗用車絡む事故 女性が死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599352?source=rss",
-        "publishedAt": "2026-10-19T05:09:16.000Z"
       },
       {
         "time": "18:56",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6599380?source=rss",
         "publishedAt": "2026-10-19T10:14:07.000Z"
-      },
-      {
-        "time": "13:49",
-        "title": "医師が性暴力 私の被害なぜ不起訴",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599350?source=rss",
-        "publishedAt": "2026-10-19T04:49:28.000Z"
       }
     ],
     "subsidyHeadlines": [

@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-19T22:37:56.652Z",
+  "updatedAt": "2026-10-19T23:16:21.144Z",
   "items": [
     {
       "time": "07:19",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "H3ロケット10号機 打ち上げ成功"
     },
     {
-      "time": "18:36",
-      "title": "ユニクロ ソックス3点990円終了へ",
+      "time": "07:38",
+      "title": "東北道で複数台絡む事故 2人死傷",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599375?source=rss",
-      "publishedAt": "2026-10-19T09:36:29.000Z",
-      "xQuery": "ユニクロ ソックス3点990円終了へ"
+      "url": "https://news.yahoo.co.jp/pickup/6599419?source=rss",
+      "publishedAt": "2026-10-19T22:38:09.000Z",
+      "xQuery": "東北道で複数台絡む事故 2人死傷"
     },
     {
       "time": "00:06",
