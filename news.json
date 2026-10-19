@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T23:36:53.440Z",
+  "updatedAt": "2026-10-19T00:49:29.180Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -8,6 +8,13 @@
         "source": "LOGI-BIZ online",
         "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5jQkRxYzBYS2tXQ2xEZmlsSklsdUljakdOcGZwSjVRcVVEVEJWUUFYaG41SVUwVFlUeUZtb1d2VnpiVExPeFZkYXpZQQ?oc=5",
         "publishedAt": "2026-10-18T21:00:40.000Z"
+      },
+      {
+        "time": "08:30",
+        "title": "8月工作機械、内外需で６割増",
+        "source": "金属産業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE40OGJlRUxGcVgwUmYtd1hjejN6MHEweHV6ZmNVUVc1WUFHOXNvbDlJOUdmU1gyZTYxZk5pRS1yZ3c1aDFzVVl4U3VLSHFwR05lUHVCS3lhZEs?oc=5",
+        "publishedAt": "2026-10-18T23:30:21.000Z"
       },
       {
         "time": "06:04",
@@ -38,34 +45,27 @@
         "publishedAt": "2026-10-18T10:18:17.000Z"
       },
       {
+        "time": "07:51",
+        "title": "「JIMTOF2026」迫る 10月26日から東京ビッグサイト",
+        "source": "金属産業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1PZnFtS2p5Y0U3R1VtbFB5d2tPeEpTeXNqQTFOV1Z6UlJBZzNtaVlreHN3cWhtVF9hdzBOWHpqM2FHaGM2QjA5X0s2SkI5Y0pLbUFDejA0RGc?oc=5",
+        "publishedAt": "2026-10-18T22:51:09.000Z"
+      },
+      {
         "time": "15:27",
         "title": "ヤマザキマザック 製造業向けAI開発へ 人手不足に対応（読売新聞オンライン）",
         "source": "Yahoo!ニュース",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5rZmpFUjV3d0pKLXMyYWtGZWxQQUtadkZVVllWNllZVjFGbUZjZXh0X0dvQ0EyUzdMOUx6eFJjQ3FnSml3MWlfQUxLUmhCajhwUDBVdzdOZWlBb0FOUDZDazNFNmFIa21yQlczQUVxMVktS3NKX2w5VVAxTWRhVHc?oc=5",
         "publishedAt": "2026-10-18T06:27:05.000Z"
-      },
-      {
-        "time": "20:37",
-        "title": "日本最大の工場で作られる巨大プレジャーボートの製造プロセス Rudy Gobert (2cldFundgD)",
-        "source": "Unisba Media",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdkpIdmptNzJNTXJCZzhUR2JoWFlBN1lYV1F1U1hScFRYa3hXcHdvSWM0QVAwMFJYYUxWak1yMEdYSmJSTnlfWEdFQW9SOW1HcWVaVGtsWUV5NmFuVVowWERaWUtITVptZWZmMGN2VXNmdkNUMXpyWHRWTUZUX3dvSjJiVTdmdUk?oc=5",
-        "publishedAt": "2026-10-18T11:37:06.000Z"
-      },
-      {
-        "time": "18:30",
-        "title": "精密薄肉ベアリングの世界市場（2026年～2032年）、市場規模（アンギュラ玉軸受、円筒ころ軸受、両方向アンギュラスラスト玉軸受、アキシャル・ラジアル円筒ころ軸受、その他...",
-        "source": "アットプレス",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9HeHBMOG5sT3c0N19RUlVNTmQwM2FoRE5zbjIxVWdiTjJuRExKNURFTEVnb0hITldsd1Z6OENBR2t6RjBwZENvcW1haUxxcW8?oc=5",
-        "publishedAt": "2026-10-18T09:30:00.000Z"
       }
     ],
     "worldHeadlines": [
       {
-        "time": "07:39",
-        "title": "米中間選挙 争点にデータセンター",
+        "time": "09:10",
+        "title": "仏大統領 暴徒に「怒りと恥辱」",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599311?source=rss",
-        "publishedAt": "2026-10-18T22:39:58.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6599322?source=rss",
+        "publishedAt": "2026-10-19T00:10:59.000Z"
       },
       {
         "time": "06:59",
@@ -82,41 +82,41 @@
         "publishedAt": "2026-10-18T11:48:11.000Z"
       },
       {
+        "time": "08:47",
+        "title": "米大統領 ネタニヤフ氏の続投支持",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6599320?source=rss",
+        "publishedAt": "2026-10-18T23:47:03.000Z"
+      },
+      {
+        "time": "07:39",
+        "title": "米中間選挙 争点にデータセンター",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6599311?source=rss",
+        "publishedAt": "2026-10-18T22:39:58.000Z"
+      },
+      {
         "time": "15:59",
         "title": "対露制裁見送り 米ウの亀裂深刻",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6599247?source=rss",
         "publishedAt": "2026-10-18T06:59:58.000Z"
-      },
-      {
-        "time": "10:54",
-        "title": "米与野党 対露制裁巡り批判が噴出",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599212?source=rss",
-        "publishedAt": "2026-10-18T01:54:08.000Z"
-      },
-      {
-        "time": "13:45",
-        "title": "NO KINGS 全米で反トランプデモ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599228?source=rss",
-        "publishedAt": "2026-10-18T04:45:32.000Z"
       }
     ],
     "economyHeadlines": [
+      {
+        "time": "08:44",
+        "title": "タイアップ広告炎上 厚労省が指針",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6599318?source=rss",
+        "publishedAt": "2026-10-18T23:44:37.000Z"
+      },
       {
         "time": "18:34",
         "title": "SUBARU 20年代後半にSDV投入へ",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6599267?source=rss",
         "publishedAt": "2026-10-18T09:34:26.000Z"
-      },
-      {
-        "time": "20:31",
-        "title": "長雨や日照不足の影響 農家苦悩",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599279?source=rss",
-        "publishedAt": "2026-10-18T11:31:01.000Z"
       },
       {
         "time": "08:04",
@@ -156,18 +156,18 @@
         "publishedAt": "2026-10-18T22:36:29.000Z"
       },
       {
+        "time": "08:40",
+        "title": "オートバイの男性死亡 ひき逃げか",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6599316?source=rss",
+        "publishedAt": "2026-10-18T23:40:50.000Z"
+      },
+      {
         "time": "23:55",
         "title": "辺野古転覆 高校生の遺族が献花",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6599293?source=rss",
         "publishedAt": "2026-10-18T14:55:38.000Z"
-      },
-      {
-        "time": "07:36",
-        "title": "祭りで副市長が死亡 市長「痛恨」",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599188?source=rss",
-        "publishedAt": "2026-10-17T22:36:26.000Z"
       },
       {
         "time": "19:51",

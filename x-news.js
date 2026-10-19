@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-18T23:36:53.948Z",
+  "updatedAt": "2026-10-19T00:49:29.911Z",
   "items": [
     {
-      "time": "08:13",
-      "title": "逮捕状の「電子令状」4都県から",
+      "time": "08:43",
+      "title": "公明「打倒高市」後 描く政界再編",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599313?source=rss",
-      "publishedAt": "2026-10-18T23:13:34.000Z",
-      "xQuery": "逮捕状の「電子令状」4都県から"
+      "url": "https://news.yahoo.co.jp/pickup/6599317?source=rss",
+      "publishedAt": "2026-10-18T23:43:24.000Z",
+      "xQuery": "公明「打倒高市」後 描く政界再編"
     },
     {
-      "time": "06:59",
-      "title": "フランス各地で暴動 2400人逮捕",
+      "time": "07:39",
+      "title": "米中間選挙 争点にデータセンター",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599304?source=rss",
-      "publishedAt": "2026-10-18T21:59:51.000Z",
-      "xQuery": "フランス各地で暴動 2400人逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6599311?source=rss",
+      "publishedAt": "2026-10-18T22:39:58.000Z",
+      "xQuery": "米中間選挙 争点にデータセンター"
     },
     {
       "time": "07:36",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "横浜前市長 パワハラに厳しい審判"
     },
     {
-      "time": "07:16",
-      "title": "サイバー攻撃 なぜ日本が狙われる",
+      "time": "08:40",
+      "title": "オートバイの男性死亡 ひき逃げか",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599306?source=rss",
-      "publishedAt": "2026-10-18T22:16:37.000Z",
-      "xQuery": "サイバー攻撃 なぜ日本が狙われる"
+      "url": "https://news.yahoo.co.jp/pickup/6599316?source=rss",
+      "publishedAt": "2026-10-18T23:40:50.000Z",
+      "xQuery": "オートバイの男性死亡 ひき逃げか"
     },
     {
       "time": "08:04",
