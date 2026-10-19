@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-19T02:49:27.561Z",
+  "updatedAt": "2026-10-19T03:23:08.665Z",
   "items": [
     {
-      "time": "10:57",
-      "title": "首相 靖国神社に私費で玉串料奉納",
+      "time": "11:38",
+      "title": "首相 減税の財源に国債を否定せず",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599331?source=rss",
-      "publishedAt": "2026-10-19T01:57:55.000Z",
-      "xQuery": "首相 靖国神社に私費で玉串料奉納"
+      "url": "https://news.yahoo.co.jp/pickup/6599335?source=rss",
+      "publishedAt": "2026-10-19T02:38:05.000Z",
+      "xQuery": "首相 減税の財源に国債を否定せず"
     },
     {
       "time": "08:47",
