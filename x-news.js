@@ -1,13 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-19T14:18:10.772Z",
+  "updatedAt": "2026-10-19T14:42:51.756Z",
   "items": [
     {
-      "time": "22:18",
-      "title": "公共工事「入札不調」相次ぐ 背景",
+      "time": "23:05",
+      "title": "仏首相 一部に夜間外出禁止令要請",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599399?source=rss",
-      "publishedAt": "2026-10-19T13:18:56.000Z",
-      "xQuery": "公共工事「入札不調」相次ぐ 背景"
+      "url": "https://news.yahoo.co.jp/pickup/6599406?source=rss",
+      "publishedAt": "2026-10-19T14:05:17.000Z",
+      "xQuery": "仏首相 一部に夜間外出禁止令要請"
+    },
+    {
+      "time": "22:32",
+      "title": "特定技能「給食」受け入れ再開へ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599400?source=rss",
+      "publishedAt": "2026-10-19T13:32:39.000Z",
+      "xQuery": "特定技能「給食」受け入れ再開へ"
     },
     {
       "time": "19:34",
@@ -16,14 +24,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6599384?source=rss",
       "publishedAt": "2026-10-19T10:34:59.000Z",
       "xQuery": "中国経済成長 テック産業が後押し"
-    },
-    {
-      "time": "21:26",
-      "title": "金与正氏 韓国軍非難する談話発表",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599392?source=rss",
-      "publishedAt": "2026-10-19T12:26:49.000Z",
-      "xQuery": "金与正氏 韓国軍非難する談話発表"
     },
     {
       "time": "22:55",
