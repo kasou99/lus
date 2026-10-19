@@ -1,13 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-19T13:46:59.905Z",
+  "updatedAt": "2026-10-19T14:18:10.772Z",
   "items": [
     {
-      "time": "18:35",
-      "title": "海自の中東派遣 1年間延長の方針",
+      "time": "22:18",
+      "title": "公共工事「入札不調」相次ぐ 背景",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599376?source=rss",
-      "publishedAt": "2026-10-19T09:35:21.000Z",
-      "xQuery": "海自の中東派遣 1年間延長の方針"
+      "url": "https://news.yahoo.co.jp/pickup/6599399?source=rss",
+      "publishedAt": "2026-10-19T13:18:56.000Z",
+      "xQuery": "公共工事「入札不調」相次ぐ 背景"
+    },
+    {
+      "time": "19:34",
+      "title": "中国経済成長 テック産業が後押し",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599384?source=rss",
+      "publishedAt": "2026-10-19T10:34:59.000Z",
+      "xQuery": "中国経済成長 テック産業が後押し"
     },
     {
       "time": "21:26",
@@ -18,28 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "金与正氏 韓国軍非難する談話発表"
     },
     {
-      "time": "19:14",
-      "title": "農作業の死亡事故多発 鳥取で警報",
+      "time": "22:55",
+      "title": "部屋に遺体 包丁所持疑いで女逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599380?source=rss",
-      "publishedAt": "2026-10-19T10:14:07.000Z",
-      "xQuery": "農作業の死亡事故多発 鳥取で警報"
+      "url": "https://news.yahoo.co.jp/pickup/6599402?source=rss",
+      "publishedAt": "2026-10-19T13:55:38.000Z",
+      "xQuery": "部屋に遺体 包丁所持疑いで女逮捕"
     },
     {
-      "time": "18:56",
-      "title": "男児に花火当てた疑い 支援員逮捕",
+      "time": "22:41",
+      "title": "ユニクロが値上げ 11商品を11月に",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599377?source=rss",
-      "publishedAt": "2026-10-19T09:56:23.000Z",
-      "xQuery": "男児に花火当てた疑い 支援員逮捕"
-    },
-    {
-      "time": "19:24",
-      "title": "「小泉総理」高市氏が言い間違え",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599382?source=rss",
-      "publishedAt": "2026-10-19T10:24:16.000Z",
-      "xQuery": "「小泉総理」高市氏が言い間違え"
+      "url": "https://news.yahoo.co.jp/pickup/6599401?source=rss",
+      "publishedAt": "2026-10-19T13:41:25.000Z",
+      "xQuery": "ユニクロが値上げ 11商品を11月に"
     }
   ]
 };
