@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T09:26:30.459Z",
+  "updatedAt": "2026-10-19T09:48:23.045Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -133,18 +133,18 @@
         "publishedAt": "2026-10-19T08:16:01.000Z"
       },
       {
+        "time": "18:36",
+        "title": "ユニクロ ソックス3点990円終了へ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6599375?source=rss",
+        "publishedAt": "2026-10-19T09:36:29.000Z"
+      },
+      {
         "time": "08:04",
         "title": "東芝 難関大生から再評価される今",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6599312?source=rss",
         "publishedAt": "2026-10-18T23:04:39.000Z"
-      },
-      {
-        "time": "09:58",
-        "title": "日比谷線200m停止線越え 自動運転",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599326?source=rss",
-        "publishedAt": "2026-10-19T00:58:29.000Z"
       }
     ],
     "localHeadlines": [

@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-19T09:26:31.113Z",
+  "updatedAt": "2026-10-19T09:48:23.880Z",
   "items": [
     {
-      "time": "15:52",
-      "title": "パーティ問題巡り 関氏に厳重注意",
+      "time": "17:06",
+      "title": "再建急ぐ立憲 展望見えぬ衆参結集",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599357?source=rss",
-      "publishedAt": "2026-10-19T06:52:41.000Z",
-      "xQuery": "パーティ問題巡り 関氏に厳重注意"
+      "url": "https://news.yahoo.co.jp/pickup/6599363?source=rss",
+      "publishedAt": "2026-10-19T08:06:45.000Z",
+      "xQuery": "再建急ぐ立憲 展望見えぬ衆参結集"
     },
     {
       "time": "17:39",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "寄付された金延べ棒21kg 売却完了"
     },
     {
-      "time": "17:16",
-      "title": "JAL機内に小動物 見つからず欠航",
+      "time": "18:36",
+      "title": "ユニクロ ソックス3点990円終了へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599368?source=rss",
-      "publishedAt": "2026-10-19T08:16:01.000Z",
-      "xQuery": "JAL機内に小動物 見つからず欠航"
+      "url": "https://news.yahoo.co.jp/pickup/6599375?source=rss",
+      "publishedAt": "2026-10-19T09:36:29.000Z",
+      "xQuery": "ユニクロ ソックス3点990円終了へ"
     }
   ]
 };
