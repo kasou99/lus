@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-20T14:17:29.699Z",
+  "updatedAt": "2026-10-20T14:42:16.647Z",
   "items": [
     {
       "time": "20:34",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "台風30号 本州付近に来週接近恐れ"
     },
     {
-      "time": "21:57",
-      "title": "フラット35 全国で不適正利用64件",
+      "time": "22:57",
+      "title": "岩井コスモ証券にサイバー攻撃",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599514?source=rss",
-      "publishedAt": "2026-10-20T12:57:14.000Z",
-      "xQuery": "フラット35 全国で不適正利用64件"
+      "url": "https://news.yahoo.co.jp/pickup/6599523?source=rss",
+      "publishedAt": "2026-10-20T13:57:57.000Z",
+      "xQuery": "岩井コスモ証券にサイバー攻撃"
     },
     {
-      "time": "22:26",
-      "title": "墓石6.7トン不法投棄疑い 2人逮捕",
+      "time": "20:39",
+      "title": "東大次期総長 選考やり直しあるか",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599516?source=rss",
-      "publishedAt": "2026-10-20T13:26:08.000Z",
-      "xQuery": "墓石6.7トン不法投棄疑い 2人逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6599489?source=rss",
+      "publishedAt": "2026-10-20T11:39:37.000Z",
+      "xQuery": "東大次期総長 選考やり直しあるか"
     }
   ]
 };
