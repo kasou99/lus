@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T04:43:46.348Z",
+  "updatedAt": "2026-10-20T05:17:01.000Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,13 +31,6 @@
         "publishedAt": "2026-10-20T02:03:29.000Z"
       },
       {
-        "time": "09:29",
-        "title": "製造工程をAI最適化、ABEJAとヤマザキマザック",
-        "source": "LOGISTICS TODAY",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5NWGRFN3ZEaW40Uy0xSmNkU2Z1dFcxNTV6cVBwY2tCOUxvcXNxQjMxdmVtOFBqN2dnUVZ1NzVVMF9KbVJlOWlCc2VB?oc=5",
-        "publishedAt": "2026-10-20T00:29:16.000Z"
-      },
-      {
         "time": "09:00",
         "title": "【JIMTOF 2026出展のお知らせ】HIT、ダイナミックツール株式会社のブースにて超音波加工モジュールと先端材料の加工事例を紹介",
         "source": "valuepress",
@@ -57,6 +50,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1CMTNIN3l1MVc2RW92Z1h0RFJIclFHRFl5Vjk0anlHeUcyLWJJS2IzLXNlVWFZbDZNd29xVFdicVFRRGVkcUxIWnBmWlA5WUdJeXU1dEhXR1BfNkxGZHR0S3YyYlBGVmZhUlEzS3lVNUg5Y2NWN2lud2RLcWQyTjg?oc=5",
         "publishedAt": "2026-10-19T08:05:18.000Z"
+      },
+      {
+        "time": "12:21",
+        "title": "オークマ設備のデータ活用をよりスムーズに ー「LINKA3」が「Connect Plan」と連携",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE83YmE1RmVacEd6NW85aVF5UHlhU0FHOEpOSzlNOFdLR0ZXS0diWGxKVWRJcS11Q2N4bFZvV0oxVWNYYWpWX3h1dGN6ZjRPeUxGVlNUQ2lIQzBxd0JEWHJhQWljT3pmbjNpQUVQVTR1bUxwcjJGajA4VlA4dw?oc=5",
+        "publishedAt": "2026-10-20T03:21:33.000Z"
       }
     ],
     "worldHeadlines": [

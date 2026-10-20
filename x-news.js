@@ -1,6 +1,22 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-20T04:43:47.146Z",
+  "updatedAt": "2026-10-20T05:17:01.774Z",
   "items": [
+    {
+      "time": "13:06",
+      "title": "米国防長官がイスラエル訪問 報道",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599461?source=rss",
+      "publishedAt": "2026-10-20T04:06:30.000Z",
+      "xQuery": "米国防長官がイスラエル訪問 報道"
+    },
+    {
+      "time": "11:47",
+      "title": "クマ対策 福島知事選で爆竹準備も",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599450?source=rss",
+      "publishedAt": "2026-10-20T02:47:29.000Z",
+      "xQuery": "クマ対策 福島知事選で爆竹準備も"
+    },
     {
       "time": "11:51",
       "title": "新名神6人死亡 被告に拘禁7年判決",
@@ -8,22 +24,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6599454?source=rss",
       "publishedAt": "2026-10-20T02:51:59.000Z",
       "xQuery": "新名神6人死亡 被告に拘禁7年判決"
-    },
-    {
-      "time": "12:13",
-      "title": "東大学長選 文科省異例の検証要求",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599456?source=rss",
-      "publishedAt": "2026-10-20T03:13:31.000Z",
-      "xQuery": "東大学長選 文科省異例の検証要求"
-    },
-    {
-      "time": "12:29",
-      "title": "栃木県警全職員の個人情報流出か",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599459?source=rss",
-      "publishedAt": "2026-10-20T03:29:08.000Z",
-      "xQuery": "栃木県警全職員の個人情報流出か"
     },
     {
       "time": "13:22",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "80社サイバー攻撃 中国語AI悪用か"
     },
     {
-      "time": "10:33",
-      "title": "teppayサービス開始 機能や特徴",
+      "time": "12:29",
+      "title": "栃木県警全職員の個人情報流出か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599438?source=rss",
-      "publishedAt": "2026-10-20T01:33:39.000Z",
-      "xQuery": "teppayサービス開始 機能や特徴"
+      "url": "https://news.yahoo.co.jp/pickup/6599459?source=rss",
+      "publishedAt": "2026-10-20T03:29:08.000Z",
+      "xQuery": "栃木県警全職員の個人情報流出か"
     }
   ]
 };
