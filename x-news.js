@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-20T06:56:35.118Z",
+  "updatedAt": "2026-10-20T07:24:07.465Z",
   "items": [
     {
       "time": "15:32",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "台風 23-24日頃にかけ先島諸島へ"
     },
     {
-      "time": "11:46",
-      "title": "モバ充発火で鉄道遅延 増加傾向",
+      "time": "16:15",
+      "title": "ごみ集積所 生後間もない男児遺体",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599444?source=rss",
-      "publishedAt": "2026-10-20T02:46:44.000Z",
-      "xQuery": "モバ充発火で鉄道遅延 増加傾向"
+      "url": "https://news.yahoo.co.jp/pickup/6599474?source=rss",
+      "publishedAt": "2026-10-20T07:15:48.000Z",
+      "xQuery": "ごみ集積所 生後間もない男児遺体"
     },
     {
       "time": "15:25",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "学級写真廃止巡り集会 保護者反発"
     },
     {
-      "time": "14:18",
-      "title": "脱ホワイトカラー 活かせる強みは",
+      "time": "11:46",
+      "title": "モバ充発火で鉄道遅延 増加傾向",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599467?source=rss",
-      "publishedAt": "2026-10-20T05:18:55.000Z",
-      "xQuery": "脱ホワイトカラー 活かせる強みは"
+      "url": "https://news.yahoo.co.jp/pickup/6599444?source=rss",
+      "publishedAt": "2026-10-20T02:46:44.000Z",
+      "xQuery": "モバ充発火で鉄道遅延 増加傾向"
     }
   ]
 };

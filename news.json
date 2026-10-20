@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T06:56:34.674Z",
+  "updatedAt": "2026-10-20T07:24:06.392Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -45,18 +45,18 @@
         "publishedAt": "2026-10-20T02:03:29.000Z"
       },
       {
-        "time": "09:29",
-        "title": "製造工程をAI最適化、ABEJAとヤマザキマザック",
-        "source": "LOGISTICS TODAY",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5NWGRFN3ZEaW40Uy0xSmNkU2Z1dFcxNTV6cVBwY2tCOUxvcXNxQjMxdmVtOFBqN2dnUVZ1NzVVMF9KbVJlOWlCc2VB?oc=5",
-        "publishedAt": "2026-10-20T00:29:16.000Z"
-      },
-      {
         "time": "09:00",
         "title": "【JIMTOF 2026出展のお知らせ】HIT、ダイナミックツール株式会社のブースにて超音波加工モジュールと先端材料の加工事例を紹介",
         "source": "valuepress",
         "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9jQVR3Q2ZzSlJHNENodkZzeDZlNTNyVzFSZWFnMkRzM0ZJOG4wVDl5MGZxdkhQekJVdWVvUTllVDdyVV94cHZOSlhiM09DSE1sYWdmNEEwYlc2eHMtR3c?oc=5",
         "publishedAt": "2026-10-20T00:00:00.000Z"
+      },
+      {
+        "time": "16:03",
+        "title": "ハイブリッドセラミックベアリング業界動向：2026年の市場規模は569百万米ドル見込み",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1VdVZ3WjM2MldaaVFIZTdFeW1faWxtOXJ6aEVKMThwZ3drWWY2SGtaMmZkZlJuZFhCekFEcmVLS1hjNlJucnpyS0pJd2lidjltUnRvYTBTeVhpWUNRd2VDX3FzUXQwY2R1TkFnRURfTFI0QmJ2eHgwR0JzOA?oc=5",
+        "publishedAt": "2026-10-20T07:03:23.000Z"
       }
     ],
     "worldHeadlines": [
@@ -89,11 +89,11 @@
         "publishedAt": "2026-10-19T22:19:09.000Z"
       },
       {
-        "time": "13:06",
-        "title": "米国防長官がイスラエル訪問 報道",
+        "time": "16:10",
+        "title": "米国防長官 ネタニヤフ氏と会談か",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599461?source=rss",
-        "publishedAt": "2026-10-20T04:06:30.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6599473?source=rss",
+        "publishedAt": "2026-10-20T07:10:03.000Z"
       },
       {
         "time": "23:55",
@@ -156,6 +156,13 @@
         "publishedAt": "2026-10-20T02:51:59.000Z"
       },
       {
+        "time": "16:15",
+        "title": "ごみ集積所 生後間もない男児遺体",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6599474?source=rss",
+        "publishedAt": "2026-10-20T07:15:48.000Z"
+      },
+      {
         "time": "11:09",
         "title": "大阪地裁前で男性刺される 男逮捕",
         "source": "Yahoo!ニュース",
@@ -175,13 +182,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6599459?source=rss",
         "publishedAt": "2026-10-20T03:29:08.000Z"
-      },
-      {
-        "time": "10:31",
-        "title": "自衛隊車両と車が衝突 1人死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599437?source=rss",
-        "publishedAt": "2026-10-20T01:31:47.000Z"
       },
       {
         "time": "08:05",
