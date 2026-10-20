@@ -1,21 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-20T11:40:12.648Z",
+  "updatedAt": "2026-10-20T12:27:00.659Z",
   "items": [
     {
-      "time": "18:09",
-      "title": "21日 東京・大阪などで真夏日予想",
+      "time": "20:34",
+      "title": "民主改革の会 1人年4万円給付案",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599492?source=rss",
-      "publishedAt": "2026-10-20T09:09:36.000Z",
-      "xQuery": "21日 東京・大阪などで真夏日予想"
-    },
-    {
-      "time": "18:31",
-      "title": "米国防長官 ネタニヤフ首相と会談",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599496?source=rss",
-      "publishedAt": "2026-10-20T09:31:37.000Z",
-      "xQuery": "米国防長官 ネタニヤフ首相と会談"
+      "url": "https://news.yahoo.co.jp/pickup/6599506?source=rss",
+      "publishedAt": "2026-10-20T11:34:30.000Z",
+      "xQuery": "民主改革の会 1人年4万円給付案"
     },
     {
       "time": "20:10",
@@ -26,20 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "ソニーFGへの立ち入り検査検討"
     },
     {
-      "time": "19:52",
-      "title": "ふるさとチョイス 445万件が流出",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599501?source=rss",
-      "publishedAt": "2026-10-20T10:52:44.000Z",
-      "xQuery": "ふるさとチョイス 445万件が流出"
-    },
-    {
       "time": "20:25",
       "title": "2人死亡「宝木争奪戦」来年は中止",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6599505?source=rss",
       "publishedAt": "2026-10-20T11:25:14.000Z",
       "xQuery": "2人死亡「宝木争奪戦」来年は中止"
+    },
+    {
+      "time": "21:04",
+      "title": "「検察なめんなよ」発言 被告説明",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599510?source=rss",
+      "publishedAt": "2026-10-20T12:04:27.000Z",
+      "xQuery": "「検察なめんなよ」発言 被告説明"
+    },
+    {
+      "time": "18:24",
+      "title": "旅客機内で目撃の「小動物」発見",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599494?source=rss",
+      "publishedAt": "2026-10-20T09:24:43.000Z",
+      "xQuery": "旅客機内で目撃の「小動物」発見"
     }
   ]
 };
