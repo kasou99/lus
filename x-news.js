@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-20T05:42:23.419Z",
+  "updatedAt": "2026-10-20T06:29:38.777Z",
   "items": [
     {
       "time": "14:06",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "米政権の汚職問題 中間選挙争点に"
     },
     {
-      "time": "13:22",
-      "title": "80社サイバー攻撃 中国語AI悪用か",
+      "time": "11:46",
+      "title": "モバ充発火で鉄道遅延 増加傾向",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599460?source=rss",
-      "publishedAt": "2026-10-20T04:22:02.000Z",
-      "xQuery": "80社サイバー攻撃 中国語AI悪用か"
+      "url": "https://news.yahoo.co.jp/pickup/6599444?source=rss",
+      "publishedAt": "2026-10-20T02:46:44.000Z",
+      "xQuery": "モバ充発火で鉄道遅延 増加傾向"
     },
     {
       "time": "11:54",

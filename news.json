@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T05:42:22.932Z",
+  "updatedAt": "2026-10-20T06:29:38.254Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,6 +38,13 @@
         "publishedAt": "2026-10-20T02:03:29.000Z"
       },
       {
+        "time": "09:29",
+        "title": "製造工程をAI最適化、ABEJAとヤマザキマザック",
+        "source": "LOGISTICS TODAY",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5NWGRFN3ZEaW40Uy0xSmNkU2Z1dFcxNTV6cVBwY2tCOUxvcXNxQjMxdmVtOFBqN2dnUVZ1NzVVMF9KbVJlOWlCc2VB?oc=5",
+        "publishedAt": "2026-10-20T00:29:16.000Z"
+      },
+      {
         "time": "09:00",
         "title": "【JIMTOF 2026出展のお知らせ】HIT、ダイナミックツール株式会社のブースにて超音波加工モジュールと先端材料の加工事例を紹介",
         "source": "valuepress",
@@ -45,18 +52,11 @@
         "publishedAt": "2026-10-20T00:00:00.000Z"
       },
       {
-        "time": "05:00",
-        "title": "JMA、注目製品冊子 JIMTOFに業界ソングも",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE12WEVJN1RCSGpkMUZ4UDZXSGZuWE9hZUpxVUw1WGlWNHZfaW1XQ0RXOW81WU9VUTNwZmJXMXRQUlZvTkdSMHFNazAwSWE3UmNVM3hiTDFCMThIWjJIZGt6WFVDTmQ5clVVQzRNdTY0U3lVZ3RxV05pTXZkSQ?oc=5",
-        "publishedAt": "2026-10-19T20:00:00.000Z"
-      },
-      {
-        "time": "12:21",
-        "title": "オークマ設備のデータ活用をよりスムーズに ー「LINKA3」が「Connect Plan」と連携",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE83YmE1RmVacEd6NW85aVF5UHlhU0FHOEpOSzlNOFdLR0ZXS0diWGxKVWRJcS11Q2N4bFZvV0oxVWNYYWpWX3h1dGN6ZjRPeUxGVlNUQ2lIQzBxd0JEWHJhQWljT3pmbjNpQUVQVTR1bUxwcjJGajA4VlA4dw?oc=5",
-        "publishedAt": "2026-10-20T03:21:33.000Z"
+        "time": "10:00",
+        "title": "国内初、バリ取りのブラシ突出し調整を自動化「XEBEC CPSオートホルダー」10月26日より発売開始",
+        "source": "PR TIMES",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBLRWlCbXpSa3pXYzdHTDFzSHJoalA3Nk1mSGVtRzE1STZONFNjQl9rdDFLODBTaTV2UVl0RWlSZ0N3RVBJVmNGY19oeU5UVktVdl9ZUXVDTnJ3SWQwb2N6LWVSc2s4UmNBOWc?oc=5",
+        "publishedAt": "2026-10-20T01:00:02.000Z"
       }
     ],
     "worldHeadlines": [
@@ -163,6 +163,13 @@
         "publishedAt": "2026-10-20T02:09:05.000Z"
       },
       {
+        "time": "15:25",
+        "title": "学級写真廃止巡り集会 保護者反発",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6599471?source=rss",
+        "publishedAt": "2026-10-20T06:25:47.000Z"
+      },
+      {
         "time": "12:29",
         "title": "栃木県警全職員の個人情報流出か",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6599420?source=rss",
         "publishedAt": "2026-10-19T23:05:48.000Z"
-      },
-      {
-        "time": "18:12",
-        "title": "死亡事故 防カメに猛スピードの車",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599374?source=rss",
-        "publishedAt": "2026-10-19T09:12:52.000Z"
       }
     ],
     "subsidyHeadlines": [
