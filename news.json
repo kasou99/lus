@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-10-20T05:17:01.000Z",
+  "updatedAt": "2026-10-20T05:42:22.932Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "14:38",
+        "title": "ＮＴＮ－続落 工作機械主軸用センサー内蔵軸受ユニットの受注活動開始へ(トレーダーズ・ウェブ)",
+        "source": "Yahoo!ファイナンス",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORm0tV3M2MURrcjlLWFdVNWFTWjA1alVKcUxlcnVqMWN3dWhiVTlZSHZIajhHWlVUMmpnT0lwRWstdndYVXRVc3ZMM0drYVRZOVd5Y3hocmRLbjRuT2hNTWVtR1IxMUEwd1ItUkwycHNXdFRiemhiSE1sYW01c0UxOG5PekF6MGs?oc=5",
+        "publishedAt": "2026-10-20T05:38:02.000Z"
+      },
       {
         "time": "12:31",
         "title": "NTN、「工作機械主軸用センサー内蔵軸受ユニット」の受注活動を開始",
@@ -45,13 +52,6 @@
         "publishedAt": "2026-10-19T20:00:00.000Z"
       },
       {
-        "time": "17:05",
-        "title": "ヤマザキマザックが実装へ 工作機械にフィジカルAI ABEJAと業務提携（日刊産業新聞）",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1CMTNIN3l1MVc2RW92Z1h0RFJIclFHRFl5Vjk0anlHeUcyLWJJS2IzLXNlVWFZbDZNd29xVFdicVFRRGVkcUxIWnBmWlA5WUdJeXU1dEhXR1BfNkxGZHR0S3YyYlBGVmZhUlEzS3lVNUg5Y2NWN2lud2RLcWQyTjg?oc=5",
-        "publishedAt": "2026-10-19T08:05:18.000Z"
-      },
-      {
         "time": "12:21",
         "title": "オークマ設備のデータ活用をよりスムーズに ー「LINKA3」が「Connect Plan」と連携",
         "source": "ニコニコニュース",
@@ -60,6 +60,20 @@
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "14:24",
+        "title": "露の道新記者拘束 米国務省が非難",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6599468?source=rss",
+        "publishedAt": "2026-10-20T05:24:58.000Z"
+      },
+      {
+        "time": "14:15",
+        "title": "米政権の汚職問題 中間選挙争点に",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6599466?source=rss",
+        "publishedAt": "2026-10-20T05:15:53.000Z"
+      },
       {
         "time": "09:42",
         "title": "トランプ氏支持率31% ロイター",
@@ -87,20 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6599410?source=rss",
         "publishedAt": "2026-10-19T14:55:38.000Z"
-      },
-      {
-        "time": "11:45",
-        "title": "上田所属リールの公式店 略奪被害",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599446?source=rss",
-        "publishedAt": "2026-10-20T02:45:25.000Z"
-      },
-      {
-        "time": "11:54",
-        "title": "元OpenAIの被告をサウジが支援か",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599451?source=rss",
-        "publishedAt": "2026-10-20T02:54:38.000Z"
       }
     ],
     "economyHeadlines": [
@@ -133,18 +133,18 @@
         "publishedAt": "2026-10-19T09:36:29.000Z"
       },
       {
+        "time": "14:18",
+        "title": "脱ホワイトカラー 活かせる強みは",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6599467?source=rss",
+        "publishedAt": "2026-10-20T05:18:55.000Z"
+      },
+      {
         "time": "16:24",
         "title": "個別指導トレーニング トラブル増",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6599359?source=rss",
         "publishedAt": "2026-10-19T07:24:55.000Z"
-      },
-      {
-        "time": "23:42",
-        "title": "研修にブラインドサッカー 企業増",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599409?source=rss",
-        "publishedAt": "2026-10-19T14:42:59.000Z"
       }
     ],
     "localHeadlines": [

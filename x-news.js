@@ -1,29 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-20T05:17:01.774Z",
+  "updatedAt": "2026-10-20T05:42:23.419Z",
   "items": [
     {
-      "time": "13:06",
-      "title": "米国防長官がイスラエル訪問 報道",
+      "time": "14:06",
+      "title": "台風 23-24日頃にかけ先島諸島へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599461?source=rss",
-      "publishedAt": "2026-10-20T04:06:30.000Z",
-      "xQuery": "米国防長官がイスラエル訪問 報道"
+      "url": "https://news.yahoo.co.jp/pickup/6599465?source=rss",
+      "publishedAt": "2026-10-20T05:06:46.000Z",
+      "xQuery": "台風 23-24日頃にかけ先島諸島へ"
     },
     {
-      "time": "11:47",
-      "title": "クマ対策 福島知事選で爆竹準備も",
+      "time": "14:15",
+      "title": "米政権の汚職問題 中間選挙争点に",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599450?source=rss",
-      "publishedAt": "2026-10-20T02:47:29.000Z",
-      "xQuery": "クマ対策 福島知事選で爆竹準備も"
-    },
-    {
-      "time": "11:51",
-      "title": "新名神6人死亡 被告に拘禁7年判決",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599454?source=rss",
-      "publishedAt": "2026-10-20T02:51:59.000Z",
-      "xQuery": "新名神6人死亡 被告に拘禁7年判決"
+      "url": "https://news.yahoo.co.jp/pickup/6599466?source=rss",
+      "publishedAt": "2026-10-20T05:15:53.000Z",
+      "xQuery": "米政権の汚職問題 中間選挙争点に"
     },
     {
       "time": "13:22",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "80社サイバー攻撃 中国語AI悪用か"
     },
     {
-      "time": "12:29",
-      "title": "栃木県警全職員の個人情報流出か",
+      "time": "11:54",
+      "title": "元OpenAIの被告をサウジが支援か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599459?source=rss",
-      "publishedAt": "2026-10-20T03:29:08.000Z",
-      "xQuery": "栃木県警全職員の個人情報流出か"
+      "url": "https://news.yahoo.co.jp/pickup/6599451?source=rss",
+      "publishedAt": "2026-10-20T02:54:38.000Z",
+      "xQuery": "元OpenAIの被告をサウジが支援か"
+    },
+    {
+      "time": "14:10",
+      "title": "ロボ悪用し性的嫌がらせ 法的責任",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599449?source=rss",
+      "publishedAt": "2026-10-20T05:10:30.000Z",
+      "xQuery": "ロボ悪用し性的嫌がらせ 法的責任"
     }
   ]
 };
