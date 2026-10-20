@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-20T14:42:16.647Z",
+  "updatedAt": "2026-10-20T15:17:17.783Z",
   "items": [
     {
-      "time": "20:34",
-      "title": "民主改革の会 1人年4万円給付案",
+      "time": "23:45",
+      "title": "高市政権1年 高支持率維持の背景",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599506?source=rss",
-      "publishedAt": "2026-10-20T11:34:30.000Z",
-      "xQuery": "民主改革の会 1人年4万円給付案"
+      "url": "https://news.yahoo.co.jp/pickup/6599527?source=rss",
+      "publishedAt": "2026-10-20T14:45:20.000Z",
+      "xQuery": "高市政権1年 高支持率維持の背景"
     },
     {
       "time": "18:36",
@@ -16,6 +16,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6599497?source=rss",
       "publishedAt": "2026-10-20T09:36:43.000Z",
       "xQuery": "6人死亡事故判決 遺族複雑な思い"
+    },
+    {
+      "time": "23:56",
+      "title": "武部農相 献金巡り公選法違反疑い",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599528?source=rss",
+      "publishedAt": "2026-10-20T14:56:15.000Z",
+      "xQuery": "武部農相 献金巡り公選法違反疑い"
     },
     {
       "time": "22:29",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6599523?source=rss",
       "publishedAt": "2026-10-20T13:57:57.000Z",
       "xQuery": "岩井コスモ証券にサイバー攻撃"
-    },
-    {
-      "time": "20:39",
-      "title": "東大次期総長 選考やり直しあるか",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599489?source=rss",
-      "publishedAt": "2026-10-20T11:39:37.000Z",
-      "xQuery": "東大次期総長 選考やり直しあるか"
     }
   ]
 };
