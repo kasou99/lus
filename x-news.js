@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-20T22:15:55.202Z",
+  "updatedAt": "2026-10-20T22:38:10.052Z",
   "items": [
     {
       "time": "23:45",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "22府県の警察 個人情報流出の恐れ"
     },
     {
-      "time": "22:29",
-      "title": "台風30号 本州付近に来週接近恐れ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599518?source=rss",
-      "publishedAt": "2026-10-20T13:29:05.000Z",
-      "xQuery": "台風30号 本州付近に来週接近恐れ"
-    },
-    {
       "time": "22:57",
       "title": "岩井コスモ証券にサイバー攻撃",
       "source": "Yahoo!ニュース",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6599528?source=rss",
       "publishedAt": "2026-10-20T14:56:15.000Z",
       "xQuery": "武部農相 献金巡り公選法違反疑い"
+    },
+    {
+      "time": "06:08",
+      "title": "ホテルに女性遺体 死因は失血死",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599530?source=rss",
+      "publishedAt": "2026-10-20T21:08:17.000Z",
+      "xQuery": "ホテルに女性遺体 死因は失血死"
     }
   ]
 };
