@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-20T08:47:07.033Z",
+  "updatedAt": "2026-10-20T09:19:21.828Z",
   "items": [
+    {
+      "time": "18:09",
+      "title": "21日 東京・大阪などで真夏日予想",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599492?source=rss",
+      "publishedAt": "2026-10-20T09:09:36.000Z",
+      "xQuery": "21日 東京・大阪などで真夏日予想"
+    },
     {
       "time": "17:09",
       "title": "中道 政党交付金5.8億円受け取り",
@@ -16,14 +24,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6599468?source=rss",
       "publishedAt": "2026-10-20T05:24:58.000Z",
       "xQuery": "露の道新記者拘束 米国務省が非難"
-    },
-    {
-      "time": "15:32",
-      "title": "消費減税法案 衆院で審議入り",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599472?source=rss",
-      "publishedAt": "2026-10-20T06:32:40.000Z",
-      "xQuery": "消費減税法案 衆院で審議入り"
     },
     {
       "time": "16:52",
