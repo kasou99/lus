@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-20T23:14:47.100Z",
+  "updatedAt": "2026-10-20T23:36:46.263Z",
   "items": [
     {
       "time": "07:50",
@@ -10,6 +10,14 @@ window.LUS_X_NEWS = {
       "xQuery": "大阪・名古屋・東京 30℃以上予想"
     },
     {
+      "time": "07:57",
+      "title": "支援金の対象者の案 首相が答弁",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599541?source=rss",
+      "publishedAt": "2026-10-20T22:57:20.000Z",
+      "xQuery": "支援金の対象者の案 首相が答弁"
+    },
+    {
       "time": "06:53",
       "title": "22府県の警察 個人情報流出の恐れ",
       "source": "Yahoo!ニュース",
@@ -18,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "22府県の警察 個人情報流出の恐れ"
     },
     {
-      "time": "23:56",
-      "title": "武部農相 献金巡り公選法違反疑い",
+      "time": "08:22",
+      "title": "SpaceXとテスラ 経営統合を検討",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599528?source=rss",
-      "publishedAt": "2026-10-20T14:56:15.000Z",
-      "xQuery": "武部農相 献金巡り公選法違反疑い"
+      "url": "https://news.yahoo.co.jp/pickup/6599543?source=rss",
+      "publishedAt": "2026-10-20T23:22:38.000Z",
+      "xQuery": "SpaceXとテスラ 経営統合を検討"
     },
     {
       "time": "07:39",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6599538?source=rss",
       "publishedAt": "2026-10-20T22:39:29.000Z",
       "xQuery": "車が歩道に突っ込む 歩行者が死亡"
-    },
-    {
-      "time": "06:08",
-      "title": "ホテルに女性遺体 死因は失血死",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599530?source=rss",
-      "publishedAt": "2026-10-20T21:08:17.000Z",
-      "xQuery": "ホテルに女性遺体 死因は失血死"
     }
   ]
 };
