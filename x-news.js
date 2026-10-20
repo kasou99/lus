@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-20T21:39:08.481Z",
+  "updatedAt": "2026-10-20T22:15:55.202Z",
   "items": [
     {
       "time": "23:45",
@@ -8,6 +8,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6599527?source=rss",
       "publishedAt": "2026-10-20T14:45:20.000Z",
       "xQuery": "高市政権1年 高支持率維持の背景"
+    },
+    {
+      "time": "06:53",
+      "title": "22府県の警察 個人情報流出の恐れ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599535?source=rss",
+      "publishedAt": "2026-10-20T21:53:49.000Z",
+      "xQuery": "22府県の警察 個人情報流出の恐れ"
     },
     {
       "time": "22:29",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6599528?source=rss",
       "publishedAt": "2026-10-20T14:56:15.000Z",
       "xQuery": "武部農相 献金巡り公選法違反疑い"
-    },
-    {
-      "time": "21:57",
-      "title": "フラット35 全国で不適正利用64件",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599514?source=rss",
-      "publishedAt": "2026-10-20T12:57:14.000Z",
-      "xQuery": "フラット35 全国で不適正利用64件"
     }
   ]
 };

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T21:39:07.586Z",
+  "updatedAt": "2026-10-20T22:15:54.270Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -10,11 +10,25 @@
         "publishedAt": "2026-10-20T05:48:30.000Z"
       },
       {
+        "time": "06:00",
+        "title": "ITと無縁の町工場から始まるサプライチェーンクライシス_経済小説風実験トピックス",
+        "source": "NewsPicks",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5RQVlTd2xSNFNZNkd0MWtGTWk5TDd0M3NNLTJtdHJMU2w0VWxDdWswUlFJUDNIWjlVczkzeEhJeWsyMTFmbGRsdHB4QmZrc2VkRGZSaFlB?oc=5",
+        "publishedAt": "2026-10-20T21:00:02.000Z"
+      },
+      {
         "time": "14:38",
         "title": "ＮＴＮ－続落 工作機械主軸用センサー内蔵軸受ユニットの受注活動開始へ(トレーダーズ・ウェブ)",
         "source": "Yahoo!ファイナンス",
         "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORm0tV3M2MURrcjlLWFdVNWFTWjA1alVKcUxlcnVqMWN3dWhiVTlZSHZIajhHWlVUMmpnT0lwRWstdndYVXRVc3ZMM0drYVRZOVd5Y3hocmRLbjRuT2hNTWVtR1IxMUEwd1ItUkwycHNXdFRiemhiSE1sYW01c0UxOG5PekF6MGs?oc=5",
         "publishedAt": "2026-10-20T05:38:02.000Z"
+      },
+      {
+        "time": "05:00",
+        "title": "JIMTOF2026インタビュー（21）ファナック社長・山口賢治氏",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0wY2tSOUlfcTlXaWVaWlY1Mk5hWUZCeWZPbkNidm1MQTU3TmdOMmo5RjBYR040Sy1feC1xUlpoQTZXUzN1aVpzMFdoQy1yOHhMUlBaTjZ3Nm4?oc=5",
+        "publishedAt": "2026-10-20T20:00:00.000Z"
       },
       {
         "time": "12:31",
@@ -36,20 +50,6 @@
         "source": "山陽新聞",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TOThSZjN5eER3TlU3MHo0RE9lLXdpRFVod2Mtams1bFZvcjBKQnpvSFYxMjJPYm5HZVd5RlhtcHlTN3R2OGdVLUs5THBCQVVCWEE?oc=5",
         "publishedAt": "2026-10-20T08:35:29.000Z"
-      },
-      {
-        "time": "09:04",
-        "title": "浜岡原子力発電所 275kV開閉所（放射線管理区域外）における制御盤内での火災の原因と対策",
-        "source": "中部電力",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE85dl8zWlFXNXp4ZFpDd0lXSDVlX2J1WkVTTkdOeThUdzR0aHVMWmNSWGk2SWRuNVN0UXdrMGJGVmcyTWxUdlE4VGdJaHZjQ2RNUm9veU8zQ1laejNOcVlzTU44V3lUOHVUR2c?oc=5",
-        "publishedAt": "2026-10-20T00:04:44.000Z"
-      },
-      {
-        "time": "05:00",
-        "title": "ブラザー工業 ５軸加工機の提案注力 展示会で４機種出品 多品種少量生産など対応",
-        "source": "ｄメニューニュース",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZGViU2p2M1JYWm9US1FNeUxPcTlsYndtajYzYVJoNmJvVU9FcUNsZ3BpYUNCcXJYOWNKejVZb1dCUWlEVmQxUm44c1p3S0FaZXlUQkZKaldiRzBDbE1kcXQ1ZnYxZ3o2Xzc2UmV6SnFqQjkzd2tQTjV3RldMUG1pdGZEZk5Fdm1KaHVNYjR3X0NpR0XSAZMBQVVfeXFMTmRlYlNqdjNSWFpvVEtRTXlMT3E5bGJ3bWo2M2FSaDZib1VPRXFDbGdwaWFDQnFyWDljSno1WW9XQlFpRFZkMVJuOHNad0tBWmV5VEJGSmpXYkcwQ2xNZHF0NWZ2MWd6Nl83NlJlekpxakI5M3drUE41d0ZXTFBtaXRmRGZORXZtSmh1TWI0d19DaUdF?oc=5",
-        "publishedAt": "2026-10-20T20:00:00.000Z"
       },
       {
         "time": "11:03",
