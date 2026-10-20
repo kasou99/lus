@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-20T11:16:56.173Z",
+  "updatedAt": "2026-10-20T11:40:12.648Z",
   "items": [
     {
       "time": "18:09",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "米国防長官 ネタニヤフ首相と会談"
     },
     {
-      "time": "19:27",
-      "title": "小沢一郎氏「野党は泥船」と批判",
+      "time": "20:10",
+      "title": "ソニーFGへの立ち入り検査検討",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599500?source=rss",
-      "publishedAt": "2026-10-20T10:27:38.000Z",
-      "xQuery": "小沢一郎氏「野党は泥船」と批判"
+      "url": "https://news.yahoo.co.jp/pickup/6599504?source=rss",
+      "publishedAt": "2026-10-20T11:10:58.000Z",
+      "xQuery": "ソニーFGへの立ち入り検査検討"
     },
     {
       "time": "19:52",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "ふるさとチョイス 445万件が流出"
     },
     {
-      "time": "18:24",
-      "title": "旅客機内で目撃の「小動物」発見",
+      "time": "20:25",
+      "title": "2人死亡「宝木争奪戦」来年は中止",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599494?source=rss",
-      "publishedAt": "2026-10-20T09:24:43.000Z",
-      "xQuery": "旅客機内で目撃の「小動物」発見"
+      "url": "https://news.yahoo.co.jp/pickup/6599505?source=rss",
+      "publishedAt": "2026-10-20T11:25:14.000Z",
+      "xQuery": "2人死亡「宝木争奪戦」来年は中止"
     }
   ]
 };
