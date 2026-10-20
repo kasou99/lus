@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-20T02:23:32.897Z",
+  "updatedAt": "2026-10-20T02:46:35.670Z",
   "items": [
     {
       "time": "09:13",
@@ -8,6 +8,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6599427?source=rss",
       "publishedAt": "2026-10-20T00:13:46.000Z",
       "xQuery": "自維連立合意1年 関係深化は途上"
+    },
+    {
+      "time": "09:42",
+      "title": "トランプ氏支持率31% ロイター",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599430?source=rss",
+      "publishedAt": "2026-10-20T00:42:12.000Z",
+      "xQuery": "トランプ氏支持率31% ロイター"
     },
     {
       "time": "08:31",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6599441?source=rss",
       "publishedAt": "2026-10-20T02:09:05.000Z",
       "xQuery": "大阪地裁前で男性刺される 男逮捕"
-    },
-    {
-      "time": "09:00",
-      "title": "増える訪日客 ポイ捨て被害深刻",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599425?source=rss",
-      "publishedAt": "2026-10-20T00:00:04.000Z",
-      "xQuery": "増える訪日客 ポイ捨て被害深刻"
     }
   ]
 };
