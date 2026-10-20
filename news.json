@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T09:19:21.069Z",
+  "updatedAt": "2026-10-20T09:43:17.263Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -89,11 +89,11 @@
         "publishedAt": "2026-10-19T22:19:09.000Z"
       },
       {
-        "time": "16:10",
-        "title": "米国防長官 ネタニヤフ氏と会談か",
+        "time": "18:31",
+        "title": "米国防長官 ネタニヤフ首相と会談",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599473?source=rss",
-        "publishedAt": "2026-10-20T07:10:03.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6599496?source=rss",
+        "publishedAt": "2026-10-20T09:31:37.000Z"
       },
       {
         "time": "23:55",
@@ -140,11 +140,11 @@
         "publishedAt": "2026-10-19T09:36:29.000Z"
       },
       {
-        "time": "14:18",
-        "title": "脱ホワイトカラー 活かせる強みは",
+        "time": "18:24",
+        "title": "旅客機内で目撃の「小動物」発見",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599467?source=rss",
-        "publishedAt": "2026-10-20T05:18:55.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6599494?source=rss",
+        "publishedAt": "2026-10-20T09:24:43.000Z"
       }
     ],
     "localHeadlines": [
@@ -154,6 +154,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6599454?source=rss",
         "publishedAt": "2026-10-20T02:51:59.000Z"
+      },
+      {
+        "time": "18:36",
+        "title": "6人死亡事故判決 遺族複雑な思い",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6599497?source=rss",
+        "publishedAt": "2026-10-20T09:36:43.000Z"
       },
       {
         "time": "16:15",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6599459?source=rss",
         "publishedAt": "2026-10-20T03:29:08.000Z"
-      },
-      {
-        "time": "08:05",
-        "title": "スイミングスクール 80代溺れ搬送",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599420?source=rss",
-        "publishedAt": "2026-10-19T23:05:48.000Z"
       }
     ],
     "subsidyHeadlines": [

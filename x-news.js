@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-20T09:19:21.828Z",
+  "updatedAt": "2026-10-20T09:43:18.149Z",
   "items": [
     {
       "time": "18:09",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "露の道新記者拘束 米国務省が非難"
     },
     {
+      "time": "18:24",
+      "title": "旅客機内で目撃の「小動物」発見",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599494?source=rss",
+      "publishedAt": "2026-10-20T09:24:43.000Z",
+      "xQuery": "旅客機内で目撃の「小動物」発見"
+    },
+    {
       "time": "16:52",
       "title": "VW 給与上昇30年まで凍結検討",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6599478?source=rss",
       "publishedAt": "2026-10-20T07:52:07.000Z",
       "xQuery": "VW 給与上昇30年まで凍結検討"
-    },
-    {
-      "time": "16:15",
-      "title": "ごみ集積所 生後間もない男児遺体",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599474?source=rss",
-      "publishedAt": "2026-10-20T07:15:48.000Z",
-      "xQuery": "ごみ集積所 生後間もない男児遺体"
     }
   ]
 };
