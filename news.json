@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T10:40:40.887Z",
+  "updatedAt": "2026-10-20T11:16:55.166Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -105,6 +105,13 @@
     ],
     "economyHeadlines": [
       {
+        "time": "20:10",
+        "title": "ソニーFGへの立ち入り検査検討",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6599504?source=rss",
+        "publishedAt": "2026-10-20T11:10:58.000Z"
+      },
+      {
         "time": "16:52",
         "title": "VW 給与上昇30年まで凍結検討",
         "source": "Yahoo!ニュース",
@@ -124,13 +131,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6599400?source=rss",
         "publishedAt": "2026-10-19T13:32:39.000Z"
-      },
-      {
-        "time": "22:41",
-        "title": "ユニクロが値上げ 11商品を11月に",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599401?source=rss",
-        "publishedAt": "2026-10-19T13:41:25.000Z"
       },
       {
         "time": "18:36",

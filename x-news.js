@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-20T10:40:41.439Z",
+  "updatedAt": "2026-10-20T11:16:56.173Z",
   "items": [
     {
       "time": "18:09",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "小沢一郎氏「野党は泥船」と批判"
     },
     {
-      "time": "16:52",
-      "title": "VW 給与上昇30年まで凍結検討",
+      "time": "19:52",
+      "title": "ふるさとチョイス 445万件が流出",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599478?source=rss",
-      "publishedAt": "2026-10-20T07:52:07.000Z",
-      "xQuery": "VW 給与上昇30年まで凍結検討"
+      "url": "https://news.yahoo.co.jp/pickup/6599501?source=rss",
+      "publishedAt": "2026-10-20T10:52:44.000Z",
+      "xQuery": "ふるさとチョイス 445万件が流出"
     },
     {
       "time": "18:24",
