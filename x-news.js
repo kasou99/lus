@@ -1,37 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-19T23:39:01.636Z",
+  "updatedAt": "2026-10-20T00:46:19.363Z",
   "items": [
     {
-      "time": "07:19",
-      "title": "トランプ氏 米露中会談に前向き",
+      "time": "09:13",
+      "title": "自維連立合意1年 関係深化は途上",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599417?source=rss",
-      "publishedAt": "2026-10-19T22:19:09.000Z",
-      "xQuery": "トランプ氏 米露中会談に前向き"
+      "url": "https://news.yahoo.co.jp/pickup/6599427?source=rss",
+      "publishedAt": "2026-10-20T00:13:46.000Z",
+      "xQuery": "自維連立合意1年 関係深化は途上"
     },
     {
-      "time": "22:32",
-      "title": "特定技能「給食」受け入れ再開へ",
+      "time": "09:34",
+      "title": "H3の10号機 火星圏の物質採取へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599400?source=rss",
-      "publishedAt": "2026-10-19T13:32:39.000Z",
-      "xQuery": "特定技能「給食」受け入れ再開へ"
+      "url": "https://news.yahoo.co.jp/pickup/6599428?source=rss",
+      "publishedAt": "2026-10-20T00:34:18.000Z",
+      "xQuery": "H3の10号機 火星圏の物質採取へ"
     },
     {
-      "time": "06:20",
-      "title": "H3ロケット10号機 打ち上げ成功",
+      "time": "08:37",
+      "title": "上皇后さま92歳に 穏やかな日々",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599414?source=rss",
-      "publishedAt": "2026-10-19T21:20:36.000Z",
-      "xQuery": "H3ロケット10号機 打ち上げ成功"
-    },
-    {
-      "time": "07:38",
-      "title": "東北道で複数台絡む事故 2人死傷",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599419?source=rss",
-      "publishedAt": "2026-10-19T22:38:09.000Z",
-      "xQuery": "東北道で複数台絡む事故 2人死傷"
+      "url": "https://news.yahoo.co.jp/pickup/6599423?source=rss",
+      "publishedAt": "2026-10-19T23:37:14.000Z",
+      "xQuery": "上皇后さま92歳に 穏やかな日々"
     },
     {
       "time": "08:05",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6599420?source=rss",
       "publishedAt": "2026-10-19T23:05:48.000Z",
       "xQuery": "スイミングスクール 80代溺れ搬送"
+    },
+    {
+      "time": "09:00",
+      "title": "増える訪日客 ポイ捨て被害深刻",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599425?source=rss",
+      "publishedAt": "2026-10-20T00:00:04.000Z",
+      "xQuery": "増える訪日客 ポイ捨て被害深刻"
     }
   ]
 };
