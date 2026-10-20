@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-20T20:41:49.779Z",
+  "updatedAt": "2026-10-20T21:16:29.608Z",
   "items": [
     {
       "time": "23:45",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "6人死亡事故判決 遺族複雑な思い"
     },
     {
-      "time": "23:56",
-      "title": "武部農相 献金巡り公選法違反疑い",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599528?source=rss",
-      "publishedAt": "2026-10-20T14:56:15.000Z",
-      "xQuery": "武部農相 献金巡り公選法違反疑い"
-    },
-    {
       "time": "22:29",
       "title": "台風30号 本州付近に来週接近恐れ",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6599518?source=rss",
       "publishedAt": "2026-10-20T13:29:05.000Z",
       "xQuery": "台風30号 本州付近に来週接近恐れ"
+    },
+    {
+      "time": "23:56",
+      "title": "武部農相 献金巡り公選法違反疑い",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599528?source=rss",
+      "publishedAt": "2026-10-20T14:56:15.000Z",
+      "xQuery": "武部農相 献金巡り公選法違反疑い"
     },
     {
       "time": "22:57",
