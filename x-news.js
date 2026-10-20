@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-20T01:50:03.442Z",
+  "updatedAt": "2026-10-20T02:23:32.897Z",
   "items": [
     {
       "time": "09:13",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "自衛隊車両と車が衝突 1人死亡"
     },
     {
+      "time": "11:09",
+      "title": "大阪地裁前で男性刺される 男逮捕",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599441?source=rss",
+      "publishedAt": "2026-10-20T02:09:05.000Z",
+      "xQuery": "大阪地裁前で男性刺される 男逮捕"
+    },
+    {
       "time": "09:00",
       "title": "増える訪日客 ポイ捨て被害深刻",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6599425?source=rss",
       "publishedAt": "2026-10-20T00:00:04.000Z",
       "xQuery": "増える訪日客 ポイ捨て被害深刻"
-    },
-    {
-      "time": "10:46",
-      "title": "水筒から腐敗臭「ぬめり」の正体",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599440?source=rss",
-      "publishedAt": "2026-10-20T01:46:49.000Z",
-      "xQuery": "水筒から腐敗臭「ぬめり」の正体"
     }
   ]
 };
