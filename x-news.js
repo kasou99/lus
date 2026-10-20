@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-20T09:43:18.149Z",
+  "updatedAt": "2026-10-20T10:15:50.160Z",
   "items": [
     {
       "time": "18:09",
@@ -10,20 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "21日 東京・大阪などで真夏日予想"
     },
     {
-      "time": "17:09",
-      "title": "中道 政党交付金5.8億円受け取り",
+      "time": "18:31",
+      "title": "米国防長官 ネタニヤフ首相と会談",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599479?source=rss",
-      "publishedAt": "2026-10-20T08:09:25.000Z",
-      "xQuery": "中道 政党交付金5.8億円受け取り"
-    },
-    {
-      "time": "14:24",
-      "title": "露の道新記者拘束 米国務省が非難",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599468?source=rss",
-      "publishedAt": "2026-10-20T05:24:58.000Z",
-      "xQuery": "露の道新記者拘束 米国務省が非難"
+      "url": "https://news.yahoo.co.jp/pickup/6599496?source=rss",
+      "publishedAt": "2026-10-20T09:31:37.000Z",
+      "xQuery": "米国防長官 ネタニヤフ首相と会談"
     },
     {
       "time": "18:24",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6599478?source=rss",
       "publishedAt": "2026-10-20T07:52:07.000Z",
       "xQuery": "VW 給与上昇30年まで凍結検討"
+    },
+    {
+      "time": "19:12",
+      "title": "息子が難病と重度障害 母の葛藤",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599499?source=rss",
+      "publishedAt": "2026-10-20T10:12:15.000Z",
+      "xQuery": "息子が難病と重度障害 母の葛藤"
     }
   ]
 };
