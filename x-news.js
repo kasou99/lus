@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-20T10:15:50.160Z",
+  "updatedAt": "2026-10-20T10:40:41.439Z",
   "items": [
     {
       "time": "18:09",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "米国防長官 ネタニヤフ首相と会談"
     },
     {
-      "time": "18:24",
-      "title": "旅客機内で目撃の「小動物」発見",
+      "time": "19:27",
+      "title": "小沢一郎氏「野党は泥船」と批判",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599494?source=rss",
-      "publishedAt": "2026-10-20T09:24:43.000Z",
-      "xQuery": "旅客機内で目撃の「小動物」発見"
+      "url": "https://news.yahoo.co.jp/pickup/6599500?source=rss",
+      "publishedAt": "2026-10-20T10:27:38.000Z",
+      "xQuery": "小沢一郎氏「野党は泥船」と批判"
     },
     {
       "time": "16:52",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "VW 給与上昇30年まで凍結検討"
     },
     {
-      "time": "19:12",
-      "title": "息子が難病と重度障害 母の葛藤",
+      "time": "18:24",
+      "title": "旅客機内で目撃の「小動物」発見",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599499?source=rss",
-      "publishedAt": "2026-10-20T10:12:15.000Z",
-      "xQuery": "息子が難病と重度障害 母の葛藤"
+      "url": "https://news.yahoo.co.jp/pickup/6599494?source=rss",
+      "publishedAt": "2026-10-20T09:24:43.000Z",
+      "xQuery": "旅客機内で目撃の「小動物」発見"
     }
   ]
 };
