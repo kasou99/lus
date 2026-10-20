@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-20T02:46:35.670Z",
+  "updatedAt": "2026-10-20T03:21:02.412Z",
   "items": [
     {
-      "time": "09:13",
-      "title": "自維連立合意1年 関係深化は途上",
+      "time": "11:51",
+      "title": "新名神6人死亡 被告に拘禁7年判決",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599427?source=rss",
-      "publishedAt": "2026-10-20T00:13:46.000Z",
-      "xQuery": "自維連立合意1年 関係深化は途上"
+      "url": "https://news.yahoo.co.jp/pickup/6599454?source=rss",
+      "publishedAt": "2026-10-20T02:51:59.000Z",
+      "xQuery": "新名神6人死亡 被告に拘禁7年判決"
     },
     {
       "time": "09:42",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "トランプ氏支持率31% ロイター"
     },
     {
-      "time": "08:31",
-      "title": "スーチー氏に英国王書簡 親軍政権",
+      "time": "12:13",
+      "title": "東大学長選 文科省異例の検証要求",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599421?source=rss",
-      "publishedAt": "2026-10-19T23:31:03.000Z",
-      "xQuery": "スーチー氏に英国王書簡 親軍政権"
+      "url": "https://news.yahoo.co.jp/pickup/6599456?source=rss",
+      "publishedAt": "2026-10-20T03:13:31.000Z",
+      "xQuery": "東大学長選 文科省異例の検証要求"
     },
     {
       "time": "10:31",

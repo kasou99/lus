@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T02:46:33.367Z",
+  "updatedAt": "2026-10-20T03:21:01.197Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,18 +38,18 @@
         "publishedAt": "2026-10-20T00:00:00.000Z"
       },
       {
-        "time": "05:00",
-        "title": "ゴードーSOL、オークマ製設備と連携 工場可視化システム",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA1TXZ4VzZHSEptcmJIYTQyZ3AzeS10bDZyaV9KTFlNT29JTENsa0E0eXJINTlQdGJRcjRvb1hiVUJLVUNEdTl6U2N2OEZhV042X2wwLW5vUWw?oc=5",
-        "publishedAt": "2026-10-19T20:00:00.000Z"
-      },
-      {
         "time": "10:00",
         "title": "国内初、バリ取りのブラシ突出し調整を自動化「XEBEC CPSオートホルダー」10月26日より発売開始",
         "source": "PR TIMES",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBLRWlCbXpSa3pXYzdHTDFzSHJoalA3Nk1mSGVtRzE1STZONFNjQl9rdDFLODBTaTV2UVl0RWlSZ0N3RVBJVmNGY19oeU5UVktVdl9ZUXVDTnJ3SWQwb2N6LWVSc2s4UmNBOWc?oc=5",
         "publishedAt": "2026-10-20T01:00:02.000Z"
+      },
+      {
+        "time": "05:00",
+        "title": "ゴードーSOL、オークマ製設備と連携 工場可視化システム",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA1TXZ4VzZHSEptcmJIYTQyZ3AzeS10bDZyaV9KTFlNT29JTENsa0E0eXJINTlQdGJRcjRvb1hiVUJLVUNEdTl6U2N2OEZhV042X2wwLW5vUWw?oc=5",
+        "publishedAt": "2026-10-19T20:00:00.000Z"
       },
       {
         "time": "17:05",
@@ -89,21 +89,28 @@
         "publishedAt": "2026-10-19T14:05:17.000Z"
       },
       {
-        "time": "17:39",
-        "title": "仏で抗議デモ 欧州各地に広がり",
+        "time": "11:45",
+        "title": "上田所属リールの公式店 略奪被害",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599367?source=rss",
-        "publishedAt": "2026-10-19T08:39:49.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6599446?source=rss",
+        "publishedAt": "2026-10-20T02:45:25.000Z"
       },
       {
-        "time": "08:31",
-        "title": "スーチー氏に英国王書簡 親軍政権",
+        "time": "11:54",
+        "title": "元OpenAIの被告をサウジが支援か",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599421?source=rss",
-        "publishedAt": "2026-10-19T23:31:03.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6599451?source=rss",
+        "publishedAt": "2026-10-20T02:54:38.000Z"
       }
     ],
     "economyHeadlines": [
+      {
+        "time": "11:46",
+        "title": "モバ充発火で鉄道遅延 増加傾向",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6599444?source=rss",
+        "publishedAt": "2026-10-20T02:46:44.000Z"
+      },
       {
         "time": "22:32",
         "title": "特定技能「給食」受け入れ再開へ",
@@ -133,13 +140,6 @@
         "publishedAt": "2026-10-19T07:24:55.000Z"
       },
       {
-        "time": "20:04",
-        "title": "タイムズカーの画像巡る懸念 回答",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599389?source=rss",
-        "publishedAt": "2026-10-19T11:04:05.000Z"
-      },
-      {
         "time": "23:42",
         "title": "研修にブラインドサッカー 企業増",
         "source": "Yahoo!ニュース",
@@ -148,6 +148,13 @@
       }
     ],
     "localHeadlines": [
+      {
+        "time": "11:51",
+        "title": "新名神6人死亡 被告に拘禁7年判決",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6599454?source=rss",
+        "publishedAt": "2026-10-20T02:51:59.000Z"
+      },
       {
         "time": "11:09",
         "title": "大阪地裁前で男性刺される 男逮捕",
@@ -161,13 +168,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6599437?source=rss",
         "publishedAt": "2026-10-20T01:31:47.000Z"
-      },
-      {
-        "time": "07:38",
-        "title": "東北道で複数台絡む事故 2人死傷",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599419?source=rss",
-        "publishedAt": "2026-10-19T22:38:09.000Z"
       },
       {
         "time": "22:55",
