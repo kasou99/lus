@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-10-20T22:38:09.051Z",
+  "updatedAt": "2026-10-20T23:14:45.477Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "08:00",
+        "title": "自宅の机が、本格「工房」になる。8つの工作機械が1台に——複合機「卓上工房」、10月21日よりMakuakeで先行予約販売を開始",
+        "source": "PR TIMES",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1pc0FRRU9mUHhDX19vSUhfMzc2RUFkLXdoSHQ5VkZYenZmQnR4TVhUaDJLRW9vNDk5M3ZTZUdMYzk4R1FyQ0dkNlNKN1AtbmZLY1ZXQ1pvaWVuMlRKaDhPSWs2QlNLanJsaGc?oc=5",
+        "publishedAt": "2026-10-20T23:00:01.000Z"
+      },
       {
         "time": "14:48",
         "title": "大和駿太郎准教授が「日本機械学会 生産加工・工作機械部門講演会 優秀講演論文表彰」を受賞 | 教職員の受賞 | ニュース",
@@ -50,13 +57,6 @@
         "source": "山陽新聞",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TOThSZjN5eER3TlU3MHo0RE9lLXdpRFVod2Mtams1bFZvcjBKQnpvSFYxMjJPYm5HZVd5RlhtcHlTN3R2OGdVLUs5THBCQVVCWEE?oc=5",
         "publishedAt": "2026-10-20T08:35:29.000Z"
-      },
-      {
-        "time": "11:03",
-        "title": "日本の電気制御盤市場に関する調査で、その規模、市場シェア、収益、および2026年から20",
-        "source": "pando.life",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE95TEJtRUJncHlaaHJ1a0NDQVFGYVA4MXY5Tkh6a05oVXF4RTI4el9RaG5KcWtHMkJycUdZcDVjS3ItbHV3MEg3TVRR?oc=5",
-        "publishedAt": "2026-10-20T02:03:29.000Z"
       }
     ],
     "worldHeadlines": [
@@ -149,18 +149,25 @@
     ],
     "localHeadlines": [
       {
-        "time": "18:36",
-        "title": "6人死亡事故判決 遺族複雑な思い",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599497?source=rss",
-        "publishedAt": "2026-10-20T09:36:43.000Z"
-      },
-      {
         "time": "21:04",
         "title": "「検察なめんなよ」発言 被告説明",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6599510?source=rss",
         "publishedAt": "2026-10-20T12:04:27.000Z"
+      },
+      {
+        "time": "18:19",
+        "title": "靴買ってと言えぬ少女 塾が救いに",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6599488?source=rss",
+        "publishedAt": "2026-10-20T09:19:39.000Z"
+      },
+      {
+        "time": "07:39",
+        "title": "車が歩道に突っ込む 歩行者が死亡",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6599538?source=rss",
+        "publishedAt": "2026-10-20T22:39:29.000Z"
       },
       {
         "time": "06:08",
@@ -175,13 +182,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6599505?source=rss",
         "publishedAt": "2026-10-20T11:25:14.000Z"
-      },
-      {
-        "time": "18:19",
-        "title": "靴買ってと言えぬ少女 塾が救いに",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599488?source=rss",
-        "publishedAt": "2026-10-20T09:19:39.000Z"
       },
       {
         "time": "00:28",

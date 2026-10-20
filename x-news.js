@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-20T22:38:10.052Z",
+  "updatedAt": "2026-10-20T23:14:47.100Z",
   "items": [
     {
-      "time": "23:45",
-      "title": "高市政権1年 高支持率維持の背景",
+      "time": "07:50",
+      "title": "大阪・名古屋・東京 30℃以上予想",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599527?source=rss",
-      "publishedAt": "2026-10-20T14:45:20.000Z",
-      "xQuery": "高市政権1年 高支持率維持の背景"
+      "url": "https://news.yahoo.co.jp/pickup/6599539?source=rss",
+      "publishedAt": "2026-10-20T22:50:56.000Z",
+      "xQuery": "大阪・名古屋・東京 30℃以上予想"
     },
     {
       "time": "06:53",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "22府県の警察 個人情報流出の恐れ"
     },
     {
-      "time": "22:57",
-      "title": "岩井コスモ証券にサイバー攻撃",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599523?source=rss",
-      "publishedAt": "2026-10-20T13:57:57.000Z",
-      "xQuery": "岩井コスモ証券にサイバー攻撃"
-    },
-    {
       "time": "23:56",
       "title": "武部農相 献金巡り公選法違反疑い",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6599528?source=rss",
       "publishedAt": "2026-10-20T14:56:15.000Z",
       "xQuery": "武部農相 献金巡り公選法違反疑い"
+    },
+    {
+      "time": "07:39",
+      "title": "車が歩道に突っ込む 歩行者が死亡",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599538?source=rss",
+      "publishedAt": "2026-10-20T22:39:29.000Z",
+      "xQuery": "車が歩道に突っ込む 歩行者が死亡"
     },
     {
       "time": "06:08",
