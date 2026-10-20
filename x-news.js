@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-20T12:27:00.659Z",
+  "updatedAt": "2026-10-20T12:50:58.466Z",
   "items": [
     {
       "time": "20:34",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "「検察なめんなよ」発言 被告説明"
     },
     {
-      "time": "18:24",
-      "title": "旅客機内で目撃の「小動物」発見",
+      "time": "21:28",
+      "title": "旅客機で発見の小動物 正体はヘビ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599494?source=rss",
-      "publishedAt": "2026-10-20T09:24:43.000Z",
-      "xQuery": "旅客機内で目撃の「小動物」発見"
+      "url": "https://news.yahoo.co.jp/pickup/6599512?source=rss",
+      "publishedAt": "2026-10-20T12:28:51.000Z",
+      "xQuery": "旅客機で発見の小動物 正体はヘビ"
     }
   ]
 };
