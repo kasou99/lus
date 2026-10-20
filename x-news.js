@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-20T01:26:47.388Z",
+  "updatedAt": "2026-10-20T01:50:03.442Z",
   "items": [
     {
       "time": "09:13",
@@ -10,28 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "自維連立合意1年 関係深化は途上"
     },
     {
-      "time": "09:34",
-      "title": "H3の10号機 火星圏の物質採取へ",
+      "time": "08:31",
+      "title": "スーチー氏に英国王書簡 親軍政権",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599428?source=rss",
-      "publishedAt": "2026-10-20T00:34:18.000Z",
-      "xQuery": "H3の10号機 火星圏の物質採取へ"
+      "url": "https://news.yahoo.co.jp/pickup/6599421?source=rss",
+      "publishedAt": "2026-10-19T23:31:03.000Z",
+      "xQuery": "スーチー氏に英国王書簡 親軍政権"
     },
     {
-      "time": "08:37",
-      "title": "上皇后さま92歳に 穏やかな日々",
+      "time": "10:31",
+      "title": "自衛隊車両と車が衝突 1人死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599423?source=rss",
-      "publishedAt": "2026-10-19T23:37:14.000Z",
-      "xQuery": "上皇后さま92歳に 穏やかな日々"
-    },
-    {
-      "time": "08:05",
-      "title": "スイミングスクール 80代溺れ搬送",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599420?source=rss",
-      "publishedAt": "2026-10-19T23:05:48.000Z",
-      "xQuery": "スイミングスクール 80代溺れ搬送"
+      "url": "https://news.yahoo.co.jp/pickup/6599437?source=rss",
+      "publishedAt": "2026-10-20T01:31:47.000Z",
+      "xQuery": "自衛隊車両と車が衝突 1人死亡"
     },
     {
       "time": "09:00",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6599425?source=rss",
       "publishedAt": "2026-10-20T00:00:04.000Z",
       "xQuery": "増える訪日客 ポイ捨て被害深刻"
+    },
+    {
+      "time": "10:46",
+      "title": "水筒から腐敗臭「ぬめり」の正体",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599440?source=rss",
+      "publishedAt": "2026-10-20T01:46:49.000Z",
+      "xQuery": "水筒から腐敗臭「ぬめり」の正体"
     }
   ]
 };
