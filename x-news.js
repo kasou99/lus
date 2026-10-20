@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-20T06:29:38.777Z",
+  "updatedAt": "2026-10-20T06:56:35.118Z",
   "items": [
+    {
+      "time": "15:32",
+      "title": "消費減税法案 衆院で審議入り",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599472?source=rss",
+      "publishedAt": "2026-10-20T06:32:40.000Z",
+      "xQuery": "消費減税法案 衆院で審議入り"
+    },
     {
       "time": "14:06",
       "title": "台風 23-24日頃にかけ先島諸島へ",
@@ -8,14 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6599465?source=rss",
       "publishedAt": "2026-10-20T05:06:46.000Z",
       "xQuery": "台風 23-24日頃にかけ先島諸島へ"
-    },
-    {
-      "time": "14:15",
-      "title": "米政権の汚職問題 中間選挙争点に",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599466?source=rss",
-      "publishedAt": "2026-10-20T05:15:53.000Z",
-      "xQuery": "米政権の汚職問題 中間選挙争点に"
     },
     {
       "time": "11:46",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "モバ充発火で鉄道遅延 増加傾向"
     },
     {
-      "time": "11:54",
-      "title": "元OpenAIの被告をサウジが支援か",
+      "time": "15:25",
+      "title": "学級写真廃止巡り集会 保護者反発",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599451?source=rss",
-      "publishedAt": "2026-10-20T02:54:38.000Z",
-      "xQuery": "元OpenAIの被告をサウジが支援か"
+      "url": "https://news.yahoo.co.jp/pickup/6599471?source=rss",
+      "publishedAt": "2026-10-20T06:25:47.000Z",
+      "xQuery": "学級写真廃止巡り集会 保護者反発"
     },
     {
-      "time": "14:10",
-      "title": "ロボ悪用し性的嫌がらせ 法的責任",
+      "time": "14:18",
+      "title": "脱ホワイトカラー 活かせる強みは",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599449?source=rss",
-      "publishedAt": "2026-10-20T05:10:30.000Z",
-      "xQuery": "ロボ悪用し性的嫌がらせ 法的責任"
+      "url": "https://news.yahoo.co.jp/pickup/6599467?source=rss",
+      "publishedAt": "2026-10-20T05:18:55.000Z",
+      "xQuery": "脱ホワイトカラー 活かせる強みは"
     }
   ]
 };
