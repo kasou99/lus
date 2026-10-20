@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T15:17:14.924Z",
+  "updatedAt": "2026-10-20T15:41:09.421Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,13 +38,6 @@
         "publishedAt": "2026-10-20T00:04:44.000Z"
       },
       {
-        "time": "17:35",
-        "title": "電線の端材でストラップ制作 Ｍ．Ｓ．Ｅ．が商品化",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TOThSZjN5eER3TlU3MHo0RE9lLXdpRFVod2Mtams1bFZvcjBKQnpvSFYxMjJPYm5HZVd5RlhtcHlTN3R2OGdVLUs5THBCQVVCWEE?oc=5",
-        "publishedAt": "2026-10-20T08:35:29.000Z"
-      },
-      {
         "time": "11:03",
         "title": "日本の電気制御盤市場に関する調査で、その規模、市場シェア、収益、および2026年から20",
         "source": "pando.life",
@@ -57,6 +50,13 @@
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE12WEVJN1RCSGpkMUZ4UDZXSGZuWE9hZUpxVUw1WGlWNHZfaW1XQ0RXOW81WU9VUTNwZmJXMXRQUlZvTkdSMHFNazAwSWE3UmNVM3hiTDFCMThIWjJIZGt6WFVDTmQ5clVVQzRNdTY0U3lVZ3RxV05pTXZkSQ?oc=5",
         "publishedAt": "2026-10-19T20:00:00.000Z"
+      },
+      {
+        "time": "09:00",
+        "title": "【JIMTOF 2026出展のお知らせ】HIT、ダイナミックツール株式会社のブースにて超音波加工モジュールと先端材料の加工事例を紹介",
+        "source": "valuepress",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE95dWRxcnpoM2dIbHVWRTJWQ1NUNnpWbVFhQ0RrOUdaWC1qbGJrSGJsbmlsQi1rTHNjNzZlSU91cmdnTHk3Y1h0OU11S0JySms2RWZYbXRLNWc2WVk?oc=5",
+        "publishedAt": "2026-10-20T00:00:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -177,18 +177,18 @@
         "publishedAt": "2026-10-20T11:25:14.000Z"
       },
       {
-        "time": "15:25",
-        "title": "学級写真廃止巡り集会 保護者反発",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599471?source=rss",
-        "publishedAt": "2026-10-20T06:25:47.000Z"
-      },
-      {
         "time": "19:54",
         "title": "書類送検の中村小三郎さん 不起訴",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6599502?source=rss",
         "publishedAt": "2026-10-20T10:54:35.000Z"
+      },
+      {
+        "time": "00:28",
+        "title": "GSで灯油にガソリン混入か 釧路",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6599529?source=rss",
+        "publishedAt": "2026-10-20T15:28:22.000Z"
       }
     ],
     "subsidyHeadlines": [
