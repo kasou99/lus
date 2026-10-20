@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-20T21:16:29.608Z",
+  "updatedAt": "2026-10-20T21:39:08.481Z",
   "items": [
     {
       "time": "23:45",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "高市政権1年 高支持率維持の背景"
     },
     {
-      "time": "18:36",
-      "title": "6人死亡事故判決 遺族複雑な思い",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599497?source=rss",
-      "publishedAt": "2026-10-20T09:36:43.000Z",
-      "xQuery": "6人死亡事故判決 遺族複雑な思い"
-    },
-    {
       "time": "22:29",
       "title": "台風30号 本州付近に来週接近恐れ",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6599518?source=rss",
       "publishedAt": "2026-10-20T13:29:05.000Z",
       "xQuery": "台風30号 本州付近に来週接近恐れ"
+    },
+    {
+      "time": "22:57",
+      "title": "岩井コスモ証券にサイバー攻撃",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599523?source=rss",
+      "publishedAt": "2026-10-20T13:57:57.000Z",
+      "xQuery": "岩井コスモ証券にサイバー攻撃"
     },
     {
       "time": "23:56",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "武部農相 献金巡り公選法違反疑い"
     },
     {
-      "time": "22:57",
-      "title": "岩井コスモ証券にサイバー攻撃",
+      "time": "21:57",
+      "title": "フラット35 全国で不適正利用64件",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599523?source=rss",
-      "publishedAt": "2026-10-20T13:57:57.000Z",
-      "xQuery": "岩井コスモ証券にサイバー攻撃"
+      "url": "https://news.yahoo.co.jp/pickup/6599514?source=rss",
+      "publishedAt": "2026-10-20T12:57:14.000Z",
+      "xQuery": "フラット35 全国で不適正利用64件"
     }
   ]
 };
