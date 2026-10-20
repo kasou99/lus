@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-20T13:18:50.142Z",
+  "updatedAt": "2026-10-20T13:42:46.107Z",
   "items": [
     {
       "time": "20:34",
@@ -10,36 +10,36 @@ window.LUS_X_NEWS = {
       "xQuery": "民主改革の会 1人年4万円給付案"
     },
     {
-      "time": "20:10",
-      "title": "ソニーFGへの立ち入り検査検討",
+      "time": "18:36",
+      "title": "6人死亡事故判決 遺族複雑な思い",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599504?source=rss",
-      "publishedAt": "2026-10-20T11:10:58.000Z",
-      "xQuery": "ソニーFGへの立ち入り検査検討"
+      "url": "https://news.yahoo.co.jp/pickup/6599497?source=rss",
+      "publishedAt": "2026-10-20T09:36:43.000Z",
+      "xQuery": "6人死亡事故判決 遺族複雑な思い"
     },
     {
-      "time": "20:25",
-      "title": "2人死亡「宝木争奪戦」来年は中止",
+      "time": "22:29",
+      "title": "台風30号 本州付近に来週接近恐れ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599505?source=rss",
-      "publishedAt": "2026-10-20T11:25:14.000Z",
-      "xQuery": "2人死亡「宝木争奪戦」来年は中止"
+      "url": "https://news.yahoo.co.jp/pickup/6599518?source=rss",
+      "publishedAt": "2026-10-20T13:29:05.000Z",
+      "xQuery": "台風30号 本州付近に来週接近恐れ"
     },
     {
-      "time": "21:04",
-      "title": "「検察なめんなよ」発言 被告説明",
+      "time": "21:57",
+      "title": "フラット35 全国で不適正利用64件",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599510?source=rss",
-      "publishedAt": "2026-10-20T12:04:27.000Z",
-      "xQuery": "「検察なめんなよ」発言 被告説明"
+      "url": "https://news.yahoo.co.jp/pickup/6599514?source=rss",
+      "publishedAt": "2026-10-20T12:57:14.000Z",
+      "xQuery": "フラット35 全国で不適正利用64件"
     },
     {
-      "time": "21:28",
-      "title": "旅客機で発見の小動物 正体はヘビ",
+      "time": "22:26",
+      "title": "墓石6.7トン不法投棄疑い 2人逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599512?source=rss",
-      "publishedAt": "2026-10-20T12:28:51.000Z",
-      "xQuery": "旅客機で発見の小動物 正体はヘビ"
+      "url": "https://news.yahoo.co.jp/pickup/6599516?source=rss",
+      "publishedAt": "2026-10-20T13:26:08.000Z",
+      "xQuery": "墓石6.7トン不法投棄疑い 2人逮捕"
     }
   ]
 };

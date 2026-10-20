@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T13:18:49.433Z",
+  "updatedAt": "2026-10-20T13:42:45.458Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -177,18 +177,18 @@
         "publishedAt": "2026-10-20T11:25:14.000Z"
       },
       {
-        "time": "16:15",
-        "title": "ごみ集積所 生後間もない男児遺体",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599474?source=rss",
-        "publishedAt": "2026-10-20T07:15:48.000Z"
-      },
-      {
         "time": "15:25",
         "title": "学級写真廃止巡り集会 保護者反発",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6599471?source=rss",
         "publishedAt": "2026-10-20T06:25:47.000Z"
+      },
+      {
+        "time": "19:54",
+        "title": "書類送検の中村小三郎さん 不起訴",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6599502?source=rss",
+        "publishedAt": "2026-10-20T10:54:35.000Z"
       }
     ],
     "subsidyHeadlines": [
