@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-20T03:21:02.412Z",
+  "updatedAt": "2026-10-20T03:46:03.987Z",
   "items": [
     {
       "time": "11:51",
@@ -8,14 +8,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6599454?source=rss",
       "publishedAt": "2026-10-20T02:51:59.000Z",
       "xQuery": "新名神6人死亡 被告に拘禁7年判決"
-    },
-    {
-      "time": "09:42",
-      "title": "トランプ氏支持率31% ロイター",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599430?source=rss",
-      "publishedAt": "2026-10-20T00:42:12.000Z",
-      "xQuery": "トランプ氏支持率31% ロイター"
     },
     {
       "time": "12:13",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "自衛隊車両と車が衝突 1人死亡"
     },
     {
-      "time": "11:09",
-      "title": "大阪地裁前で男性刺される 男逮捕",
+      "time": "12:29",
+      "title": "栃木県警全職員の個人情報流出か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599441?source=rss",
-      "publishedAt": "2026-10-20T02:09:05.000Z",
-      "xQuery": "大阪地裁前で男性刺される 男逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6599459?source=rss",
+      "publishedAt": "2026-10-20T03:29:08.000Z",
+      "xQuery": "栃木県警全職員の個人情報流出か"
+    },
+    {
+      "time": "11:45",
+      "title": "上田所属リールの公式店 略奪被害",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599446?source=rss",
+      "publishedAt": "2026-10-20T02:45:25.000Z",
+      "xQuery": "上田所属リールの公式店 略奪被害"
     }
   ]
 };

@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-10-20T03:21:01.197Z",
+  "updatedAt": "2026-10-20T03:46:03.062Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "12:31",
+        "title": "NTN、「工作機械主軸用センサー内蔵軸受ユニット」の受注活動を開始",
+        "source": "日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ocjFIN0s5LVloV2tLMTItaXM2V3ZPVjJmaW51TGRISFBHSk41TTVOSHRNQWY0Z2o2eFhxbUV5Tmp4QUZsS1JXc1Y5WTlwQ2lxeEZ6RWUtUVNDeWxQV096Q29rZllwWkcyWGJOLQ?oc=5",
+        "publishedAt": "2026-10-20T03:31:28.000Z"
+      },
       {
         "time": "10:15",
         "title": "NSK、工作機械向け新サービス2種を発表…スピンドル設計効率化と軸受情報管理をデジタル化",
@@ -50,13 +57,6 @@
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA1TXZ4VzZHSEptcmJIYTQyZ3AzeS10bDZyaV9KTFlNT29JTENsa0E0eXJINTlQdGJRcjRvb1hiVUJLVUNEdTl6U2N2OEZhV042X2wwLW5vUWw?oc=5",
         "publishedAt": "2026-10-19T20:00:00.000Z"
-      },
-      {
-        "time": "17:05",
-        "title": "ヤマザキマザックが実装へ 工作機械にフィジカルAI ABEJAと業務提携（日刊産業新聞）",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1CMTNIN3l1MVc2RW92Z1h0RFJIclFHRFl5Vjk0anlHeUcyLWJJS2IzLXNlVWFZbDZNd29xVFdicVFRRGVkcUxIWnBmWlA5WUdJeXU1dEhXR1BfNkxGZHR0S3YyYlBGVmZhUlEzS3lVNUg5Y2NWN2lud2RLcWQyTjg?oc=5",
-        "publishedAt": "2026-10-19T08:05:18.000Z"
       }
     ],
     "worldHeadlines": [
@@ -163,18 +163,18 @@
         "publishedAt": "2026-10-20T02:09:05.000Z"
       },
       {
+        "time": "12:29",
+        "title": "栃木県警全職員の個人情報流出か",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6599459?source=rss",
+        "publishedAt": "2026-10-20T03:29:08.000Z"
+      },
+      {
         "time": "10:31",
         "title": "自衛隊車両と車が衝突 1人死亡",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6599437?source=rss",
         "publishedAt": "2026-10-20T01:31:47.000Z"
-      },
-      {
-        "time": "22:55",
-        "title": "部屋に遺体 包丁所持疑いで女逮捕",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599402?source=rss",
-        "publishedAt": "2026-10-19T13:55:38.000Z"
       },
       {
         "time": "08:05",
