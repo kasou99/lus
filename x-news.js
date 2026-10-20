@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-20T04:20:03.321Z",
+  "updatedAt": "2026-10-20T04:43:47.146Z",
   "items": [
     {
       "time": "11:51",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "東大学長選 文科省異例の検証要求"
     },
     {
-      "time": "10:31",
-      "title": "自衛隊車両と車が衝突 1人死亡",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599437?source=rss",
-      "publishedAt": "2026-10-20T01:31:47.000Z",
-      "xQuery": "自衛隊車両と車が衝突 1人死亡"
-    },
-    {
       "time": "12:29",
       "title": "栃木県警全職員の個人情報流出か",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6599459?source=rss",
       "publishedAt": "2026-10-20T03:29:08.000Z",
       "xQuery": "栃木県警全職員の個人情報流出か"
+    },
+    {
+      "time": "13:22",
+      "title": "80社サイバー攻撃 中国語AI悪用か",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599460?source=rss",
+      "publishedAt": "2026-10-20T04:22:02.000Z",
+      "xQuery": "80社サイバー攻撃 中国語AI悪用か"
     },
     {
       "time": "10:33",
