@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-20T08:23:48.680Z",
+  "updatedAt": "2026-10-20T08:47:07.033Z",
   "items": [
     {
-      "time": "15:32",
-      "title": "消費減税法案 衆院で審議入り",
+      "time": "17:09",
+      "title": "中道 政党交付金5.8億円受け取り",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599472?source=rss",
-      "publishedAt": "2026-10-20T06:32:40.000Z",
-      "xQuery": "消費減税法案 衆院で審議入り"
+      "url": "https://news.yahoo.co.jp/pickup/6599479?source=rss",
+      "publishedAt": "2026-10-20T08:09:25.000Z",
+      "xQuery": "中道 政党交付金5.8億円受け取り"
     },
     {
       "time": "14:24",
@@ -18,20 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "露の道新記者拘束 米国務省が非難"
     },
     {
-      "time": "17:09",
-      "title": "中道 政党交付金5.8億円受け取り",
+      "time": "15:32",
+      "title": "消費減税法案 衆院で審議入り",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599479?source=rss",
-      "publishedAt": "2026-10-20T08:09:25.000Z",
-      "xQuery": "中道 政党交付金5.8億円受け取り"
-    },
-    {
-      "time": "16:19",
-      "title": "「異常分娩」の用語を見直しへ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599475?source=rss",
-      "publishedAt": "2026-10-20T07:19:33.000Z",
-      "xQuery": "「異常分娩」の用語を見直しへ"
+      "url": "https://news.yahoo.co.jp/pickup/6599472?source=rss",
+      "publishedAt": "2026-10-20T06:32:40.000Z",
+      "xQuery": "消費減税法案 衆院で審議入り"
     },
     {
       "time": "16:52",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6599478?source=rss",
       "publishedAt": "2026-10-20T07:52:07.000Z",
       "xQuery": "VW 給与上昇30年まで凍結検討"
+    },
+    {
+      "time": "16:15",
+      "title": "ごみ集積所 生後間もない男児遺体",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599474?source=rss",
+      "publishedAt": "2026-10-20T07:15:48.000Z",
+      "xQuery": "ごみ集積所 生後間もない男児遺体"
     }
   ]
 };
