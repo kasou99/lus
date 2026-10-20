@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-20T03:46:03.987Z",
+  "updatedAt": "2026-10-20T04:20:03.321Z",
   "items": [
     {
       "time": "11:51",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "栃木県警全職員の個人情報流出か"
     },
     {
-      "time": "11:45",
-      "title": "上田所属リールの公式店 略奪被害",
+      "time": "10:33",
+      "title": "teppayサービス開始 機能や特徴",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599446?source=rss",
-      "publishedAt": "2026-10-20T02:45:25.000Z",
-      "xQuery": "上田所属リールの公式店 略奪被害"
+      "url": "https://news.yahoo.co.jp/pickup/6599438?source=rss",
+      "publishedAt": "2026-10-20T01:33:39.000Z",
+      "xQuery": "teppayサービス開始 機能や特徴"
     }
   ]
 };
