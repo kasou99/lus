@@ -1,6 +1,22 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-21T10:42:02.792Z",
+  "updatedAt": "2026-10-21T11:16:38.842Z",
   "items": [
+    {
+      "time": "19:56",
+      "title": "秋田県・子吉川に氾濫特別警報",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599614?source=rss",
+      "publishedAt": "2026-10-21T10:56:43.000Z",
+      "xQuery": "秋田県・子吉川に氾濫特別警報"
+    },
+    {
+      "time": "20:08",
+      "title": "秋田・子吉川に特別警報 最新情報",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599615?source=rss",
+      "publishedAt": "2026-10-21T11:08:17.000Z",
+      "xQuery": "秋田・子吉川に特別警報 最新情報"
+    },
     {
       "time": "18:47",
       "title": "武部農相に選挙運動員買収疑惑",
@@ -24,22 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6599611?source=rss",
       "publishedAt": "2026-10-21T10:11:12.000Z",
       "xQuery": "不出馬表明の鳥取知事 会見で涙"
-    },
-    {
-      "time": "17:35",
-      "title": "養子女性死亡させた疑い 女を逮捕",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599595?source=rss",
-      "publishedAt": "2026-10-21T08:35:16.000Z",
-      "xQuery": "養子女性死亡させた疑い 女を逮捕"
-    },
-    {
-      "time": "17:13",
-      "title": "八田與一容疑者 警察が海を捜索",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599593?source=rss",
-      "publishedAt": "2026-10-21T08:13:35.000Z",
-      "xQuery": "八田與一容疑者 警察が海を捜索"
     }
   ]
 };
