@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-10-21T03:46:01.217Z",
+  "updatedAt": "2026-10-21T04:20:56.806Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "13:04",
+        "title": "三菱電機－3日ぶり反落 ヒューマノイドとCNC工作機械が連携する加工システムを開発(トレーダーズ・ウェブ)",
+        "source": "Yahoo!ファイナンス",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZlRyVmtQUUhMdGktUGtKZTRTUVBQZVhEOGl5OXp1dm5TV2RISUVyVmVHbUVSejNuV1UwM04zYlBZSWdScEQtVXB2UXpMdlFHSGVTY1NOM3BIRVEtQW44RnZWcUdWaW1kTVdDb1JDajlzbFMwakw5bWVNQUxqWWNTd3NiSmpGZFk?oc=5",
+        "publishedAt": "2026-10-21T04:04:01.000Z"
+      },
       {
         "time": "07:45",
         "title": "工作機械の不具合対応を生成AIが支援、DMG森精機が新サービス",
@@ -43,13 +50,6 @@
         "source": "Yahoo!ファイナンス",
         "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORm0tV3M2MURrcjlLWFdVNWFTWjA1alVKcUxlcnVqMWN3dWhiVTlZSHZIajhHWlVUMmpnT0lwRWstdndYVXRVc3ZMM0drYVRZOVd5Y3hocmRLbjRuT2hNTWVtR1IxMUEwd1ItUkwycHNXdFRiemhiSE1sYW01c0UxOG5PekF6MGs?oc=5",
         "publishedAt": "2026-10-20T05:38:02.000Z"
-      },
-      {
-        "time": "17:35",
-        "title": "電線の端材でストラップ制作 Ｍ．Ｓ．Ｅ．が商品化",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TOThSZjN5eER3TlU3MHo0RE9lLXdpRFVod2Mtams1bFZvcjBKQnpvSFYxMjJPYm5HZVd5RlhtcHlTN3R2OGdVLUs5THBCQVVCWEE?oc=5",
-        "publishedAt": "2026-10-20T08:35:29.000Z"
       },
       {
         "time": "06:00",
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "13:00",
+        "title": "八潮陥没 遺族が賠償求め県を提訴",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6599573?source=rss",
+        "publishedAt": "2026-10-21T04:00:34.000Z"
+      },
+      {
         "time": "11:35",
         "title": "鳥取県知事 知事選不出馬を表明",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6599554?source=rss",
         "publishedAt": "2026-10-21T01:42:27.000Z"
-      },
-      {
-        "time": "06:08",
-        "title": "ホテルに女性遺体 死因は失血死",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599530?source=rss",
-        "publishedAt": "2026-10-20T21:08:17.000Z"
       }
     ],
     "subsidyHeadlines": [
