@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-21T12:26:07.821Z",
+  "updatedAt": "2026-10-21T12:51:20.660Z",
   "items": [
     {
       "time": "21:10",
@@ -10,6 +10,14 @@ window.LUS_X_NEWS = {
       "xQuery": "秋田・子吉川に特別警報 最新情報"
     },
     {
+      "time": "21:30",
+      "title": "避難＝避難所ではない 垂直避難を",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599620?source=rss",
+      "publishedAt": "2026-10-21T12:30:07.000Z",
+      "xQuery": "避難＝避難所ではない 垂直避難を"
+    },
+    {
       "time": "21:09",
       "title": "秋田の子吉川・石沢川で氾濫発生",
       "source": "Yahoo!ニュース",
@@ -18,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "秋田の子吉川・石沢川で氾濫発生"
     },
     {
-      "time": "20:42",
-      "title": "由利本荘市の一部に緊急安全確保",
+      "time": "21:44",
+      "title": "氾濫巡り気象庁 直ちに安全確保を",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599618?source=rss",
-      "publishedAt": "2026-10-21T11:42:25.000Z",
-      "xQuery": "由利本荘市の一部に緊急安全確保"
+      "url": "https://news.yahoo.co.jp/pickup/6599626?source=rss",
+      "publishedAt": "2026-10-21T12:44:06.000Z",
+      "xQuery": "氾濫巡り気象庁 直ちに安全確保を"
     },
     {
       "time": "20:30",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6599616?source=rss",
       "publishedAt": "2026-10-21T11:30:57.000Z",
       "xQuery": "秋田県 夜遅くにかけ激しい雨恐れ"
-    },
-    {
-      "time": "19:15",
-      "title": "復興相の事務所数 公選法違反疑い",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599609?source=rss",
-      "publishedAt": "2026-10-21T10:15:09.000Z",
-      "xQuery": "復興相の事務所数 公選法違反疑い"
     }
   ]
 };
