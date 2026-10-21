@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T05:17:26.969Z",
+  "updatedAt": "2026-10-21T05:42:36.590Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -39,17 +39,10 @@
       },
       {
         "time": "14:00",
-        "title": "三菱電機、ヒューマノイドと工作機械が連携する加工システム開発、２０３０年実用化へ - kabu-ir.com",
-        "source": "kabu-ir.com",
+        "title": "三菱電機、ヒューマノイドと工作機械が連携する加工システム開発、２０３０年実用化へ - https://kabu-ir.com/",
+        "source": "https://kabu-ir.com/",
         "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9kVGpIOV9oQnNCTUdkLWhMU21CaGtfU3FIaWFlT2tsSmp2a1lhRnc5WVpYcnV5TWl6OVBOVVlSVkpUUzhVckFUTk4xc0M4OW9BenZLOA?oc=5",
         "publishedAt": "2026-10-21T05:00:00.000Z"
-      },
-      {
-        "time": "08:00",
-        "title": "自宅の机が、本格「工房」になる。8つの工作機械が1台に——複合機「卓上工房」、10月21日よりMakuakeで先行予約販売を開始",
-        "source": "PR TIMES",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1pc0FRRU9mUHhDX19vSUhfMzc2RUFkLXdoSHQ5VkZYenZmQnR4TVhUaDJLRW9vNDk5M3ZTZUdMYzk4R1FyQ0dkNlNKN1AtbmZLY1ZXQ1pvaWVuMlRKaDhPSWs2QlNLanJsaGc?oc=5",
-        "publishedAt": "2026-10-20T23:00:01.000Z"
       },
       {
         "time": "13:48",
@@ -57,6 +50,13 @@
         "source": "au Webポータル",
         "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0zdzJxQjhFaTdVeGo5c0FoNmpGYnpBYmJZOUE4Qm9DTmZvM2RnVXU2M3RlRnhiVWlfaF9UMEpBMlUxZC1MSkRUUDRoS2tvUTA0M0xfWUlMbXlvQlhPaTk3MWwxRnlIekFEckc0TGZ3?oc=5",
         "publishedAt": "2026-10-21T04:48:00.000Z"
+      },
+      {
+        "time": "08:00",
+        "title": "自宅の机が、本格「工房」になる。8つの工作機械が1台に——複合機「卓上工房」、10月21日よりMakuakeで先行予約販売を開始",
+        "source": "PR TIMES",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1pc0FRRU9mUHhDX19vSUhfMzc2RUFkLXdoSHQ5VkZYenZmQnR4TVhUaDJLRW9vNDk5M3ZTZUdMYzk4R1FyQ0dkNlNKN1AtbmZLY1ZXQ1pvaWVuMlRKaDhPSWs2QlNLanJsaGc?oc=5",
+        "publishedAt": "2026-10-20T23:00:01.000Z"
       }
     ],
     "worldHeadlines": [

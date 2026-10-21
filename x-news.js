@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-21T05:17:27.787Z",
+  "updatedAt": "2026-10-21T05:42:37.191Z",
   "items": [
     {
-      "time": "12:04",
-      "title": "東京大阪など 各地最も遅い真夏日",
+      "time": "14:15",
+      "title": "電気ガス料金 1～3月分の補助検討",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599568?source=rss",
-      "publishedAt": "2026-10-21T03:04:24.000Z",
-      "xQuery": "東京大阪など 各地最も遅い真夏日"
+      "url": "https://news.yahoo.co.jp/pickup/6599582?source=rss",
+      "publishedAt": "2026-10-21T05:15:19.000Z",
+      "xQuery": "電気ガス料金 1～3月分の補助検討"
     },
     {
       "time": "11:36",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "逮捕後に16歳が死亡 裁判で母訴え"
     },
     {
-      "time": "13:50",
-      "title": "下積み仕事はAIに 若手育成の今後",
+      "time": "14:15",
+      "title": "アジアパラでも国歌取り違え3件",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599563?source=rss",
-      "publishedAt": "2026-10-21T04:50:20.000Z",
-      "xQuery": "下積み仕事はAIに 若手育成の今後"
+      "url": "https://news.yahoo.co.jp/pickup/6599583?source=rss",
+      "publishedAt": "2026-10-21T05:15:40.000Z",
+      "xQuery": "アジアパラでも国歌取り違え3件"
     }
   ]
 };
