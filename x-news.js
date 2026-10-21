@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-21T22:40:12.605Z",
+  "updatedAt": "2026-10-21T23:14:56.248Z",
   "items": [
     {
       "time": "02:38",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "自民 衆院定数の削減幅を31で調整"
     },
     {
-      "time": "22:52",
-      "title": "PHPに重大欠陥 Webの7割で使用",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599637?source=rss",
-      "publishedAt": "2026-10-21T13:52:02.000Z",
-      "xQuery": "PHPに重大欠陥 Webの7割で使用"
-    },
-    {
       "time": "06:57",
       "title": "PHPに欠陥 欧州各国でサイト遮断",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6599650?source=rss",
       "publishedAt": "2026-10-21T21:57:25.000Z",
       "xQuery": "PHPに欠陥 欧州各国でサイト遮断"
+    },
+    {
+      "time": "07:32",
+      "title": "PHPの脆弱性 米OpenAIのAIで発見",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599651?source=rss",
+      "publishedAt": "2026-10-21T22:32:08.000Z",
+      "xQuery": "PHPの脆弱性 米OpenAIのAIで発見"
     },
     {
       "time": "06:22",

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T22:40:11.625Z",
+  "updatedAt": "2026-10-21T23:14:55.254Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -82,13 +82,6 @@
         "publishedAt": "2026-10-20T05:15:53.000Z"
       },
       {
-        "time": "09:42",
-        "title": "トランプ氏支持率31% ロイター",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599430?source=rss",
-        "publishedAt": "2026-10-20T00:42:12.000Z"
-      },
-      {
         "time": "18:31",
         "title": "米国防長官 ネタニヤフ首相と会談",
         "source": "Yahoo!ニュース",
@@ -101,6 +94,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6599650?source=rss",
         "publishedAt": "2026-10-21T21:57:25.000Z"
+      },
+      {
+        "time": "11:54",
+        "title": "元OpenAIの被告をサウジが支援か",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6599451?source=rss",
+        "publishedAt": "2026-10-20T02:54:38.000Z"
       }
     ],
     "economyHeadlines": [
