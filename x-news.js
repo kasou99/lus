@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-21T02:24:47.564Z",
+  "updatedAt": "2026-10-21T02:46:56.355Z",
   "items": [
     {
       "time": "08:37",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "米大統領 ウに露との和平合意促す"
     },
     {
-      "time": "08:22",
-      "title": "SpaceXとテスラ 経営統合を検討",
+      "time": "11:35",
+      "title": "鳥取県知事 知事選不出馬を表明",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599543?source=rss",
-      "publishedAt": "2026-10-20T23:22:38.000Z",
-      "xQuery": "SpaceXとテスラ 経営統合を検討"
+      "url": "https://news.yahoo.co.jp/pickup/6599558?source=rss",
+      "publishedAt": "2026-10-21T02:35:19.000Z",
+      "xQuery": "鳥取県知事 知事選不出馬を表明"
     },
     {
       "time": "10:05",

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T02:24:46.786Z",
+  "updatedAt": "2026-10-21T02:46:55.620Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -10,6 +10,13 @@
         "publishedAt": "2026-10-20T22:45:00.000Z"
       },
       {
+        "time": "11:41",
+        "title": "三菱電機、「フィジカルAIを介してヒューマノイドロボットとCNC工作機械がシームレスに連携する加工システム」を開発",
+        "source": "日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB1ZzBaV0NCQVRKS0lNTzVnQ1hvRWlrNTB5SGRVVjROb255QXNVWmlITUpzQ0p0NVhFTTM0d09SMUREVUdOV2tlZWJVOXFsOFdEOE9SWC1ocUlkOXdPTGxHU0NqT2kxcWVJZHJtMQ?oc=5",
+        "publishedAt": "2026-10-21T02:41:27.000Z"
+      },
+      {
         "time": "10:56",
         "title": "自宅の机が小さな町工場に！ 8種類の工作機械が1台にまとまった「卓上工房」登場",
         "source": "おたくま経済新聞",
@@ -17,11 +24,11 @@
         "publishedAt": "2026-10-21T01:56:00.000Z"
       },
       {
-        "time": "08:00",
+        "time": "09:46",
         "title": "自宅の机が、本格「工房」になる。8つの工作機械が1台に--複合機「卓上工房」、10月21日よりMakuakeで先行予約販売を開始",
-        "source": "産経ニュース",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9lQ2pySnFabkdXVXdFSnU0NFhyQjlzMzEzalgtX2FTSHhkdjVvWEw0bjlzdVhPN3RCZEhSeUtfN0xhQWhnVFp3RWlfUUFSb3BxLS15aVdyTGVZRnlMcThmbkZRelBRajM2QTFiTDF6M2RZdW5JOWp4aWlfOA?oc=5",
-        "publishedAt": "2026-10-20T23:00:00.000Z"
+        "source": "時事ドットコム",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5YdDhSejJWZGRDcnlEQ3NnZDlwVURiZVpYcDhoVURFbF9Xbk94T0trSFVjWXlIZzdBblZrcERFVHZMaU5BeElORjVRN2M4LWRlZk9OSGtMZlRkX05PaVd5NkNXVkwxN0R1VUpv?oc=5",
+        "publishedAt": "2026-10-21T00:46:00.000Z"
       },
       {
         "time": "14:48",
@@ -38,13 +45,6 @@
         "publishedAt": "2026-10-20T05:38:02.000Z"
       },
       {
-        "time": "12:31",
-        "title": "NTN、「工作機械主軸用センサー内蔵軸受ユニット」の受注活動を開始",
-        "source": "日本経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ocjFIN0s5LVloV2tLMTItaXM2V3ZPVjJmaW51TGRISFBHSk41TTVOSHRNQWY0Z2o2eFhxbUV5Tmp4QUZsS1JXc1Y5WTlwQ2lxeEZ6RWUtUVNDeWxQV096Q29rZllwWkcyWGJOLQ?oc=5",
-        "publishedAt": "2026-10-20T03:31:28.000Z"
-      },
-      {
         "time": "17:35",
         "title": "電線の端材でストラップ制作 Ｍ．Ｓ．Ｅ．が商品化",
         "source": "山陽新聞",
@@ -52,11 +52,11 @@
         "publishedAt": "2026-10-20T08:35:29.000Z"
       },
       {
-        "time": "06:00",
-        "title": "ITと無縁の町工場から始まるサプライチェーンクライシス_経済小説風実験トピックス",
-        "source": "NewsPicks",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5RQVlTd2xSNFNZNkd0MWtGTWk5TDd0M3NNLTJtdHJMU2w0VWxDdWswUlFJUDNIWjlVczkzeEhJeWsyMTFmbGRsdHB4QmZrc2VkRGZSaFlB?oc=5",
-        "publishedAt": "2026-10-20T21:00:02.000Z"
+        "time": "12:31",
+        "title": "NTN、「工作機械主軸用センサー内蔵軸受ユニット」の受注活動を開始",
+        "source": "日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ocjFIN0s5LVloV2tLMTItaXM2V3ZPVjJmaW51TGRISFBHSk41TTVOSHRNQWY0Z2o2eFhxbUV5Tmp4QUZsS1JXc1Y5WTlwQ2lxeEZ6RWUtUVNDeWxQV096Q29rZllwWkcyWGJOLQ?oc=5",
+        "publishedAt": "2026-10-20T03:31:28.000Z"
       }
     ],
     "worldHeadlines": [
@@ -149,18 +149,18 @@
     ],
     "localHeadlines": [
       {
+        "time": "11:35",
+        "title": "鳥取県知事 知事選不出馬を表明",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6599558?source=rss",
+        "publishedAt": "2026-10-21T02:35:19.000Z"
+      },
+      {
         "time": "21:04",
         "title": "「検察なめんなよ」発言 被告説明",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6599510?source=rss",
         "publishedAt": "2026-10-20T12:04:27.000Z"
-      },
-      {
-        "time": "18:19",
-        "title": "靴買ってと言えぬ少女 塾が救いに",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599488?source=rss",
-        "publishedAt": "2026-10-20T09:19:39.000Z"
       },
       {
         "time": "10:05",
