@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T01:52:44.978Z",
+  "updatedAt": "2026-10-21T02:24:46.786Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -10,6 +10,13 @@
         "publishedAt": "2026-10-20T22:45:00.000Z"
       },
       {
+        "time": "10:56",
+        "title": "自宅の机が小さな町工場に！ 8種類の工作機械が1台にまとまった「卓上工房」登場",
+        "source": "おたくま経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9jUGdJOG12cC05UTZKeHdoWjNxX3RXNW9LOHhYSndYUnVoMExqM0lQcDJ5Qy1JQzNoWGtVSFhnb0c1WkFYWWwwMTlkdXVmWG8xYnFGR09Nbw?oc=5",
+        "publishedAt": "2026-10-21T01:56:00.000Z"
+      },
+      {
         "time": "08:00",
         "title": "自宅の机が、本格「工房」になる。8つの工作機械が1台に--複合機「卓上工房」、10月21日よりMakuakeで先行予約販売を開始",
         "source": "産経ニュース",
@@ -17,25 +24,11 @@
         "publishedAt": "2026-10-20T23:00:00.000Z"
       },
       {
-        "time": "06:00",
-        "title": "ITと無縁の町工場から始まるサプライチェーンクライシス_経済小説風実験トピックス",
-        "source": "NewsPicks",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5RQVlTd2xSNFNZNkd0MWtGTWk5TDd0M3NNLTJtdHJMU2w0VWxDdWswUlFJUDNIWjlVczkzeEhJeWsyMTFmbGRsdHB4QmZrc2VkRGZSaFlB?oc=5",
-        "publishedAt": "2026-10-20T21:00:02.000Z"
-      },
-      {
         "time": "14:48",
         "title": "大和駿太郎准教授が「日本機械学会 生産加工・工作機械部門講演会 優秀講演論文表彰」を受賞 | 教職員の受賞 | ニュース",
         "source": "東京農工大学",
         "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB1U3FRY3V4VldHOUNfMzBRb29kOGJlSjA5MnR2ZHhGY3pESjUzdmpON2NXVXBEVE9PRG1fZlVUbGFOZXpaSTE4Q25UN2QyMDMwZnBHOGxZczVWbmY0bkFTWjhn?oc=5",
         "publishedAt": "2026-10-20T05:48:30.000Z"
-      },
-      {
-        "time": "05:00",
-        "title": "JIMTOF2026インタビュー（21）ファナック社長・山口賢治氏",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0wY2tSOUlfcTlXaWVaWlY1Mk5hWUZCeWZPbkNidm1MQTU3TmdOMmo5RjBYR040Sy1feC1xUlpoQTZXUzN1aVpzMFdoQy1yOHhMUlBaTjZ3Nm4?oc=5",
-        "publishedAt": "2026-10-20T20:00:00.000Z"
       },
       {
         "time": "14:38",
@@ -52,11 +45,18 @@
         "publishedAt": "2026-10-20T03:31:28.000Z"
       },
       {
-        "time": "10:00",
-        "title": "トークン課金なし・完全オンプレミスで動く「エージェント型産業用AI」を日本の製造業へ―設備保全・エネルギー最適化・技術",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1ZTFFDb0pSbTlkekw3SExWVldTTld4QzBmVTdRZW8tbVlfMHdMQkM0VVZyczJuZkhkbHZHYy0xY1ViOTQ2UVBJZzdibmI2YVRNZEpRaXpaZHpyd24wUVUtaVRiU2hTUFJHWnVUNEg3UWM4azQ?oc=5",
-        "publishedAt": "2026-10-21T01:00:27.000Z"
+        "time": "17:35",
+        "title": "電線の端材でストラップ制作 Ｍ．Ｓ．Ｅ．が商品化",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TOThSZjN5eER3TlU3MHo0RE9lLXdpRFVod2Mtams1bFZvcjBKQnpvSFYxMjJPYm5HZVd5RlhtcHlTN3R2OGdVLUs5THBCQVVCWEE?oc=5",
+        "publishedAt": "2026-10-20T08:35:29.000Z"
+      },
+      {
+        "time": "06:00",
+        "title": "ITと無縁の町工場から始まるサプライチェーンクライシス_経済小説風実験トピックス",
+        "source": "NewsPicks",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5RQVlTd2xSNFNZNkd0MWtGTWk5TDd0M3NNLTJtdHJMU2w0VWxDdWswUlFJUDNIWjlVczkzeEhJeWsyMTFmbGRsdHB4QmZrc2VkRGZSaFlB?oc=5",
+        "publishedAt": "2026-10-20T21:00:02.000Z"
       }
     ],
     "worldHeadlines": [
