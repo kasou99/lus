@@ -1,14 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-20T23:36:46.263Z",
+  "updatedAt": "2026-10-21T00:45:19.738Z",
   "items": [
-    {
-      "time": "07:50",
-      "title": "大阪・名古屋・東京 30℃以上予想",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599539?source=rss",
-      "publishedAt": "2026-10-20T22:50:56.000Z",
-      "xQuery": "大阪・名古屋・東京 30℃以上予想"
-    },
     {
       "time": "07:57",
       "title": "支援金の対象者の案 首相が答弁",
@@ -16,14 +8,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6599541?source=rss",
       "publishedAt": "2026-10-20T22:57:20.000Z",
       "xQuery": "支援金の対象者の案 首相が答弁"
-    },
-    {
-      "time": "06:53",
-      "title": "22府県の警察 個人情報流出の恐れ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599535?source=rss",
-      "publishedAt": "2026-10-20T21:53:49.000Z",
-      "xQuery": "22府県の警察 個人情報流出の恐れ"
     },
     {
       "time": "08:22",
@@ -34,12 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "SpaceXとテスラ 経営統合を検討"
     },
     {
+      "time": "07:50",
+      "title": "大阪・名古屋・東京 30℃以上予想",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599539?source=rss",
+      "publishedAt": "2026-10-20T22:50:56.000Z",
+      "xQuery": "大阪・名古屋・東京 30℃以上予想"
+    },
+    {
       "time": "07:39",
       "title": "車が歩道に突っ込む 歩行者が死亡",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6599538?source=rss",
       "publishedAt": "2026-10-20T22:39:29.000Z",
       "xQuery": "車が歩道に突っ込む 歩行者が死亡"
+    },
+    {
+      "time": "08:42",
+      "title": "重機吊り上げ中に車に挟まれ 死亡",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599545?source=rss",
+      "publishedAt": "2026-10-20T23:42:18.000Z",
+      "xQuery": "重機吊り上げ中に車に挟まれ 死亡"
     }
   ]
 };

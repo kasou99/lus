@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-10-20T23:36:45.162Z",
+  "updatedAt": "2026-10-21T00:45:19.084Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "07:45",
+        "title": "工作機械の不具合対応を生成AIが支援、DMG森精機が新サービス",
+        "source": "MONOist",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1QNFdQSjhjRHpPX0M2N1dTbnJGbGFibG9ZVW1lbGF1ZTNJZk5ERHRkR3ZKRWl5S2g0ejVxTGo1anExWEZNdUpfbHFuT09jTUpSSUdmTDlSTXBqdV9nb2V2V0VRRFd2Q1RGOFNmTDEtYw?oc=5",
+        "publishedAt": "2026-10-20T22:45:00.000Z"
+      },
       {
         "time": "08:00",
         "title": "自宅の机が、本格「工房」になる。8つの工作機械が1台に——複合機「卓上工房」、10月21日よりMakuakeで先行予約販売を開始",
@@ -50,16 +57,16 @@
         "source": "レスポンス（Response.jp）",
         "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9LcWI1UlVzQ0l2QmJpejlHOFNVX3RyVGNXMzhLV0hhZTNSY0kzck5sSFJYaEZMNE1CUEhpdUx6SlBLWU5wWE9CanBqVzRDS0xMRjZtdE51bk14NVpkbF9n?oc=5",
         "publishedAt": "2026-10-20T01:15:03.000Z"
-      },
-      {
-        "time": "17:35",
-        "title": "電線の端材でストラップ制作 Ｍ．Ｓ．Ｅ．が商品化",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TOThSZjN5eER3TlU3MHo0RE9lLXdpRFVod2Mtams1bFZvcjBKQnpvSFYxMjJPYm5HZVd5RlhtcHlTN3R2OGdVLUs5THBCQVVCWEE?oc=5",
-        "publishedAt": "2026-10-20T08:35:29.000Z"
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "08:37",
+        "title": "米大統領 ウに露との和平合意促す",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6599544?source=rss",
+        "publishedAt": "2026-10-20T23:37:28.000Z"
+      },
       {
         "time": "14:24",
         "title": "露の道新記者拘束 米国務省が非難",
@@ -80,13 +87,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6599430?source=rss",
         "publishedAt": "2026-10-20T00:42:12.000Z"
-      },
-      {
-        "time": "07:19",
-        "title": "トランプ氏 米露中会談に前向き",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599417?source=rss",
-        "publishedAt": "2026-10-19T22:19:09.000Z"
       },
       {
         "time": "18:31",
@@ -126,6 +126,13 @@
         "publishedAt": "2026-10-20T12:57:14.000Z"
       },
       {
+        "time": "08:44",
+        "title": "北海道職員が「就活セクハラ」か",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6599546?source=rss",
+        "publishedAt": "2026-10-20T23:44:29.000Z"
+      },
+      {
         "time": "16:52",
         "title": "VW 給与上昇30年まで凍結検討",
         "source": "Yahoo!ニュース",
@@ -133,18 +140,11 @@
         "publishedAt": "2026-10-20T07:52:07.000Z"
       },
       {
-        "time": "11:46",
-        "title": "モバ充発火で鉄道遅延 増加傾向",
+        "time": "09:26",
+        "title": "Z世代人気の無人カフェ 拡大の訳",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599444?source=rss",
-        "publishedAt": "2026-10-20T02:46:44.000Z"
-      },
-      {
-        "time": "21:28",
-        "title": "旅客機で発見の小動物 正体はヘビ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599512?source=rss",
-        "publishedAt": "2026-10-20T12:28:51.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6599548?source=rss",
+        "publishedAt": "2026-10-21T00:26:51.000Z"
       }
     ],
     "localHeadlines": [
@@ -177,18 +177,18 @@
         "publishedAt": "2026-10-20T21:08:17.000Z"
       },
       {
+        "time": "08:42",
+        "title": "重機吊り上げ中に車に挟まれ 死亡",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6599545?source=rss",
+        "publishedAt": "2026-10-20T23:42:18.000Z"
+      },
+      {
         "time": "20:25",
         "title": "2人死亡「宝木争奪戦」来年は中止",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6599505?source=rss",
         "publishedAt": "2026-10-20T11:25:14.000Z"
-      },
-      {
-        "time": "00:28",
-        "title": "GSで灯油にガソリン混入か 釧路",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599529?source=rss",
-        "publishedAt": "2026-10-20T15:28:22.000Z"
       }
     ],
     "subsidyHeadlines": [
