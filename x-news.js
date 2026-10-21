@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-21T17:14:09.956Z",
+  "updatedAt": "2026-10-21T17:40:08.674Z",
   "items": [
     {
-      "time": "21:10",
-      "title": "秋田・子吉川に特別警報 最新情報",
+      "time": "02:38",
+      "title": "秋田・子吉川 氾濫注意報に切替",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599621?source=rss",
-      "publishedAt": "2026-10-21T12:10:24.000Z",
-      "xQuery": "秋田・子吉川に特別警報 最新情報"
+      "url": "https://news.yahoo.co.jp/pickup/6599644?source=rss",
+      "publishedAt": "2026-10-21T17:38:29.000Z",
+      "xQuery": "秋田・子吉川 氾濫注意報に切替"
     },
     {
       "time": "23:21",
