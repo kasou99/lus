@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-21T07:46:59.956Z",
+  "updatedAt": "2026-10-21T08:23:35.968Z",
   "items": [
     {
       "time": "15:44",
@@ -18,20 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "電気ガス料金 1～3月分の補助検討"
     },
     {
-      "time": "14:06",
-      "title": "逮捕後に16歳が死亡 裁判で母訴え",
+      "time": "17:13",
+      "title": "八田與一容疑者 警察が海を捜索",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599578?source=rss",
-      "publishedAt": "2026-10-21T05:06:26.000Z",
-      "xQuery": "逮捕後に16歳が死亡 裁判で母訴え"
-    },
-    {
-      "time": "14:50",
-      "title": "米ネトフリ純利益44%増 7～9月期",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599584?source=rss",
-      "publishedAt": "2026-10-21T05:50:45.000Z",
-      "xQuery": "米ネトフリ純利益44%増 7～9月期"
+      "url": "https://news.yahoo.co.jp/pickup/6599593?source=rss",
+      "publishedAt": "2026-10-21T08:13:35.000Z",
+      "xQuery": "八田與一容疑者 警察が海を捜索"
     },
     {
       "time": "14:54",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6599585?source=rss",
       "publishedAt": "2026-10-21T05:54:04.000Z",
       "xQuery": "元timelesz猪俣周杜氏 不起訴処分"
+    },
+    {
+      "time": "14:50",
+      "title": "米ネトフリ純利益44%増 7～9月期",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599584?source=rss",
+      "publishedAt": "2026-10-21T05:50:45.000Z",
+      "xQuery": "米ネトフリ純利益44%増 7～9月期"
     }
   ]
 };
