@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-21T21:40:20.496Z",
+  "updatedAt": "2026-10-21T22:15:29.384Z",
   "items": [
     {
       "time": "02:38",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "PHPに重大欠陥 Webの7割で使用"
     },
     {
+      "time": "06:57",
+      "title": "PHPに欠陥 欧州各国でサイト遮断",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599650?source=rss",
+      "publishedAt": "2026-10-21T21:57:25.000Z",
+      "xQuery": "PHPに欠陥 欧州各国でサイト遮断"
+    },
+    {
       "time": "06:22",
       "title": "コミックシーモア最大420万件流出",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6599646?source=rss",
       "publishedAt": "2026-10-21T21:22:20.000Z",
       "xQuery": "コミックシーモア最大420万件流出"
-    },
-    {
-      "time": "02:45",
-      "title": "88歳の父死亡 傷害疑いで娘を逮捕",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599636?source=rss",
-      "publishedAt": "2026-10-21T17:45:27.000Z",
-      "xQuery": "88歳の父死亡 傷害疑いで娘を逮捕"
     }
   ]
 };
