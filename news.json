@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-10-21T09:19:08.801Z",
+  "updatedAt": "2026-10-21T09:43:57.653Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "12:24",
+        "title": "三菱電機、ヒューマノイドとCNC工作機械を連携させる加工システム開発 JIMTOFで披露 ｜Seizo Trend",
+        "source": "ビジネス+IT",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9mQTU4Z0lXcF84Z3BSQWZLVkpXM2pVTFQ2Wk9vSmtfS01uU29iRGstOXdjUV82MTRDWC1HMzJVeWNBQjNiVkUzcGtJRl9GeFE?oc=5",
+        "publishedAt": "2026-10-21T03:24:00.000Z"
+      },
       {
         "time": "11:50",
         "title": "業界初、ヒューマノイドとCNC工作機械が連携する加工システムを開発",
@@ -10,18 +17,18 @@
         "publishedAt": "2026-10-21T02:50:29.000Z"
       },
       {
-        "time": "13:46",
-        "title": "三菱電機、ヒューマノイドとCNC工作機械を連携させる加工システム開発 JIMTOFで披露 ｜Seizo Trend",
-        "source": "ビジネス+IT",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9mQTU4Z0lXcF84Z3BSQWZLVkpXM2pVTFQ2Wk9vSmtfS01uU29iRGstOXdjUV82MTRDWC1HMzJVeWNBQjNiVkUzcGtJRl9GeFE?oc=5",
-        "publishedAt": "2026-10-21T04:46:45.000Z"
-      },
-      {
         "time": "13:04",
         "title": "三菱電機－3日ぶり反落 ヒューマノイドとCNC工作機械が連携する加工システムを開発(トレーダーズ・ウェブ)",
         "source": "Yahoo!ファイナンス",
         "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZlRyVmtQUUhMdGktUGtKZTRTUVBQZVhEOGl5OXp1dm5TV2RISUVyVmVHbUVSejNuV1UwM04zYlBZSWdScEQtVXB2UXpMdlFHSGVTY1NOM3BIRVEtQW44RnZWcUdWaW1kTVdDb1JDajlzbFMwakw5bWVNQUxqWWNTd3NiSmpGZFk?oc=5",
         "publishedAt": "2026-10-21T04:04:01.000Z"
+      },
+      {
+        "time": "13:45",
+        "title": "三菱電機、ヒューマノイドとCNC工作機械がフィジカルAIで連携する加工システムを開発 JIMTOF2026でデモ展示予定",
+        "source": "ロボスタ",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5yRktfLW5zazIxUGQzWC1tYktTUUhKek92STBOTzlnQXB5NkhFR1c4ZkpoUUJmMHlzZ2lzVWhOZ1UzbnF5OUJMODVlRXRyanJYX0o1NmhDS0phc3FFUG9vTnV3eGw?oc=5",
+        "publishedAt": "2026-10-21T04:45:03.000Z"
       },
       {
         "time": "17:25",
@@ -50,13 +57,6 @@
         "source": "https://kabu-ir.com/",
         "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9kVGpIOV9oQnNCTUdkLWhMU21CaGtfU3FIaWFlT2tsSmp2a1lhRnc5WVpYcnV5TWl6OVBOVVlSVkpUUzhVckFUTk4xc0M4OW9BenZLOA?oc=5",
         "publishedAt": "2026-10-21T05:00:00.000Z"
-      },
-      {
-        "time": "13:48",
-        "title": "三菱電機、ヒューマノイドとCNC工作機械がフィジカルAIで連携する加工システムを開発 JIMTOF2026でデモ展示予定",
-        "source": "au Webポータル",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0zdzJxQjhFaTdVeGo5c0FoNmpGYnpBYmJZOUE4Qm9DTmZvM2RnVXU2M3RlRnhiVWlfaF9UMEpBMlUxZC1MSkRUUDRoS2tvUTA0M0xfWUlMbXlvQlhPaTk3MWwxRnlIekFEckc0TGZ3?oc=5",
-        "publishedAt": "2026-10-21T04:48:00.000Z"
       }
     ],
     "worldHeadlines": [

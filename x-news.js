@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-21T09:19:09.727Z",
+  "updatedAt": "2026-10-21T09:43:58.590Z",
   "items": [
     {
       "time": "15:44",
@@ -10,12 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "政権発足1年受け首相が意気込み"
     },
     {
-      "time": "14:50",
-      "title": "米ネトフリ純利益44%増 7～9月期",
+      "time": "17:58",
+      "title": "オリオン座流星群 22日3時ピーク",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599584?source=rss",
-      "publishedAt": "2026-10-21T05:50:45.000Z",
-      "xQuery": "米ネトフリ純利益44%増 7～9月期"
+      "url": "https://news.yahoo.co.jp/pickup/6599601?source=rss",
+      "publishedAt": "2026-10-21T08:58:48.000Z",
+      "xQuery": "オリオン座流星群 22日3時ピーク"
+    },
+    {
+      "time": "18:12",
+      "title": "台風30号 24日九州で警報級大雨か",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599604?source=rss",
+      "publishedAt": "2026-10-21T09:12:02.000Z",
+      "xQuery": "台風30号 24日九州で警報級大雨か"
     },
     {
       "time": "17:35",
@@ -24,14 +32,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6599595?source=rss",
       "publishedAt": "2026-10-21T08:35:16.000Z",
       "xQuery": "養子女性死亡させた疑い 女を逮捕"
-    },
-    {
-      "time": "16:41",
-      "title": "神戸連続発砲 殺人の疑いで再逮捕",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599591?source=rss",
-      "publishedAt": "2026-10-21T07:41:34.000Z",
-      "xQuery": "神戸連続発砲 殺人の疑いで再逮捕"
     },
     {
       "time": "17:13",
