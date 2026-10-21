@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-21T00:45:19.738Z",
+  "updatedAt": "2026-10-21T01:27:57.417Z",
   "items": [
     {
       "time": "07:57",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "SpaceXとテスラ 経営統合を検討"
     },
     {
-      "time": "07:50",
-      "title": "大阪・名古屋・東京 30℃以上予想",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599539?source=rss",
-      "publishedAt": "2026-10-20T22:50:56.000Z",
-      "xQuery": "大阪・名古屋・東京 30℃以上予想"
-    },
-    {
       "time": "07:39",
       "title": "車が歩道に突っ込む 歩行者が死亡",
       "source": "Yahoo!ニュース",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "車が歩道に突っ込む 歩行者が死亡"
     },
     {
-      "time": "08:42",
-      "title": "重機吊り上げ中に車に挟まれ 死亡",
+      "time": "10:05",
+      "title": "車が親子をはねる 16歳が意識不明",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599545?source=rss",
-      "publishedAt": "2026-10-20T23:42:18.000Z",
-      "xQuery": "重機吊り上げ中に車に挟まれ 死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6599552?source=rss",
+      "publishedAt": "2026-10-21T01:05:03.000Z",
+      "xQuery": "車が親子をはねる 16歳が意識不明"
+    },
+    {
+      "time": "09:43",
+      "title": "マネックス証券 口座開設一時停止",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599549?source=rss",
+      "publishedAt": "2026-10-21T00:43:58.000Z",
+      "xQuery": "マネックス証券 口座開設一時停止"
     }
   ]
 };
