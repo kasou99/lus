@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T04:20:56.806Z",
+  "updatedAt": "2026-10-21T04:44:43.125Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -45,18 +45,18 @@
         "publishedAt": "2026-10-20T05:48:30.000Z"
       },
       {
+        "time": "17:35",
+        "title": "電線の端材でストラップ制作 Ｍ．Ｓ．Ｅ．が商品化",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TOThSZjN5eER3TlU3MHo0RE9lLXdpRFVod2Mtams1bFZvcjBKQnpvSFYxMjJPYm5HZVd5RlhtcHlTN3R2OGdVLUs5THBCQVVCWEE?oc=5",
+        "publishedAt": "2026-10-20T08:35:29.000Z"
+      },
+      {
         "time": "14:38",
         "title": "ＮＴＮ－続落 工作機械主軸用センサー内蔵軸受ユニットの受注活動開始へ(トレーダーズ・ウェブ)",
         "source": "Yahoo!ファイナンス",
         "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORm0tV3M2MURrcjlLWFdVNWFTWjA1alVKcUxlcnVqMWN3dWhiVTlZSHZIajhHWlVUMmpnT0lwRWstdndYVXRVc3ZMM0drYVRZOVd5Y3hocmRLbjRuT2hNTWVtR1IxMUEwd1ItUkwycHNXdFRiemhiSE1sYW01c0UxOG5PekF6MGs?oc=5",
         "publishedAt": "2026-10-20T05:38:02.000Z"
-      },
-      {
-        "time": "06:00",
-        "title": "ITと無縁の町工場から始まるサプライチェーンクライシス_経済小説風実験トピックス",
-        "source": "NewsPicks",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5RQVlTd2xSNFNZNkd0MWtGTWk5TDd0M3NNLTJtdHJMU2w0VWxDdWswUlFJUDNIWjlVczkzeEhJeWsyMTFmbGRsdHB4QmZrc2VkRGZSaFlB?oc=5",
-        "publishedAt": "2026-10-20T21:00:02.000Z"
       }
     ],
     "worldHeadlines": [

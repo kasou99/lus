@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-21T04:20:57.695Z",
+  "updatedAt": "2026-10-21T04:44:43.730Z",
   "items": [
     {
       "time": "12:04",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "東京大阪など 各地最も遅い真夏日"
     },
     {
-      "time": "11:49",
-      "title": "武部農相 公選法違反疑いを陳謝",
+      "time": "11:36",
+      "title": "消費減税の財源 首相は従来の答弁",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599564?source=rss",
-      "publishedAt": "2026-10-21T02:49:39.000Z",
-      "xQuery": "武部農相 公選法違反疑いを陳謝"
+      "url": "https://news.yahoo.co.jp/pickup/6599559?source=rss",
+      "publishedAt": "2026-10-21T02:36:50.000Z",
+      "xQuery": "消費減税の財源 首相は従来の答弁"
     },
     {
       "time": "12:06",
