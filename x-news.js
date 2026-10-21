@@ -1,13 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-21T02:46:56.355Z",
+  "updatedAt": "2026-10-21T03:21:29.790Z",
   "items": [
     {
-      "time": "08:37",
-      "title": "米大統領 ウに露との和平合意促す",
+      "time": "12:04",
+      "title": "東京大阪など 各地最も遅い真夏日",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599544?source=rss",
-      "publishedAt": "2026-10-20T23:37:28.000Z",
-      "xQuery": "米大統領 ウに露との和平合意促す"
+      "url": "https://news.yahoo.co.jp/pickup/6599568?source=rss",
+      "publishedAt": "2026-10-21T03:04:24.000Z",
+      "xQuery": "東京大阪など 各地最も遅い真夏日"
+    },
+    {
+      "time": "11:57",
+      "title": "外務省局長 露に記者の解放要求",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599566?source=rss",
+      "publishedAt": "2026-10-21T02:57:59.000Z",
+      "xQuery": "外務省局長 露に記者の解放要求"
     },
     {
       "time": "11:35",
@@ -18,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "鳥取県知事 知事選不出馬を表明"
     },
     {
-      "time": "10:05",
-      "title": "車が親子をはねる 16歳が意識不明",
+      "time": "11:49",
+      "title": "武部農相 公選法違反疑いを陳謝",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599552?source=rss",
-      "publishedAt": "2026-10-21T01:05:03.000Z",
-      "xQuery": "車が親子をはねる 16歳が意識不明"
+      "url": "https://news.yahoo.co.jp/pickup/6599564?source=rss",
+      "publishedAt": "2026-10-21T02:49:39.000Z",
+      "xQuery": "武部農相 公選法違反疑いを陳謝"
     },
     {
       "time": "10:42",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6599554?source=rss",
       "publishedAt": "2026-10-21T01:42:27.000Z",
       "xQuery": "中学生の胸を刺した疑い 14歳逮捕"
-    },
-    {
-      "time": "09:43",
-      "title": "マネックス証券 口座開設一時停止",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599549?source=rss",
-      "publishedAt": "2026-10-21T00:43:58.000Z",
-      "xQuery": "マネックス証券 口座開設一時停止"
     }
   ]
 };
