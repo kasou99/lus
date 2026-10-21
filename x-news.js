@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-21T17:40:08.674Z",
+  "updatedAt": "2026-10-21T18:22:01.197Z",
   "items": [
     {
       "time": "02:38",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "秋田・子吉川 氾濫注意報に切替"
     },
     {
-      "time": "23:21",
-      "title": "2年前水害の子吉川 住民不安な夜",
+      "time": "02:42",
+      "title": "自民 衆院定数の削減幅を31で調整",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599639?source=rss",
-      "publishedAt": "2026-10-21T14:21:56.000Z",
-      "xQuery": "2年前水害の子吉川 住民不安な夜"
+      "url": "https://news.yahoo.co.jp/pickup/6599633?source=rss",
+      "publishedAt": "2026-10-21T17:42:41.000Z",
+      "xQuery": "自民 衆院定数の削減幅を31で調整"
     },
     {
       "time": "22:52",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "PHPに重大欠陥 Webの7割で使用"
     },
     {
-      "time": "23:37",
-      "title": "EVの補助金引き下げ 27年1月から",
+      "time": "02:45",
+      "title": "88歳の父死亡 傷害疑いで娘を逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599642?source=rss",
-      "publishedAt": "2026-10-21T14:37:56.000Z",
-      "xQuery": "EVの補助金引き下げ 27年1月から"
+      "url": "https://news.yahoo.co.jp/pickup/6599636?source=rss",
+      "publishedAt": "2026-10-21T17:45:27.000Z",
+      "xQuery": "88歳の父死亡 傷害疑いで娘を逮捕"
     },
     {
-      "time": "22:13",
-      "title": "床はう患者を職員が撮影 病院謝罪",
+      "time": "02:44",
+      "title": "「MMX」探査機 機能正常を確認",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599631?source=rss",
-      "publishedAt": "2026-10-21T13:13:19.000Z",
-      "xQuery": "床はう患者を職員が撮影 病院謝罪"
+      "url": "https://news.yahoo.co.jp/pickup/6599628?source=rss",
+      "publishedAt": "2026-10-21T17:44:30.000Z",
+      "xQuery": "「MMX」探査機 機能正常を確認"
     }
   ]
 };
