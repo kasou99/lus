@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-21T13:41:35.321Z",
+  "updatedAt": "2026-10-21T14:19:11.684Z",
   "items": [
     {
       "time": "21:10",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "秋田の子吉川・石沢川で氾濫発生"
     },
     {
-      "time": "22:03",
-      "title": "沖縄の民家に女性遺体 体に切り傷",
+      "time": "22:52",
+      "title": "PHPに重大欠陥 Webの7割で使用",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599629?source=rss",
-      "publishedAt": "2026-10-21T13:03:09.000Z",
-      "xQuery": "沖縄の民家に女性遺体 体に切り傷"
+      "url": "https://news.yahoo.co.jp/pickup/6599637?source=rss",
+      "publishedAt": "2026-10-21T13:52:02.000Z",
+      "xQuery": "PHPに重大欠陥 Webの7割で使用"
     },
     {
       "time": "22:13",
