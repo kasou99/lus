@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T14:19:10.489Z",
+  "updatedAt": "2026-10-21T14:42:32.754Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -45,18 +45,18 @@
         "publishedAt": "2026-10-21T04:45:03.000Z"
       },
       {
-        "time": "17:25",
-        "title": "三菱電機、人型ロボと工作機械をAIで直結 2030年の無人化工場へ業界初システム",
-        "source": "BigGo ファイナンス",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBDVFdjWTQzaTRROXNvdXR2TVZQbDV5V1B4R3ctMHBHNkpoSTZVOWJROWlGR0czTkJrOTBzSkxDUkczTWhfd3NDb3NTNFA5dktVSWdLc2VFcVBhU3B1U0I3cmd6RU9NMlE1Nk9JOXZNamtaX0Jk?oc=5",
-        "publishedAt": "2026-10-21T08:25:00.000Z"
-      },
-      {
         "time": "13:04",
         "title": "三菱電機－3日ぶり反落 ヒューマノイドとCNC工作機械が連携する加工システムを開発(トレーダーズ・ウェブ)",
         "source": "Yahoo!ファイナンス",
         "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZlRyVmtQUUhMdGktUGtKZTRTUVBQZVhEOGl5OXp1dm5TV2RISUVyVmVHbUVSejNuV1UwM04zYlBZSWdScEQtVXB2UXpMdlFHSGVTY1NOM3BIRVEtQW44RnZWcUdWaW1kTVdDb1JDajlzbFMwakw5bWVNQUxqWWNTd3NiSmpGZFk?oc=5",
         "publishedAt": "2026-10-21T04:04:01.000Z"
+      },
+      {
+        "time": "17:25",
+        "title": "三菱電機、人型ロボと工作機械をAIで直結 2030年の無人化工場へ業界初システム",
+        "source": "BigGo ファイナンス",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBDVFdjWTQzaTRROXNvdXR2TVZQbDV5V1B4R3ctMHBHNkpoSTZVOWJROWlGR0czTkJrOTBzSkxDUkczTWhfd3NDb3NTNFA5dktVSWdLc2VFcVBhU3B1U0I3cmd6RU9NMlE1Nk9JOXZNamtaX0Jk?oc=5",
+        "publishedAt": "2026-10-21T08:25:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -105,6 +105,13 @@
     ],
     "economyHeadlines": [
       {
+        "time": "23:37",
+        "title": "EVの補助金引き下げ 27年1月から",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6599642?source=rss",
+        "publishedAt": "2026-10-21T14:37:56.000Z"
+      },
+      {
         "time": "08:22",
         "title": "SpaceXとテスラ 経営統合を検討",
         "source": "Yahoo!ニュース",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6599592?source=rss",
         "publishedAt": "2026-10-21T07:48:42.000Z"
-      },
-      {
-        "time": "09:26",
-        "title": "Z世代人気の無人カフェ 拡大の訳",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599548?source=rss",
-        "publishedAt": "2026-10-21T00:26:51.000Z"
       }
     ],
     "localHeadlines": [
@@ -161,6 +161,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6599623?source=rss",
         "publishedAt": "2026-10-21T12:09:44.000Z"
+      },
+      {
+        "time": "23:21",
+        "title": "2年前水害の子吉川 住民不安な夜",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6599639?source=rss",
+        "publishedAt": "2026-10-21T14:21:56.000Z"
       },
       {
         "time": "22:03",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6599578?source=rss",
         "publishedAt": "2026-10-21T05:06:26.000Z"
-      },
-      {
-        "time": "17:13",
-        "title": "八田與一容疑者 警察が海を捜索",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599593?source=rss",
-        "publishedAt": "2026-10-21T08:13:35.000Z"
       }
     ],
     "subsidyHeadlines": [

@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-21T14:19:11.684Z",
+  "updatedAt": "2026-10-21T14:42:33.385Z",
   "items": [
     {
       "time": "21:10",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "秋田・子吉川に特別警報 最新情報"
     },
     {
-      "time": "21:09",
-      "title": "秋田の子吉川・石沢川で氾濫発生",
+      "time": "23:21",
+      "title": "2年前水害の子吉川 住民不安な夜",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599623?source=rss",
-      "publishedAt": "2026-10-21T12:09:44.000Z",
-      "xQuery": "秋田の子吉川・石沢川で氾濫発生"
+      "url": "https://news.yahoo.co.jp/pickup/6599639?source=rss",
+      "publishedAt": "2026-10-21T14:21:56.000Z",
+      "xQuery": "2年前水害の子吉川 住民不安な夜"
     },
     {
       "time": "22:52",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "床はう患者を職員が撮影 病院謝罪"
     },
     {
-      "time": "19:17",
-      "title": "コンセントで感電 子供の事故注意",
+      "time": "19:44",
+      "title": "大食い動画規制の動き 投稿者動揺",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599610?source=rss",
-      "publishedAt": "2026-10-21T10:17:06.000Z",
-      "xQuery": "コンセントで感電 子供の事故注意"
+      "url": "https://news.yahoo.co.jp/pickup/6599612?source=rss",
+      "publishedAt": "2026-10-21T10:44:41.000Z",
+      "xQuery": "大食い動画規制の動き 投稿者動揺"
     }
   ]
 };
