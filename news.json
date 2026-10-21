@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T22:15:28.684Z",
+  "updatedAt": "2026-10-21T22:40:11.625Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -11,9 +11,9 @@
       },
       {
         "time": "06:30",
-        "title": "今日の注目スケジュール：工作機械受注、トルコ中央銀行政策金利発表、欧ユーロ圏消費者信頼感指数など(フィスコ)",
-        "source": "Yahoo!ファイナンス",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcWcyYWh0bmduMGlkNnkwYzdSd0pxVS04SFhzc01rYmdLQjAyTC1ZU3o3VTdmS1pxLXp6T1JhdzEzalYxUXYxdXg0NVBhbXp2bndvbHVKYzlvdl9hSFN1YUtNcWNCU09PbENOTHpqTl9LZUlPcnJ6S0VfNUI2R2pNV2RxSXF1UWs?oc=5",
+        "title": "今日の注目スケジュール：工作機械受注、トルコ中央銀行政策金利発表、欧ユーロ圏消費者信頼感指数など",
+        "source": "株探",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAtbkljWC1kWFVJTURLVGl0WnF1S2pqTFEzN1VFRlNpZVJwUHF0Ri05N191UGhQMHdUQklEU3FRYUkybDBpVDJ4REltTVFjYnBLZFhaVkNDbFpuTlk1ZDhHTw?oc=5",
         "publishedAt": "2026-10-21T21:30:00.000Z"
       },
       {
@@ -31,18 +31,18 @@
         "publishedAt": "2026-10-21T20:00:00.000Z"
       },
       {
-        "time": "11:50",
-        "title": "業界初、ヒューマノイドとCNC工作機械が連携する加工システムを開発",
-        "source": "www.mitsubishielectric.co.jp",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1mN3U4VGdOaVNGT0ZyelN0NHdzdDVsRktXeGxPeEVSWXRQM0djR2VBLTczMi1jTVN5Qkw4QnJJeVRGZy1nZkRUak1vYVQyMFhnbDNIaEdvclNsckJqM2J6TU42QlAxTVk?oc=5",
-        "publishedAt": "2026-10-21T02:50:29.000Z"
-      },
-      {
         "time": "12:24",
         "title": "三菱電機、ヒューマノイドとCNC工作機械を連携させる加工システム開発 JIMTOFで披露 ｜Seizo Trend",
         "source": "ビジネス+IT",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9mQTU4Z0lXcF84Z3BSQWZLVkpXM2pVTFQ2Wk9vSmtfS01uU29iRGstOXdjUV82MTRDWC1HMzJVeWNBQjNiVkUzcGtJRl9GeFE?oc=5",
         "publishedAt": "2026-10-21T03:24:00.000Z"
+      },
+      {
+        "time": "11:50",
+        "title": "業界初、ヒューマノイドとCNC工作機械が連携する加工システムを開発",
+        "source": "www.mitsubishielectric.co.jp",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1mN3U4VGdOaVNGT0ZyelN0NHdzdDVsRktXeGxPeEVSWXRQM0djR2VBLTczMi1jTVN5Qkw4QnJJeVRGZy1nZkRUak1vYVQyMFhnbDNIaEdvclNsckJqM2J6TU42QlAxTVk?oc=5",
+        "publishedAt": "2026-10-21T02:50:29.000Z"
       },
       {
         "time": "13:45",
