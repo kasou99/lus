@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-21T14:42:33.385Z",
+  "updatedAt": "2026-10-21T15:17:24.100Z",
   "items": [
     {
       "time": "21:10",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "PHPに重大欠陥 Webの7割で使用"
     },
     {
+      "time": "23:37",
+      "title": "EVの補助金引き下げ 27年1月から",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599642?source=rss",
+      "publishedAt": "2026-10-21T14:37:56.000Z",
+      "xQuery": "EVの補助金引き下げ 27年1月から"
+    },
+    {
       "time": "22:13",
       "title": "床はう患者を職員が撮影 病院謝罪",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6599631?source=rss",
       "publishedAt": "2026-10-21T13:13:19.000Z",
       "xQuery": "床はう患者を職員が撮影 病院謝罪"
-    },
-    {
-      "time": "19:44",
-      "title": "大食い動画規制の動き 投稿者動揺",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599612?source=rss",
-      "publishedAt": "2026-10-21T10:44:41.000Z",
-      "xQuery": "大食い動画規制の動き 投稿者動揺"
     }
   ]
 };
