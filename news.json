@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T05:42:36.590Z",
+  "updatedAt": "2026-10-21T06:29:56.993Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -112,11 +112,11 @@
         "publishedAt": "2026-10-20T23:22:38.000Z"
       },
       {
-        "time": "20:10",
-        "title": "ソニーFGへの立ち入り検査検討",
+        "time": "14:50",
+        "title": "米ネトフリ純利益44%増 7～9月期",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599504?source=rss",
-        "publishedAt": "2026-10-20T11:10:58.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6599584?source=rss",
+        "publishedAt": "2026-10-21T05:50:45.000Z"
       },
       {
         "time": "21:57",
@@ -170,6 +170,13 @@
         "publishedAt": "2026-10-21T02:35:19.000Z"
       },
       {
+        "time": "14:54",
+        "title": "元timelesz猪俣周杜氏 不起訴処分",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6599585?source=rss",
+        "publishedAt": "2026-10-21T05:54:04.000Z"
+      },
+      {
         "time": "14:15",
         "title": "アジアパラでも国歌取り違え3件",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6599552?source=rss",
         "publishedAt": "2026-10-21T01:05:03.000Z"
-      },
-      {
-        "time": "07:39",
-        "title": "車が歩道に突っ込む 歩行者が死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599538?source=rss",
-        "publishedAt": "2026-10-20T22:39:29.000Z"
       }
     ],
     "subsidyHeadlines": [

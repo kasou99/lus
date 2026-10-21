@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-21T05:42:37.191Z",
+  "updatedAt": "2026-10-21T06:29:57.678Z",
   "items": [
     {
       "time": "14:15",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "逮捕後に16歳が死亡 裁判で母訴え"
     },
     {
-      "time": "14:15",
-      "title": "アジアパラでも国歌取り違え3件",
+      "time": "14:08",
+      "title": "カフェインレスコーヒー 市場拡大",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599583?source=rss",
-      "publishedAt": "2026-10-21T05:15:40.000Z",
-      "xQuery": "アジアパラでも国歌取り違え3件"
+      "url": "https://news.yahoo.co.jp/pickup/6599579?source=rss",
+      "publishedAt": "2026-10-21T05:08:53.000Z",
+      "xQuery": "カフェインレスコーヒー 市場拡大"
     }
   ]
 };
