@@ -1,21 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-21T11:41:31.246Z",
+  "updatedAt": "2026-10-21T12:26:07.821Z",
   "items": [
     {
-      "time": "20:31",
-      "title": "秋田県の子吉川が氾濫 安全確保を",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599617?source=rss",
-      "publishedAt": "2026-10-21T11:31:57.000Z",
-      "xQuery": "秋田県の子吉川が氾濫 安全確保を"
-    },
-    {
-      "time": "20:08",
+      "time": "21:10",
       "title": "秋田・子吉川に特別警報 最新情報",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599615?source=rss",
-      "publishedAt": "2026-10-21T11:08:17.000Z",
+      "url": "https://news.yahoo.co.jp/pickup/6599621?source=rss",
+      "publishedAt": "2026-10-21T12:10:24.000Z",
       "xQuery": "秋田・子吉川に特別警報 最新情報"
+    },
+    {
+      "time": "21:09",
+      "title": "秋田の子吉川・石沢川で氾濫発生",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599623?source=rss",
+      "publishedAt": "2026-10-21T12:09:44.000Z",
+      "xQuery": "秋田の子吉川・石沢川で氾濫発生"
+    },
+    {
+      "time": "20:42",
+      "title": "由利本荘市の一部に緊急安全確保",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599618?source=rss",
+      "publishedAt": "2026-10-21T11:42:25.000Z",
+      "xQuery": "由利本荘市の一部に緊急安全確保"
     },
     {
       "time": "20:30",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6599609?source=rss",
       "publishedAt": "2026-10-21T10:15:09.000Z",
       "xQuery": "復興相の事務所数 公選法違反疑い"
-    },
-    {
-      "time": "19:11",
-      "title": "不出馬表明の鳥取知事 会見で涙",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599611?source=rss",
-      "publishedAt": "2026-10-21T10:11:12.000Z",
-      "xQuery": "不出馬表明の鳥取知事 会見で涙"
     }
   ]
 };

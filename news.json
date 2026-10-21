@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T11:41:30.492Z",
+  "updatedAt": "2026-10-21T12:26:07.062Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,18 +31,18 @@
         "publishedAt": "2026-10-21T11:00:00.000Z"
       },
       {
-        "time": "13:45",
-        "title": "三菱電機、ヒューマノイドとCNC工作機械がフィジカルAIで連携する加工システムを開発 JIMTOF2026でデモ展示予定",
-        "source": "ロボスタ",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5yRktfLW5zazIxUGQzWC1tYktTUUhKek92STBOTzlnQXB5NkhFR1c4ZkpoUUJmMHlzZ2lzVWhOZ1UzbnF5OUJMODVlRXRyanJYX0o1NmhDS0phc3FFUG9vTnV3eGw?oc=5",
-        "publishedAt": "2026-10-21T04:45:03.000Z"
-      },
-      {
         "time": "07:45",
         "title": "工作機械の不具合対応を生成AIが支援、DMG森精機が新サービス",
         "source": "MONOist",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1QNFdQSjhjRHpPX0M2N1dTbnJGbGFibG9ZVW1lbGF1ZTNJZk5ERHRkR3ZKRWl5S2g0ejVxTGo1anExWEZNdUpfbHFuT09jTUpSSUdmTDlSTXBqdV9nb2V2V0VRRFd2Q1RGOFNmTDEtYw?oc=5",
         "publishedAt": "2026-10-20T22:45:00.000Z"
+      },
+      {
+        "time": "13:45",
+        "title": "三菱電機、ヒューマノイドとCNC工作機械がフィジカルAIで連携する加工システムを開発 JIMTOF2026でデモ展示予定",
+        "source": "ロボスタ",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5yRktfLW5zazIxUGQzWC1tYktTUUhKek92STBOTzlnQXB5NkhFR1c4ZkpoUUJmMHlzZ2lzVWhOZ1UzbnF5OUJMODVlRXRyanJYX0o1NmhDS0phc3FFUG9vTnV3eGw?oc=5",
+        "publishedAt": "2026-10-21T04:45:03.000Z"
       },
       {
         "time": "17:25",
@@ -149,25 +149,25 @@
     ],
     "localHeadlines": [
       {
-        "time": "20:31",
-        "title": "秋田県の子吉川が氾濫 安全確保を",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599617?source=rss",
-        "publishedAt": "2026-10-21T11:31:57.000Z"
-      },
-      {
-        "time": "19:56",
-        "title": "秋田県・子吉川に氾濫特別警報",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599614?source=rss",
-        "publishedAt": "2026-10-21T10:56:43.000Z"
-      },
-      {
-        "time": "20:08",
+        "time": "21:10",
         "title": "秋田・子吉川に特別警報 最新情報",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599615?source=rss",
-        "publishedAt": "2026-10-21T11:08:17.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6599621?source=rss",
+        "publishedAt": "2026-10-21T12:10:24.000Z"
+      },
+      {
+        "time": "21:09",
+        "title": "秋田の子吉川・石沢川で氾濫発生",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6599623?source=rss",
+        "publishedAt": "2026-10-21T12:09:44.000Z"
+      },
+      {
+        "time": "20:42",
+        "title": "由利本荘市の一部に緊急安全確保",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6599618?source=rss",
+        "publishedAt": "2026-10-21T11:42:25.000Z"
       },
       {
         "time": "20:30",
