@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-21T07:26:26.955Z",
+  "updatedAt": "2026-10-21T07:46:59.956Z",
   "items": [
     {
       "time": "15:44",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "逮捕後に16歳が死亡 裁判で母訴え"
     },
     {
-      "time": "14:08",
-      "title": "カフェインレスコーヒー 市場拡大",
+      "time": "14:50",
+      "title": "米ネトフリ純利益44%増 7～9月期",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599579?source=rss",
-      "publishedAt": "2026-10-21T05:08:53.000Z",
-      "xQuery": "カフェインレスコーヒー 市場拡大"
+      "url": "https://news.yahoo.co.jp/pickup/6599584?source=rss",
+      "publishedAt": "2026-10-21T05:50:45.000Z",
+      "xQuery": "米ネトフリ純利益44%増 7～9月期"
     },
     {
       "time": "14:54",
