@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-21T23:14:56.248Z",
+  "updatedAt": "2026-10-21T23:38:50.565Z",
   "items": [
     {
       "time": "02:38",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "PHPの脆弱性 米OpenAIのAIで発見"
     },
     {
-      "time": "06:22",
-      "title": "コミックシーモア最大420万件流出",
+      "time": "07:57",
+      "title": "ヒマラヤ山脈 日本人2人が不明",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599646?source=rss",
-      "publishedAt": "2026-10-21T21:22:20.000Z",
-      "xQuery": "コミックシーモア最大420万件流出"
+      "url": "https://news.yahoo.co.jp/pickup/6599653?source=rss",
+      "publishedAt": "2026-10-21T22:57:44.000Z",
+      "xQuery": "ヒマラヤ山脈 日本人2人が不明"
     }
   ]
 };
