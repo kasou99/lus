@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T09:43:57.653Z",
+  "updatedAt": "2026-10-21T10:17:29.547Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,11 +17,11 @@
         "publishedAt": "2026-10-21T02:50:29.000Z"
       },
       {
-        "time": "13:04",
-        "title": "三菱電機－3日ぶり反落 ヒューマノイドとCNC工作機械が連携する加工システムを開発(トレーダーズ・ウェブ)",
-        "source": "Yahoo!ファイナンス",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZlRyVmtQUUhMdGktUGtKZTRTUVBQZVhEOGl5OXp1dm5TV2RISUVyVmVHbUVSejNuV1UwM04zYlBZSWdScEQtVXB2UXpMdlFHSGVTY1NOM3BIRVEtQW44RnZWcUdWaW1kTVdDb1JDajlzbFMwakw5bWVNQUxqWWNTd3NiSmpGZFk?oc=5",
-        "publishedAt": "2026-10-21T04:04:01.000Z"
+        "time": "18:53",
+        "title": "NTN、工作機械の高度化を後押し 「日本国際工作機械見本市」で新製品紹介",
+        "source": "電波新聞デジタル",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5lNTlIT21oNjJmT3ZFTDVIVXhoTUNJcWlBamJTLUZndU5YMHFNMDNiQk16SnV6YTJpaVY3Zm9aeDVkbTdKOVg4Z0R3aF96UzVMREE?oc=5",
+        "publishedAt": "2026-10-21T09:53:00.000Z"
       },
       {
         "time": "13:45",
@@ -31,13 +31,6 @@
         "publishedAt": "2026-10-21T04:45:03.000Z"
       },
       {
-        "time": "17:25",
-        "title": "三菱電機、人型ロボと工作機械をAIで直結 2030年の無人化工場へ業界初システム",
-        "source": "BigGo ファイナンス",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBDVFdjWTQzaTRROXNvdXR2TVZQbDV5V1B4R3ctMHBHNkpoSTZVOWJROWlGR0czTkJrOTBzSkxDUkczTWhfd3NDb3NTNFA5dktVSWdLc2VFcVBhU3B1U0I3cmd6RU9NMlE1Nk9JOXZNamtaX0Jk?oc=5",
-        "publishedAt": "2026-10-21T08:25:00.000Z"
-      },
-      {
         "time": "07:45",
         "title": "工作機械の不具合対応を生成AIが支援、DMG森精機が新サービス",
         "source": "MONOist",
@@ -45,18 +38,25 @@
         "publishedAt": "2026-10-20T22:45:00.000Z"
       },
       {
-        "time": "10:56",
-        "title": "自宅の机が小さな町工場に！ 8種類の工作機械が1台にまとまった「卓上工房」登場",
-        "source": "おたくま経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9jUGdJOG12cC05UTZKeHdoWjNxX3RXNW9LOHhYSndYUnVoMExqM0lQcDJ5Qy1JQzNoWGtVSFhnb0c1WkFYWWwwMTlkdXVmWG8xYnFGR09Nbw?oc=5",
-        "publishedAt": "2026-10-21T01:56:00.000Z"
+        "time": "17:25",
+        "title": "三菱電機、人型ロボと工作機械をAIで直結 2030年の無人化工場へ業界初システム",
+        "source": "BigGo ファイナンス",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBDVFdjWTQzaTRROXNvdXR2TVZQbDV5V1B4R3ctMHBHNkpoSTZVOWJROWlGR0czTkJrOTBzSkxDUkczTWhfd3NDb3NTNFA5dktVSWdLc2VFcVBhU3B1U0I3cmd6RU9NMlE1Nk9JOXZNamtaX0Jk?oc=5",
+        "publishedAt": "2026-10-21T08:25:00.000Z"
       },
       {
-        "time": "14:00",
-        "title": "三菱電機、ヒューマノイドと工作機械が連携する加工システム開発、２０３０年実用化へ - https://kabu-ir.com/",
-        "source": "https://kabu-ir.com/",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9kVGpIOV9oQnNCTUdkLWhMU21CaGtfU3FIaWFlT2tsSmp2a1lhRnc5WVpYcnV5TWl6OVBOVVlSVkpUUzhVckFUTk4xc0M4OW9BenZLOA?oc=5",
-        "publishedAt": "2026-10-21T05:00:00.000Z"
+        "time": "13:04",
+        "title": "三菱電機－3日ぶり反落 ヒューマノイドとCNC工作機械が連携する加工システムを開発(トレーダーズ・ウェブ)",
+        "source": "Yahoo!ファイナンス",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZlRyVmtQUUhMdGktUGtKZTRTUVBQZVhEOGl5OXp1dm5TV2RISUVyVmVHbUVSejNuV1UwM04zYlBZSWdScEQtVXB2UXpMdlFHSGVTY1NOM3BIRVEtQW44RnZWcUdWaW1kTVdDb1JDajlzbFMwakw5bWVNQUxqWWNTd3NiSmpGZFk?oc=5",
+        "publishedAt": "2026-10-21T04:04:01.000Z"
+      },
+      {
+        "time": "17:51",
+        "title": "三菱電機が人型ロボットとCNCを言葉の指示で連携、2030年実用化へ",
+        "source": "FabScene",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbGkyd2ZJQVp6MWZ5ZUQwZXNSSXpQd1hkVl9iZEc3NUhmM1JPeXFkWWxjYWJwWVFJSW1NblhMUkk4UUlWNGFsWEc2Ulh1U3lHdWN2c2VqenA3LVQ0OFNqdFZ1N3ZpVElwZWdlWUNmdXJra08yR2ZzSEFack8tUFZISEc5cFdhS1FfVkJXNmNTMzZzVHF0TUFzRzNSU2pJWmFOS0VUM1BR0gGmAUFVX3lxTE1saTJ3ZklBWnoxZnllRDBlc1JJelB3WGRWX2JkRzc1SGYzUk95cWRZbGNhYnBZUUlJbU1uWExSSThRSVY0YWxYRzZSWHVTeUd1Y3ZzZWp6cDctVDQ4U2p0VnU3dmlUSXBlZ2VZQ2Z1cmtrTzJHZnNIQVpyTy1QVkhIRzlwV2FLUV9WQlc2Y1MzNnNUcXRNQXNHM1JTaklaYU5LRVQzUFE?oc=5",
+        "publishedAt": "2026-10-21T08:51:52.000Z"
       }
     ],
     "worldHeadlines": [
@@ -177,11 +177,11 @@
         "publishedAt": "2026-10-21T08:35:16.000Z"
       },
       {
-        "time": "18:09",
-        "title": "不出馬表明 鳥取知事が自作の歌",
+        "time": "19:11",
+        "title": "不出馬表明の鳥取知事 会見で涙",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599605?source=rss",
-        "publishedAt": "2026-10-21T09:09:38.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6599611?source=rss",
+        "publishedAt": "2026-10-21T10:11:12.000Z"
       },
       {
         "time": "14:54",

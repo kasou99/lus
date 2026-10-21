@@ -1,21 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-21T09:43:58.590Z",
+  "updatedAt": "2026-10-21T10:17:30.400Z",
   "items": [
     {
-      "time": "15:44",
-      "title": "政権発足1年受け首相が意気込み",
+      "time": "18:47",
+      "title": "武部農相に選挙運動員買収疑惑",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599586?source=rss",
-      "publishedAt": "2026-10-21T06:44:16.000Z",
-      "xQuery": "政権発足1年受け首相が意気込み"
-    },
-    {
-      "time": "17:58",
-      "title": "オリオン座流星群 22日3時ピーク",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599601?source=rss",
-      "publishedAt": "2026-10-21T08:58:48.000Z",
-      "xQuery": "オリオン座流星群 22日3時ピーク"
+      "url": "https://news.yahoo.co.jp/pickup/6599608?source=rss",
+      "publishedAt": "2026-10-21T09:47:56.000Z",
+      "xQuery": "武部農相に選挙運動員買収疑惑"
     },
     {
       "time": "18:12",
@@ -24,6 +16,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6599604?source=rss",
       "publishedAt": "2026-10-21T09:12:02.000Z",
       "xQuery": "台風30号 24日九州で警報級大雨か"
+    },
+    {
+      "time": "19:11",
+      "title": "不出馬表明の鳥取知事 会見で涙",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599611?source=rss",
+      "publishedAt": "2026-10-21T10:11:12.000Z",
+      "xQuery": "不出馬表明の鳥取知事 会見で涙"
     },
     {
       "time": "17:35",
