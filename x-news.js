@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-21T01:27:57.417Z",
+  "updatedAt": "2026-10-21T01:52:45.749Z",
   "items": [
     {
-      "time": "07:57",
-      "title": "支援金の対象者の案 首相が答弁",
+      "time": "08:37",
+      "title": "米大統領 ウに露との和平合意促す",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599541?source=rss",
-      "publishedAt": "2026-10-20T22:57:20.000Z",
-      "xQuery": "支援金の対象者の案 首相が答弁"
+      "url": "https://news.yahoo.co.jp/pickup/6599544?source=rss",
+      "publishedAt": "2026-10-20T23:37:28.000Z",
+      "xQuery": "米大統領 ウに露との和平合意促す"
     },
     {
       "time": "08:22",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "SpaceXとテスラ 経営統合を検討"
     },
     {
-      "time": "07:39",
-      "title": "車が歩道に突っ込む 歩行者が死亡",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599538?source=rss",
-      "publishedAt": "2026-10-20T22:39:29.000Z",
-      "xQuery": "車が歩道に突っ込む 歩行者が死亡"
-    },
-    {
       "time": "10:05",
       "title": "車が親子をはねる 16歳が意識不明",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6599552?source=rss",
       "publishedAt": "2026-10-21T01:05:03.000Z",
       "xQuery": "車が親子をはねる 16歳が意識不明"
+    },
+    {
+      "time": "10:42",
+      "title": "中学生の胸を刺した疑い 14歳逮捕",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599554?source=rss",
+      "publishedAt": "2026-10-21T01:42:27.000Z",
+      "xQuery": "中学生の胸を刺した疑い 14歳逮捕"
     },
     {
       "time": "09:43",
