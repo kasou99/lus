@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-21T12:51:20.660Z",
+  "updatedAt": "2026-10-21T13:18:33.868Z",
   "items": [
     {
       "time": "21:10",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "氾濫巡り気象庁 直ちに安全確保を"
     },
     {
-      "time": "20:30",
-      "title": "秋田県 夜遅くにかけ激しい雨恐れ",
+      "time": "22:03",
+      "title": "沖縄の民家に女性遺体 体に切り傷",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599616?source=rss",
-      "publishedAt": "2026-10-21T11:30:57.000Z",
-      "xQuery": "秋田県 夜遅くにかけ激しい雨恐れ"
+      "url": "https://news.yahoo.co.jp/pickup/6599629?source=rss",
+      "publishedAt": "2026-10-21T13:03:09.000Z",
+      "xQuery": "沖縄の民家に女性遺体 体に切り傷"
     }
   ]
 };
