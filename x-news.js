@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-21T11:16:38.842Z",
+  "updatedAt": "2026-10-21T11:41:31.246Z",
   "items": [
     {
-      "time": "19:56",
-      "title": "秋田県・子吉川に氾濫特別警報",
+      "time": "20:31",
+      "title": "秋田県の子吉川が氾濫 安全確保を",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599614?source=rss",
-      "publishedAt": "2026-10-21T10:56:43.000Z",
-      "xQuery": "秋田県・子吉川に氾濫特別警報"
+      "url": "https://news.yahoo.co.jp/pickup/6599617?source=rss",
+      "publishedAt": "2026-10-21T11:31:57.000Z",
+      "xQuery": "秋田県の子吉川が氾濫 安全確保を"
     },
     {
       "time": "20:08",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "秋田・子吉川に特別警報 最新情報"
     },
     {
-      "time": "18:47",
-      "title": "武部農相に選挙運動員買収疑惑",
+      "time": "20:30",
+      "title": "秋田県 夜遅くにかけ激しい雨恐れ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599608?source=rss",
-      "publishedAt": "2026-10-21T09:47:56.000Z",
-      "xQuery": "武部農相に選挙運動員買収疑惑"
+      "url": "https://news.yahoo.co.jp/pickup/6599616?source=rss",
+      "publishedAt": "2026-10-21T11:30:57.000Z",
+      "xQuery": "秋田県 夜遅くにかけ激しい雨恐れ"
     },
     {
-      "time": "18:12",
-      "title": "台風30号 24日九州で警報級大雨か",
+      "time": "19:15",
+      "title": "復興相の事務所数 公選法違反疑い",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599604?source=rss",
-      "publishedAt": "2026-10-21T09:12:02.000Z",
-      "xQuery": "台風30号 24日九州で警報級大雨か"
+      "url": "https://news.yahoo.co.jp/pickup/6599609?source=rss",
+      "publishedAt": "2026-10-21T10:15:09.000Z",
+      "xQuery": "復興相の事務所数 公選法違反疑い"
     },
     {
       "time": "19:11",
