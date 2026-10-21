@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-21T13:18:33.868Z",
+  "updatedAt": "2026-10-21T13:41:35.321Z",
   "items": [
     {
       "time": "21:10",
@@ -10,14 +10,6 @@ window.LUS_X_NEWS = {
       "xQuery": "秋田・子吉川に特別警報 最新情報"
     },
     {
-      "time": "21:30",
-      "title": "避難＝避難所ではない 垂直避難を",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599620?source=rss",
-      "publishedAt": "2026-10-21T12:30:07.000Z",
-      "xQuery": "避難＝避難所ではない 垂直避難を"
-    },
-    {
       "time": "21:09",
       "title": "秋田の子吉川・石沢川で氾濫発生",
       "source": "Yahoo!ニュース",
@@ -26,20 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "秋田の子吉川・石沢川で氾濫発生"
     },
     {
-      "time": "21:44",
-      "title": "氾濫巡り気象庁 直ちに安全確保を",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599626?source=rss",
-      "publishedAt": "2026-10-21T12:44:06.000Z",
-      "xQuery": "氾濫巡り気象庁 直ちに安全確保を"
-    },
-    {
       "time": "22:03",
       "title": "沖縄の民家に女性遺体 体に切り傷",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6599629?source=rss",
       "publishedAt": "2026-10-21T13:03:09.000Z",
       "xQuery": "沖縄の民家に女性遺体 体に切り傷"
+    },
+    {
+      "time": "22:13",
+      "title": "床はう患者を職員が撮影 病院謝罪",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599631?source=rss",
+      "publishedAt": "2026-10-21T13:13:19.000Z",
+      "xQuery": "床はう患者を職員が撮影 病院謝罪"
+    },
+    {
+      "time": "19:17",
+      "title": "コンセントで感電 子供の事故注意",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599610?source=rss",
+      "publishedAt": "2026-10-21T10:17:06.000Z",
+      "xQuery": "コンセントで感電 子供の事故注意"
     }
   ]
 };

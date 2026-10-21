@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-10-21T13:18:32.954Z",
+  "updatedAt": "2026-10-21T13:41:34.085Z",
   "groups": {
     "machineHeadlines": [
-      {
-        "time": "12:24",
-        "title": "三菱電機、ヒューマノイドとCNC工作機械を連携させる加工システム開発 JIMTOFで披露 ｜Seizo Trend",
-        "source": "ビジネス+IT",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9mQTU4Z0lXcF84Z3BSQWZLVkpXM2pVTFQ2Wk9vSmtfS01uU29iRGstOXdjUV82MTRDWC1HMzJVeWNBQjNiVkUzcGtJRl9GeFE?oc=5",
-        "publishedAt": "2026-10-21T03:24:00.000Z"
-      },
       {
         "time": "11:50",
         "title": "業界初、ヒューマノイドとCNC工作機械が連携する加工システムを開発",
         "source": "www.mitsubishielectric.co.jp",
         "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1mN3U4VGdOaVNGT0ZyelN0NHdzdDVsRktXeGxPeEVSWXRQM0djR2VBLTczMi1jTVN5Qkw4QnJJeVRGZy1nZkRUak1vYVQyMFhnbDNIaEdvclNsckJqM2J6TU42QlAxTVk?oc=5",
         "publishedAt": "2026-10-21T02:50:29.000Z"
+      },
+      {
+        "time": "12:24",
+        "title": "三菱電機、ヒューマノイドとCNC工作機械を連携させる加工システム開発 JIMTOFで披露 ｜Seizo Trend",
+        "source": "ビジネス+IT",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9mQTU4Z0lXcF84Z3BSQWZLVkpXM2pVTFQ2Wk9vSmtfS01uU29iRGstOXdjUV82MTRDWC1HMzJVeWNBQjNiVkUzcGtJRl9GeFE?oc=5",
+        "publishedAt": "2026-10-21T03:24:00.000Z"
       },
       {
         "time": "18:53",
