@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-21T06:29:57.678Z",
+  "updatedAt": "2026-10-21T06:58:18.251Z",
   "items": [
+    {
+      "time": "15:44",
+      "title": "政権発足1年受け首相が意気込み",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599586?source=rss",
+      "publishedAt": "2026-10-21T06:44:16.000Z",
+      "xQuery": "政権発足1年受け首相が意気込み"
+    },
     {
       "time": "14:15",
       "title": "電気ガス料金 1～3月分の補助検討",
@@ -8,22 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6599582?source=rss",
       "publishedAt": "2026-10-21T05:15:19.000Z",
       "xQuery": "電気ガス料金 1～3月分の補助検討"
-    },
-    {
-      "time": "11:36",
-      "title": "消費減税の財源 首相は従来の答弁",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599559?source=rss",
-      "publishedAt": "2026-10-21T02:36:50.000Z",
-      "xQuery": "消費減税の財源 首相は従来の答弁"
-    },
-    {
-      "time": "13:00",
-      "title": "八潮陥没 遺族が賠償求め県を提訴",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599573?source=rss",
-      "publishedAt": "2026-10-21T04:00:34.000Z",
-      "xQuery": "八潮陥没 遺族が賠償求め県を提訴"
     },
     {
       "time": "14:06",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6599579?source=rss",
       "publishedAt": "2026-10-21T05:08:53.000Z",
       "xQuery": "カフェインレスコーヒー 市場拡大"
+    },
+    {
+      "time": "14:54",
+      "title": "元timelesz猪俣周杜氏 不起訴処分",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599585?source=rss",
+      "publishedAt": "2026-10-21T05:54:04.000Z",
+      "xQuery": "元timelesz猪俣周杜氏 不起訴処分"
     }
   ]
 };
