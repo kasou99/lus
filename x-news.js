@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-21T03:21:29.790Z",
+  "updatedAt": "2026-10-21T03:46:01.977Z",
   "items": [
     {
       "time": "12:04",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "外務省局長 露に記者の解放要求"
     },
     {
-      "time": "11:35",
-      "title": "鳥取県知事 知事選不出馬を表明",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599558?source=rss",
-      "publishedAt": "2026-10-21T02:35:19.000Z",
-      "xQuery": "鳥取県知事 知事選不出馬を表明"
-    },
-    {
       "time": "11:49",
       "title": "武部農相 公選法違反疑いを陳謝",
       "source": "Yahoo!ニュース",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6599554?source=rss",
       "publishedAt": "2026-10-21T01:42:27.000Z",
       "xQuery": "中学生の胸を刺した疑い 14歳逮捕"
+    },
+    {
+      "time": "12:06",
+      "title": "「カーセンサーnet」情報漏えいか",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599567?source=rss",
+      "publishedAt": "2026-10-21T03:06:11.000Z",
+      "xQuery": "「カーセンサーnet」情報漏えいか"
     }
   ]
 };
