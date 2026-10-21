@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-10-21T04:44:43.125Z",
+  "updatedAt": "2026-10-21T05:17:26.969Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "11:50",
+        "title": "業界初、ヒューマノイドとCNC工作機械が連携する加工システムを開発",
+        "source": "www.mitsubishielectric.co.jp",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1mN3U4VGdOaVNGT0ZyelN0NHdzdDVsRktXeGxPeEVSWXRQM0djR2VBLTczMi1jTVN5Qkw4QnJJeVRGZy1nZkRUak1vYVQyMFhnbDNIaEdvclNsckJqM2J6TU42QlAxTVk?oc=5",
+        "publishedAt": "2026-10-21T02:50:29.000Z"
+      },
+      {
+        "time": "13:46",
+        "title": "三菱電機、ヒューマノイドとCNC工作機械を連携させる加工システム開発 JIMTOFで披露 ｜Seizo Trend",
+        "source": "ビジネス+IT",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9mQTU4Z0lXcF84Z3BSQWZLVkpXM2pVTFQ2Wk9vSmtfS01uU29iRGstOXdjUV82MTRDWC1HMzJVeWNBQjNiVkUzcGtJRl9GeFE?oc=5",
+        "publishedAt": "2026-10-21T04:46:45.000Z"
+      },
       {
         "time": "13:04",
         "title": "三菱電機－3日ぶり反落 ヒューマノイドとCNC工作機械が連携する加工システムを開発(トレーダーズ・ウェブ)",
@@ -17,13 +31,6 @@
         "publishedAt": "2026-10-20T22:45:00.000Z"
       },
       {
-        "time": "11:41",
-        "title": "三菱電機、「フィジカルAIを介してヒューマノイドロボットとCNC工作機械がシームレスに連携する加工システム」を開発",
-        "source": "日本経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB1ZzBaV0NCQVRKS0lNTzVnQ1hvRWlrNTB5SGRVVjROb255QXNVWmlITUpzQ0p0NVhFTTM0d09SMUREVUdOV2tlZWJVOXFsOFdEOE9SWC1ocUlkOXdPTGxHU0NqT2kxcWVJZHJtMQ?oc=5",
-        "publishedAt": "2026-10-21T02:41:27.000Z"
-      },
-      {
         "time": "10:56",
         "title": "自宅の机が小さな町工場に！ 8種類の工作機械が1台にまとまった「卓上工房」登場",
         "source": "おたくま経済新聞",
@@ -31,32 +38,25 @@
         "publishedAt": "2026-10-21T01:56:00.000Z"
       },
       {
+        "time": "14:00",
+        "title": "三菱電機、ヒューマノイドと工作機械が連携する加工システム開発、２０３０年実用化へ - kabu-ir.com",
+        "source": "kabu-ir.com",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9kVGpIOV9oQnNCTUdkLWhMU21CaGtfU3FIaWFlT2tsSmp2a1lhRnc5WVpYcnV5TWl6OVBOVVlSVkpUUzhVckFUTk4xc0M4OW9BenZLOA?oc=5",
+        "publishedAt": "2026-10-21T05:00:00.000Z"
+      },
+      {
         "time": "08:00",
-        "title": "自宅の机が、本格「工房」になる。8つの工作機械が1台に——複合機「卓上工房」、10月21日よりMakuakeで先行予約販売を開始 | 合同会社TORITEMPのプレスリリース",
+        "title": "自宅の机が、本格「工房」になる。8つの工作機械が1台に——複合機「卓上工房」、10月21日よりMakuakeで先行予約販売を開始",
         "source": "PR TIMES",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1pc0FRRU9mUHhDX19vSUhfMzc2RUFkLXdoSHQ5VkZYenZmQnR4TVhUaDJLRW9vNDk5M3ZTZUdMYzk4R1FyQ0dkNlNKN1AtbmZLY1ZXQ1pvaWVuMlRKaDhPSWs2QlNLanJsaGc?oc=5",
         "publishedAt": "2026-10-20T23:00:01.000Z"
       },
       {
-        "time": "14:48",
-        "title": "大和駿太郎准教授が「日本機械学会 生産加工・工作機械部門講演会 優秀講演論文表彰」を受賞 | 教職員の受賞 | ニュース",
-        "source": "東京農工大学",
-        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB1U3FRY3V4VldHOUNfMzBRb29kOGJlSjA5MnR2ZHhGY3pESjUzdmpON2NXVXBEVE9PRG1fZlVUbGFOZXpaSTE4Q25UN2QyMDMwZnBHOGxZczVWbmY0bkFTWjhn?oc=5",
-        "publishedAt": "2026-10-20T05:48:30.000Z"
-      },
-      {
-        "time": "17:35",
-        "title": "電線の端材でストラップ制作 Ｍ．Ｓ．Ｅ．が商品化",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TOThSZjN5eER3TlU3MHo0RE9lLXdpRFVod2Mtams1bFZvcjBKQnpvSFYxMjJPYm5HZVd5RlhtcHlTN3R2OGdVLUs5THBCQVVCWEE?oc=5",
-        "publishedAt": "2026-10-20T08:35:29.000Z"
-      },
-      {
-        "time": "14:38",
-        "title": "ＮＴＮ－続落 工作機械主軸用センサー内蔵軸受ユニットの受注活動開始へ(トレーダーズ・ウェブ)",
-        "source": "Yahoo!ファイナンス",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORm0tV3M2MURrcjlLWFdVNWFTWjA1alVKcUxlcnVqMWN3dWhiVTlZSHZIajhHWlVUMmpnT0lwRWstdndYVXRVc3ZMM0drYVRZOVd5Y3hocmRLbjRuT2hNTWVtR1IxMUEwd1ItUkwycHNXdFRiemhiSE1sYW01c0UxOG5PekF6MGs?oc=5",
-        "publishedAt": "2026-10-20T05:38:02.000Z"
+        "time": "13:48",
+        "title": "三菱電機、ヒューマノイドとCNC工作機械がフィジカルAIで連携する加工システムを開発 JIMTOF2026でデモ展示予定",
+        "source": "au Webポータル",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0zdzJxQjhFaTdVeGo5c0FoNmpGYnpBYmJZOUE4Qm9DTmZvM2RnVXU2M3RlRnhiVWlfaF9UMEpBMlUxZC1MSkRUUDRoS2tvUTA0M0xfWUlMbXlvQlhPaTk3MWwxRnlIekFEckc0TGZ3?oc=5",
+        "publishedAt": "2026-10-21T04:48:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "14:06",
+        "title": "逮捕後に16歳が死亡 裁判で母訴え",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6599578?source=rss",
+        "publishedAt": "2026-10-21T05:06:26.000Z"
+      },
+      {
         "time": "13:00",
         "title": "八潮陥没 遺族が賠償求め県を提訴",
         "source": "Yahoo!ニュース",
@@ -163,11 +170,11 @@
         "publishedAt": "2026-10-21T02:35:19.000Z"
       },
       {
-        "time": "21:04",
-        "title": "「検察なめんなよ」発言 被告説明",
+        "time": "14:15",
+        "title": "アジアパラでも国歌取り違え3件",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599510?source=rss",
-        "publishedAt": "2026-10-20T12:04:27.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6599583?source=rss",
+        "publishedAt": "2026-10-21T05:15:40.000Z"
       },
       {
         "time": "10:05",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6599538?source=rss",
         "publishedAt": "2026-10-20T22:39:29.000Z"
-      },
-      {
-        "time": "10:42",
-        "title": "中学生の胸を刺した疑い 14歳逮捕",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599554?source=rss",
-        "publishedAt": "2026-10-21T01:42:27.000Z"
       }
     ],
     "subsidyHeadlines": [

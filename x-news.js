@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-21T04:44:43.730Z",
+  "updatedAt": "2026-10-21T05:17:27.787Z",
   "items": [
     {
       "time": "12:04",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "消費減税の財源 首相は従来の答弁"
     },
     {
-      "time": "12:06",
-      "title": "「カーセンサーnet」情報漏えいか",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599567?source=rss",
-      "publishedAt": "2026-10-21T03:06:11.000Z",
-      "xQuery": "「カーセンサーnet」情報漏えいか"
-    },
-    {
       "time": "13:00",
       "title": "八潮陥没 遺族が賠償求め県を提訴",
       "source": "Yahoo!ニュース",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "八潮陥没 遺族が賠償求め県を提訴"
     },
     {
-      "time": "10:42",
-      "title": "中学生の胸を刺した疑い 14歳逮捕",
+      "time": "14:06",
+      "title": "逮捕後に16歳が死亡 裁判で母訴え",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599554?source=rss",
-      "publishedAt": "2026-10-21T01:42:27.000Z",
-      "xQuery": "中学生の胸を刺した疑い 14歳逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6599578?source=rss",
+      "publishedAt": "2026-10-21T05:06:26.000Z",
+      "xQuery": "逮捕後に16歳が死亡 裁判で母訴え"
+    },
+    {
+      "time": "13:50",
+      "title": "下積み仕事はAIに 若手育成の今後",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599563?source=rss",
+      "publishedAt": "2026-10-21T04:50:20.000Z",
+      "xQuery": "下積み仕事はAIに 若手育成の今後"
     }
   ]
 };
