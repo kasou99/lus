@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T14:18:15.220Z",
+  "updatedAt": "2026-10-22T14:42:44.956Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -61,6 +61,13 @@
     ],
     "worldHeadlines": [
       {
+        "time": "23:28",
+        "title": "初の核最終処分場の操業決定 北欧",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6599748?source=rss",
+        "publishedAt": "2026-10-22T14:28:24.000Z"
+      },
+      {
         "time": "08:37",
         "title": "米大統領 ウに露との和平合意促す",
         "source": "Yahoo!ニュース",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6599658?source=rss",
         "publishedAt": "2026-10-21T23:28:40.000Z"
-      },
-      {
-        "time": "14:44",
-        "title": "負傷した脚自ら切断 ウ兵士の決断",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599696?source=rss",
-        "publishedAt": "2026-10-22T05:44:05.000Z"
       }
     ],
     "economyHeadlines": [

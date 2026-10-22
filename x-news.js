@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-22T14:18:16.290Z",
+  "updatedAt": "2026-10-22T14:42:45.700Z",
   "items": [
     {
       "time": "20:03",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "衆院比例議席巡り サンラグ式とは"
     },
     {
-      "time": "22:22",
-      "title": "軟禁下のスー・チー氏 次男と電話",
+      "time": "23:28",
+      "title": "初の核最終処分場の操業決定 北欧",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599742?source=rss",
-      "publishedAt": "2026-10-22T13:22:51.000Z",
-      "xQuery": "軟禁下のスー・チー氏 次男と電話"
+      "url": "https://news.yahoo.co.jp/pickup/6599748?source=rss",
+      "publishedAt": "2026-10-22T14:28:24.000Z",
+      "xQuery": "初の核最終処分場の操業決定 北欧"
     },
     {
       "time": "22:43",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "大阪で14歳が行方不明 14日朝から"
     },
     {
-      "time": "20:07",
-      "title": "PHP巡り一般ユーザーは対策必要?",
+      "time": "22:50",
+      "title": "免税制度変更へ「転売ヤー」防ぐ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599728?source=rss",
-      "publishedAt": "2026-10-22T11:07:47.000Z",
-      "xQuery": "PHP巡り一般ユーザーは対策必要?"
+      "url": "https://news.yahoo.co.jp/pickup/6599745?source=rss",
+      "publishedAt": "2026-10-22T13:50:19.000Z",
+      "xQuery": "免税制度変更へ「転売ヤー」防ぐ"
     },
     {
-      "time": "19:44",
-      "title": "関東でスガキヤ行列 愛知県民驚き",
+      "time": "23:06",
+      "title": "三菱自 ホンダに車両供給で合意",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599726?source=rss",
-      "publishedAt": "2026-10-22T10:44:31.000Z",
-      "xQuery": "関東でスガキヤ行列 愛知県民驚き"
+      "url": "https://news.yahoo.co.jp/pickup/6599746?source=rss",
+      "publishedAt": "2026-10-22T14:06:31.000Z",
+      "xQuery": "三菱自 ホンダに車両供給で合意"
     }
   ]
 };
