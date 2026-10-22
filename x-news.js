@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-22T02:25:01.241Z",
+  "updatedAt": "2026-10-22T02:47:09.506Z",
   "items": [
     {
       "time": "10:58",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "失効免許証を捜査流用 神奈川県警"
     },
     {
-      "time": "09:35",
-      "title": "社会人向け新教職課程 創設の方針",
+      "time": "09:28",
+      "title": "米メタ 7-9月期決算で26%増収",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599664?source=rss",
-      "publishedAt": "2026-10-22T00:35:34.000Z",
-      "xQuery": "社会人向け新教職課程 創設の方針"
+      "url": "https://news.yahoo.co.jp/pickup/6599663?source=rss",
+      "publishedAt": "2026-10-22T00:28:29.000Z",
+      "xQuery": "米メタ 7-9月期決算で26%増収"
     },
     {
-      "time": "08:55",
-      "title": "G7TV会議を首相欠席 与野党波紋",
+      "time": "11:33",
+      "title": "PHPの脆弱性 10年以上発見されず",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599660?source=rss",
-      "publishedAt": "2026-10-21T23:55:48.000Z",
-      "xQuery": "G7TV会議を首相欠席 与野党波紋"
+      "url": "https://news.yahoo.co.jp/pickup/6599674?source=rss",
+      "publishedAt": "2026-10-22T02:33:43.000Z",
+      "xQuery": "PHPの脆弱性 10年以上発見されず"
     },
     {
       "time": "10:23",
