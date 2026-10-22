@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-22T20:40:51.442Z",
+  "updatedAt": "2026-10-22T21:16:06.105Z",
   "items": [
     {
       "time": "23:28",
@@ -18,28 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "免税制度変更へ「転売ヤー」防ぐ"
     },
     {
+      "time": "06:12",
+      "title": "シャモンダウイルス 仏でヒト感染",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599754?source=rss",
+      "publishedAt": "2026-10-22T21:12:14.000Z",
+      "xQuery": "シャモンダウイルス 仏でヒト感染"
+    },
+    {
+      "time": "23:43",
+      "title": "モンゴル火災 日系企業幹部が謝罪",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599749?source=rss",
+      "publishedAt": "2026-10-22T14:43:02.000Z",
+      "xQuery": "モンゴル火災 日系企業幹部が謝罪"
+    },
+    {
       "time": "23:06",
       "title": "三菱自 ホンダに車両供給で合意",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6599746?source=rss",
       "publishedAt": "2026-10-22T14:06:31.000Z",
       "xQuery": "三菱自 ホンダに車両供給で合意"
-    },
-    {
-      "time": "23:54",
-      "title": "ゴルフで80万円負担 福岡県議証言",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599750?source=rss",
-      "publishedAt": "2026-10-22T14:54:19.000Z",
-      "xQuery": "ゴルフで80万円負担 福岡県議証言"
-    },
-    {
-      "time": "22:43",
-      "title": "大阪で14歳が行方不明 14日朝から",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599744?source=rss",
-      "publishedAt": "2026-10-22T13:43:09.000Z",
-      "xQuery": "大阪で14歳が行方不明 14日朝から"
     }
   ]
 };
