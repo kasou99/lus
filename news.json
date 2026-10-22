@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-10-22T22:15:12.223Z",
+  "updatedAt": "2026-10-22T22:38:25.359Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "05:00",
+        "title": "車向け工作機械受注、9月は26%増 部品メーカー伸びる",
+        "source": "日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8wMTk1dk5VUFZGSVVyUnN2azF1aFRmM0hGQm5SSkdRN3lZcWZHdWZ6QmJnYk1ZaXc2amNVX0hmT1R4WWZBeExPWm5lZjFUUXRfUFZYdVQwUkUyTWpUOEoyMV9iYmRTSTN5bW9zNU5FQmtYTGpFOU9kcW1BX1dKQjA?oc=5",
+        "publishedAt": "2026-10-22T20:00:00.000Z"
+      },
       {
         "time": "05:00",
         "title": "工作機械受注、9月60％増 北米・アジア活況 最高更新",
@@ -15,13 +22,6 @@
         "source": "静岡新聞DIGITAL",
         "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA3T01nVWotSVVSWHhXR1V3TG9ERnBkcV80QmlueXBNRVl2X2ZHN0UzNVQ4cXNEaTRfUXNzYmZ0Y1JsYjZSMTh3VllXVXF5UQ?oc=5",
         "publishedAt": "2026-10-22T20:00:00.000Z"
-      },
-      {
-        "time": "15:02",
-        "title": "9月の工作機械受注60%増、AI需要で過去最高額 過剰投資に懸念も",
-        "source": "日本経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBJUUtrbEpoUEJLc0xBUEhwYmg0NUs3UWxPMGJhM0pYLXNETGVVcWpzRGhVU0diY3d4a3VoMnpMazJ0aVpQMlBjS1JqY1poUTVjVUZrMWZvd3VRMzE2SjVicDZVdFg1eHd0QWxlQg?oc=5",
-        "publishedAt": "2026-10-22T06:02:49.000Z"
       },
       {
         "time": "13:00",
@@ -105,11 +105,25 @@
     ],
     "economyHeadlines": [
       {
+        "time": "07:36",
+        "title": "ANAが追加出資検討 中堅航空2社",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6599762?source=rss",
+        "publishedAt": "2026-10-22T22:36:33.000Z"
+      },
+      {
         "time": "12:06",
         "title": "PHP巡り 企業など対応に追われる",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6599679?source=rss",
         "publishedAt": "2026-10-22T03:06:18.000Z"
+      },
+      {
+        "time": "07:16",
+        "title": "大成建設・鹿島 国交省が処分方針",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6599759?source=rss",
+        "publishedAt": "2026-10-22T22:16:08.000Z"
       },
       {
         "time": "22:50",
@@ -131,20 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6599705?source=rss",
         "publishedAt": "2026-10-22T07:36:27.000Z"
-      },
-      {
-        "time": "12:09",
-        "title": "ミセス×ガスト特典 不正対策は",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599681?source=rss",
-        "publishedAt": "2026-10-22T03:09:01.000Z"
-      },
-      {
-        "time": "19:44",
-        "title": "関東でスガキヤ行列 愛知県民驚き",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599726?source=rss",
-        "publishedAt": "2026-10-22T10:44:31.000Z"
       }
     ],
     "localHeadlines": [

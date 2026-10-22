@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-22T22:15:13.097Z",
+  "updatedAt": "2026-10-22T22:38:26.513Z",
   "items": [
     {
       "time": "06:30",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "台風30号が先島諸島接近へ 警戒を"
     },
     {
-      "time": "23:28",
-      "title": "初の核最終処分場の操業決定 北欧",
+      "time": "07:36",
+      "title": "ANAが追加出資検討 中堅航空2社",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599748?source=rss",
-      "publishedAt": "2026-10-22T14:28:24.000Z",
-      "xQuery": "初の核最終処分場の操業決定 北欧"
+      "url": "https://news.yahoo.co.jp/pickup/6599762?source=rss",
+      "publishedAt": "2026-10-22T22:36:33.000Z",
+      "xQuery": "ANAが追加出資検討 中堅航空2社"
     },
     {
       "time": "06:21",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "NHKがBS再編検討 8Kの存廃焦点"
     },
     {
+      "time": "07:16",
+      "title": "大成建設・鹿島 国交省が処分方針",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599759?source=rss",
+      "publishedAt": "2026-10-22T22:16:08.000Z",
+      "xQuery": "大成建設・鹿島 国交省が処分方針"
+    },
+    {
       "time": "06:12",
       "title": "シャモンダウイルス 仏でヒト感染",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6599754?source=rss",
       "publishedAt": "2026-10-22T21:12:14.000Z",
       "xQuery": "シャモンダウイルス 仏でヒト感染"
-    },
-    {
-      "time": "23:43",
-      "title": "モンゴル火災 日系企業幹部が謝罪",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599749?source=rss",
-      "publishedAt": "2026-10-22T14:43:02.000Z",
-      "xQuery": "モンゴル火災 日系企業幹部が謝罪"
     }
   ]
 };
