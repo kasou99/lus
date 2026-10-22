@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T08:24:32.261Z",
+  "updatedAt": "2026-10-22T08:47:24.593Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,18 +31,18 @@
         "publishedAt": "2026-10-21T21:00:00.000Z"
       },
       {
-        "time": "06:30",
-        "title": "今日の注目スケジュール：工作機械受注、トルコ中央銀行政策金利発表、欧ユーロ圏消費者信頼感指数など",
-        "source": "株探",
-        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAtbkljWC1kWFVJTURLVGl0WnF1S2pqTFEzN1VFRlNpZVJwUHF0Ri05N191UGhQMHdUQklEU3FRYUkybDBpVDJ4REltTVFjYnBLZFhaVkNDbFpuTlk1ZDhHTw?oc=5",
-        "publishedAt": "2026-10-21T21:30:00.000Z"
-      },
-      {
         "time": "05:00",
         "title": "フィジカルAI介しヒト型ロボと工作機械が連携 三菱電機",
         "source": "日刊工業新聞 電子版",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBleWU2SVNkZVRwMnpJcnFOZG1aaGxha3NrTkJhNWNJb0xldFAxMV9ibmljaFRVR3pxRWZTVEhIdGFiUThHc3h2SzVYV3J3UFRMY0wwdGVtcFY?oc=5",
         "publishedAt": "2026-10-21T20:00:00.000Z"
+      },
+      {
+        "time": "06:30",
+        "title": "今日の注目スケジュール：工作機械受注、トルコ中央銀行政策金利発表、欧ユーロ圏消費者信頼感指数など",
+        "source": "株探",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAtbkljWC1kWFVJTURLVGl0WnF1S2pqTFEzN1VFRlNpZVJwUHF0Ri05N191UGhQMHdUQklEU3FRYUkybDBpVDJ4REltTVFjYnBLZFhaVkNDbFpuTlk1ZDhHTw?oc=5",
+        "publishedAt": "2026-10-21T21:30:00.000Z"
       },
       {
         "time": "11:04",

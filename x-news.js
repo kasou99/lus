@@ -1,14 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-22T08:24:33.003Z",
+  "updatedAt": "2026-10-22T08:47:25.516Z",
   "items": [
-    {
-      "time": "16:58",
-      "title": "ドラフト速報 12球団の指名は",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599703?source=rss",
-      "publishedAt": "2026-10-22T07:58:50.000Z",
-      "xQuery": "ドラフト速報 12球団の指名は"
-    },
     {
       "time": "13:27",
       "title": "米 サウジの大使館員らに退避命令",
@@ -16,6 +8,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6599688?source=rss",
       "publishedAt": "2026-10-22T04:27:37.000Z",
       "xQuery": "米 サウジの大使館員らに退避命令"
+    },
+    {
+      "time": "16:36",
+      "title": "王子コンテナーに公取委が勧告",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599705?source=rss",
+      "publishedAt": "2026-10-22T07:36:27.000Z",
+      "xQuery": "王子コンテナーに公取委が勧告"
     },
     {
       "time": "16:54",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "川崎競馬の厩務員自殺 労災認定"
     },
     {
-      "time": "16:36",
-      "title": "王子コンテナーに公取委が勧告",
+      "time": "16:50",
+      "title": "都内の16歳女子 16%に抑うつ症状",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599705?source=rss",
-      "publishedAt": "2026-10-22T07:36:27.000Z",
-      "xQuery": "王子コンテナーに公取委が勧告"
+      "url": "https://news.yahoo.co.jp/pickup/6599706?source=rss",
+      "publishedAt": "2026-10-22T07:50:07.000Z",
+      "xQuery": "都内の16歳女子 16%に抑うつ症状"
     }
   ]
 };
