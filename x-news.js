@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-22T21:16:06.105Z",
+  "updatedAt": "2026-10-22T21:38:21.712Z",
   "items": [
+    {
+      "time": "06:30",
+      "title": "台風30号が先島諸島接近へ 警戒を",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599757?source=rss",
+      "publishedAt": "2026-10-22T21:30:26.000Z",
+      "xQuery": "台風30号が先島諸島接近へ 警戒を"
+    },
     {
       "time": "23:28",
       "title": "初の核最終処分場の操業決定 北欧",
@@ -10,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "初の核最終処分場の操業決定 北欧"
     },
     {
-      "time": "22:50",
-      "title": "免税制度変更へ「転売ヤー」防ぐ",
+      "time": "06:21",
+      "title": "NHKがBS再編検討 8Kの存廃焦点",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599745?source=rss",
-      "publishedAt": "2026-10-22T13:50:19.000Z",
-      "xQuery": "免税制度変更へ「転売ヤー」防ぐ"
+      "url": "https://news.yahoo.co.jp/pickup/6599756?source=rss",
+      "publishedAt": "2026-10-22T21:21:59.000Z",
+      "xQuery": "NHKがBS再編検討 8Kの存廃焦点"
     },
     {
       "time": "06:12",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6599749?source=rss",
       "publishedAt": "2026-10-22T14:43:02.000Z",
       "xQuery": "モンゴル火災 日系企業幹部が謝罪"
-    },
-    {
-      "time": "23:06",
-      "title": "三菱自 ホンダに車両供給で合意",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599746?source=rss",
-      "publishedAt": "2026-10-22T14:06:31.000Z",
-      "xQuery": "三菱自 ホンダに車両供給で合意"
     }
   ]
 };
