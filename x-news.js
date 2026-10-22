@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-22T13:19:39.130Z",
+  "updatedAt": "2026-10-22T13:43:08.738Z",
   "items": [
     {
       "time": "20:03",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "発足1年の高市政権 麻生氏が評価"
     },
     {
-      "time": "18:54",
-      "title": "カプコン 1177万件の情報漏えい",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599723?source=rss",
-      "publishedAt": "2026-10-22T09:54:24.000Z",
-      "xQuery": "カプコン 1177万件の情報漏えい"
-    },
-    {
       "time": "20:07",
       "title": "PHP巡り一般ユーザーは対策必要?",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6599728?source=rss",
       "publishedAt": "2026-10-22T11:07:47.000Z",
       "xQuery": "PHP巡り一般ユーザーは対策必要?"
+    },
+    {
+      "time": "22:22",
+      "title": "軟禁下のスー・チー氏 次男と電話",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599742?source=rss",
+      "publishedAt": "2026-10-22T13:22:51.000Z",
+      "xQuery": "軟禁下のスー・チー氏 次男と電話"
     },
     {
       "time": "19:44",

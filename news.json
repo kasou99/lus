@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T13:19:38.188Z",
+  "updatedAt": "2026-10-22T13:43:06.598Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -75,18 +75,18 @@
         "publishedAt": "2026-10-22T04:27:37.000Z"
       },
       {
-        "time": "18:31",
-        "title": "米国防長官 ネタニヤフ首相と会談",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599496?source=rss",
-        "publishedAt": "2026-10-20T09:31:37.000Z"
-      },
-      {
         "time": "06:57",
         "title": "PHPに欠陥 欧州各国でサイト遮断",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6599650?source=rss",
         "publishedAt": "2026-10-21T21:57:25.000Z"
+      },
+      {
+        "time": "22:22",
+        "title": "軟禁下のスー・チー氏 次男と電話",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6599742?source=rss",
+        "publishedAt": "2026-10-22T13:22:51.000Z"
       },
       {
         "time": "08:28",
