@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-22T11:41:06.710Z",
+  "updatedAt": "2026-10-22T12:26:59.049Z",
   "items": [
     {
       "time": "18:04",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "発足1年の高市政権 麻生氏が評価"
     },
     {
-      "time": "17:50",
-      "title": "14歳の中学生が行方不明 大阪",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599713?source=rss",
-      "publishedAt": "2026-10-22T08:50:00.000Z",
-      "xQuery": "14歳の中学生が行方不明 大阪"
-    },
-    {
       "time": "18:54",
       "title": "カプコン 1177万件の情報漏えい",
       "source": "Yahoo!ニュース",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6599714?source=rss",
       "publishedAt": "2026-10-22T08:51:58.000Z",
       "xQuery": "不登校のほぼ半数 学校健診受けず"
+    },
+    {
+      "time": "19:44",
+      "title": "関東でスガキヤ行列 愛知県民驚き",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599726?source=rss",
+      "publishedAt": "2026-10-22T10:44:31.000Z",
+      "xQuery": "関東でスガキヤ行列 愛知県民驚き"
     }
   ]
 };
