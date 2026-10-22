@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T00:45:34.816Z",
+  "updatedAt": "2026-10-22T01:25:49.482Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -112,13 +112,6 @@
         "publishedAt": "2026-10-21T14:37:56.000Z"
       },
       {
-        "time": "08:22",
-        "title": "SpaceXとテスラ 経営統合を検討",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599543?source=rss",
-        "publishedAt": "2026-10-20T23:22:38.000Z"
-      },
-      {
         "time": "14:50",
         "title": "米ネトフリ純利益44%増 7～9月期",
         "source": "Yahoo!ニュース",
@@ -133,18 +126,25 @@
         "publishedAt": "2026-10-22T00:28:29.000Z"
       },
       {
-        "time": "08:44",
-        "title": "北海道職員が「就活セクハラ」か",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599546?source=rss",
-        "publishedAt": "2026-10-20T23:44:29.000Z"
-      },
-      {
         "time": "16:48",
         "title": "マック390円セット 全国販売開始",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6599592?source=rss",
         "publishedAt": "2026-10-21T07:48:42.000Z"
+      },
+      {
+        "time": "09:46",
+        "title": "仕事探し困難「通信困窮」の実態",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6599665?source=rss",
+        "publishedAt": "2026-10-22T00:46:20.000Z"
+      },
+      {
+        "time": "09:26",
+        "title": "Z世代人気の無人カフェ 拡大の訳",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6599548?source=rss",
+        "publishedAt": "2026-10-21T00:26:51.000Z"
       }
     ],
     "localHeadlines": [
@@ -163,18 +163,11 @@
         "publishedAt": "2026-10-21T14:21:56.000Z"
       },
       {
-        "time": "22:03",
-        "title": "沖縄の民家に女性遺体 体に切り傷",
+        "time": "10:23",
+        "title": "乳児遺体遺棄した疑い 24歳女逮捕",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599629?source=rss",
-        "publishedAt": "2026-10-21T13:03:09.000Z"
-      },
-      {
-        "time": "02:45",
-        "title": "88歳の父死亡 傷害疑いで娘を逮捕",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599636?source=rss",
-        "publishedAt": "2026-10-21T17:45:27.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6599668?source=rss",
+        "publishedAt": "2026-10-22T01:23:17.000Z"
       },
       {
         "time": "22:13",
@@ -189,6 +182,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6599578?source=rss",
         "publishedAt": "2026-10-21T05:06:26.000Z"
+      },
+      {
+        "time": "17:13",
+        "title": "八田與一容疑者 警察が海を捜索",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6599593?source=rss",
+        "publishedAt": "2026-10-21T08:13:35.000Z"
       }
     ],
     "subsidyHeadlines": [

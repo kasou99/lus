@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-22T00:45:35.711Z",
+  "updatedAt": "2026-10-22T01:25:50.492Z",
   "items": [
     {
-      "time": "07:38",
-      "title": "台風 23日から沖縄先島諸島に接近",
+      "time": "09:35",
+      "title": "社会人向け新教職課程 創設の方針",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599654?source=rss",
-      "publishedAt": "2026-10-21T22:38:46.000Z",
-      "xQuery": "台風 23日から沖縄先島諸島に接近"
+      "url": "https://news.yahoo.co.jp/pickup/6599664?source=rss",
+      "publishedAt": "2026-10-22T00:35:34.000Z",
+      "xQuery": "社会人向け新教職課程 創設の方針"
     },
     {
       "time": "09:04",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "PHPの脆弱性 米OpenAIのAIで発見"
     },
     {
-      "time": "08:28",
-      "title": "メタに約4兆円支払い命令 米地裁",
+      "time": "09:46",
+      "title": "仕事探し困難「通信困窮」の実態",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599658?source=rss",
-      "publishedAt": "2026-10-21T23:28:40.000Z",
-      "xQuery": "メタに約4兆円支払い命令 米地裁"
+      "url": "https://news.yahoo.co.jp/pickup/6599665?source=rss",
+      "publishedAt": "2026-10-22T00:46:20.000Z",
+      "xQuery": "仕事探し困難「通信困窮」の実態"
     }
   ]
 };
