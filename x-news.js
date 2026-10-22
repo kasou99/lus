@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-22T08:47:25.516Z",
+  "updatedAt": "2026-10-22T09:19:36.940Z",
   "items": [
     {
-      "time": "13:27",
-      "title": "米 サウジの大使館員らに退避命令",
+      "time": "18:04",
+      "title": "台風30号 非常に強い勢力で沖縄へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599688?source=rss",
-      "publishedAt": "2026-10-22T04:27:37.000Z",
-      "xQuery": "米 サウジの大使館員らに退避命令"
+      "url": "https://news.yahoo.co.jp/pickup/6599718?source=rss",
+      "publishedAt": "2026-10-22T09:04:33.000Z",
+      "xQuery": "台風30号 非常に強い勢力で沖縄へ"
     },
     {
       "time": "16:36",
@@ -18,6 +18,14 @@ window.LUS_X_NEWS = {
       "xQuery": "王子コンテナーに公取委が勧告"
     },
     {
+      "time": "13:27",
+      "title": "米 サウジの大使館員らに退避命令",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599688?source=rss",
+      "publishedAt": "2026-10-22T04:27:37.000Z",
+      "xQuery": "米 サウジの大使館員らに退避命令"
+    },
+    {
       "time": "16:54",
       "title": "PHP脆弱性悪用の試み増 数百万件",
       "source": "Yahoo!ニュース",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "PHP脆弱性悪用の試み増 数百万件"
     },
     {
-      "time": "16:15",
-      "title": "川崎競馬の厩務員自殺 労災認定",
+      "time": "17:50",
+      "title": "14歳の中学生が行方不明 大阪",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599701?source=rss",
-      "publishedAt": "2026-10-22T07:15:13.000Z",
-      "xQuery": "川崎競馬の厩務員自殺 労災認定"
-    },
-    {
-      "time": "16:50",
-      "title": "都内の16歳女子 16%に抑うつ症状",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599706?source=rss",
-      "publishedAt": "2026-10-22T07:50:07.000Z",
-      "xQuery": "都内の16歳女子 16%に抑うつ症状"
+      "url": "https://news.yahoo.co.jp/pickup/6599713?source=rss",
+      "publishedAt": "2026-10-22T08:50:00.000Z",
+      "xQuery": "14歳の中学生が行方不明 大阪"
     }
   ]
 };
