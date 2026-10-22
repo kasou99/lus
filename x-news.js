@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-22T07:26:22.571Z",
+  "updatedAt": "2026-10-22T07:46:36.209Z",
   "items": [
     {
       "time": "13:56",
@@ -18,6 +18,14 @@ window.LUS_X_NEWS = {
       "xQuery": "PHP問題 政府機関の被害報告なし"
     },
     {
+      "time": "13:27",
+      "title": "米 サウジの大使館員らに退避命令",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599688?source=rss",
+      "publishedAt": "2026-10-22T04:27:37.000Z",
+      "xQuery": "米 サウジの大使館員らに退避命令"
+    },
+    {
       "time": "14:21",
       "title": "マンジャロを不正販売の疑い 逮捕",
       "source": "Yahoo!ニュース",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "マンジャロを不正販売の疑い 逮捕"
     },
     {
-      "time": "13:00",
-      "title": "しんじょう君巡る裁判 市が上告",
+      "time": "16:15",
+      "title": "川崎競馬の厩務員自殺 労災認定",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599685?source=rss",
-      "publishedAt": "2026-10-22T04:00:11.000Z",
-      "xQuery": "しんじょう君巡る裁判 市が上告"
-    },
-    {
-      "time": "15:24",
-      "title": "70cmのジュラ紀恐竜足跡 化石発見",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599697?source=rss",
-      "publishedAt": "2026-10-22T06:24:24.000Z",
-      "xQuery": "70cmのジュラ紀恐竜足跡 化石発見"
+      "url": "https://news.yahoo.co.jp/pickup/6599701?source=rss",
+      "publishedAt": "2026-10-22T07:15:13.000Z",
+      "xQuery": "川崎競馬の厩務員自殺 労災認定"
     }
   ]
 };
