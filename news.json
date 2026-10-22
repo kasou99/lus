@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T01:25:49.482Z",
+  "updatedAt": "2026-10-22T01:50:40.330Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -22,13 +22,6 @@
         "source": "株探",
         "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAtbkljWC1kWFVJTURLVGl0WnF1S2pqTFEzN1VFRlNpZVJwUHF0Ri05N191UGhQMHdUQklEU3FRYUkybDBpVDJ4REltTVFjYnBLZFhaVkNDbFpuTlk1ZDhHTw?oc=5",
         "publishedAt": "2026-10-21T21:30:00.000Z"
-      },
-      {
-        "time": "09:00",
-        "title": "【設備保全DX】FOOD展2026に次世代設備保全クラウド「M2X」ブースを出展",
-        "source": "PR TIMES",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBLTWZJcHVlOU9xQ0FXQVVEMkNjU1M1cmc4Uk1WSjNjdGZMY2d0QjNRUUdkZDJfN0x5eVdBZmcydEkyZVNGYWVqNlRRaHZyZ09CbnloYmJQX3drRnh3THYzUE5hOGlJTFZqMnc?oc=5",
-        "publishedAt": "2026-10-22T00:00:02.000Z"
       },
       {
         "time": "05:00",
@@ -57,6 +50,13 @@
         "source": "電波新聞デジタル",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5lNTlIT21oNjJmT3ZFTDVIVXhoTUNJcWlBamJTLUZndU5YMHFNMDNiQk16SnV6YTJpaVY3Zm9aeDVkbTdKOVg4Z0R3aF96UzVMREE?oc=5",
         "publishedAt": "2026-10-21T09:53:00.000Z"
+      },
+      {
+        "time": "13:45",
+        "title": "三菱電機、ヒューマノイドとCNC工作機械がフィジカルAIで連携する加工システムを開発 JIMTOF2026でデモ展示予定",
+        "source": "ロボスタ",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5yRktfLW5zazIxUGQzWC1tYktTUUhKek92STBOTzlnQXB5NkhFR1c4ZkpoUUJmMHlzZ2lzVWhOZ1UzbnF5OUJMODVlRXRyanJYX0o1NmhDS0phc3FFUG9vTnV3eGw?oc=5",
+        "publishedAt": "2026-10-21T04:45:03.000Z"
       }
     ],
     "worldHeadlines": [

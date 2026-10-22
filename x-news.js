@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-22T01:25:50.492Z",
+  "updatedAt": "2026-10-22T01:50:41.835Z",
   "items": [
     {
       "time": "09:35",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "G7TV会議を首相欠席 与野党波紋"
     },
     {
-      "time": "07:32",
-      "title": "PHPの脆弱性 米OpenAIのAIで発見",
+      "time": "10:23",
+      "title": "乳児遺体遺棄した疑い 24歳女逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599651?source=rss",
-      "publishedAt": "2026-10-21T22:32:08.000Z",
-      "xQuery": "PHPの脆弱性 米OpenAIのAIで発見"
+      "url": "https://news.yahoo.co.jp/pickup/6599668?source=rss",
+      "publishedAt": "2026-10-22T01:23:17.000Z",
+      "xQuery": "乳児遺体遺棄した疑い 24歳女逮捕"
     },
     {
       "time": "09:46",
