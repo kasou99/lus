@@ -1,21 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-22T07:46:36.209Z",
+  "updatedAt": "2026-10-22T08:24:33.003Z",
   "items": [
     {
-      "time": "13:56",
-      "title": "高市氏 自民内から再選支持相次ぐ",
+      "time": "16:58",
+      "title": "ドラフト速報 12球団の指名は",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599693?source=rss",
-      "publishedAt": "2026-10-22T04:56:22.000Z",
-      "xQuery": "高市氏 自民内から再選支持相次ぐ"
-    },
-    {
-      "time": "12:24",
-      "title": "PHP問題 政府機関の被害報告なし",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599683?source=rss",
-      "publishedAt": "2026-10-22T03:24:45.000Z",
-      "xQuery": "PHP問題 政府機関の被害報告なし"
+      "url": "https://news.yahoo.co.jp/pickup/6599703?source=rss",
+      "publishedAt": "2026-10-22T07:58:50.000Z",
+      "xQuery": "ドラフト速報 12球団の指名は"
     },
     {
       "time": "13:27",
@@ -26,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "米 サウジの大使館員らに退避命令"
     },
     {
-      "time": "14:21",
-      "title": "マンジャロを不正販売の疑い 逮捕",
+      "time": "16:54",
+      "title": "PHP脆弱性悪用の試み増 数百万件",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599691?source=rss",
-      "publishedAt": "2026-10-22T05:21:49.000Z",
-      "xQuery": "マンジャロを不正販売の疑い 逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6599702?source=rss",
+      "publishedAt": "2026-10-22T07:54:45.000Z",
+      "xQuery": "PHP脆弱性悪用の試み増 数百万件"
     },
     {
       "time": "16:15",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6599701?source=rss",
       "publishedAt": "2026-10-22T07:15:13.000Z",
       "xQuery": "川崎競馬の厩務員自殺 労災認定"
+    },
+    {
+      "time": "16:36",
+      "title": "王子コンテナーに公取委が勧告",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599705?source=rss",
+      "publishedAt": "2026-10-22T07:36:27.000Z",
+      "xQuery": "王子コンテナーに公取委が勧告"
     }
   ]
 };

@@ -1,14 +1,7 @@
 {
-  "updatedAt": "2026-10-22T07:46:35.392Z",
+  "updatedAt": "2026-10-22T08:24:32.261Z",
   "groups": {
     "machineHeadlines": [
-      {
-        "time": "11:04",
-        "title": "- 5軸マシニングセンタと高速FSW接合機を出展 - コマツNTC（株）、最新鋭の工作機械を「JIMTOF2026」に出展",
-        "source": "小松製作所",
-        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA0Ql9QM0FpN2djOUpIVTZ5VnJkTUtYYmtma3daV2ZTTVRFamh3eVZlVHBlRHBRc1IyelljYjRCRGFjX05hVXAxanBVLW44X25LTGt2bEVhb2hKYXhfX0JhVQ?oc=5",
-        "publishedAt": "2026-10-22T02:04:28.000Z"
-      },
       {
         "time": "15:02",
         "title": "9月の工作機械受注60%増、AI需要で過去最高額 過剰投資に懸念も",
@@ -38,13 +31,6 @@
         "publishedAt": "2026-10-21T21:00:00.000Z"
       },
       {
-        "time": "05:00",
-        "title": "フィジカルAI介しヒト型ロボと工作機械が連携 三菱電機",
-        "source": "日刊工業新聞 電子版",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBleWU2SVNkZVRwMnpJcnFOZG1aaGxha3NrTkJhNWNJb0xldFAxMV9ibmljaFRVR3pxRWZTVEhIdGFiUThHc3h2SzVYV3J3UFRMY0wwdGVtcFY?oc=5",
-        "publishedAt": "2026-10-21T20:00:00.000Z"
-      },
-      {
         "time": "06:30",
         "title": "今日の注目スケジュール：工作機械受注、トルコ中央銀行政策金利発表、欧ユーロ圏消費者信頼感指数など",
         "source": "株探",
@@ -52,11 +38,25 @@
         "publishedAt": "2026-10-21T21:30:00.000Z"
       },
       {
-        "time": "09:00",
-        "title": "【設備保全DX】FOOD展2026に次世代設備保全クラウド「M2X」ブースを出展",
-        "source": "PR TIMES",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBLTWZJcHVlOU9xQ0FXQVVEMkNjU1M1cmc4Uk1WSjNjdGZMY2d0QjNRUUdkZDJfN0x5eVdBZmcydEkyZVNGYWVqNlRRaHZyZ09CbnloYmJQX3drRnh3THYzUE5hOGlJTFZqMnc?oc=5",
-        "publishedAt": "2026-10-22T00:00:02.000Z"
+        "time": "05:00",
+        "title": "フィジカルAI介しヒト型ロボと工作機械が連携 三菱電機",
+        "source": "日刊工業新聞 電子版",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBleWU2SVNkZVRwMnpJcnFOZG1aaGxha3NrTkJhNWNJb0xldFAxMV9ibmljaFRVR3pxRWZTVEhIdGFiUThHc3h2SzVYV3J3UFRMY0wwdGVtcFY?oc=5",
+        "publishedAt": "2026-10-21T20:00:00.000Z"
+      },
+      {
+        "time": "11:04",
+        "title": "- 5軸マシニングセンタと高速FSW接合機を出展 - コマツNTC（株）、最新鋭の工作機械を「JIMTOF2026」に出展",
+        "source": "小松製作所",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA0Ql9QM0FpN2djOUpIVTZ5VnJkTUtYYmtma3daV2ZTTVRFamh3eVZlVHBlRHBRc1IyelljYjRCRGFjX05hVXAxanBVLW44X25LTGt2bEVhb2hKYXhfX0JhVQ?oc=5",
+        "publishedAt": "2026-10-22T02:04:28.000Z"
+      },
+      {
+        "time": "07:25",
+        "title": "工作機械受注9月は60.4％増、トルコ中銀は37％へ利上げへ 22日の主な予定",
+        "source": "BigGo ファイナンス",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE52aERFSjdKc18wSWQ2djNrMmVKaU9aY2gxbC11Znd5SmRRZWo5RzI3MWpOWU8xTk5MOE1WaEFuakJ1UjNkOWkxUG1MTE51NjNqZ0ljazZlTnFod1E4VkpleVNrWGt2dzVhY2E1SlR4VXZwQ1Y4?oc=5",
+        "publishedAt": "2026-10-21T22:25:00.000Z"
       }
     ],
     "worldHeadlines": [
