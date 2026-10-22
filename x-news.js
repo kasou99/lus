@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-22T04:44:28.877Z",
+  "updatedAt": "2026-10-22T05:17:40.011Z",
   "items": [
     {
-      "time": "10:58",
-      "title": "失効免許証を捜査流用 神奈川県警",
+      "time": "13:56",
+      "title": "高市氏 自民内から再選支持相次ぐ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599671?source=rss",
-      "publishedAt": "2026-10-22T01:58:46.000Z",
-      "xQuery": "失効免許証を捜査流用 神奈川県警"
+      "url": "https://news.yahoo.co.jp/pickup/6599693?source=rss",
+      "publishedAt": "2026-10-22T04:56:22.000Z",
+      "xQuery": "高市氏 自民内から再選支持相次ぐ"
     },
     {
-      "time": "12:00",
-      "title": "秋田・子吉川支流の河原 男性死亡",
+      "time": "12:24",
+      "title": "PHP問題 政府機関の被害報告なし",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599680?source=rss",
-      "publishedAt": "2026-10-22T03:00:30.000Z",
-      "xQuery": "秋田・子吉川支流の河原 男性死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6599683?source=rss",
+      "publishedAt": "2026-10-22T03:24:45.000Z",
+      "xQuery": "PHP問題 政府機関の被害報告なし"
     },
     {
       "time": "12:06",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "PHP巡り 企業など対応に追われる"
     },
     {
-      "time": "11:33",
-      "title": "PHPの脆弱性 10年以上発見されず",
+      "time": "13:00",
+      "title": "しんじょう君巡る裁判 市が上告",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599674?source=rss",
-      "publishedAt": "2026-10-22T02:33:43.000Z",
-      "xQuery": "PHPの脆弱性 10年以上発見されず"
+      "url": "https://news.yahoo.co.jp/pickup/6599685?source=rss",
+      "publishedAt": "2026-10-22T04:00:11.000Z",
+      "xQuery": "しんじょう君巡る裁判 市が上告"
     },
     {
-      "time": "11:36",
-      "title": "青切符 キャッシュレスで納付可へ",
+      "time": "12:09",
+      "title": "ミセス×ガスト特典 不正対策は",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599676?source=rss",
-      "publishedAt": "2026-10-22T02:36:05.000Z",
-      "xQuery": "青切符 キャッシュレスで納付可へ"
+      "url": "https://news.yahoo.co.jp/pickup/6599681?source=rss",
+      "publishedAt": "2026-10-22T03:09:01.000Z",
+      "xQuery": "ミセス×ガスト特典 不正対策は"
     }
   ]
 };
