@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-22T10:41:50.592Z",
+  "updatedAt": "2026-10-22T11:16:27.957Z",
   "items": [
     {
       "time": "18:04",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "発足1年の高市政権 麻生氏が評価"
     },
     {
-      "time": "16:54",
-      "title": "PHP脆弱性悪用の試み増 数百万件",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599702?source=rss",
-      "publishedAt": "2026-10-22T07:54:45.000Z",
-      "xQuery": "PHP脆弱性悪用の試み増 数百万件"
-    },
-    {
       "time": "17:50",
       "title": "14歳の中学生が行方不明 大阪",
       "source": "Yahoo!ニュース",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6599723?source=rss",
       "publishedAt": "2026-10-22T09:54:24.000Z",
       "xQuery": "カプコン 1177万件の情報漏えい"
+    },
+    {
+      "time": "17:51",
+      "title": "不登校のほぼ半数 学校健診受けず",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599714?source=rss",
+      "publishedAt": "2026-10-22T08:51:58.000Z",
+      "xQuery": "不登校のほぼ半数 学校健診受けず"
     }
   ]
 };
