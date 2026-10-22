@@ -1,14 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-22T14:42:45.700Z",
+  "updatedAt": "2026-10-22T15:18:00.067Z",
   "items": [
-    {
-      "time": "20:03",
-      "title": "衆院比例議席巡り サンラグ式とは",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599716?source=rss",
-      "publishedAt": "2026-10-22T11:03:56.000Z",
-      "xQuery": "衆院比例議席巡り サンラグ式とは"
-    },
     {
       "time": "23:28",
       "title": "初の核最終処分場の操業決定 北欧",
@@ -16,14 +8,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6599748?source=rss",
       "publishedAt": "2026-10-22T14:28:24.000Z",
       "xQuery": "初の核最終処分場の操業決定 北欧"
-    },
-    {
-      "time": "22:43",
-      "title": "大阪で14歳が行方不明 14日朝から",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599744?source=rss",
-      "publishedAt": "2026-10-22T13:43:09.000Z",
-      "xQuery": "大阪で14歳が行方不明 14日朝から"
     },
     {
       "time": "22:50",
@@ -40,6 +24,22 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6599746?source=rss",
       "publishedAt": "2026-10-22T14:06:31.000Z",
       "xQuery": "三菱自 ホンダに車両供給で合意"
+    },
+    {
+      "time": "23:54",
+      "title": "ゴルフで80万円負担 福岡県議証言",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599750?source=rss",
+      "publishedAt": "2026-10-22T14:54:19.000Z",
+      "xQuery": "ゴルフで80万円負担 福岡県議証言"
+    },
+    {
+      "time": "22:43",
+      "title": "大阪で14歳が行方不明 14日朝から",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599744?source=rss",
+      "publishedAt": "2026-10-22T13:43:09.000Z",
+      "xQuery": "大阪で14歳が行方不明 14日朝から"
     }
   ]
 };
