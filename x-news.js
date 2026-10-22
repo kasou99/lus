@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-22T12:51:57.222Z",
+  "updatedAt": "2026-10-22T13:19:39.130Z",
   "items": [
     {
-      "time": "18:04",
-      "title": "台風30号 非常に強い勢力で沖縄へ",
+      "time": "20:03",
+      "title": "衆院比例議席巡り サンラグ式とは",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599718?source=rss",
-      "publishedAt": "2026-10-22T09:04:33.000Z",
-      "xQuery": "台風30号 非常に強い勢力で沖縄へ"
+      "url": "https://news.yahoo.co.jp/pickup/6599716?source=rss",
+      "publishedAt": "2026-10-22T11:03:56.000Z",
+      "xQuery": "衆院比例議席巡り サンラグ式とは"
     },
     {
       "time": "19:11",
