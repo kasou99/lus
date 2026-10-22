@@ -1,29 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-21T23:38:50.565Z",
+  "updatedAt": "2026-10-22T00:45:35.711Z",
   "items": [
     {
-      "time": "02:38",
-      "title": "秋田・子吉川 氾濫注意報に切替",
+      "time": "07:38",
+      "title": "台風 23日から沖縄先島諸島に接近",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599644?source=rss",
-      "publishedAt": "2026-10-21T17:38:29.000Z",
-      "xQuery": "秋田・子吉川 氾濫注意報に切替"
+      "url": "https://news.yahoo.co.jp/pickup/6599654?source=rss",
+      "publishedAt": "2026-10-21T22:38:46.000Z",
+      "xQuery": "台風 23日から沖縄先島諸島に接近"
     },
     {
-      "time": "02:42",
-      "title": "自民 衆院定数の削減幅を31で調整",
+      "time": "09:04",
+      "title": "情報抜き取りに15秒 悪用指摘のAI",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599633?source=rss",
-      "publishedAt": "2026-10-21T17:42:41.000Z",
-      "xQuery": "自民 衆院定数の削減幅を31で調整"
+      "url": "https://news.yahoo.co.jp/pickup/6599661?source=rss",
+      "publishedAt": "2026-10-22T00:04:11.000Z",
+      "xQuery": "情報抜き取りに15秒 悪用指摘のAI"
     },
     {
-      "time": "06:57",
-      "title": "PHPに欠陥 欧州各国でサイト遮断",
+      "time": "08:55",
+      "title": "G7TV会議を首相欠席 与野党波紋",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599650?source=rss",
-      "publishedAt": "2026-10-21T21:57:25.000Z",
-      "xQuery": "PHPに欠陥 欧州各国でサイト遮断"
+      "url": "https://news.yahoo.co.jp/pickup/6599660?source=rss",
+      "publishedAt": "2026-10-21T23:55:48.000Z",
+      "xQuery": "G7TV会議を首相欠席 与野党波紋"
     },
     {
       "time": "07:32",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "PHPの脆弱性 米OpenAIのAIで発見"
     },
     {
-      "time": "07:57",
-      "title": "ヒマラヤ山脈 日本人2人が不明",
+      "time": "08:28",
+      "title": "メタに約4兆円支払い命令 米地裁",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599653?source=rss",
-      "publishedAt": "2026-10-21T22:57:44.000Z",
-      "xQuery": "ヒマラヤ山脈 日本人2人が不明"
+      "url": "https://news.yahoo.co.jp/pickup/6599658?source=rss",
+      "publishedAt": "2026-10-21T23:28:40.000Z",
+      "xQuery": "メタに約4兆円支払い命令 米地裁"
     }
   ]
 };
