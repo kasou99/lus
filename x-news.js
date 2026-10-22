@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-22T23:15:48.437Z",
+  "updatedAt": "2026-10-22T23:37:37.228Z",
   "items": [
     {
       "time": "06:30",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "生活保護利用者の車保有 緩和検討"
     },
     {
-      "time": "06:21",
-      "title": "NHKがBS再編検討 8Kの存廃焦点",
+      "time": "06:12",
+      "title": "シャモンダウイルス 仏でヒト感染",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599756?source=rss",
-      "publishedAt": "2026-10-22T21:21:59.000Z",
-      "xQuery": "NHKがBS再編検討 8Kの存廃焦点"
+      "url": "https://news.yahoo.co.jp/pickup/6599754?source=rss",
+      "publishedAt": "2026-10-22T21:12:14.000Z",
+      "xQuery": "シャモンダウイルス 仏でヒト感染"
     }
   ]
 };
