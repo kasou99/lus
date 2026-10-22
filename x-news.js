@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-22T01:50:41.835Z",
+  "updatedAt": "2026-10-22T02:25:01.241Z",
   "items": [
+    {
+      "time": "10:58",
+      "title": "失効免許証を捜査流用 神奈川県警",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599671?source=rss",
+      "publishedAt": "2026-10-22T01:58:46.000Z",
+      "xQuery": "失効免許証を捜査流用 神奈川県警"
+    },
     {
       "time": "09:35",
       "title": "社会人向け新教職課程 創設の方針",
@@ -8,14 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6599664?source=rss",
       "publishedAt": "2026-10-22T00:35:34.000Z",
       "xQuery": "社会人向け新教職課程 創設の方針"
-    },
-    {
-      "time": "09:04",
-      "title": "情報抜き取りに15秒 悪用指摘のAI",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599661?source=rss",
-      "publishedAt": "2026-10-22T00:04:11.000Z",
-      "xQuery": "情報抜き取りに15秒 悪用指摘のAI"
     },
     {
       "time": "08:55",

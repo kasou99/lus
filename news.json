@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-10-22T01:50:40.330Z",
+  "updatedAt": "2026-10-22T02:25:00.767Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "11:04",
+        "title": "- 5軸マシニングセンタと高速FSW接合機を出展 - コマツNTC（株）、最新鋭の工作機械を「JIMTOF2026」に出展",
+        "source": "小松製作所",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA0Ql9QM0FpN2djOUpIVTZ5VnJkTUtYYmtma3daV2ZTTVRFamh3eVZlVHBlRHBRc1IyelljYjRCRGFjX05hVXAxanBVLW44X25LTGt2bEVhb2hKYXhfX0JhVQ?oc=5",
+        "publishedAt": "2026-10-22T02:04:28.000Z"
+      },
       {
         "time": "06:15",
         "title": "三菱電機、ヒューマノイドと工作機械が連携して加工 JIMTOF20226でデモ",
@@ -24,11 +31,18 @@
         "publishedAt": "2026-10-21T21:30:00.000Z"
       },
       {
-        "time": "05:00",
-        "title": "フィジカルAI介しヒト型ロボと工作機械が連携 三菱電機",
-        "source": "日刊工業新聞 電子版",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBleWU2SVNkZVRwMnpJcnFOZG1aaGxha3NrTkJhNWNJb0xldFAxMV9ibmljaFRVR3pxRWZTVEhIdGFiUThHc3h2SzVYV3J3UFRMY0wwdGVtcFY?oc=5",
-        "publishedAt": "2026-10-21T20:00:00.000Z"
+        "time": "10:45",
+        "title": "【設備保全DX】FOOD展2026に次世代設備保全クラウド「M2X」ブースを出展",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9ta3BXb3VINThURXd3dnNVY0oyUEFzZWZKRFBkZ2g5MmZRVGtqSEVIN2s2TzhSS1VHZEdOeVVDVXdqZG9Kek9BUFcxclpJVWNZMGtRTkpEaWhRX0RjY3VZRGNmdjZudG0tR3k0cEtuWm92VUhybGdxNTR1UQ?oc=5",
+        "publishedAt": "2026-10-22T01:45:24.000Z"
+      },
+      {
+        "time": "11:20",
+        "title": "三菱電機、人手作業を代替する業界初の加工システム 自然言語で人型ロボと工作機械が連携",
+        "source": "マイナビニュース",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5qRTRZaXdSTmNOTmozaDAwbG1SVkxNOFN5RXNwQUVmLTF5RzZDQTVvMjkzTzc4NGdsMFgwckt6N3dxalRacnlwMDRjcGVDOEgzM19JaVhrbi1iTWhTaFQ5TTFXVU01eFJG?oc=5",
+        "publishedAt": "2026-10-22T02:20:00.000Z"
       },
       {
         "time": "12:24",
@@ -38,25 +52,11 @@
         "publishedAt": "2026-10-21T03:24:00.000Z"
       },
       {
-        "time": "11:50",
-        "title": "業界初、ヒューマノイドとCNC工作機械が連携する加工システムを開発",
-        "source": "www.mitsubishielectric.co.jp",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1mN3U4VGdOaVNGT0ZyelN0NHdzdDVsRktXeGxPeEVSWXRQM0djR2VBLTczMi1jTVN5Qkw4QnJJeVRGZy1nZkRUak1vYVQyMFhnbDNIaEdvclNsckJqM2J6TU42QlAxTVk?oc=5",
-        "publishedAt": "2026-10-21T02:50:29.000Z"
-      },
-      {
-        "time": "18:53",
-        "title": "NTN、工作機械の高度化を後押し 「日本国際工作機械見本市」で新製品紹介",
-        "source": "電波新聞デジタル",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5lNTlIT21oNjJmT3ZFTDVIVXhoTUNJcWlBamJTLUZndU5YMHFNMDNiQk16SnV6YTJpaVY3Zm9aeDVkbTdKOVg4Z0R3aF96UzVMREE?oc=5",
-        "publishedAt": "2026-10-21T09:53:00.000Z"
-      },
-      {
-        "time": "13:45",
-        "title": "三菱電機、ヒューマノイドとCNC工作機械がフィジカルAIで連携する加工システムを開発 JIMTOF2026でデモ展示予定",
-        "source": "ロボスタ",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5yRktfLW5zazIxUGQzWC1tYktTUUhKek92STBOTzlnQXB5NkhFR1c4ZkpoUUJmMHlzZ2lzVWhOZ1UzbnF5OUJMODVlRXRyanJYX0o1NmhDS0phc3FFUG9vTnV3eGw?oc=5",
-        "publishedAt": "2026-10-21T04:45:03.000Z"
+        "time": "20:00",
+        "title": "工作機械とヒト型ロボ連携 三菱電機、フィジカルAI活用",
+        "source": "日刊工業新聞 電子版",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1ueWRWb3ZzQnVYMERLM0lOZGNOTHlFYkhSaXlGME1RV2Zzd0NMTi1GdmlXOXFJYXhmYXdvNGNnX09tUHRmaGNsYThNYU50aUJNQm8wdzdfMmU?oc=5",
+        "publishedAt": "2026-10-21T11:00:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "10:58",
+        "title": "失効免許証を捜査流用 神奈川県警",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6599671?source=rss",
+        "publishedAt": "2026-10-22T01:58:46.000Z"
+      },
+      {
         "time": "02:38",
         "title": "秋田・子吉川 氾濫注意報に切替",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6599578?source=rss",
         "publishedAt": "2026-10-21T05:06:26.000Z"
-      },
-      {
-        "time": "17:13",
-        "title": "八田與一容疑者 警察が海を捜索",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599593?source=rss",
-        "publishedAt": "2026-10-21T08:13:35.000Z"
       }
     ],
     "subsidyHeadlines": [
