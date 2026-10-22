@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-22T05:17:40.011Z",
+  "updatedAt": "2026-10-22T05:42:47.810Z",
   "items": [
     {
       "time": "13:56",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "PHP問題 政府機関の被害報告なし"
     },
     {
-      "time": "12:06",
-      "title": "PHP巡り 企業など対応に追われる",
+      "time": "14:21",
+      "title": "マンジャロを不正販売の疑い 逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599679?source=rss",
-      "publishedAt": "2026-10-22T03:06:18.000Z",
-      "xQuery": "PHP巡り 企業など対応に追われる"
+      "url": "https://news.yahoo.co.jp/pickup/6599691?source=rss",
+      "publishedAt": "2026-10-22T05:21:49.000Z",
+      "xQuery": "マンジャロを不正販売の疑い 逮捕"
     },
     {
       "time": "13:00",
