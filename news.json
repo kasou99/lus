@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T03:20:43.357Z",
+  "updatedAt": "2026-10-22T03:46:14.160Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -45,18 +45,18 @@
         "publishedAt": "2026-10-22T02:20:00.000Z"
       },
       {
-        "time": "12:24",
-        "title": "三菱電機、ヒューマノイドとCNC工作機械を連携させる加工システム開発 JIMTOFで披露 ｜Seizo Trend",
-        "source": "ビジネス+IT",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9mQTU4Z0lXcF84Z3BSQWZLVkpXM2pVTFQ2Wk9vSmtfS01uU29iRGstOXdjUV82MTRDWC1HMzJVeWNBQjNiVkUzcGtJRl9GeFE?oc=5",
-        "publishedAt": "2026-10-21T03:24:00.000Z"
-      },
-      {
         "time": "20:00",
         "title": "工作機械とヒト型ロボ連携 三菱電機、フィジカルAI活用",
         "source": "日刊工業新聞 電子版",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1ueWRWb3ZzQnVYMERLM0lOZGNOTHlFYkhSaXlGME1RV2Zzd0NMTi1GdmlXOXFJYXhmYXdvNGNnX09tUHRmaGNsYThNYU50aUJNQm8wdzdfMmU?oc=5",
         "publishedAt": "2026-10-21T11:00:00.000Z"
+      },
+      {
+        "time": "18:53",
+        "title": "NTN、工作機械の高度化を後押し 「日本国際工作機械見本市」で新製品紹介",
+        "source": "電波新聞デジタル",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5lNTlIT21oNjJmT3ZFTDVIVXhoTUNJcWlBamJTLUZndU5YMHFNMDNiQk16SnV6YTJpaVY3Zm9aeDVkbTdKOVg4Z0R3aF96UzVMREE?oc=5",
+        "publishedAt": "2026-10-21T09:53:00.000Z"
       }
     ],
     "worldHeadlines": [
