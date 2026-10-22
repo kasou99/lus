@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T20:17:22.371Z",
+  "updatedAt": "2026-10-22T20:40:50.392Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,18 +17,25 @@
         "publishedAt": "2026-10-22T06:02:49.000Z"
       },
       {
-        "time": "05:03",
-        "title": "三菱電機、フィジカルＡＩで人型ロボと工作機械連携",
-        "source": "化学工業日報 電子版",
-        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE05NmZLOHJ4S1pEYjh3ZWdjTlVnNENXT1cyTUtLcTMzSWMwMXp3NVpTRFYyTEpkM0hQUmF2ZXhCNVdYMTZsdDZCMjVQV1JkbHZPQ3I0?oc=5",
-        "publishedAt": "2026-10-22T20:03:08.000Z"
-      },
-      {
         "time": "13:00",
         "title": "オークマ、16.3m2の省スペースで24時間稼働する5軸立形マシニングセンタ：工作機械",
         "source": "MONOist",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA1a0gySmViMHdGS19MR3YzRUtmQXl4RmVPelFWaklLWUQ4SUFiTktCdVFfV1U5bXRNdUxEVzdYZ2w2SWZjZ21qM0lIQndtLTJxQXNqS3N6bHV2R0sxdm9FSm43M0pFUVRKM3NLTlg1aw?oc=5",
         "publishedAt": "2026-10-22T04:00:00.000Z"
+      },
+      {
+        "time": "05:00",
+        "title": "工作機械 ＡＩで保守支援 エンシュウ子会社が「チャットボット」",
+        "source": "静岡新聞DIGITAL",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA3T01nVWotSVVSWHhXR1V3TG9ERnBkcV80QmlueXBNRVl2X2ZHN0UzNVQ4cXNEaTRfUXNzYmZ0Y1JsYjZSMTh3VllXVXF5UQ?oc=5",
+        "publishedAt": "2026-10-22T20:00:00.000Z"
+      },
+      {
+        "time": "05:03",
+        "title": "三菱電機、フィジカルＡＩで人型ロボと工作機械連携",
+        "source": "化学工業日報 電子版",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE05NmZLOHJ4S1pEYjh3ZWdjTlVnNENXT1cyTUtLcTMzSWMwMXp3NVpTRFYyTEpkM0hQUmF2ZXhCNVdYMTZsdDZCMjVQV1JkbHZPQ3I0?oc=5",
+        "publishedAt": "2026-10-22T20:03:08.000Z"
       },
       {
         "time": "16:30",
@@ -50,13 +57,6 @@
         "source": "株探",
         "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAtbkljWC1kWFVJTURLVGl0WnF1S2pqTFEzN1VFRlNpZVJwUHF0Ri05N191UGhQMHdUQklEU3FRYUkybDBpVDJ4REltTVFjYnBLZFhaVkNDbFpuTlk1ZDhHTw?oc=5",
         "publishedAt": "2026-10-21T21:30:00.000Z"
-      },
-      {
-        "time": "11:04",
-        "title": "- 5軸マシニングセンタと高速FSW接合機を出展 - コマツNTC（株）、最新鋭の工作機械を「JIMTOF2026」に出展",
-        "source": "小松製作所",
-        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA0Ql9QM0FpN2djOUpIVTZ5VnJkTUtYYmtma3daV2ZTTVRFamh3eVZlVHBlRHBRc1IyelljYjRCRGFjX05hVXAxanBVLW44X25LTGt2bEVhb2hKYXhfX0JhVQ?oc=5",
-        "publishedAt": "2026-10-22T02:04:28.000Z"
       }
     ],
     "worldHeadlines": [
