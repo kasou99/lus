@@ -1,14 +1,7 @@
 {
-  "updatedAt": "2026-10-22T21:38:20.706Z",
+  "updatedAt": "2026-10-22T22:15:12.223Z",
   "groups": {
     "machineHeadlines": [
-      {
-        "time": "05:00",
-        "title": "車向け工作機械受注、9月は26%増 部品メーカー伸びる",
-        "source": "日本経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8wMTk1dk5VUFZGSVVyUnN2azF1aFRmM0hGQm5SSkdRN3lZcWZHdWZ6QmJnYk1ZaXc2amNVX0hmT1R4WWZBeExPWm5lZjFUUXRfUFZYdVQwUkUyTWpUOEoyMV9iYmRTSTN5bW9zNU5FQmtYTGpFOU9kcW1BX1dKQjA?oc=5",
-        "publishedAt": "2026-10-22T20:00:00.000Z"
-      },
       {
         "time": "05:00",
         "title": "工作機械受注、9月60％増 北米・アジア活況 最高更新",
@@ -24,11 +17,11 @@
         "publishedAt": "2026-10-22T20:00:00.000Z"
       },
       {
-        "time": "05:03",
-        "title": "三菱電機、フィジカルＡＩで人型ロボと工作機械連携",
-        "source": "化学工業日報 電子版",
-        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE05NmZLOHJ4S1pEYjh3ZWdjTlVnNENXT1cyTUtLcTMzSWMwMXp3NVpTRFYyTEpkM0hQUmF2ZXhCNVdYMTZsdDZCMjVQV1JkbHZPQ3I0?oc=5",
-        "publishedAt": "2026-10-22T20:03:08.000Z"
+        "time": "15:02",
+        "title": "9月の工作機械受注60%増、AI需要で過去最高額 過剰投資に懸念も",
+        "source": "日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBJUUtrbEpoUEJLc0xBUEhwYmg0NUs3UWxPMGJhM0pYLXNETGVVcWpzRGhVU0diY3d4a3VoMnpMazJ0aVpQMlBjS1JqY1poUTVjVUZrMWZvd3VRMzE2SjVicDZVdFg1eHd0QWxlQg?oc=5",
+        "publishedAt": "2026-10-22T06:02:49.000Z"
       },
       {
         "time": "13:00",
@@ -36,6 +29,13 @@
         "source": "MONOist",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA1a0gySmViMHdGS19MR3YzRUtmQXl4RmVPelFWaklLWUQ4SUFiTktCdVFfV1U5bXRNdUxEVzdYZ2w2SWZjZ21qM0lIQndtLTJxQXNqS3N6bHV2R0sxdm9FSm43M0pFUVRKM3NLTlg1aw?oc=5",
         "publishedAt": "2026-10-22T04:00:00.000Z"
+      },
+      {
+        "time": "05:03",
+        "title": "三菱電機、フィジカルＡＩで人型ロボと工作機械連携",
+        "source": "化学工業日報 電子版",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE05NmZLOHJ4S1pEYjh3ZWdjTlVnNENXT1cyTUtLcTMzSWMwMXp3NVpTRFYyTEpkM0hQUmF2ZXhCNVdYMTZsdDZCMjVQV1JkbHZPQ3I0?oc=5",
+        "publishedAt": "2026-10-22T20:03:08.000Z"
       },
       {
         "time": "16:30",
