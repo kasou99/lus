@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T06:29:59.705Z",
+  "updatedAt": "2026-10-22T06:58:12.340Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -10,13 +10,6 @@
         "publishedAt": "2026-10-22T02:04:28.000Z"
       },
       {
-        "time": "06:15",
-        "title": "三菱電機、ヒューマノイドと工作機械が連携して加工 JIMTOF20226でデモ",
-        "source": "MONOist",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9TREkyTEFzcEQzbGl3dW5wS184SmExV2ZvZlZBV2MwYkJWWDhwazRSQ0dhMnVPTVBtSVFBaUdkeDRzdWRrRllmNkt0SURJTHpHclN1ZUFUQVpoLUctdnRYcWVuZmdhV01mSGY3NjNqbw?oc=5",
-        "publishedAt": "2026-10-21T21:15:00.000Z"
-      },
-      {
         "time": "15:02",
         "title": "9月の工作機械受注60%増、AI需要で過去最高額 過剰投資に懸念も",
         "source": "日本経済新聞",
@@ -24,11 +17,25 @@
         "publishedAt": "2026-10-22T06:02:49.000Z"
       },
       {
+        "time": "06:15",
+        "title": "三菱電機、ヒューマノイドと工作機械が連携して加工 JIMTOF20226でデモ",
+        "source": "MONOist",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9TREkyTEFzcEQzbGl3dW5wS184SmExV2ZvZlZBV2MwYkJWWDhwazRSQ0dhMnVPTVBtSVFBaUdkeDRzdWRrRllmNkt0SURJTHpHclN1ZUFUQVpoLUctdnRYcWVuZmdhV01mSGY3NjNqbw?oc=5",
+        "publishedAt": "2026-10-21T21:15:00.000Z"
+      },
+      {
         "time": "06:00",
         "title": "〈中国AI半導体特需〉工作機械活況でシチズンマシナリーが直面する｢利益率伸び悩み｣の実態､日米欧市場に託す現実解",
         "source": "東洋経済オンライン",
         "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0tQkk0X2tEYlBXNlJGS05rUnF0dUlfbFBneGtFMWJrYUNKUmxfZmg4dE5FSFRlSkFqVmx4TkVFRlhTZDNEX2JGYWRwbW1qbzR4WWk3ZUJFbm9xTW9PRU9r?oc=5",
         "publishedAt": "2026-10-21T21:00:00.000Z"
+      },
+      {
+        "time": "05:00",
+        "title": "フィジカルAI介しヒト型ロボと工作機械が連携 三菱電機",
+        "source": "日刊工業新聞 電子版",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBleWU2SVNkZVRwMnpJcnFOZG1aaGxha3NrTkJhNWNJb0xldFAxMV9ibmljaFRVR3pxRWZTVEhIdGFiUThHc3h2SzVYV3J3UFRMY0wwdGVtcFY?oc=5",
+        "publishedAt": "2026-10-21T20:00:00.000Z"
       },
       {
         "time": "06:30",
@@ -50,13 +57,6 @@
         "source": "BigGo ファイナンス",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE52aERFSjdKc18wSWQ2djNrMmVKaU9aY2gxbC11Znd5SmRRZWo5RzI3MWpOWU8xTk5MOE1WaEFuakJ1UjNkOWkxUG1MTE51NjNqZ0ljazZlTnFod1E4VkpleVNrWGt2dzVhY2E1SlR4VXZwQ1Y4?oc=5",
         "publishedAt": "2026-10-21T22:25:00.000Z"
-      },
-      {
-        "time": "13:00",
-        "title": "オークマ、16.3m2の省スペースで24時間稼働する5軸立形マシニングセンタ：工作機械",
-        "source": "MONOist",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA1a0gySmViMHdGS19MR3YzRUtmQXl4RmVPelFWaklLWUQ4SUFiTktCdVFfV1U5bXRNdUxEVzdYZ2w2SWZjZ21qM0lIQndtLTJxQXNqS3N6bHV2R0sxdm9FSm43M0pFUVRKM3NLTlg1aw?oc=5",
-        "publishedAt": "2026-10-22T04:00:00.000Z"
       }
     ],
     "worldHeadlines": [

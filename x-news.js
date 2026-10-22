@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-22T06:30:00.591Z",
+  "updatedAt": "2026-10-22T06:58:13.172Z",
   "items": [
     {
       "time": "13:56",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "マンジャロを不正販売の疑い 逮捕"
     },
     {
-      "time": "14:44",
-      "title": "負傷した脚自ら切断 ウ兵士の決断",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599696?source=rss",
-      "publishedAt": "2026-10-22T05:44:05.000Z",
-      "xQuery": "負傷した脚自ら切断 ウ兵士の決断"
-    },
-    {
       "time": "13:00",
       "title": "しんじょう君巡る裁判 市が上告",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6599685?source=rss",
       "publishedAt": "2026-10-22T04:00:11.000Z",
       "xQuery": "しんじょう君巡る裁判 市が上告"
+    },
+    {
+      "time": "15:24",
+      "title": "70cmのジュラ紀恐竜足跡 化石発見",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599697?source=rss",
+      "publishedAt": "2026-10-22T06:24:24.000Z",
+      "xQuery": "70cmのジュラ紀恐竜足跡 化石発見"
     }
   ]
 };
