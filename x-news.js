@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-22T12:26:59.049Z",
+  "updatedAt": "2026-10-22T12:51:57.222Z",
   "items": [
     {
       "time": "18:04",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "カプコン 1177万件の情報漏えい"
     },
     {
-      "time": "17:51",
-      "title": "不登校のほぼ半数 学校健診受けず",
+      "time": "20:07",
+      "title": "PHP巡り一般ユーザーは対策必要?",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599714?source=rss",
-      "publishedAt": "2026-10-22T08:51:58.000Z",
-      "xQuery": "不登校のほぼ半数 学校健診受けず"
+      "url": "https://news.yahoo.co.jp/pickup/6599728?source=rss",
+      "publishedAt": "2026-10-22T11:07:47.000Z",
+      "xQuery": "PHP巡り一般ユーザーは対策必要?"
     },
     {
       "time": "19:44",
