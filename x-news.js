@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-22T02:47:09.506Z",
+  "updatedAt": "2026-10-22T03:20:44.311Z",
   "items": [
     {
       "time": "10:58",
@@ -10,12 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "失効免許証を捜査流用 神奈川県警"
     },
     {
-      "time": "09:28",
-      "title": "米メタ 7-9月期決算で26%増収",
+      "time": "12:00",
+      "title": "秋田・子吉川支流の河原 男性死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599663?source=rss",
-      "publishedAt": "2026-10-22T00:28:29.000Z",
-      "xQuery": "米メタ 7-9月期決算で26%増収"
+      "url": "https://news.yahoo.co.jp/pickup/6599680?source=rss",
+      "publishedAt": "2026-10-22T03:00:30.000Z",
+      "xQuery": "秋田・子吉川支流の河原 男性死亡"
+    },
+    {
+      "time": "12:06",
+      "title": "PHP巡り 企業など対応に追われる",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599679?source=rss",
+      "publishedAt": "2026-10-22T03:06:18.000Z",
+      "xQuery": "PHP巡り 企業など対応に追われる"
     },
     {
       "time": "11:33",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "PHPの脆弱性 10年以上発見されず"
     },
     {
-      "time": "10:23",
-      "title": "乳児遺体遺棄した疑い 24歳女逮捕",
+      "time": "11:36",
+      "title": "青切符 キャッシュレスで納付可へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599668?source=rss",
-      "publishedAt": "2026-10-22T01:23:17.000Z",
-      "xQuery": "乳児遺体遺棄した疑い 24歳女逮捕"
-    },
-    {
-      "time": "09:46",
-      "title": "仕事探し困難「通信困窮」の実態",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599665?source=rss",
-      "publishedAt": "2026-10-22T00:46:20.000Z",
-      "xQuery": "仕事探し困難「通信困窮」の実態"
+      "url": "https://news.yahoo.co.jp/pickup/6599676?source=rss",
+      "publishedAt": "2026-10-22T02:36:05.000Z",
+      "xQuery": "青切符 キャッシュレスで納付可へ"
     }
   ]
 };
