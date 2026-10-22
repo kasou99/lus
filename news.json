@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T17:39:35.464Z",
+  "updatedAt": "2026-10-22T18:20:57.485Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -11,7 +11,7 @@
       },
       {
         "time": "06:15",
-        "title": "三菱電機、ヒューマノイドと工作機械が連携して加工 JIMTOF20226でデモ",
+        "title": "三菱電機、ヒューマノイドと工作機械が連携して加工 JIMTOF2026でデモ",
         "source": "MONOist",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9TREkyTEFzcEQzbGl3dW5wS184SmExV2ZvZlZBV2MwYkJWWDhwazRSQ0dhMnVPTVBtSVFBaUdkeDRzdWRrRllmNkt0SURJTHpHclN1ZUFUQVpoLUctdnRYcWVuZmdhV01mSGY3NjNqbw?oc=5",
         "publishedAt": "2026-10-21T21:15:00.000Z"
@@ -45,18 +45,18 @@
         "publishedAt": "2026-10-21T21:00:00.000Z"
       },
       {
-        "time": "05:00",
-        "title": "フィジカルAI介しヒト型ロボと工作機械が連携 三菱電機",
-        "source": "日刊工業新聞 電子版",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBleWU2SVNkZVRwMnpJcnFOZG1aaGxha3NrTkJhNWNJb0xldFAxMV9ibmljaFRVR3pxRWZTVEhIdGFiUThHc3h2SzVYV3J3UFRMY0wwdGVtcFY?oc=5",
-        "publishedAt": "2026-10-21T20:00:00.000Z"
-      },
-      {
         "time": "11:04",
         "title": "- 5軸マシニングセンタと高速FSW接合機を出展 - コマツNTC（株）、最新鋭の工作機械を「JIMTOF2026」に出展",
         "source": "小松製作所",
         "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA0Ql9QM0FpN2djOUpIVTZ5VnJkTUtYYmtma3daV2ZTTVRFamh3eVZlVHBlRHBRc1IyelljYjRCRGFjX05hVXAxanBVLW44X25LTGt2bEVhb2hKYXhfX0JhVQ?oc=5",
         "publishedAt": "2026-10-22T02:04:28.000Z"
+      },
+      {
+        "time": "05:00",
+        "title": "フィジカルAI介しヒト型ロボと工作機械が連携 三菱電機",
+        "source": "日刊工業新聞 電子版",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBleWU2SVNkZVRwMnpJcnFOZG1aaGxha3NrTkJhNWNJb0xldFAxMV9ibmljaFRVR3pxRWZTVEhIdGFiUThHc3h2SzVYV3J3UFRMY0wwdGVtcFY?oc=5",
+        "publishedAt": "2026-10-21T20:00:00.000Z"
       }
     ],
     "worldHeadlines": [
