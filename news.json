@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T13:43:06.598Z",
+  "updatedAt": "2026-10-22T14:18:15.220Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -11,7 +11,7 @@
       },
       {
         "time": "06:15",
-        "title": "三菱電機、ヒューマノイドと工作機械が連携して加工 JIMTOF2026でデモ",
+        "title": "三菱電機、ヒューマノイドと工作機械が連携して加工 JIMTOF20226でデモ",
         "source": "MONOist",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9TREkyTEFzcEQzbGl3dW5wS184SmExV2ZvZlZBV2MwYkJWWDhwazRSQ0dhMnVPTVBtSVFBaUdkeDRzdWRrRllmNkt0SURJTHpHclN1ZUFUQVpoLUctdnRYcWVuZmdhV01mSGY3NjNqbw?oc=5",
         "publishedAt": "2026-10-21T21:15:00.000Z"
@@ -112,11 +112,18 @@
         "publishedAt": "2026-10-22T03:06:18.000Z"
       },
       {
-        "time": "09:28",
-        "title": "米メタ 7-9月期決算で26%増収",
+        "time": "22:50",
+        "title": "免税制度変更へ「転売ヤー」防ぐ",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599663?source=rss",
-        "publishedAt": "2026-10-22T00:28:29.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6599745?source=rss",
+        "publishedAt": "2026-10-22T13:50:19.000Z"
+      },
+      {
+        "time": "23:06",
+        "title": "三菱自 ホンダに車両供給で合意",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6599746?source=rss",
+        "publishedAt": "2026-10-22T14:06:31.000Z"
       },
       {
         "time": "16:36",
@@ -124,13 +131,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6599705?source=rss",
         "publishedAt": "2026-10-22T07:36:27.000Z"
-      },
-      {
-        "time": "09:46",
-        "title": "仕事探し困難「通信困窮」の実態",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599665?source=rss",
-        "publishedAt": "2026-10-22T00:46:20.000Z"
       },
       {
         "time": "12:09",
@@ -163,11 +163,11 @@
         "publishedAt": "2026-10-22T01:58:46.000Z"
       },
       {
-        "time": "17:50",
-        "title": "14歳の中学生が行方不明 大阪",
+        "time": "22:43",
+        "title": "大阪で14歳が行方不明 14日朝から",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599713?source=rss",
-        "publishedAt": "2026-10-22T08:50:00.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6599744?source=rss",
+        "publishedAt": "2026-10-22T13:43:09.000Z"
       },
       {
         "time": "16:15",

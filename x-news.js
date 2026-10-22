@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-22T13:43:08.738Z",
+  "updatedAt": "2026-10-22T14:18:16.290Z",
   "items": [
     {
       "time": "20:03",
@@ -10,12 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "衆院比例議席巡り サンラグ式とは"
     },
     {
-      "time": "19:11",
-      "title": "発足1年の高市政権 麻生氏が評価",
+      "time": "22:22",
+      "title": "軟禁下のスー・チー氏 次男と電話",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599724?source=rss",
-      "publishedAt": "2026-10-22T10:11:06.000Z",
-      "xQuery": "発足1年の高市政権 麻生氏が評価"
+      "url": "https://news.yahoo.co.jp/pickup/6599742?source=rss",
+      "publishedAt": "2026-10-22T13:22:51.000Z",
+      "xQuery": "軟禁下のスー・チー氏 次男と電話"
+    },
+    {
+      "time": "22:43",
+      "title": "大阪で14歳が行方不明 14日朝から",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599744?source=rss",
+      "publishedAt": "2026-10-22T13:43:09.000Z",
+      "xQuery": "大阪で14歳が行方不明 14日朝から"
     },
     {
       "time": "20:07",
@@ -24,14 +32,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6599728?source=rss",
       "publishedAt": "2026-10-22T11:07:47.000Z",
       "xQuery": "PHP巡り一般ユーザーは対策必要?"
-    },
-    {
-      "time": "22:22",
-      "title": "軟禁下のスー・チー氏 次男と電話",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599742?source=rss",
-      "publishedAt": "2026-10-22T13:22:51.000Z",
-      "xQuery": "軟禁下のスー・チー氏 次男と電話"
     },
     {
       "time": "19:44",
