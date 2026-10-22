@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-22T10:16:53.392Z",
+  "updatedAt": "2026-10-22T10:41:50.592Z",
   "items": [
     {
       "time": "18:04",
@@ -10,20 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "台風30号 非常に強い勢力で沖縄へ"
     },
     {
-      "time": "16:36",
-      "title": "王子コンテナーに公取委が勧告",
+      "time": "19:11",
+      "title": "発足1年の高市政権 麻生氏が評価",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599705?source=rss",
-      "publishedAt": "2026-10-22T07:36:27.000Z",
-      "xQuery": "王子コンテナーに公取委が勧告"
-    },
-    {
-      "time": "13:27",
-      "title": "米 サウジの大使館員らに退避命令",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599688?source=rss",
-      "publishedAt": "2026-10-22T04:27:37.000Z",
-      "xQuery": "米 サウジの大使館員らに退避命令"
+      "url": "https://news.yahoo.co.jp/pickup/6599724?source=rss",
+      "publishedAt": "2026-10-22T10:11:06.000Z",
+      "xQuery": "発足1年の高市政権 麻生氏が評価"
     },
     {
       "time": "16:54",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6599713?source=rss",
       "publishedAt": "2026-10-22T08:50:00.000Z",
       "xQuery": "14歳の中学生が行方不明 大阪"
+    },
+    {
+      "time": "18:54",
+      "title": "カプコン 1177万件の情報漏えい",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599723?source=rss",
+      "publishedAt": "2026-10-22T09:54:24.000Z",
+      "xQuery": "カプコン 1177万件の情報漏えい"
     }
   ]
 };

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T10:16:52.813Z",
+  "updatedAt": "2026-10-22T10:41:49.701Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -22,6 +22,13 @@
         "source": "オートメーション新聞WEB",
         "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBjSUFuR3lMRXJ6OGplYVBSM3liU3B2V04yS1BOaG5pdjZoak5xNmJzWmRsc3FiZk1TbFdfRnFQT3hWeTFtd0xOaEMxYUtYMlVxYlRMaHJtUFczZw?oc=5",
         "publishedAt": "2026-10-22T07:30:00.000Z"
+      },
+      {
+        "time": "19:22",
+        "title": "ヒューマノイドロボットとCNC工作機械がシームレスに連携 - bp-Affairs",
+        "source": "bp-Affairs",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1WelJZdmhQWmlCUUE2cjdPYUtObDhzSVQwSFhBYndoWnNXUFQzT1kxTEthYTIzM2IycFBGM2tiZ0FiVU1fVkMxWWVnVVVJcXR6bmY2SlNHVklnUWY5Z0VNTGZYaXJvUQ?oc=5",
+        "publishedAt": "2026-10-22T10:22:05.000Z"
       },
       {
         "time": "06:30",
@@ -50,13 +57,6 @@
         "source": "小松製作所",
         "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA0Ql9QM0FpN2djOUpIVTZ5VnJkTUtYYmtma3daV2ZTTVRFamh3eVZlVHBlRHBRc1IyelljYjRCRGFjX05hVXAxanBVLW44X25LTGt2bEVhb2hKYXhfX0JhVQ?oc=5",
         "publishedAt": "2026-10-22T02:04:28.000Z"
-      },
-      {
-        "time": "07:25",
-        "title": "工作機械受注9月は60.4％増、トルコ中銀は37％へ利上げへ 22日の主な予定",
-        "source": "BigGo ファイナンス",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE52aERFSjdKc18wSWQ2djNrMmVKaU9aY2gxbC11Znd5SmRRZWo5RzI3MWpOWU8xTk5MOE1WaEFuakJ1UjNkOWkxUG1MTE51NjNqZ0ljazZlTnFod1E4VkpleVNrWGt2dzVhY2E1SlR4VXZwQ1Y4?oc=5",
-        "publishedAt": "2026-10-21T22:25:00.000Z"
       }
     ],
     "worldHeadlines": [
