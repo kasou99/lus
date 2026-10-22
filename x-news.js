@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-22T05:42:47.810Z",
+  "updatedAt": "2026-10-22T06:30:00.591Z",
   "items": [
     {
       "time": "13:56",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "マンジャロを不正販売の疑い 逮捕"
     },
     {
+      "time": "14:44",
+      "title": "負傷した脚自ら切断 ウ兵士の決断",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599696?source=rss",
+      "publishedAt": "2026-10-22T05:44:05.000Z",
+      "xQuery": "負傷した脚自ら切断 ウ兵士の決断"
+    },
+    {
       "time": "13:00",
       "title": "しんじょう君巡る裁判 市が上告",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6599685?source=rss",
       "publishedAt": "2026-10-22T04:00:11.000Z",
       "xQuery": "しんじょう君巡る裁判 市が上告"
-    },
-    {
-      "time": "12:09",
-      "title": "ミセス×ガスト特典 不正対策は",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599681?source=rss",
-      "publishedAt": "2026-10-22T03:09:01.000Z",
-      "xQuery": "ミセス×ガスト特典 不正対策は"
     }
   ]
 };

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T05:42:46.866Z",
+  "updatedAt": "2026-10-22T06:29:59.705Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -15,6 +15,13 @@
         "source": "MONOist",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9TREkyTEFzcEQzbGl3dW5wS184SmExV2ZvZlZBV2MwYkJWWDhwazRSQ0dhMnVPTVBtSVFBaUdkeDRzdWRrRllmNkt0SURJTHpHclN1ZUFUQVpoLUctdnRYcWVuZmdhV01mSGY3NjNqbw?oc=5",
         "publishedAt": "2026-10-21T21:15:00.000Z"
+      },
+      {
+        "time": "15:02",
+        "title": "9月の工作機械受注60%増、AI需要で過去最高額 過剰投資に懸念も",
+        "source": "日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBJUUtrbEpoUEJLc0xBUEhwYmg0NUs3UWxPMGJhM0pYLXNETGVVcWpzRGhVU0diY3d4a3VoMnpMazJ0aVpQMlBjS1JqY1poUTVjVUZrMWZvd3VRMzE2SjVicDZVdFg1eHd0QWxlQg?oc=5",
+        "publishedAt": "2026-10-22T06:02:49.000Z"
       },
       {
         "time": "06:00",
@@ -50,13 +57,6 @@
         "source": "MONOist",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA1a0gySmViMHdGS19MR3YzRUtmQXl4RmVPelFWaklLWUQ4SUFiTktCdVFfV1U5bXRNdUxEVzdYZ2w2SWZjZ21qM0lIQndtLTJxQXNqS3N6bHV2R0sxdm9FSm43M0pFUVRKM3NLTlg1aw?oc=5",
         "publishedAt": "2026-10-22T04:00:00.000Z"
-      },
-      {
-        "time": "11:20",
-        "title": "三菱電機、人手作業を代替する業界初の加工システム 自然言語で人型ロボと工作機械が連携",
-        "source": "マイナビニュース",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5qRTRZaXdSTmNOTmozaDAwbG1SVkxNOFN5RXNwQUVmLTF5RzZDQTVvMjkzTzc4NGdsMFgwckt6N3dxalRacnlwMDRjcGVDOEgzM19JaVhrbi1iTWhTaFQ5TTFXVU01eFJG?oc=5",
-        "publishedAt": "2026-10-22T02:20:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -66,13 +66,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6599544?source=rss",
         "publishedAt": "2026-10-20T23:37:28.000Z"
-      },
-      {
-        "time": "14:24",
-        "title": "露の道新記者拘束 米国務省が非難",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599468?source=rss",
-        "publishedAt": "2026-10-20T05:24:58.000Z"
       },
       {
         "time": "13:27",
@@ -101,6 +94,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6599658?source=rss",
         "publishedAt": "2026-10-21T23:28:40.000Z"
+      },
+      {
+        "time": "14:44",
+        "title": "負傷した脚自ら切断 ウ兵士の決断",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6599696?source=rss",
+        "publishedAt": "2026-10-22T05:44:05.000Z"
       }
     ],
     "economyHeadlines": [
