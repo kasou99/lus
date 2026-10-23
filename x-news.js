@@ -1,14 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-23T02:25:13.168Z",
+  "updatedAt": "2026-10-23T02:47:32.977Z",
   "items": [
-    {
-      "time": "11:13",
-      "title": "松井秀喜氏 巨人の新監督に就任へ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599785?source=rss",
-      "publishedAt": "2026-10-23T02:13:24.000Z",
-      "xQuery": "松井秀喜氏 巨人の新監督に就任へ"
-    },
     {
       "time": "10:45",
       "title": "台風30号 26日に九州上陸の恐れ",
@@ -16,6 +8,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6599784?source=rss",
       "publishedAt": "2026-10-23T01:45:54.000Z",
       "xQuery": "台風30号 26日に九州上陸の恐れ"
+    },
+    {
+      "time": "09:35",
+      "title": "北が心理戦警告 南北で緊張の恐れ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599779?source=rss",
+      "publishedAt": "2026-10-23T00:35:28.000Z",
+      "xQuery": "北が心理戦警告 南北で緊張の恐れ"
     },
     {
       "time": "09:07",
