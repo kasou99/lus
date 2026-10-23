@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-23T05:42:19.521Z",
+  "updatedAt": "2026-10-23T06:30:12.553Z",
   "items": [
     {
       "time": "13:33",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "台風接近 沖縄～関東は大雨の恐れ"
     },
     {
+      "time": "15:21",
+      "title": "暴徒化 仏デモ参加者が嘆く理由",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599811?source=rss",
+      "publishedAt": "2026-10-23T06:21:02.000Z",
+      "xQuery": "暴徒化 仏デモ参加者が嘆く理由"
+    },
+    {
       "time": "13:11",
       "title": "交通違反反則金 スマホ納付の懸念",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6599800?source=rss",
       "publishedAt": "2026-10-23T04:11:48.000Z",
       "xQuery": "交通違反反則金 スマホ納付の懸念"
-    },
-    {
-      "time": "10:04",
-      "title": "「学生」の自殺者数 減少傾向なし",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599781?source=rss",
-      "publishedAt": "2026-10-23T01:04:30.000Z",
-      "xQuery": "「学生」の自殺者数 減少傾向なし"
     },
     {
       "time": "13:14",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "マンション修繕会議 業者潜入発覚"
     },
     {
-      "time": "14:21",
-      "title": "本音告げずに会社辞める 原因は?",
+      "time": "14:54",
+      "title": "本当の理由言わず退職 なぜ深刻か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599794?source=rss",
-      "publishedAt": "2026-10-23T05:21:14.000Z",
-      "xQuery": "本音告げずに会社辞める 原因は?"
+      "url": "https://news.yahoo.co.jp/pickup/6599809?source=rss",
+      "publishedAt": "2026-10-23T05:54:32.000Z",
+      "xQuery": "本当の理由言わず退職 なぜ深刻か"
     }
   ]
 };

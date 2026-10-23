@@ -1,13 +1,20 @@
 {
-  "updatedAt": "2026-10-23T05:42:18.627Z",
+  "updatedAt": "2026-10-23T06:30:11.333Z",
   "groups": {
     "machineHeadlines": [
       {
-        "time": "13:30",
-        "title": "最大約40％の切削量向上を実現、ヤマザキマザックの中型複合加工機：工作機械",
+        "time": "13:00",
+        "title": "工作機械主軸の状態監視へ、NTNがセンサー内蔵軸受ユニットの受注開始",
         "source": "MONOist",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1Ia0tuZC1SVXVwLXZmWlI2eVhrckt4aEZwNFJLNld1ZW9lRFRpdmpoNHdLeGJwa2Vfb1RscHF1NFdWU2lzN3VpVzJhZlotbTR5Nkc3VUJkTjhpZE5na3dEZHh2NnZBVjFOWWZmdGFlbw?oc=5",
-        "publishedAt": "2026-10-23T04:30:00.000Z"
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB4OHRfNWxJSzgwWnlGSjMxNWtWTnZfTFRySFJHWUQyZjJGd3VHX3NxeXFrUE9lZm1xTjBPUkVVN3Vac2Rhako4NGRyb3BHTE5rSlZVVXRSMmEzS0stVFRUYzZLakNrY2l2TVc4ZlZ6MA?oc=5",
+        "publishedAt": "2026-10-23T04:00:00.000Z"
+      },
+      {
+        "time": "14:57",
+        "title": "日本精工、マシニングセンタ向け新型スピンドルを開発",
+        "source": "日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1BeElSUUpEQkhldTYwbzk1cEY4d2lYN21FR21RQlQwQmo2cUVIZUtBd2hsZlhocHJHOEFxYjdDMVRkSE12eEFRNDRfYTVKanJpb2s1bkFkRjFmcy1fblliaWE1MTkyekpOZTMtWA?oc=5",
+        "publishedAt": "2026-10-23T05:57:26.000Z"
       },
       {
         "time": "08:58",
@@ -15,13 +22,6 @@
         "source": "| 製造現場ドットコム",
         "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE40N1lXZXdWcDZEWkhzamdPLVJOQzdFbzBHX1ZpNlhXSWkySzZZUG16ZjlSZDVZWjlSOW53QVRCVVh1bnBlaUFYRFFR?oc=5",
         "publishedAt": "2026-10-22T23:58:48.000Z"
-      },
-      {
-        "time": "05:00",
-        "title": "車向け工作機械受注、9月は26%増 部品メーカー伸びる",
-        "source": "日本経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8wMTk1dk5VUFZGSVVyUnN2azF1aFRmM0hGQm5SSkdRN3lZcWZHdWZ6QmJnYk1ZaXc2amNVX0hmT1R4WWZBeExPWm5lZjFUUXRfUFZYdVQwUkUyTWpUOEoyMV9iYmRTSTN5bW9zNU5FQmtYTGpFOU9kcW1BX1dKQjA?oc=5",
-        "publishedAt": "2026-10-22T20:00:00.000Z"
       },
       {
         "time": "11:02",
@@ -52,11 +52,11 @@
         "publishedAt": "2026-10-23T05:24:26.000Z"
       },
       {
-        "time": "16:30",
-        "title": "たけびし（S3015）OPCを活用した工作機械向けソリューションを出展【JIMTOF2026の製品紹介】",
-        "source": "オートメーション新聞WEB",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBjSUFuR3lMRXJ6OGplYVBSM3liU3B2V04yS1BOaG5pdjZoak5xNmJzWmRsc3FiZk1TbFdfRnFQT3hWeTFtd0xOaEMxYUtYMlVxYlRMaHJtUFczZw?oc=5",
-        "publishedAt": "2026-10-22T07:30:00.000Z"
+        "time": "05:00",
+        "title": "車向け工作機械受注、9月は26%増 部品メーカー伸びる",
+        "source": "日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8wMTk1dk5VUFZGSVVyUnN2azF1aFRmM0hGQm5SSkdRN3lZcWZHdWZ6QmJnYk1ZaXc2amNVX0hmT1R4WWZBeExPWm5lZjFUUXRfUFZYdVQwUkUyTWpUOEoyMV9iYmRTSTN5bW9zNU5FQmtYTGpFOU9kcW1BX1dKQjA?oc=5",
+        "publishedAt": "2026-10-22T20:00:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -75,11 +75,11 @@
         "publishedAt": "2026-10-23T00:07:35.000Z"
       },
       {
-        "time": "14:14",
-        "title": "仏デモ 一部暴徒化した2つの要因",
+        "time": "15:21",
+        "title": "暴徒化 仏デモ参加者が嘆く理由",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599793?source=rss",
-        "publishedAt": "2026-10-23T05:14:25.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6599811?source=rss",
+        "publishedAt": "2026-10-23T06:21:02.000Z"
       },
       {
         "time": "23:28",
@@ -126,6 +126,13 @@
         "publishedAt": "2026-10-22T23:32:18.000Z"
       },
       {
+        "time": "15:15",
+        "title": "リニア静岡工区 年内着工は困難か",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6599808?source=rss",
+        "publishedAt": "2026-10-23T06:15:57.000Z"
+      },
+      {
         "time": "07:16",
         "title": "大成建設・鹿島 国交省が処分方針",
         "source": "Yahoo!ニュース",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6599745?source=rss",
         "publishedAt": "2026-10-22T13:50:19.000Z"
-      },
-      {
-        "time": "23:06",
-        "title": "三菱自 ホンダに車両供給で合意",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599746?source=rss",
-        "publishedAt": "2026-10-22T14:06:31.000Z"
       }
     ],
     "localHeadlines": [
