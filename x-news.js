@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-23T02:47:32.977Z",
+  "updatedAt": "2026-10-23T03:20:32.685Z",
   "items": [
     {
       "time": "10:45",
@@ -10,28 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "台風30号 26日に九州上陸の恐れ"
     },
     {
-      "time": "09:35",
-      "title": "北が心理戦警告 南北で緊張の恐れ",
+      "time": "11:39",
+      "title": "失効免許証を捜査に流用 法的には",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599779?source=rss",
-      "publishedAt": "2026-10-23T00:35:28.000Z",
-      "xQuery": "北が心理戦警告 南北で緊張の恐れ"
-    },
-    {
-      "time": "09:07",
-      "title": "チベットでM7.0の地震 16人死亡",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599773?source=rss",
-      "publishedAt": "2026-10-23T00:07:35.000Z",
-      "xQuery": "チベットでM7.0の地震 16人死亡"
-    },
-    {
-      "time": "08:58",
-      "title": "「PHP」暮らし直撃 徹夜の社員も",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599772?source=rss",
-      "publishedAt": "2026-10-22T23:58:12.000Z",
-      "xQuery": "「PHP」暮らし直撃 徹夜の社員も"
+      "url": "https://news.yahoo.co.jp/pickup/6599786?source=rss",
+      "publishedAt": "2026-10-23T02:39:57.000Z",
+      "xQuery": "失効免許証を捜査に流用 法的には"
     },
     {
       "time": "10:24",
@@ -40,6 +24,22 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6599783?source=rss",
       "publishedAt": "2026-10-23T01:24:07.000Z",
       "xQuery": "体一部ないシカ死骸4体 人為的か"
+    },
+    {
+      "time": "10:37",
+      "title": "笹かまメーカー相次ぐ倒産 背景",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599782?source=rss",
+      "publishedAt": "2026-10-23T01:37:44.000Z",
+      "xQuery": "笹かまメーカー相次ぐ倒産 背景"
+    },
+    {
+      "time": "12:08",
+      "title": "折り畳み式iPhone 高額転売横行",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599797?source=rss",
+      "publishedAt": "2026-10-23T03:08:53.000Z",
+      "xQuery": "折り畳み式iPhone 高額転売横行"
     }
   ]
 };

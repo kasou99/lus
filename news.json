@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T02:47:32.443Z",
+  "updatedAt": "2026-10-23T03:20:31.765Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "11:57",
+        "title": "沖縄の民家に女性遺体 殺人と断定",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6599791?source=rss",
+        "publishedAt": "2026-10-23T02:57:12.000Z"
+      },
+      {
         "time": "23:54",
         "title": "ゴルフで80万円負担 福岡県議証言",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6599780?source=rss",
         "publishedAt": "2026-10-23T01:05:29.000Z"
-      },
-      {
-        "time": "10:24",
-        "title": "体一部ないシカ死骸4体 人為的か",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599783?source=rss",
-        "publishedAt": "2026-10-23T01:24:07.000Z"
       }
     ],
     "subsidyHeadlines": [
