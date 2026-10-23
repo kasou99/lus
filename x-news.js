@@ -1,29 +1,37 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-22T23:37:37.228Z",
+  "updatedAt": "2026-10-23T00:47:18.250Z",
   "items": [
     {
-      "time": "06:30",
-      "title": "台風30号が先島諸島接近へ 警戒を",
+      "time": "08:32",
+      "title": "食料品消費税1% 買い物は変わるか",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599757?source=rss",
-      "publishedAt": "2026-10-22T21:30:26.000Z",
-      "xQuery": "台風30号が先島諸島接近へ 警戒を"
+      "url": "https://news.yahoo.co.jp/pickup/6599768?source=rss",
+      "publishedAt": "2026-10-22T23:32:18.000Z",
+      "xQuery": "食料品消費税1% 買い物は変わるか"
     },
     {
-      "time": "07:36",
-      "title": "ANAが追加出資検討 中堅航空2社",
+      "time": "09:07",
+      "title": "チベットでM7.0の地震 16人死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599762?source=rss",
-      "publishedAt": "2026-10-22T22:36:33.000Z",
-      "xQuery": "ANAが追加出資検討 中堅航空2社"
+      "url": "https://news.yahoo.co.jp/pickup/6599773?source=rss",
+      "publishedAt": "2026-10-23T00:07:35.000Z",
+      "xQuery": "チベットでM7.0の地震 16人死亡"
     },
     {
-      "time": "07:16",
-      "title": "大成建設・鹿島 国交省が処分方針",
+      "time": "07:41",
+      "title": "デジ庁HPの問い合わせ内容漏洩か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599759?source=rss",
-      "publishedAt": "2026-10-22T22:16:08.000Z",
-      "xQuery": "大成建設・鹿島 国交省が処分方針"
+      "url": "https://news.yahoo.co.jp/pickup/6599763?source=rss",
+      "publishedAt": "2026-10-22T22:41:18.000Z",
+      "xQuery": "デジ庁HPの問い合わせ内容漏洩か"
+    },
+    {
+      "time": "08:58",
+      "title": "「PHP」暮らし直撃 徹夜の社員も",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599772?source=rss",
+      "publishedAt": "2026-10-22T23:58:12.000Z",
+      "xQuery": "「PHP」暮らし直撃 徹夜の社員も"
     },
     {
       "time": "07:49",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6599765?source=rss",
       "publishedAt": "2026-10-22T22:49:45.000Z",
       "xQuery": "生活保護利用者の車保有 緩和検討"
-    },
-    {
-      "time": "06:12",
-      "title": "シャモンダウイルス 仏でヒト感染",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599754?source=rss",
-      "publishedAt": "2026-10-22T21:12:14.000Z",
-      "xQuery": "シャモンダウイルス 仏でヒト感染"
     }
   ]
 };
