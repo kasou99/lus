@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-23T08:23:46.841Z",
+  "updatedAt": "2026-10-23T08:46:23.313Z",
   "items": [
     {
       "time": "16:12",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "佐川急便で情報流出 最大5323万件"
     },
     {
+      "time": "15:54",
+      "title": "ソウル市長 政治資金巡り逆転無罪",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599814?source=rss",
+      "publishedAt": "2026-10-23T06:54:13.000Z",
+      "xQuery": "ソウル市長 政治資金巡り逆転無罪"
+    },
+    {
       "time": "15:15",
       "title": "リニア静岡工区 年内着工は困難か",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6599808?source=rss",
       "publishedAt": "2026-10-23T06:15:57.000Z",
       "xQuery": "リニア静岡工区 年内着工は困難か"
-    },
-    {
-      "time": "15:21",
-      "title": "暴徒化 仏デモ参加者が嘆く理由",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599811?source=rss",
-      "publishedAt": "2026-10-23T06:21:02.000Z",
-      "xQuery": "暴徒化 仏デモ参加者が嘆く理由"
     },
     {
       "time": "16:59",
