@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-23T23:15:00.462Z",
+  "updatedAt": "2026-10-23T23:37:44.995Z",
   "items": [
     {
       "time": "07:15",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "ウ南部停戦へ トランプ氏夫人仲介"
     },
     {
-      "time": "21:58",
-      "title": "タイムズカー情報流出 集団訴訟へ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599864?source=rss",
-      "publishedAt": "2026-10-23T12:58:20.000Z",
-      "xQuery": "タイムズカー情報流出 集団訴訟へ"
-    },
-    {
       "time": "08:07",
       "title": "県立高で威圧的指導か 精神疾患に",
       "source": "Yahoo!ニュース",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "県立高で威圧的指導か 精神疾患に"
     },
     {
-      "time": "22:25",
-      "title": "車ドアと路面に首はさまれ 窒息死",
+      "time": "22:56",
+      "title": "車に1歳放置し病院勤務疑い 逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599870?source=rss",
-      "publishedAt": "2026-10-23T13:25:37.000Z",
-      "xQuery": "車ドアと路面に首はさまれ 窒息死"
+      "url": "https://news.yahoo.co.jp/pickup/6599875?source=rss",
+      "publishedAt": "2026-10-23T13:56:38.000Z",
+      "xQuery": "車に1歳放置し病院勤務疑い 逮捕"
+    },
+    {
+      "time": "08:14",
+      "title": "パナG従業員情報 外部AIにアップ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599885?source=rss",
+      "publishedAt": "2026-10-23T23:14:51.000Z",
+      "xQuery": "パナG従業員情報 外部AIにアップ"
     }
   ]
 };
