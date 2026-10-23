@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-23T01:29:42.447Z",
+  "updatedAt": "2026-10-23T01:53:23.819Z",
   "items": [
     {
-      "time": "08:32",
-      "title": "食料品消費税1% 買い物は変わるか",
+      "time": "10:45",
+      "title": "台風30号 26日に九州上陸の恐れ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599768?source=rss",
-      "publishedAt": "2026-10-22T23:32:18.000Z",
-      "xQuery": "食料品消費税1% 買い物は変わるか"
+      "url": "https://news.yahoo.co.jp/pickup/6599784?source=rss",
+      "publishedAt": "2026-10-23T01:45:54.000Z",
+      "xQuery": "台風30号 26日に九州上陸の恐れ"
     },
     {
       "time": "09:07",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "体一部ないシカ死骸4体 人為的か"
     },
     {
-      "time": "09:34",
-      "title": "「iPhone Duo」発売 予約は好調",
+      "time": "10:37",
+      "title": "笹かまメーカー相次ぐ倒産 背景",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599778?source=rss",
-      "publishedAt": "2026-10-23T00:34:34.000Z",
-      "xQuery": "「iPhone Duo」発売 予約は好調"
+      "url": "https://news.yahoo.co.jp/pickup/6599782?source=rss",
+      "publishedAt": "2026-10-23T01:37:44.000Z",
+      "xQuery": "笹かまメーカー相次ぐ倒産 背景"
     }
   ]
 };

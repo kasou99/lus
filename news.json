@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T01:29:41.753Z",
+  "updatedAt": "2026-10-23T01:53:23.080Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -112,13 +112,6 @@
         "publishedAt": "2026-10-22T23:58:12.000Z"
       },
       {
-        "time": "12:06",
-        "title": "PHP巡り 企業など対応に追われる",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599679?source=rss",
-        "publishedAt": "2026-10-22T03:06:18.000Z"
-      },
-      {
         "time": "08:32",
         "title": "食料品消費税1% 買い物は変わるか",
         "source": "Yahoo!ニュース",
@@ -145,6 +138,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6599745?source=rss",
         "publishedAt": "2026-10-22T13:50:19.000Z"
+      },
+      {
+        "time": "23:06",
+        "title": "三菱自 ホンダに車両供給で合意",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6599746?source=rss",
+        "publishedAt": "2026-10-22T14:06:31.000Z"
       }
     ],
     "localHeadlines": [
