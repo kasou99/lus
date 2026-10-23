@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-23T22:15:39.910Z",
+  "updatedAt": "2026-10-23T22:38:11.593Z",
   "items": [
     {
-      "time": "23:44",
-      "title": "台風 強い勢力のまま先島諸島接近",
+      "time": "07:15",
+      "title": "強い台風30号は九州へ 警報級大雨",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599876?source=rss",
-      "publishedAt": "2026-10-23T14:44:19.000Z",
-      "xQuery": "台風 強い勢力のまま先島諸島接近"
+      "url": "https://news.yahoo.co.jp/pickup/6599881?source=rss",
+      "publishedAt": "2026-10-23T22:15:15.000Z",
+      "xQuery": "強い台風30号は九州へ 警報級大雨"
     },
     {
-      "time": "23:42",
-      "title": "露 ウ南部で一時停戦合意と米発表",
+      "time": "07:18",
+      "title": "ウ南部停戦へ トランプ氏夫人仲介",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599879?source=rss",
-      "publishedAt": "2026-10-23T14:42:42.000Z",
-      "xQuery": "露 ウ南部で一時停戦合意と米発表"
+      "url": "https://news.yahoo.co.jp/pickup/6599882?source=rss",
+      "publishedAt": "2026-10-23T22:18:09.000Z",
+      "xQuery": "ウ南部停戦へ トランプ氏夫人仲介"
     },
     {
       "time": "21:58",

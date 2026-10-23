@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T22:15:39.005Z",
+  "updatedAt": "2026-10-23T22:38:10.827Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -8,13 +8,6 @@
         "source": "MONOist",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB4OHRfNWxJSzgwWnlGSjMxNWtWTnZfTFRySFJHWUQyZjJGd3VHX3NxeXFrUE9lZm1xTjBPUkVVN3Vac2Rhako4NGRyb3BHTE5rSlZVVXRSMmEzS0stVFRUYzZLakNrY2l2TVc4ZlZ6MA?oc=5",
         "publishedAt": "2026-10-23T04:00:00.000Z"
-      },
-      {
-        "time": "21:17",
-        "title": "マシニングセンタ向け新型スピンドルを開発",
-        "source": "シブヤ経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5VaHhZRnhKYlR2T2dTUVFKUkpWVVV5ajFJbHowV3BkY1VVZmFpRFM0Rkk1cnVSSnBfWkxhZTRmWnM3Z0JwVzNHMVl4TzZMUVpHWnByYVc1QXBLd2xfMnNj?oc=5",
-        "publishedAt": "2026-10-23T12:17:04.000Z"
       },
       {
         "time": "14:57",
@@ -57,9 +50,30 @@
         "source": "www.ctiweb.co.jp",
         "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxNZEw3YnJ2bTZvbUZreTdMWkJKVTRWMngwOXhiSDJvbGlnLWxwbVlPMm1NeW9CWDJHblhseEFGN2ZYMGV2WjhVdk1qS3k3dHJ5RnVmd2tETlZob2hUd1JVTzJLQXM3eU9Nd19GQTh1LVQ0OFhkaThjVGR1TWdrYmtYSm1wTUdXUmIzeWpfT3lzbmlBR19qUVBjdkpXd2xIdEtfT1RJdGF0emVOUVdSLU5KTFpINjZyVWRRdmJtNm5UZVZ6UFNCRGhRd1hhRHFWcUt5dnVSb003YkxhNUdydUhwM012LXpyZnhwaHd0MGg5ck55LTVqUlJ2SHJkUUxHU2FzbFhyM2NnRGZKSnMySVZoOGhqVWo4UkJiX0l3QVR1ZldVa2FtdlpodXVKbjNzRDZsNXNPdlN0N0lHS0ZRdU8wekdfaUF0azZoY3ByUi1nUGZtVTA1VWc?oc=5",
         "publishedAt": "2026-10-23T07:45:05.000Z"
+      },
+      {
+        "time": "14:24",
+        "title": "マシニングセンタ向け新型スピンドルを開発",
+        "source": "PR TIMES",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1adUZsdl9UMnl0aWxaMjV5WC1hM0Y4dzI2YmNMdzd4RE81ampUdDBxdTdfeWMyc2g5T1RaMnYxZDNRWkVfS095SUR4bzdZRW1NODNYSmZnYUpLdTNlWmhNOU5tLUpRMEE0THc?oc=5",
+        "publishedAt": "2026-10-23T05:24:26.000Z"
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "07:36",
+        "title": "パリ近郊で銃乱射 1人死亡4人負傷",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6599883?source=rss",
+        "publishedAt": "2026-10-23T22:36:15.000Z"
+      },
+      {
+        "time": "07:18",
+        "title": "ウ南部停戦へ トランプ氏夫人仲介",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6599882?source=rss",
+        "publishedAt": "2026-10-23T22:18:09.000Z"
+      },
       {
         "time": "23:42",
         "title": "露 ウ南部で一時停戦合意と米発表",
@@ -87,20 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6599779?source=rss",
         "publishedAt": "2026-10-23T00:35:28.000Z"
-      },
-      {
-        "time": "09:07",
-        "title": "チベットでM7.0の地震 16人死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599773?source=rss",
-        "publishedAt": "2026-10-23T00:07:35.000Z"
-      },
-      {
-        "time": "23:43",
-        "title": "モンゴル火災 日系企業幹部が謝罪",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599749?source=rss",
-        "publishedAt": "2026-10-22T14:43:02.000Z"
       }
     ],
     "economyHeadlines": [
