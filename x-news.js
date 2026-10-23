@@ -1,21 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-23T11:41:30.302Z",
+  "updatedAt": "2026-10-23T12:25:04.349Z",
   "items": [
     {
-      "time": "18:48",
-      "title": "滋賀銀と池田泉州HD 経営統合へ",
+      "time": "18:37",
+      "title": "物価上昇2%到達判断の公算大 日銀",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599846?source=rss",
-      "publishedAt": "2026-10-23T09:48:57.000Z",
-      "xQuery": "滋賀銀と池田泉州HD 経営統合へ"
-    },
-    {
-      "time": "18:14",
-      "title": "台風30号 24日にかけ先島諸島接近",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599838?source=rss",
-      "publishedAt": "2026-10-23T09:14:24.000Z",
-      "xQuery": "台風30号 24日にかけ先島諸島接近"
+      "url": "https://news.yahoo.co.jp/pickup/6599845?source=rss",
+      "publishedAt": "2026-10-23T09:37:44.000Z",
+      "xQuery": "物価上昇2%到達判断の公算大 日銀"
     },
     {
       "time": "19:17",
@@ -26,20 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "高峰登山で不明2邦人か 遺体発見"
     },
     {
-      "time": "19:17",
-      "title": "三重・伊賀市長発言 パワハラ認定",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599849?source=rss",
-      "publishedAt": "2026-10-23T10:17:47.000Z",
-      "xQuery": "三重・伊賀市長発言 パワハラ認定"
-    },
-    {
       "time": "19:29",
       "title": "生徒が「指導死」教諭を懲戒免職",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6599854?source=rss",
       "publishedAt": "2026-10-23T10:29:10.000Z",
       "xQuery": "生徒が「指導死」教諭を懲戒免職"
+    },
+    {
+      "time": "20:40",
+      "title": "迷惑行為「ショウリンジ」相次ぐ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599857?source=rss",
+      "publishedAt": "2026-10-23T11:40:20.000Z",
+      "xQuery": "迷惑行為「ショウリンジ」相次ぐ"
+    },
+    {
+      "time": "18:15",
+      "title": "Airbnb「過度な家事要求」禁止へ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599839?source=rss",
+      "publishedAt": "2026-10-23T09:15:45.000Z",
+      "xQuery": "Airbnb「過度な家事要求」禁止へ"
     }
   ]
 };
