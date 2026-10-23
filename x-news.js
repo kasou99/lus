@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-23T05:17:01.607Z",
+  "updatedAt": "2026-10-23T05:42:19.521Z",
   "items": [
     {
       "time": "13:33",
@@ -10,12 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "台風接近 沖縄～関東は大雨の恐れ"
     },
     {
-      "time": "11:41",
-      "title": "復興相 事務所数を巡り報告書訂正",
+      "time": "13:11",
+      "title": "交通違反反則金 スマホ納付の懸念",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599788?source=rss",
-      "publishedAt": "2026-10-23T02:41:20.000Z",
-      "xQuery": "復興相 事務所数を巡り報告書訂正"
+      "url": "https://news.yahoo.co.jp/pickup/6599800?source=rss",
+      "publishedAt": "2026-10-23T04:11:48.000Z",
+      "xQuery": "交通違反反則金 スマホ納付の懸念"
+    },
+    {
+      "time": "10:04",
+      "title": "「学生」の自殺者数 減少傾向なし",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599781?source=rss",
+      "publishedAt": "2026-10-23T01:04:30.000Z",
+      "xQuery": "「学生」の自殺者数 減少傾向なし"
     },
     {
       "time": "13:14",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "マンション修繕会議 業者潜入発覚"
     },
     {
-      "time": "11:57",
-      "title": "沖縄の民家に女性遺体 殺人と断定",
+      "time": "14:21",
+      "title": "本音告げずに会社辞める 原因は?",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599791?source=rss",
-      "publishedAt": "2026-10-23T02:57:12.000Z",
-      "xQuery": "沖縄の民家に女性遺体 殺人と断定"
-    },
-    {
-      "time": "12:08",
-      "title": "折り畳み式iPhone 高額転売横行",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599797?source=rss",
-      "publishedAt": "2026-10-23T03:08:53.000Z",
-      "xQuery": "折り畳み式iPhone 高額転売横行"
+      "url": "https://news.yahoo.co.jp/pickup/6599794?source=rss",
+      "publishedAt": "2026-10-23T05:21:14.000Z",
+      "xQuery": "本音告げずに会社辞める 原因は?"
     }
   ]
 };
