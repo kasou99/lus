@@ -1,21 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-23T04:20:20.949Z",
+  "updatedAt": "2026-10-23T04:44:55.725Z",
   "items": [
     {
-      "time": "13:05",
-      "title": "作家・村上龍さん死去 74歳",
+      "time": "13:33",
+      "title": "台風接近 沖縄～関東は大雨の恐れ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599801?source=rss",
-      "publishedAt": "2026-10-23T04:05:37.000Z",
-      "xQuery": "作家・村上龍さん死去 74歳"
-    },
-    {
-      "time": "10:45",
-      "title": "台風30号 26日に九州上陸の恐れ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599784?source=rss",
-      "publishedAt": "2026-10-23T01:45:54.000Z",
-      "xQuery": "台風30号 26日に九州上陸の恐れ"
+      "url": "https://news.yahoo.co.jp/pickup/6599802?source=rss",
+      "publishedAt": "2026-10-23T04:33:56.000Z",
+      "xQuery": "台風接近 沖縄～関東は大雨の恐れ"
     },
     {
       "time": "11:41",
@@ -26,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "復興相 事務所数を巡り報告書訂正"
     },
     {
-      "time": "10:24",
-      "title": "体一部ないシカ死骸4体 人為的か",
+      "time": "13:14",
+      "title": "マンション修繕会議 業者潜入発覚",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599783?source=rss",
-      "publishedAt": "2026-10-23T01:24:07.000Z",
-      "xQuery": "体一部ないシカ死骸4体 人為的か"
+      "url": "https://news.yahoo.co.jp/pickup/6599799?source=rss",
+      "publishedAt": "2026-10-23T04:14:19.000Z",
+      "xQuery": "マンション修繕会議 業者潜入発覚"
     },
     {
       "time": "10:37",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6599782?source=rss",
       "publishedAt": "2026-10-23T01:37:44.000Z",
       "xQuery": "笹かまメーカー相次ぐ倒産 背景"
+    },
+    {
+      "time": "12:08",
+      "title": "折り畳み式iPhone 高額転売横行",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599797?source=rss",
+      "publishedAt": "2026-10-23T03:08:53.000Z",
+      "xQuery": "折り畳み式iPhone 高額転売横行"
     }
   ]
 };

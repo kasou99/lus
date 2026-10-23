@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-10-23T04:20:20.055Z",
+  "updatedAt": "2026-10-23T04:44:55.077Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "13:30",
+        "title": "最大約40％の切削量向上を実現、ヤマザキマザックの中型複合加工機：工作機械",
+        "source": "MONOist",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1Ia0tuZC1SVXVwLXZmWlI2eVhrckt4aEZwNFJLNld1ZW9lRFRpdmpoNHdLeGJwa2Vfb1RscHF1NFdWU2lzN3VpVzJhZlotbTR5Nkc3VUJkTjhpZE5na3dEZHh2NnZBVjFOWWZmdGFlbw?oc=5",
+        "publishedAt": "2026-10-23T04:30:00.000Z"
+      },
       {
         "time": "08:58",
         "title": "「JIMTOF2026」開幕に向けて 日本工作機械工業会 会長 坂本繁友 - | 製造現場ドットコム",
@@ -50,13 +57,6 @@
         "source": "bp-Affairs",
         "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1WelJZdmhQWmlCUUE2cjdPYUtObDhzSVQwSFhBYndoWnNXUFQzT1kxTEthYTIzM2IycFBGM2tiZ0FiVU1fVkMxWWVnVVVJcXR6bmY2SlNHVklnUWY5Z0VNTGZYaXJvUQ?oc=5",
         "publishedAt": "2026-10-22T10:22:05.000Z"
-      },
-      {
-        "time": "15:02",
-        "title": "9月の工作機械受注60%増、AI需要で過去最高額 過剰投資に懸念も",
-        "source": "日本経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBJUUtrbEpoUEJLc0xBUEhwYmg0NUs3UWxPMGJhM0pYLXNETGVVcWpzRGhVU0diY3d4a3VoMnpMazJ0aVpQMlBjS1JqY1poUTVjVUZrMWZvd3VRMzE2SjVicDZVdFg1eHd0QWxlQg?oc=5",
-        "publishedAt": "2026-10-22T06:02:49.000Z"
       }
     ],
     "worldHeadlines": [
