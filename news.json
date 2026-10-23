@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T13:42:50.841Z",
+  "updatedAt": "2026-10-23T14:19:40.839Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -24,13 +24,6 @@
         "publishedAt": "2026-10-23T08:47:00.000Z"
       },
       {
-        "time": "14:37",
-        "title": "日本精工－続落 マシニングセンタ向け新型スピンドルを開発",
-        "source": "TradingView",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE14bmxnTUZISVAxNFVNSmZ2eXNoRGxtNDFBdE55OGlqZHVYb0dESmgtc2FNQnlaeUw2djVtZUdIVGFjR0JfNVE0UlcwQzBKZ0k3S3BfNnJhYnJpUlJObkkwcWJCUGNhMGotNXpmRkkzUQ?oc=5",
-        "publishedAt": "2026-10-23T05:37:00.000Z"
-      },
-      {
         "time": "08:58",
         "title": "【工作機械編】「JIMTOF2026」注目企業の見どころはココだ！ - | 製造現場ドットコム",
         "source": "| 製造現場ドットコム",
@@ -38,11 +31,18 @@
         "publishedAt": "2026-10-22T23:58:26.000Z"
       },
       {
-        "time": "05:00",
-        "title": "日刊工業アーカイブス／東京・晴海で見本市 工作機械、世界をリード",
+        "time": "16:52",
+        "title": "2026年10月23日 深層断面 ニュース",
         "source": "日刊工業新聞 電子版",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE15eEw4aU5FX1dzZ3dXdTNGclAxMnBaR1JLNlpfai01cnFxRS04TGRnRmlMODYtRTVyNG42Wm9iVHNCUDBVcGRmd2lWSDdadU5KUHNocnk5Mkk?oc=5",
-        "publishedAt": "2026-10-22T20:00:00.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE55RXFrMUdVVDFOYjRzUlUybjFoVnZSWTVTcXBEbUdMTXIyaWV2S0JzNm1FbVRyV3lKcGJCWHQ5eEpKSDU2S29LMGpfWktzWnk1NFRCTg?oc=5",
+        "publishedAt": "2026-10-23T07:52:47.000Z"
+      },
+      {
+        "time": "14:37",
+        "title": "日本精工－続落 マシニングセンタ向け新型スピンドルを開発",
+        "source": "TradingView",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1nS19KZmhWX0FScTVPSEM2eHpSUTNpaC1GdDBoVGtFWXBZaTVVdTZnM2ZfLWpiX3B4dUtURE16OUdRRUt1aUpYUzlKcUlBbFFGanQwVktUTnFHNmkyMEhNcnhJNXBPQkhULV9RMU83U3U?oc=5",
+        "publishedAt": "2026-10-23T05:37:00.000Z"
       },
       {
         "time": "16:45",
@@ -149,18 +149,18 @@
     ],
     "localHeadlines": [
       {
-        "time": "19:17",
-        "title": "三重・伊賀市長発言 パワハラ認定",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599849?source=rss",
-        "publishedAt": "2026-10-23T10:17:47.000Z"
-      },
-      {
         "time": "22:25",
         "title": "車ドアと路面に首はさまれ 窒息死",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6599870?source=rss",
         "publishedAt": "2026-10-23T13:25:37.000Z"
+      },
+      {
+        "time": "22:56",
+        "title": "車に1歳放置し病院勤務疑い 逮捕",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6599875?source=rss",
+        "publishedAt": "2026-10-23T13:56:38.000Z"
       },
       {
         "time": "21:10",

@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-23T13:42:51.671Z",
+  "updatedAt": "2026-10-23T14:19:41.731Z",
   "items": [
     {
-      "time": "18:37",
-      "title": "物価上昇2%到達判断の公算大 日銀",
+      "time": "22:21",
+      "title": "8～9月の記録的大雨 温暖化影響か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599845?source=rss",
-      "publishedAt": "2026-10-23T09:37:44.000Z",
-      "xQuery": "物価上昇2%到達判断の公算大 日銀"
+      "url": "https://news.yahoo.co.jp/pickup/6599866?source=rss",
+      "publishedAt": "2026-10-23T13:21:29.000Z",
+      "xQuery": "8～9月の記録的大雨 温暖化影響か"
     },
     {
       "time": "21:36",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "車ドアと路面に首はさまれ 窒息死"
     },
     {
-      "time": "20:40",
-      "title": "迷惑行為「ショウリンジ」相次ぐ",
+      "time": "22:39",
+      "title": "駅弁フェア向けの弁当で7人食中毒",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599857?source=rss",
-      "publishedAt": "2026-10-23T11:40:20.000Z",
-      "xQuery": "迷惑行為「ショウリンジ」相次ぐ"
+      "url": "https://news.yahoo.co.jp/pickup/6599873?source=rss",
+      "publishedAt": "2026-10-23T13:39:31.000Z",
+      "xQuery": "駅弁フェア向けの弁当で7人食中毒"
     }
   ]
 };
