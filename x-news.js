@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-23T07:25:42.047Z",
+  "updatedAt": "2026-10-23T07:45:52.482Z",
   "items": [
     {
       "time": "16:12",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "佐川急便で情報流出 最大5323万件"
     },
     {
-      "time": "13:33",
-      "title": "台風接近 沖縄～関東は大雨の恐れ",
+      "time": "15:15",
+      "title": "リニア静岡工区 年内着工は困難か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599802?source=rss",
-      "publishedAt": "2026-10-23T04:33:56.000Z",
-      "xQuery": "台風接近 沖縄～関東は大雨の恐れ"
+      "url": "https://news.yahoo.co.jp/pickup/6599808?source=rss",
+      "publishedAt": "2026-10-23T06:15:57.000Z",
+      "xQuery": "リニア静岡工区 年内着工は困難か"
     },
     {
       "time": "15:21",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "本当の理由言わず退職 なぜ深刻か"
     },
     {
-      "time": "11:39",
-      "title": "NYセントラルパークの馬車廃止へ",
+      "time": "16:26",
+      "title": "回転喫茶店の人気再燃 若者が続々",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599787?source=rss",
-      "publishedAt": "2026-10-23T02:39:24.000Z",
-      "xQuery": "NYセントラルパークの馬車廃止へ"
+      "url": "https://news.yahoo.co.jp/pickup/6599818?source=rss",
+      "publishedAt": "2026-10-23T07:26:19.000Z",
+      "xQuery": "回転喫茶店の人気再燃 若者が続々"
     }
   ]
 };
