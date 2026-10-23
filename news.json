@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T09:19:37.018Z",
+  "updatedAt": "2026-10-23T09:43:39.617Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,18 +17,18 @@
         "publishedAt": "2026-10-23T05:57:26.000Z"
       },
       {
-        "time": "16:52",
-        "title": "2026年10月23日 深層断面 ニュース",
-        "source": "日刊工業新聞 電子版",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE55RXFrMUdVVDFOYjRzUlUybjFoVnZSWTVTcXBEbUdMTXIyaWV2S0JzNm1FbVRyV3lKcGJCWHQ5eEpKSDU2S29LMGpfWktzWnk1NFRCTg?oc=5",
-        "publishedAt": "2026-10-23T07:52:47.000Z"
-      },
-      {
         "time": "17:47",
         "title": "NTN、工作機械向け高速グリースを量産 - dmn値230万の高速回転性能を実現",
         "source": "ｄメニューニュース",
         "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB3Z0V1dE9fRnJSSld2dlM1X0k5R1lVTzdvSzBuMXVTV2Myb0Y2U1NrMHBzUFF2N0tQVXRlaGxicEltdlZ1U1ZUdFE4TVpLRllKT1A5YlpRYXJEaFdEak1RcG82VXVxVnNXTGRLdUh1c19HWUV1TTFR0gF8QVVfeXFMT1N2djBPb28wNzhVdDdrMkZ6ZUNFVkoyUHl4WXZzN2diVW5EX2JIVG04czBYM2NOempDMHpVQzItaWtlVjdCNGE0aHI5WE5hYi1ZdFlCN0dhS1FMT09wTDFSc05ya19YcFpkSVFBbjVDTUdjbUczWnJwcUM2dQ?oc=5",
         "publishedAt": "2026-10-23T08:47:00.000Z"
+      },
+      {
+        "time": "16:52",
+        "title": "2026年10月23日 深層断面 ニュース",
+        "source": "日刊工業新聞 電子版",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE55RXFrMUdVVDFOYjRzUlUybjFoVnZSWTVTcXBEbUdMTXIyaWV2S0JzNm1FbVRyV3lKcGJCWHQ5eEpKSDU2S29LMGpfWktzWnk1NFRCTg?oc=5",
+        "publishedAt": "2026-10-23T07:52:47.000Z"
       },
       {
         "time": "14:37",
@@ -105,6 +105,13 @@
     ],
     "economyHeadlines": [
       {
+        "time": "18:37",
+        "title": "物価上昇2%到達判断の公算大 日銀",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6599845?source=rss",
+        "publishedAt": "2026-10-23T09:37:44.000Z"
+      },
+      {
         "time": "16:12",
         "title": "佐川急便で情報流出 最大5323万件",
         "source": "Yahoo!ニュース",
@@ -119,6 +126,13 @@
         "publishedAt": "2026-10-23T07:59:33.000Z"
       },
       {
+        "time": "18:33",
+        "title": "パルグループ創業 井上英隆氏死去",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6599843?source=rss",
+        "publishedAt": "2026-10-23T09:33:09.000Z"
+      },
+      {
         "time": "13:14",
         "title": "マンション修繕会議 業者潜入発覚",
         "source": "Yahoo!ニュース",
@@ -126,25 +140,11 @@
         "publishedAt": "2026-10-23T04:14:19.000Z"
       },
       {
-        "time": "08:58",
-        "title": "「PHP」暮らし直撃 徹夜の社員も",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599772?source=rss",
-        "publishedAt": "2026-10-22T23:58:12.000Z"
-      },
-      {
         "time": "18:15",
         "title": "Airbnb「過度な家事要求」禁止へ",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6599839?source=rss",
         "publishedAt": "2026-10-23T09:15:45.000Z"
-      },
-      {
-        "time": "16:26",
-        "title": "回転喫茶店の人気再燃 若者が続々",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599818?source=rss",
-        "publishedAt": "2026-10-23T07:26:19.000Z"
       }
     ],
     "localHeadlines": [
