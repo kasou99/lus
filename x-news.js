@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-23T14:19:41.731Z",
+  "updatedAt": "2026-10-23T14:44:47.535Z",
   "items": [
     {
       "time": "22:21",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "車ドアと路面に首はさまれ 窒息死"
     },
     {
-      "time": "22:39",
-      "title": "駅弁フェア向けの弁当で7人食中毒",
+      "time": "22:56",
+      "title": "車に1歳放置し病院勤務疑い 逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599873?source=rss",
-      "publishedAt": "2026-10-23T13:39:31.000Z",
-      "xQuery": "駅弁フェア向けの弁当で7人食中毒"
+      "url": "https://news.yahoo.co.jp/pickup/6599875?source=rss",
+      "publishedAt": "2026-10-23T13:56:38.000Z",
+      "xQuery": "車に1歳放置し病院勤務疑い 逮捕"
     }
   ]
 };
