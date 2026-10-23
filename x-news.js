@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-23T04:44:55.725Z",
+  "updatedAt": "2026-10-23T05:17:01.607Z",
   "items": [
     {
       "time": "13:33",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "マンション修繕会議 業者潜入発覚"
     },
     {
-      "time": "10:37",
-      "title": "笹かまメーカー相次ぐ倒産 背景",
+      "time": "11:57",
+      "title": "沖縄の民家に女性遺体 殺人と断定",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599782?source=rss",
-      "publishedAt": "2026-10-23T01:37:44.000Z",
-      "xQuery": "笹かまメーカー相次ぐ倒産 背景"
+      "url": "https://news.yahoo.co.jp/pickup/6599791?source=rss",
+      "publishedAt": "2026-10-23T02:57:12.000Z",
+      "xQuery": "沖縄の民家に女性遺体 殺人と断定"
     },
     {
       "time": "12:08",
