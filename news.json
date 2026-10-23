@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T17:39:39.632Z",
+  "updatedAt": "2026-10-23T18:21:24.417Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -8,13 +8,6 @@
         "source": "MONOist",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB4OHRfNWxJSzgwWnlGSjMxNWtWTnZfTFRySFJHWUQyZjJGd3VHX3NxeXFrUE9lZm1xTjBPUkVVN3Vac2Rhako4NGRyb3BHTE5rSlZVVXRSMmEzS0stVFRUYzZLakNrY2l2TVc4ZlZ6MA?oc=5",
         "publishedAt": "2026-10-23T04:00:00.000Z"
-      },
-      {
-        "time": "21:17",
-        "title": "マシニングセンタ向け新型スピンドルを開発",
-        "source": "シブヤ経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5VaHhZRnhKYlR2T2dTUVFKUkpWVVV5ajFJbHowV3BkY1VVZmFpRFM0Rkk1cnVSSnBfWkxhZTRmWnM3Z0JwVzNHMVl4TzZMUVpHWnByYVc1QXBLd2xfMnNj?oc=5",
-        "publishedAt": "2026-10-23T12:17:04.000Z"
       },
       {
         "time": "14:57",
@@ -38,6 +31,13 @@
         "publishedAt": "2026-10-22T23:58:26.000Z"
       },
       {
+        "time": "16:52",
+        "title": "2026年10月23日 深層断面 ニュース",
+        "source": "日刊工業新聞 電子版",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE55RXFrMUdVVDFOYjRzUlUybjFoVnZSWTVTcXBEbUdMTXIyaWV2S0JzNm1FbVRyV3lKcGJCWHQ5eEpKSDU2S29LMGpfWktzWnk1NFRCTg?oc=5",
+        "publishedAt": "2026-10-23T07:52:47.000Z"
+      },
+      {
         "time": "14:37",
         "title": "日本精工－続落 マシニングセンタ向け新型スピンドルを開発",
         "source": "TradingView",
@@ -45,18 +45,18 @@
         "publishedAt": "2026-10-23T05:37:00.000Z"
       },
       {
-        "time": "05:00",
-        "title": "日刊工業アーカイブス／東京・晴海で見本市 工作機械、世界をリード",
-        "source": "日刊工業新聞 電子版",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE15eEw4aU5FX1dzZ3dXdTNGclAxMnBaR1JLNlpfai01cnFxRS04TGRnRmlMODYtRTVyNG42Wm9iVHNCUDBVcGRmd2lWSDdadU5KUHNocnk5Mkk?oc=5",
-        "publishedAt": "2026-10-22T20:00:00.000Z"
-      },
-      {
         "time": "16:45",
         "title": "【スピンドル】日本精工、マシニングセンタ向けを開発。「びびり振動」を抑制し、重切削加工の効率向上に貢献",
         "source": "www.ctiweb.co.jp",
         "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxNZEw3YnJ2bTZvbUZreTdMWkJKVTRWMngwOXhiSDJvbGlnLWxwbVlPMm1NeW9CWDJHblhseEFGN2ZYMGV2WjhVdk1qS3k3dHJ5RnVmd2tETlZob2hUd1JVTzJLQXM3eU9Nd19GQTh1LVQ0OFhkaThjVGR1TWdrYmtYSm1wTUdXUmIzeWpfT3lzbmlBR19qUVBjdkpXd2xIdEtfT1RJdGF0emVOUVdSLU5KTFpINjZyVWRRdmJtNm5UZVZ6UFNCRGhRd1hhRHFWcUt5dnVSb003YkxhNUdydUhwM012LXpyZnhwaHd0MGg5ck55LTVqUlJ2SHJkUUxHU2FzbFhyM2NnRGZKSnMySVZoOGhqVWo4UkJiX0l3QVR1ZldVa2FtdlpodXVKbjNzRDZsNXNPdlN0N0lHS0ZRdU8wekdfaUF0azZoY3ByUi1nUGZtVTA1VWc?oc=5",
         "publishedAt": "2026-10-23T07:45:05.000Z"
+      },
+      {
+        "time": "05:03",
+        "title": "三菱電機、フィジカルＡＩで人型ロボと工作機械連携",
+        "source": "化学工業日報 電子版",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE05NmZLOHJ4S1pEYjh3ZWdjTlVnNENXT1cyTUtLcTMzSWMwMXp3NVpTRFYyTEpkM0hQUmF2ZXhCNVdYMTZsdDZCMjVQV1JkbHZPQ3I0?oc=5",
+        "publishedAt": "2026-10-22T20:03:08.000Z"
       }
     ],
     "worldHeadlines": [
