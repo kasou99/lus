@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T22:38:10.827Z",
+  "updatedAt": "2026-10-23T23:14:59.733Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "08:07",
+        "title": "県立高で威圧的指導か 精神疾患に",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6599889?source=rss",
+        "publishedAt": "2026-10-23T23:07:02.000Z"
+      },
+      {
         "time": "22:25",
         "title": "車ドアと路面に首はさまれ 窒息死",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6599854?source=rss",
         "publishedAt": "2026-10-23T10:29:10.000Z"
-      },
-      {
-        "time": "20:40",
-        "title": "迷惑行為「ショウリンジ」相次ぐ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599857?source=rss",
-        "publishedAt": "2026-10-23T11:40:20.000Z"
       }
     ],
     "subsidyHeadlines": [

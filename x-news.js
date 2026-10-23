@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-23T22:38:11.593Z",
+  "updatedAt": "2026-10-23T23:15:00.462Z",
   "items": [
     {
       "time": "07:15",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "タイムズカー情報流出 集団訴訟へ"
     },
     {
-      "time": "22:37",
-      "title": "7歳死亡 法廷で母謝罪も無罪主張",
+      "time": "08:07",
+      "title": "県立高で威圧的指導か 精神疾患に",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599865?source=rss",
-      "publishedAt": "2026-10-23T13:37:32.000Z",
-      "xQuery": "7歳死亡 法廷で母謝罪も無罪主張"
+      "url": "https://news.yahoo.co.jp/pickup/6599889?source=rss",
+      "publishedAt": "2026-10-23T23:07:02.000Z",
+      "xQuery": "県立高で威圧的指導か 精神疾患に"
     },
     {
-      "time": "21:10",
-      "title": "元副議長の証言受け 蔵内氏が反論",
+      "time": "22:25",
+      "title": "車ドアと路面に首はさまれ 窒息死",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599861?source=rss",
-      "publishedAt": "2026-10-23T12:10:51.000Z",
-      "xQuery": "元副議長の証言受け 蔵内氏が反論"
+      "url": "https://news.yahoo.co.jp/pickup/6599870?source=rss",
+      "publishedAt": "2026-10-23T13:25:37.000Z",
+      "xQuery": "車ドアと路面に首はさまれ 窒息死"
     }
   ]
 };
