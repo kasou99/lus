@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T13:16:45.753Z",
+  "updatedAt": "2026-10-23T13:42:50.841Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -24,18 +24,18 @@
         "publishedAt": "2026-10-23T08:47:00.000Z"
       },
       {
+        "time": "14:37",
+        "title": "日本精工－続落 マシニングセンタ向け新型スピンドルを開発",
+        "source": "TradingView",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE14bmxnTUZISVAxNFVNSmZ2eXNoRGxtNDFBdE55OGlqZHVYb0dESmgtc2FNQnlaeUw2djVtZUdIVGFjR0JfNVE0UlcwQzBKZ0k3S3BfNnJhYnJpUlJObkkwcWJCUGNhMGotNXpmRkkzUQ?oc=5",
+        "publishedAt": "2026-10-23T05:37:00.000Z"
+      },
+      {
         "time": "08:58",
         "title": "【工作機械編】「JIMTOF2026」注目企業の見どころはココだ！ - | 製造現場ドットコム",
         "source": "| 製造現場ドットコム",
         "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBpeXlyQTh2WHB0aWZBZmtvbnJnYThwMXdTcS1FZ0RPSVRnS2cxY09iNVpTZ0t3ZW5fZ1NxNkc5cm5kSzVFSzljaVN3?oc=5",
         "publishedAt": "2026-10-22T23:58:26.000Z"
-      },
-      {
-        "time": "14:37",
-        "title": "日本精工－続落 マシニングセンタ向け新型スピンドルを開発",
-        "source": "TradingView",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1nS19KZmhWX0FScTVPSEM2eHpSUTNpaC1GdDBoVGtFWXBZaTVVdTZnM2ZfLWpiX3B4dUtURE16OUdRRUt1aUpYUzlKcUlBbFFGanQwVktUTnFHNmkyMEhNcnhJNXBPQkhULV9RMU83U3U?oc=5",
-        "publishedAt": "2026-10-23T05:37:00.000Z"
       },
       {
         "time": "05:00",
@@ -156,6 +156,13 @@
         "publishedAt": "2026-10-23T10:17:47.000Z"
       },
       {
+        "time": "22:25",
+        "title": "車ドアと路面に首はさまれ 窒息死",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6599870?source=rss",
+        "publishedAt": "2026-10-23T13:25:37.000Z"
+      },
+      {
         "time": "21:10",
         "title": "元副議長の証言受け 蔵内氏が反論",
         "source": "Yahoo!ニュース",
@@ -163,11 +170,11 @@
         "publishedAt": "2026-10-23T12:10:51.000Z"
       },
       {
-        "time": "16:00",
-        "title": "蔵内氏に金銭 実名で4人目の証言",
+        "time": "22:37",
+        "title": "7歳死亡 法廷で母謝罪も無罪主張",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599815?source=rss",
-        "publishedAt": "2026-10-23T07:00:44.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6599865?source=rss",
+        "publishedAt": "2026-10-23T13:37:32.000Z"
       },
       {
         "time": "19:29",
@@ -177,18 +184,11 @@
         "publishedAt": "2026-10-23T10:29:10.000Z"
       },
       {
-        "time": "17:38",
-        "title": "学生に職員セクハラか 道知事謝罪",
+        "time": "20:40",
+        "title": "迷惑行為「ショウリンジ」相次ぐ",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599833?source=rss",
-        "publishedAt": "2026-10-23T08:38:24.000Z"
-      },
-      {
-        "time": "22:43",
-        "title": "大阪で14歳が行方不明 14日朝から",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599744?source=rss",
-        "publishedAt": "2026-10-22T13:43:09.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6599857?source=rss",
+        "publishedAt": "2026-10-23T11:40:20.000Z"
       }
     ],
     "subsidyHeadlines": [

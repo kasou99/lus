@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-23T13:16:46.505Z",
+  "updatedAt": "2026-10-23T13:42:51.671Z",
   "items": [
     {
       "time": "18:37",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "タイムズカー情報流出 集団訴訟へ"
     },
     {
-      "time": "17:06",
-      "title": "今夏 欧州都市部の熱波死者が最多",
+      "time": "22:25",
+      "title": "車ドアと路面に首はさまれ 窒息死",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599829?source=rss",
-      "publishedAt": "2026-10-23T08:06:26.000Z",
-      "xQuery": "今夏 欧州都市部の熱波死者が最多"
+      "url": "https://news.yahoo.co.jp/pickup/6599870?source=rss",
+      "publishedAt": "2026-10-23T13:25:37.000Z",
+      "xQuery": "車ドアと路面に首はさまれ 窒息死"
     },
     {
       "time": "20:40",
