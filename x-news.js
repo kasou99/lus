@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-23T01:53:23.819Z",
+  "updatedAt": "2026-10-23T02:25:13.168Z",
   "items": [
+    {
+      "time": "11:13",
+      "title": "松井秀喜氏 巨人の新監督に就任へ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599785?source=rss",
+      "publishedAt": "2026-10-23T02:13:24.000Z",
+      "xQuery": "松井秀喜氏 巨人の新監督に就任へ"
+    },
     {
       "time": "10:45",
       "title": "台風30号 26日に九州上陸の恐れ",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6599783?source=rss",
       "publishedAt": "2026-10-23T01:24:07.000Z",
       "xQuery": "体一部ないシカ死骸4体 人為的か"
-    },
-    {
-      "time": "10:37",
-      "title": "笹かまメーカー相次ぐ倒産 背景",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599782?source=rss",
-      "publishedAt": "2026-10-23T01:37:44.000Z",
-      "xQuery": "笹かまメーカー相次ぐ倒産 背景"
     }
   ]
 };

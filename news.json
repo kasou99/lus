@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T01:53:23.080Z",
+  "updatedAt": "2026-10-23T02:25:12.362Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,11 +17,18 @@
         "publishedAt": "2026-10-22T20:00:00.000Z"
       },
       {
-        "time": "05:00",
-        "title": "工作機械受注、9月60％増 北米・アジア活況 最高更新",
+        "time": "11:02",
+        "title": "2026年10月23日 深層断面 ニュース",
         "source": "日刊工業新聞 電子版",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9odlJDemlhM1doZnFzalNPUjM2WHZReWJIbUR3RFI2anIxN3lWZmVGYzY3OEQwbVJMRmJ1MmtmcFZjNTUzV1lxdWxTbnVwbjVTN043YnVuX2Q?oc=5",
-        "publishedAt": "2026-10-22T20:00:00.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE55RXFrMUdVVDFOYjRzUlUybjFoVnZSWTVTcXBEbUdMTXIyaWV2S0JzNm1FbVRyV3lKcGJCWHQ5eEpKSDU2S29LMGpfWktzWnk1NFRCTg?oc=5",
+        "publishedAt": "2026-10-23T02:02:47.000Z"
+      },
+      {
+        "time": "05:03",
+        "title": "三菱電機、フィジカルＡＩで人型ロボと工作機械連携",
+        "source": "化学工業日報 電子版",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE05NmZLOHJ4S1pEYjh3ZWdjTlVnNENXT1cyTUtLcTMzSWMwMXp3NVpTRFYyTEpkM0hQUmF2ZXhCNVdYMTZsdDZCMjVQV1JkbHZPQ3I0?oc=5",
+        "publishedAt": "2026-10-22T20:03:08.000Z"
       },
       {
         "time": "05:00",
@@ -36,13 +43,6 @@
         "source": "MONOist",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA1a0gySmViMHdGS19MR3YzRUtmQXl4RmVPelFWaklLWUQ4SUFiTktCdVFfV1U5bXRNdUxEVzdYZ2w2SWZjZ21qM0lIQndtLTJxQXNqS3N6bHV2R0sxdm9FSm43M0pFUVRKM3NLTlg1aw?oc=5",
         "publishedAt": "2026-10-22T04:00:00.000Z"
-      },
-      {
-        "time": "05:03",
-        "title": "三菱電機、フィジカルＡＩで人型ロボと工作機械連携",
-        "source": "化学工業日報 電子版",
-        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE05NmZLOHJ4S1pEYjh3ZWdjTlVnNENXT1cyTUtLcTMzSWMwMXp3NVpTRFYyTEpkM0hQUmF2ZXhCNVdYMTZsdDZCMjVQV1JkbHZPQ3I0?oc=5",
-        "publishedAt": "2026-10-22T20:03:08.000Z"
       },
       {
         "time": "16:30",
