@@ -1,6 +1,30 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-23T08:46:23.313Z",
+  "updatedAt": "2026-10-23T09:19:37.969Z",
   "items": [
+    {
+      "time": "18:14",
+      "title": "台風30号 24日にかけ先島諸島接近",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599838?source=rss",
+      "publishedAt": "2026-10-23T09:14:24.000Z",
+      "xQuery": "台風30号 24日にかけ先島諸島接近"
+    },
+    {
+      "time": "17:39",
+      "title": "燃料油補助の見直し検討 首相指示",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599832?source=rss",
+      "publishedAt": "2026-10-23T08:39:04.000Z",
+      "xQuery": "燃料油補助の見直し検討 首相指示"
+    },
+    {
+      "time": "17:06",
+      "title": "JR内房線 11月9日に全線で再開",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599827?source=rss",
+      "publishedAt": "2026-10-23T08:06:42.000Z",
+      "xQuery": "JR内房線 11月9日に全線で再開"
+    },
     {
       "time": "16:12",
       "title": "佐川急便で情報流出 最大5323万件",
@@ -16,30 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6599814?source=rss",
       "publishedAt": "2026-10-23T06:54:13.000Z",
       "xQuery": "ソウル市長 政治資金巡り逆転無罪"
-    },
-    {
-      "time": "15:15",
-      "title": "リニア静岡工区 年内着工は困難か",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599808?source=rss",
-      "publishedAt": "2026-10-23T06:15:57.000Z",
-      "xQuery": "リニア静岡工区 年内着工は困難か"
-    },
-    {
-      "time": "16:59",
-      "title": "パーク24 流出の146万人に見舞金",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599823?source=rss",
-      "publishedAt": "2026-10-23T07:59:33.000Z",
-      "xQuery": "パーク24 流出の146万人に見舞金"
-    },
-    {
-      "time": "16:33",
-      "title": "閉館の大阪松竹座 11月から解体",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599822?source=rss",
-      "publishedAt": "2026-10-23T07:33:06.000Z",
-      "xQuery": "閉館の大阪松竹座 11月から解体"
     }
   ]
 };
