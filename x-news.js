@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-23T06:57:45.862Z",
+  "updatedAt": "2026-10-23T07:25:42.047Z",
   "items": [
+    {
+      "time": "16:12",
+      "title": "佐川急便で情報流出 最大5323万件",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599819?source=rss",
+      "publishedAt": "2026-10-23T07:12:30.000Z",
+      "xQuery": "佐川急便で情報流出 最大5323万件"
+    },
     {
       "time": "13:33",
       "title": "台風接近 沖縄～関東は大雨の恐れ",
@@ -16,14 +24,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6599811?source=rss",
       "publishedAt": "2026-10-23T06:21:02.000Z",
       "xQuery": "暴徒化 仏デモ参加者が嘆く理由"
-    },
-    {
-      "time": "13:14",
-      "title": "マンション修繕会議 業者潜入発覚",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599799?source=rss",
-      "publishedAt": "2026-10-23T04:14:19.000Z",
-      "xQuery": "マンション修繕会議 業者潜入発覚"
     },
     {
       "time": "14:54",

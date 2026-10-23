@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T06:57:45.047Z",
+  "updatedAt": "2026-10-23T07:25:41.232Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -105,6 +105,13 @@
     ],
     "economyHeadlines": [
       {
+        "time": "16:12",
+        "title": "佐川急便で情報流出 最大5323万件",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6599819?source=rss",
+        "publishedAt": "2026-10-23T07:12:30.000Z"
+      },
+      {
         "time": "13:14",
         "title": "マンション修繕会議 業者潜入発覚",
         "source": "Yahoo!ニュース",
@@ -117,13 +124,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6599772?source=rss",
         "publishedAt": "2026-10-22T23:58:12.000Z"
-      },
-      {
-        "time": "08:32",
-        "title": "食料品消費税1% 買い物は変わるか",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599768?source=rss",
-        "publishedAt": "2026-10-22T23:32:18.000Z"
       },
       {
         "time": "15:15",
@@ -148,6 +148,13 @@
       }
     ],
     "localHeadlines": [
+      {
+        "time": "16:00",
+        "title": "蔵内氏に金銭 実名で4人目の証言",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6599815?source=rss",
+        "publishedAt": "2026-10-23T07:00:44.000Z"
+      },
       {
         "time": "11:57",
         "title": "沖縄の民家に女性遺体 殺人と断定",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6599744?source=rss",
         "publishedAt": "2026-10-22T13:43:09.000Z"
-      },
-      {
-        "time": "10:05",
-        "title": "強盗殺人疑い 飲食店経営の男逮捕",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599780?source=rss",
-        "publishedAt": "2026-10-23T01:05:29.000Z"
       }
     ],
     "subsidyHeadlines": [
