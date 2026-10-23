@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-23T14:44:47.535Z",
+  "updatedAt": "2026-10-23T15:17:01.725Z",
   "items": [
     {
-      "time": "22:21",
-      "title": "8～9月の記録的大雨 温暖化影響か",
+      "time": "23:44",
+      "title": "台風 強い勢力のまま先島諸島接近",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599866?source=rss",
-      "publishedAt": "2026-10-23T13:21:29.000Z",
-      "xQuery": "8～9月の記録的大雨 温暖化影響か"
+      "url": "https://news.yahoo.co.jp/pickup/6599876?source=rss",
+      "publishedAt": "2026-10-23T14:44:19.000Z",
+      "xQuery": "台風 強い勢力のまま先島諸島接近"
     },
     {
-      "time": "21:36",
-      "title": "生活保護訴訟 利用者側の勝訴確定",
+      "time": "23:42",
+      "title": "露 ウ南部で一時停戦合意と米発表",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599859?source=rss",
-      "publishedAt": "2026-10-23T12:36:36.000Z",
-      "xQuery": "生活保護訴訟 利用者側の勝訴確定"
+      "url": "https://news.yahoo.co.jp/pickup/6599879?source=rss",
+      "publishedAt": "2026-10-23T14:42:42.000Z",
+      "xQuery": "露 ウ南部で一時停戦合意と米発表"
     },
     {
       "time": "21:58",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "タイムズカー情報流出 集団訴訟へ"
     },
     {
-      "time": "22:25",
-      "title": "車ドアと路面に首はさまれ 窒息死",
+      "time": "22:37",
+      "title": "7歳死亡 法廷で母謝罪も無罪主張",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599870?source=rss",
-      "publishedAt": "2026-10-23T13:25:37.000Z",
-      "xQuery": "車ドアと路面に首はさまれ 窒息死"
+      "url": "https://news.yahoo.co.jp/pickup/6599865?source=rss",
+      "publishedAt": "2026-10-23T13:37:32.000Z",
+      "xQuery": "7歳死亡 法廷で母謝罪も無罪主張"
     },
     {
-      "time": "22:56",
-      "title": "車に1歳放置し病院勤務疑い 逮捕",
+      "time": "21:10",
+      "title": "元副議長の証言受け 蔵内氏が反論",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599875?source=rss",
-      "publishedAt": "2026-10-23T13:56:38.000Z",
-      "xQuery": "車に1歳放置し病院勤務疑い 逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6599861?source=rss",
+      "publishedAt": "2026-10-23T12:10:51.000Z",
+      "xQuery": "元副議長の証言受け 蔵内氏が反論"
     }
   ]
 };
