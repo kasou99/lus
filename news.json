@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T06:30:11.333Z",
+  "updatedAt": "2026-10-23T06:57:45.047Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -52,14 +52,21 @@
         "publishedAt": "2026-10-23T05:24:26.000Z"
       },
       {
-        "time": "05:00",
-        "title": "車向け工作機械受注、9月は26%増 部品メーカー伸びる",
-        "source": "日本経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8wMTk1dk5VUFZGSVVyUnN2azF1aFRmM0hGQm5SSkdRN3lZcWZHdWZ6QmJnYk1ZaXc2amNVX0hmT1R4WWZBeExPWm5lZjFUUXRfUFZYdVQwUkUyTWpUOEoyMV9iYmRTSTN5bW9zNU5FQmtYTGpFOU9kcW1BX1dKQjA?oc=5",
-        "publishedAt": "2026-10-22T20:00:00.000Z"
+        "time": "13:30",
+        "title": "最大約40％の切削量向上を実現、ヤマザキマザックの中型複合加工機：工作機械",
+        "source": "MONOist",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1Ia0tuZC1SVXVwLXZmWlI2eVhrckt4aEZwNFJLNld1ZW9lRFRpdmpoNHdLeGJwa2Vfb1RscHF1NFdWU2lzN3VpVzJhZlotbTR5Nkc3VUJkTjhpZE5na3dEZHh2NnZBVjFOWWZmdGFlbw?oc=5",
+        "publishedAt": "2026-10-23T04:30:00.000Z"
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "15:54",
+        "title": "ソウル市長 政治資金巡り逆転無罪",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6599814?source=rss",
+        "publishedAt": "2026-10-23T06:54:13.000Z"
+      },
       {
         "time": "09:35",
         "title": "北が心理戦警告 南北で緊張の恐れ",
@@ -80,13 +87,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6599811?source=rss",
         "publishedAt": "2026-10-23T06:21:02.000Z"
-      },
-      {
-        "time": "23:28",
-        "title": "初の核最終処分場の操業決定 北欧",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599748?source=rss",
-        "publishedAt": "2026-10-22T14:28:24.000Z"
       },
       {
         "time": "23:43",

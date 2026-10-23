@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-23T06:30:12.553Z",
+  "updatedAt": "2026-10-23T06:57:45.862Z",
   "items": [
     {
       "time": "13:33",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "暴徒化 仏デモ参加者が嘆く理由"
     },
     {
-      "time": "13:11",
-      "title": "交通違反反則金 スマホ納付の懸念",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599800?source=rss",
-      "publishedAt": "2026-10-23T04:11:48.000Z",
-      "xQuery": "交通違反反則金 スマホ納付の懸念"
-    },
-    {
       "time": "13:14",
       "title": "マンション修繕会議 業者潜入発覚",
       "source": "Yahoo!ニュース",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6599809?source=rss",
       "publishedAt": "2026-10-23T05:54:32.000Z",
       "xQuery": "本当の理由言わず退職 なぜ深刻か"
+    },
+    {
+      "time": "11:39",
+      "title": "NYセントラルパークの馬車廃止へ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599787?source=rss",
+      "publishedAt": "2026-10-23T02:39:24.000Z",
+      "xQuery": "NYセントラルパークの馬車廃止へ"
     }
   ]
 };
