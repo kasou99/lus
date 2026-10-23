@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-23T03:46:09.856Z",
+  "updatedAt": "2026-10-23T04:20:20.949Z",
   "items": [
+    {
+      "time": "13:05",
+      "title": "作家・村上龍さん死去 74歳",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599801?source=rss",
+      "publishedAt": "2026-10-23T04:05:37.000Z",
+      "xQuery": "作家・村上龍さん死去 74歳"
+    },
     {
       "time": "10:45",
       "title": "台風30号 26日に九州上陸の恐れ",
@@ -10,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "台風30号 26日に九州上陸の恐れ"
     },
     {
-      "time": "11:39",
-      "title": "失効免許証を捜査に流用 法的には",
+      "time": "11:41",
+      "title": "復興相 事務所数を巡り報告書訂正",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599786?source=rss",
-      "publishedAt": "2026-10-23T02:39:57.000Z",
-      "xQuery": "失効免許証を捜査に流用 法的には"
+      "url": "https://news.yahoo.co.jp/pickup/6599788?source=rss",
+      "publishedAt": "2026-10-23T02:41:20.000Z",
+      "xQuery": "復興相 事務所数を巡り報告書訂正"
     },
     {
       "time": "10:24",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6599782?source=rss",
       "publishedAt": "2026-10-23T01:37:44.000Z",
       "xQuery": "笹かまメーカー相次ぐ倒産 背景"
-    },
-    {
-      "time": "12:08",
-      "title": "折り畳み式iPhone 高額転売横行",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599797?source=rss",
-      "publishedAt": "2026-10-23T03:08:53.000Z",
-      "xQuery": "折り畳み式iPhone 高額転売横行"
     }
   ]
 };
