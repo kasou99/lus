@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-23T09:43:40.351Z",
+  "updatedAt": "2026-10-23T10:17:00.743Z",
   "items": [
+    {
+      "time": "18:48",
+      "title": "滋賀銀と池田泉州HD 経営統合へ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599846?source=rss",
+      "publishedAt": "2026-10-23T09:48:57.000Z",
+      "xQuery": "滋賀銀と池田泉州HD 経営統合へ"
+    },
     {
       "time": "18:14",
       "title": "台風30号 24日にかけ先島諸島接近",
@@ -10,36 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "台風30号 24日にかけ先島諸島接近"
     },
     {
-      "time": "17:39",
-      "title": "燃料油補助の見直し検討 首相指示",
+      "time": "16:00",
+      "title": "蔵内氏に金銭 実名で4人目の証言",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599832?source=rss",
-      "publishedAt": "2026-10-23T08:39:04.000Z",
-      "xQuery": "燃料油補助の見直し検討 首相指示"
+      "url": "https://news.yahoo.co.jp/pickup/6599815?source=rss",
+      "publishedAt": "2026-10-23T07:00:44.000Z",
+      "xQuery": "蔵内氏に金銭 実名で4人目の証言"
     },
     {
-      "time": "17:06",
-      "title": "JR内房線 11月9日に全線で再開",
+      "time": "16:59",
+      "title": "パーク24 流出の146万人に見舞金",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599827?source=rss",
-      "publishedAt": "2026-10-23T08:06:42.000Z",
-      "xQuery": "JR内房線 11月9日に全線で再開"
+      "url": "https://news.yahoo.co.jp/pickup/6599823?source=rss",
+      "publishedAt": "2026-10-23T07:59:33.000Z",
+      "xQuery": "パーク24 流出の146万人に見舞金"
     },
     {
-      "time": "16:12",
-      "title": "佐川急便で情報流出 最大5323万件",
+      "time": "18:24",
+      "title": "意図しないFX取引 損害600万円超",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599819?source=rss",
-      "publishedAt": "2026-10-23T07:12:30.000Z",
-      "xQuery": "佐川急便で情報流出 最大5323万件"
-    },
-    {
-      "time": "15:54",
-      "title": "ソウル市長 政治資金巡り逆転無罪",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599814?source=rss",
-      "publishedAt": "2026-10-23T06:54:13.000Z",
-      "xQuery": "ソウル市長 政治資金巡り逆転無罪"
+      "url": "https://news.yahoo.co.jp/pickup/6599841?source=rss",
+      "publishedAt": "2026-10-23T09:24:35.000Z",
+      "xQuery": "意図しないFX取引 損害600万円超"
     }
   ]
 };
