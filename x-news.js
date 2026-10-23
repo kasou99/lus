@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-23T12:48:57.832Z",
+  "updatedAt": "2026-10-23T13:16:46.505Z",
   "items": [
     {
       "time": "18:37",
@@ -10,6 +10,22 @@ window.LUS_X_NEWS = {
       "xQuery": "物価上昇2%到達判断の公算大 日銀"
     },
     {
+      "time": "21:36",
+      "title": "生活保護訴訟 利用者側の勝訴確定",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599859?source=rss",
+      "publishedAt": "2026-10-23T12:36:36.000Z",
+      "xQuery": "生活保護訴訟 利用者側の勝訴確定"
+    },
+    {
+      "time": "21:58",
+      "title": "タイムズカー情報流出 集団訴訟へ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599864?source=rss",
+      "publishedAt": "2026-10-23T12:58:20.000Z",
+      "xQuery": "タイムズカー情報流出 集団訴訟へ"
+    },
+    {
       "time": "17:06",
       "title": "今夏 欧州都市部の熱波死者が最多",
       "source": "Yahoo!ニュース",
@@ -18,28 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "今夏 欧州都市部の熱波死者が最多"
     },
     {
-      "time": "19:17",
-      "title": "高峰登山で不明2邦人か 遺体発見",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599853?source=rss",
-      "publishedAt": "2026-10-23T10:17:11.000Z",
-      "xQuery": "高峰登山で不明2邦人か 遺体発見"
-    },
-    {
       "time": "20:40",
       "title": "迷惑行為「ショウリンジ」相次ぐ",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6599857?source=rss",
       "publishedAt": "2026-10-23T11:40:20.000Z",
       "xQuery": "迷惑行為「ショウリンジ」相次ぐ"
-    },
-    {
-      "time": "18:15",
-      "title": "Airbnb「過度な家事要求」禁止へ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599839?source=rss",
-      "publishedAt": "2026-10-23T09:15:45.000Z",
-      "xQuery": "Airbnb「過度な家事要求」禁止へ"
     }
   ]
 };
