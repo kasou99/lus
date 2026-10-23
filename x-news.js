@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-23T10:17:00.743Z",
+  "updatedAt": "2026-10-23T10:40:23.213Z",
   "items": [
     {
       "time": "18:48",
@@ -18,6 +18,14 @@ window.LUS_X_NEWS = {
       "xQuery": "台風30号 24日にかけ先島諸島接近"
     },
     {
+      "time": "19:17",
+      "title": "三重・伊賀市長発言 パワハラ認定",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599849?source=rss",
+      "publishedAt": "2026-10-23T10:17:47.000Z",
+      "xQuery": "三重・伊賀市長発言 パワハラ認定"
+    },
+    {
       "time": "16:00",
       "title": "蔵内氏に金銭 実名で4人目の証言",
       "source": "Yahoo!ニュース",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6599823?source=rss",
       "publishedAt": "2026-10-23T07:59:33.000Z",
       "xQuery": "パーク24 流出の146万人に見舞金"
-    },
-    {
-      "time": "18:24",
-      "title": "意図しないFX取引 損害600万円超",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599841?source=rss",
-      "publishedAt": "2026-10-23T09:24:35.000Z",
-      "xQuery": "意図しないFX取引 損害600万円超"
     }
   ]
 };

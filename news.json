@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T10:17:00.000Z",
+  "updatedAt": "2026-10-23T10:40:22.072Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -24,13 +24,6 @@
         "publishedAt": "2026-10-23T08:47:00.000Z"
       },
       {
-        "time": "16:52",
-        "title": "2026年10月23日 深層断面 ニュース",
-        "source": "日刊工業新聞 電子版",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE55RXFrMUdVVDFOYjRzUlUybjFoVnZSWTVTcXBEbUdMTXIyaWV2S0JzNm1FbVRyV3lKcGJCWHQ5eEpKSDU2S29LMGpfWktzWnk1NFRCTg?oc=5",
-        "publishedAt": "2026-10-23T07:52:47.000Z"
-      },
-      {
         "time": "14:37",
         "title": "日本精工－続落 マシニングセンタ向け新型スピンドルを開発",
         "source": "TradingView",
@@ -52,14 +45,28 @@
         "publishedAt": "2026-10-23T05:46:13.000Z"
       },
       {
-        "time": "05:03",
-        "title": "三菱電機、フィジカルＡＩで人型ロボと工作機械連携",
-        "source": "化学工業日報 電子版",
-        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE05NmZLOHJ4S1pEYjh3ZWdjTlVnNENXT1cyTUtLcTMzSWMwMXp3NVpTRFYyTEpkM0hQUmF2ZXhCNVdYMTZsdDZCMjVQV1JkbHZPQ3I0?oc=5",
-        "publishedAt": "2026-10-22T20:03:08.000Z"
+        "time": "05:00",
+        "title": "日刊工業アーカイブス／東京・晴海で見本市 工作機械、世界をリード",
+        "source": "日刊工業新聞 電子版",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE15eEw4aU5FX1dzZ3dXdTNGclAxMnBaR1JLNlpfai01cnFxRS04TGRnRmlMODYtRTVyNG42Wm9iVHNCUDBVcGRmd2lWSDdadU5KUHNocnk5Mkk?oc=5",
+        "publishedAt": "2026-10-22T20:00:00.000Z"
+      },
+      {
+        "time": "16:45",
+        "title": "【スピンドル】日本精工、マシニングセンタ向けを開発。「びびり振動」を抑制し、重切削加工の効率向上に貢献",
+        "source": "www.ctiweb.co.jp",
+        "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxNZEw3YnJ2bTZvbUZreTdMWkJKVTRWMngwOXhiSDJvbGlnLWxwbVlPMm1NeW9CWDJHblhseEFGN2ZYMGV2WjhVdk1qS3k3dHJ5RnVmd2tETlZob2hUd1JVTzJLQXM3eU9Nd19GQTh1LVQ0OFhkaThjVGR1TWdrYmtYSm1wTUdXUmIzeWpfT3lzbmlBR19qUVBjdkpXd2xIdEtfT1RJdGF0emVOUVdSLU5KTFpINjZyVWRRdmJtNm5UZVZ6UFNCRGhRd1hhRHFWcUt5dnVSb003YkxhNUdydUhwM012LXpyZnhwaHd0MGg5ck55LTVqUlJ2SHJkUUxHU2FzbFhyM2NnRGZKSnMySVZoOGhqVWo4UkJiX0l3QVR1ZldVa2FtdlpodXVKbjNzRDZsNXNPdlN0N0lHS0ZRdU8wekdfaUF0azZoY3ByUi1nUGZtVTA1VWc?oc=5",
+        "publishedAt": "2026-10-23T07:45:05.000Z"
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "19:17",
+        "title": "高峰登山で不明2邦人か 遺体発見",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6599853?source=rss",
+        "publishedAt": "2026-10-23T10:17:11.000Z"
+      },
       {
         "time": "15:54",
         "title": "ソウル市長 政治資金巡り逆転無罪",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6599749?source=rss",
         "publishedAt": "2026-10-22T14:43:02.000Z"
-      },
-      {
-        "time": "08:26",
-        "title": "米大統領 レブロン「無礼」と批判",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599769?source=rss",
-        "publishedAt": "2026-10-22T23:26:38.000Z"
       }
     ],
     "economyHeadlines": [
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "19:17",
+        "title": "三重・伊賀市長発言 パワハラ認定",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6599849?source=rss",
+        "publishedAt": "2026-10-23T10:17:47.000Z"
+      },
+      {
         "time": "16:00",
         "title": "蔵内氏に金銭 実名で4人目の証言",
         "source": "Yahoo!ニュース",
@@ -156,18 +163,18 @@
         "publishedAt": "2026-10-23T07:00:44.000Z"
       },
       {
-        "time": "11:57",
-        "title": "沖縄の民家に女性遺体 殺人と断定",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599791?source=rss",
-        "publishedAt": "2026-10-23T02:57:12.000Z"
-      },
-      {
         "time": "17:06",
         "title": "JR内房線 11月9日に全線で再開",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6599827?source=rss",
         "publishedAt": "2026-10-23T08:06:42.000Z"
+      },
+      {
+        "time": "19:29",
+        "title": "生徒が「指導死」教諭を懲戒免職",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6599854?source=rss",
+        "publishedAt": "2026-10-23T10:29:10.000Z"
       },
       {
         "time": "17:38",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6599750?source=rss",
         "publishedAt": "2026-10-22T14:54:19.000Z"
-      },
-      {
-        "time": "16:33",
-        "title": "閉館の大阪松竹座 11月から解体",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599822?source=rss",
-        "publishedAt": "2026-10-23T07:33:06.000Z"
       }
     ],
     "subsidyHeadlines": [
