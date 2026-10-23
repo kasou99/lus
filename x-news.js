@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-23T10:40:23.213Z",
+  "updatedAt": "2026-10-23T11:16:36.688Z",
   "items": [
     {
       "time": "18:48",
@@ -19,6 +19,14 @@ window.LUS_X_NEWS = {
     },
     {
       "time": "19:17",
+      "title": "高峰登山で不明2邦人か 遺体発見",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599853?source=rss",
+      "publishedAt": "2026-10-23T10:17:11.000Z",
+      "xQuery": "高峰登山で不明2邦人か 遺体発見"
+    },
+    {
+      "time": "19:17",
       "title": "三重・伊賀市長発言 パワハラ認定",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6599849?source=rss",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "三重・伊賀市長発言 パワハラ認定"
     },
     {
-      "time": "16:00",
-      "title": "蔵内氏に金銭 実名で4人目の証言",
+      "time": "19:29",
+      "title": "生徒が「指導死」教諭を懲戒免職",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599815?source=rss",
-      "publishedAt": "2026-10-23T07:00:44.000Z",
-      "xQuery": "蔵内氏に金銭 実名で4人目の証言"
-    },
-    {
-      "time": "16:59",
-      "title": "パーク24 流出の146万人に見舞金",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599823?source=rss",
-      "publishedAt": "2026-10-23T07:59:33.000Z",
-      "xQuery": "パーク24 流出の146万人に見舞金"
+      "url": "https://news.yahoo.co.jp/pickup/6599854?source=rss",
+      "publishedAt": "2026-10-23T10:29:10.000Z",
+      "xQuery": "生徒が「指導死」教諭を懲戒免職"
     }
   ]
 };
