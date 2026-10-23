@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-23T07:45:52.482Z",
+  "updatedAt": "2026-10-23T08:23:46.841Z",
   "items": [
     {
       "time": "16:12",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "暴徒化 仏デモ参加者が嘆く理由"
     },
     {
-      "time": "14:54",
-      "title": "本当の理由言わず退職 なぜ深刻か",
+      "time": "16:59",
+      "title": "パーク24 流出の146万人に見舞金",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599809?source=rss",
-      "publishedAt": "2026-10-23T05:54:32.000Z",
-      "xQuery": "本当の理由言わず退職 なぜ深刻か"
+      "url": "https://news.yahoo.co.jp/pickup/6599823?source=rss",
+      "publishedAt": "2026-10-23T07:59:33.000Z",
+      "xQuery": "パーク24 流出の146万人に見舞金"
     },
     {
-      "time": "16:26",
-      "title": "回転喫茶店の人気再燃 若者が続々",
+      "time": "16:33",
+      "title": "閉館の大阪松竹座 11月から解体",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599818?source=rss",
-      "publishedAt": "2026-10-23T07:26:19.000Z",
-      "xQuery": "回転喫茶店の人気再燃 若者が続々"
+      "url": "https://news.yahoo.co.jp/pickup/6599822?source=rss",
+      "publishedAt": "2026-10-23T07:33:06.000Z",
+      "xQuery": "閉館の大阪松竹座 11月から解体"
     }
   ]
 };
