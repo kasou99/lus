@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-23T12:25:04.349Z",
+  "updatedAt": "2026-10-23T12:48:57.832Z",
   "items": [
     {
       "time": "18:37",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "物価上昇2%到達判断の公算大 日銀"
     },
     {
+      "time": "17:06",
+      "title": "今夏 欧州都市部の熱波死者が最多",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599829?source=rss",
+      "publishedAt": "2026-10-23T08:06:26.000Z",
+      "xQuery": "今夏 欧州都市部の熱波死者が最多"
+    },
+    {
       "time": "19:17",
       "title": "高峰登山で不明2邦人か 遺体発見",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6599853?source=rss",
       "publishedAt": "2026-10-23T10:17:11.000Z",
       "xQuery": "高峰登山で不明2邦人か 遺体発見"
-    },
-    {
-      "time": "19:29",
-      "title": "生徒が「指導死」教諭を懲戒免職",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599854?source=rss",
-      "publishedAt": "2026-10-23T10:29:10.000Z",
-      "xQuery": "生徒が「指導死」教諭を懲戒免職"
     },
     {
       "time": "20:40",
