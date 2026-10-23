@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-23T00:47:18.250Z",
+  "updatedAt": "2026-10-23T01:29:42.447Z",
   "items": [
     {
       "time": "08:32",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "チベットでM7.0の地震 16人死亡"
     },
     {
-      "time": "07:41",
-      "title": "デジ庁HPの問い合わせ内容漏洩か",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599763?source=rss",
-      "publishedAt": "2026-10-22T22:41:18.000Z",
-      "xQuery": "デジ庁HPの問い合わせ内容漏洩か"
-    },
-    {
       "time": "08:58",
       "title": "「PHP」暮らし直撃 徹夜の社員も",
       "source": "Yahoo!ニュース",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "「PHP」暮らし直撃 徹夜の社員も"
     },
     {
-      "time": "07:49",
-      "title": "生活保護利用者の車保有 緩和検討",
+      "time": "10:24",
+      "title": "体一部ないシカ死骸4体 人為的か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599765?source=rss",
-      "publishedAt": "2026-10-22T22:49:45.000Z",
-      "xQuery": "生活保護利用者の車保有 緩和検討"
+      "url": "https://news.yahoo.co.jp/pickup/6599783?source=rss",
+      "publishedAt": "2026-10-23T01:24:07.000Z",
+      "xQuery": "体一部ないシカ死骸4体 人為的か"
+    },
+    {
+      "time": "09:34",
+      "title": "「iPhone Duo」発売 予約は好調",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599778?source=rss",
+      "publishedAt": "2026-10-23T00:34:34.000Z",
+      "xQuery": "「iPhone Duo」発売 予約は好調"
     }
   ]
 };
