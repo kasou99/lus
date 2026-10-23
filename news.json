@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T21:15:44.356Z",
+  "updatedAt": "2026-10-23T21:38:26.880Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,13 +31,6 @@
         "publishedAt": "2026-10-23T05:37:00.000Z"
       },
       {
-        "time": "16:52",
-        "title": "2026年10月23日 深層断面 ニュース",
-        "source": "日刊工業新聞 電子版",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE55RXFrMUdVVDFOYjRzUlUybjFoVnZSWTVTcXBEbUdMTXIyaWV2S0JzNm1FbVRyV3lKcGJCWHQ5eEpKSDU2S29LMGpfWktzWnk1NFRCTg?oc=5",
-        "publishedAt": "2026-10-23T07:52:47.000Z"
-      },
-      {
         "time": "08:58",
         "title": "【工作機械編】「JIMTOF2026」注目企業の見どころはココだ！ - | 製造現場ドットコム",
         "source": "| 製造現場ドットコム",
@@ -57,6 +50,13 @@
         "source": "PR TIMES",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1adUZsdl9UMnl0aWxaMjV5WC1hM0Y4dzI2YmNMdzd4RE81ampUdDBxdTdfeWMyc2g5T1RaMnYxZDNRWkVfS095SUR4bzdZRW1NODNYSmZnYUpLdTNlWmhNOU5tLUpRMEE0THc?oc=5",
         "publishedAt": "2026-10-23T05:24:26.000Z"
+      },
+      {
+        "time": "08:58",
+        "title": "「JIMTOF2026」開幕に向けて 日本工作機械工業会 会長 坂本繁友 - | 製造現場ドットコム",
+        "source": "| 製造現場ドットコム",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE40N1lXZXdWcDZEWkhzamdPLVJOQzdFbzBHX1ZpNlhXSWkySzZZUG16ZjlSZDVZWjlSOW53QVRCVVh1bnBlaUFYRFFR?oc=5",
+        "publishedAt": "2026-10-22T23:58:48.000Z"
       }
     ],
     "worldHeadlines": [
