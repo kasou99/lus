@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-24T09:39:37.965Z",
+  "updatedAt": "2026-10-24T10:15:41.716Z",
   "items": [
     {
       "time": "18:26",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "個人情報売買 ダークウェブの実態"
     },
     {
-      "time": "17:26",
-      "title": "OKURA不適切還付 追徴額5.8億円",
+      "time": "16:08",
+      "title": "首相のX投稿へ返信 外国人関連増",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599952?source=rss",
-      "publishedAt": "2026-10-24T08:26:48.000Z",
-      "xQuery": "OKURA不適切還付 追徴額5.8億円"
+      "url": "https://news.yahoo.co.jp/pickup/6599939?source=rss",
+      "publishedAt": "2026-10-24T07:08:19.000Z",
+      "xQuery": "首相のX投稿へ返信 外国人関連増"
     },
     {
       "time": "17:08",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "クマ駆除せず放獣 秦野市の考え方"
     },
     {
-      "time": "17:34",
-      "title": "迷惑行為ショウリンジ 心配する母",
+      "time": "15:24",
+      "title": "大阪で行方不明の14歳 無事に発見",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599951?source=rss",
-      "publishedAt": "2026-10-24T08:34:21.000Z",
-      "xQuery": "迷惑行為ショウリンジ 心配する母"
+      "url": "https://news.yahoo.co.jp/pickup/6599935?source=rss",
+      "publishedAt": "2026-10-24T06:24:44.000Z",
+      "xQuery": "大阪で行方不明の14歳 無事に発見"
     }
   ]
 };

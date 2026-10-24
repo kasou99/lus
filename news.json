@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T09:39:37.296Z",
+  "updatedAt": "2026-10-24T10:15:40.781Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -8,6 +8,13 @@
         "source": "www.pveye.jp",
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1jWDh2VnZKajN5eHY2c0F6LWkzbXdSVHZETGd2TEdiLWNYT1pGZ1d4TVExc05GYlAxU3pZMVJfMkxtOTFyOXdXYTdXUlI3SGZVS3Z6WWRB?oc=5",
         "publishedAt": "2026-10-24T05:09:36.000Z"
+      },
+      {
+        "time": "18:03",
+        "title": "日本の超硬スレッドミル市場と主要企業",
+        "source": "pando.life",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1BaFlNYW9oM2EwRnA3ZGxjN2IyUWdQQjNSazlVWlMwbmxGM041RlY1ZnhKSDdRVXFKYTY4QW03VnRzN25DRS0zU0hn?oc=5",
+        "publishedAt": "2026-10-24T09:03:56.000Z"
       },
       {
         "time": "21:17",
@@ -24,11 +31,11 @@
         "publishedAt": "2026-10-24T02:00:00.000Z"
       },
       {
-        "time": "05:00",
-        "title": "複合加工機に新製品 ヤマザキマザック、積層機能搭載",
-        "source": "中部経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9GaGdnLVM3WV9NUUtUakZTblBxSmxhNjdQUDNwTWFjZjZJRVJGeGtyYkpfdzllUnhZQnVWdlE0a3ZDMUZ4WFBCYk9uU3ZfSkRJVmlwcVl1cnRpYzVqejZuX2JLWmwyXy1GZ3Nxdm80Y3hNVnM?oc=5",
-        "publishedAt": "2026-10-23T20:00:00.000Z"
+        "time": "20:51",
+        "title": "Admatec Admaflex Discovery：92,500ドルのデスクトップセラミック3Dプリンター - ニュースと統計",
+        "source": "IndexBox",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeUQ0d3pqQ2R2OTUzZ2hzU3A1dFFZMUJ6T1BOZklEQzN6UE1DRTg5VllfMnI2eF9ZLXRjQWJmQ2hiZ2pOODA4bVJtQ0l5NzVsOFNMME1rWlNCZzY5V3pUcjdSUDY0eWd2SmU2aU9lNnJ3azFKXzVZMlplREh6eEx4QVBvUndtTll5NTdpMERPUHduaXREc3cyLVh2Z2ZwWTA2WVRnZUtB?oc=5",
+        "publishedAt": "2026-10-23T11:51:31.000Z"
       },
       {
         "time": "05:27",
@@ -38,25 +45,18 @@
         "publishedAt": "2026-10-23T20:27:52.000Z"
       },
       {
-        "time": "07:34",
-        "title": "岡山県経済ダイジェスト最新版 岡山経済研究所が発刊 - 山陽新聞デジタル｜さんデジ",
-        "source": "山陽新聞デジタル｜さんデジ",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQkNpX2FEN0FGcjFxbDlEMUE0eWgxMlhzdmZURndwdlBuZkJ1anZJc0hPeFNlV3Q2dE5Ja05TYTNWWG5vYkpvV3pkUWZzeklwVXgxRkVwby1DeGRCeVQweDk4Rmtib2k2TGNSQ2ZfSVNORGVQaGlnM1RnQkpSRU9hWXBUTTRTQTA?oc=5",
-        "publishedAt": "2026-10-23T22:34:35.000Z"
+        "time": "20:00",
+        "title": "「JIMTOF2026」に「Mastercam 2027」、金剛力士立像のリバースエンジニアリング事例を出展",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1Md0F1SzQ5bmVCR01YNGtMMDR5bUdKOEs5NEItUDdZeFJXeW9ybmRLV0xaczlyVGZDbXFRMzRQZEhMTmFqemxIZjlXWkdIQjVaanNmNw?oc=5",
+        "publishedAt": "2026-10-23T11:00:19.000Z"
       },
       {
-        "time": "05:04",
-        "title": "日本のブレーキ抵抗器市場と主要企業",
-        "source": "pando.life",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBPSkllVmt0MTkwSnp1Q0JXWEpKaXYwRS1BakRCSjREUmhFZTdzWGNsNHdicXJhR0JwQWo2aWl1YVR1OUxyemRZTGNR?oc=5",
-        "publishedAt": "2026-10-23T20:04:33.000Z"
-      },
-      {
-        "time": "05:57",
-        "title": "秋芳洞をドローンで調査 全国初、未踏エリアを開拓",
-        "source": "Infoseek",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE90LWtBU1hzcTkwd3p3Q01NbmttMWxOSUs5MHVNTmdZSVNlNGFlaUxvZVVCMXJzanBpbDhkNzktVHRtWFRQUV9KZ3NpU2EwZk1hVlNMeEJjcHVWZTZKT1BlVTdHa3RFU1J4Ty1JNUJiNNIBdEFVX3lxTE5kemFEbE5od0tHRHVzR01OcUtTeWFpd3RhRFlUeE5vM0NOXzZzTzY3UWp6TDlPNW1vU3ZrVnY0RXY4QU1sMTE0Nk5Gb1ZobTdfeVUwRHk2Y0FIWjlsZGk3SHZHaVFzNTFWNm5uS3FVNEZ3S1It?oc=5",
-        "publishedAt": "2026-10-23T20:57:28.000Z"
+        "time": "05:00",
+        "title": "複合加工機に新製品 ヤマザキマザック、積層機能搭載",
+        "source": "中部経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9GaGdnLVM3WV9NUUtUakZTblBxSmxhNjdQUDNwTWFjZjZJRVJGeGtyYkpfdzllUnhZQnVWdlE0a3ZDMUZ4WFBCYk9uU3ZfSkRJVmlwcVl1cnRpYzVqejZuX2JLWmwyXy1GZ3Nxdm80Y3hNVnM?oc=5",
+        "publishedAt": "2026-10-23T20:00:00.000Z"
       }
     ],
     "worldHeadlines": [
