@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T02:22:49.113Z",
+  "updatedAt": "2026-10-24T02:45:22.983Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -8,6 +8,13 @@
         "source": "MONOist",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB4OHRfNWxJSzgwWnlGSjMxNWtWTnZfTFRySFJHWUQyZjJGd3VHX3NxeXFrUE9lZm1xTjBPUkVVN3Vac2Rhako4NGRyb3BHTE5rSlZVVXRSMmEzS0stVFRUYzZLakNrY2l2TVc4ZlZ6MA?oc=5",
         "publishedAt": "2026-10-23T04:00:00.000Z"
+      },
+      {
+        "time": "21:17",
+        "title": "マシニングセンタ向け新型スピンドルを開発",
+        "source": "シブヤ経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5VaHhZRnhKYlR2T2dTUVFKUkpWVVV5ajFJbHowV3BkY1VVZmFpRFM0Rkk1cnVSSnBfWkxhZTRmWnM3Z0JwVzNHMVl4TzZMUVpHWnByYVc1QXBLd2xfMnNj?oc=5",
+        "publishedAt": "2026-10-23T12:17:04.000Z"
       },
       {
         "time": "14:57",
@@ -50,13 +57,6 @@
         "source": "Newscast.jp",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9JVG1aOVdQY3JhUG5HbUxLQzdSeXVyU3ZKZk5mNF9WTGZWejNiSTZIcm5iRFZtNnNMZFhkT296cXo2a2E0NXBjMDJUX3B5bFU?oc=5",
         "publishedAt": "2026-10-23T04:30:00.000Z"
-      },
-      {
-        "time": "14:24",
-        "title": "マシニングセンタ向け新型スピンドルを開発",
-        "source": "PR TIMES",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1adUZsdl9UMnl0aWxaMjV5WC1hM0Y4dzI2YmNMdzd4RE81ampUdDBxdTdfeWMyc2g5T1RaMnYxZDNRWkVfS095SUR4bzdZRW1NODNYSmZnYUpLdTNlWmhNOU5tLUpRMEE0THc?oc=5",
-        "publishedAt": "2026-10-23T05:24:26.000Z"
       }
     ],
     "worldHeadlines": [
