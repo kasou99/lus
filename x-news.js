@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-24T06:27:02.268Z",
+  "updatedAt": "2026-10-24T06:52:01.610Z",
   "items": [
     {
       "time": "13:47",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "GMO 能動的サイバー防御を要請"
     },
     {
-      "time": "12:57",
-      "title": "皇室典範「安定継承」議論乏しく",
+      "time": "15:38",
+      "title": "台風30号 26日に九州上陸の恐れ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599923?source=rss",
-      "publishedAt": "2026-10-24T03:57:22.000Z",
-      "xQuery": "皇室典範「安定継承」議論乏しく"
+      "url": "https://news.yahoo.co.jp/pickup/6599938?source=rss",
+      "publishedAt": "2026-10-24T06:38:25.000Z",
+      "xQuery": "台風30号 26日に九州上陸の恐れ"
     },
     {
-      "time": "12:46",
-      "title": "台湾 台風30号で負傷者500人超",
+      "time": "13:50",
+      "title": "露は「人質外交」解放の米紙記者",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599921?source=rss",
-      "publishedAt": "2026-10-24T03:46:31.000Z",
-      "xQuery": "台湾 台風30号で負傷者500人超"
+      "url": "https://news.yahoo.co.jp/pickup/6599926?source=rss",
+      "publishedAt": "2026-10-24T04:50:28.000Z",
+      "xQuery": "露は「人質外交」解放の米紙記者"
     },
     {
       "time": "14:31",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "ケニア首都で建設中のビルが倒壊"
     },
     {
-      "time": "13:50",
-      "title": "露は「人質外交」解放の米紙記者",
+      "time": "15:24",
+      "title": "大阪で行方不明の14歳 無事に発見",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599926?source=rss",
-      "publishedAt": "2026-10-24T04:50:28.000Z",
-      "xQuery": "露は「人質外交」解放の米紙記者"
+      "url": "https://news.yahoo.co.jp/pickup/6599935?source=rss",
+      "publishedAt": "2026-10-24T06:24:44.000Z",
+      "xQuery": "大阪で行方不明の14歳 無事に発見"
     }
   ]
 };
