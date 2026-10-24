@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T21:14:36.145Z",
+  "updatedAt": "2026-10-24T21:37:52.753Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -24,20 +24,6 @@
         "publishedAt": "2026-10-24T02:00:00.000Z"
       },
       {
-        "time": "00:02",
-        "title": "ロボットテクノロジーの日本企業と海外メーカー",
-        "source": "pando.life",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE05ZTVTcnAtNWdJRjA2SzZYcVY1amFnRm5sQVgwbGxRd2NZam1jbzZ0ZEV5cmpLcU54N1dtS1ZOZVlzNXhDR0gxUHVB?oc=5",
-        "publishedAt": "2026-10-24T15:02:44.000Z"
-      },
-      {
-        "time": "00:03",
-        "title": "CNCサーキュラーソーの世界シェアと主要企業",
-        "source": "pando.life",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1eEhzR0VyNjRBWGltalFqcEplaWhBQWFKY0EyRlVheGlvVGZlaUxnd2Y1SGlMZmFuZ0tackM3aVlEcFRBVjdBM0V3?oc=5",
-        "publishedAt": "2026-10-24T15:03:04.000Z"
-      },
-      {
         "time": "07:34",
         "title": "岡山県経済ダイジェスト最新版 岡山経済研究所が発刊 - 山陽新聞デジタル｜さんデジ",
         "source": "山陽新聞デジタル｜さんデジ",
@@ -45,11 +31,25 @@
         "publishedAt": "2026-10-23T22:34:35.000Z"
       },
       {
+        "time": "00:02",
+        "title": "ロボットテクノロジーの日本企業と海外メーカー",
+        "source": "pando.life",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE05ZTVTcnAtNWdJRjA2SzZYcVY1amFnRm5sQVgwbGxRd2NZam1jbzZ0ZEV5cmpLcU54N1dtS1ZOZVlzNXhDR0gxUHVB?oc=5",
+        "publishedAt": "2026-10-24T15:02:44.000Z"
+      },
+      {
         "time": "06:48",
         "title": "【バイオレクイエム】アーク(ARK)の攻略チャート【バイオハザード9】",
         "source": "GameWith",
         "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE41OXh3WFU1N1RjRW94bnFTNmREWWc4NmhqRW1DWUR0NEpoUjk3VngxNWVJcmptUjZWaUtyd0VPNE4wVk5rZXc5TWo3ZkVCZVFZeWJRY1V0NA?oc=5",
         "publishedAt": "2026-10-23T21:48:11.000Z"
+      },
+      {
+        "time": "00:03",
+        "title": "CNCサーキュラーソーの世界シェアと主要企業",
+        "source": "pando.life",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1eEhzR0VyNjRBWGltalFqcEplaWhBQWFKY0EyRlVheGlvVGZlaUxnd2Y1SGlMZmFuZ0tackM3aVlEcFRBVjdBM0V3?oc=5",
+        "publishedAt": "2026-10-24T15:03:04.000Z"
       },
       {
         "time": "10:03",
