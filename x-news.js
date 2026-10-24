@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-24T09:16:34.341Z",
+  "updatedAt": "2026-10-24T09:39:37.965Z",
   "items": [
+    {
+      "time": "18:26",
+      "title": "西・東日本 台風接近前から雨警戒",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599957?source=rss",
+      "publishedAt": "2026-10-24T09:26:08.000Z",
+      "xQuery": "西・東日本 台風接近前から雨警戒"
+    },
     {
       "time": "16:32",
       "title": "個人情報売買 ダークウェブの実態",
@@ -8,22 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6599943?source=rss",
       "publishedAt": "2026-10-24T07:32:35.000Z",
       "xQuery": "個人情報売買 ダークウェブの実態"
-    },
-    {
-      "time": "16:12",
-      "title": "正恩氏が電撃訪中 開通の大橋通り",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599942?source=rss",
-      "publishedAt": "2026-10-24T07:12:35.000Z",
-      "xQuery": "正恩氏が電撃訪中 開通の大橋通り"
-    },
-    {
-      "time": "15:00",
-      "title": "スターリンクの制限続く ウ側主張",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599933?source=rss",
-      "publishedAt": "2026-10-24T06:00:54.000Z",
-      "xQuery": "スターリンクの制限続く ウ側主張"
     },
     {
       "time": "17:26",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6599950?source=rss",
       "publishedAt": "2026-10-24T08:08:47.000Z",
       "xQuery": "クマ駆除せず放獣 秦野市の考え方"
+    },
+    {
+      "time": "17:34",
+      "title": "迷惑行為ショウリンジ 心配する母",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599951?source=rss",
+      "publishedAt": "2026-10-24T08:34:21.000Z",
+      "xQuery": "迷惑行為ショウリンジ 心配する母"
     }
   ]
 };
