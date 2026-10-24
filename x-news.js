@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-24T08:20:58.835Z",
+  "updatedAt": "2026-10-24T08:43:00.479Z",
   "items": [
     {
       "time": "16:12",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "GMO 攻撃者の金銭要求に応じず"
     },
     {
+      "time": "17:26",
+      "title": "OKURA不適切還付 追徴額5.8億円",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599952?source=rss",
+      "publishedAt": "2026-10-24T08:26:48.000Z",
+      "xQuery": "OKURA不適切還付 追徴額5.8億円"
+    },
+    {
       "time": "16:36",
       "title": "足場設置中に川転落 20代男性死亡",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6599946?source=rss",
       "publishedAt": "2026-10-24T07:36:26.000Z",
       "xQuery": "足場設置中に川転落 20代男性死亡"
-    },
-    {
-      "time": "15:24",
-      "title": "大阪で行方不明の14歳 無事に発見",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599935?source=rss",
-      "publishedAt": "2026-10-24T06:24:44.000Z",
-      "xQuery": "大阪で行方不明の14歳 無事に発見"
     }
   ]
 };
