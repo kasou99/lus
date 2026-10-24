@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-24T05:16:05.634Z",
+  "updatedAt": "2026-10-24T05:40:41.448Z",
   "items": [
     {
       "time": "13:47",
@@ -10,12 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "GMO 能動的サイバー防御を要請"
     },
     {
-      "time": "12:11",
-      "title": "台風は九州接近へ 広範囲で大雨に",
+      "time": "12:57",
+      "title": "皇室典範「安定継承」議論乏しく",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599918?source=rss",
-      "publishedAt": "2026-10-24T03:11:59.000Z",
-      "xQuery": "台風は九州接近へ 広範囲で大雨に"
+      "url": "https://news.yahoo.co.jp/pickup/6599923?source=rss",
+      "publishedAt": "2026-10-24T03:57:22.000Z",
+      "xQuery": "皇室典範「安定継承」議論乏しく"
+    },
+    {
+      "time": "12:46",
+      "title": "台湾 台風30号で負傷者500人超",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599921?source=rss",
+      "publishedAt": "2026-10-24T03:46:31.000Z",
+      "xQuery": "台湾 台風30号で負傷者500人超"
     },
     {
       "time": "12:34",
@@ -24,14 +32,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6599920?source=rss",
       "publishedAt": "2026-10-24T03:34:42.000Z",
       "xQuery": "車で女性遺体運んだ疑い 男を逮捕"
-    },
-    {
-      "time": "11:44",
-      "title": "AIで事故画像を偽造 保険金不正増",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599916?source=rss",
-      "publishedAt": "2026-10-24T02:44:49.000Z",
-      "xQuery": "AIで事故画像を偽造 保険金不正増"
     },
     {
       "time": "13:01",
