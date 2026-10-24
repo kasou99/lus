@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-24T12:45:13.751Z",
+  "updatedAt": "2026-10-24T13:14:24.406Z",
   "items": [
+    {
+      "time": "21:07",
+      "title": "台風 西-東日本26日が雨ピークに",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599973?source=rss",
+      "publishedAt": "2026-10-24T12:07:36.000Z",
+      "xQuery": "台風 西-東日本26日が雨ピークに"
+    },
     {
       "time": "21:40",
       "title": "能動サイバー防御要請 政府側慎重",
@@ -18,28 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "中国で首相と会談 正恩氏日帰りか"
     },
     {
-      "time": "16:28",
-      "title": "28日頃北海道で雪 全国的に肌寒く",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599944?source=rss",
-      "publishedAt": "2026-10-24T07:28:56.000Z",
-      "xQuery": "28日頃北海道で雪 全国的に肌寒く"
-    },
-    {
-      "time": "20:12",
-      "title": "自殺予防にAI 厚労省が効果検証へ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599967?source=rss",
-      "publishedAt": "2026-10-24T11:12:10.000Z",
-      "xQuery": "自殺予防にAI 厚労省が効果検証へ"
-    },
-    {
       "time": "21:02",
       "title": "モンゴル火災 当局が賠償請求検討",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6599972?source=rss",
       "publishedAt": "2026-10-24T12:02:23.000Z",
       "xQuery": "モンゴル火災 当局が賠償請求検討"
+    },
+    {
+      "time": "21:55",
+      "title": "外来カミキリ被害拡大の恐れ 試算",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599980?source=rss",
+      "publishedAt": "2026-10-24T12:55:48.000Z",
+      "xQuery": "外来カミキリ被害拡大の恐れ 試算"
     }
   ]
 };
