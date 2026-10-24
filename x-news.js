@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-24T08:43:00.479Z",
+  "updatedAt": "2026-10-24T09:16:34.341Z",
   "items": [
+    {
+      "time": "16:32",
+      "title": "個人情報売買 ダークウェブの実態",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599943?source=rss",
+      "publishedAt": "2026-10-24T07:32:35.000Z",
+      "xQuery": "個人情報売買 ダークウェブの実態"
+    },
     {
       "time": "16:12",
       "title": "正恩氏が電撃訪中 開通の大橋通り",
@@ -10,20 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "正恩氏が電撃訪中 開通の大橋通り"
     },
     {
-      "time": "15:38",
-      "title": "台風30号 26日に九州上陸の恐れ",
+      "time": "15:00",
+      "title": "スターリンクの制限続く ウ側主張",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599938?source=rss",
-      "publishedAt": "2026-10-24T06:38:25.000Z",
-      "xQuery": "台風30号 26日に九州上陸の恐れ"
-    },
-    {
-      "time": "14:42",
-      "title": "GMO 攻撃者の金銭要求に応じず",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599929?source=rss",
-      "publishedAt": "2026-10-24T05:42:24.000Z",
-      "xQuery": "GMO 攻撃者の金銭要求に応じず"
+      "url": "https://news.yahoo.co.jp/pickup/6599933?source=rss",
+      "publishedAt": "2026-10-24T06:00:54.000Z",
+      "xQuery": "スターリンクの制限続く ウ側主張"
     },
     {
       "time": "17:26",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "OKURA不適切還付 追徴額5.8億円"
     },
     {
-      "time": "16:36",
-      "title": "足場設置中に川転落 20代男性死亡",
+      "time": "17:08",
+      "title": "クマ駆除せず放獣 秦野市の考え方",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599946?source=rss",
-      "publishedAt": "2026-10-24T07:36:26.000Z",
-      "xQuery": "足場設置中に川転落 20代男性死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6599950?source=rss",
+      "publishedAt": "2026-10-24T08:08:47.000Z",
+      "xQuery": "クマ駆除せず放獣 秦野市の考え方"
     }
   ]
 };
