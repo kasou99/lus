@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T12:22:27.141Z",
+  "updatedAt": "2026-10-24T12:45:12.999Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,6 +38,13 @@
         "publishedAt": "2026-10-23T20:00:00.000Z"
       },
       {
+        "time": "07:34",
+        "title": "岡山県経済ダイジェスト最新版 岡山経済研究所が発刊 - 山陽新聞デジタル｜さんデジ",
+        "source": "山陽新聞デジタル｜さんデジ",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQkNpX2FEN0FGcjFxbDlEMUE0eWgxMlhzdmZURndwdlBuZkJ1anZJc0hPeFNlV3Q2dE5Ja05TYTNWWG5vYkpvV3pkUWZzeklwVXgxRkVwby1DeGRCeVQweDk4Rmtib2k2TGNSQ2ZfSVNORGVQaGlnM1RnQkpSRU9hWXBUTTRTQTA?oc=5",
+        "publishedAt": "2026-10-23T22:34:35.000Z"
+      },
+      {
         "time": "05:57",
         "title": "秋芳洞をドローンで調査 全国初、未踏エリアを開拓",
         "source": "Infoseek",
@@ -50,13 +57,6 @@
         "source": "YouTube",
         "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0wT3pURHB2cnhSMnZIQWJkOGdCMGtTR2U2UmZndi11Z3RNYi1xREFTVS05SDRVZ2dRaW4xM2c2UVJyMTE2d09BZWJEVy11TENDS0FpYTRsSVd2U0xO?oc=5",
         "publishedAt": "2026-10-23T16:37:31.000Z"
-      },
-      {
-        "time": "05:04",
-        "title": "日本のブレーキ抵抗器市場と主要企業",
-        "source": "pando.life",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBPSkllVmt0MTkwSnp1Q0JXWEpKaXYwRS1BakRCSjREUmhFZTdzWGNsNHdicXJhR0JwQWo2aWl1YVR1OUxyemRZTGNR?oc=5",
-        "publishedAt": "2026-10-23T20:04:33.000Z"
       }
     ],
     "worldHeadlines": [
@@ -89,18 +89,18 @@
         "publishedAt": "2026-10-24T12:02:23.000Z"
       },
       {
+        "time": "21:41",
+        "title": "ウ側 スターシールド接続復旧発表",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6599978?source=rss",
+        "publishedAt": "2026-10-24T12:41:44.000Z"
+      },
+      {
         "time": "10:01",
         "title": "劣勢トランプ氏 露骨なバラマキ策",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6599901?source=rss",
         "publishedAt": "2026-10-24T01:01:49.000Z"
-      },
-      {
-        "time": "15:00",
-        "title": "スターリンクの制限続く ウ側主張",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599933?source=rss",
-        "publishedAt": "2026-10-24T06:00:54.000Z"
       }
     ],
     "economyHeadlines": [

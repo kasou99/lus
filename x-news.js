@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-24T12:22:28.098Z",
+  "updatedAt": "2026-10-24T12:45:13.751Z",
   "items": [
+    {
+      "time": "21:40",
+      "title": "能動サイバー防御要請 政府側慎重",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599979?source=rss",
+      "publishedAt": "2026-10-24T12:40:35.000Z",
+      "xQuery": "能動サイバー防御要請 政府側慎重"
+    },
     {
       "time": "20:39",
       "title": "中国で首相と会談 正恩氏日帰りか",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6599972?source=rss",
       "publishedAt": "2026-10-24T12:02:23.000Z",
       "xQuery": "モンゴル火災 当局が賠償請求検討"
-    },
-    {
-      "time": "19:43",
-      "title": "お茶の飲み方 健康左右する可能性",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599966?source=rss",
-      "publishedAt": "2026-10-24T10:43:34.000Z",
-      "xQuery": "お茶の飲み方 健康左右する可能性"
     }
   ]
 };
