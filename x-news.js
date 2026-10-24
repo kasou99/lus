@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-24T13:37:44.852Z",
+  "updatedAt": "2026-10-24T14:14:40.270Z",
   "items": [
     {
       "time": "21:07",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "台風 西-東日本26日が雨ピークに"
     },
     {
-      "time": "21:40",
-      "title": "能動サイバー防御要請 政府側慎重",
+      "time": "22:15",
+      "title": "小林鷹之氏 ガソリン補助縮小必要",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599979?source=rss",
-      "publishedAt": "2026-10-24T12:40:35.000Z",
-      "xQuery": "能動サイバー防御要請 政府側慎重"
+      "url": "https://news.yahoo.co.jp/pickup/6599983?source=rss",
+      "publishedAt": "2026-10-24T13:15:45.000Z",
+      "xQuery": "小林鷹之氏 ガソリン補助縮小必要"
     },
     {
       "time": "21:41",
