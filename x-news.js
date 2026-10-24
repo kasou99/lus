@@ -1,13 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-24T11:38:09.727Z",
+  "updatedAt": "2026-10-24T12:22:28.098Z",
   "items": [
     {
-      "time": "18:26",
-      "title": "西・東日本 台風接近前から雨警戒",
+      "time": "20:39",
+      "title": "中国で首相と会談 正恩氏日帰りか",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599957?source=rss",
-      "publishedAt": "2026-10-24T09:26:08.000Z",
-      "xQuery": "西・東日本 台風接近前から雨警戒"
+      "url": "https://news.yahoo.co.jp/pickup/6599971?source=rss",
+      "publishedAt": "2026-10-24T11:39:51.000Z",
+      "xQuery": "中国で首相と会談 正恩氏日帰りか"
+    },
+    {
+      "time": "16:28",
+      "title": "28日頃北海道で雪 全国的に肌寒く",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599944?source=rss",
+      "publishedAt": "2026-10-24T07:28:56.000Z",
+      "xQuery": "28日頃北海道で雪 全国的に肌寒く"
     },
     {
       "time": "20:12",
@@ -18,28 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "自殺予防にAI 厚労省が効果検証へ"
     },
     {
-      "time": "19:05",
-      "title": "アジアパラ 日本勢はメダル186個",
+      "time": "21:02",
+      "title": "モンゴル火災 当局が賠償請求検討",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599962?source=rss",
-      "publishedAt": "2026-10-24T10:05:15.000Z",
-      "xQuery": "アジアパラ 日本勢はメダル186個"
+      "url": "https://news.yahoo.co.jp/pickup/6599972?source=rss",
+      "publishedAt": "2026-10-24T12:02:23.000Z",
+      "xQuery": "モンゴル火災 当局が賠償請求検討"
     },
     {
-      "time": "19:26",
-      "title": "車が電柱に衝突 同乗の6歳重体",
+      "time": "19:43",
+      "title": "お茶の飲み方 健康左右する可能性",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599965?source=rss",
-      "publishedAt": "2026-10-24T10:26:44.000Z",
-      "xQuery": "車が電柱に衝突 同乗の6歳重体"
-    },
-    {
-      "time": "19:08",
-      "title": "リニア地下ホーム工事現場 初公開",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599964?source=rss",
-      "publishedAt": "2026-10-24T10:08:00.000Z",
-      "xQuery": "リニア地下ホーム工事現場 初公開"
+      "url": "https://news.yahoo.co.jp/pickup/6599966?source=rss",
+      "publishedAt": "2026-10-24T10:43:34.000Z",
+      "xQuery": "お茶の飲み方 健康左右する可能性"
     }
   ]
 };
