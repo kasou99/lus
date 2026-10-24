@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-24T04:42:43.295Z",
+  "updatedAt": "2026-10-24T05:16:05.634Z",
   "items": [
+    {
+      "time": "13:47",
+      "title": "GMO 能動的サイバー防御を要請",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599928?source=rss",
+      "publishedAt": "2026-10-24T04:47:27.000Z",
+      "xQuery": "GMO 能動的サイバー防御を要請"
+    },
     {
       "time": "12:11",
       "title": "台風は九州接近へ 広範囲で大雨に",
@@ -8,22 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6599918?source=rss",
       "publishedAt": "2026-10-24T03:11:59.000Z",
       "xQuery": "台風は九州接近へ 広範囲で大雨に"
-    },
-    {
-      "time": "10:01",
-      "title": "劣勢トランプ氏 露骨なバラマキ策",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599901?source=rss",
-      "publishedAt": "2026-10-24T01:01:49.000Z",
-      "xQuery": "劣勢トランプ氏 露骨なバラマキ策"
-    },
-    {
-      "time": "10:14",
-      "title": "ヒマラヤで邦人2人死亡 遺体収容",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599905?source=rss",
-      "publishedAt": "2026-10-24T01:14:16.000Z",
-      "xQuery": "ヒマラヤで邦人2人死亡 遺体収容"
     },
     {
       "time": "12:34",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6599916?source=rss",
       "publishedAt": "2026-10-24T02:44:49.000Z",
       "xQuery": "AIで事故画像を偽造 保険金不正増"
+    },
+    {
+      "time": "13:01",
+      "title": "名古屋=派手婚は古い?東海の婚活",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599922?source=rss",
+      "publishedAt": "2026-10-24T04:01:39.000Z",
+      "xQuery": "名古屋=派手婚は古い?東海の婚活"
     }
   ]
 };
