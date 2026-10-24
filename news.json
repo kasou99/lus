@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T00:44:09.414Z",
+  "updatedAt": "2026-10-24T01:26:23.566Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,6 +17,13 @@
         "publishedAt": "2026-10-23T05:57:26.000Z"
       },
       {
+        "time": "20:51",
+        "title": "Admatec Admaflex Discovery：92,500ドルのデスクトップセラミック3Dプリンター - ニュースと統計",
+        "source": "IndexBox",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeUQ0d3pqQ2R2OTUzZ2hzU3A1dFFZMUJ6T1BOZklEQzN6UE1DRTg5VllfMnI2eF9ZLXRjQWJmQ2hiZ2pOODA4bVJtQ0l5NzVsOFNMME1rWlNCZzY5V3pUcjdSUDY0eWd2SmU2aU9lNnJ3azFKXzVZMlplREh6eEx4QVBvUndtTll5NTdpMERPUHduaXREc3cyLVh2Z2ZwWTA2WVRnZUtB?oc=5",
+        "publishedAt": "2026-10-23T11:51:31.000Z"
+      },
+      {
         "time": "17:47",
         "title": "NTN、工作機械向け高速グリースを量産 - dmn値230万の高速回転性能を実現",
         "source": "ｄメニューニュース",
@@ -24,18 +31,18 @@
         "publishedAt": "2026-10-23T08:47:00.000Z"
       },
       {
-        "time": "14:37",
-        "title": "日本精工－続落 マシニングセンタ向け新型スピンドルを開発",
-        "source": "TradingView",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE14bmxnTUZISVAxNFVNSmZ2eXNoRGxtNDFBdE55OGlqZHVYb0dESmgtc2FNQnlaeUw2djVtZUdIVGFjR0JfNVE0UlcwQzBKZ0k3S3BfNnJhYnJpUlJObkkwcWJCUGNhMGotNXpmRkkzUQ?oc=5",
-        "publishedAt": "2026-10-23T05:37:00.000Z"
-      },
-      {
         "time": "16:52",
         "title": "2026年10月23日 深層断面 ニュース",
         "source": "日刊工業新聞 電子版",
         "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE55RXFrMUdVVDFOYjRzUlUybjFoVnZSWTVTcXBEbUdMTXIyaWV2S0JzNm1FbVRyV3lKcGJCWHQ5eEpKSDU2S29LMGpfWktzWnk1NFRCTg?oc=5",
         "publishedAt": "2026-10-23T07:52:47.000Z"
+      },
+      {
+        "time": "14:37",
+        "title": "日本精工－続落 マシニングセンタ向け新型スピンドルを開発",
+        "source": "TradingView",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1nS19KZmhWX0FScTVPSEM2eHpSUTNpaC1GdDBoVGtFWXBZaTVVdTZnM2ZfLWpiX3B4dUtURE16OUdRRUt1aUpYUzlKcUlBbFFGanQwVktUTnFHNmkyMEhNcnhJNXBPQkhULV9RMU83U3U?oc=5",
+        "publishedAt": "2026-10-23T05:37:00.000Z"
       },
       {
         "time": "16:45",
@@ -50,22 +57,36 @@
         "source": "Newscast.jp",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9JVG1aOVdQY3JhUG5HbUxLQzdSeXVyU3ZKZk5mNF9WTGZWejNiSTZIcm5iRFZtNnNMZFhkT296cXo2a2E0NXBjMDJUX3B5bFU?oc=5",
         "publishedAt": "2026-10-23T04:30:00.000Z"
-      },
-      {
-        "time": "14:24",
-        "title": "マシニングセンタ向け新型スピンドルを開発",
-        "source": "PR TIMES",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1adUZsdl9UMnl0aWxaMjV5WC1hM0Y4dzI2YmNMdzd4RE81ampUdDBxdTdfeWMyc2g5T1RaMnYxZDNRWkVfS095SUR4bzdZRW1NODNYSmZnYUpLdTNlWmhNOU5tLUpRMEE0THc?oc=5",
-        "publishedAt": "2026-10-23T05:24:26.000Z"
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "10:02",
+        "title": "仏 抗議活動に警官7万人を動員へ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6599903?source=rss",
+        "publishedAt": "2026-10-24T01:02:56.000Z"
+      },
+      {
+        "time": "09:59",
+        "title": "英仏 初めて共同で核演習を実施",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6599904?source=rss",
+        "publishedAt": "2026-10-24T00:59:44.000Z"
+      },
       {
         "time": "07:36",
         "title": "パリ近郊で銃乱射 1人死亡4人負傷",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6599883?source=rss",
         "publishedAt": "2026-10-23T22:36:15.000Z"
+      },
+      {
+        "time": "10:01",
+        "title": "劣勢トランプ氏 露骨なバラマキ策",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6599901?source=rss",
+        "publishedAt": "2026-10-24T01:01:49.000Z"
       },
       {
         "time": "07:18",
@@ -75,32 +96,11 @@
         "publishedAt": "2026-10-23T22:18:09.000Z"
       },
       {
-        "time": "23:42",
-        "title": "露 ウ南部で一時停戦合意と米発表",
+        "time": "10:14",
+        "title": "ヒマラヤで邦人2人死亡 遺体収容",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599879?source=rss",
-        "publishedAt": "2026-10-23T14:42:42.000Z"
-      },
-      {
-        "time": "19:17",
-        "title": "高峰登山で不明2邦人か 遺体発見",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599853?source=rss",
-        "publishedAt": "2026-10-23T10:17:11.000Z"
-      },
-      {
-        "time": "15:54",
-        "title": "ソウル市長 政治資金巡り逆転無罪",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599814?source=rss",
-        "publishedAt": "2026-10-23T06:54:13.000Z"
-      },
-      {
-        "time": "09:35",
-        "title": "北が心理戦警告 南北で緊張の恐れ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599779?source=rss",
-        "publishedAt": "2026-10-23T00:35:28.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6599905?source=rss",
+        "publishedAt": "2026-10-24T01:14:16.000Z"
       }
     ],
     "economyHeadlines": [

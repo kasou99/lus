@@ -1,21 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-24T00:44:10.603Z",
+  "updatedAt": "2026-10-24T01:26:24.179Z",
   "items": [
     {
-      "time": "07:15",
-      "title": "強い台風30号は九州へ 警報級大雨",
+      "time": "10:02",
+      "title": "仏 抗議活動に警官7万人を動員へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599881?source=rss",
-      "publishedAt": "2026-10-23T22:15:15.000Z",
-      "xQuery": "強い台風30号は九州へ 警報級大雨"
+      "url": "https://news.yahoo.co.jp/pickup/6599903?source=rss",
+      "publishedAt": "2026-10-24T01:02:56.000Z",
+      "xQuery": "仏 抗議活動に警官7万人を動員へ"
     },
     {
-      "time": "07:36",
-      "title": "パリ近郊で銃乱射 1人死亡4人負傷",
+      "time": "09:07",
+      "title": "裁量労働制 乱用防止へ労使が一致",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599883?source=rss",
-      "publishedAt": "2026-10-23T22:36:15.000Z",
-      "xQuery": "パリ近郊で銃乱射 1人死亡4人負傷"
+      "url": "https://news.yahoo.co.jp/pickup/6599894?source=rss",
+      "publishedAt": "2026-10-24T00:07:48.000Z",
+      "xQuery": "裁量労働制 乱用防止へ労使が一致"
+    },
+    {
+      "time": "08:37",
+      "title": "PHP問題 災害情報メールにも影響",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599891?source=rss",
+      "publishedAt": "2026-10-23T23:37:53.000Z",
+      "xQuery": "PHP問題 災害情報メールにも影響"
     },
     {
       "time": "08:07",
@@ -24,14 +32,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6599889?source=rss",
       "publishedAt": "2026-10-23T23:07:02.000Z",
       "xQuery": "県立高で威圧的指導か 精神疾患に"
-    },
-    {
-      "time": "08:14",
-      "title": "パナG従業員情報 外部AIにアップ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599885?source=rss",
-      "publishedAt": "2026-10-23T23:14:51.000Z",
-      "xQuery": "パナG従業員情報 外部AIにアップ"
     },
     {
       "time": "09:37",
