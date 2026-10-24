@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T15:14:22.193Z",
+  "updatedAt": "2026-10-24T15:37:48.945Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,13 +38,6 @@
         "publishedAt": "2026-10-23T20:00:00.000Z"
       },
       {
-        "time": "07:34",
-        "title": "岡山県経済ダイジェスト最新版 岡山経済研究所が発刊 - 山陽新聞デジタル｜さんデジ",
-        "source": "山陽新聞デジタル｜さんデジ",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQkNpX2FEN0FGcjFxbDlEMUE0eWgxMlhzdmZURndwdlBuZkJ1anZJc0hPeFNlV3Q2dE5Ja05TYTNWWG5vYkpvV3pkUWZzeklwVXgxRkVwby1DeGRCeVQweDk4Rmtib2k2TGNSQ2ZfSVNORGVQaGlnM1RnQkpSRU9hWXBUTTRTQTA?oc=5",
-        "publishedAt": "2026-10-23T22:34:35.000Z"
-      },
-      {
         "time": "05:57",
         "title": "秋芳洞をドローンで調査 全国初、未踏エリアを開拓",
         "source": "Infoseek",
@@ -57,6 +50,13 @@
         "source": "YouTube",
         "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0wT3pURHB2cnhSMnZIQWJkOGdCMGtTR2U2UmZndi11Z3RNYi1xREFTVS05SDRVZ2dRaW4xM2c2UVJyMTE2d09BZWJEVy11TENDS0FpYTRsSVd2U0xO?oc=5",
         "publishedAt": "2026-10-23T16:37:31.000Z"
+      },
+      {
+        "time": "05:04",
+        "title": "日本のブレーキ抵抗器市場と主要企業",
+        "source": "pando.life",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBPSkllVmt0MTkwSnp1Q0JXWEpKaXYwRS1BakRCSjREUmhFZTdzWGNsNHdicXJhR0JwQWo2aWl1YVR1OUxyemRZTGNR?oc=5",
+        "publishedAt": "2026-10-23T20:04:33.000Z"
       }
     ],
     "worldHeadlines": [
