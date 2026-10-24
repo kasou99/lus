@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T06:52:00.561Z",
+  "updatedAt": "2026-10-24T07:16:56.448Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -10,18 +10,18 @@
         "publishedAt": "2026-10-24T05:09:36.000Z"
       },
       {
-        "time": "21:17",
-        "title": "マシニングセンタ向け新型スピンドルを開発",
-        "source": "シブヤ経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5VaHhZRnhKYlR2T2dTUVFKUkpWVVV5ajFJbHowV3BkY1VVZmFpRFM0Rkk1cnVSSnBfWkxhZTRmWnM3Z0JwVzNHMVl4TzZMUVpHWnByYVc1QXBLd2xfMnNj?oc=5",
-        "publishedAt": "2026-10-23T12:17:04.000Z"
-      },
-      {
         "time": "17:47",
         "title": "NTN、工作機械向け高速グリースを量産 - dmn値230万の高速回転性能を実現",
         "source": "ｄメニューニュース",
         "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9TdnYwT29vMDc4VXQ3azJGemVDRVZKMlB5eFl2czdnYlVuRF9iSFRtOHMwWDNjTnpqQzB6VUMyLWlrZVY3QjRhNGhyOVhOYWItWXRZQjdHYUtRTE9PcEwxUnNOcmtfWHBaZElRQW41Q01HY21HM1pycHFDNnXSAXxBVV95cUxPU3Z2ME9vbzA3OFV0N2syRnplQ0VWSjJQeXhZdnM3Z2JVbkRfYkhUbThzMFgzY056akMwelVDMi1pa2VWN0I0YTRocjlYTmFiLVl0WUI3R2FLUUxPT3BMMVJzTnJrX1hwWmRJUUFuNUNNR2NtRzNacnBxQzZ1?oc=5",
         "publishedAt": "2026-10-23T08:47:00.000Z"
+      },
+      {
+        "time": "20:51",
+        "title": "Admatec Admaflex Discovery：92,500ドルのデスクトップセラミック3Dプリンター - ニュースと統計",
+        "source": "IndexBox",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeUQ0d3pqQ2R2OTUzZ2hzU3A1dFFZMUJ6T1BOZklEQzN6UE1DRTg5VllfMnI2eF9ZLXRjQWJmQ2hiZ2pOODA4bVJtQ0l5NzVsOFNMME1rWlNCZzY5V3pUcjdSUDY0eWd2SmU2aU9lNnJ3azFKXzVZMlplREh6eEx4QVBvUndtTll5NTdpMERPUHduaXREc3cyLVh2Z2ZwWTA2WVRnZUtB?oc=5",
+        "publishedAt": "2026-10-23T11:51:31.000Z"
       },
       {
         "time": "16:52",
@@ -52,14 +52,21 @@
         "publishedAt": "2026-10-23T07:45:05.000Z"
       },
       {
-        "time": "20:00",
-        "title": "「JIMTOF2026」に「Mastercam 2027」、金剛力士立像のリバースエンジニアリング事例を出展",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5lYW1CUlBOUW4yZVRrcW13Sk82ckV1YTN0Yks4dkd1ZG8tZzJNLVRZbHJWVV9yQ0VSN0dDTE5KcWl6TG1zQzhaSUc5enM4T3dLUFNiN1BkRVE1MU9DaThNTHN3V2tjQmx3cUJLQXZ4SQ?oc=5",
-        "publishedAt": "2026-10-23T11:00:19.000Z"
+        "time": "07:34",
+        "title": "岡山県経済ダイジェスト最新版 岡山経済研究所が発刊 - 山陽新聞デジタル｜さんデジ",
+        "source": "山陽新聞デジタル｜さんデジ",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQkNpX2FEN0FGcjFxbDlEMUE0eWgxMlhzdmZURndwdlBuZkJ1anZJc0hPeFNlV3Q2dE5Ja05TYTNWWG5vYkpvV3pkUWZzeklwVXgxRkVwby1DeGRCeVQweDk4Rmtib2k2TGNSQ2ZfSVNORGVQaGlnM1RnQkpSRU9hWXBUTTRTQTA?oc=5",
+        "publishedAt": "2026-10-23T22:34:35.000Z"
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "16:12",
+        "title": "正恩氏が電撃訪中 開通の大橋通り",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6599942?source=rss",
+        "publishedAt": "2026-10-24T07:12:35.000Z"
+      },
       {
         "time": "13:50",
         "title": "露は「人質外交」解放の米紙記者",
@@ -73,13 +80,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6599921?source=rss",
         "publishedAt": "2026-10-24T03:46:31.000Z"
-      },
-      {
-        "time": "10:02",
-        "title": "仏 抗議活動に警官7万人を動員へ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599903?source=rss",
-        "publishedAt": "2026-10-24T01:02:56.000Z"
       },
       {
         "time": "10:01",

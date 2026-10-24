@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-24T06:52:01.610Z",
+  "updatedAt": "2026-10-24T07:16:57.474Z",
   "items": [
     {
-      "time": "13:47",
-      "title": "GMO 能動的サイバー防御を要請",
+      "time": "16:12",
+      "title": "正恩氏が電撃訪中 開通の大橋通り",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599928?source=rss",
-      "publishedAt": "2026-10-24T04:47:27.000Z",
-      "xQuery": "GMO 能動的サイバー防御を要請"
+      "url": "https://news.yahoo.co.jp/pickup/6599942?source=rss",
+      "publishedAt": "2026-10-24T07:12:35.000Z",
+      "xQuery": "正恩氏が電撃訪中 開通の大橋通り"
     },
     {
       "time": "15:38",
@@ -16,6 +16,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6599938?source=rss",
       "publishedAt": "2026-10-24T06:38:25.000Z",
       "xQuery": "台風30号 26日に九州上陸の恐れ"
+    },
+    {
+      "time": "14:42",
+      "title": "GMO 攻撃者の金銭要求に応じず",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599929?source=rss",
+      "publishedAt": "2026-10-24T05:42:24.000Z",
+      "xQuery": "GMO 攻撃者の金銭要求に応じず"
     },
     {
       "time": "13:50",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6599930?source=rss",
       "publishedAt": "2026-10-24T05:31:27.000Z",
       "xQuery": "ケニア首都で建設中のビルが倒壊"
-    },
-    {
-      "time": "15:24",
-      "title": "大阪で行方不明の14歳 無事に発見",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599935?source=rss",
-      "publishedAt": "2026-10-24T06:24:44.000Z",
-      "xQuery": "大阪で行方不明の14歳 無事に発見"
     }
   ]
 };
