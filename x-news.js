@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-24T22:14:28.451Z",
+  "updatedAt": "2026-10-24T22:37:35.108Z",
   "items": [
     {
-      "time": "21:07",
-      "title": "台風 西-東日本26日が雨ピークに",
+      "time": "07:35",
+      "title": "台風 26日にかけ警報級の大雨恐れ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599973?source=rss",
-      "publishedAt": "2026-10-24T12:07:36.000Z",
-      "xQuery": "台風 西-東日本26日が雨ピークに"
+      "url": "https://news.yahoo.co.jp/pickup/6599995?source=rss",
+      "publishedAt": "2026-10-24T22:35:53.000Z",
+      "xQuery": "台風 26日にかけ警報級の大雨恐れ"
     },
     {
       "time": "21:40",
@@ -16,6 +16,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6599979?source=rss",
       "publishedAt": "2026-10-24T12:40:35.000Z",
       "xQuery": "能動サイバー防御要請 政府側慎重"
+    },
+    {
+      "time": "07:27",
+      "title": "GMO不正接続 一瞬で119万円消失",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599992?source=rss",
+      "publishedAt": "2026-10-24T22:27:48.000Z",
+      "xQuery": "GMO不正接続 一瞬で119万円消失"
     },
     {
       "time": "21:55",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6599990?source=rss",
       "publishedAt": "2026-10-24T14:54:37.000Z",
       "xQuery": "放獣したツキノワグマが再び出没"
-    },
-    {
-      "time": "19:43",
-      "title": "お茶の飲み方 健康左右する可能性",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599966?source=rss",
-      "publishedAt": "2026-10-24T10:43:34.000Z",
-      "xQuery": "お茶の飲み方 健康左右する可能性"
     }
   ]
 };
