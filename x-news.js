@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-24T14:14:40.270Z",
+  "updatedAt": "2026-10-24T14:38:03.250Z",
   "items": [
     {
       "time": "21:07",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "小林鷹之氏 ガソリン補助縮小必要"
     },
     {
-      "time": "21:41",
-      "title": "ウ側 スターシールド接続復旧発表",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599978?source=rss",
-      "publishedAt": "2026-10-24T12:41:44.000Z",
-      "xQuery": "ウ側 スターシールド接続復旧発表"
-    },
-    {
       "time": "21:55",
       "title": "外来カミキリ被害拡大の恐れ 試算",
       "source": "Yahoo!ニュース",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6599966?source=rss",
       "publishedAt": "2026-10-24T10:43:34.000Z",
       "xQuery": "お茶の飲み方 健康左右する可能性"
+    },
+    {
+      "time": "18:30",
+      "title": "お店の食品ロス削減へ アプリ導入",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599958?source=rss",
+      "publishedAt": "2026-10-24T09:30:30.000Z",
+      "xQuery": "お店の食品ロス削減へ アプリ導入"
     }
   ]
 };
