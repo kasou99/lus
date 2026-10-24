@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-24T10:15:41.716Z",
+  "updatedAt": "2026-10-24T10:38:24.386Z",
   "items": [
     {
       "time": "18:26",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "西・東日本 台風接近前から雨警戒"
     },
     {
-      "time": "16:32",
-      "title": "個人情報売買 ダークウェブの実態",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599943?source=rss",
-      "publishedAt": "2026-10-24T07:32:35.000Z",
-      "xQuery": "個人情報売買 ダークウェブの実態"
-    },
-    {
       "time": "16:08",
       "title": "首相のX投稿へ返信 外国人関連増",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6599939?source=rss",
       "publishedAt": "2026-10-24T07:08:19.000Z",
       "xQuery": "首相のX投稿へ返信 外国人関連増"
+    },
+    {
+      "time": "19:26",
+      "title": "車が電柱に衝突 同乗の6歳重体",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599965?source=rss",
+      "publishedAt": "2026-10-24T10:26:44.000Z",
+      "xQuery": "車が電柱に衝突 同乗の6歳重体"
     },
     {
       "time": "17:08",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "クマ駆除せず放獣 秦野市の考え方"
     },
     {
-      "time": "15:24",
-      "title": "大阪で行方不明の14歳 無事に発見",
+      "time": "19:08",
+      "title": "リニア地下ホーム工事現場 初公開",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599935?source=rss",
-      "publishedAt": "2026-10-24T06:24:44.000Z",
-      "xQuery": "大阪で行方不明の14歳 無事に発見"
+      "url": "https://news.yahoo.co.jp/pickup/6599964?source=rss",
+      "publishedAt": "2026-10-24T10:08:00.000Z",
+      "xQuery": "リニア地下ホーム工事現場 初公開"
     }
   ]
 };
