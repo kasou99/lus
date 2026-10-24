@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-24T07:16:57.474Z",
+  "updatedAt": "2026-10-24T07:40:17.442Z",
   "items": [
     {
       "time": "16:12",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "露は「人質外交」解放の米紙記者"
     },
     {
-      "time": "14:31",
-      "title": "ケニア首都で建設中のビルが倒壊",
+      "time": "16:36",
+      "title": "足場設置中に川転落 20代男性死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599930?source=rss",
-      "publishedAt": "2026-10-24T05:31:27.000Z",
-      "xQuery": "ケニア首都で建設中のビルが倒壊"
+      "url": "https://news.yahoo.co.jp/pickup/6599946?source=rss",
+      "publishedAt": "2026-10-24T07:36:26.000Z",
+      "xQuery": "足場設置中に川転落 20代男性死亡"
     }
   ]
 };
