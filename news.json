@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T04:18:18.610Z",
+  "updatedAt": "2026-10-24T04:42:42.452Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,13 +31,6 @@
         "publishedAt": "2026-10-23T05:37:00.000Z"
       },
       {
-        "time": "13:30",
-        "title": "最大約40％の切削量向上を実現、ヤマザキマザックの中型複合加工機：工作機械",
-        "source": "MONOist",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1Ia0tuZC1SVXVwLXZmWlI2eVhrckt4aEZwNFJLNld1ZW9lRFRpdmpoNHdLeGJwa2Vfb1RscHF1NFdWU2lzN3VpVzJhZlotbTR5Nkc3VUJkTjhpZE5na3dEZHh2NnZBVjFOWWZmdGFlbw?oc=5",
-        "publishedAt": "2026-10-23T04:30:00.000Z"
-      },
-      {
         "time": "16:52",
         "title": "2026年10月23日 深層断面 ニュース",
         "source": "日刊工業新聞 電子版",
@@ -52,11 +45,18 @@
         "publishedAt": "2026-10-23T07:45:05.000Z"
       },
       {
-        "time": "13:30",
-        "title": "CNCマシンプローブの世界市場（2026年～2032年）、市場規模（ワイヤレス、有線）・分析レポートを発表",
-        "source": "Newscast.jp",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9JVG1aOVdQY3JhUG5HbUxLQzdSeXVyU3ZKZk5mNF9WTGZWejNiSTZIcm5iRFZtNnNMZFhkT296cXo2a2E0NXBjMDJUX3B5bFU?oc=5",
-        "publishedAt": "2026-10-23T04:30:00.000Z"
+        "time": "18:00",
+        "title": "電子工作とフィジカルAI開発入門プロジェクトのキックオフイベントに潜入、ロボキット「ロボっこ」を組み立てるワークショップをレポート 11枚目の写真・画像",
+        "source": "ロボスタ",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBFXzNDOG91cnlpMjNXLVR4d0Z1Y1hpVkFwMVlDaGxFQlUzUzJzb2RhQmZfRFVtUmZpNS1mUHpGQi13QlE2RnNVWktpSl9xd1J0MWdjU1dqbW9weEZFQ1kxNkMteExPOE9kQktWdER2MXFYVjQ?oc=5",
+        "publishedAt": "2026-10-23T09:00:03.000Z"
+      },
+      {
+        "time": "20:00",
+        "title": "「JIMTOF2026」に「Mastercam 2027」、金剛力士立像のリバースエンジニアリング事例を出展",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5lYW1CUlBOUW4yZVRrcW13Sk82ckV1YTN0Yks4dkd1ZG8tZzJNLVRZbHJWVV9yQ0VSN0dDTE5KcWl6TG1zQzhaSUc5enM4T3dLUFNiN1BkRVE1MU9DaThNTHN3V2tjQmx3cUJLQXZ4SQ?oc=5",
+        "publishedAt": "2026-10-23T11:00:19.000Z"
       }
     ],
     "worldHeadlines": [
