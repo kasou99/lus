@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T23:13:19.957Z",
+  "updatedAt": "2026-10-24T23:36:29.096Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -75,6 +75,13 @@
         "publishedAt": "2026-10-24T07:12:35.000Z"
       },
       {
+        "time": "08:20",
+        "title": "フランス全土でデモ再び 厳戒態勢",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6600002?source=rss",
+        "publishedAt": "2026-10-24T23:20:04.000Z"
+      },
+      {
         "time": "13:50",
         "title": "露は「人質外交」解放の米紙記者",
         "source": "Yahoo!ニュース",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6599978?source=rss",
         "publishedAt": "2026-10-24T12:41:44.000Z"
-      },
-      {
-        "time": "10:01",
-        "title": "劣勢トランプ氏 露骨なバラマキ策",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599901?source=rss",
-        "publishedAt": "2026-10-24T01:01:49.000Z"
       }
     ],
     "economyHeadlines": [
