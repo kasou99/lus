@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-24T10:38:24.386Z",
+  "updatedAt": "2026-10-24T11:13:37.475Z",
   "items": [
     {
       "time": "18:26",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "首相のX投稿へ返信 外国人関連増"
     },
     {
+      "time": "19:05",
+      "title": "アジアパラ 日本勢はメダル186個",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599962?source=rss",
+      "publishedAt": "2026-10-24T10:05:15.000Z",
+      "xQuery": "アジアパラ 日本勢はメダル186個"
+    },
+    {
       "time": "19:26",
       "title": "車が電柱に衝突 同乗の6歳重体",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6599965?source=rss",
       "publishedAt": "2026-10-24T10:26:44.000Z",
       "xQuery": "車が電柱に衝突 同乗の6歳重体"
-    },
-    {
-      "time": "17:08",
-      "title": "クマ駆除せず放獣 秦野市の考え方",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599950?source=rss",
-      "publishedAt": "2026-10-24T08:08:47.000Z",
-      "xQuery": "クマ駆除せず放獣 秦野市の考え方"
     },
     {
       "time": "19:08",
