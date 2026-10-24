@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-24T03:44:32.657Z",
+  "updatedAt": "2026-10-24T04:18:19.077Z",
   "items": [
     {
       "time": "12:11",
@@ -8,14 +8,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6599918?source=rss",
       "publishedAt": "2026-10-24T03:11:59.000Z",
       "xQuery": "台風は九州接近へ 広範囲で大雨に"
-    },
-    {
-      "time": "09:59",
-      "title": "英仏 初めて共同で核演習を実施",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599904?source=rss",
-      "publishedAt": "2026-10-24T00:59:44.000Z",
-      "xQuery": "英仏 初めて共同で核演習を実施"
     },
     {
       "time": "10:01",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "ヒマラヤで邦人2人死亡 遺体収容"
     },
     {
-      "time": "10:31",
-      "title": "免許証流出で見舞金3000円 妥当か",
+      "time": "12:34",
+      "title": "車で女性遺体運んだ疑い 男を逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599906?source=rss",
-      "publishedAt": "2026-10-24T01:31:55.000Z",
-      "xQuery": "免許証流出で見舞金3000円 妥当か"
+      "url": "https://news.yahoo.co.jp/pickup/6599920?source=rss",
+      "publishedAt": "2026-10-24T03:34:42.000Z",
+      "xQuery": "車で女性遺体運んだ疑い 男を逮捕"
+    },
+    {
+      "time": "11:44",
+      "title": "AIで事故画像を偽造 保険金不正増",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599916?source=rss",
+      "publishedAt": "2026-10-24T02:44:49.000Z",
+      "xQuery": "AIで事故画像を偽造 保険金不正増"
     }
   ]
 };
