@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T11:13:36.448Z",
+  "updatedAt": "2026-10-24T11:38:09.137Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -8,6 +8,13 @@
         "source": "www.pveye.jp",
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1jWDh2VnZKajN5eHY2c0F6LWkzbXdSVHZETGd2TEdiLWNYT1pGZ1d4TVExc05GYlAxU3pZMVJfMkxtOTFyOXdXYTdXUlI3SGZVS3Z6WWRB?oc=5",
         "publishedAt": "2026-10-24T05:09:36.000Z"
+      },
+      {
+        "time": "18:03",
+        "title": "日本の超硬スレッドミル市場と主要企業",
+        "source": "pando.life",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1BaFlNYW9oM2EwRnA3ZGxjN2IyUWdQQjNSazlVWlMwbmxGM041RlY1ZnhKSDdRVXFKYTY4QW03VnRzN25DRS0zU0hn?oc=5",
+        "publishedAt": "2026-10-24T09:03:56.000Z"
       },
       {
         "time": "21:17",
@@ -43,13 +50,6 @@
         "source": "中部経済新聞",
         "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9GaGdnLVM3WV9NUUtUakZTblBxSmxhNjdQUDNwTWFjZjZJRVJGeGtyYkpfdzllUnhZQnVWdlE0a3ZDMUZ4WFBCYk9uU3ZfSkRJVmlwcVl1cnRpYzVqejZuX2JLWmwyXy1GZ3Nxdm80Y3hNVnM?oc=5",
         "publishedAt": "2026-10-23T20:00:00.000Z"
-      },
-      {
-        "time": "05:04",
-        "title": "日本のブレーキ抵抗器市場と主要企業",
-        "source": "pando.life",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBPSkllVmt0MTkwSnp1Q0JXWEpKaXYwRS1BakRCSjREUmhFZTdzWGNsNHdicXJhR0JwQWo2aWl1YVR1OUxyemRZTGNR?oc=5",
-        "publishedAt": "2026-10-23T20:04:33.000Z"
       },
       {
         "time": "05:57",
@@ -112,20 +112,6 @@
         "publishedAt": "2026-10-24T00:07:48.000Z"
       },
       {
-        "time": "18:37",
-        "title": "物価上昇2%到達判断の公算大 日銀",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599845?source=rss",
-        "publishedAt": "2026-10-23T09:37:44.000Z"
-      },
-      {
-        "time": "17:26",
-        "title": "OKURA不適切還付 追徴額5.8億円",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599952?source=rss",
-        "publishedAt": "2026-10-24T08:26:48.000Z"
-      },
-      {
         "time": "10:31",
         "title": "免許証流出で見舞金3000円 妥当か",
         "source": "Yahoo!ニュース",
@@ -138,6 +124,20 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6599864?source=rss",
         "publishedAt": "2026-10-23T12:58:20.000Z"
+      },
+      {
+        "time": "17:26",
+        "title": "OKURA不適切還付 追徴額5.8億円",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6599952?source=rss",
+        "publishedAt": "2026-10-24T08:26:48.000Z"
+      },
+      {
+        "time": "20:34",
+        "title": "大阪IR ディーラー人材確保に課題",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6599969?source=rss",
+        "publishedAt": "2026-10-24T11:34:14.000Z"
       },
       {
         "time": "17:07",

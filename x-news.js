@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-24T11:13:37.475Z",
+  "updatedAt": "2026-10-24T11:38:09.727Z",
   "items": [
     {
       "time": "18:26",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "西・東日本 台風接近前から雨警戒"
     },
     {
-      "time": "16:08",
-      "title": "首相のX投稿へ返信 外国人関連増",
+      "time": "20:12",
+      "title": "自殺予防にAI 厚労省が効果検証へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599939?source=rss",
-      "publishedAt": "2026-10-24T07:08:19.000Z",
-      "xQuery": "首相のX投稿へ返信 外国人関連増"
+      "url": "https://news.yahoo.co.jp/pickup/6599967?source=rss",
+      "publishedAt": "2026-10-24T11:12:10.000Z",
+      "xQuery": "自殺予防にAI 厚労省が効果検証へ"
     },
     {
       "time": "19:05",
