@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T03:19:32.816Z",
+  "updatedAt": "2026-10-24T03:44:31.695Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -156,18 +156,25 @@
         "publishedAt": "2026-10-24T02:02:50.000Z"
       },
       {
-        "time": "08:07",
-        "title": "県立高で威圧的指導か 精神疾患に",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599889?source=rss",
-        "publishedAt": "2026-10-23T23:07:02.000Z"
-      },
-      {
         "time": "22:25",
         "title": "車ドアと路面に首はさまれ 窒息死",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6599870?source=rss",
         "publishedAt": "2026-10-23T13:25:37.000Z"
+      },
+      {
+        "time": "12:34",
+        "title": "車で女性遺体運んだ疑い 男を逮捕",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6599920?source=rss",
+        "publishedAt": "2026-10-24T03:34:42.000Z"
+      },
+      {
+        "time": "08:07",
+        "title": "県立高で威圧的指導か 精神疾患に",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6599889?source=rss",
+        "publishedAt": "2026-10-23T23:07:02.000Z"
       },
       {
         "time": "09:37",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6599857?source=rss",
         "publishedAt": "2026-10-23T11:40:20.000Z"
-      },
-      {
-        "time": "10:52",
-        "title": "トンネルにシカ 三陸鉄道96分遅れ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599908?source=rss",
-        "publishedAt": "2026-10-24T01:52:30.000Z"
       }
     ],
     "subsidyHeadlines": [

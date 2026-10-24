@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-24T03:19:33.591Z",
+  "updatedAt": "2026-10-24T03:44:32.657Z",
   "items": [
     {
       "time": "12:11",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "英仏 初めて共同で核演習を実施"
     },
     {
-      "time": "10:14",
-      "title": "ヒマラヤで邦人2人死亡 遺体収容",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599905?source=rss",
-      "publishedAt": "2026-10-24T01:14:16.000Z",
-      "xQuery": "ヒマラヤで邦人2人死亡 遺体収容"
-    },
-    {
       "time": "10:01",
       "title": "劣勢トランプ氏 露骨なバラマキ策",
       "source": "Yahoo!ニュース",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "劣勢トランプ氏 露骨なバラマキ策"
     },
     {
-      "time": "09:12",
-      "title": "サイトでAPIキー丸見え状態 研究",
+      "time": "10:14",
+      "title": "ヒマラヤで邦人2人死亡 遺体収容",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599895?source=rss",
-      "publishedAt": "2026-10-24T00:12:02.000Z",
-      "xQuery": "サイトでAPIキー丸見え状態 研究"
+      "url": "https://news.yahoo.co.jp/pickup/6599905?source=rss",
+      "publishedAt": "2026-10-24T01:14:16.000Z",
+      "xQuery": "ヒマラヤで邦人2人死亡 遺体収容"
+    },
+    {
+      "time": "10:31",
+      "title": "免許証流出で見舞金3000円 妥当か",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599906?source=rss",
+      "publishedAt": "2026-10-24T01:31:55.000Z",
+      "xQuery": "免許証流出で見舞金3000円 妥当か"
     }
   ]
 };
