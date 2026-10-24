@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T01:49:55.109Z",
+  "updatedAt": "2026-10-24T02:22:49.113Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -8,13 +8,6 @@
         "source": "MONOist",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB4OHRfNWxJSzgwWnlGSjMxNWtWTnZfTFRySFJHWUQyZjJGd3VHX3NxeXFrUE9lZm1xTjBPUkVVN3Vac2Rhako4NGRyb3BHTE5rSlZVVXRSMmEzS0stVFRUYzZLakNrY2l2TVc4ZlZ6MA?oc=5",
         "publishedAt": "2026-10-23T04:00:00.000Z"
-      },
-      {
-        "time": "21:17",
-        "title": "マシニングセンタ向け新型スピンドルを開発",
-        "source": "シブヤ経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5VaHhZRnhKYlR2T2dTUVFKUkpWVVV5ajFJbHowV3BkY1VVZmFpRFM0Rkk1cnVSSnBfWkxhZTRmWnM3Z0JwVzNHMVl4TzZMUVpHWnByYVc1QXBLd2xfMnNj?oc=5",
-        "publishedAt": "2026-10-23T12:17:04.000Z"
       },
       {
         "time": "14:57",
@@ -57,6 +50,13 @@
         "source": "Newscast.jp",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9JVG1aOVdQY3JhUG5HbUxLQzdSeXVyU3ZKZk5mNF9WTGZWejNiSTZIcm5iRFZtNnNMZFhkT296cXo2a2E0NXBjMDJUX3B5bFU?oc=5",
         "publishedAt": "2026-10-23T04:30:00.000Z"
+      },
+      {
+        "time": "14:24",
+        "title": "マシニングセンタ向け新型スピンドルを開発",
+        "source": "PR TIMES",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1adUZsdl9UMnl0aWxaMjV5WC1hM0Y4dzI2YmNMdzd4RE81ampUdDBxdTdfeWMyc2g5T1RaMnYxZDNRWkVfS095SUR4bzdZRW1NODNYSmZnYUpLdTNlWmhNOU5tLUpRMEE0THc?oc=5",
+        "publishedAt": "2026-10-23T05:24:26.000Z"
       }
     ],
     "worldHeadlines": [
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "11:02",
+        "title": "石垣島地方 線状降水帯の直前予測",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6599911?source=rss",
+        "publishedAt": "2026-10-24T02:02:50.000Z"
+      },
+      {
         "time": "08:07",
         "title": "県立高で威圧的指導か 精神疾患に",
         "source": "Yahoo!ニュース",
@@ -161,13 +168,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6599870?source=rss",
         "publishedAt": "2026-10-23T13:25:37.000Z"
-      },
-      {
-        "time": "22:56",
-        "title": "車に1歳放置し病院勤務疑い 逮捕",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599875?source=rss",
-        "publishedAt": "2026-10-23T13:56:38.000Z"
       },
       {
         "time": "09:37",
@@ -184,11 +184,11 @@
         "publishedAt": "2026-10-23T11:40:20.000Z"
       },
       {
-        "time": "10:48",
-        "title": "「さす九」の根源巡る専門家見解",
+        "time": "10:52",
+        "title": "トンネルにシカ 三陸鉄道96分遅れ",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599910?source=rss",
-        "publishedAt": "2026-10-24T01:48:59.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6599908?source=rss",
+        "publishedAt": "2026-10-24T01:52:30.000Z"
       }
     ],
     "subsidyHeadlines": [

@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-24T01:49:56.185Z",
+  "updatedAt": "2026-10-24T02:22:50.158Z",
   "items": [
     {
-      "time": "10:02",
-      "title": "仏 抗議活動に警官7万人を動員へ",
+      "time": "11:02",
+      "title": "石垣島地方 線状降水帯の直前予測",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599903?source=rss",
-      "publishedAt": "2026-10-24T01:02:56.000Z",
-      "xQuery": "仏 抗議活動に警官7万人を動員へ"
+      "url": "https://news.yahoo.co.jp/pickup/6599911?source=rss",
+      "publishedAt": "2026-10-24T02:02:50.000Z",
+      "xQuery": "石垣島地方 線状降水帯の直前予測"
     },
     {
       "time": "09:59",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "英仏 初めて共同で核演習を実施"
     },
     {
-      "time": "08:07",
-      "title": "県立高で威圧的指導か 精神疾患に",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599889?source=rss",
-      "publishedAt": "2026-10-23T23:07:02.000Z",
-      "xQuery": "県立高で威圧的指導か 精神疾患に"
-    },
-    {
       "time": "10:14",
       "title": "ヒマラヤで邦人2人死亡 遺体収容",
       "source": "Yahoo!ニュース",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "ヒマラヤで邦人2人死亡 遺体収容"
     },
     {
-      "time": "09:37",
-      "title": "9日間に3回 小学校給食に異物混入",
+      "time": "10:48",
+      "title": "「さす九」の根源巡る専門家見解",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599898?source=rss",
-      "publishedAt": "2026-10-24T00:37:44.000Z",
-      "xQuery": "9日間に3回 小学校給食に異物混入"
+      "url": "https://news.yahoo.co.jp/pickup/6599910?source=rss",
+      "publishedAt": "2026-10-24T01:48:59.000Z",
+      "xQuery": "「さす九」の根源巡る専門家見解"
+    },
+    {
+      "time": "09:12",
+      "title": "サイトでAPIキー丸見え状態 研究",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599895?source=rss",
+      "publishedAt": "2026-10-24T00:12:02.000Z",
+      "xQuery": "サイトでAPIキー丸見え状態 研究"
     }
   ]
 };
