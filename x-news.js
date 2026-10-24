@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-24T05:40:41.448Z",
+  "updatedAt": "2026-10-24T06:27:02.268Z",
   "items": [
     {
       "time": "13:47",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "台湾 台風30号で負傷者500人超"
     },
     {
-      "time": "12:34",
-      "title": "車で女性遺体運んだ疑い 男を逮捕",
+      "time": "14:31",
+      "title": "ケニア首都で建設中のビルが倒壊",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599920?source=rss",
-      "publishedAt": "2026-10-24T03:34:42.000Z",
-      "xQuery": "車で女性遺体運んだ疑い 男を逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6599930?source=rss",
+      "publishedAt": "2026-10-24T05:31:27.000Z",
+      "xQuery": "ケニア首都で建設中のビルが倒壊"
     },
     {
-      "time": "13:01",
-      "title": "名古屋=派手婚は古い?東海の婚活",
+      "time": "13:50",
+      "title": "露は「人質外交」解放の米紙記者",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599922?source=rss",
-      "publishedAt": "2026-10-24T04:01:39.000Z",
-      "xQuery": "名古屋=派手婚は古い?東海の婚活"
+      "url": "https://news.yahoo.co.jp/pickup/6599926?source=rss",
+      "publishedAt": "2026-10-24T04:50:28.000Z",
+      "xQuery": "露は「人質外交」解放の米紙記者"
     }
   ]
 };
