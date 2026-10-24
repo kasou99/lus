@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T18:18:57.715Z",
+  "updatedAt": "2026-10-24T18:42:35.224Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,13 +38,6 @@
         "publishedAt": "2026-10-23T20:00:00.000Z"
       },
       {
-        "time": "07:34",
-        "title": "岡山県経済ダイジェスト最新版 岡山経済研究所が発刊 - 山陽新聞デジタル｜さんデジ",
-        "source": "山陽新聞デジタル｜さんデジ",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQkNpX2FEN0FGcjFxbDlEMUE0eWgxMlhzdmZURndwdlBuZkJ1anZJc0hPeFNlV3Q2dE5Ja05TYTNWWG5vYkpvV3pkUWZzeklwVXgxRkVwby1DeGRCeVQweDk4Rmtib2k2TGNSQ2ZfSVNORGVQaGlnM1RnQkpSRU9hWXBUTTRTQTA?oc=5",
-        "publishedAt": "2026-10-23T22:34:35.000Z"
-      },
-      {
         "time": "00:02",
         "title": "ロボットテクノロジーの日本企業と海外メーカー",
         "source": "pando.life",
@@ -57,6 +50,13 @@
         "source": "GameWith",
         "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE41OXh3WFU1N1RjRW94bnFTNmREWWc4NmhqRW1DWUR0NEpoUjk3VngxNWVJcmptUjZWaUtyd0VPNE4wVk5rZXc5TWo3ZkVCZVFZeWJRY1V0NA?oc=5",
         "publishedAt": "2026-10-23T21:48:11.000Z"
+      },
+      {
+        "time": "05:57",
+        "title": "秋芳洞をドローンで調査 全国初、未踏エリアを開拓",
+        "source": "Infoseek",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE90LWtBU1hzcTkwd3p3Q01NbmttMWxOSUs5MHVNTmdZSVNlNGFlaUxvZVVCMXJzanBpbDhkNzktVHRtWFRQUV9KZ3NpU2EwZk1hVlNMeEJjcHVWZTZKT1BlVTdHa3RFU1J4Ty1JNUJiNNIBdEFVX3lxTE5kemFEbE5od0tHRHVzR01OcUtTeWFpd3RhRFlUeE5vM0NOXzZzTzY3UWp6TDlPNW1vU3ZrVnY0RXY4QU1sMTE0Nk5Gb1ZobTdfeVUwRHk2Y0FIWjlsZGk3SHZHaVFzNTFWNm5uS3FVNEZ3S1It?oc=5",
+        "publishedAt": "2026-10-23T20:57:28.000Z"
       }
     ],
     "worldHeadlines": [
