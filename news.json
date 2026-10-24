@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T01:26:23.566Z",
+  "updatedAt": "2026-10-24T01:49:55.109Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -10,18 +10,18 @@
         "publishedAt": "2026-10-23T04:00:00.000Z"
       },
       {
+        "time": "21:17",
+        "title": "マシニングセンタ向け新型スピンドルを開発",
+        "source": "シブヤ経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5VaHhZRnhKYlR2T2dTUVFKUkpWVVV5ajFJbHowV3BkY1VVZmFpRFM0Rkk1cnVSSnBfWkxhZTRmWnM3Z0JwVzNHMVl4TzZMUVpHWnByYVc1QXBLd2xfMnNj?oc=5",
+        "publishedAt": "2026-10-23T12:17:04.000Z"
+      },
+      {
         "time": "14:57",
         "title": "日本精工、マシニングセンタ向け新型スピンドルを開発",
         "source": "日本経済新聞",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1BeElSUUpEQkhldTYwbzk1cEY4d2lYN21FR21RQlQwQmo2cUVIZUtBd2hsZlhocHJHOEFxYjdDMVRkSE12eEFRNDRfYTVKanJpb2s1bkFkRjFmcy1fblliaWE1MTkyekpOZTMtWA?oc=5",
         "publishedAt": "2026-10-23T05:57:26.000Z"
-      },
-      {
-        "time": "20:51",
-        "title": "Admatec Admaflex Discovery：92,500ドルのデスクトップセラミック3Dプリンター - ニュースと統計",
-        "source": "IndexBox",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeUQ0d3pqQ2R2OTUzZ2hzU3A1dFFZMUJ6T1BOZklEQzN6UE1DRTg5VllfMnI2eF9ZLXRjQWJmQ2hiZ2pOODA4bVJtQ0l5NzVsOFNMME1rWlNCZzY5V3pUcjdSUDY0eWd2SmU2aU9lNnJ3azFKXzVZMlplREh6eEx4QVBvUndtTll5NTdpMERPUHduaXREc3cyLVh2Z2ZwWTA2WVRnZUtB?oc=5",
-        "publishedAt": "2026-10-23T11:51:31.000Z"
       },
       {
         "time": "17:47",
@@ -31,18 +31,18 @@
         "publishedAt": "2026-10-23T08:47:00.000Z"
       },
       {
+        "time": "14:37",
+        "title": "日本精工－続落 マシニングセンタ向け新型スピンドルを開発",
+        "source": "TradingView",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE14bmxnTUZISVAxNFVNSmZ2eXNoRGxtNDFBdE55OGlqZHVYb0dESmgtc2FNQnlaeUw2djVtZUdIVGFjR0JfNVE0UlcwQzBKZ0k3S3BfNnJhYnJpUlJObkkwcWJCUGNhMGotNXpmRkkzUQ?oc=5",
+        "publishedAt": "2026-10-23T05:37:00.000Z"
+      },
+      {
         "time": "16:52",
         "title": "2026年10月23日 深層断面 ニュース",
         "source": "日刊工業新聞 電子版",
         "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE55RXFrMUdVVDFOYjRzUlUybjFoVnZSWTVTcXBEbUdMTXIyaWV2S0JzNm1FbVRyV3lKcGJCWHQ5eEpKSDU2S29LMGpfWktzWnk1NFRCTg?oc=5",
         "publishedAt": "2026-10-23T07:52:47.000Z"
-      },
-      {
-        "time": "14:37",
-        "title": "日本精工－続落 マシニングセンタ向け新型スピンドルを開発",
-        "source": "TradingView",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1nS19KZmhWX0FScTVPSEM2eHpSUTNpaC1GdDBoVGtFWXBZaTVVdTZnM2ZfLWpiX3B4dUtURE16OUdRRUt1aUpYUzlKcUlBbFFGanQwVktUTnFHNmkyMEhNcnhJNXBPQkhULV9RMU83U3U?oc=5",
-        "publishedAt": "2026-10-23T05:37:00.000Z"
       },
       {
         "time": "16:45",
@@ -112,18 +112,18 @@
         "publishedAt": "2026-10-24T00:07:48.000Z"
       },
       {
-        "time": "18:48",
-        "title": "滋賀銀と池田泉州HD 経営統合へ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599846?source=rss",
-        "publishedAt": "2026-10-23T09:48:57.000Z"
-      },
-      {
         "time": "18:37",
         "title": "物価上昇2%到達判断の公算大 日銀",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6599845?source=rss",
         "publishedAt": "2026-10-23T09:37:44.000Z"
+      },
+      {
+        "time": "10:31",
+        "title": "免許証流出で見舞金3000円 妥当か",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6599906?source=rss",
+        "publishedAt": "2026-10-24T01:31:55.000Z"
       },
       {
         "time": "16:12",
@@ -170,13 +170,6 @@
         "publishedAt": "2026-10-23T13:56:38.000Z"
       },
       {
-        "time": "22:37",
-        "title": "7歳死亡 法廷で母謝罪も無罪主張",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599865?source=rss",
-        "publishedAt": "2026-10-23T13:37:32.000Z"
-      },
-      {
         "time": "09:37",
         "title": "9日間に3回 小学校給食に異物混入",
         "source": "Yahoo!ニュース",
@@ -189,6 +182,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6599857?source=rss",
         "publishedAt": "2026-10-23T11:40:20.000Z"
+      },
+      {
+        "time": "10:48",
+        "title": "「さす九」の根源巡る専門家見解",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6599910?source=rss",
+        "publishedAt": "2026-10-24T01:48:59.000Z"
       }
     ],
     "subsidyHeadlines": [

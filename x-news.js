@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-24T01:26:24.179Z",
+  "updatedAt": "2026-10-24T01:49:56.185Z",
   "items": [
     {
       "time": "10:02",
@@ -10,20 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "仏 抗議活動に警官7万人を動員へ"
     },
     {
-      "time": "09:07",
-      "title": "裁量労働制 乱用防止へ労使が一致",
+      "time": "09:59",
+      "title": "英仏 初めて共同で核演習を実施",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599894?source=rss",
-      "publishedAt": "2026-10-24T00:07:48.000Z",
-      "xQuery": "裁量労働制 乱用防止へ労使が一致"
-    },
-    {
-      "time": "08:37",
-      "title": "PHP問題 災害情報メールにも影響",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599891?source=rss",
-      "publishedAt": "2026-10-23T23:37:53.000Z",
-      "xQuery": "PHP問題 災害情報メールにも影響"
+      "url": "https://news.yahoo.co.jp/pickup/6599904?source=rss",
+      "publishedAt": "2026-10-24T00:59:44.000Z",
+      "xQuery": "英仏 初めて共同で核演習を実施"
     },
     {
       "time": "08:07",
@@ -32,6 +24,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6599889?source=rss",
       "publishedAt": "2026-10-23T23:07:02.000Z",
       "xQuery": "県立高で威圧的指導か 精神疾患に"
+    },
+    {
+      "time": "10:14",
+      "title": "ヒマラヤで邦人2人死亡 遺体収容",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599905?source=rss",
+      "publishedAt": "2026-10-24T01:14:16.000Z",
+      "xQuery": "ヒマラヤで邦人2人死亡 遺体収容"
     },
     {
       "time": "09:37",
