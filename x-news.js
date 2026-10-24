@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-24T13:14:24.406Z",
+  "updatedAt": "2026-10-24T13:37:44.852Z",
   "items": [
     {
       "time": "21:07",
@@ -18,20 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "能動サイバー防御要請 政府側慎重"
     },
     {
-      "time": "20:39",
-      "title": "中国で首相と会談 正恩氏日帰りか",
+      "time": "21:41",
+      "title": "ウ側 スターシールド接続復旧発表",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599971?source=rss",
-      "publishedAt": "2026-10-24T11:39:51.000Z",
-      "xQuery": "中国で首相と会談 正恩氏日帰りか"
-    },
-    {
-      "time": "21:02",
-      "title": "モンゴル火災 当局が賠償請求検討",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599972?source=rss",
-      "publishedAt": "2026-10-24T12:02:23.000Z",
-      "xQuery": "モンゴル火災 当局が賠償請求検討"
+      "url": "https://news.yahoo.co.jp/pickup/6599978?source=rss",
+      "publishedAt": "2026-10-24T12:41:44.000Z",
+      "xQuery": "ウ側 スターシールド接続復旧発表"
     },
     {
       "time": "21:55",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6599980?source=rss",
       "publishedAt": "2026-10-24T12:55:48.000Z",
       "xQuery": "外来カミキリ被害拡大の恐れ 試算"
+    },
+    {
+      "time": "19:43",
+      "title": "お茶の飲み方 健康左右する可能性",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599966?source=rss",
+      "publishedAt": "2026-10-24T10:43:34.000Z",
+      "xQuery": "お茶の飲み方 健康左右する可能性"
     }
   ]
 };

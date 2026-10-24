@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T13:14:23.492Z",
+  "updatedAt": "2026-10-24T13:37:44.120Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -15,13 +15,6 @@
         "source": "pando.life",
         "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1BaFlNYW9oM2EwRnA3ZGxjN2IyUWdQQjNSazlVWlMwbmxGM041RlY1ZnhKSDdRVXFKYTY4QW03VnRzN25DRS0zU0hn?oc=5",
         "publishedAt": "2026-10-24T09:03:56.000Z"
-      },
-      {
-        "time": "23:21",
-        "title": "マシニングセンタ向け新型スピンドルを開発",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBSSzVpbHBaWTA1TDdKNS1idy12Z0Z0UmUwcXdtT2FUQVpnYVQ2TVZuU3NpWnhiYW56by1NMWt3dW01cmg1ZjF2b1RZYmdQRmI4YlNvNFk2Zkd1MUZRSXZucUgyTE1vTm5oRXpPVTFyYzRrVHlFUkE?oc=5",
-        "publishedAt": "2026-10-23T14:21:22.000Z"
       },
       {
         "time": "11:00",
@@ -57,6 +50,13 @@
         "source": "Infoseek",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE90LWtBU1hzcTkwd3p3Q01NbmttMWxOSUs5MHVNTmdZSVNlNGFlaUxvZVVCMXJzanBpbDhkNzktVHRtWFRQUV9KZ3NpU2EwZk1hVlNMeEJjcHVWZTZKT1BlVTdHa3RFU1J4Ty1JNUJiNNIBdEFVX3lxTE5kemFEbE5od0tHRHVzR01OcUtTeWFpd3RhRFlUeE5vM0NOXzZzTzY3UWp6TDlPNW1vU3ZrVnY0RXY4QU1sMTE0Nk5Gb1ZobTdfeVUwRHk2Y0FIWjlsZGk3SHZHaVFzNTFWNm5uS3FVNEZ3S1It?oc=5",
         "publishedAt": "2026-10-23T20:57:28.000Z"
+      },
+      {
+        "time": "01:37",
+        "title": "NVIDIA の物理 AI、何がある？ PhysicsNeMo のラインナップを実例つきで解説",
+        "source": "YouTube",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0wT3pURHB2cnhSMnZIQWJkOGdCMGtTR2U2UmZndi11Z3RNYi1xREFTVS05SDRVZ2dRaW4xM2c2UVJyMTE2d09BZWJEVy11TENDS0FpYTRsSVd2U0xO?oc=5",
+        "publishedAt": "2026-10-23T16:37:31.000Z"
       }
     ],
     "worldHeadlines": [
