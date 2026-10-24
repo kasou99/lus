@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-24T02:45:24.117Z",
+  "updatedAt": "2026-10-24T03:19:33.591Z",
   "items": [
     {
-      "time": "11:02",
-      "title": "石垣島地方 線状降水帯の直前予測",
+      "time": "12:11",
+      "title": "台風は九州接近へ 広範囲で大雨に",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599911?source=rss",
-      "publishedAt": "2026-10-24T02:02:50.000Z",
-      "xQuery": "石垣島地方 線状降水帯の直前予測"
+      "url": "https://news.yahoo.co.jp/pickup/6599918?source=rss",
+      "publishedAt": "2026-10-24T03:11:59.000Z",
+      "xQuery": "台風は九州接近へ 広範囲で大雨に"
     },
     {
       "time": "09:59",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "ヒマラヤで邦人2人死亡 遺体収容"
     },
     {
-      "time": "10:48",
-      "title": "「さす九」の根源巡る専門家見解",
+      "time": "10:01",
+      "title": "劣勢トランプ氏 露骨なバラマキ策",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599910?source=rss",
-      "publishedAt": "2026-10-24T01:48:59.000Z",
-      "xQuery": "「さす九」の根源巡る専門家見解"
+      "url": "https://news.yahoo.co.jp/pickup/6599901?source=rss",
+      "publishedAt": "2026-10-24T01:01:49.000Z",
+      "xQuery": "劣勢トランプ氏 露骨なバラマキ策"
     },
     {
       "time": "09:12",

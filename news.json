@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T02:45:22.983Z",
+  "updatedAt": "2026-10-24T03:19:32.816Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -126,13 +126,6 @@
         "publishedAt": "2026-10-24T01:31:55.000Z"
       },
       {
-        "time": "16:12",
-        "title": "佐川急便で情報流出 最大5323万件",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599819?source=rss",
-        "publishedAt": "2026-10-23T07:12:30.000Z"
-      },
-      {
         "time": "16:59",
         "title": "パーク24 流出の146万人に見舞金",
         "source": "Yahoo!ニュース",
@@ -145,6 +138,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6599864?source=rss",
         "publishedAt": "2026-10-23T12:58:20.000Z"
+      },
+      {
+        "time": "11:58",
+        "title": "スタバに敬意 すなば珈琲経営戦略",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6599915?source=rss",
+        "publishedAt": "2026-10-24T02:58:16.000Z"
       }
     ],
     "localHeadlines": [
