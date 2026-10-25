@@ -1,13 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-25T21:37:50.466Z",
+  "updatedAt": "2026-10-25T22:13:48.743Z",
   "items": [
     {
-      "time": "22:45",
-      "title": "台風30号は温帯低気圧に 大雨警戒",
+      "time": "06:45",
+      "title": "関東-九州激しい雨 夜にピークも",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600115?source=rss",
-      "publishedAt": "2026-10-25T13:45:25.000Z",
-      "xQuery": "台風30号は温帯低気圧に 大雨警戒"
+      "url": "https://news.yahoo.co.jp/pickup/6600128?source=rss",
+      "publishedAt": "2026-10-25T21:45:08.000Z",
+      "xQuery": "関東-九州激しい雨 夜にピークも"
+    },
+    {
+      "time": "06:58",
+      "title": "次の首相「高市氏」27% 毎日調査",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6600130?source=rss",
+      "publishedAt": "2026-10-25T21:58:20.000Z",
+      "xQuery": "次の首相「高市氏」27% 毎日調査"
     },
     {
       "time": "23:05",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6600091?source=rss",
       "publishedAt": "2026-10-25T10:03:42.000Z",
       "xQuery": "2家族8人乗る車横転 20代の母死亡"
-    },
-    {
-      "time": "21:17",
-      "title": "事故で脚切断 25歳諦めていた恋愛",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600106?source=rss",
-      "publishedAt": "2026-10-25T12:17:50.000Z",
-      "xQuery": "事故で脚切断 25歳諦めていた恋愛"
     }
   ]
 };

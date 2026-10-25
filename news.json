@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T21:37:49.630Z",
+  "updatedAt": "2026-10-25T22:13:47.882Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -10,25 +10,18 @@
         "publishedAt": "2026-10-25T21:00:00.000Z"
       },
       {
+        "time": "07:00",
+        "title": "三菱電機、フィジカルAIでヒューマノイドと工作機械が連携する自動化システムを開発",
+        "source": "ASCII.jp",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1qSnFUZDQ3U3ctT1AwRVhMUGZqWWRWT1RzSkVMZi1QLWt3SlZQaEw3c1dpdjBtamZyY0JZcDBBMmZDUGxES1NJOE9CS1RaaldYT29Fbw?oc=5",
+        "publishedAt": "2026-10-25T22:00:00.000Z"
+      },
+      {
         "time": "05:02",
         "title": "深層断面／工作機械、受注残消化へ増産 生産能力向上が焦点 AI・半導体急伸に対応",
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5pMEJNamhqYUZBUkJ0R0RxZ29KZ3FWQWtpRThSWVM4aVlQb0ZaSGJkdnVmTFFMemtpN0JSbG1YSUJWSnJSUHhXLTJENHF4SkhObXZkVw?oc=5",
         "publishedAt": "2026-10-25T20:02:28.000Z"
-      },
-      {
-        "time": "19:53",
-        "title": "【探訪・ザ・カンパニー】江口電機（倉敷市）生産ラインの効率化を後押し",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE52Q2Q0M0ZCeGgtMkdTajBHMDVWZVBIaWFzbTRCZm1MaGxzT0tXMTJxTng1QXh1YWFRR29nZ3RTNWhSYjdSdTdtSkplVkVEOVB1dkE?oc=5",
-        "publishedAt": "2026-10-25T10:53:44.000Z"
-      },
-      {
-        "time": "06:50",
-        "title": "【比較】受注6割増でも赤字？ DMG森精機・オークマら5社「工作機械バブル」の大勝ちは ｜Seizo Trend",
-        "source": "ビジネス+IT",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4zOVZGQm9lU3huODVyYkRjRUo2YlltZWhVNHlEMkI4VVd3T1dIRndZZEpMOWk5ZnZwYlVNZnRlWFdGYndDaFczSVBZSG5SZ1U?oc=5",
-        "publishedAt": "2026-10-24T21:50:00.000Z"
       },
       {
         "time": "05:00",
@@ -45,11 +38,11 @@
         "publishedAt": "2026-10-25T20:00:00.000Z"
       },
       {
-        "time": "16:12",
-        "title": "【探訪ザ・カンパニー】オーザック（福山市）安全支えるワイヤ金具",
+        "time": "19:22",
+        "title": "電線の端材でストラップ制作 Ｍ．Ｓ．Ｅ．が商品化",
         "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB2YnlPN09iTUcyOGNldkhrT1k5RzQ5M0pLNkE3NkV1YzJxUDFPam9xOTV6dFZva2ZrNHNxNkZIOGYxMXN6R1JyUHFIMXZIamRMT2c?oc=5",
-        "publishedAt": "2026-10-25T07:12:56.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TOThSZjN5eER3TlU3MHo0RE9lLXdpRFVod2Mtams1bFZvcjBKQnpvSFYxMjJPYm5HZVd5RlhtcHlTN3R2OGdVLUs5THBCQVVCWEE?oc=5",
+        "publishedAt": "2026-10-25T10:22:59.000Z"
       },
       {
         "time": "05:00",
@@ -57,6 +50,13 @@
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9GX3ZMLVN4WXRqV0gtLWVMdVJTMmx2MVpiM0hUa09JRnVGZFBTSWtHLXNiYVJta293T3RzZGJqWDBaZDl1UkRLeUVBay0tdklZMXZNdmlmckE?oc=5",
         "publishedAt": "2026-10-25T20:00:00.000Z"
+      },
+      {
+        "time": "22:45",
+        "title": "AI投資に巨額マネー 実態と展望",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6600116?source=rss",
+        "publishedAt": "2026-10-25T13:45:23.000Z"
       }
     ],
     "worldHeadlines": [
