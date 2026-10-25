@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T06:27:17.945Z",
+  "updatedAt": "2026-10-25T06:52:20.531Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -149,13 +149,6 @@
     ],
     "localHeadlines": [
       {
-        "time": "11:21",
-        "title": "和歌山北部 線状降水帯の直前予測",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600031?source=rss",
-        "publishedAt": "2026-10-25T02:21:25.000Z"
-      },
-      {
         "time": "15:13",
         "title": "那覇市の女性強殺事件 米兵を起訴",
         "source": "Yahoo!ニュース",
@@ -163,11 +156,11 @@
         "publishedAt": "2026-10-25T06:13:16.000Z"
       },
       {
-        "time": "08:41",
-        "title": "斧で殴打し殺人未遂疑い 男を逮捕",
+        "time": "15:30",
+        "title": "和菓子店主殺害 強殺疑い2人逮捕",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600007?source=rss",
-        "publishedAt": "2026-10-24T23:41:55.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6600058?source=rss",
+        "publishedAt": "2026-10-25T06:30:23.000Z"
       },
       {
         "time": "09:24",
@@ -177,18 +170,25 @@
         "publishedAt": "2026-10-25T00:24:06.000Z"
       },
       {
-        "time": "23:54",
-        "title": "放獣したツキノワグマが再び出没",
+        "time": "08:41",
+        "title": "斧で殴打し殺人未遂疑い 男を逮捕",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599990?source=rss",
-        "publishedAt": "2026-10-24T14:54:37.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6600007?source=rss",
+        "publishedAt": "2026-10-24T23:41:55.000Z"
       },
       {
-        "time": "10:59",
-        "title": "孤立出産2人遺棄で猶予判決 背景",
+        "time": "10:07",
+        "title": "3歳娘殺害された母 自分恨む命日",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600027?source=rss",
-        "publishedAt": "2026-10-25T01:59:16.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6600022?source=rss",
+        "publishedAt": "2026-10-25T01:07:56.000Z"
+      },
+      {
+        "time": "13:47",
+        "title": "床はう患者撮影し投稿 法的責任は",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6600047?source=rss",
+        "publishedAt": "2026-10-25T04:47:17.000Z"
       }
     ],
     "subsidyHeadlines": [

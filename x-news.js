@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-25T06:27:18.827Z",
+  "updatedAt": "2026-10-25T06:52:21.685Z",
   "items": [
     {
       "time": "14:15",
@@ -18,12 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "金正恩氏の訪中 習氏とは会談せず"
     },
     {
-      "time": "12:27",
-      "title": "AIに暴言を吐く行為 識者らの見解",
+      "time": "15:13",
+      "title": "那覇市の女性強殺事件 米兵を起訴",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600040?source=rss",
-      "publishedAt": "2026-10-25T03:27:26.000Z",
-      "xQuery": "AIに暴言を吐く行為 識者らの見解"
+      "url": "https://news.yahoo.co.jp/pickup/6600057?source=rss",
+      "publishedAt": "2026-10-25T06:13:16.000Z",
+      "xQuery": "那覇市の女性強殺事件 米兵を起訴"
+    },
+    {
+      "time": "13:47",
+      "title": "床はう患者撮影し投稿 法的責任は",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6600047?source=rss",
+      "publishedAt": "2026-10-25T04:47:17.000Z",
+      "xQuery": "床はう患者撮影し投稿 法的責任は"
     },
     {
       "time": "13:55",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6600048?source=rss",
       "publishedAt": "2026-10-25T04:55:39.000Z",
       "xQuery": "退職代行「バブル」崩壊? なぜ今"
-    },
-    {
-      "time": "11:39",
-      "title": "美容室の倒産高水準 競争で二極化",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600033?source=rss",
-      "publishedAt": "2026-10-25T02:39:16.000Z",
-      "xQuery": "美容室の倒産高水準 競争で二極化"
     }
   ]
 };
