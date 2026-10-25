@@ -1,21 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-25T11:13:44.233Z",
+  "updatedAt": "2026-10-25T11:37:50.524Z",
   "items": [
     {
-      "time": "14:22",
-      "title": "議員外交「潤滑油」の機能目立つ",
+      "time": "20:05",
+      "title": "内閣支持率45%で横ばい 毎日調査",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600052?source=rss",
-      "publishedAt": "2026-10-25T05:22:23.000Z",
-      "xQuery": "議員外交「潤滑油」の機能目立つ"
+      "url": "https://news.yahoo.co.jp/pickup/6600099?source=rss",
+      "publishedAt": "2026-10-25T11:05:46.000Z",
+      "xQuery": "内閣支持率45%で横ばい 毎日調査"
     },
     {
-      "time": "18:23",
-      "title": "25日 鹿児島などで最も遅い真夏日",
+      "time": "20:17",
+      "title": "那覇市長選 現職知念氏が再選確実",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600084?source=rss",
-      "publishedAt": "2026-10-25T09:23:00.000Z",
-      "xQuery": "25日 鹿児島などで最も遅い真夏日"
+      "url": "https://news.yahoo.co.jp/pickup/6600101?source=rss",
+      "publishedAt": "2026-10-25T11:17:28.000Z",
+      "xQuery": "那覇市長選 現職知念氏が再選確実"
+    },
+    {
+      "time": "20:11",
+      "title": "イオン爆発犠牲者7人 南側で発見",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6600100?source=rss",
+      "publishedAt": "2026-10-25T11:11:59.000Z",
+      "xQuery": "イオン爆発犠牲者7人 南側で発見"
     },
     {
       "time": "19:03",
@@ -24,14 +32,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6600091?source=rss",
       "publishedAt": "2026-10-25T10:03:42.000Z",
       "xQuery": "2家族8人乗る車横転 20代の母死亡"
-    },
-    {
-      "time": "16:44",
-      "title": "脆弱性発見 混乱期の始まりと識者",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600069?source=rss",
-      "publishedAt": "2026-10-25T07:44:14.000Z",
-      "xQuery": "脆弱性発見 混乱期の始まりと識者"
     },
     {
       "time": "18:23",
