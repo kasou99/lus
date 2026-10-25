@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-25T06:52:21.685Z",
+  "updatedAt": "2026-10-25T07:18:12.201Z",
   "items": [
     {
       "time": "14:15",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "近畿で非常に激しい雨 26日も警戒"
     },
     {
-      "time": "12:52",
-      "title": "金正恩氏の訪中 習氏とは会談せず",
+      "time": "15:32",
+      "title": "衆院議席減案 国民民主の賛否焦点",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600041?source=rss",
-      "publishedAt": "2026-10-25T03:52:30.000Z",
-      "xQuery": "金正恩氏の訪中 習氏とは会談せず"
+      "url": "https://news.yahoo.co.jp/pickup/6600059?source=rss",
+      "publishedAt": "2026-10-25T06:32:24.000Z",
+      "xQuery": "衆院議席減案 国民民主の賛否焦点"
     },
     {
       "time": "15:13",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "那覇市の女性強殺事件 米兵を起訴"
     },
     {
+      "time": "15:30",
+      "title": "和菓子店主殺害 強殺疑い2人逮捕",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6600058?source=rss",
+      "publishedAt": "2026-10-25T06:30:23.000Z",
+      "xQuery": "和菓子店主殺害 強殺疑い2人逮捕"
+    },
+    {
       "time": "13:47",
       "title": "床はう患者撮影し投稿 法的責任は",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6600047?source=rss",
       "publishedAt": "2026-10-25T04:47:17.000Z",
       "xQuery": "床はう患者撮影し投稿 法的責任は"
-    },
-    {
-      "time": "13:55",
-      "title": "退職代行「バブル」崩壊? なぜ今",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600048?source=rss",
-      "publishedAt": "2026-10-25T04:55:39.000Z",
-      "xQuery": "退職代行「バブル」崩壊? なぜ今"
     }
   ]
 };
