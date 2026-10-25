@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T01:52:38.587Z",
+  "updatedAt": "2026-10-25T02:25:02.913Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -24,13 +24,6 @@
         "publishedAt": "2026-10-24T09:03:56.000Z"
       },
       {
-        "time": "11:00",
-        "title": "日本精工、振動を抑える新型スピンドル開発、２０２７年４月市場投入へ - https://kabu-ir.com/",
-        "source": "https://kabu-ir.com/",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE83ZU4yOHg0ajVER2ZzUzVadW52elpxa25aNEN5VEtTcHFQc1RQR0c1Mld3ZEtvMVRyT3pkM2FXNXJEZnRkeVNIcVpHcFFXeVhWaE5BbA?oc=5",
-        "publishedAt": "2026-10-24T02:00:00.000Z"
-      },
-      {
         "time": "00:02",
         "title": "ロボットテクノロジーの日本企業と海外メーカー",
         "source": "pando.life",
@@ -45,11 +38,11 @@
         "publishedAt": "2026-10-24T15:03:04.000Z"
       },
       {
-        "time": "18:48",
-        "title": "オムロンのスマート・パワーサプライS8AS2、2026年度グッドデザイン賞受賞",
+        "time": "02:15",
+        "title": "M2Xが東京海上HDと業務提携 東京海上日動から出資受け入れ",
         "source": "Dellows News",
-        "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE43WjBlSUdLQ20tbWRsMnUyalFjb09JRmZWMjVldDU4LUYtMkhxcDF0cFkyLXNKeWxJRG1NdnNISXRoS2Zqamc?oc=5",
-        "publishedAt": "2026-10-24T09:48:00.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5xN3ZkR3FXLWJEYTRDYTFqWVdtTmlOOVV6dzNiYnl4UHBYRlVjQVlrX3Z3MV9POE44Zld5ZXQ5WU1Hc21uMUxyem56ZTFxNE9TMk1PM21GeE5LZldPcWR1dF9jRkwwZjJu?oc=5",
+        "publishedAt": "2026-10-24T17:15:27.000Z"
       },
       {
         "time": "09:07",
@@ -57,6 +50,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6599894?source=rss",
         "publishedAt": "2026-10-24T00:07:48.000Z"
+      },
+      {
+        "time": "21:58",
+        "title": "タイムズカー情報流出 集団訴訟へ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6599864?source=rss",
+        "publishedAt": "2026-10-23T12:58:20.000Z"
       }
     ],
     "worldHeadlines": [
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "11:21",
+        "title": "和歌山北部 線状降水帯の直前予測",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6600031?source=rss",
+        "publishedAt": "2026-10-25T02:21:25.000Z"
+      },
+      {
         "time": "08:41",
         "title": "斧で殴打し殺人未遂疑い 男を逮捕",
         "source": "Yahoo!ニュース",
@@ -177,18 +184,11 @@
         "publishedAt": "2026-10-24T14:54:37.000Z"
       },
       {
-        "time": "15:24",
-        "title": "大阪で行方不明の14歳 無事に発見",
+        "time": "09:13",
+        "title": "モスク放火の罪 法廷で語った後悔",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599935?source=rss",
-        "publishedAt": "2026-10-24T06:24:44.000Z"
-      },
-      {
-        "time": "17:34",
-        "title": "迷惑行為ショウリンジ 心配する母",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599951?source=rss",
-        "publishedAt": "2026-10-24T08:34:21.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6600013?source=rss",
+        "publishedAt": "2026-10-25T00:13:46.000Z"
       }
     ],
     "subsidyHeadlines": [

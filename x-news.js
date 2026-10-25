@@ -1,21 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-25T01:52:39.731Z",
+  "updatedAt": "2026-10-25T02:25:03.657Z",
   "items": [
     {
-      "time": "07:35",
-      "title": "台風 26日にかけ警報級の大雨恐れ",
+      "time": "11:15",
+      "title": "台風 土砂災害や低地の浸水に警戒",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599995?source=rss",
-      "publishedAt": "2026-10-24T22:35:53.000Z",
-      "xQuery": "台風 26日にかけ警報級の大雨恐れ"
+      "url": "https://news.yahoo.co.jp/pickup/6600030?source=rss",
+      "publishedAt": "2026-10-25T02:15:30.000Z",
+      "xQuery": "台風 土砂災害や低地の浸水に警戒"
     },
     {
-      "time": "08:58",
-      "title": "ブラジル大統領選の決選 接戦予想",
+      "time": "11:21",
+      "title": "和歌山北部 線状降水帯の直前予測",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600005?source=rss",
-      "publishedAt": "2026-10-24T23:58:07.000Z",
-      "xQuery": "ブラジル大統領選の決選 接戦予想"
+      "url": "https://news.yahoo.co.jp/pickup/6600031?source=rss",
+      "publishedAt": "2026-10-25T02:21:25.000Z",
+      "xQuery": "和歌山北部 線状降水帯の直前予測"
+    },
+    {
+      "time": "08:00",
+      "title": "認知症高齢者狙う悪質商法 深刻化",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6599999?source=rss",
+      "publishedAt": "2026-10-24T23:00:44.000Z",
+      "xQuery": "認知症高齢者狙う悪質商法 深刻化"
     },
     {
       "time": "07:27",
@@ -24,14 +32,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6599992?source=rss",
       "publishedAt": "2026-10-24T22:27:48.000Z",
       "xQuery": "GMO不正接続 一瞬で119万円消失"
-    },
-    {
-      "time": "09:24",
-      "title": "北九州で女性刺されけが 男が逃走",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600016?source=rss",
-      "publishedAt": "2026-10-25T00:24:06.000Z",
-      "xQuery": "北九州で女性刺されけが 男が逃走"
     },
     {
       "time": "10:07",
