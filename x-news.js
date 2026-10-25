@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-25T02:46:29.349Z",
+  "updatedAt": "2026-10-25T03:21:17.307Z",
   "items": [
     {
       "time": "11:15",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "3歳娘殺害された母 自分恨む命日"
     },
     {
-      "time": "10:04",
-      "title": "スズメバチを捕食? ヒヨドリとは",
+      "time": "11:00",
+      "title": "親が相手探す「代理婚活」が盛況",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600019?source=rss",
-      "publishedAt": "2026-10-25T01:04:34.000Z",
-      "xQuery": "スズメバチを捕食? ヒヨドリとは"
+      "url": "https://news.yahoo.co.jp/pickup/6600026?source=rss",
+      "publishedAt": "2026-10-25T02:00:03.000Z",
+      "xQuery": "親が相手探す「代理婚活」が盛況"
     }
   ]
 };
