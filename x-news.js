@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-25T00:49:45.869Z",
+  "updatedAt": "2026-10-25T01:28:56.018Z",
   "items": [
     {
       "time": "07:35",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "台風 26日にかけ警報級の大雨恐れ"
     },
     {
-      "time": "08:20",
-      "title": "フランス全土でデモ再び 厳戒態勢",
+      "time": "08:58",
+      "title": "ブラジル大統領選の決選 接戦予想",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600002?source=rss",
-      "publishedAt": "2026-10-24T23:20:04.000Z",
-      "xQuery": "フランス全土でデモ再び 厳戒態勢"
+      "url": "https://news.yahoo.co.jp/pickup/6600005?source=rss",
+      "publishedAt": "2026-10-24T23:58:07.000Z",
+      "xQuery": "ブラジル大統領選の決選 接戦予想"
     },
     {
       "time": "07:27",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "GMO不正接続 一瞬で119万円消失"
     },
     {
-      "time": "07:48",
-      "title": "「Used in Japan」世界注目 なぜ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599996?source=rss",
-      "publishedAt": "2026-10-24T22:48:39.000Z",
-      "xQuery": "「Used in Japan」世界注目 なぜ"
-    },
-    {
       "time": "09:24",
       "title": "北九州で女性刺されけが 男が逃走",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6600016?source=rss",
       "publishedAt": "2026-10-25T00:24:06.000Z",
       "xQuery": "北九州で女性刺されけが 男が逃走"
+    },
+    {
+      "time": "10:04",
+      "title": "スズメバチを捕食? ヒヨドリとは",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6600019?source=rss",
+      "publishedAt": "2026-10-25T01:04:34.000Z",
+      "xQuery": "スズメバチを捕食? ヒヨドリとは"
     }
   ]
 };

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T00:49:45.277Z",
+  "updatedAt": "2026-10-25T01:28:55.251Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -52,11 +52,11 @@
         "publishedAt": "2026-10-24T09:48:00.000Z"
       },
       {
-        "time": "10:03",
-        "title": "ABEJA、ヤマザキマザックと製造現場のフィジカルAI実装に向けた業務連携を開始",
-        "source": "Dellows News",
-        "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBuVTdSV2NaZW9vMFZZN2lCWm1WZVdSX1FRTE1nSGlWOG5LLTRyMUY3R2pjMXktaDdLSGw0OUlydFBHT0MzbUE?oc=5",
-        "publishedAt": "2026-10-24T01:03:12.000Z"
+        "time": "09:07",
+        "title": "裁量労働制 乱用防止へ労使が一致",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6599894?source=rss",
+        "publishedAt": "2026-10-24T00:07:48.000Z"
       }
     ],
     "worldHeadlines": [
@@ -126,13 +126,6 @@
         "publishedAt": "2026-10-24T08:26:48.000Z"
       },
       {
-        "time": "07:48",
-        "title": "「Used in Japan」世界注目 なぜ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599996?source=rss",
-        "publishedAt": "2026-10-24T22:48:39.000Z"
-      },
-      {
         "time": "20:34",
         "title": "大阪IR ディーラー人材確保に課題",
         "source": "Yahoo!ニュース",
@@ -140,11 +133,18 @@
         "publishedAt": "2026-10-24T11:34:14.000Z"
       },
       {
-        "time": "17:07",
-        "title": "コンビニ客数減 衣料品が活路に?",
+        "time": "10:07",
+        "title": "千葉県の魅力度ランクが低下 背景",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599949?source=rss",
-        "publishedAt": "2026-10-24T08:07:26.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6600018?source=rss",
+        "publishedAt": "2026-10-25T01:07:26.000Z"
+      },
+      {
+        "time": "07:48",
+        "title": "「Used in Japan」世界注目 なぜ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6599996?source=rss",
+        "publishedAt": "2026-10-24T22:48:39.000Z"
       }
     ],
     "localHeadlines": [
@@ -184,11 +184,11 @@
         "publishedAt": "2026-10-24T06:24:44.000Z"
       },
       {
-        "time": "09:13",
-        "title": "モスク放火の罪 法廷で語った後悔",
+        "time": "17:34",
+        "title": "迷惑行為ショウリンジ 心配する母",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600013?source=rss",
-        "publishedAt": "2026-10-25T00:13:46.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6599951?source=rss",
+        "publishedAt": "2026-10-24T08:34:21.000Z"
       }
     ],
     "subsidyHeadlines": [
