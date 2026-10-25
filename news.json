@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T11:37:49.215Z",
+  "updatedAt": "2026-10-25T12:22:53.212Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "21:17",
+        "title": "事故で脚切断 25歳諦めていた恋愛",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6600106?source=rss",
+        "publishedAt": "2026-10-25T12:17:50.000Z"
+      },
+      {
         "time": "20:17",
         "title": "那覇市長選 現職知念氏が再選確実",
         "source": "Yahoo!ニュース",
@@ -175,13 +182,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6600072?source=rss",
         "publishedAt": "2026-10-25T07:44:16.000Z"
-      },
-      {
-        "time": "15:13",
-        "title": "那覇市の女性強殺事件 米兵を起訴",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600057?source=rss",
-        "publishedAt": "2026-10-25T06:13:16.000Z"
       },
       {
         "time": "15:30",
