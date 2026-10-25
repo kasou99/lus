@@ -1,7 +1,49 @@
 {
-  "updatedAt": "2026-10-25T05:16:06.798Z",
+  "updatedAt": "2026-10-25T05:40:41.189Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "06:50",
+        "title": "【比較】受注6割増でも赤字？ DMG森精機・オークマら5社「工作機械バブル」の大勝ちは ｜Seizo Trend",
+        "source": "ビジネス+IT",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4zOVZGQm9lU3huODVyYkRjRUo2YlltZWhVNHlEMkI4VVd3T1dIRndZZEpMOWk5ZnZwYlVNZnRlWFdGYndDaFczSVBZSG5SZ1U?oc=5",
+        "publishedAt": "2026-10-24T21:50:00.000Z"
+      },
+      {
+        "time": "12:03",
+        "title": "日本のパワーセミコンダクター市場と主要企業",
+        "source": "pando.life",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1GcmFLN0xqQnhJQnhwQlFQZklLSnpvNHU2RjlFcFE2VXBXWVVVMGdxZm9HeUNxSHBkOVVDeTJWamJXWW9nRUcwMFN3?oc=5",
+        "publishedAt": "2026-10-25T03:03:46.000Z"
+      },
+      {
+        "time": "18:03",
+        "title": "日本の超硬スレッドミル市場と主要企業",
+        "source": "pando.life",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1BaFlNYW9oM2EwRnA3ZGxjN2IyUWdQQjNSazlVWlMwbmxGM041RlY1ZnhKSDdRVXFKYTY4QW03VnRzN25DRS0zU0hn?oc=5",
+        "publishedAt": "2026-10-24T09:03:56.000Z"
+      },
+      {
+        "time": "00:02",
+        "title": "ロボットテクノロジーの日本企業と海外メーカー",
+        "source": "pando.life",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE05ZTVTcnAtNWdJRjA2SzZYcVY1amFnRm5sQVgwbGxRd2NZam1jbzZ0ZEV5cmpLcU54N1dtS1ZOZVlzNXhDR0gxUHVB?oc=5",
+        "publishedAt": "2026-10-24T15:02:44.000Z"
+      },
+      {
+        "time": "00:03",
+        "title": "CNCサーキュラーソーの世界シェアと主要企業",
+        "source": "pando.life",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1eEhzR0VyNjRBWGltalFqcEplaWhBQWFKY0EyRlVheGlvVGZlaUxnd2Y1SGlMZmFuZ0tackM3aVlEcFRBVjdBM0V3?oc=5",
+        "publishedAt": "2026-10-24T15:03:04.000Z"
+      },
+      {
+        "time": "18:48",
+        "title": "オムロンのスマート・パワーサプライS8AS2、2026年度グッドデザイン賞受賞",
+        "source": "Dellows News",
+        "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE43WjBlSUdLQ20tbWRsMnUyalFjb09JRmZWMjVldDU4LUYtMkhxcDF0cFkyLXNKeWxJRG1NdnNISXRoS2Zqamc?oc=5",
+        "publishedAt": "2026-10-24T09:48:00.000Z"
+      },
       {
         "time": "12:30",
         "title": "10月FOMCは金利据え置きか 焦点",
@@ -15,48 +57,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6599952?source=rss",
         "publishedAt": "2026-10-24T08:26:48.000Z"
-      },
-      {
-        "time": "20:34",
-        "title": "大阪IR ディーラー人材確保に課題",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599969?source=rss",
-        "publishedAt": "2026-10-24T11:34:14.000Z"
-      },
-      {
-        "time": "11:39",
-        "title": "美容室の倒産高水準 競争で二極化",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600033?source=rss",
-        "publishedAt": "2026-10-25T02:39:16.000Z"
-      },
-      {
-        "time": "13:55",
-        "title": "退職代行「バブル」崩壊? なぜ今",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600048?source=rss",
-        "publishedAt": "2026-10-25T04:55:39.000Z"
-      },
-      {
-        "time": "10:07",
-        "title": "千葉県の魅力度ランクが低下 背景",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600018?source=rss",
-        "publishedAt": "2026-10-25T01:07:26.000Z"
-      },
-      {
-        "time": "07:48",
-        "title": "「Used in Japan」世界注目 なぜ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599996?source=rss",
-        "publishedAt": "2026-10-24T22:48:39.000Z"
-      },
-      {
-        "time": "17:07",
-        "title": "コンビニ客数減 衣料品が活路に?",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599949?source=rss",
-        "publishedAt": "2026-10-24T08:07:26.000Z"
       }
     ],
     "worldHeadlines": [
@@ -215,6 +215,13 @@
         "title": "中小企業省力化投資補助金の公募・採択情報を確認",
         "source": "中小機構",
         "url": "https://seisansei.smrj.go.jp/subsidy_info/laborsaving_subsidy.html"
+      },
+      {
+        "time": "16:00",
+        "title": "【2026年最新】中小企業向け補助金6制度まとめ｜締切・補助率・上限額一覧",
+        "source": "補助金ポータル",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Idm5vYjJtajVIYjhheTZVVTVQTXRXMndVNkRmWnVEZnZyNVRRV3ZncXZhREsxNXBqYXFZSlZmNHhLeHhkbUNRcXljRlJNWVh2ZmZrSXlsVVJsdGI5RGtBdmoxUGx1YlozMUE?oc=5",
+        "publishedAt": "2026-09-30T07:00:00.000Z"
       }
     ]
   }

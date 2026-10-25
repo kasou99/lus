@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-25T05:16:17.000Z",
+  "updatedAt": "2026-10-25T05:40:41.924Z",
   "items": [
     {
-      "time": "12:30",
-      "title": "10月FOMCは金利据え置きか 焦点",
+      "time": "14:15",
+      "title": "近畿で非常に激しい雨 26日も警戒",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600038?source=rss",
-      "publishedAt": "2026-10-25T03:30:33.000Z",
-      "xQuery": "10月FOMCは金利据え置きか 焦点"
+      "url": "https://news.yahoo.co.jp/pickup/6600051?source=rss",
+      "publishedAt": "2026-10-25T05:15:44.000Z",
+      "xQuery": "近畿で非常に激しい雨 26日も警戒"
     },
     {
-      "time": "11:24",
-      "title": "オバマ氏 トランプ政権を痛烈批判",
+      "time": "12:52",
+      "title": "金正恩氏の訪中 習氏とは会談せず",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600025?source=rss",
-      "publishedAt": "2026-10-25T02:24:45.000Z",
-      "xQuery": "オバマ氏 トランプ政権を痛烈批判"
+      "url": "https://news.yahoo.co.jp/pickup/6600041?source=rss",
+      "publishedAt": "2026-10-25T03:52:30.000Z",
+      "xQuery": "金正恩氏の訪中 習氏とは会談せず"
     },
     {
       "time": "12:27",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "AIに暴言を吐く行為 識者らの見解"
     },
     {
+      "time": "13:55",
+      "title": "退職代行「バブル」崩壊? なぜ今",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6600048?source=rss",
+      "publishedAt": "2026-10-25T04:55:39.000Z",
+      "xQuery": "退職代行「バブル」崩壊? なぜ今"
+    },
+    {
       "time": "11:39",
       "title": "美容室の倒産高水準 競争で二極化",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6600033?source=rss",
       "publishedAt": "2026-10-25T02:39:16.000Z",
       "xQuery": "美容室の倒産高水準 競争で二極化"
-    },
-    {
-      "time": "13:43",
-      "title": "妊娠中にがん宣告 選択迫られた母",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600042?source=rss",
-      "publishedAt": "2026-10-25T04:43:58.000Z",
-      "xQuery": "妊娠中にがん宣告 選択迫られた母"
     }
   ]
 };
