@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-25T12:22:53.816Z",
+  "updatedAt": "2026-10-25T12:45:21.913Z",
   "items": [
+    {
+      "time": "20:51",
+      "title": "不正アクセス 官邸主導で対策急ぐ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6600103?source=rss",
+      "publishedAt": "2026-10-25T11:51:41.000Z",
+      "xQuery": "不正アクセス 官邸主導で対策急ぐ"
+    },
     {
       "time": "20:05",
       "title": "内閣支持率45%で横ばい 毎日調査",
@@ -8,14 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6600099?source=rss",
       "publishedAt": "2026-10-25T11:05:46.000Z",
       "xQuery": "内閣支持率45%で横ばい 毎日調査"
-    },
-    {
-      "time": "20:17",
-      "title": "那覇市長選 現職知念氏が再選確実",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600101?source=rss",
-      "publishedAt": "2026-10-25T11:17:28.000Z",
-      "xQuery": "那覇市長選 現職知念氏が再選確実"
     },
     {
       "time": "20:11",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "2家族8人乗る車横転 20代の母死亡"
     },
     {
-      "time": "18:23",
-      "title": "NY大司教区 性的虐待で和解合意",
+      "time": "21:17",
+      "title": "事故で脚切断 25歳諦めていた恋愛",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600082?source=rss",
-      "publishedAt": "2026-10-25T09:23:57.000Z",
-      "xQuery": "NY大司教区 性的虐待で和解合意"
+      "url": "https://news.yahoo.co.jp/pickup/6600106?source=rss",
+      "publishedAt": "2026-10-25T12:17:50.000Z",
+      "xQuery": "事故で脚切断 25歳諦めていた恋愛"
     }
   ]
 };
