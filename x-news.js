@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-25T03:21:17.307Z",
+  "updatedAt": "2026-10-25T03:47:48.458Z",
   "items": [
     {
       "time": "11:15",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "3歳娘殺害された母 自分恨む命日"
     },
     {
-      "time": "11:00",
-      "title": "親が相手探す「代理婚活」が盛況",
+      "time": "10:38",
+      "title": "就活セクハラ 法改正で何変わった",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600026?source=rss",
-      "publishedAt": "2026-10-25T02:00:03.000Z",
-      "xQuery": "親が相手探す「代理婚活」が盛況"
+      "url": "https://news.yahoo.co.jp/pickup/6600023?source=rss",
+      "publishedAt": "2026-10-25T01:38:39.000Z",
+      "xQuery": "就活セクハラ 法改正で何変わった"
     }
   ]
 };
