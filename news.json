@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T12:45:20.766Z",
+  "updatedAt": "2026-10-25T13:13:51.716Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -170,6 +170,13 @@
         "publishedAt": "2026-10-25T10:39:16.000Z"
       },
       {
+        "time": "21:50",
+        "title": "枝切りばさみで殺害疑い 男再逮捕",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6600111?source=rss",
+        "publishedAt": "2026-10-25T12:50:52.000Z"
+      },
+      {
         "time": "20:11",
         "title": "イオン爆発犠牲者7人 南側で発見",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6600072?source=rss",
         "publishedAt": "2026-10-25T07:44:16.000Z"
-      },
-      {
-        "time": "15:30",
-        "title": "和菓子店主殺害 強殺疑い2人逮捕",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600058?source=rss",
-        "publishedAt": "2026-10-25T06:30:23.000Z"
       }
     ],
     "subsidyHeadlines": [
