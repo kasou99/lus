@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-25T13:38:28.209Z",
+  "updatedAt": "2026-10-25T14:15:01.847Z",
   "items": [
     {
-      "time": "20:51",
-      "title": "不正アクセス 官邸主導で対策急ぐ",
+      "time": "22:45",
+      "title": "台風30号は温帯低気圧に 大雨警戒",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600103?source=rss",
-      "publishedAt": "2026-10-25T11:51:41.000Z",
-      "xQuery": "不正アクセス 官邸主導で対策急ぐ"
+      "url": "https://news.yahoo.co.jp/pickup/6600115?source=rss",
+      "publishedAt": "2026-10-25T13:45:25.000Z",
+      "xQuery": "台風30号は温帯低気圧に 大雨警戒"
     },
     {
-      "time": "20:05",
-      "title": "内閣支持率45%で横ばい 毎日調査",
+      "time": "22:21",
+      "title": "ドコモ 「エリアメール」完全再開",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600099?source=rss",
-      "publishedAt": "2026-10-25T11:05:46.000Z",
-      "xQuery": "内閣支持率45%で横ばい 毎日調査"
+      "url": "https://news.yahoo.co.jp/pickup/6600114?source=rss",
+      "publishedAt": "2026-10-25T13:21:19.000Z",
+      "xQuery": "ドコモ 「エリアメール」完全再開"
     },
     {
       "time": "20:11",

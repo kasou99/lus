@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T13:38:27.275Z",
+  "updatedAt": "2026-10-25T14:15:00.928Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,18 +31,18 @@
         "publishedAt": "2026-10-24T17:15:27.000Z"
       },
       {
+        "time": "22:45",
+        "title": "AI投資に巨額マネー 実態と展望",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6600116?source=rss",
+        "publishedAt": "2026-10-25T13:45:23.000Z"
+      },
+      {
         "time": "12:30",
         "title": "10月FOMCは金利据え置きか 焦点",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6600038?source=rss",
         "publishedAt": "2026-10-25T03:30:33.000Z"
-      },
-      {
-        "time": "17:26",
-        "title": "OKURA不適切還付 追徴額5.8億円",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599952?source=rss",
-        "publishedAt": "2026-10-24T08:26:48.000Z"
       },
       {
         "time": "16:17",
@@ -105,18 +105,18 @@
     ],
     "economyHeadlines": [
       {
+        "time": "22:45",
+        "title": "AI投資に巨額マネー 実態と展望",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6600116?source=rss",
+        "publishedAt": "2026-10-25T13:45:23.000Z"
+      },
+      {
         "time": "12:30",
         "title": "10月FOMCは金利据え置きか 焦点",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6600038?source=rss",
         "publishedAt": "2026-10-25T03:30:33.000Z"
-      },
-      {
-        "time": "17:26",
-        "title": "OKURA不適切還付 追徴額5.8億円",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599952?source=rss",
-        "publishedAt": "2026-10-24T08:26:48.000Z"
       },
       {
         "time": "16:17",
