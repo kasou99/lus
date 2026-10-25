@@ -1,29 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-25T08:43:24.479Z",
+  "updatedAt": "2026-10-25T09:16:40.186Z",
   "items": [
     {
-      "time": "14:15",
-      "title": "近畿で非常に激しい雨 26日も警戒",
+      "time": "17:39",
+      "title": "台風30号 弱まりながら九州接近へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600051?source=rss",
-      "publishedAt": "2026-10-25T05:15:44.000Z",
-      "xQuery": "近畿で非常に激しい雨 26日も警戒"
+      "url": "https://news.yahoo.co.jp/pickup/6600076?source=rss",
+      "publishedAt": "2026-10-25T08:39:11.000Z",
+      "xQuery": "台風30号 弱まりながら九州接近へ"
     },
     {
-      "time": "15:32",
-      "title": "衆院議席減案 国民民主の賛否焦点",
+      "time": "16:44",
+      "title": "断水で透析危機 被災病院の現実",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600059?source=rss",
-      "publishedAt": "2026-10-25T06:32:24.000Z",
-      "xQuery": "衆院議席減案 国民民主の賛否焦点"
-    },
-    {
-      "time": "15:13",
-      "title": "那覇市の女性強殺事件 米兵を起訴",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600057?source=rss",
-      "publishedAt": "2026-10-25T06:13:16.000Z",
-      "xQuery": "那覇市の女性強殺事件 米兵を起訴"
+      "url": "https://news.yahoo.co.jp/pickup/6600072?source=rss",
+      "publishedAt": "2026-10-25T07:44:16.000Z",
+      "xQuery": "断水で透析危機 被災病院の現実"
     },
     {
       "time": "15:30",
@@ -32,6 +24,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6600058?source=rss",
       "publishedAt": "2026-10-25T06:30:23.000Z",
       "xQuery": "和菓子店主殺害 強殺疑い2人逮捕"
+    },
+    {
+      "time": "15:06",
+      "title": "有毒植物誤食 AI判定も過信は禁物",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6600056?source=rss",
+      "publishedAt": "2026-10-25T06:06:37.000Z",
+      "xQuery": "有毒植物誤食 AI判定も過信は禁物"
     },
     {
       "time": "16:17",
