@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-25T23:14:23.929Z",
+  "updatedAt": "2026-10-25T23:36:46.875Z",
   "items": [
     {
       "time": "06:45",
@@ -8,14 +8,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6600128?source=rss",
       "publishedAt": "2026-10-25T21:45:08.000Z",
       "xQuery": "関東-九州激しい雨 夜にピークも"
-    },
-    {
-      "time": "07:36",
-      "title": "男性死亡 台風接近前に船を見に",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600133?source=rss",
-      "publishedAt": "2026-10-25T22:36:09.000Z",
-      "xQuery": "男性死亡 台風接近前に船を見に"
     },
     {
       "time": "07:57",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6600127?source=rss",
       "publishedAt": "2026-10-25T21:26:47.000Z",
       "xQuery": "チャイルドシートの義務拡大 検討"
+    },
+    {
+      "time": "08:02",
+      "title": "コニカミノルタ「社内副業」狙い",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6600138?source=rss",
+      "publishedAt": "2026-10-25T23:02:18.000Z",
+      "xQuery": "コニカミノルタ「社内副業」狙い"
     }
   ]
 };

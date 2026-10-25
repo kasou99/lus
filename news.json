@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-10-25T23:14:22.792Z",
+  "updatedAt": "2026-10-25T23:36:46.138Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "07:45",
+        "title": "DMG森精機が新たなガントリーローダ 加工機上部を駆け、段取り替えも対応：工作機械",
+        "source": "MONOist",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9Ha0NzUEJXSjN3WDBYQnNhQXE5VjFxYWZ5ZTQ4SmhrMjh3VjdaMExyQV9fOXlTdldTNXBqa1E2MkFDbGp0ZklpYTd4ZzZFd2hhMkttdjZtbl9MWjFfLWpNYTJFbXhON2gtSVFOQ3pwQQ?oc=5",
+        "publishedAt": "2026-10-25T22:45:00.000Z"
+      },
       {
         "time": "07:00",
         "title": "三菱電機、フィジカルAIでヒューマノイドと工作機械が連携する自動化システムを開発",
@@ -24,13 +31,6 @@
         "publishedAt": "2026-10-25T20:00:00.000Z"
       },
       {
-        "time": "19:22",
-        "title": "電線の端材でストラップ制作 Ｍ．Ｓ．Ｅ．が商品化",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TOThSZjN5eER3TlU3MHo0RE9lLXdpRFVod2Mtams1bFZvcjBKQnpvSFYxMjJPYm5HZVd5RlhtcHlTN3R2OGdVLUs5THBCQVVCWEE?oc=5",
-        "publishedAt": "2026-10-25T10:22:59.000Z"
-      },
-      {
         "time": "05:02",
         "title": "深層断面／工作機械、受注残消化へ増産 生産能力向上が焦点 AI・半導体急伸に対応",
         "source": "日刊工業新聞",
@@ -45,18 +45,18 @@
         "publishedAt": "2026-10-25T20:00:00.000Z"
       },
       {
+        "time": "16:12",
+        "title": "【探訪ザ・カンパニー】オーザック（福山市）安全支えるワイヤ金具",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB2YnlPN09iTUcyOGNldkhrT1k5RzQ5M0pLNkE3NkV1YzJxUDFPam9xOTV6dFZva2ZrNHNxNkZIOGYxMXN6R1JyUHFIMXZIamRMT2c?oc=5",
+        "publishedAt": "2026-10-25T07:12:56.000Z"
+      },
+      {
         "time": "05:00",
         "title": "JIMTOFきょう開幕 AI・DXで製造業高度化",
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9GX3ZMLVN4WXRqV0gtLWVMdVJTMmx2MVpiM0hUa09JRnVGZFBTSWtHLXNiYVJta293T3RzZGJqWDBaZDl1UkRLeUVBay0tdklZMXZNdmlmckE?oc=5",
         "publishedAt": "2026-10-25T20:00:00.000Z"
-      },
-      {
-        "time": "22:45",
-        "title": "AI投資に巨額マネー 実態と展望",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600116?source=rss",
-        "publishedAt": "2026-10-25T13:45:23.000Z"
       }
     ],
     "worldHeadlines": [
@@ -66,13 +66,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6600041?source=rss",
         "publishedAt": "2026-10-25T03:52:30.000Z"
-      },
-      {
-        "time": "20:39",
-        "title": "中国で首相と会談 正恩氏日帰りか",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599971?source=rss",
-        "publishedAt": "2026-10-24T11:39:51.000Z"
       },
       {
         "time": "11:24",
@@ -89,11 +82,11 @@
         "publishedAt": "2026-10-24T23:20:04.000Z"
       },
       {
-        "time": "08:58",
-        "title": "ブラジル大統領選の決選 接戦予想",
+        "time": "08:22",
+        "title": "平和賞マチャド氏 ベネズエラ帰国",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600005?source=rss",
-        "publishedAt": "2026-10-24T23:58:07.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6600141?source=rss",
+        "publishedAt": "2026-10-25T23:22:57.000Z"
       },
       {
         "time": "18:23",
@@ -101,6 +94,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6600082?source=rss",
         "publishedAt": "2026-10-25T09:23:57.000Z"
+      },
+      {
+        "time": "08:30",
+        "title": "英のジャガイモ生産 害虫で危機",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6600140?source=rss",
+        "publishedAt": "2026-10-25T23:30:57.000Z"
       }
     ],
     "economyHeadlines": [
