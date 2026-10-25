@@ -1,14 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-25T04:43:54.387Z",
+  "updatedAt": "2026-10-25T05:16:17.000Z",
   "items": [
-    {
-      "time": "11:21",
-      "title": "和歌山北部 線状降水帯の直前予測",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600031?source=rss",
-      "publishedAt": "2026-10-25T02:21:25.000Z",
-      "xQuery": "和歌山北部 線状降水帯の直前予測"
-    },
     {
       "time": "12:30",
       "title": "10月FOMCは金利据え置きか 焦点",
@@ -26,20 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "オバマ氏 トランプ政権を痛烈批判"
     },
     {
-      "time": "12:20",
-      "title": "14歳で美容整形 心ない言葉で決意",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600039?source=rss",
-      "publishedAt": "2026-10-25T03:20:48.000Z",
-      "xQuery": "14歳で美容整形 心ない言葉で決意"
-    },
-    {
       "time": "12:27",
       "title": "AIに暴言を吐く行為 識者らの見解",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6600040?source=rss",
       "publishedAt": "2026-10-25T03:27:26.000Z",
       "xQuery": "AIに暴言を吐く行為 識者らの見解"
+    },
+    {
+      "time": "11:39",
+      "title": "美容室の倒産高水準 競争で二極化",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6600033?source=rss",
+      "publishedAt": "2026-10-25T02:39:16.000Z",
+      "xQuery": "美容室の倒産高水準 競争で二極化"
+    },
+    {
+      "time": "13:43",
+      "title": "妊娠中にがん宣告 選択迫られた母",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6600042?source=rss",
+      "publishedAt": "2026-10-25T04:43:58.000Z",
+      "xQuery": "妊娠中にがん宣告 選択迫られた母"
     }
   ]
 };
