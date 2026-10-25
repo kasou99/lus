@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-25T09:39:53.913Z",
+  "updatedAt": "2026-10-25T10:15:28.867Z",
   "items": [
     {
       "time": "17:39",
@@ -18,6 +18,14 @@ window.LUS_X_NEWS = {
       "xQuery": "断水で透析危機 被災病院の現実"
     },
     {
+      "time": "19:03",
+      "title": "2家族8人乗る車横転 20代の母死亡",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6600091?source=rss",
+      "publishedAt": "2026-10-25T10:03:42.000Z",
+      "xQuery": "2家族8人乗る車横転 20代の母死亡"
+    },
+    {
       "time": "17:57",
       "title": "ハロウィンイベで突風 乳児らけが",
       "source": "Yahoo!ニュース",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6600083?source=rss",
       "publishedAt": "2026-10-25T09:20:38.000Z",
       "xQuery": "北の韓国侵攻描くゲーム話題 韓国"
-    },
-    {
-      "time": "16:17",
-      "title": "Suicaペンギンなぜ「卒業」解説",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600063?source=rss",
-      "publishedAt": "2026-10-25T07:17:05.000Z",
-      "xQuery": "Suicaペンギンなぜ「卒業」解説"
     }
   ]
 };
