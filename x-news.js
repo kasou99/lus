@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-25T22:37:27.063Z",
+  "updatedAt": "2026-10-25T23:14:23.929Z",
   "items": [
     {
       "time": "06:45",
@@ -10,12 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "関東-九州激しい雨 夜にピークも"
     },
     {
-      "time": "06:58",
-      "title": "次の首相「高市氏」27% 毎日調査",
+      "time": "07:36",
+      "title": "男性死亡 台風接近前に船を見に",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600130?source=rss",
-      "publishedAt": "2026-10-25T21:58:20.000Z",
-      "xQuery": "次の首相「高市氏」27% 毎日調査"
+      "url": "https://news.yahoo.co.jp/pickup/6600133?source=rss",
+      "publishedAt": "2026-10-25T22:36:09.000Z",
+      "xQuery": "男性死亡 台風接近前に船を見に"
+    },
+    {
+      "time": "07:57",
+      "title": "女性殺害 米兵関与一部ほのめかす",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6600136?source=rss",
+      "publishedAt": "2026-10-25T22:57:27.000Z",
+      "xQuery": "女性殺害 米兵関与一部ほのめかす"
     },
     {
       "time": "07:26",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6600127?source=rss",
       "publishedAt": "2026-10-25T21:26:47.000Z",
       "xQuery": "チャイルドシートの義務拡大 検討"
-    },
-    {
-      "time": "19:03",
-      "title": "2家族8人乗る車横転 20代の母死亡",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600091?source=rss",
-      "publishedAt": "2026-10-25T10:03:42.000Z",
-      "xQuery": "2家族8人乗る車横転 20代の母死亡"
     }
   ]
 };
