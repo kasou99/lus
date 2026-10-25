@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-25T10:15:28.867Z",
+  "updatedAt": "2026-10-25T10:39:00.380Z",
   "items": [
     {
-      "time": "17:39",
-      "title": "台風30号 弱まりながら九州接近へ",
+      "time": "19:22",
+      "title": "台風 温帯低気圧になっても警戒を",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600076?source=rss",
-      "publishedAt": "2026-10-25T08:39:11.000Z",
-      "xQuery": "台風30号 弱まりながら九州接近へ"
+      "url": "https://news.yahoo.co.jp/pickup/6600093?source=rss",
+      "publishedAt": "2026-10-25T10:22:34.000Z",
+      "xQuery": "台風 温帯低気圧になっても警戒を"
     },
     {
       "time": "16:44",
