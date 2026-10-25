@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-25T13:13:52.914Z",
+  "updatedAt": "2026-10-25T13:38:28.209Z",
   "items": [
     {
       "time": "20:51",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "イオン爆発犠牲者7人 南側で発見"
     },
     {
-      "time": "19:03",
-      "title": "2家族8人乗る車横転 20代の母死亡",
+      "time": "21:50",
+      "title": "枝切りばさみで殺害疑い 男再逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600091?source=rss",
-      "publishedAt": "2026-10-25T10:03:42.000Z",
-      "xQuery": "2家族8人乗る車横転 20代の母死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6600111?source=rss",
+      "publishedAt": "2026-10-25T12:50:52.000Z",
+      "xQuery": "枝切りばさみで殺害疑い 男再逮捕"
     },
     {
       "time": "21:17",
