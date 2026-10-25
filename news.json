@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T23:36:29.096Z",
+  "updatedAt": "2026-10-25T00:49:45.277Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -45,18 +45,18 @@
         "publishedAt": "2026-10-24T15:03:04.000Z"
       },
       {
+        "time": "18:48",
+        "title": "オムロンのスマート・パワーサプライS8AS2、2026年度グッドデザイン賞受賞",
+        "source": "Dellows News",
+        "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE43WjBlSUdLQ20tbWRsMnUyalFjb09JRmZWMjVldDU4LUYtMkhxcDF0cFkyLXNKeWxJRG1NdnNISXRoS2Zqamc?oc=5",
+        "publishedAt": "2026-10-24T09:48:00.000Z"
+      },
+      {
         "time": "10:03",
         "title": "ABEJA、ヤマザキマザックと製造現場のフィジカルAI実装に向けた業務連携を開始",
         "source": "Dellows News",
         "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBuVTdSV2NaZW9vMFZZN2lCWm1WZVdSX1FRTE1nSGlWOG5LLTRyMUY3R2pjMXktaDdLSGw0OUlydFBHT0MzbUE?oc=5",
         "publishedAt": "2026-10-24T01:03:12.000Z"
-      },
-      {
-        "time": "09:07",
-        "title": "裁量労働制 乱用防止へ労使が一致",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599894?source=rss",
-        "publishedAt": "2026-10-24T00:07:48.000Z"
       }
     ],
     "worldHeadlines": [
@@ -82,6 +82,13 @@
         "publishedAt": "2026-10-24T23:20:04.000Z"
       },
       {
+        "time": "08:58",
+        "title": "ブラジル大統領選の決選 接戦予想",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6600005?source=rss",
+        "publishedAt": "2026-10-24T23:58:07.000Z"
+      },
+      {
         "time": "13:50",
         "title": "露は「人質外交」解放の米紙記者",
         "source": "Yahoo!ニュース",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6599972?source=rss",
         "publishedAt": "2026-10-24T12:02:23.000Z"
-      },
-      {
-        "time": "21:41",
-        "title": "ウ側 スターシールド接続復旧発表",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599978?source=rss",
-        "publishedAt": "2026-10-24T12:41:44.000Z"
       }
     ],
     "economyHeadlines": [
@@ -149,18 +149,18 @@
     ],
     "localHeadlines": [
       {
-        "time": "12:34",
-        "title": "車で女性遺体運んだ疑い 男を逮捕",
+        "time": "08:41",
+        "title": "斧で殴打し殺人未遂疑い 男を逮捕",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599920?source=rss",
-        "publishedAt": "2026-10-24T03:34:42.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6600007?source=rss",
+        "publishedAt": "2026-10-24T23:41:55.000Z"
       },
       {
-        "time": "08:07",
-        "title": "県立高で威圧的指導か 精神疾患に",
+        "time": "09:24",
+        "title": "北九州で女性刺されけが 男が逃走",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599889?source=rss",
-        "publishedAt": "2026-10-23T23:07:02.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6600016?source=rss",
+        "publishedAt": "2026-10-25T00:24:06.000Z"
       },
       {
         "time": "16:36",
@@ -184,11 +184,11 @@
         "publishedAt": "2026-10-24T06:24:44.000Z"
       },
       {
-        "time": "09:37",
-        "title": "9日間に3回 小学校給食に異物混入",
+        "time": "09:13",
+        "title": "モスク放火の罪 法廷で語った後悔",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599898?source=rss",
-        "publishedAt": "2026-10-24T00:37:44.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6600013?source=rss",
+        "publishedAt": "2026-10-25T00:13:46.000Z"
       }
     ],
     "subsidyHeadlines": [

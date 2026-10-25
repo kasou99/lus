@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-24T23:36:29.869Z",
+  "updatedAt": "2026-10-25T00:49:45.869Z",
   "items": [
     {
       "time": "07:35",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "台風 26日にかけ警報級の大雨恐れ"
     },
     {
-      "time": "07:52",
-      "title": "「軍民両用」産業育成へ 年内策定",
+      "time": "08:20",
+      "title": "フランス全土でデモ再び 厳戒態勢",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599997?source=rss",
-      "publishedAt": "2026-10-24T22:52:05.000Z",
-      "xQuery": "「軍民両用」産業育成へ 年内策定"
+      "url": "https://news.yahoo.co.jp/pickup/6600002?source=rss",
+      "publishedAt": "2026-10-24T23:20:04.000Z",
+      "xQuery": "フランス全土でデモ再び 厳戒態勢"
     },
     {
       "time": "07:27",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "GMO不正接続 一瞬で119万円消失"
     },
     {
-      "time": "23:54",
-      "title": "放獣したツキノワグマが再び出没",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599990?source=rss",
-      "publishedAt": "2026-10-24T14:54:37.000Z",
-      "xQuery": "放獣したツキノワグマが再び出没"
-    },
-    {
       "time": "07:48",
       "title": "「Used in Japan」世界注目 なぜ",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6599996?source=rss",
       "publishedAt": "2026-10-24T22:48:39.000Z",
       "xQuery": "「Used in Japan」世界注目 なぜ"
+    },
+    {
+      "time": "09:24",
+      "title": "北九州で女性刺されけが 男が逃走",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6600016?source=rss",
+      "publishedAt": "2026-10-25T00:24:06.000Z",
+      "xQuery": "北九州で女性刺されけが 男が逃走"
     }
   ]
 };
