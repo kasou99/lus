@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-25T02:25:03.657Z",
+  "updatedAt": "2026-10-25T02:46:29.349Z",
   "items": [
     {
       "time": "11:15",
@@ -18,20 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "和歌山北部 線状降水帯の直前予測"
     },
     {
-      "time": "08:00",
-      "title": "認知症高齢者狙う悪質商法 深刻化",
+      "time": "11:24",
+      "title": "オバマ氏 トランプ政権を痛烈批判",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599999?source=rss",
-      "publishedAt": "2026-10-24T23:00:44.000Z",
-      "xQuery": "認知症高齢者狙う悪質商法 深刻化"
-    },
-    {
-      "time": "07:27",
-      "title": "GMO不正接続 一瞬で119万円消失",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6599992?source=rss",
-      "publishedAt": "2026-10-24T22:27:48.000Z",
-      "xQuery": "GMO不正接続 一瞬で119万円消失"
+      "url": "https://news.yahoo.co.jp/pickup/6600025?source=rss",
+      "publishedAt": "2026-10-25T02:24:45.000Z",
+      "xQuery": "オバマ氏 トランプ政権を痛烈批判"
     },
     {
       "time": "10:07",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6600022?source=rss",
       "publishedAt": "2026-10-25T01:07:56.000Z",
       "xQuery": "3歳娘殺害された母 自分恨む命日"
+    },
+    {
+      "time": "10:04",
+      "title": "スズメバチを捕食? ヒヨドリとは",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6600019?source=rss",
+      "publishedAt": "2026-10-25T01:04:34.000Z",
+      "xQuery": "スズメバチを捕食? ヒヨドリとは"
     }
   ]
 };

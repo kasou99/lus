@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T02:25:02.913Z",
+  "updatedAt": "2026-10-25T02:46:28.486Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,11 +38,11 @@
         "publishedAt": "2026-10-24T15:03:04.000Z"
       },
       {
-        "time": "02:15",
-        "title": "M2Xが東京海上HDと業務提携 東京海上日動から出資受け入れ",
+        "time": "18:48",
+        "title": "オムロンのスマート・パワーサプライS8AS2、2026年度グッドデザイン賞受賞",
         "source": "Dellows News",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5xN3ZkR3FXLWJEYTRDYTFqWVdtTmlOOVV6dzNiYnl4UHBYRlVjQVlrX3Z3MV9POE44Zld5ZXQ5WU1Hc21uMUxyem56ZTFxNE9TMk1PM21GeE5LZldPcWR1dF9jRkwwZjJu?oc=5",
-        "publishedAt": "2026-10-24T17:15:27.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE43WjBlSUdLQ20tbWRsMnUyalFjb09JRmZWMjVldDU4LUYtMkhxcDF0cFkyLXNKeWxJRG1NdnNISXRoS2Zqamc?oc=5",
+        "publishedAt": "2026-10-24T09:48:00.000Z"
       },
       {
         "time": "09:07",
@@ -52,11 +52,11 @@
         "publishedAt": "2026-10-24T00:07:48.000Z"
       },
       {
-        "time": "21:58",
-        "title": "タイムズカー情報流出 集団訴訟へ",
+        "time": "17:26",
+        "title": "OKURA不適切還付 追徴額5.8億円",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599864?source=rss",
-        "publishedAt": "2026-10-23T12:58:20.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6599952?source=rss",
+        "publishedAt": "2026-10-24T08:26:48.000Z"
       }
     ],
     "worldHeadlines": [
@@ -73,6 +73,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6599942?source=rss",
         "publishedAt": "2026-10-24T07:12:35.000Z"
+      },
+      {
+        "time": "11:24",
+        "title": "オバマ氏 トランプ政権を痛烈批判",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6600025?source=rss",
+        "publishedAt": "2026-10-25T02:24:45.000Z"
       },
       {
         "time": "08:20",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6599926?source=rss",
         "publishedAt": "2026-10-24T04:50:28.000Z"
-      },
-      {
-        "time": "21:02",
-        "title": "モンゴル火災 当局が賠償請求検討",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599972?source=rss",
-        "publishedAt": "2026-10-24T12:02:23.000Z"
       }
     ],
     "economyHeadlines": [
@@ -110,13 +110,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6599894?source=rss",
         "publishedAt": "2026-10-24T00:07:48.000Z"
-      },
-      {
-        "time": "21:58",
-        "title": "タイムズカー情報流出 集団訴訟へ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599864?source=rss",
-        "publishedAt": "2026-10-23T12:58:20.000Z"
       },
       {
         "time": "17:26",
@@ -131,6 +124,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6599969?source=rss",
         "publishedAt": "2026-10-24T11:34:14.000Z"
+      },
+      {
+        "time": "11:39",
+        "title": "美容室の倒産高水準 競争で二極化",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6600033?source=rss",
+        "publishedAt": "2026-10-25T02:39:16.000Z"
       },
       {
         "time": "10:07",
