@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-25T03:47:48.458Z",
+  "updatedAt": "2026-10-25T04:19:09.945Z",
   "items": [
     {
       "time": "11:15",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "3歳娘殺害された母 自分恨む命日"
     },
     {
-      "time": "10:38",
-      "title": "就活セクハラ 法改正で何変わった",
+      "time": "12:20",
+      "title": "14歳で美容整形 心ない言葉で決意",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600023?source=rss",
-      "publishedAt": "2026-10-25T01:38:39.000Z",
-      "xQuery": "就活セクハラ 法改正で何変わった"
+      "url": "https://news.yahoo.co.jp/pickup/6600039?source=rss",
+      "publishedAt": "2026-10-25T03:20:48.000Z",
+      "xQuery": "14歳で美容整形 心ない言葉で決意"
     }
   ]
 };
