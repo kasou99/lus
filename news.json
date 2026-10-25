@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T14:38:35.533Z",
+  "updatedAt": "2026-10-25T15:14:34.791Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -22,13 +22,6 @@
         "source": "pando.life",
         "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1GcmFLN0xqQnhJQnhwQlFQZklLSnpvNHU2RjlFcFE2VXBXWVVVMGdxZm9HeUNxSHBkOVVDeTJWamJXWW9nRUcwMFN3?oc=5",
         "publishedAt": "2026-10-25T03:03:46.000Z"
-      },
-      {
-        "time": "00:03",
-        "title": "CNCサーキュラーソーの世界シェアと主要企業",
-        "source": "pando.life",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1eEhzR0VyNjRBWGltalFqcEplaWhBQWFKY0EyRlVheGlvVGZlaUxnd2Y1SGlMZmFuZ0tackM3aVlEcFRBVjdBM0V3?oc=5",
-        "publishedAt": "2026-10-24T15:03:04.000Z"
       },
       {
         "time": "02:15",
@@ -57,6 +50,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6600063?source=rss",
         "publishedAt": "2026-10-25T07:17:05.000Z"
+      },
+      {
+        "time": "20:34",
+        "title": "大阪IR ディーラー人材確保に課題",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6599969?source=rss",
+        "publishedAt": "2026-10-24T11:34:14.000Z"
       }
     ],
     "worldHeadlines": [
@@ -156,11 +156,11 @@
         "publishedAt": "2026-10-25T12:17:50.000Z"
       },
       {
-        "time": "20:17",
-        "title": "那覇市長選 現職知念氏が再選確実",
+        "time": "23:45",
+        "title": "那覇市長選 現職・知念氏が再選",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600101?source=rss",
-        "publishedAt": "2026-10-25T11:17:28.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6600124?source=rss",
+        "publishedAt": "2026-10-25T14:45:17.000Z"
       },
       {
         "time": "23:19",

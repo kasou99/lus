@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-25T14:38:36.355Z",
+  "updatedAt": "2026-10-25T15:14:35.604Z",
   "items": [
     {
       "time": "22:45",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "台風30号は温帯低気圧に 大雨警戒"
     },
     {
-      "time": "22:21",
-      "title": "ドコモ 「エリアメール」完全再開",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600114?source=rss",
-      "publishedAt": "2026-10-25T13:21:19.000Z",
-      "xQuery": "ドコモ 「エリアメール」完全再開"
-    },
-    {
       "time": "23:05",
       "title": "不正アクセス GMO代表が謝罪",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6600119?source=rss",
       "publishedAt": "2026-10-25T14:05:35.000Z",
       "xQuery": "不正アクセス GMO代表が謝罪"
+    },
+    {
+      "time": "22:45",
+      "title": "AI投資に巨額マネー 実態と展望",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6600116?source=rss",
+      "publishedAt": "2026-10-25T13:45:23.000Z",
+      "xQuery": "AI投資に巨額マネー 実態と展望"
     },
     {
       "time": "20:11",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "イオン爆発犠牲者7人 南側で発見"
     },
     {
-      "time": "21:17",
-      "title": "事故で脚切断 25歳諦めていた恋愛",
+      "time": "19:03",
+      "title": "2家族8人乗る車横転 20代の母死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600106?source=rss",
-      "publishedAt": "2026-10-25T12:17:50.000Z",
-      "xQuery": "事故で脚切断 25歳諦めていた恋愛"
+      "url": "https://news.yahoo.co.jp/pickup/6600091?source=rss",
+      "publishedAt": "2026-10-25T10:03:42.000Z",
+      "xQuery": "2家族8人乗る車横転 20代の母死亡"
     }
   ]
 };
