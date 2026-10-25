@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-25T07:40:57.346Z",
+  "updatedAt": "2026-10-25T08:21:04.698Z",
   "items": [
     {
       "time": "14:15",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "和菓子店主殺害 強殺疑い2人逮捕"
     },
     {
-      "time": "13:47",
-      "title": "床はう患者撮影し投稿 法的責任は",
+      "time": "16:17",
+      "title": "Suicaペンギンなぜ「卒業」解説",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600047?source=rss",
-      "publishedAt": "2026-10-25T04:47:17.000Z",
-      "xQuery": "床はう患者撮影し投稿 法的責任は"
+      "url": "https://news.yahoo.co.jp/pickup/6600063?source=rss",
+      "publishedAt": "2026-10-25T07:17:05.000Z",
+      "xQuery": "Suicaペンギンなぜ「卒業」解説"
     }
   ]
 };

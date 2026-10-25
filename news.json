@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T07:40:56.589Z",
+  "updatedAt": "2026-10-25T08:21:03.814Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "16:44",
+        "title": "断水で透析危機 被災病院の現実",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6600072?source=rss",
+        "publishedAt": "2026-10-25T07:44:16.000Z"
+      },
+      {
         "time": "15:13",
         "title": "那覇市の女性強殺事件 米兵を起訴",
         "source": "Yahoo!ニュース",
@@ -168,13 +175,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6600016?source=rss",
         "publishedAt": "2026-10-25T00:24:06.000Z"
-      },
-      {
-        "time": "08:41",
-        "title": "斧で殴打し殺人未遂疑い 男を逮捕",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600007?source=rss",
-        "publishedAt": "2026-10-24T23:41:55.000Z"
       },
       {
         "time": "10:07",
