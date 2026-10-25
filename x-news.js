@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-25T22:13:48.743Z",
+  "updatedAt": "2026-10-25T22:37:27.063Z",
   "items": [
     {
       "time": "06:45",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "次の首相「高市氏」27% 毎日調査"
     },
     {
-      "time": "23:05",
-      "title": "不正アクセス GMO代表が謝罪",
+      "time": "07:26",
+      "title": "和菓子店主殺害 逮捕知り遺族号泣",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600119?source=rss",
-      "publishedAt": "2026-10-25T14:05:35.000Z",
-      "xQuery": "不正アクセス GMO代表が謝罪"
+      "url": "https://news.yahoo.co.jp/pickup/6600132?source=rss",
+      "publishedAt": "2026-10-25T22:26:53.000Z",
+      "xQuery": "和菓子店主殺害 逮捕知り遺族号泣"
     },
     {
       "time": "06:26",

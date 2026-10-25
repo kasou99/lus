@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T22:13:47.882Z",
+  "updatedAt": "2026-10-25T22:37:26.460Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,13 +17,6 @@
         "publishedAt": "2026-10-25T22:00:00.000Z"
       },
       {
-        "time": "05:02",
-        "title": "深層断面／工作機械、受注残消化へ増産 生産能力向上が焦点 AI・半導体急伸に対応",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5pMEJNamhqYUZBUkJ0R0RxZ29KZ3FWQWtpRThSWVM4aVlQb0ZaSGJkdnVmTFFMemtpN0JSbG1YSUJWSnJSUHhXLTJENHF4SkhObXZkVw?oc=5",
-        "publishedAt": "2026-10-25T20:02:28.000Z"
-      },
-      {
         "time": "05:00",
         "title": "JIMTOF2026インタビュー／日本精工、THK",
         "source": "日刊工業新聞",
@@ -31,11 +24,11 @@
         "publishedAt": "2026-10-25T20:00:00.000Z"
       },
       {
-        "time": "05:00",
-        "title": "津根精機／丸鋸切断機モデルチェンジ／きょう発売／保守容易、生産効率１．５倍超",
-        "source": "日刊鉄鋼新聞 Japan Metal Daily",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5nTUNGbXZ6eWVEUjd3N3h4UFBaM0ItTVFxZERGQ3IwTzF3LWw4aUZlcGVOWTFhRnNmcWFyQUpMSElDYjNtMUlHZjUxV1lZWklKaGRXQzFCYXgxaTdJVUE?oc=5",
-        "publishedAt": "2026-10-25T20:00:00.000Z"
+        "time": "05:02",
+        "title": "深層断面／工作機械、受注残消化へ増産 生産能力向上が焦点 AI・半導体急伸に対応",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5pMEJNamhqYUZBUkJ0R0RxZ29KZ3FWQWtpRThSWVM4aVlQb0ZaSGJkdnVmTFFMemtpN0JSbG1YSUJWSnJSUHhXLTJENHF4SkhObXZkVw?oc=5",
+        "publishedAt": "2026-10-25T20:02:28.000Z"
       },
       {
         "time": "19:22",
@@ -43,6 +36,13 @@
         "source": "山陽新聞",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TOThSZjN5eER3TlU3MHo0RE9lLXdpRFVod2Mtams1bFZvcjBKQnpvSFYxMjJPYm5HZVd5RlhtcHlTN3R2OGdVLUs5THBCQVVCWEE?oc=5",
         "publishedAt": "2026-10-25T10:22:59.000Z"
+      },
+      {
+        "time": "05:00",
+        "title": "津根精機／丸鋸切断機モデルチェンジ／きょう発売／保守容易、生産効率１．５倍超",
+        "source": "日刊鉄鋼新聞 Japan Metal Daily",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5nTUNGbXZ6eWVEUjd3N3h4UFBaM0ItTVFxZERGQ3IwTzF3LWw4aUZlcGVOWTFhRnNmcWFyQUpMSElDYjNtMUlHZjUxV1lZWklKaGRXQzFCYXgxaTdJVUE?oc=5",
+        "publishedAt": "2026-10-25T20:00:00.000Z"
       },
       {
         "time": "05:00",
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "07:36",
+        "title": "男性死亡 台風接近前に船を見に",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6600133?source=rss",
+        "publishedAt": "2026-10-25T22:36:09.000Z"
+      },
+      {
         "time": "21:17",
         "title": "事故で脚切断 25歳諦めていた恋愛",
         "source": "Yahoo!ニュース",
@@ -163,11 +170,11 @@
         "publishedAt": "2026-10-25T14:45:17.000Z"
       },
       {
-        "time": "23:19",
-        "title": "福島知事選 現職・内堀氏が4選",
+        "time": "20:11",
+        "title": "イオン爆発犠牲者7人 南側で発見",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600121?source=rss",
-        "publishedAt": "2026-10-25T14:19:55.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6600100?source=rss",
+        "publishedAt": "2026-10-25T11:11:59.000Z"
       },
       {
         "time": "21:50",
@@ -177,18 +184,11 @@
         "publishedAt": "2026-10-25T12:50:52.000Z"
       },
       {
-        "time": "20:11",
-        "title": "イオン爆発犠牲者7人 南側で発見",
+        "time": "07:26",
+        "title": "和菓子店主殺害 逮捕知り遺族号泣",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600100?source=rss",
-        "publishedAt": "2026-10-25T11:11:59.000Z"
-      },
-      {
-        "time": "16:44",
-        "title": "断水で透析危機 被災病院の現実",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600072?source=rss",
-        "publishedAt": "2026-10-25T07:44:16.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6600132?source=rss",
+        "publishedAt": "2026-10-25T22:26:53.000Z"
       }
     ],
     "subsidyHeadlines": [
