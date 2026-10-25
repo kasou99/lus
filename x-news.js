@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-25T01:28:56.018Z",
+  "updatedAt": "2026-10-25T01:52:39.731Z",
   "items": [
     {
       "time": "07:35",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "北九州で女性刺されけが 男が逃走"
     },
     {
-      "time": "10:04",
-      "title": "スズメバチを捕食? ヒヨドリとは",
+      "time": "10:07",
+      "title": "3歳娘殺害された母 自分恨む命日",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600019?source=rss",
-      "publishedAt": "2026-10-25T01:04:34.000Z",
-      "xQuery": "スズメバチを捕食? ヒヨドリとは"
+      "url": "https://news.yahoo.co.jp/pickup/6600022?source=rss",
+      "publishedAt": "2026-10-25T01:07:56.000Z",
+      "xQuery": "3歳娘殺害された母 自分恨む命日"
     }
   ]
 };
