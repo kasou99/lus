@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T10:38:59.844Z",
+  "updatedAt": "2026-10-25T11:13:43.678Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "19:39",
+        "title": "福島知事選 現職内堀氏が4選確実",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6600095?source=rss",
+        "publishedAt": "2026-10-25T10:39:16.000Z"
+      },
+      {
         "time": "16:44",
         "title": "断水で透析危機 被災病院の現実",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6600080?source=rss",
         "publishedAt": "2026-10-25T08:57:58.000Z"
-      },
-      {
-        "time": "10:07",
-        "title": "3歳娘殺害された母 自分恨む命日",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600022?source=rss",
-        "publishedAt": "2026-10-25T01:07:56.000Z"
       }
     ],
     "subsidyHeadlines": [

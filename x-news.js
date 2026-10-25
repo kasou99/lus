@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-25T10:39:00.380Z",
+  "updatedAt": "2026-10-25T11:13:44.233Z",
   "items": [
     {
-      "time": "19:22",
-      "title": "台風 温帯低気圧になっても警戒を",
+      "time": "14:22",
+      "title": "議員外交「潤滑油」の機能目立つ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600093?source=rss",
-      "publishedAt": "2026-10-25T10:22:34.000Z",
-      "xQuery": "台風 温帯低気圧になっても警戒を"
+      "url": "https://news.yahoo.co.jp/pickup/6600052?source=rss",
+      "publishedAt": "2026-10-25T05:22:23.000Z",
+      "xQuery": "議員外交「潤滑油」の機能目立つ"
     },
     {
-      "time": "16:44",
-      "title": "断水で透析危機 被災病院の現実",
+      "time": "18:23",
+      "title": "25日 鹿児島などで最も遅い真夏日",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600072?source=rss",
-      "publishedAt": "2026-10-25T07:44:16.000Z",
-      "xQuery": "断水で透析危機 被災病院の現実"
+      "url": "https://news.yahoo.co.jp/pickup/6600084?source=rss",
+      "publishedAt": "2026-10-25T09:23:00.000Z",
+      "xQuery": "25日 鹿児島などで最も遅い真夏日"
     },
     {
       "time": "19:03",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "2家族8人乗る車横転 20代の母死亡"
     },
     {
-      "time": "17:57",
-      "title": "ハロウィンイベで突風 乳児らけが",
+      "time": "16:44",
+      "title": "脆弱性発見 混乱期の始まりと識者",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600080?source=rss",
-      "publishedAt": "2026-10-25T08:57:58.000Z",
-      "xQuery": "ハロウィンイベで突風 乳児らけが"
+      "url": "https://news.yahoo.co.jp/pickup/6600069?source=rss",
+      "publishedAt": "2026-10-25T07:44:14.000Z",
+      "xQuery": "脆弱性発見 混乱期の始まりと識者"
     },
     {
-      "time": "18:20",
-      "title": "北の韓国侵攻描くゲーム話題 韓国",
+      "time": "18:23",
+      "title": "NY大司教区 性的虐待で和解合意",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600083?source=rss",
-      "publishedAt": "2026-10-25T09:20:38.000Z",
-      "xQuery": "北の韓国侵攻描くゲーム話題 韓国"
+      "url": "https://news.yahoo.co.jp/pickup/6600082?source=rss",
+      "publishedAt": "2026-10-25T09:23:57.000Z",
+      "xQuery": "NY大司教区 性的虐待で和解合意"
     }
   ]
 };
