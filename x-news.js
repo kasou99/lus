@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-25T14:15:01.847Z",
+  "updatedAt": "2026-10-25T14:38:36.355Z",
   "items": [
     {
       "time": "22:45",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "ドコモ 「エリアメール」完全再開"
     },
     {
+      "time": "23:05",
+      "title": "不正アクセス GMO代表が謝罪",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6600119?source=rss",
+      "publishedAt": "2026-10-25T14:05:35.000Z",
+      "xQuery": "不正アクセス GMO代表が謝罪"
+    },
+    {
       "time": "20:11",
       "title": "イオン爆発犠牲者7人 南側で発見",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6600100?source=rss",
       "publishedAt": "2026-10-25T11:11:59.000Z",
       "xQuery": "イオン爆発犠牲者7人 南側で発見"
-    },
-    {
-      "time": "21:50",
-      "title": "枝切りばさみで殺害疑い 男再逮捕",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600111?source=rss",
-      "publishedAt": "2026-10-25T12:50:52.000Z",
-      "xQuery": "枝切りばさみで殺害疑い 男再逮捕"
     },
     {
       "time": "21:17",

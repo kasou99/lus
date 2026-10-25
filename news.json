@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T14:15:00.928Z",
+  "updatedAt": "2026-10-25T14:38:35.533Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -8,6 +8,13 @@
         "source": "ビジネス+IT",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4zOVZGQm9lU3huODVyYkRjRUo2YlltZWhVNHlEMkI4VVd3T1dIRndZZEpMOWk5ZnZwYlVNZnRlWFdGYndDaFczSVBZSG5SZ1U?oc=5",
         "publishedAt": "2026-10-24T21:50:00.000Z"
+      },
+      {
+        "time": "19:22",
+        "title": "電線の端材でストラップ制作 Ｍ．Ｓ．Ｅ．が商品化",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TOThSZjN5eER3TlU3MHo0RE9lLXdpRFVod2Mtams1bFZvcjBKQnpvSFYxMjJPYm5HZVd5RlhtcHlTN3R2OGdVLUs5THBCQVVCWEE?oc=5",
+        "publishedAt": "2026-10-25T10:22:59.000Z"
       },
       {
         "time": "12:03",
@@ -50,13 +57,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6600063?source=rss",
         "publishedAt": "2026-10-25T07:17:05.000Z"
-      },
-      {
-        "time": "20:34",
-        "title": "大阪IR ディーラー人材確保に課題",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599969?source=rss",
-        "publishedAt": "2026-10-24T11:34:14.000Z"
       }
     ],
     "worldHeadlines": [
@@ -163,11 +163,11 @@
         "publishedAt": "2026-10-25T11:17:28.000Z"
       },
       {
-        "time": "19:39",
-        "title": "福島知事選 現職内堀氏が4選確実",
+        "time": "23:19",
+        "title": "福島知事選 現職・内堀氏が4選",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600095?source=rss",
-        "publishedAt": "2026-10-25T10:39:16.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6600121?source=rss",
+        "publishedAt": "2026-10-25T14:19:55.000Z"
       },
       {
         "time": "21:50",
