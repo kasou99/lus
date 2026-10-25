@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T04:19:09.176Z",
+  "updatedAt": "2026-10-25T04:43:53.649Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -45,18 +45,18 @@
         "publishedAt": "2026-10-24T17:15:27.000Z"
       },
       {
-        "time": "18:48",
-        "title": "オムロンのスマート・パワーサプライS8AS2、2026年度グッドデザイン賞受賞",
-        "source": "Dellows News",
-        "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE43WjBlSUdLQ20tbWRsMnUyalFjb09JRmZWMjVldDU4LUYtMkhxcDF0cFkyLXNKeWxJRG1NdnNISXRoS2Zqamc?oc=5",
-        "publishedAt": "2026-10-24T09:48:00.000Z"
-      },
-      {
         "time": "12:30",
         "title": "10月FOMCは金利据え置きか 焦点",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6600038?source=rss",
         "publishedAt": "2026-10-25T03:30:33.000Z"
+      },
+      {
+        "time": "17:26",
+        "title": "OKURA不適切還付 追徴額5.8億円",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6599952?source=rss",
+        "publishedAt": "2026-10-24T08:26:48.000Z"
       }
     ],
     "worldHeadlines": [

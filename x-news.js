@@ -1,14 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-25T04:19:09.945Z",
+  "updatedAt": "2026-10-25T04:43:54.387Z",
   "items": [
-    {
-      "time": "11:15",
-      "title": "台風 土砂災害や低地の浸水に警戒",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600030?source=rss",
-      "publishedAt": "2026-10-25T02:15:30.000Z",
-      "xQuery": "台風 土砂災害や低地の浸水に警戒"
-    },
     {
       "time": "11:21",
       "title": "和歌山北部 線状降水帯の直前予測",
@@ -16,6 +8,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6600031?source=rss",
       "publishedAt": "2026-10-25T02:21:25.000Z",
       "xQuery": "和歌山北部 線状降水帯の直前予測"
+    },
+    {
+      "time": "12:30",
+      "title": "10月FOMCは金利据え置きか 焦点",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6600038?source=rss",
+      "publishedAt": "2026-10-25T03:30:33.000Z",
+      "xQuery": "10月FOMCは金利据え置きか 焦点"
     },
     {
       "time": "11:24",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "オバマ氏 トランプ政権を痛烈批判"
     },
     {
-      "time": "10:07",
-      "title": "3歳娘殺害された母 自分恨む命日",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600022?source=rss",
-      "publishedAt": "2026-10-25T01:07:56.000Z",
-      "xQuery": "3歳娘殺害された母 自分恨む命日"
-    },
-    {
       "time": "12:20",
       "title": "14歳で美容整形 心ない言葉で決意",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6600039?source=rss",
       "publishedAt": "2026-10-25T03:20:48.000Z",
       "xQuery": "14歳で美容整形 心ない言葉で決意"
+    },
+    {
+      "time": "12:27",
+      "title": "AIに暴言を吐く行為 識者らの見解",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6600040?source=rss",
+      "publishedAt": "2026-10-25T03:27:26.000Z",
+      "xQuery": "AIに暴言を吐く行為 識者らの見解"
     }
   ]
 };
