@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-25T09:16:40.186Z",
+  "updatedAt": "2026-10-25T09:39:53.913Z",
   "items": [
     {
       "time": "17:39",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "断水で透析危機 被災病院の現実"
     },
     {
-      "time": "15:30",
-      "title": "和菓子店主殺害 強殺疑い2人逮捕",
+      "time": "17:57",
+      "title": "ハロウィンイベで突風 乳児らけが",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600058?source=rss",
-      "publishedAt": "2026-10-25T06:30:23.000Z",
-      "xQuery": "和菓子店主殺害 強殺疑い2人逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6600080?source=rss",
+      "publishedAt": "2026-10-25T08:57:58.000Z",
+      "xQuery": "ハロウィンイベで突風 乳児らけが"
     },
     {
-      "time": "15:06",
-      "title": "有毒植物誤食 AI判定も過信は禁物",
+      "time": "18:20",
+      "title": "北の韓国侵攻描くゲーム話題 韓国",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600056?source=rss",
-      "publishedAt": "2026-10-25T06:06:37.000Z",
-      "xQuery": "有毒植物誤食 AI判定も過信は禁物"
+      "url": "https://news.yahoo.co.jp/pickup/6600083?source=rss",
+      "publishedAt": "2026-10-25T09:20:38.000Z",
+      "xQuery": "北の韓国侵攻描くゲーム話題 韓国"
     },
     {
       "time": "16:17",

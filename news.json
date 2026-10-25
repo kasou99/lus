@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T09:16:39.480Z",
+  "updatedAt": "2026-10-25T09:39:53.104Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -22,13 +22,6 @@
         "source": "pando.life",
         "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1eEhzR0VyNjRBWGltalFqcEplaWhBQWFKY0EyRlVheGlvVGZlaUxnd2Y1SGlMZmFuZ0tackM3aVlEcFRBVjdBM0V3?oc=5",
         "publishedAt": "2026-10-24T15:03:04.000Z"
-      },
-      {
-        "time": "02:15",
-        "title": "M2Xが東京海上HDと業務提携 東京海上日動から出資受け入れ",
-        "source": "Dellows News",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5xN3ZkR3FXLWJEYTRDYTFqWVdtTmlOOVV6dzNiYnl4UHBYRlVjQVlrX3Z3MV9POE44Zld5ZXQ5WU1Hc21uMUxyem56ZTFxNE9TMk1PM21GeE5LZldPcWR1dF9jRkwwZjJu?oc=5",
-        "publishedAt": "2026-10-24T17:15:27.000Z"
       },
       {
         "time": "18:48",
@@ -57,6 +50,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6600063?source=rss",
         "publishedAt": "2026-10-25T07:17:05.000Z"
+      },
+      {
+        "time": "20:34",
+        "title": "大阪IR ディーラー人材確保に課題",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6599969?source=rss",
+        "publishedAt": "2026-10-24T11:34:14.000Z"
       }
     ],
     "worldHeadlines": [
@@ -96,11 +96,11 @@
         "publishedAt": "2026-10-24T23:58:07.000Z"
       },
       {
-        "time": "13:50",
-        "title": "露は「人質外交」解放の米紙記者",
+        "time": "18:23",
+        "title": "NY大司教区 性的虐待で和解合意",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6599926?source=rss",
-        "publishedAt": "2026-10-24T04:50:28.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6600082?source=rss",
+        "publishedAt": "2026-10-25T09:23:57.000Z"
       }
     ],
     "economyHeadlines": [
