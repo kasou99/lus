@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-26T22:41:58.233Z",
+  "updatedAt": "2026-10-26T23:14:37.968Z",
   "items": [
     {
       "time": "07:20",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "イスラエル総選挙 政権維持が焦点"
     },
     {
-      "time": "23:20",
-      "title": "露拘束の記者 大使館員が領事面会",
+      "time": "07:43",
+      "title": "米大統領 ブラジル大統領選は不正",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600239?source=rss",
-      "publishedAt": "2026-10-26T14:20:32.000Z",
-      "xQuery": "露拘束の記者 大使館員が領事面会"
+      "url": "https://news.yahoo.co.jp/pickup/6600251?source=rss",
+      "publishedAt": "2026-10-26T22:43:14.000Z",
+      "xQuery": "米大統領 ブラジル大統領選は不正"
     },
     {
       "time": "06:08",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "GMOに予告 正午に顧客情報公開"
     },
     {
-      "time": "23:08",
-      "title": "楽天トラベル 約260万件が流出か",
+      "time": "07:55",
+      "title": "油圧ショベルにひかれ作業員死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600238?source=rss",
-      "publishedAt": "2026-10-26T14:08:22.000Z",
-      "xQuery": "楽天トラベル 約260万件が流出か"
+      "url": "https://news.yahoo.co.jp/pickup/6600253?source=rss",
+      "publishedAt": "2026-10-26T22:55:01.000Z",
+      "xQuery": "油圧ショベルにひかれ作業員死亡"
     },
     {
-      "time": "07:27",
-      "title": "米MS 6万人に退職パッケージ提示",
+      "time": "06:58",
+      "title": "iPhone Duo画面不具合 交換対応",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600248?source=rss",
-      "publishedAt": "2026-10-26T22:27:23.000Z",
-      "xQuery": "米MS 6万人に退職パッケージ提示"
+      "url": "https://news.yahoo.co.jp/pickup/6600246?source=rss",
+      "publishedAt": "2026-10-26T21:58:24.000Z",
+      "xQuery": "iPhone Duo画面不具合 交換対応"
     }
   ]
 };

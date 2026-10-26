@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T22:41:57.318Z",
+  "updatedAt": "2026-10-26T23:14:37.105Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -15,13 +15,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5JT1BtZVFtVlFScElzTWJNNEJwVXY3YmdQQXRvNzIyZkNHd3B6VFhaRHJoOEViMEpMM0pINFNRWEFfSW85SHFDdmt6UEJpbENUQjlNcEdHaTRMR0dTVC00YU9JRGdGZWh1OFZLS3dRSm1CZG11ZlR1OUxKQ2VoMkU?oc=5",
         "publishedAt": "2026-10-26T20:22:56.000Z"
-      },
-      {
-        "time": "05:00",
-        "title": "工作機械、工程集約に重点 1台で複数加工",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1VOXRwVTFQbDRwanltTXB0ZUZhU0VMcEVwX0ZfZDdqSjZ2Y2JSS1UwdXozX2kxQTBQcGRRLWhmNnNidlJfcVZocGRKazdPNTZRcTBVOGduVHU?oc=5",
-        "publishedAt": "2026-10-26T20:00:00.000Z"
       },
       {
         "time": "05:00",
@@ -57,6 +50,13 @@
         "source": "MONOist",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBSLUdtdlAzTFJFRUliMTlQSjVIR0t4VmVhMkJUenkzalVzUFJ3bkh3M3dVMlVDYi11bXBtMXZ6SmxBb3dXSkMxbFl1bXRvRUEyNmJ2alNTaE9Pd3JTY2VWMmptcThSX0NxaTRyMTR4Zw?oc=5",
         "publishedAt": "2026-10-26T21:15:00.000Z"
+      },
+      {
+        "time": "20:34",
+        "title": "エンシュウと同社子会社が新製品を開発 工作機械見本市「ジムトフ」に出展：ニュース",
+        "source": "中日BIZナビ",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9RQVhIUEJ5MF9JVHZhSEVaVnBON3ozRm5ZTVE1LWNmZVc0Z0ZoaHM0LVBXRklJeU5CMUZrUDczRHhFRUF6enYtVXhtQ29zWHNqajhhcndGbjdZYmpoRTRN?oc=5",
+        "publishedAt": "2026-10-26T11:34:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -66,6 +66,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6600247?source=rss",
         "publishedAt": "2026-10-26T22:20:32.000Z"
+      },
+      {
+        "time": "07:43",
+        "title": "米大統領 ブラジル大統領選は不正",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6600251?source=rss",
+        "publishedAt": "2026-10-26T22:43:14.000Z"
       },
       {
         "time": "22:56",
@@ -87,13 +94,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6600183?source=rss",
         "publishedAt": "2026-10-26T05:26:54.000Z"
-      },
-      {
-        "time": "12:46",
-        "title": "SHEIN 米FTCと1億ドルで和解へ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600173?source=rss",
-        "publishedAt": "2026-10-26T03:46:53.000Z"
       },
       {
         "time": "11:14",
@@ -126,11 +126,18 @@
         "publishedAt": "2026-10-26T03:49:35.000Z"
       },
       {
-        "time": "13:29",
-        "title": "ドクターイエロー後継 客乗せ走行",
+        "time": "15:19",
+        "title": "温泉「無断持ち帰り」 若旦那困惑",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600178?source=rss",
-        "publishedAt": "2026-10-26T04:29:04.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6600187?source=rss",
+        "publishedAt": "2026-10-26T06:19:43.000Z"
+      },
+      {
+        "time": "07:58",
+        "title": "立ち飲み なぜ今若者に選ばれる",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6600252?source=rss",
+        "publishedAt": "2026-10-26T22:58:08.000Z"
       },
       {
         "time": "22:59",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6600237?source=rss",
         "publishedAt": "2026-10-26T13:59:07.000Z"
-      },
-      {
-        "time": "11:48",
-        "title": "ドトール なぜ安いのに過去最高益",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600163?source=rss",
-        "publishedAt": "2026-10-26T02:48:09.000Z"
       }
     ],
     "localHeadlines": [
@@ -161,6 +161,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6600223?source=rss",
         "publishedAt": "2026-10-26T10:48:48.000Z"
+      },
+      {
+        "time": "07:55",
+        "title": "油圧ショベルにひかれ作業員死亡",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6600253?source=rss",
+        "publishedAt": "2026-10-26T22:55:01.000Z"
       },
       {
         "time": "21:55",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6600210?source=rss",
         "publishedAt": "2026-10-26T09:00:54.000Z"
-      },
-      {
-        "time": "19:58",
-        "title": "クマ放獣も3日で街に戻る 課題は",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600225?source=rss",
-        "publishedAt": "2026-10-26T10:58:05.000Z"
       }
     ],
     "subsidyHeadlines": [
