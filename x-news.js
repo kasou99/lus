@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-25T23:36:46.875Z",
+  "updatedAt": "2026-10-26T00:48:17.980Z",
   "items": [
     {
-      "time": "06:45",
-      "title": "関東-九州激しい雨 夜にピークも",
+      "time": "09:35",
+      "title": "ブラジル大統領に現職ルラ氏再選",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600128?source=rss",
-      "publishedAt": "2026-10-25T21:45:08.000Z",
-      "xQuery": "関東-九州激しい雨 夜にピークも"
+      "url": "https://news.yahoo.co.jp/pickup/6600147?source=rss",
+      "publishedAt": "2026-10-26T00:35:29.000Z",
+      "xQuery": "ブラジル大統領に現職ルラ氏再選"
     },
     {
-      "time": "07:57",
-      "title": "女性殺害 米兵関与一部ほのめかす",
+      "time": "08:22",
+      "title": "平和賞マチャド氏 ベネズエラ帰国",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600136?source=rss",
-      "publishedAt": "2026-10-25T22:57:27.000Z",
-      "xQuery": "女性殺害 米兵関与一部ほのめかす"
+      "url": "https://news.yahoo.co.jp/pickup/6600141?source=rss",
+      "publishedAt": "2026-10-25T23:22:57.000Z",
+      "xQuery": "平和賞マチャド氏 ベネズエラ帰国"
     },
     {
       "time": "07:26",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "和菓子店主殺害 逮捕知り遺族号泣"
     },
     {
-      "time": "06:26",
-      "title": "チャイルドシートの義務拡大 検討",
+      "time": "09:27",
+      "title": "新局面 漏洩被害者に迫る「脅威」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600127?source=rss",
-      "publishedAt": "2026-10-25T21:26:47.000Z",
-      "xQuery": "チャイルドシートの義務拡大 検討"
+      "url": "https://news.yahoo.co.jp/pickup/6600145?source=rss",
+      "publishedAt": "2026-10-26T00:27:36.000Z",
+      "xQuery": "新局面 漏洩被害者に迫る「脅威」"
     },
     {
-      "time": "08:02",
-      "title": "コニカミノルタ「社内副業」狙い",
+      "time": "08:50",
+      "title": "電車が駅で140m過ぎて停車 戻らず",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600138?source=rss",
-      "publishedAt": "2026-10-25T23:02:18.000Z",
-      "xQuery": "コニカミノルタ「社内副業」狙い"
+      "url": "https://news.yahoo.co.jp/pickup/6600144?source=rss",
+      "publishedAt": "2026-10-25T23:50:31.000Z",
+      "xQuery": "電車が駅で140m過ぎて停車 戻らず"
     }
   ]
 };
