@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T01:32:09.195Z",
+  "updatedAt": "2026-10-26T02:28:49.436Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -10,18 +10,18 @@
         "publishedAt": "2026-10-25T20:00:00.000Z"
       },
       {
-        "time": "07:00",
-        "title": "三菱電機、フィジカルAIでヒューマノイドと工作機械が連携する自動化システムを開発",
-        "source": "ASCII.jp",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1qSnFUZDQ3U3ctT1AwRVhMUGZqWWRWT1RzSkVMZi1QLWt3SlZQaEw3c1dpdjBtamZyY0JZcDBBMmZDUGxES1NJOE9CS1RaaldYT29Fbw?oc=5",
-        "publishedAt": "2026-10-25T22:00:00.000Z"
-      },
-      {
         "time": "07:45",
         "title": "DMG森精機が新たなガントリーローダ 加工機上部を駆け、段取り替えも対応：工作機械",
         "source": "MONOist",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9Ha0NzUEJXSjN3WDBYQnNhQXE5VjFxYWZ5ZTQ4SmhrMjh3VjdaMExyQV9fOXlTdldTNXBqa1E2MkFDbGp0ZklpYTd4ZzZFd2hhMkttdjZtbl9MWjFfLWpNYTJFbXhON2gtSVFOQ3pwQQ?oc=5",
         "publishedAt": "2026-10-25T22:45:00.000Z"
+      },
+      {
+        "time": "07:00",
+        "title": "三菱電機、フィジカルAIでヒューマノイドと工作機械が連携する自動化システムを開発",
+        "source": "ASCII.jp",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1qSnFUZDQ3U3ctT1AwRVhMUGZqWWRWT1RzSkVMZi1QLWt3SlZQaEw3c1dpdjBtamZyY0JZcDBBMmZDUGxES1NJOE9CS1RaaldYT29Fbw?oc=5",
+        "publishedAt": "2026-10-25T22:00:00.000Z"
       },
       {
         "time": "09:45",
@@ -38,11 +38,18 @@
         "publishedAt": "2026-10-25T21:00:00.000Z"
       },
       {
-        "time": "08:32",
-        "title": "前場に注目すべき3つのポイント〜ファナック決算を受けたフィジカルAI関連株への物色に期待〜",
-        "source": "ｄメニューニュース",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNEpRRzFENGNpUnhrWHdrdDNVWnYzRGd0a1hVVnZEQXJvRW1WZDYwSWlUbTVfQXBueWVRbUkxRG5qWlJnd0V6VVRwR3NvU0I1SFVkQllSTlhKWXFoS0pJTHRVc0xGRmQyRlh4Z1B2T3R1Zkp0bkUyem9NVU9oYXZ6Q0xKcmtLQWxSMjRhR9IBjAFBVV95cUxQNEpRRzFENGNpUnhrWHdrdDNVWnYzRGd0a1hVVnZEQXJvRW1WZDYwSWlUbTVfQXBueWVRbUkxRG5qWlJnd0V6VVRwR3NvU0I1SFVkQllSTlhKWXFoS0pJTHRVc0xGRmQyRlh4Z1B2T3R1Zkp0bkUyem9NVU9oYXZ6Q0xKcmtLQWxSMjRhRw?oc=5",
-        "publishedAt": "2026-10-25T23:32:00.000Z"
+        "time": "10:57",
+        "title": "深層断面／工作機械、受注残消化へ増産 生産能力向上が焦点 AI・半導体急伸に対応",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5pMEJNamhqYUZBUkJ0R0RxZ29KZ3FWQWtpRThSWVM4aVlQb0ZaSGJkdnVmTFFMemtpN0JSbG1YSUJWSnJSUHhXLTJENHF4SkhObXZkVw?oc=5",
+        "publishedAt": "2026-10-26T01:57:57.000Z"
+      },
+      {
+        "time": "19:22",
+        "title": "電線の端材でストラップ制作 Ｍ．Ｓ．Ｅ．が商品化",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TOThSZjN5eER3TlU3MHo0RE9lLXdpRFVod2Mtams1bFZvcjBKQnpvSFYxMjJPYm5HZVd5RlhtcHlTN3R2OGdVLUs5THBCQVVCWEE?oc=5",
+        "publishedAt": "2026-10-25T10:22:59.000Z"
       },
       {
         "time": "05:00",
@@ -50,13 +57,6 @@
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1zLTFIQkFiNkdPZE1uaDJOM25JNXVOVkJYUXJJbHh2NFZUcXFEWTEwQnpIbGtyMEl0Ymtzb0MyRDA2WHAtM2dpal9YbllCU1dKdURKTlVTVC0?oc=5",
         "publishedAt": "2026-10-25T20:00:00.000Z"
-      },
-      {
-        "time": "19:53",
-        "title": "【探訪・ザ・カンパニー】江口電機（倉敷市）生産ラインの効率化を後押し",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE52Q2Q0M0ZCeGgtMkdTajBHMDVWZVBIaWFzbTRCZm1MaGxzT0tXMTJxTng1QXh1YWFRR29nZ3RTNWhSYjdSdTdtSkplVkVEOVB1dkE?oc=5",
-        "publishedAt": "2026-10-25T10:53:44.000Z"
       }
     ],
     "worldHeadlines": [
@@ -133,11 +133,11 @@
         "publishedAt": "2026-10-25T07:17:05.000Z"
       },
       {
-        "time": "11:39",
-        "title": "美容室の倒産高水準 競争で二極化",
+        "time": "11:07",
+        "title": "カスハラ対策 企業の3割は未着手",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600033?source=rss",
-        "publishedAt": "2026-10-25T02:39:16.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6600159?source=rss",
+        "publishedAt": "2026-10-26T02:07:52.000Z"
       },
       {
         "time": "13:55",
@@ -148,6 +148,13 @@
       }
     ],
     "localHeadlines": [
+      {
+        "time": "11:20",
+        "title": "暴行され7歳死亡 母に懲役8年求刑",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6600161?source=rss",
+        "publishedAt": "2026-10-26T02:20:48.000Z"
+      },
       {
         "time": "07:36",
         "title": "男性死亡 台風接近前に船を見に",
@@ -168,13 +175,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6600106?source=rss",
         "publishedAt": "2026-10-25T12:17:50.000Z"
-      },
-      {
-        "time": "23:45",
-        "title": "那覇市長選 現職・知念氏が再選",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600124?source=rss",
-        "publishedAt": "2026-10-25T14:45:17.000Z"
       },
       {
         "time": "20:11",

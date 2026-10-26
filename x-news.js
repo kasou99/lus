@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-26T01:32:10.122Z",
+  "updatedAt": "2026-10-26T02:28:50.178Z",
   "items": [
     {
       "time": "09:29",
@@ -18,28 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "ブラジル大統領に現職ルラ氏再選"
     },
     {
-      "time": "09:27",
-      "title": "新局面 漏洩被害者に迫る「脅威」",
+      "time": "11:20",
+      "title": "暴行され7歳死亡 母に懲役8年求刑",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600145?source=rss",
-      "publishedAt": "2026-10-26T00:27:36.000Z",
-      "xQuery": "新局面 漏洩被害者に迫る「脅威」"
+      "url": "https://news.yahoo.co.jp/pickup/6600161?source=rss",
+      "publishedAt": "2026-10-26T02:20:48.000Z",
+      "xQuery": "暴行され7歳死亡 母に懲役8年求刑"
     },
     {
-      "time": "08:50",
-      "title": "電車が駅で140m過ぎて停車 戻らず",
+      "time": "11:14",
+      "title": "英ジャガイモ生産 害虫被害が拡大",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600144?source=rss",
-      "publishedAt": "2026-10-25T23:50:31.000Z",
-      "xQuery": "電車が駅で140m過ぎて停車 戻らず"
+      "url": "https://news.yahoo.co.jp/pickup/6600162?source=rss",
+      "publishedAt": "2026-10-26T02:14:14.000Z",
+      "xQuery": "英ジャガイモ生産 害虫被害が拡大"
     },
     {
-      "time": "10:22",
-      "title": "プロ野球観客動員が史上最多 なぜ",
+      "time": "10:48",
+      "title": "プロ野球観客動員最多 球場で何が",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600155?source=rss",
-      "publishedAt": "2026-10-26T01:22:05.000Z",
-      "xQuery": "プロ野球観客動員が史上最多 なぜ"
+      "url": "https://news.yahoo.co.jp/pickup/6600158?source=rss",
+      "publishedAt": "2026-10-26T01:48:55.000Z",
+      "xQuery": "プロ野球観客動員最多 球場で何が"
     }
   ]
 };
