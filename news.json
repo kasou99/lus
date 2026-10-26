@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T17:40:52.777Z",
+  "updatedAt": "2026-10-26T18:27:46.056Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,13 +31,6 @@
         "publishedAt": "2026-10-26T07:56:01.000Z"
       },
       {
-        "time": "20:34",
-        "title": "エンシュウと同社子会社が新製品を開発 工作機械見本市「ジムトフ」に出展：ニュース",
-        "source": "中日BIZナビ",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9RQVhIUEJ5MF9JVHZhSEVaVnBON3ozRm5ZTVE1LWNmZVc0Z0ZoaHM0LVBXRklJeU5CMUZrUDczRHhFRUF6enYtVXhtQ29zWHNqajhhcndGbjdZYmpoRTRN?oc=5",
-        "publishedAt": "2026-10-26T11:34:00.000Z"
-      },
-      {
         "time": "12:30",
         "title": "三菱電機、北米向け制御盤や装置設計を支援する「SCCRポータル」を公開",
         "source": "オートメーション新聞WEB",
@@ -57,6 +50,13 @@
         "source": "北海道新聞デジタル",
         "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWFlncmc2WEMzM3c0ZWJIRGNwOTE5WVY0NGtQRUNhdThMS2xxZ2JPSGt6b1duVk9wcl95RXduN2IydmI4UUVDS3FSdXVobU8waFpSdTFnaEV6RTdXbzdTcUZ1UnFrS0pOWE9iakQ3aTRoT0VObnAyTWp5NG4wVWtKRVJJb0QyeHQzd0tLd3hLMHZ6VkdBMTZhUzk2dGFwLTE2bEVGTmlWaWFWZ0MzZGw1VkphcjNqazlRT1E?oc=5",
         "publishedAt": "2026-10-26T03:00:00.000Z"
+      },
+      {
+        "time": "13:01",
+        "title": "河北新報社 ビズラボ 河北経済研究所",
+        "source": "河北新報オンライン",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE94TFFQanQ4enpTeUdOLWVHb29aWGIyS0lvbHg0WHRRbGdXUHNuOVptRUNiWldRV252eGZqU0xFMDBuWlE4aDVaejl3WGJqa0czY1ZvcUczVkZzbzV0VUdjbzl5Wk9rUQ?oc=5",
+        "publishedAt": "2026-10-26T04:01:54.000Z"
       }
     ],
     "worldHeadlines": [
