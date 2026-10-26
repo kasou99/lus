@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T11:45:54.191Z",
+  "updatedAt": "2026-10-26T13:51:54.459Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,6 +31,13 @@
         "publishedAt": "2026-10-26T07:56:01.000Z"
       },
       {
+        "time": "20:34",
+        "title": "エンシュウと同社子会社が新製品を開発 工作機械見本市「ジムトフ」に出展：ニュース",
+        "source": "中日BIZナビ",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9RQVhIUEJ5MF9JVHZhSEVaVnBON3ozRm5ZTVE1LWNmZVc0Z0ZoaHM0LVBXRklJeU5CMUZrUDczRHhFRUF6enYtVXhtQ29zWHNqajhhcndGbjdZYmpoRTRN?oc=5",
+        "publishedAt": "2026-10-26T11:34:00.000Z"
+      },
+      {
         "time": "12:30",
         "title": "三菱電機、北米向け制御盤や装置設計を支援する「SCCRポータル」を公開",
         "source": "オートメーション新聞WEB",
@@ -43,13 +50,6 @@
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1jZGxpNm1GVGQzX1hjZ1pCbGxyc0FMMUpZTjd2WnhGWXVudFZQWUNNbGhwZU0yNEhiRFgzRUt1RGpNRi1BaXlIMUkyNTdSWFFFS2dvR0YydlU?oc=5",
         "publishedAt": "2026-10-25T20:00:00.000Z"
-      },
-      {
-        "time": "16:11",
-        "title": "工作機械も「フィジカルAI元年」 JIMTOF開幕、自動･自律運転前面に",
-        "source": "日本経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0tMjJnMHdtcF9OTzFsaXc0YmMxV0g3SkN1amN2YWxlNDJWc3l4aks2dWVMeHRXVm1UVXNxbWkycHZIWWxNeTVub1d0ZGJ2UEhXMXhuLXQ2UUdYY0xYSDFfeDllcXIyM0ljSkJRTA?oc=5",
-        "publishedAt": "2026-10-26T07:11:18.000Z"
       },
       {
         "time": "07:00",
@@ -112,6 +112,13 @@
         "publishedAt": "2026-10-25T23:42:33.000Z"
       },
       {
+        "time": "22:03",
+        "title": "豪生保 第一ライフによる買収拒否",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6600234?source=rss",
+        "publishedAt": "2026-10-26T13:03:11.000Z"
+      },
+      {
         "time": "12:49",
         "title": "退職倒産が最多 中小企業どう対応",
         "source": "Yahoo!ニュース",
@@ -124,13 +131,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6600178?source=rss",
         "publishedAt": "2026-10-26T04:29:04.000Z"
-      },
-      {
-        "time": "08:02",
-        "title": "コニカミノルタ「社内副業」狙い",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600138?source=rss",
-        "publishedAt": "2026-10-25T23:02:18.000Z"
       },
       {
         "time": "11:48",
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "22:03",
+        "title": "氏名誤記の原爆死没者 遺骨返還へ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6600233?source=rss",
+        "publishedAt": "2026-10-26T13:03:29.000Z"
+      },
+      {
         "time": "19:48",
         "title": "検討委設置 同志社理事長ら会見へ",
         "source": "Yahoo!ニュース",
@@ -156,18 +163,18 @@
         "publishedAt": "2026-10-26T10:48:48.000Z"
       },
       {
-        "time": "11:20",
-        "title": "暴行され7歳死亡 母に懲役8年求刑",
+        "time": "21:55",
+        "title": "店主殺害 惨状頭から離れぬと長男",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600161?source=rss",
-        "publishedAt": "2026-10-26T02:20:48.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6600232?source=rss",
+        "publishedAt": "2026-10-26T12:55:49.000Z"
       },
       {
-        "time": "07:57",
-        "title": "女性殺害 米兵関与一部ほのめかす",
+        "time": "21:26",
+        "title": "収集車テールゲートに挟まれ死亡",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600136?source=rss",
-        "publishedAt": "2026-10-25T22:57:27.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6600230?source=rss",
+        "publishedAt": "2026-10-26T12:26:40.000Z"
       },
       {
         "time": "18:00",
@@ -175,13 +182,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6600210?source=rss",
         "publishedAt": "2026-10-26T09:00:54.000Z"
-      },
-      {
-        "time": "07:26",
-        "title": "和菓子店主殺害 逮捕知り遺族号泣",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600132?source=rss",
-        "publishedAt": "2026-10-25T22:26:53.000Z"
       },
       {
         "time": "19:58",

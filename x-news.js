@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-26T11:45:54.865Z",
+  "updatedAt": "2026-10-26T13:51:55.435Z",
   "items": [
     {
-      "time": "20:29",
-      "title": "ユミルリンク 延べ5162万件漏えい",
+      "time": "18:32",
+      "title": "ガソリン補助の段階縮小 自民提言",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600228?source=rss",
-      "publishedAt": "2026-10-26T11:29:04.000Z",
-      "xQuery": "ユミルリンク 延べ5162万件漏えい"
+      "url": "https://news.yahoo.co.jp/pickup/6600211?source=rss",
+      "publishedAt": "2026-10-26T09:32:48.000Z",
+      "xQuery": "ガソリン補助の段階縮小 自民提言"
     },
     {
-      "time": "19:11",
-      "title": "サイバー攻撃に緊急対策 首相方針",
+      "time": "21:18",
+      "title": "ギフティ ギフト券不正発行される",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600219?source=rss",
-      "publishedAt": "2026-10-26T10:11:04.000Z",
-      "xQuery": "サイバー攻撃に緊急対策 首相方針"
+      "url": "https://news.yahoo.co.jp/pickup/6600229?source=rss",
+      "publishedAt": "2026-10-26T12:18:43.000Z",
+      "xQuery": "ギフティ ギフト券不正発行される"
     },
     {
-      "time": "18:47",
-      "title": "Joshin 600万件超の情報漏えいか",
+      "time": "22:03",
+      "title": "豪生保 第一ライフによる買収拒否",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600214?source=rss",
-      "publishedAt": "2026-10-26T09:47:14.000Z",
-      "xQuery": "Joshin 600万件超の情報漏えいか"
+      "url": "https://news.yahoo.co.jp/pickup/6600234?source=rss",
+      "publishedAt": "2026-10-26T13:03:11.000Z",
+      "xQuery": "豪生保 第一ライフによる買収拒否"
     },
     {
-      "time": "19:28",
-      "title": "GMOに攻撃 当初は約80億円要求",
+      "time": "21:40",
+      "title": "福田康夫さん死去 親子2代で首相",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600222?source=rss",
-      "publishedAt": "2026-10-26T10:28:04.000Z",
-      "xQuery": "GMOに攻撃 当初は約80億円要求"
+      "url": "https://news.yahoo.co.jp/pickup/6600231?source=rss",
+      "publishedAt": "2026-10-26T12:40:24.000Z",
+      "xQuery": "福田康夫さん死去 親子2代で首相"
     },
     {
-      "time": "17:46",
-      "title": "3ピンプラグに2穴 10代感電し入院",
+      "time": "21:55",
+      "title": "店主殺害 惨状頭から離れぬと長男",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600207?source=rss",
-      "publishedAt": "2026-10-26T08:46:20.000Z",
-      "xQuery": "3ピンプラグに2穴 10代感電し入院"
+      "url": "https://news.yahoo.co.jp/pickup/6600232?source=rss",
+      "publishedAt": "2026-10-26T12:55:49.000Z",
+      "xQuery": "店主殺害 惨状頭から離れぬと長男"
     }
   ]
 };
