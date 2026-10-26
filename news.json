@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T05:19:54.684Z",
+  "updatedAt": "2026-10-26T05:45:39.637Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -61,18 +61,11 @@
     ],
     "worldHeadlines": [
       {
-        "time": "12:52",
-        "title": "金正恩氏の訪中 習氏とは会談せず",
+        "time": "14:26",
+        "title": "福田元首相が死去 中国でも速報",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600041?source=rss",
-        "publishedAt": "2026-10-25T03:52:30.000Z"
-      },
-      {
-        "time": "11:24",
-        "title": "オバマ氏 トランプ政権を痛烈批判",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600025?source=rss",
-        "publishedAt": "2026-10-25T02:24:45.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6600183?source=rss",
+        "publishedAt": "2026-10-26T05:26:54.000Z"
       },
       {
         "time": "09:35",
@@ -80,6 +73,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6600147?source=rss",
         "publishedAt": "2026-10-26T00:35:29.000Z"
+      },
+      {
+        "time": "14:21",
+        "title": "セルビア 14年ぶり政権交代へ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6600182?source=rss",
+        "publishedAt": "2026-10-26T05:21:06.000Z"
       },
       {
         "time": "08:22",

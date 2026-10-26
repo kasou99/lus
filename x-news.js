@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-26T05:19:55.311Z",
+  "updatedAt": "2026-10-26T05:45:40.608Z",
   "items": [
     {
-      "time": "13:56",
-      "title": "福田康夫元首相が死去 90歳",
+      "time": "14:21",
+      "title": "セルビア 14年ぶり政権交代へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600180?source=rss",
-      "publishedAt": "2026-10-26T04:56:46.000Z",
-      "xQuery": "福田康夫元首相が死去 90歳"
+      "url": "https://news.yahoo.co.jp/pickup/6600182?source=rss",
+      "publishedAt": "2026-10-26T05:21:06.000Z",
+      "xQuery": "セルビア 14年ぶり政権交代へ"
     },
     {
       "time": "12:31",
@@ -18,12 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "武田薬品 胃がん新薬を来年申請へ"
     },
     {
-      "time": "12:49",
-      "title": "退職倒産が最多 中小企業どう対応",
+      "time": "13:56",
+      "title": "福田康夫元首相が死去 90歳",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600166?source=rss",
-      "publishedAt": "2026-10-26T03:49:35.000Z",
-      "xQuery": "退職倒産が最多 中小企業どう対応"
+      "url": "https://news.yahoo.co.jp/pickup/6600180?source=rss",
+      "publishedAt": "2026-10-26T04:56:46.000Z",
+      "xQuery": "福田康夫元首相が死去 90歳"
+    },
+    {
+      "time": "14:26",
+      "title": "福田元首相が死去 中国でも速報",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6600183?source=rss",
+      "publishedAt": "2026-10-26T05:26:54.000Z",
+      "xQuery": "福田元首相が死去 中国でも速報"
     },
     {
       "time": "13:29",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6600178?source=rss",
       "publishedAt": "2026-10-26T04:29:04.000Z",
       "xQuery": "ドクターイエロー後継 客乗せ走行"
-    },
-    {
-      "time": "12:26",
-      "title": "Netflix会員 アプリ利用頻度低下",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600167?source=rss",
-      "publishedAt": "2026-10-26T03:26:33.000Z",
-      "xQuery": "Netflix会員 アプリ利用頻度低下"
     }
   ]
 };
