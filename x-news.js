@@ -1,29 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-26T13:51:55.435Z",
+  "updatedAt": "2026-10-26T15:04:52.580Z",
   "items": [
     {
-      "time": "18:32",
-      "title": "ガソリン補助の段階縮小 自民提言",
+      "time": "20:49",
+      "title": "スパイ防止へ登録制度案 政府提示",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600211?source=rss",
-      "publishedAt": "2026-10-26T09:32:48.000Z",
-      "xQuery": "ガソリン補助の段階縮小 自民提言"
+      "url": "https://news.yahoo.co.jp/pickup/6600226?source=rss",
+      "publishedAt": "2026-10-26T11:49:19.000Z",
+      "xQuery": "スパイ防止へ登録制度案 政府提示"
     },
     {
-      "time": "21:18",
-      "title": "ギフティ ギフト券不正発行される",
+      "time": "23:20",
+      "title": "露拘束の記者 大使館員が領事面会",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600229?source=rss",
-      "publishedAt": "2026-10-26T12:18:43.000Z",
-      "xQuery": "ギフティ ギフト券不正発行される"
-    },
-    {
-      "time": "22:03",
-      "title": "豪生保 第一ライフによる買収拒否",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600234?source=rss",
-      "publishedAt": "2026-10-26T13:03:11.000Z",
-      "xQuery": "豪生保 第一ライフによる買収拒否"
+      "url": "https://news.yahoo.co.jp/pickup/6600239?source=rss",
+      "publishedAt": "2026-10-26T14:20:32.000Z",
+      "xQuery": "露拘束の記者 大使館員が領事面会"
     },
     {
       "time": "21:40",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "福田康夫さん死去 親子2代で首相"
     },
     {
-      "time": "21:55",
-      "title": "店主殺害 惨状頭から離れぬと長男",
+      "time": "22:03",
+      "title": "氏名誤記の原爆死没者 遺骨返還へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600232?source=rss",
-      "publishedAt": "2026-10-26T12:55:49.000Z",
-      "xQuery": "店主殺害 惨状頭から離れぬと長男"
+      "url": "https://news.yahoo.co.jp/pickup/6600233?source=rss",
+      "publishedAt": "2026-10-26T13:03:29.000Z",
+      "xQuery": "氏名誤記の原爆死没者 遺骨返還へ"
+    },
+    {
+      "time": "19:58",
+      "title": "クマ放獣も3日で街に戻る 課題は",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6600225?source=rss",
+      "publishedAt": "2026-10-26T10:58:05.000Z",
+      "xQuery": "クマ放獣も3日で街に戻る 課題は"
     }
   ]
 };
