@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T19:15:45.494Z",
+  "updatedAt": "2026-10-26T19:40:36.773Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,18 +31,18 @@
         "publishedAt": "2026-10-26T07:56:01.000Z"
       },
       {
+        "time": "20:34",
+        "title": "エンシュウと同社子会社が新製品を開発 工作機械見本市「ジムトフ」に出展：ニュース",
+        "source": "中日BIZナビ",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9RQVhIUEJ5MF9JVHZhSEVaVnBON3ozRm5ZTVE1LWNmZVc0Z0ZoaHM0LVBXRklJeU5CMUZrUDczRHhFRUF6enYtVXhtQ29zWHNqajhhcndGbjdZYmpoRTRN?oc=5",
+        "publishedAt": "2026-10-26T11:34:00.000Z"
+      },
+      {
         "time": "12:30",
         "title": "三菱電機、北米向け制御盤や装置設計を支援する「SCCRポータル」を公開",
         "source": "オートメーション新聞WEB",
         "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1jSTBreXBoVlJNTXRBeXVUM0VFeHZPZ09NaXNXWUVWWGFSbF9qT0lGR2pjeHRmV1BPOUcteXc0ZUtUX19ZQ2dRcVNfREV3RTJoaVozbHU5bWNIdw?oc=5",
         "publishedAt": "2026-10-26T03:30:00.000Z"
-      },
-      {
-        "time": "07:00",
-        "title": "三菱電機、フィジカルAIでヒューマノイドと工作機械が連携する自動化システムを開発",
-        "source": "ASCII.jp",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1qSnFUZDQ3U3ctT1AwRVhMUGZqWWRWT1RzSkVMZi1QLWt3SlZQaEw3c1dpdjBtamZyY0JZcDBBMmZDUGxES1NJOE9CS1RaaldYT29Fbw?oc=5",
-        "publishedAt": "2026-10-25T22:00:00.000Z"
       },
       {
         "time": "05:00",
@@ -52,11 +52,11 @@
         "publishedAt": "2026-10-25T20:00:00.000Z"
       },
       {
-        "time": "17:56",
-        "title": "日本の工作機械見本市に台湾企業90社以上が出展 製造の柔軟性などアピール",
-        "source": "ライブドアニュース",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8zR1p0RDZDaHhhTHBqdjlmUkNnQkYwR2gyVEk2c1N3SElCaWNHUjBtS1JGOFU0S2VfODJsSXRqeXVpM3VSNjNVWUFPbGVjcTFoWWQzbktFR0dzdEtVeVZF?oc=5",
-        "publishedAt": "2026-10-26T08:56:01.000Z"
+        "time": "12:00",
+        "title": "設備保全のDX化を推進するフィジカルAIカンパニーRoboSapiensに出資、協業開始",
+        "source": "北海道新聞デジタル",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWFlncmc2WEMzM3c0ZWJIRGNwOTE5WVY0NGtQRUNhdThMS2xxZ2JPSGt6b1duVk9wcl95RXduN2IydmI4UUVDS3FSdXVobU8waFpSdTFnaEV6RTdXbzdTcUZ1UnFrS0pOWE9iakQ3aTRoT0VObnAyTWp5NG4wVWtKRVJJb0QyeHQzd0tLd3hLMHZ6VkdBMTZhUzk2dGFwLTE2bEVGTmlWaWFWZ0MzZGw1VkphcjNqazlRT1E?oc=5",
+        "publishedAt": "2026-10-26T03:00:00.000Z"
       }
     ],
     "worldHeadlines": [
