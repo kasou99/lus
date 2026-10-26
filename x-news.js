@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-26T02:28:50.178Z",
+  "updatedAt": "2026-10-26T02:52:17.353Z",
   "items": [
     {
       "time": "09:29",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "ブラジル大統領に現職ルラ氏再選"
     },
     {
+      "time": "07:26",
+      "title": "和菓子店主殺害 逮捕知り遺族号泣",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6600132?source=rss",
+      "publishedAt": "2026-10-25T22:26:53.000Z",
+      "xQuery": "和菓子店主殺害 逮捕知り遺族号泣"
+    },
+    {
       "time": "11:20",
       "title": "暴行され7歳死亡 母に懲役8年求刑",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6600161?source=rss",
       "publishedAt": "2026-10-26T02:20:48.000Z",
       "xQuery": "暴行され7歳死亡 母に懲役8年求刑"
-    },
-    {
-      "time": "11:14",
-      "title": "英ジャガイモ生産 害虫被害が拡大",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600162?source=rss",
-      "publishedAt": "2026-10-26T02:14:14.000Z",
-      "xQuery": "英ジャガイモ生産 害虫被害が拡大"
     },
     {
       "time": "10:48",
