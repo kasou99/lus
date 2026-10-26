@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T11:19:42.913Z",
+  "updatedAt": "2026-10-26T11:45:54.191Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,18 +38,18 @@
         "publishedAt": "2026-10-26T03:30:00.000Z"
       },
       {
-        "time": "16:11",
-        "title": "工作機械も「フィジカルAI元年」 JIMTOF開幕、自動･自律運転前面に",
-        "source": "日本経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0tMjJnMHdtcF9OTzFsaXc0YmMxV0g3SkN1amN2YWxlNDJWc3l4aks2dWVMeHRXVm1UVXNxbWkycHZIWWxNeTVub1d0ZGJ2UEhXMXhuLXQ2UUdYY0xYSDFfeDllcXIyM0ljSkJRTA?oc=5",
-        "publishedAt": "2026-10-26T07:11:18.000Z"
-      },
-      {
         "time": "05:00",
         "title": "工作機械、増産体制を整備 受注急拡大、長納期化緩和",
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1jZGxpNm1GVGQzX1hjZ1pCbGxyc0FMMUpZTjd2WnhGWXVudFZQWUNNbGhwZU0yNEhiRFgzRUt1RGpNRi1BaXlIMUkyNTdSWFFFS2dvR0YydlU?oc=5",
         "publishedAt": "2026-10-25T20:00:00.000Z"
+      },
+      {
+        "time": "16:11",
+        "title": "工作機械も「フィジカルAI元年」 JIMTOF開幕、自動･自律運転前面に",
+        "source": "日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0tMjJnMHdtcF9OTzFsaXc0YmMxV0g3SkN1amN2YWxlNDJWc3l4aks2dWVMeHRXVm1UVXNxbWkycHZIWWxNeTVub1d0ZGJ2UEhXMXhuLXQ2UUdYY0xYSDFfeDllcXIyM0ljSkJRTA?oc=5",
+        "publishedAt": "2026-10-26T07:11:18.000Z"
       },
       {
         "time": "07:00",

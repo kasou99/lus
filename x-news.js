@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-26T11:19:43.588Z",
+  "updatedAt": "2026-10-26T11:45:54.865Z",
   "items": [
+    {
+      "time": "20:29",
+      "title": "ユミルリンク 延べ5162万件漏えい",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6600228?source=rss",
+      "publishedAt": "2026-10-26T11:29:04.000Z",
+      "xQuery": "ユミルリンク 延べ5162万件漏えい"
+    },
     {
       "time": "19:11",
       "title": "サイバー攻撃に緊急対策 首相方針",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6600207?source=rss",
       "publishedAt": "2026-10-26T08:46:20.000Z",
       "xQuery": "3ピンプラグに2穴 10代感電し入院"
-    },
-    {
-      "time": "19:07",
-      "title": "中国媒体の「VIVANT」批判 背景",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600218?source=rss",
-      "publishedAt": "2026-10-26T10:07:04.000Z",
-      "xQuery": "中国媒体の「VIVANT」批判 背景"
     }
   ]
 };
