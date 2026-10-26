@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-26T21:40:58.358Z",
+  "updatedAt": "2026-10-26T22:17:33.398Z",
   "items": [
     {
       "time": "20:49",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "米Anthropic IPO申請書類を公開"
     },
     {
-      "time": "23:08",
-      "title": "楽天トラベル 約260万件が流出か",
+      "time": "06:58",
+      "title": "iPhone Duo画面不具合 交換対応",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600238?source=rss",
-      "publishedAt": "2026-10-26T14:08:22.000Z",
-      "xQuery": "楽天トラベル 約260万件が流出か"
+      "url": "https://news.yahoo.co.jp/pickup/6600246?source=rss",
+      "publishedAt": "2026-10-26T21:58:24.000Z",
+      "xQuery": "iPhone Duo画面不具合 交換対応"
     }
   ]
 };
