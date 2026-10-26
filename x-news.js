@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-26T04:49:07.987Z",
+  "updatedAt": "2026-10-26T05:19:55.311Z",
   "items": [
     {
-      "time": "11:50",
-      "title": "関東 低気圧と前線で27日にかけ雨",
+      "time": "13:56",
+      "title": "福田康夫元首相が死去 90歳",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600164?source=rss",
-      "publishedAt": "2026-10-26T02:50:03.000Z",
-      "xQuery": "関東 低気圧と前線で27日にかけ雨"
+      "url": "https://news.yahoo.co.jp/pickup/6600180?source=rss",
+      "publishedAt": "2026-10-26T04:56:46.000Z",
+      "xQuery": "福田康夫元首相が死去 90歳"
     },
     {
       "time": "12:31",

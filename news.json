@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-10-26T04:49:07.257Z",
+  "updatedAt": "2026-10-26T05:19:54.684Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "13:30",
+        "title": "工作機械主軸用軸受にグリス潤滑を、NTNが高速長寿命グリスの量産開始",
+        "source": "MONOist",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5PR2I3TU0yVlFOQ0c4ajNuUTJ2ZGxTMWJNdmhJczhLWnQzbm9EU3ZZMGxhMTlwZ0xyV1M3Tkd4YnNnTjVnMXdhNjAtMGg0T0VUWFY5ZF9NVXFHbklQTWZFYXVwSEJrRmh4VnctdlRDUQ?oc=5",
+        "publishedAt": "2026-10-26T04:30:00.000Z"
+      },
       {
         "time": "12:00",
         "title": "エルテス[3967]：設備保全のDX化を推進するフィジカルAIカンパニーRoboSapiensに出資、協業開始 2026年10月26日(適時開示) ：日経会社情報DIGITAL",
@@ -17,11 +24,11 @@
         "publishedAt": "2026-10-26T03:30:00.000Z"
       },
       {
-        "time": "07:30",
-        "title": "現場データと業務データをCopilotで統合 ファナックとMicrosoftが連携：FAニュース",
-        "source": "MONOist",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9WQnpKUVZzVTF1WmJpcW8tbktSVHliWXNsaS1QRUlMTGRrRVg5blBVRjBFUUQ4NXZEdmQ5MGJIRG03N05hNU53OEVNSWdHdk1hX0cxeEhOdzlmN1RNUmIwMTAyQmdJcG9kemtIN3VBcw?oc=5",
-        "publishedAt": "2026-10-25T22:30:00.000Z"
+        "time": "13:01",
+        "title": "河北新報社 ビズラボ 河北経済研究所",
+        "source": "河北新報オンライン",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE94TFFQanQ4enpTeUdOLWVHb29aWGIyS0lvbHg0WHRRbGdXUHNuOVptRUNiWldRV252eGZqU0xFMDBuWlE4aDVaejl3WGJqa0czY1ZvcUczVkZzbzV0VUdjbzl5Wk9rUQ?oc=5",
+        "publishedAt": "2026-10-26T04:01:54.000Z"
       },
       {
         "time": "05:00",
@@ -29,13 +36,6 @@
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1jZGxpNm1GVGQzX1hjZ1pCbGxyc0FMMUpZTjd2WnhGWXVudFZQWUNNbGhwZU0yNEhiRFgzRUt1RGpNRi1BaXlIMUkyNTdSWFFFS2dvR0YydlU?oc=5",
         "publishedAt": "2026-10-25T20:00:00.000Z"
-      },
-      {
-        "time": "13:01",
-        "title": "河北新報社 ビズラボ 河北経済研究所",
-        "source": "河北新報オンライン",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE94TFFQanQ4enpTeUdOLWVHb29aWGIyS0lvbHg0WHRRbGdXUHNuOVptRUNiWldRV252eGZqU0xFMDBuWlE4aDVaejl3WGJqa0czY1ZvcUczVkZzbzV0VUdjbzl5Wk9rUQ?oc=5",
-        "publishedAt": "2026-10-26T04:01:54.000Z"
       },
       {
         "time": "07:00",
