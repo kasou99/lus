@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T23:14:37.105Z",
+  "updatedAt": "2026-10-26T23:39:01.486Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -10,11 +10,11 @@
         "publishedAt": "2026-10-26T21:45:00.000Z"
       },
       {
-        "time": "05:22",
+        "time": "06:37",
         "title": "第３３回日本国際工作機械見本市 ＪＩＭＴＯＦ２０２６ （上） ものづくり「高度化」支える ＡＩ融合、最適な形を模索（中部経済新聞）",
         "source": "Yahoo!ニュース",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5JT1BtZVFtVlFScElzTWJNNEJwVXY3YmdQQXRvNzIyZkNHd3B6VFhaRHJoOEViMEpMM0pINFNRWEFfSW85SHFDdmt6UEJpbENUQjlNcEdHaTRMR0dTVC00YU9JRGdGZWh1OFZLS3dRSm1CZG11ZlR1OUxKQ2VoMkU?oc=5",
-        "publishedAt": "2026-10-26T20:22:56.000Z"
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZVQ5OTh3UmQwSzFtaDFFRmVNM3ExNnk1dnZDQ1h1YWt3S3k2MG9FYU9BSFZqN2hOeEdGZnhseXgzbVFDelpPSzF3Tk0zdVJzc2RPYm4tRjJzT1pSSFZsb1BQeG5GT2JKUXRfQURDdTNXWGtnT2JLNG54RnZSZFppcGVpelNqRkVnbGQ5cFFB?oc=5",
+        "publishedAt": "2026-10-26T21:37:48.000Z"
       },
       {
         "time": "05:00",
@@ -68,6 +68,13 @@
         "publishedAt": "2026-10-26T22:20:32.000Z"
       },
       {
+        "time": "08:25",
+        "title": "米中間選挙 下院は民主党優勢か",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6600255?source=rss",
+        "publishedAt": "2026-10-26T23:25:23.000Z"
+      },
+      {
         "time": "07:43",
         "title": "米大統領 ブラジル大統領選は不正",
         "source": "Yahoo!ニュース",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6600183?source=rss",
         "publishedAt": "2026-10-26T05:26:54.000Z"
-      },
-      {
-        "time": "11:14",
-        "title": "英ジャガイモ生産 害虫被害が拡大",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600162?source=rss",
-        "publishedAt": "2026-10-26T02:14:14.000Z"
       }
     ],
     "economyHeadlines": [
@@ -133,11 +133,11 @@
         "publishedAt": "2026-10-26T06:19:43.000Z"
       },
       {
-        "time": "07:58",
-        "title": "立ち飲み なぜ今若者に選ばれる",
+        "time": "08:14",
+        "title": "立ち飲み 若者中心に新たなブーム",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600252?source=rss",
-        "publishedAt": "2026-10-26T22:58:08.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6600257?source=rss",
+        "publishedAt": "2026-10-26T23:14:24.000Z"
       },
       {
         "time": "22:59",
@@ -156,18 +156,18 @@
         "publishedAt": "2026-10-26T13:03:29.000Z"
       },
       {
-        "time": "19:48",
-        "title": "検討委設置 同志社理事長ら会見へ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600223?source=rss",
-        "publishedAt": "2026-10-26T10:48:48.000Z"
-      },
-      {
         "time": "07:55",
         "title": "油圧ショベルにひかれ作業員死亡",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6600253?source=rss",
         "publishedAt": "2026-10-26T22:55:01.000Z"
+      },
+      {
+        "time": "08:21",
+        "title": "ながら運転で子奪われ10年 父は今",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6600256?source=rss",
+        "publishedAt": "2026-10-26T23:21:07.000Z"
       },
       {
         "time": "21:55",
@@ -177,18 +177,18 @@
         "publishedAt": "2026-10-26T12:55:49.000Z"
       },
       {
-        "time": "21:26",
-        "title": "収集車テールゲートに挟まれ死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600230?source=rss",
-        "publishedAt": "2026-10-26T12:26:40.000Z"
-      },
-      {
         "time": "18:00",
         "title": "米軍嘉手納基地 中国BYD車を禁止",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6600210?source=rss",
         "publishedAt": "2026-10-26T09:00:54.000Z"
+      },
+      {
+        "time": "08:34",
+        "title": "茨城県教委 国に誤った情報伝達",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6600260?source=rss",
+        "publishedAt": "2026-10-26T23:34:41.000Z"
       }
     ],
     "subsidyHeadlines": [
