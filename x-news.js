@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-26T06:40:16.263Z",
+  "updatedAt": "2026-10-26T07:35:55.313Z",
   "items": [
+    {
+      "time": "15:24",
+      "title": "福田元首相が死去 高市首相が談話",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6600189?source=rss",
+      "publishedAt": "2026-10-26T06:24:50.000Z",
+      "xQuery": "福田元首相が死去 高市首相が談話"
+    },
     {
       "time": "14:21",
       "title": "セルビア 14年ぶり政権交代へ",
@@ -18,14 +26,6 @@ window.LUS_X_NEWS = {
       "xQuery": "SHEIN 米FTCと1億ドルで和解へ"
     },
     {
-      "time": "13:56",
-      "title": "福田康夫元首相が死去 90歳",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600180?source=rss",
-      "publishedAt": "2026-10-26T04:56:46.000Z",
-      "xQuery": "福田康夫元首相が死去 90歳"
-    },
-    {
       "time": "14:26",
       "title": "福田元首相が死去 中国でも速報",
       "source": "Yahoo!ニュース",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "福田元首相が死去 中国でも速報"
     },
     {
-      "time": "13:29",
-      "title": "ドクターイエロー後継 客乗せ走行",
+      "time": "15:38",
+      "title": "GMO 攻撃側が100万ドル要求か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600178?source=rss",
-      "publishedAt": "2026-10-26T04:29:04.000Z",
-      "xQuery": "ドクターイエロー後継 客乗せ走行"
+      "url": "https://news.yahoo.co.jp/pickup/6600188?source=rss",
+      "publishedAt": "2026-10-26T06:38:31.000Z",
+      "xQuery": "GMO 攻撃側が100万ドル要求か"
     }
   ]
 };
