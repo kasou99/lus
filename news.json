@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T20:42:50.273Z",
+  "updatedAt": "2026-10-26T21:15:59.402Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,6 +38,13 @@
         "publishedAt": "2026-10-26T10:04:59.000Z"
       },
       {
+        "time": "17:56",
+        "title": "日本の工作機械見本市に台湾企業90社以上が出展 製造の柔軟性などアピール",
+        "source": "フォーカス台湾",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1EMjNlN3czYmtidUQyNFk4OHF3XzVwRk1QclU2VVpYWUdpRlRQc0V4Y2RUYjdJUEk5STBCRFhLdHRxUW41V3VqZUtEMk1YQlNGZTQyN1Y4LVUtLVJEb3c?oc=5",
+        "publishedAt": "2026-10-26T08:56:00.000Z"
+      },
+      {
         "time": "20:34",
         "title": "エンシュウと同社子会社が新製品を開発 工作機械見本市「ジムトフ」に出展：ニュース",
         "source": "中日BIZナビ",
@@ -50,13 +57,6 @@
         "source": "オートメーション新聞WEB",
         "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1jSTBreXBoVlJNTXRBeXVUM0VFeHZPZ09NaXNXWUVWWGFSbF9qT0lGR2pjeHRmV1BPOUcteXc0ZUtUX19ZQ2dRcVNfREV3RTJoaVozbHU5bWNIdw?oc=5",
         "publishedAt": "2026-10-26T03:30:00.000Z"
-      },
-      {
-        "time": "12:00",
-        "title": "設備保全のDX化を推進するフィジカルAIカンパニーRoboSapiensに出資、協業開始",
-        "source": "北海道新聞デジタル",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWFlncmc2WEMzM3c0ZWJIRGNwOTE5WVY0NGtQRUNhdThMS2xxZ2JPSGt6b1duVk9wcl95RXduN2IydmI4UUVDS3FSdXVobU8waFpSdTFnaEV6RTdXbzdTcUZ1UnFrS0pOWE9iakQ3aTRoT0VObnAyTWp5NG4wVWtKRVJJb0QyeHQzd0tLd3hLMHZ6VkdBMTZhUzk2dGFwLTE2bEVGTmlWaWFWZ0MzZGw1VkphcjNqazlRT1E?oc=5",
-        "publishedAt": "2026-10-26T03:00:00.000Z"
       }
     ],
     "worldHeadlines": [

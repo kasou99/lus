@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-26T20:42:50.931Z",
+  "updatedAt": "2026-10-26T21:16:00.153Z",
   "items": [
     {
       "time": "20:49",
@@ -18,6 +18,14 @@ window.LUS_X_NEWS = {
       "xQuery": "露拘束の記者 大使館員が領事面会"
     },
     {
+      "time": "06:08",
+      "title": "GMOに予告 正午に顧客情報公開",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6600241?source=rss",
+      "publishedAt": "2026-10-26T21:08:19.000Z",
+      "xQuery": "GMOに予告 正午に顧客情報公開"
+    },
+    {
       "time": "00:02",
       "title": "米Anthropic IPO申請書類を公開",
       "source": "Yahoo!ニュース",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6600233?source=rss",
       "publishedAt": "2026-10-26T13:03:29.000Z",
       "xQuery": "氏名誤記の原爆死没者 遺骨返還へ"
-    },
-    {
-      "time": "19:58",
-      "title": "クマ放獣も3日で街に戻る 課題は",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600225?source=rss",
-      "publishedAt": "2026-10-26T10:58:05.000Z",
-      "xQuery": "クマ放獣も3日で街に戻る 課題は"
     }
   ]
 };
