@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-26T22:17:33.398Z",
+  "updatedAt": "2026-10-26T22:41:58.233Z",
   "items": [
     {
-      "time": "20:49",
-      "title": "スパイ防止へ登録制度案 政府提示",
+      "time": "07:20",
+      "title": "イスラエル総選挙 政権維持が焦点",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600226?source=rss",
-      "publishedAt": "2026-10-26T11:49:19.000Z",
-      "xQuery": "スパイ防止へ登録制度案 政府提示"
+      "url": "https://news.yahoo.co.jp/pickup/6600247?source=rss",
+      "publishedAt": "2026-10-26T22:20:32.000Z",
+      "xQuery": "イスラエル総選挙 政権維持が焦点"
     },
     {
       "time": "23:20",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "GMOに予告 正午に顧客情報公開"
     },
     {
-      "time": "00:02",
-      "title": "米Anthropic IPO申請書類を公開",
+      "time": "23:08",
+      "title": "楽天トラベル 約260万件が流出か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600240?source=rss",
-      "publishedAt": "2026-10-26T15:02:06.000Z",
-      "xQuery": "米Anthropic IPO申請書類を公開"
+      "url": "https://news.yahoo.co.jp/pickup/6600238?source=rss",
+      "publishedAt": "2026-10-26T14:08:22.000Z",
+      "xQuery": "楽天トラベル 約260万件が流出か"
     },
     {
-      "time": "06:58",
-      "title": "iPhone Duo画面不具合 交換対応",
+      "time": "07:27",
+      "title": "米MS 6万人に退職パッケージ提示",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600246?source=rss",
-      "publishedAt": "2026-10-26T21:58:24.000Z",
-      "xQuery": "iPhone Duo画面不具合 交換対応"
+      "url": "https://news.yahoo.co.jp/pickup/6600248?source=rss",
+      "publishedAt": "2026-10-26T22:27:23.000Z",
+      "xQuery": "米MS 6万人に退職パッケージ提示"
     }
   ]
 };
