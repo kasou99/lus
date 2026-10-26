@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-26T21:16:00.153Z",
+  "updatedAt": "2026-10-26T21:40:58.358Z",
   "items": [
     {
       "time": "20:49",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "米Anthropic IPO申請書類を公開"
     },
     {
-      "time": "22:03",
-      "title": "氏名誤記の原爆死没者 遺骨返還へ",
+      "time": "23:08",
+      "title": "楽天トラベル 約260万件が流出か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600233?source=rss",
-      "publishedAt": "2026-10-26T13:03:29.000Z",
-      "xQuery": "氏名誤記の原爆死没者 遺骨返還へ"
+      "url": "https://news.yahoo.co.jp/pickup/6600238?source=rss",
+      "publishedAt": "2026-10-26T14:08:22.000Z",
+      "xQuery": "楽天トラベル 約260万件が流出か"
     }
   ]
 };
