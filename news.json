@@ -1,13 +1,20 @@
 {
-  "updatedAt": "2026-10-26T03:24:50.211Z",
+  "updatedAt": "2026-10-26T03:50:12.024Z",
   "groups": {
     "machineHeadlines": [
       {
         "time": "12:00",
         "title": "エルテス[3967]：設備保全のDX化を推進するフィジカルAIカンパニーRoboSapiensに出資、協業開始 2026年10月26日(適時開示) ：日経会社情報DIGITAL",
         "source": "日本経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSkJ0MEZDQ2F0dWwwSE9jSU5PTGFMSUIxSGFMcjI2MGxnRGZqX2dMelR0NGZzcEd4c0dDMGVQS291bE50dFhZNGlzbjFmOXJINFV6aTAxaFlUNkx6bXhVcDZCd1dHX1ZZbldGSVZKSGZYX0tGSTRCSEVzSW5EakhmZlBqNVItd2YxWVd6UjY4QXA1NjVleTBYMV96TWhhNHIxTGYyR3BnODdJckJidk8zTW5USHU4VXlBTWdsbTJVLUEtNDFVYXp3YlRMT1c?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE94WlFMMjhGZ2NqSDdNNnM3bEZ5TGhEb293cTlHdGIxbGtOSXd3LS1Kdk1ick1MOUcxeDJ2SmloSkljbl9wbzdkTF81ak9oZ1RTQzNnYjdCd1d2OWVJb1FSM2tiNVVPcDRXbUE?oc=5",
         "publishedAt": "2026-10-26T03:00:00.000Z"
+      },
+      {
+        "time": "12:30",
+        "title": "三菱電機、北米向け制御盤や装置設計を支援する「SCCRポータル」を公開",
+        "source": "オートメーション新聞WEB",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1jSTBreXBoVlJNTXRBeXVUM0VFeHZPZ09NaXNXWUVWWGFSbF9qT0lGR2pjeHRmV1BPOUcteXc0ZUtUX19ZQ2dRcVNfREV3RTJoaVozbHU5bWNIdw?oc=5",
+        "publishedAt": "2026-10-26T03:30:00.000Z"
       },
       {
         "time": "05:00",
@@ -50,13 +57,6 @@
         "source": "四季報オンライン",
         "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE02Smt1MHN0VWp4RklJY3JLejdLYjNPOV80MU5aeEZ5NFN0OTJ1TVVkMFVPUUd5eGpxVW8yRVE5all4a29URm5WR2JpVjF3RTRuQlZKMXpVNA?oc=5",
         "publishedAt": "2026-10-26T00:45:59.000Z"
-      },
-      {
-        "time": "06:00",
-        "title": "摩擦トルク半減…THKが受注開始、省エネ高精度ボールねじの機能",
-        "source": "ニュースイッチ by 日刊工業新聞社",
-        "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5BWFJDRExZQWJ2MlY4WUFWenctbWpDNGZuUUxSdF9NYmxwZFpEN3hDV3lOSVhPWEJEQWJkamoydVZ0Zw?oc=5",
-        "publishedAt": "2026-10-25T21:00:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -75,13 +75,6 @@
         "publishedAt": "2026-10-25T02:24:45.000Z"
       },
       {
-        "time": "08:20",
-        "title": "フランス全土でデモ再び 厳戒態勢",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600002?source=rss",
-        "publishedAt": "2026-10-24T23:20:04.000Z"
-      },
-      {
         "time": "09:35",
         "title": "ブラジル大統領に現職ルラ氏再選",
         "source": "Yahoo!ニュース",
@@ -94,6 +87,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6600141?source=rss",
         "publishedAt": "2026-10-25T23:22:57.000Z"
+      },
+      {
+        "time": "12:46",
+        "title": "SHEIN 米FTCと1億ドルで和解へ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6600173?source=rss",
+        "publishedAt": "2026-10-26T03:46:53.000Z"
       },
       {
         "time": "18:23",

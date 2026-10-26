@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-26T03:24:51.074Z",
+  "updatedAt": "2026-10-26T03:50:12.787Z",
   "items": [
     {
       "time": "11:50",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "クマに庭先で襲われ 93歳が足骨折"
     },
     {
-      "time": "11:48",
-      "title": "ドトール なぜ安いのに過去最高益",
+      "time": "12:26",
+      "title": "Netflix会員 アプリ利用頻度低下",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600163?source=rss",
-      "publishedAt": "2026-10-26T02:48:09.000Z",
-      "xQuery": "ドトール なぜ安いのに過去最高益"
+      "url": "https://news.yahoo.co.jp/pickup/6600167?source=rss",
+      "publishedAt": "2026-10-26T03:26:33.000Z",
+      "xQuery": "Netflix会員 アプリ利用頻度低下"
     }
   ]
 };
