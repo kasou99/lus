@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-26T10:44:45.937Z",
+  "updatedAt": "2026-10-26T11:19:43.588Z",
   "items": [
     {
-      "time": "17:50",
-      "title": "福田元首相が死去 中国が哀悼の意",
+      "time": "19:11",
+      "title": "サイバー攻撃に緊急対策 首相方針",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600203?source=rss",
-      "publishedAt": "2026-10-26T08:50:33.000Z",
-      "xQuery": "福田元首相が死去 中国が哀悼の意"
+      "url": "https://news.yahoo.co.jp/pickup/6600219?source=rss",
+      "publishedAt": "2026-10-26T10:11:04.000Z",
+      "xQuery": "サイバー攻撃に緊急対策 首相方針"
     },
     {
       "time": "18:47",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "3ピンプラグに2穴 10代感電し入院"
     },
     {
-      "time": "17:14",
-      "title": "中国紙「VIVANT」批判記事を掲載",
+      "time": "19:07",
+      "title": "中国媒体の「VIVANT」批判 背景",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600197?source=rss",
-      "publishedAt": "2026-10-26T08:14:42.000Z",
-      "xQuery": "中国紙「VIVANT」批判記事を掲載"
+      "url": "https://news.yahoo.co.jp/pickup/6600218?source=rss",
+      "publishedAt": "2026-10-26T10:07:04.000Z",
+      "xQuery": "中国媒体の「VIVANT」批判 背景"
     }
   ]
 };
