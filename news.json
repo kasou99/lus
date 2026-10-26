@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T18:27:46.056Z",
+  "updatedAt": "2026-10-26T18:54:39.586Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -52,11 +52,11 @@
         "publishedAt": "2026-10-26T03:00:00.000Z"
       },
       {
-        "time": "13:01",
-        "title": "河北新報社 ビズラボ 河北経済研究所",
-        "source": "河北新報オンライン",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE94TFFQanQ4enpTeUdOLWVHb29aWGIyS0lvbHg0WHRRbGdXUHNuOVptRUNiWldRV252eGZqU0xFMDBuWlE4aDVaejl3WGJqa0czY1ZvcUczVkZzbzV0VUdjbzl5Wk9rUQ?oc=5",
-        "publishedAt": "2026-10-26T04:01:54.000Z"
+        "time": "07:00",
+        "title": "三菱電機、フィジカルAIでヒューマノイドと工作機械が連携する自動化システムを開発",
+        "source": "ASCII.jp",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1qSnFUZDQ3U3ctT1AwRVhMUGZqWWRWT1RzSkVMZi1QLWt3SlZQaEw3c1dpdjBtamZyY0JZcDBBMmZDUGxES1NJOE9CS1RaaldYT29Fbw?oc=5",
+        "publishedAt": "2026-10-25T22:00:00.000Z"
       }
     ],
     "worldHeadlines": [
