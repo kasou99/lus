@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-26T05:45:40.608Z",
+  "updatedAt": "2026-10-26T06:40:16.263Z",
   "items": [
     {
       "time": "14:21",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "セルビア 14年ぶり政権交代へ"
     },
     {
-      "time": "12:31",
-      "title": "武田薬品 胃がん新薬を来年申請へ",
+      "time": "12:46",
+      "title": "SHEIN 米FTCと1億ドルで和解へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600169?source=rss",
-      "publishedAt": "2026-10-26T03:31:59.000Z",
-      "xQuery": "武田薬品 胃がん新薬を来年申請へ"
+      "url": "https://news.yahoo.co.jp/pickup/6600173?source=rss",
+      "publishedAt": "2026-10-26T03:46:53.000Z",
+      "xQuery": "SHEIN 米FTCと1億ドルで和解へ"
     },
     {
       "time": "13:56",
