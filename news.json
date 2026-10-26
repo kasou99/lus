@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-10-26T02:52:16.573Z",
+  "updatedAt": "2026-10-26T03:24:50.211Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "12:00",
+        "title": "エルテス[3967]：設備保全のDX化を推進するフィジカルAIカンパニーRoboSapiensに出資、協業開始 2026年10月26日(適時開示) ：日経会社情報DIGITAL",
+        "source": "日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSkJ0MEZDQ2F0dWwwSE9jSU5PTGFMSUIxSGFMcjI2MGxnRGZqX2dMelR0NGZzcEd4c0dDMGVQS291bE50dFhZNGlzbjFmOXJINFV6aTAxaFlUNkx6bXhVcDZCd1dHX1ZZbldGSVZKSGZYX0tGSTRCSEVzSW5EakhmZlBqNVItd2YxWVd6UjY4QXA1NjVleTBYMV96TWhhNHIxTGYyR3BnODdJckJidk8zTW5USHU4VXlBTWdsbTJVLUEtNDFVYXp3YlRMT1c?oc=5",
+        "publishedAt": "2026-10-26T03:00:00.000Z"
+      },
       {
         "time": "05:00",
         "title": "工作機械、増産体制を整備 受注急拡大、長納期化緩和",
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1jZGxpNm1GVGQzX1hjZ1pCbGxyc0FMMUpZTjd2WnhGWXVudFZQWUNNbGhwZU0yNEhiRFgzRUt1RGpNRi1BaXlIMUkyNTdSWFFFS2dvR0YydlU?oc=5",
         "publishedAt": "2026-10-25T20:00:00.000Z"
-      },
-      {
-        "time": "07:30",
-        "title": "現場データと業務データをCopilotで統合 ファナックとMicrosoftが連携：FAニュース",
-        "source": "MONOist",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9WQnpKUVZzVTF1WmJpcW8tbktSVHliWXNsaS1QRUlMTGRrRVg5blBVRjBFUUQ4NXZEdmQ5MGJIRG03N05hNU53OEVNSWdHdk1hX0cxeEhOdzlmN1RNUmIwMTAyQmdJcG9kemtIN3VBcw?oc=5",
-        "publishedAt": "2026-10-25T22:30:00.000Z"
       },
       {
         "time": "07:00",
@@ -24,11 +24,25 @@
         "publishedAt": "2026-10-25T22:00:00.000Z"
       },
       {
-        "time": "06:00",
-        "title": "摩擦トルク半減…THKが受注開始、省エネ高精度ボールねじの機能",
-        "source": "ニュースイッチ by 日刊工業新聞社",
-        "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5BWFJDRExZQWJ2MlY4WUFWenctbWpDNGZuUUxSdF9NYmxwZFpEN3hDV3lOSVhPWEJEQWJkamoydVZ0Zw?oc=5",
-        "publishedAt": "2026-10-25T21:00:00.000Z"
+        "time": "07:45",
+        "title": "DMG森精機が新たなガントリーローダ 加工機上部を駆け、段取り替えも対応：工作機械",
+        "source": "MONOist",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9Ha0NzUEJXSjN3WDBYQnNhQXE5VjFxYWZ5ZTQ4SmhrMjh3VjdaMExyQV9fOXlTdldTNXBqa1E2MkFDbGp0ZklpYTd4ZzZFd2hhMkttdjZtbl9MWjFfLWpNYTJFbXhON2gtSVFOQ3pwQQ?oc=5",
+        "publishedAt": "2026-10-25T22:45:00.000Z"
+      },
+      {
+        "time": "12:00",
+        "title": "設備保全のDX化を推進するフィジカルAIカンパニーRoboSapiensに出資、協業開始｜Infoseekニュース",
+        "source": "Infoseek",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5VLV8xMnNBS0JzMVkyc2R2MFhsbzVSeDdmR0d4TlcwNkt4YmxNc01ZUE02aFJnMWphR282ZnloOGRmaGRzZHQwNlQtMzJyLTJud1oxZ1ZjVE0tMk9wbTNHNkFISEx5bnlIODZ0LVFB?oc=5",
+        "publishedAt": "2026-10-26T03:00:00.000Z"
+      },
+      {
+        "time": "10:05",
+        "title": "人形ロボットが百億元級の新市場を創出、ボールねじ業界に第2の成長曲線",
+        "source": "BigGo ファイナンス",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1JYkVVLWc5R05DM3ptaE45YnZTRy1uS0NoNnJDVUVJUkRlQXBrZ0RfUU4zdVJMSWxWOHNKOXIwM29vaUpSMkUtN0Z3eFhPeUtETS1fOHFaSTI4dlJBU2c1MmJ6Q0VkVjBmRkRGdHB6V3IzTG1q?oc=5",
+        "publishedAt": "2026-10-26T01:05:00.000Z"
       },
       {
         "time": "09:45",
@@ -38,25 +52,11 @@
         "publishedAt": "2026-10-26T00:45:59.000Z"
       },
       {
-        "time": "07:45",
-        "title": "DMG森精機が新たなガントリーローダ 加工機上部を駆け、段取り替えも対応：工作機械",
-        "source": "MONOist",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9Ha0NzUEJXSjN3WDBYQnNhQXE5VjFxYWZ5ZTQ4SmhrMjh3VjdaMExyQV9fOXlTdldTNXBqa1E2MkFDbGp0ZklpYTd4ZzZFd2hhMkttdjZtbl9MWjFfLWpNYTJFbXhON2gtSVFOQ3pwQQ?oc=5",
-        "publishedAt": "2026-10-25T22:45:00.000Z"
-      },
-      {
-        "time": "10:57",
-        "title": "深層断面／工作機械、受注残消化へ増産 生産能力向上が焦点 AI・半導体急伸に対応",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5pMEJNamhqYUZBUkJ0R0RxZ29KZ3FWQWtpRThSWVM4aVlQb0ZaSGJkdnVmTFFMemtpN0JSbG1YSUJWSnJSUHhXLTJENHF4SkhObXZkVw?oc=5",
-        "publishedAt": "2026-10-26T01:57:57.000Z"
-      },
-      {
-        "time": "19:53",
-        "title": "【探訪・ザ・カンパニー】江口電機（倉敷市）生産ラインの効率化を後押し",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE52Q2Q0M0ZCeGgtMkdTajBHMDVWZVBIaWFzbTRCZm1MaGxzT0tXMTJxTng1QXh1YWFRR29nZ3RTNWhSYjdSdTdtSkplVkVEOVB1dkE?oc=5",
-        "publishedAt": "2026-10-25T10:53:44.000Z"
+        "time": "06:00",
+        "title": "摩擦トルク半減…THKが受注開始、省エネ高精度ボールねじの機能",
+        "source": "ニュースイッチ by 日刊工業新聞社",
+        "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5BWFJDRExZQWJ2MlY4WUFWenctbWpDNGZuUUxSdF9NYmxwZFpEN3hDV3lOSVhPWEJEQWJkamoydVZ0Zw?oc=5",
+        "publishedAt": "2026-10-25T21:00:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -170,25 +170,25 @@
         "publishedAt": "2026-10-25T22:57:27.000Z"
       },
       {
-        "time": "21:17",
-        "title": "事故で脚切断 25歳諦めていた恋愛",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600106?source=rss",
-        "publishedAt": "2026-10-25T12:17:50.000Z"
-      },
-      {
-        "time": "20:11",
-        "title": "イオン爆発犠牲者7人 南側で発見",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600100?source=rss",
-        "publishedAt": "2026-10-25T11:11:59.000Z"
-      },
-      {
         "time": "07:26",
         "title": "和菓子店主殺害 逮捕知り遺族号泣",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6600132?source=rss",
         "publishedAt": "2026-10-25T22:26:53.000Z"
+      },
+      {
+        "time": "11:56",
+        "title": "クマに庭先で襲われ 93歳が足骨折",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6600165?source=rss",
+        "publishedAt": "2026-10-26T02:56:21.000Z"
+      },
+      {
+        "time": "21:17",
+        "title": "事故で脚切断 25歳諦めていた恋愛",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6600106?source=rss",
+        "publishedAt": "2026-10-25T12:17:50.000Z"
       }
     ],
     "subsidyHeadlines": [

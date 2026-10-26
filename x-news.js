@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-26T02:52:17.353Z",
+  "updatedAt": "2026-10-26T03:24:51.074Z",
   "items": [
     {
-      "time": "09:29",
-      "title": "熊本地震 液状化地点の96%で再発",
+      "time": "11:50",
+      "title": "関東 低気圧と前線で27日にかけ雨",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600146?source=rss",
-      "publishedAt": "2026-10-26T00:29:03.000Z",
-      "xQuery": "熊本地震 液状化地点の96%で再発"
+      "url": "https://news.yahoo.co.jp/pickup/6600164?source=rss",
+      "publishedAt": "2026-10-26T02:50:03.000Z",
+      "xQuery": "関東 低気圧と前線で27日にかけ雨"
     },
     {
-      "time": "09:35",
-      "title": "ブラジル大統領に現職ルラ氏再選",
+      "time": "11:07",
+      "title": "カスハラ対策 企業の3割は未着手",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600147?source=rss",
-      "publishedAt": "2026-10-26T00:35:29.000Z",
-      "xQuery": "ブラジル大統領に現職ルラ氏再選"
+      "url": "https://news.yahoo.co.jp/pickup/6600159?source=rss",
+      "publishedAt": "2026-10-26T02:07:52.000Z",
+      "xQuery": "カスハラ対策 企業の3割は未着手"
     },
     {
       "time": "07:26",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "和菓子店主殺害 逮捕知り遺族号泣"
     },
     {
-      "time": "11:20",
-      "title": "暴行され7歳死亡 母に懲役8年求刑",
+      "time": "11:56",
+      "title": "クマに庭先で襲われ 93歳が足骨折",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600161?source=rss",
-      "publishedAt": "2026-10-26T02:20:48.000Z",
-      "xQuery": "暴行され7歳死亡 母に懲役8年求刑"
+      "url": "https://news.yahoo.co.jp/pickup/6600165?source=rss",
+      "publishedAt": "2026-10-26T02:56:21.000Z",
+      "xQuery": "クマに庭先で襲われ 93歳が足骨折"
     },
     {
-      "time": "10:48",
-      "title": "プロ野球観客動員最多 球場で何が",
+      "time": "11:48",
+      "title": "ドトール なぜ安いのに過去最高益",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600158?source=rss",
-      "publishedAt": "2026-10-26T01:48:55.000Z",
-      "xQuery": "プロ野球観客動員最多 球場で何が"
+      "url": "https://news.yahoo.co.jp/pickup/6600163?source=rss",
+      "publishedAt": "2026-10-26T02:48:09.000Z",
+      "xQuery": "ドトール なぜ安いのに過去最高益"
     }
   ]
 };
