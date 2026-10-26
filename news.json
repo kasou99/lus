@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T15:04:51.249Z",
+  "updatedAt": "2026-10-26T15:53:10.626Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -10,18 +10,18 @@
         "publishedAt": "2026-10-26T09:23:20.000Z"
       },
       {
-        "time": "19:04",
-        "title": "日本最大級の工作機械見本市 AI活用した技術など紹介",
-        "source": "NHKニュース",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0taFlhVWNDdkI0YmFuUUVXR2JqMGd1VXlUTzU4cWJqODNybU5oSlZzNm1Nb3doc19MeUFiT0RnblgwMW5ScFFhbXpVSWhsVlJXRldCUUZFbEREVm4xVXhv?oc=5",
-        "publishedAt": "2026-10-26T10:04:59.000Z"
-      },
-      {
         "time": "13:30",
         "title": "工作機械主軸用軸受にグリス潤滑を、NTNが高速長寿命グリスの量産開始",
         "source": "MONOist",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5PR2I3TU0yVlFOQ0c4ajNuUTJ2ZGxTMWJNdmhJczhLWnQzbm9EU3ZZMGxhMTlwZ0xyV1M3Tkd4YnNnTjVnMXdhNjAtMGg0T0VUWFY5ZF9NVXFHbklQTWZFYXVwSEJrRmh4VnctdlRDUQ?oc=5",
         "publishedAt": "2026-10-26T04:30:00.000Z"
+      },
+      {
+        "time": "19:04",
+        "title": "日本最大級の工作機械見本市 AI活用した技術など紹介",
+        "source": "NHKニュース",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0taFlhVWNDdkI0YmFuUUVXR2JqMGd1VXlUTzU4cWJqODNybU5oSlZzNm1Nb3doc19MeUFiT0RnblgwMW5ScFFhbXpVSWhsVlJXRldCUUZFbEREVm4xVXhv?oc=5",
+        "publishedAt": "2026-10-26T10:04:59.000Z"
       },
       {
         "time": "16:56",
@@ -52,11 +52,11 @@
         "publishedAt": "2026-10-25T20:00:00.000Z"
       },
       {
-        "time": "07:00",
-        "title": "三菱電機、フィジカルAIでヒューマノイドと工作機械が連携する自動化システムを開発",
-        "source": "ASCII.jp",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1qSnFUZDQ3U3ctT1AwRVhMUGZqWWRWT1RzSkVMZi1QLWt3SlZQaEw3c1dpdjBtamZyY0JZcDBBMmZDUGxES1NJOE9CS1RaaldYT29Fbw?oc=5",
-        "publishedAt": "2026-10-25T22:00:00.000Z"
+        "time": "13:01",
+        "title": "河北新報社 ビズラボ 河北経済研究所",
+        "source": "河北新報オンライン",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE94TFFQanQ4enpTeUdOLWVHb29aWGIyS0lvbHg0WHRRbGdXUHNuOVptRUNiWldRV252eGZqU0xFMDBuWlE4aDVaejl3WGJqa0czY1ZvcUczVkZzbzV0VUdjbzl5Wk9rUQ?oc=5",
+        "publishedAt": "2026-10-26T04:01:54.000Z"
       }
     ],
     "worldHeadlines": [

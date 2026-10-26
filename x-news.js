@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-26T15:04:52.580Z",
+  "updatedAt": "2026-10-26T15:53:11.249Z",
   "items": [
     {
       "time": "20:49",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "露拘束の記者 大使館員が領事面会"
     },
     {
-      "time": "21:40",
-      "title": "福田康夫さん死去 親子2代で首相",
+      "time": "00:02",
+      "title": "米Anthropic IPO申請書類を公開",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600231?source=rss",
-      "publishedAt": "2026-10-26T12:40:24.000Z",
-      "xQuery": "福田康夫さん死去 親子2代で首相"
+      "url": "https://news.yahoo.co.jp/pickup/6600240?source=rss",
+      "publishedAt": "2026-10-26T15:02:06.000Z",
+      "xQuery": "米Anthropic IPO申請書類を公開"
     },
     {
       "time": "22:03",
