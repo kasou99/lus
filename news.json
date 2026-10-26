@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-26T19:40:36.773Z",
+  "updatedAt": "2026-10-26T20:18:15.281Z",
   "groups": {
     "machineHeadlines": [
       {
-        "time": "13:30",
-        "title": "工作機械主軸用軸受にグリス潤滑を、NTNが高速長寿命グリスの量産開始",
-        "source": "MONOist",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5PR2I3TU0yVlFOQ0c4ajNuUTJ2ZGxTMWJNdmhJczhLWnQzbm9EU3ZZMGxhMTlwZ0xyV1M3Tkd4YnNnTjVnMXdhNjAtMGg0T0VUWFY5ZF9NVXFHbklQTWZFYXVwSEJrRmh4VnctdlRDUQ?oc=5",
-        "publishedAt": "2026-10-26T04:30:00.000Z"
+        "time": "05:00",
+        "title": "工作機械、工程集約に重点 1台で複数加工",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1VOXRwVTFQbDRwanltTXB0ZUZhU0VMcEVwX0ZfZDdqSjZ2Y2JSS1UwdXozX2kxQTBQcGRRLWhmNnNidlJfcVZocGRKazdPNTZRcTBVOGduVHU?oc=5",
+        "publishedAt": "2026-10-26T20:00:00.000Z"
       },
       {
         "time": "18:23",
@@ -15,6 +15,13 @@
         "source": "日本経済新聞",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0wVEZRLWhfeExnRkdJbXpWb29DX3VnVTZSVHBWN016LUNOOWg5UGEwd3lydldaaVB6a0VCdUMxZ0o1dmxhNExwTWFpSTFOWWJWZnEtbWp4M3hvY2UxQnE2aldhZjdGdFlwLVM0Zw?oc=5",
         "publishedAt": "2026-10-26T09:23:20.000Z"
+      },
+      {
+        "time": "13:30",
+        "title": "工作機械主軸用軸受にグリス潤滑を、NTNが高速長寿命グリスの量産開始",
+        "source": "MONOist",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5PR2I3TU0yVlFOQ0c4ajNuUTJ2ZGxTMWJNdmhJczhLWnQzbm9EU3ZZMGxhMTlwZ0xyV1M3Tkd4YnNnTjVnMXdhNjAtMGg0T0VUWFY5ZF9NVXFHbklQTWZFYXVwSEJrRmh4VnctdlRDUQ?oc=5",
+        "publishedAt": "2026-10-26T04:30:00.000Z"
       },
       {
         "time": "19:04",
@@ -43,13 +50,6 @@
         "source": "オートメーション新聞WEB",
         "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1jSTBreXBoVlJNTXRBeXVUM0VFeHZPZ09NaXNXWUVWWGFSbF9qT0lGR2pjeHRmV1BPOUcteXc0ZUtUX19ZQ2dRcVNfREV3RTJoaVozbHU5bWNIdw?oc=5",
         "publishedAt": "2026-10-26T03:30:00.000Z"
-      },
-      {
-        "time": "05:00",
-        "title": "工作機械、増産体制を整備 受注急拡大、長納期化緩和",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1jZGxpNm1GVGQzX1hjZ1pCbGxyc0FMMUpZTjd2WnhGWXVudFZQWUNNbGhwZU0yNEhiRFgzRUt1RGpNRi1BaXlIMUkyNTdSWFFFS2dvR0YydlU?oc=5",
-        "publishedAt": "2026-10-25T20:00:00.000Z"
       },
       {
         "time": "12:00",
