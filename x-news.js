@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-26T04:22:32.730Z",
+  "updatedAt": "2026-10-26T04:49:07.987Z",
   "items": [
     {
       "time": "11:50",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "関東 低気圧と前線で27日にかけ雨"
     },
     {
-      "time": "11:07",
-      "title": "カスハラ対策 企業の3割は未着手",
+      "time": "12:31",
+      "title": "武田薬品 胃がん新薬を来年申請へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600159?source=rss",
-      "publishedAt": "2026-10-26T02:07:52.000Z",
-      "xQuery": "カスハラ対策 企業の3割は未着手"
+      "url": "https://news.yahoo.co.jp/pickup/6600169?source=rss",
+      "publishedAt": "2026-10-26T03:31:59.000Z",
+      "xQuery": "武田薬品 胃がん新薬を来年申請へ"
     },
     {
       "time": "12:49",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "退職倒産が最多 中小企業どう対応"
     },
     {
-      "time": "11:56",
-      "title": "クマに庭先で襲われ 93歳が足骨折",
+      "time": "13:29",
+      "title": "ドクターイエロー後継 客乗せ走行",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600165?source=rss",
-      "publishedAt": "2026-10-26T02:56:21.000Z",
-      "xQuery": "クマに庭先で襲われ 93歳が足骨折"
+      "url": "https://news.yahoo.co.jp/pickup/6600178?source=rss",
+      "publishedAt": "2026-10-26T04:29:04.000Z",
+      "xQuery": "ドクターイエロー後継 客乗せ走行"
     },
     {
       "time": "12:26",
