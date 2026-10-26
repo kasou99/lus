@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-26T03:50:12.787Z",
+  "updatedAt": "2026-10-26T04:22:32.730Z",
   "items": [
     {
       "time": "11:50",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "カスハラ対策 企業の3割は未着手"
     },
     {
-      "time": "07:26",
-      "title": "和菓子店主殺害 逮捕知り遺族号泣",
+      "time": "12:49",
+      "title": "退職倒産が最多 中小企業どう対応",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600132?source=rss",
-      "publishedAt": "2026-10-25T22:26:53.000Z",
-      "xQuery": "和菓子店主殺害 逮捕知り遺族号泣"
+      "url": "https://news.yahoo.co.jp/pickup/6600166?source=rss",
+      "publishedAt": "2026-10-26T03:49:35.000Z",
+      "xQuery": "退職倒産が最多 中小企業どう対応"
     },
     {
       "time": "11:56",
