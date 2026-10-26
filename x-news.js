@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-26T07:35:55.313Z",
+  "updatedAt": "2026-10-26T08:31:16.110Z",
   "items": [
     {
       "time": "15:24",
@@ -10,28 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "福田元首相が死去 高市首相が談話"
     },
     {
-      "time": "14:21",
-      "title": "セルビア 14年ぶり政権交代へ",
+      "time": "16:23",
+      "title": "フーシ派 サウジ石油施設など攻撃",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600182?source=rss",
-      "publishedAt": "2026-10-26T05:21:06.000Z",
-      "xQuery": "セルビア 14年ぶり政権交代へ"
-    },
-    {
-      "time": "12:46",
-      "title": "SHEIN 米FTCと1億ドルで和解へ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600173?source=rss",
-      "publishedAt": "2026-10-26T03:46:53.000Z",
-      "xQuery": "SHEIN 米FTCと1億ドルで和解へ"
-    },
-    {
-      "time": "14:26",
-      "title": "福田元首相が死去 中国でも速報",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600183?source=rss",
-      "publishedAt": "2026-10-26T05:26:54.000Z",
-      "xQuery": "福田元首相が死去 中国でも速報"
+      "url": "https://news.yahoo.co.jp/pickup/6600192?source=rss",
+      "publishedAt": "2026-10-26T07:23:36.000Z",
+      "xQuery": "フーシ派 サウジ石油施設など攻撃"
     },
     {
       "time": "15:38",
@@ -40,6 +24,22 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6600188?source=rss",
       "publishedAt": "2026-10-26T06:38:31.000Z",
       "xQuery": "GMO 攻撃側が100万ドル要求か"
+    },
+    {
+      "time": "15:19",
+      "title": "温泉「無断持ち帰り」 若旦那困惑",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6600187?source=rss",
+      "publishedAt": "2026-10-26T06:19:43.000Z",
+      "xQuery": "温泉「無断持ち帰り」 若旦那困惑"
+    },
+    {
+      "time": "17:14",
+      "title": "中国紙「VIVANT」批判記事を掲載",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6600197?source=rss",
+      "publishedAt": "2026-10-26T08:14:42.000Z",
+      "xQuery": "中国紙「VIVANT」批判記事を掲載"
     }
   ]
 };
