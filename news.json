@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-10-26T18:54:39.586Z",
+  "updatedAt": "2026-10-26T19:15:45.494Z",
   "groups": {
     "machineHeadlines": [
-      {
-        "time": "18:23",
-        "title": "NTN、センサー付き軸受けを発売 工作機械の異常を検出",
-        "source": "日本経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0wVEZRLWhfeExnRkdJbXpWb29DX3VnVTZSVHBWN016LUNOOWg5UGEwd3lydldaaVB6a0VCdUMxZ0o1dmxhNExwTWFpSTFOWWJWZnEtbWp4M3hvY2UxQnE2aldhZjdGdFlwLVM0Zw?oc=5",
-        "publishedAt": "2026-10-26T09:23:20.000Z"
-      },
       {
         "time": "13:30",
         "title": "工作機械主軸用軸受にグリス潤滑を、NTNが高速長寿命グリスの量産開始",
         "source": "MONOist",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5PR2I3TU0yVlFOQ0c4ajNuUTJ2ZGxTMWJNdmhJczhLWnQzbm9EU3ZZMGxhMTlwZ0xyV1M3Tkd4YnNnTjVnMXdhNjAtMGg0T0VUWFY5ZF9NVXFHbklQTWZFYXVwSEJrRmh4VnctdlRDUQ?oc=5",
         "publishedAt": "2026-10-26T04:30:00.000Z"
+      },
+      {
+        "time": "18:23",
+        "title": "NTN、センサー付き軸受けを発売 工作機械の異常を検出",
+        "source": "日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0wVEZRLWhfeExnRkdJbXpWb29DX3VnVTZSVHBWN016LUNOOWg5UGEwd3lydldaaVB6a0VCdUMxZ0o1dmxhNExwTWFpSTFOWWJWZnEtbWp4M3hvY2UxQnE2aldhZjdGdFlwLVM0Zw?oc=5",
+        "publishedAt": "2026-10-26T09:23:20.000Z"
       },
       {
         "time": "19:04",
@@ -38,6 +38,13 @@
         "publishedAt": "2026-10-26T03:30:00.000Z"
       },
       {
+        "time": "07:00",
+        "title": "三菱電機、フィジカルAIでヒューマノイドと工作機械が連携する自動化システムを開発",
+        "source": "ASCII.jp",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1qSnFUZDQ3U3ctT1AwRVhMUGZqWWRWT1RzSkVMZi1QLWt3SlZQaEw3c1dpdjBtamZyY0JZcDBBMmZDUGxES1NJOE9CS1RaaldYT29Fbw?oc=5",
+        "publishedAt": "2026-10-25T22:00:00.000Z"
+      },
+      {
         "time": "05:00",
         "title": "工作機械、増産体制を整備 受注急拡大、長納期化緩和",
         "source": "日刊工業新聞",
@@ -45,18 +52,11 @@
         "publishedAt": "2026-10-25T20:00:00.000Z"
       },
       {
-        "time": "12:00",
-        "title": "設備保全のDX化を推進するフィジカルAIカンパニーRoboSapiensに出資、協業開始",
-        "source": "北海道新聞デジタル",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWFlncmc2WEMzM3c0ZWJIRGNwOTE5WVY0NGtQRUNhdThMS2xxZ2JPSGt6b1duVk9wcl95RXduN2IydmI4UUVDS3FSdXVobU8waFpSdTFnaEV6RTdXbzdTcUZ1UnFrS0pOWE9iakQ3aTRoT0VObnAyTWp5NG4wVWtKRVJJb0QyeHQzd0tLd3hLMHZ6VkdBMTZhUzk2dGFwLTE2bEVGTmlWaWFWZ0MzZGw1VkphcjNqazlRT1E?oc=5",
-        "publishedAt": "2026-10-26T03:00:00.000Z"
-      },
-      {
-        "time": "07:00",
-        "title": "三菱電機、フィジカルAIでヒューマノイドと工作機械が連携する自動化システムを開発",
-        "source": "ASCII.jp",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1qSnFUZDQ3U3ctT1AwRVhMUGZqWWRWT1RzSkVMZi1QLWt3SlZQaEw3c1dpdjBtamZyY0JZcDBBMmZDUGxES1NJOE9CS1RaaldYT29Fbw?oc=5",
-        "publishedAt": "2026-10-25T22:00:00.000Z"
+        "time": "17:56",
+        "title": "日本の工作機械見本市に台湾企業90社以上が出展 製造の柔軟性などアピール",
+        "source": "ライブドアニュース",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8zR1p0RDZDaHhhTHBqdjlmUkNnQkYwR2gyVEk2c1N3SElCaWNHUjBtS1JGOFU0S2VfODJsSXRqeXVpM3VSNjNVWUFPbGVjcTFoWWQzbktFR0dzdEtVeVZF?oc=5",
+        "publishedAt": "2026-10-26T08:56:01.000Z"
       }
     ],
     "worldHeadlines": [
