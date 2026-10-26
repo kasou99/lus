@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T08:31:14.319Z",
+  "updatedAt": "2026-10-26T09:28:36.401Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,13 +31,6 @@
         "publishedAt": "2026-10-25T20:00:00.000Z"
       },
       {
-        "time": "13:01",
-        "title": "河北新報社 ビズラボ 河北経済研究所",
-        "source": "河北新報オンライン",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE94TFFQanQ4enpTeUdOLWVHb29aWGIyS0lvbHg0WHRRbGdXUHNuOVptRUNiWldRV252eGZqU0xFMDBuWlE4aDVaejl3WGJqa0czY1ZvcUczVkZzbzV0VUdjbzl5Wk9rUQ?oc=5",
-        "publishedAt": "2026-10-26T04:01:54.000Z"
-      },
-      {
         "time": "07:00",
         "title": "三菱電機、フィジカルAIでヒューマノイドと工作機械が連携する自動化システムを開発",
         "source": "ASCII.jp",
@@ -45,11 +38,18 @@
         "publishedAt": "2026-10-25T22:00:00.000Z"
       },
       {
-        "time": "12:00",
-        "title": "エルテス[3967]：設備保全のDX化を推進するフィジカルAIカンパニーRoboSapiensに出資、協業開始 2026年10月26日(適時開示) ：日経会社情報DIGITAL",
+        "time": "13:01",
+        "title": "河北新報社 ビズラボ 河北経済研究所",
+        "source": "河北新報オンライン",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE94TFFQanQ4enpTeUdOLWVHb29aWGIyS0lvbHg0WHRRbGdXUHNuOVptRUNiWldRV252eGZqU0xFMDBuWlE4aDVaejl3WGJqa0czY1ZvcUczVkZzbzV0VUdjbzl5Wk9rUQ?oc=5",
+        "publishedAt": "2026-10-26T04:01:54.000Z"
+      },
+      {
+        "time": "18:23",
+        "title": "NTN、センサー付き軸受けを発売 工作機械の異常を検出",
         "source": "日本経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSkJ0MEZDQ2F0dWwwSE9jSU5PTGFMSUIxSGFMcjI2MGxnRGZqX2dMelR0NGZzcEd4c0dDMGVQS291bE50dFhZNGlzbjFmOXJINFV6aTAxaFlUNkx6bXhVcDZCd1dHX1ZZbldGSVZKSGZYX0tGSTRCSEVzSW5EakhmZlBqNVItd2YxWVd6UjY4QXA1NjVleTBYMV96TWhhNHIxTGYyR3BnODdJckJidk8zTW5USHU4VXlBTWdsbTJVLUEtNDFVYXp3YlRMT1c?oc=5",
-        "publishedAt": "2026-10-26T03:00:00.000Z"
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0wVEZRLWhfeExnRkdJbXpWb29DX3VnVTZSVHBWN016LUNOOWg5UGEwd3lydldaaVB6a0VCdUMxZ0o1dmxhNExwTWFpSTFOWWJWZnEtbWp4M3hvY2UxQnE2aldhZjdGdFlwLVM0Zw?oc=5",
+        "publishedAt": "2026-10-26T09:23:20.000Z"
       },
       {
         "time": "12:00",
@@ -60,6 +60,13 @@
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "17:50",
+        "title": "福田元首相が死去 中国が哀悼の意",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6600203?source=rss",
+        "publishedAt": "2026-10-26T08:50:33.000Z"
+      },
       {
         "time": "14:26",
         "title": "福田元首相が死去 中国でも速報",
@@ -87,13 +94,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6600182?source=rss",
         "publishedAt": "2026-10-26T05:21:06.000Z"
-      },
-      {
-        "time": "08:22",
-        "title": "平和賞マチャド氏 ベネズエラ帰国",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600141?source=rss",
-        "publishedAt": "2026-10-25T23:22:57.000Z"
       },
       {
         "time": "12:46",
@@ -163,6 +163,13 @@
         "publishedAt": "2026-10-25T22:57:27.000Z"
       },
       {
+        "time": "18:00",
+        "title": "米軍嘉手納基地 中国BYD車を禁止",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6600210?source=rss",
+        "publishedAt": "2026-10-26T09:00:54.000Z"
+      },
+      {
         "time": "07:26",
         "title": "和菓子店主殺害 逮捕知り遺族号泣",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6600198?source=rss",
         "publishedAt": "2026-10-26T08:18:41.000Z"
-      },
-      {
-        "time": "21:17",
-        "title": "事故で脚切断 25歳諦めていた恋愛",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600106?source=rss",
-        "publishedAt": "2026-10-25T12:17:50.000Z"
       }
     ],
     "subsidyHeadlines": [

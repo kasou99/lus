@@ -1,37 +1,37 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-26T08:31:16.110Z",
+  "updatedAt": "2026-10-26T09:28:37.129Z",
   "items": [
     {
-      "time": "15:24",
-      "title": "福田元首相が死去 高市首相が談話",
+      "time": "17:50",
+      "title": "福田元首相が死去 中国が哀悼の意",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600189?source=rss",
-      "publishedAt": "2026-10-26T06:24:50.000Z",
-      "xQuery": "福田元首相が死去 高市首相が談話"
+      "url": "https://news.yahoo.co.jp/pickup/6600203?source=rss",
+      "publishedAt": "2026-10-26T08:50:33.000Z",
+      "xQuery": "福田元首相が死去 中国が哀悼の意"
     },
     {
-      "time": "16:23",
-      "title": "フーシ派 サウジ石油施設など攻撃",
+      "time": "18:00",
+      "title": "米軍嘉手納基地 中国BYD車を禁止",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600192?source=rss",
-      "publishedAt": "2026-10-26T07:23:36.000Z",
-      "xQuery": "フーシ派 サウジ石油施設など攻撃"
+      "url": "https://news.yahoo.co.jp/pickup/6600210?source=rss",
+      "publishedAt": "2026-10-26T09:00:54.000Z",
+      "xQuery": "米軍嘉手納基地 中国BYD車を禁止"
     },
     {
-      "time": "15:38",
-      "title": "GMO 攻撃側が100万ドル要求か",
+      "time": "17:46",
+      "title": "3ピンプラグに2穴 10代感電し入院",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600188?source=rss",
-      "publishedAt": "2026-10-26T06:38:31.000Z",
-      "xQuery": "GMO 攻撃側が100万ドル要求か"
+      "url": "https://news.yahoo.co.jp/pickup/6600207?source=rss",
+      "publishedAt": "2026-10-26T08:46:20.000Z",
+      "xQuery": "3ピンプラグに2穴 10代感電し入院"
     },
     {
-      "time": "15:19",
-      "title": "温泉「無断持ち帰り」 若旦那困惑",
+      "time": "17:18",
+      "title": "職場で同僚が心肺停止 6人で救命",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600187?source=rss",
-      "publishedAt": "2026-10-26T06:19:43.000Z",
-      "xQuery": "温泉「無断持ち帰り」 若旦那困惑"
+      "url": "https://news.yahoo.co.jp/pickup/6600198?source=rss",
+      "publishedAt": "2026-10-26T08:18:41.000Z",
+      "xQuery": "職場で同僚が心肺停止 6人で救命"
     },
     {
       "time": "17:14",
