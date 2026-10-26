@@ -1,20 +1,13 @@
 {
-  "updatedAt": "2026-10-26T10:20:21.891Z",
+  "updatedAt": "2026-10-26T10:44:45.146Z",
   "groups": {
     "machineHeadlines": [
       {
-        "time": "16:11",
-        "title": "工作機械も「フィジカルAI元年」 JIMTOF開幕、自動･自律運転前面に",
+        "time": "18:23",
+        "title": "NTN、センサー付き軸受けを発売 工作機械の異常を検出",
         "source": "日本経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0tMjJnMHdtcF9OTzFsaXc0YmMxV0g3SkN1amN2YWxlNDJWc3l4aks2dWVMeHRXVm1UVXNxbWkycHZIWWxNeTVub1d0ZGJ2UEhXMXhuLXQ2UUdYY0xYSDFfeDllcXIyM0ljSkJRTA?oc=5",
-        "publishedAt": "2026-10-26T07:11:18.000Z"
-      },
-      {
-        "time": "13:30",
-        "title": "工作機械主軸用軸受にグリス潤滑を、NTNが高速長寿命グリスの量産開始",
-        "source": "MONOist",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5PR2I3TU0yVlFOQ0c4ajNuUTJ2ZGxTMWJNdmhJczhLWnQzbm9EU3ZZMGxhMTlwZ0xyV1M3Tkd4YnNnTjVnMXdhNjAtMGg0T0VUWFY5ZF9NVXFHbklQTWZFYXVwSEJrRmh4VnctdlRDUQ?oc=5",
-        "publishedAt": "2026-10-26T04:30:00.000Z"
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0wVEZRLWhfeExnRkdJbXpWb29DX3VnVTZSVHBWN016LUNOOWg5UGEwd3lydldaaVB6a0VCdUMxZ0o1dmxhNExwTWFpSTFOWWJWZnEtbWp4M3hvY2UxQnE2aldhZjdGdFlwLVM0Zw?oc=5",
+        "publishedAt": "2026-10-26T09:23:20.000Z"
       },
       {
         "time": "19:04",
@@ -22,6 +15,13 @@
         "source": "NHKニュース",
         "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0taFlhVWNDdkI0YmFuUUVXR2JqMGd1VXlUTzU4cWJqODNybU5oSlZzNm1Nb3doc19MeUFiT0RnblgwMW5ScFFhbXpVSWhsVlJXRldCUUZFbEREVm4xVXhv?oc=5",
         "publishedAt": "2026-10-26T10:04:59.000Z"
+      },
+      {
+        "time": "13:30",
+        "title": "工作機械主軸用軸受にグリス潤滑を、NTNが高速長寿命グリスの量産開始",
+        "source": "MONOist",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5PR2I3TU0yVlFOQ0c4ajNuUTJ2ZGxTMWJNdmhJczhLWnQzbm9EU3ZZMGxhMTlwZ0xyV1M3Tkd4YnNnTjVnMXdhNjAtMGg0T0VUWFY5ZF9NVXFHbklQTWZFYXVwSEJrRmh4VnctdlRDUQ?oc=5",
+        "publishedAt": "2026-10-26T04:30:00.000Z"
       },
       {
         "time": "16:56",
@@ -38,11 +38,11 @@
         "publishedAt": "2026-10-26T03:30:00.000Z"
       },
       {
-        "time": "18:23",
-        "title": "NTN、センサー付き軸受けを発売 工作機械の異常を検出",
+        "time": "16:11",
+        "title": "工作機械も「フィジカルAI元年」 JIMTOF開幕、自動･自律運転前面に",
         "source": "日本経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0wVEZRLWhfeExnRkdJbXpWb29DX3VnVTZSVHBWN016LUNOOWg5UGEwd3lydldaaVB6a0VCdUMxZ0o1dmxhNExwTWFpSTFOWWJWZnEtbWp4M3hvY2UxQnE2aldhZjdGdFlwLVM0Zw?oc=5",
-        "publishedAt": "2026-10-26T09:23:20.000Z"
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0tMjJnMHdtcF9OTzFsaXc0YmMxV0g3SkN1amN2YWxlNDJWc3l4aks2dWVMeHRXVm1UVXNxbWkycHZIWWxNeTVub1d0ZGJ2UEhXMXhuLXQ2UUdYY0xYSDFfeDllcXIyM0ljSkJRTA?oc=5",
+        "publishedAt": "2026-10-26T07:11:18.000Z"
       },
       {
         "time": "05:00",

@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-26T10:20:22.978Z",
+  "updatedAt": "2026-10-26T10:44:45.937Z",
   "items": [
     {
       "time": "17:50",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "Joshin 600万件超の情報漏えいか"
     },
     {
-      "time": "18:00",
-      "title": "米軍嘉手納基地 中国BYD車を禁止",
+      "time": "19:28",
+      "title": "GMOに攻撃 当初は約80億円要求",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600210?source=rss",
-      "publishedAt": "2026-10-26T09:00:54.000Z",
-      "xQuery": "米軍嘉手納基地 中国BYD車を禁止"
+      "url": "https://news.yahoo.co.jp/pickup/6600222?source=rss",
+      "publishedAt": "2026-10-26T10:28:04.000Z",
+      "xQuery": "GMOに攻撃 当初は約80億円要求"
     },
     {
       "time": "17:46",
