@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-26T00:48:17.980Z",
+  "updatedAt": "2026-10-26T01:32:10.122Z",
   "items": [
+    {
+      "time": "09:29",
+      "title": "熊本地震 液状化地点の96%で再発",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6600146?source=rss",
+      "publishedAt": "2026-10-26T00:29:03.000Z",
+      "xQuery": "熊本地震 液状化地点の96%で再発"
+    },
     {
       "time": "09:35",
       "title": "ブラジル大統領に現職ルラ氏再選",
@@ -8,22 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6600147?source=rss",
       "publishedAt": "2026-10-26T00:35:29.000Z",
       "xQuery": "ブラジル大統領に現職ルラ氏再選"
-    },
-    {
-      "time": "08:22",
-      "title": "平和賞マチャド氏 ベネズエラ帰国",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600141?source=rss",
-      "publishedAt": "2026-10-25T23:22:57.000Z",
-      "xQuery": "平和賞マチャド氏 ベネズエラ帰国"
-    },
-    {
-      "time": "07:26",
-      "title": "和菓子店主殺害 逮捕知り遺族号泣",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600132?source=rss",
-      "publishedAt": "2026-10-25T22:26:53.000Z",
-      "xQuery": "和菓子店主殺害 逮捕知り遺族号泣"
     },
     {
       "time": "09:27",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6600144?source=rss",
       "publishedAt": "2026-10-25T23:50:31.000Z",
       "xQuery": "電車が駅で140m過ぎて停車 戻らず"
+    },
+    {
+      "time": "10:22",
+      "title": "プロ野球観客動員が史上最多 なぜ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6600155?source=rss",
+      "publishedAt": "2026-10-26T01:22:05.000Z",
+      "xQuery": "プロ野球観客動員が史上最多 なぜ"
     }
   ]
 };

@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-26T00:48:17.146Z",
+  "updatedAt": "2026-10-26T01:32:09.195Z",
   "groups": {
     "machineHeadlines": [
       {
-        "time": "07:45",
-        "title": "DMG森精機が新たなガントリーローダ 加工機上部を駆け、段取り替えも対応：工作機械",
-        "source": "MONOist",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9Ha0NzUEJXSjN3WDBYQnNhQXE5VjFxYWZ5ZTQ4SmhrMjh3VjdaMExyQV9fOXlTdldTNXBqa1E2MkFDbGp0ZklpYTd4ZzZFd2hhMkttdjZtbl9MWjFfLWpNYTJFbXhON2gtSVFOQ3pwQQ?oc=5",
-        "publishedAt": "2026-10-25T22:45:00.000Z"
+        "time": "05:00",
+        "title": "工作機械、増産体制を整備 受注急拡大、長納期化緩和",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1jZGxpNm1GVGQzX1hjZ1pCbGxyc0FMMUpZTjd2WnhGWXVudFZQWUNNbGhwZU0yNEhiRFgzRUt1RGpNRi1BaXlIMUkyNTdSWFFFS2dvR0YydlU?oc=5",
+        "publishedAt": "2026-10-25T20:00:00.000Z"
       },
       {
         "time": "07:00",
@@ -17,11 +17,32 @@
         "publishedAt": "2026-10-25T22:00:00.000Z"
       },
       {
+        "time": "07:45",
+        "title": "DMG森精機が新たなガントリーローダ 加工機上部を駆け、段取り替えも対応：工作機械",
+        "source": "MONOist",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9Ha0NzUEJXSjN3WDBYQnNhQXE5VjFxYWZ5ZTQ4SmhrMjh3VjdaMExyQV9fOXlTdldTNXBqa1E2MkFDbGp0ZklpYTd4ZzZFd2hhMkttdjZtbl9MWjFfLWpNYTJFbXhON2gtSVFOQ3pwQQ?oc=5",
+        "publishedAt": "2026-10-25T22:45:00.000Z"
+      },
+      {
+        "time": "09:45",
+        "title": "ファナックが3日ぶり反発､27年3月期予想増額で自己株買いも",
+        "source": "四季報オンライン",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE02Smt1MHN0VWp4RklJY3JLejdLYjNPOV80MU5aeEZ5NFN0OTJ1TVVkMFVPUUd5eGpxVW8yRVE5all4a29URm5WR2JpVjF3RTRuQlZKMXpVNA?oc=5",
+        "publishedAt": "2026-10-26T00:45:59.000Z"
+      },
+      {
         "time": "06:00",
         "title": "摩擦トルク半減…THKが受注開始、省エネ高精度ボールねじの機能",
         "source": "ニュースイッチ by 日刊工業新聞社",
         "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5BWFJDRExZQWJ2MlY4WUFWenctbWpDNGZuUUxSdF9NYmxwZFpEN3hDV3lOSVhPWEJEQWJkamoydVZ0Zw?oc=5",
         "publishedAt": "2026-10-25T21:00:00.000Z"
+      },
+      {
+        "time": "08:32",
+        "title": "前場に注目すべき3つのポイント〜ファナック決算を受けたフィジカルAI関連株への物色に期待〜",
+        "source": "ｄメニューニュース",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNEpRRzFENGNpUnhrWHdrdDNVWnYzRGd0a1hVVnZEQXJvRW1WZDYwSWlUbTVfQXBueWVRbUkxRG5qWlJnd0V6VVRwR3NvU0I1SFVkQllSTlhKWXFoS0pJTHRVc0xGRmQyRlh4Z1B2T3R1Zkp0bkUyem9NVU9oYXZ6Q0xKcmtLQWxSMjRhR9IBjAFBVV95cUxQNEpRRzFENGNpUnhrWHdrdDNVWnYzRGd0a1hVVnZEQXJvRW1WZDYwSWlUbTVfQXBueWVRbUkxRG5qWlJnd0V6VVRwR3NvU0I1SFVkQllSTlhKWXFoS0pJTHRVc0xGRmQyRlh4Z1B2T3R1Zkp0bkUyem9NVU9oYXZ6Q0xKcmtLQWxSMjRhRw?oc=5",
+        "publishedAt": "2026-10-25T23:32:00.000Z"
       },
       {
         "time": "05:00",
@@ -31,32 +52,11 @@
         "publishedAt": "2026-10-25T20:00:00.000Z"
       },
       {
-        "time": "19:22",
-        "title": "電線の端材でストラップ制作 Ｍ．Ｓ．Ｅ．が商品化",
+        "time": "19:53",
+        "title": "【探訪・ザ・カンパニー】江口電機（倉敷市）生産ラインの効率化を後押し",
         "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TOThSZjN5eER3TlU3MHo0RE9lLXdpRFVod2Mtams1bFZvcjBKQnpvSFYxMjJPYm5HZVd5RlhtcHlTN3R2OGdVLUs5THBCQVVCWEE?oc=5",
-        "publishedAt": "2026-10-25T10:22:59.000Z"
-      },
-      {
-        "time": "05:02",
-        "title": "深層断面／工作機械、受注残消化へ増産 生産能力向上が焦点 AI・半導体急伸に対応",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5pMEJNamhqYUZBUkJ0R0RxZ29KZ3FWQWtpRThSWVM4aVlQb0ZaSGJkdnVmTFFMemtpN0JSbG1YSUJWSnJSUHhXLTJENHF4SkhObXZkVw?oc=5",
-        "publishedAt": "2026-10-25T20:02:28.000Z"
-      },
-      {
-        "time": "05:00",
-        "title": "津根精機／丸鋸切断機モデルチェンジ／きょう発売／保守容易、生産効率１．５倍超",
-        "source": "日刊鉄鋼新聞 Japan Metal Daily",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5nTUNGbXZ6eWVEUjd3N3h4UFBaM0ItTVFxZERGQ3IwTzF3LWw4aUZlcGVOWTFhRnNmcWFyQUpMSElDYjNtMUlHZjUxV1lZWklKaGRXQzFCYXgxaTdJVUE?oc=5",
-        "publishedAt": "2026-10-25T20:00:00.000Z"
-      },
-      {
-        "time": "05:00",
-        "title": "JIMTOFきょう開幕 AI・DXで製造業高度化",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9GX3ZMLVN4WXRqV0gtLWVMdVJTMmx2MVpiM0hUa09JRnVGZFBTSWtHLXNiYVJta293T3RzZGJqWDBaZDl1UkRLeUVBay0tdklZMXZNdmlmckE?oc=5",
-        "publishedAt": "2026-10-25T20:00:00.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE52Q2Q0M0ZCeGgtMkdTajBHMDVWZVBIaWFzbTRCZm1MaGxzT0tXMTJxTng1QXh1YWFRR29nZ3RTNWhSYjdSdTdtSkplVkVEOVB1dkE?oc=5",
+        "publishedAt": "2026-10-25T10:53:44.000Z"
       }
     ],
     "worldHeadlines": [
@@ -119,13 +119,6 @@
         "publishedAt": "2026-10-25T13:45:23.000Z"
       },
       {
-        "time": "12:30",
-        "title": "10月FOMCは金利据え置きか 焦点",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600038?source=rss",
-        "publishedAt": "2026-10-25T03:30:33.000Z"
-      },
-      {
         "time": "08:02",
         "title": "コニカミノルタ「社内副業」狙い",
         "source": "Yahoo!ニュース",
@@ -145,6 +138,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6600033?source=rss",
         "publishedAt": "2026-10-25T02:39:16.000Z"
+      },
+      {
+        "time": "13:55",
+        "title": "退職代行「バブル」崩壊? なぜ今",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6600048?source=rss",
+        "publishedAt": "2026-10-25T04:55:39.000Z"
       }
     ],
     "localHeadlines": [
