@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T09:28:36.401Z",
+  "updatedAt": "2026-10-26T09:53:08.180Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -24,6 +24,13 @@
         "publishedAt": "2026-10-26T03:30:00.000Z"
       },
       {
+        "time": "18:23",
+        "title": "NTN、センサー付き軸受けを発売 工作機械の異常を検出",
+        "source": "日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0wVEZRLWhfeExnRkdJbXpWb29DX3VnVTZSVHBWN016LUNOOWg5UGEwd3lydldaaVB6a0VCdUMxZ0o1dmxhNExwTWFpSTFOWWJWZnEtbWp4M3hvY2UxQnE2aldhZjdGdFlwLVM0Zw?oc=5",
+        "publishedAt": "2026-10-26T09:23:20.000Z"
+      },
+      {
         "time": "05:00",
         "title": "工作機械、増産体制を整備 受注急拡大、長納期化緩和",
         "source": "日刊工業新聞",
@@ -43,13 +50,6 @@
         "source": "河北新報オンライン",
         "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE94TFFQanQ4enpTeUdOLWVHb29aWGIyS0lvbHg0WHRRbGdXUHNuOVptRUNiWldRV252eGZqU0xFMDBuWlE4aDVaejl3WGJqa0czY1ZvcUczVkZzbzV0VUdjbzl5Wk9rUQ?oc=5",
         "publishedAt": "2026-10-26T04:01:54.000Z"
-      },
-      {
-        "time": "18:23",
-        "title": "NTN、センサー付き軸受けを発売 工作機械の異常を検出",
-        "source": "日本経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0wVEZRLWhfeExnRkdJbXpWb29DX3VnVTZSVHBWN016LUNOOWg5UGEwd3lydldaaVB6a0VCdUMxZ0o1dmxhNExwTWFpSTFOWWJWZnEtbWp4M3hvY2UxQnE2aldhZjdGdFlwLVM0Zw?oc=5",
-        "publishedAt": "2026-10-26T09:23:20.000Z"
       },
       {
         "time": "12:00",

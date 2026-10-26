@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-26T09:28:37.129Z",
+  "updatedAt": "2026-10-26T09:53:08.943Z",
   "items": [
     {
       "time": "17:50",
@@ -8,6 +8,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6600203?source=rss",
       "publishedAt": "2026-10-26T08:50:33.000Z",
       "xQuery": "福田元首相が死去 中国が哀悼の意"
+    },
+    {
+      "time": "18:47",
+      "title": "Joshin 600万件超の情報漏えいか",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6600214?source=rss",
+      "publishedAt": "2026-10-26T09:47:14.000Z",
+      "xQuery": "Joshin 600万件超の情報漏えいか"
     },
     {
       "time": "18:00",
@@ -24,14 +32,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6600207?source=rss",
       "publishedAt": "2026-10-26T08:46:20.000Z",
       "xQuery": "3ピンプラグに2穴 10代感電し入院"
-    },
-    {
-      "time": "17:18",
-      "title": "職場で同僚が心肺停止 6人で救命",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600198?source=rss",
-      "publishedAt": "2026-10-26T08:18:41.000Z",
-      "xQuery": "職場で同僚が心肺停止 6人で救命"
     },
     {
       "time": "17:14",
