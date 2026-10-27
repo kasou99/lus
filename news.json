@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-10-27T17:37:12.122Z",
+  "updatedAt": "2026-10-27T18:15:01.487Z",
   "groups": {
     "machineHeadlines": [
-      {
-        "time": "06:45",
-        "title": "三菱電機が描く工作機械×AIの未来、人手不足や技能伝承の「切り札」となるか：JIMTOF2026",
-        "source": "MONOist",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5RQ0w3dlYwcDIyMk5reDVZM2tJMEdCQXpfOXZkWWtvR3dFYVRsOEhHSV9pLTV1YUNac0piR2RzaE9VbkU0VjVkbHVfbDlzR0p0MVJ1QlR5TFJYQTQ2T2REQ1VFNU1EWDJleWx4cmVrOA?oc=5",
-        "publishedAt": "2026-10-26T21:45:00.000Z"
-      },
       {
         "time": "17:14",
         "title": "牧野フライス、工作機械の新製品 金型生産の工程集約",
         "source": "日本経済新聞",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE53dEVhaTY1R2p3Q1dNRFdQV1lNZ2NGYk1jRmZGc1lQZC1jY1VEbEltem9McmF4QWlJU2NaZEZmX25FcUxuSDMzWGVxdEpuQl9PWDVjU09ieV9VYkFlQ0NSWVN1UnZEbFdfVXRpcg?oc=5",
         "publishedAt": "2026-10-27T08:14:51.000Z"
+      },
+      {
+        "time": "06:45",
+        "title": "三菱電機が描く工作機械×AIの未来、人手不足や技能伝承の「切り札」となるか：JIMTOF2026",
+        "source": "MONOist",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5RQ0w3dlYwcDIyMk5reDVZM2tJMEdCQXpfOXZkWWtvR3dFYVRsOEhHSV9pLTV1YUNac0piR2RzaE9VbkU0VjVkbHVfbDlzR0p0MVJ1QlR5TFJYQTQ2T2REQ1VFNU1EWDJleWx4cmVrOA?oc=5",
+        "publishedAt": "2026-10-26T21:45:00.000Z"
       },
       {
         "time": "15:35",
