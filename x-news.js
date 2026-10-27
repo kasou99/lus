@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-27T05:44:06.409Z",
+  "updatedAt": "2026-10-27T06:30:21.763Z",
   "items": [
     {
-      "time": "12:31",
-      "title": "米中間選挙 共和党牙城で野党猛追",
+      "time": "14:58",
+      "title": "イラン攻撃長期化 米兵遺族の訴え",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600291?source=rss",
-      "publishedAt": "2026-10-27T03:31:05.000Z",
-      "xQuery": "米中間選挙 共和党牙城で野党猛追"
+      "url": "https://news.yahoo.co.jp/pickup/6600303?source=rss",
+      "publishedAt": "2026-10-27T05:58:25.000Z",
+      "xQuery": "イラン攻撃長期化 米兵遺族の訴え"
     },
     {
       "time": "13:33",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "FX不正アクセス 5社で顧客被害"
     },
     {
-      "time": "13:24",
-      "title": "GMO攻撃者 個人情報1件を公開か",
+      "time": "14:38",
+      "title": "GMO攻撃者「個人情報毎日公開」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600296?source=rss",
-      "publishedAt": "2026-10-27T04:24:03.000Z",
-      "xQuery": "GMO攻撃者 個人情報1件を公開か"
+      "url": "https://news.yahoo.co.jp/pickup/6600302?source=rss",
+      "publishedAt": "2026-10-27T05:38:34.000Z",
+      "xQuery": "GMO攻撃者「個人情報毎日公開」"
     },
     {
       "time": "10:27",

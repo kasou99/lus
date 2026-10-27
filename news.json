@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T05:44:05.821Z",
+  "updatedAt": "2026-10-27T06:30:20.883Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,6 +31,13 @@
         "publishedAt": "2026-10-26T20:00:35.000Z"
       },
       {
+        "time": "06:15",
+        "title": "最新鋭の工作機械とAI、ロボティクスで製造業の課題に挑む JIMTOF2026が開幕",
+        "source": "MONOist",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBSLUdtdlAzTFJFRUliMTlQSjVIR0t4VmVhMkJUenkzalVzUFJ3bkh3M3dVMlVDYi11bXBtMXZ6SmxBb3dXSkMxbFl1bXRvRUEyNmJ2alNTaE9Pd3JTY2VWMmptcThSX0NxaTRyMTR4Zw?oc=5",
+        "publishedAt": "2026-10-26T21:15:00.000Z"
+      },
+      {
         "time": "19:04",
         "title": "日本最大級の工作機械見本市 AI活用した技術など紹介",
         "source": "NHKニュース",
@@ -45,13 +52,6 @@
         "publishedAt": "2026-10-26T21:30:50.000Z"
       },
       {
-        "time": "06:15",
-        "title": "最新鋭の工作機械とAI、ロボティクスで製造業の課題に挑む JIMTOF2026が開幕",
-        "source": "MONOist",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBSLUdtdlAzTFJFRUliMTlQSjVIR0t4VmVhMkJUenkzalVzUFJ3bkh3M3dVMlVDYi11bXBtMXZ6SmxBb3dXSkMxbFl1bXRvRUEyNmJ2alNTaE9Pd3JTY2VWMmptcThSX0NxaTRyMTR4Zw?oc=5",
-        "publishedAt": "2026-10-26T21:15:00.000Z"
-      },
-      {
         "time": "17:56",
         "title": "日本の工作機械見本市に台湾企業90社以上が出展 製造の柔軟性などアピール",
         "source": "フォーカス台湾",
@@ -60,6 +60,13 @@
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "14:58",
+        "title": "イラン攻撃長期化 米兵遺族の訴え",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6600303?source=rss",
+        "publishedAt": "2026-10-27T05:58:25.000Z"
+      },
       {
         "time": "11:44",
         "title": "露占領下のウ南部が停戦 人道支援",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6600281?source=rss",
         "publishedAt": "2026-10-27T04:42:02.000Z"
-      },
-      {
-        "time": "11:22",
-        "title": "米大統領との面会後悔 司教ら謝罪",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600278?source=rss",
-        "publishedAt": "2026-10-27T02:22:48.000Z"
       }
     ],
     "economyHeadlines": [
