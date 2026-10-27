@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T11:16:45.799Z",
+  "updatedAt": "2026-10-27T11:42:30.730Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,6 +38,13 @@
         "publishedAt": "2026-10-26T20:00:00.000Z"
       },
       {
+        "time": "16:05",
+        "title": "歴史的特需の工作機械 調達力と大型化で大手優位？ ヴェリタスEYE（10月27日）",
+        "source": "日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5hanJ5eGU3WW54eHA2ZzZZZHdzUjk0OHg2dGR1bGlEYzFpU09zbkVoWXhHaVpReVVjMWdVVkMteG1ialFHVmxncVJnRnQ1SEZVN19Ua0sxZFZfd3AwTWlydHJuTUk4a2xsZ1VwcXIybHNHS2gtaDB5eDZaWGtsQQ?oc=5",
+        "publishedAt": "2026-10-27T07:05:30.000Z"
+      },
+      {
         "time": "05:00",
         "title": "ロボと環境の情報統合 工作機械が突破口（上）フィジカルAI実装へ 精密動作と汎化能力両立",
         "source": "日刊工業新聞",
@@ -50,16 +57,16 @@
         "source": "MONOist",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBSLUdtdlAzTFJFRUliMTlQSjVIR0t4VmVhMkJUenkzalVzUFJ3bkh3M3dVMlVDYi11bXBtMXZ6SmxBb3dXSkMxbFl1bXRvRUEyNmJ2alNTaE9Pd3JTY2VWMmptcThSX0NxaTRyMTR4Zw?oc=5",
         "publishedAt": "2026-10-26T21:15:00.000Z"
-      },
-      {
-        "time": "06:30",
-        "title": "設計から加工・検査までデータでつなぐ、シーメンスがJIMTOF 2026で描く工作機械の未来",
-        "source": "マイナビニュース",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0xc1hFMVhYbHprbFpqdjVEU2pTeGsyS0gzQ1hfMG5RQ0xmWkhQdnNaYnVqS3pHNE0wTnhmYU44YlNKTkNDS1pYVUJ0bE9jUENrUlUwUjYteWU4MlhsSnVWVnIzbVFHSE92?oc=5",
-        "publishedAt": "2026-10-26T21:30:50.000Z"
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "20:30",
+        "title": "習近平氏 福田康夫氏の遺族に弔電",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6600336?source=rss",
+        "publishedAt": "2026-10-27T11:30:45.000Z"
+      },
       {
         "time": "14:58",
         "title": "イラン攻撃長期化 米兵遺族の訴え",
@@ -80,13 +87,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6600333?source=rss",
         "publishedAt": "2026-10-27T10:41:37.000Z"
-      },
-      {
-        "time": "10:27",
-        "title": "高校生らのデモ受け改革案発表 仏",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600269?source=rss",
-        "publishedAt": "2026-10-27T01:27:22.000Z"
       },
       {
         "time": "13:42",
