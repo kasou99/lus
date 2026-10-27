@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-27T12:54:07.651Z",
+  "updatedAt": "2026-10-27T13:22:25.286Z",
   "items": [
     {
-      "time": "20:30",
-      "title": "習近平氏 福田康夫氏の遺族に弔電",
+      "time": "21:56",
+      "title": "副首都 要件満たせば4道府県指定",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600336?source=rss",
-      "publishedAt": "2026-10-27T11:30:45.000Z",
-      "xQuery": "習近平氏 福田康夫氏の遺族に弔電"
+      "url": "https://news.yahoo.co.jp/pickup/6600343?source=rss",
+      "publishedAt": "2026-10-27T12:56:31.000Z",
+      "xQuery": "副首都 要件満たせば4道府県指定"
     },
     {
-      "time": "19:41",
-      "title": "キーウの「京都公園」にミサイル",
+      "time": "13:42",
+      "title": "習近平氏「弱い官僚」求める背景",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600333?source=rss",
-      "publishedAt": "2026-10-27T10:41:37.000Z",
-      "xQuery": "キーウの「京都公園」にミサイル"
+      "url": "https://news.yahoo.co.jp/pickup/6600281?source=rss",
+      "publishedAt": "2026-10-27T04:42:02.000Z",
+      "xQuery": "習近平氏「弱い官僚」求める背景"
     },
     {
       "time": "21:34",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "GMO 被害者に最大300万円見舞金"
     },
     {
-      "time": "19:18",
-      "title": "バス運転手19人インフル感染 減便",
+      "time": "20:46",
+      "title": "So-netなど258万件超が漏えい",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600332?source=rss",
-      "publishedAt": "2026-10-27T10:18:41.000Z",
-      "xQuery": "バス運転手19人インフル感染 減便"
+      "url": "https://news.yahoo.co.jp/pickup/6600338?source=rss",
+      "publishedAt": "2026-10-27T11:46:12.000Z",
+      "xQuery": "So-netなど258万件超が漏えい"
     },
     {
-      "time": "20:42",
-      "title": "ユニクロ 50色ソックス値上げ撤回",
+      "time": "22:17",
+      "title": "25歳店長自殺 スマホに残した動画",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600339?source=rss",
-      "publishedAt": "2026-10-27T11:42:48.000Z",
-      "xQuery": "ユニクロ 50色ソックス値上げ撤回"
+      "url": "https://news.yahoo.co.jp/pickup/6600348?source=rss",
+      "publishedAt": "2026-10-27T13:17:18.000Z",
+      "xQuery": "25歳店長自殺 スマホに残した動画"
     }
   ]
 };
