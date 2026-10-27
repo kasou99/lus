@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T23:10:31.344Z",
+  "updatedAt": "2026-10-27T23:36:21.103Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,6 +38,13 @@
         "publishedAt": "2026-10-27T06:35:00.000Z"
       },
       {
+        "time": "05:00",
+        "title": "ＪＩＭＴＯＦ２０２６ （中） 変種変量へ柔軟に対応 複雑形状部品の加工にも 置き換え需要",
+        "source": "中部経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE12eGxQb3ZSYkZ1eFNxQlIwUUVvTU55ODVxamJrWm1IX3U5QlJyeEhtUXJjNENPSXVRek1NRU94YXJlMUx4ZFFURkFKUTg1TG9HdnhSUFlPTkViSm9QRzRidU1JeUtiQWJBeEYwSFBrVWhjQzA?oc=5",
+        "publishedAt": "2026-10-27T20:00:00.000Z"
+      },
+      {
         "time": "00:00",
         "title": "工作機械業、27年は景気回復か＝半導体需要など",
         "source": "NNAアジア",
@@ -50,13 +57,6 @@
         "source": "カナロコ",
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8wNGY5eGh1a0M4MmFaYkxScTJ1M2lPNktzZjVtRjVGSzkwcEZJcFdDSzczZlVraVJ5Si1ualNqOGptYXBnaEJtd0VjWUlnNm1OS004aFl4RjQxVDNjRXQ4aERRYUVSYnRV?oc=5",
         "publishedAt": "2026-10-27T10:10:00.000Z"
-      },
-      {
-        "time": "06:45",
-        "title": "DMG森精機が描く無人化工場、工具組み立てから切りくず排出まで自動化：JIMTOF2026",
-        "source": "MONOist",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ZSUdUU3NrclBvdVlkZjNGMTRWRkxPcURlMS01cDFJd0NsRnJiOWIxM0xIQkptdDRWNzNFcHlQakhZNGlDOXE3VmNtV09hZjNNdlFCbEJaemZNTmt3cVZRSFR4WUI5X09nZkdsRTZzMA?oc=5",
-        "publishedAt": "2026-10-27T21:45:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -66,6 +66,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6600366?source=rss",
         "publishedAt": "2026-10-27T22:54:29.000Z"
+      },
+      {
+        "time": "08:16",
+        "title": "ボルソナロ氏亡命か 米認める方針",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6600370?source=rss",
+        "publishedAt": "2026-10-27T23:16:19.000Z"
       },
       {
         "time": "20:30",
@@ -87,13 +94,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6600333?source=rss",
         "publishedAt": "2026-10-27T10:41:37.000Z"
-      },
-      {
-        "time": "13:42",
-        "title": "習近平氏「弱い官僚」求める背景",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600281?source=rss",
-        "publishedAt": "2026-10-27T04:42:02.000Z"
       },
       {
         "time": "11:22",
@@ -163,11 +163,11 @@
         "publishedAt": "2026-10-27T22:52:13.000Z"
       },
       {
-        "time": "07:14",
-        "title": "ビルの窓の清掃中に転落か 死亡",
+        "time": "08:27",
+        "title": "遺跡発掘中 土砂に埋もれ女性死亡",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600362?source=rss",
-        "publishedAt": "2026-10-27T22:14:38.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6600373?source=rss",
+        "publishedAt": "2026-10-27T23:27:06.000Z"
       },
       {
         "time": "06:09",
@@ -177,18 +177,18 @@
         "publishedAt": "2026-10-27T21:09:03.000Z"
       },
       {
+        "time": "07:14",
+        "title": "ビルの窓の清掃中に転落か 死亡",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6600362?source=rss",
+        "publishedAt": "2026-10-27T22:14:38.000Z"
+      },
+      {
         "time": "18:50",
         "title": "助成金詐欺罪 市議と妻を在宅起訴",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6600329?source=rss",
         "publishedAt": "2026-10-27T09:50:35.000Z"
-      },
-      {
-        "time": "22:17",
-        "title": "25歳店長自殺 スマホに残した動画",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600348?source=rss",
-        "publishedAt": "2026-10-27T13:17:18.000Z"
       }
     ],
     "subsidyHeadlines": [

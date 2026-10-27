@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-27T23:10:32.436Z",
+  "updatedAt": "2026-10-27T23:36:21.793Z",
   "items": [
     {
       "time": "07:54",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "GMO攻撃 被害者は「恐怖しか」"
     },
     {
-      "time": "07:52",
-      "title": "勾留の男性死亡 遺族が都など提訴",
+      "time": "06:09",
+      "title": "原付の男性死亡 高速道で車と衝突",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600365?source=rss",
-      "publishedAt": "2026-10-27T22:52:13.000Z",
-      "xQuery": "勾留の男性死亡 遺族が都など提訴"
+      "url": "https://news.yahoo.co.jp/pickup/6600355?source=rss",
+      "publishedAt": "2026-10-27T21:09:03.000Z",
+      "xQuery": "原付の男性死亡 高速道で車と衝突"
     },
     {
-      "time": "22:17",
-      "title": "25歳店長自殺 スマホに残した動画",
+      "time": "08:27",
+      "title": "遺跡発掘中 土砂に埋もれ女性死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600348?source=rss",
-      "publishedAt": "2026-10-27T13:17:18.000Z",
-      "xQuery": "25歳店長自殺 スマホに残した動画"
+      "url": "https://news.yahoo.co.jp/pickup/6600373?source=rss",
+      "publishedAt": "2026-10-27T23:27:06.000Z",
+      "xQuery": "遺跡発掘中 土砂に埋もれ女性死亡"
     }
   ]
 };
