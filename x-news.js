@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-27T07:46:49.216Z",
+  "updatedAt": "2026-10-27T08:24:52.425Z",
   "items": [
     {
       "time": "15:43",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "浜岡原発差し止め裁判 請求却下"
     },
     {
-      "time": "14:59",
-      "title": "モンゴル火災 政府が専門家派遣へ",
+      "time": "15:55",
+      "title": "武部農相 選挙運動費報告「訂正」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600304?source=rss",
-      "publishedAt": "2026-10-27T05:59:24.000Z",
-      "xQuery": "モンゴル火災 政府が専門家派遣へ"
+      "url": "https://news.yahoo.co.jp/pickup/6600308?source=rss",
+      "publishedAt": "2026-10-27T06:55:16.000Z",
+      "xQuery": "武部農相 選挙運動費報告「訂正」"
     },
     {
       "time": "14:38",
