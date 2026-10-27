@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-27T03:21:13.034Z",
+  "updatedAt": "2026-10-27T03:47:32.557Z",
   "items": [
     {
-      "time": "11:59",
-      "title": "漫画家・ちばてつやさん死去",
+      "time": "12:31",
+      "title": "米中間選挙 共和党牙城で野党猛追",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600287?source=rss",
-      "publishedAt": "2026-10-27T02:59:40.000Z",
-      "xQuery": "漫画家・ちばてつやさん死去"
+      "url": "https://news.yahoo.co.jp/pickup/6600291?source=rss",
+      "publishedAt": "2026-10-27T03:31:05.000Z",
+      "xQuery": "米中間選挙 共和党牙城で野党猛追"
     },
     {
-      "time": "11:44",
-      "title": "露占領下のウ南部が停戦 人道支援",
+      "time": "11:08",
+      "title": "米メタ15兆円資金調達へ 計画発表",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600280?source=rss",
-      "publishedAt": "2026-10-27T02:44:40.000Z",
-      "xQuery": "露占領下のウ南部が停戦 人道支援"
+      "url": "https://news.yahoo.co.jp/pickup/6600273?source=rss",
+      "publishedAt": "2026-10-27T02:08:41.000Z",
+      "xQuery": "米メタ15兆円資金調達へ 計画発表"
     },
     {
       "time": "11:02",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "4歳傷害致死 同居男性に2審も無罪"
     },
     {
-      "time": "11:22",
-      "title": "米大統領との面会後悔 司教ら謝罪",
+      "time": "11:36",
+      "title": "ピル服用と更年期の関係 医師解説",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600278?source=rss",
-      "publishedAt": "2026-10-27T02:22:48.000Z",
-      "xQuery": "米大統領との面会後悔 司教ら謝罪"
+      "url": "https://news.yahoo.co.jp/pickup/6600279?source=rss",
+      "publishedAt": "2026-10-27T02:36:37.000Z",
+      "xQuery": "ピル服用と更年期の関係 医師解説"
     }
   ]
 };
