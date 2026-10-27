@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-27T02:48:37.022Z",
+  "updatedAt": "2026-10-27T03:21:13.034Z",
   "items": [
+    {
+      "time": "11:59",
+      "title": "漫画家・ちばてつやさん死去",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6600287?source=rss",
+      "publishedAt": "2026-10-27T02:59:40.000Z",
+      "xQuery": "漫画家・ちばてつやさん死去"
+    },
     {
       "time": "11:44",
       "title": "露占領下のウ南部が停戦 人道支援",
@@ -8,14 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6600280?source=rss",
       "publishedAt": "2026-10-27T02:44:40.000Z",
       "xQuery": "露占領下のウ南部が停戦 人道支援"
-    },
-    {
-      "time": "10:40",
-      "title": "元検事正が無罪主張 性的暴行事件",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600270?source=rss",
-      "publishedAt": "2026-10-27T01:40:56.000Z",
-      "xQuery": "元検事正が無罪主張 性的暴行事件"
     },
     {
       "time": "11:02",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "GMO 利用者に「PC電源切って」"
     },
     {
+      "time": "12:16",
+      "title": "4歳傷害致死 同居男性に2審も無罪",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6600289?source=rss",
+      "publishedAt": "2026-10-27T03:16:38.000Z",
+      "xQuery": "4歳傷害致死 同居男性に2審も無罪"
+    },
+    {
       "time": "11:22",
       "title": "米大統領との面会後悔 司教ら謝罪",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6600278?source=rss",
       "publishedAt": "2026-10-27T02:22:48.000Z",
       "xQuery": "米大統領との面会後悔 司教ら謝罪"
-    },
-    {
-      "time": "11:13",
-      "title": "北九州で女性を殺害未遂疑い 逮捕",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600276?source=rss",
-      "publishedAt": "2026-10-27T02:13:44.000Z",
-      "xQuery": "北九州で女性を殺害未遂疑い 逮捕"
     }
   ]
 };
