@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-27T07:24:16.501Z",
+  "updatedAt": "2026-10-27T07:46:49.216Z",
   "items": [
     {
-      "time": "14:58",
-      "title": "イラン攻撃長期化 米兵遺族の訴え",
+      "time": "15:43",
+      "title": "浜岡原発差し止め裁判 請求却下",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600303?source=rss",
-      "publishedAt": "2026-10-27T05:58:25.000Z",
-      "xQuery": "イラン攻撃長期化 米兵遺族の訴え"
+      "url": "https://news.yahoo.co.jp/pickup/6600307?source=rss",
+      "publishedAt": "2026-10-27T06:43:52.000Z",
+      "xQuery": "浜岡原発差し止め裁判 請求却下"
     },
     {
       "time": "14:59",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "FX不正アクセス 5社で顧客被害"
     },
     {
-      "time": "13:52",
-      "title": "AI社員の失敗 問われる人間の責任",
+      "time": "16:13",
+      "title": "シニア社員向け「孫休暇」広がる",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600286?source=rss",
-      "publishedAt": "2026-10-27T04:52:18.000Z",
-      "xQuery": "AI社員の失敗 問われる人間の責任"
+      "url": "https://news.yahoo.co.jp/pickup/6600309?source=rss",
+      "publishedAt": "2026-10-27T07:13:02.000Z",
+      "xQuery": "シニア社員向け「孫休暇」広がる"
     }
   ]
 };

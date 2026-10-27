@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T07:24:15.510Z",
+  "updatedAt": "2026-10-27T07:46:48.343Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -10,17 +10,24 @@
         "publishedAt": "2026-10-26T21:45:00.000Z"
       },
       {
-        "time": "15:58",
+        "time": "15:35",
         "title": "歴史的特需の工作機械 調達力と大型化で大手優位？",
         "source": "日経CNBC online",
         "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0zbXUyUmRVUEVvdjNwUkNhVjJBZHdCUWdNSDlXYUhOV0tOMlBraEVNYzd2bnU2SlZqSElpLURzWDEwaDVpaWxNS0ZFVGdRMEItV094MA?oc=5",
-        "publishedAt": "2026-10-27T06:58:05.000Z"
+        "publishedAt": "2026-10-27T06:35:00.000Z"
       },
       {
         "time": "05:00",
         "title": "第３３回日本国際工作機械見本市 ＪＩＭＴＯＦ２０２６ （上） ものづくり「高度化」支える ＡＩ融合、最適な形を模索",
         "source": "中部経済新聞",
         "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5vTVN3WU5CU3N4QlExU2hLV3dhMm1RWTgyWllNdndzbnFnNXN0dTJHTkVITnVIcGxRNHRlNVRpWnJDOVFHNXg5QzAxM2hDU2dHc3ZJT1pTdHNBSlZLeTZYcDh4MHl1YkVSZHRzX01hVjZ3eWs?oc=5",
+        "publishedAt": "2026-10-26T20:00:00.000Z"
+      },
+      {
+        "time": "05:00",
+        "title": "工作機械、工程集約に重点 1台で複数加工",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1VOXRwVTFQbDRwanltTXB0ZUZhU0VMcEVwX0ZfZDdqSjZ2Y2JSS1UwdXozX2kxQTBQcGRRLWhmNnNidlJfcVZocGRKazdPNTZRcTBVOGduVHU?oc=5",
         "publishedAt": "2026-10-26T20:00:00.000Z"
       },
       {
@@ -50,13 +57,6 @@
         "source": "マイナビニュース",
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0xc1hFMVhYbHprbFpqdjVEU2pTeGsyS0gzQ1hfMG5RQ0xmWkhQdnNaYnVqS3pHNE0wTnhmYU44YlNKTkNDS1pYVUJ0bE9jUENrUlUwUjYteWU4MlhsSnVWVnIzbVFHSE92?oc=5",
         "publishedAt": "2026-10-26T21:30:50.000Z"
-      },
-      {
-        "time": "19:04",
-        "title": "日本最大級の工作機械見本市 AI活用した技術など紹介",
-        "source": "NHKニュース",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0taFlhVWNDdkI0YmFuUUVXR2JqMGd1VXlUTzU4cWJqODNybU5oSlZzNm1Nb3doc19MeUFiT0RnblgwMW5ScFFhbXpVSWhsVlJXRldCUUZFbEREVm4xVXhv?oc=5",
-        "publishedAt": "2026-10-26T10:04:59.000Z"
       }
     ],
     "worldHeadlines": [
