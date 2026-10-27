@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-27T04:20:09.459Z",
+  "updatedAt": "2026-10-27T04:45:54.150Z",
   "items": [
     {
       "time": "12:31",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "米メタ15兆円資金調達へ 計画発表"
     },
     {
-      "time": "13:14",
-      "title": "GMO攻撃者 顧客情報一部掲載か",
+      "time": "13:24",
+      "title": "GMO攻撃者 個人情報1件を公開か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600294?source=rss",
-      "publishedAt": "2026-10-27T04:14:06.000Z",
-      "xQuery": "GMO攻撃者 顧客情報一部掲載か"
+      "url": "https://news.yahoo.co.jp/pickup/6600296?source=rss",
+      "publishedAt": "2026-10-27T04:24:03.000Z",
+      "xQuery": "GMO攻撃者 個人情報1件を公開か"
     },
     {
       "time": "12:16",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "4歳傷害致死 同居男性に2審も無罪"
     },
     {
-      "time": "11:36",
-      "title": "ピル服用と更年期の関係 医師解説",
+      "time": "12:27",
+      "title": "大分大元教授の医師逮捕 背任疑い",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600279?source=rss",
-      "publishedAt": "2026-10-27T02:36:37.000Z",
-      "xQuery": "ピル服用と更年期の関係 医師解説"
+      "url": "https://news.yahoo.co.jp/pickup/6600288?source=rss",
+      "publishedAt": "2026-10-27T03:27:40.000Z",
+      "xQuery": "大分大元教授の医師逮捕 背任疑い"
     }
   ]
 };
