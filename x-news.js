@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-27T05:18:00.766Z",
+  "updatedAt": "2026-10-27T05:44:06.409Z",
   "items": [
     {
       "time": "12:31",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "米中間選挙 共和党牙城で野党猛追"
     },
     {
-      "time": "10:27",
-      "title": "高校生らのデモ受け改革案発表 仏",
+      "time": "13:33",
+      "title": "FX不正アクセス 5社で顧客被害",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600269?source=rss",
-      "publishedAt": "2026-10-27T01:27:22.000Z",
-      "xQuery": "高校生らのデモ受け改革案発表 仏"
+      "url": "https://news.yahoo.co.jp/pickup/6600277?source=rss",
+      "publishedAt": "2026-10-27T04:33:20.000Z",
+      "xQuery": "FX不正アクセス 5社で顧客被害"
     },
     {
       "time": "13:24",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "GMO攻撃者 個人情報1件を公開か"
     },
     {
-      "time": "12:16",
-      "title": "4歳傷害致死 同居男性に2審も無罪",
+      "time": "10:27",
+      "title": "高校生らのデモ受け改革案発表 仏",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600289?source=rss",
-      "publishedAt": "2026-10-27T03:16:38.000Z",
-      "xQuery": "4歳傷害致死 同居男性に2審も無罪"
+      "url": "https://news.yahoo.co.jp/pickup/6600269?source=rss",
+      "publishedAt": "2026-10-27T01:27:22.000Z",
+      "xQuery": "高校生らのデモ受け改革案発表 仏"
     },
     {
       "time": "12:27",
