@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-27T10:18:03.505Z",
+  "updatedAt": "2026-10-27T10:43:39.727Z",
   "items": [
     {
       "time": "18:28",
@@ -8,14 +8,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6600325?source=rss",
       "publishedAt": "2026-10-27T09:28:41.000Z",
       "xQuery": "北日本 今季一番強い寒気襲来へ"
-    },
-    {
-      "time": "16:56",
-      "title": "猪苗代湖ボート事故 禁錮2年確定",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600313?source=rss",
-      "publishedAt": "2026-10-27T07:56:30.000Z",
-      "xQuery": "猪苗代湖ボート事故 禁錮2年確定"
     },
     {
       "time": "17:45",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "GMO攻撃者「個人情報毎日公開」"
     },
     {
-      "time": "18:49",
-      "title": "歩道工事の火で書店火災か 憤り",
+      "time": "18:50",
+      "title": "助成金詐欺罪 市議と妻を在宅起訴",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600328?source=rss",
-      "publishedAt": "2026-10-27T09:49:04.000Z",
-      "xQuery": "歩道工事の火で書店火災か 憤り"
+      "url": "https://news.yahoo.co.jp/pickup/6600329?source=rss",
+      "publishedAt": "2026-10-27T09:50:35.000Z",
+      "xQuery": "助成金詐欺罪 市議と妻を在宅起訴"
+    },
+    {
+      "time": "19:18",
+      "title": "バス運転手19人インフル感染 減便",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6600332?source=rss",
+      "publishedAt": "2026-10-27T10:18:41.000Z",
+      "xQuery": "バス運転手19人インフル感染 減便"
     }
   ]
 };
