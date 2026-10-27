@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-27T21:10:47.621Z",
+  "updatedAt": "2026-10-27T21:36:48.730Z",
   "items": [
     {
       "time": "23:36",
@@ -10,14 +10,6 @@ window.LUS_X_NEWS = {
       "xQuery": "イオン熊本 一部再開意向を伝える"
     },
     {
-      "time": "21:56",
-      "title": "副首都 要件満たせば4道府県指定",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600343?source=rss",
-      "publishedAt": "2026-10-27T12:56:31.000Z",
-      "xQuery": "副首都 要件満たせば4道府県指定"
-    },
-    {
       "time": "23:14",
       "title": "GMO不正アクセス 警視庁が捜査",
       "source": "Yahoo!ニュース",
@@ -26,20 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "GMO不正アクセス 警視庁が捜査"
     },
     {
-      "time": "20:46",
-      "title": "So-netなど258万件超が漏えい",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600338?source=rss",
-      "publishedAt": "2026-10-27T11:46:12.000Z",
-      "xQuery": "So-netなど258万件超が漏えい"
-    },
-    {
       "time": "22:17",
       "title": "25歳店長自殺 スマホに残した動画",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6600348?source=rss",
       "publishedAt": "2026-10-27T13:17:18.000Z",
       "xQuery": "25歳店長自殺 スマホに残した動画"
+    },
+    {
+      "time": "06:09",
+      "title": "原付の男性死亡 高速道で車と衝突",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6600355?source=rss",
+      "publishedAt": "2026-10-27T21:09:03.000Z",
+      "xQuery": "原付の男性死亡 高速道で車と衝突"
+    },
+    {
+      "time": "19:20",
+      "title": "たまごの平均価格 最高値を更新",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6600331?source=rss",
+      "publishedAt": "2026-10-27T10:20:28.000Z",
+      "xQuery": "たまごの平均価格 最高値を更新"
     }
   ]
 };
