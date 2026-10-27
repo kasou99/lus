@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-27T10:43:39.727Z",
+  "updatedAt": "2026-10-27T11:16:46.955Z",
   "items": [
     {
       "time": "18:28",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "ニデック 創業者ら9人を提訴へ"
     },
     {
+      "time": "19:41",
+      "title": "キーウの「京都公園」にミサイル",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6600333?source=rss",
+      "publishedAt": "2026-10-27T10:41:37.000Z",
+      "xQuery": "キーウの「京都公園」にミサイル"
+    },
+    {
       "time": "14:38",
       "title": "GMO攻撃者「個人情報毎日公開」",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6600302?source=rss",
       "publishedAt": "2026-10-27T05:38:34.000Z",
       "xQuery": "GMO攻撃者「個人情報毎日公開」"
-    },
-    {
-      "time": "18:50",
-      "title": "助成金詐欺罪 市議と妻を在宅起訴",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600329?source=rss",
-      "publishedAt": "2026-10-27T09:50:35.000Z",
-      "xQuery": "助成金詐欺罪 市議と妻を在宅起訴"
     },
     {
       "time": "19:18",
