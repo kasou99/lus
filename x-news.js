@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-27T08:49:05.346Z",
+  "updatedAt": "2026-10-27T09:20:13.866Z",
   "items": [
     {
       "time": "15:43",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "猪苗代湖ボート事故 禁錮2年確定"
     },
     {
-      "time": "14:38",
-      "title": "GMO攻撃者「個人情報毎日公開」",
+      "time": "17:45",
+      "title": "ニデック 創業者ら9人を提訴へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600302?source=rss",
-      "publishedAt": "2026-10-27T05:38:34.000Z",
-      "xQuery": "GMO攻撃者「個人情報毎日公開」"
+      "url": "https://news.yahoo.co.jp/pickup/6600319?source=rss",
+      "publishedAt": "2026-10-27T08:45:36.000Z",
+      "xQuery": "ニデック 創業者ら9人を提訴へ"
     },
     {
-      "time": "16:13",
-      "title": "シニア社員向け「孫休暇」広がる",
+      "time": "18:06",
+      "title": "ミセス×ガスト企画で持ち去り被害",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600309?source=rss",
-      "publishedAt": "2026-10-27T07:13:02.000Z",
-      "xQuery": "シニア社員向け「孫休暇」広がる"
+      "url": "https://news.yahoo.co.jp/pickup/6600320?source=rss",
+      "publishedAt": "2026-10-27T09:06:52.000Z",
+      "xQuery": "ミセス×ガスト企画で持ち去り被害"
     }
   ]
 };
