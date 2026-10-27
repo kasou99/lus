@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-27T09:20:13.866Z",
+  "updatedAt": "2026-10-27T09:45:25.018Z",
   "items": [
     {
-      "time": "15:43",
-      "title": "浜岡原発差し止め裁判 請求却下",
+      "time": "18:28",
+      "title": "北日本 今季一番強い寒気襲来へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600307?source=rss",
-      "publishedAt": "2026-10-27T06:43:52.000Z",
-      "xQuery": "浜岡原発差し止め裁判 請求却下"
+      "url": "https://news.yahoo.co.jp/pickup/6600325?source=rss",
+      "publishedAt": "2026-10-27T09:28:41.000Z",
+      "xQuery": "北日本 今季一番強い寒気襲来へ"
     },
     {
       "time": "15:55",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "ニデック 創業者ら9人を提訴へ"
     },
     {
-      "time": "18:06",
-      "title": "ミセス×ガスト企画で持ち去り被害",
+      "time": "18:22",
+      "title": "ユニクロ ソックス価格改定を中止",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600320?source=rss",
-      "publishedAt": "2026-10-27T09:06:52.000Z",
-      "xQuery": "ミセス×ガスト企画で持ち去り被害"
+      "url": "https://news.yahoo.co.jp/pickup/6600324?source=rss",
+      "publishedAt": "2026-10-27T09:22:21.000Z",
+      "xQuery": "ユニクロ ソックス価格改定を中止"
     }
   ]
 };

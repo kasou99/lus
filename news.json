@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-10-27T09:20:13.169Z",
+  "updatedAt": "2026-10-27T09:45:24.171Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "17:14",
+        "title": "牧野フライス、工作機械の新製品 金型生産の工程集約",
+        "source": "日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE53dEVhaTY1R2p3Q1dNRFdQV1lNZ2NGYk1jRmZGc1lQZC1jY1VEbEltem9McmF4QWlJU2NaZEZmX25FcUxuSDMzWGVxdEpuQl9PWDVjU09ieV9VYkFlQ0NSWVN1UnZEbFdfVXRpcg?oc=5",
+        "publishedAt": "2026-10-27T08:14:51.000Z"
+      },
       {
         "time": "06:45",
         "title": "三菱電機が描く工作機械×AIの未来、人手不足や技能伝承の「切り札」となるか：JIMTOF2026",
@@ -17,24 +24,10 @@
         "publishedAt": "2026-10-27T06:35:00.000Z"
       },
       {
-        "time": "17:14",
-        "title": "牧野フライス、工作機械の新製品 金型生産の工程集約",
-        "source": "日本経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE53dEVhaTY1R2p3Q1dNRFdQV1lNZ2NGYk1jRmZGc1lQZC1jY1VEbEltem9McmF4QWlJU2NaZEZmX25FcUxuSDMzWGVxdEpuQl9PWDVjU09ieV9VYkFlQ0NSWVN1UnZEbFdfVXRpcg?oc=5",
-        "publishedAt": "2026-10-27T08:14:51.000Z"
-      },
-      {
         "time": "05:00",
         "title": "第３３回日本国際工作機械見本市 ＪＩＭＴＯＦ２０２６ （上） ものづくり「高度化」支える ＡＩ融合、最適な形を模索",
         "source": "中部経済新聞",
         "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5vTVN3WU5CU3N4QlExU2hLV3dhMm1RWTgyWllNdndzbnFnNXN0dTJHTkVITnVIcGxRNHRlNVRpWnJDOVFHNXg5QzAxM2hDU2dHc3ZJT1pTdHNBSlZLeTZYcDh4MHl1YkVSZHRzX01hVjZ3eWs?oc=5",
-        "publishedAt": "2026-10-26T20:00:00.000Z"
-      },
-      {
-        "time": "05:00",
-        "title": "ロボと環境の情報統合 工作機械が突破口（上）フィジカルAI実装へ 精密動作と汎化能力両立",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9lcXUwS3JoX21jSnZOak5IdVJ3bDNpaW8zQ2FrNU9JNGx4d0tWajBvTzR4V24zbVJpRC1QRFZRczk2djhMM2dOc3hLM1VKcE1IYTQ2U3Rpc1U?oc=5",
         "publishedAt": "2026-10-26T20:00:00.000Z"
       },
       {
@@ -50,6 +43,13 @@
         "source": "マイナビニュース",
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0xc1hFMVhYbHprbFpqdjVEU2pTeGsyS0gzQ1hfMG5RQ0xmWkhQdnNaYnVqS3pHNE0wTnhmYU44YlNKTkNDS1pYVUJ0bE9jUENrUlUwUjYteWU4MlhsSnVWVnIzbVFHSE92?oc=5",
         "publishedAt": "2026-10-26T21:30:50.000Z"
+      },
+      {
+        "time": "11:03",
+        "title": "日本サーボモーター・ドライブ市場の概要：地域別見通し、競争戦略、セグメント予測、2026",
+        "source": "pando.life",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1kR1ozQ0tYQjJBcURoRTNkWkNabk9PckRUZUZtY1FyeWVLNjBmcXBaamVnSHFoN3RkMDdZMkFIcm1USDJuWTU5WlNB?oc=5",
+        "publishedAt": "2026-10-27T02:03:50.000Z"
       },
       {
         "time": "19:04",
@@ -112,13 +112,6 @@
         "publishedAt": "2026-10-27T08:45:36.000Z"
       },
       {
-        "time": "11:08",
-        "title": "千代田区 マンション転売巡り要請",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600275?source=rss",
-        "publishedAt": "2026-10-27T02:08:50.000Z"
-      },
-      {
         "time": "07:27",
         "title": "米MS 6万人に退職パッケージ提示",
         "source": "Yahoo!ニュース",
@@ -131,6 +124,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6600265?source=rss",
         "publishedAt": "2026-10-27T00:38:54.000Z"
+      },
+      {
+        "time": "18:22",
+        "title": "ユニクロ ソックス価格改定を中止",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6600324?source=rss",
+        "publishedAt": "2026-10-27T09:22:21.000Z"
       },
       {
         "time": "16:13",
