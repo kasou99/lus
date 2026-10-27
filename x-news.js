@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-27T03:47:32.557Z",
+  "updatedAt": "2026-10-27T04:20:09.459Z",
   "items": [
     {
       "time": "12:31",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "米メタ15兆円資金調達へ 計画発表"
     },
     {
-      "time": "11:02",
-      "title": "GMO 利用者に「PC電源切って」",
+      "time": "13:14",
+      "title": "GMO攻撃者 顧客情報一部掲載か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600274?source=rss",
-      "publishedAt": "2026-10-27T02:02:32.000Z",
-      "xQuery": "GMO 利用者に「PC電源切って」"
+      "url": "https://news.yahoo.co.jp/pickup/6600294?source=rss",
+      "publishedAt": "2026-10-27T04:14:06.000Z",
+      "xQuery": "GMO攻撃者 顧客情報一部掲載か"
     },
     {
       "time": "12:16",
