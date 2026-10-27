@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-27T14:19:50.547Z",
+  "updatedAt": "2026-10-27T14:47:08.513Z",
   "items": [
     {
       "time": "21:56",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "農相の関連団体 計85万円の不記載"
     },
     {
-      "time": "21:34",
-      "title": "GMO 被害者に最大300万円見舞金",
+      "time": "23:14",
+      "title": "GMO不正アクセス 警視庁が捜査",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600341?source=rss",
-      "publishedAt": "2026-10-27T12:34:38.000Z",
-      "xQuery": "GMO 被害者に最大300万円見舞金"
+      "url": "https://news.yahoo.co.jp/pickup/6600351?source=rss",
+      "publishedAt": "2026-10-27T14:14:04.000Z",
+      "xQuery": "GMO不正アクセス 警視庁が捜査"
     },
     {
       "time": "20:46",
