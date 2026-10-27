@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T08:24:51.235Z",
+  "updatedAt": "2026-10-27T08:49:03.619Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -105,6 +105,13 @@
     ],
     "economyHeadlines": [
       {
+        "time": "17:45",
+        "title": "ニデック 創業者ら9人を提訴へ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6600319?source=rss",
+        "publishedAt": "2026-10-27T08:45:36.000Z"
+      },
+      {
         "time": "11:08",
         "title": "千代田区 マンション転売巡り要請",
         "source": "Yahoo!ニュース",
@@ -117,13 +124,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6600248?source=rss",
         "publishedAt": "2026-10-26T22:27:23.000Z"
-      },
-      {
-        "time": "00:02",
-        "title": "米Anthropic IPO申請書類を公開",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600240?source=rss",
-        "publishedAt": "2026-10-26T15:02:06.000Z"
       },
       {
         "time": "09:38",

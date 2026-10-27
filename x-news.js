@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-27T08:24:52.425Z",
+  "updatedAt": "2026-10-27T08:49:05.346Z",
   "items": [
     {
       "time": "15:43",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "武部農相 選挙運動費報告「訂正」"
     },
     {
+      "time": "16:56",
+      "title": "猪苗代湖ボート事故 禁錮2年確定",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6600313?source=rss",
+      "publishedAt": "2026-10-27T07:56:30.000Z",
+      "xQuery": "猪苗代湖ボート事故 禁錮2年確定"
+    },
+    {
       "time": "14:38",
       "title": "GMO攻撃者「個人情報毎日公開」",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6600302?source=rss",
       "publishedAt": "2026-10-27T05:38:34.000Z",
       "xQuery": "GMO攻撃者「個人情報毎日公開」"
-    },
-    {
-      "time": "13:33",
-      "title": "FX不正アクセス 5社で顧客被害",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600277?source=rss",
-      "publishedAt": "2026-10-27T04:33:20.000Z",
-      "xQuery": "FX不正アクセス 5社で顧客被害"
     },
     {
       "time": "16:13",
