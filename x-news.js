@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-27T04:45:54.150Z",
+  "updatedAt": "2026-10-27T05:18:00.766Z",
   "items": [
     {
       "time": "12:31",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "米中間選挙 共和党牙城で野党猛追"
     },
     {
-      "time": "11:08",
-      "title": "米メタ15兆円資金調達へ 計画発表",
+      "time": "10:27",
+      "title": "高校生らのデモ受け改革案発表 仏",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600273?source=rss",
-      "publishedAt": "2026-10-27T02:08:41.000Z",
-      "xQuery": "米メタ15兆円資金調達へ 計画発表"
+      "url": "https://news.yahoo.co.jp/pickup/6600269?source=rss",
+      "publishedAt": "2026-10-27T01:27:22.000Z",
+      "xQuery": "高校生らのデモ受け改革案発表 仏"
     },
     {
       "time": "13:24",
