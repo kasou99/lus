@@ -1,14 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-27T12:27:10.080Z",
+  "updatedAt": "2026-10-27T12:54:07.651Z",
   "items": [
-    {
-      "time": "18:28",
-      "title": "北日本 今季一番強い寒気襲来へ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600325?source=rss",
-      "publishedAt": "2026-10-27T09:28:41.000Z",
-      "xQuery": "北日本 今季一番強い寒気襲来へ"
-    },
     {
       "time": "20:30",
       "title": "習近平氏 福田康夫氏の遺族に弔電",
@@ -26,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "キーウの「京都公園」にミサイル"
     },
     {
-      "time": "20:39",
-      "title": "GMO 情報提供者に総額1.5億円",
+      "time": "21:34",
+      "title": "GMO 被害者に最大300万円見舞金",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600337?source=rss",
-      "publishedAt": "2026-10-27T11:39:38.000Z",
-      "xQuery": "GMO 情報提供者に総額1.5億円"
+      "url": "https://news.yahoo.co.jp/pickup/6600341?source=rss",
+      "publishedAt": "2026-10-27T12:34:38.000Z",
+      "xQuery": "GMO 被害者に最大300万円見舞金"
     },
     {
       "time": "19:18",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6600332?source=rss",
       "publishedAt": "2026-10-27T10:18:41.000Z",
       "xQuery": "バス運転手19人インフル感染 減便"
+    },
+    {
+      "time": "20:42",
+      "title": "ユニクロ 50色ソックス値上げ撤回",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6600339?source=rss",
+      "publishedAt": "2026-10-27T11:42:48.000Z",
+      "xQuery": "ユニクロ 50色ソックス値上げ撤回"
     }
   ]
 };
