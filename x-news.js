@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-27T13:46:16.849Z",
+  "updatedAt": "2026-10-27T14:19:50.547Z",
   "items": [
     {
       "time": "21:56",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "農相の関連団体 計85万円の不記載"
     },
     {
-      "time": "13:42",
-      "title": "習近平氏「弱い官僚」求める背景",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600281?source=rss",
-      "publishedAt": "2026-10-27T04:42:02.000Z",
-      "xQuery": "習近平氏「弱い官僚」求める背景"
-    },
-    {
       "time": "21:34",
       "title": "GMO 被害者に最大300万円見舞金",
       "source": "Yahoo!ニュース",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6600338?source=rss",
       "publishedAt": "2026-10-27T11:46:12.000Z",
       "xQuery": "So-netなど258万件超が漏えい"
+    },
+    {
+      "time": "22:17",
+      "title": "25歳店長自殺 スマホに残した動画",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6600348?source=rss",
+      "publishedAt": "2026-10-27T13:17:18.000Z",
+      "xQuery": "25歳店長自殺 スマホに残した動画"
     }
   ]
 };
