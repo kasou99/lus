@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-27T09:45:25.018Z",
+  "updatedAt": "2026-10-27T10:18:03.505Z",
   "items": [
     {
       "time": "18:28",
@@ -8,14 +8,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6600325?source=rss",
       "publishedAt": "2026-10-27T09:28:41.000Z",
       "xQuery": "北日本 今季一番強い寒気襲来へ"
-    },
-    {
-      "time": "15:55",
-      "title": "武部農相 選挙運動費報告「訂正」",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600308?source=rss",
-      "publishedAt": "2026-10-27T06:55:16.000Z",
-      "xQuery": "武部農相 選挙運動費報告「訂正」"
     },
     {
       "time": "16:56",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "ニデック 創業者ら9人を提訴へ"
     },
     {
-      "time": "18:22",
-      "title": "ユニクロ ソックス価格改定を中止",
+      "time": "14:38",
+      "title": "GMO攻撃者「個人情報毎日公開」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600324?source=rss",
-      "publishedAt": "2026-10-27T09:22:21.000Z",
-      "xQuery": "ユニクロ ソックス価格改定を中止"
+      "url": "https://news.yahoo.co.jp/pickup/6600302?source=rss",
+      "publishedAt": "2026-10-27T05:38:34.000Z",
+      "xQuery": "GMO攻撃者「個人情報毎日公開」"
+    },
+    {
+      "time": "18:49",
+      "title": "歩道工事の火で書店火災か 憤り",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6600328?source=rss",
+      "publishedAt": "2026-10-27T09:49:04.000Z",
+      "xQuery": "歩道工事の火で書店火災か 憤り"
     }
   ]
 };
