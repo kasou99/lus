@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T19:36:04.779Z",
+  "updatedAt": "2026-10-27T20:14:09.148Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -10,18 +10,18 @@
         "publishedAt": "2026-10-27T08:14:51.000Z"
       },
       {
-        "time": "06:45",
-        "title": "三菱電機が描く工作機械×AIの未来、人手不足や技能伝承の「切り札」となるか：JIMTOF2026",
-        "source": "MONOist",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5RQ0w3dlYwcDIyMk5reDVZM2tJMEdCQXpfOXZkWWtvR3dFYVRsOEhHSV9pLTV1YUNac0piR2RzaE9VbkU0VjVkbHVfbDlzR0p0MVJ1QlR5TFJYQTQ2T2REQ1VFNU1EWDJleWx4cmVrOA?oc=5",
-        "publishedAt": "2026-10-26T21:45:00.000Z"
-      },
-      {
         "time": "15:35",
         "title": "歴史的特需の工作機械 調達力と大型化で大手優位？",
         "source": "日経CNBC online",
         "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0zbXUyUmRVUEVvdjNwUkNhVjJBZHdCUWdNSDlXYUhOV0tOMlBraEVNYzd2bnU2SlZqSElpLURzWDEwaDVpaWxNS0ZFVGdRMEItV094MA?oc=5",
         "publishedAt": "2026-10-27T06:35:00.000Z"
+      },
+      {
+        "time": "06:45",
+        "title": "三菱電機が描く工作機械×AIの未来、人手不足や技能伝承の「切り札」となるか：JIMTOF2026",
+        "source": "MONOist",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5RQ0w3dlYwcDIyMk5reDVZM2tJMEdCQXpfOXZkWWtvR3dFYVRsOEhHSV9pLTV1YUNac0piR2RzaE9VbkU0VjVkbHVfbDlzR0p0MVJ1QlR5TFJYQTQ2T2REQ1VFNU1EWDJleWx4cmVrOA?oc=5",
+        "publishedAt": "2026-10-26T21:45:00.000Z"
       },
       {
         "time": "19:10",
@@ -38,18 +38,11 @@
         "publishedAt": "2026-10-27T15:00:00.000Z"
       },
       {
-        "time": "05:00",
-        "title": "第３３回日本国際工作機械見本市 ＪＩＭＴＯＦ２０２６ （上） ものづくり「高度化」支える ＡＩ融合、最適な形を模索",
-        "source": "中部経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5vTVN3WU5CU3N4QlExU2hLV3dhMm1RWTgyWllNdndzbnFnNXN0dTJHTkVITnVIcGxRNHRlNVRpWnJDOVFHNXg5QzAxM2hDU2dHc3ZJT1pTdHNBSlZLeTZYcDh4MHl1YkVSZHRzX01hVjZ3eWs?oc=5",
-        "publishedAt": "2026-10-26T20:00:00.000Z"
-      },
-      {
-        "time": "05:00",
-        "title": "工作機械、工程集約に重点 1台で複数加工",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1VOXRwVTFQbDRwanltTXB0ZUZhU0VMcEVwX0ZfZDdqSjZ2Y2JSS1UwdXozX2kxQTBQcGRRLWhmNnNidlJfcVZocGRKazdPNTZRcTBVOGduVHU?oc=5",
-        "publishedAt": "2026-10-26T20:00:00.000Z"
+        "time": "06:37",
+        "title": "第３３回日本国際工作機械見本市 ＪＩＭＴＯＦ２０２６ （上） ものづくり「高度化」支える ＡＩ融合、最適な形を模索（中部経済新聞）",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZVQ5OTh3UmQwSzFtaDFFRmVNM3ExNnk1dnZDQ1h1YWt3S3k2MG9FYU9BSFZqN2hOeEdGZnhseXgzbVFDelpPSzF3Tk0zdVJzc2RPYm4tRjJzT1pSSFZsb1BQeG5GT2JKUXRfQURDdTNXWGtnT2JLNG54RnZSZFppcGVpelNqRkVnbGQ5cFFB?oc=5",
+        "publishedAt": "2026-10-26T21:37:48.000Z"
       },
       {
         "time": "16:05",
@@ -57,6 +50,13 @@
         "source": "日本経済新聞",
         "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5hanJ5eGU3WW54eHA2ZzZZZHdzUjk0OHg2dGR1bGlEYzFpU09zbkVoWXhHaVpReVVjMWdVVkMteG1ialFHVmxncVJnRnQ1SEZVN19Ua0sxZFZfd3AwTWlydHJuTUk4a2xsZ1VwcXIybHNHS2gtaDB5eDZaWGtsQQ?oc=5",
         "publishedAt": "2026-10-27T07:05:30.000Z"
+      },
+      {
+        "time": "06:30",
+        "title": "設計から加工・検査までデータでつなぐ、シーメンスがJIMTOF 2026で描く工作機械の未来",
+        "source": "マイナビニュース",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0xc1hFMVhYbHprbFpqdjVEU2pTeGsyS0gzQ1hfMG5RQ0xmWkhQdnNaYnVqS3pHNE0wTnhmYU44YlNKTkNDS1pYVUJ0bE9jUENrUlUwUjYteWU4MlhsSnVWVnIzbVFHSE92?oc=5",
+        "publishedAt": "2026-10-26T21:30:50.000Z"
       }
     ],
     "worldHeadlines": [
