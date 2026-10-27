@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-27T02:25:36.166Z",
+  "updatedAt": "2026-10-27T02:48:37.022Z",
   "items": [
     {
-      "time": "08:25",
-      "title": "米中間選挙 下院は民主党優勢か",
+      "time": "11:44",
+      "title": "露占領下のウ南部が停戦 人道支援",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600255?source=rss",
-      "publishedAt": "2026-10-26T23:25:23.000Z",
-      "xQuery": "米中間選挙 下院は民主党優勢か"
+      "url": "https://news.yahoo.co.jp/pickup/6600280?source=rss",
+      "publishedAt": "2026-10-27T02:44:40.000Z",
+      "xQuery": "露占領下のウ南部が停戦 人道支援"
     },
     {
       "time": "10:40",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "GMO 利用者に「PC電源切って」"
     },
     {
-      "time": "11:08",
-      "title": "千代田区 マンション転売巡り要請",
+      "time": "11:22",
+      "title": "米大統領との面会後悔 司教ら謝罪",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600275?source=rss",
-      "publishedAt": "2026-10-27T02:08:50.000Z",
-      "xQuery": "千代田区 マンション転売巡り要請"
+      "url": "https://news.yahoo.co.jp/pickup/6600278?source=rss",
+      "publishedAt": "2026-10-27T02:22:48.000Z",
+      "xQuery": "米大統領との面会後悔 司教ら謝罪"
     },
     {
       "time": "11:13",

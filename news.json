@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T02:25:35.215Z",
+  "updatedAt": "2026-10-27T02:48:35.613Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -14,6 +14,13 @@
         "title": "第３３回日本国際工作機械見本市 ＪＩＭＴＯＦ２０２６ （上） ものづくり「高度化」支える ＡＩ融合、最適な形を模索",
         "source": "中部経済新聞",
         "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5vTVN3WU5CU3N4QlExU2hLV3dhMm1RWTgyWllNdndzbnFnNXN0dTJHTkVITnVIcGxRNHRlNVRpWnJDOVFHNXg5QzAxM2hDU2dHc3ZJT1pTdHNBSlZLeTZYcDh4MHl1YkVSZHRzX01hVjZ3eWs?oc=5",
+        "publishedAt": "2026-10-26T20:00:00.000Z"
+      },
+      {
+        "time": "05:00",
+        "title": "工作機械、工程集約に重点 1台で複数加工",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1VOXRwVTFQbDRwanltTXB0ZUZhU0VMcEVwX0ZfZDdqSjZ2Y2JSS1UwdXozX2kxQTBQcGRRLWhmNnNidlJfcVZocGRKazdPNTZRcTBVOGduVHU?oc=5",
         "publishedAt": "2026-10-26T20:00:00.000Z"
       },
       {
@@ -50,16 +57,16 @@
         "source": "MONOist",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBSLUdtdlAzTFJFRUliMTlQSjVIR0t4VmVhMkJUenkzalVzUFJ3bkh3M3dVMlVDYi11bXBtMXZ6SmxBb3dXSkMxbFl1bXRvRUEyNmJ2alNTaE9Pd3JTY2VWMmptcThSX0NxaTRyMTR4Zw?oc=5",
         "publishedAt": "2026-10-26T21:15:00.000Z"
-      },
-      {
-        "time": "20:34",
-        "title": "エンシュウと同社子会社が新製品を開発 工作機械見本市「ジムトフ」に出展：ニュース",
-        "source": "中日BIZナビ",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9RQVhIUEJ5MF9JVHZhSEVaVnBON3ozRm5ZTVE1LWNmZVc0Z0ZoaHM0LVBXRklJeU5CMUZrUDczRHhFRUF6enYtVXhtQ29zWHNqajhhcndGbjdZYmpoRTRN?oc=5",
-        "publishedAt": "2026-10-26T11:34:00.000Z"
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "11:44",
+        "title": "露占領下のウ南部が停戦 人道支援",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6600280?source=rss",
+        "publishedAt": "2026-10-27T02:44:40.000Z"
+      },
       {
         "time": "07:20",
         "title": "イスラエル総選挙 政権維持が焦点",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6600278?source=rss",
         "publishedAt": "2026-10-27T02:22:48.000Z"
-      },
-      {
-        "time": "09:45",
-        "title": "米大統領 賞ならずノルウェー罵倒",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600266?source=rss",
-        "publishedAt": "2026-10-27T00:45:04.000Z"
       }
     ],
     "economyHeadlines": [
