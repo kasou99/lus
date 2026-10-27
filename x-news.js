@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-27T22:11:37.840Z",
+  "updatedAt": "2026-10-27T22:36:24.615Z",
   "items": [
     {
-      "time": "23:36",
-      "title": "イオン熊本 一部再開意向を伝える",
+      "time": "07:04",
+      "title": "安保3文書で「拒否力」防衛の柱に",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600353?source=rss",
-      "publishedAt": "2026-10-27T14:36:01.000Z",
-      "xQuery": "イオン熊本 一部再開意向を伝える"
+      "url": "https://news.yahoo.co.jp/pickup/6600361?source=rss",
+      "publishedAt": "2026-10-27T22:04:42.000Z",
+      "xQuery": "安保3文書で「拒否力」防衛の柱に"
     },
     {
       "time": "23:14",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "原付の男性死亡 高速道で車と衝突"
     },
     {
-      "time": "19:20",
-      "title": "たまごの平均価格 最高値を更新",
+      "time": "07:14",
+      "title": "ビルの窓の清掃中に転落か 死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600331?source=rss",
-      "publishedAt": "2026-10-27T10:20:28.000Z",
-      "xQuery": "たまごの平均価格 最高値を更新"
+      "url": "https://news.yahoo.co.jp/pickup/6600362?source=rss",
+      "publishedAt": "2026-10-27T22:14:38.000Z",
+      "xQuery": "ビルの窓の清掃中に転落か 死亡"
     }
   ]
 };
