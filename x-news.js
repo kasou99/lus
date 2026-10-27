@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-27T06:30:21.763Z",
+  "updatedAt": "2026-10-27T07:24:16.501Z",
   "items": [
     {
       "time": "14:58",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "イラン攻撃長期化 米兵遺族の訴え"
     },
     {
-      "time": "13:33",
-      "title": "FX不正アクセス 5社で顧客被害",
+      "time": "14:59",
+      "title": "モンゴル火災 政府が専門家派遣へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600277?source=rss",
-      "publishedAt": "2026-10-27T04:33:20.000Z",
-      "xQuery": "FX不正アクセス 5社で顧客被害"
+      "url": "https://news.yahoo.co.jp/pickup/6600304?source=rss",
+      "publishedAt": "2026-10-27T05:59:24.000Z",
+      "xQuery": "モンゴル火災 政府が専門家派遣へ"
     },
     {
       "time": "14:38",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "GMO攻撃者「個人情報毎日公開」"
     },
     {
-      "time": "10:27",
-      "title": "高校生らのデモ受け改革案発表 仏",
+      "time": "13:33",
+      "title": "FX不正アクセス 5社で顧客被害",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600269?source=rss",
-      "publishedAt": "2026-10-27T01:27:22.000Z",
-      "xQuery": "高校生らのデモ受け改革案発表 仏"
+      "url": "https://news.yahoo.co.jp/pickup/6600277?source=rss",
+      "publishedAt": "2026-10-27T04:33:20.000Z",
+      "xQuery": "FX不正アクセス 5社で顧客被害"
     },
     {
-      "time": "12:27",
-      "title": "大分大元教授の医師逮捕 背任疑い",
+      "time": "13:52",
+      "title": "AI社員の失敗 問われる人間の責任",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600288?source=rss",
-      "publishedAt": "2026-10-27T03:27:40.000Z",
-      "xQuery": "大分大元教授の医師逮捕 背任疑い"
+      "url": "https://news.yahoo.co.jp/pickup/6600286?source=rss",
+      "publishedAt": "2026-10-27T04:52:18.000Z",
+      "xQuery": "AI社員の失敗 問われる人間の責任"
     }
   ]
 };
