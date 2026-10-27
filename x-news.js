@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-27T00:46:44.592Z",
+  "updatedAt": "2026-10-27T01:31:58.117Z",
   "items": [
     {
       "time": "08:25",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "茨城県教委 国に誤った情報伝達"
     },
     {
-      "time": "08:21",
-      "title": "ながら運転で子奪われ10年 父は今",
+      "time": "09:45",
+      "title": "米大統領 賞ならずノルウェー罵倒",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600256?source=rss",
-      "publishedAt": "2026-10-26T23:21:07.000Z",
-      "xQuery": "ながら運転で子奪われ10年 父は今"
+      "url": "https://news.yahoo.co.jp/pickup/6600266?source=rss",
+      "publishedAt": "2026-10-27T00:45:04.000Z",
+      "xQuery": "米大統領 賞ならずノルウェー罵倒"
     },
     {
       "time": "09:01",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "新iPad mini発表 防水を初搭載"
     },
     {
-      "time": "09:22",
-      "title": "小学生「読書ゼロ」25年ぶり1割超",
+      "time": "09:46",
+      "title": "小学生 漫画「読まない」3割弱",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600263?source=rss",
-      "publishedAt": "2026-10-27T00:22:19.000Z",
-      "xQuery": "小学生「読書ゼロ」25年ぶり1割超"
+      "url": "https://news.yahoo.co.jp/pickup/6600268?source=rss",
+      "publishedAt": "2026-10-27T00:46:52.000Z",
+      "xQuery": "小学生 漫画「読まない」3割弱"
     }
   ]
 };

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T00:46:43.354Z",
+  "updatedAt": "2026-10-27T01:31:56.981Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -75,6 +75,13 @@
         "publishedAt": "2026-10-26T23:25:23.000Z"
       },
       {
+        "time": "10:27",
+        "title": "高校生らのデモ受け改革案発表 仏",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6600269?source=rss",
+        "publishedAt": "2026-10-27T01:27:22.000Z"
+      },
+      {
         "time": "07:43",
         "title": "米大統領 ブラジル大統領選は不正",
         "source": "Yahoo!ニュース",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6600236?source=rss",
         "publishedAt": "2026-10-26T13:56:14.000Z"
-      },
-      {
-        "time": "17:50",
-        "title": "福田元首相が死去 中国が哀悼の意",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600203?source=rss",
-        "publishedAt": "2026-10-26T08:50:33.000Z"
       }
     ],
     "economyHeadlines": [
