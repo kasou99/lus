@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T20:14:09.148Z",
+  "updatedAt": "2026-10-27T20:36:02.686Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,6 +31,13 @@
         "publishedAt": "2026-10-27T10:10:00.000Z"
       },
       {
+        "time": "05:06",
+        "title": "2026年10月28日 機械・ロボット・航空機１ ニュース",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5lX1c2LWFrb3pCeHJWNDQwaGMtQlEyYjNwZExydkdITGNMaUphTDdMbXp0WnVFbDhYclM4eUFPUnctTGtxRFBETjJ5MFpFcFpWcHg0OQ?oc=5",
+        "publishedAt": "2026-10-27T20:06:51.000Z"
+      },
+      {
         "time": "00:00",
         "title": "工作機械業、27年は景気回復か＝半導体需要など",
         "source": "NNAアジア",
@@ -38,11 +45,11 @@
         "publishedAt": "2026-10-27T15:00:00.000Z"
       },
       {
-        "time": "06:37",
-        "title": "第３３回日本国際工作機械見本市 ＪＩＭＴＯＦ２０２６ （上） ものづくり「高度化」支える ＡＩ融合、最適な形を模索（中部経済新聞）",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZVQ5OTh3UmQwSzFtaDFFRmVNM3ExNnk1dnZDQ1h1YWt3S3k2MG9FYU9BSFZqN2hOeEdGZnhseXgzbVFDelpPSzF3Tk0zdVJzc2RPYm4tRjJzT1pSSFZsb1BQeG5GT2JKUXRfQURDdTNXWGtnT2JLNG54RnZSZFppcGVpelNqRkVnbGQ5cFFB?oc=5",
-        "publishedAt": "2026-10-26T21:37:48.000Z"
+        "time": "05:00",
+        "title": "ＪＩＭＴＯＦ２０２６ （中） 変種変量へ柔軟に対応 複雑形状部品の加工にも 置き換え需要",
+        "source": "47NEWS",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5NY1FQUVdZSEI3VUxIS3ZvcWVtVHd1cmdaUFlESjgxTUNQdi04ZGJQcUt4bUJjTWZDTkZ3ZTJfeFljX01PNFotNzJvdw?oc=5",
+        "publishedAt": "2026-10-27T20:00:00.000Z"
       },
       {
         "time": "16:05",
@@ -50,13 +57,6 @@
         "source": "日本経済新聞",
         "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5hanJ5eGU3WW54eHA2ZzZZZHdzUjk0OHg2dGR1bGlEYzFpU09zbkVoWXhHaVpReVVjMWdVVkMteG1ialFHVmxncVJnRnQ1SEZVN19Ua0sxZFZfd3AwTWlydHJuTUk4a2xsZ1VwcXIybHNHS2gtaDB5eDZaWGtsQQ?oc=5",
         "publishedAt": "2026-10-27T07:05:30.000Z"
-      },
-      {
-        "time": "06:30",
-        "title": "設計から加工・検査までデータでつなぐ、シーメンスがJIMTOF 2026で描く工作機械の未来",
-        "source": "マイナビニュース",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0xc1hFMVhYbHprbFpqdjVEU2pTeGsyS0gzQ1hfMG5RQ0xmWkhQdnNaYnVqS3pHNE0wTnhmYU44YlNKTkNDS1pYVUJ0bE9jUENrUlUwUjYteWU4MlhsSnVWVnIzbVFHSE92?oc=5",
-        "publishedAt": "2026-10-26T21:30:50.000Z"
       }
     ],
     "worldHeadlines": [
