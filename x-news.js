@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-27T22:36:24.615Z",
+  "updatedAt": "2026-10-27T23:10:32.436Z",
   "items": [
+    {
+      "time": "07:54",
+      "title": "イスラエル総選挙 連立協議難航か",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6600366?source=rss",
+      "publishedAt": "2026-10-27T22:54:29.000Z",
+      "xQuery": "イスラエル総選挙 連立協議難航か"
+    },
     {
       "time": "07:04",
       "title": "安保3文書で「拒否力」防衛の柱に",
@@ -10,12 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "安保3文書で「拒否力」防衛の柱に"
     },
     {
-      "time": "23:14",
-      "title": "GMO不正アクセス 警視庁が捜査",
+      "time": "07:40",
+      "title": "GMO攻撃 被害者は「恐怖しか」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600351?source=rss",
-      "publishedAt": "2026-10-27T14:14:04.000Z",
-      "xQuery": "GMO不正アクセス 警視庁が捜査"
+      "url": "https://news.yahoo.co.jp/pickup/6600364?source=rss",
+      "publishedAt": "2026-10-27T22:40:24.000Z",
+      "xQuery": "GMO攻撃 被害者は「恐怖しか」"
+    },
+    {
+      "time": "07:52",
+      "title": "勾留の男性死亡 遺族が都など提訴",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6600365?source=rss",
+      "publishedAt": "2026-10-27T22:52:13.000Z",
+      "xQuery": "勾留の男性死亡 遺族が都など提訴"
     },
     {
       "time": "22:17",
@@ -24,22 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6600348?source=rss",
       "publishedAt": "2026-10-27T13:17:18.000Z",
       "xQuery": "25歳店長自殺 スマホに残した動画"
-    },
-    {
-      "time": "06:09",
-      "title": "原付の男性死亡 高速道で車と衝突",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600355?source=rss",
-      "publishedAt": "2026-10-27T21:09:03.000Z",
-      "xQuery": "原付の男性死亡 高速道で車と衝突"
-    },
-    {
-      "time": "07:14",
-      "title": "ビルの窓の清掃中に転落か 死亡",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600362?source=rss",
-      "publishedAt": "2026-10-27T22:14:38.000Z",
-      "xQuery": "ビルの窓の清掃中に転落か 死亡"
     }
   ]
 };

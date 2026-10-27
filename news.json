@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T22:36:23.703Z",
+  "updatedAt": "2026-10-27T23:10:31.344Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -61,18 +61,18 @@
     ],
     "worldHeadlines": [
       {
+        "time": "07:54",
+        "title": "イスラエル総選挙 連立協議難航か",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6600366?source=rss",
+        "publishedAt": "2026-10-27T22:54:29.000Z"
+      },
+      {
         "time": "20:30",
         "title": "習近平氏 福田康夫氏の遺族に弔電",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6600336?source=rss",
         "publishedAt": "2026-10-27T11:30:45.000Z"
-      },
-      {
-        "time": "14:58",
-        "title": "イラン攻撃長期化 米兵遺族の訴え",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600303?source=rss",
-        "publishedAt": "2026-10-27T05:58:25.000Z"
       },
       {
         "time": "08:25",
@@ -149,6 +149,20 @@
     ],
     "localHeadlines": [
       {
+        "time": "08:03",
+        "title": "熊本地震3カ月 千人超なお避難所",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6600367?source=rss",
+        "publishedAt": "2026-10-27T23:03:19.000Z"
+      },
+      {
+        "time": "07:52",
+        "title": "勾留の男性死亡 遺族が都など提訴",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6600365?source=rss",
+        "publishedAt": "2026-10-27T22:52:13.000Z"
+      },
+      {
         "time": "07:14",
         "title": "ビルの窓の清掃中に転落か 死亡",
         "source": "Yahoo!ニュース",
@@ -163,13 +177,6 @@
         "publishedAt": "2026-10-27T21:09:03.000Z"
       },
       {
-        "time": "16:56",
-        "title": "猪苗代湖ボート事故 禁錮2年確定",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600313?source=rss",
-        "publishedAt": "2026-10-27T07:56:30.000Z"
-      },
-      {
         "time": "18:50",
         "title": "助成金詐欺罪 市議と妻を在宅起訴",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6600348?source=rss",
         "publishedAt": "2026-10-27T13:17:18.000Z"
-      },
-      {
-        "time": "22:22",
-        "title": "車横転し死亡 定員乗車に潜む危険",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600347?source=rss",
-        "publishedAt": "2026-10-27T13:22:24.000Z"
       }
     ],
     "subsidyHeadlines": [
