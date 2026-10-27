@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T13:22:24.473Z",
+  "updatedAt": "2026-10-27T13:46:16.001Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -177,18 +177,18 @@
         "publishedAt": "2026-10-27T13:17:18.000Z"
       },
       {
-        "time": "07:55",
-        "title": "油圧ショベルにひかれ作業員死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600253?source=rss",
-        "publishedAt": "2026-10-26T22:55:01.000Z"
-      },
-      {
         "time": "18:49",
         "title": "歩道工事の火で書店火災か 憤り",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6600328?source=rss",
         "publishedAt": "2026-10-27T09:49:04.000Z"
+      },
+      {
+        "time": "22:22",
+        "title": "車横転し死亡 定員乗車に潜む危険",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6600347?source=rss",
+        "publishedAt": "2026-10-27T13:22:24.000Z"
       }
     ],
     "subsidyHeadlines": [

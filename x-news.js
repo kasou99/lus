@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-27T13:22:25.286Z",
+  "updatedAt": "2026-10-27T13:46:16.849Z",
   "items": [
     {
       "time": "21:56",
@@ -8,6 +8,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6600343?source=rss",
       "publishedAt": "2026-10-27T12:56:31.000Z",
       "xQuery": "副首都 要件満たせば4道府県指定"
+    },
+    {
+      "time": "22:26",
+      "title": "農相の関連団体 計85万円の不記載",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6600346?source=rss",
+      "publishedAt": "2026-10-27T13:26:11.000Z",
+      "xQuery": "農相の関連団体 計85万円の不記載"
     },
     {
       "time": "13:42",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6600338?source=rss",
       "publishedAt": "2026-10-27T11:46:12.000Z",
       "xQuery": "So-netなど258万件超が漏えい"
-    },
-    {
-      "time": "22:17",
-      "title": "25歳店長自殺 スマホに残した動画",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600348?source=rss",
-      "publishedAt": "2026-10-27T13:17:18.000Z",
-      "xQuery": "25歳店長自殺 スマホに残した動画"
     }
   ]
 };
