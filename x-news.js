@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-27T11:42:31.474Z",
+  "updatedAt": "2026-10-27T12:27:10.080Z",
   "items": [
     {
       "time": "18:28",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "北日本 今季一番強い寒気襲来へ"
     },
     {
-      "time": "17:45",
-      "title": "ニデック 創業者ら9人を提訴へ",
+      "time": "20:30",
+      "title": "習近平氏 福田康夫氏の遺族に弔電",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600319?source=rss",
-      "publishedAt": "2026-10-27T08:45:36.000Z",
-      "xQuery": "ニデック 創業者ら9人を提訴へ"
+      "url": "https://news.yahoo.co.jp/pickup/6600336?source=rss",
+      "publishedAt": "2026-10-27T11:30:45.000Z",
+      "xQuery": "習近平氏 福田康夫氏の遺族に弔電"
     },
     {
       "time": "19:41",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "キーウの「京都公園」にミサイル"
     },
     {
-      "time": "14:38",
-      "title": "GMO攻撃者「個人情報毎日公開」",
+      "time": "20:39",
+      "title": "GMO 情報提供者に総額1.5億円",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600302?source=rss",
-      "publishedAt": "2026-10-27T05:38:34.000Z",
-      "xQuery": "GMO攻撃者「個人情報毎日公開」"
+      "url": "https://news.yahoo.co.jp/pickup/6600337?source=rss",
+      "publishedAt": "2026-10-27T11:39:38.000Z",
+      "xQuery": "GMO 情報提供者に総額1.5億円"
     },
     {
       "time": "19:18",
