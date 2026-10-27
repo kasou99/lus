@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T01:31:56.981Z",
+  "updatedAt": "2026-10-27T02:25:35.215Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -10,25 +10,11 @@
         "publishedAt": "2026-10-26T21:45:00.000Z"
       },
       {
-        "time": "06:37",
-        "title": "第３３回日本国際工作機械見本市 ＪＩＭＴＯＦ２０２６ （上） ものづくり「高度化」支える ＡＩ融合、最適な形を模索（中部経済新聞）",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZVQ5OTh3UmQwSzFtaDFFRmVNM3ExNnk1dnZDQ1h1YWt3S3k2MG9FYU9BSFZqN2hOeEdGZnhseXgzbVFDelpPSzF3Tk0zdVJzc2RPYm4tRjJzT1pSSFZsb1BQeG5GT2JKUXRfQURDdTNXWGtnT2JLNG54RnZSZFppcGVpelNqRkVnbGQ5cFFB?oc=5",
-        "publishedAt": "2026-10-26T21:37:48.000Z"
-      },
-      {
         "time": "05:00",
-        "title": "ロボと環境の情報統合 工作機械が突破口（上）フィジカルAI実装へ 精密動作と汎化能力両立",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9lcXUwS3JoX21jSnZOak5IdVJ3bDNpaW8zQ2FrNU9JNGx4d0tWajBvTzR4V24zbVJpRC1QRFZRczk2djhMM2dOc3hLM1VKcE1IYTQ2U3Rpc1U?oc=5",
+        "title": "第３３回日本国際工作機械見本市 ＪＩＭＴＯＦ２０２６ （上） ものづくり「高度化」支える ＡＩ融合、最適な形を模索",
+        "source": "中部経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5vTVN3WU5CU3N4QlExU2hLV3dhMm1RWTgyWllNdndzbnFnNXN0dTJHTkVITnVIcGxRNHRlNVRpWnJDOVFHNXg5QzAxM2hDU2dHc3ZJT1pTdHNBSlZLeTZYcDh4MHl1YkVSZHRzX01hVjZ3eWs?oc=5",
         "publishedAt": "2026-10-26T20:00:00.000Z"
-      },
-      {
-        "time": "05:00",
-        "title": "三菱電機の工作機械好調 半導体産業向け",
-        "source": "化学工業日報 電子版",
-        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5vVUcwSGU5RzRZYm9CQXJMdjZERERqODVVNXk5MnlTdzJsVFQ5S0drSEFsbHdKQThncVBNYUZHVTVVOUJ4WGtYdGFhRFlUUGQwcmE0?oc=5",
-        "publishedAt": "2026-10-26T20:00:35.000Z"
       },
       {
         "time": "18:23",
@@ -36,6 +22,13 @@
         "source": "日本経済新聞",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0wVEZRLWhfeExnRkdJbXpWb29DX3VnVTZSVHBWN016LUNOOWg5UGEwd3lydldaaVB6a0VCdUMxZ0o1dmxhNExwTWFpSTFOWWJWZnEtbWp4M3hvY2UxQnE2aldhZjdGdFlwLVM0Zw?oc=5",
         "publishedAt": "2026-10-26T09:23:20.000Z"
+      },
+      {
+        "time": "05:00",
+        "title": "三菱電機の工作機械好調 半導体産業向け",
+        "source": "化学工業日報 電子版",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5vVUcwSGU5RzRZYm9CQXJMdjZERERqODVVNXk5MnlTdzJsVFQ5S0drSEFsbHdKQThncVBNYUZHVTVVOUJ4WGtYdGFhRFlUUGQwcmE0?oc=5",
+        "publishedAt": "2026-10-26T20:00:35.000Z"
       },
       {
         "time": "19:04",
@@ -57,6 +50,13 @@
         "source": "MONOist",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBSLUdtdlAzTFJFRUliMTlQSjVIR0t4VmVhMkJUenkzalVzUFJ3bkh3M3dVMlVDYi11bXBtMXZ6SmxBb3dXSkMxbFl1bXRvRUEyNmJ2alNTaE9Pd3JTY2VWMmptcThSX0NxaTRyMTR4Zw?oc=5",
         "publishedAt": "2026-10-26T21:15:00.000Z"
+      },
+      {
+        "time": "20:34",
+        "title": "エンシュウと同社子会社が新製品を開発 工作機械見本市「ジムトフ」に出展：ニュース",
+        "source": "中日BIZナビ",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9RQVhIUEJ5MF9JVHZhSEVaVnBON3ozRm5ZTVE1LWNmZVc0Z0ZoaHM0LVBXRklJeU5CMUZrUDczRHhFRUF6enYtVXhtQ29zWHNqajhhcndGbjdZYmpoRTRN?oc=5",
+        "publishedAt": "2026-10-26T11:34:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -89,21 +89,28 @@
         "publishedAt": "2026-10-26T22:43:14.000Z"
       },
       {
+        "time": "11:22",
+        "title": "米大統領との面会後悔 司教ら謝罪",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6600278?source=rss",
+        "publishedAt": "2026-10-27T02:22:48.000Z"
+      },
+      {
         "time": "09:45",
         "title": "米大統領 賞ならずノルウェー罵倒",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6600266?source=rss",
         "publishedAt": "2026-10-27T00:45:04.000Z"
-      },
-      {
-        "time": "22:56",
-        "title": "中国が福田氏評価 高市政権は批判",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600236?source=rss",
-        "publishedAt": "2026-10-26T13:56:14.000Z"
       }
     ],
     "economyHeadlines": [
+      {
+        "time": "11:08",
+        "title": "千代田区 マンション転売巡り要請",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6600275?source=rss",
+        "publishedAt": "2026-10-27T02:08:50.000Z"
+      },
       {
         "time": "07:27",
         "title": "米MS 6万人に退職パッケージ提示",
@@ -126,13 +133,6 @@
         "publishedAt": "2026-10-27T00:38:54.000Z"
       },
       {
-        "time": "12:49",
-        "title": "退職倒産が最多 中小企業どう対応",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600166?source=rss",
-        "publishedAt": "2026-10-26T03:49:35.000Z"
-      },
-      {
         "time": "15:19",
         "title": "温泉「無断持ち帰り」 若旦那困惑",
         "source": "Yahoo!ニュース",
@@ -149,11 +149,25 @@
     ],
     "localHeadlines": [
       {
+        "time": "10:40",
+        "title": "元検事正が無罪主張 性的暴行事件",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6600270?source=rss",
+        "publishedAt": "2026-10-27T01:40:56.000Z"
+      },
+      {
         "time": "22:03",
         "title": "氏名誤記の原爆死没者 遺骨返還へ",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6600233?source=rss",
         "publishedAt": "2026-10-26T13:03:29.000Z"
+      },
+      {
+        "time": "11:13",
+        "title": "北九州で女性を殺害未遂疑い 逮捕",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6600276?source=rss",
+        "publishedAt": "2026-10-27T02:13:44.000Z"
       },
       {
         "time": "07:55",
@@ -175,20 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6600232?source=rss",
         "publishedAt": "2026-10-26T12:55:49.000Z"
-      },
-      {
-        "time": "18:00",
-        "title": "米軍嘉手納基地 中国BYD車を禁止",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600210?source=rss",
-        "publishedAt": "2026-10-26T09:00:54.000Z"
-      },
-      {
-        "time": "08:34",
-        "title": "茨城県教委 国に誤った情報伝達",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600260?source=rss",
-        "publishedAt": "2026-10-26T23:34:41.000Z"
       }
     ],
     "subsidyHeadlines": [

@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-27T01:31:58.117Z",
+  "updatedAt": "2026-10-27T02:25:36.166Z",
   "items": [
     {
       "time": "08:25",
@@ -10,36 +10,36 @@ window.LUS_X_NEWS = {
       "xQuery": "米中間選挙 下院は民主党優勢か"
     },
     {
-      "time": "08:34",
-      "title": "茨城県教委 国に誤った情報伝達",
+      "time": "10:40",
+      "title": "元検事正が無罪主張 性的暴行事件",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600260?source=rss",
-      "publishedAt": "2026-10-26T23:34:41.000Z",
-      "xQuery": "茨城県教委 国に誤った情報伝達"
+      "url": "https://news.yahoo.co.jp/pickup/6600270?source=rss",
+      "publishedAt": "2026-10-27T01:40:56.000Z",
+      "xQuery": "元検事正が無罪主張 性的暴行事件"
     },
     {
-      "time": "09:45",
-      "title": "米大統領 賞ならずノルウェー罵倒",
+      "time": "11:02",
+      "title": "GMO 利用者に「PC電源切って」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600266?source=rss",
-      "publishedAt": "2026-10-27T00:45:04.000Z",
-      "xQuery": "米大統領 賞ならずノルウェー罵倒"
+      "url": "https://news.yahoo.co.jp/pickup/6600274?source=rss",
+      "publishedAt": "2026-10-27T02:02:32.000Z",
+      "xQuery": "GMO 利用者に「PC電源切って」"
     },
     {
-      "time": "09:01",
-      "title": "新iPad mini発表 防水を初搭載",
+      "time": "11:08",
+      "title": "千代田区 マンション転売巡り要請",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600262?source=rss",
-      "publishedAt": "2026-10-27T00:01:50.000Z",
-      "xQuery": "新iPad mini発表 防水を初搭載"
+      "url": "https://news.yahoo.co.jp/pickup/6600275?source=rss",
+      "publishedAt": "2026-10-27T02:08:50.000Z",
+      "xQuery": "千代田区 マンション転売巡り要請"
     },
     {
-      "time": "09:46",
-      "title": "小学生 漫画「読まない」3割弱",
+      "time": "11:13",
+      "title": "北九州で女性を殺害未遂疑い 逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600268?source=rss",
-      "publishedAt": "2026-10-27T00:46:52.000Z",
-      "xQuery": "小学生 漫画「読まない」3割弱"
+      "url": "https://news.yahoo.co.jp/pickup/6600276?source=rss",
+      "publishedAt": "2026-10-27T02:13:44.000Z",
+      "xQuery": "北九州で女性を殺害未遂疑い 逮捕"
     }
   ]
 };
