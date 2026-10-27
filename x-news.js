@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-27T14:47:08.513Z",
+  "updatedAt": "2026-10-27T15:18:40.117Z",
   "items": [
+    {
+      "time": "23:36",
+      "title": "イオン熊本 一部再開意向を伝える",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6600353?source=rss",
+      "publishedAt": "2026-10-27T14:36:01.000Z",
+      "xQuery": "イオン熊本 一部再開意向を伝える"
+    },
     {
       "time": "21:56",
       "title": "副首都 要件満たせば4道府県指定",
@@ -8,14 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6600343?source=rss",
       "publishedAt": "2026-10-27T12:56:31.000Z",
       "xQuery": "副首都 要件満たせば4道府県指定"
-    },
-    {
-      "time": "22:26",
-      "title": "農相の関連団体 計85万円の不記載",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600346?source=rss",
-      "publishedAt": "2026-10-27T13:26:11.000Z",
-      "xQuery": "農相の関連団体 計85万円の不記載"
     },
     {
       "time": "23:14",
