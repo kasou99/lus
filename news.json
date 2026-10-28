@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T05:36:27.714Z",
+  "updatedAt": "2026-10-28T06:22:28.951Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -15,6 +15,13 @@
         "source": "MONOist",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE82S2VaQXkya1dHdl9KcVJ0T1F0ZEsyRDctTmtiYVFlWkN6Z3dWekIwN2tSNER3UUp2N29tRm1ISmZQUWJfeTdZS1BaY25yNG9OcjNGaW55YndsUGZpUVp6aUJ5TWp1MzhoejRHMnl6OA?oc=5",
         "publishedAt": "2026-10-27T21:15:00.000Z"
+      },
+      {
+        "time": "14:45",
+        "title": "【詳報】 目指すは「壊れにくいロボット」 工作機械見本市「JIMTOF2026」",
+        "source": "47NEWS",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5UZi1ia2o5a2Y2ZmNLa3VyY2Uza05SWkp5RC1mUkxsTy0ydnlkWGVOdmRIb2lOeHRiYy1wUmNlS3N4X0cwN0JkZjNGTQ?oc=5",
+        "publishedAt": "2026-10-28T05:45:17.000Z"
       },
       {
         "time": "06:03",
@@ -43,13 +50,6 @@
         "source": "北日本新聞webunプラス",
         "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB5R0NWZk9Yb3Nhd1lUc2xFbEp4d05sSXVVN3IxbXI4cV9mbzRyZEF4ZE5xYVF4dWM4Y3BZOU8zZWNjZ0x4VC1zMHAxZw?oc=5",
         "publishedAt": "2026-10-27T20:00:00.000Z"
-      },
-      {
-        "time": "06:03",
-        "title": "オークマ・ファナック・ヤマザキマザック…工作機械で導入進む、AIの生かし方（ニュースイッチ）",
-        "source": "ｄメニューニュース",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZmd0eVdGRVBZMk54LURJWVFYbm5FY3FGQmxqYmN0VkN1aHc5RDZMODJOc21DdnA2Nmk0a21BYmUyblN5Rk9LdjE4TDFwd2ZlOGVRSlB6eWxGdmhNbERzemlVU19JRy13WmZGZzR0Yi05M1FWOFdwSmthZENjNVBscnFGSW9nVlZX?oc=5",
-        "publishedAt": "2026-10-27T21:03:00.000Z"
       },
       {
         "time": "10:23",

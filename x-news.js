@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-28T05:36:28.448Z",
+  "updatedAt": "2026-10-28T06:22:29.749Z",
   "items": [
     {
       "time": "12:43",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "ボルソナロ氏の入国 米が許可"
     },
     {
-      "time": "11:34",
-      "title": "GMOを攻撃した集団のサイト停止",
+      "time": "10:33",
+      "title": "不正アクセス GMOの急成長に影",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600397?source=rss",
-      "publishedAt": "2026-10-28T02:34:07.000Z",
-      "xQuery": "GMOを攻撃した集団のサイト停止"
+      "url": "https://news.yahoo.co.jp/pickup/6600390?source=rss",
+      "publishedAt": "2026-10-28T01:33:48.000Z",
+      "xQuery": "不正アクセス GMOの急成長に影"
     },
     {
       "time": "14:04",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "沖縄遺体発見1週間 住民「怖い」"
     },
     {
-      "time": "13:59",
-      "title": "韓国 シャインマスカット価格急落",
+      "time": "14:27",
+      "title": "ヒョウ襲撃 オランダで飼育員死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600418?source=rss",
-      "publishedAt": "2026-10-28T04:59:04.000Z",
-      "xQuery": "韓国 シャインマスカット価格急落"
+      "url": "https://news.yahoo.co.jp/pickup/6600426?source=rss",
+      "publishedAt": "2026-10-28T05:27:35.000Z",
+      "xQuery": "ヒョウ襲撃 オランダで飼育員死亡"
     }
   ]
 };
