@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-28T05:13:16.990Z",
+  "updatedAt": "2026-10-28T05:36:28.448Z",
   "items": [
     {
       "time": "12:43",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "東京・近畿で木枯らし1号 気象庁"
     },
     {
-      "time": "12:51",
-      "title": "NHKがIP活用などに注力へ 中計案",
+      "time": "12:19",
+      "title": "ボルソナロ氏の入国 米が許可",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600409?source=rss",
-      "publishedAt": "2026-10-28T03:51:49.000Z",
-      "xQuery": "NHKがIP活用などに注力へ 中計案"
+      "url": "https://news.yahoo.co.jp/pickup/6600410?source=rss",
+      "publishedAt": "2026-10-28T03:19:24.000Z",
+      "xQuery": "ボルソナロ氏の入国 米が許可"
     },
     {
       "time": "11:34",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "GMOを攻撃した集団のサイト停止"
     },
     {
-      "time": "12:01",
-      "title": "「東京アプリ」巡り 13人が都提訴",
+      "time": "14:04",
+      "title": "沖縄遺体発見1週間 住民「怖い」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600408?source=rss",
-      "publishedAt": "2026-10-28T03:01:22.000Z",
-      "xQuery": "「東京アプリ」巡り 13人が都提訴"
+      "url": "https://news.yahoo.co.jp/pickup/6600423?source=rss",
+      "publishedAt": "2026-10-28T05:04:30.000Z",
+      "xQuery": "沖縄遺体発見1週間 住民「怖い」"
     },
     {
       "time": "13:59",
