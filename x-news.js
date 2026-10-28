@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-28T02:37:55.667Z",
+  "updatedAt": "2026-10-28T03:15:40.997Z",
   "items": [
     {
       "time": "09:09",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "GMOを攻撃した集団のサイト停止"
     },
     {
+      "time": "12:01",
+      "title": "「東京アプリ」巡り 13人が都提訴",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6600408?source=rss",
+      "publishedAt": "2026-10-28T03:01:22.000Z",
+      "xQuery": "「東京アプリ」巡り 13人が都提訴"
+    },
+    {
       "time": "11:04",
       "title": "auメール障害 全国で利用しづらく",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6600391?source=rss",
       "publishedAt": "2026-10-28T02:04:30.000Z",
       "xQuery": "auメール障害 全国で利用しづらく"
-    },
-    {
-      "time": "09:02",
-      "title": "線路を車走行 電車衝突し女性死亡",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600378?source=rss",
-      "publishedAt": "2026-10-28T00:02:43.000Z",
-      "xQuery": "線路を車走行 電車衝突し女性死亡"
     }
   ]
 };

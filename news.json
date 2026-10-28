@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T02:37:54.911Z",
+  "updatedAt": "2026-10-28T03:15:40.126Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -140,11 +140,11 @@
         "publishedAt": "2026-10-28T00:59:05.000Z"
       },
       {
-        "time": "19:20",
-        "title": "たまごの平均価格 最高値を更新",
+        "time": "20:42",
+        "title": "ユニクロ 50色ソックス値上げ撤回",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600331?source=rss",
-        "publishedAt": "2026-10-27T10:20:28.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6600339?source=rss",
+        "publishedAt": "2026-10-27T11:42:48.000Z"
       }
     ],
     "localHeadlines": [
@@ -161,13 +161,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6600393?source=rss",
         "publishedAt": "2026-10-28T02:18:08.000Z"
-      },
-      {
-        "time": "07:52",
-        "title": "勾留の男性死亡 遺族が都など提訴",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600365?source=rss",
-        "publishedAt": "2026-10-27T22:52:13.000Z"
       },
       {
         "time": "10:17",
@@ -189,6 +182,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6600373?source=rss",
         "publishedAt": "2026-10-27T23:27:06.000Z"
+      },
+      {
+        "time": "06:09",
+        "title": "原付の男性死亡 高速道で車と衝突",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6600355?source=rss",
+        "publishedAt": "2026-10-27T21:09:03.000Z"
       }
     ],
     "subsidyHeadlines": [
