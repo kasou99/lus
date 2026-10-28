@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-28T02:18:14.707Z",
+  "updatedAt": "2026-10-28T02:37:55.667Z",
   "items": [
     {
       "time": "09:09",
@@ -10,12 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "自民 衆院比例で「統一名簿」提案"
     },
     {
-      "time": "08:36",
-      "title": "サイバー攻撃 サイト経由型が急増",
+      "time": "09:45",
+      "title": "米とキューバ 国連で怒声の応酬",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600375?source=rss",
-      "publishedAt": "2026-10-27T23:36:34.000Z",
-      "xQuery": "サイバー攻撃 サイト経由型が急増"
+      "url": "https://news.yahoo.co.jp/pickup/6600382?source=rss",
+      "publishedAt": "2026-10-28T00:45:41.000Z",
+      "xQuery": "米とキューバ 国連で怒声の応酬"
+    },
+    {
+      "time": "11:34",
+      "title": "GMOを攻撃した集団のサイト停止",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6600397?source=rss",
+      "publishedAt": "2026-10-28T02:34:07.000Z",
+      "xQuery": "GMOを攻撃した集団のサイト停止"
     },
     {
       "time": "11:04",
@@ -24,14 +32,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6600391?source=rss",
       "publishedAt": "2026-10-28T02:04:30.000Z",
       "xQuery": "auメール障害 全国で利用しづらく"
-    },
-    {
-      "time": "08:49",
-      "title": "米大統領「AI」名称禁止する方針",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600376?source=rss",
-      "publishedAt": "2026-10-27T23:49:12.000Z",
-      "xQuery": "米大統領「AI」名称禁止する方針"
     },
     {
       "time": "09:02",
