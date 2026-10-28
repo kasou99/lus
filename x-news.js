@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-28T09:36:00.661Z",
+  "updatedAt": "2026-10-28T10:13:41.406Z",
   "items": [
     {
-      "time": "16:41",
-      "title": "日米防衛相 中国抑止へ協力で一致",
+      "time": "18:51",
+      "title": "29日朝 各地で今季一番の冷え込み",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600438?source=rss",
-      "publishedAt": "2026-10-28T07:41:19.000Z",
-      "xQuery": "日米防衛相 中国抑止へ協力で一致"
+      "url": "https://news.yahoo.co.jp/pickup/6600461?source=rss",
+      "publishedAt": "2026-10-28T09:51:16.000Z",
+      "xQuery": "29日朝 各地で今季一番の冷え込み"
     },
     {
       "time": "18:04",
