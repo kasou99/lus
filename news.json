@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T00:36:31.757Z",
+  "updatedAt": "2026-10-28T01:13:47.672Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -52,11 +52,11 @@
         "publishedAt": "2026-10-27T15:00:00.000Z"
       },
       {
-        "time": "19:10",
-        "title": "アマダが最新マシンの模擬実演披露 都内で国際工作機械見本市、３１日まで",
-        "source": "カナロコ",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8wNGY5eGh1a0M4MmFaYkxScTJ1M2lPNktzZjVtRjVGSzkwcEZJcFdDSzczZlVraVJ5Si1ualNqOGptYXBnaEJtd0VjWUlnNm1OS004aFl4RjQxVDNjRXQ4aERRYUVSYnRV?oc=5",
-        "publishedAt": "2026-10-27T10:10:00.000Z"
+        "time": "10:00",
+        "title": "次世代設備保全クラウドの株式会社M2X、三和罐詰株式会社の導入事例を公開",
+        "source": "PR TIMES",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBXWFprTkJLc2Fha2xLY1JTTExuOTFIZDl6RGZGU2VTTGxmT1ZRTEd3TXJHaGFrYmxSY1NkZ2VCTjFsOVRfZm02bFNJbXVodGoxSmxSRXNVNzFsNVBnSTZHaWs0b20wRmprMVE?oc=5",
+        "publishedAt": "2026-10-28T01:00:02.000Z"
       }
     ],
     "worldHeadlines": [
@@ -73,6 +73,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6600370?source=rss",
         "publishedAt": "2026-10-27T23:16:19.000Z"
+      },
+      {
+        "time": "09:45",
+        "title": "米とキューバ 国連で怒声の応酬",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6600382?source=rss",
+        "publishedAt": "2026-10-28T00:45:41.000Z"
       },
       {
         "time": "20:30",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6600376?source=rss",
         "publishedAt": "2026-10-27T23:49:12.000Z"
-      },
-      {
-        "time": "11:22",
-        "title": "米大統領との面会後悔 司教ら謝罪",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600278?source=rss",
-        "publishedAt": "2026-10-27T02:22:48.000Z"
       }
     ],
     "economyHeadlines": [
@@ -119,13 +119,6 @@
         "publishedAt": "2026-10-27T08:45:36.000Z"
       },
       {
-        "time": "07:27",
-        "title": "米MS 6万人に退職パッケージ提示",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600248?source=rss",
-        "publishedAt": "2026-10-26T22:27:23.000Z"
-      },
-      {
         "time": "09:38",
         "title": "大手生保 国債の入れ替え加速",
         "source": "Yahoo!ニュース",
@@ -133,18 +126,25 @@
         "publishedAt": "2026-10-27T00:38:54.000Z"
       },
       {
+        "time": "10:00",
+        "title": "昆布・かつお節が高騰 飲食店悲鳴",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6600385?source=rss",
+        "publishedAt": "2026-10-28T01:00:43.000Z"
+      },
+      {
+        "time": "09:59",
+        "title": "タマゴなど高値 家計でどう対策",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6600384?source=rss",
+        "publishedAt": "2026-10-28T00:59:05.000Z"
+      },
+      {
         "time": "19:20",
         "title": "たまごの平均価格 最高値を更新",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6600331?source=rss",
         "publishedAt": "2026-10-27T10:20:28.000Z"
-      },
-      {
-        "time": "20:42",
-        "title": "ユニクロ 50色ソックス値上げ撤回",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600339?source=rss",
-        "publishedAt": "2026-10-27T11:42:48.000Z"
       }
     ],
     "localHeadlines": [

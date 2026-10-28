@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-28T00:36:32.881Z",
+  "updatedAt": "2026-10-28T01:13:48.852Z",
   "items": [
     {
-      "time": "08:03",
-      "title": "熊本地震3カ月 千人超なお避難所",
+      "time": "09:09",
+      "title": "自民 衆院比例で「統一名簿」提案",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600367?source=rss",
-      "publishedAt": "2026-10-27T23:03:19.000Z",
-      "xQuery": "熊本地震3カ月 千人超なお避難所"
+      "url": "https://news.yahoo.co.jp/pickup/6600379?source=rss",
+      "publishedAt": "2026-10-28T00:09:13.000Z",
+      "xQuery": "自民 衆院比例で「統一名簿」提案"
     },
     {
       "time": "08:36",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "サイバー攻撃 サイト経由型が急増"
     },
     {
-      "time": "07:40",
-      "title": "GMO攻撃 被害者は「恐怖しか」",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600364?source=rss",
-      "publishedAt": "2026-10-27T22:40:24.000Z",
-      "xQuery": "GMO攻撃 被害者は「恐怖しか」"
-    },
-    {
       "time": "08:16",
       "title": "ボルソナロ氏亡命か 米認める方針",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6600370?source=rss",
       "publishedAt": "2026-10-27T23:16:19.000Z",
       "xQuery": "ボルソナロ氏亡命か 米認める方針"
+    },
+    {
+      "time": "09:19",
+      "title": "過疎指定ありがたい 町長語る事情",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6600381?source=rss",
+      "publishedAt": "2026-10-28T00:19:44.000Z",
+      "xQuery": "過疎指定ありがたい 町長語る事情"
     },
     {
       "time": "09:02",
