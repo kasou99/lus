@@ -1,22 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-28T07:36:21.456Z",
+  "updatedAt": "2026-10-28T08:17:57.424Z",
   "items": [
-    {
-      "time": "14:25",
-      "title": "衆院比例定数 31減案で自維国合意",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600428?source=rss",
-      "publishedAt": "2026-10-28T05:25:41.000Z",
-      "xQuery": "衆院比例定数 31減案で自維国合意"
-    },
-    {
-      "time": "15:32",
-      "title": "KDDIメールサービス通信障害 復旧",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600431?source=rss",
-      "publishedAt": "2026-10-28T06:32:56.000Z",
-      "xQuery": "KDDIメールサービス通信障害 復旧"
-    },
     {
       "time": "14:14",
       "title": "GMOへの「劇場型」攻撃 狙いは",
@@ -24,6 +8,22 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6600424?source=rss",
       "publishedAt": "2026-10-28T05:14:57.000Z",
       "xQuery": "GMOへの「劇場型」攻撃 狙いは"
+    },
+    {
+      "time": "16:32",
+      "title": "青森で初雪 八戸市民「早すぎ」",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6600436?source=rss",
+      "publishedAt": "2026-10-28T07:32:00.000Z",
+      "xQuery": "青森で初雪 八戸市民「早すぎ」"
+    },
+    {
+      "time": "16:55",
+      "title": "呼吸器具抜き妻を殺害疑い 夫逮捕",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6600442?source=rss",
+      "publishedAt": "2026-10-28T07:55:45.000Z",
+      "xQuery": "呼吸器具抜き妻を殺害疑い 夫逮捕"
     },
     {
       "time": "16:27",
