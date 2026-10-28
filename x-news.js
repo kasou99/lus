@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-28T09:14:39.848Z",
+  "updatedAt": "2026-10-28T09:36:00.661Z",
   "items": [
     {
       "time": "16:41",
@@ -18,12 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "熊本で被災のサウナ 救った常連客"
     },
     {
-      "time": "16:55",
-      "title": "呼吸器具抜き妻を殺害疑い 夫逮捕",
+      "time": "18:07",
+      "title": "プルデンシャル 新たな不正事案",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600442?source=rss",
-      "publishedAt": "2026-10-28T07:55:45.000Z",
-      "xQuery": "呼吸器具抜き妻を殺害疑い 夫逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6600452?source=rss",
+      "publishedAt": "2026-10-28T09:07:38.000Z",
+      "xQuery": "プルデンシャル 新たな不正事案"
+    },
+    {
+      "time": "18:25",
+      "title": "利根川で14歳流され行方不明 群馬",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6600459?source=rss",
+      "publishedAt": "2026-10-28T09:25:42.000Z",
+      "xQuery": "利根川で14歳流され行方不明 群馬"
     },
     {
       "time": "16:27",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6600437?source=rss",
       "publishedAt": "2026-10-28T07:27:07.000Z",
       "xQuery": "つるされた鉄の棒が直撃 意識不明"
-    },
-    {
-      "time": "17:11",
-      "title": "キッチンタイマーを回収 TDR運営",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600444?source=rss",
-      "publishedAt": "2026-10-28T08:11:52.000Z",
-      "xQuery": "キッチンタイマーを回収 TDR運営"
     }
   ]
 };

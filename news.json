@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T09:14:39.018Z",
+  "updatedAt": "2026-10-28T09:35:59.865Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "18:25",
+        "title": "利根川で14歳流され行方不明 群馬",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6600459?source=rss",
+        "publishedAt": "2026-10-28T09:25:42.000Z"
+      },
+      {
         "time": "14:04",
         "title": "沖縄遺体発見1週間 住民「怖い」",
         "source": "Yahoo!ニュース",
@@ -175,13 +182,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6600442?source=rss",
         "publishedAt": "2026-10-28T07:55:45.000Z"
-      },
-      {
-        "time": "16:32",
-        "title": "青森で初雪 八戸市民「早すぎ」",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600436?source=rss",
-        "publishedAt": "2026-10-28T07:32:00.000Z"
       },
       {
         "time": "16:27",
