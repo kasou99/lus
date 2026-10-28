@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-28T10:36:41.969Z",
+  "updatedAt": "2026-10-28T11:12:17.440Z",
   "items": [
     {
       "time": "18:51",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "29日朝 各地で今季一番の冷え込み"
     },
     {
-      "time": "19:20",
+      "time": "19:46",
       "title": "スペインで列車衝突 10人死亡か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600464?source=rss",
-      "publishedAt": "2026-10-28T10:20:41.000Z",
+      "url": "https://news.yahoo.co.jp/pickup/6600467?source=rss",
+      "publishedAt": "2026-10-28T10:46:12.000Z",
       "xQuery": "スペインで列車衝突 10人死亡か"
     },
     {
-      "time": "18:07",
-      "title": "プルデンシャル 新たな不正事案",
+      "time": "18:01",
+      "title": "女性殺害疑い 死亡の男を書類送検",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600452?source=rss",
-      "publishedAt": "2026-10-28T09:07:38.000Z",
-      "xQuery": "プルデンシャル 新たな不正事案"
+      "url": "https://news.yahoo.co.jp/pickup/6600450?source=rss",
+      "publishedAt": "2026-10-28T09:01:01.000Z",
+      "xQuery": "女性殺害疑い 死亡の男を書類送検"
     },
     {
       "time": "18:25",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "利根川で14歳流され行方不明 群馬"
     },
     {
-      "time": "16:27",
-      "title": "つるされた鉄の棒が直撃 意識不明",
+      "time": "18:15",
+      "title": "小型恐竜の骨格標本 75億円で落札",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600437?source=rss",
-      "publishedAt": "2026-10-28T07:27:07.000Z",
-      "xQuery": "つるされた鉄の棒が直撃 意識不明"
+      "url": "https://news.yahoo.co.jp/pickup/6600458?source=rss",
+      "publishedAt": "2026-10-28T09:15:30.000Z",
+      "xQuery": "小型恐竜の骨格標本 75億円で落札"
     }
   ]
 };
