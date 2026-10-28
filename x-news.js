@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-28T22:12:14.051Z",
+  "updatedAt": "2026-10-28T22:36:23.932Z",
   "items": [
     {
       "time": "06:55",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "他県警でも失効免許不正流用 証言"
     },
     {
-      "time": "21:44",
-      "title": "検察側が異例の求刑訂正 地検謝罪",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600477?source=rss",
-      "publishedAt": "2026-10-28T12:44:47.000Z",
-      "xQuery": "検察側が異例の求刑訂正 地検謝罪"
-    },
-    {
       "time": "00:19",
       "title": "千葉県で震度5弱 津波の心配なし",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6600489?source=rss",
       "publishedAt": "2026-10-28T15:19:26.000Z",
       "xQuery": "千葉県で震度5弱 津波の心配なし"
+    },
+    {
+      "time": "07:18",
+      "title": "解体作業中に鉄板が落下 男性死亡",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6600496?source=rss",
+      "publishedAt": "2026-10-28T22:18:06.000Z",
+      "xQuery": "解体作業中に鉄板が落下 男性死亡"
     },
     {
       "time": "21:24",
