@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-28T08:37:56.475Z",
+  "updatedAt": "2026-10-28T09:14:39.848Z",
   "items": [
     {
-      "time": "14:14",
-      "title": "GMOへの「劇場型」攻撃 狙いは",
+      "time": "16:41",
+      "title": "日米防衛相 中国抑止へ協力で一致",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600424?source=rss",
-      "publishedAt": "2026-10-28T05:14:57.000Z",
-      "xQuery": "GMOへの「劇場型」攻撃 狙いは"
+      "url": "https://news.yahoo.co.jp/pickup/6600438?source=rss",
+      "publishedAt": "2026-10-28T07:41:19.000Z",
+      "xQuery": "日米防衛相 中国抑止へ協力で一致"
     },
     {
-      "time": "16:32",
-      "title": "青森で初雪 八戸市民「早すぎ」",
+      "time": "18:04",
+      "title": "熊本で被災のサウナ 救った常連客",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600436?source=rss",
-      "publishedAt": "2026-10-28T07:32:00.000Z",
-      "xQuery": "青森で初雪 八戸市民「早すぎ」"
+      "url": "https://news.yahoo.co.jp/pickup/6600456?source=rss",
+      "publishedAt": "2026-10-28T09:04:36.000Z",
+      "xQuery": "熊本で被災のサウナ 救った常連客"
     },
     {
       "time": "16:55",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "つるされた鉄の棒が直撃 意識不明"
     },
     {
-      "time": "15:58",
-      "title": "自ら車のタイヤ交換 走行中に脱落",
+      "time": "17:11",
+      "title": "キッチンタイマーを回収 TDR運営",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600433?source=rss",
-      "publishedAt": "2026-10-28T06:58:37.000Z",
-      "xQuery": "自ら車のタイヤ交換 走行中に脱落"
+      "url": "https://news.yahoo.co.jp/pickup/6600444?source=rss",
+      "publishedAt": "2026-10-28T08:11:52.000Z",
+      "xQuery": "キッチンタイマーを回収 TDR運営"
     }
   ]
 };
