@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-28T11:12:17.440Z",
+  "updatedAt": "2026-10-28T11:36:37.832Z",
   "items": [
     {
       "time": "18:51",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "29日朝 各地で今季一番の冷え込み"
     },
     {
-      "time": "19:46",
-      "title": "スペインで列車衝突 10人死亡か",
+      "time": "20:23",
+      "title": "スペインで列車衝突 30人死亡か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600467?source=rss",
-      "publishedAt": "2026-10-28T10:46:12.000Z",
-      "xQuery": "スペインで列車衝突 10人死亡か"
+      "url": "https://news.yahoo.co.jp/pickup/6600470?source=rss",
+      "publishedAt": "2026-10-28T11:23:33.000Z",
+      "xQuery": "スペインで列車衝突 30人死亡か"
     },
     {
       "time": "18:01",
