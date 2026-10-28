@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-28T22:36:23.932Z",
+  "updatedAt": "2026-10-28T23:11:22.371Z",
   "items": [
     {
       "time": "06:55",
@@ -10,20 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "GMO脅迫サイト 国が遮断を要請"
     },
     {
-      "time": "06:39",
-      "title": "他県警でも失効免許不正流用 証言",
+      "time": "08:03",
+      "title": "スペイン 衝突列車に誤った指示か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600493?source=rss",
-      "publishedAt": "2026-10-28T21:39:41.000Z",
-      "xQuery": "他県警でも失効免許不正流用 証言"
-    },
-    {
-      "time": "00:19",
-      "title": "千葉県で震度5弱 津波の心配なし",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600489?source=rss",
-      "publishedAt": "2026-10-28T15:19:26.000Z",
-      "xQuery": "千葉県で震度5弱 津波の心配なし"
+      "url": "https://news.yahoo.co.jp/pickup/6600500?source=rss",
+      "publishedAt": "2026-10-28T23:03:35.000Z",
+      "xQuery": "スペイン 衝突列車に誤った指示か"
     },
     {
       "time": "07:18",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6600474?source=rss",
       "publishedAt": "2026-10-28T12:24:14.000Z",
       "xQuery": "「千鳥饅頭」千鳥屋本家が破産へ"
+    },
+    {
+      "time": "06:09",
+      "title": "巨人ヘッドCに高橋由伸氏決定",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6600491?source=rss",
+      "publishedAt": "2026-10-28T21:09:28.000Z",
+      "xQuery": "巨人ヘッドCに高橋由伸氏決定"
     }
   ]
 };
