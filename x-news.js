@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-28T03:15:40.997Z",
+  "updatedAt": "2026-10-28T03:37:39.682Z",
   "items": [
     {
       "time": "09:09",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "「東京アプリ」巡り 13人が都提訴"
     },
     {
-      "time": "11:04",
-      "title": "auメール障害 全国で利用しづらく",
+      "time": "11:59",
+      "title": "1600日超通う客も 名古屋発・大黒",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600391?source=rss",
-      "publishedAt": "2026-10-28T02:04:30.000Z",
-      "xQuery": "auメール障害 全国で利用しづらく"
+      "url": "https://news.yahoo.co.jp/pickup/6600402?source=rss",
+      "publishedAt": "2026-10-28T02:59:03.000Z",
+      "xQuery": "1600日超通う客も 名古屋発・大黒"
     }
   ]
 };
