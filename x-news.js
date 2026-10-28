@@ -1,14 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-28T06:43:58.665Z",
+  "updatedAt": "2026-10-28T07:14:33.440Z",
   "items": [
-    {
-      "time": "12:43",
-      "title": "東京・近畿で木枯らし1号 気象庁",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600406?source=rss",
-      "publishedAt": "2026-10-28T03:43:01.000Z",
-      "xQuery": "東京・近畿で木枯らし1号 気象庁"
-    },
     {
       "time": "14:25",
       "title": "衆院比例定数 31減案で自維国合意",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6600423?source=rss",
       "publishedAt": "2026-10-28T05:04:30.000Z",
       "xQuery": "沖縄遺体発見1週間 住民「怖い」"
+    },
+    {
+      "time": "15:58",
+      "title": "自ら車のタイヤ交換 走行中に脱落",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6600433?source=rss",
+      "publishedAt": "2026-10-28T06:58:37.000Z",
+      "xQuery": "自ら車のタイヤ交換 走行中に脱落"
     }
   ]
 };
