@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-28T03:37:39.682Z",
+  "updatedAt": "2026-10-28T04:15:42.894Z",
   "items": [
     {
-      "time": "09:09",
-      "title": "自民 衆院比例で「統一名簿」提案",
+      "time": "11:47",
+      "title": "大阪維新代表 無投票で吉村氏3選",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600379?source=rss",
-      "publishedAt": "2026-10-28T00:09:13.000Z",
-      "xQuery": "自民 衆院比例で「統一名簿」提案"
+      "url": "https://news.yahoo.co.jp/pickup/6600400?source=rss",
+      "publishedAt": "2026-10-28T02:47:55.000Z",
+      "xQuery": "大阪維新代表 無投票で吉村氏3選"
     },
     {
-      "time": "09:45",
-      "title": "米とキューバ 国連で怒声の応酬",
+      "time": "12:51",
+      "title": "NHKがIP活用などに注力へ 中計案",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600382?source=rss",
-      "publishedAt": "2026-10-28T00:45:41.000Z",
-      "xQuery": "米とキューバ 国連で怒声の応酬"
+      "url": "https://news.yahoo.co.jp/pickup/6600409?source=rss",
+      "publishedAt": "2026-10-28T03:51:49.000Z",
+      "xQuery": "NHKがIP活用などに注力へ 中計案"
     },
     {
       "time": "11:34",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "「東京アプリ」巡り 13人が都提訴"
     },
     {
-      "time": "11:59",
-      "title": "1600日超通う客も 名古屋発・大黒",
+      "time": "13:11",
+      "title": "増える正社員の副業 実状とリスク",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600402?source=rss",
-      "publishedAt": "2026-10-28T02:59:03.000Z",
-      "xQuery": "1600日超通う客も 名古屋発・大黒"
+      "url": "https://news.yahoo.co.jp/pickup/6600415?source=rss",
+      "publishedAt": "2026-10-28T04:11:53.000Z",
+      "xQuery": "増える正社員の副業 実状とリスク"
     }
   ]
 };
