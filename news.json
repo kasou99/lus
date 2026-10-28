@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T04:15:41.925Z",
+  "updatedAt": "2026-10-28T04:36:45.170Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -10,13 +10,6 @@
         "publishedAt": "2026-10-28T01:21:26.000Z"
       },
       {
-        "time": "06:03",
-        "title": "オークマ・ファナック・ヤマザキマザック…工作機械で導入進む、AIの生かし方",
-        "source": "ニュースイッチ by 日刊工業新聞社",
-        "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1lTllBNE53Q0xycllzTkFsb0NVRnNYZHFveVUzU1gwVVFjTl95VzJUcEVQbnVWNlZ2QW9WY2w4dmZCUQ?oc=5",
-        "publishedAt": "2026-10-27T21:03:00.000Z"
-      },
-      {
         "time": "06:15",
         "title": "軸受状態を管理し、加工品質を担保 NTNが自己発電可能なセンサー内蔵軸受を披露：JIMTOF2026",
         "source": "MONOist",
@@ -24,11 +17,25 @@
         "publishedAt": "2026-10-27T21:15:00.000Z"
       },
       {
+        "time": "06:03",
+        "title": "オークマ・ファナック・ヤマザキマザック…工作機械で導入進む、AIの生かし方",
+        "source": "ニュースイッチ by 日刊工業新聞社",
+        "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1lTllBNE53Q0xycllzTkFsb0NVRnNYZHFveVUzU1gwVVFjTl95VzJUcEVQbnVWNlZ2QW9WY2w4dmZCUQ?oc=5",
+        "publishedAt": "2026-10-27T21:03:00.000Z"
+      },
+      {
         "time": "06:00",
         "title": "〈5分でわかる工作機械トレンド〉9月は過去最高の受注額､｢年間2兆円達成｣に王手も浮上する｢AI過剰投資｣の懸念",
         "source": "東洋経済オンライン",
         "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE95VFdFN2pKa1ZENDNibU1FOUEzV3VRZzQ0Tkk1c2RJTEROQWJUR1psa3dGeFpWTkV4VEpJbEduU0RnNmVNRDZxLVJ1THFVQ3pkaEt4al8yVUNSODUtZ2dj?oc=5",
         "publishedAt": "2026-10-27T21:00:00.000Z"
+      },
+      {
+        "time": "13:20",
+        "title": "台湾企業94社が日本の工作機械見本市に出展 AI関連需要の取り込み狙う",
+        "source": "Rti 中央廣播電臺",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5mYVJTeXRJRmRibEJ5TWFRUnloM2I2UGtlWS1ibExaOVhJYUFsdG0wWGpNbDdrRmRlZC1BbDE2RDlnSVF3LTRpRjV1cTlLM21EOW9FTFZCYnB2TjA?oc=5",
+        "publishedAt": "2026-10-28T04:20:22.000Z"
       },
       {
         "time": "05:00",
@@ -50,13 +57,6 @@
         "source": "ｄメニューニュース",
         "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZmd0eVdGRVBZMk54LURJWVFYbm5FY3FGQmxqYmN0VkN1aHc5RDZMODJOc21DdnA2Nmk0a21BYmUyblN5Rk9LdjE4TDFwd2ZlOGVRSlB6eWxGdmhNbERzemlVU19JRy13WmZGZzR0Yi05M1FWOFdwSmthZENjNVBscnFGSW9nVlZX?oc=5",
         "publishedAt": "2026-10-27T21:03:00.000Z"
-      },
-      {
-        "time": "10:23",
-        "title": "三菱電機が描く工作機械×AIの未来、人手不足や技能伝承の「切り札」となるか（MONOist）",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Ic3VWd1ZZRnRtT193SllEWWdsUkR1c3dXa2FCblAtZW1vZ2hEd0x3VEJqbzF1UG5Bdm9lODl3TTZDT3JSTk1jUFZlNG5EM3d1dDIxMjl5NWRpc3N3dzczcGlvQ1Z4WjVXQ25MVHE4MklTWTFXQ3NVNGZVenY0LUU?oc=5",
-        "publishedAt": "2026-10-28T01:23:47.000Z"
       }
     ],
     "worldHeadlines": [
