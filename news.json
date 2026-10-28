@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-10-28T19:36:34.571Z",
+  "updatedAt": "2026-10-28T20:13:49.264Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "05:00",
+        "title": "工作機械首位の独トルンプ、AI半導体を巧みに開拓 レーザー生産2倍に",
+        "source": "日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBPTGlFQk5wLVByM0M4RnRmTW5uTEJjOUtjREdWcDMwdFdoRnNfWjQtM3lGT0RlZ25hQlgxejlvOTBPVnVJM0RYUHNIX1lWNzFQSVB6VlhFZEhvRXY1eGRXdmIwWDVNcm9SVjVPcA?oc=5",
+        "publishedAt": "2026-10-28T20:00:00.000Z"
+      },
       {
         "time": "14:45",
         "title": "【詳報】 目指すは「壊れにくいロボット」 工作機械見本市「JIMTOF2026」",
@@ -17,18 +24,18 @@
         "publishedAt": "2026-10-28T01:21:26.000Z"
       },
       {
-        "time": "06:15",
-        "title": "軸受状態を管理し、加工品質を担保 NTNが自己発電可能なセンサー内蔵軸受を披露：JIMTOF2026",
-        "source": "MONOist",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE82S2VaQXkya1dHdl9KcVJ0T1F0ZEsyRDctTmtiYVFlWkN6Z3dWekIwN2tSNER3UUp2N29tRm1ISmZQUWJfeTdZS1BaY25yNG9OcjNGaW55YndsUGZpUVp6aUJ5TWp1MzhoejRHMnl6OA?oc=5",
-        "publishedAt": "2026-10-27T21:15:00.000Z"
-      },
-      {
         "time": "03:15",
         "title": "次世代設備保全クラウドの株式会社M2X、三和罐詰株式会社の導入事例を公開",
         "source": "ニコニコニュース",
         "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9pa19XYXFJdUZfYndGMFhGSnlGU3R5MmRiaWRDVy0zc0RrMkdyLXN4MGNvUWZmaXNqRHRzdVgxWG16T0dnc3g5c1BDN0M4UEVBUFVFc2RWOFZiZjFkaDJOQmVGQ0hYblZUSEhvNEgxSXRJNnZEWGw4?oc=5",
         "publishedAt": "2026-10-28T18:15:21.000Z"
+      },
+      {
+        "time": "06:15",
+        "title": "軸受状態を管理し、加工品質を担保 NTNが自己発電可能なセンサー内蔵軸受を披露：JIMTOF2026",
+        "source": "MONOist",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE82S2VaQXkya1dHdl9KcVJ0T1F0ZEsyRDctTmtiYVFlWkN6Z3dWekIwN2tSNER3UUp2N29tRm1ISmZQUWJfeTdZS1BaY25yNG9OcjNGaW55YndsUGZpUVp6aUJ5TWp1MzhoejRHMnl6OA?oc=5",
+        "publishedAt": "2026-10-27T21:15:00.000Z"
       },
       {
         "time": "15:40",
@@ -50,13 +57,6 @@
         "source": "東洋経済オンライン",
         "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE95VFdFN2pKa1ZENDNibU1FOUEzV3VRZzQ0Tkk1c2RJTEROQWJUR1psa3dGeFpWTkV4VEpJbEduU0RnNmVNRDZxLVJ1THFVQ3pkaEt4al8yVUNSODUtZ2dj?oc=5",
         "publishedAt": "2026-10-27T21:00:00.000Z"
-      },
-      {
-        "time": "13:31",
-        "title": "パナソニック株式会社が設備保全クラウド「M2X」を導入",
-        "source": "朝日新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxeGQtLVZobGpnR0R3MXNLZjFFSUF5SFJrWk9fTkd4cXJ2R0FvUVZvNnFpdFJ1QW9CUDVjTl91YlRNek96WndZQW00SWVLTG5ZcmdzTXRCSDZCd0U?oc=5",
-        "publishedAt": "2026-10-28T04:31:01.000Z"
       }
     ],
     "worldHeadlines": [
