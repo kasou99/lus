@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-28T14:36:37.004Z",
+  "updatedAt": "2026-10-28T15:13:01.222Z",
   "items": [
     {
       "time": "22:06",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "日独首脳会談 経済安保で共同宣言"
     },
     {
-      "time": "22:25",
-      "title": "中道代表 政党交付金の使途を回答",
+      "time": "21:44",
+      "title": "検察側が異例の求刑訂正 地検謝罪",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600480?source=rss",
-      "publishedAt": "2026-10-28T13:25:39.000Z",
-      "xQuery": "中道代表 政党交付金の使途を回答"
+      "url": "https://news.yahoo.co.jp/pickup/6600477?source=rss",
+      "publishedAt": "2026-10-28T12:44:47.000Z",
+      "xQuery": "検察側が異例の求刑訂正 地検謝罪"
     },
     {
       "time": "22:57",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "スペインで列車衝突 64人死亡か"
     },
     {
-      "time": "22:44",
-      "title": "GMO懸賞金 6hで113件の情報提供",
+      "time": "23:35",
+      "title": "医療用麻薬紛失と発表 水戸の病院",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600483?source=rss",
-      "publishedAt": "2026-10-28T13:44:01.000Z",
-      "xQuery": "GMO懸賞金 6hで113件の情報提供"
+      "url": "https://news.yahoo.co.jp/pickup/6600487?source=rss",
+      "publishedAt": "2026-10-28T14:35:07.000Z",
+      "xQuery": "医療用麻薬紛失と発表 水戸の病院"
     },
     {
       "time": "21:24",
