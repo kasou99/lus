@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-10-28T07:14:32.709Z",
+  "updatedAt": "2026-10-28T07:36:20.882Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "14:45",
+        "title": "【詳報】 目指すは「壊れにくいロボット」 工作機械見本市「JIMTOF2026」",
+        "source": "47NEWS",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5UZi1ia2o5a2Y2ZmNLa3VyY2Uza05SWkp5RC1mUkxsTy0ydnlkWGVOdmRIb2lOeHRiYy1wUmNlS3N4X0cwN0JkZjNGTQ?oc=5",
+        "publishedAt": "2026-10-28T05:45:17.000Z"
+      },
       {
         "time": "10:21",
         "title": "最新鋭の工作機械とAI、ロボティクスで製造業の課題に挑む JIMTOF2026が開幕（MONOist）",
@@ -15,13 +22,6 @@
         "source": "MONOist",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE82S2VaQXkya1dHdl9KcVJ0T1F0ZEsyRDctTmtiYVFlWkN6Z3dWekIwN2tSNER3UUp2N29tRm1ISmZQUWJfeTdZS1BaY25yNG9OcjNGaW55YndsUGZpUVp6aUJ5TWp1MzhoejRHMnl6OA?oc=5",
         "publishedAt": "2026-10-27T21:15:00.000Z"
-      },
-      {
-        "time": "14:45",
-        "title": "【詳報】 目指すは「壊れにくいロボット」 工作機械見本市「JIMTOF2026」",
-        "source": "47NEWS",
-        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5UZi1ia2o5a2Y2ZmNLa3VyY2Uza05SWkp5RC1mUkxsTy0ydnlkWGVOdmRIb2lOeHRiYy1wUmNlS3N4X0cwN0JkZjNGTQ?oc=5",
-        "publishedAt": "2026-10-28T05:45:17.000Z"
       },
       {
         "time": "06:03",
@@ -149,13 +149,6 @@
     ],
     "localHeadlines": [
       {
-        "time": "08:03",
-        "title": "熊本地震3カ月 千人超なお避難所",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600367?source=rss",
-        "publishedAt": "2026-10-27T23:03:19.000Z"
-      },
-      {
         "time": "14:04",
         "title": "沖縄遺体発見1週間 住民「怖い」",
         "source": "Yahoo!ニュース",
@@ -170,6 +163,20 @@
         "publishedAt": "2026-10-28T02:18:08.000Z"
       },
       {
+        "time": "16:32",
+        "title": "青森で初雪 八戸市民「早すぎ」",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6600436?source=rss",
+        "publishedAt": "2026-10-28T07:32:00.000Z"
+      },
+      {
+        "time": "16:27",
+        "title": "つるされた鉄の棒が直撃 意識不明",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6600437?source=rss",
+        "publishedAt": "2026-10-28T07:27:07.000Z"
+      },
+      {
         "time": "09:02",
         "title": "線路を車走行 電車衝突し女性死亡",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6600373?source=rss",
         "publishedAt": "2026-10-27T23:27:06.000Z"
-      },
-      {
-        "time": "06:09",
-        "title": "原付の男性死亡 高速道で車と衝突",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600355?source=rss",
-        "publishedAt": "2026-10-27T21:09:03.000Z"
       }
     ],
     "subsidyHeadlines": [

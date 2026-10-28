@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-28T07:14:33.440Z",
+  "updatedAt": "2026-10-28T07:36:21.456Z",
   "items": [
     {
       "time": "14:25",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "KDDIメールサービス通信障害 復旧"
     },
     {
-      "time": "10:33",
-      "title": "不正アクセス GMOの急成長に影",
+      "time": "14:14",
+      "title": "GMOへの「劇場型」攻撃 狙いは",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600390?source=rss",
-      "publishedAt": "2026-10-28T01:33:48.000Z",
-      "xQuery": "不正アクセス GMOの急成長に影"
+      "url": "https://news.yahoo.co.jp/pickup/6600424?source=rss",
+      "publishedAt": "2026-10-28T05:14:57.000Z",
+      "xQuery": "GMOへの「劇場型」攻撃 狙いは"
     },
     {
-      "time": "14:04",
-      "title": "沖縄遺体発見1週間 住民「怖い」",
+      "time": "16:27",
+      "title": "つるされた鉄の棒が直撃 意識不明",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600423?source=rss",
-      "publishedAt": "2026-10-28T05:04:30.000Z",
-      "xQuery": "沖縄遺体発見1週間 住民「怖い」"
+      "url": "https://news.yahoo.co.jp/pickup/6600437?source=rss",
+      "publishedAt": "2026-10-28T07:27:07.000Z",
+      "xQuery": "つるされた鉄の棒が直撃 意識不明"
     },
     {
       "time": "15:58",
