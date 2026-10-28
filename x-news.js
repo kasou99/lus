@@ -1,13 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-28T21:36:45.078Z",
+  "updatedAt": "2026-10-28T22:12:14.051Z",
   "items": [
     {
-      "time": "00:19",
-      "title": "千葉県で震度5弱 津波の心配なし",
+      "time": "06:55",
+      "title": "GMO脅迫サイト 国が遮断を要請",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600489?source=rss",
-      "publishedAt": "2026-10-28T15:19:26.000Z",
-      "xQuery": "千葉県で震度5弱 津波の心配なし"
+      "url": "https://news.yahoo.co.jp/pickup/6600494?source=rss",
+      "publishedAt": "2026-10-28T21:55:03.000Z",
+      "xQuery": "GMO脅迫サイト 国が遮断を要請"
+    },
+    {
+      "time": "06:39",
+      "title": "他県警でも失効免許不正流用 証言",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6600493?source=rss",
+      "publishedAt": "2026-10-28T21:39:41.000Z",
+      "xQuery": "他県警でも失効免許不正流用 証言"
     },
     {
       "time": "21:44",
@@ -18,20 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "検察側が異例の求刑訂正 地検謝罪"
     },
     {
-      "time": "22:57",
-      "title": "スペインで列車衝突 64人死亡か",
+      "time": "00:19",
+      "title": "千葉県で震度5弱 津波の心配なし",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600486?source=rss",
-      "publishedAt": "2026-10-28T13:57:36.000Z",
-      "xQuery": "スペインで列車衝突 64人死亡か"
-    },
-    {
-      "time": "23:35",
-      "title": "医療用麻薬紛失と発表 水戸の病院",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600487?source=rss",
-      "publishedAt": "2026-10-28T14:35:07.000Z",
-      "xQuery": "医療用麻薬紛失と発表 水戸の病院"
+      "url": "https://news.yahoo.co.jp/pickup/6600489?source=rss",
+      "publishedAt": "2026-10-28T15:19:26.000Z",
+      "xQuery": "千葉県で震度5弱 津波の心配なし"
     },
     {
       "time": "21:24",
