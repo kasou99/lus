@@ -1,29 +1,37 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-28T13:36:52.548Z",
+  "updatedAt": "2026-10-28T14:14:07.772Z",
   "items": [
     {
-      "time": "20:01",
-      "title": "武部農相 衆院選の人件費巡り疑惑",
+      "time": "22:06",
+      "title": "日独首脳会談 経済安保で共同宣言",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600466?source=rss",
-      "publishedAt": "2026-10-28T11:01:51.000Z",
-      "xQuery": "武部農相 衆院選の人件費巡り疑惑"
+      "url": "https://news.yahoo.co.jp/pickup/6600479?source=rss",
+      "publishedAt": "2026-10-28T13:06:23.000Z",
+      "xQuery": "日独首脳会談 経済安保で共同宣言"
     },
     {
-      "time": "19:52",
-      "title": "衆院比例31削減案 識者の見解",
+      "time": "22:25",
+      "title": "中道代表 政党交付金の使途を回答",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600453?source=rss",
-      "publishedAt": "2026-10-28T10:52:36.000Z",
-      "xQuery": "衆院比例31削減案 識者の見解"
+      "url": "https://news.yahoo.co.jp/pickup/6600480?source=rss",
+      "publishedAt": "2026-10-28T13:25:39.000Z",
+      "xQuery": "中道代表 政党交付金の使途を回答"
     },
     {
-      "time": "21:38",
-      "title": "茨城・古河市で火災 2人心肺停止",
+      "time": "22:57",
+      "title": "スペインで列車衝突 64人死亡か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600476?source=rss",
-      "publishedAt": "2026-10-28T12:38:31.000Z",
-      "xQuery": "茨城・古河市で火災 2人心肺停止"
+      "url": "https://news.yahoo.co.jp/pickup/6600486?source=rss",
+      "publishedAt": "2026-10-28T13:57:36.000Z",
+      "xQuery": "スペインで列車衝突 64人死亡か"
+    },
+    {
+      "time": "22:44",
+      "title": "GMO懸賞金 6hで113件の情報提供",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6600483?source=rss",
+      "publishedAt": "2026-10-28T13:44:01.000Z",
+      "xQuery": "GMO懸賞金 6hで113件の情報提供"
     },
     {
       "time": "21:24",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6600474?source=rss",
       "publishedAt": "2026-10-28T12:24:14.000Z",
       "xQuery": "「千鳥饅頭」千鳥屋本家が破産へ"
-    },
-    {
-      "time": "18:15",
-      "title": "小型恐竜の骨格標本 75億円で落札",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600458?source=rss",
-      "publishedAt": "2026-10-28T09:15:30.000Z",
-      "xQuery": "小型恐竜の骨格標本 75億円で落札"
     }
   ]
 };
