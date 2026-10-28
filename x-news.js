@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-28T06:22:29.749Z",
+  "updatedAt": "2026-10-28T06:43:58.665Z",
   "items": [
     {
       "time": "12:43",
@@ -10,12 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "東京・近畿で木枯らし1号 気象庁"
     },
     {
-      "time": "12:19",
-      "title": "ボルソナロ氏の入国 米が許可",
+      "time": "14:25",
+      "title": "衆院比例定数 31減案で自維国合意",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600410?source=rss",
-      "publishedAt": "2026-10-28T03:19:24.000Z",
-      "xQuery": "ボルソナロ氏の入国 米が許可"
+      "url": "https://news.yahoo.co.jp/pickup/6600428?source=rss",
+      "publishedAt": "2026-10-28T05:25:41.000Z",
+      "xQuery": "衆院比例定数 31減案で自維国合意"
+    },
+    {
+      "time": "15:32",
+      "title": "KDDIメールサービス通信障害 復旧",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6600431?source=rss",
+      "publishedAt": "2026-10-28T06:32:56.000Z",
+      "xQuery": "KDDIメールサービス通信障害 復旧"
     },
     {
       "time": "10:33",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6600423?source=rss",
       "publishedAt": "2026-10-28T05:04:30.000Z",
       "xQuery": "沖縄遺体発見1週間 住民「怖い」"
-    },
-    {
-      "time": "14:27",
-      "title": "ヒョウ襲撃 オランダで飼育員死亡",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600426?source=rss",
-      "publishedAt": "2026-10-28T05:27:35.000Z",
-      "xQuery": "ヒョウ襲撃 オランダで飼育員死亡"
     }
   ]
 };
