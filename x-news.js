@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-28T11:36:37.832Z",
+  "updatedAt": "2026-10-28T12:19:37.280Z",
   "items": [
     {
       "time": "18:51",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "29日朝 各地で今季一番の冷え込み"
     },
     {
-      "time": "20:23",
-      "title": "スペインで列車衝突 30人死亡か",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600470?source=rss",
-      "publishedAt": "2026-10-28T11:23:33.000Z",
-      "xQuery": "スペインで列車衝突 30人死亡か"
-    },
-    {
       "time": "18:01",
       "title": "女性殺害疑い 死亡の男を書類送検",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6600450?source=rss",
       "publishedAt": "2026-10-28T09:01:01.000Z",
       "xQuery": "女性殺害疑い 死亡の男を書類送検"
+    },
+    {
+      "time": "20:23",
+      "title": "スペインで列車衝突 30人死亡か",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6600470?source=rss",
+      "publishedAt": "2026-10-28T11:23:33.000Z",
+      "xQuery": "スペインで列車衝突 30人死亡か"
     },
     {
       "time": "18:25",
