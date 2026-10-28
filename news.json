@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T23:11:21.800Z",
+  "updatedAt": "2026-10-28T23:36:23.772Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -8,13 +8,6 @@
         "source": "日本経済新聞",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBPTGlFQk5wLVByM0M4RnRmTW5uTEJjOUtjREdWcDMwdFdoRnNfWjQtM3lGT0RlZ25hQlgxejlvOTBPVnVJM0RYUHNIX1lWNzFQSVB6VlhFZEhvRXY1eGRXdmIwWDVNcm9SVjVPcA?oc=5",
         "publishedAt": "2026-10-28T20:00:00.000Z"
-      },
-      {
-        "time": "06:15",
-        "title": "しゃべるNCとエラーに対処、後で要約も確認 マザックが“声”生かすAI活用：JIMTOF2026",
-        "source": "MONOist",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBTblZMYkxXb2JheUJJMjE0VjdJNF9vOXJfYVZCTDRNajF3WWgzOWp5WEhDZ3ZjSDE1UlFtNEZxY3BNUUpNaTRZT2QyWjV5QnktVTFuak93cUcwX0Vxek00TnVRNmM0YmZDbXdrTU5tZw?oc=5",
-        "publishedAt": "2026-10-28T21:15:00.000Z"
       },
       {
         "time": "14:45",
@@ -38,6 +31,13 @@
         "publishedAt": "2026-10-28T02:20:09.000Z"
       },
       {
+        "time": "13:30",
+        "title": "コンパクトなままファイバー化 アマダが新型レーザーマシンを世界初公開：JIMTOF2026",
+        "source": "MONOist",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5HWUVacUFPNDktaHRUb3d0YUZWaGh1aEota3o0ZUh6M293S1JjZk9wUXZJYVp6Y1lDZXlzc2hTaUlHaUdJekQwaGZrRVRIakVTWEFRS1dEQVZDTkdpbUpUR2V5Nk9YbUJHNnFBV3F4OA?oc=5",
+        "publishedAt": "2026-10-28T04:30:00.000Z"
+      },
+      {
         "time": "15:40",
         "title": "日本精工、工作機械向け新型スピンドルを開発 振動抑制し高効率加工を実現",
         "source": "電波新聞デジタル",
@@ -45,18 +45,18 @@
         "publishedAt": "2026-10-28T06:40:32.000Z"
       },
       {
-        "time": "17:59",
-        "title": "６年ぶりにミラノで開催 「EMO MILANO 2027」が出展申込みを開始",
-        "source": "イベスル",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ZdU8tZG5GeGVkTHotNDFsSkNhMHZYOC1sMThwVGZvTlVoU1IySjBoNktOZmFPaFlNNlRUNzRlVlhTejlVYURpMENPLWhFSV9RZTdXZWJn?oc=5",
-        "publishedAt": "2026-10-28T08:59:11.000Z"
-      },
-      {
         "time": "13:31",
         "title": "パナソニック株式会社が設備保全クラウド「M2X」を導入",
         "source": "朝日新聞",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxeGQtLVZobGpnR0R3MXNLZjFFSUF5SFJrWk9fTkd4cXJ2R0FvUVZvNnFpdFJ1QW9CUDVjTl91YlRNek96WndZQW00SWVLTG5ZcmdzTXRCSDZCd0U?oc=5",
         "publishedAt": "2026-10-28T04:31:01.000Z"
+      },
+      {
+        "time": "13:20",
+        "title": "台湾企業94社が日本の工作機械見本市に出展 AI関連需要の取り込み狙う",
+        "source": "Rti 中央廣播電臺",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5mYVJTeXRJRmRibEJ5TWFRUnloM2I2UGtlWS1ibExaOVhJYUFsdG0wWGpNbDdrRmRlZC1BbDE2RDlnSVF3LTRpRjV1cTlLM21EOW9FTFZCYnB2TjA?oc=5",
+        "publishedAt": "2026-10-28T04:20:22.000Z"
       }
     ],
     "worldHeadlines": [

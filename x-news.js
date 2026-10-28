@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-28T23:11:22.371Z",
+  "updatedAt": "2026-10-28T23:36:24.709Z",
   "items": [
     {
       "time": "06:55",
@@ -8,6 +8,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6600494?source=rss",
       "publishedAt": "2026-10-28T21:55:03.000Z",
       "xQuery": "GMO脅迫サイト 国が遮断を要請"
+    },
+    {
+      "time": "08:20",
+      "title": "多くで今季一冷え込み 東京10℃台",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6600505?source=rss",
+      "publishedAt": "2026-10-28T23:20:43.000Z",
+      "xQuery": "多くで今季一冷え込み 東京10℃台"
     },
     {
       "time": "08:03",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6600474?source=rss",
       "publishedAt": "2026-10-28T12:24:14.000Z",
       "xQuery": "「千鳥饅頭」千鳥屋本家が破産へ"
-    },
-    {
-      "time": "06:09",
-      "title": "巨人ヘッドCに高橋由伸氏決定",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600491?source=rss",
-      "publishedAt": "2026-10-28T21:09:28.000Z",
-      "xQuery": "巨人ヘッドCに高橋由伸氏決定"
     }
   ]
 };
