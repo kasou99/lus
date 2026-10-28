@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T04:36:45.170Z",
+  "updatedAt": "2026-10-28T05:13:15.846Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -39,24 +39,24 @@
       },
       {
         "time": "05:00",
-        "title": "ロボと環境の情報統合 工作機械が突破口（下）データ・学習の交差点",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE81LXFadmV0SUhqblZjVS1KN2lHWDUwVmJSa2JZQ2lsU0JwTEZWX0JTMXZuVkFlaEhuMFZMZVlXZXBWaWV5anVUc25vYXlDLXRSX3YwTHBhaEI?oc=5",
-        "publishedAt": "2026-10-27T20:00:00.000Z"
-      },
-      {
-        "time": "05:00",
         "title": "県内企業の技術アピール 東京で工作機械見本市",
         "source": "北日本新聞webunプラス",
         "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB5R0NWZk9Yb3Nhd1lUc2xFbEp4d05sSXVVN3IxbXI4cV9mbzRyZEF4ZE5xYVF4dWM4Y3BZOU8zZWNjZ0x4VC1zMHAxZw?oc=5",
         "publishedAt": "2026-10-27T20:00:00.000Z"
       },
       {
-        "time": "06:03",
-        "title": "オークマ・ファナック・ヤマザキマザック…工作機械で導入進む、AIの生かし方（ニュースイッチ）",
-        "source": "ｄメニューニュース",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZmd0eVdGRVBZMk54LURJWVFYbm5FY3FGQmxqYmN0VkN1aHc5RDZMODJOc21DdnA2Nmk0a21BYmUyblN5Rk9LdjE4TDFwd2ZlOGVRSlB6eWxGdmhNbERzemlVU19JRy13WmZGZzR0Yi05M1FWOFdwSmthZENjNVBscnFGSW9nVlZX?oc=5",
-        "publishedAt": "2026-10-27T21:03:00.000Z"
+        "time": "10:23",
+        "title": "三菱電機が描く工作機械×AIの未来、人手不足や技能伝承の「切り札」となるか（MONOist）",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Ic3VWd1ZZRnRtT193SllEWWdsUkR1c3dXa2FCblAtZW1vZ2hEd0x3VEJqbzF1UG5Bdm9lODl3TTZDT3JSTk1jUFZlNG5EM3d1dDIxMjl5NWRpc3N3dzczcGlvQ1Z4WjVXQ25MVHE4MklTWTFXQ3NVNGZVenY0LUU?oc=5",
+        "publishedAt": "2026-10-28T01:23:47.000Z"
+      },
+      {
+        "time": "05:00",
+        "title": "DMG森雅彦社長、受注状況「驚くほど良い」 AI・データ活用は大前提に",
+        "source": "日経クロステック",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE52RGljX2I4RVVQRUEzZ1VEV2JpVnN4Vmo4dkxHVmQ3OEg2THpSRmRVbE9XS1RwQ2NFT215aTZSTFBDV3FYR0tNY3F0d2RoV3diYTJ1Y2E0YmNJUVRrUUZpY1RrSXo4Z2V5eDlIVg?oc=5",
+        "publishedAt": "2026-10-27T20:00:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -156,18 +156,18 @@
         "publishedAt": "2026-10-27T23:03:19.000Z"
       },
       {
+        "time": "14:04",
+        "title": "沖縄遺体発見1週間 住民「怖い」",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6600423?source=rss",
+        "publishedAt": "2026-10-28T05:04:30.000Z"
+      },
+      {
         "time": "11:18",
         "title": "木刀で夫を十数回殴打疑い 女逮捕",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6600393?source=rss",
         "publishedAt": "2026-10-28T02:18:08.000Z"
-      },
-      {
-        "time": "10:17",
-        "title": "「合併話」あえて不参加姿勢の町",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600387?source=rss",
-        "publishedAt": "2026-10-28T01:17:27.000Z"
       },
       {
         "time": "09:02",

@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-28T04:36:46.372Z",
+  "updatedAt": "2026-10-28T05:13:16.990Z",
   "items": [
     {
-      "time": "11:47",
-      "title": "大阪維新代表 無投票で吉村氏3選",
+      "time": "12:43",
+      "title": "東京・近畿で木枯らし1号 気象庁",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600400?source=rss",
-      "publishedAt": "2026-10-28T02:47:55.000Z",
-      "xQuery": "大阪維新代表 無投票で吉村氏3選"
+      "url": "https://news.yahoo.co.jp/pickup/6600406?source=rss",
+      "publishedAt": "2026-10-28T03:43:01.000Z",
+      "xQuery": "東京・近畿で木枯らし1号 気象庁"
     },
     {
       "time": "12:51",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "「東京アプリ」巡り 13人が都提訴"
     },
     {
-      "time": "13:11",
-      "title": "増える正社員の副業 実状とリスク",
+      "time": "13:59",
+      "title": "韓国 シャインマスカット価格急落",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600415?source=rss",
-      "publishedAt": "2026-10-28T04:11:53.000Z",
-      "xQuery": "増える正社員の副業 実状とリスク"
+      "url": "https://news.yahoo.co.jp/pickup/6600418?source=rss",
+      "publishedAt": "2026-10-28T04:59:04.000Z",
+      "xQuery": "韓国 シャインマスカット価格急落"
     }
   ]
 };
