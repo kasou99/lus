@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-28T15:13:01.222Z",
+  "updatedAt": "2026-10-28T15:36:54.734Z",
   "items": [
     {
-      "time": "22:06",
-      "title": "日独首脳会談 経済安保で共同宣言",
+      "time": "00:19",
+      "title": "千葉県で震度5弱 津波の心配なし",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600479?source=rss",
-      "publishedAt": "2026-10-28T13:06:23.000Z",
-      "xQuery": "日独首脳会談 経済安保で共同宣言"
+      "url": "https://news.yahoo.co.jp/pickup/6600489?source=rss",
+      "publishedAt": "2026-10-28T15:19:26.000Z",
+      "xQuery": "千葉県で震度5弱 津波の心配なし"
     },
     {
       "time": "21:44",
