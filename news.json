@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T12:19:36.684Z",
+  "updatedAt": "2026-10-28T12:41:05.790Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -52,11 +52,11 @@
         "publishedAt": "2026-10-28T07:46:00.000Z"
       },
       {
-        "time": "13:31",
-        "title": "パナソニック株式会社が設備保全クラウド「M2X」を導入",
-        "source": "朝日新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxeGQtLVZobGpnR0R3MXNLZjFFSUF5SFJrWk9fTkd4cXJ2R0FvUVZvNnFpdFJ1QW9CUDVjTl91YlRNek96WndZQW00SWVLTG5ZcmdzTXRCSDZCd0U?oc=5",
-        "publishedAt": "2026-10-28T04:31:01.000Z"
+        "time": "13:20",
+        "title": "台湾企業94社が日本の工作機械見本市に出展 AI関連需要の取り込み狙う",
+        "source": "Rti 中央廣播電臺",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5mYVJTeXRJRmRibEJ5TWFRUnloM2I2UGtlWS1ibExaOVhJYUFsdG0wWGpNbDdrRmRlZC1BbDE2RDlnSVF3LTRpRjV1cTlLM21EOW9FTFZCYnB2TjA?oc=5",
+        "publishedAt": "2026-10-28T04:20:22.000Z"
       }
     ],
     "worldHeadlines": [
@@ -112,18 +112,18 @@
         "publishedAt": "2026-10-28T09:07:38.000Z"
       },
       {
-        "time": "23:36",
-        "title": "イオン熊本 一部再開意向を伝える",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600353?source=rss",
-        "publishedAt": "2026-10-27T14:36:01.000Z"
-      },
-      {
         "time": "10:33",
         "title": "不正アクセス GMOの急成長に影",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6600390?source=rss",
         "publishedAt": "2026-10-28T01:33:48.000Z"
+      },
+      {
+        "time": "21:24",
+        "title": "「千鳥饅頭」千鳥屋本家が破産へ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6600474?source=rss",
+        "publishedAt": "2026-10-28T12:24:14.000Z"
       },
       {
         "time": "17:11",
@@ -156,6 +156,13 @@
         "publishedAt": "2026-10-28T09:25:42.000Z"
       },
       {
+        "time": "21:38",
+        "title": "茨城・古河市で火災 2人心肺停止",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6600476?source=rss",
+        "publishedAt": "2026-10-28T12:38:31.000Z"
+      },
+      {
         "time": "14:04",
         "title": "沖縄遺体発見1週間 住民「怖い」",
         "source": "Yahoo!ニュース",
@@ -168,13 +175,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6600450?source=rss",
         "publishedAt": "2026-10-28T09:01:01.000Z"
-      },
-      {
-        "time": "18:04",
-        "title": "熊本で被災のサウナ 救った常連客",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600456?source=rss",
-        "publishedAt": "2026-10-28T09:04:36.000Z"
       },
       {
         "time": "16:55",

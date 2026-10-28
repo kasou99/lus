@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-28T12:19:37.280Z",
+  "updatedAt": "2026-10-28T12:41:06.847Z",
   "items": [
     {
       "time": "18:51",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "スペインで列車衝突 30人死亡か"
     },
     {
-      "time": "18:25",
-      "title": "利根川で14歳流され行方不明 群馬",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600459?source=rss",
-      "publishedAt": "2026-10-28T09:25:42.000Z",
-      "xQuery": "利根川で14歳流され行方不明 群馬"
-    },
-    {
       "time": "18:15",
       "title": "小型恐竜の骨格標本 75億円で落札",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6600458?source=rss",
       "publishedAt": "2026-10-28T09:15:30.000Z",
       "xQuery": "小型恐竜の骨格標本 75億円で落札"
+    },
+    {
+      "time": "21:24",
+      "title": "「千鳥饅頭」千鳥屋本家が破産へ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6600474?source=rss",
+      "publishedAt": "2026-10-28T12:24:14.000Z",
+      "xQuery": "「千鳥饅頭」千鳥屋本家が破産へ"
     }
   ]
 };
