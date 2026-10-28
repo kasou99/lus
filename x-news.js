@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-28T01:13:48.852Z",
+  "updatedAt": "2026-10-28T01:40:08.290Z",
   "items": [
     {
       "time": "09:09",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "サイバー攻撃 サイト経由型が急増"
     },
     {
+      "time": "08:49",
+      "title": "米大統領「AI」名称禁止する方針",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6600376?source=rss",
+      "publishedAt": "2026-10-27T23:49:12.000Z",
+      "xQuery": "米大統領「AI」名称禁止する方針"
+    },
+    {
       "time": "08:16",
       "title": "ボルソナロ氏亡命か 米認める方針",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6600370?source=rss",
       "publishedAt": "2026-10-27T23:16:19.000Z",
       "xQuery": "ボルソナロ氏亡命か 米認める方針"
-    },
-    {
-      "time": "09:19",
-      "title": "過疎指定ありがたい 町長語る事情",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600381?source=rss",
-      "publishedAt": "2026-10-28T00:19:44.000Z",
-      "xQuery": "過疎指定ありがたい 町長語る事情"
     },
     {
       "time": "09:02",

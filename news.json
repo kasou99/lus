@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T01:13:47.672Z",
+  "updatedAt": "2026-10-28T01:40:07.512Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,11 +31,11 @@
         "publishedAt": "2026-10-27T20:00:00.000Z"
       },
       {
-        "time": "16:05",
-        "title": "歴史的特需の工作機械 調達力と大型化で大手優位？ ヴェリタスEYE（10月27日）",
-        "source": "日本経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5hanJ5eGU3WW54eHA2ZzZZZHdzUjk0OHg2dGR1bGlEYzFpU09zbkVoWXhHaVpReVVjMWdVVkMteG1ialFHVmxncVJnRnQ1SEZVN19Ua0sxZFZfd3AwTWlydHJuTUk4a2xsZ1VwcXIybHNHS2gtaDB5eDZaWGtsQQ?oc=5",
-        "publishedAt": "2026-10-27T07:05:30.000Z"
+        "time": "05:00",
+        "title": "DMG森雅彦社長、受注状況「驚くほど良い」 AI・データ活用は大前提に",
+        "source": "日経クロステック",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE52RGljX2I4RVVQRUEzZ1VEV2JpVnN4Vmo4dkxHVmQ3OEg2THpSRmRVbE9XS1RwQ2NFT215aTZSTFBDV3FYR0tNY3F0d2RoV3diYTJ1Y2E0YmNJUVRrUUZpY1RrSXo4Z2V5eDlIVg?oc=5",
+        "publishedAt": "2026-10-27T20:00:00.000Z"
       },
       {
         "time": "15:35",
@@ -45,18 +45,18 @@
         "publishedAt": "2026-10-27T06:35:00.000Z"
       },
       {
-        "time": "00:00",
-        "title": "工作機械業、27年は景気回復か＝半導体需要など",
-        "source": "NNAアジア",
-        "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFAtMFRyR25YWjBwQTVENkw1WUFCWmVrdWxhUkJfUldSb0dCN3h3T05HYW9tdERtZHJWeWxGOFpWMXVTc0NhMEE?oc=5",
-        "publishedAt": "2026-10-27T15:00:00.000Z"
+        "time": "09:39",
+        "title": "島田市 本通五丁目南町線 機械設備更新を計画",
+        "source": "建通新聞",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZVdUR1BsQVVjU0dnU2hBWS1pUU1YYjEwQUJIbmVGQ29hbEpQVEtya0F4Zklxa3ZfZjRhQzA1ajYxME9pRlF0S0o4TjVTX0VqLWs0ZkRFcnFKMGdXTG1FNWt5UTZLLVpOQmdqQ2VPQjVYSnJkcHd1UjFZOUhjV1pzeQ?oc=5",
+        "publishedAt": "2026-10-28T00:39:00.000Z"
       },
       {
-        "time": "10:00",
-        "title": "次世代設備保全クラウドの株式会社M2X、三和罐詰株式会社の導入事例を公開",
-        "source": "PR TIMES",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBXWFprTkJLc2Fha2xLY1JTTExuOTFIZDl6RGZGU2VTTGxmT1ZRTEd3TXJHaGFrYmxSY1NkZ2VCTjFsOVRfZm02bFNJbXVodGoxSmxSRXNVNzFsNVBnSTZHaWs0b20wRmprMVE?oc=5",
-        "publishedAt": "2026-10-28T01:00:02.000Z"
+        "time": "05:00",
+        "title": "ＪＩＭＴＯＦ２０２６ （中） 変種変量へ柔軟に対応 複雑形状部品の加工にも 置き換え需要",
+        "source": "中部経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE12eGxQb3ZSYkZ1eFNxQlIwUUVvTU55ODVxamJrWm1IX3U5QlJyeEhtUXJjNENPSXVRek1NRU94YXJlMUx4ZFFURkFKUTg1TG9HdnhSUFlPTkViSm9QRzRidU1JeUtiQWJBeEYwSFBrVWhjQzA?oc=5",
+        "publishedAt": "2026-10-27T20:00:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -112,18 +112,18 @@
         "publishedAt": "2026-10-27T14:36:01.000Z"
       },
       {
+        "time": "10:33",
+        "title": "不正アクセス GMOの急成長に影",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6600390?source=rss",
+        "publishedAt": "2026-10-28T01:33:48.000Z"
+      },
+      {
         "time": "17:45",
         "title": "ニデック 創業者ら9人を提訴へ",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6600319?source=rss",
         "publishedAt": "2026-10-27T08:45:36.000Z"
-      },
-      {
-        "time": "09:38",
-        "title": "大手生保 国債の入れ替え加速",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600265?source=rss",
-        "publishedAt": "2026-10-27T00:38:54.000Z"
       },
       {
         "time": "10:00",
@@ -163,11 +163,11 @@
         "publishedAt": "2026-10-27T22:52:13.000Z"
       },
       {
-        "time": "09:19",
-        "title": "過疎指定ありがたい 町長語る事情",
+        "time": "10:17",
+        "title": "「合併話」あえて不参加姿勢の町",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600381?source=rss",
-        "publishedAt": "2026-10-28T00:19:44.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6600387?source=rss",
+        "publishedAt": "2026-10-28T01:17:27.000Z"
       },
       {
         "time": "09:02",
