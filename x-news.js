@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-27T23:36:21.793Z",
+  "updatedAt": "2026-10-28T00:36:32.881Z",
   "items": [
     {
-      "time": "07:54",
-      "title": "イスラエル総選挙 連立協議難航か",
+      "time": "08:03",
+      "title": "熊本地震3カ月 千人超なお避難所",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600366?source=rss",
-      "publishedAt": "2026-10-27T22:54:29.000Z",
-      "xQuery": "イスラエル総選挙 連立協議難航か"
+      "url": "https://news.yahoo.co.jp/pickup/6600367?source=rss",
+      "publishedAt": "2026-10-27T23:03:19.000Z",
+      "xQuery": "熊本地震3カ月 千人超なお避難所"
     },
     {
-      "time": "07:04",
-      "title": "安保3文書で「拒否力」防衛の柱に",
+      "time": "08:36",
+      "title": "サイバー攻撃 サイト経由型が急増",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600361?source=rss",
-      "publishedAt": "2026-10-27T22:04:42.000Z",
-      "xQuery": "安保3文書で「拒否力」防衛の柱に"
+      "url": "https://news.yahoo.co.jp/pickup/6600375?source=rss",
+      "publishedAt": "2026-10-27T23:36:34.000Z",
+      "xQuery": "サイバー攻撃 サイト経由型が急増"
     },
     {
       "time": "07:40",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "GMO攻撃 被害者は「恐怖しか」"
     },
     {
-      "time": "06:09",
-      "title": "原付の男性死亡 高速道で車と衝突",
+      "time": "08:16",
+      "title": "ボルソナロ氏亡命か 米認める方針",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600355?source=rss",
-      "publishedAt": "2026-10-27T21:09:03.000Z",
-      "xQuery": "原付の男性死亡 高速道で車と衝突"
+      "url": "https://news.yahoo.co.jp/pickup/6600370?source=rss",
+      "publishedAt": "2026-10-27T23:16:19.000Z",
+      "xQuery": "ボルソナロ氏亡命か 米認める方針"
     },
     {
-      "time": "08:27",
-      "title": "遺跡発掘中 土砂に埋もれ女性死亡",
+      "time": "09:02",
+      "title": "線路を車走行 電車衝突し女性死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600373?source=rss",
-      "publishedAt": "2026-10-27T23:27:06.000Z",
-      "xQuery": "遺跡発掘中 土砂に埋もれ女性死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6600378?source=rss",
+      "publishedAt": "2026-10-28T00:02:43.000Z",
+      "xQuery": "線路を車走行 電車衝突し女性死亡"
     }
   ]
 };
