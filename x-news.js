@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-28T10:13:41.406Z",
+  "updatedAt": "2026-10-28T10:36:41.969Z",
   "items": [
     {
       "time": "18:51",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "29日朝 各地で今季一番の冷え込み"
     },
     {
-      "time": "18:04",
-      "title": "熊本で被災のサウナ 救った常連客",
+      "time": "19:20",
+      "title": "スペインで列車衝突 10人死亡か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600456?source=rss",
-      "publishedAt": "2026-10-28T09:04:36.000Z",
-      "xQuery": "熊本で被災のサウナ 救った常連客"
+      "url": "https://news.yahoo.co.jp/pickup/6600464?source=rss",
+      "publishedAt": "2026-10-28T10:20:41.000Z",
+      "xQuery": "スペインで列車衝突 10人死亡か"
     },
     {
       "time": "18:07",

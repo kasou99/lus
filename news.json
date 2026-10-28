@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T10:13:40.823Z",
+  "updatedAt": "2026-10-28T10:36:40.994Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -52,11 +52,11 @@
         "publishedAt": "2026-10-28T07:46:00.000Z"
       },
       {
-        "time": "13:31",
-        "title": "パナソニック株式会社が設備保全クラウド「M2X」を導入",
-        "source": "朝日新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxeGQtLVZobGpnR0R3MXNLZjFFSUF5SFJrWk9fTkd4cXJ2R0FvUVZvNnFpdFJ1QW9CUDVjTl91YlRNek96WndZQW00SWVLTG5ZcmdzTXRCSDZCd0U?oc=5",
-        "publishedAt": "2026-10-28T04:31:01.000Z"
+        "time": "13:20",
+        "title": "台湾企業94社が日本の工作機械見本市に出展 AI関連需要の取り込み狙う",
+        "source": "Rti 中央廣播電臺",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5mYVJTeXRJRmRibEJ5TWFRUnloM2I2UGtlWS1ibExaOVhJYUFsdG0wWGpNbDdrRmRlZC1BbDE2RDlnSVF3LTRpRjV1cTlLM21EOW9FTFZCYnB2TjA?oc=5",
+        "publishedAt": "2026-10-28T04:20:22.000Z"
       }
     ],
     "worldHeadlines": [
@@ -66,6 +66,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6600366?source=rss",
         "publishedAt": "2026-10-27T22:54:29.000Z"
+      },
+      {
+        "time": "19:20",
+        "title": "スペインで列車衝突 10人死亡か",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6600464?source=rss",
+        "publishedAt": "2026-10-28T10:20:41.000Z"
       },
       {
         "time": "12:19",
@@ -87,13 +94,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6600336?source=rss",
         "publishedAt": "2026-10-27T11:30:45.000Z"
-      },
-      {
-        "time": "19:41",
-        "title": "キーウの「京都公園」にミサイル",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600333?source=rss",
-        "publishedAt": "2026-10-27T10:41:37.000Z"
       },
       {
         "time": "08:49",
