@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-28T01:40:08.290Z",
+  "updatedAt": "2026-10-28T02:18:14.707Z",
   "items": [
     {
       "time": "09:09",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "サイバー攻撃 サイト経由型が急増"
     },
     {
+      "time": "11:04",
+      "title": "auメール障害 全国で利用しづらく",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6600391?source=rss",
+      "publishedAt": "2026-10-28T02:04:30.000Z",
+      "xQuery": "auメール障害 全国で利用しづらく"
+    },
+    {
       "time": "08:49",
       "title": "米大統領「AI」名称禁止する方針",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6600376?source=rss",
       "publishedAt": "2026-10-27T23:49:12.000Z",
       "xQuery": "米大統領「AI」名称禁止する方針"
-    },
-    {
-      "time": "08:16",
-      "title": "ボルソナロ氏亡命か 米認める方針",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600370?source=rss",
-      "publishedAt": "2026-10-27T23:16:19.000Z",
-      "xQuery": "ボルソナロ氏亡命か 米認める方針"
     },
     {
       "time": "09:02",
