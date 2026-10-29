@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-29T05:36:32.129Z",
+  "updatedAt": "2026-10-29T06:22:26.887Z",
   "items": [
     {
       "time": "13:29",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "北発射のミサイルEEZ外に落下か"
     },
     {
+      "time": "13:56",
+      "title": "GMOサイバー攻撃 捜査の焦点は",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6600531?source=rss",
+      "publishedAt": "2026-10-29T04:56:54.000Z",
+      "xQuery": "GMOサイバー攻撃 捜査の焦点は"
+    },
+    {
       "time": "13:10",
       "title": "餃子の王将社長射殺 検察側が控訴",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6600537?source=rss",
       "publishedAt": "2026-10-29T04:10:22.000Z",
       "xQuery": "餃子の王将社長射殺 検察側が控訴"
-    },
-    {
-      "time": "12:58",
-      "title": "GMO社長「犯人特定の有力情報」",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600536?source=rss",
-      "publishedAt": "2026-10-29T03:58:34.000Z",
-      "xQuery": "GMO社長「犯人特定の有力情報」"
     },
     {
       "time": "14:07",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "原口一博元議員に賠償命令 地裁"
     },
     {
-      "time": "13:52",
-      "title": "ピアニスト反田恭平被告 有罪判決",
+      "time": "14:39",
+      "title": "米大統領発言逆手にノルウェーPR",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600546?source=rss",
-      "publishedAt": "2026-10-29T04:52:38.000Z",
-      "xQuery": "ピアニスト反田恭平被告 有罪判決"
+      "url": "https://news.yahoo.co.jp/pickup/6600550?source=rss",
+      "publishedAt": "2026-10-29T05:39:10.000Z",
+      "xQuery": "米大統領発言逆手にノルウェーPR"
     }
   ]
 };
