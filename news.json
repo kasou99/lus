@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-10-29T19:36:43.988Z",
+  "updatedAt": "2026-10-29T20:13:32.062Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "05:00",
+        "title": "AIロボットの関節向け減速機 新機構で精度「工作機械並み」 - 日経テックフォーサイト",
+        "source": "日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOaWNfUG42aTU0eDVmY0RieFZKUlpnSUszeXo0ME4tRmMtS0pDZ3MwdnM4WHRfUHJZZ3FjX0JEY0VoWDRQeWZMYTZOMUtjNlZkTTNPWDRrRUMtOWcxVk9lc3R4azNVWHNTUGlPWm9nVmxid0hxdHNJYWJwLWUxeW0xR2d0NW1sUEU?oc=5",
+        "publishedAt": "2026-10-29T20:00:00.000Z"
+      },
       {
         "time": "17:32",
         "title": "ジェイテクト、工作機械サービス強化へ子会社吸収",
@@ -10,18 +17,25 @@
         "publishedAt": "2026-10-29T08:32:52.000Z"
       },
       {
-        "time": "17:30",
-        "title": "熟練工の技、AIで 工作機械のオークマやマザックが導入の動き",
-        "source": "日本経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ZY0Fxb2xILUxBMWNCcVpSUHpnUGF0SHdFc1ZRRWtMbkZmN0tJWUwyWERtelpBZ3V0WWZTZHZELVE5bjdVZ3RfTjRNZG9kcWtHY1JWT0JIbnBSLURHWlJQb0gzbE01a3RpbnNtdQ?oc=5",
-        "publishedAt": "2026-10-29T08:30:00.000Z"
-      },
-      {
         "time": "20:25",
         "title": "中国の全直駆工作機械大手・釕鋭釕（こえいし）がSTAR市場で新規株式公開の申し込み開始、公開価格45.37元で6.82億元を調達へ",
         "source": "BigGo ファイナンス",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9aT2xkVUVUa25WSW9xNWtSWnEzU0RVdUJfeWx3V0ZXRDBIMEw1X2FIM2RsT1VGVW9jZW9ueVJvSzFPRk1JYzllaVE2a0xHWnlxb2F5TXpHODdJTzNHMlJjNzk4TlRqTXlDakw1V0xVM3ViSVFN?oc=5",
         "publishedAt": "2026-10-29T11:25:00.000Z"
+      },
+      {
+        "time": "05:00",
+        "title": "JIMTOF、企業と接点 大学・工業系高校が成果",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5HN1Uzb2NCUEJiNHRoOUlSU0Z3ZTJSeGU3bk5yeEdGR2RjLXh4bnlvcmlpaG0ybjRuMV9RVkVmM0NHOGNfRHpoUkpweVRnTWhyRkVxeE51MTA?oc=5",
+        "publishedAt": "2026-10-29T20:00:00.000Z"
+      },
+      {
+        "time": "22:40",
+        "title": "次世代設備保全クラウドの株式会社M2X、三和罐詰株式会社の導入事例を公開",
+        "source": "時事ドットコム",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE82V3NTTVNGV0NDeEY4S01LY0tvNXA2SlQwNjlPN1lzUVZtaHdoWE0yOTJNb3JJZ3hMVVhXUXJxWmc5Vk1yLVB3Rm11XzNSN2VuUXBqM1lNcnhXTUdrcTZVWlA4QjhwU284MzBF?oc=5",
+        "publishedAt": "2026-10-29T13:40:00.000Z"
       },
       {
         "time": "13:54",
@@ -38,25 +52,11 @@
         "publishedAt": "2026-10-28T21:15:00.000Z"
       },
       {
-        "time": "05:00",
-        "title": "工作機械輸入協、スイス協会と懇親会開催",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBSZkVoXzd5YTktVWFwQVkxcUhYZlVnYWt0aS14QzVPb095Nlh5dTZaanhYZU5lelFBQTRCVUNldVptSHc2STZqNFpSRlltUlFSV1BGd2J4b1c?oc=5",
-        "publishedAt": "2026-10-28T20:00:00.000Z"
-      },
-      {
-        "time": "12:39",
-        "title": "10月28日、東京ビッグサイトで開催されている「第33回日本国際工作機械見本市（JIMTOF2...",
-        "source": "選挙ドットコム",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBBRUhFUEJNMU9lZUxnWUZkZGJDZEtxXzRLMDNpREhhNW5rVXVCazFYZWJMQ096NmZDLVZYSllMb1N0VlpnSWZTNlU4ZU5HSEdVaWFqSFprODEySlJ5VWNR?oc=5",
-        "publishedAt": "2026-10-29T03:39:30.000Z"
-      },
-      {
-        "time": "14:42",
-        "title": "国立昌原大学がグローバル工作機械専門企業のDNソリューションズと手を取り合い、オーダーメイド型優秀人材の養成と就職支援に乗り出す。国立昌原大学は最近、慶尚南道昌原に本社を置くDNソリューションズと業務..",
-        "source": "매일경제",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5rY25LSThUelRBclRTcUs2dHpqNC1JY3lncF9KU2dmd29TUktCZS1JQzVzbVlMd1VjOGNGeU82RVBaS1REYzdMOV9nZW1UY1UxaEE?oc=5",
-        "publishedAt": "2026-10-29T05:42:01.000Z"
+        "time": "17:30",
+        "title": "熟練工の技、AIで 工作機械のオークマやマザックが導入の動き",
+        "source": "日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ZY0Fxb2xILUxBMWNCcVpSUHpnUGF0SHdFc1ZRRWtMbkZmN0tJWUwyWERtelpBZ3V0WWZTZHZELVE5bjdVZ3RfTjRNZG9kcWtHY1JWT0JIbnBSLURHWlJQb0gzbE01a3RpbnNtdQ?oc=5",
+        "publishedAt": "2026-10-29T08:30:00.000Z"
       }
     ],
     "worldHeadlines": [
