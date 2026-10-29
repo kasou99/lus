@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T13:36:27.059Z",
+  "updatedAt": "2026-10-29T14:14:16.693Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -75,6 +75,13 @@
         "publishedAt": "2026-10-29T07:58:28.000Z"
       },
       {
+        "time": "23:00",
+        "title": "中国共産党 幹部ら33人の党籍剝奪",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6600614?source=rss",
+        "publishedAt": "2026-10-29T14:00:04.000Z"
+      },
+      {
         "time": "18:04",
         "title": "韓国で日本人女性殺害疑い 男拘束",
         "source": "Yahoo!ニュース",
@@ -82,25 +89,18 @@
         "publishedAt": "2026-10-29T09:04:28.000Z"
       },
       {
+        "time": "23:02",
+        "title": "梨泰院事故4年で追悼式 160人犠牲",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6600615?source=rss",
+        "publishedAt": "2026-10-29T14:02:50.000Z"
+      },
+      {
         "time": "20:03",
         "title": "スペインの列車事故 死者69人に",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6600595?source=rss",
         "publishedAt": "2026-10-29T11:03:46.000Z"
-      },
-      {
-        "time": "17:20",
-        "title": "スペイン事故 邦人2人連絡つかず",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600571?source=rss",
-        "publishedAt": "2026-10-29T08:20:14.000Z"
-      },
-      {
-        "time": "08:46",
-        "title": "プーチン氏 マスク氏は本物の天才",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600507?source=rss",
-        "publishedAt": "2026-10-28T23:46:08.000Z"
       }
     ],
     "economyHeadlines": [

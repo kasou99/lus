@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-29T13:36:27.858Z",
+  "updatedAt": "2026-10-29T14:14:17.507Z",
   "items": [
     {
       "time": "21:52",
@@ -10,12 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "電気ガス代補助 12月-来年2月実施"
     },
     {
-      "time": "19:39",
-      "title": "中部電 27年3月期の特損3800億円",
+      "time": "22:41",
+      "title": "米共和党 選挙区割り見直しで苦戦",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600594?source=rss",
-      "publishedAt": "2026-10-29T10:39:54.000Z",
-      "xQuery": "中部電 27年3月期の特損3800億円"
+      "url": "https://news.yahoo.co.jp/pickup/6600583?source=rss",
+      "publishedAt": "2026-10-29T13:41:19.000Z",
+      "xQuery": "米共和党 選挙区割り見直しで苦戦"
+    },
+    {
+      "time": "23:00",
+      "title": "中国共産党 幹部ら33人の党籍剝奪",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6600614?source=rss",
+      "publishedAt": "2026-10-29T14:00:04.000Z",
+      "xQuery": "中国共産党 幹部ら33人の党籍剝奪"
     },
     {
       "time": "21:56",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6600605?source=rss",
       "publishedAt": "2026-10-29T12:16:09.000Z",
       "xQuery": "3小学校293人 給食後嘔吐など発症"
-    },
-    {
-      "time": "22:14",
-      "title": "天丼てんや 2カ月連続で客約1割減",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600612?source=rss",
-      "publishedAt": "2026-10-29T13:14:19.000Z",
-      "xQuery": "天丼てんや 2カ月連続で客約1割減"
     }
   ]
 };
