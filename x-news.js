@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-29T14:36:17.826Z",
+  "updatedAt": "2026-10-29T15:12:59.688Z",
   "items": [
     {
       "time": "21:52",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "電気ガス代補助 12月-来年2月実施"
     },
     {
-      "time": "22:41",
-      "title": "米共和党 選挙区割り見直しで苦戦",
+      "time": "23:57",
+      "title": "欧州中銀 2会合ぶり金利据え置き",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600583?source=rss",
-      "publishedAt": "2026-10-29T13:41:19.000Z",
-      "xQuery": "米共和党 選挙区割り見直しで苦戦"
+      "url": "https://news.yahoo.co.jp/pickup/6600623?source=rss",
+      "publishedAt": "2026-10-29T14:57:12.000Z",
+      "xQuery": "欧州中銀 2会合ぶり金利据え置き"
     },
     {
       "time": "23:02",
