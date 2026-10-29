@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T10:36:38.114Z",
+  "updatedAt": "2026-10-29T11:11:44.722Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,6 +17,13 @@
         "publishedAt": "2026-10-29T08:30:00.000Z"
       },
       {
+        "time": "13:54",
+        "title": "産業機械、工作機械部品製造のKT商事が特別清算開始命令 負債約8300万円 – kenoh.com",
+        "source": "kenoh.com",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE44bEcxVmV6X1h3dUR5bTRZaXNRZ01FeDNiZUZHbmowb2VnV1hfNFBGbDg2OEJ0djBBNVRZTWxKTTBQSThRMXZzNXBR?oc=5",
+        "publishedAt": "2026-10-29T04:54:27.000Z"
+      },
+      {
         "time": "09:56",
         "title": "AI・新エネルギー需要で中国製工作機械の受注が来年第2四半期まで埋まる",
         "source": "BigGo ファイナンス",
@@ -29,13 +36,6 @@
         "source": "MONOist",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBTblZMYkxXb2JheUJJMjE0VjdJNF9vOXJfYVZCTDRNajF3WWgzOWp5WEhDZ3ZjSDE1UlFtNEZxY3BNUUpNaTRZT2QyWjV5QnktVTFuak93cUcwX0Vxek00TnVRNmM0YmZDbXdrTU5tZw?oc=5",
         "publishedAt": "2026-10-28T21:15:00.000Z"
-      },
-      {
-        "time": "13:54",
-        "title": "産業機械、工作機械部品製造のKT商事が特別精算開始命令 負債約8300万円 – kenoh.com",
-        "source": "kenoh.com",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE44bEcxVmV6X1h3dUR5bTRZaXNRZ01FeDNiZUZHbmowb2VnV1hfNFBGbDg2OEJ0djBBNVRZTWxKTTBQSThRMXZzNXBR?oc=5",
-        "publishedAt": "2026-10-29T04:54:27.000Z"
       },
       {
         "time": "12:39",
@@ -82,18 +82,18 @@
         "publishedAt": "2026-10-29T09:04:28.000Z"
       },
       {
+        "time": "20:03",
+        "title": "スペインの列車事故 死者69人に",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6600595?source=rss",
+        "publishedAt": "2026-10-29T11:03:46.000Z"
+      },
+      {
         "time": "17:20",
         "title": "スペイン事故 邦人2人連絡つかず",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6600571?source=rss",
         "publishedAt": "2026-10-29T08:20:14.000Z"
-      },
-      {
-        "time": "08:03",
-        "title": "スペイン 衝突列車に誤った指示か",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600500?source=rss",
-        "publishedAt": "2026-10-28T23:03:35.000Z"
       },
       {
         "time": "08:46",
@@ -110,6 +110,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6600561?source=rss",
         "publishedAt": "2026-10-29T07:08:06.000Z"
+      },
+      {
+        "time": "19:39",
+        "title": "中部電 27年3月期の特損3800億円",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6600594?source=rss",
+        "publishedAt": "2026-10-29T10:39:54.000Z"
       },
       {
         "time": "18:21",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6600523?source=rss",
         "publishedAt": "2026-10-29T02:25:34.000Z"
-      },
-      {
-        "time": "09:13",
-        "title": "米FRBが政策金利を据え置き",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600510?source=rss",
-        "publishedAt": "2026-10-29T00:13:09.000Z"
       }
     ],
     "localHeadlines": [

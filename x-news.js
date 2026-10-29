@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-29T10:36:38.867Z",
+  "updatedAt": "2026-10-29T11:11:45.388Z",
   "items": [
     {
       "time": "18:21",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "滋賀銀・池田泉州HD 統合へ合意"
     },
     {
-      "time": "17:20",
-      "title": "スペイン事故 邦人2人連絡つかず",
+      "time": "20:03",
+      "title": "スペインの列車事故 死者69人に",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600571?source=rss",
-      "publishedAt": "2026-10-29T08:20:14.000Z",
-      "xQuery": "スペイン事故 邦人2人連絡つかず"
+      "url": "https://news.yahoo.co.jp/pickup/6600595?source=rss",
+      "publishedAt": "2026-10-29T11:03:46.000Z",
+      "xQuery": "スペインの列車事故 死者69人に"
     },
     {
-      "time": "19:04",
-      "title": "11月電気代 大手7社で過去最高値",
+      "time": "19:39",
+      "title": "中部電 27年3月期の特損3800億円",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600589?source=rss",
-      "publishedAt": "2026-10-29T10:04:21.000Z",
-      "xQuery": "11月電気代 大手7社で過去最高値"
+      "url": "https://news.yahoo.co.jp/pickup/6600594?source=rss",
+      "publishedAt": "2026-10-29T10:39:54.000Z",
+      "xQuery": "中部電 27年3月期の特損3800億円"
     },
     {
       "time": "18:21",
