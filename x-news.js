@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-29T14:14:17.507Z",
+  "updatedAt": "2026-10-29T14:36:17.826Z",
   "items": [
     {
       "time": "21:52",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "米共和党 選挙区割り見直しで苦戦"
     },
     {
-      "time": "23:00",
-      "title": "中国共産党 幹部ら33人の党籍剝奪",
+      "time": "23:02",
+      "title": "梨泰院事故4年で追悼式 160人犠牲",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600614?source=rss",
-      "publishedAt": "2026-10-29T14:00:04.000Z",
-      "xQuery": "中国共産党 幹部ら33人の党籍剝奪"
+      "url": "https://news.yahoo.co.jp/pickup/6600615?source=rss",
+      "publishedAt": "2026-10-29T14:02:50.000Z",
+      "xQuery": "梨泰院事故4年で追悼式 160人犠牲"
     },
     {
       "time": "21:56",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "ネパール高峰で発見の2遺体は邦人"
     },
     {
-      "time": "21:16",
-      "title": "3小学校293人 給食後嘔吐など発症",
+      "time": "22:14",
+      "title": "天丼てんや 2カ月連続で客約1割減",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600605?source=rss",
-      "publishedAt": "2026-10-29T12:16:09.000Z",
-      "xQuery": "3小学校293人 給食後嘔吐など発症"
+      "url": "https://news.yahoo.co.jp/pickup/6600612?source=rss",
+      "publishedAt": "2026-10-29T13:14:19.000Z",
+      "xQuery": "天丼てんや 2カ月連続で客約1割減"
     }
   ]
 };
