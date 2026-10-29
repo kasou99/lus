@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-29T06:44:08.531Z",
+  "updatedAt": "2026-10-29T07:14:53.341Z",
   "items": [
     {
-      "time": "13:29",
-      "title": "北発射のミサイルEEZ外に落下か",
+      "time": "16:08",
+      "title": "ANA AIRDOなど完全子会社化へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600542?source=rss",
-      "publishedAt": "2026-10-29T04:29:48.000Z",
-      "xQuery": "北発射のミサイルEEZ外に落下か"
+      "url": "https://news.yahoo.co.jp/pickup/6600561?source=rss",
+      "publishedAt": "2026-10-29T07:08:06.000Z",
+      "xQuery": "ANA AIRDOなど完全子会社化へ"
     },
     {
       "time": "13:56",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "GMOサイバー攻撃 捜査の焦点は"
     },
     {
-      "time": "13:10",
-      "title": "餃子の王将社長射殺 検察側が控訴",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600537?source=rss",
-      "publishedAt": "2026-10-29T04:10:22.000Z",
-      "xQuery": "餃子の王将社長射殺 検察側が控訴"
-    },
-    {
       "time": "14:52",
       "title": "銀座の異臭騒ぎ 傷害疑いで男逮捕",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6600551?source=rss",
       "publishedAt": "2026-10-29T05:52:56.000Z",
       "xQuery": "銀座の異臭騒ぎ 傷害疑いで男逮捕"
+    },
+    {
+      "time": "15:42",
+      "title": "事故はずみで車衝突 歩道男性重体",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6600557?source=rss",
+      "publishedAt": "2026-10-29T06:42:13.000Z",
+      "xQuery": "事故はずみで車衝突 歩道男性重体"
     },
     {
       "time": "14:07",

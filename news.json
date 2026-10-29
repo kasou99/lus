@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T06:44:07.831Z",
+  "updatedAt": "2026-10-29T07:14:52.364Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,13 +38,6 @@
         "publishedAt": "2026-10-29T03:39:30.000Z"
       },
       {
-        "time": "10:00",
-        "title": "信頼と実績のフジタ製スライド機構を採用！ 名古屋ボデーがUDクオンをベースに製作したこだわり満載の大型平ボディに迫る！ - https://fullload.bestcarweb.jp/",
-        "source": "https://fullload.bestcarweb.jp/",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9VZzAwZHF4X0xhZWVYYWhFbmRsdTVCYmI5Zi14LVNsWUdrN1RfeklYUzdRUjc4dUY2UTJ5RmR0NjgwaTdLdlJmX0tYOUlFVmM0NEtYS0F4RGY?oc=5",
-        "publishedAt": "2026-10-29T01:00:00.000Z"
-      },
-      {
         "time": "03:15",
         "title": "次世代設備保全クラウドの株式会社M2X、三和罐詰株式会社の導入事例を公開",
         "source": "ニコニコニュース",
@@ -52,11 +45,18 @@
         "publishedAt": "2026-10-28T18:15:21.000Z"
       },
       {
-        "time": "11:41",
-        "title": "トランプ氏、ロボット・産業機械への関税延期－貿易相手国と協議へ",
-        "source": "Infoseek",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA0TUdnX1d6Y0QxZTlFX0IzR2xVVnJabkVhcTFqRjktOTJOaUtDa0NEQU9FTDBrMnRYcFp6UWRzTUlPVFA2aUNSd3BzRWNRcVJLYjNmVHpFa21Dc0hyNl9nWnRhQ1luS2NZ0gFoQVVfeXFMUDRNR2dfV3pjRDFlOUVfQjNHbFVWclpuRWFxMWpGOS05Mk5pS0NrQ0RBT0VMMGsydFhwWnpRZHNNSU9UUDZpQ1J3cHNFY1FxUktiM2ZUekVrbUNzSHI2X2dadGFDWW5LY1k?oc=5",
-        "publishedAt": "2026-10-29T02:41:53.000Z"
+        "time": "13:00",
+        "title": "インフラで培われた京大発の劣化予測技術を設備保全の現場へ、「MENTENA」で社会実装 点検データから設備の劣化進行を予測し、最適な保全活動を実現",
+        "source": "PR TIMES",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0zckdZb2hlRzN5UEpoLWwtdFZVSjc3WUc0NjV1VjZwSEFBWE0xalljWGJYZWU2NTlhQXB2RWVMOEd0S0FTcnVvNVZmQWJVcXgyVk9tOTBoek1nRERjbHFxazNsaDM5UE9mOEE?oc=5",
+        "publishedAt": "2026-10-29T04:00:01.000Z"
+      },
+      {
+        "time": "17:59",
+        "title": "６年ぶりにミラノで開催 「EMO MILANO 2027」が出展申込みを開始",
+        "source": "イベスル",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ZdU8tZG5GeGVkTHotNDFsSkNhMHZYOC1sMThwVGZvTlVoU1IySjBoNktOZmFPaFlNNlRUNzRlVlhTejlVYURpMENPLWhFSV9RZTdXZWJn?oc=5",
+        "publishedAt": "2026-10-28T08:59:11.000Z"
       }
     ],
     "worldHeadlines": [
@@ -105,6 +105,13 @@
     ],
     "economyHeadlines": [
       {
+        "time": "16:08",
+        "title": "ANA AIRDOなど完全子会社化へ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6600561?source=rss",
+        "publishedAt": "2026-10-29T07:08:06.000Z"
+      },
+      {
         "time": "11:25",
         "title": "竹中工務店元社員 起訴内容認める",
         "source": "Yahoo!ニュース",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6600504?source=rss",
         "publishedAt": "2026-10-28T23:34:37.000Z"
-      },
-      {
-        "time": "13:11",
-        "title": "増える正社員の副業 実状とリスク",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600415?source=rss",
-        "publishedAt": "2026-10-28T04:11:53.000Z"
       }
     ],
     "localHeadlines": [
