@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-29T01:40:11.129Z",
+  "updatedAt": "2026-10-29T02:18:30.265Z",
   "items": [
     {
       "time": "10:10",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "米FRBが政策金利を据え置き"
     },
     {
-      "time": "08:46",
-      "title": "プーチン氏 マスク氏は本物の天才",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600507?source=rss",
-      "publishedAt": "2026-10-28T23:46:08.000Z",
-      "xQuery": "プーチン氏 マスク氏は本物の天才"
-    },
-    {
       "time": "08:34",
       "title": "本や雑誌発売日 大阪も1日遅れに",
       "source": "Yahoo!ニュース",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6600512?source=rss",
       "publishedAt": "2026-10-29T00:35:20.000Z",
       "xQuery": "盗撮「カメレオンカメラ」巧妙化"
+    },
+    {
+      "time": "09:51",
+      "title": "日本近海で初記録のウミグモ発見",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6600515?source=rss",
+      "publishedAt": "2026-10-29T00:51:43.000Z",
+      "xQuery": "日本近海で初記録のウミグモ発見"
     }
   ]
 };

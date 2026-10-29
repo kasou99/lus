@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T01:40:10.155Z",
+  "updatedAt": "2026-10-29T02:18:28.945Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -45,18 +45,18 @@
         "publishedAt": "2026-10-28T06:40:32.000Z"
       },
       {
+        "time": "17:59",
+        "title": "６年ぶりにミラノで開催 「EMO MILANO 2027」が出展申込みを開始",
+        "source": "イベスル",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ZdU8tZG5GeGVkTHotNDFsSkNhMHZYOC1sMThwVGZvTlVoU1IySjBoNktOZmFPaFlNNlRUNzRlVlhTejlVYURpMENPLWhFSV9RZTdXZWJn?oc=5",
+        "publishedAt": "2026-10-28T08:59:11.000Z"
+      },
+      {
         "time": "11:20",
         "title": "オークマ・ファナック・ヤマザキマザック…工作機械で導入進む、AIの生かし方（ニュースイッチ）",
         "source": "Yahoo!ニュース",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE55WlRnNVBsMXkxZTJuSS1uN0wtRG1HR2dfVmFLcVJXSWhqYTVMNy10MUxsMXYxSDlLd1NOaHl0Q0JFWno2R2dDTnFsODR6UDJ6QWlRS3BvRkxTRWNraFQ1WW5GODZCbXpFRDBMOTZEd0lESEFadEV3bGNaTTU5SG8?oc=5",
         "publishedAt": "2026-10-28T02:20:09.000Z"
-      },
-      {
-        "time": "13:31",
-        "title": "パナソニック株式会社が設備保全クラウド「M2X」を導入",
-        "source": "朝日新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxeGQtLVZobGpnR0R3MXNLZjFFSUF5SFJrWk9fTkd4cXJ2R0FvUVZvNnFpdFJ1QW9CUDVjTl91YlRNek96WndZQW00SWVLTG5ZcmdzTXRCSDZCd0U?oc=5",
-        "publishedAt": "2026-10-28T04:31:01.000Z"
       }
     ],
     "worldHeadlines": [
