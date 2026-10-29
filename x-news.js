@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-29T02:38:12.530Z",
+  "updatedAt": "2026-10-29T03:15:52.839Z",
   "items": [
     {
-      "time": "10:10",
-      "title": "スペイン事故 乗客名簿に邦人2人",
+      "time": "12:01",
+      "title": "衆院比例議席減 自維国が正式合意",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600517?source=rss",
-      "publishedAt": "2026-10-29T01:10:01.000Z",
-      "xQuery": "スペイン事故 乗客名簿に邦人2人"
+      "url": "https://news.yahoo.co.jp/pickup/6600526?source=rss",
+      "publishedAt": "2026-10-29T03:01:59.000Z",
+      "xQuery": "衆院比例議席減 自維国が正式合意"
     },
     {
       "time": "10:13",
@@ -16,6 +16,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6600518?source=rss",
       "publishedAt": "2026-10-29T01:13:27.000Z",
       "xQuery": "燃料油補助 予算累計10兆円超に"
+    },
+    {
+      "time": "10:10",
+      "title": "スペイン事故 乗客名簿に邦人2人",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6600517?source=rss",
+      "publishedAt": "2026-10-29T01:10:01.000Z",
+      "xQuery": "スペイン事故 乗客名簿に邦人2人"
     },
     {
       "time": "11:25",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6600512?source=rss",
       "publishedAt": "2026-10-29T00:35:20.000Z",
       "xQuery": "盗撮「カメレオンカメラ」巧妙化"
-    },
-    {
-      "time": "09:51",
-      "title": "日本近海で初記録のウミグモ発見",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600515?source=rss",
-      "publishedAt": "2026-10-29T00:51:43.000Z",
-      "xQuery": "日本近海で初記録のウミグモ発見"
     }
   ]
 };
