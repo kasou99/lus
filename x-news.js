@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-29T04:15:47.808Z",
+  "updatedAt": "2026-10-29T04:37:03.114Z",
   "items": [
     {
-      "time": "12:46",
-      "title": "北が発射 弾道ミサイルの可能性",
+      "time": "13:29",
+      "title": "北発射のミサイルEEZ外に落下か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600535?source=rss",
-      "publishedAt": "2026-10-29T03:46:47.000Z",
-      "xQuery": "北が発射 弾道ミサイルの可能性"
+      "url": "https://news.yahoo.co.jp/pickup/6600542?source=rss",
+      "publishedAt": "2026-10-29T04:29:48.000Z",
+      "xQuery": "北発射のミサイルEEZ外に落下か"
     },
     {
-      "time": "12:01",
-      "title": "衆院比例議席減 自維国が正式合意",
+      "time": "13:10",
+      "title": "餃子の王将社長射殺 検察側が控訴",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600526?source=rss",
-      "publishedAt": "2026-10-29T03:01:59.000Z",
-      "xQuery": "衆院比例議席減 自維国が正式合意"
+      "url": "https://news.yahoo.co.jp/pickup/6600537?source=rss",
+      "publishedAt": "2026-10-29T04:10:22.000Z",
+      "xQuery": "餃子の王将社長射殺 検察側が控訴"
     },
     {
       "time": "12:58",

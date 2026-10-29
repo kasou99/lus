@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-29T04:15:46.721Z",
+  "updatedAt": "2026-10-29T04:37:02.287Z",
   "groups": {
     "machineHeadlines": [
       {
-        "time": "09:56",
-        "title": "AI・新エネルギー需要で中国製工作機械の受注が来年第2四半期まで埋まる",
-        "source": "BigGo ファイナンス",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE85TUNORURqd3lrSkdIMGpfbkhCSXZSN2E4bmdTZTdOdExVTExSUVJHeEVsQ1RNSHo5MVpfYUZ4QWVwSUQzZHBrX29feXlfOFJ6U0ZpU29TWDV1YWs3c2tEdTQ5TkYzX0c4b2dkUmVjTlBSY091?oc=5",
-        "publishedAt": "2026-10-29T00:56:00.000Z"
+        "time": "06:15",
+        "title": "しゃべるNCとエラーに対処、後で要約も確認 マザックが“声”生かすAI活用：JIMTOF2026",
+        "source": "MONOist",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBTblZMYkxXb2JheUJJMjE0VjdJNF9vOXJfYVZCTDRNajF3WWgzOWp5WEhDZ3ZjSDE1UlFtNEZxY3BNUUpNaTRZT2QyWjV5QnktVTFuak93cUcwX0Vxek00TnVRNmM0YmZDbXdrTU5tZw?oc=5",
+        "publishedAt": "2026-10-28T21:15:00.000Z"
       },
       {
         "time": "05:00",
@@ -17,11 +17,11 @@
         "publishedAt": "2026-10-28T20:00:00.000Z"
       },
       {
-        "time": "06:15",
-        "title": "しゃべるNCとエラーに対処、後で要約も確認 マザックが“声”生かすAI活用：JIMTOF2026",
-        "source": "MONOist",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBTblZMYkxXb2JheUJJMjE0VjdJNF9vOXJfYVZCTDRNajF3WWgzOWp5WEhDZ3ZjSDE1UlFtNEZxY3BNUUpNaTRZT2QyWjV5QnktVTFuak93cUcwX0Vxek00TnVRNmM0YmZDbXdrTU5tZw?oc=5",
-        "publishedAt": "2026-10-28T21:15:00.000Z"
+        "time": "09:56",
+        "title": "AI・新エネルギー需要で中国製工作機械の受注が来年第2四半期まで埋まる",
+        "source": "BigGo ファイナンス",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE85TUNORURqd3lrSkdIMGpfbkhCSXZSN2E4bmdTZTdOdExVTExSUVJHeEVsQ1RNSHo5MVpfYUZ4QWVwSUQzZHBrX29feXlfOFJ6U0ZpU29TWDV1YWs3c2tEdTQ5TkYzX0c4b2dkUmVjTlBSY091?oc=5",
+        "publishedAt": "2026-10-29T00:56:00.000Z"
       },
       {
         "time": "12:39",
@@ -29,6 +29,20 @@
         "source": "選挙ドットコム",
         "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBBRUhFUEJNMU9lZUxnWUZkZGJDZEtxXzRLMDNpREhhNW5rVXVCazFYZWJMQ096NmZDLVZYSllMb1N0VlpnSWZTNlU4ZU5HSEdVaWFqSFprODEySlJ5VWNR?oc=5",
         "publishedAt": "2026-10-29T03:39:30.000Z"
+      },
+      {
+        "time": "10:00",
+        "title": "信頼と実績のフジタ製スライド機構を採用！ 名古屋ボデーがUDクオンをベースに製作したこだわり満載の大型平ボディに迫る！ - https://fullload.bestcarweb.jp/",
+        "source": "https://fullload.bestcarweb.jp/",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9VZzAwZHF4X0xhZWVYYWhFbmRsdTVCYmI5Zi14LVNsWUdrN1RfeklYUzdRUjc4dUY2UTJ5RmR0NjgwaTdLdlJmX0tYOUlFVmM0NEtYS0F4RGY?oc=5",
+        "publishedAt": "2026-10-29T01:00:00.000Z"
+      },
+      {
+        "time": "05:00",
+        "title": "ロボと匠、“きさげ”連携 JIMTOF2026",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE90dXJ4Tm9kTEdEcGpjTEZWOVhBMDhUZW4xVlA4ajlyTC1wUGNqM3otVlRWNXlzQS1YLWl0bmRaMXBBM2dwRkxheHNqUmhwbmZ2QWZBTlRFY0w?oc=5",
+        "publishedAt": "2026-10-28T20:00:00.000Z"
       },
       {
         "time": "14:45",
@@ -43,29 +57,15 @@
         "source": "ニコニコニュース",
         "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9pa19XYXFJdUZfYndGMFhGSnlGU3R5MmRiaWRDVy0zc0RrMkdyLXN4MGNvUWZmaXNqRHRzdVgxWG16T0dnc3g5c1BDN0M4UEVBUFVFc2RWOFZiZjFkaDJOQmVGQ0hYblZUSEhvNEgxSXRJNnZEWGw4?oc=5",
         "publishedAt": "2026-10-28T18:15:21.000Z"
-      },
-      {
-        "time": "15:40",
-        "title": "日本精工、工作機械向け新型スピンドルを開発 振動抑制し高効率加工を実現",
-        "source": "電波新聞デジタル",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1fYkExVDl5S3ZISWNscnZnNmctTUJjQnpXelRiazZibjZWdFdQdENUcUdOUnpGYVE1MWJFTi1BTGk0U01DSk1BOUZqRlZzb1JRZ3c?oc=5",
-        "publishedAt": "2026-10-28T06:40:32.000Z"
-      },
-      {
-        "time": "13:31",
-        "title": "パナソニック株式会社が設備保全クラウド「M2X」を導入",
-        "source": "朝日新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxeGQtLVZobGpnR0R3MXNLZjFFSUF5SFJrWk9fTkd4cXJ2R0FvUVZvNnFpdFJ1QW9CUDVjTl91YlRNek96WndZQW00SWVLTG5ZcmdzTXRCSDZCd0U?oc=5",
-        "publishedAt": "2026-10-28T04:31:01.000Z"
       }
     ],
     "worldHeadlines": [
       {
-        "time": "12:46",
-        "title": "北が発射 弾道ミサイルの可能性",
+        "time": "13:29",
+        "title": "北発射のミサイルEEZ外に落下か",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600535?source=rss",
-        "publishedAt": "2026-10-29T03:46:47.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6600542?source=rss",
+        "publishedAt": "2026-10-29T04:29:48.000Z"
       },
       {
         "time": "10:10",
@@ -89,18 +89,18 @@
         "publishedAt": "2026-10-28T23:46:08.000Z"
       },
       {
-        "time": "07:54",
-        "title": "イスラエル総選挙 連立協議難航か",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600366?source=rss",
-        "publishedAt": "2026-10-27T22:54:29.000Z"
-      },
-      {
         "time": "12:19",
         "title": "ボルソナロ氏の入国 米が許可",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6600410?source=rss",
         "publishedAt": "2026-10-28T03:19:24.000Z"
+      },
+      {
+        "time": "13:25",
+        "title": "なぜAIの名称変更 米大統領考えは",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6600540?source=rss",
+        "publishedAt": "2026-10-29T04:25:26.000Z"
       }
     ],
     "economyHeadlines": [
