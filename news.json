@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T20:36:15.591Z",
+  "updatedAt": "2026-10-29T21:11:45.224Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -8,6 +8,13 @@
         "source": "日本経済新聞",
         "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOaWNfUG42aTU0eDVmY0RieFZKUlpnSUszeXo0ME4tRmMtS0pDZ3MwdnM4WHRfUHJZZ3FjX0JEY0VoWDRQeWZMYTZOMUtjNlZkTTNPWDRrRUMtOWcxVk9lc3R4azNVWHNTUGlPWm9nVmxid0hxdHNJYWJwLWUxeW0xR2d0NW1sUEU?oc=5",
         "publishedAt": "2026-10-29T20:00:00.000Z"
+      },
+      {
+        "time": "06:03",
+        "title": "ナガセインテグレ･武田機械…工作機械の中堅･中小メーカー､販路開拓へ武器にする独自製品・技術",
+        "source": "ニュースイッチ by 日刊工業新聞社",
+        "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5zTlBTQ29mZWxvS2hsUFpvOXNxZHB5dmZtUmhKRjlYaW1oaWh2Qmh1REN5VVB6UWE5OFk5bjdzY1hPUQ?oc=5",
+        "publishedAt": "2026-10-29T21:03:00.000Z"
       },
       {
         "time": "17:32",
@@ -22,6 +29,13 @@
         "source": "BigGo ファイナンス",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9aT2xkVUVUa25WSW9xNWtSWnEzU0RVdUJfeWx3V0ZXRDBIMEw1X2FIM2RsT1VGVW9jZW9ueVJvSzFPRk1JYzllaVE2a0xHWnlxb2F5TXpHODdJTzNHMlJjNzk4TlRqTXlDakw1V0xVM3ViSVFN?oc=5",
         "publishedAt": "2026-10-29T11:25:00.000Z"
+      },
+      {
+        "time": "05:00",
+        "title": "JIMTOF、企業と接点 大学・工業系高校が成果",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5HN1Uzb2NCUEJiNHRoOUlSU0Z3ZTJSeGU3bk5yeEdGR2RjLXh4bnlvcmlpaG0ybjRuMV9RVkVmM0NHOGNfRHpoUkpweVRnTWhyRkVxeE51MTA?oc=5",
+        "publishedAt": "2026-10-29T20:00:00.000Z"
       },
       {
         "time": "22:40",
@@ -43,20 +57,6 @@
         "source": "MONOist",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBTblZMYkxXb2JheUJJMjE0VjdJNF9vOXJfYVZCTDRNajF3WWgzOWp5WEhDZ3ZjSDE1UlFtNEZxY3BNUUpNaTRZT2QyWjV5QnktVTFuak93cUcwX0Vxek00TnVRNmM0YmZDbXdrTU5tZw?oc=5",
         "publishedAt": "2026-10-28T21:15:00.000Z"
-      },
-      {
-        "time": "17:30",
-        "title": "熟練工の技、AIで 工作機械のオークマやマザックが導入の動き",
-        "source": "日本経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ZY0Fxb2xILUxBMWNCcVpSUHpnUGF0SHdFc1ZRRWtMbkZmN0tJWUwyWERtelpBZ3V0WWZTZHZELVE5bjdVZ3RfTjRNZG9kcWtHY1JWT0JIbnBSLURHWlJQb0gzbE01a3RpbnNtdQ?oc=5",
-        "publishedAt": "2026-10-29T08:30:00.000Z"
-      },
-      {
-        "time": "12:39",
-        "title": "10月28日、東京ビッグサイトで開催されている「第33回日本国際工作機械見本市（JIMTOF2...",
-        "source": "選挙ドットコム",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBBRUhFUEJNMU9lZUxnWUZkZGJDZEtxXzRLMDNpREhhNW5rVXVCazFYZWJMQ096NmZDLVZYSllMb1N0VlpnSWZTNlU4ZU5HSEdVaWFqSFprODEySlJ5VWNR?oc=5",
-        "publishedAt": "2026-10-29T03:39:30.000Z"
       }
     ],
     "worldHeadlines": [
@@ -163,11 +163,11 @@
         "publishedAt": "2026-10-29T07:18:17.000Z"
       },
       {
-        "time": "17:54",
-        "title": "救助向かい土砂に埋まる 男性死亡",
+        "time": "06:02",
+        "title": "土砂に埋まり作業員2人死亡 愛知",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600579?source=rss",
-        "publishedAt": "2026-10-29T08:54:36.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6600618?source=rss",
+        "publishedAt": "2026-10-29T21:02:40.000Z"
       },
       {
         "time": "21:16",

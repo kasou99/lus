@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-29T20:36:16.861Z",
+  "updatedAt": "2026-10-29T21:11:45.983Z",
   "items": [
     {
       "time": "21:52",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "梨泰院事故4年で追悼式 160人犠牲"
     },
     {
-      "time": "21:56",
-      "title": "ネパール高峰で発見の2遺体は邦人",
+      "time": "06:02",
+      "title": "土砂に埋まり作業員2人死亡 愛知",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600609?source=rss",
-      "publishedAt": "2026-10-29T12:56:29.000Z",
-      "xQuery": "ネパール高峰で発見の2遺体は邦人"
+      "url": "https://news.yahoo.co.jp/pickup/6600618?source=rss",
+      "publishedAt": "2026-10-29T21:02:40.000Z",
+      "xQuery": "土砂に埋まり作業員2人死亡 愛知"
     },
     {
       "time": "22:14",
