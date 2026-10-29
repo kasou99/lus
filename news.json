@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T07:35:53.137Z",
+  "updatedAt": "2026-10-29T08:17:55.001Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -45,21 +45,28 @@
         "publishedAt": "2026-10-29T05:42:01.000Z"
       },
       {
+        "time": "05:00",
+        "title": "北陸の工作機械、成長市場に活路 半導体・航空・宇宙向けに照準 国際見本市で技術競う 新製品で商機開拓",
+        "source": "北國新聞",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9NV2s4aXJLUWk4TWp6VVJzSzJwMk1fbkJlQ0xoWUtIWHl4aEczakg3eVFxU3NjZmp4YlNNV2Q1NS12cE0weENycy1VMl9ZSDZVNTFPZHRJcw?oc=5",
+        "publishedAt": "2026-10-28T20:00:00.000Z"
+      },
+      {
         "time": "10:00",
         "title": "信頼と実績のフジタ製スライド機構を採用！ 名古屋ボデーがUDクオンをベースに製作したこだわり満載の大型平ボディに迫る！ - https://fullload.bestcarweb.jp/",
         "source": "https://fullload.bestcarweb.jp/",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9VZzAwZHF4X0xhZWVYYWhFbmRsdTVCYmI5Zi14LVNsWUdrN1RfeklYUzdRUjc4dUY2UTJ5RmR0NjgwaTdLdlJmX0tYOUlFVmM0NEtYS0F4RGY?oc=5",
         "publishedAt": "2026-10-29T01:00:00.000Z"
-      },
-      {
-        "time": "03:15",
-        "title": "次世代設備保全クラウドの株式会社M2X、三和罐詰株式会社の導入事例を公開",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9pa19XYXFJdUZfYndGMFhGSnlGU3R5MmRiaWRDVy0zc0RrMkdyLXN4MGNvUWZmaXNqRHRzdVgxWG16T0dnc3g5c1BDN0M4UEVBUFVFc2RWOFZiZjFkaDJOQmVGQ0hYblZUSEhvNEgxSXRJNnZEWGw4?oc=5",
-        "publishedAt": "2026-10-28T18:15:21.000Z"
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "16:58",
+        "title": "韓国・尹前大統領に再び死刑求刑",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6600566?source=rss",
+        "publishedAt": "2026-10-29T07:58:28.000Z"
+      },
       {
         "time": "13:29",
         "title": "北発射のミサイルEEZ外に落下か",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6600410?source=rss",
         "publishedAt": "2026-10-28T03:19:24.000Z"
-      },
-      {
-        "time": "13:25",
-        "title": "なぜAIの名称変更 米大統領考えは",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600540?source=rss",
-        "publishedAt": "2026-10-29T04:25:26.000Z"
       }
     ],
     "economyHeadlines": [
@@ -149,13 +149,6 @@
     ],
     "localHeadlines": [
       {
-        "time": "13:10",
-        "title": "餃子の王将社長射殺 検察側が控訴",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600537?source=rss",
-        "publishedAt": "2026-10-29T04:10:22.000Z"
-      },
-      {
         "time": "15:29",
         "title": "モスク放火の男に拘禁刑6年6カ月",
         "source": "Yahoo!ニュース",
@@ -163,11 +156,11 @@
         "publishedAt": "2026-10-29T06:29:44.000Z"
       },
       {
-        "time": "14:25",
-        "title": "製菓店主殺害 頭に殴打痕4カ所",
+        "time": "16:47",
+        "title": "首都圏強盗 実行役2人に無期求刑",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600549?source=rss",
-        "publishedAt": "2026-10-29T05:25:51.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6600564?source=rss",
+        "publishedAt": "2026-10-29T07:47:50.000Z"
       },
       {
         "time": "16:18",
@@ -189,6 +182,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6600551?source=rss",
         "publishedAt": "2026-10-29T05:52:56.000Z"
+      },
+      {
+        "time": "16:46",
+        "title": "下水管の工事中に土砂崩れか 死亡",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6600565?source=rss",
+        "publishedAt": "2026-10-29T07:46:28.000Z"
       }
     ],
     "subsidyHeadlines": [
