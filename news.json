@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T20:13:32.062Z",
+  "updatedAt": "2026-10-29T20:36:15.591Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -22,13 +22,6 @@
         "source": "BigGo ファイナンス",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9aT2xkVUVUa25WSW9xNWtSWnEzU0RVdUJfeWx3V0ZXRDBIMEw1X2FIM2RsT1VGVW9jZW9ueVJvSzFPRk1JYzllaVE2a0xHWnlxb2F5TXpHODdJTzNHMlJjNzk4TlRqTXlDakw1V0xVM3ViSVFN?oc=5",
         "publishedAt": "2026-10-29T11:25:00.000Z"
-      },
-      {
-        "time": "05:00",
-        "title": "JIMTOF、企業と接点 大学・工業系高校が成果",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5HN1Uzb2NCUEJiNHRoOUlSU0Z3ZTJSeGU3bk5yeEdGR2RjLXh4bnlvcmlpaG0ybjRuMV9RVkVmM0NHOGNfRHpoUkpweVRnTWhyRkVxeE51MTA?oc=5",
-        "publishedAt": "2026-10-29T20:00:00.000Z"
       },
       {
         "time": "22:40",
@@ -57,6 +50,13 @@
         "source": "日本経済新聞",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ZY0Fxb2xILUxBMWNCcVpSUHpnUGF0SHdFc1ZRRWtMbkZmN0tJWUwyWERtelpBZ3V0WWZTZHZELVE5bjdVZ3RfTjRNZG9kcWtHY1JWT0JIbnBSLURHWlJQb0gzbE01a3RpbnNtdQ?oc=5",
         "publishedAt": "2026-10-29T08:30:00.000Z"
+      },
+      {
+        "time": "12:39",
+        "title": "10月28日、東京ビッグサイトで開催されている「第33回日本国際工作機械見本市（JIMTOF2...",
+        "source": "選挙ドットコム",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBBRUhFUEJNMU9lZUxnWUZkZGJDZEtxXzRLMDNpREhhNW5rVXVCazFYZWJMQ096NmZDLVZYSllMb1N0VlpnSWZTNlU4ZU5HSEdVaWFqSFprODEySlJ5VWNR?oc=5",
+        "publishedAt": "2026-10-29T03:39:30.000Z"
       }
     ],
     "worldHeadlines": [
