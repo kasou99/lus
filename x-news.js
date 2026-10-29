@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-29T13:13:51.084Z",
+  "updatedAt": "2026-10-29T13:36:27.858Z",
   "items": [
     {
       "time": "21:52",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "3小学校293人 給食後嘔吐など発症"
     },
     {
-      "time": "20:48",
-      "title": "無免許で169人に医療行為 懲役5年",
+      "time": "22:14",
+      "title": "天丼てんや 2カ月連続で客約1割減",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600597?source=rss",
-      "publishedAt": "2026-10-29T11:48:15.000Z",
-      "xQuery": "無免許で169人に医療行為 懲役5年"
+      "url": "https://news.yahoo.co.jp/pickup/6600612?source=rss",
+      "publishedAt": "2026-10-29T13:14:19.000Z",
+      "xQuery": "天丼てんや 2カ月連続で客約1割減"
     }
   ]
 };
