@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-29T23:11:46.183Z",
+  "updatedAt": "2026-10-29T23:36:32.839Z",
   "items": [
     {
       "time": "07:29",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "ガソリン補助金 12月から段階縮小"
     },
     {
-      "time": "06:57",
-      "title": "中野でまた高級時計窃盗 男が逃走",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600629?source=rss",
-      "publishedAt": "2026-10-29T21:57:29.000Z",
-      "xQuery": "中野でまた高級時計窃盗 男が逃走"
-    },
-    {
       "time": "07:40",
       "title": "NVIDIAトップに中国工作員接近か",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6600632?source=rss",
       "publishedAt": "2026-10-29T22:40:32.000Z",
       "xQuery": "NVIDIAトップに中国工作員接近か"
+    },
+    {
+      "time": "08:05",
+      "title": "名古屋で母娘刺され重傷か 男逃走",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6600638?source=rss",
+      "publishedAt": "2026-10-29T23:05:54.000Z",
+      "xQuery": "名古屋で母娘刺され重傷か 男逃走"
     },
     {
       "time": "06:12",
