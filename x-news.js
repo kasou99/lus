@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-29T12:41:35.882Z",
+  "updatedAt": "2026-10-29T13:13:51.084Z",
   "items": [
     {
-      "time": "18:13",
-      "title": "今夏大雨3件は温暖化が影響 分析",
+      "time": "21:52",
+      "title": "電気ガス代補助 12月-来年2月実施",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600581?source=rss",
-      "publishedAt": "2026-10-29T09:13:16.000Z",
-      "xQuery": "今夏大雨3件は温暖化が影響 分析"
+      "url": "https://news.yahoo.co.jp/pickup/6600608?source=rss",
+      "publishedAt": "2026-10-29T12:52:41.000Z",
+      "xQuery": "電気ガス代補助 12月-来年2月実施"
     },
     {
       "time": "19:39",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "中部電 27年3月期の特損3800億円"
     },
     {
+      "time": "21:56",
+      "title": "ネパール高峰で発見の2遺体は邦人",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6600609?source=rss",
+      "publishedAt": "2026-10-29T12:56:29.000Z",
+      "xQuery": "ネパール高峰で発見の2遺体は邦人"
+    },
+    {
       "time": "21:16",
       "title": "3小学校293人 給食後嘔吐など発症",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6600605?source=rss",
       "publishedAt": "2026-10-29T12:16:09.000Z",
       "xQuery": "3小学校293人 給食後嘔吐など発症"
-    },
-    {
-      "time": "18:21",
-      "title": "上半期世界販売 スズキが国内2位",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600585?source=rss",
-      "publishedAt": "2026-10-29T09:21:24.000Z",
-      "xQuery": "上半期世界販売 スズキが国内2位"
     },
     {
       "time": "20:48",
