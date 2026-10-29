@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-10-29T08:17:55.001Z",
+  "updatedAt": "2026-10-29T08:38:07.801Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "17:32",
+        "title": "ジェイテクト、工作機械サービス強化へ子会社吸収",
+        "source": "LOGISTICS TODAY",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB5eWRfZmJjRDJLS1h2TVpwcW5SeURVcE9MTE1rMWNMNVpjSjdWV3NOUmdPLVV3akZLcS01R25RTG5jZ3FZYzFVeEhR?oc=5",
+        "publishedAt": "2026-10-29T08:32:52.000Z"
+      },
+      {
+        "time": "17:30",
+        "title": "熟練工の技、AIで 工作機械のオークマやマザックが導入の動き",
+        "source": "日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ZY0Fxb2xILUxBMWNCcVpSUHpnUGF0SHdFc1ZRRWtMbkZmN0tJWUwyWERtelpBZ3V0WWZTZHZELVE5bjdVZ3RfTjRNZG9kcWtHY1JWT0JIbnBSLURHWlJQb0gzbE01a3RpbnNtdQ?oc=5",
+        "publishedAt": "2026-10-29T08:30:00.000Z"
+      },
       {
         "time": "09:56",
         "title": "AI・新エネルギー需要で中国製工作機械の受注が来年第2四半期まで埋まる",
@@ -15,13 +29,6 @@
         "source": "MONOist",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBTblZMYkxXb2JheUJJMjE0VjdJNF9vOXJfYVZCTDRNajF3WWgzOWp5WEhDZ3ZjSDE1UlFtNEZxY3BNUUpNaTRZT2QyWjV5QnktVTFuak93cUcwX0Vxek00TnVRNmM0YmZDbXdrTU5tZw?oc=5",
         "publishedAt": "2026-10-28T21:15:00.000Z"
-      },
-      {
-        "time": "05:00",
-        "title": "工作機械首位の独トルンプ、AI半導体を巧みに開拓 レーザー生産2倍に",
-        "source": "日本経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBPTGlFQk5wLVByM0M4RnRmTW5uTEJjOUtjREdWcDMwdFdoRnNfWjQtM3lGT0RlZ25hQlgxejlvOTBPVnVJM0RYUHNIX1lWNzFQSVB6VlhFZEhvRXY1eGRXdmIwWDVNcm9SVjVPcA?oc=5",
-        "publishedAt": "2026-10-28T20:00:00.000Z"
       },
       {
         "time": "13:54",
@@ -50,13 +57,6 @@
         "source": "北國新聞",
         "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9NV2s4aXJLUWk4TWp6VVJzSzJwMk1fbkJlQ0xoWUtIWHl4aEczakg3eVFxU3NjZmp4YlNNV2Q1NS12cE0weENycy1VMl9ZSDZVNTFPZHRJcw?oc=5",
         "publishedAt": "2026-10-28T20:00:00.000Z"
-      },
-      {
-        "time": "10:00",
-        "title": "信頼と実績のフジタ製スライド機構を採用！ 名古屋ボデーがUDクオンをベースに製作したこだわり満載の大型平ボディに迫る！ - https://fullload.bestcarweb.jp/",
-        "source": "https://fullload.bestcarweb.jp/",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9VZzAwZHF4X0xhZWVYYWhFbmRsdTVCYmI5Zi14LVNsWUdrN1RfeklYUzdRUjc4dUY2UTJ5RmR0NjgwaTdLdlJmX0tYOUlFVmM0NEtYS0F4RGY?oc=5",
-        "publishedAt": "2026-10-29T01:00:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -75,11 +75,11 @@
         "publishedAt": "2026-10-29T04:29:48.000Z"
       },
       {
-        "time": "10:10",
-        "title": "スペイン事故 乗客名簿に邦人2人",
+        "time": "17:20",
+        "title": "スペイン事故 邦人2人連絡つかず",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600517?source=rss",
-        "publishedAt": "2026-10-29T01:10:01.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6600571?source=rss",
+        "publishedAt": "2026-10-29T08:20:14.000Z"
       },
       {
         "time": "08:03",
@@ -170,13 +170,6 @@
         "publishedAt": "2026-10-29T07:18:17.000Z"
       },
       {
-        "time": "15:42",
-        "title": "事故はずみで車衝突 歩道男性重体",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600557?source=rss",
-        "publishedAt": "2026-10-29T06:42:13.000Z"
-      },
-      {
         "time": "14:52",
         "title": "銀座の異臭騒ぎ 傷害疑いで男逮捕",
         "source": "Yahoo!ニュース",
@@ -189,6 +182,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6600565?source=rss",
         "publishedAt": "2026-10-29T07:46:28.000Z"
+      },
+      {
+        "time": "13:52",
+        "title": "ピアニスト反田恭平被告 有罪判決",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6600546?source=rss",
+        "publishedAt": "2026-10-29T04:52:38.000Z"
       }
     ],
     "subsidyHeadlines": [

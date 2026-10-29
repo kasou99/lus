@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-29T08:17:55.588Z",
+  "updatedAt": "2026-10-29T08:38:08.389Z",
   "items": [
     {
       "time": "16:08",
@@ -18,6 +18,14 @@ window.LUS_X_NEWS = {
       "xQuery": "GMOサイバー攻撃 捜査の焦点は"
     },
     {
+      "time": "17:20",
+      "title": "スペイン事故 邦人2人連絡つかず",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6600571?source=rss",
+      "publishedAt": "2026-10-29T08:20:14.000Z",
+      "xQuery": "スペイン事故 邦人2人連絡つかず"
+    },
+    {
       "time": "16:58",
       "title": "韓国・尹前大統領に再び死刑求刑",
       "source": "Yahoo!ニュース",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6600551?source=rss",
       "publishedAt": "2026-10-29T05:52:56.000Z",
       "xQuery": "銀座の異臭騒ぎ 傷害疑いで男逮捕"
-    },
-    {
-      "time": "11:18",
-      "title": "新型パジェロ予約受注 年度目標超",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600522?source=rss",
-      "publishedAt": "2026-10-29T02:18:32.000Z",
-      "xQuery": "新型パジェロ予約受注 年度目標超"
     }
   ]
 };
