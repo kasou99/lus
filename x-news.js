@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-29T03:37:30.627Z",
+  "updatedAt": "2026-10-29T04:15:47.808Z",
   "items": [
+    {
+      "time": "12:46",
+      "title": "北が発射 弾道ミサイルの可能性",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6600535?source=rss",
+      "publishedAt": "2026-10-29T03:46:47.000Z",
+      "xQuery": "北が発射 弾道ミサイルの可能性"
+    },
     {
       "time": "12:01",
       "title": "衆院比例議席減 自維国が正式合意",
@@ -10,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "衆院比例議席減 自維国が正式合意"
     },
     {
-      "time": "10:13",
-      "title": "燃料油補助 予算累計10兆円超に",
+      "time": "12:58",
+      "title": "GMO社長「犯人特定の有力情報」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600518?source=rss",
-      "publishedAt": "2026-10-29T01:13:27.000Z",
-      "xQuery": "燃料油補助 予算累計10兆円超に"
+      "url": "https://news.yahoo.co.jp/pickup/6600536?source=rss",
+      "publishedAt": "2026-10-29T03:58:34.000Z",
+      "xQuery": "GMO社長「犯人特定の有力情報」"
     },
     {
       "time": "12:24",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6600523?source=rss",
       "publishedAt": "2026-10-29T02:25:34.000Z",
       "xQuery": "竹中工務店元社員 起訴内容認める"
-    },
-    {
-      "time": "09:35",
-      "title": "盗撮「カメレオンカメラ」巧妙化",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600512?source=rss",
-      "publishedAt": "2026-10-29T00:35:20.000Z",
-      "xQuery": "盗撮「カメレオンカメラ」巧妙化"
     }
   ]
 };

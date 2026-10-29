@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T03:37:30.024Z",
+  "updatedAt": "2026-10-29T04:15:46.721Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -24,11 +24,11 @@
         "publishedAt": "2026-10-28T21:15:00.000Z"
       },
       {
-        "time": "10:00",
-        "title": "信頼と実績のフジタ製スライド機構を採用！ 名古屋ボデーがUDクオンをベースに製作したこだわり満載の大型平ボディに迫る！ - https://fullload.bestcarweb.jp/",
-        "source": "https://fullload.bestcarweb.jp/",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9VZzAwZHF4X0xhZWVYYWhFbmRsdTVCYmI5Zi14LVNsWUdrN1RfeklYUzdRUjc4dUY2UTJ5RmR0NjgwaTdLdlJmX0tYOUlFVmM0NEtYS0F4RGY?oc=5",
-        "publishedAt": "2026-10-29T01:00:00.000Z"
+        "time": "12:39",
+        "title": "10月28日、東京ビッグサイトで開催されている「第33回日本国際工作機械見本市（JIMTOF2...",
+        "source": "選挙ドットコム",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBBRUhFUEJNMU9lZUxnWUZkZGJDZEtxXzRLMDNpREhhNW5rVXVCazFYZWJMQ096NmZDLVZYSllMb1N0VlpnSWZTNlU4ZU5HSEdVaWFqSFprODEySlJ5VWNR?oc=5",
+        "publishedAt": "2026-10-29T03:39:30.000Z"
       },
       {
         "time": "14:45",
@@ -52,14 +52,21 @@
         "publishedAt": "2026-10-28T06:40:32.000Z"
       },
       {
-        "time": "17:59",
-        "title": "６年ぶりにミラノで開催 「EMO MILANO 2027」が出展申込みを開始",
-        "source": "イベスル",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ZdU8tZG5GeGVkTHotNDFsSkNhMHZYOC1sMThwVGZvTlVoU1IySjBoNktOZmFPaFlNNlRUNzRlVlhTejlVYURpMENPLWhFSV9RZTdXZWJn?oc=5",
-        "publishedAt": "2026-10-28T08:59:11.000Z"
+        "time": "13:31",
+        "title": "パナソニック株式会社が設備保全クラウド「M2X」を導入",
+        "source": "朝日新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxeGQtLVZobGpnR0R3MXNLZjFFSUF5SFJrWk9fTkd4cXJ2R0FvUVZvNnFpdFJ1QW9CUDVjTl91YlRNek96WndZQW00SWVLTG5ZcmdzTXRCSDZCd0U?oc=5",
+        "publishedAt": "2026-10-28T04:31:01.000Z"
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "12:46",
+        "title": "北が発射 弾道ミサイルの可能性",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6600535?source=rss",
+        "publishedAt": "2026-10-29T03:46:47.000Z"
+      },
       {
         "time": "10:10",
         "title": "スペイン事故 乗客名簿に邦人2人",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6600410?source=rss",
         "publishedAt": "2026-10-28T03:19:24.000Z"
-      },
-      {
-        "time": "09:45",
-        "title": "米とキューバ 国連で怒声の応酬",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600382?source=rss",
-        "publishedAt": "2026-10-28T00:45:41.000Z"
       }
     ],
     "economyHeadlines": [
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "13:10",
+        "title": "餃子の王将社長射殺 検察側が控訴",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6600537?source=rss",
+        "publishedAt": "2026-10-29T04:10:22.000Z"
+      },
+      {
         "time": "06:39",
         "title": "他県警でも失効免許不正流用 証言",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6600442?source=rss",
         "publishedAt": "2026-10-28T07:55:45.000Z"
-      },
-      {
-        "time": "16:27",
-        "title": "つるされた鉄の棒が直撃 意識不明",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600437?source=rss",
-        "publishedAt": "2026-10-28T07:27:07.000Z"
       }
     ],
     "subsidyHeadlines": [
