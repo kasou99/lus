@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-29T07:14:53.341Z",
+  "updatedAt": "2026-10-29T07:35:53.732Z",
   "items": [
     {
       "time": "16:08",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "GMOサイバー攻撃 捜査の焦点は"
     },
     {
+      "time": "16:18",
+      "title": "元検事正に保釈許可 性的暴行事件",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6600562?source=rss",
+      "publishedAt": "2026-10-29T07:18:17.000Z",
+      "xQuery": "元検事正に保釈許可 性的暴行事件"
+    },
+    {
       "time": "14:52",
       "title": "銀座の異臭騒ぎ 傷害疑いで男逮捕",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6600551?source=rss",
       "publishedAt": "2026-10-29T05:52:56.000Z",
       "xQuery": "銀座の異臭騒ぎ 傷害疑いで男逮捕"
-    },
-    {
-      "time": "15:42",
-      "title": "事故はずみで車衝突 歩道男性重体",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600557?source=rss",
-      "publishedAt": "2026-10-29T06:42:13.000Z",
-      "xQuery": "事故はずみで車衝突 歩道男性重体"
     },
     {
       "time": "14:07",

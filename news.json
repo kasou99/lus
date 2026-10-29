@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T07:14:52.364Z",
+  "updatedAt": "2026-10-29T07:35:53.137Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,25 +38,25 @@
         "publishedAt": "2026-10-29T03:39:30.000Z"
       },
       {
+        "time": "14:42",
+        "title": "国立昌原大学がグローバル工作機械専門企業のDNソリューションズと手を取り合い、オーダーメイド型優秀人材の養成と就職支援に乗り出す。国立昌原大学は最近、慶尚南道昌原に本社を置くDNソリューションズと業務..",
+        "source": "매일경제",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5rY25LSThUelRBclRTcUs2dHpqNC1JY3lncF9KU2dmd29TUktCZS1JQzVzbVlMd1VjOGNGeU82RVBaS1REYzdMOV9nZW1UY1UxaEE?oc=5",
+        "publishedAt": "2026-10-29T05:42:01.000Z"
+      },
+      {
+        "time": "10:00",
+        "title": "信頼と実績のフジタ製スライド機構を採用！ 名古屋ボデーがUDクオンをベースに製作したこだわり満載の大型平ボディに迫る！ - https://fullload.bestcarweb.jp/",
+        "source": "https://fullload.bestcarweb.jp/",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9VZzAwZHF4X0xhZWVYYWhFbmRsdTVCYmI5Zi14LVNsWUdrN1RfeklYUzdRUjc4dUY2UTJ5RmR0NjgwaTdLdlJmX0tYOUlFVmM0NEtYS0F4RGY?oc=5",
+        "publishedAt": "2026-10-29T01:00:00.000Z"
+      },
+      {
         "time": "03:15",
         "title": "次世代設備保全クラウドの株式会社M2X、三和罐詰株式会社の導入事例を公開",
         "source": "ニコニコニュース",
         "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9pa19XYXFJdUZfYndGMFhGSnlGU3R5MmRiaWRDVy0zc0RrMkdyLXN4MGNvUWZmaXNqRHRzdVgxWG16T0dnc3g5c1BDN0M4UEVBUFVFc2RWOFZiZjFkaDJOQmVGQ0hYblZUSEhvNEgxSXRJNnZEWGw4?oc=5",
         "publishedAt": "2026-10-28T18:15:21.000Z"
-      },
-      {
-        "time": "13:00",
-        "title": "インフラで培われた京大発の劣化予測技術を設備保全の現場へ、「MENTENA」で社会実装 点検データから設備の劣化進行を予測し、最適な保全活動を実現",
-        "source": "PR TIMES",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0zckdZb2hlRzN5UEpoLWwtdFZVSjc3WUc0NjV1VjZwSEFBWE0xalljWGJYZWU2NTlhQXB2RWVMOEd0S0FTcnVvNVZmQWJVcXgyVk9tOTBoek1nRERjbHFxazNsaDM5UE9mOEE?oc=5",
-        "publishedAt": "2026-10-29T04:00:01.000Z"
-      },
-      {
-        "time": "17:59",
-        "title": "６年ぶりにミラノで開催 「EMO MILANO 2027」が出展申込みを開始",
-        "source": "イベスル",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ZdU8tZG5GeGVkTHotNDFsSkNhMHZYOC1sMThwVGZvTlVoU1IySjBoNktOZmFPaFlNNlRUNzRlVlhTejlVYURpMENPLWhFSV9RZTdXZWJn?oc=5",
-        "publishedAt": "2026-10-28T08:59:11.000Z"
       }
     ],
     "worldHeadlines": [
@@ -170,6 +170,13 @@
         "publishedAt": "2026-10-29T05:25:51.000Z"
       },
       {
+        "time": "16:18",
+        "title": "元検事正に保釈許可 性的暴行事件",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6600562?source=rss",
+        "publishedAt": "2026-10-29T07:18:17.000Z"
+      },
+      {
         "time": "15:42",
         "title": "事故はずみで車衝突 歩道男性重体",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6600551?source=rss",
         "publishedAt": "2026-10-29T05:52:56.000Z"
-      },
-      {
-        "time": "13:52",
-        "title": "ピアニスト反田恭平被告 有罪判決",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600546?source=rss",
-        "publishedAt": "2026-10-29T04:52:38.000Z"
       }
     ],
     "subsidyHeadlines": [
