@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-29T04:37:03.114Z",
+  "updatedAt": "2026-10-29T05:13:36.646Z",
   "items": [
     {
       "time": "13:29",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "性別変更を暴露 市議に賠償命令"
     },
     {
-      "time": "11:25",
-      "title": "竹中工務店元社員 起訴内容認める",
+      "time": "13:52",
+      "title": "ピアニスト反田恭平被告 有罪判決",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600523?source=rss",
-      "publishedAt": "2026-10-29T02:25:34.000Z",
-      "xQuery": "竹中工務店元社員 起訴内容認める"
+      "url": "https://news.yahoo.co.jp/pickup/6600546?source=rss",
+      "publishedAt": "2026-10-29T04:52:38.000Z",
+      "xQuery": "ピアニスト反田恭平被告 有罪判決"
     }
   ]
 };

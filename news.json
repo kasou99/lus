@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-10-29T04:37:02.287Z",
+  "updatedAt": "2026-10-29T05:13:35.925Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "09:56",
+        "title": "AI・新エネルギー需要で中国製工作機械の受注が来年第2四半期まで埋まる",
+        "source": "BigGo ファイナンス",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE85TUNORURqd3lrSkdIMGpfbkhCSXZSN2E4bmdTZTdOdExVTExSUVJHeEVsQ1RNSHo5MVpfYUZ4QWVwSUQzZHBrX29feXlfOFJ6U0ZpU29TWDV1YWs3c2tEdTQ5TkYzX0c4b2dkUmVjTlBSY091?oc=5",
+        "publishedAt": "2026-10-29T00:56:00.000Z"
+      },
       {
         "time": "06:15",
         "title": "しゃべるNCとエラーに対処、後で要約も確認 マザックが“声”生かすAI活用：JIMTOF2026",
@@ -17,11 +24,11 @@
         "publishedAt": "2026-10-28T20:00:00.000Z"
       },
       {
-        "time": "09:56",
-        "title": "AI・新エネルギー需要で中国製工作機械の受注が来年第2四半期まで埋まる",
-        "source": "BigGo ファイナンス",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE85TUNORURqd3lrSkdIMGpfbkhCSXZSN2E4bmdTZTdOdExVTExSUVJHeEVsQ1RNSHo5MVpfYUZ4QWVwSUQzZHBrX29feXlfOFJ6U0ZpU29TWDV1YWs3c2tEdTQ5TkYzX0c4b2dkUmVjTlBSY091?oc=5",
-        "publishedAt": "2026-10-29T00:56:00.000Z"
+        "time": "13:54",
+        "title": "産業機械、工作機械部品製造のKT商事が特別精算開始命令 負債約8300万円 – kenoh.com",
+        "source": "kenoh.com",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE44bEcxVmV6X1h3dUR5bTRZaXNRZ01FeDNiZUZHbmowb2VnV1hfNFBGbDg2OEJ0djBBNVRZTWxKTTBQSThRMXZzNXBR?oc=5",
+        "publishedAt": "2026-10-29T04:54:27.000Z"
       },
       {
         "time": "12:39",
@@ -31,18 +38,11 @@
         "publishedAt": "2026-10-29T03:39:30.000Z"
       },
       {
-        "time": "10:00",
-        "title": "信頼と実績のフジタ製スライド機構を採用！ 名古屋ボデーがUDクオンをベースに製作したこだわり満載の大型平ボディに迫る！ - https://fullload.bestcarweb.jp/",
-        "source": "https://fullload.bestcarweb.jp/",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9VZzAwZHF4X0xhZWVYYWhFbmRsdTVCYmI5Zi14LVNsWUdrN1RfeklYUzdRUjc4dUY2UTJ5RmR0NjgwaTdLdlJmX0tYOUlFVmM0NEtYS0F4RGY?oc=5",
-        "publishedAt": "2026-10-29T01:00:00.000Z"
-      },
-      {
-        "time": "05:00",
-        "title": "ロボと匠、“きさげ”連携 JIMTOF2026",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE90dXJ4Tm9kTEdEcGpjTEZWOVhBMDhUZW4xVlA4ajlyTC1wUGNqM3otVlRWNXlzQS1YLWl0bmRaMXBBM2dwRkxheHNqUmhwbmZ2QWZBTlRFY0w?oc=5",
-        "publishedAt": "2026-10-28T20:00:00.000Z"
+        "time": "03:15",
+        "title": "次世代設備保全クラウドの株式会社M2X、三和罐詰株式会社の導入事例を公開",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9pa19XYXFJdUZfYndGMFhGSnlGU3R5MmRiaWRDVy0zc0RrMkdyLXN4MGNvUWZmaXNqRHRzdVgxWG16T0dnc3g5c1BDN0M4UEVBUFVFc2RWOFZiZjFkaDJOQmVGQ0hYblZUSEhvNEgxSXRJNnZEWGw4?oc=5",
+        "publishedAt": "2026-10-28T18:15:21.000Z"
       },
       {
         "time": "14:45",
@@ -52,11 +52,11 @@
         "publishedAt": "2026-10-28T05:45:17.000Z"
       },
       {
-        "time": "03:15",
-        "title": "次世代設備保全クラウドの株式会社M2X、三和罐詰株式会社の導入事例を公開",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9pa19XYXFJdUZfYndGMFhGSnlGU3R5MmRiaWRDVy0zc0RrMkdyLXN4MGNvUWZmaXNqRHRzdVgxWG16T0dnc3g5c1BDN0M4UEVBUFVFc2RWOFZiZjFkaDJOQmVGQ0hYblZUSEhvNEgxSXRJNnZEWGw4?oc=5",
-        "publishedAt": "2026-10-28T18:15:21.000Z"
+        "time": "15:40",
+        "title": "日本精工、工作機械向け新型スピンドルを開発 振動抑制し高効率加工を実現",
+        "source": "電波新聞デジタル",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1fYkExVDl5S3ZISWNscnZnNmctTUJjQnpXelRiazZibjZWdFdQdENUcUdOUnpGYVE1MWJFTi1BTGk0U01DSk1BOUZqRlZzb1JRZ3c?oc=5",
+        "publishedAt": "2026-10-28T06:40:32.000Z"
       }
     ],
     "worldHeadlines": [
@@ -177,18 +177,18 @@
         "publishedAt": "2026-10-28T14:35:07.000Z"
       },
       {
-        "time": "21:44",
-        "title": "検察側が異例の求刑訂正 地検謝罪",
+        "time": "13:52",
+        "title": "ピアニスト反田恭平被告 有罪判決",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600477?source=rss",
-        "publishedAt": "2026-10-28T12:44:47.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6600546?source=rss",
+        "publishedAt": "2026-10-29T04:52:38.000Z"
       },
       {
-        "time": "16:55",
-        "title": "呼吸器具抜き妻を殺害疑い 夫逮捕",
+        "time": "14:07",
+        "title": "原口一博元議員に賠償命令 地裁",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600442?source=rss",
-        "publishedAt": "2026-10-28T07:55:45.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6600547?source=rss",
+        "publishedAt": "2026-10-29T05:07:00.000Z"
       }
     ],
     "subsidyHeadlines": [
