@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T22:36:36.357Z",
+  "updatedAt": "2026-10-29T23:11:45.342Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -8,6 +8,13 @@
         "source": "日本経済新聞",
         "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOaWNfUG42aTU0eDVmY0RieFZKUlpnSUszeXo0ME4tRmMtS0pDZ3MwdnM4WHRfUHJZZ3FjX0JEY0VoWDRQeWZMYTZOMUtjNlZkTTNPWDRrRUMtOWcxVk9lc3R4azNVWHNTUGlPWm9nVmxid0hxdHNJYWJwLWUxeW0xR2d0NW1sUEU?oc=5",
         "publishedAt": "2026-10-29T20:00:00.000Z"
+      },
+      {
+        "time": "07:15",
+        "title": "3D造形で40％軽量化、ヒューマノイド連携も シーメンスが描く次世代DX：JIMTOF2026",
+        "source": "MONOist",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBMTUs1eGtMb2ZQRUdFZi15MWd1X3FDVml5VFhFR2kxUVBQeGo5cDh1QUlmcmtmcUY4cERhTm4tTFJHYTRSNmlLbkpFVjNfQzk1U0tGZURkOHEya21hbU96NWh3a2tvb0ZqMUppclBoWQ?oc=5",
+        "publishedAt": "2026-10-29T22:15:00.000Z"
       },
       {
         "time": "07:06",
@@ -22,6 +29,13 @@
         "source": "LOGISTICS TODAY",
         "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB5eWRfZmJjRDJLS1h2TVpwcW5SeURVcE9MTE1rMWNMNVpjSjdWV3NOUmdPLVV3akZLcS01R25RTG5jZ3FZYzFVeEhR?oc=5",
         "publishedAt": "2026-10-29T08:32:52.000Z"
+      },
+      {
+        "time": "05:00",
+        "title": "JIMTOF、企業と接点 大学・工業系高校が成果",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5HN1Uzb2NCUEJiNHRoOUlSU0Z3ZTJSeGU3bk5yeEdGR2RjLXh4bnlvcmlpaG0ybjRuMV9RVkVmM0NHOGNfRHpoUkpweVRnTWhyRkVxeE51MTA?oc=5",
+        "publishedAt": "2026-10-29T20:00:00.000Z"
       },
       {
         "time": "20:25",
@@ -43,36 +57,22 @@
         "source": "kenoh.com",
         "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE44bEcxVmV6X1h3dUR5bTRZaXNRZ01FeDNiZUZHbmowb2VnV1hfNFBGbDg2OEJ0djBBNVRZTWxKTTBQSThRMXZzNXBR?oc=5",
         "publishedAt": "2026-10-29T04:54:27.000Z"
-      },
-      {
-        "time": "17:30",
-        "title": "熟練工の技、AIで 工作機械のオークマやマザックが導入の動き",
-        "source": "日本経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ZY0Fxb2xILUxBMWNCcVpSUHpnUGF0SHdFc1ZRRWtMbkZmN0tJWUwyWERtelpBZ3V0WWZTZHZELVE5bjdVZ3RfTjRNZG9kcWtHY1JWT0JIbnBSLURHWlJQb0gzbE01a3RpbnNtdQ?oc=5",
-        "publishedAt": "2026-10-29T08:30:00.000Z"
-      },
-      {
-        "time": "12:39",
-        "title": "10月28日、東京ビッグサイトで開催されている「第33回日本国際工作機械見本市（JIMTOF2...",
-        "source": "選挙ドットコム",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBBRUhFUEJNMU9lZUxnWUZkZGJDZEtxXzRLMDNpREhhNW5rVXVCazFYZWJMQ096NmZDLVZYSllMb1N0VlpnSWZTNlU4ZU5HSEdVaWFqSFprODEySlJ5VWNR?oc=5",
-        "publishedAt": "2026-10-29T03:39:30.000Z"
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "07:40",
+        "title": "NVIDIAトップに中国工作員接近か",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6600632?source=rss",
+        "publishedAt": "2026-10-29T22:40:32.000Z"
+      },
       {
         "time": "20:03",
         "title": "スペインの列車事故 死者69人に",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6600595?source=rss",
         "publishedAt": "2026-10-29T11:03:46.000Z"
-      },
-      {
-        "time": "17:20",
-        "title": "スペイン事故 邦人2人連絡つかず",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600571?source=rss",
-        "publishedAt": "2026-10-29T08:20:14.000Z"
       },
       {
         "time": "21:56",
@@ -126,13 +126,6 @@
         "publishedAt": "2026-10-29T10:39:54.000Z"
       },
       {
-        "time": "22:14",
-        "title": "天丼てんや 2カ月連続で客約1割減",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600612?source=rss",
-        "publishedAt": "2026-10-29T13:14:19.000Z"
-      },
-      {
         "time": "19:04",
         "title": "11月電気代 大手7社で過去最高値",
         "source": "Yahoo!ニュース",
@@ -140,11 +133,18 @@
         "publishedAt": "2026-10-29T10:04:21.000Z"
       },
       {
-        "time": "18:21",
-        "title": "上半期世界販売 スズキが国内2位",
+        "time": "08:04",
+        "title": "株価崩れない「ホンダ」の強み",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600585?source=rss",
-        "publishedAt": "2026-10-29T09:21:24.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6600635?source=rss",
+        "publishedAt": "2026-10-29T23:04:02.000Z"
+      },
+      {
+        "time": "22:14",
+        "title": "天丼てんや 2カ月連続で客約1割減",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6600612?source=rss",
+        "publishedAt": "2026-10-29T13:14:19.000Z"
       }
     ],
     "localHeadlines": [
@@ -170,18 +170,18 @@
         "publishedAt": "2026-10-29T21:02:40.000Z"
       },
       {
+        "time": "08:05",
+        "title": "名古屋で母娘刺され重傷か 男逃走",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6600638?source=rss",
+        "publishedAt": "2026-10-29T23:05:54.000Z"
+      },
+      {
         "time": "06:57",
         "title": "中野でまた高級時計窃盗 男が逃走",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6600629?source=rss",
         "publishedAt": "2026-10-29T21:57:29.000Z"
-      },
-      {
-        "time": "21:16",
-        "title": "3小学校293人 給食後嘔吐など発症",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600605?source=rss",
-        "publishedAt": "2026-10-29T12:16:09.000Z"
       },
       {
         "time": "20:48",

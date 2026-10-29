@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-29T22:36:37.427Z",
+  "updatedAt": "2026-10-29T23:11:46.183Z",
   "items": [
     {
-      "time": "06:44",
-      "title": "習近平総書記 4期目入りが濃厚",
+      "time": "07:29",
+      "title": "ガソリン補助金 12月から段階縮小",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600628?source=rss",
-      "publishedAt": "2026-10-29T21:44:25.000Z",
-      "xQuery": "習近平総書記 4期目入りが濃厚"
+      "url": "https://news.yahoo.co.jp/pickup/6600631?source=rss",
+      "publishedAt": "2026-10-29T22:29:44.000Z",
+      "xQuery": "ガソリン補助金 12月から段階縮小"
     },
     {
       "time": "06:57",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "中野でまた高級時計窃盗 男が逃走"
     },
     {
-      "time": "23:57",
-      "title": "欧州中銀 2会合ぶり金利据え置き",
+      "time": "07:40",
+      "title": "NVIDIAトップに中国工作員接近か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600623?source=rss",
-      "publishedAt": "2026-10-29T14:57:12.000Z",
-      "xQuery": "欧州中銀 2会合ぶり金利据え置き"
+      "url": "https://news.yahoo.co.jp/pickup/6600632?source=rss",
+      "publishedAt": "2026-10-29T22:40:32.000Z",
+      "xQuery": "NVIDIAトップに中国工作員接近か"
     },
     {
       "time": "06:12",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "八田與一容疑者の鮮明な写真公開"
     },
     {
-      "time": "22:14",
-      "title": "天丼てんや 2カ月連続で客約1割減",
+      "time": "07:49",
+      "title": "ナップザック 中高生になぜ人気",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600612?source=rss",
-      "publishedAt": "2026-10-29T13:14:19.000Z",
-      "xQuery": "天丼てんや 2カ月連続で客約1割減"
+      "url": "https://news.yahoo.co.jp/pickup/6600634?source=rss",
+      "publishedAt": "2026-10-29T22:49:30.000Z",
+      "xQuery": "ナップザック 中高生になぜ人気"
     }
   ]
 };
