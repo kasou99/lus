@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T08:38:07.801Z",
+  "updatedAt": "2026-10-29T09:14:56.452Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -75,6 +75,13 @@
         "publishedAt": "2026-10-29T04:29:48.000Z"
       },
       {
+        "time": "18:04",
+        "title": "韓国で日本人女性殺害疑い 男拘束",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6600577?source=rss",
+        "publishedAt": "2026-10-29T09:04:28.000Z"
+      },
+      {
         "time": "17:20",
         "title": "スペイン事故 邦人2人連絡つかず",
         "source": "Yahoo!ニュース",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6600507?source=rss",
         "publishedAt": "2026-10-28T23:46:08.000Z"
-      },
-      {
-        "time": "12:19",
-        "title": "ボルソナロ氏の入国 米が許可",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600410?source=rss",
-        "publishedAt": "2026-10-28T03:19:24.000Z"
       }
     ],
     "economyHeadlines": [
@@ -149,13 +149,6 @@
     ],
     "localHeadlines": [
       {
-        "time": "15:29",
-        "title": "モスク放火の男に拘禁刑6年6カ月",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600555?source=rss",
-        "publishedAt": "2026-10-29T06:29:44.000Z"
-      },
-      {
         "time": "16:47",
         "title": "首都圏強盗 実行役2人に無期求刑",
         "source": "Yahoo!ニュース",
@@ -170,6 +163,13 @@
         "publishedAt": "2026-10-29T07:18:17.000Z"
       },
       {
+        "time": "17:54",
+        "title": "救助向かい土砂に埋まる 男性死亡",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6600579?source=rss",
+        "publishedAt": "2026-10-29T08:54:36.000Z"
+      },
+      {
         "time": "14:52",
         "title": "銀座の異臭騒ぎ 傷害疑いで男逮捕",
         "source": "Yahoo!ニュース",
@@ -177,11 +177,11 @@
         "publishedAt": "2026-10-29T05:52:56.000Z"
       },
       {
-        "time": "16:46",
-        "title": "下水管の工事中に土砂崩れか 死亡",
+        "time": "18:06",
+        "title": "「水没ペンション村」近隣の悩み",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600565?source=rss",
-        "publishedAt": "2026-10-29T07:46:28.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6600580?source=rss",
+        "publishedAt": "2026-10-29T09:06:20.000Z"
       },
       {
         "time": "13:52",

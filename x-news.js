@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-29T08:38:08.389Z",
+  "updatedAt": "2026-10-29T09:14:57.356Z",
   "items": [
     {
       "time": "16:08",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "ANA AIRDOなど完全子会社化へ"
     },
     {
-      "time": "13:56",
-      "title": "GMOサイバー攻撃 捜査の焦点は",
+      "time": "16:47",
+      "title": "首都圏強盗 実行役2人に無期求刑",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600531?source=rss",
-      "publishedAt": "2026-10-29T04:56:54.000Z",
-      "xQuery": "GMOサイバー攻撃 捜査の焦点は"
+      "url": "https://news.yahoo.co.jp/pickup/6600564?source=rss",
+      "publishedAt": "2026-10-29T07:47:50.000Z",
+      "xQuery": "首都圏強盗 実行役2人に無期求刑"
     },
     {
       "time": "17:20",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "韓国・尹前大統領に再び死刑求刑"
     },
     {
-      "time": "14:52",
-      "title": "銀座の異臭騒ぎ 傷害疑いで男逮捕",
+      "time": "17:54",
+      "title": "救助向かい土砂に埋まる 男性死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600551?source=rss",
-      "publishedAt": "2026-10-29T05:52:56.000Z",
-      "xQuery": "銀座の異臭騒ぎ 傷害疑いで男逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6600579?source=rss",
+      "publishedAt": "2026-10-29T08:54:36.000Z",
+      "xQuery": "救助向かい土砂に埋まる 男性死亡"
     }
   ]
 };
