@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-29T12:20:06.431Z",
+  "updatedAt": "2026-10-29T12:41:35.882Z",
   "items": [
     {
       "time": "18:13",
@@ -18,6 +18,14 @@ window.LUS_X_NEWS = {
       "xQuery": "中部電 27年3月期の特損3800億円"
     },
     {
+      "time": "21:16",
+      "title": "3小学校293人 給食後嘔吐など発症",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6600605?source=rss",
+      "publishedAt": "2026-10-29T12:16:09.000Z",
+      "xQuery": "3小学校293人 給食後嘔吐など発症"
+    },
+    {
       "time": "18:21",
       "title": "上半期世界販売 スズキが国内2位",
       "source": "Yahoo!ニュース",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6600597?source=rss",
       "publishedAt": "2026-10-29T11:48:15.000Z",
       "xQuery": "無免許で169人に医療行為 懲役5年"
-    },
-    {
-      "time": "18:41",
-      "title": "作家の如月美樹さん 今年9月死去",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600587?source=rss",
-      "publishedAt": "2026-10-29T09:41:43.000Z",
-      "xQuery": "作家の如月美樹さん 今年9月死去"
     }
   ]
 };
