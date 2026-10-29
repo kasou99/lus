@@ -1,14 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-29T22:12:13.930Z",
+  "updatedAt": "2026-10-29T22:36:37.427Z",
   "items": [
-    {
-      "time": "23:57",
-      "title": "欧州中銀 2会合ぶり金利据え置き",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600623?source=rss",
-      "publishedAt": "2026-10-29T14:57:12.000Z",
-      "xQuery": "欧州中銀 2会合ぶり金利据え置き"
-    },
     {
       "time": "06:44",
       "title": "習近平総書記 4期目入りが濃厚",
@@ -18,20 +10,28 @@ window.LUS_X_NEWS = {
       "xQuery": "習近平総書記 4期目入りが濃厚"
     },
     {
-      "time": "06:12",
-      "title": "八田與一容疑者の鮮明な写真公開",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600624?source=rss",
-      "publishedAt": "2026-10-29T21:12:54.000Z",
-      "xQuery": "八田與一容疑者の鮮明な写真公開"
-    },
-    {
       "time": "06:57",
       "title": "中野でまた高級時計窃盗 男が逃走",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6600629?source=rss",
       "publishedAt": "2026-10-29T21:57:29.000Z",
       "xQuery": "中野でまた高級時計窃盗 男が逃走"
+    },
+    {
+      "time": "23:57",
+      "title": "欧州中銀 2会合ぶり金利据え置き",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6600623?source=rss",
+      "publishedAt": "2026-10-29T14:57:12.000Z",
+      "xQuery": "欧州中銀 2会合ぶり金利据え置き"
+    },
+    {
+      "time": "06:12",
+      "title": "八田與一容疑者の鮮明な写真公開",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6600624?source=rss",
+      "publishedAt": "2026-10-29T21:12:54.000Z",
+      "xQuery": "八田與一容疑者の鮮明な写真公開"
     },
     {
       "time": "22:14",
