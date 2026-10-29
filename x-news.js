@@ -1,14 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-29T21:36:44.007Z",
+  "updatedAt": "2026-10-29T22:12:13.930Z",
   "items": [
-    {
-      "time": "21:52",
-      "title": "電気ガス代補助 12月-来年2月実施",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600608?source=rss",
-      "publishedAt": "2026-10-29T12:52:41.000Z",
-      "xQuery": "電気ガス代補助 12月-来年2月実施"
-    },
     {
       "time": "23:57",
       "title": "欧州中銀 2会合ぶり金利据え置き",
@@ -16,6 +8,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6600623?source=rss",
       "publishedAt": "2026-10-29T14:57:12.000Z",
       "xQuery": "欧州中銀 2会合ぶり金利据え置き"
+    },
+    {
+      "time": "06:44",
+      "title": "習近平総書記 4期目入りが濃厚",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6600628?source=rss",
+      "publishedAt": "2026-10-29T21:44:25.000Z",
+      "xQuery": "習近平総書記 4期目入りが濃厚"
     },
     {
       "time": "06:12",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "八田與一容疑者の鮮明な写真公開"
     },
     {
-      "time": "06:02",
-      "title": "土砂に埋まり作業員2人死亡 愛知",
+      "time": "06:57",
+      "title": "中野でまた高級時計窃盗 男が逃走",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600618?source=rss",
-      "publishedAt": "2026-10-29T21:02:40.000Z",
-      "xQuery": "土砂に埋まり作業員2人死亡 愛知"
+      "url": "https://news.yahoo.co.jp/pickup/6600629?source=rss",
+      "publishedAt": "2026-10-29T21:57:29.000Z",
+      "xQuery": "中野でまた高級時計窃盗 男が逃走"
     },
     {
       "time": "22:14",

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T21:36:42.925Z",
+  "updatedAt": "2026-10-29T22:12:13.192Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -10,11 +10,11 @@
         "publishedAt": "2026-10-29T20:00:00.000Z"
       },
       {
-        "time": "06:03",
-        "title": "ナガセインテグレ･武田機械…工作機械の中堅･中小メーカー､販路開拓へ武器にする独自製品・技術",
-        "source": "ニュースイッチ by 日刊工業新聞社",
-        "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5zTlBTQ29mZWxvS2hsUFpvOXNxZHB5dmZtUmhKRjlYaW1oaWh2Qmh1REN5VVB6UWE5OFk5bjdzY1hPUQ?oc=5",
-        "publishedAt": "2026-10-29T21:03:00.000Z"
+        "time": "07:06",
+        "title": "ナガセインテグレ･武田機械…工作機械の中堅･中小メーカー､販路開拓へ武器にする独自製品・技術（ニュースイッチ）",
+        "source": "ｄメニューニュース",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPejRPY0NTNEpnUWhvVnkyR3R6OXNPVUdJWEU5Q043WFJsMTBuM3h2NlFqc3VRMzhWa29NdFZLYWNGc2JNakxDdlNwV05JcTd2TS1FNE16ZXQtblk2UVJmUkZEYnoxdnRRSFdmQlpfdGFadnNPaXRna3pkODFMMjNoMEg4bkN5OVZocXhudEZoQkZZaXN3Z1lneDdkSEI4M0IzWUxsTzJGNXhHaGZQZDFkaUE4QnIzOE9ubVlGWmJsUzFxOTM2cUdTMHlreV9FY3Jfb0NPdw?oc=5",
+        "publishedAt": "2026-10-29T22:06:10.000Z"
       },
       {
         "time": "17:32",
@@ -61,6 +61,20 @@
     ],
     "worldHeadlines": [
       {
+        "time": "20:03",
+        "title": "スペインの列車事故 死者69人に",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6600595?source=rss",
+        "publishedAt": "2026-10-29T11:03:46.000Z"
+      },
+      {
+        "time": "17:20",
+        "title": "スペイン事故 邦人2人連絡つかず",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6600571?source=rss",
+        "publishedAt": "2026-10-29T08:20:14.000Z"
+      },
+      {
         "time": "21:56",
         "title": "ネパール高峰で発見の2遺体は邦人",
         "source": "Yahoo!ニュース",
@@ -68,11 +82,11 @@
         "publishedAt": "2026-10-29T12:56:29.000Z"
       },
       {
-        "time": "16:58",
-        "title": "韓国・尹前大統領に再び死刑求刑",
+        "time": "06:44",
+        "title": "習近平総書記 4期目入りが濃厚",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600566?source=rss",
-        "publishedAt": "2026-10-29T07:58:28.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6600628?source=rss",
+        "publishedAt": "2026-10-29T21:44:25.000Z"
       },
       {
         "time": "23:00",
@@ -82,25 +96,11 @@
         "publishedAt": "2026-10-29T14:00:04.000Z"
       },
       {
-        "time": "18:04",
-        "title": "韓国で日本人女性殺害疑い 男拘束",
+        "time": "16:58",
+        "title": "韓国・尹前大統領に再び死刑求刑",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600577?source=rss",
-        "publishedAt": "2026-10-29T09:04:28.000Z"
-      },
-      {
-        "time": "23:02",
-        "title": "梨泰院事故4年で追悼式 160人犠牲",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600615?source=rss",
-        "publishedAt": "2026-10-29T14:02:50.000Z"
-      },
-      {
-        "time": "20:03",
-        "title": "スペインの列車事故 死者69人に",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600595?source=rss",
-        "publishedAt": "2026-10-29T11:03:46.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6600566?source=rss",
+        "publishedAt": "2026-10-29T07:58:28.000Z"
       }
     ],
     "economyHeadlines": [
@@ -170,6 +170,13 @@
         "publishedAt": "2026-10-29T21:02:40.000Z"
       },
       {
+        "time": "06:57",
+        "title": "中野でまた高級時計窃盗 男が逃走",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6600629?source=rss",
+        "publishedAt": "2026-10-29T21:57:29.000Z"
+      },
+      {
         "time": "21:16",
         "title": "3小学校293人 給食後嘔吐など発症",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6600597?source=rss",
         "publishedAt": "2026-10-29T11:48:15.000Z"
-      },
-      {
-        "time": "18:06",
-        "title": "「水没ペンション村」近隣の悩み",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600580?source=rss",
-        "publishedAt": "2026-10-29T09:06:20.000Z"
       }
     ],
     "subsidyHeadlines": [
