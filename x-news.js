@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-29T21:11:45.983Z",
+  "updatedAt": "2026-10-29T21:36:44.007Z",
   "items": [
     {
       "time": "21:52",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "欧州中銀 2会合ぶり金利据え置き"
     },
     {
-      "time": "23:02",
-      "title": "梨泰院事故4年で追悼式 160人犠牲",
+      "time": "06:12",
+      "title": "八田與一容疑者の鮮明な写真公開",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600615?source=rss",
-      "publishedAt": "2026-10-29T14:02:50.000Z",
-      "xQuery": "梨泰院事故4年で追悼式 160人犠牲"
+      "url": "https://news.yahoo.co.jp/pickup/6600624?source=rss",
+      "publishedAt": "2026-10-29T21:12:54.000Z",
+      "xQuery": "八田與一容疑者の鮮明な写真公開"
     },
     {
       "time": "06:02",
