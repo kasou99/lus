@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-29T09:36:04.255Z",
+  "updatedAt": "2026-10-29T10:13:10.499Z",
   "items": [
     {
       "time": "18:21",
@@ -10,14 +10,6 @@ window.LUS_X_NEWS = {
       "xQuery": "滋賀銀・池田泉州HD 統合へ合意"
     },
     {
-      "time": "16:47",
-      "title": "首都圏強盗 実行役2人に無期求刑",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600564?source=rss",
-      "publishedAt": "2026-10-29T07:47:50.000Z",
-      "xQuery": "首都圏強盗 実行役2人に無期求刑"
-    },
-    {
       "time": "17:20",
       "title": "スペイン事故 邦人2人連絡つかず",
       "source": "Yahoo!ニュース",
@@ -26,20 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "スペイン事故 邦人2人連絡つかず"
     },
     {
-      "time": "16:58",
-      "title": "韓国・尹前大統領に再び死刑求刑",
+      "time": "18:21",
+      "title": "上半期世界販売 スズキが国内2位",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600566?source=rss",
-      "publishedAt": "2026-10-29T07:58:28.000Z",
-      "xQuery": "韓国・尹前大統領に再び死刑求刑"
+      "url": "https://news.yahoo.co.jp/pickup/6600585?source=rss",
+      "publishedAt": "2026-10-29T09:21:24.000Z",
+      "xQuery": "上半期世界販売 スズキが国内2位"
     },
     {
-      "time": "18:04",
-      "title": "韓国で日本人女性殺害疑い 男拘束",
+      "time": "13:48",
+      "title": "パニック障害と向き合う 29歳の今",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600577?source=rss",
-      "publishedAt": "2026-10-29T09:04:28.000Z",
-      "xQuery": "韓国で日本人女性殺害疑い 男拘束"
+      "url": "https://news.yahoo.co.jp/pickup/6600543?source=rss",
+      "publishedAt": "2026-10-29T04:48:26.000Z",
+      "xQuery": "パニック障害と向き合う 29歳の今"
+    },
+    {
+      "time": "18:41",
+      "title": "作家の如月美樹さん 今年9月死去",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6600587?source=rss",
+      "publishedAt": "2026-10-29T09:41:43.000Z",
+      "xQuery": "作家の如月美樹さん 今年9月死去"
     }
   ]
 };
