@@ -1,29 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-29T00:35:35.996Z",
+  "updatedAt": "2026-10-29T01:13:49.896Z",
   "items": [
     {
-      "time": "08:20",
-      "title": "多くで今季一冷え込み 東京10℃台",
+      "time": "10:10",
+      "title": "スペイン事故 乗客名簿に邦人2人",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600505?source=rss",
-      "publishedAt": "2026-10-28T23:20:43.000Z",
-      "xQuery": "多くで今季一冷え込み 東京10℃台"
+      "url": "https://news.yahoo.co.jp/pickup/6600517?source=rss",
+      "publishedAt": "2026-10-29T01:10:01.000Z",
+      "xQuery": "スペイン事故 乗客名簿に邦人2人"
     },
     {
-      "time": "08:39",
-      "title": "教員「特別免許」の基準明確化へ",
+      "time": "09:13",
+      "title": "米FRBが政策金利を据え置き",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600506?source=rss",
-      "publishedAt": "2026-10-28T23:39:26.000Z",
-      "xQuery": "教員「特別免許」の基準明確化へ"
-    },
-    {
-      "time": "06:55",
-      "title": "GMO脅迫サイト 国が遮断を要請",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600494?source=rss",
-      "publishedAt": "2026-10-28T21:55:03.000Z",
-      "xQuery": "GMO脅迫サイト 国が遮断を要請"
+      "url": "https://news.yahoo.co.jp/pickup/6600510?source=rss",
+      "publishedAt": "2026-10-29T00:13:09.000Z",
+      "xQuery": "米FRBが政策金利を据え置き"
     },
     {
       "time": "08:46",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6600504?source=rss",
       "publishedAt": "2026-10-28T23:34:37.000Z",
       "xQuery": "本や雑誌発売日 大阪も1日遅れに"
+    },
+    {
+      "time": "09:35",
+      "title": "盗撮「カメレオンカメラ」巧妙化",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6600512?source=rss",
+      "publishedAt": "2026-10-29T00:35:20.000Z",
+      "xQuery": "盗撮「カメレオンカメラ」巧妙化"
     }
   ]
 };
