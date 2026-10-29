@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-29T06:22:26.887Z",
+  "updatedAt": "2026-10-29T06:44:08.531Z",
   "items": [
     {
       "time": "13:29",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "餃子の王将社長射殺 検察側が控訴"
     },
     {
+      "time": "14:52",
+      "title": "銀座の異臭騒ぎ 傷害疑いで男逮捕",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6600551?source=rss",
+      "publishedAt": "2026-10-29T05:52:56.000Z",
+      "xQuery": "銀座の異臭騒ぎ 傷害疑いで男逮捕"
+    },
+    {
       "time": "14:07",
       "title": "原口一博元議員に賠償命令 地裁",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6600547?source=rss",
       "publishedAt": "2026-10-29T05:07:00.000Z",
       "xQuery": "原口一博元議員に賠償命令 地裁"
-    },
-    {
-      "time": "14:39",
-      "title": "米大統領発言逆手にノルウェーPR",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600550?source=rss",
-      "publishedAt": "2026-10-29T05:39:10.000Z",
-      "xQuery": "米大統領発言逆手にノルウェーPR"
     }
   ]
 };

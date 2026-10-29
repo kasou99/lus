@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T06:22:25.820Z",
+  "updatedAt": "2026-10-29T06:44:07.831Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,11 +38,11 @@
         "publishedAt": "2026-10-29T03:39:30.000Z"
       },
       {
-        "time": "13:45",
-        "title": "インフラで培われた京大発の劣化予測技術を設備保全の現場へ、「MENTENA」で社会実装 点検データから設備の劣化進行を予測し、最適な保全活動を実現",
-        "source": "Excite エキサイト",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5QVzR6TlhMc0FtODM2VW9yaThXYU0tcWs4MkUyNGNITWViWUlUSHR1amgzZE1ISDJIV0E5SjdFNTNtZThKa0JJcEdVYnByd0pNWDhmQzBzcENVM19lQkhtWk93QzBUWVhKS1RiZmJCNDlSLU5W?oc=5",
-        "publishedAt": "2026-10-29T04:45:00.000Z"
+        "time": "10:00",
+        "title": "信頼と実績のフジタ製スライド機構を採用！ 名古屋ボデーがUDクオンをベースに製作したこだわり満載の大型平ボディに迫る！ - https://fullload.bestcarweb.jp/",
+        "source": "https://fullload.bestcarweb.jp/",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9VZzAwZHF4X0xhZWVYYWhFbmRsdTVCYmI5Zi14LVNsWUdrN1RfeklYUzdRUjc4dUY2UTJ5RmR0NjgwaTdLdlJmX0tYOUlFVmM0NEtYS0F4RGY?oc=5",
+        "publishedAt": "2026-10-29T01:00:00.000Z"
       },
       {
         "time": "03:15",
@@ -52,11 +52,11 @@
         "publishedAt": "2026-10-28T18:15:21.000Z"
       },
       {
-        "time": "15:40",
-        "title": "日本精工、工作機械向け新型スピンドルを開発 振動抑制し高効率加工を実現",
-        "source": "電波新聞デジタル",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1fYkExVDl5S3ZISWNscnZnNmctTUJjQnpXelRiazZibjZWdFdQdENUcUdOUnpGYVE1MWJFTi1BTGk0U01DSk1BOUZqRlZzb1JRZ3c?oc=5",
-        "publishedAt": "2026-10-28T06:40:32.000Z"
+        "time": "11:41",
+        "title": "トランプ氏、ロボット・産業機械への関税延期－貿易相手国と協議へ",
+        "source": "Infoseek",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA0TUdnX1d6Y0QxZTlFX0IzR2xVVnJabkVhcTFqRjktOTJOaUtDa0NEQU9FTDBrMnRYcFp6UWRzTUlPVFA2aUNSd3BzRWNRcVJLYjNmVHpFa21Dc0hyNl9nWnRhQ1luS2NZ0gFoQVVfeXFMUDRNR2dfV3pjRDFlOUVfQjNHbFVWclpuRWFxMWpGOS05Mk5pS0NrQ0RBT0VMMGsydFhwWnpRZHNNSU9UUDZpQ1J3cHNFY1FxUktiM2ZUekVrbUNzSHI2X2dadGFDWW5LY1k?oc=5",
+        "publishedAt": "2026-10-29T02:41:53.000Z"
       }
     ],
     "worldHeadlines": [
@@ -156,6 +156,13 @@
         "publishedAt": "2026-10-29T04:10:22.000Z"
       },
       {
+        "time": "15:29",
+        "title": "モスク放火の男に拘禁刑6年6カ月",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6600555?source=rss",
+        "publishedAt": "2026-10-29T06:29:44.000Z"
+      },
+      {
         "time": "14:25",
         "title": "製菓店主殺害 頭に殴打痕4カ所",
         "source": "Yahoo!ニュース",
@@ -163,11 +170,11 @@
         "publishedAt": "2026-10-29T05:25:51.000Z"
       },
       {
-        "time": "07:18",
-        "title": "解体作業中に鉄板が落下 男性死亡",
+        "time": "15:42",
+        "title": "事故はずみで車衝突 歩道男性重体",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600496?source=rss",
-        "publishedAt": "2026-10-28T22:18:06.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6600557?source=rss",
+        "publishedAt": "2026-10-29T06:42:13.000Z"
       },
       {
         "time": "14:52",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6600546?source=rss",
         "publishedAt": "2026-10-29T04:52:38.000Z"
-      },
-      {
-        "time": "14:07",
-        "title": "原口一博元議員に賠償命令 地裁",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600547?source=rss",
-        "publishedAt": "2026-10-29T05:07:00.000Z"
       }
     ],
     "subsidyHeadlines": [
