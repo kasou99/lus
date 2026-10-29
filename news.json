@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T09:14:56.452Z",
+  "updatedAt": "2026-10-29T09:36:03.495Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -112,6 +112,20 @@
         "publishedAt": "2026-10-29T07:08:06.000Z"
       },
       {
+        "time": "18:21",
+        "title": "滋賀銀・池田泉州HD 統合へ合意",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6600584?source=rss",
+        "publishedAt": "2026-10-29T09:21:04.000Z"
+      },
+      {
+        "time": "18:21",
+        "title": "上半期世界販売 スズキが国内2位",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6600585?source=rss",
+        "publishedAt": "2026-10-29T09:21:24.000Z"
+      },
+      {
         "time": "11:25",
         "title": "竹中工務店元社員 起訴内容認める",
         "source": "Yahoo!ニュース",
@@ -126,25 +140,11 @@
         "publishedAt": "2026-10-29T00:13:09.000Z"
       },
       {
-        "time": "18:07",
-        "title": "プルデンシャル 新たな不正事案",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600452?source=rss",
-        "publishedAt": "2026-10-28T09:07:38.000Z"
-      },
-      {
         "time": "21:24",
         "title": "「千鳥饅頭」千鳥屋本家が破産へ",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6600474?source=rss",
         "publishedAt": "2026-10-28T12:24:14.000Z"
-      },
-      {
-        "time": "08:34",
-        "title": "本や雑誌発売日 大阪も1日遅れに",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600504?source=rss",
-        "publishedAt": "2026-10-28T23:34:37.000Z"
       }
     ],
     "localHeadlines": [

@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-29T09:14:57.356Z",
+  "updatedAt": "2026-10-29T09:36:04.255Z",
   "items": [
     {
-      "time": "16:08",
-      "title": "ANA AIRDOなど完全子会社化へ",
+      "time": "18:21",
+      "title": "滋賀銀・池田泉州HD 統合へ合意",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600561?source=rss",
-      "publishedAt": "2026-10-29T07:08:06.000Z",
-      "xQuery": "ANA AIRDOなど完全子会社化へ"
+      "url": "https://news.yahoo.co.jp/pickup/6600584?source=rss",
+      "publishedAt": "2026-10-29T09:21:04.000Z",
+      "xQuery": "滋賀銀・池田泉州HD 統合へ合意"
     },
     {
       "time": "16:47",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "韓国・尹前大統領に再び死刑求刑"
     },
     {
-      "time": "17:54",
-      "title": "救助向かい土砂に埋まる 男性死亡",
+      "time": "18:04",
+      "title": "韓国で日本人女性殺害疑い 男拘束",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600579?source=rss",
-      "publishedAt": "2026-10-29T08:54:36.000Z",
-      "xQuery": "救助向かい土砂に埋まる 男性死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6600577?source=rss",
+      "publishedAt": "2026-10-29T09:04:28.000Z",
+      "xQuery": "韓国で日本人女性殺害疑い 男拘束"
     }
   ]
 };
