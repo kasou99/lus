@@ -1,14 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-28T23:36:24.709Z",
+  "updatedAt": "2026-10-29T00:35:35.996Z",
   "items": [
-    {
-      "time": "06:55",
-      "title": "GMO脅迫サイト 国が遮断を要請",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600494?source=rss",
-      "publishedAt": "2026-10-28T21:55:03.000Z",
-      "xQuery": "GMO脅迫サイト 国が遮断を要請"
-    },
     {
       "time": "08:20",
       "title": "多くで今季一冷え込み 東京10℃台",
@@ -18,28 +10,36 @@ window.LUS_X_NEWS = {
       "xQuery": "多くで今季一冷え込み 東京10℃台"
     },
     {
-      "time": "08:03",
-      "title": "スペイン 衝突列車に誤った指示か",
+      "time": "08:39",
+      "title": "教員「特別免許」の基準明確化へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600500?source=rss",
-      "publishedAt": "2026-10-28T23:03:35.000Z",
-      "xQuery": "スペイン 衝突列車に誤った指示か"
+      "url": "https://news.yahoo.co.jp/pickup/6600506?source=rss",
+      "publishedAt": "2026-10-28T23:39:26.000Z",
+      "xQuery": "教員「特別免許」の基準明確化へ"
     },
     {
-      "time": "07:18",
-      "title": "解体作業中に鉄板が落下 男性死亡",
+      "time": "06:55",
+      "title": "GMO脅迫サイト 国が遮断を要請",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600496?source=rss",
-      "publishedAt": "2026-10-28T22:18:06.000Z",
-      "xQuery": "解体作業中に鉄板が落下 男性死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6600494?source=rss",
+      "publishedAt": "2026-10-28T21:55:03.000Z",
+      "xQuery": "GMO脅迫サイト 国が遮断を要請"
     },
     {
-      "time": "21:24",
-      "title": "「千鳥饅頭」千鳥屋本家が破産へ",
+      "time": "08:46",
+      "title": "プーチン氏 マスク氏は本物の天才",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600474?source=rss",
-      "publishedAt": "2026-10-28T12:24:14.000Z",
-      "xQuery": "「千鳥饅頭」千鳥屋本家が破産へ"
+      "url": "https://news.yahoo.co.jp/pickup/6600507?source=rss",
+      "publishedAt": "2026-10-28T23:46:08.000Z",
+      "xQuery": "プーチン氏 マスク氏は本物の天才"
+    },
+    {
+      "time": "08:34",
+      "title": "本や雑誌発売日 大阪も1日遅れに",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6600504?source=rss",
+      "publishedAt": "2026-10-28T23:34:37.000Z",
+      "xQuery": "本や雑誌発売日 大阪も1日遅れに"
     }
   ]
 };
