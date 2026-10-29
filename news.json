@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T15:12:58.906Z",
+  "updatedAt": "2026-10-29T15:36:26.557Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,6 +38,13 @@
         "publishedAt": "2026-10-29T04:54:27.000Z"
       },
       {
+        "time": "05:00",
+        "title": "工作機械輸入協、スイス協会と懇親会開催",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBSZkVoXzd5YTktVWFwQVkxcUhYZlVnYWt0aS14QzVPb095Nlh5dTZaanhYZU5lelFBQTRCVUNldVptSHc2STZqNFpSRlltUlFSV1BGd2J4b1c?oc=5",
+        "publishedAt": "2026-10-28T20:00:00.000Z"
+      },
+      {
         "time": "12:39",
         "title": "10月28日、東京ビッグサイトで開催されている「第33回日本国際工作機械見本市（JIMTOF2...",
         "source": "選挙ドットコム",
@@ -50,13 +57,6 @@
         "source": "매일경제",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5rY25LSThUelRBclRTcUs2dHpqNC1JY3lncF9KU2dmd29TUktCZS1JQzVzbVlMd1VjOGNGeU82RVBaS1REYzdMOV9nZW1UY1UxaEE?oc=5",
         "publishedAt": "2026-10-29T05:42:01.000Z"
-      },
-      {
-        "time": "05:00",
-        "title": "北陸の工作機械、成長市場に活路 半導体・航空・宇宙向けに照準 国際見本市で技術競う 新製品で商機開拓",
-        "source": "北國新聞",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9NV2s4aXJLUWk4TWp6VVJzSzJwMk1fbkJlQ0xoWUtIWHl4aEczakg3eVFxU3NjZmp4YlNNV2Q1NS12cE0weENycy1VMl9ZSDZVNTFPZHRJcw?oc=5",
-        "publishedAt": "2026-10-28T20:00:00.000Z"
       }
     ],
     "worldHeadlines": [
