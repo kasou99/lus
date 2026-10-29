@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-29T02:18:30.265Z",
+  "updatedAt": "2026-10-29T02:38:12.530Z",
   "items": [
     {
       "time": "10:10",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "スペイン事故 乗客名簿に邦人2人"
     },
     {
-      "time": "09:13",
-      "title": "米FRBが政策金利を据え置き",
+      "time": "10:13",
+      "title": "燃料油補助 予算累計10兆円超に",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600510?source=rss",
-      "publishedAt": "2026-10-29T00:13:09.000Z",
-      "xQuery": "米FRBが政策金利を据え置き"
+      "url": "https://news.yahoo.co.jp/pickup/6600518?source=rss",
+      "publishedAt": "2026-10-29T01:13:27.000Z",
+      "xQuery": "燃料油補助 予算累計10兆円超に"
     },
     {
-      "time": "08:34",
-      "title": "本や雑誌発売日 大阪も1日遅れに",
+      "time": "11:25",
+      "title": "竹中工務店元社員 起訴内容認める",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600504?source=rss",
-      "publishedAt": "2026-10-28T23:34:37.000Z",
-      "xQuery": "本や雑誌発売日 大阪も1日遅れに"
+      "url": "https://news.yahoo.co.jp/pickup/6600523?source=rss",
+      "publishedAt": "2026-10-29T02:25:34.000Z",
+      "xQuery": "竹中工務店元社員 起訴内容認める"
     },
     {
       "time": "09:35",
