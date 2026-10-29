@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T15:36:26.557Z",
+  "updatedAt": "2026-10-29T16:14:56.633Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -24,18 +24,18 @@
         "publishedAt": "2026-10-29T11:25:00.000Z"
       },
       {
-        "time": "06:15",
-        "title": "しゃべるNCとエラーに対処、後で要約も確認 マザックが“声”生かすAI活用：JIMTOF2026",
-        "source": "MONOist",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBTblZMYkxXb2JheUJJMjE0VjdJNF9vOXJfYVZCTDRNajF3WWgzOWp5WEhDZ3ZjSDE1UlFtNEZxY3BNUUpNaTRZT2QyWjV5QnktVTFuak93cUcwX0Vxek00TnVRNmM0YmZDbXdrTU5tZw?oc=5",
-        "publishedAt": "2026-10-28T21:15:00.000Z"
-      },
-      {
         "time": "13:54",
         "title": "産業機械、工作機械部品製造のKT商事が特別清算開始命令 負債約8300万円 – kenoh.com",
         "source": "kenoh.com",
         "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE44bEcxVmV6X1h3dUR5bTRZaXNRZ01FeDNiZUZHbmowb2VnV1hfNFBGbDg2OEJ0djBBNVRZTWxKTTBQSThRMXZzNXBR?oc=5",
         "publishedAt": "2026-10-29T04:54:27.000Z"
+      },
+      {
+        "time": "06:15",
+        "title": "しゃべるNCとエラーに対処、後で要約も確認 マザックが“声”生かすAI活用：JIMTOF2026",
+        "source": "MONOist",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBTblZMYkxXb2JheUJJMjE0VjdJNF9vOXJfYVZCTDRNajF3WWgzOWp5WEhDZ3ZjSDE1UlFtNEZxY3BNUUpNaTRZT2QyWjV5QnktVTFuak93cUcwX0Vxek00TnVRNmM0YmZDbXdrTU5tZw?oc=5",
+        "publishedAt": "2026-10-28T21:15:00.000Z"
       },
       {
         "time": "05:00",
