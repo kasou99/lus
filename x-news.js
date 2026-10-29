@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-29T10:13:10.499Z",
+  "updatedAt": "2026-10-29T10:36:38.867Z",
   "items": [
     {
       "time": "18:21",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "スペイン事故 邦人2人連絡つかず"
     },
     {
+      "time": "19:04",
+      "title": "11月電気代 大手7社で過去最高値",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6600589?source=rss",
+      "publishedAt": "2026-10-29T10:04:21.000Z",
+      "xQuery": "11月電気代 大手7社で過去最高値"
+    },
+    {
       "time": "18:21",
       "title": "上半期世界販売 スズキが国内2位",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6600585?source=rss",
       "publishedAt": "2026-10-29T09:21:24.000Z",
       "xQuery": "上半期世界販売 スズキが国内2位"
-    },
-    {
-      "time": "13:48",
-      "title": "パニック障害と向き合う 29歳の今",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600543?source=rss",
-      "publishedAt": "2026-10-29T04:48:26.000Z",
-      "xQuery": "パニック障害と向き合う 29歳の今"
     },
     {
       "time": "18:41",
