@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T05:13:35.925Z",
+  "updatedAt": "2026-10-29T05:36:31.163Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,6 +38,13 @@
         "publishedAt": "2026-10-29T03:39:30.000Z"
       },
       {
+        "time": "10:00",
+        "title": "信頼と実績のフジタ製スライド機構を採用！ 名古屋ボデーがUDクオンをベースに製作したこだわり満載の大型平ボディに迫る！ - https://fullload.bestcarweb.jp/",
+        "source": "https://fullload.bestcarweb.jp/",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9VZzAwZHF4X0xhZWVYYWhFbmRsdTVCYmI5Zi14LVNsWUdrN1RfeklYUzdRUjc4dUY2UTJ5RmR0NjgwaTdLdlJmX0tYOUlFVmM0NEtYS0F4RGY?oc=5",
+        "publishedAt": "2026-10-29T01:00:00.000Z"
+      },
+      {
         "time": "03:15",
         "title": "次世代設備保全クラウドの株式会社M2X、三和罐詰株式会社の導入事例を公開",
         "source": "ニコニコニュース",
@@ -50,13 +57,6 @@
         "source": "47NEWS",
         "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5UZi1ia2o5a2Y2ZmNLa3VyY2Uza05SWkp5RC1mUkxsTy0ydnlkWGVOdmRIb2lOeHRiYy1wUmNlS3N4X0cwN0JkZjNGTQ?oc=5",
         "publishedAt": "2026-10-28T05:45:17.000Z"
-      },
-      {
-        "time": "15:40",
-        "title": "日本精工、工作機械向け新型スピンドルを開発 振動抑制し高効率加工を実現",
-        "source": "電波新聞デジタル",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1fYkExVDl5S3ZISWNscnZnNmctTUJjQnpXelRiazZibjZWdFdQdENUcUdOUnpGYVE1MWJFTi1BTGk0U01DSk1BOUZqRlZzb1JRZ3c?oc=5",
-        "publishedAt": "2026-10-28T06:40:32.000Z"
       }
     ],
     "worldHeadlines": [
@@ -156,11 +156,11 @@
         "publishedAt": "2026-10-29T04:10:22.000Z"
       },
       {
-        "time": "06:39",
-        "title": "他県警でも失効免許不正流用 証言",
+        "time": "14:25",
+        "title": "製菓店主殺害 頭に殴打痕4カ所",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600493?source=rss",
-        "publishedAt": "2026-10-28T21:39:41.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6600549?source=rss",
+        "publishedAt": "2026-10-29T05:25:51.000Z"
       },
       {
         "time": "07:18",

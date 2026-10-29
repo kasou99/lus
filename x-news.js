@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-29T05:13:36.646Z",
+  "updatedAt": "2026-10-29T05:36:32.129Z",
   "items": [
     {
       "time": "13:29",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "GMO社長「犯人特定の有力情報」"
     },
     {
-      "time": "12:24",
-      "title": "性別変更を暴露 市議に賠償命令",
+      "time": "14:07",
+      "title": "原口一博元議員に賠償命令 地裁",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600525?source=rss",
-      "publishedAt": "2026-10-29T03:24:26.000Z",
-      "xQuery": "性別変更を暴露 市議に賠償命令"
+      "url": "https://news.yahoo.co.jp/pickup/6600547?source=rss",
+      "publishedAt": "2026-10-29T05:07:00.000Z",
+      "xQuery": "原口一博元議員に賠償命令 地裁"
     },
     {
       "time": "13:52",
