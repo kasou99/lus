@@ -1,21 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-29T11:36:46.008Z",
+  "updatedAt": "2026-10-29T12:20:06.431Z",
   "items": [
     {
-      "time": "18:21",
-      "title": "滋賀銀・池田泉州HD 統合へ合意",
+      "time": "18:13",
+      "title": "今夏大雨3件は温暖化が影響 分析",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600584?source=rss",
-      "publishedAt": "2026-10-29T09:21:04.000Z",
-      "xQuery": "滋賀銀・池田泉州HD 統合へ合意"
-    },
-    {
-      "time": "20:03",
-      "title": "スペインの列車事故 死者69人に",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600595?source=rss",
-      "publishedAt": "2026-10-29T11:03:46.000Z",
-      "xQuery": "スペインの列車事故 死者69人に"
+      "url": "https://news.yahoo.co.jp/pickup/6600581?source=rss",
+      "publishedAt": "2026-10-29T09:13:16.000Z",
+      "xQuery": "今夏大雨3件は温暖化が影響 分析"
     },
     {
       "time": "19:39",
@@ -32,6 +24,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6600585?source=rss",
       "publishedAt": "2026-10-29T09:21:24.000Z",
       "xQuery": "上半期世界販売 スズキが国内2位"
+    },
+    {
+      "time": "20:48",
+      "title": "無免許で169人に医療行為 懲役5年",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6600597?source=rss",
+      "publishedAt": "2026-10-29T11:48:15.000Z",
+      "xQuery": "無免許で169人に医療行為 懲役5年"
     },
     {
       "time": "18:41",

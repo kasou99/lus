@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T11:36:44.950Z",
+  "updatedAt": "2026-10-29T12:20:05.739Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,18 +17,18 @@
         "publishedAt": "2026-10-29T08:30:00.000Z"
       },
       {
+        "time": "20:25",
+        "title": "中国の全直駆工作機械大手・釕鋭釕（こえいし）がSTAR市場で新規株式公開の申し込み開始、公開価格45.37元で6.82億元を調達へ",
+        "source": "BigGo ファイナンス",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9aT2xkVUVUa25WSW9xNWtSWnEzU0RVdUJfeWx3V0ZXRDBIMEw1X2FIM2RsT1VGVW9jZW9ueVJvSzFPRk1JYzllaVE2a0xHWnlxb2F5TXpHODdJTzNHMlJjNzk4TlRqTXlDakw1V0xVM3ViSVFN?oc=5",
+        "publishedAt": "2026-10-29T11:25:00.000Z"
+      },
+      {
         "time": "13:54",
         "title": "産業機械、工作機械部品製造のKT商事が特別清算開始命令 負債約8300万円 – kenoh.com",
         "source": "kenoh.com",
         "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE44bEcxVmV6X1h3dUR5bTRZaXNRZ01FeDNiZUZHbmowb2VnV1hfNFBGbDg2OEJ0djBBNVRZTWxKTTBQSThRMXZzNXBR?oc=5",
         "publishedAt": "2026-10-29T04:54:27.000Z"
-      },
-      {
-        "time": "09:56",
-        "title": "AI・新エネルギー需要で中国製工作機械の受注が来年第2四半期まで埋まる",
-        "source": "BigGo ファイナンス",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE85TUNORURqd3lrSkdIMGpfbkhCSXZSN2E4bmdTZTdOdExVTExSUVJHeEVsQ1RNSHo5MVpfYUZ4QWVwSUQzZHBrX29feXlfOFJ6U0ZpU29TWDV1YWs3c2tEdTQ5TkYzX0c4b2dkUmVjTlBSY091?oc=5",
-        "publishedAt": "2026-10-29T00:56:00.000Z"
       },
       {
         "time": "06:15",
@@ -170,11 +170,18 @@
         "publishedAt": "2026-10-29T08:54:36.000Z"
       },
       {
-        "time": "14:52",
-        "title": "銀座の異臭騒ぎ 傷害疑いで男逮捕",
+        "time": "21:16",
+        "title": "3小学校293人 給食後嘔吐など発症",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600551?source=rss",
-        "publishedAt": "2026-10-29T05:52:56.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6600605?source=rss",
+        "publishedAt": "2026-10-29T12:16:09.000Z"
+      },
+      {
+        "time": "20:48",
+        "title": "無免許で169人に医療行為 懲役5年",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6600597?source=rss",
+        "publishedAt": "2026-10-29T11:48:15.000Z"
       },
       {
         "time": "18:06",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6600580?source=rss",
         "publishedAt": "2026-10-29T09:06:20.000Z"
-      },
-      {
-        "time": "13:52",
-        "title": "ピアニスト反田恭平被告 有罪判決",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600546?source=rss",
-        "publishedAt": "2026-10-29T04:52:38.000Z"
       }
     ],
     "subsidyHeadlines": [
