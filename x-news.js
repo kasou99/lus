@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-29T03:15:52.839Z",
+  "updatedAt": "2026-10-29T03:37:30.627Z",
   "items": [
     {
       "time": "12:01",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "燃料油補助 予算累計10兆円超に"
     },
     {
-      "time": "10:10",
-      "title": "スペイン事故 乗客名簿に邦人2人",
+      "time": "12:24",
+      "title": "性別変更を暴露 市議に賠償命令",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600517?source=rss",
-      "publishedAt": "2026-10-29T01:10:01.000Z",
-      "xQuery": "スペイン事故 乗客名簿に邦人2人"
+      "url": "https://news.yahoo.co.jp/pickup/6600525?source=rss",
+      "publishedAt": "2026-10-29T03:24:26.000Z",
+      "xQuery": "性別変更を暴露 市議に賠償命令"
     },
     {
       "time": "11:25",
