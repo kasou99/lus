@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-30T05:13:15.795Z",
+  "updatedAt": "2026-10-30T05:36:49.979Z",
   "items": [
     {
       "time": "13:03",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "宮古島沖で船火災 1人不明5人救助"
     },
     {
-      "time": "11:05",
-      "title": "3年で海外出張6672万円 仙台市長",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600654?source=rss",
-      "publishedAt": "2026-10-30T02:05:19.000Z",
-      "xQuery": "3年で海外出張6672万円 仙台市長"
-    },
-    {
       "time": "14:07",
       "title": "西日本でクマ出没急増 餌不足深刻",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6600680?source=rss",
       "publishedAt": "2026-10-30T05:07:46.000Z",
       "xQuery": "西日本でクマ出没急増 餌不足深刻"
+    },
+    {
+      "time": "11:26",
+      "title": "土曜ハロウィン前に渋谷厳戒態勢",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6600661?source=rss",
+      "publishedAt": "2026-10-30T02:26:16.000Z",
+      "xQuery": "土曜ハロウィン前に渋谷厳戒態勢"
     }
   ]
 };

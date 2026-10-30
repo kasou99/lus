@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T05:13:14.364Z",
+  "updatedAt": "2026-10-30T05:36:49.286Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -10,18 +10,18 @@
         "publishedAt": "2026-10-30T04:30:00.000Z"
       },
       {
-        "time": "07:22",
-        "title": "ジェイテクト、工作機械サービス強化へ子会社吸収",
-        "source": "LOGISTICS TODAY",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB5eWRfZmJjRDJLS1h2TVpwcW5SeURVcE9MTE1rMWNMNVpjSjdWV3NOUmdPLVV3akZLcS01R25RTG5jZ3FZYzFVeEhR?oc=5",
-        "publishedAt": "2026-10-29T22:22:01.000Z"
-      },
-      {
         "time": "09:45",
         "title": "NSK、マシニングセンタ向け新型スピンドル開発…「びびり振動」を抑制し重切削加工の効率向上",
         "source": "レスポンス（Response.jp）",
         "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8yeEQtdnFEa0JUTngyaTg0MUxkZ19EMERrcmQ1WFFRbGN6cG1IaXRNVnNlS3NnSEV1LVRQZHhwZVpkSFlFb01adzFKZ0dzLThfcVJKMjMxRVhReDJobnJv?oc=5",
         "publishedAt": "2026-10-30T00:45:03.000Z"
+      },
+      {
+        "time": "07:22",
+        "title": "ジェイテクト、工作機械サービス強化へ子会社吸収",
+        "source": "LOGISTICS TODAY",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB5eWRfZmJjRDJLS1h2TVpwcW5SeURVcE9MTE1rMWNMNVpjSjdWV3NOUmdPLVV3akZLcS01R25RTG5jZ3FZYzFVeEhR?oc=5",
+        "publishedAt": "2026-10-29T22:22:01.000Z"
       },
       {
         "time": "06:03",
