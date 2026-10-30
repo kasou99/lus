@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-30T12:41:51.718Z",
+  "updatedAt": "2026-10-30T13:13:36.639Z",
   "items": [
     {
       "time": "21:08",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "韓国 北の境界線侵犯に厳正対応"
     },
     {
-      "time": "19:59",
-      "title": "連続勤務を最長13日で検討 厚労省",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600713?source=rss",
-      "publishedAt": "2026-10-30T10:59:48.000Z",
-      "xQuery": "連続勤務を最長13日で検討 厚労省"
-    },
-    {
       "time": "19:46",
       "title": "キオクシア 4-12月純利益24倍予想",
       "source": "Yahoo!ニュース",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6600717?source=rss",
       "publishedAt": "2026-10-30T11:44:54.000Z",
       "xQuery": "六本木高校生徒 複数回刺され重傷"
+    },
+    {
+      "time": "20:49",
+      "title": "13階から転落し作業員死亡 丸の内",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6600722?source=rss",
+      "publishedAt": "2026-10-30T11:49:22.000Z",
+      "xQuery": "13階から転落し作業員死亡 丸の内"
     }
   ]
 };

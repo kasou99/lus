@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T12:41:50.574Z",
+  "updatedAt": "2026-10-30T13:13:35.692Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -61,6 +61,13 @@
     ],
     "worldHeadlines": [
       {
+        "time": "21:59",
+        "title": "トランプ氏 最終盤で選挙戦略転換",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6600727?source=rss",
+        "publishedAt": "2026-10-30T12:59:40.000Z"
+      },
+      {
         "time": "10:51",
         "title": "イスラエル 与野党過半数届かず",
         "source": "Yahoo!ニュース",
@@ -87,13 +94,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6600715?source=rss",
         "publishedAt": "2026-10-30T11:34:46.000Z"
-      },
-      {
-        "time": "21:56",
-        "title": "ネパール高峰で発見の2遺体は邦人",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600609?source=rss",
-        "publishedAt": "2026-10-29T12:56:29.000Z"
       },
       {
         "time": "06:44",
