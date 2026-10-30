@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T16:36:11.476Z",
+  "updatedAt": "2026-10-30T17:10:22.409Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -45,18 +45,18 @@
         "publishedAt": "2026-10-29T22:15:00.000Z"
       },
       {
+        "time": "05:00",
+        "title": "白山機工、切りくず自動回収ロボ JIMTOFで紹介",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8wajFzNWpOT05DRmNXejd1Q2lWc3gzazhkS0pnT0pxaGxGeHpSdjN2UUthQXJORG13bFViWVliSjJaUC1JSWE3alJyeXhxeDhUNHlCQlNjTEs?oc=5",
+        "publishedAt": "2026-10-29T20:00:00.000Z"
+      },
+      {
         "time": "13:43",
         "title": "中国平湖市、日本とのビジネス関係を強化",
         "source": "GlobeNewswire",
         "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxQYTNwelRuUkN1N2lFZ2Fyd0p4MUt5dTJHX2did0dWS3dvaFRSa0hUajk3ZjdpMjZBblYyeWhNcGNEVFVEMDV5aDFuRHZWWEFPazFsdHJ0ZDNqdHNkUW53dm9HRDlDT3BSTldFTXE0Wm5kVkM5U21yR3h5aV84QzFsS1l4QWdlakdMS21LUzd6c0NaR2F2RW1vM0VQcTZmb3BNM3BHakV6SEtiX0xUOEo2NkhvVkU0TzlETjFNQWZtaklPRHJMczkwNktmdUxEWFlTYlBmel95d25BaWJMRnY4eWY5UFFEMmN6MHJXV2plcU12TlNsSTJaeC1wVW1pVXpTYUR0eFlka1l3SlczODhMVm1FdGZ4bGViTHJwZ3VBT3J0d09PaWI3WHB5aXdYNWRJOF9zRUwyenpuN0FoaFAtQmhsbWdqb0dJZDZoRks5VHFVVDlxeXc?oc=5",
         "publishedAt": "2026-10-30T04:43:45.000Z"
-      },
-      {
-        "time": "09:45",
-        "title": "NSK、マシニングセンタ向け新型スピンドル開発…「びびり振動」を抑制し重切削加工の効率向上",
-        "source": "レスポンス（Response.jp）",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8yeEQtdnFEa0JUTngyaTg0MUxkZ19EMERrcmQ1WFFRbGN6cG1IaXRNVnNlS3NnSEV1LVRQZHhwZVpkSFlFb01adzFKZ0dzLThfcVJKMjMxRVhReDJobnJv?oc=5",
-        "publishedAt": "2026-10-30T00:45:03.000Z"
       }
     ],
     "worldHeadlines": [
@@ -215,6 +215,13 @@
         "title": "中小企業省力化投資補助金の公募・採択情報を確認",
         "source": "中小機構",
         "url": "https://seisansei.smrj.go.jp/subsidy_info/laborsaving_subsidy.html"
+      },
+      {
+        "time": "16:00",
+        "title": "【令和8年・2026年】もらえる給付金・支援金まとめ！物価高・農業・子育て・生活支援等、目的別に紹介",
+        "source": "補助金ポータル",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1PbTA2anpjTjlKcUhxXzQtbEFhcXpkSE1UYjItLXZYTHJ0cG5uS3daeVBsY20xTzFCREZ6NEZYdm16OC1iRzRHZWlWZkpyVUYzZmZiTzVGaXd6Q1dhX2ptWVhpLTZuUkZt?oc=5",
+        "publishedAt": "2026-10-28T07:00:00.000Z"
       }
     ]
   }
