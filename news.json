@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T02:18:40.987Z",
+  "updatedAt": "2026-10-30T02:38:09.739Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -149,13 +149,6 @@
     ],
     "localHeadlines": [
       {
-        "time": "10:57",
-        "title": "宮古島沖で船火災 6人の安否不明",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600660?source=rss",
-        "publishedAt": "2026-10-30T01:57:20.000Z"
-      },
-      {
         "time": "06:12",
         "title": "八田與一容疑者の鮮明な写真公開",
         "source": "Yahoo!ニュース",
@@ -189,6 +182,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6600597?source=rss",
         "publishedAt": "2026-10-29T11:48:15.000Z"
+      },
+      {
+        "time": "11:26",
+        "title": "土曜ハロウィン前に渋谷厳戒態勢",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6600661?source=rss",
+        "publishedAt": "2026-10-30T02:26:16.000Z"
       }
     ],
     "subsidyHeadlines": [
