@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-30T01:14:29.547Z",
+  "updatedAt": "2026-10-30T01:40:12.851Z",
   "items": [
     {
-      "time": "08:51",
-      "title": "情報漏えい 4月以降延べ2.6億人分",
+      "time": "08:56",
+      "title": "全国的に大気不安定 急な雷雨注意",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600644?source=rss",
-      "publishedAt": "2026-10-29T23:51:06.000Z",
-      "xQuery": "情報漏えい 4月以降延べ2.6億人分"
+      "url": "https://news.yahoo.co.jp/pickup/6600646?source=rss",
+      "publishedAt": "2026-10-29T23:56:16.000Z",
+      "xQuery": "全国的に大気不安定 急な雷雨注意"
     },
     {
       "time": "09:05",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "富士山の初冠雪を確認 気象庁発表"
     },
     {
-      "time": "08:04",
-      "title": "株価崩れない「ホンダ」の強み",
+      "time": "09:32",
+      "title": "エスカレーターを歩く人 傾向分析",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600635?source=rss",
-      "publishedAt": "2026-10-29T23:04:02.000Z",
-      "xQuery": "株価崩れない「ホンダ」の強み"
+      "url": "https://news.yahoo.co.jp/pickup/6600651?source=rss",
+      "publishedAt": "2026-10-30T00:32:02.000Z",
+      "xQuery": "エスカレーターを歩く人 傾向分析"
     },
     {
       "time": "09:28",

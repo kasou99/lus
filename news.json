@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T01:14:28.768Z",
+  "updatedAt": "2026-10-30T01:40:12.068Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,13 +17,6 @@
         "publishedAt": "2026-10-29T21:03:00.000Z"
       },
       {
-        "time": "07:15",
-        "title": "3D造形で40％軽量化、ヒューマノイド連携も シーメンスが描く次世代DX：JIMTOF2026",
-        "source": "MONOist",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBMTUs1eGtMb2ZQRUdFZi15MWd1X3FDVml5VFhFR2kxUVBQeGo5cDh1QUlmcmtmcUY4cERhTm4tTFJHYTRSNmlLbkpFVjNfQzk1U0tGZURkOHEya21hbU96NWh3a2tvb0ZqMUppclBoWQ?oc=5",
-        "publishedAt": "2026-10-29T22:15:00.000Z"
-      },
-      {
         "time": "09:45",
         "title": "NSK、マシニングセンタ向け新型スピンドル開発…「びびり振動」を抑制し重切削加工の効率向上",
         "source": "レスポンス（Response.jp）",
@@ -31,17 +24,17 @@
         "publishedAt": "2026-10-30T00:45:03.000Z"
       },
       {
+        "time": "07:15",
+        "title": "3D造形で40％軽量化、ヒューマノイド連携も シーメンスが描く次世代DX：JIMTOF2026",
+        "source": "MONOist",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBMTUs1eGtMb2ZQRUdFZi15MWd1X3FDVml5VFhFR2kxUVBQeGo5cDh1QUlmcmtmcUY4cERhTm4tTFJHYTRSNmlLbkpFVjNfQzk1U0tGZURkOHEya21hbU96NWh3a2tvb0ZqMUppclBoWQ?oc=5",
+        "publishedAt": "2026-10-29T22:15:00.000Z"
+      },
+      {
         "time": "05:00",
         "title": "AIロボットの関節向け減速機 新機構で精度「工作機械並み」 - 日経テックフォーサイト",
         "source": "日本経済新聞",
         "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOaWNfUG42aTU0eDVmY0RieFZKUlpnSUszeXo0ME4tRmMtS0pDZ3MwdnM4WHRfUHJZZ3FjX0JEY0VoWDRQeWZMYTZOMUtjNlZkTTNPWDRrRUMtOWcxVk9lc3R4azNVWHNTUGlPWm9nVmxid0hxdHNJYWJwLWUxeW0xR2d0NW1sUEU?oc=5",
-        "publishedAt": "2026-10-29T20:00:00.000Z"
-      },
-      {
-        "time": "05:00",
-        "title": "JIMTOF、企業と接点 大学・工業系高校が成果",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5HN1Uzb2NCUEJiNHRoOUlSU0Z3ZTJSeGU3bk5yeEdGR2RjLXh4bnlvcmlpaG0ybjRuMV9RVkVmM0NHOGNfRHpoUkpweVRnTWhyRkVxeE51MTA?oc=5",
         "publishedAt": "2026-10-29T20:00:00.000Z"
       },
       {
@@ -57,6 +50,13 @@
         "source": "時事ドットコム",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE82V3NTTVNGV0NDeEY4S01LY0tvNXA2SlQwNjlPN1lzUVZtaHdoWE0yOTJNb3JJZ3hMVVhXUXJxWmc5Vk1yLVB3Rm11XzNSN2VuUXBqM1lNcnhXTUdrcTZVWlA4QjhwU284MzBF?oc=5",
         "publishedAt": "2026-10-29T13:40:00.000Z"
+      },
+      {
+        "time": "13:54",
+        "title": "産業機械、工作機械部品製造のKT商事が特別清算開始命令 負債約8300万円 – kenoh.com",
+        "source": "kenoh.com",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE44bEcxVmV6X1h3dUR5bTRZaXNRZ01FeDNiZUZHbmowb2VnV1hfNFBGbDg2OEJ0djBBNVRZTWxKTTBQSThRMXZzNXBR?oc=5",
+        "publishedAt": "2026-10-29T04:54:27.000Z"
       }
     ],
     "worldHeadlines": [
@@ -133,18 +133,18 @@
         "publishedAt": "2026-10-29T10:04:21.000Z"
       },
       {
+        "time": "10:16",
+        "title": "のぞみ1hで14本運行目指す JR",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6600657?source=rss",
+        "publishedAt": "2026-10-30T01:16:36.000Z"
+      },
+      {
         "time": "08:04",
         "title": "株価崩れない「ホンダ」の強み",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6600635?source=rss",
         "publishedAt": "2026-10-29T23:04:02.000Z"
-      },
-      {
-        "time": "22:14",
-        "title": "天丼てんや 2カ月連続で客約1割減",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600612?source=rss",
-        "publishedAt": "2026-10-29T13:14:19.000Z"
       }
     ],
     "localHeadlines": [
