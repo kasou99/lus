@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-30T11:10:44.334Z",
+  "updatedAt": "2026-10-30T11:37:04.783Z",
   "items": [
     {
-      "time": "17:05",
-      "title": "ウが日本に迎撃弾の供与を要望",
+      "time": "19:59",
+      "title": "連続勤務を最長13日で検討 厚労省",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600698?source=rss",
-      "publishedAt": "2026-10-30T08:05:41.000Z",
-      "xQuery": "ウが日本に迎撃弾の供与を要望"
+      "url": "https://news.yahoo.co.jp/pickup/6600713?source=rss",
+      "publishedAt": "2026-10-30T10:59:48.000Z",
+      "xQuery": "連続勤務を最長13日で検討 厚労省"
     },
     {
       "time": "17:38",
