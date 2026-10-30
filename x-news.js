@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-30T05:36:49.979Z",
+  "updatedAt": "2026-10-30T06:22:25.989Z",
   "items": [
+    {
+      "time": "14:57",
+      "title": "暗号資産交換所大手に不正侵入か",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6600684?source=rss",
+      "publishedAt": "2026-10-30T05:57:34.000Z",
+      "xQuery": "暗号資産交換所大手に不正侵入か"
+    },
     {
       "time": "13:03",
       "title": "物価上昇目標2%に到達 日銀見解",
@@ -10,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "物価上昇目標2%に到達 日銀見解"
     },
     {
-      "time": "10:45",
-      "title": "ICC所長 米圧力屈しない構え強調",
+      "time": "13:51",
+      "title": "リースバック 悪質取引に規制強化",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600658?source=rss",
-      "publishedAt": "2026-10-30T01:45:36.000Z",
-      "xQuery": "ICC所長 米圧力屈しない構え強調"
+      "url": "https://news.yahoo.co.jp/pickup/6600675?source=rss",
+      "publishedAt": "2026-10-30T04:51:54.000Z",
+      "xQuery": "リースバック 悪質取引に規制強化"
     },
     {
       "time": "12:21",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6600680?source=rss",
       "publishedAt": "2026-10-30T05:07:46.000Z",
       "xQuery": "西日本でクマ出没急増 餌不足深刻"
-    },
-    {
-      "time": "11:26",
-      "title": "土曜ハロウィン前に渋谷厳戒態勢",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600661?source=rss",
-      "publishedAt": "2026-10-30T02:26:16.000Z",
-      "xQuery": "土曜ハロウィン前に渋谷厳戒態勢"
     }
   ]
 };
