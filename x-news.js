@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-30T02:38:10.586Z",
+  "updatedAt": "2026-10-30T03:15:50.895Z",
   "items": [
     {
-      "time": "10:51",
-      "title": "イスラエル 与野党過半数届かず",
+      "time": "11:48",
+      "title": "中部電の改善命令手続きへ 経産省",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600659?source=rss",
-      "publishedAt": "2026-10-30T01:51:24.000Z",
-      "xQuery": "イスラエル 与野党過半数届かず"
+      "url": "https://news.yahoo.co.jp/pickup/6600663?source=rss",
+      "publishedAt": "2026-10-30T02:48:27.000Z",
+      "xQuery": "中部電の改善命令手続きへ 経産省"
     },
     {
-      "time": "08:56",
-      "title": "全国的に大気不安定 急な雷雨注意",
+      "time": "08:35",
+      "title": "香港高層住宅火災 政府トップ謝罪",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600646?source=rss",
-      "publishedAt": "2026-10-29T23:56:16.000Z",
-      "xQuery": "全国的に大気不安定 急な雷雨注意"
+      "url": "https://news.yahoo.co.jp/pickup/6600642?source=rss",
+      "publishedAt": "2026-10-29T23:35:01.000Z",
+      "xQuery": "香港高層住宅火災 政府トップ謝罪"
     },
     {
       "time": "10:16",
