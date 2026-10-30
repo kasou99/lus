@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-30T06:44:30.708Z",
+  "updatedAt": "2026-10-30T07:14:20.925Z",
   "items": [
     {
       "time": "15:43",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "暗号資産取引大手に不正侵入か"
     },
     {
-      "time": "13:03",
-      "title": "物価上昇目標2%に到達 日銀見解",
+      "time": "16:07",
+      "title": "衆院定数削減 法案成立にハードル",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600672?source=rss",
-      "publishedAt": "2026-10-30T04:03:56.000Z",
-      "xQuery": "物価上昇目標2%に到達 日銀見解"
+      "url": "https://news.yahoo.co.jp/pickup/6600681?source=rss",
+      "publishedAt": "2026-10-30T07:07:47.000Z",
+      "xQuery": "衆院定数削減 法案成立にハードル"
     },
     {
       "time": "15:30",
