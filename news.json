@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T00:36:22.806Z",
+  "updatedAt": "2026-10-30T01:14:28.768Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -22,6 +22,13 @@
         "source": "MONOist",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBMTUs1eGtMb2ZQRUdFZi15MWd1X3FDVml5VFhFR2kxUVBQeGo5cDh1QUlmcmtmcUY4cERhTm4tTFJHYTRSNmlLbkpFVjNfQzk1U0tGZURkOHEya21hbU96NWh3a2tvb0ZqMUppclBoWQ?oc=5",
         "publishedAt": "2026-10-29T22:15:00.000Z"
+      },
+      {
+        "time": "09:45",
+        "title": "NSK、マシニングセンタ向け新型スピンドル開発…「びびり振動」を抑制し重切削加工の効率向上",
+        "source": "レスポンス（Response.jp）",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8yeEQtdnFEa0JUTngyaTg0MUxkZ19EMERrcmQ1WFFRbGN6cG1IaXRNVnNlS3NnSEV1LVRQZHhwZVpkSFlFb01adzFKZ0dzLThfcVJKMjMxRVhReDJobnJv?oc=5",
+        "publishedAt": "2026-10-30T00:45:03.000Z"
       },
       {
         "time": "05:00",
@@ -50,13 +57,6 @@
         "source": "時事ドットコム",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE82V3NTTVNGV0NDeEY4S01LY0tvNXA2SlQwNjlPN1lzUVZtaHdoWE0yOTJNb3JJZ3hMVVhXUXJxWmc5Vk1yLVB3Rm11XzNSN2VuUXBqM1lNcnhXTUdrcTZVWlA4QjhwU284MzBF?oc=5",
         "publishedAt": "2026-10-29T13:40:00.000Z"
-      },
-      {
-        "time": "07:45",
-        "title": "ファナックがCNCで挑む安全なフィジカルAI デジタルツイン×人の承認で事故防止：JIMTOF2026",
-        "source": "MONOist",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE54UUw4cjFLeXNJUlpZODBtQ3JlWEtpd2hsSUZfaWlfSklycldYTGJ3MWdxVnZMbEJVejUyR0VDdG93Z1ozelpVeUNKbEhjMlFzVnBXSXFqbzMtUHdoeDAzTk53MXFtaWp4WFVFLWJ1dw?oc=5",
-        "publishedAt": "2026-10-29T22:45:00.000Z"
       }
     ],
     "worldHeadlines": [
