@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-30T06:22:25.989Z",
+  "updatedAt": "2026-10-30T06:44:30.708Z",
   "items": [
     {
-      "time": "14:57",
-      "title": "暗号資産交換所大手に不正侵入か",
+      "time": "15:43",
+      "title": "暗号資産取引大手に不正侵入か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600684?source=rss",
-      "publishedAt": "2026-10-30T05:57:34.000Z",
-      "xQuery": "暗号資産交換所大手に不正侵入か"
+      "url": "https://news.yahoo.co.jp/pickup/6600689?source=rss",
+      "publishedAt": "2026-10-30T06:43:51.000Z",
+      "xQuery": "暗号資産取引大手に不正侵入か"
     },
     {
       "time": "13:03",
@@ -18,28 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "物価上昇目標2%に到達 日銀見解"
     },
     {
+      "time": "15:30",
+      "title": "無印良品 最大2726万件情報流出か",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6600686?source=rss",
+      "publishedAt": "2026-10-30T06:30:41.000Z",
+      "xQuery": "無印良品 最大2726万件情報流出か"
+    },
+    {
+      "time": "15:19",
+      "title": "都立六本木高校 女子生徒刺される",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6600685?source=rss",
+      "publishedAt": "2026-10-30T06:19:06.000Z",
+      "xQuery": "都立六本木高校 女子生徒刺される"
+    },
+    {
       "time": "13:51",
       "title": "リースバック 悪質取引に規制強化",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6600675?source=rss",
       "publishedAt": "2026-10-30T04:51:54.000Z",
       "xQuery": "リースバック 悪質取引に規制強化"
-    },
-    {
-      "time": "12:21",
-      "title": "宮古島沖で船火災 1人不明5人救助",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600667?source=rss",
-      "publishedAt": "2026-10-30T03:21:54.000Z",
-      "xQuery": "宮古島沖で船火災 1人不明5人救助"
-    },
-    {
-      "time": "14:07",
-      "title": "西日本でクマ出没急増 餌不足深刻",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600680?source=rss",
-      "publishedAt": "2026-10-30T05:07:46.000Z",
-      "xQuery": "西日本でクマ出没急増 餌不足深刻"
     }
   ]
 };
