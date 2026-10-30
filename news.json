@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T11:37:04.191Z",
+  "updatedAt": "2026-10-30T12:19:52.034Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -45,18 +45,18 @@
         "publishedAt": "2026-10-29T22:15:00.000Z"
       },
       {
+        "time": "05:00",
+        "title": "白山機工、切りくず自動回収ロボ JIMTOFで紹介",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8wajFzNWpOT05DRmNXejd1Q2lWc3gzazhkS0pnT0pxaGxGeHpSdjN2UUthQXJORG13bFViWVliSjJaUC1JSWE3alJyeXhxeDhUNHlCQlNjTEs?oc=5",
+        "publishedAt": "2026-10-29T20:00:00.000Z"
+      },
+      {
         "time": "22:40",
         "title": "次世代設備保全クラウドの株式会社M2X、三和罐詰株式会社の導入事例を公開",
         "source": "時事ドットコム",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE82V3NTTVNGV0NDeEY4S01LY0tvNXA2SlQwNjlPN1lzUVZtaHdoWE0yOTJNb3JJZ3hMVVhXUXJxWmc5Vk1yLVB3Rm11XzNSN2VuUXBqM1lNcnhXTUdrcTZVWlA4QjhwU284MzBF?oc=5",
         "publishedAt": "2026-10-29T13:40:00.000Z"
-      },
-      {
-        "time": "23:45",
-        "title": "インフラで培われた京大発の劣化予測技術を設備保全の現場へ、「MENTENA」で社会実装 点検データから設備の劣化進行を",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB2aUlvWmRJZDkxanlPX2t5c1pqZjJ2R0huV0IzMmI5dDRlUGVtRGxWSy01WU16N3FwcTRrYlFObUZYejdaY1lENWZuWmRBUy1uUi12cw?oc=5",
-        "publishedAt": "2026-10-29T14:45:25.000Z"
       }
     ],
     "worldHeadlines": [
@@ -133,18 +133,18 @@
         "publishedAt": "2026-10-30T08:23:11.000Z"
       },
       {
+        "time": "20:41",
+        "title": "中国産オクラ 相次ぎ基準超え農薬",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6600721?source=rss",
+        "publishedAt": "2026-10-30T11:41:55.000Z"
+      },
+      {
         "time": "15:38",
         "title": "ジャングリア苦戦 資金繰りも悪化",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6600688?source=rss",
         "publishedAt": "2026-10-30T06:38:52.000Z"
-      },
-      {
-        "time": "18:26",
-        "title": "東京メトロ「QR乗車券」導入へ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600705?source=rss",
-        "publishedAt": "2026-10-30T09:26:07.000Z"
       }
     ],
     "localHeadlines": [
@@ -170,25 +170,25 @@
         "publishedAt": "2026-10-29T21:12:54.000Z"
       },
       {
-        "time": "15:19",
-        "title": "都立六本木高校 女子生徒刺される",
+        "time": "20:44",
+        "title": "六本木高校生徒 複数回刺され重傷",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600685?source=rss",
-        "publishedAt": "2026-10-30T06:19:06.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6600717?source=rss",
+        "publishedAt": "2026-10-30T11:44:54.000Z"
       },
       {
-        "time": "17:38",
-        "title": "宮古島沖で船火災 船内で1人発見",
+        "time": "20:43",
+        "title": "宮古島沖で船火災 発見の男性死亡",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600700?source=rss",
-        "publishedAt": "2026-10-30T08:38:51.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6600720?source=rss",
+        "publishedAt": "2026-10-30T11:43:05.000Z"
       },
       {
-        "time": "20:34",
-        "title": "13階から転落し作業員重体 丸の内",
+        "time": "20:49",
+        "title": "13階から転落し作業員死亡 丸の内",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600718?source=rss",
-        "publishedAt": "2026-10-30T11:34:27.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6600722?source=rss",
+        "publishedAt": "2026-10-30T11:49:22.000Z"
       }
     ],
     "subsidyHeadlines": [

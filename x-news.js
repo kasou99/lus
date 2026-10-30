@@ -1,6 +1,22 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-30T11:37:04.783Z",
+  "updatedAt": "2026-10-30T12:19:53.008Z",
   "items": [
+    {
+      "time": "21:08",
+      "title": "31日関東-北海道で天気急変に注意",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6600723?source=rss",
+      "publishedAt": "2026-10-30T12:08:35.000Z",
+      "xQuery": "31日関東-北海道で天気急変に注意"
+    },
+    {
+      "time": "20:43",
+      "title": "宮古島沖で船火災 発見の男性死亡",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6600720?source=rss",
+      "publishedAt": "2026-10-30T11:43:05.000Z",
+      "xQuery": "宮古島沖で船火災 発見の男性死亡"
+    },
     {
       "time": "19:59",
       "title": "連続勤務を最長13日で検討 厚労省",
@@ -8,14 +24,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6600713?source=rss",
       "publishedAt": "2026-10-30T10:59:48.000Z",
       "xQuery": "連続勤務を最長13日で検討 厚労省"
-    },
-    {
-      "time": "17:38",
-      "title": "宮古島沖で船火災 船内で1人発見",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600700?source=rss",
-      "publishedAt": "2026-10-30T08:38:51.000Z",
-      "xQuery": "宮古島沖で船火災 船内で1人発見"
     },
     {
       "time": "19:46",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "キオクシア 4-12月純利益24倍予想"
     },
     {
-      "time": "19:10",
-      "title": "バイナンス被害 北朝鮮が関与か",
+      "time": "20:44",
+      "title": "六本木高校生徒 複数回刺され重傷",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600708?source=rss",
-      "publishedAt": "2026-10-30T10:10:27.000Z",
-      "xQuery": "バイナンス被害 北朝鮮が関与か"
-    },
-    {
-      "time": "19:38",
-      "title": "愛知小1暴行死 母親に実刑判決",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600710?source=rss",
-      "publishedAt": "2026-10-30T10:38:32.000Z",
-      "xQuery": "愛知小1暴行死 母親に実刑判決"
+      "url": "https://news.yahoo.co.jp/pickup/6600717?source=rss",
+      "publishedAt": "2026-10-30T11:44:54.000Z",
+      "xQuery": "六本木高校生徒 複数回刺され重傷"
     }
   ]
 };
