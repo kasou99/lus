@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T15:12:13.665Z",
+  "updatedAt": "2026-10-30T15:37:03.543Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -45,27 +45,62 @@
         "publishedAt": "2026-10-29T22:15:00.000Z"
       },
       {
-        "time": "13:43",
-        "title": "中国平湖市、日本とのビジネス関係を強化",
-        "source": "GlobeNewswire",
-        "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxQYTNwelRuUkN1N2lFZ2Fyd0p4MUt5dTJHX2did0dWS3dvaFRSa0hUajk3ZjdpMjZBblYyeWhNcGNEVFVEMDV5aDFuRHZWWEFPazFsdHJ0ZDNqdHNkUW53dm9HRDlDT3BSTldFTXE0Wm5kVkM5U21yR3h5aV84QzFsS1l4QWdlakdMS21LUzd6c0NaR2F2RW1vM0VQcTZmb3BNM3BHakV6SEtiX0xUOEo2NkhvVkU0TzlETjFNQWZtaklPRHJMczkwNktmdUxEWFlTYlBmel95d25BaWJMRnY4eWY5UFFEMmN6MHJXV2plcU12TlNsSTJaeC1wVW1pVXpTYUR0eFlka1l3SlczODhMVm1FdGZ4bGViTHJwZ3VBT3J0d09PaWI3WHB5aXdYNWRJOF9zRUwyenpuN0FoaFAtQmhsbWdqb0dJZDZoRks5VHFVVDlxeXc?oc=5",
-        "publishedAt": "2026-10-30T04:43:45.000Z"
+        "time": "19:10",
+        "title": "【台湾情報】台湾半導体材料の現地調達が加速！日台企業の提携最前線などを解説する＜ワイズリサーチ最新レポート＞",
+        "source": "Infoseek",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5TcjctdmtSbTJnUTNHbGhKQ1NiRks0SUpMTkxCZzN4VVNnRlpWY2RtZjFQdldHSGRPLU1ZMk5qemxzX2N2Qzdjc0hjSjRIRFRBWFdaZ2pDUEJHbmhyQXdHMnUyTDlFdnJ6UDBmRFVxZkZ2Zw?oc=5",
+        "publishedAt": "2026-10-30T10:10:00.000Z"
       },
       {
-        "time": "09:45",
-        "title": "NSK、マシニングセンタ向け新型スピンドル開発…「びびり振動」を抑制し重切削加工の効率向上",
-        "source": "レスポンス（Response.jp）",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8yeEQtdnFEa0JUTngyaTg0MUxkZ19EMERrcmQ1WFFRbGN6cG1IaXRNVnNlS3NnSEV1LVRQZHhwZVpkSFlFb01adzFKZ0dzLThfcVJKMjMxRVhReDJobnJv?oc=5",
-        "publishedAt": "2026-10-30T00:45:03.000Z"
+        "time": "05:00",
+        "title": "白山機工、切りくず自動回収ロボ JIMTOFで紹介",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8wajFzNWpOT05DRmNXejd1Q2lWc3gzazhkS0pnT0pxaGxGeHpSdjN2UUthQXJORG13bFViWVliSjJaUC1JSWE3alJyeXhxeDhUNHlCQlNjTEs?oc=5",
+        "publishedAt": "2026-10-29T20:00:00.000Z"
       }
     ],
     "worldHeadlines": [
       {
-        "time": "17:02",
-        "title": "レーザーダイオード特性評価システム市場分析：業界動向とCAGR 11.6%成長、2026",
-        "source": "pando.life",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9lRlZGSWNDYnJPT0JuYjI2RmJGXzBnbWVTb3V5TE1ieFFnYllhTXJ3TnRFNFk0dEtjUm9VNXlhWGNTMVc2XzVIUm53?oc=5",
-        "publishedAt": "2026-10-30T08:02:50.000Z"
+        "time": "21:59",
+        "title": "トランプ氏 最終盤で選挙戦略転換",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6600727?source=rss",
+        "publishedAt": "2026-10-30T12:59:40.000Z"
+      },
+      {
+        "time": "23:38",
+        "title": "中間選挙 民主党「赤い州」で勢い",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6600736?source=rss",
+        "publishedAt": "2026-10-30T14:38:16.000Z"
+      },
+      {
+        "time": "10:51",
+        "title": "イスラエル 与野党過半数届かず",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6600659?source=rss",
+        "publishedAt": "2026-10-30T01:51:24.000Z"
+      },
+      {
+        "time": "23:17",
+        "title": "露の独立系紙が活動停止 当局弾圧",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6600734?source=rss",
+        "publishedAt": "2026-10-30T14:17:10.000Z"
+      },
+      {
+        "time": "10:45",
+        "title": "ICC所長 米圧力屈しない構え強調",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6600658?source=rss",
+        "publishedAt": "2026-10-30T01:45:36.000Z"
+      },
+      {
+        "time": "07:40",
+        "title": "NVIDIAトップに中国工作員接近か",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6600632?source=rss",
+        "publishedAt": "2026-10-29T22:40:32.000Z"
       }
     ],
     "economyHeadlines": [
