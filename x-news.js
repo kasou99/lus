@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-30T03:37:36.586Z",
+  "updatedAt": "2026-10-30T04:15:19.660Z",
   "items": [
+    {
+      "time": "12:37",
+      "title": "日銀 政策金利1.25%に据え置き",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6600670?source=rss",
+      "publishedAt": "2026-10-30T03:37:48.000Z",
+      "xQuery": "日銀 政策金利1.25%に据え置き"
+    },
     {
       "time": "11:48",
       "title": "中部電の改善命令手続きへ 経産省",
@@ -16,14 +24,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6600642?source=rss",
       "publishedAt": "2026-10-29T23:35:01.000Z",
       "xQuery": "香港高層住宅火災 政府トップ謝罪"
-    },
-    {
-      "time": "10:16",
-      "title": "のぞみ1hで14本運行目指す JR",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600657?source=rss",
-      "publishedAt": "2026-10-30T01:16:36.000Z",
-      "xQuery": "のぞみ1hで14本運行目指す JR"
     },
     {
       "time": "11:05",

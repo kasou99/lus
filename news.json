@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T03:37:35.775Z",
+  "updatedAt": "2026-10-30T04:15:18.726Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -24,18 +24,18 @@
         "publishedAt": "2026-10-29T21:03:00.000Z"
       },
       {
-        "time": "05:00",
-        "title": "AIロボットの関節向け減速機 新機構で精度「工作機械並み」 - 日経テックフォーサイト",
-        "source": "日本経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOaWNfUG42aTU0eDVmY0RieFZKUlpnSUszeXo0ME4tRmMtS0pDZ3MwdnM4WHRfUHJZZ3FjX0JEY0VoWDRQeWZMYTZOMUtjNlZkTTNPWDRrRUMtOWcxVk9lc3R4azNVWHNTUGlPWm9nVmxid0hxdHNJYWJwLWUxeW0xR2d0NW1sUEU?oc=5",
-        "publishedAt": "2026-10-29T20:00:00.000Z"
-      },
-      {
         "time": "07:15",
         "title": "3D造形で40％軽量化、ヒューマノイド連携も シーメンスが描く次世代DX：JIMTOF2026",
         "source": "MONOist",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBMTUs1eGtMb2ZQRUdFZi15MWd1X3FDVml5VFhFR2kxUVBQeGo5cDh1QUlmcmtmcUY4cERhTm4tTFJHYTRSNmlLbkpFVjNfQzk1U0tGZURkOHEya21hbU96NWh3a2tvb0ZqMUppclBoWQ?oc=5",
         "publishedAt": "2026-10-29T22:15:00.000Z"
+      },
+      {
+        "time": "05:00",
+        "title": "AIロボットの関節向け減速機 新機構で精度「工作機械並み」 - 日経テックフォーサイト",
+        "source": "日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOaWNfUG42aTU0eDVmY0RieFZKUlpnSUszeXo0ME4tRmMtS0pDZ3MwdnM4WHRfUHJZZ3FjX0JEY0VoWDRQeWZMYTZOMUtjNlZkTTNPWDRrRUMtOWcxVk9lc3R4azNVWHNTUGlPWm9nVmxid0hxdHNJYWJwLWUxeW0xR2d0NW1sUEU?oc=5",
+        "publishedAt": "2026-10-29T20:00:00.000Z"
       },
       {
         "time": "20:25",
@@ -45,18 +45,18 @@
         "publishedAt": "2026-10-29T11:25:00.000Z"
       },
       {
+        "time": "05:00",
+        "title": "JIMTOF、企業と接点 大学・工業系高校が成果",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5HN1Uzb2NCUEJiNHRoOUlSU0Z3ZTJSeGU3bk5yeEdGR2RjLXh4bnlvcmlpaG0ybjRuMV9RVkVmM0NHOGNfRHpoUkpweVRnTWhyRkVxeE51MTA?oc=5",
+        "publishedAt": "2026-10-29T20:00:00.000Z"
+      },
+      {
         "time": "22:40",
         "title": "次世代設備保全クラウドの株式会社M2X、三和罐詰株式会社の導入事例を公開",
         "source": "時事ドットコム",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE82V3NTTVNGV0NDeEY4S01LY0tvNXA2SlQwNjlPN1lzUVZtaHdoWE0yOTJNb3JJZ3hMVVhXUXJxWmc5Vk1yLVB3Rm11XzNSN2VuUXBqM1lNcnhXTUdrcTZVWlA4QjhwU284MzBF?oc=5",
         "publishedAt": "2026-10-29T13:40:00.000Z"
-      },
-      {
-        "time": "13:54",
-        "title": "産業機械、工作機械部品製造のKT商事が特別清算開始命令 負債約8300万円 – kenoh.com",
-        "source": "kenoh.com",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE44bEcxVmV6X1h3dUR5bTRZaXNRZ01FeDNiZUZHbmowb2VnV1hfNFBGbDg2OEJ0djBBNVRZTWxKTTBQSThRMXZzNXBR?oc=5",
-        "publishedAt": "2026-10-29T04:54:27.000Z"
       }
     ],
     "worldHeadlines": [
@@ -105,6 +105,20 @@
     ],
     "economyHeadlines": [
       {
+        "time": "12:37",
+        "title": "日銀 政策金利1.25%に据え置き",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6600670?source=rss",
+        "publishedAt": "2026-10-30T03:37:48.000Z"
+      },
+      {
+        "time": "13:03",
+        "title": "物価上昇目標2%に到達 日銀見解",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6600672?source=rss",
+        "publishedAt": "2026-10-30T04:03:56.000Z"
+      },
+      {
         "time": "11:48",
         "title": "中部電の改善命令手続きへ 経産省",
         "source": "Yahoo!ニュース",
@@ -112,25 +126,11 @@
         "publishedAt": "2026-10-30T02:48:27.000Z"
       },
       {
-        "time": "16:08",
-        "title": "ANA AIRDOなど完全子会社化へ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600561?source=rss",
-        "publishedAt": "2026-10-29T07:08:06.000Z"
-      },
-      {
         "time": "23:57",
         "title": "欧州中銀 2会合ぶり金利据え置き",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6600623?source=rss",
         "publishedAt": "2026-10-29T14:57:12.000Z"
-      },
-      {
-        "time": "19:04",
-        "title": "11月電気代 大手7社で過去最高値",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600589?source=rss",
-        "publishedAt": "2026-10-29T10:04:21.000Z"
       },
       {
         "time": "10:16",
