@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-30T13:36:42.609Z",
+  "updatedAt": "2026-10-30T14:13:51.163Z",
   "items": [
     {
       "time": "21:08",
@@ -18,6 +18,14 @@ window.LUS_X_NEWS = {
       "xQuery": "トランプ氏 最終盤で選挙戦略転換"
     },
     {
+      "time": "22:41",
+      "title": "辺野古転覆 同志社が5時間会見",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6600730?source=rss",
+      "publishedAt": "2026-10-30T13:41:26.000Z",
+      "xQuery": "辺野古転覆 同志社が5時間会見"
+    },
+    {
       "time": "20:44",
       "title": "六本木高校生徒 複数回刺され重傷",
       "source": "Yahoo!ニュース",
@@ -27,19 +35,11 @@ window.LUS_X_NEWS = {
     },
     {
       "time": "20:49",
-      "title": "13階から転落し作業員死亡 丸の内",
+      "title": "過剰配慮「ホワハラ」に 識者指摘",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600722?source=rss",
-      "publishedAt": "2026-10-30T11:49:22.000Z",
-      "xQuery": "13階から転落し作業員死亡 丸の内"
-    },
-    {
-      "time": "15:38",
-      "title": "ジャングリア苦戦 資金繰りも悪化",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600688?source=rss",
-      "publishedAt": "2026-10-30T06:38:52.000Z",
-      "xQuery": "ジャングリア苦戦 資金繰りも悪化"
+      "url": "https://news.yahoo.co.jp/pickup/6600719?source=rss",
+      "publishedAt": "2026-10-30T11:49:41.000Z",
+      "xQuery": "過剰配慮「ホワハラ」に 識者指摘"
     }
   ]
 };
