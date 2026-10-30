@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-30T01:40:12.851Z",
+  "updatedAt": "2026-10-30T02:18:42.214Z",
   "items": [
+    {
+      "time": "10:51",
+      "title": "イスラエル 与野党過半数届かず",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6600659?source=rss",
+      "publishedAt": "2026-10-30T01:51:24.000Z",
+      "xQuery": "イスラエル 与野党過半数届かず"
+    },
     {
       "time": "08:56",
       "title": "全国的に大気不安定 急な雷雨注意",
@@ -10,12 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "全国的に大気不安定 急な雷雨注意"
     },
     {
-      "time": "09:05",
-      "title": "富士山の初冠雪を確認 気象庁発表",
+      "time": "10:16",
+      "title": "のぞみ1hで14本運行目指す JR",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600649?source=rss",
-      "publishedAt": "2026-10-30T00:05:52.000Z",
-      "xQuery": "富士山の初冠雪を確認 気象庁発表"
+      "url": "https://news.yahoo.co.jp/pickup/6600657?source=rss",
+      "publishedAt": "2026-10-30T01:16:36.000Z",
+      "xQuery": "のぞみ1hで14本運行目指す JR"
+    },
+    {
+      "time": "11:05",
+      "title": "3年で海外出張6672万円 仙台市長",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6600654?source=rss",
+      "publishedAt": "2026-10-30T02:05:19.000Z",
+      "xQuery": "3年で海外出張6672万円 仙台市長"
     },
     {
       "time": "09:32",
@@ -24,22 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6600651?source=rss",
       "publishedAt": "2026-10-30T00:32:02.000Z",
       "xQuery": "エスカレーターを歩く人 傾向分析"
-    },
-    {
-      "time": "09:28",
-      "title": "市が高級ピアノ買い替え決定 賛否",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600652?source=rss",
-      "publishedAt": "2026-10-30T00:28:55.000Z",
-      "xQuery": "市が高級ピアノ買い替え決定 賛否"
-    },
-    {
-      "time": "07:49",
-      "title": "ナップザック 中高生になぜ人気",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600634?source=rss",
-      "publishedAt": "2026-10-29T22:49:30.000Z",
-      "xQuery": "ナップザック 中高生になぜ人気"
     }
   ]
 };
