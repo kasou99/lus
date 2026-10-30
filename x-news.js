@@ -1,37 +1,37 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-29T23:36:32.839Z",
+  "updatedAt": "2026-10-30T00:36:24.033Z",
   "items": [
     {
-      "time": "07:29",
-      "title": "ガソリン補助金 12月から段階縮小",
+      "time": "08:51",
+      "title": "情報漏えい 4月以降延べ2.6億人分",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600631?source=rss",
-      "publishedAt": "2026-10-29T22:29:44.000Z",
-      "xQuery": "ガソリン補助金 12月から段階縮小"
+      "url": "https://news.yahoo.co.jp/pickup/6600644?source=rss",
+      "publishedAt": "2026-10-29T23:51:06.000Z",
+      "xQuery": "情報漏えい 4月以降延べ2.6億人分"
     },
     {
-      "time": "07:40",
-      "title": "NVIDIAトップに中国工作員接近か",
+      "time": "09:05",
+      "title": "富士山の初冠雪を確認 気象庁発表",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600632?source=rss",
-      "publishedAt": "2026-10-29T22:40:32.000Z",
-      "xQuery": "NVIDIAトップに中国工作員接近か"
+      "url": "https://news.yahoo.co.jp/pickup/6600649?source=rss",
+      "publishedAt": "2026-10-30T00:05:52.000Z",
+      "xQuery": "富士山の初冠雪を確認 気象庁発表"
     },
     {
-      "time": "08:05",
-      "title": "名古屋で母娘刺され重傷か 男逃走",
+      "time": "08:04",
+      "title": "株価崩れない「ホンダ」の強み",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600638?source=rss",
-      "publishedAt": "2026-10-29T23:05:54.000Z",
-      "xQuery": "名古屋で母娘刺され重傷か 男逃走"
+      "url": "https://news.yahoo.co.jp/pickup/6600635?source=rss",
+      "publishedAt": "2026-10-29T23:04:02.000Z",
+      "xQuery": "株価崩れない「ホンダ」の強み"
     },
     {
-      "time": "06:12",
-      "title": "八田與一容疑者の鮮明な写真公開",
+      "time": "09:28",
+      "title": "市が高級ピアノ買い替え決定 賛否",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600624?source=rss",
-      "publishedAt": "2026-10-29T21:12:54.000Z",
-      "xQuery": "八田與一容疑者の鮮明な写真公開"
+      "url": "https://news.yahoo.co.jp/pickup/6600652?source=rss",
+      "publishedAt": "2026-10-30T00:28:55.000Z",
+      "xQuery": "市が高級ピアノ買い替え決定 賛否"
     },
     {
       "time": "07:49",

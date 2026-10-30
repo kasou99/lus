@@ -1,13 +1,20 @@
 {
-  "updatedAt": "2026-10-29T23:36:32.210Z",
+  "updatedAt": "2026-10-30T00:36:22.806Z",
   "groups": {
     "machineHeadlines": [
       {
-        "time": "05:00",
-        "title": "AIロボットの関節向け減速機 新機構で精度「工作機械並み」 - 日経テックフォーサイト",
-        "source": "日本経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOaWNfUG42aTU0eDVmY0RieFZKUlpnSUszeXo0ME4tRmMtS0pDZ3MwdnM4WHRfUHJZZ3FjX0JEY0VoWDRQeWZMYTZOMUtjNlZkTTNPWDRrRUMtOWcxVk9lc3R4azNVWHNTUGlPWm9nVmxid0hxdHNJYWJwLWUxeW0xR2d0NW1sUEU?oc=5",
-        "publishedAt": "2026-10-29T20:00:00.000Z"
+        "time": "07:22",
+        "title": "ジェイテクト、工作機械サービス強化へ子会社吸収",
+        "source": "LOGISTICS TODAY",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB5eWRfZmJjRDJLS1h2TVpwcW5SeURVcE9MTE1rMWNMNVpjSjdWV3NOUmdPLVV3akZLcS01R25RTG5jZ3FZYzFVeEhR?oc=5",
+        "publishedAt": "2026-10-29T22:22:01.000Z"
+      },
+      {
+        "time": "06:03",
+        "title": "ナガセインテグレ･武田機械…工作機械の中堅･中小メーカー､販路開拓へ武器にする独自製品・技術",
+        "source": "ニュースイッチ by 日刊工業新聞社",
+        "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5zTlBTQ29mZWxvS2hsUFpvOXNxZHB5dmZtUmhKRjlYaW1oaWh2Qmh1REN5VVB6UWE5OFk5bjdzY1hPUQ?oc=5",
+        "publishedAt": "2026-10-29T21:03:00.000Z"
       },
       {
         "time": "07:15",
@@ -17,18 +24,11 @@
         "publishedAt": "2026-10-29T22:15:00.000Z"
       },
       {
-        "time": "07:06",
-        "title": "ナガセインテグレ･武田機械…工作機械の中堅･中小メーカー､販路開拓へ武器にする独自製品・技術（ニュースイッチ）",
-        "source": "ｄメニューニュース",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPejRPY0NTNEpnUWhvVnkyR3R6OXNPVUdJWEU5Q043WFJsMTBuM3h2NlFqc3VRMzhWa29NdFZLYWNGc2JNakxDdlNwV05JcTd2TS1FNE16ZXQtblk2UVJmUkZEYnoxdnRRSFdmQlpfdGFadnNPaXRna3pkODFMMjNoMEg4bkN5OVZocXhudEZoQkZZaXN3Z1lneDdkSEI4M0IzWUxsTzJGNXhHaGZQZDFkaUE4QnIzOE9ubVlGWmJsUzFxOTM2cUdTMHlreV9FY3Jfb0NPdw?oc=5",
-        "publishedAt": "2026-10-29T22:06:10.000Z"
-      },
-      {
-        "time": "17:32",
-        "title": "ジェイテクト、工作機械サービス強化へ子会社吸収",
-        "source": "LOGISTICS TODAY",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB5eWRfZmJjRDJLS1h2TVpwcW5SeURVcE9MTE1rMWNMNVpjSjdWV3NOUmdPLVV3akZLcS01R25RTG5jZ3FZYzFVeEhR?oc=5",
-        "publishedAt": "2026-10-29T08:32:52.000Z"
+        "time": "05:00",
+        "title": "AIロボットの関節向け減速機 新機構で精度「工作機械並み」 - 日経テックフォーサイト",
+        "source": "日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOaWNfUG42aTU0eDVmY0RieFZKUlpnSUszeXo0ME4tRmMtS0pDZ3MwdnM4WHRfUHJZZ3FjX0JEY0VoWDRQeWZMYTZOMUtjNlZkTTNPWDRrRUMtOWcxVk9lc3R4azNVWHNTUGlPWm9nVmxid0hxdHNJYWJwLWUxeW0xR2d0NW1sUEU?oc=5",
+        "publishedAt": "2026-10-29T20:00:00.000Z"
       },
       {
         "time": "05:00",
