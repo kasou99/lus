@@ -1,14 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-30T09:36:25.483Z",
+  "updatedAt": "2026-10-30T10:13:22.603Z",
   "items": [
-    {
-      "time": "16:07",
-      "title": "衆院定数削減 法案成立にハードル",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600681?source=rss",
-      "publishedAt": "2026-10-30T07:07:47.000Z",
-      "xQuery": "衆院定数削減 法案成立にハードル"
-    },
     {
       "time": "17:05",
       "title": "ウが日本に迎撃弾の供与を要望",
@@ -18,20 +10,28 @@ window.LUS_X_NEWS = {
       "xQuery": "ウが日本に迎撃弾の供与を要望"
     },
     {
-      "time": "17:53",
-      "title": "外務省 3600件の個人情報漏えいか",
+      "time": "17:38",
+      "title": "宮古島沖で船火災 船内で1人発見",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600703?source=rss",
-      "publishedAt": "2026-10-30T08:53:18.000Z",
-      "xQuery": "外務省 3600件の個人情報漏えいか"
+      "url": "https://news.yahoo.co.jp/pickup/6600700?source=rss",
+      "publishedAt": "2026-10-30T08:38:51.000Z",
+      "xQuery": "宮古島沖で船火災 船内で1人発見"
     },
     {
-      "time": "15:19",
-      "title": "都立六本木高校 女子生徒刺される",
+      "time": "17:23",
+      "title": "トヨタ 無人タクシー来年運行開始",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600685?source=rss",
-      "publishedAt": "2026-10-30T06:19:06.000Z",
-      "xQuery": "都立六本木高校 女子生徒刺される"
+      "url": "https://news.yahoo.co.jp/pickup/6600696?source=rss",
+      "publishedAt": "2026-10-30T08:23:11.000Z",
+      "xQuery": "トヨタ 無人タクシー来年運行開始"
+    },
+    {
+      "time": "18:26",
+      "title": "東京メトロ「QR乗車券」導入へ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6600705?source=rss",
+      "publishedAt": "2026-10-30T09:26:07.000Z",
+      "xQuery": "東京メトロ「QR乗車券」導入へ"
     },
     {
       "time": "18:00",
