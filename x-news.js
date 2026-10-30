@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-30T04:36:26.586Z",
+  "updatedAt": "2026-10-30T05:13:15.795Z",
   "items": [
     {
       "time": "13:03",
@@ -8,14 +8,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6600672?source=rss",
       "publishedAt": "2026-10-30T04:03:56.000Z",
       "xQuery": "物価上昇目標2%に到達 日銀見解"
-    },
-    {
-      "time": "11:48",
-      "title": "中部電の改善命令手続きへ 経産省",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600663?source=rss",
-      "publishedAt": "2026-10-30T02:48:27.000Z",
-      "xQuery": "中部電の改善命令手続きへ 経産省"
     },
     {
       "time": "10:45",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6600654?source=rss",
       "publishedAt": "2026-10-30T02:05:19.000Z",
       "xQuery": "3年で海外出張6672万円 仙台市長"
+    },
+    {
+      "time": "14:07",
+      "title": "西日本でクマ出没急増 餌不足深刻",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6600680?source=rss",
+      "publishedAt": "2026-10-30T05:07:46.000Z",
+      "xQuery": "西日本でクマ出没急増 餌不足深刻"
     }
   ]
 };
