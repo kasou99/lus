@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T20:35:29.527Z",
+  "updatedAt": "2026-10-30T21:09:28.449Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -8,6 +8,13 @@
         "source": "MONOist",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBiM0hQMnFVeFRlcmxHX2NJNy12SW9ZRVBkcFlEa0tnZkZ2WWRXSEZnRUFSRkVmOTRWTHpHa3k0UVdMaEs3VTJHdXZMWjhlekZibGRSbnpyYzN2NEluNWRjcExlbmFsSlp3U0U2emN6SQ?oc=5",
         "publishedAt": "2026-10-30T04:30:00.000Z"
+      },
+      {
+        "time": "10:10",
+        "title": "ナガセインテグレ･武田機械…工作機械の中堅･中小メーカー､販路開拓へ武器にする独自製品・技術（ニュースイッチ）",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8zNHRJSFMyTDNkTlE1aE1xVHBWZVNsbU1aQWZvOG1nNG1ZY0ZlMUh4M3k2M0R0Xy1HaWhadWlRdDd5N0dWbUtiSGFwNWJmcDkzaVhQQWxNSC1DaTdQNGlMbUsxQjBZcXFwaV84dFREajJfdnA4LV9oQXZOOXZvc2M?oc=5",
+        "publishedAt": "2026-10-30T01:10:02.000Z"
       },
       {
         "time": "13:45",
@@ -22,13 +29,6 @@
         "source": "LOGISTICS TODAY",
         "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB5eWRfZmJjRDJLS1h2TVpwcW5SeURVcE9MTE1rMWNMNVpjSjdWV3NOUmdPLVV3akZLcS01R25RTG5jZ3FZYzFVeEhR?oc=5",
         "publishedAt": "2026-10-29T22:22:01.000Z"
-      },
-      {
-        "time": "06:03",
-        "title": "ナガセインテグレ･武田機械…工作機械の中堅･中小メーカー､販路開拓へ武器にする独自製品・技術",
-        "source": "ニュースイッチ by 日刊工業新聞社",
-        "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5zTlBTQ29mZWxvS2hsUFpvOXNxZHB5dmZtUmhKRjlYaW1oaWh2Qmh1REN5VVB6UWE5OFk5bjdzY1hPUQ?oc=5",
-        "publishedAt": "2026-10-29T21:03:00.000Z"
       },
       {
         "time": "04:04",
