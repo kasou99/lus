@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-30T14:13:51.163Z",
+  "updatedAt": "2026-10-30T14:36:22.731Z",
   "items": [
     {
       "time": "21:08",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "トランプ氏 最終盤で選挙戦略転換"
     },
     {
-      "time": "22:41",
-      "title": "辺野古転覆 同志社が5時間会見",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600730?source=rss",
-      "publishedAt": "2026-10-30T13:41:26.000Z",
-      "xQuery": "辺野古転覆 同志社が5時間会見"
-    },
-    {
       "time": "20:44",
       "title": "六本木高校生徒 複数回刺され重傷",
       "source": "Yahoo!ニュース",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "六本木高校生徒 複数回刺され重傷"
     },
     {
-      "time": "20:49",
-      "title": "過剰配慮「ホワハラ」に 識者指摘",
+      "time": "22:44",
+      "title": "高級時計窃盗事件 防カメに男の姿",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600719?source=rss",
-      "publishedAt": "2026-10-30T11:49:41.000Z",
-      "xQuery": "過剰配慮「ホワハラ」に 識者指摘"
+      "url": "https://news.yahoo.co.jp/pickup/6600731?source=rss",
+      "publishedAt": "2026-10-30T13:44:58.000Z",
+      "xQuery": "高級時計窃盗事件 防カメに男の姿"
+    },
+    {
+      "time": "23:03",
+      "title": "ジャングリア 出資に数社が関心",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6600733?source=rss",
+      "publishedAt": "2026-10-30T14:03:09.000Z",
+      "xQuery": "ジャングリア 出資に数社が関心"
     }
   ]
 };

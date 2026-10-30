@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T14:13:50.242Z",
+  "updatedAt": "2026-10-30T14:36:21.998Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -75,6 +75,13 @@
         "publishedAt": "2026-10-30T01:51:24.000Z"
       },
       {
+        "time": "23:17",
+        "title": "露の独立系紙が活動停止 当局弾圧",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6600734?source=rss",
+        "publishedAt": "2026-10-30T14:17:10.000Z"
+      },
+      {
         "time": "10:45",
         "title": "ICC所長 米圧力屈しない構え強調",
         "source": "Yahoo!ニュース",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6600715?source=rss",
         "publishedAt": "2026-10-30T11:34:46.000Z"
-      },
-      {
-        "time": "06:44",
-        "title": "習近平総書記 4期目入りが濃厚",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600628?source=rss",
-        "publishedAt": "2026-10-29T21:44:25.000Z"
       }
     ],
     "economyHeadlines": [
