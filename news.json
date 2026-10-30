@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T22:35:11.319Z",
+  "updatedAt": "2026-10-30T23:09:28.394Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -45,11 +45,11 @@
         "publishedAt": "2026-10-30T01:10:02.000Z"
       },
       {
-        "time": "07:45",
-        "title": "ファナックがCNCで挑む安全なフィジカルAI デジタルツイン×人の承認で事故防止：JIMTOF2026",
-        "source": "MONOist",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE54UUw4cjFLeXNJUlpZODBtQ3JlWEtpd2hsSUZfaWlfSklycldYTGJ3MWdxVnZMbEJVejUyR0VDdG93Z1ozelpVeUNKbEhjMlFzVnBXSXFqbzMtUHdoeDAzTk53MXFtaWp4WFVFLWJ1dw?oc=5",
-        "publishedAt": "2026-10-29T22:45:00.000Z"
+        "time": "08:10",
+        "title": "インフラで培われた京大発の劣化予測技術を設備保全の現場へ、「MENTENA」で社会実装 点検データから設備の劣化進行を予測し、最適な保全活動を実現",
+        "source": "時事ドットコム",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE90TmZnZ0EwTndhMVg5VjdadkdqNklfNWV3bzM4WXh1SDhraUZWUVJCc1p6TDMyMWRRVlp6SUdZMm5IUkJYVnJ6RmQ4LUs5SmFGSV9mWVRKNFZ3bE56NnNSdmxNcThkUzJTRzBN?oc=5",
+        "publishedAt": "2026-10-29T23:10:00.000Z"
       },
       {
         "time": "13:43",
@@ -75,6 +75,13 @@
         "publishedAt": "2026-10-30T14:38:16.000Z"
       },
       {
+        "time": "08:05",
+        "title": "教皇が米中間選挙に投票 史上初",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6600748?source=rss",
+        "publishedAt": "2026-10-30T23:05:29.000Z"
+      },
+      {
         "time": "10:51",
         "title": "イスラエル 与野党過半数届かず",
         "source": "Yahoo!ニュース",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6600658?source=rss",
         "publishedAt": "2026-10-30T01:45:36.000Z"
-      },
-      {
-        "time": "07:40",
-        "title": "NVIDIAトップに中国工作員接近か",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600632?source=rss",
-        "publishedAt": "2026-10-29T22:40:32.000Z"
       }
     ],
     "economyHeadlines": [

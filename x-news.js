@@ -1,29 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-30T22:35:12.015Z",
+  "updatedAt": "2026-10-30T23:09:29.228Z",
   "items": [
     {
-      "time": "21:08",
-      "title": "31日関東-北海道で天気急変に注意",
+      "time": "07:29",
+      "title": "茂木外相 露外相に記者の解放要求",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600723?source=rss",
-      "publishedAt": "2026-10-30T12:08:35.000Z",
-      "xQuery": "31日関東-北海道で天気急変に注意"
+      "url": "https://news.yahoo.co.jp/pickup/6600743?source=rss",
+      "publishedAt": "2026-10-30T22:29:41.000Z",
+      "xQuery": "茂木外相 露外相に記者の解放要求"
     },
     {
-      "time": "23:38",
-      "title": "中間選挙 民主党「赤い州」で勢い",
+      "time": "07:39",
+      "title": "e-Taxかたる不審メール 相談急増",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600736?source=rss",
-      "publishedAt": "2026-10-30T14:38:16.000Z",
-      "xQuery": "中間選挙 民主党「赤い州」で勢い"
-    },
-    {
-      "time": "23:03",
-      "title": "ジャングリア 出資に数社が関心",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600733?source=rss",
-      "publishedAt": "2026-10-30T14:03:09.000Z",
-      "xQuery": "ジャングリア 出資に数社が関心"
+      "url": "https://news.yahoo.co.jp/pickup/6600745?source=rss",
+      "publishedAt": "2026-10-30T22:39:25.000Z",
+      "xQuery": "e-Taxかたる不審メール 相談急増"
     },
     {
       "time": "20:44",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6600732?source=rss",
       "publishedAt": "2026-10-30T13:33:32.000Z",
       "xQuery": "体中にプラ片詰まった鳥 豪州の島"
+    },
+    {
+      "time": "07:25",
+      "title": "都内最古の「天下一品」閉店へ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6600740?source=rss",
+      "publishedAt": "2026-10-30T22:25:10.000Z",
+      "xQuery": "都内最古の「天下一品」閉店へ"
     }
   ]
 };
