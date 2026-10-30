@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-30T12:19:53.008Z",
+  "updatedAt": "2026-10-30T12:41:51.718Z",
   "items": [
     {
       "time": "21:08",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "31日関東-北海道で天気急変に注意"
     },
     {
-      "time": "20:43",
-      "title": "宮古島沖で船火災 発見の男性死亡",
+      "time": "20:34",
+      "title": "韓国 北の境界線侵犯に厳正対応",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600720?source=rss",
-      "publishedAt": "2026-10-30T11:43:05.000Z",
-      "xQuery": "宮古島沖で船火災 発見の男性死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6600715?source=rss",
+      "publishedAt": "2026-10-30T11:34:46.000Z",
+      "xQuery": "韓国 北の境界線侵犯に厳正対応"
     },
     {
       "time": "19:59",

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T12:19:52.034Z",
+  "updatedAt": "2026-10-30T12:41:50.574Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -45,18 +45,18 @@
         "publishedAt": "2026-10-29T22:15:00.000Z"
       },
       {
-        "time": "05:00",
-        "title": "白山機工、切りくず自動回収ロボ JIMTOFで紹介",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8wajFzNWpOT05DRmNXejd1Q2lWc3gzazhkS0pnT0pxaGxGeHpSdjN2UUthQXJORG13bFViWVliSjJaUC1JSWE3alJyeXhxeDhUNHlCQlNjTEs?oc=5",
-        "publishedAt": "2026-10-29T20:00:00.000Z"
-      },
-      {
         "time": "22:40",
         "title": "次世代設備保全クラウドの株式会社M2X、三和罐詰株式会社の導入事例を公開",
         "source": "時事ドットコム",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE82V3NTTVNGV0NDeEY4S01LY0tvNXA2SlQwNjlPN1lzUVZtaHdoWE0yOTJNb3JJZ3hMVVhXUXJxWmc5Vk1yLVB3Rm11XzNSN2VuUXBqM1lNcnhXTUdrcTZVWlA4QjhwU284MzBF?oc=5",
         "publishedAt": "2026-10-29T13:40:00.000Z"
+      },
+      {
+        "time": "09:45",
+        "title": "NSK、マシニングセンタ向け新型スピンドル開発…「びびり振動」を抑制し重切削加工の効率向上",
+        "source": "レスポンス（Response.jp）",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8yeEQtdnFEa0JUTngyaTg0MUxkZ19EMERrcmQ1WFFRbGN6cG1IaXRNVnNlS3NnSEV1LVRQZHhwZVpkSFlFb01adzFKZ0dzLThfcVJKMjMxRVhReDJobnJv?oc=5",
+        "publishedAt": "2026-10-30T00:45:03.000Z"
       }
     ],
     "worldHeadlines": [
@@ -156,13 +156,6 @@
         "publishedAt": "2026-10-30T07:58:23.000Z"
       },
       {
-        "time": "19:38",
-        "title": "愛知小1暴行死 母親に実刑判決",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600710?source=rss",
-        "publishedAt": "2026-10-30T10:38:32.000Z"
-      },
-      {
         "time": "06:12",
         "title": "八田與一容疑者の鮮明な写真公開",
         "source": "Yahoo!ニュース",
@@ -189,6 +182,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6600722?source=rss",
         "publishedAt": "2026-10-30T11:49:22.000Z"
+      },
+      {
+        "time": "20:13",
+        "title": "高級腕時計盗み逃走 防カメに姿か",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6600716?source=rss",
+        "publishedAt": "2026-10-30T11:13:01.000Z"
       }
     ],
     "subsidyHeadlines": [
