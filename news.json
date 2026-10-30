@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T10:37:01.981Z",
+  "updatedAt": "2026-10-30T11:10:43.648Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -45,18 +45,18 @@
         "publishedAt": "2026-10-29T22:15:00.000Z"
       },
       {
-        "time": "09:45",
-        "title": "NSK、マシニングセンタ向け新型スピンドル開発…「びびり振動」を抑制し重切削加工の効率向上",
-        "source": "レスポンス（Response.jp）",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8yeEQtdnFEa0JUTngyaTg0MUxkZ19EMERrcmQ1WFFRbGN6cG1IaXRNVnNlS3NnSEV1LVRQZHhwZVpkSFlFb01adzFKZ0dzLThfcVJKMjMxRVhReDJobnJv?oc=5",
-        "publishedAt": "2026-10-30T00:45:03.000Z"
-      },
-      {
         "time": "05:00",
         "title": "白山機工、切りくず自動回収ロボ JIMTOFで紹介",
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8wajFzNWpOT05DRmNXejd1Q2lWc3gzazhkS0pnT0pxaGxGeHpSdjN2UUthQXJORG13bFViWVliSjJaUC1JSWE3alJyeXhxeDhUNHlCQlNjTEs?oc=5",
         "publishedAt": "2026-10-29T20:00:00.000Z"
+      },
+      {
+        "time": "20:25",
+        "title": "中国の全直駆工作機械大手・釕鋭釕（こえいし）がSTAR市場で新規株式公開の申し込み開始、公開価格45.37元で6.82億元を調達へ",
+        "source": "BigGo ファイナンス",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9aT2xkVUVUa25WSW9xNWtSWnEzU0RVdUJfeWx3V0ZXRDBIMEw1X2FIM2RsT1VGVW9jZW9ueVJvSzFPRk1JYzllaVE2a0xHWnlxb2F5TXpHODdJTzNHMlJjNzk4TlRqTXlDakw1V0xVM3ViSVFN?oc=5",
+        "publishedAt": "2026-10-29T11:25:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -119,11 +119,11 @@
         "publishedAt": "2026-10-30T04:03:56.000Z"
       },
       {
-        "time": "13:51",
-        "title": "リースバック 悪質取引に規制強化",
+        "time": "19:46",
+        "title": "キオクシア 4-12月純利益24倍予想",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600675?source=rss",
-        "publishedAt": "2026-10-30T04:51:54.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6600712?source=rss",
+        "publishedAt": "2026-10-30T10:46:26.000Z"
       },
       {
         "time": "17:23",
@@ -156,6 +156,13 @@
         "publishedAt": "2026-10-30T07:58:23.000Z"
       },
       {
+        "time": "19:38",
+        "title": "愛知小1暴行死 母親に実刑判決",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6600710?source=rss",
+        "publishedAt": "2026-10-30T10:38:32.000Z"
+      },
+      {
         "time": "06:12",
         "title": "八田與一容疑者の鮮明な写真公開",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6600702?source=rss",
         "publishedAt": "2026-10-30T09:00:02.000Z"
-      },
-      {
-        "time": "08:05",
-        "title": "名古屋で母娘刺され重傷か 男逃走",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600638?source=rss",
-        "publishedAt": "2026-10-29T23:05:54.000Z"
       }
     ],
     "subsidyHeadlines": [
