@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-30T23:09:29.228Z",
+  "updatedAt": "2026-10-30T23:35:07.622Z",
   "items": [
     {
       "time": "07:29",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "e-Taxかたる不審メール 相談急増"
     },
     {
-      "time": "20:44",
-      "title": "六本木高校生徒 複数回刺され重傷",
+      "time": "08:05",
+      "title": "教皇が米中間選挙に投票 史上初",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600717?source=rss",
-      "publishedAt": "2026-10-30T11:44:54.000Z",
-      "xQuery": "六本木高校生徒 複数回刺され重傷"
+      "url": "https://news.yahoo.co.jp/pickup/6600748?source=rss",
+      "publishedAt": "2026-10-30T23:05:29.000Z",
+      "xQuery": "教皇が米中間選挙に投票 史上初"
     },
     {
-      "time": "22:33",
-      "title": "体中にプラ片詰まった鳥 豪州の島",
+      "time": "08:15",
+      "title": "転覆 同志社会見に遺族コメント",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600732?source=rss",
-      "publishedAt": "2026-10-30T13:33:32.000Z",
-      "xQuery": "体中にプラ片詰まった鳥 豪州の島"
+      "url": "https://news.yahoo.co.jp/pickup/6600752?source=rss",
+      "publishedAt": "2026-10-30T23:15:38.000Z",
+      "xQuery": "転覆 同志社会見に遺族コメント"
     },
     {
       "time": "07:25",
