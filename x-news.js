@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-30T13:13:36.639Z",
+  "updatedAt": "2026-10-30T13:36:42.609Z",
   "items": [
     {
       "time": "21:08",
@@ -10,20 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "31日関東-北海道で天気急変に注意"
     },
     {
-      "time": "20:34",
-      "title": "韓国 北の境界線侵犯に厳正対応",
+      "time": "21:59",
+      "title": "トランプ氏 最終盤で選挙戦略転換",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600715?source=rss",
-      "publishedAt": "2026-10-30T11:34:46.000Z",
-      "xQuery": "韓国 北の境界線侵犯に厳正対応"
-    },
-    {
-      "time": "19:46",
-      "title": "キオクシア 4-12月純利益24倍予想",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600712?source=rss",
-      "publishedAt": "2026-10-30T10:46:26.000Z",
-      "xQuery": "キオクシア 4-12月純利益24倍予想"
+      "url": "https://news.yahoo.co.jp/pickup/6600727?source=rss",
+      "publishedAt": "2026-10-30T12:59:40.000Z",
+      "xQuery": "トランプ氏 最終盤で選挙戦略転換"
     },
     {
       "time": "20:44",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6600722?source=rss",
       "publishedAt": "2026-10-30T11:49:22.000Z",
       "xQuery": "13階から転落し作業員死亡 丸の内"
+    },
+    {
+      "time": "15:38",
+      "title": "ジャングリア苦戦 資金繰りも悪化",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6600688?source=rss",
+      "publishedAt": "2026-10-30T06:38:52.000Z",
+      "xQuery": "ジャングリア苦戦 資金繰りも悪化"
     }
   ]
 };
