@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-30T14:36:22.731Z",
+  "updatedAt": "2026-10-30T15:12:14.432Z",
   "items": [
     {
       "time": "21:08",
@@ -10,28 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "31日関東-北海道で天気急変に注意"
     },
     {
-      "time": "21:59",
-      "title": "トランプ氏 最終盤で選挙戦略転換",
+      "time": "23:38",
+      "title": "中間選挙 民主党「赤い州」で勢い",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600727?source=rss",
-      "publishedAt": "2026-10-30T12:59:40.000Z",
-      "xQuery": "トランプ氏 最終盤で選挙戦略転換"
+      "url": "https://news.yahoo.co.jp/pickup/6600736?source=rss",
+      "publishedAt": "2026-10-30T14:38:16.000Z",
+      "xQuery": "中間選挙 民主党「赤い州」で勢い"
     },
     {
-      "time": "20:44",
-      "title": "六本木高校生徒 複数回刺され重傷",
+      "time": "19:46",
+      "title": "キオクシア 4-12月純利益24倍予想",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600717?source=rss",
-      "publishedAt": "2026-10-30T11:44:54.000Z",
-      "xQuery": "六本木高校生徒 複数回刺され重傷"
-    },
-    {
-      "time": "22:44",
-      "title": "高級時計窃盗事件 防カメに男の姿",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600731?source=rss",
-      "publishedAt": "2026-10-30T13:44:58.000Z",
-      "xQuery": "高級時計窃盗事件 防カメに男の姿"
+      "url": "https://news.yahoo.co.jp/pickup/6600712?source=rss",
+      "publishedAt": "2026-10-30T10:46:26.000Z",
+      "xQuery": "キオクシア 4-12月純利益24倍予想"
     },
     {
       "time": "23:03",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6600733?source=rss",
       "publishedAt": "2026-10-30T14:03:09.000Z",
       "xQuery": "ジャングリア 出資に数社が関心"
+    },
+    {
+      "time": "20:44",
+      "title": "六本木高校生徒 複数回刺され重傷",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6600717?source=rss",
+      "publishedAt": "2026-10-30T11:44:54.000Z",
+      "xQuery": "六本木高校生徒 複数回刺され重傷"
     }
   ]
 };
