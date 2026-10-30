@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-30T04:15:19.660Z",
+  "updatedAt": "2026-10-30T04:36:26.586Z",
   "items": [
     {
-      "time": "12:37",
-      "title": "日銀 政策金利1.25%に据え置き",
+      "time": "13:03",
+      "title": "物価上昇目標2%に到達 日銀見解",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600670?source=rss",
-      "publishedAt": "2026-10-30T03:37:48.000Z",
-      "xQuery": "日銀 政策金利1.25%に据え置き"
+      "url": "https://news.yahoo.co.jp/pickup/6600672?source=rss",
+      "publishedAt": "2026-10-30T04:03:56.000Z",
+      "xQuery": "物価上昇目標2%に到達 日銀見解"
     },
     {
       "time": "11:48",
@@ -18,12 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "中部電の改善命令手続きへ 経産省"
     },
     {
-      "time": "08:35",
-      "title": "香港高層住宅火災 政府トップ謝罪",
+      "time": "10:45",
+      "title": "ICC所長 米圧力屈しない構え強調",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600642?source=rss",
-      "publishedAt": "2026-10-29T23:35:01.000Z",
-      "xQuery": "香港高層住宅火災 政府トップ謝罪"
+      "url": "https://news.yahoo.co.jp/pickup/6600658?source=rss",
+      "publishedAt": "2026-10-30T01:45:36.000Z",
+      "xQuery": "ICC所長 米圧力屈しない構え強調"
+    },
+    {
+      "time": "12:21",
+      "title": "宮古島沖で船火災 1人不明5人救助",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6600667?source=rss",
+      "publishedAt": "2026-10-30T03:21:54.000Z",
+      "xQuery": "宮古島沖で船火災 1人不明5人救助"
     },
     {
       "time": "11:05",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6600654?source=rss",
       "publishedAt": "2026-10-30T02:05:19.000Z",
       "xQuery": "3年で海外出張6672万円 仙台市長"
-    },
-    {
-      "time": "09:32",
-      "title": "エスカレーターを歩く人 傾向分析",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600651?source=rss",
-      "publishedAt": "2026-10-30T00:32:02.000Z",
-      "xQuery": "エスカレーターを歩く人 傾向分析"
     }
   ]
 };

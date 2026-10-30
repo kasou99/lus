@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T04:15:18.726Z",
+  "updatedAt": "2026-10-30T04:36:25.995Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -45,18 +45,18 @@
         "publishedAt": "2026-10-29T11:25:00.000Z"
       },
       {
-        "time": "05:00",
-        "title": "JIMTOF、企業と接点 大学・工業系高校が成果",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5HN1Uzb2NCUEJiNHRoOUlSU0Z3ZTJSeGU3bk5yeEdGR2RjLXh4bnlvcmlpaG0ybjRuMV9RVkVmM0NHOGNfRHpoUkpweVRnTWhyRkVxeE51MTA?oc=5",
-        "publishedAt": "2026-10-29T20:00:00.000Z"
-      },
-      {
         "time": "22:40",
         "title": "次世代設備保全クラウドの株式会社M2X、三和罐詰株式会社の導入事例を公開",
         "source": "時事ドットコム",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE82V3NTTVNGV0NDeEY4S01LY0tvNXA2SlQwNjlPN1lzUVZtaHdoWE0yOTJNb3JJZ3hMVVhXUXJxWmc5Vk1yLVB3Rm11XzNSN2VuUXBqM1lNcnhXTUdrcTZVWlA4QjhwU284MzBF?oc=5",
         "publishedAt": "2026-10-29T13:40:00.000Z"
+      },
+      {
+        "time": "17:30",
+        "title": "熟練工の技、AIで 工作機械のオークマやマザックが導入の動き",
+        "source": "日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ZY0Fxb2xILUxBMWNCcVpSUHpnUGF0SHdFc1ZRRWtMbkZmN0tJWUwyWERtelpBZ3V0WWZTZHZELVE5bjdVZ3RfTjRNZG9kcWtHY1JWT0JIbnBSLURHWlJQb0gzbE01a3RpbnNtdQ?oc=5",
+        "publishedAt": "2026-10-29T08:30:00.000Z"
       }
     ],
     "worldHeadlines": [
