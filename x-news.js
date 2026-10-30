@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-30T07:36:26.233Z",
+  "updatedAt": "2026-10-30T08:17:27.131Z",
   "items": [
     {
       "time": "15:43",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "都立六本木高校 女子生徒刺される"
     },
     {
-      "time": "13:51",
-      "title": "リースバック 悪質取引に規制強化",
+      "time": "16:58",
+      "title": "辺野古転覆 同志社理事長が謝罪",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600675?source=rss",
-      "publishedAt": "2026-10-30T04:51:54.000Z",
-      "xQuery": "リースバック 悪質取引に規制強化"
+      "url": "https://news.yahoo.co.jp/pickup/6600695?source=rss",
+      "publishedAt": "2026-10-30T07:58:23.000Z",
+      "xQuery": "辺野古転覆 同志社理事長が謝罪"
     }
   ]
 };

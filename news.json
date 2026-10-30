@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T07:36:25.297Z",
+  "updatedAt": "2026-10-30T08:17:26.006Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -45,18 +45,18 @@
         "publishedAt": "2026-10-30T00:45:03.000Z"
       },
       {
-        "time": "05:00",
-        "title": "JIMTOF、企業と接点 大学・工業系高校が成果",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5HN1Uzb2NCUEJiNHRoOUlSU0Z3ZTJSeGU3bk5yeEdGR2RjLXh4bnlvcmlpaG0ybjRuMV9RVkVmM0NHOGNfRHpoUkpweVRnTWhyRkVxeE51MTA?oc=5",
-        "publishedAt": "2026-10-29T20:00:00.000Z"
-      },
-      {
         "time": "07:15",
         "title": "3D造形で40％軽量化、ヒューマノイド連携も シーメンスが描く次世代DX：JIMTOF2026",
         "source": "MONOist",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBMTUs1eGtMb2ZQRUdFZi15MWd1X3FDVml5VFhFR2kxUVBQeGo5cDh1QUlmcmtmcUY4cERhTm4tTFJHYTRSNmlLbkpFVjNfQzk1U0tGZURkOHEya21hbU96NWh3a2tvb0ZqMUppclBoWQ?oc=5",
         "publishedAt": "2026-10-29T22:15:00.000Z"
+      },
+      {
+        "time": "20:25",
+        "title": "中国の全直駆工作機械大手・釕鋭釕（こえいし）がSTAR市場で新規株式公開の申し込み開始、公開価格45.37元で6.82億元を調達へ",
+        "source": "BigGo ファイナンス",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9aT2xkVUVUa25WSW9xNWtSWnEzU0RVdUJfeWx3V0ZXRDBIMEw1X2FIM2RsT1VGVW9jZW9ueVJvSzFPRk1JYzllaVE2a0xHWnlxb2F5TXpHODdJTzNHMlJjNzk4TlRqTXlDakw1V0xVM3ViSVFN?oc=5",
+        "publishedAt": "2026-10-29T11:25:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "16:58",
+        "title": "辺野古転覆 同志社理事長が謝罪",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6600695?source=rss",
+        "publishedAt": "2026-10-30T07:58:23.000Z"
+      },
+      {
         "time": "06:12",
         "title": "八田與一容疑者の鮮明な写真公開",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6600638?source=rss",
         "publishedAt": "2026-10-29T23:05:54.000Z"
-      },
-      {
-        "time": "11:26",
-        "title": "土曜ハロウィン前に渋谷厳戒態勢",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600661?source=rss",
-        "publishedAt": "2026-10-30T02:26:16.000Z"
       }
     ],
     "subsidyHeadlines": [
