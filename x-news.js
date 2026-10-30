@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-30T10:13:22.603Z",
+  "updatedAt": "2026-10-30T10:37:02.828Z",
   "items": [
     {
       "time": "17:05",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "宮古島沖で船火災 船内で1人発見"
     },
     {
+      "time": "19:10",
+      "title": "バイナンス被害 北朝鮮が関与か",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6600708?source=rss",
+      "publishedAt": "2026-10-30T10:10:27.000Z",
+      "xQuery": "バイナンス被害 北朝鮮が関与か"
+    },
+    {
       "time": "17:23",
       "title": "トヨタ 無人タクシー来年運行開始",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6600696?source=rss",
       "publishedAt": "2026-10-30T08:23:11.000Z",
       "xQuery": "トヨタ 無人タクシー来年運行開始"
-    },
-    {
-      "time": "18:26",
-      "title": "東京メトロ「QR乗車券」導入へ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600705?source=rss",
-      "publishedAt": "2026-10-30T09:26:07.000Z",
-      "xQuery": "東京メトロ「QR乗車券」導入へ"
     },
     {
       "time": "18:00",
