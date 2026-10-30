@@ -1,14 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-30T08:37:27.060Z",
+  "updatedAt": "2026-10-30T09:14:56.026Z",
   "items": [
-    {
-      "time": "15:43",
-      "title": "暗号資産取引大手に不正侵入か",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600689?source=rss",
-      "publishedAt": "2026-10-30T06:43:51.000Z",
-      "xQuery": "暗号資産取引大手に不正侵入か"
-    },
     {
       "time": "16:07",
       "title": "衆院定数削減 法案成立にハードル",
@@ -18,12 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "衆院定数削減 法案成立にハードル"
     },
     {
-      "time": "15:30",
-      "title": "無印良品 最大2726万件情報流出か",
+      "time": "17:05",
+      "title": "ウが日本に迎撃弾の供与を要望",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600686?source=rss",
-      "publishedAt": "2026-10-30T06:30:41.000Z",
-      "xQuery": "無印良品 最大2726万件情報流出か"
+      "url": "https://news.yahoo.co.jp/pickup/6600698?source=rss",
+      "publishedAt": "2026-10-30T08:05:41.000Z",
+      "xQuery": "ウが日本に迎撃弾の供与を要望"
+    },
+    {
+      "time": "17:53",
+      "title": "外務省 3600件の個人情報漏えいか",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6600703?source=rss",
+      "publishedAt": "2026-10-30T08:53:18.000Z",
+      "xQuery": "外務省 3600件の個人情報漏えいか"
     },
     {
       "time": "15:19",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "都立六本木高校 女子生徒刺される"
     },
     {
-      "time": "16:58",
-      "title": "辺野古転覆 同志社理事長が謝罪",
+      "time": "18:00",
+      "title": "給食のハマチで中毒か 児童搬送",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600695?source=rss",
-      "publishedAt": "2026-10-30T07:58:23.000Z",
-      "xQuery": "辺野古転覆 同志社理事長が謝罪"
+      "url": "https://news.yahoo.co.jp/pickup/6600702?source=rss",
+      "publishedAt": "2026-10-30T09:00:02.000Z",
+      "xQuery": "給食のハマチで中毒か 児童搬送"
     }
   ]
 };
