@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-30T22:09:25.609Z",
+  "updatedAt": "2026-10-30T22:35:12.015Z",
   "items": [
     {
       "time": "21:08",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "中間選挙 民主党「赤い州」で勢い"
     },
     {
-      "time": "19:46",
-      "title": "キオクシア 4-12月純利益24倍予想",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600712?source=rss",
-      "publishedAt": "2026-10-30T10:46:26.000Z",
-      "xQuery": "キオクシア 4-12月純利益24倍予想"
-    },
-    {
       "time": "23:03",
       "title": "ジャングリア 出資に数社が関心",
       "source": "Yahoo!ニュース",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6600717?source=rss",
       "publishedAt": "2026-10-30T11:44:54.000Z",
       "xQuery": "六本木高校生徒 複数回刺され重傷"
+    },
+    {
+      "time": "22:33",
+      "title": "体中にプラ片詰まった鳥 豪州の島",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6600732?source=rss",
+      "publishedAt": "2026-10-30T13:33:32.000Z",
+      "xQuery": "体中にプラ片詰まった鳥 豪州の島"
     }
   ]
 };

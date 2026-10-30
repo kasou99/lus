@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-10-30T22:09:24.731Z",
+  "updatedAt": "2026-10-30T22:35:11.319Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "07:01",
+        "title": "JIMTOF2026 ～ 理系学生だけではなく、文系学生も歓迎。様変わりした工作機械見本市（中村智彦）",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcmVfS2o5aDBNRm5PNWRaOGVTY0JtZE1fUWliUWlkRGE3SDR2S3pkSmd1djNnSjFmakRDVU5IenBKWHVWR1ZDZ2Yxb3RpRm4xOGRDSVA3MFY4b1lTclJ1clJjTnBXUGxrdll0bUdjcGlrdG5QT2RFR185RGhXM0pzNFZkTU5iX1dU?oc=5",
+        "publishedAt": "2026-10-30T22:01:12.000Z"
+      },
       {
         "time": "13:30",
         "title": "小物部品の同時5軸加工に対応、オークマが設置面積5.7m2の横形マシニング：工作機械",
@@ -10,11 +17,11 @@
         "publishedAt": "2026-10-30T04:30:00.000Z"
       },
       {
-        "time": "10:10",
-        "title": "ナガセインテグレ･武田機械…工作機械の中堅･中小メーカー､販路開拓へ武器にする独自製品・技術（ニュースイッチ）",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8zNHRJSFMyTDNkTlE1aE1xVHBWZVNsbU1aQWZvOG1nNG1ZY0ZlMUh4M3k2M0R0Xy1HaWhadWlRdDd5N0dWbUtiSGFwNWJmcDkzaVhQQWxNSC1DaTdQNGlMbUsxQjBZcXFwaV84dFREajJfdnA4LV9oQXZOOXZvc2M?oc=5",
-        "publishedAt": "2026-10-30T01:10:02.000Z"
+        "time": "06:04",
+        "title": "電気制御盤市場の規模、動向、および2026年から2033年にかけての6.7%の成長予測",
+        "source": "pando.life",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5TbktCLUxBMjc0WmRlazI0cl9xOC1XS2V4Zlc0d3ZaWDR1c1hLeWVCX1JCUzFhSUN5cFVPSDdDcnZTLWRZWUFfb1R3?oc=5",
+        "publishedAt": "2026-10-30T21:04:49.000Z"
       },
       {
         "time": "13:45",
@@ -31,18 +38,18 @@
         "publishedAt": "2026-10-30T14:10:00.000Z"
       },
       {
-        "time": "07:22",
-        "title": "ジェイテクト、工作機械サービス強化へ子会社吸収",
-        "source": "LOGISTICS TODAY",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB5eWRfZmJjRDJLS1h2TVpwcW5SeURVcE9MTE1rMWNMNVpjSjdWV3NOUmdPLVV3akZLcS01R25RTG5jZ3FZYzFVeEhR?oc=5",
-        "publishedAt": "2026-10-29T22:22:01.000Z"
+        "time": "10:10",
+        "title": "ナガセインテグレ･武田機械…工作機械の中堅･中小メーカー､販路開拓へ武器にする独自製品・技術（ニュースイッチ）",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8zNHRJSFMyTDNkTlE1aE1xVHBWZVNsbU1aQWZvOG1nNG1ZY0ZlMUh4M3k2M0R0Xy1HaWhadWlRdDd5N0dWbUtiSGFwNWJmcDkzaVhQQWxNSC1DaTdQNGlMbUsxQjBZcXFwaV84dFREajJfdnA4LV9oQXZOOXZvc2M?oc=5",
+        "publishedAt": "2026-10-30T01:10:02.000Z"
       },
       {
-        "time": "07:15",
-        "title": "3D造形で40％軽量化、ヒューマノイド連携も シーメンスが描く次世代DX：JIMTOF2026",
+        "time": "07:45",
+        "title": "ファナックがCNCで挑む安全なフィジカルAI デジタルツイン×人の承認で事故防止：JIMTOF2026",
         "source": "MONOist",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBMTUs1eGtMb2ZQRUdFZi15MWd1X3FDVml5VFhFR2kxUVBQeGo5cDh1QUlmcmtmcUY4cERhTm4tTFJHYTRSNmlLbkpFVjNfQzk1U0tGZURkOHEya21hbU96NWh3a2tvb0ZqMUppclBoWQ?oc=5",
-        "publishedAt": "2026-10-29T22:15:00.000Z"
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE54UUw4cjFLeXNJUlpZODBtQ3JlWEtpd2hsSUZfaWlfSklycldYTGJ3MWdxVnZMbEJVejUyR0VDdG93Z1ozelpVeUNKbEhjMlFzVnBXSXFqbzMtUHdoeDAzTk53MXFtaWp4WFVFLWJ1dw?oc=5",
+        "publishedAt": "2026-10-29T22:45:00.000Z"
       },
       {
         "time": "13:43",
@@ -50,13 +57,6 @@
         "source": "GlobeNewswire",
         "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxQYTNwelRuUkN1N2lFZ2Fyd0p4MUt5dTJHX2did0dWS3dvaFRSa0hUajk3ZjdpMjZBblYyeWhNcGNEVFVEMDV5aDFuRHZWWEFPazFsdHJ0ZDNqdHNkUW53dm9HRDlDT3BSTldFTXE0Wm5kVkM5U21yR3h5aV84QzFsS1l4QWdlakdMS21LUzd6c0NaR2F2RW1vM0VQcTZmb3BNM3BHakV6SEtiX0xUOEo2NkhvVkU0TzlETjFNQWZtaklPRHJMczkwNktmdUxEWFlTYlBmel95d25BaWJMRnY4eWY5UFFEMmN6MHJXV2plcU12TlNsSTJaeC1wVW1pVXpTYUR0eFlka1l3SlczODhMVm1FdGZ4bGViTHJwZ3VBT3J0d09PaWI3WHB5aXdYNWRJOF9zRUwyenpuN0FoaFAtQmhsbWdqb0dJZDZoRks5VHFVVDlxeXc?oc=5",
         "publishedAt": "2026-10-30T04:43:45.000Z"
-      },
-      {
-        "time": "09:45",
-        "title": "NSK、マシニングセンタ向け新型スピンドル開発…「びびり振動」を抑制し重切削加工の効率向上",
-        "source": "レスポンス（Response.jp）",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8yeEQtdnFEa0JUTngyaTg0MUxkZ19EMERrcmQ1WFFRbGN6cG1IaXRNVnNlS3NnSEV1LVRQZHhwZVpkSFlFb01adzFKZ0dzLThfcVJKMjMxRVhReDJobnJv?oc=5",
-        "publishedAt": "2026-10-30T00:45:03.000Z"
       }
     ],
     "worldHeadlines": [
@@ -133,18 +133,18 @@
         "publishedAt": "2026-10-30T11:41:55.000Z"
       },
       {
-        "time": "15:38",
-        "title": "ジャングリア苦戦 資金繰りも悪化",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600688?source=rss",
-        "publishedAt": "2026-10-30T06:38:52.000Z"
-      },
-      {
         "time": "23:03",
         "title": "ジャングリア 出資に数社が関心",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6600733?source=rss",
         "publishedAt": "2026-10-30T14:03:09.000Z"
+      },
+      {
+        "time": "07:25",
+        "title": "都内最古の「天下一品」閉店へ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6600740?source=rss",
+        "publishedAt": "2026-10-30T22:25:10.000Z"
       }
     ],
     "localHeadlines": [
