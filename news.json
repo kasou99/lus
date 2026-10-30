@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T08:17:26.006Z",
+  "updatedAt": "2026-10-30T08:37:25.883Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -126,6 +126,13 @@
         "publishedAt": "2026-10-30T04:51:54.000Z"
       },
       {
+        "time": "17:23",
+        "title": "トヨタ 無人タクシー来年運行開始",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6600696?source=rss",
+        "publishedAt": "2026-10-30T08:23:11.000Z"
+      },
+      {
         "time": "15:38",
         "title": "ジャングリア苦戦 資金繰りも悪化",
         "source": "Yahoo!ニュース",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6600657?source=rss",
         "publishedAt": "2026-10-30T01:16:36.000Z"
-      },
-      {
-        "time": "08:04",
-        "title": "株価崩れない「ホンダ」の強み",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600635?source=rss",
-        "publishedAt": "2026-10-29T23:04:02.000Z"
       }
     ],
     "localHeadlines": [
