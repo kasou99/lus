@@ -1,29 +1,37 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-31T03:35:57.562Z",
+  "updatedAt": "2026-10-31T04:12:17.515Z",
   "items": [
     {
-      "time": "08:31",
-      "title": "消費減税と定数削減 水面下の交渉",
+      "time": "10:33",
+      "title": "政府 デフレ脱却宣言は慎重に判断",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600756?source=rss",
-      "publishedAt": "2026-10-30T23:31:21.000Z",
-      "xQuery": "消費減税と定数削減 水面下の交渉"
+      "url": "https://news.yahoo.co.jp/pickup/6600778?source=rss",
+      "publishedAt": "2026-10-31T01:33:15.000Z",
+      "xQuery": "政府 デフレ脱却宣言は慎重に判断"
     },
     {
-      "time": "08:51",
-      "title": "首里城火災7年 11月に正殿公開へ",
+      "time": "12:59",
+      "title": "米インテル株急落 52年ぶり下落率",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600760?source=rss",
-      "publishedAt": "2026-10-30T23:51:46.000Z",
-      "xQuery": "首里城火災7年 11月に正殿公開へ"
+      "url": "https://news.yahoo.co.jp/pickup/6600801?source=rss",
+      "publishedAt": "2026-10-31T03:59:44.000Z",
+      "xQuery": "米インテル株急落 52年ぶり下落率"
     },
     {
-      "time": "12:13",
-      "title": "母娘襲われ重傷 逃走の男を逮捕",
+      "time": "11:29",
+      "title": "露とウ 侵攻後初の共同人道支援",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600797?source=rss",
-      "publishedAt": "2026-10-31T03:13:32.000Z",
-      "xQuery": "母娘襲われ重傷 逃走の男を逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6600787?source=rss",
+      "publishedAt": "2026-10-31T02:29:24.000Z",
+      "xQuery": "露とウ 侵攻後初の共同人道支援"
+    },
+    {
+      "time": "13:03",
+      "title": "部下性的暴行事件 元検事正を保釈",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6600802?source=rss",
+      "publishedAt": "2026-10-31T04:03:24.000Z",
+      "xQuery": "部下性的暴行事件 元検事正を保釈"
     },
     {
       "time": "11:42",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6600791?source=rss",
       "publishedAt": "2026-10-31T02:42:54.000Z",
       "xQuery": "刑執行失敗の米死刑囚 心境明かす"
-    },
-    {
-      "time": "11:53",
-      "title": "列車脱線 衝突のクマ300kgほどか",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600790?source=rss",
-      "publishedAt": "2026-10-31T02:53:19.000Z",
-      "xQuery": "列車脱線 衝突のクマ300kgほどか"
     }
   ]
 };
