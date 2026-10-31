@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-31T02:14:15.061Z",
+  "updatedAt": "2026-10-31T02:36:01.821Z",
   "items": [
     {
       "time": "10:44",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "政府「副首都」推進本部を設置"
     },
     {
-      "time": "10:10",
-      "title": "北が関与か バイナンス巡り米調査",
+      "time": "08:51",
+      "title": "首里城火災7年 11月に正殿公開へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600772?source=rss",
-      "publishedAt": "2026-10-31T01:10:17.000Z",
-      "xQuery": "北が関与か バイナンス巡り米調査"
+      "url": "https://news.yahoo.co.jp/pickup/6600760?source=rss",
+      "publishedAt": "2026-10-30T23:51:46.000Z",
+      "xQuery": "首里城火災7年 11月に正殿公開へ"
     },
     {
       "time": "09:54",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "列車とクマ衝突 乗客は車内で一夜"
     },
     {
-      "time": "10:16",
-      "title": "3歳妹殺害され 左耳聴力失った兄",
+      "time": "11:15",
+      "title": "園に「死ね」と書かれた人形 逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600776?source=rss",
-      "publishedAt": "2026-10-31T01:16:26.000Z",
-      "xQuery": "3歳妹殺害され 左耳聴力失った兄"
+      "url": "https://news.yahoo.co.jp/pickup/6600786?source=rss",
+      "publishedAt": "2026-10-31T02:15:20.000Z",
+      "xQuery": "園に「死ね」と書かれた人形 逮捕"
     }
   ]
 };
