@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-31T02:36:01.821Z",
+  "updatedAt": "2026-10-31T03:12:49.405Z",
   "items": [
     {
-      "time": "10:44",
-      "title": "政府「副首都」推進本部を設置",
+      "time": "08:31",
+      "title": "消費減税と定数削減 水面下の交渉",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600780?source=rss",
-      "publishedAt": "2026-10-31T01:44:16.000Z",
-      "xQuery": "政府「副首都」推進本部を設置"
+      "url": "https://news.yahoo.co.jp/pickup/6600756?source=rss",
+      "publishedAt": "2026-10-30T23:31:21.000Z",
+      "xQuery": "消費減税と定数削減 水面下の交渉"
     },
     {
       "time": "08:51",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "首里城火災7年 11月に正殿公開へ"
     },
     {
-      "time": "09:54",
-      "title": "東京メトロ 29年3月値上げ目指す",
+      "time": "11:42",
+      "title": "刑執行失敗の米死刑囚 心境明かす",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600770?source=rss",
-      "publishedAt": "2026-10-31T00:54:11.000Z",
-      "xQuery": "東京メトロ 29年3月値上げ目指す"
+      "url": "https://news.yahoo.co.jp/pickup/6600791?source=rss",
+      "publishedAt": "2026-10-31T02:42:54.000Z",
+      "xQuery": "刑執行失敗の米死刑囚 心境明かす"
     },
     {
-      "time": "08:20",
-      "title": "列車とクマ衝突 乗客は車内で一夜",
+      "time": "11:53",
+      "title": "列車脱線 衝突のクマ300kgほどか",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600754?source=rss",
-      "publishedAt": "2026-10-30T23:20:02.000Z",
-      "xQuery": "列車とクマ衝突 乗客は車内で一夜"
+      "url": "https://news.yahoo.co.jp/pickup/6600790?source=rss",
+      "publishedAt": "2026-10-31T02:53:19.000Z",
+      "xQuery": "列車脱線 衝突のクマ300kgほどか"
     },
     {
       "time": "11:15",
