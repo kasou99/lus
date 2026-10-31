@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-31T13:09:24.583Z",
+  "updatedAt": "2026-10-31T13:34:54.656Z",
   "items": [
     {
       "time": "21:40",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "屋根の修理中に転落か 男性死亡"
     },
     {
-      "time": "17:56",
-      "title": "ブラックフライデー 先行セールも",
+      "time": "22:31",
+      "title": "児童見守るイスラム系住民に中傷",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600845?source=rss",
-      "publishedAt": "2026-10-31T08:56:45.000Z",
-      "xQuery": "ブラックフライデー 先行セールも"
+      "url": "https://news.yahoo.co.jp/pickup/6600871?source=rss",
+      "publishedAt": "2026-10-31T13:31:43.000Z",
+      "xQuery": "児童見守るイスラム系住民に中傷"
     },
     {
       "time": "22:00",
