@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T13:34:53.712Z",
+  "updatedAt": "2026-10-31T14:09:30.024Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -52,11 +52,11 @@
         "publishedAt": "2026-10-31T01:33:15.000Z"
       },
       {
-        "time": "13:17",
-        "title": "半導体大手インテル 株価29%急落",
+        "time": "22:57",
+        "title": "損失430万円 GMO利用者語る不安",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600804?source=rss",
-        "publishedAt": "2026-10-31T04:17:02.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6600874?source=rss",
+        "publishedAt": "2026-10-31T13:57:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -112,18 +112,18 @@
         "publishedAt": "2026-10-31T01:33:15.000Z"
       },
       {
+        "time": "22:57",
+        "title": "損失430万円 GMO利用者語る不安",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6600874?source=rss",
+        "publishedAt": "2026-10-31T13:57:00.000Z"
+      },
+      {
         "time": "13:17",
         "title": "半導体大手インテル 株価29%急落",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6600804?source=rss",
         "publishedAt": "2026-10-31T04:17:02.000Z"
-      },
-      {
-        "time": "23:03",
-        "title": "ジャングリア 出資に数社が関心",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600733?source=rss",
-        "publishedAt": "2026-10-30T14:03:09.000Z"
       },
       {
         "time": "17:56",
@@ -133,18 +133,18 @@
         "publishedAt": "2026-10-31T08:56:45.000Z"
       },
       {
-        "time": "15:26",
-        "title": "鶏高騰 豚肉が安い「逆転現象」も",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600821?source=rss",
-        "publishedAt": "2026-10-31T06:26:56.000Z"
-      },
-      {
         "time": "14:01",
         "title": "大企業出身のシニア採用 落とし穴",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6600808?source=rss",
         "publishedAt": "2026-10-31T05:01:10.000Z"
+      },
+      {
+        "time": "07:25",
+        "title": "都内最古の「天下一品」閉店へ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6600740?source=rss",
+        "publishedAt": "2026-10-30T22:25:10.000Z"
       }
     ],
     "localHeadlines": [

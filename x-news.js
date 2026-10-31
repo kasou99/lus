@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-31T13:34:54.656Z",
+  "updatedAt": "2026-10-31T14:09:31.160Z",
   "items": [
     {
       "time": "21:40",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "参政・神谷氏 独AfD幹部と共鳴"
     },
     {
-      "time": "20:51",
-      "title": "屋根の修理中に転落か 男性死亡",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600858?source=rss",
-      "publishedAt": "2026-10-31T11:51:48.000Z",
-      "xQuery": "屋根の修理中に転落か 男性死亡"
-    },
-    {
       "time": "22:31",
       "title": "児童見守るイスラム系住民に中傷",
       "source": "Yahoo!ニュース",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6600869?source=rss",
       "publishedAt": "2026-10-31T13:00:26.000Z",
       "xQuery": "古着「オールドユニクロ」とは"
+    },
+    {
+      "time": "22:56",
+      "title": "マック 商品そろう前でも客呼ぶ訳",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6600877?source=rss",
+      "publishedAt": "2026-10-31T13:56:06.000Z",
+      "xQuery": "マック 商品そろう前でも客呼ぶ訳"
     }
   ]
 };
