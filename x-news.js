@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-31T09:35:13.544Z",
+  "updatedAt": "2026-10-31T10:09:33.873Z",
   "items": [
     {
       "time": "16:35",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "中間選挙 アメリカ政治にどう影響"
     },
     {
-      "time": "14:35",
-      "title": "日米韓外相 北極圏巡る協力覚書",
+      "time": "18:27",
+      "title": "身代金ウイルス 送金後追加要求も",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600816?source=rss",
-      "publishedAt": "2026-10-31T05:35:56.000Z",
-      "xQuery": "日米韓外相 北極圏巡る協力覚書"
+      "url": "https://news.yahoo.co.jp/pickup/6600846?source=rss",
+      "publishedAt": "2026-10-31T09:27:19.000Z",
+      "xQuery": "身代金ウイルス 送金後追加要求も"
     },
     {
       "time": "18:04",
