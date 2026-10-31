@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-31T08:13:40.461Z",
+  "updatedAt": "2026-10-31T08:35:32.683Z",
   "items": [
     {
       "time": "16:35",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "中間選挙 アメリカ政治にどう影響"
     },
     {
-      "time": "16:10",
-      "title": "第2青函トンネル構想浮上 国交省",
+      "time": "14:35",
+      "title": "日米韓外相 北極圏巡る協力覚書",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600828?source=rss",
-      "publishedAt": "2026-10-31T07:10:55.000Z",
-      "xQuery": "第2青函トンネル構想浮上 国交省"
+      "url": "https://news.yahoo.co.jp/pickup/6600816?source=rss",
+      "publishedAt": "2026-10-31T05:35:56.000Z",
+      "xQuery": "日米韓外相 北極圏巡る協力覚書"
     },
     {
       "time": "15:43",
