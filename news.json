@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T14:35:05.061Z",
+  "updatedAt": "2026-10-31T15:09:24.639Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -112,18 +112,18 @@
         "publishedAt": "2026-10-31T01:33:15.000Z"
       },
       {
+        "time": "23:53",
+        "title": "GMOが11/2に記者会見 社長出席",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6600879?source=rss",
+        "publishedAt": "2026-10-31T14:53:29.000Z"
+      },
+      {
         "time": "23:27",
         "title": "GMO 24年にシステム脆弱性指摘",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6600878?source=rss",
         "publishedAt": "2026-10-31T14:27:23.000Z"
-      },
-      {
-        "time": "22:57",
-        "title": "損失430万円 GMO利用者語る不安",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600874?source=rss",
-        "publishedAt": "2026-10-31T13:57:00.000Z"
       },
       {
         "time": "17:56",
@@ -140,11 +140,11 @@
         "publishedAt": "2026-10-31T05:01:10.000Z"
       },
       {
-        "time": "07:25",
-        "title": "都内最古の「天下一品」閉店へ",
+        "time": "22:56",
+        "title": "マック 商品そろう前でも客呼ぶ訳",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600740?source=rss",
-        "publishedAt": "2026-10-30T22:25:10.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6600877?source=rss",
+        "publishedAt": "2026-10-31T13:56:06.000Z"
       }
     ],
     "localHeadlines": [

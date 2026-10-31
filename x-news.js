@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-31T14:35:05.997Z",
+  "updatedAt": "2026-10-31T15:09:25.490Z",
   "items": [
     {
       "time": "21:40",
@@ -18,6 +18,14 @@ window.LUS_X_NEWS = {
       "xQuery": "参政・神谷氏 独AfD幹部と共鳴"
     },
     {
+      "time": "23:53",
+      "title": "GMOが11/2に記者会見 社長出席",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6600879?source=rss",
+      "publishedAt": "2026-10-31T14:53:29.000Z",
+      "xQuery": "GMOが11/2に記者会見 社長出席"
+    },
+    {
       "time": "23:04",
       "title": "クラブツーリズム 432万件流出か",
       "source": "Yahoo!ニュース",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6600869?source=rss",
       "publishedAt": "2026-10-31T13:00:26.000Z",
       "xQuery": "古着「オールドユニクロ」とは"
-    },
-    {
-      "time": "22:56",
-      "title": "マック 商品そろう前でも客呼ぶ訳",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600877?source=rss",
-      "publishedAt": "2026-10-31T13:56:06.000Z",
-      "xQuery": "マック 商品そろう前でも客呼ぶ訳"
     }
   ]
 };
