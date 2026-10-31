@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-31T11:35:14.806Z",
+  "updatedAt": "2026-10-31T12:14:15.558Z",
   "items": [
     {
       "time": "18:04",
@@ -8,14 +8,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6600843?source=rss",
       "publishedAt": "2026-10-31T09:04:33.000Z",
       "xQuery": "高市氏ら首相の予算委答弁数 比較"
-    },
-    {
-      "time": "18:27",
-      "title": "身代金ウイルス 送金後追加要求も",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600846?source=rss",
-      "publishedAt": "2026-10-31T09:27:19.000Z",
-      "xQuery": "身代金ウイルス 送金後追加要求も"
     },
     {
       "time": "19:38",
@@ -32,6 +24,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6600851?source=rss",
       "publishedAt": "2026-10-31T10:24:42.000Z",
       "xQuery": "元検事正の保釈金は1千万円 納付"
+    },
+    {
+      "time": "20:51",
+      "title": "屋根の修理中に転落か 男性死亡",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6600858?source=rss",
+      "publishedAt": "2026-10-31T11:51:48.000Z",
+      "xQuery": "屋根の修理中に転落か 男性死亡"
     },
     {
       "time": "17:56",
