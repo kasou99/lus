@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-31T01:11:15.373Z",
+  "updatedAt": "2026-10-31T01:38:31.511Z",
   "items": [
     {
-      "time": "08:56",
-      "title": "トランプ氏 選挙遊説巡り二転三転",
+      "time": "10:10",
+      "title": "北が関与か バイナンス巡り米調査",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600759?source=rss",
-      "publishedAt": "2026-10-30T23:56:19.000Z",
-      "xQuery": "トランプ氏 選挙遊説巡り二転三転"
+      "url": "https://news.yahoo.co.jp/pickup/6600772?source=rss",
+      "publishedAt": "2026-10-31T01:10:17.000Z",
+      "xQuery": "北が関与か バイナンス巡り米調査"
     },
     {
       "time": "08:11",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "列車とクマ衝突 乗客は車内で一夜"
     },
     {
-      "time": "09:49",
-      "title": "3歳妹殺害され 3人の兄抱えた思い",
+      "time": "10:16",
+      "title": "3歳妹殺害され 左耳聴力失った兄",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600771?source=rss",
-      "publishedAt": "2026-10-31T00:49:16.000Z",
-      "xQuery": "3歳妹殺害され 3人の兄抱えた思い"
+      "url": "https://news.yahoo.co.jp/pickup/6600776?source=rss",
+      "publishedAt": "2026-10-31T01:16:26.000Z",
+      "xQuery": "3歳妹殺害され 左耳聴力失った兄"
     }
   ]
 };
