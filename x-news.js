@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-31T12:14:15.558Z",
+  "updatedAt": "2026-10-31T12:35:12.150Z",
   "items": [
     {
       "time": "18:04",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "スペイン運輸相 追突列車は青信号"
     },
     {
-      "time": "19:24",
-      "title": "元検事正の保釈金は1千万円 納付",
+      "time": "21:20",
+      "title": "参政・神谷氏 独AfD幹部と共鳴",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600851?source=rss",
-      "publishedAt": "2026-10-31T10:24:42.000Z",
-      "xQuery": "元検事正の保釈金は1千万円 納付"
+      "url": "https://news.yahoo.co.jp/pickup/6600861?source=rss",
+      "publishedAt": "2026-10-31T12:20:14.000Z",
+      "xQuery": "参政・神谷氏 独AfD幹部と共鳴"
     },
     {
       "time": "20:51",
