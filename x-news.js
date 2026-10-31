@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-31T04:35:28.884Z",
+  "updatedAt": "2026-10-31T05:09:59.204Z",
   "items": [
     {
       "time": "10:33",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "政府 デフレ脱却宣言は慎重に判断"
     },
     {
-      "time": "11:42",
-      "title": "刑執行失敗の米死刑囚 心境明かす",
+      "time": "13:48",
+      "title": "クマ衝突 列車で一夜「長かった」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600791?source=rss",
-      "publishedAt": "2026-10-31T02:42:54.000Z",
-      "xQuery": "刑執行失敗の米死刑囚 心境明かす"
+      "url": "https://news.yahoo.co.jp/pickup/6600806?source=rss",
+      "publishedAt": "2026-10-31T04:48:19.000Z",
+      "xQuery": "クマ衝突 列車で一夜「長かった」"
     },
     {
       "time": "13:17",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "半導体大手インテル 株価29%急落"
     },
     {
-      "time": "13:03",
-      "title": "部下性的暴行事件 元検事正を保釈",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600802?source=rss",
-      "publishedAt": "2026-10-31T04:03:24.000Z",
-      "xQuery": "部下性的暴行事件 元検事正を保釈"
-    },
-    {
       "time": "11:15",
       "title": "園に「死ね」と書かれた人形 逮捕",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6600786?source=rss",
       "publishedAt": "2026-10-31T02:15:20.000Z",
       "xQuery": "園に「死ね」と書かれた人形 逮捕"
+    },
+    {
+      "time": "13:13",
+      "title": "国名勝の池異変 コイ衰弱死相次ぐ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6600803?source=rss",
+      "publishedAt": "2026-10-31T04:13:36.000Z",
+      "xQuery": "国名勝の池異変 コイ衰弱死相次ぐ"
     }
   ]
 };
