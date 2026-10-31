@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-31T14:09:31.160Z",
+  "updatedAt": "2026-10-31T14:35:05.997Z",
   "items": [
     {
       "time": "21:40",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "参政・神谷氏 独AfD幹部と共鳴"
     },
     {
-      "time": "22:31",
-      "title": "児童見守るイスラム系住民に中傷",
+      "time": "23:04",
+      "title": "クラブツーリズム 432万件流出か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600871?source=rss",
-      "publishedAt": "2026-10-31T13:31:43.000Z",
-      "xQuery": "児童見守るイスラム系住民に中傷"
+      "url": "https://news.yahoo.co.jp/pickup/6600875?source=rss",
+      "publishedAt": "2026-10-31T14:04:30.000Z",
+      "xQuery": "クラブツーリズム 432万件流出か"
     },
     {
       "time": "22:00",
