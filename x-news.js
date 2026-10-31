@@ -1,21 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-31T22:35:10.763Z",
+  "updatedAt": "2026-10-31T23:09:19.151Z",
   "items": [
     {
-      "time": "21:40",
-      "title": "ウが製油所攻撃再開 ロシア副首相",
+      "time": "07:50",
+      "title": "日米豪印外相会談 AIなど協力確認",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600866?source=rss",
-      "publishedAt": "2026-10-31T12:40:32.000Z",
-      "xQuery": "ウが製油所攻撃再開 ロシア副首相"
-    },
-    {
-      "time": "21:20",
-      "title": "参政・神谷氏 独AfD幹部と共鳴",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600861?source=rss",
-      "publishedAt": "2026-10-31T12:20:14.000Z",
-      "xQuery": "参政・神谷氏 独AfD幹部と共鳴"
+      "url": "https://news.yahoo.co.jp/pickup/6600886?source=rss",
+      "publishedAt": "2026-10-31T22:50:15.000Z",
+      "xQuery": "日米豪印外相会談 AIなど協力確認"
     },
     {
       "time": "23:53",
@@ -26,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "GMOが11/2に記者会見 社長出席"
     },
     {
-      "time": "23:04",
-      "title": "クラブツーリズム 432万件流出か",
+      "time": "07:41",
+      "title": "モスクワでテロ計画 米が露に警告",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600875?source=rss",
-      "publishedAt": "2026-10-31T14:04:30.000Z",
-      "xQuery": "クラブツーリズム 432万件流出か"
+      "url": "https://news.yahoo.co.jp/pickup/6600883?source=rss",
+      "publishedAt": "2026-10-31T22:41:29.000Z",
+      "xQuery": "モスクワでテロ計画 米が露に警告"
     },
     {
       "time": "07:18",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6600880?source=rss",
       "publishedAt": "2026-10-31T22:18:42.000Z",
       "xQuery": "ボンネットに人乗せ走行疑い 逮捕"
+    },
+    {
+      "time": "07:37",
+      "title": "ハロウィン 渋谷に集まった人の声",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6600887?source=rss",
+      "publishedAt": "2026-10-31T22:37:12.000Z",
+      "xQuery": "ハロウィン 渋谷に集まった人の声"
     }
   ]
 };

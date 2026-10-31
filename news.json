@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T22:35:09.826Z",
+  "updatedAt": "2026-10-31T23:09:18.269Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -61,6 +61,13 @@
     ],
     "worldHeadlines": [
       {
+        "time": "07:50",
+        "title": "日米豪印外相会談 AIなど協力確認",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6600886?source=rss",
+        "publishedAt": "2026-10-31T22:50:15.000Z"
+      },
+      {
         "time": "14:35",
         "title": "日米韓外相 北極圏巡る協力覚書",
         "source": "Yahoo!ニュース",
@@ -82,25 +89,18 @@
         "publishedAt": "2026-10-31T07:35:09.000Z"
       },
       {
-        "time": "23:38",
-        "title": "中間選挙 民主党「赤い州」で勢い",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600736?source=rss",
-        "publishedAt": "2026-10-30T14:38:16.000Z"
-      },
-      {
-        "time": "08:05",
-        "title": "教皇が米中間選挙に投票 史上初",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600748?source=rss",
-        "publishedAt": "2026-10-30T23:05:29.000Z"
-      },
-      {
         "time": "19:38",
         "title": "スペイン運輸相 追突列車は青信号",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6600855?source=rss",
         "publishedAt": "2026-10-31T10:38:10.000Z"
+      },
+      {
+        "time": "07:41",
+        "title": "モスクワでテロ計画 米が露に警告",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6600883?source=rss",
+        "publishedAt": "2026-10-31T22:41:29.000Z"
       }
     ],
     "economyHeadlines": [
@@ -163,6 +163,13 @@
         "publishedAt": "2026-10-31T09:04:10.000Z"
       },
       {
+        "time": "07:37",
+        "title": "ハロウィン 渋谷に集まった人の声",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6600887?source=rss",
+        "publishedAt": "2026-10-31T22:37:12.000Z"
+      },
+      {
         "time": "11:53",
         "title": "列車脱線 衝突のクマ300kgほどか",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6600824?source=rss",
         "publishedAt": "2026-10-31T06:43:16.000Z"
-      },
-      {
-        "time": "20:51",
-        "title": "屋根の修理中に転落か 男性死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600858?source=rss",
-        "publishedAt": "2026-10-31T11:51:48.000Z"
       }
     ],
     "subsidyHeadlines": [
