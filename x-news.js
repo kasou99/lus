@@ -1,21 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-31T12:35:12.150Z",
+  "updatedAt": "2026-10-31T13:09:24.583Z",
   "items": [
     {
-      "time": "18:04",
-      "title": "高市氏ら首相の予算委答弁数 比較",
+      "time": "21:40",
+      "title": "ウが製油所攻撃再開 ロシア副首相",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600843?source=rss",
-      "publishedAt": "2026-10-31T09:04:33.000Z",
-      "xQuery": "高市氏ら首相の予算委答弁数 比較"
-    },
-    {
-      "time": "19:38",
-      "title": "スペイン運輸相 追突列車は青信号",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600855?source=rss",
-      "publishedAt": "2026-10-31T10:38:10.000Z",
-      "xQuery": "スペイン運輸相 追突列車は青信号"
+      "url": "https://news.yahoo.co.jp/pickup/6600866?source=rss",
+      "publishedAt": "2026-10-31T12:40:32.000Z",
+      "xQuery": "ウが製油所攻撃再開 ロシア副首相"
     },
     {
       "time": "21:20",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6600845?source=rss",
       "publishedAt": "2026-10-31T08:56:45.000Z",
       "xQuery": "ブラックフライデー 先行セールも"
+    },
+    {
+      "time": "22:00",
+      "title": "古着「オールドユニクロ」とは",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6600869?source=rss",
+      "publishedAt": "2026-10-31T13:00:26.000Z",
+      "xQuery": "古着「オールドユニクロ」とは"
     }
   ]
 };

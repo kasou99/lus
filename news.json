@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T12:35:10.997Z",
+  "updatedAt": "2026-10-31T13:09:22.888Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,6 +17,13 @@
         "publishedAt": "2026-10-31T08:10:00.000Z"
       },
       {
+        "time": "04:04",
+        "title": "マルチターンアブソリュートロータリエンコーダ市場トップ10企業",
+        "source": "pando.life",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE12YWR6aExVazZ3dEllTjVyeFBQQTdHMTJPTFdLSGhQRmpOOEo2N0NUNWs4dC1SXzlxZWFpcjBPOG53Sms0bVpocVhR?oc=5",
+        "publishedAt": "2026-10-30T19:04:57.000Z"
+      },
+      {
         "time": "13:10",
         "title": "【台湾情報】台湾半導体材料の現地調達が加速！日台企業の提携最前線などを解説する＜ワイズリサーチ最新レポート＞",
         "source": "時事ドットコム",
@@ -29,13 +36,6 @@
         "source": "Infoseek",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zQVlMbVJPaE1rdjF5dnhSOVg5NHhZdEFlTG5WbVZpNEF6TkdKVGZpSW13WExLeHFwWEI0TUl6SmtFNDAxUE5sM0RlTDl5cDZra1RDMUM2Z0x0dGZRWk9qYm5wUW4yeWNfWnR5SGoyWkR3U3d4V0R6SmRVcGE4c2fSAX9BVV95cUxOM0FZTG1ST2hNa3YxeXZ4UjlYOTR4WXRBZUxuVm1WaTRBek5HSlRmaUltd1hMS3hxcFhCNE1JekprRTQwMVBObDNEZUw5eXA2a2tUQzFDNmdMdHRmUVpPamJucFFuMnljX1p0eUhqMlpEd1N3eFdEekpkVXBhOHNn?oc=5",
         "publishedAt": "2026-10-30T22:15:00.000Z"
-      },
-      {
-        "time": "04:04",
-        "title": "マルチターンアブソリュートロータリエンコーダ市場トップ10企業",
-        "source": "pando.life",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE12YWR6aExVazZ3dEllTjVyeFBQQTdHMTJPTFdLSGhQRmpOOEo2N0NUNWs4dC1SXzlxZWFpcjBPOG53Sms0bVpocVhR?oc=5",
-        "publishedAt": "2026-10-30T19:04:57.000Z"
       },
       {
         "time": "08:38",
@@ -68,11 +68,11 @@
         "publishedAt": "2026-10-31T05:35:56.000Z"
       },
       {
-        "time": "11:29",
-        "title": "露とウ 侵攻後初の共同人道支援",
+        "time": "21:40",
+        "title": "ウが製油所攻撃再開 ロシア副首相",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600787?source=rss",
-        "publishedAt": "2026-10-31T02:29:24.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6600866?source=rss",
+        "publishedAt": "2026-10-31T12:40:32.000Z"
       },
       {
         "time": "16:35",
@@ -119,13 +119,6 @@
         "publishedAt": "2026-10-31T04:17:02.000Z"
       },
       {
-        "time": "14:35",
-        "title": "WECARS 自賠責保険の販売可に",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600814?source=rss",
-        "publishedAt": "2026-10-31T05:35:06.000Z"
-      },
-      {
         "time": "23:03",
         "title": "ジャングリア 出資に数社が関心",
         "source": "Yahoo!ニュース",
@@ -145,6 +138,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6600821?source=rss",
         "publishedAt": "2026-10-31T06:26:56.000Z"
+      },
+      {
+        "time": "14:01",
+        "title": "大企業出身のシニア採用 落とし穴",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6600808?source=rss",
+        "publishedAt": "2026-10-31T05:01:10.000Z"
       }
     ],
     "localHeadlines": [
