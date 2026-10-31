@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T23:35:06.845Z",
+  "updatedAt": "2026-10-31T00:29:31.257Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -52,20 +52,20 @@
         "publishedAt": "2026-10-30T06:01:00.000Z"
       },
       {
-        "time": "13:00",
-        "title": "DMG森精機がポーランドに鋳物新工場、内製化推進で欧州供給網を強化：工場ニュース",
-        "source": "MONOist",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9oN0JqNFIzRlN6Ylg0T0xmcG42VWM5c3FTVS1LdWIyQV9sN01rNm9uVk9TUWlwbHFHdFFiQTg3UC01UnpOa0NDUGg5V2pWNEpfRXBvZV8zQ0l2UExnMUhlNkZtMWhxZzVITEN1cHU0RQ?oc=5",
-        "publishedAt": "2026-10-30T04:00:00.000Z"
+        "time": "13:43",
+        "title": "中国平湖市、日本とのビジネス関係を強化",
+        "source": "GlobeNewswire",
+        "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxQYTNwelRuUkN1N2lFZ2Fyd0p4MUt5dTJHX2did0dWS3dvaFRSa0hUajk3ZjdpMjZBblYyeWhNcGNEVFVEMDV5aDFuRHZWWEFPazFsdHJ0ZDNqdHNkUW53dm9HRDlDT3BSTldFTXE0Wm5kVkM5U21yR3h5aV84QzFsS1l4QWdlakdMS21LUzd6c0NaR2F2RW1vM0VQcTZmb3BNM3BHakV6SEtiX0xUOEo2NkhvVkU0TzlETjFNQWZtaklPRHJMczkwNktmdUxEWFlTYlBmel95d25BaWJMRnY4eWY5UFFEMmN6MHJXV2plcU12TlNsSTJaeC1wVW1pVXpTYUR0eFlka1l3SlczODhMVm1FdGZ4bGViTHJwZ3VBT3J0d09PaWI3WHB5aXdYNWRJOF9zRUwyenpuN0FoaFAtQmhsbWdqb0dJZDZoRks5VHFVVDlxeXc?oc=5",
+        "publishedAt": "2026-10-30T04:43:45.000Z"
       }
     ],
     "worldHeadlines": [
       {
-        "time": "21:59",
-        "title": "トランプ氏 最終盤で選挙戦略転換",
+        "time": "08:56",
+        "title": "トランプ氏 選挙遊説巡り二転三転",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600727?source=rss",
-        "publishedAt": "2026-10-30T12:59:40.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6600759?source=rss",
+        "publishedAt": "2026-10-30T23:56:19.000Z"
       },
       {
         "time": "23:38",
@@ -156,25 +156,11 @@
         "publishedAt": "2026-10-30T23:15:38.000Z"
       },
       {
-        "time": "22:41",
-        "title": "辺野古転覆 同志社が5時間会見",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600730?source=rss",
-        "publishedAt": "2026-10-30T13:41:26.000Z"
-      },
-      {
         "time": "20:44",
         "title": "六本木高校生徒 複数回刺され重傷",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6600717?source=rss",
         "publishedAt": "2026-10-30T11:44:54.000Z"
-      },
-      {
-        "time": "20:49",
-        "title": "13階から転落し作業員死亡 丸の内",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600722?source=rss",
-        "publishedAt": "2026-10-30T11:49:22.000Z"
       },
       {
         "time": "22:44",
@@ -189,6 +175,20 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6600754?source=rss",
         "publishedAt": "2026-10-30T23:20:02.000Z"
+      },
+      {
+        "time": "09:06",
+        "title": "土曜日ハロウィン ハチ公像に囲い",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6600764?source=rss",
+        "publishedAt": "2026-10-31T00:06:53.000Z"
+      },
+      {
+        "time": "08:51",
+        "title": "首里城火災7年 11月に正殿公開へ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6600760?source=rss",
+        "publishedAt": "2026-10-30T23:51:46.000Z"
       }
     ],
     "subsidyHeadlines": [

@@ -1,29 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-30T23:35:07.622Z",
+  "updatedAt": "2026-10-31T00:29:32.021Z",
   "items": [
     {
-      "time": "07:29",
-      "title": "茂木外相 露外相に記者の解放要求",
+      "time": "08:56",
+      "title": "トランプ氏 選挙遊説巡り二転三転",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600743?source=rss",
-      "publishedAt": "2026-10-30T22:29:41.000Z",
-      "xQuery": "茂木外相 露外相に記者の解放要求"
-    },
-    {
-      "time": "07:39",
-      "title": "e-Taxかたる不審メール 相談急増",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600745?source=rss",
-      "publishedAt": "2026-10-30T22:39:25.000Z",
-      "xQuery": "e-Taxかたる不審メール 相談急増"
-    },
-    {
-      "time": "08:05",
-      "title": "教皇が米中間選挙に投票 史上初",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600748?source=rss",
-      "publishedAt": "2026-10-30T23:05:29.000Z",
-      "xQuery": "教皇が米中間選挙に投票 史上初"
+      "url": "https://news.yahoo.co.jp/pickup/6600759?source=rss",
+      "publishedAt": "2026-10-30T23:56:19.000Z",
+      "xQuery": "トランプ氏 選挙遊説巡り二転三転"
     },
     {
       "time": "08:15",
@@ -32,6 +16,22 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6600752?source=rss",
       "publishedAt": "2026-10-30T23:15:38.000Z",
       "xQuery": "転覆 同志社会見に遺族コメント"
+    },
+    {
+      "time": "08:20",
+      "title": "列車とクマ衝突 乗客は車内で一夜",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6600754?source=rss",
+      "publishedAt": "2026-10-30T23:20:02.000Z",
+      "xQuery": "列車とクマ衝突 乗客は車内で一夜"
+    },
+    {
+      "time": "08:54",
+      "title": "児童の絵にAI使用と中傷 公開中止",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6600762?source=rss",
+      "publishedAt": "2026-10-30T23:54:35.000Z",
+      "xQuery": "児童の絵にAI使用と中傷 公開中止"
     },
     {
       "time": "07:25",
