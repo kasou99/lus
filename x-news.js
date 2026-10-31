@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-31T22:09:40.814Z",
+  "updatedAt": "2026-10-31T22:35:10.763Z",
   "items": [
     {
       "time": "21:40",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "クラブツーリズム 432万件流出か"
     },
     {
-      "time": "22:00",
-      "title": "古着「オールドユニクロ」とは",
+      "time": "07:18",
+      "title": "ボンネットに人乗せ走行疑い 逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600869?source=rss",
-      "publishedAt": "2026-10-31T13:00:26.000Z",
-      "xQuery": "古着「オールドユニクロ」とは"
+      "url": "https://news.yahoo.co.jp/pickup/6600880?source=rss",
+      "publishedAt": "2026-10-31T22:18:42.000Z",
+      "xQuery": "ボンネットに人乗せ走行疑い 逮捕"
     }
   ]
 };
