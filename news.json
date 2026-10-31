@@ -1,7 +1,49 @@
 {
-  "updatedAt": "2026-10-31T20:35:08.527Z",
+  "updatedAt": "2026-10-31T21:09:01.244Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "17:45",
+        "title": "電線の端材でストラップ制作 Ｍ．Ｓ．Ｅ．が商品化",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TOThSZjN5eER3TlU3MHo0RE9lLXdpRFVod2Mtams1bFZvcjBKQnpvSFYxMjJPYm5HZVd5RlhtcHlTN3R2OGdVLUs5THBCQVVCWEE?oc=5",
+        "publishedAt": "2026-10-31T08:45:45.000Z"
+      },
+      {
+        "time": "07:01",
+        "title": "JIMTOF2026 ～ 理系学生だけではなく、文系学生も歓迎。様変わりした工作機械見本市（中村智彦）",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcmVfS2o5aDBNRm5PNWRaOGVTY0JtZE1fUWliUWlkRGE3SDR2S3pkSmd1djNnSjFmakRDVU5IenBKWHVWR1ZDZ2Yxb3RpRm4xOGRDSVA3MFY4b1lTclJ1clJjTnBXUGxrdll0bUdjcGlrdG5QT2RFR185RGhXM0pzNFZkTU5iX1dU?oc=5",
+        "publishedAt": "2026-10-30T22:01:12.000Z"
+      },
+      {
+        "time": "17:10",
+        "title": "次世代設備保全クラウドの株式会社M2X、三和罐詰株式会社の導入事例を公開",
+        "source": "Excite エキサイト",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBfTlRxbWJidjBHdTZWTWJnb3RxdVhEWXdjOVBIcTBvYTJjb0xoSWNfUmN4SVlQN0tjNGx0OU9NSjlPV2xYNXNXM1FrcHRETjc5UUlsYm1ZMFJoQzJrY09fazdnb3plZEd0aXdlaEFoN1U4RmwtekE?oc=5",
+        "publishedAt": "2026-10-31T08:10:00.000Z"
+      },
+      {
+        "time": "13:10",
+        "title": "【台湾情報】台湾半導体材料の現地調達が加速！日台企業の提携最前線などを解説する＜ワイズリサーチ最新レポート＞",
+        "source": "時事ドットコム",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1aTVNtYWlTdEs2dm80RC1mbW5lTUtBeUxoOVhOM2JOQmZtR003c0loVzJlR1VVWHQzME4wclhtTHVTOHpjajM4ZDZlNWlmTnU2ODJhdVlHejlXa1o5YU4zclJlalQ4YzhuSWlF?oc=5",
+        "publishedAt": "2026-10-31T04:10:00.000Z"
+      },
+      {
+        "time": "07:15",
+        "title": "冬支度に消雪パイプ363キロを点検 「発祥の地」新潟・長岡",
+        "source": "Infoseek",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zQVlMbVJPaE1rdjF5dnhSOVg5NHhZdEFlTG5WbVZpNEF6TkdKVGZpSW13WExLeHFwWEI0TUl6SmtFNDAxUE5sM0RlTDl5cDZra1RDMUM2Z0x0dGZRWk9qYm5wUW4yeWNfWnR5SGoyWkR3U3d4V0R6SmRVcGE4c2fSAX9BVV95cUxOM0FZTG1ST2hNa3YxeXZ4UjlYOTR4WXRBZUxuVm1WaTRBek5HSlRmaUltd1hMS3hxcFhCNE1JekprRTQwMVBObDNEZUw5eXA2a2tUQzFDNmdMdHRmUVpPamJucFFuMnljX1p0eUhqMlpEd1N3eFdEekpkVXBhOHNn?oc=5",
+        "publishedAt": "2026-10-30T22:15:00.000Z"
+      },
+      {
+        "time": "08:38",
+        "title": "治水事業の完了を加速させる。",
+        "source": "Vietnam.vn",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8zZHlqTDkzT2FTYlFkS2pYeGNXNnhIbVMtWWl5ZVFpZzE2WHlHMzRNVFF2aUR1LXFkdjBCc3VWYVAxbU85VmRkdDE0YmVtUGE4djFzdWtZYmRTRG83cmhYWnJtR0lpQU1ISENGZnhoWjg?oc=5",
+        "publishedAt": "2026-10-30T23:38:12.000Z"
+      },
       {
         "time": "10:33",
         "title": "政府 デフレ脱却宣言は慎重に判断",
@@ -15,48 +57,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6600879?source=rss",
         "publishedAt": "2026-10-31T14:53:29.000Z"
-      },
-      {
-        "time": "23:27",
-        "title": "GMO 24年にシステム脆弱性指摘",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600878?source=rss",
-        "publishedAt": "2026-10-31T14:27:23.000Z"
-      },
-      {
-        "time": "17:56",
-        "title": "ブラックフライデー 先行セールも",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600845?source=rss",
-        "publishedAt": "2026-10-31T08:56:45.000Z"
-      },
-      {
-        "time": "14:01",
-        "title": "大企業出身のシニア採用 落とし穴",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600808?source=rss",
-        "publishedAt": "2026-10-31T05:01:10.000Z"
-      },
-      {
-        "time": "22:56",
-        "title": "マック 商品そろう前でも客呼ぶ訳",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600877?source=rss",
-        "publishedAt": "2026-10-31T13:56:06.000Z"
-      },
-      {
-        "time": "07:25",
-        "title": "都内最古の「天下一品」閉店へ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600740?source=rss",
-        "publishedAt": "2026-10-30T22:25:10.000Z"
-      },
-      {
-        "time": "22:00",
-        "title": "古着「オールドユニクロ」とは",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600869?source=rss",
-        "publishedAt": "2026-10-31T13:00:26.000Z"
       }
     ],
     "worldHeadlines": [
@@ -215,6 +215,13 @@
         "title": "中小企業省力化投資補助金の公募・採択情報を確認",
         "source": "中小機構",
         "url": "https://seisansei.smrj.go.jp/subsidy_info/laborsaving_subsidy.html"
+      },
+      {
+        "time": "16:00",
+        "title": "【令和8年・2026年】もらえる給付金・支援金まとめ！物価高・農業・子育て・生活支援等、目的別に紹介",
+        "source": "補助金ポータル",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1PbTA2anpjTjlKcUhxXzQtbEFhcXpkSE1UYjItLXZYTHJ0cG5uS3daeVBsY20xTzFCREZ6NEZYdm16OC1iRzRHZWlWZkpyVUYzZmZiTzVGaXd6Q1dhX2ptWVhpLTZuUkZt?oc=5",
+        "publishedAt": "2026-10-28T07:00:00.000Z"
       }
     ]
   }
