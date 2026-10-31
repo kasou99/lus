@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T07:35:16.886Z",
+  "updatedAt": "2026-10-31T08:13:39.281Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,11 +17,11 @@
         "publishedAt": "2026-10-31T02:10:00.000Z"
       },
       {
-        "time": "06:04",
-        "title": "電気制御盤市場の規模、動向、および2026年から2033年にかけての6.7%の成長予測",
+        "time": "04:04",
+        "title": "マルチターンアブソリュートロータリエンコーダ市場トップ10企業",
         "source": "pando.life",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5TbktCLUxBMjc0WmRlazI0cl9xOC1XS2V4Zlc0d3ZaWDR1c1hLeWVCX1JCUzFhSUN5cFVPSDdDcnZTLWRZWUFfb1R3?oc=5",
-        "publishedAt": "2026-10-30T21:04:49.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE12YWR6aExVazZ3dEllTjVyeFBQQTdHMTJPTFdLSGhQRmpOOEo2N0NUNWs4dC1SXzlxZWFpcjBPOG53Sms0bVpocVhR?oc=5",
+        "publishedAt": "2026-10-30T19:04:57.000Z"
       },
       {
         "time": "07:15",
@@ -38,25 +38,25 @@
         "publishedAt": "2026-10-30T23:38:12.000Z"
       },
       {
-        "time": "17:03",
-        "title": "中国平湖市、日本とのビジネス関係強化へ代表団を派遣〔GNW〕(時事通信)",
-        "source": "Yahoo!ファイナンス",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWnlrUWE2em82dy1yVGQ3ZEkxLVRPSklqcFV0aVhMTlhDQ1BaRi1JS1pyYzlVZG1ONDl5SzIyVGtRM2FRWHA2c1V1UDkwaXdFS3piS0dzOFlUNElEUTAzdnNNNGlMbmFBSXJMSkJWY0hBY1N5cUxrdkNqcjhLQTEzaHhyVzJsUlE?oc=5",
-        "publishedAt": "2026-10-30T08:03:44.000Z"
-      },
-      {
-        "time": "04:04",
-        "title": "マルチターンアブソリュートロータリエンコーダ市場トップ10企業",
-        "source": "pando.life",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE12YWR6aExVazZ3dEllTjVyeFBQQTdHMTJPTFdLSGhQRmpOOEo2N0NUNWs4dC1SXzlxZWFpcjBPOG53Sms0bVpocVhR?oc=5",
-        "publishedAt": "2026-10-30T19:04:57.000Z"
-      },
-      {
         "time": "19:10",
         "title": "【台湾情報】台湾半導体材料の現地調達が加速！日台企業の提携最前線などを解説する＜ワイズリサーチ最新レポート＞",
         "source": "Infoseek",
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5TcjctdmtSbTJnUTNHbGhKQ1NiRks0SUpMTkxCZzN4VVNnRlpWY2RtZjFQdldHSGRPLU1ZMk5qemxzX2N2Qzdjc0hjSjRIRFRBWFdaZ2pDUEJHbmhyQXdHMnUyTDlFdnJ6UDBmRFVxZkZ2Zw?oc=5",
         "publishedAt": "2026-10-30T10:10:00.000Z"
+      },
+      {
+        "time": "10:33",
+        "title": "政府 デフレ脱却宣言は慎重に判断",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6600778?source=rss",
+        "publishedAt": "2026-10-31T01:33:15.000Z"
+      },
+      {
+        "time": "13:17",
+        "title": "半導体大手インテル 株価29%急落",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6600804?source=rss",
+        "publishedAt": "2026-10-31T04:17:02.000Z"
       }
     ],
     "worldHeadlines": [
@@ -73,6 +73,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6600787?source=rss",
         "publishedAt": "2026-10-31T02:29:24.000Z"
+      },
+      {
+        "time": "16:35",
+        "title": "中間選挙 アメリカ政治にどう影響",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6600832?source=rss",
+        "publishedAt": "2026-10-31T07:35:09.000Z"
       },
       {
         "time": "08:56",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6600748?source=rss",
         "publishedAt": "2026-10-30T23:05:29.000Z"
-      },
-      {
-        "time": "23:17",
-        "title": "露の独立系紙が活動停止 当局弾圧",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600734?source=rss",
-        "publishedAt": "2026-10-30T14:17:10.000Z"
       }
     ],
     "economyHeadlines": [
@@ -163,13 +163,6 @@
         "publishedAt": "2026-10-31T06:27:16.000Z"
       },
       {
-        "time": "15:44",
-        "title": "中野の時計盗難 タクシーで逃走か",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600825?source=rss",
-        "publishedAt": "2026-10-31T06:44:56.000Z"
-      },
-      {
         "time": "11:53",
         "title": "列車脱線 衝突のクマ300kgほどか",
         "source": "Yahoo!ニュース",
@@ -189,6 +182,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6600824?source=rss",
         "publishedAt": "2026-10-31T06:43:16.000Z"
+      },
+      {
+        "time": "11:15",
+        "title": "園に「死ね」と書かれた人形 逮捕",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6600786?source=rss",
+        "publishedAt": "2026-10-31T02:15:20.000Z"
       }
     ],
     "subsidyHeadlines": [

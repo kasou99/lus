@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-31T07:35:17.800Z",
+  "updatedAt": "2026-10-31T08:13:40.461Z",
   "items": [
     {
-      "time": "14:10",
-      "title": "台風31号 11/4～小笠原諸島接近か",
+      "time": "16:35",
+      "title": "中間選挙 アメリカ政治にどう影響",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600811?source=rss",
-      "publishedAt": "2026-10-31T05:10:27.000Z",
-      "xQuery": "台風31号 11/4～小笠原諸島接近か"
+      "url": "https://news.yahoo.co.jp/pickup/6600832?source=rss",
+      "publishedAt": "2026-10-31T07:35:09.000Z",
+      "xQuery": "中間選挙 アメリカ政治にどう影響"
     },
     {
       "time": "16:10",
@@ -16,14 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6600828?source=rss",
       "publishedAt": "2026-10-31T07:10:55.000Z",
       "xQuery": "第2青函トンネル構想浮上 国交省"
-    },
-    {
-      "time": "14:34",
-      "title": "1日早朝 関東などISS観測好条件",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600812?source=rss",
-      "publishedAt": "2026-10-31T05:34:22.000Z",
-      "xQuery": "1日早朝 関東などISS観測好条件"
     },
     {
       "time": "15:43",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6600818?source=rss",
       "publishedAt": "2026-10-31T05:52:15.000Z",
       "xQuery": "山に放され戻ったクマ 今回は駆除"
+    },
+    {
+      "time": "16:44",
+      "title": "ハロウィン 注目を集める一軒家",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6600834?source=rss",
+      "publishedAt": "2026-10-31T07:44:49.000Z",
+      "xQuery": "ハロウィン 注目を集める一軒家"
     }
   ]
 };
