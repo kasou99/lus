@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-31T01:38:31.511Z",
+  "updatedAt": "2026-10-31T02:14:15.061Z",
   "items": [
+    {
+      "time": "10:44",
+      "title": "政府「副首都」推進本部を設置",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6600780?source=rss",
+      "publishedAt": "2026-10-31T01:44:16.000Z",
+      "xQuery": "政府「副首都」推進本部を設置"
+    },
     {
       "time": "10:10",
       "title": "北が関与か バイナンス巡り米調査",
@@ -8,14 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6600772?source=rss",
       "publishedAt": "2026-10-31T01:10:17.000Z",
       "xQuery": "北が関与か バイナンス巡り米調査"
-    },
-    {
-      "time": "08:11",
-      "title": "発達障害増加 支援学校の教員不足",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600753?source=rss",
-      "publishedAt": "2026-10-30T23:11:13.000Z",
-      "xQuery": "発達障害増加 支援学校の教員不足"
     },
     {
       "time": "09:54",
