@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-31T06:36:30.615Z",
+  "updatedAt": "2026-10-31T07:10:40.766Z",
   "items": [
     {
       "time": "14:10",
@@ -18,20 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "1日早朝 関東などISS観測好条件"
     },
     {
-      "time": "15:27",
-      "title": "米兵を逮捕 在沖米軍の外出禁止中",
+      "time": "15:43",
+      "title": "開かずの踏切廃止に住民反発 横浜",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600823?source=rss",
-      "publishedAt": "2026-10-31T06:27:16.000Z",
-      "xQuery": "米兵を逮捕 在沖米軍の外出禁止中"
-    },
-    {
-      "time": "13:17",
-      "title": "半導体大手インテル 株価29%急落",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600804?source=rss",
-      "publishedAt": "2026-10-31T04:17:02.000Z",
-      "xQuery": "半導体大手インテル 株価29%急落"
+      "url": "https://news.yahoo.co.jp/pickup/6600824?source=rss",
+      "publishedAt": "2026-10-31T06:43:16.000Z",
+      "xQuery": "開かずの踏切廃止に住民反発 横浜"
     },
     {
       "time": "14:52",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6600818?source=rss",
       "publishedAt": "2026-10-31T05:52:15.000Z",
       "xQuery": "山に放され戻ったクマ 今回は駆除"
+    },
+    {
+      "time": "15:26",
+      "title": "鶏高騰 豚肉が安い「逆転現象」も",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6600821?source=rss",
+      "publishedAt": "2026-10-31T06:26:56.000Z",
+      "xQuery": "鶏高騰 豚肉が安い「逆転現象」も"
     }
   ]
 };
