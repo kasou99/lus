@@ -1,21 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-31T05:09:59.204Z",
+  "updatedAt": "2026-10-31T05:35:15.983Z",
   "items": [
     {
-      "time": "10:33",
-      "title": "政府 デフレ脱却宣言は慎重に判断",
+      "time": "14:10",
+      "title": "台風31号 11/4～小笠原諸島接近か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600778?source=rss",
-      "publishedAt": "2026-10-31T01:33:15.000Z",
-      "xQuery": "政府 デフレ脱却宣言は慎重に判断"
-    },
-    {
-      "time": "13:48",
-      "title": "クマ衝突 列車で一夜「長かった」",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600806?source=rss",
-      "publishedAt": "2026-10-31T04:48:19.000Z",
-      "xQuery": "クマ衝突 列車で一夜「長かった」"
+      "url": "https://news.yahoo.co.jp/pickup/6600811?source=rss",
+      "publishedAt": "2026-10-31T05:10:27.000Z",
+      "xQuery": "台風31号 11/4～小笠原諸島接近か"
     },
     {
       "time": "13:17",
@@ -26,6 +18,14 @@ window.LUS_X_NEWS = {
       "xQuery": "半導体大手インテル 株価29%急落"
     },
     {
+      "time": "13:48",
+      "title": "クマ衝突 列車で一夜「長かった」",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6600806?source=rss",
+      "publishedAt": "2026-10-31T04:48:19.000Z",
+      "xQuery": "クマ衝突 列車で一夜「長かった」"
+    },
+    {
       "time": "11:15",
       "title": "園に「死ね」と書かれた人形 逮捕",
       "source": "Yahoo!ニュース",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "園に「死ね」と書かれた人形 逮捕"
     },
     {
-      "time": "13:13",
-      "title": "国名勝の池異変 コイ衰弱死相次ぐ",
+      "time": "14:01",
+      "title": "大企業出身のシニア採用 落とし穴",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600803?source=rss",
-      "publishedAt": "2026-10-31T04:13:36.000Z",
-      "xQuery": "国名勝の池異変 コイ衰弱死相次ぐ"
+      "url": "https://news.yahoo.co.jp/pickup/6600808?source=rss",
+      "publishedAt": "2026-10-31T05:01:10.000Z",
+      "xQuery": "大企業出身のシニア採用 落とし穴"
     }
   ]
 };
