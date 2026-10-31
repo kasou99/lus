@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-31T05:35:15.983Z",
+  "updatedAt": "2026-10-31T06:16:53.398Z",
   "items": [
     {
       "time": "14:10",
@@ -10,6 +10,14 @@ window.LUS_X_NEWS = {
       "xQuery": "台風31号 11/4～小笠原諸島接近か"
     },
     {
+      "time": "14:34",
+      "title": "1日早朝 関東などISS観測好条件",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6600812?source=rss",
+      "publishedAt": "2026-10-31T05:34:22.000Z",
+      "xQuery": "1日早朝 関東などISS観測好条件"
+    },
+    {
       "time": "13:17",
       "title": "半導体大手インテル 株価29%急落",
       "source": "Yahoo!ニュース",
@@ -18,20 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "半導体大手インテル 株価29%急落"
     },
     {
-      "time": "13:48",
-      "title": "クマ衝突 列車で一夜「長かった」",
+      "time": "14:52",
+      "title": "山に放され戻ったクマ 今回は駆除",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600806?source=rss",
-      "publishedAt": "2026-10-31T04:48:19.000Z",
-      "xQuery": "クマ衝突 列車で一夜「長かった」"
-    },
-    {
-      "time": "11:15",
-      "title": "園に「死ね」と書かれた人形 逮捕",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600786?source=rss",
-      "publishedAt": "2026-10-31T02:15:20.000Z",
-      "xQuery": "園に「死ね」と書かれた人形 逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6600818?source=rss",
+      "publishedAt": "2026-10-31T05:52:15.000Z",
+      "xQuery": "山に放され戻ったクマ 今回は駆除"
     },
     {
       "time": "14:01",
