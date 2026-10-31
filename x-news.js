@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-31T09:11:04.129Z",
+  "updatedAt": "2026-10-31T09:35:13.544Z",
   "items": [
     {
       "time": "16:35",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "工藤会会長にナンバー2が就任か"
     },
     {
-      "time": "17:57",
-      "title": "防波堤で釣り中 波にさらわれ重体",
+      "time": "17:56",
+      "title": "ブラックフライデー 先行セールも",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600844?source=rss",
-      "publishedAt": "2026-10-31T08:57:40.000Z",
-      "xQuery": "防波堤で釣り中 波にさらわれ重体"
+      "url": "https://news.yahoo.co.jp/pickup/6600845?source=rss",
+      "publishedAt": "2026-10-31T08:56:45.000Z",
+      "xQuery": "ブラックフライデー 先行セールも"
     },
     {
-      "time": "15:43",
-      "title": "開かずの踏切廃止に住民反発 横浜",
+      "time": "17:00",
+      "title": "投げ銭に計4億円 投げる側の心理",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600824?source=rss",
-      "publishedAt": "2026-10-31T06:43:16.000Z",
-      "xQuery": "開かずの踏切廃止に住民反発 横浜"
+      "url": "https://news.yahoo.co.jp/pickup/6600831?source=rss",
+      "publishedAt": "2026-10-31T08:00:43.000Z",
+      "xQuery": "投げ銭に計4億円 投げる側の心理"
     }
   ]
 };
