@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T23:09:18.269Z",
+  "updatedAt": "2026-10-31T23:35:00.714Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -68,13 +68,6 @@
         "publishedAt": "2026-10-31T22:50:15.000Z"
       },
       {
-        "time": "14:35",
-        "title": "日米韓外相 北極圏巡る協力覚書",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600816?source=rss",
-        "publishedAt": "2026-10-31T05:35:56.000Z"
-      },
-      {
         "time": "21:40",
         "title": "ウが製油所攻撃再開 ロシア副首相",
         "source": "Yahoo!ニュース",
@@ -87,6 +80,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6600832?source=rss",
         "publishedAt": "2026-10-31T07:35:09.000Z"
+      },
+      {
+        "time": "08:09",
+        "title": "米国版凱旋門 建設中止求め提訴",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6600891?source=rss",
+        "publishedAt": "2026-10-31T23:09:10.000Z"
       },
       {
         "time": "19:38",

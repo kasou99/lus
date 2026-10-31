@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-31T23:09:19.151Z",
+  "updatedAt": "2026-10-31T23:35:01.288Z",
   "items": [
+    {
+      "time": "07:41",
+      "title": "モスクワでテロ計画 米が露に警告",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6600883?source=rss",
+      "publishedAt": "2026-10-31T22:41:29.000Z",
+      "xQuery": "モスクワでテロ計画 米が露に警告"
+    },
     {
       "time": "07:50",
       "title": "日米豪印外相会談 AIなど協力確認",
@@ -10,20 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "日米豪印外相会談 AIなど協力確認"
     },
     {
-      "time": "23:53",
-      "title": "GMOが11/2に記者会見 社長出席",
+      "time": "08:09",
+      "title": "米国版凱旋門 建設中止求め提訴",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600879?source=rss",
-      "publishedAt": "2026-10-31T14:53:29.000Z",
-      "xQuery": "GMOが11/2に記者会見 社長出席"
-    },
-    {
-      "time": "07:41",
-      "title": "モスクワでテロ計画 米が露に警告",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600883?source=rss",
-      "publishedAt": "2026-10-31T22:41:29.000Z",
-      "xQuery": "モスクワでテロ計画 米が露に警告"
+      "url": "https://news.yahoo.co.jp/pickup/6600891?source=rss",
+      "publishedAt": "2026-10-31T23:09:10.000Z",
+      "xQuery": "米国版凱旋門 建設中止求め提訴"
     },
     {
       "time": "07:18",
