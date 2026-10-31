@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T00:46:01.751Z",
+  "updatedAt": "2026-10-31T01:11:14.830Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,13 +38,6 @@
         "publishedAt": "2026-10-30T14:10:00.000Z"
       },
       {
-        "time": "10:10",
-        "title": "ナガセインテグレ･武田機械…工作機械の中堅･中小メーカー､販路開拓へ武器にする独自製品・技術（ニュースイッチ）",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8zNHRJSFMyTDNkTlE1aE1xVHBWZVNsbU1aQWZvOG1nNG1ZY0ZlMUh4M3k2M0R0Xy1HaWhadWlRdDd5N0dWbUtiSGFwNWJmcDkzaVhQQWxNSC1DaTdQNGlMbUsxQjBZcXFwaV84dFREajJfdnA4LV9oQXZOOXZvc2M?oc=5",
-        "publishedAt": "2026-10-30T01:10:02.000Z"
-      },
-      {
         "time": "15:01",
         "title": "中国平湖市、日本とのビジネス関係強化へ代表団を派遣〔ＧＮＷ〕",
         "source": "ｄメニューニュース",
@@ -57,6 +50,13 @@
         "source": "GlobeNewswire",
         "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxQYTNwelRuUkN1N2lFZ2Fyd0p4MUt5dTJHX2did0dWS3dvaFRSa0hUajk3ZjdpMjZBblYyeWhNcGNEVFVEMDV5aDFuRHZWWEFPazFsdHJ0ZDNqdHNkUW53dm9HRDlDT3BSTldFTXE0Wm5kVkM5U21yR3h5aV84QzFsS1l4QWdlakdMS21LUzd6c0NaR2F2RW1vM0VQcTZmb3BNM3BHakV6SEtiX0xUOEo2NkhvVkU0TzlETjFNQWZtaklPRHJMczkwNktmdUxEWFlTYlBmel95d25BaWJMRnY4eWY5UFFEMmN6MHJXV2plcU12TlNsSTJaeC1wVW1pVXpTYUR0eFlka1l3SlczODhMVm1FdGZ4bGViTHJwZ3VBT3J0d09PaWI3WHB5aXdYNWRJOF9zRUwyenpuN0FoaFAtQmhsbWdqb0dJZDZoRks5VHFVVDlxeXc?oc=5",
         "publishedAt": "2026-10-30T04:43:45.000Z"
+      },
+      {
+        "time": "07:15",
+        "title": "冬支度に消雪パイプ363キロを点検 「発祥の地」新潟・長岡",
+        "source": "Infoseek",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zQVlMbVJPaE1rdjF5dnhSOVg5NHhZdEFlTG5WbVZpNEF6TkdKVGZpSW13WExLeHFwWEI0TUl6SmtFNDAxUE5sM0RlTDl5cDZra1RDMUM2Z0x0dGZRWk9qYm5wUW4yeWNfWnR5SGoyWkR3U3d4V0R6SmRVcGE4c2fSAX9BVV95cUxOM0FZTG1ST2hNa3YxeXZ4UjlYOTR4WXRBZUxuVm1WaTRBek5HSlRmaUltd1hMS3hxcFhCNE1JekprRTQwMVBObDNEZUw5eXA2a2tUQzFDNmdMdHRmUVpPamJucFFuMnljX1p0eUhqMlpEd1N3eFdEekpkVXBhOHNn?oc=5",
+        "publishedAt": "2026-10-30T22:15:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -105,11 +105,11 @@
     ],
     "economyHeadlines": [
       {
-        "time": "13:03",
-        "title": "物価上昇目標2%に到達 日銀見解",
+        "time": "09:54",
+        "title": "東京メトロ 29年3月値上げ目指す",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600672?source=rss",
-        "publishedAt": "2026-10-30T04:03:56.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6600770?source=rss",
+        "publishedAt": "2026-10-31T00:54:11.000Z"
       },
       {
         "time": "19:46",
@@ -170,6 +170,13 @@
         "publishedAt": "2026-10-31T00:34:03.000Z"
       },
       {
+        "time": "09:49",
+        "title": "3歳妹殺害され 3人の兄抱えた思い",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6600771?source=rss",
+        "publishedAt": "2026-10-31T00:49:16.000Z"
+      },
+      {
         "time": "08:20",
         "title": "列車とクマ衝突 乗客は車内で一夜",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6600764?source=rss",
         "publishedAt": "2026-10-31T00:06:53.000Z"
-      },
-      {
-        "time": "08:51",
-        "title": "首里城火災7年 11月に正殿公開へ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600760?source=rss",
-        "publishedAt": "2026-10-30T23:51:46.000Z"
       }
     ],
     "subsidyHeadlines": [

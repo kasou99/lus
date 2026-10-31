@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-31T00:46:02.942Z",
+  "updatedAt": "2026-10-31T01:11:15.373Z",
   "items": [
     {
       "time": "08:56",
@@ -10,12 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "トランプ氏 選挙遊説巡り二転三転"
     },
     {
-      "time": "08:15",
-      "title": "転覆 同志社会見に遺族コメント",
+      "time": "08:11",
+      "title": "発達障害増加 支援学校の教員不足",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600752?source=rss",
-      "publishedAt": "2026-10-30T23:15:38.000Z",
-      "xQuery": "転覆 同志社会見に遺族コメント"
+      "url": "https://news.yahoo.co.jp/pickup/6600753?source=rss",
+      "publishedAt": "2026-10-30T23:11:13.000Z",
+      "xQuery": "発達障害増加 支援学校の教員不足"
+    },
+    {
+      "time": "09:54",
+      "title": "東京メトロ 29年3月値上げ目指す",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6600770?source=rss",
+      "publishedAt": "2026-10-31T00:54:11.000Z",
+      "xQuery": "東京メトロ 29年3月値上げ目指す"
     },
     {
       "time": "08:20",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "列車とクマ衝突 乗客は車内で一夜"
     },
     {
-      "time": "08:54",
-      "title": "児童の絵にAI使用と中傷 公開中止",
+      "time": "09:49",
+      "title": "3歳妹殺害され 3人の兄抱えた思い",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600762?source=rss",
-      "publishedAt": "2026-10-30T23:54:35.000Z",
-      "xQuery": "児童の絵にAI使用と中傷 公開中止"
-    },
-    {
-      "time": "07:25",
-      "title": "都内最古の「天下一品」閉店へ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600740?source=rss",
-      "publishedAt": "2026-10-30T22:25:10.000Z",
-      "xQuery": "都内最古の「天下一品」閉店へ"
+      "url": "https://news.yahoo.co.jp/pickup/6600771?source=rss",
+      "publishedAt": "2026-10-31T00:49:16.000Z",
+      "xQuery": "3歳妹殺害され 3人の兄抱えた思い"
     }
   ]
 };
