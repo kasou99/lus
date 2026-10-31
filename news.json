@@ -1,14 +1,7 @@
 {
-  "updatedAt": "2026-10-31T21:09:01.244Z",
+  "updatedAt": "2026-10-31T21:34:55.135Z",
   "groups": {
     "machineHeadlines": [
-      {
-        "time": "17:45",
-        "title": "電線の端材でストラップ制作 Ｍ．Ｓ．Ｅ．が商品化",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TOThSZjN5eER3TlU3MHo0RE9lLXdpRFVod2Mtams1bFZvcjBKQnpvSFYxMjJPYm5HZVd5RlhtcHlTN3R2OGdVLUs5THBCQVVCWEE?oc=5",
-        "publishedAt": "2026-10-31T08:45:45.000Z"
-      },
       {
         "time": "07:01",
         "title": "JIMTOF2026 ～ 理系学生だけではなく、文系学生も歓迎。様変わりした工作機械見本市（中村智彦）",
@@ -29,6 +22,13 @@
         "source": "時事ドットコム",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1aTVNtYWlTdEs2dm80RC1mbW5lTUtBeUxoOVhOM2JOQmZtR003c0loVzJlR1VVWHQzME4wclhtTHVTOHpjajM4ZDZlNWlmTnU2ODJhdVlHejlXa1o5YU4zclJlalQ4YzhuSWlF?oc=5",
         "publishedAt": "2026-10-31T04:10:00.000Z"
+      },
+      {
+        "time": "04:02",
+        "title": "日本における密閉型光エンコーダーの市場動向",
+        "source": "pando.life",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1fZUV4amRFU0FrVDZabTVhTmZhQkZGOUIxOGEzUlVVbjQyNlUzTXRIRl9WWmR5VlcyM2puQmZWdExTZFR6WXBlSmR3?oc=5",
+        "publishedAt": "2026-10-31T19:02:32.000Z"
       },
       {
         "time": "07:15",
