@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T08:35:31.397Z",
+  "updatedAt": "2026-10-31T09:11:03.427Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -10,11 +10,18 @@
         "publishedAt": "2026-10-30T22:01:12.000Z"
       },
       {
-        "time": "11:10",
+        "time": "17:10",
         "title": "次世代設備保全クラウドの株式会社M2X、三和罐詰株式会社の導入事例を公開",
+        "source": "Excite エキサイト",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBfTlRxbWJidjBHdTZWTWJnb3RxdVhEWXdjOVBIcTBvYTJjb0xoSWNfUmN4SVlQN0tjNGx0OU9NSjlPV2xYNXNXM1FrcHRETjc5UUlsYm1ZMFJoQzJrY09fazdnb3plZEd0aXdlaEFoN1U4RmwtekE?oc=5",
+        "publishedAt": "2026-10-31T08:10:00.000Z"
+      },
+      {
+        "time": "07:15",
+        "title": "冬支度に消雪パイプ363キロを点検 「発祥の地」新潟・長岡",
         "source": "Infoseek",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ybjRqRGhmbERkMGNZMHhyVmtmclhVenRnUEh1TVUtMkcyZ2hjZmViWVF5VktaUjFzYUd0MURPWFFSZFhVeUN6UDlJSHJXUHdpUVlCWTRSS2dFTGpyNjdsM3BQQUxJY2Z0YzUxRENPNzRBdw?oc=5",
-        "publishedAt": "2026-10-31T02:10:00.000Z"
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zQVlMbVJPaE1rdjF5dnhSOVg5NHhZdEFlTG5WbVZpNEF6TkdKVGZpSW13WExLeHFwWEI0TUl6SmtFNDAxUE5sM0RlTDl5cDZra1RDMUM2Z0x0dGZRWk9qYm5wUW4yeWNfWnR5SGoyWkR3U3d4V0R6SmRVcGE4c2fSAX9BVV95cUxOM0FZTG1ST2hNa3YxeXZ4UjlYOTR4WXRBZUxuVm1WaTRBek5HSlRmaUltd1hMS3hxcFhCNE1JekprRTQwMVBObDNEZUw5eXA2a2tUQzFDNmdMdHRmUVpPamJucFFuMnljX1p0eUhqMlpEd1N3eFdEekpkVXBhOHNn?oc=5",
+        "publishedAt": "2026-10-30T22:15:00.000Z"
       },
       {
         "time": "04:04",
@@ -22,13 +29,6 @@
         "source": "pando.life",
         "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE12YWR6aExVazZ3dEllTjVyeFBQQTdHMTJPTFdLSGhQRmpOOEo2N0NUNWs4dC1SXzlxZWFpcjBPOG53Sms0bVpocVhR?oc=5",
         "publishedAt": "2026-10-30T19:04:57.000Z"
-      },
-      {
-        "time": "07:15",
-        "title": "冬支度に消雪パイプ363キロを点検 「発祥の地」新潟・長岡",
-        "source": "au Webポータル",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBROG55U3o0YnBiZ19aZ3RwakZUeWFnQVM1a1hIdWVLOTlwYVBMMjEzTFNKQl85ZUpjNWVHdnZtOWU3bVdfSzFnbkN3YnVqc1dfamE0U3dVVDdvZldiSWlneUlqYndiRG4tVUVLeFp3?oc=5",
-        "publishedAt": "2026-10-30T22:15:00.000Z"
       },
       {
         "time": "08:38",
@@ -133,18 +133,18 @@
         "publishedAt": "2026-10-30T14:03:09.000Z"
       },
       {
+        "time": "17:56",
+        "title": "ブラックフライデー 先行セールも",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6600845?source=rss",
+        "publishedAt": "2026-10-31T08:56:45.000Z"
+      },
+      {
         "time": "15:26",
         "title": "鶏高騰 豚肉が安い「逆転現象」も",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6600821?source=rss",
         "publishedAt": "2026-10-31T06:26:56.000Z"
-      },
-      {
-        "time": "14:01",
-        "title": "大企業出身のシニア採用 落とし穴",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600808?source=rss",
-        "publishedAt": "2026-10-31T05:01:10.000Z"
       }
     ],
     "localHeadlines": [
@@ -156,11 +156,11 @@
         "publishedAt": "2026-10-31T04:03:24.000Z"
       },
       {
-        "time": "15:27",
-        "title": "米兵を逮捕 在沖米軍の外出禁止中",
+        "time": "18:04",
+        "title": "工藤会会長にナンバー2が就任か",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600823?source=rss",
-        "publishedAt": "2026-10-31T06:27:16.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6600842?source=rss",
+        "publishedAt": "2026-10-31T09:04:10.000Z"
       },
       {
         "time": "11:53",
@@ -168,13 +168,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6600790?source=rss",
         "publishedAt": "2026-10-31T02:53:19.000Z"
-      },
-      {
-        "time": "10:16",
-        "title": "3歳妹殺害され 左耳聴力失った兄",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600776?source=rss",
-        "publishedAt": "2026-10-31T01:16:26.000Z"
       },
       {
         "time": "15:43",
@@ -189,6 +182,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6600786?source=rss",
         "publishedAt": "2026-10-31T02:15:20.000Z"
+      },
+      {
+        "time": "14:52",
+        "title": "山に放され戻ったクマ 今回は駆除",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6600818?source=rss",
+        "publishedAt": "2026-10-31T05:52:15.000Z"
       }
     ],
     "subsidyHeadlines": [

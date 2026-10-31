@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-31T08:35:32.683Z",
+  "updatedAt": "2026-10-31T09:11:04.129Z",
   "items": [
     {
       "time": "16:35",
@@ -18,28 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "日米韓外相 北極圏巡る協力覚書"
     },
     {
+      "time": "18:04",
+      "title": "工藤会会長にナンバー2が就任か",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6600842?source=rss",
+      "publishedAt": "2026-10-31T09:04:10.000Z",
+      "xQuery": "工藤会会長にナンバー2が就任か"
+    },
+    {
+      "time": "17:57",
+      "title": "防波堤で釣り中 波にさらわれ重体",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6600844?source=rss",
+      "publishedAt": "2026-10-31T08:57:40.000Z",
+      "xQuery": "防波堤で釣り中 波にさらわれ重体"
+    },
+    {
       "time": "15:43",
       "title": "開かずの踏切廃止に住民反発 横浜",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6600824?source=rss",
       "publishedAt": "2026-10-31T06:43:16.000Z",
       "xQuery": "開かずの踏切廃止に住民反発 横浜"
-    },
-    {
-      "time": "14:52",
-      "title": "山に放され戻ったクマ 今回は駆除",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600818?source=rss",
-      "publishedAt": "2026-10-31T05:52:15.000Z",
-      "xQuery": "山に放され戻ったクマ 今回は駆除"
-    },
-    {
-      "time": "16:44",
-      "title": "ハロウィン 注目を集める一軒家",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600834?source=rss",
-      "publishedAt": "2026-10-31T07:44:49.000Z",
-      "xQuery": "ハロウィン 注目を集める一軒家"
     }
   ]
 };
