@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-31T03:12:49.405Z",
+  "updatedAt": "2026-10-31T03:35:57.562Z",
   "items": [
     {
       "time": "08:31",
@@ -18,6 +18,14 @@ window.LUS_X_NEWS = {
       "xQuery": "首里城火災7年 11月に正殿公開へ"
     },
     {
+      "time": "12:13",
+      "title": "母娘襲われ重傷 逃走の男を逮捕",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6600797?source=rss",
+      "publishedAt": "2026-10-31T03:13:32.000Z",
+      "xQuery": "母娘襲われ重傷 逃走の男を逮捕"
+    },
+    {
       "time": "11:42",
       "title": "刑執行失敗の米死刑囚 心境明かす",
       "source": "Yahoo!ニュース",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6600790?source=rss",
       "publishedAt": "2026-10-31T02:53:19.000Z",
       "xQuery": "列車脱線 衝突のクマ300kgほどか"
-    },
-    {
-      "time": "11:15",
-      "title": "園に「死ね」と書かれた人形 逮捕",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600786?source=rss",
-      "publishedAt": "2026-10-31T02:15:20.000Z",
-      "xQuery": "園に「死ね」と書かれた人形 逮捕"
     }
   ]
 };

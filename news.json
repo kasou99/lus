@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T03:12:46.774Z",
+  "updatedAt": "2026-10-31T03:35:56.164Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -8,6 +8,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcmVfS2o5aDBNRm5PNWRaOGVTY0JtZE1fUWliUWlkRGE3SDR2S3pkSmd1djNnSjFmakRDVU5IenBKWHVWR1ZDZ2Yxb3RpRm4xOGRDSVA3MFY4b1lTclJ1clJjTnBXUGxrdll0bUdjcGlrdG5QT2RFR185RGhXM0pzNFZkTU5iX1dU?oc=5",
         "publishedAt": "2026-10-30T22:01:12.000Z"
+      },
+      {
+        "time": "11:10",
+        "title": "次世代設備保全クラウドの株式会社M2X、三和罐詰株式会社の導入事例を公開",
+        "source": "Infoseek",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ybjRqRGhmbERkMGNZMHhyVmtmclhVenRnUEh1TVUtMkcyZ2hjZmViWVF5VktaUjFzYUd0MURPWFFSZFhVeUN6UDlJSHJXUHdpUVlCWTRSS2dFTGpyNjdsM3BQQUxJY2Z0YzUxRENPNzRBdw?oc=5",
+        "publishedAt": "2026-10-31T02:10:00.000Z"
       },
       {
         "time": "13:30",
@@ -24,13 +31,6 @@
         "publishedAt": "2026-10-30T21:04:49.000Z"
       },
       {
-        "time": "23:10",
-        "title": "次世代設備保全クラウドの株式会社M2X、三和罐詰株式会社の導入事例を公開",
-        "source": "Infoseek",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ybjRqRGhmbERkMGNZMHhyVmtmclhVenRnUEh1TVUtMkcyZ2hjZmViWVF5VktaUjFzYUd0MURPWFFSZFhVeUN6UDlJSHJXUHdpUVlCWTRSS2dFTGpyNjdsM3BQQUxJY2Z0YzUxRENPNzRBdw?oc=5",
-        "publishedAt": "2026-10-30T14:10:00.000Z"
-      },
-      {
         "time": "13:45",
         "title": "NTN、工作機械向け高速・長寿命グリース「SP-1」量産へ…EVや半導体分野の需要拡大に対応",
         "source": "レスポンス（Response.jp）",
@@ -41,8 +41,15 @@
         "time": "15:01",
         "title": "中国平湖市、日本とのビジネス関係強化へ代表団を派遣〔ＧＮＷ〕",
         "source": "ｄメニューニュース",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRFhURUNHa3R2YU5hZ0VkcXh5WHpmdXl4bm9SWkdCZEF6MkVsNTZIVmxqV2hIVFZROXdJMWV1Qk44N19RY25PR2tmNm12YjJfNEM5Vi1mWmgwZkVUZGJ3SnBUT2hGd0l4Mm94TGNJWDI5VW1ad2ZONmtRd0NFTkNCMUxPdUpleXhvNVdBZUdDSW5Fam84dTlYSXlXWmJ0NEJhUTh2dTFfa0hYc2puSGZLRUdKSmtoNEtuRUtTVzV1eTdDUkxhbGY3aDMyMl9VY1B4T3fSAYABQVVfeXFMT19BX2VEelZYUFRlQ3Qta3FXZ1JKZFRaQ3pDOHpGc3pkN0FueDFjZWo5ZEpQdmJSdlNMc2RiODI5Z0tZZGswaGNZbzFQM282dHRVZHp1bUc4MUlzTWFueml5NUx0cFk0djRjS0dFNGprR19hakJqYWlvLUFuUkJXM0g?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB0ZHlJS2g2b0xrR1VoNWJKelNfSl9QR1JuenZ5My1aOGZlTGhGMktmN2RxWmduYTVVbFFrSmtadWh1QmpVaTBIVjJ1LVdnRS0yWWNrY2E0RWhReUpXd0dPckZPQTZ5enR0NEJWZGFrSlBxMXJMQWQtdDRRVdIBgAFBVV95cUxPX0FfZUR6VlhQVGVDdC1rcVdnUkpkVFpDekM4ekZzemQ3QW54MWNlajlkSlB2YlJ2U0xzZGI4MjlnS1lkazBoY1lvMVAzbzZ0dFVkenVtRzgxSXNNYW56aXk1THRwWTR2NGNLR0U0amtHX2FqQmphaW8tQW5SQlczSA?oc=5",
         "publishedAt": "2026-10-30T06:01:00.000Z"
+      },
+      {
+        "time": "17:03",
+        "title": "中国平湖市、日本とのビジネス関係強化へ代表団を派遣〔GNW〕(時事通信)",
+        "source": "Yahoo!ファイナンス",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWnlrUWE2em82dy1yVGQ3ZEkxLVRPSklqcFV0aVhMTlhDQ1BaRi1JS1pyYzlVZG1ONDl5SzIyVGtRM2FRWHA2c1V1UDkwaXdFS3piS0dzOFlUNElEUTAzdnNNNGlMbmFBSXJMSkJWY0hBY1N5cUxrdkNqcjhLQTEzaHhyVzJsUlE?oc=5",
+        "publishedAt": "2026-10-30T08:03:44.000Z"
       },
       {
         "time": "13:43",
@@ -50,13 +57,6 @@
         "source": "GlobeNewswire",
         "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxQYTNwelRuUkN1N2lFZ2Fyd0p4MUt5dTJHX2did0dWS3dvaFRSa0hUajk3ZjdpMjZBblYyeWhNcGNEVFVEMDV5aDFuRHZWWEFPazFsdHJ0ZDNqdHNkUW53dm9HRDlDT3BSTldFTXE0Wm5kVkM5U21yR3h5aV84QzFsS1l4QWdlakdMS21LUzd6c0NaR2F2RW1vM0VQcTZmb3BNM3BHakV6SEtiX0xUOEo2NkhvVkU0TzlETjFNQWZtaklPRHJMczkwNktmdUxEWFlTYlBmel95d25BaWJMRnY4eWY5UFFEMmN6MHJXV2plcU12TlNsSTJaeC1wVW1pVXpTYUR0eFlka1l3SlczODhMVm1FdGZ4bGViTHJwZ3VBT3J0d09PaWI3WHB5aXdYNWRJOF9zRUwyenpuN0FoaFAtQmhsbWdqb0dJZDZoRks5VHFVVDlxeXc?oc=5",
         "publishedAt": "2026-10-30T04:43:45.000Z"
-      },
-      {
-        "time": "04:04",
-        "title": "マルチターンアブソリュートロータリエンコーダ市場トップ10企業",
-        "source": "pando.life",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE12YWR6aExVazZ3dEllTjVyeFBQQTdHMTJPTFdLSGhQRmpOOEo2N0NUNWs4dC1SXzlxZWFpcjBPOG53Sms0bVpocVhR?oc=5",
-        "publishedAt": "2026-10-30T19:04:57.000Z"
       }
     ],
     "worldHeadlines": [
@@ -149,11 +149,11 @@
     ],
     "localHeadlines": [
       {
-        "time": "08:15",
-        "title": "転覆 同志社会見に遺族コメント",
+        "time": "12:13",
+        "title": "母娘襲われ重傷 逃走の男を逮捕",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600752?source=rss",
-        "publishedAt": "2026-10-30T23:15:38.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6600797?source=rss",
+        "publishedAt": "2026-10-31T03:13:32.000Z"
       },
       {
         "time": "11:53",
