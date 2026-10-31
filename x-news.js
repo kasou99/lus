@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-31T07:10:40.766Z",
+  "updatedAt": "2026-10-31T07:35:17.800Z",
   "items": [
     {
       "time": "14:10",
@@ -8,6 +8,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6600811?source=rss",
       "publishedAt": "2026-10-31T05:10:27.000Z",
       "xQuery": "台風31号 11/4～小笠原諸島接近か"
+    },
+    {
+      "time": "16:10",
+      "title": "第2青函トンネル構想浮上 国交省",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6600828?source=rss",
+      "publishedAt": "2026-10-31T07:10:55.000Z",
+      "xQuery": "第2青函トンネル構想浮上 国交省"
     },
     {
       "time": "14:34",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6600818?source=rss",
       "publishedAt": "2026-10-31T05:52:15.000Z",
       "xQuery": "山に放され戻ったクマ 今回は駆除"
-    },
-    {
-      "time": "15:26",
-      "title": "鶏高騰 豚肉が安い「逆転現象」も",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600821?source=rss",
-      "publishedAt": "2026-10-31T06:26:56.000Z",
-      "xQuery": "鶏高騰 豚肉が安い「逆転現象」も"
     }
   ]
 };
