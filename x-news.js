@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-31T04:12:17.515Z",
+  "updatedAt": "2026-10-31T04:35:28.884Z",
   "items": [
     {
       "time": "10:33",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "政府 デフレ脱却宣言は慎重に判断"
     },
     {
-      "time": "12:59",
-      "title": "米インテル株急落 52年ぶり下落率",
+      "time": "11:42",
+      "title": "刑執行失敗の米死刑囚 心境明かす",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600801?source=rss",
-      "publishedAt": "2026-10-31T03:59:44.000Z",
-      "xQuery": "米インテル株急落 52年ぶり下落率"
+      "url": "https://news.yahoo.co.jp/pickup/6600791?source=rss",
+      "publishedAt": "2026-10-31T02:42:54.000Z",
+      "xQuery": "刑執行失敗の米死刑囚 心境明かす"
     },
     {
-      "time": "11:29",
-      "title": "露とウ 侵攻後初の共同人道支援",
+      "time": "13:17",
+      "title": "半導体大手インテル 株価29%急落",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600787?source=rss",
-      "publishedAt": "2026-10-31T02:29:24.000Z",
-      "xQuery": "露とウ 侵攻後初の共同人道支援"
+      "url": "https://news.yahoo.co.jp/pickup/6600804?source=rss",
+      "publishedAt": "2026-10-31T04:17:02.000Z",
+      "xQuery": "半導体大手インテル 株価29%急落"
     },
     {
       "time": "13:03",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "部下性的暴行事件 元検事正を保釈"
     },
     {
-      "time": "11:42",
-      "title": "刑執行失敗の米死刑囚 心境明かす",
+      "time": "11:15",
+      "title": "園に「死ね」と書かれた人形 逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600791?source=rss",
-      "publishedAt": "2026-10-31T02:42:54.000Z",
-      "xQuery": "刑執行失敗の米死刑囚 心境明かす"
+      "url": "https://news.yahoo.co.jp/pickup/6600786?source=rss",
+      "publishedAt": "2026-10-31T02:15:20.000Z",
+      "xQuery": "園に「死ね」と書かれた人形 逮捕"
     }
   ]
 };
