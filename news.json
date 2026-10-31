@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T10:35:12.792Z",
+  "updatedAt": "2026-10-31T11:08:43.993Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -82,13 +82,6 @@
         "publishedAt": "2026-10-31T07:35:09.000Z"
       },
       {
-        "time": "08:56",
-        "title": "トランプ氏 選挙遊説巡り二転三転",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600759?source=rss",
-        "publishedAt": "2026-10-30T23:56:19.000Z"
-      },
-      {
         "time": "23:38",
         "title": "中間選挙 民主党「赤い州」で勢い",
         "source": "Yahoo!ニュース",
@@ -101,6 +94,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6600748?source=rss",
         "publishedAt": "2026-10-30T23:05:29.000Z"
+      },
+      {
+        "time": "19:38",
+        "title": "スペイン運輸相 追突列車は青信号",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6600855?source=rss",
+        "publishedAt": "2026-10-31T10:38:10.000Z"
       }
     ],
     "economyHeadlines": [
@@ -149,13 +149,6 @@
     ],
     "localHeadlines": [
       {
-        "time": "13:03",
-        "title": "部下性的暴行事件 元検事正を保釈",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600802?source=rss",
-        "publishedAt": "2026-10-31T04:03:24.000Z"
-      },
-      {
         "time": "19:24",
         "title": "元検事正の保釈金は1千万円 納付",
         "source": "Yahoo!ニュース",
@@ -189,6 +182,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6600786?source=rss",
         "publishedAt": "2026-10-31T02:15:20.000Z"
+      },
+      {
+        "time": "17:57",
+        "title": "防波堤で釣り中 波にさらわれ重体",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6600844?source=rss",
+        "publishedAt": "2026-10-31T08:57:40.000Z"
       }
     ],
     "subsidyHeadlines": [

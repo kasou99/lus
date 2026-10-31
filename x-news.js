@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-31T10:35:13.522Z",
+  "updatedAt": "2026-10-31T11:08:44.823Z",
   "items": [
     {
       "time": "18:04",
@@ -18,6 +18,14 @@ window.LUS_X_NEWS = {
       "xQuery": "身代金ウイルス 送金後追加要求も"
     },
     {
+      "time": "19:38",
+      "title": "スペイン運輸相 追突列車は青信号",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6600855?source=rss",
+      "publishedAt": "2026-10-31T10:38:10.000Z",
+      "xQuery": "スペイン運輸相 追突列車は青信号"
+    },
+    {
       "time": "19:24",
       "title": "元検事正の保釈金は1千万円 納付",
       "source": "Yahoo!ニュース",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6600845?source=rss",
       "publishedAt": "2026-10-31T08:56:45.000Z",
       "xQuery": "ブラックフライデー 先行セールも"
-    },
-    {
-      "time": "17:00",
-      "title": "投げ銭に計4億円 投げる側の心理",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600831?source=rss",
-      "publishedAt": "2026-10-31T08:00:43.000Z",
-      "xQuery": "投げ銭に計4億円 投げる側の心理"
     }
   ]
 };
