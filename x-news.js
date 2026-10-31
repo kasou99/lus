@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-31T10:09:33.873Z",
+  "updatedAt": "2026-10-31T10:35:13.522Z",
   "items": [
     {
-      "time": "16:35",
-      "title": "中間選挙 アメリカ政治にどう影響",
+      "time": "18:04",
+      "title": "高市氏ら首相の予算委答弁数 比較",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600832?source=rss",
-      "publishedAt": "2026-10-31T07:35:09.000Z",
-      "xQuery": "中間選挙 アメリカ政治にどう影響"
+      "url": "https://news.yahoo.co.jp/pickup/6600843?source=rss",
+      "publishedAt": "2026-10-31T09:04:33.000Z",
+      "xQuery": "高市氏ら首相の予算委答弁数 比較"
     },
     {
       "time": "18:27",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "身代金ウイルス 送金後追加要求も"
     },
     {
-      "time": "18:04",
-      "title": "工藤会会長にナンバー2が就任か",
+      "time": "19:24",
+      "title": "元検事正の保釈金は1千万円 納付",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600842?source=rss",
-      "publishedAt": "2026-10-31T09:04:10.000Z",
-      "xQuery": "工藤会会長にナンバー2が就任か"
+      "url": "https://news.yahoo.co.jp/pickup/6600851?source=rss",
+      "publishedAt": "2026-10-31T10:24:42.000Z",
+      "xQuery": "元検事正の保釈金は1千万円 納付"
     },
     {
       "time": "17:56",
