@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-31T06:16:53.398Z",
+  "updatedAt": "2026-10-31T06:36:30.615Z",
   "items": [
     {
       "time": "14:10",
@@ -18,6 +18,14 @@ window.LUS_X_NEWS = {
       "xQuery": "1日早朝 関東などISS観測好条件"
     },
     {
+      "time": "15:27",
+      "title": "米兵を逮捕 在沖米軍の外出禁止中",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6600823?source=rss",
+      "publishedAt": "2026-10-31T06:27:16.000Z",
+      "xQuery": "米兵を逮捕 在沖米軍の外出禁止中"
+    },
+    {
       "time": "13:17",
       "title": "半導体大手インテル 株価29%急落",
       "source": "Yahoo!ニュース",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6600818?source=rss",
       "publishedAt": "2026-10-31T05:52:15.000Z",
       "xQuery": "山に放され戻ったクマ 今回は駆除"
-    },
-    {
-      "time": "14:01",
-      "title": "大企業出身のシニア採用 落とし穴",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600808?source=rss",
-      "publishedAt": "2026-10-31T05:01:10.000Z",
-      "xQuery": "大企業出身のシニア採用 落とし穴"
     }
   ]
 };
