@@ -1,14 +1,7 @@
 {
-  "updatedAt": "2026-11-01T02:16:07.588Z",
+  "updatedAt": "2026-11-01T02:35:16.477Z",
   "groups": {
     "machineHeadlines": [
-      {
-        "time": "05:08",
-        "title": "ミッション・バリューのマクダーモット氏、日本の「失われた数十年」は金融業界が作り出した虚構だと指摘―日本資本の還流が目前に迫る",
-        "source": "BigGo ファイナンス",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE01MVVKbG5JVkM3ZFQ0YVhnNXdNMjF0dXJpVmFTRW45Q1VDY0VNRWlVSHAyOFhPR3BSV3ZLR3drWUd3YUR0TkF0UDFJYlVlR3Y1NHpLOWRSbXQxUQ?oc=5",
-        "publishedAt": "2026-10-31T20:08:00.000Z"
-      },
       {
         "time": "01:10",
         "title": "【台湾情報】台湾半導体材料の現地調達が加速！日台企業の提携最前線などを解説する＜ワイズリサーチ最新レポート＞",
@@ -22,6 +15,13 @@
         "source": "Excite エキサイト",
         "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBfTlRxbWJidjBHdTZWTWJnb3RxdVhEWXdjOVBIcTBvYTJjb0xoSWNfUmN4SVlQN0tjNGx0OU9NSjlPV2xYNXNXM1FrcHRETjc5UUlsYm1ZMFJoQzJrY09fazdnb3plZEd0aXdlaEFoN1U4RmwtekE?oc=5",
         "publishedAt": "2026-10-31T08:10:00.000Z"
+      },
+      {
+        "time": "05:08",
+        "title": "ミッション・バリューのマクダーモット氏、日本の「失われた数十年」は金融業界が作り出した虚構だと指摘―日本資本の還流が目前に迫る",
+        "source": "BigGo ファイナンス",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE01MVVKbG5JVkM3ZFQ0YVhnNXdNMjF0dXJpVmFTRW45Q1VDY0VNRWlVSHAyOFhPR3BSV3ZLR3drWUd3YUR0TkF0UDFJYlVlR3Y1NHpLOWRSbXQxUQ?oc=5",
+        "publishedAt": "2026-10-31T20:08:00.000Z"
       },
       {
         "time": "04:02",
