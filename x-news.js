@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-01T01:39:23.537Z",
+  "updatedAt": "2026-11-01T02:16:08.201Z",
   "items": [
     {
       "time": "08:34",
@@ -18,28 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "バイナンス被害 北朝鮮関与とFBI"
     },
     {
-      "time": "09:08",
-      "title": "米大統領 造反・不祥事議員を称賛",
+      "time": "09:58",
+      "title": "共和党 トランプ氏から離反相次ぐ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600898?source=rss",
-      "publishedAt": "2026-11-01T00:08:45.000Z",
-      "xQuery": "米大統領 造反・不祥事議員を称賛"
+      "url": "https://news.yahoo.co.jp/pickup/6600904?source=rss",
+      "publishedAt": "2026-11-01T00:58:11.000Z",
+      "xQuery": "共和党 トランプ氏から離反相次ぐ"
     },
     {
-      "time": "09:08",
-      "title": "学校で突然言葉出ず 悩んだ吃音",
+      "time": "11:00",
+      "title": "福岡市長選 政令市最多13人立候補",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600899?source=rss",
-      "publishedAt": "2026-11-01T00:08:15.000Z",
-      "xQuery": "学校で突然言葉出ず 悩んだ吃音"
+      "url": "https://news.yahoo.co.jp/pickup/6600918?source=rss",
+      "publishedAt": "2026-11-01T02:00:42.000Z",
+      "xQuery": "福岡市長選 政令市最多13人立候補"
     },
     {
-      "time": "10:34",
-      "title": "思春期の娘に父どう接すれば 解説",
+      "time": "11:12",
+      "title": "長すぎベルト「落ち感」引き出す",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600915?source=rss",
-      "publishedAt": "2026-11-01T01:34:29.000Z",
-      "xQuery": "思春期の娘に父どう接すれば 解説"
+      "url": "https://news.yahoo.co.jp/pickup/6600919?source=rss",
+      "publishedAt": "2026-11-01T02:12:42.000Z",
+      "xQuery": "長すぎベルト「落ち感」引き出す"
     }
   ]
 };
