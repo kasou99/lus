@@ -1,13 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-01T12:14:39.341Z",
+  "updatedAt": "2026-11-01T12:35:14.059Z",
   "items": [
     {
-      "time": "19:30",
-      "title": "GMO攻撃者は何者か 識者の指摘",
+      "time": "21:18",
+      "title": "GMO攻撃 北朝鮮系のハッカーか",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600977?source=rss",
-      "publishedAt": "2026-11-01T10:30:00.000Z",
-      "xQuery": "GMO攻撃者は何者か 識者の指摘"
+      "url": "https://news.yahoo.co.jp/pickup/6600991?source=rss",
+      "publishedAt": "2026-11-01T12:18:46.000Z",
+      "xQuery": "GMO攻撃 北朝鮮系のハッカーか"
+    },
+    {
+      "time": "17:38",
+      "title": "韓国の10月輸出額 前年比ほぼ倍増",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6600964?source=rss",
+      "publishedAt": "2026-11-01T08:38:35.000Z",
+      "xQuery": "韓国の10月輸出額 前年比ほぼ倍増"
     },
     {
       "time": "20:58",
@@ -18,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "堤防から海に転落 1人死亡確認"
     },
     {
-      "time": "18:10",
-      "title": "渋滞最大で3時間 いろは坂で実験",
+      "time": "19:33",
+      "title": "エムバペとキティ謝罪 中国の怒り",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600969?source=rss",
-      "publishedAt": "2026-11-01T09:10:42.000Z",
-      "xQuery": "渋滞最大で3時間 いろは坂で実験"
+      "url": "https://news.yahoo.co.jp/pickup/6600978?source=rss",
+      "publishedAt": "2026-11-01T10:33:29.000Z",
+      "xQuery": "エムバペとキティ謝罪 中国の怒り"
     },
     {
       "time": "20:07",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6600981?source=rss",
       "publishedAt": "2026-11-01T11:07:28.000Z",
       "xQuery": "「家族系」配信 相次ぐ収益化停止"
-    },
-    {
-      "time": "19:33",
-      "title": "エムバペとキティ謝罪 中国の怒り",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600978?source=rss",
-      "publishedAt": "2026-11-01T10:33:29.000Z",
-      "xQuery": "エムバペとキティ謝罪 中国の怒り"
     }
   ]
 };
