@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T15:35:09.666Z",
+  "updatedAt": "2026-11-01T16:10:32.316Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -45,18 +45,18 @@
         "publishedAt": "2026-10-31T20:08:00.000Z"
       },
       {
+        "time": "00:02",
+        "title": "磁気クランプシステムの世界シェア2026年版",
+        "source": "pando.life",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFAtQlNQNlh5VVFqaEJHSC1wcGxDOVMxQkkzWERucTlXWklpZ1BTOFFEZ0ZVNGRjeVVOcG0xNnZoMnRlZnhZbTdDSVhR?oc=5",
+        "publishedAt": "2026-11-01T15:02:33.000Z"
+      },
+      {
         "time": "04:02",
         "title": "日本における密閉型光エンコーダーの市場動向",
         "source": "pando.life",
         "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1fZUV4amRFU0FrVDZabTVhTmZhQkZGOUIxOGEzUlVVbjQyNlUzTXRIRl9WWmR5VlcyM2puQmZWdExTZFR6WXBlSmR3?oc=5",
         "publishedAt": "2026-10-31T19:02:32.000Z"
-      },
-      {
-        "time": "23:53",
-        "title": "GMOが11/2に記者会見 社長出席",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600879?source=rss",
-        "publishedAt": "2026-10-31T14:53:29.000Z"
       }
     ],
     "worldHeadlines": [
