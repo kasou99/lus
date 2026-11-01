@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-01T14:35:08.047Z",
+  "updatedAt": "2026-11-01T15:08:57.241Z",
   "items": [
     {
       "time": "23:25",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "GMO攻撃 北朝鮮系のハッカーか"
     },
     {
-      "time": "22:01",
-      "title": "闇サイトで高まる 日本への関心",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600998?source=rss",
-      "publishedAt": "2026-11-01T13:01:10.000Z",
-      "xQuery": "闇サイトで高まる 日本への関心"
-    },
-    {
       "time": "21:59",
       "title": "望月衣塑子記者の対談本 回収へ",
       "source": "Yahoo!ニュース",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "望月衣塑子記者の対談本 回収へ"
     },
     {
-      "time": "21:04",
-      "title": "PFOS含む泡消火剤 川に流出",
+      "time": "23:44",
+      "title": "生命起源巡る理論 定説覆る可能性",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600990?source=rss",
-      "publishedAt": "2026-11-01T12:04:22.000Z",
-      "xQuery": "PFOS含む泡消火剤 川に流出"
+      "url": "https://news.yahoo.co.jp/pickup/6600999?source=rss",
+      "publishedAt": "2026-11-01T14:44:54.000Z",
+      "xQuery": "生命起源巡る理論 定説覆る可能性"
+    },
+    {
+      "time": "23:53",
+      "title": "38歳で余命宣告 子への優しいうそ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601003?source=rss",
+      "publishedAt": "2026-11-01T14:53:14.000Z",
+      "xQuery": "38歳で余命宣告 子への優しいうそ"
     }
   ]
 };
