@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T19:34:46.623Z",
+  "updatedAt": "2026-11-01T20:10:10.314Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,13 +38,6 @@
         "publishedAt": "2026-11-01T04:30:00.000Z"
       },
       {
-        "time": "05:08",
-        "title": "ミッション・バリューのマクダーモット氏、日本の「失われた数十年」は金融業界が作り出した虚構だと指摘―日本資本の還流が目前に迫る",
-        "source": "BigGo ファイナンス",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE01MVVKbG5JVkM3ZFQ0YVhnNXdNMjF0dXJpVmFTRW45Q1VDY0VNRWlVSHAyOFhPR3BSV3ZLR3drWUd3YUR0TkF0UDFJYlVlR3Y1NHpLOWRSbXQxUQ?oc=5",
-        "publishedAt": "2026-10-31T20:08:00.000Z"
-      },
-      {
         "time": "00:02",
         "title": "磁気クランプシステムの世界シェア2026年版",
         "source": "pando.life",
@@ -52,11 +45,18 @@
         "publishedAt": "2026-11-01T15:02:33.000Z"
       },
       {
-        "time": "04:02",
-        "title": "日本における密閉型光エンコーダーの市場動向",
-        "source": "pando.life",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1fZUV4amRFU0FrVDZabTVhTmZhQkZGOUIxOGEzUlVVbjQyNlUzTXRIRl9WWmR5VlcyM2puQmZWdExTZFR6WXBlSmR3?oc=5",
-        "publishedAt": "2026-10-31T19:02:32.000Z"
+        "time": "05:08",
+        "title": "ミッション・バリューのマクダーモット氏、日本の「失われた数十年」は金融業界が作り出した虚構だと指摘―日本資本の還流が目前に迫る",
+        "source": "BigGo ファイナンス",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE01MVVKbG5JVkM3ZFQ0YVhnNXdNMjF0dXJpVmFTRW45Q1VDY0VNRWlVSHAyOFhPR3BSV3ZLR3drWUd3YUR0TkF0UDFJYlVlR3Y1NHpLOWRSbXQxUQ?oc=5",
+        "publishedAt": "2026-10-31T20:08:00.000Z"
+      },
+      {
+        "time": "23:53",
+        "title": "GMOが11/2に記者会見 社長出席",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6600879?source=rss",
+        "publishedAt": "2026-10-31T14:53:29.000Z"
       }
     ],
     "worldHeadlines": [
