@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-01T07:35:12.801Z",
+  "updatedAt": "2026-11-01T08:13:48.360Z",
   "items": [
     {
       "time": "15:10",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "台風 小笠原諸島は影響長引く恐れ"
     },
     {
-      "time": "13:32",
-      "title": "個人情報は必要? 企業の漏洩対策",
+      "time": "16:30",
+      "title": "船減便で生徒を「積み残し」困惑",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600932?source=rss",
-      "publishedAt": "2026-11-01T04:32:45.000Z",
-      "xQuery": "個人情報は必要? 企業の漏洩対策"
+      "url": "https://news.yahoo.co.jp/pickup/6600952?source=rss",
+      "publishedAt": "2026-11-01T07:30:35.000Z",
+      "xQuery": "船減便で生徒を「積み残し」困惑"
     },
     {
       "time": "16:00",
