@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-11-01T20:35:02.938Z",
+  "updatedAt": "2026-11-01T21:09:23.806Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "05:00",
+        "title": "JIMMTOF2026／日工会「トップセミ」 若い力、モノづくりの原動力",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5NZ1lrUHZhdkNRcEhGVkFMa1VIZnh3U0xmMUlrWmNsc0Q2aGhoSGtPRWw2MEl1aS01aVpFSUVYVW9sUTJ0SDRTZDNmcUtPcUh6ODRHSmhwdWw?oc=5",
+        "publishedAt": "2026-11-01T20:00:00.000Z"
+      },
       {
         "time": "17:10",
         "title": "次世代設備保全クラウドの株式会社M2X、三和罐詰株式会社の導入事例を公開",
@@ -14,6 +21,13 @@
         "title": "産業用設備の”保全部隊”に 浅野鐵工 繊維機械修理を水平展開",
         "source": "中部経済新聞",
         "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE04Z3AtZTVwU2tPUHB3ZGhFVlFzU2QyTjV3WEJZd0VYbnpieVZzODRIcGlNcDRxTnBjN2pKOGJUcWI0bG5XRUx3QVlkcUJ0dDRNRF9LSko4MzNzTVpsbUNjQ1IzZ3MtZkZCRU94YzZIWHdWdm8?oc=5",
+        "publishedAt": "2026-11-01T20:00:00.000Z"
+      },
+      {
+        "time": "05:00",
+        "title": "準大手・中堅ゼネコントップに聞く（8）不動テトラ社長・奥田眞也氏",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5hZzh2RWduY2RvV0pmek9sckxrUE5mclctdVIyVDdDTzhyLW54dC1wZm1jZGo5SldTeF9ldzZUb1JqTTBTeloxOFY4RkdtN2l4VGZNM0ZQaS0?oc=5",
         "publishedAt": "2026-11-01T20:00:00.000Z"
       },
       {
@@ -38,25 +52,11 @@
         "publishedAt": "2026-11-01T03:30:00.000Z"
       },
       {
-        "time": "13:30",
-        "title": "産業用LCDスクリーン・ディスプレイ制御パネルの世界市場（2026年～2032年）、市場規模（LEDディスプレイ、CRTディスプレイ、LCDディスプレイ、ELディスプレイ）・分析レポートを発表",
-        "source": "アットプレス",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5DUkRzNUhaaTNKTzdzTFgxY0t4UWI0a3ptT25TOGdCVXMxZDV6NUFkSl9IOEtVckhaX09uc1BMWnppTnRMYTdyV3ctdU9iSEE?oc=5",
-        "publishedAt": "2026-11-01T04:30:00.000Z"
-      },
-      {
-        "time": "00:02",
-        "title": "磁気クランプシステムの世界シェア2026年版",
-        "source": "pando.life",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFAtQlNQNlh5VVFqaEJHSC1wcGxDOVMxQkkzWERucTlXWklpZ1BTOFFEZ0ZVNGRjeVVOcG0xNnZoMnRlZnhZbTdDSVhR?oc=5",
-        "publishedAt": "2026-11-01T15:02:33.000Z"
-      },
-      {
-        "time": "05:08",
-        "title": "ミッション・バリューのマクダーモット氏、日本の「失われた数十年」は金融業界が作り出した虚構だと指摘―日本資本の還流が目前に迫る",
-        "source": "BigGo ファイナンス",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE01MVVKbG5JVkM3ZFQ0YVhnNXdNMjF0dXJpVmFTRW45Q1VDY0VNRWlVSHAyOFhPR3BSV3ZLR3drWUd3YUR0TkF0UDFJYlVlR3Y1NHpLOWRSbXQxUQ?oc=5",
-        "publishedAt": "2026-10-31T20:08:00.000Z"
+        "time": "05:00",
+        "title": "軸受3社、通期売上高上方修正 AI関連など需要継続",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9kSElhWUhKNlUxR0QyRDR6dkpXb2ZSR01zVFhjM3l4RHVXR3prS2NjMVd5a0MxNWRDS29zZHQxN3dKU0dpYlhISEU0a1RkQ2xkeVdtM0xia0Q?oc=5",
+        "publishedAt": "2026-11-01T20:00:00.000Z"
       }
     ],
     "worldHeadlines": [
