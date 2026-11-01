@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-01T13:09:15.624Z",
+  "updatedAt": "2026-11-01T13:34:56.459Z",
   "items": [
     {
       "time": "21:18",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "闇サイトで高まる 日本への関心"
     },
     {
-      "time": "17:38",
-      "title": "韓国の10月輸出額 前年比ほぼ倍増",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600964?source=rss",
-      "publishedAt": "2026-11-01T08:38:35.000Z",
-      "xQuery": "韓国の10月輸出額 前年比ほぼ倍増"
-    },
-    {
       "time": "21:37",
       "title": "釣り人が海に転落 1人死亡1人不明",
       "source": "Yahoo!ニュース",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6600993?source=rss",
       "publishedAt": "2026-11-01T12:37:33.000Z",
       "xQuery": "みんなで大家さん 悔やむ出資者も"
+    },
+    {
+      "time": "21:59",
+      "title": "望月衣塑子記者の対談本 回収へ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6600996?source=rss",
+      "publishedAt": "2026-11-01T12:59:35.000Z",
+      "xQuery": "望月衣塑子記者の対談本 回収へ"
     }
   ]
 };
