@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-01T13:34:56.459Z",
+  "updatedAt": "2026-11-01T14:09:48.083Z",
   "items": [
     {
       "time": "21:18",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "釣り人が海に転落 1人死亡1人不明"
     },
     {
-      "time": "21:37",
-      "title": "みんなで大家さん 悔やむ出資者も",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600993?source=rss",
-      "publishedAt": "2026-11-01T12:37:33.000Z",
-      "xQuery": "みんなで大家さん 悔やむ出資者も"
-    },
-    {
       "time": "21:59",
       "title": "望月衣塑子記者の対談本 回収へ",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6600996?source=rss",
       "publishedAt": "2026-11-01T12:59:35.000Z",
       "xQuery": "望月衣塑子記者の対談本 回収へ"
+    },
+    {
+      "time": "21:04",
+      "title": "PFOS含む泡消火剤 川に流出",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6600990?source=rss",
+      "publishedAt": "2026-11-01T12:04:22.000Z",
+      "xQuery": "PFOS含む泡消火剤 川に流出"
     }
   ]
 };
