@@ -1,22 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-01T02:35:17.075Z",
+  "updatedAt": "2026-11-01T03:15:42.452Z",
   "items": [
-    {
-      "time": "08:34",
-      "title": "中国 台湾周辺海底ケーブル探査か",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600895?source=rss",
-      "publishedAt": "2026-10-31T23:34:33.000Z",
-      "xQuery": "中国 台湾周辺海底ケーブル探査か"
-    },
-    {
-      "time": "09:56",
-      "title": "バイナンス被害 北朝鮮関与とFBI",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600906?source=rss",
-      "publishedAt": "2026-11-01T00:56:58.000Z",
-      "xQuery": "バイナンス被害 北朝鮮関与とFBI"
-    },
     {
       "time": "09:58",
       "title": "共和党 トランプ氏から離反相次ぐ",
@@ -26,12 +10,28 @@ window.LUS_X_NEWS = {
       "xQuery": "共和党 トランプ氏から離反相次ぐ"
     },
     {
+      "time": "09:08",
+      "title": "出国時に返金 新免税制度が開始",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6600900?source=rss",
+      "publishedAt": "2026-11-01T00:08:57.000Z",
+      "xQuery": "出国時に返金 新免税制度が開始"
+    },
+    {
       "time": "11:00",
       "title": "福岡市長選 政令市最多13人立候補",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6600918?source=rss",
       "publishedAt": "2026-11-01T02:00:42.000Z",
       "xQuery": "福岡市長選 政令市最多13人立候補"
+    },
+    {
+      "time": "11:45",
+      "title": "クマ放獣3日で出戻り 秦野市驚き",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6600922?source=rss",
+      "publishedAt": "2026-11-01T02:45:31.000Z",
+      "xQuery": "クマ放獣3日で出戻り 秦野市驚き"
     },
     {
       "time": "11:12",
