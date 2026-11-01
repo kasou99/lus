@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-01T09:11:17.522Z",
+  "updatedAt": "2026-11-01T09:35:04.462Z",
   "items": [
     {
-      "time": "16:06",
-      "title": "米中間選挙 事前投票が過去最多",
+      "time": "17:55",
+      "title": "高市政権「脱リフレ」するか注目",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600955?source=rss",
-      "publishedAt": "2026-11-01T07:06:17.000Z",
-      "xQuery": "米中間選挙 事前投票が過去最多"
+      "url": "https://news.yahoo.co.jp/pickup/6600965?source=rss",
+      "publishedAt": "2026-11-01T08:55:57.000Z",
+      "xQuery": "高市政権「脱リフレ」するか注目"
     },
     {
       "time": "14:04",

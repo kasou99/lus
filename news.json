@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T09:11:16.646Z",
+  "updatedAt": "2026-11-01T09:35:03.878Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -45,18 +45,18 @@
         "publishedAt": "2026-10-31T20:08:00.000Z"
       },
       {
-        "time": "17:45",
-        "title": "電線の端材でストラップ制作 Ｍ．Ｓ．Ｅ．が商品化",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TOThSZjN5eER3TlU3MHo0RE9lLXdpRFVod2Mtams1bFZvcjBKQnpvSFYxMjJPYm5HZVd5RlhtcHlTN3R2OGdVLUs5THBCQVVCWEE?oc=5",
-        "publishedAt": "2026-10-31T08:45:45.000Z"
-      },
-      {
         "time": "04:02",
         "title": "日本における密閉型光エンコーダーの市場動向",
         "source": "pando.life",
         "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1fZUV4amRFU0FrVDZabTVhTmZhQkZGOUIxOGEzUlVVbjQyNlUzTXRIRl9WWmR5VlcyM2puQmZWdExTZFR6WXBlSmR3?oc=5",
         "publishedAt": "2026-10-31T19:02:32.000Z"
+      },
+      {
+        "time": "14:17",
+        "title": "米国、産業用ロボットの輸入を安全保障上の脅威と認定。関税は見送り180日間の通商協議へ",
+        "source": "Howl.Link",
+        "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE1KV2ZKMXl6Y3dqdXZJdGlUTm5zZ3U2Slpmc1JmVUl5OTZjNFFxUkhFNm5zUlhyNzNEQjZB?oc=5",
+        "publishedAt": "2026-11-01T05:17:10.000Z"
       }
     ],
     "worldHeadlines": [
@@ -126,18 +126,18 @@
         "publishedAt": "2026-11-01T00:08:57.000Z"
       },
       {
+        "time": "18:10",
+        "title": "渋滞最大で3時間 いろは坂で実験",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6600969?source=rss",
+        "publishedAt": "2026-11-01T09:10:42.000Z"
+      },
+      {
         "time": "13:32",
         "title": "個人情報は必要? 企業の漏洩対策",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6600932?source=rss",
         "publishedAt": "2026-11-01T04:32:45.000Z"
-      },
-      {
-        "time": "17:56",
-        "title": "ブラックフライデー 先行セールも",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600845?source=rss",
-        "publishedAt": "2026-10-31T08:56:45.000Z"
       },
       {
         "time": "22:56",
