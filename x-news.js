@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-01T12:35:14.059Z",
+  "updatedAt": "2026-11-01T13:09:15.624Z",
   "items": [
     {
       "time": "21:18",
@@ -10,6 +10,14 @@ window.LUS_X_NEWS = {
       "xQuery": "GMO攻撃 北朝鮮系のハッカーか"
     },
     {
+      "time": "22:01",
+      "title": "闇サイトで高まる 日本への関心",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6600998?source=rss",
+      "publishedAt": "2026-11-01T13:01:10.000Z",
+      "xQuery": "闇サイトで高まる 日本への関心"
+    },
+    {
       "time": "17:38",
       "title": "韓国の10月輸出額 前年比ほぼ倍増",
       "source": "Yahoo!ニュース",
@@ -18,28 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "韓国の10月輸出額 前年比ほぼ倍増"
     },
     {
-      "time": "20:58",
-      "title": "堤防から海に転落 1人死亡確認",
+      "time": "21:37",
+      "title": "釣り人が海に転落 1人死亡1人不明",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600988?source=rss",
-      "publishedAt": "2026-11-01T11:58:29.000Z",
-      "xQuery": "堤防から海に転落 1人死亡確認"
+      "url": "https://news.yahoo.co.jp/pickup/6600994?source=rss",
+      "publishedAt": "2026-11-01T12:37:07.000Z",
+      "xQuery": "釣り人が海に転落 1人死亡1人不明"
     },
     {
-      "time": "19:33",
-      "title": "エムバペとキティ謝罪 中国の怒り",
+      "time": "21:37",
+      "title": "みんなで大家さん 悔やむ出資者も",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600978?source=rss",
-      "publishedAt": "2026-11-01T10:33:29.000Z",
-      "xQuery": "エムバペとキティ謝罪 中国の怒り"
-    },
-    {
-      "time": "20:07",
-      "title": "「家族系」配信 相次ぐ収益化停止",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600981?source=rss",
-      "publishedAt": "2026-11-01T11:07:28.000Z",
-      "xQuery": "「家族系」配信 相次ぐ収益化停止"
+      "url": "https://news.yahoo.co.jp/pickup/6600993?source=rss",
+      "publishedAt": "2026-11-01T12:37:33.000Z",
+      "xQuery": "みんなで大家さん 悔やむ出資者も"
     }
   ]
 };
