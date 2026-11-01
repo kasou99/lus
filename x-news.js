@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-01T10:09:50.743Z",
+  "updatedAt": "2026-11-01T10:35:08.833Z",
   "items": [
     {
       "time": "17:55",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "アマゾン奥地で相次ぐ 子の異変"
     },
     {
-      "time": "15:29",
-      "title": "「ドパ親」に頭を抱える家族 背景",
+      "time": "18:10",
+      "title": "渋滞最大で3時間 いろは坂で実験",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600953?source=rss",
-      "publishedAt": "2026-11-01T06:29:23.000Z",
-      "xQuery": "「ドパ親」に頭を抱える家族 背景"
+      "url": "https://news.yahoo.co.jp/pickup/6600969?source=rss",
+      "publishedAt": "2026-11-01T09:10:42.000Z",
+      "xQuery": "渋滞最大で3時間 いろは坂で実験"
     }
   ]
 };
