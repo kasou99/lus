@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T20:10:10.314Z",
+  "updatedAt": "2026-11-01T20:35:02.938Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -8,6 +8,13 @@
         "source": "時事ドットコム",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE82V3NTTVNGV0NDeEY4S01LY0tvNXA2SlQwNjlPN1lzUVZtaHdoWE0yOTJNb3JJZ3hMVVhXUXJxWmc5Vk1yLVB3Rm11XzNSN2VuUXBqM1lNcnhXTUdrcTZVWlA4QjhwU284MzBF?oc=5",
         "publishedAt": "2026-11-01T08:10:00.000Z"
+      },
+      {
+        "time": "05:00",
+        "title": "産業用設備の”保全部隊”に 浅野鐵工 繊維機械修理を水平展開",
+        "source": "中部経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE04Z3AtZTVwU2tPUHB3ZGhFVlFzU2QyTjV3WEJZd0VYbnpieVZzODRIcGlNcDRxTnBjN2pKOGJUcWI0bG5XRUx3QVlkcUJ0dDRNRF9LSko4MzNzTVpsbUNjQ1IzZ3MtZkZCRU94YzZIWHdWdm8?oc=5",
+        "publishedAt": "2026-11-01T20:00:00.000Z"
       },
       {
         "time": "10:07",
@@ -50,13 +57,6 @@
         "source": "BigGo ファイナンス",
         "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE01MVVKbG5JVkM3ZFQ0YVhnNXdNMjF0dXJpVmFTRW45Q1VDY0VNRWlVSHAyOFhPR3BSV3ZLR3drWUd3YUR0TkF0UDFJYlVlR3Y1NHpLOWRSbXQxUQ?oc=5",
         "publishedAt": "2026-10-31T20:08:00.000Z"
-      },
-      {
-        "time": "23:53",
-        "title": "GMOが11/2に記者会見 社長出席",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600879?source=rss",
-        "publishedAt": "2026-10-31T14:53:29.000Z"
       }
     ],
     "worldHeadlines": [
