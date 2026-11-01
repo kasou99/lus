@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T04:12:30.775Z",
+  "updatedAt": "2026-11-01T04:35:43.509Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,18 +17,18 @@
         "publishedAt": "2026-10-31T22:10:00.000Z"
       },
       {
-        "time": "05:08",
-        "title": "ミッション・バリューのマクダーモット氏、日本の「失われた数十年」は金融業界が作り出した虚構だと指摘―日本資本の還流が目前に迫る",
-        "source": "BigGo ファイナンス",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE01MVVKbG5JVkM3ZFQ0YVhnNXdNMjF0dXJpVmFTRW45Q1VDY0VNRWlVSHAyOFhPR3BSV3ZLR3drWUd3YUR0TkF0UDFJYlVlR3Y1NHpLOWRSbXQxUQ?oc=5",
-        "publishedAt": "2026-10-31T20:08:00.000Z"
-      },
-      {
         "time": "17:10",
         "title": "次世代設備保全クラウドの株式会社M2X、三和罐詰株式会社の導入事例を公開",
         "source": "Excite エキサイト",
         "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBfTlRxbWJidjBHdTZWTWJnb3RxdVhEWXdjOVBIcTBvYTJjb0xoSWNfUmN4SVlQN0tjNGx0OU9NSjlPV2xYNXNXM1FrcHRETjc5UUlsYm1ZMFJoQzJrY09fazdnb3plZEd0aXdlaEFoN1U4RmwtekE?oc=5",
         "publishedAt": "2026-10-31T08:10:00.000Z"
+      },
+      {
+        "time": "05:08",
+        "title": "ミッション・バリューのマクダーモット氏、日本の「失われた数十年」は金融業界が作り出した虚構だと指摘―日本資本の還流が目前に迫る",
+        "source": "BigGo ファイナンス",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE01MVVKbG5JVkM3ZFQ0YVhnNXdNMjF0dXJpVmFTRW45Q1VDY0VNRWlVSHAyOFhPR3BSV3ZLR3drWUd3YUR0TkF0UDFJYlVlR3Y1NHpLOWRSbXQxUQ?oc=5",
+        "publishedAt": "2026-10-31T20:08:00.000Z"
       },
       {
         "time": "04:02",
@@ -126,18 +126,18 @@
         "publishedAt": "2026-11-01T00:08:57.000Z"
       },
       {
+        "time": "13:32",
+        "title": "個人情報は必要? 企業の漏洩対策",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6600932?source=rss",
+        "publishedAt": "2026-11-01T04:32:45.000Z"
+      },
+      {
         "time": "17:56",
         "title": "ブラックフライデー 先行セールも",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6600845?source=rss",
         "publishedAt": "2026-10-31T08:56:45.000Z"
-      },
-      {
-        "time": "14:01",
-        "title": "大企業出身のシニア採用 落とし穴",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600808?source=rss",
-        "publishedAt": "2026-10-31T05:01:10.000Z"
       },
       {
         "time": "22:56",
@@ -154,6 +154,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6600918?source=rss",
         "publishedAt": "2026-11-01T02:00:42.000Z"
+      },
+      {
+        "time": "13:16",
+        "title": "兄の遺体遺棄疑い妹逮捕 父関与か",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6600930?source=rss",
+        "publishedAt": "2026-11-01T04:16:07.000Z"
       },
       {
         "time": "11:45",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6600871?source=rss",
         "publishedAt": "2026-10-31T13:31:43.000Z"
-      },
-      {
-        "time": "09:08",
-        "title": "学校で突然言葉出ず 悩んだ吃音",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600899?source=rss",
-        "publishedAt": "2026-11-01T00:08:15.000Z"
       }
     ],
     "subsidyHeadlines": [

@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-01T04:12:31.470Z",
+  "updatedAt": "2026-11-01T04:35:47.155Z",
   "items": [
     {
       "time": "09:59",
@@ -18,6 +18,14 @@ window.LUS_X_NEWS = {
       "xQuery": "出国時に返金 新免税制度が開始"
     },
     {
+      "time": "13:16",
+      "title": "兄の遺体遺棄疑い妹逮捕 父関与か",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6600930?source=rss",
+      "publishedAt": "2026-11-01T04:16:07.000Z",
+      "xQuery": "兄の遺体遺棄疑い妹逮捕 父関与か"
+    },
+    {
       "time": "11:45",
       "title": "クマ放獣3日で出戻り 秦野市驚き",
       "source": "Yahoo!ニュース",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6600926?source=rss",
       "publishedAt": "2026-11-01T03:20:01.000Z",
       "xQuery": "歩行者5人はねられ1人重傷 宮城"
-    },
-    {
-      "time": "11:12",
-      "title": "長すぎベルト「落ち感」引き出す",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600919?source=rss",
-      "publishedAt": "2026-11-01T02:12:42.000Z",
-      "xQuery": "長すぎベルト「落ち感」引き出す"
     }
   ]
 };
