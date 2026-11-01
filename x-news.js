@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-01T05:10:54.729Z",
+  "updatedAt": "2026-11-01T05:35:34.411Z",
   "items": [
     {
       "time": "10:36",
@@ -8,6 +8,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6600914?source=rss",
       "publishedAt": "2026-11-01T01:36:11.000Z",
       "xQuery": "消費減税 首相の質疑出席が焦点"
+    },
+    {
+      "time": "13:32",
+      "title": "個人情報は必要? 企業の漏洩対策",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6600932?source=rss",
+      "publishedAt": "2026-11-01T04:32:45.000Z",
+      "xQuery": "個人情報は必要? 企業の漏洩対策"
     },
     {
       "time": "09:59",
@@ -24,14 +32,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6600930?source=rss",
       "publishedAt": "2026-11-01T04:16:07.000Z",
       "xQuery": "兄の遺体遺棄疑い妹逮捕 父関与か"
-    },
-    {
-      "time": "11:45",
-      "title": "クマ放獣3日で出戻り 秦野市驚き",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600922?source=rss",
-      "publishedAt": "2026-11-01T02:45:31.000Z",
-      "xQuery": "クマ放獣3日で出戻り 秦野市驚き"
     },
     {
       "time": "12:20",

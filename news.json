@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T05:10:53.994Z",
+  "updatedAt": "2026-11-01T05:35:33.803Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -10,11 +10,25 @@
         "publishedAt": "2026-11-01T01:07:52.000Z"
       },
       {
+        "time": "12:30",
+        "title": "2030年に2.5兆円市場へ。ヒューマノイド・フィジカルAI関連、本命から\"まだ誰も知らない小型株\"まで厳選20銘柄【保存版】",
+        "source": "note",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5nWXdRWjRMLXJsUFJwME12ZXVHcGI3OHBNWXdZZmxPc0hVaVJJalFJcU15WFZoRTBuSkJkckZtRW0zVWt0cW04Tms1Wkh0WXR3SEJKRmdJREd5ZUk?oc=5",
+        "publishedAt": "2026-11-01T03:30:00.000Z"
+      },
+      {
         "time": "07:10",
         "title": "【台湾情報】台湾半導体材料の現地調達が加速！日台企業の提携最前線などを解説する＜ワイズリサーチ最新レポート＞",
         "source": "Infoseek",
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5TcjctdmtSbTJnUTNHbGhKQ1NiRks0SUpMTkxCZzN4VVNnRlpWY2RtZjFQdldHSGRPLU1ZMk5qemxzX2N2Qzdjc0hjSjRIRFRBWFdaZ2pDUEJHbmhyQXdHMnUyTDlFdnJ6UDBmRFVxZkZ2Zw?oc=5",
         "publishedAt": "2026-10-31T22:10:00.000Z"
+      },
+      {
+        "time": "17:45",
+        "title": "電線の端材でストラップ制作 Ｍ．Ｓ．Ｅ．が商品化",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TOThSZjN5eER3TlU3MHo0RE9lLXdpRFVod2Mtams1bFZvcjBKQnpvSFYxMjJPYm5HZVd5RlhtcHlTN3R2OGdVLUs5THBCQVVCWEE?oc=5",
+        "publishedAt": "2026-10-31T08:45:45.000Z"
       },
       {
         "time": "17:10",
@@ -43,20 +57,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6600879?source=rss",
         "publishedAt": "2026-10-31T14:53:29.000Z"
-      },
-      {
-        "time": "23:27",
-        "title": "GMO 24年にシステム脆弱性指摘",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600878?source=rss",
-        "publishedAt": "2026-10-31T14:27:23.000Z"
-      },
-      {
-        "time": "09:08",
-        "title": "出国時に返金 新免税制度が開始",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600900?source=rss",
-        "publishedAt": "2026-11-01T00:08:57.000Z"
       }
     ],
     "worldHeadlines": [
