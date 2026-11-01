@@ -1,21 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-01T06:18:17.271Z",
+  "updatedAt": "2026-11-01T06:37:07.253Z",
   "items": [
     {
-      "time": "13:32",
-      "title": "個人情報は必要? 企業の漏洩対策",
+      "time": "15:10",
+      "title": "米国産ジャガイモ 国会論点に浮上",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600932?source=rss",
-      "publishedAt": "2026-11-01T04:32:45.000Z",
-      "xQuery": "個人情報は必要? 企業の漏洩対策"
-    },
-    {
-      "time": "10:36",
-      "title": "消費減税 首相の質疑出席が焦点",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600914?source=rss",
-      "publishedAt": "2026-11-01T01:36:11.000Z",
-      "xQuery": "消費減税 首相の質疑出席が焦点"
+      "url": "https://news.yahoo.co.jp/pickup/6600947?source=rss",
+      "publishedAt": "2026-11-01T06:10:45.000Z",
+      "xQuery": "米国産ジャガイモ 国会論点に浮上"
     },
     {
       "time": "14:46",
@@ -26,6 +18,14 @@ window.LUS_X_NEWS = {
       "xQuery": "台風 小笠原諸島は影響長引く恐れ"
     },
     {
+      "time": "13:32",
+      "title": "個人情報は必要? 企業の漏洩対策",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6600932?source=rss",
+      "publishedAt": "2026-11-01T04:32:45.000Z",
+      "xQuery": "個人情報は必要? 企業の漏洩対策"
+    },
+    {
       "time": "13:16",
       "title": "兄の遺体遺棄疑い妹逮捕 父関与か",
       "source": "Yahoo!ニュース",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "兄の遺体遺棄疑い妹逮捕 父関与か"
     },
     {
-      "time": "14:31",
-      "title": "給食巡る投稿炎上 後悔ないと市議",
+      "time": "15:29",
+      "title": "「ドパ親」に頭を抱える家族 背景",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600942?source=rss",
-      "publishedAt": "2026-11-01T05:31:39.000Z",
-      "xQuery": "給食巡る投稿炎上 後悔ないと市議"
+      "url": "https://news.yahoo.co.jp/pickup/6600953?source=rss",
+      "publishedAt": "2026-11-01T06:29:23.000Z",
+      "xQuery": "「ドパ親」に頭を抱える家族 背景"
     }
   ]
 };
