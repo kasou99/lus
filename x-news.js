@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-01T03:35:20.461Z",
+  "updatedAt": "2026-11-01T04:12:31.470Z",
   "items": [
     {
-      "time": "09:58",
-      "title": "共和党 トランプ氏から離反相次ぐ",
+      "time": "09:59",
+      "title": "英首相 奴隷貿易で正式謝罪を検討",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600904?source=rss",
-      "publishedAt": "2026-11-01T00:58:11.000Z",
-      "xQuery": "共和党 トランプ氏から離反相次ぐ"
+      "url": "https://news.yahoo.co.jp/pickup/6600907?source=rss",
+      "publishedAt": "2026-11-01T00:59:17.000Z",
+      "xQuery": "英首相 奴隷貿易で正式謝罪を検討"
     },
     {
       "time": "09:08",

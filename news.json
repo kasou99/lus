@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T03:35:19.730Z",
+  "updatedAt": "2026-11-01T04:12:30.775Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,11 +17,11 @@
         "publishedAt": "2026-10-31T22:10:00.000Z"
       },
       {
-        "time": "17:45",
-        "title": "電線の端材でストラップ制作 Ｍ．Ｓ．Ｅ．が商品化",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TOThSZjN5eER3TlU3MHo0RE9lLXdpRFVod2Mtams1bFZvcjBKQnpvSFYxMjJPYm5HZVd5RlhtcHlTN3R2OGdVLUs5THBCQVVCWEE?oc=5",
-        "publishedAt": "2026-10-31T08:45:45.000Z"
+        "time": "05:08",
+        "title": "ミッション・バリューのマクダーモット氏、日本の「失われた数十年」は金融業界が作り出した虚構だと指摘―日本資本の還流が目前に迫る",
+        "source": "BigGo ファイナンス",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE01MVVKbG5JVkM3ZFQ0YVhnNXdNMjF0dXJpVmFTRW45Q1VDY0VNRWlVSHAyOFhPR3BSV3ZLR3drWUd3YUR0TkF0UDFJYlVlR3Y1NHpLOWRSbXQxUQ?oc=5",
+        "publishedAt": "2026-10-31T20:08:00.000Z"
       },
       {
         "time": "17:10",
@@ -29,13 +29,6 @@
         "source": "Excite エキサイト",
         "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBfTlRxbWJidjBHdTZWTWJnb3RxdVhEWXdjOVBIcTBvYTJjb0xoSWNfUmN4SVlQN0tjNGx0OU9NSjlPV2xYNXNXM1FrcHRETjc5UUlsYm1ZMFJoQzJrY09fazdnb3plZEd0aXdlaEFoN1U4RmwtekE?oc=5",
         "publishedAt": "2026-10-31T08:10:00.000Z"
-      },
-      {
-        "time": "05:08",
-        "title": "ミッション・バリューのマクダーモット氏、日本の「失われた数十年」は金融業界が作り出した虚構だと指摘―日本資本の還流が目前に迫る",
-        "source": "BigGo ファイナンス",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE01MVVKbG5JVkM3ZFQ0YVhnNXdNMjF0dXJpVmFTRW45Q1VDY0VNRWlVSHAyOFhPR3BSV3ZLR3drWUd3YUR0TkF0UDFJYlVlR3Y1NHpLOWRSbXQxUQ?oc=5",
-        "publishedAt": "2026-10-31T20:08:00.000Z"
       },
       {
         "time": "04:02",
@@ -57,6 +50,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6600878?source=rss",
         "publishedAt": "2026-10-31T14:27:23.000Z"
+      },
+      {
+        "time": "09:08",
+        "title": "出国時に返金 新免税制度が開始",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6600900?source=rss",
+        "publishedAt": "2026-11-01T00:08:57.000Z"
       }
     ],
     "worldHeadlines": [
