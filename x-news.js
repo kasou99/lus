@@ -1,14 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-01T05:35:34.411Z",
+  "updatedAt": "2026-11-01T06:18:17.271Z",
   "items": [
-    {
-      "time": "10:36",
-      "title": "消費減税 首相の質疑出席が焦点",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600914?source=rss",
-      "publishedAt": "2026-11-01T01:36:11.000Z",
-      "xQuery": "消費減税 首相の質疑出席が焦点"
-    },
     {
       "time": "13:32",
       "title": "個人情報は必要? 企業の漏洩対策",
@@ -18,12 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "個人情報は必要? 企業の漏洩対策"
     },
     {
-      "time": "09:59",
-      "title": "英首相 奴隷貿易で正式謝罪を検討",
+      "time": "10:36",
+      "title": "消費減税 首相の質疑出席が焦点",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600907?source=rss",
-      "publishedAt": "2026-11-01T00:59:17.000Z",
-      "xQuery": "英首相 奴隷貿易で正式謝罪を検討"
+      "url": "https://news.yahoo.co.jp/pickup/6600914?source=rss",
+      "publishedAt": "2026-11-01T01:36:11.000Z",
+      "xQuery": "消費減税 首相の質疑出席が焦点"
+    },
+    {
+      "time": "14:46",
+      "title": "台風 小笠原諸島は影響長引く恐れ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6600944?source=rss",
+      "publishedAt": "2026-11-01T05:46:37.000Z",
+      "xQuery": "台風 小笠原諸島は影響長引く恐れ"
     },
     {
       "time": "13:16",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "兄の遺体遺棄疑い妹逮捕 父関与か"
     },
     {
-      "time": "12:20",
-      "title": "歩行者5人はねられ1人重傷 宮城",
+      "time": "14:31",
+      "title": "給食巡る投稿炎上 後悔ないと市議",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600926?source=rss",
-      "publishedAt": "2026-11-01T03:20:01.000Z",
-      "xQuery": "歩行者5人はねられ1人重傷 宮城"
+      "url": "https://news.yahoo.co.jp/pickup/6600942?source=rss",
+      "publishedAt": "2026-11-01T05:31:39.000Z",
+      "xQuery": "給食巡る投稿炎上 後悔ないと市議"
     }
   ]
 };
