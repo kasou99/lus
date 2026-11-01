@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-11-01T21:35:17.053Z",
+  "updatedAt": "2026-11-01T22:09:20.936Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "06:48",
+        "title": "[エディターズノートvol.32]工作機械の“自動化革新”は止まらない",
+        "source": "robot digest",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE04dXVJZmVUc3B6M3F6R3RNeTdFT2dPRVdjMkstRHo0NXNmSmFrSE84WXpzNTdIRl9MSlM5Z1c4eWc0T2diakJ2RHgwcWM0UEY2eVpWVTdIRmZtSE1Pc1hlQTVmN2hFNU1UOFM0?oc=5",
+        "publishedAt": "2026-11-01T21:48:05.000Z"
+      },
       {
         "time": "05:00",
         "title": "JIMMTOF2026／日工会「トップセミ」 若い力、モノづくりの原動力",
@@ -50,13 +57,6 @@
         "source": "note",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5nWXdRWjRMLXJsUFJwME12ZXVHcGI3OHBNWXdZZmxPc0hVaVJJalFJcU15WFZoRTBuSkJkckZtRW0zVWt0cW04Tms1Wkh0WXR3SEJKRmdJREd5ZUk?oc=5",
         "publishedAt": "2026-11-01T03:30:00.000Z"
-      },
-      {
-        "time": "05:00",
-        "title": "軸受3社、通期売上高上方修正 AI関連など需要継続",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9kSElhWUhKNlUxR0QyRDR6dkpXb2ZSR01zVFhjM3l4RHVXR3prS2NjMVd5a0MxNWRDS29zZHQxN3dKU0dpYlhISEU0a1RkQ2xkeVdtM0xia0Q?oc=5",
-        "publishedAt": "2026-11-01T20:00:00.000Z"
       }
     ],
     "worldHeadlines": [

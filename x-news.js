@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-01T21:35:17.667Z",
+  "updatedAt": "2026-11-01T22:09:21.749Z",
   "items": [
     {
       "time": "23:25",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "望月衣塑子記者の対談本 回収へ"
     },
     {
+      "time": "06:56",
+      "title": "早期流産うち明けず「12週の壁」",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601007?source=rss",
+      "publishedAt": "2026-11-01T21:56:45.000Z",
+      "xQuery": "早期流産うち明けず「12週の壁」"
+    },
+    {
       "time": "23:53",
       "title": "38歳で余命宣告 子への優しいうそ",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6601003?source=rss",
       "publishedAt": "2026-11-01T14:53:14.000Z",
       "xQuery": "38歳で余命宣告 子への優しいうそ"
-    },
-    {
-      "time": "20:07",
-      "title": "「家族系」配信 相次ぐ収益化停止",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600981?source=rss",
-      "publishedAt": "2026-11-01T11:07:28.000Z",
-      "xQuery": "「家族系」配信 相次ぐ収益化停止"
     }
   ]
 };
