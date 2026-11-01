@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-11-01T01:11:14.609Z",
+  "updatedAt": "2026-11-01T01:39:22.494Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "17:45",
+        "title": "電線の端材でストラップ制作 Ｍ．Ｓ．Ｅ．が商品化",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TOThSZjN5eER3TlU3MHo0RE9lLXdpRFVod2Mtams1bFZvcjBKQnpvSFYxMjJPYm5HZVd5RlhtcHlTN3R2OGdVLUs5THBCQVVCWEE?oc=5",
+        "publishedAt": "2026-10-31T08:45:45.000Z"
+      },
       {
         "time": "17:10",
         "title": "次世代設備保全クラウドの株式会社M2X、三和罐詰株式会社の導入事例を公開",
@@ -10,11 +17,11 @@
         "publishedAt": "2026-10-31T08:10:00.000Z"
       },
       {
-        "time": "01:10",
+        "time": "07:10",
         "title": "【台湾情報】台湾半導体材料の現地調達が加速！日台企業の提携最前線などを解説する＜ワイズリサーチ最新レポート＞",
-        "source": "時事ドットコム",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1aTVNtYWlTdEs2dm80RC1mbW5lTUtBeUxoOVhOM2JOQmZtR003c0loVzJlR1VVWHQzME4wclhtTHVTOHpjajM4ZDZlNWlmTnU2ODJhdVlHejlXa1o5YU4zclJlalQ4YzhuSWlF?oc=5",
-        "publishedAt": "2026-10-31T16:10:00.000Z"
+        "source": "Infoseek",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5TcjctdmtSbTJnUTNHbGhKQ1NiRks0SUpMTkxCZzN4VVNnRlpWY2RtZjFQdldHSGRPLU1ZMk5qemxzX2N2Qzdjc0hjSjRIRFRBWFdaZ2pDUEJHbmhyQXdHMnUyTDlFdnJ6UDBmRFVxZkZ2Zw?oc=5",
+        "publishedAt": "2026-10-31T22:10:00.000Z"
       },
       {
         "time": "04:02",
@@ -50,13 +57,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6600900?source=rss",
         "publishedAt": "2026-11-01T00:08:57.000Z"
-      },
-      {
-        "time": "17:56",
-        "title": "ブラックフライデー 先行セールも",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600845?source=rss",
-        "publishedAt": "2026-10-31T08:56:45.000Z"
       }
     ],
     "worldHeadlines": [

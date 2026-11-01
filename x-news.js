@@ -1,6 +1,22 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-01T01:11:15.364Z",
+  "updatedAt": "2026-11-01T01:39:23.537Z",
   "items": [
+    {
+      "time": "08:34",
+      "title": "中国 台湾周辺海底ケーブル探査か",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6600895?source=rss",
+      "publishedAt": "2026-10-31T23:34:33.000Z",
+      "xQuery": "中国 台湾周辺海底ケーブル探査か"
+    },
+    {
+      "time": "09:56",
+      "title": "バイナンス被害 北朝鮮関与とFBI",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6600906?source=rss",
+      "publishedAt": "2026-11-01T00:56:58.000Z",
+      "xQuery": "バイナンス被害 北朝鮮関与とFBI"
+    },
     {
       "time": "09:08",
       "title": "米大統領 造反・不祥事議員を称賛",
@@ -8,22 +24,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6600898?source=rss",
       "publishedAt": "2026-11-01T00:08:45.000Z",
       "xQuery": "米大統領 造反・不祥事議員を称賛"
-    },
-    {
-      "time": "08:55",
-      "title": "GMO攻撃者 被害者サイト開設か",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600897?source=rss",
-      "publishedAt": "2026-10-31T23:55:13.000Z",
-      "xQuery": "GMO攻撃者 被害者サイト開設か"
-    },
-    {
-      "time": "07:41",
-      "title": "モスクワでテロ計画 米が露に警告",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600883?source=rss",
-      "publishedAt": "2026-10-31T22:41:29.000Z",
-      "xQuery": "モスクワでテロ計画 米が露に警告"
     },
     {
       "time": "09:08",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "学校で突然言葉出ず 悩んだ吃音"
     },
     {
-      "time": "07:37",
-      "title": "ハロウィン 渋谷に集まった人の声",
+      "time": "10:34",
+      "title": "思春期の娘に父どう接すれば 解説",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600887?source=rss",
-      "publishedAt": "2026-10-31T22:37:12.000Z",
-      "xQuery": "ハロウィン 渋谷に集まった人の声"
+      "url": "https://news.yahoo.co.jp/pickup/6600915?source=rss",
+      "publishedAt": "2026-11-01T01:34:29.000Z",
+      "xQuery": "思春期の娘に父どう接すれば 解説"
     }
   ]
 };
