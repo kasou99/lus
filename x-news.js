@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-01T09:35:04.462Z",
+  "updatedAt": "2026-11-01T10:09:50.743Z",
   "items": [
     {
       "time": "17:55",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "緊急事態条項の創設巡り賛否 見解"
     },
     {
-      "time": "14:10",
-      "title": "岩手で熊出没急減 ブナ豊作影響か",
+      "time": "19:04",
+      "title": "堤防で釣りの4人海に転落 2人不明",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600940?source=rss",
-      "publishedAt": "2026-11-01T05:10:04.000Z",
-      "xQuery": "岩手で熊出没急減 ブナ豊作影響か"
+      "url": "https://news.yahoo.co.jp/pickup/6600974?source=rss",
+      "publishedAt": "2026-11-01T10:04:53.000Z",
+      "xQuery": "堤防で釣りの4人海に転落 2人不明"
     },
     {
       "time": "16:00",
