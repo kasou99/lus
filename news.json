@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T16:10:32.316Z",
+  "updatedAt": "2026-11-01T16:35:04.257Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -45,18 +45,18 @@
         "publishedAt": "2026-10-31T20:08:00.000Z"
       },
       {
-        "time": "00:02",
-        "title": "磁気クランプシステムの世界シェア2026年版",
-        "source": "pando.life",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFAtQlNQNlh5VVFqaEJHSC1wcGxDOVMxQkkzWERucTlXWklpZ1BTOFFEZ0ZVNGRjeVVOcG0xNnZoMnRlZnhZbTdDSVhR?oc=5",
-        "publishedAt": "2026-11-01T15:02:33.000Z"
-      },
-      {
         "time": "04:02",
         "title": "日本における密閉型光エンコーダーの市場動向",
         "source": "pando.life",
         "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1fZUV4amRFU0FrVDZabTVhTmZhQkZGOUIxOGEzUlVVbjQyNlUzTXRIRl9WWmR5VlcyM2puQmZWdExTZFR6WXBlSmR3?oc=5",
         "publishedAt": "2026-10-31T19:02:32.000Z"
+      },
+      {
+        "time": "23:53",
+        "title": "GMOが11/2に記者会見 社長出席",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6600879?source=rss",
+        "publishedAt": "2026-10-31T14:53:29.000Z"
       }
     ],
     "worldHeadlines": [
@@ -215,6 +215,13 @@
         "title": "中小企業省力化投資補助金の公募・採択情報を確認",
         "source": "中小機構",
         "url": "https://seisansei.smrj.go.jp/subsidy_info/laborsaving_subsidy.html"
+      },
+      {
+        "time": "16:00",
+        "title": "【令和8年・2026年】もらえる給付金・支援金まとめ！物価高・農業・子育て・生活支援等、目的別に紹介",
+        "source": "補助金ポータル",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1PbTA2anpjTjlKcUhxXzQtbEFhcXpkSE1UYjItLXZYTHJ0cG5uS3daeVBsY20xTzFCREZ6NEZYdm16OC1iRzRHZWlWZkpyVUYzZmZiTzVGaXd6Q1dhX2ptWVhpLTZuUkZt?oc=5",
+        "publishedAt": "2026-10-28T07:00:00.000Z"
       }
     ]
   }
