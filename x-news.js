@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-01T03:15:42.452Z",
+  "updatedAt": "2026-11-01T03:35:20.461Z",
   "items": [
     {
       "time": "09:58",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "出国時に返金 新免税制度が開始"
     },
     {
-      "time": "11:00",
-      "title": "福岡市長選 政令市最多13人立候補",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600918?source=rss",
-      "publishedAt": "2026-11-01T02:00:42.000Z",
-      "xQuery": "福岡市長選 政令市最多13人立候補"
-    },
-    {
       "time": "11:45",
       "title": "クマ放獣3日で出戻り 秦野市驚き",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6600922?source=rss",
       "publishedAt": "2026-11-01T02:45:31.000Z",
       "xQuery": "クマ放獣3日で出戻り 秦野市驚き"
+    },
+    {
+      "time": "12:20",
+      "title": "歩行者5人はねられ1人重傷 宮城",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6600926?source=rss",
+      "publishedAt": "2026-11-01T03:20:01.000Z",
+      "xQuery": "歩行者5人はねられ1人重傷 宮城"
     },
     {
       "time": "11:12",
