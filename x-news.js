@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-01T11:34:59.735Z",
+  "updatedAt": "2026-11-01T12:14:39.341Z",
   "items": [
     {
       "time": "19:30",
@@ -10,20 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "GMO攻撃者は何者か 識者の指摘"
     },
     {
-      "time": "17:55",
-      "title": "高市政権「脱リフレ」するか注目",
+      "time": "20:58",
+      "title": "堤防から海に転落 1人死亡確認",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600965?source=rss",
-      "publishedAt": "2026-11-01T08:55:57.000Z",
-      "xQuery": "高市政権「脱リフレ」するか注目"
-    },
-    {
-      "time": "19:04",
-      "title": "堤防で釣りの4人海に転落 2人不明",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600974?source=rss",
-      "publishedAt": "2026-11-01T10:04:53.000Z",
-      "xQuery": "堤防で釣りの4人海に転落 2人不明"
+      "url": "https://news.yahoo.co.jp/pickup/6600988?source=rss",
+      "publishedAt": "2026-11-01T11:58:29.000Z",
+      "xQuery": "堤防から海に転落 1人死亡確認"
     },
     {
       "time": "18:10",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6600981?source=rss",
       "publishedAt": "2026-11-01T11:07:28.000Z",
       "xQuery": "「家族系」配信 相次ぐ収益化停止"
+    },
+    {
+      "time": "19:33",
+      "title": "エムバペとキティ謝罪 中国の怒り",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6600978?source=rss",
+      "publishedAt": "2026-11-01T10:33:29.000Z",
+      "xQuery": "エムバペとキティ謝罪 中国の怒り"
     }
   ]
 };
