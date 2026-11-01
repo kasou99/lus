@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-11-01T23:09:15.934Z",
+  "updatedAt": "2026-11-01T23:34:57.287Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "07:30",
+        "title": "オークマ、工作機械と対話するAIエージェント 熟練者不足の現場支援：JIMTOF2026",
+        "source": "MONOist",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBDVTgya2JvTU1ncFEyZjFEQ2xqYUJiZTdjTHRHYl8wak1oX3VOM0xLazFwcWZ6czVBcTFoT3cwQ09NbjlHak92Z2gxNHpmdkFxRzNIY2dOM0lWWF9RRmtVQTBBZDNLTllyQ1dLaDJ5QQ?oc=5",
+        "publishedAt": "2026-11-01T22:30:00.000Z"
+      },
       {
         "time": "06:48",
         "title": "[エディターズノートvol.32]工作機械の“自動化革新”は止まらない",
@@ -32,17 +39,10 @@
       },
       {
         "time": "05:00",
-        "title": "準大手・中堅ゼネコントップに聞く（8）不動テトラ社長・奥田眞也氏",
+        "title": "独シーメンス、列車・靴など産業分野拡大 積層造形を一貫支援",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5hZzh2RWduY2RvV0pmek9sckxrUE5mclctdVIyVDdDTzhyLW54dC1wZm1jZGo5SldTeF9ldzZUb1JqTTBTeloxOFY4RkdtN2l4VGZNM0ZQaS0?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBFQnptbDVTNzNSN0VFazZGaVRIdDZ1MWUyVnpKaXpCQlJGMk55MF9NMzR6R0xrR1RKSFJXUDFGMWdBcnhXNGV0MXp2YS1GQ2NleXNWbDZCQ1Q?oc=5",
         "publishedAt": "2026-11-01T20:00:00.000Z"
-      },
-      {
-        "time": "08:00",
-        "title": "コスモと大平洋金属、地産地消型フィジカルPPAを締結 - 青森県の陸上風力発電所が対象",
-        "source": "au Webポータル",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE02TUgwSDNXZk1iZHBtd0xVcEs3N0YycUpkYlNjSTZqRFJjYVktN0tyajN1M1JwVmZNaEpjZ3Z0U2YzSnhGejhiUmtXVU5pdmRHMDAwS3hsTlo1VGxzLVRsSXZqX0ZzbkhqVkFwdHRn?oc=5",
-        "publishedAt": "2026-11-01T23:00:00.000Z"
       },
       {
         "time": "19:10",
@@ -52,11 +52,11 @@
         "publishedAt": "2026-11-01T10:10:00.000Z"
       },
       {
-        "time": "12:30",
-        "title": "2030年に2.5兆円市場へ。ヒューマノイド・フィジカルAI関連、本命から\"まだ誰も知らない小型株\"まで厳選20銘柄【保存版】",
-        "source": "note",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5nWXdRWjRMLXJsUFJwME12ZXVHcGI3OHBNWXdZZmxPc0hVaVJJalFJcU15WFZoRTBuSkJkckZtRW0zVWt0cW04Tms1Wkh0WXR3SEJKRmdJREd5ZUk?oc=5",
-        "publishedAt": "2026-11-01T03:30:00.000Z"
+        "time": "05:00",
+        "title": "軸受3社、通期売上高上方修正 AI関連など需要継続",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9kSElhWUhKNlUxR0QyRDR6dkpXb2ZSR01zVFhjM3l4RHVXR3prS2NjMVd5a0MxNWRDS29zZHQxN3dKU0dpYlhISEU0a1RkQ2xkeVdtM0xia0Q?oc=5",
+        "publishedAt": "2026-11-01T20:00:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -170,6 +170,13 @@
         "publishedAt": "2026-11-01T04:16:07.000Z"
       },
       {
+        "time": "08:32",
+        "title": "知床沈没事故「海の電話」を設置",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6601020?source=rss",
+        "publishedAt": "2026-11-01T23:32:20.000Z"
+      },
+      {
         "time": "11:45",
         "title": "クマ放獣3日で出戻り 秦野市驚き",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6600990?source=rss",
         "publishedAt": "2026-11-01T12:04:22.000Z"
-      },
-      {
-        "time": "16:30",
-        "title": "船減便で生徒を「積み残し」困惑",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600952?source=rss",
-        "publishedAt": "2026-11-01T07:30:35.000Z"
       }
     ],
     "subsidyHeadlines": [

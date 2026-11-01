@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-01T23:09:16.946Z",
+  "updatedAt": "2026-11-01T23:34:58.061Z",
   "items": [
     {
       "time": "07:21",
@@ -18,6 +18,14 @@ window.LUS_X_NEWS = {
       "xQuery": "ウクライナ南部の局地停戦が終了"
     },
     {
+      "time": "07:58",
+      "title": "内閣の支持率64.9%に上昇 JNN",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601017?source=rss",
+      "publishedAt": "2026-11-01T22:58:35.000Z",
+      "xQuery": "内閣の支持率64.9%に上昇 JNN"
+    },
+    {
       "time": "07:22",
       "title": "米でジェット機墜落 9人全員死亡",
       "source": "Yahoo!ニュース",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6601015?source=rss",
       "publishedAt": "2026-11-01T22:44:39.000Z",
       "xQuery": "金型の無償保管 公取委勧告が急増"
-    },
-    {
-      "time": "07:08",
-      "title": "早期流産で仕事中涙 有休取り崩し",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601009?source=rss",
-      "publishedAt": "2026-11-01T22:08:56.000Z",
-      "xQuery": "早期流産で仕事中涙 有休取り崩し"
     }
   ]
 };
