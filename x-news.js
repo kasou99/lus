@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-01T08:13:48.360Z",
+  "updatedAt": "2026-11-01T08:35:22.641Z",
   "items": [
+    {
+      "time": "16:06",
+      "title": "米中間選挙 事前投票が過去最多",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6600955?source=rss",
+      "publishedAt": "2026-11-01T07:06:17.000Z",
+      "xQuery": "米中間選挙 事前投票が過去最多"
+    },
     {
       "time": "15:10",
       "title": "米国産ジャガイモ 国会論点に浮上",
@@ -8,14 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6600947?source=rss",
       "publishedAt": "2026-11-01T06:10:45.000Z",
       "xQuery": "米国産ジャガイモ 国会論点に浮上"
-    },
-    {
-      "time": "14:46",
-      "title": "台風 小笠原諸島は影響長引く恐れ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600944?source=rss",
-      "publishedAt": "2026-11-01T05:46:37.000Z",
-      "xQuery": "台風 小笠原諸島は影響長引く恐れ"
     },
     {
       "time": "16:30",
