@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T23:35:00.714Z",
+  "updatedAt": "2026-11-01T00:36:17.402Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -24,13 +24,6 @@
         "publishedAt": "2026-10-31T19:02:32.000Z"
       },
       {
-        "time": "08:38",
-        "title": "治水事業の完了を加速させる。",
-        "source": "Vietnam.vn",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8zZHlqTDkzT2FTYlFkS2pYeGNXNnhIbVMtWWl5ZVFpZzE2WHlHMzRNVFF2aUR1LXFkdjBCc3VWYVAxbU85VmRkdDE0YmVtUGE4djFzdWtZYmRTRG83cmhYWnJtR0lpQU1ISENGZnhoWjg?oc=5",
-        "publishedAt": "2026-10-30T23:38:12.000Z"
-      },
-      {
         "time": "10:33",
         "title": "政府 デフレ脱却宣言は慎重に判断",
         "source": "Yahoo!ニュース",
@@ -50,6 +43,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6600878?source=rss",
         "publishedAt": "2026-10-31T14:27:23.000Z"
+      },
+      {
+        "time": "09:08",
+        "title": "出国時に返金 新免税制度が開始",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6600900?source=rss",
+        "publishedAt": "2026-11-01T00:08:57.000Z"
       },
       {
         "time": "17:56",
@@ -75,6 +75,13 @@
         "publishedAt": "2026-10-31T12:40:32.000Z"
       },
       {
+        "time": "09:08",
+        "title": "米大統領 造反・不祥事議員を称賛",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6600898?source=rss",
+        "publishedAt": "2026-11-01T00:08:45.000Z"
+      },
+      {
         "time": "16:35",
         "title": "中間選挙 アメリカ政治にどう影響",
         "source": "Yahoo!ニュース",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6600855?source=rss",
         "publishedAt": "2026-10-31T10:38:10.000Z"
-      },
-      {
-        "time": "07:41",
-        "title": "モスクワでテロ計画 米が露に警告",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600883?source=rss",
-        "publishedAt": "2026-10-31T22:41:29.000Z"
       }
     ],
     "economyHeadlines": [
@@ -126,6 +126,13 @@
         "publishedAt": "2026-10-31T14:27:23.000Z"
       },
       {
+        "time": "09:08",
+        "title": "出国時に返金 新免税制度が開始",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6600900?source=rss",
+        "publishedAt": "2026-11-01T00:08:57.000Z"
+      },
+      {
         "time": "17:56",
         "title": "ブラックフライデー 先行セールも",
         "source": "Yahoo!ニュース",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6600808?source=rss",
         "publishedAt": "2026-10-31T05:01:10.000Z"
-      },
-      {
-        "time": "22:56",
-        "title": "マック 商品そろう前でも客呼ぶ訳",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600877?source=rss",
-        "publishedAt": "2026-10-31T13:56:06.000Z"
       }
     ],
     "localHeadlines": [
@@ -163,13 +163,6 @@
         "publishedAt": "2026-10-31T09:04:10.000Z"
       },
       {
-        "time": "07:37",
-        "title": "ハロウィン 渋谷に集まった人の声",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600887?source=rss",
-        "publishedAt": "2026-10-31T22:37:12.000Z"
-      },
-      {
         "time": "11:53",
         "title": "列車脱線 衝突のクマ300kgほどか",
         "source": "Yahoo!ニュース",
@@ -177,18 +170,25 @@
         "publishedAt": "2026-10-31T02:53:19.000Z"
       },
       {
-        "time": "07:18",
-        "title": "ボンネットに人乗せ走行疑い 逮捕",
+        "time": "22:31",
+        "title": "児童見守るイスラム系住民に中傷",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600880?source=rss",
-        "publishedAt": "2026-10-31T22:18:42.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6600871?source=rss",
+        "publishedAt": "2026-10-31T13:31:43.000Z"
       },
       {
-        "time": "15:43",
-        "title": "開かずの踏切廃止に住民反発 横浜",
+        "time": "09:08",
+        "title": "学校で突然言葉出ず 悩んだ吃音",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600824?source=rss",
-        "publishedAt": "2026-10-31T06:43:16.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6600899?source=rss",
+        "publishedAt": "2026-11-01T00:08:15.000Z"
+      },
+      {
+        "time": "07:37",
+        "title": "ハロウィン 渋谷に集まった人の声",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6600887?source=rss",
+        "publishedAt": "2026-10-31T22:37:12.000Z"
       }
     ],
     "subsidyHeadlines": [

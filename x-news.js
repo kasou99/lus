@@ -1,6 +1,22 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-31T23:35:01.288Z",
+  "updatedAt": "2026-11-01T00:36:18.214Z",
   "items": [
+    {
+      "time": "09:08",
+      "title": "米大統領 造反・不祥事議員を称賛",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6600898?source=rss",
+      "publishedAt": "2026-11-01T00:08:45.000Z",
+      "xQuery": "米大統領 造反・不祥事議員を称賛"
+    },
+    {
+      "time": "08:55",
+      "title": "GMO攻撃者 被害者サイト開設か",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6600897?source=rss",
+      "publishedAt": "2026-10-31T23:55:13.000Z",
+      "xQuery": "GMO攻撃者 被害者サイト開設か"
+    },
     {
       "time": "07:41",
       "title": "モスクワでテロ計画 米が露に警告",
@@ -10,28 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "モスクワでテロ計画 米が露に警告"
     },
     {
-      "time": "07:50",
-      "title": "日米豪印外相会談 AIなど協力確認",
+      "time": "09:08",
+      "title": "学校で突然言葉出ず 悩んだ吃音",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600886?source=rss",
-      "publishedAt": "2026-10-31T22:50:15.000Z",
-      "xQuery": "日米豪印外相会談 AIなど協力確認"
-    },
-    {
-      "time": "08:09",
-      "title": "米国版凱旋門 建設中止求め提訴",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600891?source=rss",
-      "publishedAt": "2026-10-31T23:09:10.000Z",
-      "xQuery": "米国版凱旋門 建設中止求め提訴"
-    },
-    {
-      "time": "07:18",
-      "title": "ボンネットに人乗せ走行疑い 逮捕",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600880?source=rss",
-      "publishedAt": "2026-10-31T22:18:42.000Z",
-      "xQuery": "ボンネットに人乗せ走行疑い 逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6600899?source=rss",
+      "publishedAt": "2026-11-01T00:08:15.000Z",
+      "xQuery": "学校で突然言葉出ず 悩んだ吃音"
     },
     {
       "time": "07:37",
