@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-01T11:08:54.914Z",
+  "updatedAt": "2026-11-01T11:34:59.735Z",
   "items": [
+    {
+      "time": "19:30",
+      "title": "GMO攻撃者は何者か 識者の指摘",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6600977?source=rss",
+      "publishedAt": "2026-11-01T10:30:00.000Z",
+      "xQuery": "GMO攻撃者は何者か 識者の指摘"
+    },
     {
       "time": "17:55",
       "title": "高市政権「脱リフレ」するか注目",
@@ -8,14 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6600965?source=rss",
       "publishedAt": "2026-11-01T08:55:57.000Z",
       "xQuery": "高市政権「脱リフレ」するか注目"
-    },
-    {
-      "time": "14:04",
-      "title": "緊急事態条項の創設巡り賛否 見解",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600935?source=rss",
-      "publishedAt": "2026-11-01T05:04:55.000Z",
-      "xQuery": "緊急事態条項の創設巡り賛否 見解"
     },
     {
       "time": "19:04",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "堤防で釣りの4人海に転落 2人不明"
     },
     {
-      "time": "16:00",
-      "title": "アマゾン奥地で相次ぐ 子の異変",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600956?source=rss",
-      "publishedAt": "2026-11-01T07:00:58.000Z",
-      "xQuery": "アマゾン奥地で相次ぐ 子の異変"
-    },
-    {
       "time": "18:10",
       "title": "渋滞最大で3時間 いろは坂で実験",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6600969?source=rss",
       "publishedAt": "2026-11-01T09:10:42.000Z",
       "xQuery": "渋滞最大で3時間 いろは坂で実験"
+    },
+    {
+      "time": "20:07",
+      "title": "「家族系」配信 相次ぐ収益化停止",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6600981?source=rss",
+      "publishedAt": "2026-11-01T11:07:28.000Z",
+      "xQuery": "「家族系」配信 相次ぐ収益化停止"
     }
   ]
 };
