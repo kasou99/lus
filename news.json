@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T08:35:21.687Z",
+  "updatedAt": "2026-11-01T09:11:16.646Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -75,6 +75,13 @@
         "publishedAt": "2026-10-31T22:50:15.000Z"
       },
       {
+        "time": "17:38",
+        "title": "韓国の10月輸出額 前年比ほぼ倍増",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6600964?source=rss",
+        "publishedAt": "2026-11-01T08:38:35.000Z"
+      },
+      {
         "time": "09:58",
         "title": "共和党 トランプ氏から離反相次ぐ",
         "source": "Yahoo!ニュース",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6600907?source=rss",
         "publishedAt": "2026-11-01T00:59:17.000Z"
-      },
-      {
-        "time": "08:09",
-        "title": "米国版凱旋門 建設中止求め提訴",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600891?source=rss",
-        "publishedAt": "2026-10-31T23:09:10.000Z"
       }
     ],
     "economyHeadlines": [

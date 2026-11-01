@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-01T08:35:22.641Z",
+  "updatedAt": "2026-11-01T09:11:17.522Z",
   "items": [
     {
       "time": "16:06",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "米中間選挙 事前投票が過去最多"
     },
     {
-      "time": "15:10",
-      "title": "米国産ジャガイモ 国会論点に浮上",
+      "time": "14:04",
+      "title": "緊急事態条項の創設巡り賛否 見解",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600947?source=rss",
-      "publishedAt": "2026-11-01T06:10:45.000Z",
-      "xQuery": "米国産ジャガイモ 国会論点に浮上"
+      "url": "https://news.yahoo.co.jp/pickup/6600935?source=rss",
+      "publishedAt": "2026-11-01T05:04:55.000Z",
+      "xQuery": "緊急事態条項の創設巡り賛否 見解"
     },
     {
-      "time": "16:30",
-      "title": "船減便で生徒を「積み残し」困惑",
+      "time": "14:10",
+      "title": "岩手で熊出没急減 ブナ豊作影響か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600952?source=rss",
-      "publishedAt": "2026-11-01T07:30:35.000Z",
-      "xQuery": "船減便で生徒を「積み残し」困惑"
+      "url": "https://news.yahoo.co.jp/pickup/6600940?source=rss",
+      "publishedAt": "2026-11-01T05:10:04.000Z",
+      "xQuery": "岩手で熊出没急減 ブナ豊作影響か"
     },
     {
       "time": "16:00",
