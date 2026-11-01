@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T06:37:06.486Z",
+  "updatedAt": "2026-11-01T07:11:21.148Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,6 +31,13 @@
         "publishedAt": "2026-10-31T08:45:45.000Z"
       },
       {
+        "time": "13:30",
+        "title": "産業用LCDスクリーン・ディスプレイ制御パネルの世界市場（2026年～2032年）、市場規模（LEDディスプレイ、CRTディスプレイ、LCDディスプレイ、ELディスプレイ）・分析レポートを発表",
+        "source": "アットプレス",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5DUkRzNUhaaTNKTzdzTFgxY0t4UWI0a3ptT25TOGdCVXMxZDV6NUFkSl9IOEtVckhaX09uc1BMWnppTnRMYTdyV3ctdU9iSEE?oc=5",
+        "publishedAt": "2026-11-01T04:30:00.000Z"
+      },
+      {
         "time": "05:08",
         "title": "ミッション・バリューのマクダーモット氏、日本の「失われた数十年」は金融業界が作り出した虚構だと指摘―日本資本の還流が目前に迫る",
         "source": "BigGo ファイナンス",
@@ -50,29 +57,22 @@
         "source": "pando.life",
         "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1fZUV4amRFU0FrVDZabTVhTmZhQkZGOUIxOGEzUlVVbjQyNlUzTXRIRl9WWmR5VlcyM2puQmZWdExTZFR6WXBlSmR3?oc=5",
         "publishedAt": "2026-10-31T19:02:32.000Z"
-      },
-      {
-        "time": "23:53",
-        "title": "GMOが11/2に記者会見 社長出席",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600879?source=rss",
-        "publishedAt": "2026-10-31T14:53:29.000Z"
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "16:06",
+        "title": "米中間選挙 事前投票が過去最多",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6600955?source=rss",
+        "publishedAt": "2026-11-01T07:06:17.000Z"
+      },
       {
         "time": "07:50",
         "title": "日米豪印外相会談 AIなど協力確認",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6600886?source=rss",
         "publishedAt": "2026-10-31T22:50:15.000Z"
-      },
-      {
-        "time": "21:40",
-        "title": "ウが製油所攻撃再開 ロシア副首相",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600866?source=rss",
-        "publishedAt": "2026-10-31T12:40:32.000Z"
       },
       {
         "time": "09:58",

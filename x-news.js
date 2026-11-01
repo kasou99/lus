@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-01T06:37:07.253Z",
+  "updatedAt": "2026-11-01T07:11:22.048Z",
   "items": [
     {
       "time": "15:10",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "個人情報は必要? 企業の漏洩対策"
     },
     {
-      "time": "13:16",
-      "title": "兄の遺体遺棄疑い妹逮捕 父関与か",
+      "time": "16:00",
+      "title": "アマゾン奥地で相次ぐ 子の異変",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600930?source=rss",
-      "publishedAt": "2026-11-01T04:16:07.000Z",
-      "xQuery": "兄の遺体遺棄疑い妹逮捕 父関与か"
+      "url": "https://news.yahoo.co.jp/pickup/6600956?source=rss",
+      "publishedAt": "2026-11-01T07:00:58.000Z",
+      "xQuery": "アマゾン奥地で相次ぐ 子の異変"
     },
     {
       "time": "15:29",
