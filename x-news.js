@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-01T22:09:21.749Z",
+  "updatedAt": "2026-11-01T22:35:04.465Z",
   "items": [
     {
-      "time": "23:25",
-      "title": "農相政治団体 寄付3000万円不記載",
+      "time": "07:21",
+      "title": "防災庁発足 防災・災害時の司令塔",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601002?source=rss",
-      "publishedAt": "2026-11-01T14:25:40.000Z",
-      "xQuery": "農相政治団体 寄付3000万円不記載"
+      "url": "https://news.yahoo.co.jp/pickup/6601011?source=rss",
+      "publishedAt": "2026-11-01T22:21:01.000Z",
+      "xQuery": "防災庁発足 防災・災害時の司令塔"
     },
     {
       "time": "21:18",
@@ -18,6 +18,14 @@ window.LUS_X_NEWS = {
       "xQuery": "GMO攻撃 北朝鮮系のハッカーか"
     },
     {
+      "time": "07:22",
+      "title": "米でジェット機墜落 9人全員死亡",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601012?source=rss",
+      "publishedAt": "2026-11-01T22:22:29.000Z",
+      "xQuery": "米でジェット機墜落 9人全員死亡"
+    },
+    {
       "time": "21:59",
       "title": "望月衣塑子記者の対談本 回収へ",
       "source": "Yahoo!ニュース",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "望月衣塑子記者の対談本 回収へ"
     },
     {
-      "time": "06:56",
-      "title": "早期流産うち明けず「12週の壁」",
+      "time": "07:08",
+      "title": "早期流産で仕事中涙 有休取り崩し",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601007?source=rss",
-      "publishedAt": "2026-11-01T21:56:45.000Z",
-      "xQuery": "早期流産うち明けず「12週の壁」"
-    },
-    {
-      "time": "23:53",
-      "title": "38歳で余命宣告 子への優しいうそ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601003?source=rss",
-      "publishedAt": "2026-11-01T14:53:14.000Z",
-      "xQuery": "38歳で余命宣告 子への優しいうそ"
+      "url": "https://news.yahoo.co.jp/pickup/6601009?source=rss",
+      "publishedAt": "2026-11-01T22:08:56.000Z",
+      "xQuery": "早期流産で仕事中涙 有休取り崩し"
     }
   ]
 };

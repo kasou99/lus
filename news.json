@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T22:09:20.936Z",
+  "updatedAt": "2026-11-01T22:35:03.850Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -68,18 +68,11 @@
         "publishedAt": "2026-11-01T07:06:17.000Z"
       },
       {
-        "time": "07:50",
-        "title": "日米豪印外相会談 AIなど協力確認",
+        "time": "09:08",
+        "title": "米大統領 造反・不祥事議員を称賛",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600886?source=rss",
-        "publishedAt": "2026-10-31T22:50:15.000Z"
-      },
-      {
-        "time": "17:38",
-        "title": "韓国の10月輸出額 前年比ほぼ倍増",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600964?source=rss",
-        "publishedAt": "2026-11-01T08:38:35.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6600898?source=rss",
+        "publishedAt": "2026-11-01T00:08:45.000Z"
       },
       {
         "time": "09:58",
@@ -89,11 +82,18 @@
         "publishedAt": "2026-11-01T00:58:11.000Z"
       },
       {
-        "time": "09:08",
-        "title": "米大統領 造反・不祥事議員を称賛",
+        "time": "07:22",
+        "title": "米でジェット機墜落 9人全員死亡",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600898?source=rss",
-        "publishedAt": "2026-11-01T00:08:45.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6601012?source=rss",
+        "publishedAt": "2026-11-01T22:22:29.000Z"
+      },
+      {
+        "time": "17:38",
+        "title": "韓国の10月輸出額 前年比ほぼ倍増",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6600964?source=rss",
+        "publishedAt": "2026-11-01T08:38:35.000Z"
       },
       {
         "time": "08:34",
