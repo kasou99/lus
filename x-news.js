@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-01T04:35:47.155Z",
+  "updatedAt": "2026-11-01T05:10:54.729Z",
   "items": [
+    {
+      "time": "10:36",
+      "title": "消費減税 首相の質疑出席が焦点",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6600914?source=rss",
+      "publishedAt": "2026-11-01T01:36:11.000Z",
+      "xQuery": "消費減税 首相の質疑出席が焦点"
+    },
     {
       "time": "09:59",
       "title": "英首相 奴隷貿易で正式謝罪を検討",
@@ -8,14 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6600907?source=rss",
       "publishedAt": "2026-11-01T00:59:17.000Z",
       "xQuery": "英首相 奴隷貿易で正式謝罪を検討"
-    },
-    {
-      "time": "09:08",
-      "title": "出国時に返金 新免税制度が開始",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600900?source=rss",
-      "publishedAt": "2026-11-01T00:08:57.000Z",
-      "xQuery": "出国時に返金 新免税制度が開始"
     },
     {
       "time": "13:16",
