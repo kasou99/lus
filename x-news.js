@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-01T14:09:48.083Z",
+  "updatedAt": "2026-11-01T14:35:08.047Z",
   "items": [
+    {
+      "time": "23:25",
+      "title": "農相政治団体 寄付3000万円不記載",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601002?source=rss",
+      "publishedAt": "2026-11-01T14:25:40.000Z",
+      "xQuery": "農相政治団体 寄付3000万円不記載"
+    },
     {
       "time": "21:18",
       "title": "GMO攻撃 北朝鮮系のハッカーか",
@@ -16,14 +24,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6600998?source=rss",
       "publishedAt": "2026-11-01T13:01:10.000Z",
       "xQuery": "闇サイトで高まる 日本への関心"
-    },
-    {
-      "time": "21:37",
-      "title": "釣り人が海に転落 1人死亡1人不明",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6600994?source=rss",
-      "publishedAt": "2026-11-01T12:37:07.000Z",
-      "xQuery": "釣り人が海に転落 1人死亡1人不明"
     },
     {
       "time": "21:59",
