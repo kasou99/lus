@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-02T01:12:49.497Z",
+  "updatedAt": "2026-11-02T01:39:11.091Z",
   "items": [
+    {
+      "time": "10:22",
+      "title": "防災庁 事前防災の徹底を緊急要請",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601031?source=rss",
+      "publishedAt": "2026-11-02T01:22:57.000Z",
+      "xQuery": "防災庁 事前防災の徹底を緊急要請"
+    },
     {
       "time": "07:56",
       "title": "北への武器 香港の密輸集団が暗躍",
@@ -8,14 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6601016?source=rss",
       "publishedAt": "2026-11-01T22:56:29.000Z",
       "xQuery": "北への武器 香港の密輸集団が暗躍"
-    },
-    {
-      "time": "08:58",
-      "title": "米大統領 接戦州集会で最後の訴え",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601024?source=rss",
-      "publishedAt": "2026-11-01T23:58:15.000Z",
-      "xQuery": "米大統領 接戦州集会で最後の訴え"
     },
     {
       "time": "08:45",
