@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T12:17:35.519Z",
+  "updatedAt": "2026-11-02T12:36:15.536Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,13 +38,6 @@
         "publishedAt": "2026-11-01T23:28:47.000Z"
       },
       {
-        "time": "14:48",
-        "title": "精密スプリング製作所がＥＶ部品製造参入へ 自社技術応用、安価な複合材研究",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1jUnppR2hTeXR6Y1NmZ1ZZSUpSQVlxVldYZ205QTNWOFpwYUxtRERvLTVVc1Z3Zm9yWC1RbFUycHJNRUVlQ29BbmpOMXlKU1RnWnVvbE9lR09mMWhXUlhyemhyQndDUldtNGZhamFnUjV6NjViakhB?oc=5",
-        "publishedAt": "2026-11-02T05:48:50.000Z"
-      },
-      {
         "time": "15:30",
         "title": "セイワホールディングス[523A]：株式会社美山理研工業の株式取得及び当社グループへの参画（子会社化）に関するお知らせ 2026年11月2日(適時開示) ：日経会社情報DIGITAL",
         "source": "日本経済新聞",
@@ -57,6 +50,13 @@
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE91cVh1Nm5VOUlzMXE3ZHBwclY3UlpDRXNKYnlqRFJjSm5Ld3pSbmQwSEJUcm9jWGVtMnU1ekE3Zmloa3YzbVlHRGp4Ulp0NWI5N2lfQ29XdHE?oc=5",
         "publishedAt": "2026-11-01T20:00:00.000Z"
+      },
+      {
+        "time": "18:04",
+        "title": "【長岡市の企業2社が経営行き詰まり】産業用装置メーカーと関連会社、事後処理を弁護士に一任",
+        "source": "にいがた経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE45U1dWR1VkZnFWc1hZT1BfQ3NQbHM3c3NOYjd5MW5fVVN2ZE41OVQxaVRfQ3VueWpLNk9TSW1OdTk2dDVZ?oc=5",
+        "publishedAt": "2026-11-02T09:04:48.000Z"
       }
     ],
     "worldHeadlines": [

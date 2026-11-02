@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-02T12:17:36.333Z",
+  "updatedAt": "2026-11-02T12:36:16.415Z",
   "items": [
     {
       "time": "20:45",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "GMO熊谷社長会見 涙浮かべ陳謝"
     },
     {
-      "time": "19:33",
-      "title": "GMO社長 自身のSNS休止に言及",
+      "time": "21:16",
+      "title": "車と衝突 バイクの中学生が重体",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601087?source=rss",
-      "publishedAt": "2026-11-02T10:33:44.000Z",
-      "xQuery": "GMO社長 自身のSNS休止に言及"
+      "url": "https://news.yahoo.co.jp/pickup/6601097?source=rss",
+      "publishedAt": "2026-11-02T12:16:02.000Z",
+      "xQuery": "車と衝突 バイクの中学生が重体"
     },
     {
-      "time": "17:40",
-      "title": "特殊詐欺Gのリーダーか 男を逮捕",
+      "time": "15:51",
+      "title": "窓の清掃中にビルから転落 死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601076?source=rss",
-      "publishedAt": "2026-11-02T08:40:23.000Z",
-      "xQuery": "特殊詐欺Gのリーダーか 男を逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6601064?source=rss",
+      "publishedAt": "2026-11-02T06:51:51.000Z",
+      "xQuery": "窓の清掃中にビルから転落 死亡"
     }
   ]
 };
