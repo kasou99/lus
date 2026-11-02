@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-02T12:36:16.415Z",
+  "updatedAt": "2026-11-02T13:13:16.279Z",
   "items": [
     {
       "time": "20:45",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "車と衝突 バイクの中学生が重体"
     },
     {
-      "time": "15:51",
-      "title": "窓の清掃中にビルから転落 死亡",
+      "time": "22:00",
+      "title": "刑務所で46人食中毒 9月にも発生",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601064?source=rss",
-      "publishedAt": "2026-11-02T06:51:51.000Z",
-      "xQuery": "窓の清掃中にビルから転落 死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6601102?source=rss",
+      "publishedAt": "2026-11-02T13:00:20.000Z",
+      "xQuery": "刑務所で46人食中毒 9月にも発生"
     }
   ]
 };
