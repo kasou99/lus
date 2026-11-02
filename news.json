@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-11-02T02:35:56.153Z",
+  "updatedAt": "2026-11-02T03:15:29.095Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "11:47",
+        "title": "中国・平湖市、日本で工作機械産業を訴求",
+        "source": "LOGISTICS TODAY",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1QNVE3ZzBSeFNZSWxzSEVZYWlIXzd0dVlLSjJHcFdnWGsxRHZEWE5JaGlJRjczRTN0cG5USFpwV0o5b0pKeTJoZ0lB?oc=5",
+        "publishedAt": "2026-11-02T02:47:22.000Z"
+      },
       {
         "time": "07:30",
         "title": "オークマ、工作機械と対話するAIエージェント 熟練者不足の現場支援：JIMTOF2026",
@@ -38,25 +45,18 @@
         "publishedAt": "2026-11-01T20:00:00.000Z"
       },
       {
+        "time": "10:31",
+        "title": "サンワテクノス---中間期は営業利益2倍超、通期予想を上方修正し増配",
+        "source": "ｄメニューニュース",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPd0FOMXY2VWRzc0loTDFLekdzaUFhX09tdktIYXFtQlI4WW5LTDRxcTdaSGJMandxUWdMV3I1aXRCSGp4cnN1NnFwSDQwYlNHQzdhcnpYVkkwR2dBa0RZWUhybmVENEZ2N3hkTFhxRFh3V0MyOGpBZU43QlY3UmpmZFFVOEJlT1l1eV8yetIBjAFBVV95cUxPd0FOMXY2VWRzc0loTDFLekdzaUFhX09tdktIYXFtQlI4WW5LTDRxcTdaSGJMandxUWdMV3I1aXRCSGp4cnN1NnFwSDQwYlNHQzdhcnpYVkkwR2dBa0RZWUhybmVENEZ2N3hkTFhxRFh3V0MyOGpBZU43QlY3UmpmZFFVOEJlT1l1eV8yeg?oc=5",
+        "publishedAt": "2026-11-02T01:31:00.000Z"
+      },
+      {
         "time": "07:04",
         "title": "電気制御パネル市場の主要10社まとめ",
         "source": "pando.life",
         "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBsUHhkT0tyRjhfUWdZb2xOMWlPMTRrRmxOSlItd1liSzNjV1BsRjRKWG52czdGdENucGdCVGRLOEtsM1lxRVZseGxR?oc=5",
         "publishedAt": "2026-11-01T22:04:39.000Z"
-      },
-      {
-        "time": "17:10",
-        "title": "次世代設備保全クラウドの株式会社M2X、三和罐詰株式会社の導入事例を公開",
-        "source": "時事ドットコム",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE82V3NTTVNGV0NDeEY4S01LY0tvNXA2SlQwNjlPN1lzUVZtaHdoWE0yOTJNb3JJZ3hMVVhXUXJxWmc5Vk1yLVB3Rm11XzNSN2VuUXBqM1lNcnhXTUdrcTZVWlA4QjhwU284MzBF?oc=5",
-        "publishedAt": "2026-11-01T08:10:00.000Z"
-      },
-      {
-        "time": "05:00",
-        "title": "産業用設備の”保全部隊”に 浅野鐵工 繊維機械修理を水平展開",
-        "source": "中部経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE04Z3AtZTVwU2tPUHB3ZGhFVlFzU2QyTjV3WEJZd0VYbnpieVZzODRIcGlNcDRxTnBjN2pKOGJUcWI0bG5XRUx3QVlkcUJ0dDRNRF9LSko4MzNzTVpsbUNjQ1IzZ3MtZkZCRU94YzZIWHdWdm8?oc=5",
-        "publishedAt": "2026-11-01T20:00:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -112,13 +112,6 @@
         "publishedAt": "2026-11-01T22:44:39.000Z"
       },
       {
-        "time": "09:08",
-        "title": "出国時に返金 新免税制度が開始",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600900?source=rss",
-        "publishedAt": "2026-11-01T00:08:57.000Z"
-      },
-      {
         "time": "09:21",
         "title": "内定者2年間入社しなくてOK 狙い",
         "source": "Yahoo!ニュース",
@@ -140,20 +133,27 @@
         "publishedAt": "2026-11-01T12:59:35.000Z"
       },
       {
-        "time": "18:10",
-        "title": "渋滞最大で3時間 いろは坂で実験",
+        "time": "13:32",
+        "title": "個人情報は必要? 企業の漏洩対策",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600969?source=rss",
-        "publishedAt": "2026-11-01T09:10:42.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6600932?source=rss",
+        "publishedAt": "2026-11-01T04:32:45.000Z"
+      },
+      {
+        "time": "12:13",
+        "title": "同僚から盗撮被害 会社を訴えた訳",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6601046?source=rss",
+        "publishedAt": "2026-11-02T03:13:14.000Z"
       }
     ],
     "localHeadlines": [
       {
-        "time": "11:06",
-        "title": "住宅に立てこもった男を確保 愛知",
+        "time": "11:38",
+        "title": "人質をとり立てこもり疑い 男逮捕",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601036?source=rss",
-        "publishedAt": "2026-11-02T02:06:57.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6601041?source=rss",
+        "publishedAt": "2026-11-02T02:38:54.000Z"
       },
       {
         "time": "11:29",
@@ -161,6 +161,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601039?source=rss",
         "publishedAt": "2026-11-02T02:29:09.000Z"
+      },
+      {
+        "time": "11:47",
+        "title": "盗まれた高級腕時計 宅配便で返却",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6601043?source=rss",
+        "publishedAt": "2026-11-02T02:47:36.000Z"
       },
       {
         "time": "21:37",
@@ -175,13 +182,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601022?source=rss",
         "publishedAt": "2026-11-01T23:48:51.000Z"
-      },
-      {
-        "time": "13:16",
-        "title": "兄の遺体遺棄疑い妹逮捕 父関与か",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600930?source=rss",
-        "publishedAt": "2026-11-01T04:16:07.000Z"
       },
       {
         "time": "08:32",

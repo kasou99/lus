@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-02T02:35:57.167Z",
+  "updatedAt": "2026-11-02T03:15:30.043Z",
   "items": [
     {
       "time": "10:22",
@@ -10,6 +10,14 @@ window.LUS_X_NEWS = {
       "xQuery": "防災庁 事前防災の徹底を緊急要請"
     },
     {
+      "time": "11:29",
+      "title": "官邸襲撃事件 被告は全て争う方針",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601039?source=rss",
+      "publishedAt": "2026-11-02T02:29:09.000Z",
+      "xQuery": "官邸襲撃事件 被告は全て争う方針"
+    },
+    {
       "time": "08:32",
       "title": "知床沈没事故「海の電話」を設置",
       "source": "Yahoo!ニュース",
@@ -18,28 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "知床沈没事故「海の電話」を設置"
     },
     {
-      "time": "09:48",
-      "title": "情報漏洩で見舞金 おわびの正解は",
+      "time": "11:38",
+      "title": "人質をとり立てこもり疑い 男逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601028?source=rss",
-      "publishedAt": "2026-11-02T00:48:42.000Z",
-      "xQuery": "情報漏洩で見舞金 おわびの正解は"
+      "url": "https://news.yahoo.co.jp/pickup/6601041?source=rss",
+      "publishedAt": "2026-11-02T02:38:54.000Z",
+      "xQuery": "人質をとり立てこもり疑い 男逮捕"
     },
     {
-      "time": "11:06",
-      "title": "住宅に立てこもった男を確保 愛知",
+      "time": "11:47",
+      "title": "盗まれた高級腕時計 宅配便で返却",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601036?source=rss",
-      "publishedAt": "2026-11-02T02:06:57.000Z",
-      "xQuery": "住宅に立てこもった男を確保 愛知"
-    },
-    {
-      "time": "09:50",
-      "title": "ハロウィン繁華街で銃撃相次ぐ 米",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601027?source=rss",
-      "publishedAt": "2026-11-02T00:50:13.000Z",
-      "xQuery": "ハロウィン繁華街で銃撃相次ぐ 米"
+      "url": "https://news.yahoo.co.jp/pickup/6601043?source=rss",
+      "publishedAt": "2026-11-02T02:47:36.000Z",
+      "xQuery": "盗まれた高級腕時計 宅配便で返却"
     }
   ]
 };
