@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T22:34:54.648Z",
+  "updatedAt": "2026-11-02T23:09:59.348Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -10,11 +10,25 @@
         "publishedAt": "2026-11-02T02:47:22.000Z"
       },
       {
+        "time": "05:00",
+        "title": "京都FG、滋賀大とAI活用協定 月内にも研修開始",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5MSnpXNVZtdFNxSzFSZkVyelQ2MEp1R0tFSzBqVHJFZGs0T3FEeDdweExxeUZ5Ykw0MWNPOHk5YmNScldIUkp5VFNuUGN4dEQ1NFB3V1FUeWs?oc=5",
+        "publishedAt": "2026-11-02T20:00:00.000Z"
+      },
+      {
         "time": "10:43",
         "title": "【レポート】「JIMTOF2026（第33回日本国際工作機械見本市）」が東京ビッグサイトで開催",
         "source": "展示会とMICE",
         "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5pbHN3Mks0dzZaNzk5TkhmVnhkUi1Ea2xtNHRhMEpWMWR0Sm02cEowS0ZYeFZGRWhVRlAtU0NiR3ZfTFFZRU9PT0x3?oc=5",
         "publishedAt": "2026-11-02T01:43:47.000Z"
+      },
+      {
+        "time": "15:30",
+        "title": "セイワホールディングス[523A]：株式会社美山理研工業の株式取得及び当社グループへの参画（子会社化）に関するお知らせ 2026年11月2日(適時開示) ：日経会社情報DIGITAL",
+        "source": "日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1qb1pLTFByUlJ1YmQzRHUxYUx3VjRmOFNWeS1zNE5TN2RfNnBXZGg2NGdnaWMwU1JDSzJEdlM0aUl4ajRSblJZb3RFWDVaNG1YWDhib01vZmo1WGp2Vkg5bjhpcGZRYzJHT3c?oc=5",
+        "publishedAt": "2026-11-02T06:30:00.000Z"
       },
       {
         "time": "08:28",
@@ -24,11 +38,11 @@
         "publishedAt": "2026-11-01T23:28:47.000Z"
       },
       {
-        "time": "15:30",
-        "title": "セイワホールディングス[523A]：株式会社美山理研工業の株式取得及び当社グループへの参画（子会社化）に関するお知らせ 2026年11月2日(適時開示) ：日経会社情報DIGITAL",
-        "source": "日本経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1qb1pLTFByUlJ1YmQzRHUxYUx3VjRmOFNWeS1zNE5TN2RfNnBXZGg2NGdnaWMwU1JDSzJEdlM0aUl4ajRSblJZb3RFWDVaNG1YWDhib01vZmo1WGp2Vkg5bjhpcGZRYzJHT3c?oc=5",
-        "publishedAt": "2026-11-02T06:30:00.000Z"
+        "time": "14:48",
+        "title": "精密スプリング製作所がＥＶ部品製造参入へ 自社技術応用、安価な複合材研究",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1jUnppR2hTeXR6Y1NmZ1ZZSUpSQVlxVldYZ205QTNWOFpwYUxtRERvLTVVc1Z3Zm9yWC1RbFUycHJNRUVlQ29BbmpOMXlKU1RnWnVvbE9lR09mMWhXUlhyemhyQndDUldtNGZhamFnUjV6NjViakhB?oc=5",
+        "publishedAt": "2026-11-02T05:48:50.000Z"
       },
       {
         "time": "03:44",
@@ -43,20 +57,6 @@
         "source": "Infoseek",
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5TcjctdmtSbTJnUTNHbGhKQ1NiRks0SUpMTkxCZzN4VVNnRlpWY2RtZjFQdldHSGRPLU1ZMk5qemxzX2N2Qzdjc0hjSjRIRFRBWFdaZ2pDUEJHbmhyQXdHMnUyTDlFdnJ6UDBmRFVxZkZ2Zw?oc=5",
         "publishedAt": "2026-11-02T16:40:00.000Z"
-      },
-      {
-        "time": "18:04",
-        "title": "【長岡市の企業2社が経営行き詰まり】産業用装置メーカーと関連会社、事後処理を弁護士に一任",
-        "source": "にいがた経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE45U1dWR1VkZnFWc1hZT1BfQ3NQbHM3c3NOYjd5MW5fVVN2ZE41OVQxaVRfQ3VueWpLNk9TSW1OdTk2dDVZ?oc=5",
-        "publishedAt": "2026-11-02T09:04:48.000Z"
-      },
-      {
-        "time": "14:35",
-        "title": "はままつ丸ごとオープンファクトリー2026",
-        "source": "アットエス",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1lU3FOcXpRNUhaN0VqVWc2d05Eei1CQWtfZy1pWWJGMzVVdklEVXFwTXRGMFd1MDlBQTBFOWphQU5RaTQ1ZU4tUnFrX2JRcHVfSTR3NA?oc=5",
-        "publishedAt": "2026-11-02T05:35:09.000Z"
       }
     ],
     "worldHeadlines": [
@@ -68,18 +68,18 @@
         "publishedAt": "2026-11-02T22:06:06.000Z"
       },
       {
+        "time": "07:45",
+        "title": "米中間選挙 今夜から全米で投票",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6601118?source=rss",
+        "publishedAt": "2026-11-02T22:45:59.000Z"
+      },
+      {
         "time": "20:45",
         "title": "中間選挙 物価高で米大統領に批判",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601095?source=rss",
         "publishedAt": "2026-11-02T11:45:45.000Z"
-      },
-      {
-        "time": "08:58",
-        "title": "米大統領 接戦州集会で最後の訴え",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601024?source=rss",
-        "publishedAt": "2026-11-01T23:58:15.000Z"
       },
       {
         "time": "17:12",
@@ -96,11 +96,11 @@
         "publishedAt": "2026-11-02T06:20:07.000Z"
       },
       {
-        "time": "22:00",
-        "title": "中国軍幹部が空洞化 汚職対策影響",
+        "time": "07:40",
+        "title": "北朝鮮 バイナンス巡り関与否定",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601101?source=rss",
-        "publishedAt": "2026-11-02T13:00:16.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6601116?source=rss",
+        "publishedAt": "2026-11-02T22:40:52.000Z"
       }
     ],
     "economyHeadlines": [
@@ -149,11 +149,11 @@
     ],
     "localHeadlines": [
       {
-        "time": "11:38",
-        "title": "人質をとり立てこもり疑い 男逮捕",
+        "time": "07:47",
+        "title": "関東で濃霧発生 車の運転など注意",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601041?source=rss",
-        "publishedAt": "2026-11-02T02:38:54.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6601119?source=rss",
+        "publishedAt": "2026-11-02T22:47:09.000Z"
       },
       {
         "time": "17:40",

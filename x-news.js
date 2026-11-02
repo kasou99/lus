@@ -1,6 +1,22 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-02T22:34:55.584Z",
+  "updatedAt": "2026-11-02T23:10:00.265Z",
   "items": [
+    {
+      "time": "07:45",
+      "title": "米中間選挙 今夜から全米で投票",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601118?source=rss",
+      "publishedAt": "2026-11-02T22:45:59.000Z",
+      "xQuery": "米中間選挙 今夜から全米で投票"
+    },
+    {
+      "time": "08:06",
+      "title": "秋の叙勲 松坂慶子さんら受章",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601122?source=rss",
+      "publishedAt": "2026-11-02T23:06:44.000Z",
+      "xQuery": "秋の叙勲 松坂慶子さんら受章"
+    },
     {
       "time": "07:06",
       "title": "スペイン列車事故 邦人死亡2人に",
@@ -10,36 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "スペイン列車事故 邦人死亡2人に"
     },
     {
-      "time": "20:45",
-      "title": "中間選挙 物価高で米大統領に批判",
+      "time": "07:47",
+      "title": "関東で濃霧発生 車の運転など注意",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601095?source=rss",
-      "publishedAt": "2026-11-02T11:45:45.000Z",
-      "xQuery": "中間選挙 物価高で米大統領に批判"
+      "url": "https://news.yahoo.co.jp/pickup/6601119?source=rss",
+      "publishedAt": "2026-11-02T22:47:09.000Z",
+      "xQuery": "関東で濃霧発生 車の運転など注意"
     },
     {
-      "time": "23:08",
-      "title": "GMOが謝罪 利用者「響かない」",
+      "time": "07:29",
+      "title": "医療インバウンド 厚労省が検証へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601107?source=rss",
-      "publishedAt": "2026-11-02T14:08:17.000Z",
-      "xQuery": "GMOが謝罪 利用者「響かない」"
-    },
-    {
-      "time": "22:26",
-      "title": "ノジマ 700万人分の個人情報流出",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601104?source=rss",
-      "publishedAt": "2026-11-02T13:26:39.000Z",
-      "xQuery": "ノジマ 700万人分の個人情報流出"
-    },
-    {
-      "time": "00:04",
-      "title": "トンネルで2台正面衝突 30代死亡",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601110?source=rss",
-      "publishedAt": "2026-11-02T15:04:06.000Z",
-      "xQuery": "トンネルで2台正面衝突 30代死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6601113?source=rss",
+      "publishedAt": "2026-11-02T22:29:06.000Z",
+      "xQuery": "医療インバウンド 厚労省が検証へ"
     }
   ]
 };
