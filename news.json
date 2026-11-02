@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T19:08:46.719Z",
+  "updatedAt": "2026-11-02T19:35:17.506Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,6 +38,13 @@
         "publishedAt": "2026-11-01T23:28:47.000Z"
       },
       {
+        "time": "14:48",
+        "title": "精密スプリング製作所がＥＶ部品製造参入へ 自社技術応用、安価な複合材研究",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1jUnppR2hTeXR6Y1NmZ1ZZSUpSQVlxVldYZ205QTNWOFpwYUxtRERvLTVVc1Z3Zm9yWC1RbFUycHJNRUVlQ29BbmpOMXlKU1RnWnVvbE9lR09mMWhXUlhyemhyQndDUldtNGZhamFnUjV6NjViakhB?oc=5",
+        "publishedAt": "2026-11-02T05:48:50.000Z"
+      },
+      {
         "time": "03:44",
         "title": "DMG森精機、ポーランド新工場で鋳物供給網強化",
         "source": "LOGISTICS TODAY",
@@ -50,13 +57,6 @@
         "source": "時事ドットコム",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE82V3NTTVNGV0NDeEY4S01LY0tvNXA2SlQwNjlPN1lzUVZtaHdoWE0yOTJNb3JJZ3hMVVhXUXJxWmc5Vk1yLVB3Rm11XzNSN2VuUXBqM1lNcnhXTUdrcTZVWlA4QjhwU284MzBF?oc=5",
         "publishedAt": "2026-11-01T20:10:00.000Z"
-      },
-      {
-        "time": "05:00",
-        "title": "EMOミラノ、フィジカルAI焦点 来年10月開催",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE91cVh1Nm5VOUlzMXE3ZHBwclY3UlpDRXNKYnlqRFJjSm5Ld3pSbmQwSEJUcm9jWGVtMnU1ekE3Zmloa3YzbVlHRGp4Ulp0NWI5N2lfQ29XdHE?oc=5",
-        "publishedAt": "2026-11-01T20:00:00.000Z"
       }
     ],
     "worldHeadlines": [
