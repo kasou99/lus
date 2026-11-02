@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-02T14:36:33.678Z",
+  "updatedAt": "2026-11-02T15:12:40.681Z",
   "items": [
     {
       "time": "20:45",
@@ -8,14 +8,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6601095?source=rss",
       "publishedAt": "2026-11-02T11:45:45.000Z",
       "xQuery": "中間選挙 物価高で米大統領に批判"
-    },
-    {
-      "time": "17:17",
-      "title": "コンゴのエボラ死者5000人超える",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601072?source=rss",
-      "publishedAt": "2026-11-02T08:17:09.000Z",
-      "xQuery": "コンゴのエボラ死者5000人超える"
     },
     {
       "time": "23:08",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "ノジマ 700万人分の個人情報流出"
     },
     {
-      "time": "21:16",
-      "title": "車と衝突 バイクの中学生が重体",
+      "time": "00:04",
+      "title": "トンネルで2台正面衝突 30代死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601097?source=rss",
-      "publishedAt": "2026-11-02T12:16:02.000Z",
-      "xQuery": "車と衝突 バイクの中学生が重体"
+      "url": "https://news.yahoo.co.jp/pickup/6601110?source=rss",
+      "publishedAt": "2026-11-02T15:04:06.000Z",
+      "xQuery": "トンネルで2台正面衝突 30代死亡"
+    },
+    {
+      "time": "23:38",
+      "title": "7歳虐待死 裁判でにじむ母の後悔",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601108?source=rss",
+      "publishedAt": "2026-11-02T14:38:58.000Z",
+      "xQuery": "7歳虐待死 裁判でにじむ母の後悔"
     }
   ]
 };

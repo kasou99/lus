@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T14:36:32.917Z",
+  "updatedAt": "2026-11-02T15:12:39.778Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -45,18 +45,18 @@
         "publishedAt": "2026-11-02T06:30:00.000Z"
       },
       {
+        "time": "14:48",
+        "title": "精密スプリング製作所がＥＶ部品製造参入へ 自社技術応用、安価な複合材研究",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1jUnppR2hTeXR6Y1NmZ1ZZSUpSQVlxVldYZ205QTNWOFpwYUxtRERvLTVVc1Z3Zm9yWC1RbFUycHJNRUVlQ29BbmpOMXlKU1RnWnVvbE9lR09mMWhXUlhyemhyQndDUldtNGZhamFnUjV6NjViakhB?oc=5",
+        "publishedAt": "2026-11-02T05:48:50.000Z"
+      },
+      {
         "time": "18:04",
         "title": "【長岡市の企業2社が経営行き詰まり】産業用装置メーカーと関連会社、事後処理を弁護士に一任",
         "source": "にいがた経済新聞",
         "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE45U1dWR1VkZnFWc1hZT1BfQ3NQbHM3c3NOYjd5MW5fVVN2ZE41OVQxaVRfQ3VueWpLNk9TSW1OdTk2dDVZ?oc=5",
         "publishedAt": "2026-11-02T09:04:48.000Z"
-      },
-      {
-        "time": "05:00",
-        "title": "EMOミラノ、フィジカルAI焦点 来年10月開催",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE91cVh1Nm5VOUlzMXE3ZHBwclY3UlpDRXNKYnlqRFJjSm5Ld3pSbmQwSEJUcm9jWGVtMnU1ekE3Zmloa3YzbVlHRGp4Ulp0NWI5N2lfQ29XdHE?oc=5",
-        "publishedAt": "2026-11-01T20:00:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -177,18 +177,18 @@
         "publishedAt": "2026-11-02T06:51:51.000Z"
       },
       {
+        "time": "00:04",
+        "title": "トンネルで2台正面衝突 30代死亡",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6601110?source=rss",
+        "publishedAt": "2026-11-02T15:04:06.000Z"
+      },
+      {
         "time": "21:16",
         "title": "車と衝突 バイクの中学生が重体",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601097?source=rss",
         "publishedAt": "2026-11-02T12:16:02.000Z"
-      },
-      {
-        "time": "22:27",
-        "title": "徴収金の督促長年怠る 校長ら補填",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601103?source=rss",
-        "publishedAt": "2026-11-02T13:27:02.000Z"
       }
     ],
     "subsidyHeadlines": [
