@@ -1,21 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-02T11:35:42.675Z",
+  "updatedAt": "2026-11-02T12:17:36.333Z",
   "items": [
     {
-      "time": "15:42",
-      "title": "防衛費5年で70-80兆円案 政府与党",
+      "time": "20:45",
+      "title": "中間選挙 物価高で米大統領に批判",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601063?source=rss",
-      "publishedAt": "2026-11-02T06:42:05.000Z",
-      "xQuery": "防衛費5年で70-80兆円案 政府与党"
+      "url": "https://news.yahoo.co.jp/pickup/6601095?source=rss",
+      "publishedAt": "2026-11-02T11:45:45.000Z",
+      "xQuery": "中間選挙 物価高で米大統領に批判"
     },
     {
-      "time": "19:51",
-      "title": "GMO攻撃 警視庁が捜査本部設置",
+      "time": "19:03",
+      "title": "10月気温 過去2番目の暑さだった",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601090?source=rss",
-      "publishedAt": "2026-11-02T10:51:11.000Z",
-      "xQuery": "GMO攻撃 警視庁が捜査本部設置"
+      "url": "https://news.yahoo.co.jp/pickup/6601084?source=rss",
+      "publishedAt": "2026-11-02T10:03:01.000Z",
+      "xQuery": "10月気温 過去2番目の暑さだった"
+    },
+    {
+      "time": "20:50",
+      "title": "GMO熊谷社長会見 涙浮かべ陳謝",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601094?source=rss",
+      "publishedAt": "2026-11-02T11:50:05.000Z",
+      "xQuery": "GMO熊谷社長会見 涙浮かべ陳謝"
     },
     {
       "time": "19:33",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6601076?source=rss",
       "publishedAt": "2026-11-02T08:40:23.000Z",
       "xQuery": "特殊詐欺Gのリーダーか 男を逮捕"
-    },
-    {
-      "time": "15:51",
-      "title": "窓の清掃中にビルから転落 死亡",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601064?source=rss",
-      "publishedAt": "2026-11-02T06:51:51.000Z",
-      "xQuery": "窓の清掃中にビルから転落 死亡"
     }
   ]
 };

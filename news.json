@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T11:35:41.752Z",
+  "updatedAt": "2026-11-02T12:17:35.519Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,18 +38,18 @@
         "publishedAt": "2026-11-01T23:28:47.000Z"
       },
       {
+        "time": "14:48",
+        "title": "精密スプリング製作所がＥＶ部品製造参入へ 自社技術応用、安価な複合材研究",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1jUnppR2hTeXR6Y1NmZ1ZZSUpSQVlxVldYZ205QTNWOFpwYUxtRERvLTVVc1Z3Zm9yWC1RbFUycHJNRUVlQ29BbmpOMXlKU1RnWnVvbE9lR09mMWhXUlhyemhyQndDUldtNGZhamFnUjV6NjViakhB?oc=5",
+        "publishedAt": "2026-11-02T05:48:50.000Z"
+      },
+      {
         "time": "15:30",
         "title": "セイワホールディングス[523A]：株式会社美山理研工業の株式取得及び当社グループへの参画（子会社化）に関するお知らせ 2026年11月2日(適時開示) ：日経会社情報DIGITAL",
         "source": "日本経済新聞",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1qb1pLTFByUlJ1YmQzRHUxYUx3VjRmOFNWeS1zNE5TN2RfNnBXZGg2NGdnaWMwU1JDSzJEdlM0aUl4ajRSblJZb3RFWDVaNG1YWDhib01vZmo1WGp2Vkg5bjhpcGZRYzJHT3c?oc=5",
         "publishedAt": "2026-11-02T06:30:00.000Z"
-      },
-      {
-        "time": "18:04",
-        "title": "【長岡市の企業2社が経営行き詰まり】産業用装置メーカーと関連会社、事後処理を弁護士に一任",
-        "source": "にいがた経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE45U1dWR1VkZnFWc1hZT1BfQ3NQbHM3c3NOYjd5MW5fVVN2ZE41OVQxaVRfQ3VueWpLNk9TSW1OdTk2dDVZ?oc=5",
-        "publishedAt": "2026-11-02T09:04:48.000Z"
       },
       {
         "time": "05:00",
@@ -66,6 +66,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601023?source=rss",
         "publishedAt": "2026-11-01T23:45:06.000Z"
+      },
+      {
+        "time": "20:45",
+        "title": "中間選挙 物価高で米大統領に批判",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6601095?source=rss",
+        "publishedAt": "2026-11-02T11:45:45.000Z"
       },
       {
         "time": "08:58",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601061?source=rss",
         "publishedAt": "2026-11-02T06:20:07.000Z"
-      },
-      {
-        "time": "09:50",
-        "title": "ハロウィン繁華街で銃撃相次ぐ 米",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601027?source=rss",
-        "publishedAt": "2026-11-02T00:50:13.000Z"
       }
     ],
     "economyHeadlines": [
@@ -184,11 +184,11 @@
         "publishedAt": "2026-11-02T06:51:51.000Z"
       },
       {
-        "time": "08:48",
-        "title": "住宅火災 焼け跡から3人の遺体",
+        "time": "21:16",
+        "title": "車と衝突 バイクの中学生が重体",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601022?source=rss",
-        "publishedAt": "2026-11-01T23:48:51.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6601097?source=rss",
+        "publishedAt": "2026-11-02T12:16:02.000Z"
       }
     ],
     "subsidyHeadlines": [
