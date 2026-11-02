@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-02T03:15:30.043Z",
+  "updatedAt": "2026-11-02T03:35:36.588Z",
   "items": [
     {
       "time": "10:22",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "官邸襲撃事件 被告は全て争う方針"
     },
     {
-      "time": "08:32",
-      "title": "知床沈没事故「海の電話」を設置",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601020?source=rss",
-      "publishedAt": "2026-11-01T23:32:20.000Z",
-      "xQuery": "知床沈没事故「海の電話」を設置"
-    },
-    {
       "time": "11:38",
       "title": "人質をとり立てこもり疑い 男逮捕",
       "source": "Yahoo!ニュース",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6601043?source=rss",
       "publishedAt": "2026-11-02T02:47:36.000Z",
       "xQuery": "盗まれた高級腕時計 宅配便で返却"
+    },
+    {
+      "time": "12:13",
+      "title": "同僚から盗撮被害 会社を訴えた訳",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601046?source=rss",
+      "publishedAt": "2026-11-02T03:13:14.000Z",
+      "xQuery": "同僚から盗撮被害 会社を訴えた訳"
     }
   ]
 };
