@@ -1,21 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-01T23:34:58.061Z",
+  "updatedAt": "2026-11-02T00:32:25.443Z",
   "items": [
     {
-      "time": "07:21",
-      "title": "防災庁発足 防災・災害時の司令塔",
+      "time": "07:56",
+      "title": "北への武器 香港の密輸集団が暗躍",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601011?source=rss",
-      "publishedAt": "2026-11-01T22:21:01.000Z",
-      "xQuery": "防災庁発足 防災・災害時の司令塔"
+      "url": "https://news.yahoo.co.jp/pickup/6601016?source=rss",
+      "publishedAt": "2026-11-01T22:56:29.000Z",
+      "xQuery": "北への武器 香港の密輸集団が暗躍"
     },
     {
-      "time": "07:43",
-      "title": "ウクライナ南部の局地停戦が終了",
+      "time": "08:58",
+      "title": "米大統領 接戦州集会で最後の訴え",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601014?source=rss",
-      "publishedAt": "2026-11-01T22:43:52.000Z",
-      "xQuery": "ウクライナ南部の局地停戦が終了"
+      "url": "https://news.yahoo.co.jp/pickup/6601024?source=rss",
+      "publishedAt": "2026-11-01T23:58:15.000Z",
+      "xQuery": "米大統領 接戦州集会で最後の訴え"
+    },
+    {
+      "time": "08:45",
+      "title": "スペイン事故 邦人1人の死亡確認",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601023?source=rss",
+      "publishedAt": "2026-11-01T23:45:06.000Z",
+      "xQuery": "スペイン事故 邦人1人の死亡確認"
     },
     {
       "time": "07:58",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "内閣の支持率64.9%に上昇 JNN"
     },
     {
-      "time": "07:22",
-      "title": "米でジェット機墜落 9人全員死亡",
+      "time": "08:48",
+      "title": "住宅火災 焼け跡から3人の遺体",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601012?source=rss",
-      "publishedAt": "2026-11-01T22:22:29.000Z",
-      "xQuery": "米でジェット機墜落 9人全員死亡"
-    },
-    {
-      "time": "07:44",
-      "title": "金型の無償保管 公取委勧告が急増",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601015?source=rss",
-      "publishedAt": "2026-11-01T22:44:39.000Z",
-      "xQuery": "金型の無償保管 公取委勧告が急増"
+      "url": "https://news.yahoo.co.jp/pickup/6601022?source=rss",
+      "publishedAt": "2026-11-01T23:48:51.000Z",
+      "xQuery": "住宅火災 焼け跡から3人の遺体"
     }
   ]
 };
