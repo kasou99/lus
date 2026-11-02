@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-02T21:35:13.354Z",
+  "updatedAt": "2026-11-02T22:10:53.331Z",
   "items": [
+    {
+      "time": "07:06",
+      "title": "スペイン列車事故 邦人死亡2人に",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601111?source=rss",
+      "publishedAt": "2026-11-02T22:06:06.000Z",
+      "xQuery": "スペイン列車事故 邦人死亡2人に"
+    },
     {
       "time": "20:45",
       "title": "中間選挙 物価高で米大統領に批判",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6601110?source=rss",
       "publishedAt": "2026-11-02T15:04:06.000Z",
       "xQuery": "トンネルで2台正面衝突 30代死亡"
-    },
-    {
-      "time": "23:38",
-      "title": "7歳虐待死 裁判でにじむ母の後悔",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601108?source=rss",
-      "publishedAt": "2026-11-02T14:38:58.000Z",
-      "xQuery": "7歳虐待死 裁判でにじむ母の後悔"
     }
   ]
 };

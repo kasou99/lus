@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T21:35:12.570Z",
+  "updatedAt": "2026-11-02T22:10:52.145Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -10,13 +10,6 @@
         "publishedAt": "2026-11-02T02:47:22.000Z"
       },
       {
-        "time": "07:30",
-        "title": "オークマ、工作機械と対話するAIエージェント 熟練者不足の現場支援：JIMTOF2026",
-        "source": "MONOist",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBDVTgya2JvTU1ncFEyZjFEQ2xqYUJiZTdjTHRHYl8wak1oX3VOM0xLazFwcWZ6czVBcTFoT3cwQ09NbjlHak92Z2gxNHpmdkFxRzNIY2dOM0lWWF9RRmtVQTBBZDNLTllyQ1dLaDJ5QQ?oc=5",
-        "publishedAt": "2026-11-01T22:30:00.000Z"
-      },
-      {
         "time": "10:43",
         "title": "【レポート】「JIMTOF2026（第33回日本国際工作機械見本市）」が東京ビッグサイトで開催",
         "source": "展示会とMICE",
@@ -24,11 +17,11 @@
         "publishedAt": "2026-11-02T01:43:47.000Z"
       },
       {
-        "time": "06:48",
-        "title": "[エディターズノートvol.32]工作機械の“自動化革新”は止まらない",
-        "source": "robot digest",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE04dXVJZmVUc3B6M3F6R3RNeTdFT2dPRVdjMkstRHo0NXNmSmFrSE84WXpzNTdIRl9MSlM5Z1c4eWc0T2diakJ2RHgwcWM0UEY2eVpWVTdIRmZtSE1Pc1hlQTVmN2hFNU1UOFM0?oc=5",
-        "publishedAt": "2026-11-01T21:48:05.000Z"
+        "time": "07:30",
+        "title": "オークマ、工作機械と対話するAIエージェント 熟練者不足の現場支援：JIMTOF2026",
+        "source": "MONOist",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBDVTgya2JvTU1ncFEyZjFEQ2xqYUJiZTdjTHRHYl8wak1oX3VOM0xLazFwcWZ6czVBcTFoT3cwQ09NbjlHak92Z2gxNHpmdkFxRzNIY2dOM0lWWF9RRmtVQTBBZDNLTllyQ1dLaDJ5QQ?oc=5",
+        "publishedAt": "2026-11-01T22:30:00.000Z"
       },
       {
         "time": "08:28",
@@ -57,15 +50,22 @@
         "source": "Infoseek",
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5TcjctdmtSbTJnUTNHbGhKQ1NiRks0SUpMTkxCZzN4VVNnRlpWY2RtZjFQdldHSGRPLU1ZMk5qemxzX2N2Qzdjc0hjSjRIRFRBWFdaZ2pDUEJHbmhyQXdHMnUyTDlFdnJ6UDBmRFVxZkZ2Zw?oc=5",
         "publishedAt": "2026-11-02T16:40:00.000Z"
+      },
+      {
+        "time": "18:04",
+        "title": "【長岡市の企業2社が経営行き詰まり】産業用装置メーカーと関連会社、事後処理を弁護士に一任",
+        "source": "にいがた経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE45U1dWR1VkZnFWc1hZT1BfQ3NQbHM3c3NOYjd5MW5fVVN2ZE41OVQxaVRfQ3VueWpLNk9TSW1OdTk2dDVZ?oc=5",
+        "publishedAt": "2026-11-02T09:04:48.000Z"
       }
     ],
     "worldHeadlines": [
       {
-        "time": "08:45",
-        "title": "スペイン事故 邦人1人の死亡確認",
+        "time": "07:06",
+        "title": "スペイン列車事故 邦人死亡2人に",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601023?source=rss",
-        "publishedAt": "2026-11-01T23:45:06.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6601111?source=rss",
+        "publishedAt": "2026-11-02T22:06:06.000Z"
       },
       {
         "time": "20:45",
