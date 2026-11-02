@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T08:17:44.079Z",
+  "updatedAt": "2026-11-02T08:35:34.786Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,13 +38,6 @@
         "publishedAt": "2026-11-01T23:28:47.000Z"
       },
       {
-        "time": "14:35",
-        "title": "はままつ丸ごとオープンファクトリー2026",
-        "source": "アットエス",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1lU3FOcXpRNUhaN0VqVWc2d05Eei1CQWtfZy1pWWJGMzVVdklEVXFwTXRGMFd1MDlBQTBFOWphQU5RaTQ1ZU4tUnFrX2JRcHVfSTR3NA?oc=5",
-        "publishedAt": "2026-11-02T05:35:09.000Z"
-      },
-      {
         "time": "05:00",
         "title": "EMOミラノ、フィジカルAI焦点 来年10月開催",
         "source": "日刊工業新聞",
@@ -57,6 +50,13 @@
         "source": "LOGISTICS TODAY",
         "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9GckVPTHc2R1ZIR0lkYXVpLTQyVnFhdEpnQTN2Qy1aUHBRcVZoT0RCWkRBaWc5WXNCT2Z4SVBrUjJpaDJPNkNSMWNn?oc=5",
         "publishedAt": "2026-11-02T06:00:22.000Z"
+      },
+      {
+        "time": "14:35",
+        "title": "はままつ丸ごとオープンファクトリー2026",
+        "source": "アットエス",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1lU3FOcXpRNUhaN0VqVWc2d05Eei1CQWtfZy1pWWJGMzVVdklEVXFwTXRGMFd1MDlBQTBFOWphQU5RaTQ1ZU4tUnFrX2JRcHVfSTR3NA?oc=5",
+        "publishedAt": "2026-11-02T05:35:09.000Z"
       }
     ],
     "worldHeadlines": [

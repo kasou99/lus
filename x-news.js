@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-02T08:17:44.803Z",
+  "updatedAt": "2026-11-02T08:35:35.835Z",
   "items": [
     {
       "time": "15:27",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "中継 GMO熊谷社長らが記者会見"
     },
     {
-      "time": "16:14",
-      "title": "GMO社長 会見で情報流出を謝罪",
+      "time": "17:27",
+      "title": "GMO社長「社内指摘を生かせず」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601065?source=rss",
-      "publishedAt": "2026-11-02T07:14:27.000Z",
-      "xQuery": "GMO社長 会見で情報流出を謝罪"
+      "url": "https://news.yahoo.co.jp/pickup/6601069?source=rss",
+      "publishedAt": "2026-11-02T08:27:10.000Z",
+      "xQuery": "GMO社長「社内指摘を生かせず」"
     },
     {
       "time": "17:03",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "「アララ」不審メール713万通確認"
     },
     {
-      "time": "14:25",
-      "title": "盗難の高級腕時計戻る わび状同封",
+      "time": "17:12",
+      "title": "MAGA派を鼓舞 トランプ氏に焦り",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601058?source=rss",
-      "publishedAt": "2026-11-02T05:25:12.000Z",
-      "xQuery": "盗難の高級腕時計戻る わび状同封"
+      "url": "https://news.yahoo.co.jp/pickup/6601071?source=rss",
+      "publishedAt": "2026-11-02T08:12:10.000Z",
+      "xQuery": "MAGA派を鼓舞 トランプ氏に焦り"
     },
     {
       "time": "15:51",
