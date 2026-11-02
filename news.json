@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T14:13:37.164Z",
+  "updatedAt": "2026-11-02T14:36:32.917Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -45,18 +45,18 @@
         "publishedAt": "2026-11-02T06:30:00.000Z"
       },
       {
+        "time": "18:04",
+        "title": "【長岡市の企業2社が経営行き詰まり】産業用装置メーカーと関連会社、事後処理を弁護士に一任",
+        "source": "にいがた経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE45U1dWR1VkZnFWc1hZT1BfQ3NQbHM3c3NOYjd5MW5fVVN2ZE41OVQxaVRfQ3VueWpLNk9TSW1OdTk2dDVZ?oc=5",
+        "publishedAt": "2026-11-02T09:04:48.000Z"
+      },
+      {
         "time": "05:00",
         "title": "EMOミラノ、フィジカルAI焦点 来年10月開催",
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE91cVh1Nm5VOUlzMXE3ZHBwclY3UlpDRXNKYnlqRFJjSm5Ld3pSbmQwSEJUcm9jWGVtMnU1ekE3Zmloa3YzbVlHRGp4Ulp0NWI5N2lfQ29XdHE?oc=5",
         "publishedAt": "2026-11-01T20:00:00.000Z"
-      },
-      {
-        "time": "10:32",
-        "title": "インド南部チェンナイで風力発電展示会が開催、中国企業の存在感拡大(インド、中国) | ビジネス短信",
-        "source": "ジェトロ（日本貿易振興機構）",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1rRDRPM08tSnRXbE9PLURzRlF4UV9wR1A4YzloeVUwUWQyRXhYWVV1N0VOR01LWVpYTHJsVFZPVFlIQkQxcjZnbFVDZC1UNTRIZC0tZzI2R2dBaHJBSVF1RmZSbG1IOXBrUF9CNHNB?oc=5",
-        "publishedAt": "2026-11-02T01:32:05.000Z"
       }
     ],
     "worldHeadlines": [

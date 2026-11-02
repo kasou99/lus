@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-02T14:13:37.953Z",
+  "updatedAt": "2026-11-02T14:36:33.678Z",
   "items": [
     {
       "time": "20:45",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "コンゴのエボラ死者5000人超える"
     },
     {
-      "time": "20:50",
-      "title": "GMO熊谷社長会見 涙浮かべ陳謝",
+      "time": "23:08",
+      "title": "GMOが謝罪 利用者「響かない」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601094?source=rss",
-      "publishedAt": "2026-11-02T11:50:05.000Z",
-      "xQuery": "GMO熊谷社長会見 涙浮かべ陳謝"
+      "url": "https://news.yahoo.co.jp/pickup/6601107?source=rss",
+      "publishedAt": "2026-11-02T14:08:17.000Z",
+      "xQuery": "GMOが謝罪 利用者「響かない」"
     },
     {
       "time": "22:26",
