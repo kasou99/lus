@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-02T07:14:31.499Z",
+  "updatedAt": "2026-11-02T07:35:43.147Z",
   "items": [
     {
       "time": "15:27",
@@ -8,6 +8,22 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6601060?source=rss",
       "publishedAt": "2026-11-02T06:27:57.000Z",
       "xQuery": "中継 GMO熊谷社長らが記者会見"
+    },
+    {
+      "time": "16:14",
+      "title": "GMO社長 会見で情報流出を謝罪",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601065?source=rss",
+      "publishedAt": "2026-11-02T07:14:27.000Z",
+      "xQuery": "GMO社長 会見で情報流出を謝罪"
+    },
+    {
+      "time": "13:54",
+      "title": "「アララ」7700万件のメアド流出",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601057?source=rss",
+      "publishedAt": "2026-11-02T04:54:46.000Z",
+      "xQuery": "「アララ」7700万件のメアド流出"
     },
     {
       "time": "15:20",
@@ -24,22 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6601053?source=rss",
       "publishedAt": "2026-11-02T04:32:41.000Z",
       "xQuery": "文科相 東大学長の選考理由不明確"
-    },
-    {
-      "time": "13:54",
-      "title": "「アララ」7700万件のメアド流出",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601057?source=rss",
-      "publishedAt": "2026-11-02T04:54:46.000Z",
-      "xQuery": "「アララ」7700万件のメアド流出"
-    },
-    {
-      "time": "14:25",
-      "title": "盗難の高級腕時計戻る わび状同封",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601058?source=rss",
-      "publishedAt": "2026-11-02T05:25:12.000Z",
-      "xQuery": "盗難の高級腕時計戻る わび状同封"
     }
   ]
 };
