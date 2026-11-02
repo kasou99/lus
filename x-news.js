@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-02T09:16:49.346Z",
+  "updatedAt": "2026-11-02T09:35:20.444Z",
   "items": [
     {
       "time": "17:12",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "GMO社長「社内指摘を生かせず」"
     },
     {
-      "time": "17:25",
-      "title": "サントリーHD 10万人分漏えい",
+      "time": "13:54",
+      "title": "「アララ」7700万件のメアド流出",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601074?source=rss",
-      "publishedAt": "2026-11-02T08:25:54.000Z",
-      "xQuery": "サントリーHD 10万人分漏えい"
+      "url": "https://news.yahoo.co.jp/pickup/6601057?source=rss",
+      "publishedAt": "2026-11-02T04:54:46.000Z",
+      "xQuery": "「アララ」7700万件のメアド流出"
     },
     {
       "time": "15:51",

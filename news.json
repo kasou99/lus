@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T09:16:47.998Z",
+  "updatedAt": "2026-11-02T09:35:19.181Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,18 +38,11 @@
         "publishedAt": "2026-11-01T23:28:47.000Z"
       },
       {
-        "time": "18:05",
-        "title": "【長岡市の企業2社が経営行き詰まり】産業用装置メーカーと関連会社、事後処理を弁護士に一任",
-        "source": "にいがた経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE45U1dWR1VkZnFWc1hZT1BfQ3NQbHM3c3NOYjd5MW5fVVN2ZE41OVQxaVRfQ3VueWpLNk9TSW1OdTk2dDVZ?oc=5",
-        "publishedAt": "2026-11-02T09:05:21.000Z"
-      },
-      {
-        "time": "14:35",
-        "title": "はままつ丸ごとオープンファクトリー2026",
-        "source": "アットエス",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1lU3FOcXpRNUhaN0VqVWc2d05Eei1CQWtfZy1pWWJGMzVVdklEVXFwTXRGMFd1MDlBQTBFOWphQU5RaTQ1ZU4tUnFrX2JRcHVfSTR3NA?oc=5",
-        "publishedAt": "2026-11-02T05:35:09.000Z"
+        "time": "14:48",
+        "title": "精密スプリング製作所がＥＶ部品製造参入へ 自社技術応用、安価な複合材研究",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1jUnppR2hTeXR6Y1NmZ1ZZSUpSQVlxVldYZ205QTNWOFpwYUxtRERvLTVVc1Z3Zm9yWC1RbFUycHJNRUVlQ29BbmpOMXlKU1RnWnVvbE9lR09mMWhXUlhyemhyQndDUldtNGZhamFnUjV6NjViakhB?oc=5",
+        "publishedAt": "2026-11-02T05:48:50.000Z"
       },
       {
         "time": "05:00",
@@ -57,6 +50,13 @@
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE91cVh1Nm5VOUlzMXE3ZHBwclY3UlpDRXNKYnlqRFJjSm5Ld3pSbmQwSEJUcm9jWGVtMnU1ekE3Zmloa3YzbVlHRGp4Ulp0NWI5N2lfQ29XdHE?oc=5",
         "publishedAt": "2026-11-01T20:00:00.000Z"
+      },
+      {
+        "time": "18:04",
+        "title": "【長岡市の企業2社が経営行き詰まり】産業用装置メーカーと関連会社、事後処理を弁護士に一任",
+        "source": "にいがた経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE45U1dWR1VkZnFWc1hZT1BfQ3NQbHM3c3NOYjd5MW5fVVN2ZE41OVQxaVRfQ3VueWpLNk9TSW1OdTk2dDVZ?oc=5",
+        "publishedAt": "2026-11-02T09:04:48.000Z"
       }
     ],
     "worldHeadlines": [
@@ -105,6 +105,13 @@
     ],
     "economyHeadlines": [
       {
+        "time": "18:24",
+        "title": "GMO熊谷社長ら 報酬を3カ月減額",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6601082?source=rss",
+        "publishedAt": "2026-11-02T09:24:53.000Z"
+      },
+      {
         "time": "12:39",
         "title": "フラット35 金利3.81%で過去2番目",
         "source": "Yahoo!ニュース",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601046?source=rss",
         "publishedAt": "2026-11-02T03:13:14.000Z"
-      },
-      {
-        "time": "12:09",
-        "title": "サラダが主食? 専門店の市場拡大",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601045?source=rss",
-        "publishedAt": "2026-11-02T03:09:09.000Z"
       }
     ],
     "localHeadlines": [
