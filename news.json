@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T22:10:52.145Z",
+  "updatedAt": "2026-11-02T22:34:54.648Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -15,13 +15,6 @@
         "source": "展示会とMICE",
         "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5pbHN3Mks0dzZaNzk5TkhmVnhkUi1Ea2xtNHRhMEpWMWR0Sm02cEowS0ZYeFZGRWhVRlAtU0NiR3ZfTFFZRU9PT0x3?oc=5",
         "publishedAt": "2026-11-02T01:43:47.000Z"
-      },
-      {
-        "time": "07:30",
-        "title": "オークマ、工作機械と対話するAIエージェント 熟練者不足の現場支援：JIMTOF2026",
-        "source": "MONOist",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBDVTgya2JvTU1ncFEyZjFEQ2xqYUJiZTdjTHRHYl8wak1oX3VOM0xLazFwcWZ6czVBcTFoT3cwQ09NbjlHak92Z2gxNHpmdkFxRzNIY2dOM0lWWF9RRmtVQTBBZDNLTllyQ1dLaDJ5QQ?oc=5",
-        "publishedAt": "2026-11-01T22:30:00.000Z"
       },
       {
         "time": "08:28",
@@ -57,6 +50,13 @@
         "source": "にいがた経済新聞",
         "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE45U1dWR1VkZnFWc1hZT1BfQ3NQbHM3c3NOYjd5MW5fVVN2ZE41OVQxaVRfQ3VueWpLNk9TSW1OdTk2dDVZ?oc=5",
         "publishedAt": "2026-11-02T09:04:48.000Z"
+      },
+      {
+        "time": "14:35",
+        "title": "はままつ丸ごとオープンファクトリー2026",
+        "source": "アットエス",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1lU3FOcXpRNUhaN0VqVWc2d05Eei1CQWtfZy1pWWJGMzVVdklEVXFwTXRGMFd1MDlBQTBFOWphQU5RaTQ1ZU4tUnFrX2JRcHVfSTR3NA?oc=5",
+        "publishedAt": "2026-11-02T05:35:09.000Z"
       }
     ],
     "worldHeadlines": [
