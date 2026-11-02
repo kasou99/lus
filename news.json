@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T01:39:10.379Z",
+  "updatedAt": "2026-11-02T02:16:26.671Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,6 +17,13 @@
         "publishedAt": "2026-11-01T21:48:05.000Z"
       },
       {
+        "time": "10:43",
+        "title": "【レポート】「JIMTOF2026（第33回日本国際工作機械見本市）」が東京ビッグサイトで開催",
+        "source": "展示会とMICE",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5pbHN3Mks0dzZaNzk5TkhmVnhkUi1Ea2xtNHRhMEpWMWR0Sm02cEowS0ZYeFZGRWhVRlAtU0NiR3ZfTFFZRU9PT0x3?oc=5",
+        "publishedAt": "2026-11-02T01:43:47.000Z"
+      },
+      {
         "time": "08:28",
         "title": "9月工作機械、６割プラス 過去最高額を更新",
         "source": "金属産業新聞",
@@ -31,13 +38,6 @@
         "publishedAt": "2026-11-01T20:00:00.000Z"
       },
       {
-        "time": "17:10",
-        "title": "次世代設備保全クラウドの株式会社M2X、三和罐詰株式会社の導入事例を公開",
-        "source": "時事ドットコム",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE82V3NTTVNGV0NDeEY4S01LY0tvNXA2SlQwNjlPN1lzUVZtaHdoWE0yOTJNb3JJZ3hMVVhXUXJxWmc5Vk1yLVB3Rm11XzNSN2VuUXBqM1lNcnhXTUdrcTZVWlA4QjhwU284MzBF?oc=5",
-        "publishedAt": "2026-11-01T08:10:00.000Z"
-      },
-      {
         "time": "07:04",
         "title": "電気制御パネル市場の主要10社まとめ",
         "source": "pando.life",
@@ -45,17 +45,17 @@
         "publishedAt": "2026-11-01T22:04:39.000Z"
       },
       {
+        "time": "17:10",
+        "title": "次世代設備保全クラウドの株式会社M2X、三和罐詰株式会社の導入事例を公開",
+        "source": "時事ドットコム",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE82V3NTTVNGV0NDeEY4S01LY0tvNXA2SlQwNjlPN1lzUVZtaHdoWE0yOTJNb3JJZ3hMVVhXUXJxWmc5Vk1yLVB3Rm11XzNSN2VuUXBqM1lNcnhXTUdrcTZVWlA4QjhwU284MzBF?oc=5",
+        "publishedAt": "2026-11-01T08:10:00.000Z"
+      },
+      {
         "time": "05:00",
         "title": "産業用設備の”保全部隊”に 浅野鐵工 繊維機械修理を水平展開",
         "source": "中部経済新聞",
         "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE04Z3AtZTVwU2tPUHB3ZGhFVlFzU2QyTjV3WEJZd0VYbnpieVZzODRIcGlNcDRxTnBjN2pKOGJUcWI0bG5XRUx3QVlkcUJ0dDRNRF9LSko4MzNzTVpsbUNjQ1IzZ3MtZkZCRU94YzZIWHdWdm8?oc=5",
-        "publishedAt": "2026-11-01T20:00:00.000Z"
-      },
-      {
-        "time": "05:00",
-        "title": "JIMMTOF2026／日工会「トップセミ」 若い力、モノづくりの原動力",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5NZ1lrUHZhdkNRcEhGVkFMa1VIZnh3U0xmMUlrWmNsc0Q2aGhoSGtPRWw2MEl1aS01aVpFSUVYVW9sUTJ0SDRTZDNmcUtPcUh6ODRHSmhwdWw?oc=5",
         "publishedAt": "2026-11-01T20:00:00.000Z"
       }
     ],
@@ -149,11 +149,11 @@
     ],
     "localHeadlines": [
       {
-        "time": "10:02",
-        "title": "刃物持った男が立てこもる 東海市",
+        "time": "11:06",
+        "title": "住宅に立てこもった男を確保 愛知",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601029?source=rss",
-        "publishedAt": "2026-11-02T01:02:25.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6601036?source=rss",
+        "publishedAt": "2026-11-02T02:06:57.000Z"
       },
       {
         "time": "21:37",
