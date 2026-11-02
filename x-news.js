@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-02T13:13:16.279Z",
+  "updatedAt": "2026-11-02T13:35:44.714Z",
   "items": [
     {
       "time": "20:45",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "中間選挙 物価高で米大統領に批判"
     },
     {
-      "time": "19:03",
-      "title": "10月気温 過去2番目の暑さだった",
+      "time": "17:17",
+      "title": "コンゴのエボラ死者5000人超える",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601084?source=rss",
-      "publishedAt": "2026-11-02T10:03:01.000Z",
-      "xQuery": "10月気温 過去2番目の暑さだった"
+      "url": "https://news.yahoo.co.jp/pickup/6601072?source=rss",
+      "publishedAt": "2026-11-02T08:17:09.000Z",
+      "xQuery": "コンゴのエボラ死者5000人超える"
     },
     {
       "time": "20:50",
