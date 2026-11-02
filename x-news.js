@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-02T04:14:01.413Z",
+  "updatedAt": "2026-11-02T04:35:50.951Z",
   "items": [
     {
-      "time": "10:22",
-      "title": "防災庁 事前防災の徹底を緊急要請",
+      "time": "13:11",
+      "title": "防災相 世界一の防災大国を目指す",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601031?source=rss",
-      "publishedAt": "2026-11-02T01:22:57.000Z",
-      "xQuery": "防災庁 事前防災の徹底を緊急要請"
+      "url": "https://news.yahoo.co.jp/pickup/6601050?source=rss",
+      "publishedAt": "2026-11-02T04:11:59.000Z",
+      "xQuery": "防災相 世界一の防災大国を目指す"
     },
     {
       "time": "11:38",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "盗まれた高級腕時計 宅配便で返却"
     },
     {
-      "time": "11:29",
-      "title": "官邸襲撃事件 被告は全て争う方針",
+      "time": "12:13",
+      "title": "同僚から盗撮被害 会社を訴えた訳",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601039?source=rss",
-      "publishedAt": "2026-11-02T02:29:09.000Z",
-      "xQuery": "官邸襲撃事件 被告は全て争う方針"
+      "url": "https://news.yahoo.co.jp/pickup/6601046?source=rss",
+      "publishedAt": "2026-11-02T03:13:14.000Z",
+      "xQuery": "同僚から盗撮被害 会社を訴えた訳"
     }
   ]
 };

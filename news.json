@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T04:14:00.670Z",
+  "updatedAt": "2026-11-02T04:35:50.209Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,18 +17,18 @@
         "publishedAt": "2026-11-01T22:30:00.000Z"
       },
       {
-        "time": "06:48",
-        "title": "[エディターズノートvol.32]工作機械の“自動化革新”は止まらない",
-        "source": "robot digest",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE04dXVJZmVUc3B6M3F6R3RNeTdFT2dPRVdjMkstRHo0NXNmSmFrSE84WXpzNTdIRl9MSlM5Z1c4eWc0T2diakJ2RHgwcWM0UEY2eVpWVTdIRmZtSE1Pc1hlQTVmN2hFNU1UOFM0?oc=5",
-        "publishedAt": "2026-11-01T21:48:05.000Z"
-      },
-      {
         "time": "10:43",
         "title": "【レポート】「JIMTOF2026（第33回日本国際工作機械見本市）」が東京ビッグサイトで開催",
         "source": "展示会とMICE",
         "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5pbHN3Mks0dzZaNzk5TkhmVnhkUi1Ea2xtNHRhMEpWMWR0Sm02cEowS0ZYeFZGRWhVRlAtU0NiR3ZfTFFZRU9PT0x3?oc=5",
         "publishedAt": "2026-11-02T01:43:47.000Z"
+      },
+      {
+        "time": "06:48",
+        "title": "[エディターズノートvol.32]工作機械の“自動化革新”は止まらない",
+        "source": "robot digest",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE04dXVJZmVUc3B6M3F6R3RNeTdFT2dPRVdjMkstRHo0NXNmSmFrSE84WXpzNTdIRl9MSlM5Z1c4eWc0T2diakJ2RHgwcWM0UEY2eVpWVTdIRmZtSE1Pc1hlQTVmN2hFNU1UOFM0?oc=5",
+        "publishedAt": "2026-11-01T21:48:05.000Z"
       },
       {
         "time": "08:28",
@@ -52,11 +52,11 @@
         "publishedAt": "2026-11-01T22:04:39.000Z"
       },
       {
-        "time": "17:10",
-        "title": "次世代設備保全クラウドの株式会社M2X、三和罐詰株式会社の導入事例を公開",
-        "source": "時事ドットコム",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE82V3NTTVNGV0NDeEY4S01LY0tvNXA2SlQwNjlPN1lzUVZtaHdoWE0yOTJNb3JJZ3hMVVhXUXJxWmc5Vk1yLVB3Rm11XzNSN2VuUXBqM1lNcnhXTUdrcTZVWlA4QjhwU284MzBF?oc=5",
-        "publishedAt": "2026-11-01T08:10:00.000Z"
+        "time": "10:31",
+        "title": "サンワテクノス---中間期は営業利益2倍超、通期予想を上方修正し増配",
+        "source": "ｄメニューニュース",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPd0FOMXY2VWRzc0loTDFLekdzaUFhX09tdktIYXFtQlI4WW5LTDRxcTdaSGJMandxUWdMV3I1aXRCSGp4cnN1NnFwSDQwYlNHQzdhcnpYVkkwR2dBa0RZWUhybmVENEZ2N3hkTFhxRFh3V0MyOGpBZU43QlY3UmpmZFFVOEJlT1l1eV8yetIBjAFBVV95cUxPd0FOMXY2VWRzc0loTDFLekdzaUFhX09tdktIYXFtQlI4WW5LTDRxcTdaSGJMandxUWdMV3I1aXRCSGp4cnN1NnFwSDQwYlNHQzdhcnpYVkkwR2dBa0RZWUhybmVENEZ2N3hkTFhxRFh3V0MyOGpBZU43QlY3UmpmZFFVOEJlT1l1eV8yeg?oc=5",
+        "publishedAt": "2026-11-02T01:31:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -170,11 +170,11 @@
         "publishedAt": "2026-11-02T02:47:36.000Z"
       },
       {
-        "time": "21:37",
-        "title": "釣り人が海に転落 1人死亡1人不明",
+        "time": "13:13",
+        "title": "釣り中に海転落 不明の1人も死亡",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600994?source=rss",
-        "publishedAt": "2026-11-01T12:37:07.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6601051?source=rss",
+        "publishedAt": "2026-11-02T04:13:55.000Z"
       },
       {
         "time": "08:48",
