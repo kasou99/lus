@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T13:35:43.747Z",
+  "updatedAt": "2026-11-02T14:13:37.164Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,13 +38,6 @@
         "publishedAt": "2026-11-01T23:28:47.000Z"
       },
       {
-        "time": "14:48",
-        "title": "精密スプリング製作所がＥＶ部品製造参入へ 自社技術応用、安価な複合材研究",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1jUnppR2hTeXR6Y1NmZ1ZZSUpSQVlxVldYZ205QTNWOFpwYUxtRERvLTVVc1Z3Zm9yWC1RbFUycHJNRUVlQ29BbmpOMXlKU1RnWnVvbE9lR09mMWhXUlhyemhyQndDUldtNGZhamFnUjV6NjViakhB?oc=5",
-        "publishedAt": "2026-11-02T05:48:50.000Z"
-      },
-      {
         "time": "15:30",
         "title": "セイワホールディングス[523A]：株式会社美山理研工業の株式取得及び当社グループへの参画（子会社化）に関するお知らせ 2026年11月2日(適時開示) ：日経会社情報DIGITAL",
         "source": "日本経済新聞",
@@ -57,6 +50,13 @@
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE91cVh1Nm5VOUlzMXE3ZHBwclY3UlpDRXNKYnlqRFJjSm5Ld3pSbmQwSEJUcm9jWGVtMnU1ekE3Zmloa3YzbVlHRGp4Ulp0NWI5N2lfQ29XdHE?oc=5",
         "publishedAt": "2026-11-01T20:00:00.000Z"
+      },
+      {
+        "time": "10:32",
+        "title": "インド南部チェンナイで風力発電展示会が開催、中国企業の存在感拡大(インド、中国) | ビジネス短信",
+        "source": "ジェトロ（日本貿易振興機構）",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1rRDRPM08tSnRXbE9PLURzRlF4UV9wR1A4YzloeVUwUWQyRXhYWVV1N0VOR01LWVpYTHJsVFZPVFlIQkQxcjZnbFVDZC1UNTRIZC0tZzI2R2dBaHJBSVF1RmZSbG1IOXBrUF9CNHNB?oc=5",
+        "publishedAt": "2026-11-02T01:32:05.000Z"
       }
     ],
     "worldHeadlines": [
@@ -133,18 +133,18 @@
         "publishedAt": "2026-11-02T00:21:39.000Z"
       },
       {
-        "time": "21:59",
-        "title": "望月衣塑子記者の対談本 回収へ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600996?source=rss",
-        "publishedAt": "2026-11-01T12:59:35.000Z"
-      },
-      {
         "time": "12:13",
         "title": "同僚から盗撮被害 会社を訴えた訳",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601046?source=rss",
         "publishedAt": "2026-11-02T03:13:14.000Z"
+      },
+      {
+        "time": "12:09",
+        "title": "サラダが主食? 専門店の市場拡大",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6601045?source=rss",
+        "publishedAt": "2026-11-02T03:09:09.000Z"
       }
     ],
     "localHeadlines": [

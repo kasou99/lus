@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-02T13:35:44.714Z",
+  "updatedAt": "2026-11-02T14:13:37.953Z",
   "items": [
     {
       "time": "20:45",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "GMO熊谷社長会見 涙浮かべ陳謝"
     },
     {
+      "time": "22:26",
+      "title": "ノジマ 700万人分の個人情報流出",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601104?source=rss",
+      "publishedAt": "2026-11-02T13:26:39.000Z",
+      "xQuery": "ノジマ 700万人分の個人情報流出"
+    },
+    {
       "time": "21:16",
       "title": "車と衝突 バイクの中学生が重体",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6601097?source=rss",
       "publishedAt": "2026-11-02T12:16:02.000Z",
       "xQuery": "車と衝突 バイクの中学生が重体"
-    },
-    {
-      "time": "22:00",
-      "title": "刑務所で46人食中毒 9月にも発生",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601102?source=rss",
-      "publishedAt": "2026-11-02T13:00:20.000Z",
-      "xQuery": "刑務所で46人食中毒 9月にも発生"
     }
   ]
 };
