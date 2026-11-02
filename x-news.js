@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-02T23:10:00.265Z",
+  "updatedAt": "2026-11-02T23:35:15.666Z",
   "items": [
     {
       "time": "07:45",
@@ -8,6 +8,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6601118?source=rss",
       "publishedAt": "2026-11-02T22:45:59.000Z",
       "xQuery": "米中間選挙 今夜から全米で投票"
+    },
+    {
+      "time": "07:44",
+      "title": "転換期の憲法論議 発議見通せず",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601117?source=rss",
+      "publishedAt": "2026-11-02T22:44:28.000Z",
+      "xQuery": "転換期の憲法論議 発議見通せず"
     },
     {
       "time": "08:06",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "スペイン列車事故 邦人死亡2人に"
     },
     {
-      "time": "07:47",
-      "title": "関東で濃霧発生 車の運転など注意",
+      "time": "07:40",
+      "title": "北朝鮮 バイナンス巡り関与否定",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601119?source=rss",
-      "publishedAt": "2026-11-02T22:47:09.000Z",
-      "xQuery": "関東で濃霧発生 車の運転など注意"
-    },
-    {
-      "time": "07:29",
-      "title": "医療インバウンド 厚労省が検証へ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601113?source=rss",
-      "publishedAt": "2026-11-02T22:29:06.000Z",
-      "xQuery": "医療インバウンド 厚労省が検証へ"
+      "url": "https://news.yahoo.co.jp/pickup/6601116?source=rss",
+      "publishedAt": "2026-11-02T22:40:52.000Z",
+      "xQuery": "北朝鮮 バイナンス巡り関与否定"
     }
   ]
 };
