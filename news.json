@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T18:14:07.287Z",
+  "updatedAt": "2026-11-02T18:35:15.531Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,11 +38,18 @@
         "publishedAt": "2026-11-01T23:28:47.000Z"
       },
       {
-        "time": "01:40",
-        "title": "【台湾情報】台湾半導体材料の現地調達が加速！日台企業の提携最前線などを解説する＜ワイズリサーチ最新レポート＞",
+        "time": "05:10",
+        "title": "次世代設備保全クラウドの株式会社M2X、三和罐詰株式会社の導入事例を公開",
         "source": "時事ドットコム",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1aTVNtYWlTdEs2dm80RC1mbW5lTUtBeUxoOVhOM2JOQmZtR003c0loVzJlR1VVWHQzME4wclhtTHVTOHpjajM4ZDZlNWlmTnU2ODJhdVlHejlXa1o5YU4zclJlalQ4YzhuSWlF?oc=5",
-        "publishedAt": "2026-11-02T16:40:00.000Z"
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE82V3NTTVNGV0NDeEY4S01LY0tvNXA2SlQwNjlPN1lzUVZtaHdoWE0yOTJNb3JJZ3hMVVhXUXJxWmc5Vk1yLVB3Rm11XzNSN2VuUXBqM1lNcnhXTUdrcTZVWlA4QjhwU284MzBF?oc=5",
+        "publishedAt": "2026-11-01T20:10:00.000Z"
+      },
+      {
+        "time": "05:00",
+        "title": "EMOミラノ、フィジカルAI焦点 来年10月開催",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE91cVh1Nm5VOUlzMXE3ZHBwclY3UlpDRXNKYnlqRFJjSm5Ld3pSbmQwSEJUcm9jWGVtMnU1ekE3Zmloa3YzbVlHRGp4Ulp0NWI5N2lfQ29XdHE?oc=5",
+        "publishedAt": "2026-11-01T20:00:00.000Z"
       },
       {
         "time": "15:30",
@@ -50,13 +57,6 @@
         "source": "日本経済新聞",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1qb1pLTFByUlJ1YmQzRHUxYUx3VjRmOFNWeS1zNE5TN2RfNnBXZGg2NGdnaWMwU1JDSzJEdlM0aUl4ajRSblJZb3RFWDVaNG1YWDhib01vZmo1WGp2Vkg5bjhpcGZRYzJHT3c?oc=5",
         "publishedAt": "2026-11-02T06:30:00.000Z"
-      },
-      {
-        "time": "18:04",
-        "title": "【長岡市の企業2社が経営行き詰まり】産業用装置メーカーと関連会社、事後処理を弁護士に一任",
-        "source": "にいがた経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE45U1dWR1VkZnFWc1hZT1BfQ3NQbHM3c3NOYjd5MW5fVVN2ZE41OVQxaVRfQ3VueWpLNk9TSW1OdTk2dDVZ?oc=5",
-        "publishedAt": "2026-11-02T09:04:48.000Z"
       }
     ],
     "worldHeadlines": [
