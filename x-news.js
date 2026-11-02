@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-02T08:35:35.835Z",
+  "updatedAt": "2026-11-02T09:16:49.346Z",
   "items": [
+    {
+      "time": "17:12",
+      "title": "MAGA派を鼓舞 トランプ氏に焦り",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601071?source=rss",
+      "publishedAt": "2026-11-02T08:12:10.000Z",
+      "xQuery": "MAGA派を鼓舞 トランプ氏に焦り"
+    },
     {
       "time": "15:27",
       "title": "中継 GMO熊谷社長らが記者会見",
@@ -18,20 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "GMO社長「社内指摘を生かせず」"
     },
     {
-      "time": "17:03",
-      "title": "「アララ」不審メール713万通確認",
+      "time": "17:25",
+      "title": "サントリーHD 10万人分漏えい",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601070?source=rss",
-      "publishedAt": "2026-11-02T08:03:42.000Z",
-      "xQuery": "「アララ」不審メール713万通確認"
-    },
-    {
-      "time": "17:12",
-      "title": "MAGA派を鼓舞 トランプ氏に焦り",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601071?source=rss",
-      "publishedAt": "2026-11-02T08:12:10.000Z",
-      "xQuery": "MAGA派を鼓舞 トランプ氏に焦り"
+      "url": "https://news.yahoo.co.jp/pickup/6601074?source=rss",
+      "publishedAt": "2026-11-02T08:25:54.000Z",
+      "xQuery": "サントリーHD 10万人分漏えい"
     },
     {
       "time": "15:51",

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T08:35:34.786Z",
+  "updatedAt": "2026-11-02T09:16:47.998Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,18 +38,11 @@
         "publishedAt": "2026-11-01T23:28:47.000Z"
       },
       {
-        "time": "05:00",
-        "title": "EMOミラノ、フィジカルAI焦点 来年10月開催",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE91cVh1Nm5VOUlzMXE3ZHBwclY3UlpDRXNKYnlqRFJjSm5Ld3pSbmQwSEJUcm9jWGVtMnU1ekE3Zmloa3YzbVlHRGp4Ulp0NWI5N2lfQ29XdHE?oc=5",
-        "publishedAt": "2026-11-01T20:00:00.000Z"
-      },
-      {
-        "time": "15:00",
-        "title": "DMG森精機、ポーランド新工場で鋳物供給網強化",
-        "source": "LOGISTICS TODAY",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9GckVPTHc2R1ZIR0lkYXVpLTQyVnFhdEpnQTN2Qy1aUHBRcVZoT0RCWkRBaWc5WXNCT2Z4SVBrUjJpaDJPNkNSMWNn?oc=5",
-        "publishedAt": "2026-11-02T06:00:22.000Z"
+        "time": "18:05",
+        "title": "【長岡市の企業2社が経営行き詰まり】産業用装置メーカーと関連会社、事後処理を弁護士に一任",
+        "source": "にいがた経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE45U1dWR1VkZnFWc1hZT1BfQ3NQbHM3c3NOYjd5MW5fVVN2ZE41OVQxaVRfQ3VueWpLNk9TSW1OdTk2dDVZ?oc=5",
+        "publishedAt": "2026-11-02T09:05:21.000Z"
       },
       {
         "time": "14:35",
@@ -57,6 +50,13 @@
         "source": "アットエス",
         "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1lU3FOcXpRNUhaN0VqVWc2d05Eei1CQWtfZy1pWWJGMzVVdklEVXFwTXRGMFd1MDlBQTBFOWphQU5RaTQ1ZU4tUnFrX2JRcHVfSTR3NA?oc=5",
         "publishedAt": "2026-11-02T05:35:09.000Z"
+      },
+      {
+        "time": "05:00",
+        "title": "EMOミラノ、フィジカルAI焦点 来年10月開催",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE91cVh1Nm5VOUlzMXE3ZHBwclY3UlpDRXNKYnlqRFJjSm5Ld3pSbmQwSEJUcm9jWGVtMnU1ekE3Zmloa3YzbVlHRGp4Ulp0NWI5N2lfQ29XdHE?oc=5",
+        "publishedAt": "2026-11-01T20:00:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -112,11 +112,11 @@
         "publishedAt": "2026-11-02T03:39:43.000Z"
       },
       {
-        "time": "07:44",
-        "title": "金型の無償保管 公取委勧告が急増",
+        "time": "18:03",
+        "title": "SBIとフジHDが資本業務提携 発表",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601015?source=rss",
-        "publishedAt": "2026-11-01T22:44:39.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6601077?source=rss",
+        "publishedAt": "2026-11-02T09:03:31.000Z"
       },
       {
         "time": "09:21",
@@ -163,6 +163,13 @@
         "publishedAt": "2026-11-02T02:29:09.000Z"
       },
       {
+        "time": "17:40",
+        "title": "特殊詐欺Gのリーダーか 男を逮捕",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6601076?source=rss",
+        "publishedAt": "2026-11-02T08:40:23.000Z"
+      },
+      {
         "time": "14:25",
         "title": "盗難の高級腕時計戻る わび状同封",
         "source": "Yahoo!ニュース",
@@ -175,13 +182,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601064?source=rss",
         "publishedAt": "2026-11-02T06:51:51.000Z"
-      },
-      {
-        "time": "13:13",
-        "title": "釣り中に海転落 不明の1人も死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601051?source=rss",
-        "publishedAt": "2026-11-02T04:13:55.000Z"
       },
       {
         "time": "08:48",
