@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-02T10:36:04.451Z",
+  "updatedAt": "2026-11-02T11:10:33.500Z",
   "items": [
     {
       "time": "15:42",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "防衛費5年で70-80兆円案 政府与党"
     },
     {
-      "time": "18:24",
-      "title": "GMO熊谷社長ら 報酬を3カ月減額",
+      "time": "19:51",
+      "title": "GMO攻撃 警視庁が捜査本部設置",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601082?source=rss",
-      "publishedAt": "2026-11-02T09:24:53.000Z",
-      "xQuery": "GMO熊谷社長ら 報酬を3カ月減額"
+      "url": "https://news.yahoo.co.jp/pickup/6601090?source=rss",
+      "publishedAt": "2026-11-02T10:51:11.000Z",
+      "xQuery": "GMO攻撃 警視庁が捜査本部設置"
     },
     {
       "time": "19:33",
