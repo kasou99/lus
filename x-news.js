@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-02T04:35:50.951Z",
+  "updatedAt": "2026-11-02T05:12:31.141Z",
   "items": [
     {
       "time": "13:11",
@@ -10,12 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "防災相 世界一の防災大国を目指す"
     },
     {
-      "time": "11:38",
-      "title": "人質をとり立てこもり疑い 男逮捕",
+      "time": "11:11",
+      "title": "提供精子で誕生 子どもにどう告知",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601041?source=rss",
-      "publishedAt": "2026-11-02T02:38:54.000Z",
-      "xQuery": "人質をとり立てこもり疑い 男逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6601035?source=rss",
+      "publishedAt": "2026-11-02T02:11:19.000Z",
+      "xQuery": "提供精子で誕生 子どもにどう告知"
+    },
+    {
+      "time": "13:54",
+      "title": "「アララ」7700万件のメアド流出",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601057?source=rss",
+      "publishedAt": "2026-11-02T04:54:46.000Z",
+      "xQuery": "「アララ」7700万件のメアド流出"
     },
     {
       "time": "12:39",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "フラット35 金利3.81%で過去2番目"
     },
     {
-      "time": "11:47",
-      "title": "盗まれた高級腕時計 宅配便で返却",
+      "time": "13:13",
+      "title": "釣り中に海転落 不明の1人も死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601043?source=rss",
-      "publishedAt": "2026-11-02T02:47:36.000Z",
-      "xQuery": "盗まれた高級腕時計 宅配便で返却"
-    },
-    {
-      "time": "12:13",
-      "title": "同僚から盗撮被害 会社を訴えた訳",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601046?source=rss",
-      "publishedAt": "2026-11-02T03:13:14.000Z",
-      "xQuery": "同僚から盗撮被害 会社を訴えた訳"
+      "url": "https://news.yahoo.co.jp/pickup/6601051?source=rss",
+      "publishedAt": "2026-11-02T04:13:55.000Z",
+      "xQuery": "釣り中に海転落 不明の1人も死亡"
     }
   ]
 };
