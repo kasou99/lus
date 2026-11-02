@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-02T02:16:27.746Z",
+  "updatedAt": "2026-11-02T02:35:57.167Z",
   "items": [
     {
       "time": "10:22",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "住宅に立てこもった男を確保 愛知"
     },
     {
-      "time": "08:45",
-      "title": "スペイン事故 邦人1人の死亡確認",
+      "time": "09:50",
+      "title": "ハロウィン繁華街で銃撃相次ぐ 米",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601023?source=rss",
-      "publishedAt": "2026-11-01T23:45:06.000Z",
-      "xQuery": "スペイン事故 邦人1人の死亡確認"
+      "url": "https://news.yahoo.co.jp/pickup/6601027?source=rss",
+      "publishedAt": "2026-11-02T00:50:13.000Z",
+      "xQuery": "ハロウィン繁華街で銃撃相次ぐ 米"
     }
   ]
 };

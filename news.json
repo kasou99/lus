@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T02:16:26.671Z",
+  "updatedAt": "2026-11-02T02:35:56.153Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -156,6 +156,13 @@
         "publishedAt": "2026-11-02T02:06:57.000Z"
       },
       {
+        "time": "11:29",
+        "title": "官邸襲撃事件 被告は全て争う方針",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6601039?source=rss",
+        "publishedAt": "2026-11-02T02:29:09.000Z"
+      },
+      {
         "time": "21:37",
         "title": "釣り人が海に転落 1人死亡1人不明",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601020?source=rss",
         "publishedAt": "2026-11-01T23:32:20.000Z"
-      },
-      {
-        "time": "11:45",
-        "title": "クマ放獣3日で出戻り 秦野市驚き",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6600922?source=rss",
-        "publishedAt": "2026-11-01T02:45:31.000Z"
       }
     ],
     "subsidyHeadlines": [
