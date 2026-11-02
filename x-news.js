@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-02T03:35:36.588Z",
+  "updatedAt": "2026-11-02T04:14:01.413Z",
   "items": [
     {
       "time": "10:22",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "防災庁 事前防災の徹底を緊急要請"
     },
     {
-      "time": "11:29",
-      "title": "官邸襲撃事件 被告は全て争う方針",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601039?source=rss",
-      "publishedAt": "2026-11-02T02:29:09.000Z",
-      "xQuery": "官邸襲撃事件 被告は全て争う方針"
-    },
-    {
       "time": "11:38",
       "title": "人質をとり立てこもり疑い 男逮捕",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6601041?source=rss",
       "publishedAt": "2026-11-02T02:38:54.000Z",
       "xQuery": "人質をとり立てこもり疑い 男逮捕"
+    },
+    {
+      "time": "12:39",
+      "title": "フラット35 金利3.81%で過去2番目",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601048?source=rss",
+      "publishedAt": "2026-11-02T03:39:43.000Z",
+      "xQuery": "フラット35 金利3.81%で過去2番目"
     },
     {
       "time": "11:47",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "盗まれた高級腕時計 宅配便で返却"
     },
     {
-      "time": "12:13",
-      "title": "同僚から盗撮被害 会社を訴えた訳",
+      "time": "11:29",
+      "title": "官邸襲撃事件 被告は全て争う方針",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601046?source=rss",
-      "publishedAt": "2026-11-02T03:13:14.000Z",
-      "xQuery": "同僚から盗撮被害 会社を訴えた訳"
+      "url": "https://news.yahoo.co.jp/pickup/6601039?source=rss",
+      "publishedAt": "2026-11-02T02:29:09.000Z",
+      "xQuery": "官邸襲撃事件 被告は全て争う方針"
     }
   ]
 };
