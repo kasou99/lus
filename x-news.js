@@ -1,21 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-02T06:26:22.735Z",
+  "updatedAt": "2026-11-02T06:46:46.554Z",
   "items": [
     {
-      "time": "13:11",
-      "title": "防災相 世界一の防災大国を目指す",
+      "time": "15:27",
+      "title": "中継 GMO熊谷社長らが記者会見",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601050?source=rss",
-      "publishedAt": "2026-11-02T04:11:59.000Z",
-      "xQuery": "防災相 世界一の防災大国を目指す"
-    },
-    {
-      "time": "13:32",
-      "title": "文科相 東大学長の選考理由不明確",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601053?source=rss",
-      "publishedAt": "2026-11-02T04:32:41.000Z",
-      "xQuery": "文科相 東大学長の選考理由不明確"
+      "url": "https://news.yahoo.co.jp/pickup/6601060?source=rss",
+      "publishedAt": "2026-11-02T06:27:57.000Z",
+      "xQuery": "中継 GMO熊谷社長らが記者会見"
     },
     {
       "time": "15:20",
@@ -24,6 +16,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6601061?source=rss",
       "publishedAt": "2026-11-02T06:20:07.000Z",
       "xQuery": "露首都テロ計画巡り 少年1人拘束"
+    },
+    {
+      "time": "13:32",
+      "title": "文科相 東大学長の選考理由不明確",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601053?source=rss",
+      "publishedAt": "2026-11-02T04:32:41.000Z",
+      "xQuery": "文科相 東大学長の選考理由不明確"
     },
     {
       "time": "13:54",
