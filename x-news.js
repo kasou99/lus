@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-02T05:36:17.620Z",
+  "updatedAt": "2026-11-02T06:26:22.735Z",
   "items": [
     {
       "time": "13:11",
@@ -10,12 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "防災相 世界一の防災大国を目指す"
     },
     {
-      "time": "11:11",
-      "title": "提供精子で誕生 子どもにどう告知",
+      "time": "13:32",
+      "title": "文科相 東大学長の選考理由不明確",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601035?source=rss",
-      "publishedAt": "2026-11-02T02:11:19.000Z",
-      "xQuery": "提供精子で誕生 子どもにどう告知"
+      "url": "https://news.yahoo.co.jp/pickup/6601053?source=rss",
+      "publishedAt": "2026-11-02T04:32:41.000Z",
+      "xQuery": "文科相 東大学長の選考理由不明確"
+    },
+    {
+      "time": "15:20",
+      "title": "露首都テロ計画巡り 少年1人拘束",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601061?source=rss",
+      "publishedAt": "2026-11-02T06:20:07.000Z",
+      "xQuery": "露首都テロ計画巡り 少年1人拘束"
     },
     {
       "time": "13:54",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "「アララ」7700万件のメアド流出"
     },
     {
-      "time": "12:39",
-      "title": "フラット35 金利3.81%で過去2番目",
+      "time": "14:25",
+      "title": "盗難の高級腕時計戻る わび状同封",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601048?source=rss",
-      "publishedAt": "2026-11-02T03:39:43.000Z",
-      "xQuery": "フラット35 金利3.81%で過去2番目"
-    },
-    {
-      "time": "13:13",
-      "title": "釣り中に海転落 不明の1人も死亡",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601051?source=rss",
-      "publishedAt": "2026-11-02T04:13:55.000Z",
-      "xQuery": "釣り中に海転落 不明の1人も死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6601058?source=rss",
+      "publishedAt": "2026-11-02T05:25:12.000Z",
+      "xQuery": "盗難の高級腕時計戻る わび状同封"
     }
   ]
 };
