@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-02T00:32:25.443Z",
+  "updatedAt": "2026-11-02T01:12:49.497Z",
   "items": [
     {
       "time": "07:56",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "スペイン事故 邦人1人の死亡確認"
     },
     {
-      "time": "07:58",
-      "title": "内閣の支持率64.9%に上昇 JNN",
+      "time": "10:02",
+      "title": "刃物持った男が立てこもる 東海市",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601017?source=rss",
-      "publishedAt": "2026-11-01T22:58:35.000Z",
-      "xQuery": "内閣の支持率64.9%に上昇 JNN"
+      "url": "https://news.yahoo.co.jp/pickup/6601029?source=rss",
+      "publishedAt": "2026-11-02T01:02:25.000Z",
+      "xQuery": "刃物持った男が立てこもる 東海市"
     },
     {
-      "time": "08:48",
-      "title": "住宅火災 焼け跡から3人の遺体",
+      "time": "08:21",
+      "title": "私立高の学校納付金2倍 NGO調査",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601022?source=rss",
-      "publishedAt": "2026-11-01T23:48:51.000Z",
-      "xQuery": "住宅火災 焼け跡から3人の遺体"
+      "url": "https://news.yahoo.co.jp/pickup/6601019?source=rss",
+      "publishedAt": "2026-11-01T23:21:23.000Z",
+      "xQuery": "私立高の学校納付金2倍 NGO調査"
     }
   ]
 };
