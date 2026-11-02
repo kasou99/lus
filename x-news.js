@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-02T09:35:20.444Z",
+  "updatedAt": "2026-11-02T10:11:58.515Z",
   "items": [
+    {
+      "time": "15:42",
+      "title": "防衛費5年で70-80兆円案 政府与党",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601063?source=rss",
+      "publishedAt": "2026-11-02T06:42:05.000Z",
+      "xQuery": "防衛費5年で70-80兆円案 政府与党"
+    },
     {
       "time": "17:12",
       "title": "MAGA派を鼓舞 トランプ氏に焦り",
@@ -10,36 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "MAGA派を鼓舞 トランプ氏に焦り"
     },
     {
-      "time": "15:27",
-      "title": "中継 GMO熊谷社長らが記者会見",
+      "time": "18:57",
+      "title": "GMO社長 自身のSNS投稿も謝罪",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601060?source=rss",
-      "publishedAt": "2026-11-02T06:27:57.000Z",
-      "xQuery": "中継 GMO熊谷社長らが記者会見"
+      "url": "https://news.yahoo.co.jp/pickup/6601083?source=rss",
+      "publishedAt": "2026-11-02T09:57:02.000Z",
+      "xQuery": "GMO社長 自身のSNS投稿も謝罪"
     },
     {
-      "time": "17:27",
-      "title": "GMO社長「社内指摘を生かせず」",
+      "time": "18:24",
+      "title": "GMO熊谷社長ら 報酬を3カ月減額",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601069?source=rss",
-      "publishedAt": "2026-11-02T08:27:10.000Z",
-      "xQuery": "GMO社長「社内指摘を生かせず」"
+      "url": "https://news.yahoo.co.jp/pickup/6601082?source=rss",
+      "publishedAt": "2026-11-02T09:24:53.000Z",
+      "xQuery": "GMO熊谷社長ら 報酬を3カ月減額"
     },
     {
-      "time": "13:54",
-      "title": "「アララ」7700万件のメアド流出",
+      "time": "17:40",
+      "title": "特殊詐欺Gのリーダーか 男を逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601057?source=rss",
-      "publishedAt": "2026-11-02T04:54:46.000Z",
-      "xQuery": "「アララ」7700万件のメアド流出"
-    },
-    {
-      "time": "15:51",
-      "title": "窓の清掃中にビルから転落 死亡",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601064?source=rss",
-      "publishedAt": "2026-11-02T06:51:51.000Z",
-      "xQuery": "窓の清掃中にビルから転落 死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6601076?source=rss",
+      "publishedAt": "2026-11-02T08:40:23.000Z",
+      "xQuery": "特殊詐欺Gのリーダーか 男を逮捕"
     }
   ]
 };
