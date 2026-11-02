@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-02T07:35:43.147Z",
+  "updatedAt": "2026-11-02T08:17:44.803Z",
   "items": [
     {
       "time": "15:27",
@@ -18,28 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "GMO社長 会見で情報流出を謝罪"
     },
     {
-      "time": "13:54",
-      "title": "「アララ」7700万件のメアド流出",
+      "time": "17:03",
+      "title": "「アララ」不審メール713万通確認",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601057?source=rss",
-      "publishedAt": "2026-11-02T04:54:46.000Z",
-      "xQuery": "「アララ」7700万件のメアド流出"
+      "url": "https://news.yahoo.co.jp/pickup/6601070?source=rss",
+      "publishedAt": "2026-11-02T08:03:42.000Z",
+      "xQuery": "「アララ」不審メール713万通確認"
     },
     {
-      "time": "15:20",
-      "title": "露首都テロ計画巡り 少年1人拘束",
+      "time": "14:25",
+      "title": "盗難の高級腕時計戻る わび状同封",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601061?source=rss",
-      "publishedAt": "2026-11-02T06:20:07.000Z",
-      "xQuery": "露首都テロ計画巡り 少年1人拘束"
+      "url": "https://news.yahoo.co.jp/pickup/6601058?source=rss",
+      "publishedAt": "2026-11-02T05:25:12.000Z",
+      "xQuery": "盗難の高級腕時計戻る わび状同封"
     },
     {
-      "time": "13:32",
-      "title": "文科相 東大学長の選考理由不明確",
+      "time": "15:51",
+      "title": "窓の清掃中にビルから転落 死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601053?source=rss",
-      "publishedAt": "2026-11-02T04:32:41.000Z",
-      "xQuery": "文科相 東大学長の選考理由不明確"
+      "url": "https://news.yahoo.co.jp/pickup/6601064?source=rss",
+      "publishedAt": "2026-11-02T06:51:51.000Z",
+      "xQuery": "窓の清掃中にビルから転落 死亡"
     }
   ]
 };
