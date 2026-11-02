@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-02T10:11:58.515Z",
+  "updatedAt": "2026-11-02T10:36:04.451Z",
   "items": [
     {
       "time": "15:42",
@@ -10,22 +10,6 @@ window.LUS_X_NEWS = {
       "xQuery": "防衛費5年で70-80兆円案 政府与党"
     },
     {
-      "time": "17:12",
-      "title": "MAGA派を鼓舞 トランプ氏に焦り",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601071?source=rss",
-      "publishedAt": "2026-11-02T08:12:10.000Z",
-      "xQuery": "MAGA派を鼓舞 トランプ氏に焦り"
-    },
-    {
-      "time": "18:57",
-      "title": "GMO社長 自身のSNS投稿も謝罪",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601083?source=rss",
-      "publishedAt": "2026-11-02T09:57:02.000Z",
-      "xQuery": "GMO社長 自身のSNS投稿も謝罪"
-    },
-    {
       "time": "18:24",
       "title": "GMO熊谷社長ら 報酬を3カ月減額",
       "source": "Yahoo!ニュース",
@@ -34,12 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "GMO熊谷社長ら 報酬を3カ月減額"
     },
     {
+      "time": "19:33",
+      "title": "GMO社長 自身のSNS休止に言及",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601087?source=rss",
+      "publishedAt": "2026-11-02T10:33:44.000Z",
+      "xQuery": "GMO社長 自身のSNS休止に言及"
+    },
+    {
       "time": "17:40",
       "title": "特殊詐欺Gのリーダーか 男を逮捕",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6601076?source=rss",
       "publishedAt": "2026-11-02T08:40:23.000Z",
       "xQuery": "特殊詐欺Gのリーダーか 男を逮捕"
+    },
+    {
+      "time": "15:51",
+      "title": "窓の清掃中にビルから転落 死亡",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601064?source=rss",
+      "publishedAt": "2026-11-02T06:51:51.000Z",
+      "xQuery": "窓の清掃中にビルから転落 死亡"
     }
   ]
 };
