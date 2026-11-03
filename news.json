@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T21:09:42.081Z",
+  "updatedAt": "2026-11-03T21:35:14.290Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -10,13 +10,6 @@
         "publishedAt": "2026-11-03T20:00:00.000Z"
       },
       {
-        "time": "05:00",
-        "title": "回収装置に新製品２機種 永進テクノ、分離能力が向上",
-        "source": "中部経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1kR2d1MFFFY1V1Vm9CeWZkX2V4SThZbll0Y09Bellvb0R4MGxUNEstLWZiMUxhWE5BTlJnMWFsQ0E2RVZUdW10SjRxbDhpREYzT1l5dlZuaDVUYlViVS1ycFI2ZXhqTFdUa0lKaUtzR3BFNFk?oc=5",
-        "publishedAt": "2026-11-03T20:00:00.000Z"
-      },
-      {
         "time": "07:49",
         "title": "中国・平湖市、日本で工作機械産業を訴求",
         "source": "LOGISTICS TODAY",
@@ -24,11 +17,18 @@
         "publishedAt": "2026-11-02T22:49:16.000Z"
       },
       {
-        "time": "20:39",
-        "title": "【探訪ザ・カンパニー】オーザック（福山市）安全支えるワイヤ金具",
+        "time": "05:00",
+        "title": "回収装置に新製品２機種 永進テクノ、分離能力が向上",
+        "source": "中部経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1kR2d1MFFFY1V1Vm9CeWZkX2V4SThZbll0Y09Bellvb0R4MGxUNEstLWZiMUxhWE5BTlJnMWFsQ0E2RVZUdW10SjRxbDhpREYzT1l5dlZuaDVUYlViVS1ycFI2ZXhqTFdUa0lKaUtzR3BFNFk?oc=5",
+        "publishedAt": "2026-11-03T20:00:00.000Z"
+      },
+      {
+        "time": "17:41",
+        "title": "電線の端材でストラップ制作 Ｍ．Ｓ．Ｅ．が商品化",
         "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB2YnlPN09iTUcyOGNldkhrT1k5RzQ5M0pLNkE3NkV1YzJxUDFPam9xOTV6dFZva2ZrNHNxNkZIOGYxMXN6R1JyUHFIMXZIamRMT2c?oc=5",
-        "publishedAt": "2026-11-03T11:39:36.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TOThSZjN5eER3TlU3MHo0RE9lLXdpRFVod2Mtams1bFZvcjBKQnpvSFYxMjJPYm5HZVd5RlhtcHlTN3R2OGdVLUs5THBCQVVCWEE?oc=5",
+        "publishedAt": "2026-11-03T08:41:09.000Z"
       },
       {
         "time": "05:00",
@@ -156,6 +156,13 @@
         "publishedAt": "2026-11-03T05:21:41.000Z"
       },
       {
+        "time": "06:21",
+        "title": "路上に血を流した女性 搬送も重体",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6601239?source=rss",
+        "publishedAt": "2026-11-03T21:21:42.000Z"
+      },
+      {
         "time": "21:04",
         "title": "海に新生児とみられる遺体 事件か",
         "source": "Yahoo!ニュース",
@@ -168,13 +175,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601161?source=rss",
         "publishedAt": "2026-11-03T04:22:10.000Z"
-      },
-      {
-        "time": "16:22",
-        "title": "無免許疑いの車にはねられる 重体",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601187?source=rss",
-        "publishedAt": "2026-11-03T07:22:32.000Z"
       },
       {
         "time": "19:38",

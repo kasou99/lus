@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-03T21:09:42.693Z",
+  "updatedAt": "2026-11-03T21:35:15.439Z",
   "items": [
     {
       "time": "23:02",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "露軍 外国人兵に入れ墨で識別番号"
     },
     {
-      "time": "05:36",
-      "title": "山手線外回りが運転再開 駅で発煙",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601237?source=rss",
-      "publishedAt": "2026-11-03T20:36:21.000Z",
-      "xQuery": "山手線外回りが運転再開 駅で発煙"
-    },
-    {
       "time": "21:38",
       "title": "台湾の九份 日本人男性が行方不明",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6601219?source=rss",
       "publishedAt": "2026-11-03T12:38:04.000Z",
       "xQuery": "台湾の九份 日本人男性が行方不明"
+    },
+    {
+      "time": "06:21",
+      "title": "路上に血を流した女性 搬送も重体",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601239?source=rss",
+      "publishedAt": "2026-11-03T21:21:42.000Z",
+      "xQuery": "路上に血を流した女性 搬送も重体"
     }
   ]
 };
