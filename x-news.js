@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-03T12:36:08.742Z",
+  "updatedAt": "2026-11-03T13:11:53.582Z",
   "items": [
     {
       "time": "20:29",
@@ -10,28 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "アメリカ 中間選挙の投票始まる"
     },
     {
-      "time": "20:22",
-      "title": "大阪 ナンバーワン副首都目指す",
+      "time": "21:53",
+      "title": "武部農相 献金巡り新たな疑惑",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601214?source=rss",
-      "publishedAt": "2026-11-03T11:22:43.000Z",
-      "xQuery": "大阪 ナンバーワン副首都目指す"
-    },
-    {
-      "time": "19:23",
-      "title": "豪が追加利上げ 18年ぶり高水準",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601212?source=rss",
-      "publishedAt": "2026-11-03T10:23:11.000Z",
-      "xQuery": "豪が追加利上げ 18年ぶり高水準"
-    },
-    {
-      "time": "20:26",
-      "title": "関東 4日夜-5日に激しい雨の恐れ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601216?source=rss",
-      "publishedAt": "2026-11-03T11:26:01.000Z",
-      "xQuery": "関東 4日夜-5日に激しい雨の恐れ"
+      "url": "https://news.yahoo.co.jp/pickup/6601222?source=rss",
+      "publishedAt": "2026-11-03T12:53:53.000Z",
+      "xQuery": "武部農相 献金巡り新たな疑惑"
     },
     {
       "time": "21:04",
@@ -40,6 +24,22 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6601218?source=rss",
       "publishedAt": "2026-11-03T12:04:59.000Z",
       "xQuery": "海に新生児とみられる遺体 事件か"
+    },
+    {
+      "time": "21:59",
+      "title": "テヘランに「トランプ殺す」看板",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601221?source=rss",
+      "publishedAt": "2026-11-03T12:59:19.000Z",
+      "xQuery": "テヘランに「トランプ殺す」看板"
+    },
+    {
+      "time": "21:38",
+      "title": "台湾の九份 日本人男性が行方不明",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601219?source=rss",
+      "publishedAt": "2026-11-03T12:38:04.000Z",
+      "xQuery": "台湾の九份 日本人男性が行方不明"
     }
   ]
 };
