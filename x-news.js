@@ -1,21 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-03T13:35:59.534Z",
+  "updatedAt": "2026-11-03T14:11:50.279Z",
   "items": [
     {
-      "time": "20:29",
-      "title": "アメリカ 中間選挙の投票始まる",
+      "time": "23:02",
+      "title": "米中間選挙 集計長期化の可能性も",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601217?source=rss",
-      "publishedAt": "2026-11-03T11:29:21.000Z",
-      "xQuery": "アメリカ 中間選挙の投票始まる"
-    },
-    {
-      "time": "18:49",
-      "title": "米共和党 福音派有権者なぜ重要",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601207?source=rss",
-      "publishedAt": "2026-11-03T09:49:11.000Z",
-      "xQuery": "米共和党 福音派有権者なぜ重要"
+      "url": "https://news.yahoo.co.jp/pickup/6601226?source=rss",
+      "publishedAt": "2026-11-03T14:02:50.000Z",
+      "xQuery": "米中間選挙 集計長期化の可能性も"
     },
     {
       "time": "21:53",
@@ -26,6 +18,14 @@ window.LUS_X_NEWS = {
       "xQuery": "武部農相 献金巡り新たな疑惑"
     },
     {
+      "time": "22:29",
+      "title": "イタイイタイ病 最後の原告死去",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601224?source=rss",
+      "publishedAt": "2026-11-03T13:29:57.000Z",
+      "xQuery": "イタイイタイ病 最後の原告死去"
+    },
+    {
       "time": "21:04",
       "title": "海に新生児とみられる遺体 事件か",
       "source": "Yahoo!ニュース",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "海に新生児とみられる遺体 事件か"
     },
     {
-      "time": "21:59",
-      "title": "テヘランに「トランプ殺す」看板",
+      "time": "21:38",
+      "title": "台湾の九份 日本人男性が行方不明",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601221?source=rss",
-      "publishedAt": "2026-11-03T12:59:19.000Z",
-      "xQuery": "テヘランに「トランプ殺す」看板"
+      "url": "https://news.yahoo.co.jp/pickup/6601219?source=rss",
+      "publishedAt": "2026-11-03T12:38:04.000Z",
+      "xQuery": "台湾の九份 日本人男性が行方不明"
     }
   ]
 };
