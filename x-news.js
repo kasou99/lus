@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-03T03:35:49.312Z",
+  "updatedAt": "2026-11-03T04:13:43.817Z",
   "items": [
     {
       "time": "10:59",
@@ -10,12 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "米中間選挙「MAGA」の動向焦点"
     },
     {
-      "time": "11:14",
-      "title": "ICC赤根所長 米政権の制裁を批判",
+      "time": "12:31",
+      "title": "韓国 大統領や高官の個人情報流出",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601146?source=rss",
-      "publishedAt": "2026-11-03T02:14:00.000Z",
-      "xQuery": "ICC赤根所長 米政権の制裁を批判"
+      "url": "https://news.yahoo.co.jp/pickup/6601155?source=rss",
+      "publishedAt": "2026-11-03T03:31:09.000Z",
+      "xQuery": "韓国 大統領や高官の個人情報流出"
+    },
+    {
+      "time": "12:44",
+      "title": "車と地面の間に挟まれる 女性死亡",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601157?source=rss",
+      "publishedAt": "2026-11-03T03:44:59.000Z",
+      "xQuery": "車と地面の間に挟まれる 女性死亡"
     },
     {
       "time": "12:21",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6601143?source=rss",
       "publishedAt": "2026-11-03T01:44:22.000Z",
       "xQuery": "親と縁切る「家族じまい」相談増"
-    },
-    {
-      "time": "11:44",
-      "title": "28年かけ世界一周 英冒険家が帰郷",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601152?source=rss",
-      "publishedAt": "2026-11-03T02:44:09.000Z",
-      "xQuery": "28年かけ世界一周 英冒険家が帰郷"
     }
   ]
 };
