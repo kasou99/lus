@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T06:19:16.088Z",
+  "updatedAt": "2026-11-03T06:39:16.974Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -133,18 +133,18 @@
         "publishedAt": "2026-11-03T01:17:07.000Z"
       },
       {
+        "time": "15:26",
+        "title": "夫より高学歴高収入 妻のモヤモヤ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6601179?source=rss",
+        "publishedAt": "2026-11-03T06:26:15.000Z"
+      },
+      {
         "time": "09:47",
         "title": "子どものセルフレジ操作 SNS賛否",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601135?source=rss",
         "publishedAt": "2026-11-03T00:47:57.000Z"
-      },
-      {
-        "time": "11:47",
-        "title": "きのこの山イヤホン 再販時の配慮",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601151?source=rss",
-        "publishedAt": "2026-11-03T02:47:00.000Z"
       }
     ],
     "localHeadlines": [
@@ -177,18 +177,18 @@
         "publishedAt": "2026-11-03T03:44:59.000Z"
       },
       {
-        "time": "11:17",
-        "title": "阪神高速でトラック横転 単独か",
+        "time": "12:21",
+        "title": "「白米千枚田」イノシシが荒らす",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601149?source=rss",
-        "publishedAt": "2026-11-03T02:17:55.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6601156?source=rss",
+        "publishedAt": "2026-11-03T03:21:09.000Z"
       },
       {
-        "time": "10:46",
-        "title": "反対車線はみ出し車衝突 1人死亡",
+        "time": "15:29",
+        "title": "離婚後極貧 50歳で教員免許を取得",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601144?source=rss",
-        "publishedAt": "2026-11-03T01:46:35.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6601175?source=rss",
+        "publishedAt": "2026-11-03T06:29:13.000Z"
       }
     ],
     "subsidyHeadlines": [

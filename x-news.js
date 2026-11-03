@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-03T06:19:17.069Z",
+  "updatedAt": "2026-11-03T06:39:17.986Z",
   "items": [
     {
       "time": "14:58",
@@ -8,14 +8,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6601173?source=rss",
       "publishedAt": "2026-11-03T05:58:52.000Z",
       "xQuery": "トランプ政権に審判 民主優勢保つ"
-    },
-    {
-      "time": "13:50",
-      "title": "大阪市行政システム 情報漏えいか",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601164?source=rss",
-      "publishedAt": "2026-11-03T04:50:05.000Z",
-      "xQuery": "大阪市行政システム 情報漏えいか"
     },
     {
       "time": "14:46",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6601161?source=rss",
       "publishedAt": "2026-11-03T04:22:10.000Z",
       "xQuery": "車が男性はね海へ転落 運転手死亡"
+    },
+    {
+      "time": "15:26",
+      "title": "夫より高学歴高収入 妻のモヤモヤ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601179?source=rss",
+      "publishedAt": "2026-11-03T06:26:15.000Z",
+      "xQuery": "夫より高学歴高収入 妻のモヤモヤ"
     }
   ]
 };
