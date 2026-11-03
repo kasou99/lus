@@ -1,29 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-03T02:35:47.515Z",
+  "updatedAt": "2026-11-03T03:13:46.115Z",
   "items": [
     {
-      "time": "09:09",
-      "title": "トランプ氏 演説で「口約束」連発",
+      "time": "10:59",
+      "title": "米中間選挙「MAGA」の動向焦点",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601130?source=rss",
-      "publishedAt": "2026-11-03T00:09:15.000Z",
-      "xQuery": "トランプ氏 演説で「口約束」連発"
+      "url": "https://news.yahoo.co.jp/pickup/6601145?source=rss",
+      "publishedAt": "2026-11-03T01:59:48.000Z",
+      "xQuery": "米中間選挙「MAGA」の動向焦点"
     },
     {
-      "time": "10:07",
-      "title": "米・露・ウが10～11日に3者協議",
+      "time": "11:14",
+      "title": "ICC赤根所長 米政権の制裁を批判",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601140?source=rss",
-      "publishedAt": "2026-11-03T01:07:31.000Z",
-      "xQuery": "米・露・ウが10～11日に3者協議"
-    },
-    {
-      "time": "09:06",
-      "title": "GMO 侵入から2カ月なぜ気付かず",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601132?source=rss",
-      "publishedAt": "2026-11-03T00:06:05.000Z",
-      "xQuery": "GMO 侵入から2カ月なぜ気付かず"
+      "url": "https://news.yahoo.co.jp/pickup/6601146?source=rss",
+      "publishedAt": "2026-11-03T02:14:00.000Z",
+      "xQuery": "ICC赤根所長 米政権の制裁を批判"
     },
     {
       "time": "11:17",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6601143?source=rss",
       "publishedAt": "2026-11-03T01:44:22.000Z",
       "xQuery": "親と縁切る「家族じまい」相談増"
+    },
+    {
+      "time": "11:44",
+      "title": "28年かけ世界一周 英冒険家が帰郷",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601152?source=rss",
+      "publishedAt": "2026-11-03T02:44:09.000Z",
+      "xQuery": "28年かけ世界一周 英冒険家が帰郷"
     }
   ]
 };
