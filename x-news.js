@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-03T10:35:55.402Z",
+  "updatedAt": "2026-11-03T11:10:34.083Z",
   "items": [
     {
       "time": "17:12",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "GMOのサーバー「設計上の不備」"
     },
     {
-      "time": "15:29",
-      "title": "離婚後極貧 50歳で教員免許を取得",
+      "time": "19:38",
+      "title": "ゴルフカートにひかれ 女性重傷",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601175?source=rss",
-      "publishedAt": "2026-11-03T06:29:13.000Z",
-      "xQuery": "離婚後極貧 50歳で教員免許を取得"
+      "url": "https://news.yahoo.co.jp/pickup/6601211?source=rss",
+      "publishedAt": "2026-11-03T10:38:44.000Z",
+      "xQuery": "ゴルフカートにひかれ 女性重傷"
     },
     {
       "time": "18:09",

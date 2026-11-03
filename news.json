@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T10:35:54.628Z",
+  "updatedAt": "2026-11-03T11:10:33.285Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -163,13 +163,6 @@
         "publishedAt": "2026-11-03T04:22:10.000Z"
       },
       {
-        "time": "12:44",
-        "title": "車と地面の間に挟まれる 女性死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601157?source=rss",
-        "publishedAt": "2026-11-03T03:44:59.000Z"
-      },
-      {
         "time": "12:21",
         "title": "「白米千枚田」イノシシが荒らす",
         "source": "Yahoo!ニュース",
@@ -182,6 +175,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601187?source=rss",
         "publishedAt": "2026-11-03T07:22:32.000Z"
+      },
+      {
+        "time": "19:38",
+        "title": "ゴルフカートにひかれ 女性重傷",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6601211?source=rss",
+        "publishedAt": "2026-11-03T10:38:44.000Z"
       },
       {
         "time": "15:29",
