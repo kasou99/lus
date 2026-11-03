@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-03T00:29:56.658Z",
+  "updatedAt": "2026-11-03T00:46:59.315Z",
   "items": [
     {
       "time": "09:06",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "露軍がウの学校に空爆 26人死亡"
     },
     {
-      "time": "07:06",
-      "title": "スペイン列車事故 邦人死亡2人に",
+      "time": "08:44",
+      "title": "欧州店舗にサイバー攻撃 食品廃棄",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601111?source=rss",
-      "publishedAt": "2026-11-02T22:06:06.000Z",
-      "xQuery": "スペイン列車事故 邦人死亡2人に"
+      "url": "https://news.yahoo.co.jp/pickup/6601127?source=rss",
+      "publishedAt": "2026-11-02T23:44:18.000Z",
+      "xQuery": "欧州店舗にサイバー攻撃 食品廃棄"
     },
     {
       "time": "07:33",
