@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-03T09:12:32.956Z",
+  "updatedAt": "2026-11-03T09:35:57.096Z",
   "items": [
     {
       "time": "17:12",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "SNS巡る問題 揺らぐ表現の自由"
     },
     {
-      "time": "15:51",
-      "title": "ダークウェブ 日本人の情報流出増",
+      "time": "18:32",
+      "title": "簗氏の出陣式で鉢巻きを無償配布",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601181?source=rss",
-      "publishedAt": "2026-11-03T06:51:21.000Z",
-      "xQuery": "ダークウェブ 日本人の情報流出増"
+      "url": "https://news.yahoo.co.jp/pickup/6601203?source=rss",
+      "publishedAt": "2026-11-03T09:32:23.000Z",
+      "xQuery": "簗氏の出陣式で鉢巻きを無償配布"
     },
     {
       "time": "15:29",
