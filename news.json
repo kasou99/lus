@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T22:35:17.777Z",
+  "updatedAt": "2026-11-03T23:09:42.449Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -24,18 +24,18 @@
         "publishedAt": "2026-11-03T20:00:00.000Z"
       },
       {
-        "time": "07:49",
-        "title": "中国・平湖市、日本で工作機械産業を訴求",
-        "source": "LOGISTICS TODAY",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1QNVE3ZzBSeFNZSWxzSEVZYWlIXzd0dVlLSjJHcFdnWGsxRHZEWE5JaGlJRjczRTN0cG5USFpwV0o5b0pKeTJoZ0lB?oc=5",
-        "publishedAt": "2026-11-02T22:49:16.000Z"
-      },
-      {
         "time": "19:35",
         "title": "電線の端材でストラップ制作 Ｍ．Ｓ．Ｅ．が商品化",
         "source": "山陽新聞",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TOThSZjN5eER3TlU3MHo0RE9lLXdpRFVod2Mtams1bFZvcjBKQnpvSFYxMjJPYm5HZVd5RlhtcHlTN3R2OGdVLUs5THBCQVVCWEE?oc=5",
         "publishedAt": "2026-11-03T10:35:04.000Z"
+      },
+      {
+        "time": "13:30",
+        "title": "高精度油圧式拡張マンドレルの世界市場（2026年～2032年）、市場規模（電動、空圧）・分析レポートを発表",
+        "source": "Newscast.jp",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9RbXJBMHVFME1hd0RfZFZBWTIxRDUyNmRvcnJRY2JKNjlBYjc4WFJCSHUzS1FBbFpOcUUxb3hpaHRDNVdoaTNFbUpJdXdFbzA?oc=5",
+        "publishedAt": "2026-11-03T04:30:00.000Z"
       },
       {
         "time": "05:00",
@@ -45,21 +45,28 @@
         "publishedAt": "2026-11-03T20:00:00.000Z"
       },
       {
-        "time": "13:30",
-        "title": "高精度油圧式拡張マンドレルの世界市場（2026年～2032年）、市場規模（電動、空圧）・分析レポートを発表",
-        "source": "アットプレス",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5TNkhwYVVMN3RUanU3aGt1NzdpUEJtY2J2ZUJDQ25nY2ZlbC0xUzQzWUVQNkNnU01oMVBpMlhiTDFIQlBOUW1jZFJxeEhDaVE?oc=5",
-        "publishedAt": "2026-11-03T04:30:00.000Z"
-      },
-      {
         "time": "09:16",
         "title": "MKシグナルが今日分析したホットイシューゴールデンクロス種目は、チェリーブロ&ファチョン機械です。",
         "source": "매일경제",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBpWm1XQUEzUVFRRHZ5eC1fUmF2Q0RWSWVWc25GbTdzSU9UY0ZmRGpOSkdGclBueVdUcHJLYWZGVkVFc3poa2l2a2JRa2tlN1k?oc=5",
         "publishedAt": "2026-11-03T00:16:50.000Z"
+      },
+      {
+        "time": "17:26",
+        "title": "精密スプリング製作所がＥＶ部品製造参入へ 自社技術応用、安価な複合材研究",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0xQV9VdWhRVTZXY3RNTGFZdnc2UmJjSXhldzVuWWV1NTFoeG5TQ3d2ZXE2TDg4OUh5dXpfT1lHUWxERHRndzJwZ3hkVi1zRU1HZnc?oc=5",
+        "publishedAt": "2026-11-03T08:26:31.000Z"
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "07:56",
+        "title": "米中間選挙 予測市場精度問われる",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6601249?source=rss",
+        "publishedAt": "2026-11-03T22:56:39.000Z"
+      },
       {
         "time": "23:02",
         "title": "米中間選挙 集計長期化の可能性も",
@@ -80,13 +87,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601244?source=rss",
         "publishedAt": "2026-11-03T22:30:01.000Z"
-      },
-      {
-        "time": "13:28",
-        "title": "米大統領 イランとの合意あり得る",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601160?source=rss",
-        "publishedAt": "2026-11-03T04:28:19.000Z"
       },
       {
         "time": "21:59",
@@ -170,18 +170,18 @@
         "publishedAt": "2026-11-03T12:04:59.000Z"
       },
       {
-        "time": "13:22",
-        "title": "車が男性はね海へ転落 運転手死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601161?source=rss",
-        "publishedAt": "2026-11-03T04:22:10.000Z"
-      },
-      {
         "time": "19:38",
         "title": "ゴルフカートにひかれ 女性重傷",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601211?source=rss",
         "publishedAt": "2026-11-03T10:38:44.000Z"
+      },
+      {
+        "time": "07:43",
+        "title": "マンホールカード人気 トラブルも",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6601247?source=rss",
+        "publishedAt": "2026-11-03T22:43:59.000Z"
       },
       {
         "time": "15:29",

@@ -1,37 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-03T22:35:18.837Z",
+  "updatedAt": "2026-11-03T23:09:43.246Z",
   "items": [
     {
-      "time": "23:02",
-      "title": "米中間選挙 集計長期化の可能性も",
+      "time": "07:56",
+      "title": "米中間選挙 予測市場精度問われる",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601226?source=rss",
-      "publishedAt": "2026-11-03T14:02:50.000Z",
-      "xQuery": "米中間選挙 集計長期化の可能性も"
+      "url": "https://news.yahoo.co.jp/pickup/6601249?source=rss",
+      "publishedAt": "2026-11-03T22:56:39.000Z",
+      "xQuery": "米中間選挙 予測市場精度問われる"
     },
     {
-      "time": "21:53",
-      "title": "武部農相 献金巡り新たな疑惑",
+      "time": "07:30",
+      "title": "欧州で旅客機への爆破予告相次ぐ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601222?source=rss",
-      "publishedAt": "2026-11-03T12:53:53.000Z",
-      "xQuery": "武部農相 献金巡り新たな疑惑"
+      "url": "https://news.yahoo.co.jp/pickup/6601246?source=rss",
+      "publishedAt": "2026-11-03T22:30:44.000Z",
+      "xQuery": "欧州で旅客機への爆破予告相次ぐ"
     },
     {
-      "time": "13:40",
-      "title": "露軍 外国人兵に入れ墨で識別番号",
+      "time": "07:30",
+      "title": "米大統領 イスラエル支援終了発表",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601163?source=rss",
-      "publishedAt": "2026-11-03T04:40:35.000Z",
-      "xQuery": "露軍 外国人兵に入れ墨で識別番号"
-    },
-    {
-      "time": "21:38",
-      "title": "台湾の九份 日本人男性が行方不明",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601219?source=rss",
-      "publishedAt": "2026-11-03T12:38:04.000Z",
-      "xQuery": "台湾の九份 日本人男性が行方不明"
+      "url": "https://news.yahoo.co.jp/pickup/6601244?source=rss",
+      "publishedAt": "2026-11-03T22:30:01.000Z",
+      "xQuery": "米大統領 イスラエル支援終了発表"
     },
     {
       "time": "06:21",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6601239?source=rss",
       "publishedAt": "2026-11-03T21:21:42.000Z",
       "xQuery": "路上に血を流した女性 搬送も重体"
+    },
+    {
+      "time": "07:43",
+      "title": "マンホールカード人気 トラブルも",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601247?source=rss",
+      "publishedAt": "2026-11-03T22:43:59.000Z",
+      "xQuery": "マンホールカード人気 トラブルも"
     }
   ]
 };
