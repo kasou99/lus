@@ -1,14 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-03T01:38:46.081Z",
+  "updatedAt": "2026-11-03T02:15:34.409Z",
   "items": [
-    {
-      "time": "10:07",
-      "title": "米・露・ウが10～11日に3者協議",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601140?source=rss",
-      "publishedAt": "2026-11-03T01:07:31.000Z",
-      "xQuery": "米・露・ウが10～11日に3者協議"
-    },
     {
       "time": "09:09",
       "title": "トランプ氏 演説で「口約束」連発",
@@ -18,28 +10,36 @@ window.LUS_X_NEWS = {
       "xQuery": "トランプ氏 演説で「口約束」連発"
     },
     {
-      "time": "10:17",
-      "title": "安いもやし限界 5年で13社消える",
+      "time": "10:07",
+      "title": "米・露・ウが10～11日に3者協議",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601141?source=rss",
-      "publishedAt": "2026-11-03T01:17:07.000Z",
-      "xQuery": "安いもやし限界 5年で13社消える"
+      "url": "https://news.yahoo.co.jp/pickup/6601140?source=rss",
+      "publishedAt": "2026-11-03T01:07:31.000Z",
+      "xQuery": "米・露・ウが10～11日に3者協議"
     },
     {
-      "time": "07:33",
-      "title": "GMO会見で「命の砂時計」 意味",
+      "time": "09:06",
+      "title": "GMO 侵入から2カ月なぜ気付かず",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601115?source=rss",
-      "publishedAt": "2026-11-02T22:33:34.000Z",
-      "xQuery": "GMO会見で「命の砂時計」 意味"
+      "url": "https://news.yahoo.co.jp/pickup/6601132?source=rss",
+      "publishedAt": "2026-11-03T00:06:05.000Z",
+      "xQuery": "GMO 侵入から2カ月なぜ気付かず"
     },
     {
-      "time": "09:01",
-      "title": "鳥山明さん仕事場解体へ 惜しむ声",
+      "time": "10:46",
+      "title": "反対車線はみ出し車衝突 1人死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601126?source=rss",
-      "publishedAt": "2026-11-03T00:01:42.000Z",
-      "xQuery": "鳥山明さん仕事場解体へ 惜しむ声"
+      "url": "https://news.yahoo.co.jp/pickup/6601144?source=rss",
+      "publishedAt": "2026-11-03T01:46:35.000Z",
+      "xQuery": "反対車線はみ出し車衝突 1人死亡"
+    },
+    {
+      "time": "10:44",
+      "title": "親と縁切る「家族じまい」相談増",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601143?source=rss",
+      "publishedAt": "2026-11-03T01:44:22.000Z",
+      "xQuery": "親と縁切る「家族じまい」相談増"
     }
   ]
 };
