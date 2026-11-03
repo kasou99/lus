@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-03T02:15:34.409Z",
+  "updatedAt": "2026-11-03T02:35:47.515Z",
   "items": [
     {
       "time": "09:09",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "GMO 侵入から2カ月なぜ気付かず"
     },
     {
-      "time": "10:46",
-      "title": "反対車線はみ出し車衝突 1人死亡",
+      "time": "11:17",
+      "title": "阪神高速でトラック横転 単独か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601144?source=rss",
-      "publishedAt": "2026-11-03T01:46:35.000Z",
-      "xQuery": "反対車線はみ出し車衝突 1人死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6601149?source=rss",
+      "publishedAt": "2026-11-03T02:17:55.000Z",
+      "xQuery": "阪神高速でトラック横転 単独か"
     },
     {
       "time": "10:44",
