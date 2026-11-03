@@ -1,21 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-03T11:10:34.083Z",
+  "updatedAt": "2026-11-03T11:35:10.530Z",
   "items": [
     {
-      "time": "17:12",
-      "title": "米中間選挙 民主勝利ならどうなる",
+      "time": "20:29",
+      "title": "アメリカ 中間選挙の投票始まる",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601194?source=rss",
-      "publishedAt": "2026-11-03T08:12:35.000Z",
-      "xQuery": "米中間選挙 民主勝利ならどうなる"
-    },
-    {
-      "time": "18:32",
-      "title": "簗氏の出陣式で鉢巻きを無償配布",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601203?source=rss",
-      "publishedAt": "2026-11-03T09:32:23.000Z",
-      "xQuery": "簗氏の出陣式で鉢巻きを無償配布"
+      "url": "https://news.yahoo.co.jp/pickup/6601217?source=rss",
+      "publishedAt": "2026-11-03T11:29:21.000Z",
+      "xQuery": "アメリカ 中間選挙の投票始まる"
     },
     {
       "time": "18:50",
@@ -24,6 +16,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6601209?source=rss",
       "publishedAt": "2026-11-03T09:50:53.000Z",
       "xQuery": "GMOのサーバー「設計上の不備」"
+    },
+    {
+      "time": "20:26",
+      "title": "関東 4日夜-5日に激しい雨の恐れ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601216?source=rss",
+      "publishedAt": "2026-11-03T11:26:01.000Z",
+      "xQuery": "関東 4日夜-5日に激しい雨の恐れ"
     },
     {
       "time": "19:38",

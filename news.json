@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T11:10:33.285Z",
+  "updatedAt": "2026-11-03T11:35:09.449Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -24,18 +24,18 @@
         "publishedAt": "2026-11-02T20:00:00.000Z"
       },
       {
+        "time": "07:40",
+        "title": "【台湾情報】台湾半導体材料の現地調達が加速！日台企業の提携最前線などを解説する＜ワイズリサーチ最新レポート＞",
+        "source": "Infoseek",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5TcjctdmtSbTJnUTNHbGhKQ1NiRks0SUpMTkxCZzN4VVNnRlpWY2RtZjFQdldHSGRPLU1ZMk5qemxzX2N2Qzdjc0hjSjRIRFRBWFdaZ2pDUEJHbmhyQXdHMnUyTDlFdnJ6UDBmRFVxZkZ2Zw?oc=5",
+        "publishedAt": "2026-11-02T22:40:00.000Z"
+      },
+      {
         "time": "09:16",
         "title": "MKシグナルが今日分析したホットイシューゴールデンクロス種目は、チェリーブロ&ファチョン機械です。",
         "source": "매일경제",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBpWm1XQUEzUVFRRHZ5eC1fUmF2Q0RWSWVWc25GbTdzSU9UY0ZmRGpOSkdGclBueVdUcHJLYWZGVkVFc3poa2l2a2JRa2tlN1k?oc=5",
         "publishedAt": "2026-11-03T00:16:50.000Z"
-      },
-      {
-        "time": "01:40",
-        "title": "【台湾情報】台湾半導体材料の現地調達が加速！日台企業の提携最前線などを解説する＜ワイズリサーチ最新レポート＞",
-        "source": "時事ドットコム",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1aTVNtYWlTdEs2dm80RC1mbW5lTUtBeUxoOVhOM2JOQmZtR003c0loVzJlR1VVWHQzME4wclhtTHVTOHpjajM4ZDZlNWlmTnU2ODJhdVlHejlXa1o5YU4zclJlalQ4YzhuSWlF?oc=5",
-        "publishedAt": "2026-11-02T16:40:00.000Z"
       },
       {
         "time": "03:44",
@@ -61,11 +61,11 @@
     ],
     "worldHeadlines": [
       {
-        "time": "14:58",
-        "title": "トランプ政権に審判 民主優勢保つ",
+        "time": "20:29",
+        "title": "アメリカ 中間選挙の投票始まる",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601173?source=rss",
-        "publishedAt": "2026-11-03T05:58:52.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6601217?source=rss",
+        "publishedAt": "2026-11-03T11:29:21.000Z"
       },
       {
         "time": "17:12",
