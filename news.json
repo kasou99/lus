@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T12:16:27.332Z",
+  "updatedAt": "2026-11-03T12:36:08.022Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -45,18 +45,18 @@
         "publishedAt": "2026-11-02T18:44:38.000Z"
       },
       {
-        "time": "17:03",
-        "title": "日本の座標測定機 (CMM)市場の成長要因",
-        "source": "pando.life",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9KN2RfUzVNRi1TcWxxbFpoQV9RRWttdFJ2Mll2a3k0MkIxMGlpbUdLRVlsejhXeUpmSUxQNHhyZnd2Z0swUDFVYTF3?oc=5",
-        "publishedAt": "2026-11-03T08:03:17.000Z"
-      },
-      {
         "time": "05:00",
         "title": "京都FG、滋賀大とAI活用協定 月内にも研修開始",
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5MSnpXNVZtdFNxSzFSZkVyelQ2MEp1R0tFSzBqVHJFZGs0T3FEeDdweExxeUZ5Ykw0MWNPOHk5YmNScldIUkp5VFNuUGN4dEQ1NFB3V1FUeWs?oc=5",
         "publishedAt": "2026-11-02T20:00:00.000Z"
+      },
+      {
+        "time": "22:01",
+        "title": "読売３３３に８銘柄を新採用・９銘柄除外へ、２回目の定期入れ替え…金利上昇で銀行業界が好調",
+        "source": "au Webポータル",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1tTG1YN2Q4bVBLclV2T2FkNUMxM0NwZHZfWUtiM3RYTUpaX3FBc2h3WGJOaVBaYnpDWjBmZk84b2lVbzhkdW5aeHBhUlhnU3daMXZHOUUyQ2pOWGdWRC1kNkVDbXdlQ3lDSUZ3cF9B?oc=5",
+        "publishedAt": "2026-11-02T13:01:00.000Z"
       }
     ],
     "worldHeadlines": [

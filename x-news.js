@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-03T12:16:28.153Z",
+  "updatedAt": "2026-11-03T12:36:08.742Z",
   "items": [
     {
       "time": "20:29",
@@ -18,6 +18,14 @@ window.LUS_X_NEWS = {
       "xQuery": "大阪 ナンバーワン副首都目指す"
     },
     {
+      "time": "19:23",
+      "title": "豪が追加利上げ 18年ぶり高水準",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601212?source=rss",
+      "publishedAt": "2026-11-03T10:23:11.000Z",
+      "xQuery": "豪が追加利上げ 18年ぶり高水準"
+    },
+    {
       "time": "20:26",
       "title": "関東 4日夜-5日に激しい雨の恐れ",
       "source": "Yahoo!ニュース",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6601218?source=rss",
       "publishedAt": "2026-11-03T12:04:59.000Z",
       "xQuery": "海に新生児とみられる遺体 事件か"
-    },
-    {
-      "time": "19:38",
-      "title": "ゴルフカートにひかれ 女性重傷",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601211?source=rss",
-      "publishedAt": "2026-11-03T10:38:44.000Z",
-      "xQuery": "ゴルフカートにひかれ 女性重傷"
     }
   ]
 };
