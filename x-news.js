@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-03T08:15:18.296Z",
+  "updatedAt": "2026-11-03T08:36:09.365Z",
   "items": [
     {
       "time": "17:12",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "ダークウェブ 日本人の情報流出増"
     },
     {
-      "time": "16:22",
-      "title": "無免許疑いの車にはねられる 重体",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601187?source=rss",
-      "publishedAt": "2026-11-03T07:22:32.000Z",
-      "xQuery": "無免許疑いの車にはねられる 重体"
-    },
-    {
       "time": "15:29",
       "title": "離婚後極貧 50歳で教員免許を取得",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6601175?source=rss",
       "publishedAt": "2026-11-03T06:29:13.000Z",
       "xQuery": "離婚後極貧 50歳で教員免許を取得"
+    },
+    {
+      "time": "15:46",
+      "title": "夫より高学歴・高収入 妻の悩み",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601184?source=rss",
+      "publishedAt": "2026-11-03T06:46:01.000Z",
+      "xQuery": "夫より高学歴・高収入 妻の悩み"
     }
   ]
 };
