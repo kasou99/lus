@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-03T20:35:24.492Z",
+  "updatedAt": "2026-11-03T21:09:42.693Z",
   "items": [
     {
       "time": "23:02",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "露軍 外国人兵に入れ墨で識別番号"
     },
     {
-      "time": "05:19",
-      "title": "山手線外回り 始発から見合わせ",
+      "time": "05:36",
+      "title": "山手線外回りが運転再開 駅で発煙",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601236?source=rss",
-      "publishedAt": "2026-11-03T20:19:55.000Z",
-      "xQuery": "山手線外回り 始発から見合わせ"
+      "url": "https://news.yahoo.co.jp/pickup/6601237?source=rss",
+      "publishedAt": "2026-11-03T20:36:21.000Z",
+      "xQuery": "山手線外回りが運転再開 駅で発煙"
     },
     {
       "time": "21:38",
