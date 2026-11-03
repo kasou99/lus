@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T00:46:58.598Z",
+  "updatedAt": "2026-11-03T01:12:25.109Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -61,6 +61,13 @@
     ],
     "worldHeadlines": [
       {
+        "time": "10:07",
+        "title": "米・露・ウが10～11日に3者協議",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6601140?source=rss",
+        "publishedAt": "2026-11-03T01:07:31.000Z"
+      },
+      {
         "time": "09:09",
         "title": "トランプ氏 演説で「口約束」連発",
         "source": "Yahoo!ニュース",
@@ -80,13 +87,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601095?source=rss",
         "publishedAt": "2026-11-02T11:45:45.000Z"
-      },
-      {
-        "time": "17:12",
-        "title": "MAGA派を鼓舞 トランプ氏に焦り",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601071?source=rss",
-        "publishedAt": "2026-11-02T08:12:10.000Z"
       },
       {
         "time": "07:06",
@@ -126,11 +126,11 @@
         "publishedAt": "2026-11-02T09:03:31.000Z"
       },
       {
-        "time": "09:21",
-        "title": "内定者2年間入社しなくてOK 狙い",
+        "time": "09:47",
+        "title": "子どものセルフレジ操作 SNS賛否",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601025?source=rss",
-        "publishedAt": "2026-11-02T00:21:39.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6601135?source=rss",
+        "publishedAt": "2026-11-03T00:47:57.000Z"
       },
       {
         "time": "12:13",

@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-03T00:46:59.315Z",
+  "updatedAt": "2026-11-03T01:12:25.917Z",
   "items": [
+    {
+      "time": "09:09",
+      "title": "トランプ氏 演説で「口約束」連発",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601130?source=rss",
+      "publishedAt": "2026-11-03T00:09:15.000Z",
+      "xQuery": "トランプ氏 演説で「口約束」連発"
+    },
     {
       "time": "09:06",
       "title": "トランプ政権に「共感」日本で23%",
@@ -8,14 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6601133?source=rss",
       "publishedAt": "2026-11-03T00:06:45.000Z",
       "xQuery": "トランプ政権に「共感」日本で23%"
-    },
-    {
-      "time": "08:35",
-      "title": "公布80年 初改正へ改憲派前のめり",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601124?source=rss",
-      "publishedAt": "2026-11-02T23:35:02.000Z",
-      "xQuery": "公布80年 初改正へ改憲派前のめり"
     },
     {
       "time": "08:33",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "露軍がウの学校に空爆 26人死亡"
     },
     {
-      "time": "08:44",
-      "title": "欧州店舗にサイバー攻撃 食品廃棄",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601127?source=rss",
-      "publishedAt": "2026-11-02T23:44:18.000Z",
-      "xQuery": "欧州店舗にサイバー攻撃 食品廃棄"
-    },
-    {
       "time": "07:33",
       "title": "GMO会見で「命の砂時計」 意味",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6601115?source=rss",
       "publishedAt": "2026-11-02T22:33:34.000Z",
       "xQuery": "GMO会見で「命の砂時計」 意味"
+    },
+    {
+      "time": "09:01",
+      "title": "鳥山明さん仕事場解体へ 惜しむ声",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601126?source=rss",
+      "publishedAt": "2026-11-03T00:01:42.000Z",
+      "xQuery": "鳥山明さん仕事場解体へ 惜しむ声"
     }
   ]
 };
