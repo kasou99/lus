@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T15:36:11.639Z",
+  "updatedAt": "2026-11-03T16:12:19.187Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,13 +31,6 @@
         "publishedAt": "2026-11-02T22:40:00.000Z"
       },
       {
-        "time": "09:16",
-        "title": "MKシグナルが今日分析したホットイシューゴールデンクロス種目は、チェリーブロ&ファチョン機械です。",
-        "source": "매일경제",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBpWm1XQUEzUVFRRHZ5eC1fUmF2Q0RWSWVWc25GbTdzSU9UY0ZmRGpOSkdGclBueVdUcHJLYWZGVkVFc3poa2l2a2JRa2tlN1k?oc=5",
-        "publishedAt": "2026-11-03T00:16:50.000Z"
-      },
-      {
         "time": "03:44",
         "title": "DMG森精機、ポーランド新工場で鋳物供給網強化",
         "source": "LOGISTICS TODAY",
@@ -45,18 +38,25 @@
         "publishedAt": "2026-11-02T18:44:38.000Z"
       },
       {
-        "time": "17:03",
-        "title": "日本の座標測定機 (CMM)市場の成長要因",
-        "source": "pando.life",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9KN2RfUzVNRi1TcWxxbFpoQV9RRWttdFJ2Mll2a3k0MkIxMGlpbUdLRVlsejhXeUpmSUxQNHhyZnd2Z0swUDFVYTF3?oc=5",
-        "publishedAt": "2026-11-03T08:03:17.000Z"
-      },
-      {
         "time": "05:00",
         "title": "昨年度、5G基地局11％増 KDDI最多 総務省まとめ",
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ySzl4R2w1VU8zRHRTNzItaDJiOUhha1Y4V25IV25sZWpTR092aEVfbExVTEVuYXlQd25mbGNRWE9zYm52NU00TnBmeUgzTmpHNjhROGlYSDE?oc=5",
         "publishedAt": "2026-11-02T20:00:00.000Z"
+      },
+      {
+        "time": "09:16",
+        "title": "MKシグナルが今日分析したホットイシューゴールデンクロス種目は、チェリーブロ&ファチョン機械です。",
+        "source": "매일경제",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBpWm1XQUEzUVFRRHZ5eC1fUmF2Q0RWSWVWc25GbTdzSU9UY0ZmRGpOSkdGclBueVdUcHJLYWZGVkVFc3poa2l2a2JRa2tlN1k?oc=5",
+        "publishedAt": "2026-11-03T00:16:50.000Z"
+      },
+      {
+        "time": "18:24",
+        "title": "GMO熊谷社長ら 報酬を3カ月減額",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6601082?source=rss",
+        "publishedAt": "2026-11-02T09:24:53.000Z"
       }
     ],
     "worldHeadlines": [
