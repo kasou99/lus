@@ -1,13 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-03T23:09:43.246Z",
+  "updatedAt": "2026-11-03T23:35:59.696Z",
   "items": [
     {
-      "time": "07:56",
-      "title": "米中間選挙 予測市場精度問われる",
+      "time": "08:28",
+      "title": "アメリカ中間選挙の開票始まる",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601249?source=rss",
-      "publishedAt": "2026-11-03T22:56:39.000Z",
-      "xQuery": "米中間選挙 予測市場精度問われる"
+      "url": "https://news.yahoo.co.jp/pickup/6601254?source=rss",
+      "publishedAt": "2026-11-03T23:28:24.000Z",
+      "xQuery": "アメリカ中間選挙の開票始まる"
+    },
+    {
+      "time": "08:11",
+      "title": "米中間選挙 予測市場が試練に直面",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601252?source=rss",
+      "publishedAt": "2026-11-03T23:11:46.000Z",
+      "xQuery": "米中間選挙 予測市場が試練に直面"
     },
     {
       "time": "07:30",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "米大統領 イスラエル支援終了発表"
     },
     {
-      "time": "06:21",
-      "title": "路上に血を流した女性 搬送も重体",
+      "time": "08:16",
+      "title": "パーソナルトレ トラブル急増",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601239?source=rss",
-      "publishedAt": "2026-11-03T21:21:42.000Z",
-      "xQuery": "路上に血を流した女性 搬送も重体"
-    },
-    {
-      "time": "07:43",
-      "title": "マンホールカード人気 トラブルも",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601247?source=rss",
-      "publishedAt": "2026-11-03T22:43:59.000Z",
-      "xQuery": "マンホールカード人気 トラブルも"
+      "url": "https://news.yahoo.co.jp/pickup/6601250?source=rss",
+      "publishedAt": "2026-11-03T23:16:44.000Z",
+      "xQuery": "パーソナルトレ トラブル急増"
     }
   ]
 };
