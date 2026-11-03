@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T06:39:16.974Z",
+  "updatedAt": "2026-11-03T07:12:11.675Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -22,13 +22,6 @@
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBkOTh3ZDZWcHFFbzI0NWxORmpIX1ZpVFAwejJoZUctSnVyNVFaMTdkODlqbkhnOEJFeUJUMmZmdFYxSVZPLUdLajlzQkNuWkVqMTl5RnV6R1M?oc=5",
         "publishedAt": "2026-11-02T20:00:00.000Z"
-      },
-      {
-        "time": "09:16",
-        "title": "MKシグナルが今日分析したホットイシューゴールデンクロス種目は、チェリーブロ&ファチョン機械です。",
-        "source": "매일경제",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBpWm1XQUEzUVFRRHZ5eC1fUmF2Q0RWSWVWc25GbTdzSU9UY0ZmRGpOSkdGclBueVdUcHJLYWZGVkVFc3poa2l2a2JRa2tlN1k?oc=5",
-        "publishedAt": "2026-11-03T00:16:50.000Z"
       },
       {
         "time": "03:44",
@@ -57,6 +50,13 @@
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ySzl4R2w1VU8zRHRTNzItaDJiOUhha1Y4V25IV25sZWpTR092aEVfbExVTEVuYXlQd25mbGNRWE9zYm52NU00TnBmeUgzTmpHNjhROGlYSDE?oc=5",
         "publishedAt": "2026-11-02T20:00:00.000Z"
+      },
+      {
+        "time": "18:04",
+        "title": "【長岡市の企業2社が経営行き詰まり】産業用装置メーカーと関連会社、事後処理を弁護士に一任",
+        "source": "にいがた経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE45U1dWR1VkZnFWc1hZT1BfQ3NQbHM3c3NOYjd5MW5fVVN2ZE41OVQxaVRfQ3VueWpLNk9TSW1OdTk2dDVZ?oc=5",
+        "publishedAt": "2026-11-02T09:04:48.000Z"
       }
     ],
     "worldHeadlines": [
@@ -133,11 +133,11 @@
         "publishedAt": "2026-11-03T01:17:07.000Z"
       },
       {
-        "time": "15:26",
-        "title": "夫より高学歴高収入 妻のモヤモヤ",
+        "time": "15:46",
+        "title": "夫より高学歴・高収入 妻の悩み",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601179?source=rss",
-        "publishedAt": "2026-11-03T06:26:15.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6601184?source=rss",
+        "publishedAt": "2026-11-03T06:46:01.000Z"
       },
       {
         "time": "09:47",

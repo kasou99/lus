@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-03T06:39:17.986Z",
+  "updatedAt": "2026-11-03T07:12:12.426Z",
   "items": [
     {
       "time": "14:58",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "米巨大IT5社とも増収 7～9月期"
     },
     {
-      "time": "14:21",
-      "title": "詐欺G摘発 金が工藤会に渡ったか",
+      "time": "15:14",
+      "title": "宮中晩餐会 なぜフランス料理",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601169?source=rss",
-      "publishedAt": "2026-11-03T05:21:41.000Z",
-      "xQuery": "詐欺G摘発 金が工藤会に渡ったか"
+      "url": "https://news.yahoo.co.jp/pickup/6601177?source=rss",
+      "publishedAt": "2026-11-03T06:14:52.000Z",
+      "xQuery": "宮中晩餐会 なぜフランス料理"
     },
     {
       "time": "13:22",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "車が男性はね海へ転落 運転手死亡"
     },
     {
-      "time": "15:26",
-      "title": "夫より高学歴高収入 妻のモヤモヤ",
+      "time": "15:46",
+      "title": "夫より高学歴・高収入 妻の悩み",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601179?source=rss",
-      "publishedAt": "2026-11-03T06:26:15.000Z",
-      "xQuery": "夫より高学歴高収入 妻のモヤモヤ"
+      "url": "https://news.yahoo.co.jp/pickup/6601184?source=rss",
+      "publishedAt": "2026-11-03T06:46:01.000Z",
+      "xQuery": "夫より高学歴・高収入 妻の悩み"
     }
   ]
 };
