@@ -1,29 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-02T23:35:15.666Z",
+  "updatedAt": "2026-11-03T00:29:56.658Z",
   "items": [
     {
-      "time": "07:45",
-      "title": "米中間選挙 今夜から全米で投票",
+      "time": "09:06",
+      "title": "トランプ政権に「共感」日本で23%",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601118?source=rss",
-      "publishedAt": "2026-11-02T22:45:59.000Z",
-      "xQuery": "米中間選挙 今夜から全米で投票"
+      "url": "https://news.yahoo.co.jp/pickup/6601133?source=rss",
+      "publishedAt": "2026-11-03T00:06:45.000Z",
+      "xQuery": "トランプ政権に「共感」日本で23%"
     },
     {
-      "time": "07:44",
-      "title": "転換期の憲法論議 発議見通せず",
+      "time": "08:35",
+      "title": "公布80年 初改正へ改憲派前のめり",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601117?source=rss",
-      "publishedAt": "2026-11-02T22:44:28.000Z",
-      "xQuery": "転換期の憲法論議 発議見通せず"
+      "url": "https://news.yahoo.co.jp/pickup/6601124?source=rss",
+      "publishedAt": "2026-11-02T23:35:02.000Z",
+      "xQuery": "公布80年 初改正へ改憲派前のめり"
     },
     {
-      "time": "08:06",
-      "title": "秋の叙勲 松坂慶子さんら受章",
+      "time": "08:33",
+      "title": "露軍がウの学校に空爆 26人死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601122?source=rss",
-      "publishedAt": "2026-11-02T23:06:44.000Z",
-      "xQuery": "秋の叙勲 松坂慶子さんら受章"
+      "url": "https://news.yahoo.co.jp/pickup/6601125?source=rss",
+      "publishedAt": "2026-11-02T23:33:39.000Z",
+      "xQuery": "露軍がウの学校に空爆 26人死亡"
     },
     {
       "time": "07:06",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "スペイン列車事故 邦人死亡2人に"
     },
     {
-      "time": "07:40",
-      "title": "北朝鮮 バイナンス巡り関与否定",
+      "time": "07:33",
+      "title": "GMO会見で「命の砂時計」 意味",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601116?source=rss",
-      "publishedAt": "2026-11-02T22:40:52.000Z",
-      "xQuery": "北朝鮮 バイナンス巡り関与否定"
+      "url": "https://news.yahoo.co.jp/pickup/6601115?source=rss",
+      "publishedAt": "2026-11-02T22:33:34.000Z",
+      "xQuery": "GMO会見で「命の砂時計」 意味"
     }
   ]
 };
