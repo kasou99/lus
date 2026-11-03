@@ -1,12 +1,26 @@
 {
-  "updatedAt": "2026-11-03T22:09:25.240Z",
+  "updatedAt": "2026-11-03T22:35:17.777Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "07:11",
+        "title": "9月機械受注（除船電民需）前月比は僅かだが2カ月ぶりの減少に。関連データの9月工作機械受注（国内向け）前年同月比は＋46.5％と高い伸び率だが、8月からは鈍化。日本の主要経済指標予測（2026年11月4｜宅森昭吉（景気探検家・エコノミスト）",
+        "source": "note",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1LeHgzTmpkYUhaa1ZDdmhuckM3Z2M4ZlM0Z0o4NWxCcmhJcnYwTE1jWDB3NzM2OS0zclR3SmN6YjE3cTM5WXJRdzZGTkl0bF93b1pYeHdONjRzcThESXc?oc=5",
+        "publishedAt": "2026-11-03T22:11:18.000Z"
+      },
       {
         "time": "05:00",
         "title": "スマートファクトリーJapan2026／紙上プレビュー（1）",
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1kVXVZbHdfME5ydkVLN3dhTTA0eV9ERGYwYjhWVTluSjhmOHh0LUJBMEM4Nk9DN2VHVE1ZTTloaS13b0lTZGY2UWEwUUFTTDg1cURGWS1qLUE?oc=5",
+        "publishedAt": "2026-11-03T20:00:00.000Z"
+      },
+      {
+        "time": "05:00",
+        "title": "回収装置に新製品２機種 永進テクノ、分離能力が向上",
+        "source": "中部経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1kR2d1MFFFY1V1Vm9CeWZkX2V4SThZbll0Y09Bellvb0R4MGxUNEstLWZiMUxhWE5BTlJnMWFsQ0E2RVZUdW10SjRxbDhpREYzT1l5dlZuaDVUYlViVS1ycFI2ZXhqTFdUa0lKaUtzR3BFNFk?oc=5",
         "publishedAt": "2026-11-03T20:00:00.000Z"
       },
       {
@@ -17,18 +31,11 @@
         "publishedAt": "2026-11-02T22:49:16.000Z"
       },
       {
-        "time": "05:00",
-        "title": "回収装置に新製品２機種 永進テクノ、分離能力が向上",
-        "source": "中部経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1kR2d1MFFFY1V1Vm9CeWZkX2V4SThZbll0Y09Bellvb0R4MGxUNEstLWZiMUxhWE5BTlJnMWFsQ0E2RVZUdW10SjRxbDhpREYzT1l5dlZuaDVUYlViVS1ycFI2ZXhqTFdUa0lKaUtzR3BFNFk?oc=5",
-        "publishedAt": "2026-11-03T20:00:00.000Z"
-      },
-      {
-        "time": "20:39",
-        "title": "【探訪ザ・カンパニー】オーザック（福山市）安全支えるワイヤ金具",
+        "time": "19:35",
+        "title": "電線の端材でストラップ制作 Ｍ．Ｓ．Ｅ．が商品化",
         "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB2YnlPN09iTUcyOGNldkhrT1k5RzQ5M0pLNkE3NkV1YzJxUDFPam9xOTV6dFZva2ZrNHNxNkZIOGYxMXN6R1JyUHFIMXZIamRMT2c?oc=5",
-        "publishedAt": "2026-11-03T11:39:36.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TOThSZjN5eER3TlU3MHo0RE9lLXdpRFVod2Mtams1bFZvcjBKQnpvSFYxMjJPYm5HZVd5RlhtcHlTN3R2OGdVLUs5THBCQVVCWEE?oc=5",
+        "publishedAt": "2026-11-03T10:35:04.000Z"
       },
       {
         "time": "05:00",
@@ -50,13 +57,6 @@
         "source": "매일경제",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBpWm1XQUEzUVFRRHZ5eC1fUmF2Q0RWSWVWc25GbTdzSU9UY0ZmRGpOSkdGclBueVdUcHJLYWZGVkVFc3poa2l2a2JRa2tlN1k?oc=5",
         "publishedAt": "2026-11-03T00:16:50.000Z"
-      },
-      {
-        "time": "07:40",
-        "title": "【台湾情報】台湾半導体材料の現地調達が加速！日台企業の提携最前線などを解説する＜ワイズリサーチ最新レポート＞",
-        "source": "Infoseek",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5TcjctdmtSbTJnUTNHbGhKQ1NiRks0SUpMTkxCZzN4VVNnRlpWY2RtZjFQdldHSGRPLU1ZMk5qemxzX2N2Qzdjc0hjSjRIRFRBWFdaZ2pDUEJHbmhyQXdHMnUyTDlFdnJ6UDBmRFVxZkZ2Zw?oc=5",
-        "publishedAt": "2026-11-02T22:40:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -75,11 +75,11 @@
         "publishedAt": "2026-11-03T08:12:35.000Z"
       },
       {
-        "time": "18:49",
-        "title": "米共和党 福音派有権者なぜ重要",
+        "time": "07:30",
+        "title": "米大統領 イスラエル支援終了発表",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601207?source=rss",
-        "publishedAt": "2026-11-03T09:49:11.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6601244?source=rss",
+        "publishedAt": "2026-11-03T22:30:01.000Z"
       },
       {
         "time": "13:28",
@@ -96,11 +96,11 @@
         "publishedAt": "2026-11-03T12:59:19.000Z"
       },
       {
-        "time": "21:38",
-        "title": "台湾の九份 日本人男性が行方不明",
+        "time": "07:30",
+        "title": "欧州で旅客機への爆破予告相次ぐ",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601219?source=rss",
-        "publishedAt": "2026-11-03T12:38:04.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6601246?source=rss",
+        "publishedAt": "2026-11-03T22:30:44.000Z"
       }
     ],
     "economyHeadlines": [
