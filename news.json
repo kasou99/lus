@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T03:13:45.457Z",
+  "updatedAt": "2026-11-03T03:35:48.332Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -52,11 +52,11 @@
         "publishedAt": "2026-11-02T20:00:00.000Z"
       },
       {
-        "time": "15:30",
-        "title": "セイワホールディングス[523A]：株式会社美山理研工業の株式取得及び当社グループへの参画（子会社化）に関するお知らせ 2026年11月2日(適時開示) ：日経会社情報DIGITAL",
-        "source": "日本経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1qb1pLTFByUlJ1YmQzRHUxYUx3VjRmOFNWeS1zNE5TN2RfNnBXZGg2NGdnaWMwU1JDSzJEdlM0aUl4ajRSblJZb3RFWDVaNG1YWDhib01vZmo1WGp2Vkg5bjhpcGZRYzJHT3c?oc=5",
-        "publishedAt": "2026-11-02T06:30:00.000Z"
+        "time": "14:02",
+        "title": "上野電気工業、FA関連の奥谷電業を子会社化",
+        "source": "LOGISTICS TODAY",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE55TUpCcFlfUk9mVzdmaFVKLVRsWVBtYmJuNGVwQVl4SE4taG1LYzRod1EtQlF1LWFWNUNMZ01rWDdvX0QwZjZJSjNn?oc=5",
+        "publishedAt": "2026-11-02T05:02:14.000Z"
       }
     ],
     "worldHeadlines": [
@@ -75,6 +75,13 @@
         "publishedAt": "2026-11-03T00:09:15.000Z"
       },
       {
+        "time": "12:31",
+        "title": "韓国 大統領や高官の個人情報流出",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6601155?source=rss",
+        "publishedAt": "2026-11-03T03:31:09.000Z"
+      },
+      {
         "time": "11:14",
         "title": "ICC赤根所長 米政権の制裁を批判",
         "source": "Yahoo!ニュース",
@@ -87,13 +94,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601140?source=rss",
         "publishedAt": "2026-11-03T01:07:31.000Z"
-      },
-      {
-        "time": "08:33",
-        "title": "露軍がウの学校に空爆 26人死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601125?source=rss",
-        "publishedAt": "2026-11-02T23:33:39.000Z"
       },
       {
         "time": "07:06",
@@ -149,13 +149,6 @@
     ],
     "localHeadlines": [
       {
-        "time": "07:47",
-        "title": "関東で濃霧発生 車の運転など注意",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601119?source=rss",
-        "publishedAt": "2026-11-02T22:47:09.000Z"
-      },
-      {
         "time": "17:40",
         "title": "特殊詐欺Gのリーダーか 男を逮捕",
         "source": "Yahoo!ニュース",
@@ -189,6 +182,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601108?source=rss",
         "publishedAt": "2026-11-02T14:38:58.000Z"
+      },
+      {
+        "time": "12:21",
+        "title": "「白米千枚田」イノシシが荒らす",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6601156?source=rss",
+        "publishedAt": "2026-11-03T03:21:09.000Z"
       }
     ],
     "subsidyHeadlines": [

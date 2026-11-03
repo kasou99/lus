@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-03T03:13:46.115Z",
+  "updatedAt": "2026-11-03T03:35:49.312Z",
   "items": [
     {
       "time": "10:59",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "ICC赤根所長 米政権の制裁を批判"
     },
     {
-      "time": "11:17",
-      "title": "阪神高速でトラック横転 単独か",
+      "time": "12:21",
+      "title": "「白米千枚田」イノシシが荒らす",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601149?source=rss",
-      "publishedAt": "2026-11-03T02:17:55.000Z",
-      "xQuery": "阪神高速でトラック横転 単独か"
+      "url": "https://news.yahoo.co.jp/pickup/6601156?source=rss",
+      "publishedAt": "2026-11-03T03:21:09.000Z",
+      "xQuery": "「白米千枚田」イノシシが荒らす"
     },
     {
       "time": "10:44",
