@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T04:35:59.711Z",
+  "updatedAt": "2026-11-03T05:11:44.924Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -8,6 +8,13 @@
         "source": "LOGISTICS TODAY",
         "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1QNVE3ZzBSeFNZSWxzSEVZYWlIXzd0dVlLSjJHcFdnWGsxRHZEWE5JaGlJRjczRTN0cG5USFpwV0o5b0pKeTJoZ0lB?oc=5",
         "publishedAt": "2026-11-02T22:49:16.000Z"
+      },
+      {
+        "time": "13:30",
+        "title": "高精度油圧式拡張マンドレルの世界市場（2026年～2032年）、市場規模（電動、空圧）・分析レポートを発表",
+        "source": "Newscast.jp",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9RbXJBMHVFME1hd0RfZFZBWTIxRDUyNmRvcnJRY2JKNjlBYjc4WFJCSHUzS1FBbFpOcUUxb3hpaHRDNVdoaTNFbUpJdXdFbzA?oc=5",
+        "publishedAt": "2026-11-03T04:30:00.000Z"
       },
       {
         "time": "05:00",
@@ -50,13 +57,6 @@
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ySzl4R2w1VU8zRHRTNzItaDJiOUhha1Y4V25IV25sZWpTR092aEVfbExVTEVuYXlQd25mbGNRWE9zYm52NU00TnBmeUgzTmpHNjhROGlYSDE?oc=5",
         "publishedAt": "2026-11-02T20:00:00.000Z"
-      },
-      {
-        "time": "14:02",
-        "title": "上野電気工業、FA関連の奥谷電業を子会社化",
-        "source": "LOGISTICS TODAY",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE55TUpCcFlfUk9mVzdmaFVKLVRsWVBtYmJuNGVwQVl4SE4taG1LYzRod1EtQlF1LWFWNUNMZ01rWDdvX0QwZjZJSjNn?oc=5",
-        "publishedAt": "2026-11-02T05:02:14.000Z"
       }
     ],
     "worldHeadlines": [
@@ -82,6 +82,13 @@
         "publishedAt": "2026-11-03T00:09:15.000Z"
       },
       {
+        "time": "13:40",
+        "title": "露軍 外国人兵に入れ墨で識別番号",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6601163?source=rss",
+        "publishedAt": "2026-11-03T04:40:35.000Z"
+      },
+      {
         "time": "12:31",
         "title": "韓国 大統領や高官の個人情報流出",
         "source": "Yahoo!ニュース",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601146?source=rss",
         "publishedAt": "2026-11-03T02:14:00.000Z"
-      },
-      {
-        "time": "10:07",
-        "title": "米・露・ウが10～11日に3者協議",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601140?source=rss",
-        "publishedAt": "2026-11-03T01:07:31.000Z"
       }
     ],
     "economyHeadlines": [

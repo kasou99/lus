@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-03T04:36:00.311Z",
+  "updatedAt": "2026-11-03T05:11:45.554Z",
   "items": [
     {
-      "time": "10:59",
-      "title": "米中間選挙「MAGA」の動向焦点",
+      "time": "13:28",
+      "title": "米大統領 イランとの合意あり得る",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601145?source=rss",
-      "publishedAt": "2026-11-03T01:59:48.000Z",
-      "xQuery": "米中間選挙「MAGA」の動向焦点"
+      "url": "https://news.yahoo.co.jp/pickup/6601160?source=rss",
+      "publishedAt": "2026-11-03T04:28:19.000Z",
+      "xQuery": "米大統領 イランとの合意あり得る"
     },
     {
       "time": "12:31",
@@ -18,20 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "韓国 大統領や高官の個人情報流出"
     },
     {
-      "time": "12:44",
-      "title": "車と地面の間に挟まれる 女性死亡",
+      "time": "13:22",
+      "title": "車が男性はね海へ転落 運転手死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601157?source=rss",
-      "publishedAt": "2026-11-03T03:44:59.000Z",
-      "xQuery": "車と地面の間に挟まれる 女性死亡"
-    },
-    {
-      "time": "12:21",
-      "title": "「白米千枚田」イノシシが荒らす",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601156?source=rss",
-      "publishedAt": "2026-11-03T03:21:09.000Z",
-      "xQuery": "「白米千枚田」イノシシが荒らす"
+      "url": "https://news.yahoo.co.jp/pickup/6601161?source=rss",
+      "publishedAt": "2026-11-03T04:22:10.000Z",
+      "xQuery": "車が男性はね海へ転落 運転手死亡"
     },
     {
       "time": "10:44",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6601143?source=rss",
       "publishedAt": "2026-11-03T01:44:22.000Z",
       "xQuery": "親と縁切る「家族じまい」相談増"
+    },
+    {
+      "time": "11:47",
+      "title": "きのこの山イヤホン 再販時の配慮",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601151?source=rss",
+      "publishedAt": "2026-11-03T02:47:00.000Z",
+      "xQuery": "きのこの山イヤホン 再販時の配慮"
     }
   ]
 };
