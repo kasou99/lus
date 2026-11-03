@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-03T14:35:43.225Z",
+  "updatedAt": "2026-11-03T15:09:54.003Z",
   "items": [
     {
       "time": "23:02",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "武部農相 献金巡り新たな疑惑"
     },
     {
-      "time": "21:04",
-      "title": "海に新生児とみられる遺体 事件か",
+      "time": "13:40",
+      "title": "露軍 外国人兵に入れ墨で識別番号",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601218?source=rss",
-      "publishedAt": "2026-11-03T12:04:59.000Z",
-      "xQuery": "海に新生児とみられる遺体 事件か"
+      "url": "https://news.yahoo.co.jp/pickup/6601163?source=rss",
+      "publishedAt": "2026-11-03T04:40:35.000Z",
+      "xQuery": "露軍 外国人兵に入れ墨で識別番号"
     },
     {
       "time": "21:38",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "台湾の九份 日本人男性が行方不明"
     },
     {
-      "time": "23:08",
-      "title": "アソビュー 1580万件が流出か",
+      "time": "23:59",
+      "title": "アソビュー 1500万件超の情報流出",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601228?source=rss",
-      "publishedAt": "2026-11-03T14:08:40.000Z",
-      "xQuery": "アソビュー 1580万件が流出か"
+      "url": "https://news.yahoo.co.jp/pickup/6601234?source=rss",
+      "publishedAt": "2026-11-03T14:59:10.000Z",
+      "xQuery": "アソビュー 1500万件超の情報流出"
     }
   ]
 };
