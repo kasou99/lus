@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-03T05:36:11.762Z",
+  "updatedAt": "2026-11-03T06:19:17.069Z",
   "items": [
     {
-      "time": "13:28",
-      "title": "米大統領 イランとの合意あり得る",
+      "time": "14:58",
+      "title": "トランプ政権に審判 民主優勢保つ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601160?source=rss",
-      "publishedAt": "2026-11-03T04:28:19.000Z",
-      "xQuery": "米大統領 イランとの合意あり得る"
+      "url": "https://news.yahoo.co.jp/pickup/6601173?source=rss",
+      "publishedAt": "2026-11-03T05:58:52.000Z",
+      "xQuery": "トランプ政権に審判 民主優勢保つ"
     },
     {
       "time": "13:50",
@@ -18,12 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "大阪市行政システム 情報漏えいか"
     },
     {
-      "time": "09:44",
-      "title": "米アップルiPhone好調で増収増益",
+      "time": "14:46",
+      "title": "米巨大IT5社とも増収 7～9月期",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601134?source=rss",
-      "publishedAt": "2026-11-03T00:44:56.000Z",
-      "xQuery": "米アップルiPhone好調で増収増益"
+      "url": "https://news.yahoo.co.jp/pickup/6601172?source=rss",
+      "publishedAt": "2026-11-03T05:46:47.000Z",
+      "xQuery": "米巨大IT5社とも増収 7～9月期"
+    },
+    {
+      "time": "14:21",
+      "title": "詐欺G摘発 金が工藤会に渡ったか",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601169?source=rss",
+      "publishedAt": "2026-11-03T05:21:41.000Z",
+      "xQuery": "詐欺G摘発 金が工藤会に渡ったか"
     },
     {
       "time": "13:22",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6601161?source=rss",
       "publishedAt": "2026-11-03T04:22:10.000Z",
       "xQuery": "車が男性はね海へ転落 運転手死亡"
-    },
-    {
-      "time": "10:44",
-      "title": "親と縁切る「家族じまい」相談増",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601143?source=rss",
-      "publishedAt": "2026-11-03T01:44:22.000Z",
-      "xQuery": "親と縁切る「家族じまい」相談増"
     }
   ]
 };

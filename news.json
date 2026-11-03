@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T05:36:10.074Z",
+  "updatedAt": "2026-11-03T06:19:16.088Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -24,6 +24,13 @@
         "publishedAt": "2026-11-02T20:00:00.000Z"
       },
       {
+        "time": "09:16",
+        "title": "MKシグナルが今日分析したホットイシューゴールデンクロス種目は、チェリーブロ&ファチョン機械です。",
+        "source": "매일경제",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBpWm1XQUEzUVFRRHZ5eC1fUmF2Q0RWSWVWc25GbTdzSU9UY0ZmRGpOSkdGclBueVdUcHJLYWZGVkVFc3poa2l2a2JRa2tlN1k?oc=5",
+        "publishedAt": "2026-11-03T00:16:50.000Z"
+      },
+      {
         "time": "03:44",
         "title": "DMG森精機、ポーランド新工場で鋳物供給網強化",
         "source": "LOGISTICS TODAY",
@@ -36,13 +43,6 @@
         "source": "Infoseek",
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5TcjctdmtSbTJnUTNHbGhKQ1NiRks0SUpMTkxCZzN4VVNnRlpWY2RtZjFQdldHSGRPLU1ZMk5qemxzX2N2Qzdjc0hjSjRIRFRBWFdaZ2pDUEJHbmhyQXdHMnUyTDlFdnJ6UDBmRFVxZkZ2Zw?oc=5",
         "publishedAt": "2026-11-02T16:40:00.000Z"
-      },
-      {
-        "time": "14:48",
-        "title": "精密スプリング製作所がＥＶ部品製造参入へ 自社技術応用、安価な複合材研究",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1jUnppR2hTeXR6Y1NmZ1ZZSUpSQVlxVldYZ205QTNWOFpwYUxtRERvLTVVc1Z3Zm9yWC1RbFUycHJNRUVlQ29BbmpOMXlKU1RnWnVvbE9lR09mMWhXUlhyemhyQndDUldtNGZhamFnUjV6NjViakhB?oc=5",
-        "publishedAt": "2026-11-02T05:48:50.000Z"
       },
       {
         "time": "05:00",
@@ -61,6 +61,13 @@
     ],
     "worldHeadlines": [
       {
+        "time": "14:58",
+        "title": "トランプ政権に審判 民主優勢保つ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6601173?source=rss",
+        "publishedAt": "2026-11-03T05:58:52.000Z"
+      },
+      {
         "time": "13:28",
         "title": "米大統領 イランとの合意あり得る",
         "source": "Yahoo!ニュース",
@@ -73,13 +80,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601145?source=rss",
         "publishedAt": "2026-11-03T01:59:48.000Z"
-      },
-      {
-        "time": "09:09",
-        "title": "トランプ氏 演説で「口約束」連発",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601130?source=rss",
-        "publishedAt": "2026-11-03T00:09:15.000Z"
       },
       {
         "time": "13:40",
