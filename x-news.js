@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-03T20:11:07.119Z",
+  "updatedAt": "2026-11-03T20:35:24.492Z",
   "items": [
     {
       "time": "23:02",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "露軍 外国人兵に入れ墨で識別番号"
     },
     {
+      "time": "05:19",
+      "title": "山手線外回り 始発から見合わせ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601236?source=rss",
+      "publishedAt": "2026-11-03T20:19:55.000Z",
+      "xQuery": "山手線外回り 始発から見合わせ"
+    },
+    {
       "time": "21:38",
       "title": "台湾の九份 日本人男性が行方不明",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6601219?source=rss",
       "publishedAt": "2026-11-03T12:38:04.000Z",
       "xQuery": "台湾の九份 日本人男性が行方不明"
-    },
-    {
-      "time": "23:59",
-      "title": "アソビュー 1500万件超の情報流出",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601234?source=rss",
-      "publishedAt": "2026-11-03T14:59:10.000Z",
-      "xQuery": "アソビュー 1500万件超の情報流出"
     }
   ]
 };
