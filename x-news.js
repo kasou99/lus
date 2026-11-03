@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-03T05:11:45.554Z",
+  "updatedAt": "2026-11-03T05:36:11.762Z",
   "items": [
     {
       "time": "13:28",
@@ -10,12 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "米大統領 イランとの合意あり得る"
     },
     {
-      "time": "12:31",
-      "title": "韓国 大統領や高官の個人情報流出",
+      "time": "13:50",
+      "title": "大阪市行政システム 情報漏えいか",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601155?source=rss",
-      "publishedAt": "2026-11-03T03:31:09.000Z",
-      "xQuery": "韓国 大統領や高官の個人情報流出"
+      "url": "https://news.yahoo.co.jp/pickup/6601164?source=rss",
+      "publishedAt": "2026-11-03T04:50:05.000Z",
+      "xQuery": "大阪市行政システム 情報漏えいか"
+    },
+    {
+      "time": "09:44",
+      "title": "米アップルiPhone好調で増収増益",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601134?source=rss",
+      "publishedAt": "2026-11-03T00:44:56.000Z",
+      "xQuery": "米アップルiPhone好調で増収増益"
     },
     {
       "time": "13:22",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6601143?source=rss",
       "publishedAt": "2026-11-03T01:44:22.000Z",
       "xQuery": "親と縁切る「家族じまい」相談増"
-    },
-    {
-      "time": "11:47",
-      "title": "きのこの山イヤホン 再販時の配慮",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601151?source=rss",
-      "publishedAt": "2026-11-03T02:47:00.000Z",
-      "xQuery": "きのこの山イヤホン 再販時の配慮"
     }
   ]
 };

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T05:11:44.924Z",
+  "updatedAt": "2026-11-03T05:36:10.074Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "14:21",
+        "title": "詐欺G摘発 金が工藤会に渡ったか",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6601169?source=rss",
+        "publishedAt": "2026-11-03T05:21:41.000Z"
+      },
+      {
         "time": "17:40",
         "title": "特殊詐欺Gのリーダーか 男を逮捕",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601144?source=rss",
         "publishedAt": "2026-11-03T01:46:35.000Z"
-      },
-      {
-        "time": "23:38",
-        "title": "7歳虐待死 裁判でにじむ母の後悔",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601108?source=rss",
-        "publishedAt": "2026-11-02T14:38:58.000Z"
       }
     ],
     "subsidyHeadlines": [
