@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T07:35:44.078Z",
+  "updatedAt": "2026-11-03T08:15:17.202Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -68,6 +68,13 @@
         "publishedAt": "2026-11-03T05:58:52.000Z"
       },
       {
+        "time": "17:12",
+        "title": "米中間選挙 民主勝利ならどうなる",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6601194?source=rss",
+        "publishedAt": "2026-11-03T08:12:35.000Z"
+      },
+      {
         "time": "13:28",
         "title": "米大統領 イランとの合意あり得る",
         "source": "Yahoo!ニュース",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601155?source=rss",
         "publishedAt": "2026-11-03T03:31:09.000Z"
-      },
-      {
-        "time": "11:14",
-        "title": "ICC赤根所長 米政権の制裁を批判",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601146?source=rss",
-        "publishedAt": "2026-11-03T02:14:00.000Z"
       }
     ],
     "economyHeadlines": [

@@ -1,21 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-03T07:35:45.017Z",
+  "updatedAt": "2026-11-03T08:15:18.296Z",
   "items": [
     {
-      "time": "14:58",
-      "title": "トランプ政権に審判 民主優勢保つ",
+      "time": "17:12",
+      "title": "米中間選挙 民主勝利ならどうなる",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601173?source=rss",
-      "publishedAt": "2026-11-03T05:58:52.000Z",
-      "xQuery": "トランプ政権に審判 民主優勢保つ"
+      "url": "https://news.yahoo.co.jp/pickup/6601194?source=rss",
+      "publishedAt": "2026-11-03T08:12:35.000Z",
+      "xQuery": "米中間選挙 民主勝利ならどうなる"
     },
     {
-      "time": "14:46",
-      "title": "米巨大IT5社とも増収 7～9月期",
+      "time": "14:35",
+      "title": "教員確保へ働き方改革推進 文科相",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601172?source=rss",
-      "publishedAt": "2026-11-03T05:46:47.000Z",
-      "xQuery": "米巨大IT5社とも増収 7～9月期"
+      "url": "https://news.yahoo.co.jp/pickup/6601170?source=rss",
+      "publishedAt": "2026-11-03T05:35:22.000Z",
+      "xQuery": "教員確保へ働き方改革推進 文科相"
+    },
+    {
+      "time": "15:51",
+      "title": "ダークウェブ 日本人の情報流出増",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601181?source=rss",
+      "publishedAt": "2026-11-03T06:51:21.000Z",
+      "xQuery": "ダークウェブ 日本人の情報流出増"
     },
     {
       "time": "16:22",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6601175?source=rss",
       "publishedAt": "2026-11-03T06:29:13.000Z",
       "xQuery": "離婚後極貧 50歳で教員免許を取得"
-    },
-    {
-      "time": "15:46",
-      "title": "夫より高学歴・高収入 妻の悩み",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601184?source=rss",
-      "publishedAt": "2026-11-03T06:46:01.000Z",
-      "xQuery": "夫より高学歴・高収入 妻の悩み"
     }
   ]
 };
