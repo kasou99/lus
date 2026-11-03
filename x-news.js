@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-03T08:36:09.365Z",
+  "updatedAt": "2026-11-03T09:12:32.956Z",
   "items": [
     {
       "time": "17:12",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "米中間選挙 民主勝利ならどうなる"
     },
     {
-      "time": "14:35",
-      "title": "教員確保へ働き方改革推進 文科相",
+      "time": "17:53",
+      "title": "SNS巡る問題 揺らぐ表現の自由",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601170?source=rss",
-      "publishedAt": "2026-11-03T05:35:22.000Z",
-      "xQuery": "教員確保へ働き方改革推進 文科相"
+      "url": "https://news.yahoo.co.jp/pickup/6601198?source=rss",
+      "publishedAt": "2026-11-03T08:53:06.000Z",
+      "xQuery": "SNS巡る問題 揺らぐ表現の自由"
     },
     {
       "time": "15:51",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "離婚後極貧 50歳で教員免許を取得"
     },
     {
-      "time": "15:46",
-      "title": "夫より高学歴・高収入 妻の悩み",
+      "time": "18:09",
+      "title": "盤上に虫 藤井竜王思わず席を立つ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601184?source=rss",
-      "publishedAt": "2026-11-03T06:46:01.000Z",
-      "xQuery": "夫より高学歴・高収入 妻の悩み"
+      "url": "https://news.yahoo.co.jp/pickup/6601201?source=rss",
+      "publishedAt": "2026-11-03T09:09:52.000Z",
+      "xQuery": "盤上に虫 藤井竜王思わず席を立つ"
     }
   ]
 };
