@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-03T11:35:10.530Z",
+  "updatedAt": "2026-11-03T12:16:28.153Z",
   "items": [
     {
       "time": "20:29",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "アメリカ 中間選挙の投票始まる"
     },
     {
-      "time": "18:50",
-      "title": "GMOのサーバー「設計上の不備」",
+      "time": "20:22",
+      "title": "大阪 ナンバーワン副首都目指す",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601209?source=rss",
-      "publishedAt": "2026-11-03T09:50:53.000Z",
-      "xQuery": "GMOのサーバー「設計上の不備」"
+      "url": "https://news.yahoo.co.jp/pickup/6601214?source=rss",
+      "publishedAt": "2026-11-03T11:22:43.000Z",
+      "xQuery": "大阪 ナンバーワン副首都目指す"
     },
     {
       "time": "20:26",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "関東 4日夜-5日に激しい雨の恐れ"
     },
     {
+      "time": "21:04",
+      "title": "海に新生児とみられる遺体 事件か",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601218?source=rss",
+      "publishedAt": "2026-11-03T12:04:59.000Z",
+      "xQuery": "海に新生児とみられる遺体 事件か"
+    },
+    {
       "time": "19:38",
       "title": "ゴルフカートにひかれ 女性重傷",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6601211?source=rss",
       "publishedAt": "2026-11-03T10:38:44.000Z",
       "xQuery": "ゴルフカートにひかれ 女性重傷"
-    },
-    {
-      "time": "18:09",
-      "title": "盤上に虫 藤井竜王思わず席を立つ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601201?source=rss",
-      "publishedAt": "2026-11-03T09:09:52.000Z",
-      "xQuery": "盤上に虫 藤井竜王思わず席を立つ"
     }
   ]
 };
