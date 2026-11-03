@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-03T09:35:57.096Z",
+  "updatedAt": "2026-11-03T10:11:21.701Z",
   "items": [
     {
       "time": "17:12",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "米中間選挙 民主勝利ならどうなる"
     },
     {
-      "time": "17:53",
-      "title": "SNS巡る問題 揺らぐ表現の自由",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601198?source=rss",
-      "publishedAt": "2026-11-03T08:53:06.000Z",
-      "xQuery": "SNS巡る問題 揺らぐ表現の自由"
-    },
-    {
       "time": "18:32",
       "title": "簗氏の出陣式で鉢巻きを無償配布",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6601203?source=rss",
       "publishedAt": "2026-11-03T09:32:23.000Z",
       "xQuery": "簗氏の出陣式で鉢巻きを無償配布"
+    },
+    {
+      "time": "18:50",
+      "title": "GMOのサーバー「設計上の不備」",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601209?source=rss",
+      "publishedAt": "2026-11-03T09:50:53.000Z",
+      "xQuery": "GMOのサーバー「設計上の不備」"
     },
     {
       "time": "15:29",
