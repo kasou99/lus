@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-03T13:11:53.582Z",
+  "updatedAt": "2026-11-03T13:35:59.534Z",
   "items": [
     {
       "time": "20:29",
@@ -8,6 +8,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6601217?source=rss",
       "publishedAt": "2026-11-03T11:29:21.000Z",
       "xQuery": "アメリカ 中間選挙の投票始まる"
+    },
+    {
+      "time": "18:49",
+      "title": "米共和党 福音派有権者なぜ重要",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601207?source=rss",
+      "publishedAt": "2026-11-03T09:49:11.000Z",
+      "xQuery": "米共和党 福音派有権者なぜ重要"
     },
     {
       "time": "21:53",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6601221?source=rss",
       "publishedAt": "2026-11-03T12:59:19.000Z",
       "xQuery": "テヘランに「トランプ殺す」看板"
-    },
-    {
-      "time": "21:38",
-      "title": "台湾の九份 日本人男性が行方不明",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601219?source=rss",
-      "publishedAt": "2026-11-03T12:38:04.000Z",
-      "xQuery": "台湾の九份 日本人男性が行方不明"
     }
   ]
 };
