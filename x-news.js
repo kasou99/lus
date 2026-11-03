@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-03T01:12:25.917Z",
+  "updatedAt": "2026-11-03T01:38:46.081Z",
   "items": [
+    {
+      "time": "10:07",
+      "title": "米・露・ウが10～11日に3者協議",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601140?source=rss",
+      "publishedAt": "2026-11-03T01:07:31.000Z",
+      "xQuery": "米・露・ウが10～11日に3者協議"
+    },
     {
       "time": "09:09",
       "title": "トランプ氏 演説で「口約束」連発",
@@ -10,20 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "トランプ氏 演説で「口約束」連発"
     },
     {
-      "time": "09:06",
-      "title": "トランプ政権に「共感」日本で23%",
+      "time": "10:17",
+      "title": "安いもやし限界 5年で13社消える",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601133?source=rss",
-      "publishedAt": "2026-11-03T00:06:45.000Z",
-      "xQuery": "トランプ政権に「共感」日本で23%"
-    },
-    {
-      "time": "08:33",
-      "title": "露軍がウの学校に空爆 26人死亡",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601125?source=rss",
-      "publishedAt": "2026-11-02T23:33:39.000Z",
-      "xQuery": "露軍がウの学校に空爆 26人死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6601141?source=rss",
+      "publishedAt": "2026-11-03T01:17:07.000Z",
+      "xQuery": "安いもやし限界 5年で13社消える"
     },
     {
       "time": "07:33",

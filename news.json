@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T01:12:25.109Z",
+  "updatedAt": "2026-11-03T01:38:44.692Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -24,25 +24,11 @@
         "publishedAt": "2026-11-02T01:43:47.000Z"
       },
       {
-        "time": "15:30",
-        "title": "セイワホールディングス[523A]：株式会社美山理研工業の株式取得及び当社グループへの参画（子会社化）に関するお知らせ 2026年11月2日(適時開示) ：日経会社情報DIGITAL",
-        "source": "日本経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1qb1pLTFByUlJ1YmQzRHUxYUx3VjRmOFNWeS1zNE5TN2RfNnBXZGg2NGdnaWMwU1JDSzJEdlM0aUl4ajRSblJZb3RFWDVaNG1YWDhib01vZmo1WGp2Vkg5bjhpcGZRYzJHT3c?oc=5",
-        "publishedAt": "2026-11-02T06:30:00.000Z"
-      },
-      {
         "time": "03:44",
         "title": "DMG森精機、ポーランド新工場で鋳物供給網強化",
         "source": "LOGISTICS TODAY",
         "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9GckVPTHc2R1ZIR0lkYXVpLTQyVnFhdEpnQTN2Qy1aUHBRcVZoT0RCWkRBaWc5WXNCT2Z4SVBrUjJpaDJPNkNSMWNn?oc=5",
         "publishedAt": "2026-11-02T18:44:38.000Z"
-      },
-      {
-        "time": "14:48",
-        "title": "精密スプリング製作所がＥＶ部品製造参入へ 自社技術応用、安価な複合材研究",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1jUnppR2hTeXR6Y1NmZ1ZZSUpSQVlxVldYZ205QTNWOFpwYUxtRERvLTVVc1Z3Zm9yWC1RbFUycHJNRUVlQ29BbmpOMXlKU1RnWnVvbE9lR09mMWhXUlhyemhyQndDUldtNGZhamFnUjV6NjViakhB?oc=5",
-        "publishedAt": "2026-11-02T05:48:50.000Z"
       },
       {
         "time": "01:40",
@@ -52,11 +38,25 @@
         "publishedAt": "2026-11-02T16:40:00.000Z"
       },
       {
-        "time": "18:04",
-        "title": "【長岡市の企業2社が経営行き詰まり】産業用装置メーカーと関連会社、事後処理を弁護士に一任",
-        "source": "にいがた経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE45U1dWR1VkZnFWc1hZT1BfQ3NQbHM3c3NOYjd5MW5fVVN2ZE41OVQxaVRfQ3VueWpLNk9TSW1OdTk2dDVZ?oc=5",
-        "publishedAt": "2026-11-02T09:04:48.000Z"
+        "time": "05:00",
+        "title": "青山財産ネット、社内にAIエージェント人材 社員選抜し育成",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBkOTh3ZDZWcHFFbzI0NWxORmpIX1ZpVFAwejJoZUctSnVyNVFaMTdkODlqbkhnOEJFeUJUMmZmdFYxSVZPLUdLajlzQkNuWkVqMTl5RnV6R1M?oc=5",
+        "publishedAt": "2026-11-02T20:00:00.000Z"
+      },
+      {
+        "time": "05:00",
+        "title": "昨年度、5G基地局11％増 KDDI最多 総務省まとめ",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ySzl4R2w1VU8zRHRTNzItaDJiOUhha1Y4V25IV25sZWpTR092aEVfbExVTEVuYXlQd25mbGNRWE9zYm52NU00TnBmeUgzTmpHNjhROGlYSDE?oc=5",
+        "publishedAt": "2026-11-02T20:00:00.000Z"
+      },
+      {
+        "time": "14:02",
+        "title": "上野電気工業、FA関連の奥谷電業を子会社化",
+        "source": "LOGISTICS TODAY",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE55TUpCcFlfUk9mVzdmaFVKLVRsWVBtYmJuNGVwQVl4SE4taG1LYzRod1EtQlF1LWFWNUNMZ01rWDdvX0QwZjZJSjNn?oc=5",
+        "publishedAt": "2026-11-02T05:02:14.000Z"
       }
     ],
     "worldHeadlines": [
@@ -126,6 +126,13 @@
         "publishedAt": "2026-11-02T09:03:31.000Z"
       },
       {
+        "time": "10:17",
+        "title": "安いもやし限界 5年で13社消える",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6601141?source=rss",
+        "publishedAt": "2026-11-03T01:17:07.000Z"
+      },
+      {
         "time": "09:47",
         "title": "子どものセルフレジ操作 SNS賛否",
         "source": "Yahoo!ニュース",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601046?source=rss",
         "publishedAt": "2026-11-02T03:13:14.000Z"
-      },
-      {
-        "time": "12:09",
-        "title": "サラダが主食? 専門店の市場拡大",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601045?source=rss",
-        "publishedAt": "2026-11-02T03:09:09.000Z"
       }
     ],
     "localHeadlines": [
