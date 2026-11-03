@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T18:13:19.444Z",
+  "updatedAt": "2026-11-03T18:36:01.117Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -10,11 +10,11 @@
         "publishedAt": "2026-11-02T22:49:16.000Z"
       },
       {
-        "time": "17:41",
-        "title": "電線の端材でストラップ制作 Ｍ．Ｓ．Ｅ．が商品化",
+        "time": "20:39",
+        "title": "【探訪ザ・カンパニー】オーザック（福山市）安全支えるワイヤ金具",
         "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TOThSZjN5eER3TlU3MHo0RE9lLXdpRFVod2Mtams1bFZvcjBKQnpvSFYxMjJPYm5HZVd5RlhtcHlTN3R2OGdVLUs5THBCQVVCWEE?oc=5",
-        "publishedAt": "2026-11-03T08:41:09.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB2YnlPN09iTUcyOGNldkhrT1k5RzQ5M0pLNkE3NkV1YzJxUDFPam9xOTV6dFZva2ZrNHNxNkZIOGYxMXN6R1JyUHFIMXZIamRMT2c?oc=5",
+        "publishedAt": "2026-11-03T11:39:36.000Z"
       },
       {
         "time": "05:00",
@@ -45,18 +45,18 @@
         "publishedAt": "2026-11-03T00:16:50.000Z"
       },
       {
+        "time": "17:03",
+        "title": "日本の座標測定機 (CMM)市場の成長要因",
+        "source": "pando.life",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9KN2RfUzVNRi1TcWxxbFpoQV9RRWttdFJ2Mll2a3k0MkIxMGlpbUdLRVlsejhXeUpmSUxQNHhyZnd2Z0swUDFVYTF3?oc=5",
+        "publishedAt": "2026-11-03T08:03:17.000Z"
+      },
+      {
         "time": "03:44",
         "title": "DMG森精機、ポーランド新工場で鋳物供給網強化",
         "source": "LOGISTICS TODAY",
         "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9GckVPTHc2R1ZIR0lkYXVpLTQyVnFhdEpnQTN2Qy1aUHBRcVZoT0RCWkRBaWc5WXNCT2Z4SVBrUjJpaDJPNkNSMWNn?oc=5",
         "publishedAt": "2026-11-02T18:44:38.000Z"
-      },
-      {
-        "time": "05:00",
-        "title": "京都FG、滋賀大とAI活用協定 月内にも研修開始",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5MSnpXNVZtdFNxSzFSZkVyelQ2MEp1R0tFSzBqVHJFZGs0T3FEeDdweExxeUZ5Ykw0MWNPOHk5YmNScldIUkp5VFNuUGN4dEQ1NFB3V1FUeWs?oc=5",
-        "publishedAt": "2026-11-02T20:00:00.000Z"
       }
     ],
     "worldHeadlines": [
