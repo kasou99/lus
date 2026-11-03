@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-03T07:12:12.426Z",
+  "updatedAt": "2026-11-03T07:35:45.017Z",
   "items": [
     {
       "time": "14:58",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "米巨大IT5社とも増収 7～9月期"
     },
     {
-      "time": "15:14",
-      "title": "宮中晩餐会 なぜフランス料理",
+      "time": "16:22",
+      "title": "無免許疑いの車にはねられる 重体",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601177?source=rss",
-      "publishedAt": "2026-11-03T06:14:52.000Z",
-      "xQuery": "宮中晩餐会 なぜフランス料理"
+      "url": "https://news.yahoo.co.jp/pickup/6601187?source=rss",
+      "publishedAt": "2026-11-03T07:22:32.000Z",
+      "xQuery": "無免許疑いの車にはねられる 重体"
     },
     {
-      "time": "13:22",
-      "title": "車が男性はね海へ転落 運転手死亡",
+      "time": "15:29",
+      "title": "離婚後極貧 50歳で教員免許を取得",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601161?source=rss",
-      "publishedAt": "2026-11-03T04:22:10.000Z",
-      "xQuery": "車が男性はね海へ転落 運転手死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6601175?source=rss",
+      "publishedAt": "2026-11-03T06:29:13.000Z",
+      "xQuery": "離婚後極貧 50歳で教員免許を取得"
     },
     {
       "time": "15:46",
