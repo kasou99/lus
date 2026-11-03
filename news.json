@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T16:12:19.187Z",
+  "updatedAt": "2026-11-03T16:35:56.517Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -8,6 +8,13 @@
         "source": "LOGISTICS TODAY",
         "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1QNVE3ZzBSeFNZSWxzSEVZYWlIXzd0dVlLSjJHcFdnWGsxRHZEWE5JaGlJRjczRTN0cG5USFpwV0o5b0pKeTJoZ0lB?oc=5",
         "publishedAt": "2026-11-02T22:49:16.000Z"
+      },
+      {
+        "time": "17:41",
+        "title": "電線の端材でストラップ制作 Ｍ．Ｓ．Ｅ．が商品化",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TOThSZjN5eER3TlU3MHo0RE9lLXdpRFVod2Mtams1bFZvcjBKQnpvSFYxMjJPYm5HZVd5RlhtcHlTN3R2OGdVLUs5THBCQVVCWEE?oc=5",
+        "publishedAt": "2026-11-03T08:41:09.000Z"
       },
       {
         "time": "05:00",
@@ -50,13 +57,6 @@
         "source": "매일경제",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBpWm1XQUEzUVFRRHZ5eC1fUmF2Q0RWSWVWc25GbTdzSU9UY0ZmRGpOSkdGclBueVdUcHJLYWZGVkVFc3poa2l2a2JRa2tlN1k?oc=5",
         "publishedAt": "2026-11-03T00:16:50.000Z"
-      },
-      {
-        "time": "18:24",
-        "title": "GMO熊谷社長ら 報酬を3カ月減額",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601082?source=rss",
-        "publishedAt": "2026-11-02T09:24:53.000Z"
       }
     ],
     "worldHeadlines": [
