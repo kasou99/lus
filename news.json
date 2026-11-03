@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T14:11:49.619Z",
+  "updatedAt": "2026-11-03T14:35:42.485Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -11,9 +11,9 @@
       },
       {
         "time": "05:00",
-        "title": "青山財産ネット、社内にAIエージェント人材 社員選抜し育成",
+        "title": "京都FG、滋賀大とAI活用協定 月内にも研修開始",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBkOTh3ZDZWcHFFbzI0NWxORmpIX1ZpVFAwejJoZUctSnVyNVFaMTdkODlqbkhnOEJFeUJUMmZmdFYxSVZPLUdLajlzQkNuWkVqMTl5RnV6R1M?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5MSnpXNVZtdFNxSzFSZkVyelQ2MEp1R0tFSzBqVHJFZGs0T3FEeDdweExxeUZ5Ykw0MWNPOHk5YmNScldIUkp5VFNuUGN4dEQ1NFB3V1FUeWs?oc=5",
         "publishedAt": "2026-11-02T20:00:00.000Z"
       },
       {
@@ -31,6 +31,13 @@
         "publishedAt": "2026-11-02T22:40:00.000Z"
       },
       {
+        "time": "09:16",
+        "title": "MKシグナルが今日分析したホットイシューゴールデンクロス種目は、チェリーブロ&ファチョン機械です。",
+        "source": "매일경제",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBpWm1XQUEzUVFRRHZ5eC1fUmF2Q0RWSWVWc25GbTdzSU9UY0ZmRGpOSkdGclBueVdUcHJLYWZGVkVFc3poa2l2a2JRa2tlN1k?oc=5",
+        "publishedAt": "2026-11-03T00:16:50.000Z"
+      },
+      {
         "time": "03:44",
         "title": "DMG森精機、ポーランド新工場で鋳物供給網強化",
         "source": "LOGISTICS TODAY",
@@ -38,11 +45,11 @@
         "publishedAt": "2026-11-02T18:44:38.000Z"
       },
       {
-        "time": "05:00",
-        "title": "京都FG、滋賀大とAI活用協定 月内にも研修開始",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5MSnpXNVZtdFNxSzFSZkVyelQ2MEp1R0tFSzBqVHJFZGs0T3FEeDdweExxeUZ5Ykw0MWNPOHk5YmNScldIUkp5VFNuUGN4dEQ1NFB3V1FUeWs?oc=5",
-        "publishedAt": "2026-11-02T20:00:00.000Z"
+        "time": "17:03",
+        "title": "日本の座標測定機 (CMM)市場の成長要因",
+        "source": "pando.life",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9KN2RfUzVNRi1TcWxxbFpoQV9RRWttdFJ2Mll2a3k0MkIxMGlpbUdLRVlsejhXeUpmSUxQNHhyZnd2Z0swUDFVYTF3?oc=5",
+        "publishedAt": "2026-11-03T08:03:17.000Z"
       },
       {
         "time": "05:00",
@@ -50,13 +57,6 @@
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ySzl4R2w1VU8zRHRTNzItaDJiOUhha1Y4V25IV25sZWpTR092aEVfbExVTEVuYXlQd25mbGNRWE9zYm52NU00TnBmeUgzTmpHNjhROGlYSDE?oc=5",
         "publishedAt": "2026-11-02T20:00:00.000Z"
-      },
-      {
-        "time": "09:16",
-        "title": "MKシグナルが今日分析したホットイシューゴールデンクロス種目は、チェリーブロ&ファチョン機械です。",
-        "source": "매일경제",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBpWm1XQUEzUVFRRHZ5eC1fUmF2Q0RWSWVWc25GbTdzSU9UY0ZmRGpOSkdGclBueVdUcHJLYWZGVkVFc3poa2l2a2JRa2tlN1k?oc=5",
-        "publishedAt": "2026-11-03T00:16:50.000Z"
       }
     ],
     "worldHeadlines": [

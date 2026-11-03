@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-03T14:11:50.279Z",
+  "updatedAt": "2026-11-03T14:35:43.225Z",
   "items": [
     {
       "time": "23:02",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "武部農相 献金巡り新たな疑惑"
     },
     {
-      "time": "22:29",
-      "title": "イタイイタイ病 最後の原告死去",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601224?source=rss",
-      "publishedAt": "2026-11-03T13:29:57.000Z",
-      "xQuery": "イタイイタイ病 最後の原告死去"
-    },
-    {
       "time": "21:04",
       "title": "海に新生児とみられる遺体 事件か",
       "source": "Yahoo!ニュース",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6601219?source=rss",
       "publishedAt": "2026-11-03T12:38:04.000Z",
       "xQuery": "台湾の九份 日本人男性が行方不明"
+    },
+    {
+      "time": "23:08",
+      "title": "アソビュー 1580万件が流出か",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601228?source=rss",
+      "publishedAt": "2026-11-03T14:08:40.000Z",
+      "xQuery": "アソビュー 1580万件が流出か"
     }
   ]
 };
