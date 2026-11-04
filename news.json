@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T23:10:00.549Z",
+  "updatedAt": "2026-11-04T23:35:24.760Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -149,18 +149,18 @@
     ],
     "localHeadlines": [
       {
+        "time": "08:22",
+        "title": "幹部逮捕 川崎市役所を家宅捜索",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6601377?source=rss",
+        "publishedAt": "2026-11-04T23:22:44.000Z"
+      },
+      {
         "time": "16:50",
         "title": "津市の火災 死亡の4人は4～13歳",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601309?source=rss",
         "publishedAt": "2026-11-04T07:50:11.000Z"
-      },
-      {
-        "time": "06:21",
-        "title": "路上に血を流した女性 搬送も重体",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601239?source=rss",
-        "publishedAt": "2026-11-03T21:21:42.000Z"
       },
       {
         "time": "19:02",

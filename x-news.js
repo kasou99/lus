@@ -1,13 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-04T23:10:01.400Z",
+  "updatedAt": "2026-11-04T23:35:25.900Z",
   "items": [
     {
-      "time": "06:30",
-      "title": "関東や伊豆諸島 大雨災害に警戒",
+      "time": "07:35",
+      "title": "米民主党 トランプ政権監視強化へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601367?source=rss",
-      "publishedAt": "2026-11-04T21:30:41.000Z",
-      "xQuery": "関東や伊豆諸島 大雨災害に警戒"
+      "url": "https://news.yahoo.co.jp/pickup/6601374?source=rss",
+      "publishedAt": "2026-11-04T22:35:38.000Z",
+      "xQuery": "米民主党 トランプ政権監視強化へ"
+    },
+    {
+      "time": "08:01",
+      "title": "消費税減税 あすにも衆院通過へ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601376?source=rss",
+      "publishedAt": "2026-11-04T23:01:06.000Z",
+      "xQuery": "消費税減税 あすにも衆院通過へ"
     },
     {
       "time": "07:19",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "ダウ一時1500ドル高 選挙から一夜"
     },
     {
-      "time": "23:54",
-      "title": "リニア工事費 再び増額へ検討",
+      "time": "08:22",
+      "title": "幹部逮捕 川崎市役所を家宅捜索",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601365?source=rss",
-      "publishedAt": "2026-11-04T14:54:37.000Z",
-      "xQuery": "リニア工事費 再び増額へ検討"
-    },
-    {
-      "time": "23:08",
-      "title": "e-Taxに不審な通信 緊急メンテ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601361?source=rss",
-      "publishedAt": "2026-11-04T14:08:31.000Z",
-      "xQuery": "e-Taxに不審な通信 緊急メンテ"
+      "url": "https://news.yahoo.co.jp/pickup/6601377?source=rss",
+      "publishedAt": "2026-11-04T23:22:44.000Z",
+      "xQuery": "幹部逮捕 川崎市役所を家宅捜索"
     }
   ]
 };
