@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-11-04T04:13:10.538Z",
+  "updatedAt": "2026-11-04T04:36:07.286Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "12:55",
+        "title": "対中輸出規制の初回対象から工作機械は除外も、新代はなお2日連続ストップ安",
+        "source": "BigGo ファイナンス",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1SZ1lyRGRDb205a1JPVHR2V0FQbl95dXZacGswZ25MMS1BMTlGYm1pdTAxNWlYRUZoTHpCSFRwQkVPenZFa0hWRF96WFFaNmVBRTNCOWlpMjkwUE90cjJORVZEeFkyVVFRTjFmX0I4V1ppM254?oc=5",
+        "publishedAt": "2026-11-04T03:55:00.000Z"
+      },
       {
         "time": "11:30",
         "title": "JIMTOFで見た主要各社のAI活用：JIMTOF2026",
@@ -10,11 +17,11 @@
         "publishedAt": "2026-11-04T02:30:00.000Z"
       },
       {
-        "time": "10:51",
+        "time": "10:15",
         "title": "【設備保全DX】スマートファクトリーJapan2026に次世代設備保全クラウド「M2X」ブースを出展",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4yb210TTFQbTU5NFVva0tCVl93Nnh6QmNadFI0MDRhbE5PcG9Hc2c3ckxwTFc2WUFRZVBzUmQ5VjlhcGRISXlBbi1tWTlxcUhfcVRhQW02YkFROFp1S3NRTGw1cWlrNDU5Y0pHQy1LT1d6UWQyeHFHMFJ6dw?oc=5",
-        "publishedAt": "2026-11-04T01:51:19.000Z"
+        "source": "Excite エキサイト",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9qOWxDUmpNdUFMSFRUOVN1cVFuelRSY1R3YV9QS3hDdGlUdWpyUzVWdHV5a1JMSHB2RkpVTktTRDE1ZnRxOW15Z3QtVEt5NlhwLUdFWS1PX0tYYk4wQldueTdwcHpESlZ6MlBxRUtHaks5a1AyTGc?oc=5",
+        "publishedAt": "2026-11-04T01:15:00.000Z"
       },
       {
         "time": "07:11",
@@ -38,11 +45,11 @@
         "publishedAt": "2026-11-03T20:00:00.000Z"
       },
       {
-        "time": "19:35",
-        "title": "電線の端材でストラップ制作 Ｍ．Ｓ．Ｅ．が商品化",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TOThSZjN5eER3TlU3MHo0RE9lLXdpRFVod2Mtams1bFZvcjBKQnpvSFYxMjJPYm5HZVd5RlhtcHlTN3R2OGdVLUs5THBCQVVCWEE?oc=5",
-        "publishedAt": "2026-11-03T10:35:04.000Z"
+        "time": "05:00",
+        "title": "回収装置に新製品２機種 永進テクノ、分離能力が向上",
+        "source": "中部経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1kR2d1MFFFY1V1Vm9CeWZkX2V4SThZbll0Y09Bellvb0R4MGxUNEstLWZiMUxhWE5BTlJnMWFsQ0E2RVZUdW10SjRxbDhpREYzT1l5dlZuaDVUYlViVS1ycFI2ZXhqTFdUa0lKaUtzR3BFNFk?oc=5",
+        "publishedAt": "2026-11-03T20:00:00.000Z"
       },
       {
         "time": "20:39",
@@ -50,13 +57,6 @@
         "source": "山陽新聞",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB2YnlPN09iTUcyOGNldkhrT1k5RzQ5M0pLNkE3NkV1YzJxUDFPam9xOTV6dFZva2ZrNHNxNkZIOGYxMXN6R1JyUHFIMXZIamRMT2c?oc=5",
         "publishedAt": "2026-11-03T11:39:36.000Z"
-      },
-      {
-        "time": "13:30",
-        "title": "高精度油圧式拡張マンドレルの世界市場（2026年～2032年）、市場規模（電動、空圧）・分析レポートを発表",
-        "source": "アットプレス",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5TNkhwYVVMN3RUanU3aGt1NzdpUEJtY2J2ZUJDQ25nY2ZlbC0xUzQzWUVQNkNnU01oMVBpMlhiTDFIQlBOUW1jZFJxeEhDaVE?oc=5",
-        "publishedAt": "2026-11-03T04:30:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -66,6 +66,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601265?source=rss",
         "publishedAt": "2026-11-04T01:01:21.000Z"
+      },
+      {
+        "time": "13:20",
+        "title": "米大統領痛手 民主が下院奪還確実",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6601291?source=rss",
+        "publishedAt": "2026-11-04T04:20:37.000Z"
       },
       {
         "time": "12:25",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601259?source=rss",
         "publishedAt": "2026-11-04T00:15:58.000Z"
-      },
-      {
-        "time": "09:40",
-        "title": "スペイン運輸相 列車事故受け辞意",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601256?source=rss",
-        "publishedAt": "2026-11-04T00:40:48.000Z"
       }
     ],
     "economyHeadlines": [

@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-04T04:13:11.499Z",
+  "updatedAt": "2026-11-04T04:36:08.621Z",
   "items": [
     {
       "time": "12:25",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "中継 米中間選挙の開票速報"
     },
     {
-      "time": "11:10",
-      "title": "日経平均株価 一時2000円超下落",
+      "time": "13:20",
+      "title": "米大統領痛手 民主が下院奪還確実",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601272?source=rss",
-      "publishedAt": "2026-11-04T02:10:16.000Z",
-      "xQuery": "日経平均株価 一時2000円超下落"
+      "url": "https://news.yahoo.co.jp/pickup/6601291?source=rss",
+      "publishedAt": "2026-11-04T04:20:37.000Z",
+      "xQuery": "米大統領痛手 民主が下院奪還確実"
     },
     {
       "time": "12:00",
