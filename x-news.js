@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-04T22:35:19.584Z",
+  "updatedAt": "2026-11-04T23:10:01.400Z",
   "items": [
     {
       "time": "06:30",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "「書道」無形文化遺産に登録へ"
     },
     {
-      "time": "23:20",
-      "title": "米中間選挙 日本政府は動向注視",
+      "time": "07:35",
+      "title": "ダウ一時1500ドル高 選挙から一夜",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601362?source=rss",
-      "publishedAt": "2026-11-04T14:20:05.000Z",
-      "xQuery": "米中間選挙 日本政府は動向注視"
+      "url": "https://news.yahoo.co.jp/pickup/6601373?source=rss",
+      "publishedAt": "2026-11-04T22:35:29.000Z",
+      "xQuery": "ダウ一時1500ドル高 選挙から一夜"
     },
     {
       "time": "23:54",
