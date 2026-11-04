@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T11:35:33.586Z",
+  "updatedAt": "2026-11-04T12:17:00.989Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -52,11 +52,11 @@
         "publishedAt": "2026-11-03T17:26:13.000Z"
       },
       {
-        "time": "20:39",
-        "title": "【探訪ザ・カンパニー】オーザック（福山市）安全支えるワイヤ金具",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB2YnlPN09iTUcyOGNldkhrT1k5RzQ5M0pLNkE3NkV1YzJxUDFPam9xOTV6dFZva2ZrNHNxNkZIOGYxMXN6R1JyUHFIMXZIamRMT2c?oc=5",
-        "publishedAt": "2026-11-03T11:39:36.000Z"
+        "time": "05:00",
+        "title": "トライオーブ、米で移動ロボ生産 車部品製造向け",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5tMlYwWkpnbmt5YkVrZ2tpNFhVSHp5X3BHX2haamw1RXJ1bGdYTXpPS0kyYVNmSXpfVDVSQnhnZ1NaUEE3dG5OZjN1NnMxLTlKMVMwWjNQZ2s?oc=5",
+        "publishedAt": "2026-11-03T20:00:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -105,11 +105,25 @@
     ],
     "economyHeadlines": [
       {
+        "time": "20:49",
+        "title": "米中間選挙 日本経済への影響は",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6601343?source=rss",
+        "publishedAt": "2026-11-04T11:49:29.000Z"
+      },
+      {
         "time": "16:59",
         "title": "東証続落 米選挙懸念でAI株売り",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601314?source=rss",
         "publishedAt": "2026-11-04T07:59:18.000Z"
+      },
+      {
+        "time": "21:13",
+        "title": "金融庁 ソニーFGに立ち入り検査",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6601346?source=rss",
+        "publishedAt": "2026-11-04T12:13:24.000Z"
       },
       {
         "time": "12:00",
@@ -119,32 +133,18 @@
         "publishedAt": "2026-11-04T03:00:46.000Z"
       },
       {
+        "time": "21:04",
+        "title": "革新機構 JSRを三井化学に売却へ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6601345?source=rss",
+        "publishedAt": "2026-11-04T12:04:11.000Z"
+      },
+      {
         "time": "15:23",
         "title": "BYD海外販売が倍増 中国車に明暗",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601278?source=rss",
         "publishedAt": "2026-11-04T06:23:32.000Z"
-      },
-      {
-        "time": "10:25",
-        "title": "フードデリバリー業界に淘汰の波",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601266?source=rss",
-        "publishedAt": "2026-11-04T01:25:19.000Z"
-      },
-      {
-        "time": "08:16",
-        "title": "パーソナルトレ トラブル急増",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601250?source=rss",
-        "publishedAt": "2026-11-03T23:16:44.000Z"
-      },
-      {
-        "time": "19:10",
-        "title": "すし店の休廃業・解散が急増 25年",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601334?source=rss",
-        "publishedAt": "2026-11-04T10:10:49.000Z"
       }
     ],
     "localHeadlines": [
@@ -170,6 +170,13 @@
         "publishedAt": "2026-11-04T10:02:04.000Z"
       },
       {
+        "time": "20:34",
+        "title": "警官の拳銃奪い自らに発砲 重体",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6601342?source=rss",
+        "publishedAt": "2026-11-04T11:34:45.000Z"
+      },
+      {
         "time": "18:01",
         "title": "重機が倒れ頭挟まれる 作業員死亡",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601307?source=rss",
         "publishedAt": "2026-11-04T07:32:08.000Z"
-      },
-      {
-        "time": "12:45",
-        "title": "担任が生徒と「交際」裁判長断罪",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601289?source=rss",
-        "publishedAt": "2026-11-04T03:45:12.000Z"
       }
     ],
     "subsidyHeadlines": [

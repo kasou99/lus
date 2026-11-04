@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-04T11:35:34.486Z",
+  "updatedAt": "2026-11-04T12:17:02.118Z",
   "items": [
     {
-      "time": "18:09",
-      "title": "米大統領 民主党に「おめでとう」",
+      "time": "20:49",
+      "title": "米中間選挙 日本経済への影響は",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601327?source=rss",
-      "publishedAt": "2026-11-04T09:09:06.000Z",
-      "xQuery": "米大統領 民主党に「おめでとう」"
+      "url": "https://news.yahoo.co.jp/pickup/6601343?source=rss",
+      "publishedAt": "2026-11-04T11:49:29.000Z",
+      "xQuery": "米中間選挙 日本経済への影響は"
     },
     {
-      "time": "18:52",
-      "title": "米民主党が躍進 支持者は喜び爆発",
+      "time": "15:25",
+      "title": "ISSの米宇宙飛行士も中間選挙投票",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601332?source=rss",
-      "publishedAt": "2026-11-04T09:52:57.000Z",
-      "xQuery": "米民主党が躍進 支持者は喜び爆発"
+      "url": "https://news.yahoo.co.jp/pickup/6601302?source=rss",
+      "publishedAt": "2026-11-04T06:25:46.000Z",
+      "xQuery": "ISSの米宇宙飛行士も中間選挙投票"
     },
     {
       "time": "18:32",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "列車事故で死亡の邦人 20代男女か"
     },
     {
-      "time": "19:28",
-      "title": "養殖カンパチ大量死 26万8000匹",
+      "time": "20:34",
+      "title": "警官の拳銃奪い自らに発砲 重体",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601336?source=rss",
-      "publishedAt": "2026-11-04T10:28:35.000Z",
-      "xQuery": "養殖カンパチ大量死 26万8000匹"
+      "url": "https://news.yahoo.co.jp/pickup/6601342?source=rss",
+      "publishedAt": "2026-11-04T11:34:45.000Z",
+      "xQuery": "警官の拳銃奪い自らに発砲 重体"
     }
   ]
 };
