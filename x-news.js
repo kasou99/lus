@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-03T23:35:59.696Z",
+  "updatedAt": "2026-11-04T00:29:15.131Z",
   "items": [
     {
       "time": "08:28",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "米中間選挙 予測市場が試練に直面"
     },
     {
-      "time": "07:30",
-      "title": "欧州で旅客機への爆破予告相次ぐ",
+      "time": "09:15",
+      "title": "米 イスラエル年40億ドル支援終了",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601246?source=rss",
-      "publishedAt": "2026-11-03T22:30:44.000Z",
-      "xQuery": "欧州で旅客機への爆破予告相次ぐ"
+      "url": "https://news.yahoo.co.jp/pickup/6601259?source=rss",
+      "publishedAt": "2026-11-04T00:15:58.000Z",
+      "xQuery": "米 イスラエル年40億ドル支援終了"
     },
     {
-      "time": "07:30",
-      "title": "米大統領 イスラエル支援終了発表",
+      "time": "08:23",
+      "title": "関東一部 5日朝に警報級大雨恐れ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601244?source=rss",
-      "publishedAt": "2026-11-03T22:30:01.000Z",
-      "xQuery": "米大統領 イスラエル支援終了発表"
+      "url": "https://news.yahoo.co.jp/pickup/6601253?source=rss",
+      "publishedAt": "2026-11-03T23:23:21.000Z",
+      "xQuery": "関東一部 5日朝に警報級大雨恐れ"
     },
     {
       "time": "08:16",

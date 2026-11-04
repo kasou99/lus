@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T23:35:58.489Z",
+  "updatedAt": "2026-11-04T00:29:14.524Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -8,6 +8,20 @@
         "source": "note",
         "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1LeHgzTmpkYUhaa1ZDdmhuckM3Z2M4ZlM0Z0o4NWxCcmhJcnYwTE1jWDB3NzM2OS0zclR3SmN6YjE3cTM5WXJRdzZGTkl0bF93b1pYeHdONjRzcThESXc?oc=5",
         "publishedAt": "2026-11-03T22:11:18.000Z"
+      },
+      {
+        "time": "02:26",
+        "title": "「JIMTOF2026 第33回日本国際工作機械見本市」出展のご案内 | 鹿児島・九州プレスリリース | 生活情報 | くらし",
+        "source": "南日本新聞",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSkQ1WFI4RDBKdnVOc2t6TUZGWjJWOFlUVF9ScXRZSkJ4RzZJZ2x2dGJJaUQtZHJWNVdPUDVlenVVWXNqXzQwM2tkeDd1ZjVyVmtaLW40UTNkdnZ6SnFZSXZfUXpwTXFRaUhaLU1JWmZGZ2JqQ3dUR1NmbWUyQXc4dA?oc=5",
+        "publishedAt": "2026-11-03T17:26:13.000Z"
+      },
+      {
+        "time": "09:00",
+        "title": "【設備保全DX】スマートファクトリーJapan2026に次世代設備保全クラウド「M2X」ブースを出展",
+        "source": "PR TIMES",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9lY1NiQmZJRHhmTENaTFV6aXZLQnF4dEQxT01FZmtfQ1BCWGh2S0s1MGxyMUpqQmRQdktUVTF6VW5hYWxRZW9OVlczRnpFOUs4S05CMTBFZVhQMnQwYk9vMGFqdlhfQV8tWmc?oc=5",
+        "publishedAt": "2026-11-04T00:00:01.000Z"
       },
       {
         "time": "05:00",
@@ -43,20 +57,6 @@
         "source": "アットプレス",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5TNkhwYVVMN3RUanU3aGt1NzdpUEJtY2J2ZUJDQ25nY2ZlbC0xUzQzWUVQNkNnU01oMVBpMlhiTDFIQlBOUW1jZFJxeEhDaVE?oc=5",
         "publishedAt": "2026-11-03T04:30:00.000Z"
-      },
-      {
-        "time": "17:03",
-        "title": "日本の座標測定機 (CMM)市場の成長要因",
-        "source": "pando.life",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9KN2RfUzVNRi1TcWxxbFpoQV9RRWttdFJ2Mll2a3k0MkIxMGlpbUdLRVlsejhXeUpmSUxQNHhyZnd2Z0swUDFVYTF3?oc=5",
-        "publishedAt": "2026-11-03T08:03:17.000Z"
-      },
-      {
-        "time": "18:24",
-        "title": "GMO熊谷社長ら 報酬を3カ月減額",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601082?source=rss",
-        "publishedAt": "2026-11-02T09:24:53.000Z"
       }
     ],
     "worldHeadlines": [
@@ -82,11 +82,11 @@
         "publishedAt": "2026-11-03T14:02:50.000Z"
       },
       {
-        "time": "07:30",
-        "title": "米大統領 イスラエル支援終了発表",
+        "time": "09:15",
+        "title": "米 イスラエル年40億ドル支援終了",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601244?source=rss",
-        "publishedAt": "2026-11-03T22:30:01.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6601259?source=rss",
+        "publishedAt": "2026-11-04T00:15:58.000Z"
       },
       {
         "time": "21:59",
@@ -105,6 +105,13 @@
     ],
     "economyHeadlines": [
       {
+        "time": "09:20",
+        "title": "自治体システム移行費巡り調査へ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6601258?source=rss",
+        "publishedAt": "2026-11-04T00:20:10.000Z"
+      },
+      {
         "time": "18:24",
         "title": "GMO熊谷社長ら 報酬を3カ月減額",
         "source": "Yahoo!ニュース",
@@ -117,13 +124,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601212?source=rss",
         "publishedAt": "2026-11-03T10:23:11.000Z"
-      },
-      {
-        "time": "05:36",
-        "title": "山手線外回りが運転再開 駅で発煙",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601237?source=rss",
-        "publishedAt": "2026-11-03T20:36:21.000Z"
       },
       {
         "time": "10:17",
