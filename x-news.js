@@ -1,37 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-04T07:36:29.135Z",
+  "updatedAt": "2026-11-04T08:14:47.589Z",
   "items": [
     {
-      "time": "13:52",
-      "title": "米民主党が両院で過半数確実 報道",
+      "time": "17:00",
+      "title": "米大統領 敗因巡りイラン攻撃言及",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601295?source=rss",
-      "publishedAt": "2026-11-04T04:52:02.000Z",
-      "xQuery": "米民主党が両院で過半数確実 報道"
+      "url": "https://news.yahoo.co.jp/pickup/6601315?source=rss",
+      "publishedAt": "2026-11-04T08:00:55.000Z",
+      "xQuery": "米大統領 敗因巡りイラン攻撃言及"
     },
     {
-      "time": "16:10",
-      "title": "黒人女性が州知事に当確 米中間選",
+      "time": "16:53",
+      "title": "黒人女性が州知事に当選確実 米",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601305?source=rss",
-      "publishedAt": "2026-11-04T07:10:48.000Z",
-      "xQuery": "黒人女性が州知事に当確 米中間選"
+      "url": "https://news.yahoo.co.jp/pickup/6601313?source=rss",
+      "publishedAt": "2026-11-04T07:53:10.000Z",
+      "xQuery": "黒人女性が州知事に当選確実 米"
     },
     {
-      "time": "14:14",
-      "title": "トランプ氏 選挙結果受け入れ表明",
+      "time": "16:59",
+      "title": "東証続落 米選挙懸念でAI株売り",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601299?source=rss",
-      "publishedAt": "2026-11-04T05:14:21.000Z",
-      "xQuery": "トランプ氏 選挙結果受け入れ表明"
-    },
-    {
-      "time": "16:23",
-      "title": "東証続落 半導体関連株中心に売り",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601308?source=rss",
-      "publishedAt": "2026-11-04T07:23:55.000Z",
-      "xQuery": "東証続落 半導体関連株中心に売り"
+      "url": "https://news.yahoo.co.jp/pickup/6601314?source=rss",
+      "publishedAt": "2026-11-04T07:59:18.000Z",
+      "xQuery": "東証続落 米選挙懸念でAI株売り"
     },
     {
       "time": "15:23",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6601278?source=rss",
       "publishedAt": "2026-11-04T06:23:32.000Z",
       "xQuery": "BYD海外販売が倍増 中国車に明暗"
+    },
+    {
+      "time": "16:50",
+      "title": "津市の火災 死亡の4人は4～13歳",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601309?source=rss",
+      "publishedAt": "2026-11-04T07:50:11.000Z",
+      "xQuery": "津市の火災 死亡の4人は4～13歳"
     }
   ]
 };
