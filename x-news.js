@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-04T03:12:13.071Z",
+  "updatedAt": "2026-11-04T03:36:19.383Z",
   "items": [
+    {
+      "time": "12:25",
+      "title": "米民主党が下院で過半数確実 CNN",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601287?source=rss",
+      "publishedAt": "2026-11-04T03:25:19.000Z",
+      "xQuery": "米民主党が下院で過半数確実 CNN"
+    },
     {
       "time": "10:01",
       "title": "中継 米中間選挙の開票速報",
@@ -8,14 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6601265?source=rss",
       "publishedAt": "2026-11-04T01:01:21.000Z",
       "xQuery": "中継 米中間選挙の開票速報"
-    },
-    {
-      "time": "12:05",
-      "title": "米中間選挙 下院は野党の民主優勢",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601285?source=rss",
-      "publishedAt": "2026-11-04T03:05:14.000Z",
-      "xQuery": "米中間選挙 下院は野党の民主優勢"
     },
     {
       "time": "11:10",

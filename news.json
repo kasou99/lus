@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T03:12:12.237Z",
+  "updatedAt": "2026-11-04T03:36:18.536Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,20 +31,6 @@
         "publishedAt": "2026-11-03T23:04:45.000Z"
       },
       {
-        "time": "12:03",
-        "title": "ジェイテクト・日本精工・NTN…軸受3社は通期売上高上方修正も、構造改革が必要な理由",
-        "source": "ニュースイッチ by 日刊工業新聞社",
-        "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBjVktJOWNad3QxaDBIcF82SVZnVGRKbERxQ2I0Q3Z2OUQ4UExIX2g0VmctYVNTcFhuZlBoS0ZmaGpKZw?oc=5",
-        "publishedAt": "2026-11-04T03:03:00.000Z"
-      },
-      {
-        "time": "10:15",
-        "title": "亞德客、10月売上高35.65億台湾ドルで同月過去最高－受注動向は2027年まで好調持続へ",
-        "source": "BigGo ファイナンス",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9rZlhRZkR1b09MMzZUV0pHRUsxWVYtRk0zS1dQNnRjNXZ0b3E5NmZ5b3h6SW40OHMwQjhtSjNRS2dXZ3RGWWNWQU5kbUc2eVZhTWlJa00wcndzTEhzdGxua1V1TFpRZEpYQjNxeHRRZzdtTzJh?oc=5",
-        "publishedAt": "2026-11-04T01:15:00.000Z"
-      },
-      {
         "time": "05:00",
         "title": "トライオーブ、米で移動ロボ生産 車部品製造向け",
         "source": "日刊工業新聞",
@@ -52,21 +38,28 @@
         "publishedAt": "2026-11-03T20:00:00.000Z"
       },
       {
-        "time": "05:00",
-        "title": "回収装置に新製品２機種 永進テクノ、分離能力が向上",
-        "source": "中部経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1kR2d1MFFFY1V1Vm9CeWZkX2V4SThZbll0Y09Bellvb0R4MGxUNEstLWZiMUxhWE5BTlJnMWFsQ0E2RVZUdW10SjRxbDhpREYzT1l5dlZuaDVUYlViVS1ycFI2ZXhqTFdUa0lKaUtzR3BFNFk?oc=5",
-        "publishedAt": "2026-11-03T20:00:00.000Z"
+        "time": "19:35",
+        "title": "電線の端材でストラップ制作 Ｍ．Ｓ．Ｅ．が商品化",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TOThSZjN5eER3TlU3MHo0RE9lLXdpRFVod2Mtams1bFZvcjBKQnpvSFYxMjJPYm5HZVd5RlhtcHlTN3R2OGdVLUs5THBCQVVCWEE?oc=5",
+        "publishedAt": "2026-11-03T10:35:04.000Z"
+      },
+      {
+        "time": "20:39",
+        "title": "【探訪ザ・カンパニー】オーザック（福山市）安全支えるワイヤ金具",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB2YnlPN09iTUcyOGNldkhrT1k5RzQ5M0pLNkE3NkV1YzJxUDFPam9xOTV6dFZva2ZrNHNxNkZIOGYxMXN6R1JyUHFIMXZIamRMT2c?oc=5",
+        "publishedAt": "2026-11-03T11:39:36.000Z"
+      },
+      {
+        "time": "13:30",
+        "title": "高精度油圧式拡張マンドレルの世界市場（2026年～2032年）、市場規模（電動、空圧）・分析レポートを発表",
+        "source": "アットプレス",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5TNkhwYVVMN3RUanU3aGt1NzdpUEJtY2J2ZUJDQ25nY2ZlbC0xUzQzWUVQNkNnU01oMVBpMlhiTDFIQlBOUW1jZFJxeEhDaVE?oc=5",
+        "publishedAt": "2026-11-03T04:30:00.000Z"
       }
     ],
     "worldHeadlines": [
-      {
-        "time": "10:16",
-        "title": "北朝鮮が日本海に向け飛翔体発射",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601267?source=rss",
-        "publishedAt": "2026-11-04T01:16:27.000Z"
-      },
       {
         "time": "10:01",
         "title": "中継 米中間選挙の開票速報",
@@ -75,11 +68,11 @@
         "publishedAt": "2026-11-04T01:01:21.000Z"
       },
       {
-        "time": "12:05",
-        "title": "米中間選挙 下院は野党の民主優勢",
+        "time": "12:25",
+        "title": "米民主党が下院で過半数確実 CNN",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601285?source=rss",
-        "publishedAt": "2026-11-04T03:05:14.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6601287?source=rss",
+        "publishedAt": "2026-11-04T03:25:19.000Z"
       },
       {
         "time": "10:54",
@@ -87,6 +80,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601269?source=rss",
         "publishedAt": "2026-11-04T01:54:56.000Z"
+      },
+      {
+        "time": "10:16",
+        "title": "北朝鮮が日本海に向け飛翔体発射",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6601267?source=rss",
+        "publishedAt": "2026-11-04T01:16:27.000Z"
       },
       {
         "time": "09:15",
