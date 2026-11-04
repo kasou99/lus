@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T21:35:45.406Z",
+  "updatedAt": "2026-11-04T22:09:53.639Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -15,6 +15,13 @@
         "source": "MONOist",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBRZGRHdEUxRmlDa0RfVFhtc0VSM2MzQm45c1owRG1vMjJHU1ZxRUYycHp5TFU3MW1FSjBzU1FYOHVPd3pGMTNuaF9tZV9rRmY0aXc0ZS1fZ0ZaLWItbFJCSms2SmwwTlZ4QjczdFZhMA?oc=5",
         "publishedAt": "2026-11-04T02:30:00.000Z"
+      },
+      {
+        "time": "18:41",
+        "title": "【探訪ザ・カンパニー】オーザック（福山市）安全支えるワイヤ金具",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB2YnlPN09iTUcyOGNldkhrT1k5RzQ5M0pLNkE3NkV1YzJxUDFPam9xOTV6dFZva2ZrNHNxNkZIOGYxMXN6R1JyUHFIMXZIamRMT2c?oc=5",
+        "publishedAt": "2026-11-04T09:41:41.000Z"
       },
       {
         "time": "15:39",
@@ -49,13 +56,6 @@
         "title": "挑む・モノづくりヒトづくり／銀河電機工業社長・後藤恵一氏",
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5mNHhiMUxNd2RucEpzcXV4U2xhUjMwbG45bG9ScEVRU2xaczhmcVNWY25vRV8zbi1KMDJlQmo2clhGcThKb1A1bHdUMzd1cVFuM09ocVZUaHg?oc=5",
-        "publishedAt": "2026-11-04T20:00:00.000Z"
-      },
-      {
-        "time": "05:00",
-        "title": "決算を読む オークマ 26年４～９月期 純利益２・６倍で過去最高 米国中心に販売拡大 通期は増収増益予想",
-        "source": "中部経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBtU2ZRT2I2bG51Sk5sU3E1a2V6OXdHLXoxQ3BtX1Jpay13YnZVbHk5VE9Cc2NaaFY2dVZYVnZDTWE1LWVybDB3NU5tS1VKR0NXUFlfY3NfTGtNdnJpVW5OaDZxeG1lZWxnVFNpNWxCWURmZmc?oc=5",
         "publishedAt": "2026-11-04T20:00:00.000Z"
       }
     ],

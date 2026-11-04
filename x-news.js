@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-04T21:35:46.523Z",
+  "updatedAt": "2026-11-04T22:09:54.561Z",
   "items": [
+    {
+      "time": "06:30",
+      "title": "関東や伊豆諸島 大雨災害に警戒",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601367?source=rss",
+      "publishedAt": "2026-11-04T21:30:41.000Z",
+      "xQuery": "関東や伊豆諸島 大雨災害に警戒"
+    },
     {
       "time": "23:20",
       "title": "米中間選挙 日本政府は動向注視",
@@ -16,14 +24,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6601365?source=rss",
       "publishedAt": "2026-11-04T14:54:37.000Z",
       "xQuery": "リニア工事費 再び増額へ検討"
-    },
-    {
-      "time": "06:30",
-      "title": "関東や伊豆諸島 大雨災害に警戒",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601367?source=rss",
-      "publishedAt": "2026-11-04T21:30:41.000Z",
-      "xQuery": "関東や伊豆諸島 大雨災害に警戒"
     },
     {
       "time": "20:58",
