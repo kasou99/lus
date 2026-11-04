@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-04T09:12:18.991Z",
+  "updatedAt": "2026-11-04T11:11:15.711Z",
   "items": [
     {
-      "time": "17:00",
-      "title": "米大統領 敗因巡りイラン攻撃言及",
+      "time": "18:09",
+      "title": "米大統領 民主党に「おめでとう」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601315?source=rss",
-      "publishedAt": "2026-11-04T08:00:55.000Z",
-      "xQuery": "米大統領 敗因巡りイラン攻撃言及"
+      "url": "https://news.yahoo.co.jp/pickup/6601327?source=rss",
+      "publishedAt": "2026-11-04T09:09:06.000Z",
+      "xQuery": "米大統領 民主党に「おめでとう」"
     },
     {
-      "time": "16:53",
-      "title": "黒人女性が州知事に当選確実 米",
+      "time": "18:52",
+      "title": "米民主党が躍進 支持者は喜び爆発",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601313?source=rss",
-      "publishedAt": "2026-11-04T07:53:10.000Z",
-      "xQuery": "黒人女性が州知事に当選確実 米"
+      "url": "https://news.yahoo.co.jp/pickup/6601332?source=rss",
+      "publishedAt": "2026-11-04T09:52:57.000Z",
+      "xQuery": "米民主党が躍進 支持者は喜び爆発"
     },
     {
-      "time": "16:50",
-      "title": "津市の火災 死亡の4人は4～13歳",
+      "time": "18:32",
+      "title": "無印良品 クレカ番号など流出か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601309?source=rss",
-      "publishedAt": "2026-11-04T07:50:11.000Z",
-      "xQuery": "津市の火災 死亡の4人は4～13歳"
+      "url": "https://news.yahoo.co.jp/pickup/6601331?source=rss",
+      "publishedAt": "2026-11-04T09:32:09.000Z",
+      "xQuery": "無印良品 クレカ番号など流出か"
     },
     {
-      "time": "18:01",
-      "title": "重機が倒れ頭挟まれる 作業員死亡",
+      "time": "19:59",
+      "title": "列車事故で死亡の邦人 20代男女か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601321?source=rss",
-      "publishedAt": "2026-11-04T09:01:50.000Z",
-      "xQuery": "重機が倒れ頭挟まれる 作業員死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6601338?source=rss",
+      "publishedAt": "2026-11-04T10:59:54.000Z",
+      "xQuery": "列車事故で死亡の邦人 20代男女か"
     },
     {
-      "time": "12:06",
-      "title": "カスハラ対策 線引きに迷う現場",
+      "time": "19:28",
+      "title": "養殖カンパチ大量死 26万8000匹",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601276?source=rss",
-      "publishedAt": "2026-11-04T03:06:51.000Z",
-      "xQuery": "カスハラ対策 線引きに迷う現場"
+      "url": "https://news.yahoo.co.jp/pickup/6601336?source=rss",
+      "publishedAt": "2026-11-04T10:28:35.000Z",
+      "xQuery": "養殖カンパチ大量死 26万8000匹"
     }
   ]
 };

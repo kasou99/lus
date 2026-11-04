@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T09:12:17.919Z",
+  "updatedAt": "2026-11-04T11:11:15.130Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -52,11 +52,11 @@
         "publishedAt": "2026-11-03T17:26:13.000Z"
       },
       {
-        "time": "05:00",
-        "title": "トライオーブ、米で移動ロボ生産 車部品製造向け",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5tMlYwWkpnbmt5YkVrZ2tpNFhVSHp5X3BHX2haamw1RXJ1bGdYTXpPS0kyYVNmSXpfVDVSQnhnZ1NaUEE3dG5OZjN1NnMxLTlKMVMwWjNQZ2s?oc=5",
-        "publishedAt": "2026-11-03T20:00:00.000Z"
+        "time": "20:39",
+        "title": "【探訪ザ・カンパニー】オーザック（福山市）安全支えるワイヤ金具",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB2YnlPN09iTUcyOGNldkhrT1k5RzQ5M0pLNkE3NkV1YzJxUDFPam9xOTV6dFZva2ZrNHNxNkZIOGYxMXN6R1JyUHFIMXZIamRMT2c?oc=5",
+        "publishedAt": "2026-11-03T11:39:36.000Z"
       }
     ],
     "worldHeadlines": [
@@ -96,11 +96,11 @@
         "publishedAt": "2026-11-04T07:53:10.000Z"
       },
       {
-        "time": "13:36",
-        "title": "テキサス州上院 38年ぶり民主勝利",
+        "time": "18:52",
+        "title": "米民主党が躍進 支持者は喜び爆発",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601292?source=rss",
-        "publishedAt": "2026-11-04T04:36:32.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6601332?source=rss",
+        "publishedAt": "2026-11-04T09:52:57.000Z"
       }
     ],
     "economyHeadlines": [
@@ -133,18 +133,18 @@
         "publishedAt": "2026-11-04T01:25:19.000Z"
       },
       {
-        "time": "12:06",
-        "title": "カスハラ対策 線引きに迷う現場",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601276?source=rss",
-        "publishedAt": "2026-11-04T03:06:51.000Z"
-      },
-      {
         "time": "08:16",
         "title": "パーソナルトレ トラブル急増",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601250?source=rss",
         "publishedAt": "2026-11-03T23:16:44.000Z"
+      },
+      {
+        "time": "19:10",
+        "title": "すし店の休廃業・解散が急増 25年",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6601334?source=rss",
+        "publishedAt": "2026-11-04T10:10:49.000Z"
       }
     ],
     "localHeadlines": [
@@ -163,6 +163,13 @@
         "publishedAt": "2026-11-03T21:21:42.000Z"
       },
       {
+        "time": "19:02",
+        "title": "富山交番襲撃 被告母が出廷し謝罪",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6601333?source=rss",
+        "publishedAt": "2026-11-04T10:02:04.000Z"
+      },
+      {
         "time": "18:01",
         "title": "重機が倒れ頭挟まれる 作業員死亡",
         "source": "Yahoo!ニュース",
@@ -175,13 +182,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601307?source=rss",
         "publishedAt": "2026-11-04T07:32:08.000Z"
-      },
-      {
-        "time": "19:38",
-        "title": "ゴルフカートにひかれ 女性重傷",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601211?source=rss",
-        "publishedAt": "2026-11-03T10:38:44.000Z"
       },
       {
         "time": "12:45",
