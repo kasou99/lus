@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T08:14:46.784Z",
+  "updatedAt": "2026-11-04T08:35:39.622Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -15,6 +15,13 @@
         "source": "MONOist",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5jX2pkUkNPUk9VZ0FheUFuUDVDbW1Hd1k4Z3RVN1BUM3Jhcm05amFWOE12SmdXb0hiQXpBVlAwQnljdTFlSklWY3lITHRCN0pob1I5UXMyT2MyTzFPVVRjVm04UE02dzhzS1dlM01vbw?oc=5",
         "publishedAt": "2026-11-04T05:00:00.000Z"
+      },
+      {
+        "time": "15:39",
+        "title": "東京貿易メカニクス CRYSOUND社製 音響イメージャーの取り扱いを開始 音の見える化により、ガス漏れ・設備異常の早期発見を支援",
+        "source": "ASCII.jp",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE43TmNtbWpiV3dldUxraVFoRWFDU09zSVE4Y0szS2ZkTnJLcUM3TzJMQzFzVV9VX1V0OURWVVlNRXVXOVFLekFOdkVTd2tBTXNFTVdLdw?oc=5",
+        "publishedAt": "2026-11-04T06:39:41.000Z"
       },
       {
         "time": "10:15",
@@ -38,25 +45,18 @@
         "publishedAt": "2026-11-03T23:04:45.000Z"
       },
       {
+        "time": "02:26",
+        "title": "「JIMTOF2026 第33回日本国際工作機械見本市」出展のご案内 | 鹿児島・九州プレスリリース | 生活情報 | くらし",
+        "source": "南日本新聞",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSkQ1WFI4RDBKdnVOc2t6TUZGWjJWOFlUVF9ScXRZSkJ4RzZJZ2x2dGJJaUQtZHJWNVdPUDVlenVVWXNqXzQwM2tkeDd1ZjVyVmtaLW40UTNkdnZ6SnFZSXZfUXpwTXFRaUhaLU1JWmZGZ2JqQ3dUR1NmbWUyQXc4dA?oc=5",
+        "publishedAt": "2026-11-03T17:26:13.000Z"
+      },
+      {
         "time": "12:03",
         "title": "ジェイテクト・日本精工・NTN…軸受3社は通期売上高上方修正も、構造改革が必要な理由",
         "source": "ニュースイッチ by 日刊工業新聞社",
         "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBjVktJOWNad3QxaDBIcF82SVZnVGRKbERxQ2I0Q3Z2OUQ4UExIX2g0VmctYVNTcFhuZlBoS0ZmaGpKZw?oc=5",
         "publishedAt": "2026-11-04T03:03:00.000Z"
-      },
-      {
-        "time": "05:00",
-        "title": "トライオーブ、米で移動ロボ生産 車部品製造向け",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5tMlYwWkpnbmt5YkVrZ2tpNFhVSHp5X3BHX2haamw1RXJ1bGdYTXpPS0kyYVNmSXpfVDVSQnhnZ1NaUEE3dG5OZjN1NnMxLTlKMVMwWjNQZ2s?oc=5",
-        "publishedAt": "2026-11-03T20:00:00.000Z"
-      },
-      {
-        "time": "05:00",
-        "title": "回収装置に新製品２機種 永進テクノ、分離能力が向上",
-        "source": "中部経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1kR2d1MFFFY1V1Vm9CeWZkX2V4SThZbll0Y09Bellvb0R4MGxUNEstLWZiMUxhWE5BTlJnMWFsQ0E2RVZUdW10SjRxbDhpREYzT1l5dlZuaDVUYlViVS1ycFI2ZXhqTFdUa0lKaUtzR3BFNFk?oc=5",
-        "publishedAt": "2026-11-03T20:00:00.000Z"
       }
     ],
     "worldHeadlines": [
