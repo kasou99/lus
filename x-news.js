@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-04T12:36:49.397Z",
+  "updatedAt": "2026-11-04T13:10:39.260Z",
   "items": [
     {
       "time": "20:49",
@@ -10,22 +10,6 @@ window.LUS_X_NEWS = {
       "xQuery": "米中間選挙 日本経済への影響は"
     },
     {
-      "time": "15:25",
-      "title": "ISSの米宇宙飛行士も中間選挙投票",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601302?source=rss",
-      "publishedAt": "2026-11-04T06:25:46.000Z",
-      "xQuery": "ISSの米宇宙飛行士も中間選挙投票"
-    },
-    {
-      "time": "18:32",
-      "title": "無印良品 クレカ番号など流出か",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601331?source=rss",
-      "publishedAt": "2026-11-04T09:32:09.000Z",
-      "xQuery": "無印良品 クレカ番号など流出か"
-    },
-    {
       "time": "19:59",
       "title": "列車事故で死亡の邦人 20代男女か",
       "source": "Yahoo!ニュース",
@@ -34,12 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "列車事故で死亡の邦人 20代男女か"
     },
     {
-      "time": "20:34",
-      "title": "警官の拳銃奪い自らに発砲 重体",
+      "time": "21:58",
+      "title": "高市首相 COP31欠席する見通し",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601342?source=rss",
-      "publishedAt": "2026-11-04T11:34:45.000Z",
-      "xQuery": "警官の拳銃奪い自らに発砲 重体"
+      "url": "https://news.yahoo.co.jp/pickup/6601349?source=rss",
+      "publishedAt": "2026-11-04T12:58:15.000Z",
+      "xQuery": "高市首相 COP31欠席する見通し"
+    },
+    {
+      "time": "21:26",
+      "title": "男児盗撮疑い逮捕 米から情報提供",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601348?source=rss",
+      "publishedAt": "2026-11-04T12:26:17.000Z",
+      "xQuery": "男児盗撮疑い逮捕 米から情報提供"
+    },
+    {
+      "time": "19:28",
+      "title": "養殖カンパチ大量死 26万8000匹",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601336?source=rss",
+      "publishedAt": "2026-11-04T10:28:35.000Z",
+      "xQuery": "養殖カンパチ大量死 26万8000匹"
     }
   ]
 };
