@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T20:35:45.430Z",
+  "updatedAt": "2026-11-04T21:09:45.931Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,6 +17,13 @@
         "publishedAt": "2026-11-04T02:30:00.000Z"
       },
       {
+        "time": "18:41",
+        "title": "【探訪ザ・カンパニー】オーザック（福山市）安全支えるワイヤ金具",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB2YnlPN09iTUcyOGNldkhrT1k5RzQ5M0pLNkE3NkV1YzJxUDFPam9xOTV6dFZva2ZrNHNxNkZIOGYxMXN6R1JyUHFIMXZIamRMT2c?oc=5",
+        "publishedAt": "2026-11-04T09:41:41.000Z"
+      },
+      {
         "time": "15:39",
         "title": "東京貿易メカニクス CRYSOUND社製 音響イメージャーの取り扱いを開始 音の見える化により、ガス漏れ・設備異常の早期発見を支援",
         "source": "ASCII.jp",
@@ -31,13 +38,6 @@
         "publishedAt": "2026-11-04T01:15:00.000Z"
       },
       {
-        "time": "07:11",
-        "title": "9月機械受注（除船電民需）前月比は僅かだが2カ月ぶりの減少に。関連データの9月工作機械受注（国内向け）前年同月比は＋46.5％と高い伸び率だが、8月からは鈍化。日本の主要経済指標予測（2026年11月4｜宅森昭吉（景気探検家・エコノミスト）",
-        "source": "note",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1LeHgzTmpkYUhaa1ZDdmhuckM3Z2M4ZlM0Z0o4NWxCcmhJcnYwTE1jWDB3NzM2OS0zclR3SmN6YjE3cTM5WXJRdzZGTkl0bF93b1pYeHdONjRzcThESXc?oc=5",
-        "publishedAt": "2026-11-03T22:11:18.000Z"
-      },
-      {
         "time": "08:04",
         "title": "ヒューマノイドロボット用のサーボモーターメーカー一覧2026年版",
         "source": "pando.life",
@@ -45,17 +45,17 @@
         "publishedAt": "2026-11-03T23:04:45.000Z"
       },
       {
+        "time": "07:11",
+        "title": "9月機械受注（除船電民需）前月比は僅かだが2カ月ぶりの減少に。関連データの9月工作機械受注（国内向け）前年同月比は＋46.5％と高い伸び率だが、8月からは鈍化。日本の主要経済指標予測（2026年11月4｜宅森昭吉（景気探検家・エコノミスト）",
+        "source": "note",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1LeHgzTmpkYUhaa1ZDdmhuckM3Z2M4ZlM0Z0o4NWxCcmhJcnYwTE1jWDB3NzM2OS0zclR3SmN6YjE3cTM5WXJRdzZGTkl0bF93b1pYeHdONjRzcThESXc?oc=5",
+        "publishedAt": "2026-11-03T22:11:18.000Z"
+      },
+      {
         "time": "05:00",
         "title": "挑む・モノづくりヒトづくり／銀河電機工業社長・後藤恵一氏",
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5mNHhiMUxNd2RucEpzcXV4U2xhUjMwbG45bG9ScEVRU2xaczhmcVNWY25vRV8zbi1KMDJlQmo2clhGcThKb1A1bHdUMzd1cVFuM09ocVZUaHg?oc=5",
-        "publishedAt": "2026-11-04T20:00:00.000Z"
-      },
-      {
-        "time": "05:00",
-        "title": "決算を読む オークマ 26年４～９月期 純利益２・６倍で過去最高 米国中心に販売拡大 通期は増収増益予想",
-        "source": "中部経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBtU2ZRT2I2bG51Sk5sU3E1a2V6OXdHLXoxQ3BtX1Jpay13YnZVbHk5VE9Cc2NaaFY2dVZYVnZDTWE1LWVybDB3NU5tS1VKR0NXUFlfY3NfTGtNdnJpVW5OaDZxeG1lZWxnVFNpNWxCWURmZmc?oc=5",
         "publishedAt": "2026-11-04T20:00:00.000Z"
       }
     ],
