@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-04T00:46:13.166Z",
+  "updatedAt": "2026-11-04T01:11:28.991Z",
   "items": [
     {
-      "time": "08:28",
-      "title": "アメリカ中間選挙の開票始まる",
+      "time": "10:01",
+      "title": "中継 米中間選挙の開票速報",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601254?source=rss",
-      "publishedAt": "2026-11-03T23:28:24.000Z",
-      "xQuery": "アメリカ中間選挙の開票始まる"
+      "url": "https://news.yahoo.co.jp/pickup/6601265?source=rss",
+      "publishedAt": "2026-11-04T01:01:21.000Z",
+      "xQuery": "中継 米中間選挙の開票速報"
     },
     {
       "time": "09:20",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "関東一部 5日朝に警報級大雨恐れ"
     },
     {
-      "time": "08:16",
-      "title": "パーソナルトレ トラブル急増",
+      "time": "09:49",
+      "title": "1兆円盗難 バイナンスが手口公表",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601250?source=rss",
-      "publishedAt": "2026-11-03T23:16:44.000Z",
-      "xQuery": "パーソナルトレ トラブル急増"
+      "url": "https://news.yahoo.co.jp/pickup/6601264?source=rss",
+      "publishedAt": "2026-11-04T00:49:15.000Z",
+      "xQuery": "1兆円盗難 バイナンスが手口公表"
     }
   ]
 };
