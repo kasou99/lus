@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T19:08:39.431Z",
+  "updatedAt": "2026-11-04T19:35:53.005Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -15,6 +15,13 @@
         "source": "MONOist",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBRZGRHdEUxRmlDa0RfVFhtc0VSM2MzQm45c1owRG1vMjJHU1ZxRUYycHp5TFU3MW1FSjBzU1FYOHVPd3pGMTNuaF9tZV9rRmY0aXc0ZS1fZ0ZaLWItbFJCSms2SmwwTlZ4QjczdFZhMA?oc=5",
         "publishedAt": "2026-11-04T02:30:00.000Z"
+      },
+      {
+        "time": "18:41",
+        "title": "【探訪ザ・カンパニー】オーザック（福山市）安全支えるワイヤ金具",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB2YnlPN09iTUcyOGNldkhrT1k5RzQ5M0pLNkE3NkV1YzJxUDFPam9xOTV6dFZva2ZrNHNxNkZIOGYxMXN6R1JyUHFIMXZIamRMT2c?oc=5",
+        "publishedAt": "2026-11-04T09:41:41.000Z"
       },
       {
         "time": "15:39",
@@ -49,13 +56,6 @@
         "title": "トライオーブ、米で移動ロボ生産 車部品製造向け",
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5tMlYwWkpnbmt5YkVrZ2tpNFhVSHp5X3BHX2haamw1RXJ1bGdYTXpPS0kyYVNmSXpfVDVSQnhnZ1NaUEE3dG5OZjN1NnMxLTlKMVMwWjNQZ2s?oc=5",
-        "publishedAt": "2026-11-03T20:00:00.000Z"
-      },
-      {
-        "time": "05:00",
-        "title": "回収装置に新製品２機種 永進テクノ、分離能力が向上",
-        "source": "中部経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1kR2d1MFFFY1V1Vm9CeWZkX2V4SThZbll0Y09Bellvb0R4MGxUNEstLWZiMUxhWE5BTlJnMWFsQ0E2RVZUdW10SjRxbDhpREYzT1l5dlZuaDVUYlViVS1ycFI2ZXhqTFdUa0lKaUtzR3BFNFk?oc=5",
         "publishedAt": "2026-11-03T20:00:00.000Z"
       }
     ],
