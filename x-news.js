@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-04T22:09:54.561Z",
+  "updatedAt": "2026-11-04T22:35:19.584Z",
   "items": [
     {
       "time": "06:30",
@@ -8,6 +8,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6601367?source=rss",
       "publishedAt": "2026-11-04T21:30:41.000Z",
       "xQuery": "関東や伊豆諸島 大雨災害に警戒"
+    },
+    {
+      "time": "07:19",
+      "title": "「書道」無形文化遺産に登録へ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601371?source=rss",
+      "publishedAt": "2026-11-04T22:19:22.000Z",
+      "xQuery": "「書道」無形文化遺産に登録へ"
     },
     {
       "time": "23:20",
@@ -24,14 +32,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6601365?source=rss",
       "publishedAt": "2026-11-04T14:54:37.000Z",
       "xQuery": "リニア工事費 再び増額へ検討"
-    },
-    {
-      "time": "20:58",
-      "title": "児童婚増えるガザ 壮絶性暴力訴え",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601344?source=rss",
-      "publishedAt": "2026-11-04T11:58:45.000Z",
-      "xQuery": "児童婚増えるガザ 壮絶性暴力訴え"
     },
     {
       "time": "23:08",
