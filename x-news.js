@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-04T05:11:52.837Z",
+  "updatedAt": "2026-11-04T05:36:03.986Z",
   "items": [
     {
       "time": "13:52",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "米民主党が両院で過半数確実 報道"
     },
     {
-      "time": "10:01",
-      "title": "中継 米中間選挙の開票速報",
+      "time": "14:14",
+      "title": "トランプ氏 選挙結果受け入れ表明",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601265?source=rss",
-      "publishedAt": "2026-11-04T01:01:21.000Z",
-      "xQuery": "中継 米中間選挙の開票速報"
+      "url": "https://news.yahoo.co.jp/pickup/6601299?source=rss",
+      "publishedAt": "2026-11-04T05:14:21.000Z",
+      "xQuery": "トランプ氏 選挙結果受け入れ表明"
     },
     {
       "time": "13:36",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "日経平均 一時3000円超値下がり"
     },
     {
-      "time": "12:00",
-      "title": "UFJ新銀行 キャッシュカードなし",
+      "time": "12:45",
+      "title": "担任が生徒と「交際」裁判長断罪",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601279?source=rss",
-      "publishedAt": "2026-11-04T03:00:46.000Z",
-      "xQuery": "UFJ新銀行 キャッシュカードなし"
+      "url": "https://news.yahoo.co.jp/pickup/6601289?source=rss",
+      "publishedAt": "2026-11-04T03:45:12.000Z",
+      "xQuery": "担任が生徒と「交際」裁判長断罪"
     }
   ]
 };
