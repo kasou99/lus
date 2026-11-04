@@ -1,14 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-04T01:38:04.172Z",
+  "updatedAt": "2026-11-04T02:15:00.204Z",
   "items": [
-    {
-      "time": "10:16",
-      "title": "北朝鮮が日本海に向け飛翔体発射",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601267?source=rss",
-      "publishedAt": "2026-11-04T01:16:27.000Z",
-      "xQuery": "北朝鮮が日本海に向け飛翔体発射"
-    },
     {
       "time": "10:01",
       "title": "中継 米中間選挙の開票速報",
@@ -16,6 +8,22 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6601265?source=rss",
       "publishedAt": "2026-11-04T01:01:21.000Z",
       "xQuery": "中継 米中間選挙の開票速報"
+    },
+    {
+      "time": "10:54",
+      "title": "アメリカ中間選挙 注目の激戦州は",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601269?source=rss",
+      "publishedAt": "2026-11-04T01:54:56.000Z",
+      "xQuery": "アメリカ中間選挙 注目の激戦州は"
+    },
+    {
+      "time": "11:10",
+      "title": "日経平均株価 一時2000円超下落",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601272?source=rss",
+      "publishedAt": "2026-11-04T02:10:16.000Z",
+      "xQuery": "日経平均株価 一時2000円超下落"
     },
     {
       "time": "09:20",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6601253?source=rss",
       "publishedAt": "2026-11-03T23:23:21.000Z",
       "xQuery": "関東一部 5日朝に警報級大雨恐れ"
-    },
-    {
-      "time": "09:49",
-      "title": "1兆円盗難 バイナンスが手口公表",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601264?source=rss",
-      "publishedAt": "2026-11-04T00:49:15.000Z",
-      "xQuery": "1兆円盗難 バイナンスが手口公表"
     }
   ]
 };

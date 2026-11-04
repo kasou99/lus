@@ -1,14 +1,7 @@
 {
-  "updatedAt": "2026-11-04T01:38:03.140Z",
+  "updatedAt": "2026-11-04T02:14:59.123Z",
   "groups": {
     "machineHeadlines": [
-      {
-        "time": "07:11",
-        "title": "9月機械受注（除船電民需）前月比は僅かだが2カ月ぶりの減少に。関連データの9月工作機械受注（国内向け）前年同月比は＋46.5％と高い伸び率だが、8月からは鈍化。日本の主要経済指標予測（2026年11月4｜宅森昭吉（景気探検家・エコノミスト）",
-        "source": "note",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1LeHgzTmpkYUhaa1ZDdmhuckM3Z2M4ZlM0Z0o4NWxCcmhJcnYwTE1jWDB3NzM2OS0zclR3SmN6YjE3cTM5WXJRdzZGTkl0bF93b1pYeHdONjRzcThESXc?oc=5",
-        "publishedAt": "2026-11-03T22:11:18.000Z"
-      },
       {
         "time": "09:00",
         "title": "【設備保全DX】スマートファクトリーJapan2026に次世代設備保全クラウド「M2X」ブースを出展",
@@ -17,11 +10,25 @@
         "publishedAt": "2026-11-04T00:00:01.000Z"
       },
       {
+        "time": "07:11",
+        "title": "9月機械受注（除船電民需）前月比は僅かだが2カ月ぶりの減少に。関連データの9月工作機械受注（国内向け）前年同月比は＋46.5％と高い伸び率だが、8月からは鈍化。日本の主要経済指標予測（2026年11月4｜宅森昭吉（景気探検家・エコノミスト）",
+        "source": "note",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1LeHgzTmpkYUhaa1ZDdmhuckM3Z2M4ZlM0Z0o4NWxCcmhJcnYwTE1jWDB3NzM2OS0zclR3SmN6YjE3cTM5WXJRdzZGTkl0bF93b1pYeHdONjRzcThESXc?oc=5",
+        "publishedAt": "2026-11-03T22:11:18.000Z"
+      },
+      {
         "time": "08:04",
         "title": "ヒューマノイドロボット用のサーボモーターメーカー一覧2026年版",
         "source": "pando.life",
         "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFA3emFjNFlyaUItci1BMTNicUlZSjJqMG5rc1phUEtEdVBJSmxXZzdBbFlWTk9wRnJTVlpGeDBIUG0zd1VNZ2UwVEZR?oc=5",
         "publishedAt": "2026-11-03T23:04:45.000Z"
+      },
+      {
+        "time": "05:00",
+        "title": "トライオーブ、米で移動ロボ生産 車部品製造向け",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5tMlYwWkpnbmt5YkVrZ2tpNFhVSHp5X3BHX2haamw1RXJ1bGdYTXpPS0kyYVNmSXpfVDVSQnhnZ1NaUEE3dG5OZjN1NnMxLTlKMVMwWjNQZ2s?oc=5",
+        "publishedAt": "2026-11-03T20:00:00.000Z"
       },
       {
         "time": "10:15",
@@ -32,17 +39,17 @@
       },
       {
         "time": "05:00",
-        "title": "スマートファクトリーJapan2026／紙上プレビュー（1）",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1kVXVZbHdfME5ydkVLN3dhTTA0eV9ERGYwYjhWVTluSjhmOHh0LUJBMEM4Nk9DN2VHVE1ZTTloaS13b0lTZGY2UWEwUUFTTDg1cURGWS1qLUE?oc=5",
-        "publishedAt": "2026-11-03T20:00:00.000Z"
-      },
-      {
-        "time": "05:00",
         "title": "回収装置に新製品２機種 永進テクノ、分離能力が向上",
         "source": "中部経済新聞",
         "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1kR2d1MFFFY1V1Vm9CeWZkX2V4SThZbll0Y09Bellvb0R4MGxUNEstLWZiMUxhWE5BTlJnMWFsQ0E2RVZUdW10SjRxbDhpREYzT1l5dlZuaDVUYlViVS1ycFI2ZXhqTFdUa0lKaUtzR3BFNFk?oc=5",
         "publishedAt": "2026-11-03T20:00:00.000Z"
+      },
+      {
+        "time": "11:00",
+        "title": "カンブライト、FOOD展2026に出展 開発中の「ツクルデAIシリーズ」を展示し、11月12日にセミナー「ツクルデAIが作る食品の未来」に登壇",
+        "source": "Infoseek",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA0YTQzdDFoNno5T0J5RlQyWWEyNV82TUlzYXB5bTM4RGloQjBQMFFSeFNRZ2x5eHRsa01ZWi1TMlF5ZHZrR2ZLZHVYcElNSE5yUHc1aWhWMEI0UW15RVhRWA?oc=5",
+        "publishedAt": "2026-11-04T02:00:00.000Z"
       },
       {
         "time": "20:39",
@@ -50,13 +57,6 @@
         "source": "山陽新聞",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB2YnlPN09iTUcyOGNldkhrT1k5RzQ5M0pLNkE3NkV1YzJxUDFPam9xOTV6dFZva2ZrNHNxNkZIOGYxMXN6R1JyUHFIMXZIamRMT2c?oc=5",
         "publishedAt": "2026-11-03T11:39:36.000Z"
-      },
-      {
-        "time": "05:00",
-        "title": "切削工具のオー・ケー・シー 医療用工具の製造能力強化 自動旋盤を導入 精密小径部品に対応",
-        "source": "中部経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0zTkNaTnNLbHVNMFBGbXpCY0RkNDBfOHo2bVJ6V0xlcDBJR2VHOU14dl9vRTFUREdfRkpKeHZjcFpiNGdqTXNVemxsT3IzU3lwMk1FUUNuNmpoUzNUYWhQOEc4OUpyOS1ZSE1LZ05wbkRmSWM?oc=5",
-        "publishedAt": "2026-11-03T20:00:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -75,11 +75,11 @@
         "publishedAt": "2026-11-04T01:01:21.000Z"
       },
       {
-        "time": "08:11",
-        "title": "米中間選挙 予測市場が試練に直面",
+        "time": "10:54",
+        "title": "アメリカ中間選挙 注目の激戦州は",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601252?source=rss",
-        "publishedAt": "2026-11-03T23:11:46.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6601269?source=rss",
+        "publishedAt": "2026-11-04T01:54:56.000Z"
       },
       {
         "time": "23:02",
@@ -105,18 +105,18 @@
     ],
     "economyHeadlines": [
       {
+        "time": "11:10",
+        "title": "日経平均株価 一時2000円超下落",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6601272?source=rss",
+        "publishedAt": "2026-11-04T02:10:16.000Z"
+      },
+      {
         "time": "09:20",
         "title": "自治体システム移行費巡り調査へ",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601258?source=rss",
         "publishedAt": "2026-11-04T00:20:10.000Z"
-      },
-      {
-        "time": "18:24",
-        "title": "GMO熊谷社長ら 報酬を3カ月減額",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601082?source=rss",
-        "publishedAt": "2026-11-02T09:24:53.000Z"
       },
       {
         "time": "19:23",
