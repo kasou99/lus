@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T15:11:48.493Z",
+  "updatedAt": "2026-11-04T15:35:52.391Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -10,11 +10,11 @@
         "publishedAt": "2026-11-04T03:55:00.000Z"
       },
       {
-        "time": "14:00",
-        "title": "製造業の「秘伝のタレ」はAIに奪われるのか、競争力の源泉はどこにある？：JIMTOF2026",
-        "source": "MONOist",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5jX2pkUkNPUk9VZ0FheUFuUDVDbW1Hd1k4Z3RVN1BUM3Jhcm05amFWOE12SmdXb0hiQXpBVlAwQnljdTFlSklWY3lITHRCN0pob1I5UXMyT2MyTzFPVVRjVm04UE02dzhzS1dlM01vbw?oc=5",
-        "publishedAt": "2026-11-04T05:00:00.000Z"
+        "time": "10:15",
+        "title": "【設備保全DX】スマートファクトリーJapan2026に次世代設備保全クラウド「M2X」ブースを出展",
+        "source": "Excite エキサイト",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9qOWxDUmpNdUFMSFRUOVN1cVFuelRSY1R3YV9QS3hDdGlUdWpyUzVWdHV5a1JMSHB2RkpVTktTRDE1ZnRxOW15Z3QtVEt5NlhwLUdFWS1PX0tYYk4wQldueTdwcHpESlZ6MlBxRUtHaks5a1AyTGc?oc=5",
+        "publishedAt": "2026-11-04T01:15:00.000Z"
       },
       {
         "time": "15:39",
@@ -22,13 +22,6 @@
         "source": "ASCII.jp",
         "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE43TmNtbWpiV3dldUxraVFoRWFDU09zSVE4Y0szS2ZkTnJLcUM3TzJMQzFzVV9VX1V0OURWVVlNRXVXOVFLekFOdkVTd2tBTXNFTVdLdw?oc=5",
         "publishedAt": "2026-11-04T06:39:41.000Z"
-      },
-      {
-        "time": "10:15",
-        "title": "【設備保全DX】スマートファクトリーJapan2026に次世代設備保全クラウド「M2X」ブースを出展",
-        "source": "Excite エキサイト",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9qOWxDUmpNdUFMSFRUOVN1cVFuelRSY1R3YV9QS3hDdGlUdWpyUzVWdHV5a1JMSHB2RkpVTktTRDE1ZnRxOW15Z3QtVEt5NlhwLUdFWS1PX0tYYk4wQldueTdwcHpESlZ6MlBxRUtHaks5a1AyTGc?oc=5",
-        "publishedAt": "2026-11-04T01:15:00.000Z"
       },
       {
         "time": "07:11",
@@ -57,6 +50,13 @@
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5tMlYwWkpnbmt5YkVrZ2tpNFhVSHp5X3BHX2haamw1RXJ1bGdYTXpPS0kyYVNmSXpfVDVSQnhnZ1NaUEE3dG5OZjN1NnMxLTlKMVMwWjNQZ2s?oc=5",
         "publishedAt": "2026-11-03T20:00:00.000Z"
+      },
+      {
+        "time": "14:00",
+        "title": "製造業の「秘伝のタレ」はAIに奪われるのか、競争力の源泉はどこにある？：JIMTOF2026",
+        "source": "MONOist",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5jX2pkUkNPUk9VZ0FheUFuUDVDbW1Hd1k4Z3RVN1BUM3Jhcm05amFWOE12SmdXb0hiQXpBVlAwQnljdTFlSklWY3lITHRCN0pob1I5UXMyT2MyTzFPVVRjVm04UE02dzhzS1dlM01vbw?oc=5",
+        "publishedAt": "2026-11-04T05:00:00.000Z"
       }
     ],
     "worldHeadlines": [
