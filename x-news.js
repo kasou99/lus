@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-04T06:19:27.121Z",
+  "updatedAt": "2026-11-04T06:39:37.257Z",
   "items": [
     {
       "time": "13:52",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "トランプ氏 選挙結果受け入れ表明"
     },
     {
-      "time": "13:59",
-      "title": "日経平均 一時3000円超値下がり",
+      "time": "15:23",
+      "title": "BYD海外販売が倍増 中国車に明暗",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601297?source=rss",
-      "publishedAt": "2026-11-04T04:59:45.000Z",
-      "xQuery": "日経平均 一時3000円超値下がり"
+      "url": "https://news.yahoo.co.jp/pickup/6601278?source=rss",
+      "publishedAt": "2026-11-04T06:23:32.000Z",
+      "xQuery": "BYD海外販売が倍増 中国車に明暗"
     },
     {
       "time": "12:45",
