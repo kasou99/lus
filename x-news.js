@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-04T01:11:28.991Z",
+  "updatedAt": "2026-11-04T01:38:04.172Z",
   "items": [
+    {
+      "time": "10:16",
+      "title": "北朝鮮が日本海に向け飛翔体発射",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601267?source=rss",
+      "publishedAt": "2026-11-04T01:16:27.000Z",
+      "xQuery": "北朝鮮が日本海に向け飛翔体発射"
+    },
     {
       "time": "10:01",
       "title": "中継 米中間選挙の開票速報",
@@ -16,14 +24,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6601258?source=rss",
       "publishedAt": "2026-11-04T00:20:10.000Z",
       "xQuery": "自治体システム移行費巡り調査へ"
-    },
-    {
-      "time": "09:15",
-      "title": "米 イスラエル年40億ドル支援終了",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601259?source=rss",
-      "publishedAt": "2026-11-04T00:15:58.000Z",
-      "xQuery": "米 イスラエル年40億ドル支援終了"
     },
     {
       "time": "08:23",
