@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-04T13:36:13.839Z",
+  "updatedAt": "2026-11-04T14:12:53.708Z",
   "items": [
     {
       "time": "20:49",
@@ -18,20 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "関東 5日は滝のような雨降る所も"
     },
     {
-      "time": "21:58",
-      "title": "高市首相 COP31欠席する見通し",
+      "time": "22:37",
+      "title": "米海兵隊員が訓練中に死亡 沖縄",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601349?source=rss",
-      "publishedAt": "2026-11-04T12:58:15.000Z",
-      "xQuery": "高市首相 COP31欠席する見通し"
-    },
-    {
-      "time": "21:13",
-      "title": "金融庁 ソニーFGに立ち入り検査",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601346?source=rss",
-      "publishedAt": "2026-11-04T12:13:24.000Z",
-      "xQuery": "金融庁 ソニーFGに立ち入り検査"
+      "url": "https://news.yahoo.co.jp/pickup/6601357?source=rss",
+      "publishedAt": "2026-11-04T13:37:27.000Z",
+      "xQuery": "米海兵隊員が訓練中に死亡 沖縄"
     },
     {
       "time": "21:26",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6601348?source=rss",
       "publishedAt": "2026-11-04T12:26:17.000Z",
       "xQuery": "男児盗撮疑い逮捕 米から情報提供"
+    },
+    {
+      "time": "21:40",
+      "title": "香川の讃岐うどん店 混雑対応苦慮",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601347?source=rss",
+      "publishedAt": "2026-11-04T12:40:19.000Z",
+      "xQuery": "香川の讃岐うどん店 混雑対応苦慮"
     }
   ]
 };
