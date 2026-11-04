@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-04T03:36:19.383Z",
+  "updatedAt": "2026-11-04T04:13:11.499Z",
   "items": [
     {
       "time": "12:25",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "UFJ新銀行 キャッシュカードなし"
     },
     {
-      "time": "10:25",
-      "title": "フードデリバリー業界に淘汰の波",
+      "time": "12:45",
+      "title": "担任が生徒と「交際」裁判長断罪",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601266?source=rss",
-      "publishedAt": "2026-11-04T01:25:19.000Z",
-      "xQuery": "フードデリバリー業界に淘汰の波"
+      "url": "https://news.yahoo.co.jp/pickup/6601289?source=rss",
+      "publishedAt": "2026-11-04T03:45:12.000Z",
+      "xQuery": "担任が生徒と「交際」裁判長断罪"
     }
   ]
 };
