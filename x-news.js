@@ -1,13 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-04T14:12:53.708Z",
+  "updatedAt": "2026-11-04T14:35:55.786Z",
   "items": [
     {
-      "time": "20:49",
-      "title": "米中間選挙 日本経済への影響は",
+      "time": "23:20",
+      "title": "米中間選挙 日本政府は動向注視",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601343?source=rss",
-      "publishedAt": "2026-11-04T11:49:29.000Z",
-      "xQuery": "米中間選挙 日本経済への影響は"
+      "url": "https://news.yahoo.co.jp/pickup/6601362?source=rss",
+      "publishedAt": "2026-11-04T14:20:05.000Z",
+      "xQuery": "米中間選挙 日本政府は動向注視"
+    },
+    {
+      "time": "22:23",
+      "title": "ゆうちょ銀 松井証券に20%出資",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601352?source=rss",
+      "publishedAt": "2026-11-04T13:23:46.000Z",
+      "xQuery": "ゆうちょ銀 松井証券に20%出資"
     },
     {
       "time": "22:03",
@@ -18,28 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "関東 5日は滝のような雨降る所も"
     },
     {
-      "time": "22:37",
-      "title": "米海兵隊員が訓練中に死亡 沖縄",
+      "time": "20:58",
+      "title": "児童婚増えるガザ 壮絶性暴力訴え",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601357?source=rss",
-      "publishedAt": "2026-11-04T13:37:27.000Z",
-      "xQuery": "米海兵隊員が訓練中に死亡 沖縄"
+      "url": "https://news.yahoo.co.jp/pickup/6601344?source=rss",
+      "publishedAt": "2026-11-04T11:58:45.000Z",
+      "xQuery": "児童婚増えるガザ 壮絶性暴力訴え"
     },
     {
-      "time": "21:26",
-      "title": "男児盗撮疑い逮捕 米から情報提供",
+      "time": "23:08",
+      "title": "e-Taxに不審な通信 緊急メンテ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601348?source=rss",
-      "publishedAt": "2026-11-04T12:26:17.000Z",
-      "xQuery": "男児盗撮疑い逮捕 米から情報提供"
-    },
-    {
-      "time": "21:40",
-      "title": "香川の讃岐うどん店 混雑対応苦慮",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601347?source=rss",
-      "publishedAt": "2026-11-04T12:40:19.000Z",
-      "xQuery": "香川の讃岐うどん店 混雑対応苦慮"
+      "url": "https://news.yahoo.co.jp/pickup/6601361?source=rss",
+      "publishedAt": "2026-11-04T14:08:31.000Z",
+      "xQuery": "e-Taxに不審な通信 緊急メンテ"
     }
   ]
 };
