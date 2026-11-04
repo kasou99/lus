@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-04T04:36:08.621Z",
+  "updatedAt": "2026-11-04T05:11:52.837Z",
   "items": [
     {
-      "time": "12:25",
-      "title": "米民主党が下院で過半数確実 CNN",
+      "time": "13:52",
+      "title": "米民主党が両院で過半数確実 報道",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601287?source=rss",
-      "publishedAt": "2026-11-04T03:25:19.000Z",
-      "xQuery": "米民主党が下院で過半数確実 CNN"
+      "url": "https://news.yahoo.co.jp/pickup/6601295?source=rss",
+      "publishedAt": "2026-11-04T04:52:02.000Z",
+      "xQuery": "米民主党が両院で過半数確実 報道"
     },
     {
       "time": "10:01",
@@ -18,12 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "中継 米中間選挙の開票速報"
     },
     {
-      "time": "13:20",
-      "title": "米大統領痛手 民主が下院奪還確実",
+      "time": "13:36",
+      "title": "テキサス州上院 38年ぶり民主勝利",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601291?source=rss",
-      "publishedAt": "2026-11-04T04:20:37.000Z",
-      "xQuery": "米大統領痛手 民主が下院奪還確実"
+      "url": "https://news.yahoo.co.jp/pickup/6601292?source=rss",
+      "publishedAt": "2026-11-04T04:36:32.000Z",
+      "xQuery": "テキサス州上院 38年ぶり民主勝利"
+    },
+    {
+      "time": "13:59",
+      "title": "日経平均 一時3000円超値下がり",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601297?source=rss",
+      "publishedAt": "2026-11-04T04:59:45.000Z",
+      "xQuery": "日経平均 一時3000円超値下がり"
     },
     {
       "time": "12:00",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6601279?source=rss",
       "publishedAt": "2026-11-04T03:00:46.000Z",
       "xQuery": "UFJ新銀行 キャッシュカードなし"
-    },
-    {
-      "time": "12:45",
-      "title": "担任が生徒と「交際」裁判長断罪",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601289?source=rss",
-      "publishedAt": "2026-11-04T03:45:12.000Z",
-      "xQuery": "担任が生徒と「交際」裁判長断罪"
     }
   ]
 };

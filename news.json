@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T04:36:07.286Z",
+  "updatedAt": "2026-11-04T05:11:52.201Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -52,20 +52,34 @@
         "publishedAt": "2026-11-03T20:00:00.000Z"
       },
       {
-        "time": "20:39",
-        "title": "【探訪ザ・カンパニー】オーザック（福山市）安全支えるワイヤ金具",
+        "time": "19:35",
+        "title": "電線の端材でストラップ制作 Ｍ．Ｓ．Ｅ．が商品化",
         "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB2YnlPN09iTUcyOGNldkhrT1k5RzQ5M0pLNkE3NkV1YzJxUDFPam9xOTV6dFZva2ZrNHNxNkZIOGYxMXN6R1JyUHFIMXZIamRMT2c?oc=5",
-        "publishedAt": "2026-11-03T11:39:36.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TOThSZjN5eER3TlU3MHo0RE9lLXdpRFVod2Mtams1bFZvcjBKQnpvSFYxMjJPYm5HZVd5RlhtcHlTN3R2OGdVLUs5THBCQVVCWEE?oc=5",
+        "publishedAt": "2026-11-03T10:35:04.000Z"
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "13:52",
+        "title": "米民主党が両院で過半数確実 報道",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6601295?source=rss",
+        "publishedAt": "2026-11-04T04:52:02.000Z"
+      },
       {
         "time": "10:01",
         "title": "中継 米中間選挙の開票速報",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601265?source=rss",
         "publishedAt": "2026-11-04T01:01:21.000Z"
+      },
+      {
+        "time": "13:36",
+        "title": "テキサス州上院 38年ぶり民主勝利",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6601292?source=rss",
+        "publishedAt": "2026-11-04T04:36:32.000Z"
       },
       {
         "time": "13:20",
@@ -75,25 +89,11 @@
         "publishedAt": "2026-11-04T04:20:37.000Z"
       },
       {
-        "time": "12:25",
-        "title": "米民主党が下院で過半数確実 CNN",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601287?source=rss",
-        "publishedAt": "2026-11-04T03:25:19.000Z"
-      },
-      {
         "time": "10:54",
         "title": "アメリカ中間選挙 注目の激戦州は",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601269?source=rss",
         "publishedAt": "2026-11-04T01:54:56.000Z"
-      },
-      {
-        "time": "10:16",
-        "title": "北朝鮮が日本海に向け飛翔体発射",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601267?source=rss",
-        "publishedAt": "2026-11-04T01:16:27.000Z"
       },
       {
         "time": "09:15",
@@ -105,11 +105,11 @@
     ],
     "economyHeadlines": [
       {
-        "time": "11:10",
-        "title": "日経平均株価 一時2000円超下落",
+        "time": "13:59",
+        "title": "日経平均 一時3000円超値下がり",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601272?source=rss",
-        "publishedAt": "2026-11-04T02:10:16.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6601297?source=rss",
+        "publishedAt": "2026-11-04T04:59:45.000Z"
       },
       {
         "time": "09:20",
