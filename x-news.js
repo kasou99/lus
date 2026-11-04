@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-04T07:12:33.449Z",
+  "updatedAt": "2026-11-04T07:36:29.135Z",
   "items": [
     {
       "time": "13:52",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "米民主党が両院で過半数確実 報道"
     },
     {
-      "time": "13:36",
-      "title": "テキサス州上院 38年ぶり民主勝利",
+      "time": "16:10",
+      "title": "黒人女性が州知事に当確 米中間選",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601292?source=rss",
-      "publishedAt": "2026-11-04T04:36:32.000Z",
-      "xQuery": "テキサス州上院 38年ぶり民主勝利"
+      "url": "https://news.yahoo.co.jp/pickup/6601305?source=rss",
+      "publishedAt": "2026-11-04T07:10:48.000Z",
+      "xQuery": "黒人女性が州知事に当確 米中間選"
     },
     {
       "time": "14:14",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "トランプ氏 選挙結果受け入れ表明"
     },
     {
+      "time": "16:23",
+      "title": "東証続落 半導体関連株中心に売り",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601308?source=rss",
+      "publishedAt": "2026-11-04T07:23:55.000Z",
+      "xQuery": "東証続落 半導体関連株中心に売り"
+    },
+    {
       "time": "15:23",
       "title": "BYD海外販売が倍増 中国車に明暗",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6601278?source=rss",
       "publishedAt": "2026-11-04T06:23:32.000Z",
       "xQuery": "BYD海外販売が倍増 中国車に明暗"
-    },
-    {
-      "time": "12:45",
-      "title": "担任が生徒と「交際」裁判長断罪",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601289?source=rss",
-      "publishedAt": "2026-11-04T03:45:12.000Z",
-      "xQuery": "担任が生徒と「交際」裁判長断罪"
     }
   ]
 };
