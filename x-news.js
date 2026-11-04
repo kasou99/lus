@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-04T21:09:46.706Z",
+  "updatedAt": "2026-11-04T21:35:46.523Z",
   "items": [
     {
       "time": "23:20",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "リニア工事費 再び増額へ検討"
     },
     {
-      "time": "22:03",
-      "title": "関東 5日は滝のような雨降る所も",
+      "time": "06:30",
+      "title": "関東や伊豆諸島 大雨災害に警戒",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601351?source=rss",
-      "publishedAt": "2026-11-04T13:03:46.000Z",
-      "xQuery": "関東 5日は滝のような雨降る所も"
+      "url": "https://news.yahoo.co.jp/pickup/6601367?source=rss",
+      "publishedAt": "2026-11-04T21:30:41.000Z",
+      "xQuery": "関東や伊豆諸島 大雨災害に警戒"
     },
     {
       "time": "20:58",
