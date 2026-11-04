@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-04T08:35:40.221Z",
+  "updatedAt": "2026-11-04T09:12:18.991Z",
   "items": [
     {
       "time": "17:00",
@@ -18,28 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "黒人女性が州知事に当選確実 米"
     },
     {
-      "time": "16:59",
-      "title": "東証続落 米選挙懸念でAI株売り",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601314?source=rss",
-      "publishedAt": "2026-11-04T07:59:18.000Z",
-      "xQuery": "東証続落 米選挙懸念でAI株売り"
-    },
-    {
-      "time": "15:23",
-      "title": "BYD海外販売が倍増 中国車に明暗",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601278?source=rss",
-      "publishedAt": "2026-11-04T06:23:32.000Z",
-      "xQuery": "BYD海外販売が倍増 中国車に明暗"
-    },
-    {
       "time": "16:50",
       "title": "津市の火災 死亡の4人は4～13歳",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6601309?source=rss",
       "publishedAt": "2026-11-04T07:50:11.000Z",
       "xQuery": "津市の火災 死亡の4人は4～13歳"
+    },
+    {
+      "time": "18:01",
+      "title": "重機が倒れ頭挟まれる 作業員死亡",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601321?source=rss",
+      "publishedAt": "2026-11-04T09:01:50.000Z",
+      "xQuery": "重機が倒れ頭挟まれる 作業員死亡"
+    },
+    {
+      "time": "12:06",
+      "title": "カスハラ対策 線引きに迷う現場",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601276?source=rss",
+      "publishedAt": "2026-11-04T03:06:51.000Z",
+      "xQuery": "カスハラ対策 線引きに迷う現場"
     }
   ]
 };
