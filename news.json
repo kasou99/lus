@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T19:35:53.005Z",
+  "updatedAt": "2026-11-04T20:11:03.682Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -24,13 +24,6 @@
         "publishedAt": "2026-11-04T09:41:41.000Z"
       },
       {
-        "time": "15:39",
-        "title": "東京貿易メカニクス CRYSOUND社製 音響イメージャーの取り扱いを開始 音の見える化により、ガス漏れ・設備異常の早期発見を支援",
-        "source": "ASCII.jp",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE43TmNtbWpiV3dldUxraVFoRWFDU09zSVE4Y0szS2ZkTnJLcUM3TzJMQzFzVV9VX1V0OURWVVlNRXVXOVFLekFOdkVTd2tBTXNFTVdLdw?oc=5",
-        "publishedAt": "2026-11-04T06:39:41.000Z"
-      },
-      {
         "time": "10:15",
         "title": "【設備保全DX】スマートファクトリーJapan2026に次世代設備保全クラウド「M2X」ブースを出展",
         "source": "Excite エキサイト",
@@ -53,10 +46,17 @@
       },
       {
         "time": "05:00",
-        "title": "トライオーブ、米で移動ロボ生産 車部品製造向け",
+        "title": "挑む・モノづくりヒトづくり／銀河電機工業社長・後藤恵一氏",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5tMlYwWkpnbmt5YkVrZ2tpNFhVSHp5X3BHX2haamw1RXJ1bGdYTXpPS0kyYVNmSXpfVDVSQnhnZ1NaUEE3dG5OZjN1NnMxLTlKMVMwWjNQZ2s?oc=5",
-        "publishedAt": "2026-11-03T20:00:00.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5mNHhiMUxNd2RucEpzcXV4U2xhUjMwbG45bG9ScEVRU2xaczhmcVNWY25vRV8zbi1KMDJlQmo2clhGcThKb1A1bHdUMzd1cVFuM09ocVZUaHg?oc=5",
+        "publishedAt": "2026-11-04T20:00:00.000Z"
+      },
+      {
+        "time": "15:39",
+        "title": "東京貿易メカニクス CRYSOUND社製 音響イメージャーの取り扱いを開始 音の見える化により、ガス漏れ・設備異常の早期発見を支援",
+        "source": "ASCII.jp",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE43TmNtbWpiV3dldUxraVFoRWFDU09zSVE4Y0szS2ZkTnJLcUM3TzJMQzFzVV9VX1V0OURWVVlNRXVXOVFLekFOdkVTd2tBTXNFTVdLdw?oc=5",
+        "publishedAt": "2026-11-04T06:39:41.000Z"
       }
     ],
     "worldHeadlines": [
