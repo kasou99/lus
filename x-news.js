@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-04T00:29:15.131Z",
+  "updatedAt": "2026-11-04T00:46:13.166Z",
   "items": [
     {
       "time": "08:28",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "アメリカ中間選挙の開票始まる"
     },
     {
-      "time": "08:11",
-      "title": "米中間選挙 予測市場が試練に直面",
+      "time": "09:20",
+      "title": "自治体システム移行費巡り調査へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601252?source=rss",
-      "publishedAt": "2026-11-03T23:11:46.000Z",
-      "xQuery": "米中間選挙 予測市場が試練に直面"
+      "url": "https://news.yahoo.co.jp/pickup/6601258?source=rss",
+      "publishedAt": "2026-11-04T00:20:10.000Z",
+      "xQuery": "自治体システム移行費巡り調査へ"
     },
     {
       "time": "09:15",
