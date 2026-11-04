@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-04T14:35:55.786Z",
+  "updatedAt": "2026-11-04T15:11:49.197Z",
   "items": [
     {
       "time": "23:20",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "米中間選挙 日本政府は動向注視"
     },
     {
-      "time": "22:23",
-      "title": "ゆうちょ銀 松井証券に20%出資",
+      "time": "23:54",
+      "title": "リニア工事費 再び増額へ検討",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601352?source=rss",
-      "publishedAt": "2026-11-04T13:23:46.000Z",
-      "xQuery": "ゆうちょ銀 松井証券に20%出資"
+      "url": "https://news.yahoo.co.jp/pickup/6601365?source=rss",
+      "publishedAt": "2026-11-04T14:54:37.000Z",
+      "xQuery": "リニア工事費 再び増額へ検討"
     },
     {
       "time": "22:03",
