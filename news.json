@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T17:09:39.514Z",
+  "updatedAt": "2026-11-04T17:35:32.832Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,18 +17,18 @@
         "publishedAt": "2026-11-04T02:30:00.000Z"
       },
       {
-        "time": "10:15",
-        "title": "【設備保全DX】スマートファクトリーJapan2026に次世代設備保全クラウド「M2X」ブースを出展",
-        "source": "Excite エキサイト",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9qOWxDUmpNdUFMSFRUOVN1cVFuelRSY1R3YV9QS3hDdGlUdWpyUzVWdHV5a1JMSHB2RkpVTktTRDE1ZnRxOW15Z3QtVEt5NlhwLUdFWS1PX0tYYk4wQldueTdwcHpESlZ6MlBxRUtHaks5a1AyTGc?oc=5",
-        "publishedAt": "2026-11-04T01:15:00.000Z"
-      },
-      {
         "time": "15:39",
         "title": "東京貿易メカニクス CRYSOUND社製 音響イメージャーの取り扱いを開始 音の見える化により、ガス漏れ・設備異常の早期発見を支援",
         "source": "ASCII.jp",
         "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE43TmNtbWpiV3dldUxraVFoRWFDU09zSVE4Y0szS2ZkTnJLcUM3TzJMQzFzVV9VX1V0OURWVVlNRXVXOVFLekFOdkVTd2tBTXNFTVdLdw?oc=5",
         "publishedAt": "2026-11-04T06:39:41.000Z"
+      },
+      {
+        "time": "10:15",
+        "title": "【設備保全DX】スマートファクトリーJapan2026に次世代設備保全クラウド「M2X」ブースを出展",
+        "source": "Excite エキサイト",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9qOWxDUmpNdUFMSFRUOVN1cVFuelRSY1R3YV9QS3hDdGlUdWpyUzVWdHV5a1JMSHB2RkpVTktTRDE1ZnRxOW15Z3QtVEt5NlhwLUdFWS1PX0tYYk4wQldueTdwcHpESlZ6MlBxRUtHaks5a1AyTGc?oc=5",
+        "publishedAt": "2026-11-04T01:15:00.000Z"
       },
       {
         "time": "07:11",
@@ -45,17 +45,17 @@
         "publishedAt": "2026-11-03T23:04:45.000Z"
       },
       {
-        "time": "02:26",
-        "title": "「JIMTOF2026 第33回日本国際工作機械見本市」出展のご案内 | 鹿児島・九州プレスリリース | 生活情報 | くらし",
-        "source": "南日本新聞",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSkQ1WFI4RDBKdnVOc2t6TUZGWjJWOFlUVF9ScXRZSkJ4RzZJZ2x2dGJJaUQtZHJWNVdPUDVlenVVWXNqXzQwM2tkeDd1ZjVyVmtaLW40UTNkdnZ6SnFZSXZfUXpwTXFRaUhaLU1JWmZGZ2JqQ3dUR1NmbWUyQXc4dA?oc=5",
-        "publishedAt": "2026-11-03T17:26:13.000Z"
-      },
-      {
         "time": "05:00",
         "title": "トライオーブ、米で移動ロボ生産 車部品製造向け",
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5tMlYwWkpnbmt5YkVrZ2tpNFhVSHp5X3BHX2haamw1RXJ1bGdYTXpPS0kyYVNmSXpfVDVSQnhnZ1NaUEE3dG5OZjN1NnMxLTlKMVMwWjNQZ2s?oc=5",
+        "publishedAt": "2026-11-03T20:00:00.000Z"
+      },
+      {
+        "time": "05:00",
+        "title": "回収装置に新製品２機種 永進テクノ、分離能力が向上",
+        "source": "中部経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1kR2d1MFFFY1V1Vm9CeWZkX2V4SThZbll0Y09Bellvb0R4MGxUNEstLWZiMUxhWE5BTlJnMWFsQ0E2RVZUdW10SjRxbDhpREYzT1l5dlZuaDVUYlViVS1ycFI2ZXhqTFdUa0lKaUtzR3BFNFk?oc=5",
         "publishedAt": "2026-11-03T20:00:00.000Z"
       }
     ],
