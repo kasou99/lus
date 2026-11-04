@@ -1,13 +1,20 @@
 {
-  "updatedAt": "2026-11-04T02:36:10.178Z",
+  "updatedAt": "2026-11-04T03:12:12.237Z",
   "groups": {
     "machineHeadlines": [
       {
-        "time": "09:00",
+        "time": "11:30",
+        "title": "JIMTOFで見た主要各社のAI活用：JIMTOF2026",
+        "source": "MONOist",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBRZGRHdEUxRmlDa0RfVFhtc0VSM2MzQm45c1owRG1vMjJHU1ZxRUYycHp5TFU3MW1FSjBzU1FYOHVPd3pGMTNuaF9tZV9rRmY0aXc0ZS1fZ0ZaLWItbFJCSms2SmwwTlZ4QjczdFZhMA?oc=5",
+        "publishedAt": "2026-11-04T02:30:00.000Z"
+      },
+      {
+        "time": "10:51",
         "title": "【設備保全DX】スマートファクトリーJapan2026に次世代設備保全クラウド「M2X」ブースを出展",
-        "source": "PR TIMES",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9lY1NiQmZJRHhmTENaTFV6aXZLQnF4dEQxT01FZmtfQ1BCWGh2S0s1MGxyMUpqQmRQdktUVTF6VW5hYWxRZW9OVlczRnpFOUs4S05CMTBFZVhQMnQwYk9vMGFqdlhfQV8tWmc?oc=5",
-        "publishedAt": "2026-11-04T00:00:01.000Z"
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4yb210TTFQbTU5NFVva0tCVl93Nnh6QmNadFI0MDRhbE5PcG9Hc2c3ckxwTFc2WUFRZVBzUmQ5VjlhcGRISXlBbi1tWTlxcUhfcVRhQW02YkFROFp1S3NRTGw1cWlrNDU5Y0pHQy1LT1d6UWQyeHFHMFJ6dw?oc=5",
+        "publishedAt": "2026-11-04T01:51:19.000Z"
       },
       {
         "time": "07:11",
@@ -24,11 +31,18 @@
         "publishedAt": "2026-11-03T23:04:45.000Z"
       },
       {
-        "time": "02:26",
-        "title": "「JIMTOF2026 第33回日本国際工作機械見本市」出展のご案内 | 鹿児島・九州プレスリリース | 生活情報 | くらし",
-        "source": "南日本新聞",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSkQ1WFI4RDBKdnVOc2t6TUZGWjJWOFlUVF9ScXRZSkJ4RzZJZ2x2dGJJaUQtZHJWNVdPUDVlenVVWXNqXzQwM2tkeDd1ZjVyVmtaLW40UTNkdnZ6SnFZSXZfUXpwTXFRaUhaLU1JWmZGZ2JqQ3dUR1NmbWUyQXc4dA?oc=5",
-        "publishedAt": "2026-11-03T17:26:13.000Z"
+        "time": "12:03",
+        "title": "ジェイテクト・日本精工・NTN…軸受3社は通期売上高上方修正も、構造改革が必要な理由",
+        "source": "ニュースイッチ by 日刊工業新聞社",
+        "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBjVktJOWNad3QxaDBIcF82SVZnVGRKbERxQ2I0Q3Z2OUQ4UExIX2g0VmctYVNTcFhuZlBoS0ZmaGpKZw?oc=5",
+        "publishedAt": "2026-11-04T03:03:00.000Z"
+      },
+      {
+        "time": "10:15",
+        "title": "亞德客、10月売上高35.65億台湾ドルで同月過去最高－受注動向は2027年まで好調持続へ",
+        "source": "BigGo ファイナンス",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9rZlhRZkR1b09MMzZUV0pHRUsxWVYtRk0zS1dQNnRjNXZ0b3E5NmZ5b3h6SW40OHMwQjhtSjNRS2dXZ3RGWWNWQU5kbUc2eVZhTWlJa00wcndzTEhzdGxua1V1TFpRZEpYQjNxeHRRZzdtTzJh?oc=5",
+        "publishedAt": "2026-11-04T01:15:00.000Z"
       },
       {
         "time": "05:00",
@@ -43,20 +57,6 @@
         "source": "中部経済新聞",
         "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1kR2d1MFFFY1V1Vm9CeWZkX2V4SThZbll0Y09Bellvb0R4MGxUNEstLWZiMUxhWE5BTlJnMWFsQ0E2RVZUdW10SjRxbDhpREYzT1l5dlZuaDVUYlViVS1ycFI2ZXhqTFdUa0lKaUtzR3BFNFk?oc=5",
         "publishedAt": "2026-11-03T20:00:00.000Z"
-      },
-      {
-        "time": "17:41",
-        "title": "電線の端材でストラップ制作 Ｍ．Ｓ．Ｅ．が商品化",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TOThSZjN5eER3TlU3MHo0RE9lLXdpRFVod2Mtams1bFZvcjBKQnpvSFYxMjJPYm5HZVd5RlhtcHlTN3R2OGdVLUs5THBCQVVCWEE?oc=5",
-        "publishedAt": "2026-11-03T08:41:09.000Z"
-      },
-      {
-        "time": "20:39",
-        "title": "【探訪ザ・カンパニー】オーザック（福山市）安全支えるワイヤ金具",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB2YnlPN09iTUcyOGNldkhrT1k5RzQ5M0pLNkE3NkV1YzJxUDFPam9xOTV6dFZva2ZrNHNxNkZIOGYxMXN6R1JyUHFIMXZIamRMT2c?oc=5",
-        "publishedAt": "2026-11-03T11:39:36.000Z"
       }
     ],
     "worldHeadlines": [
@@ -75,18 +75,18 @@
         "publishedAt": "2026-11-04T01:01:21.000Z"
       },
       {
+        "time": "12:05",
+        "title": "米中間選挙 下院は野党の民主優勢",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6601285?source=rss",
+        "publishedAt": "2026-11-04T03:05:14.000Z"
+      },
+      {
         "time": "10:54",
         "title": "アメリカ中間選挙 注目の激戦州は",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601269?source=rss",
         "publishedAt": "2026-11-04T01:54:56.000Z"
-      },
-      {
-        "time": "23:02",
-        "title": "米中間選挙 集計長期化の可能性も",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601226?source=rss",
-        "publishedAt": "2026-11-03T14:02:50.000Z"
       },
       {
         "time": "09:15",
@@ -119,11 +119,11 @@
         "publishedAt": "2026-11-04T00:20:10.000Z"
       },
       {
-        "time": "19:23",
-        "title": "豪が追加利上げ 18年ぶり高水準",
+        "time": "12:00",
+        "title": "UFJ新銀行 キャッシュカードなし",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601212?source=rss",
-        "publishedAt": "2026-11-03T10:23:11.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6601279?source=rss",
+        "publishedAt": "2026-11-04T03:00:46.000Z"
       },
       {
         "time": "10:25",
@@ -133,18 +133,18 @@
         "publishedAt": "2026-11-04T01:25:19.000Z"
       },
       {
-        "time": "10:17",
-        "title": "安いもやし限界 5年で13社消える",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601141?source=rss",
-        "publishedAt": "2026-11-03T01:17:07.000Z"
-      },
-      {
         "time": "23:40",
         "title": "タイ 輸入EVの物品税引き上げへ",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601233?source=rss",
         "publishedAt": "2026-11-03T14:40:16.000Z"
+      },
+      {
+        "time": "12:06",
+        "title": "カスハラ対策 線引きに迷う現場",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6601276?source=rss",
+        "publishedAt": "2026-11-04T03:06:51.000Z"
       }
     ],
     "localHeadlines": [

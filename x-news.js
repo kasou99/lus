@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-04T02:36:10.895Z",
+  "updatedAt": "2026-11-04T03:12:13.071Z",
   "items": [
     {
       "time": "10:01",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "中継 米中間選挙の開票速報"
     },
     {
-      "time": "10:54",
-      "title": "アメリカ中間選挙 注目の激戦州は",
+      "time": "12:05",
+      "title": "米中間選挙 下院は野党の民主優勢",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601269?source=rss",
-      "publishedAt": "2026-11-04T01:54:56.000Z",
-      "xQuery": "アメリカ中間選挙 注目の激戦州は"
+      "url": "https://news.yahoo.co.jp/pickup/6601285?source=rss",
+      "publishedAt": "2026-11-04T03:05:14.000Z",
+      "xQuery": "米中間選挙 下院は野党の民主優勢"
     },
     {
       "time": "11:10",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "日経平均株価 一時2000円超下落"
     },
     {
-      "time": "09:20",
-      "title": "自治体システム移行費巡り調査へ",
+      "time": "12:00",
+      "title": "UFJ新銀行 キャッシュカードなし",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601258?source=rss",
-      "publishedAt": "2026-11-04T00:20:10.000Z",
-      "xQuery": "自治体システム移行費巡り調査へ"
+      "url": "https://news.yahoo.co.jp/pickup/6601279?source=rss",
+      "publishedAt": "2026-11-04T03:00:46.000Z",
+      "xQuery": "UFJ新銀行 キャッシュカードなし"
     },
     {
-      "time": "08:23",
-      "title": "関東一部 5日朝に警報級大雨恐れ",
+      "time": "10:25",
+      "title": "フードデリバリー業界に淘汰の波",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601253?source=rss",
-      "publishedAt": "2026-11-03T23:23:21.000Z",
-      "xQuery": "関東一部 5日朝に警報級大雨恐れ"
+      "url": "https://news.yahoo.co.jp/pickup/6601266?source=rss",
+      "publishedAt": "2026-11-04T01:25:19.000Z",
+      "xQuery": "フードデリバリー業界に淘汰の波"
     }
   ]
 };
