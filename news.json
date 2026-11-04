@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T16:35:46.505Z",
+  "updatedAt": "2026-11-04T17:09:39.514Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -8,6 +8,13 @@
         "source": "BigGo ファイナンス",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1SZ1lyRGRDb205a1JPVHR2V0FQbl95dXZacGswZ25MMS1BMTlGYm1pdTAxNWlYRUZoTHpCSFRwQkVPenZFa0hWRF96WFFaNmVBRTNCOWlpMjkwUE90cjJORVZEeFkyVVFRTjFmX0I4V1ppM254?oc=5",
         "publishedAt": "2026-11-04T03:55:00.000Z"
+      },
+      {
+        "time": "11:30",
+        "title": "JIMTOFで見た主要各社のAI活用：JIMTOF2026",
+        "source": "MONOist",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBRZGRHdEUxRmlDa0RfVFhtc0VSM2MzQm45c1owRG1vMjJHU1ZxRUYycHp5TFU3MW1FSjBzU1FYOHVPd3pGMTNuaF9tZV9rRmY0aXc0ZS1fZ0ZaLWItbFJCSms2SmwwTlZ4QjczdFZhMA?oc=5",
+        "publishedAt": "2026-11-04T02:30:00.000Z"
       },
       {
         "time": "10:15",
@@ -50,13 +57,6 @@
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5tMlYwWkpnbmt5YkVrZ2tpNFhVSHp5X3BHX2haamw1RXJ1bGdYTXpPS0kyYVNmSXpfVDVSQnhnZ1NaUEE3dG5OZjN1NnMxLTlKMVMwWjNQZ2s?oc=5",
         "publishedAt": "2026-11-03T20:00:00.000Z"
-      },
-      {
-        "time": "14:00",
-        "title": "製造業の「秘伝のタレ」はAIに奪われるのか、競争力の源泉はどこにある？：JIMTOF2026",
-        "source": "MONOist",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5jX2pkUkNPUk9VZ0FheUFuUDVDbW1Hd1k4Z3RVN1BUM3Jhcm05amFWOE12SmdXb0hiQXpBVlAwQnljdTFlSklWY3lITHRCN0pob1I5UXMyT2MyTzFPVVRjVm04UE02dzhzS1dlM01vbw?oc=5",
-        "publishedAt": "2026-11-04T05:00:00.000Z"
       }
     ],
     "worldHeadlines": [
