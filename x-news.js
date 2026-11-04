@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-04T13:10:39.260Z",
+  "updatedAt": "2026-11-04T13:36:13.839Z",
   "items": [
     {
       "time": "20:49",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "米中間選挙 日本経済への影響は"
     },
     {
-      "time": "19:59",
-      "title": "列車事故で死亡の邦人 20代男女か",
+      "time": "22:03",
+      "title": "関東 5日は滝のような雨降る所も",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601338?source=rss",
-      "publishedAt": "2026-11-04T10:59:54.000Z",
-      "xQuery": "列車事故で死亡の邦人 20代男女か"
+      "url": "https://news.yahoo.co.jp/pickup/6601351?source=rss",
+      "publishedAt": "2026-11-04T13:03:46.000Z",
+      "xQuery": "関東 5日は滝のような雨降る所も"
     },
     {
       "time": "21:58",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "高市首相 COP31欠席する見通し"
     },
     {
+      "time": "21:13",
+      "title": "金融庁 ソニーFGに立ち入り検査",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601346?source=rss",
+      "publishedAt": "2026-11-04T12:13:24.000Z",
+      "xQuery": "金融庁 ソニーFGに立ち入り検査"
+    },
+    {
       "time": "21:26",
       "title": "男児盗撮疑い逮捕 米から情報提供",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6601348?source=rss",
       "publishedAt": "2026-11-04T12:26:17.000Z",
       "xQuery": "男児盗撮疑い逮捕 米から情報提供"
-    },
-    {
-      "time": "19:28",
-      "title": "養殖カンパチ大量死 26万8000匹",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601336?source=rss",
-      "publishedAt": "2026-11-04T10:28:35.000Z",
-      "xQuery": "養殖カンパチ大量死 26万8000匹"
     }
   ]
 };
