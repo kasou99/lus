@@ -1,30 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-05T02:35:35.227Z",
+  "updatedAt": "2026-11-05T03:13:51.547Z",
   "items": [
-    {
-      "time": "11:27",
-      "title": "台風 スピードアップし日本の東へ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601396?source=rss",
-      "publishedAt": "2026-11-05T02:27:04.000Z",
-      "xQuery": "台風 スピードアップし日本の東へ"
-    },
-    {
-      "time": "10:14",
-      "title": "仏銀行サイバー攻撃 177億円流出",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601387?source=rss",
-      "publishedAt": "2026-11-05T01:14:21.000Z",
-      "xQuery": "仏銀行サイバー攻撃 177億円流出"
-    },
-    {
-      "time": "10:22",
-      "title": "新名神6人死亡 拘禁刑7年が確定",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601390?source=rss",
-      "publishedAt": "2026-11-05T01:22:25.000Z",
-      "xQuery": "新名神6人死亡 拘禁刑7年が確定"
-    },
     {
       "time": "10:49",
       "title": "イラン 大敗のトランプ氏を嘲笑",
@@ -34,12 +10,36 @@ window.LUS_X_NEWS = {
       "xQuery": "イラン 大敗のトランプ氏を嘲笑"
     },
     {
-      "time": "10:50",
-      "title": "料理の負担減「メンパ食材」注目",
+      "time": "11:27",
+      "title": "台風 スピードアップし日本の東へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601391?source=rss",
-      "publishedAt": "2026-11-05T01:50:10.000Z",
-      "xQuery": "料理の負担減「メンパ食材」注目"
+      "url": "https://news.yahoo.co.jp/pickup/6601396?source=rss",
+      "publishedAt": "2026-11-05T02:27:04.000Z",
+      "xQuery": "台風 スピードアップし日本の東へ"
+    },
+    {
+      "time": "12:10",
+      "title": "蔵内前議長 金銭授受を改めて否定",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601403?source=rss",
+      "publishedAt": "2026-11-05T03:10:52.000Z",
+      "xQuery": "蔵内前議長 金銭授受を改めて否定"
+    },
+    {
+      "time": "12:03",
+      "title": "「e-Tax」の運用を再開 国税庁",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601404?source=rss",
+      "publishedAt": "2026-11-05T03:03:30.000Z",
+      "xQuery": "「e-Tax」の運用を再開 国税庁"
+    },
+    {
+      "time": "11:36",
+      "title": "海に新生児らしき遺体 死因が判明",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601397?source=rss",
+      "publishedAt": "2026-11-05T02:36:13.000Z",
+      "xQuery": "海に新生児らしき遺体 死因が判明"
     }
   ]
 };
