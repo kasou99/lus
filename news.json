@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T06:39:57.126Z",
+  "updatedAt": "2026-11-05T07:12:21.512Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,18 +38,18 @@
         "publishedAt": "2026-11-05T01:30:00.000Z"
       },
       {
-        "time": "18:41",
-        "title": "【探訪ザ・カンパニー】オーザック（福山市）安全支えるワイヤ金具",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB2YnlPN09iTUcyOGNldkhrT1k5RzQ5M0pLNkE3NkV1YzJxUDFPam9xOTV6dFZva2ZrNHNxNkZIOGYxMXN6R1JyUHFIMXZIamRMT2c?oc=5",
-        "publishedAt": "2026-11-04T09:41:41.000Z"
-      },
-      {
         "time": "10:00",
         "title": "『カミナシ 設備保全』、保全データをAIが分析し予防保全の計画まで提案するAIエージェント機能を先行提供",
         "source": "PR TIMES",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9KcE5qWXdOaVhtV1BhWnF3cHpnbHlNSzA4WDFieE16eGVVWnJtV3ViZlhlUEEwZ1lNNTNNZDMtTHljS2Jkb1RwVlFuejI2SV9HdlJsMURQMDF2aFl2MFJGZm1qRElMd0tKUEE?oc=5",
         "publishedAt": "2026-11-05T01:00:03.000Z"
+      },
+      {
+        "time": "05:00",
+        "title": "挑む・モノづくりヒトづくり／銀河電機工業社長・後藤恵一氏",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5mNHhiMUxNd2RucEpzcXV4U2xhUjMwbG45bG9ScEVRU2xaczhmcVNWY25vRV8zbi1KMDJlQmo2clhGcThKb1A1bHdUMzd1cVFuM09ocVZUaHg?oc=5",
+        "publishedAt": "2026-11-04T20:00:00.000Z"
       },
       {
         "time": "15:00",
@@ -112,6 +112,13 @@
         "publishedAt": "2026-11-04T22:35:29.000Z"
       },
       {
+        "time": "15:43",
+        "title": "トヨタ中間決算 3年ぶり営業増益",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6601424?source=rss",
+        "publishedAt": "2026-11-05T06:43:03.000Z"
+      },
+      {
         "time": "14:37",
         "title": "黒字リストラ 日本にも広がるか",
         "source": "Yahoo!ニュース",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601391?source=rss",
         "publishedAt": "2026-11-05T01:50:10.000Z"
-      },
-      {
-        "time": "19:10",
-        "title": "すし店の休廃業・解散が急増 25年",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601334?source=rss",
-        "publishedAt": "2026-11-04T10:10:49.000Z"
       }
     ],
     "localHeadlines": [

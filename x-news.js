@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-05T06:39:57.892Z",
+  "updatedAt": "2026-11-05T07:12:22.383Z",
   "items": [
     {
       "time": "14:37",
@@ -18,6 +18,14 @@ window.LUS_X_NEWS = {
       "xQuery": "英語版DBZ作曲家 州司法長官に"
     },
     {
+      "time": "15:33",
+      "title": "バンス氏 米大統領と距離置く姿勢",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601425?source=rss",
+      "publishedAt": "2026-11-05T06:33:22.000Z",
+      "xQuery": "バンス氏 米大統領と距離置く姿勢"
+    },
+    {
       "time": "13:13",
       "title": "ドコモ携帯 全国で障害が発生",
       "source": "Yahoo!ニュース",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6601413?source=rss",
       "publishedAt": "2026-11-05T03:52:36.000Z",
       "xQuery": "ドコモ オンラインサービス停止"
-    },
-    {
-      "time": "15:14",
-      "title": "「フレネミー」26年流行語候補に",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601423?source=rss",
-      "publishedAt": "2026-11-05T06:14:13.000Z",
-      "xQuery": "「フレネミー」26年流行語候補に"
     }
   ]
 };
