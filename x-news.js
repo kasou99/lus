@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-05T00:30:32.088Z",
+  "updatedAt": "2026-11-05T01:12:45.468Z",
   "items": [
     {
-      "time": "07:35",
-      "title": "米民主党 トランプ政権監視強化へ",
+      "time": "09:45",
+      "title": "米民主党 次のリーダー不在課題",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601374?source=rss",
-      "publishedAt": "2026-11-04T22:35:38.000Z",
-      "xQuery": "米民主党 トランプ政権監視強化へ"
+      "url": "https://news.yahoo.co.jp/pickup/6601386?source=rss",
+      "publishedAt": "2026-11-05T00:45:30.000Z",
+      "xQuery": "米民主党 次のリーダー不在課題"
     },
     {
       "time": "08:01",

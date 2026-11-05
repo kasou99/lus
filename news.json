@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T00:30:31.188Z",
+  "updatedAt": "2026-11-05T01:12:44.843Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -61,6 +61,13 @@
     ],
     "worldHeadlines": [
       {
+        "time": "09:45",
+        "title": "米民主党 次のリーダー不在課題",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6601386?source=rss",
+        "publishedAt": "2026-11-05T00:45:30.000Z"
+      },
+      {
         "time": "07:35",
         "title": "米民主党 トランプ政権監視強化へ",
         "source": "Yahoo!ニュース",
@@ -80,13 +87,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601315?source=rss",
         "publishedAt": "2026-11-04T08:00:55.000Z"
-      },
-      {
-        "time": "14:14",
-        "title": "トランプ氏 選挙結果受け入れ表明",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601299?source=rss",
-        "publishedAt": "2026-11-04T05:14:21.000Z"
       },
       {
         "time": "16:53",
