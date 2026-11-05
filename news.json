@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T19:35:11.404Z",
+  "updatedAt": "2026-11-05T20:10:45.010Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,6 +38,13 @@
         "publishedAt": "2026-11-05T11:26:14.000Z"
       },
       {
+        "time": "05:00",
+        "title": "新機構の減速機、同軸ローラーカム 歳差運動でロボット精度を工作機械級に",
+        "source": "日経クロステック",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE53NDJ3VDBwS1RNclE4OHBXSjNFTHlCc1dmbV9vOTd4OTNoM0pCNXNqOW9XSXYwNlZQS3VXeE9vc3R5NkNVWk5Wc0JkZTBKd2s5YkFIdU0yOEZMbWFrN21rdWEySjdoN1lnb3NNQg?oc=5",
+        "publishedAt": "2026-11-05T20:00:00.000Z"
+      },
+      {
         "time": "20:00",
         "title": "日工会がまとめた「IMTS2026」は、AI関連や航空宇宙向け、自動化提案も活発！",
         "source": "製造現場ドットコム",
@@ -50,13 +57,6 @@
         "source": "山陽新聞",
         "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1jUnppR2hTeXR6Y1NmZ1ZZSUpSQVlxVldYZ205QTNWOFpwYUxtRERvLTVVc1Z3Zm9yWC1RbFUycHJNRUVlQ29BbmpOMXlKU1RnWnVvbE9lR09mMWhXUlhyemhyQndDUldtNGZhamFnUjV6NjViakhB?oc=5",
         "publishedAt": "2026-11-05T07:37:19.000Z"
-      },
-      {
-        "time": "05:00",
-        "title": "決算を読む オークマ 26年４～９月期 純利益２・６倍で過去最高 米国中心に販売拡大 通期は増収増益予想",
-        "source": "中部経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBtU2ZRT2I2bG51Sk5sU3E1a2V6OXdHLXoxQ3BtX1Jpay13YnZVbHk5VE9Cc2NaaFY2dVZYVnZDTWE1LWVybDB3NU5tS1VKR0NXUFlfY3NfTGtNdnJpVW5OaDZxeG1lZWxnVFNpNWxCWURmZmc?oc=5",
-        "publishedAt": "2026-11-04T20:00:00.000Z"
       }
     ],
     "worldHeadlines": [
