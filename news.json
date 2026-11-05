@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T01:12:44.843Z",
+  "updatedAt": "2026-11-05T01:39:28.637Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -10,6 +10,20 @@
         "publishedAt": "2026-11-04T23:32:57.000Z"
       },
       {
+        "time": "05:00",
+        "title": "決算を読む オークマ 26年４～９月期 純利益２・６倍で過去最高 米国中心に販売拡大 通期は増収増益予想",
+        "source": "中部経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBtU2ZRT2I2bG51Sk5sU3E1a2V6OXdHLXoxQ3BtX1Jpay13YnZVbHk5VE9Cc2NaaFY2dVZYVnZDTWE1LWVybDB3NU5tS1VKR0NXUFlfY3NfTGtNdnJpVW5OaDZxeG1lZWxnVFNpNWxCWURmZmc?oc=5",
+        "publishedAt": "2026-11-04T20:00:00.000Z"
+      },
+      {
+        "time": "05:00",
+        "title": "中部食品産業創造展’26／会場リポート（上）",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5JSW1vLVhPa0lZTFo3a3Uwdk9SbjNzVWhMZ25qVWY5ZFJjclZsM1ZCZGEtckpDMktWZGVYaUM2VjdBX0VRN3lzMy1tbzZ1aUd5S1lUWFJhaEM?oc=5",
+        "publishedAt": "2026-11-04T20:00:00.000Z"
+      },
+      {
         "time": "12:55",
         "title": "対中輸出規制の初回対象から工作機械は除外も、新代はなお2日連続ストップ安",
         "source": "BigGo ファイナンス",
@@ -17,11 +31,11 @@
         "publishedAt": "2026-11-04T03:55:00.000Z"
       },
       {
-        "time": "11:30",
-        "title": "JIMTOFで見た主要各社のAI活用：JIMTOF2026",
+        "time": "14:00",
+        "title": "製造業の「秘伝のタレ」はAIに奪われるのか、競争力の源泉はどこにある？：JIMTOF2026",
         "source": "MONOist",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBRZGRHdEUxRmlDa0RfVFhtc0VSM2MzQm45c1owRG1vMjJHU1ZxRUYycHp5TFU3MW1FSjBzU1FYOHVPd3pGMTNuaF9tZV9rRmY0aXc0ZS1fZ0ZaLWItbFJCSms2SmwwTlZ4QjczdFZhMA?oc=5",
-        "publishedAt": "2026-11-04T02:30:00.000Z"
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5jX2pkUkNPUk9VZ0FheUFuUDVDbW1Hd1k4Z3RVN1BUM3Jhcm05amFWOE12SmdXb0hiQXpBVlAwQnljdTFlSklWY3lITHRCN0pob1I5UXMyT2MyTzFPVVRjVm04UE02dzhzS1dlM01vbw?oc=5",
+        "publishedAt": "2026-11-04T05:00:00.000Z"
       },
       {
         "time": "18:41",
@@ -43,20 +57,6 @@
         "source": "ASCII.jp",
         "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE43TmNtbWpiV3dldUxraVFoRWFDU09zSVE4Y0szS2ZkTnJLcUM3TzJMQzFzVV9VX1V0OURWVVlNRXVXOVFLekFOdkVTd2tBTXNFTVdLdw?oc=5",
         "publishedAt": "2026-11-04T06:39:41.000Z"
-      },
-      {
-        "time": "05:00",
-        "title": "決算を読む オークマ 26年４～９月期 純利益２・６倍で過去最高 米国中心に販売拡大 通期は増収増益予想",
-        "source": "中部経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBtU2ZRT2I2bG51Sk5sU3E1a2V6OXdHLXoxQ3BtX1Jpay13YnZVbHk5VE9Cc2NaaFY2dVZYVnZDTWE1LWVybDB3NU5tS1VKR0NXUFlfY3NfTGtNdnJpVW5OaDZxeG1lZWxnVFNpNWxCWURmZmc?oc=5",
-        "publishedAt": "2026-11-04T20:00:00.000Z"
-      },
-      {
-        "time": "05:00",
-        "title": "挑む・モノづくりヒトづくり／銀河電機工業社長・後藤恵一氏",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5mNHhiMUxNd2RucEpzcXV4U2xhUjMwbG45bG9ScEVRU2xaczhmcVNWY25vRV8zbi1KMDJlQmo2clhGcThKb1A1bHdUMzd1cVFuM09ocVZUaHg?oc=5",
-        "publishedAt": "2026-11-04T20:00:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "10:22",
+        "title": "新名神6人死亡 拘禁刑7年が確定",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6601390?source=rss",
+        "publishedAt": "2026-11-05T01:22:25.000Z"
+      },
+      {
         "time": "08:22",
         "title": "幹部逮捕 川崎市役所を家宅捜索",
         "source": "Yahoo!ニュース",
@@ -175,13 +182,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601342?source=rss",
         "publishedAt": "2026-11-04T11:34:45.000Z"
-      },
-      {
-        "time": "18:01",
-        "title": "重機が倒れ頭挟まれる 作業員死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601321?source=rss",
-        "publishedAt": "2026-11-04T09:01:50.000Z"
       },
       {
         "time": "08:56",

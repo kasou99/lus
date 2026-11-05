@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-05T01:12:45.468Z",
+  "updatedAt": "2026-11-05T01:39:29.348Z",
   "items": [
     {
       "time": "09:45",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "米民主党 次のリーダー不在課題"
     },
     {
-      "time": "08:01",
-      "title": "消費税減税 あすにも衆院通過へ",
+      "time": "07:41",
+      "title": "サイバー救援隊を創設へ 政府案",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601376?source=rss",
-      "publishedAt": "2026-11-04T23:01:06.000Z",
-      "xQuery": "消費税減税 あすにも衆院通過へ"
+      "url": "https://news.yahoo.co.jp/pickup/6601372?source=rss",
+      "publishedAt": "2026-11-04T22:41:50.000Z",
+      "xQuery": "サイバー救援隊を創設へ 政府案"
     },
     {
-      "time": "07:35",
-      "title": "ダウ一時1500ドル高 選挙から一夜",
+      "time": "10:14",
+      "title": "仏銀行サイバー攻撃 177億円流出",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601373?source=rss",
-      "publishedAt": "2026-11-04T22:35:29.000Z",
-      "xQuery": "ダウ一時1500ドル高 選挙から一夜"
+      "url": "https://news.yahoo.co.jp/pickup/6601387?source=rss",
+      "publishedAt": "2026-11-05T01:14:21.000Z",
+      "xQuery": "仏銀行サイバー攻撃 177億円流出"
     },
     {
       "time": "08:22",
