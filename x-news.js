@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-05T13:36:15.373Z",
+  "updatedAt": "2026-11-05T14:12:23.497Z",
   "items": [
     {
       "time": "21:57",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "10月就任の横浜市長が療養 過労か"
     },
     {
-      "time": "22:20",
-      "title": "内外出版社が事業停止 破産申請へ",
+      "time": "22:52",
+      "title": "日本製紙 八代工場の紙生産断念へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601468?source=rss",
-      "publishedAt": "2026-11-05T13:20:50.000Z",
-      "xQuery": "内外出版社が事業停止 破産申請へ"
+      "url": "https://news.yahoo.co.jp/pickup/6601473?source=rss",
+      "publishedAt": "2026-11-05T13:52:04.000Z",
+      "xQuery": "日本製紙 八代工場の紙生産断念へ"
     },
     {
       "time": "19:30",
