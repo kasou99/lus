@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-04T23:35:25.900Z",
+  "updatedAt": "2026-11-05T00:30:32.088Z",
   "items": [
     {
       "time": "07:35",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "消費税減税 あすにも衆院通過へ"
     },
     {
-      "time": "07:19",
-      "title": "「書道」無形文化遺産に登録へ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601371?source=rss",
-      "publishedAt": "2026-11-04T22:19:22.000Z",
-      "xQuery": "「書道」無形文化遺産に登録へ"
-    },
-    {
       "time": "07:35",
       "title": "ダウ一時1500ドル高 選挙から一夜",
       "source": "Yahoo!ニュース",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6601377?source=rss",
       "publishedAt": "2026-11-04T23:22:44.000Z",
       "xQuery": "幹部逮捕 川崎市役所を家宅捜索"
+    },
+    {
+      "time": "08:56",
+      "title": "「哲代おばあちゃん」死去 106歳",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601381?source=rss",
+      "publishedAt": "2026-11-04T23:56:54.000Z",
+      "xQuery": "「哲代おばあちゃん」死去 106歳"
     }
   ]
 };
