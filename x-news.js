@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-05T09:35:46.937Z",
+  "updatedAt": "2026-11-05T10:11:47.660Z",
   "items": [
     {
       "time": "17:01",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "映画監督の榊英雄被告 実刑確定へ"
     },
     {
-      "time": "17:29",
-      "title": "シヤチハタ 化粧品事業に参入へ",
+      "time": "18:41",
+      "title": "10月就任の横浜市長が療養 過労か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601444?source=rss",
-      "publishedAt": "2026-11-05T08:29:19.000Z",
-      "xQuery": "シヤチハタ 化粧品事業に参入へ"
+      "url": "https://news.yahoo.co.jp/pickup/6601452?source=rss",
+      "publishedAt": "2026-11-05T09:41:26.000Z",
+      "xQuery": "10月就任の横浜市長が療養 過労か"
     }
   ]
 };

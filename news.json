@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T09:35:46.393Z",
+  "updatedAt": "2026-11-05T10:11:46.975Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -22,13 +22,6 @@
         "source": "PR TIMES",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBBNzg2N2dvbS1paTRxb0pBaUpjMENlRS1NbGNFaWJyM1RKYWxCZkViVGpuOWtGc3BveDczZ1J5UVczdDdCOE1iTXRHVjFoUHBucVh3VFBhTmh1dlBMTk1VSlREbWxrUHVTTUE?oc=5",
         "publishedAt": "2026-11-05T00:00:01.000Z"
-      },
-      {
-        "time": "18:41",
-        "title": "【探訪ザ・カンパニー】オーザック（福山市）安全支えるワイヤ金具",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB2YnlPN09iTUcyOGNldkhrT1k5RzQ5M0pLNkE3NkV1YzJxUDFPam9xOTV6dFZva2ZrNHNxNkZIOGYxMXN6R1JyUHFIMXZIamRMT2c?oc=5",
-        "publishedAt": "2026-11-04T09:41:41.000Z"
       },
       {
         "time": "15:00",
@@ -57,6 +50,13 @@
         "source": "中部経済新聞",
         "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBtU2ZRT2I2bG51Sk5sU3E1a2V6OXdHLXoxQ3BtX1Jpay13YnZVbHk5VE9Cc2NaaFY2dVZYVnZDTWE1LWVybDB3NU5tS1VKR0NXUFlfY3NfTGtNdnJpVW5OaDZxeG1lZWxnVFNpNWxCWURmZmc?oc=5",
         "publishedAt": "2026-11-04T20:00:00.000Z"
+      },
+      {
+        "time": "12:46",
+        "title": "紙の記録をなくし、抜け漏れも防ぐ 無料で始められる“TBM×CBM”設備点検プラットフォーム「MONiPLAT」 [PR]",
+        "source": "BOXIL",
+        "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5ZdDNZV0w3VFlsOUlWUi1EVEViZUo3blZHa2NzWjdsWXdtalMwNzFSbmN1VXBuNXh2blg2WE9xZzhmUQ?oc=5",
+        "publishedAt": "2026-11-05T03:46:28.000Z"
       }
     ],
     "worldHeadlines": [
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "18:41",
+        "title": "10月就任の横浜市長が療養 過労か",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6601452?source=rss",
+        "publishedAt": "2026-11-05T09:41:26.000Z"
+      },
+      {
         "time": "16:25",
         "title": "能登地震でビル倒壊 遺族が提訴",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601397?source=rss",
         "publishedAt": "2026-11-05T02:36:13.000Z"
-      },
-      {
-        "time": "18:14",
-        "title": "映画監督の榊英雄被告 実刑確定へ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601450?source=rss",
-        "publishedAt": "2026-11-05T09:14:17.000Z"
       }
     ],
     "subsidyHeadlines": [
