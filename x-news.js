@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-05T12:37:07.743Z",
+  "updatedAt": "2026-11-05T13:11:16.504Z",
   "items": [
+    {
+      "time": "21:57",
+      "title": "露 JT資産を同国企業の管理下に",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601467?source=rss",
+      "publishedAt": "2026-11-05T12:57:53.000Z",
+      "xQuery": "露 JT資産を同国企業の管理下に"
+    },
     {
       "time": "20:52",
       "title": "首相 米大統領と協力していきたい",
@@ -10,20 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "首相 米大統領と協力していきたい"
     },
     {
-      "time": "18:42",
-      "title": "6日 全国的に気温高く夏日予想も",
+      "time": "18:40",
+      "title": "個人向け国債「複利型」導入検討",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601453?source=rss",
-      "publishedAt": "2026-11-05T09:42:58.000Z",
-      "xQuery": "6日 全国的に気温高く夏日予想も"
-    },
-    {
-      "time": "18:41",
-      "title": "10月就任の横浜市長が療養 過労か",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601452?source=rss",
-      "publishedAt": "2026-11-05T09:41:26.000Z",
-      "xQuery": "10月就任の横浜市長が療養 過労か"
+      "url": "https://news.yahoo.co.jp/pickup/6601451?source=rss",
+      "publishedAt": "2026-11-05T09:40:02.000Z",
+      "xQuery": "個人向け国債「複利型」導入検討"
     },
     {
       "time": "18:03",
