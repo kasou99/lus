@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T12:16:55.163Z",
+  "updatedAt": "2026-11-05T12:37:06.514Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -22,13 +22,6 @@
         "source": "ニコニコニュース",
         "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9XbUx2TXNmWXBGUkI4Ynk4YUgtZFFkR21MOF9pYWFldlRBTmgyU1FvSFVfQm1qUEFIbFlfdXdtNTAzRVhoMmw1ajRnMjdUcGlaaUY2WjJxV2lkTURXNHVoV3V4aEFzOHljb2VoS0R3N2VSTGtyeWctZ2x2OA?oc=5",
         "publishedAt": "2026-11-05T07:15:27.000Z"
-      },
-      {
-        "time": "16:37",
-        "title": "精密スプリング製作所がＥＶ部品製造参入へ 自社技術応用、安価な複合材研究",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1jUnppR2hTeXR6Y1NmZ1ZZSUpSQVlxVldYZ205QTNWOFpwYUxtRERvLTVVc1Z3Zm9yWC1RbFUycHJNRUVlQ29BbmpOMXlKU1RnWnVvbE9lR09mMWhXUlhyemhyQndDUldtNGZhamFnUjV6NjViakhB?oc=5",
-        "publishedAt": "2026-11-05T07:37:19.000Z"
       },
       {
         "time": "09:00",
@@ -57,6 +50,13 @@
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9jOXRfSmNPbDBCYkZkelQtS1BjckNzOUh4b1g4QW16ZDdjSjVGVWpicTVNV1B0SWI1MjhaN1pxZDM1LU9zb0RnVXFOMTlicDlTblAtQg?oc=5",
         "publishedAt": "2026-11-05T07:59:19.000Z"
+      },
+      {
+        "time": "05:00",
+        "title": "決算を読む オークマ 26年４～９月期 純利益２・６倍で過去最高 米国中心に販売拡大 通期は増収増益予想",
+        "source": "中部経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBtU2ZRT2I2bG51Sk5sU3E1a2V6OXdHLXoxQ3BtX1Jpay13YnZVbHk5VE9Cc2NaaFY2dVZYVnZDTWE1LWVybDB3NU5tS1VKR0NXUFlfY3NfTGtNdnJpVW5OaDZxeG1lZWxnVFNpNWxCWURmZmc?oc=5",
+        "publishedAt": "2026-11-04T20:00:00.000Z"
       }
     ],
     "worldHeadlines": [
