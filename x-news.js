@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-05T03:36:05.222Z",
+  "updatedAt": "2026-11-05T04:13:53.205Z",
   "items": [
     {
       "time": "12:03",
@@ -10,6 +10,14 @@ window.LUS_X_NEWS = {
       "xQuery": "「e-Tax」の運用を再開 国税庁"
     },
     {
+      "time": "08:10",
+      "title": "エボラ巡り新ワクチン治験 WHO",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601378?source=rss",
+      "publishedAt": "2026-11-04T23:10:49.000Z",
+      "xQuery": "エボラ巡り新ワクチン治験 WHO"
+    },
+    {
       "time": "12:18",
       "title": "蔵内前議長 現金受け取っていない",
       "source": "Yahoo!ニュース",
@@ -18,20 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "蔵内前議長 現金受け取っていない"
     },
     {
-      "time": "10:49",
-      "title": "イラン 大敗のトランプ氏を嘲笑",
+      "time": "12:32",
+      "title": "米共和党 大敗の責任押し付け合い",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601392?source=rss",
-      "publishedAt": "2026-11-05T01:49:37.000Z",
-      "xQuery": "イラン 大敗のトランプ氏を嘲笑"
-    },
-    {
-      "time": "11:27",
-      "title": "台風 スピードアップし日本の東へ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601396?source=rss",
-      "publishedAt": "2026-11-05T02:27:04.000Z",
-      "xQuery": "台風 スピードアップし日本の東へ"
+      "url": "https://news.yahoo.co.jp/pickup/6601407?source=rss",
+      "publishedAt": "2026-11-05T03:32:04.000Z",
+      "xQuery": "米共和党 大敗の責任押し付け合い"
     },
     {
       "time": "11:36",
