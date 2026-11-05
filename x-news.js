@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-05T23:10:02.083Z",
+  "updatedAt": "2026-11-05T23:35:13.921Z",
   "items": [
     {
-      "time": "06:04",
-      "title": "ルビオ国務長官が辞任検討か 報道",
+      "time": "08:22",
+      "title": "経産省 中部電力に業務改善命令",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601475?source=rss",
-      "publishedAt": "2026-11-05T21:04:46.000Z",
-      "xQuery": "ルビオ国務長官が辞任検討か 報道"
+      "url": "https://news.yahoo.co.jp/pickup/6601489?source=rss",
+      "publishedAt": "2026-11-05T23:22:48.000Z",
+      "xQuery": "経産省 中部電力に業務改善命令"
     },
     {
       "time": "07:30",

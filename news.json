@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T23:10:01.321Z",
+  "updatedAt": "2026-11-05T23:35:13.020Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,13 +31,6 @@
         "publishedAt": "2026-11-05T10:55:46.000Z"
       },
       {
-        "time": "08:32",
-        "title": "オークマ---工作機械需要の回復で営業利益倍増、受注拡大に期待(フィスコ)",
-        "source": "Yahoo!ファイナンス",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObnk2QTBLWDNudENxcGtCaVJNMWtudFBpR3c2azVaWlNRbndadUx6WVhoRG11bXhGSm94NVJnNTJWYnVmcGtDMzYwZ1Bhbm0wcWdFZ29fdGdrbGpwNTk5LXlycVJ1ZFlvbjJwa0VBbmEzYkJkVEowaDgwNXJ1c1lsLThpT0xLbWc?oc=5",
-        "publishedAt": "2026-11-04T23:32:57.000Z"
-      },
-      {
         "time": "09:00",
         "title": "【設備保全DX】食品工場Week 2026に次世代設備保全クラウド「M2X」ブースを出展",
         "source": "PR TIMES",
@@ -48,7 +41,7 @@
         "time": "20:26",
         "title": "カミナシが提供するAIエージェント機能で設備保全の効率化を実現する未来",
         "source": "ニュースメディアVOIX",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9YTUNXVDNzS3ZSVEVYVzBoclhrWDFlNXppdXV6eEtiY25QeGZXY0Fma2RGNHNSQTc5UGZhNnNXSFdpUVpUMXd6YkR5WjJmR2NPLVdLTFFoWDdCMWVOaklmTEZUOTdXWXhScVBB?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFByT2lBNWhxQWlfYmFBWnU0WGhFS2dhU0VLSTRaWndVWC1wZnFWZVQ2NGUyTVJkN0R5MUZCT0VMdTNlVE5LYVlLbklKLUVKd2VfeldBY2Y3WFI2OTlHVzNTTXdReEpibGIt?oc=5",
         "publishedAt": "2026-11-05T11:26:14.000Z"
       },
       {
@@ -57,6 +50,13 @@
         "source": "製造現場ドットコム",
         "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE4wSFVJVVU5NUFZRmlTSjhTNFhETUtZdHJ4UnNOTjNVMTA0cHQ1NVRVdjZFcTBMcjZTdGJBaU9PQk01a0hRZU1SMkZR?oc=5",
         "publishedAt": "2026-11-05T11:00:23.000Z"
+      },
+      {
+        "time": "05:00",
+        "title": "浦安鉄鋼団地協組、9月景況感「横ばい」70社に増加",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9aN21ZQS1YbnlXdkdEZ3lDZEtOb3hXUjI4ZlgtS1pIcTFYWWs2SDQ3U20wLWxGQVIzUzgxWDBhQ2VtdDYxQXJGbkl1ZFdvMS1zVFFCaUFITjg?oc=5",
+        "publishedAt": "2026-11-05T20:00:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -105,6 +105,13 @@
     ],
     "economyHeadlines": [
       {
+        "time": "08:22",
+        "title": "経産省 中部電力に業務改善命令",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6601489?source=rss",
+        "publishedAt": "2026-11-05T23:22:48.000Z"
+      },
+      {
         "time": "06:25",
         "title": "NYダウ急落 一時1800ドル超安",
         "source": "Yahoo!ニュース",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601468?source=rss",
         "publishedAt": "2026-11-05T13:20:50.000Z"
-      },
-      {
-        "time": "22:36",
-        "title": "「ドンキ流トイザらス」が始動",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601471?source=rss",
-        "publishedAt": "2026-11-05T13:36:12.000Z"
       }
     ],
     "localHeadlines": [
