@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T04:13:52.470Z",
+  "updatedAt": "2026-11-05T04:35:55.273Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,13 +38,6 @@
         "publishedAt": "2026-11-04T05:00:00.000Z"
       },
       {
-        "time": "18:41",
-        "title": "【探訪ザ・カンパニー】オーザック（福山市）安全支えるワイヤ金具",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB2YnlPN09iTUcyOGNldkhrT1k5RzQ5M0pLNkE3NkV1YzJxUDFPam9xOTV6dFZva2ZrNHNxNkZIOGYxMXN6R1JyUHFIMXZIamRMT2c?oc=5",
-        "publishedAt": "2026-11-04T09:41:41.000Z"
-      },
-      {
         "time": "10:00",
         "title": "『カミナシ 設備保全』、保全データをAIが分析し予防保全の計画まで提案するAIエージェント機能を先行提供",
         "source": "PR TIMES",
@@ -57,6 +50,13 @@
         "source": "ASCII.jp",
         "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE43TmNtbWpiV3dldUxraVFoRWFDU09zSVE4Y0szS2ZkTnJLcUM3TzJMQzFzVV9VX1V0OURWVVlNRXVXOVFLekFOdkVTd2tBTXNFTVdLdw?oc=5",
         "publishedAt": "2026-11-04T06:39:41.000Z"
+      },
+      {
+        "time": "11:11",
+        "title": "【台湾情報】台湾の半導体封止・検査、2026年は過去最高の9,010億元へ＜ワイズリサーチ最新レポート＞",
+        "source": "PR TIMES",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9QT2NqSm1ka28yOTBrVDdsMy1vZVZZWWdFMkFkN1VxR2dSYTVYZVVSU0l2ZWpudEUyc283UjdEWHZlNU5pNHE5WHNLSUdjTUkxWGFjWmN4Y2FuX3N5akNNR3hYQ21zc2dMbVE?oc=5",
+        "publishedAt": "2026-11-05T02:11:36.000Z"
       }
     ],
     "worldHeadlines": [

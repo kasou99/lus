@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-05T04:13:53.205Z",
+  "updatedAt": "2026-11-05T04:35:56.215Z",
   "items": [
     {
-      "time": "12:03",
-      "title": "「e-Tax」の運用を再開 国税庁",
+      "time": "13:13",
+      "title": "ドコモ携帯 全国で障害が発生",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601404?source=rss",
-      "publishedAt": "2026-11-05T03:03:30.000Z",
-      "xQuery": "「e-Tax」の運用を再開 国税庁"
+      "url": "https://news.yahoo.co.jp/pickup/6601414?source=rss",
+      "publishedAt": "2026-11-05T04:13:44.000Z",
+      "xQuery": "ドコモ携帯 全国で障害が発生"
     },
     {
       "time": "08:10",
