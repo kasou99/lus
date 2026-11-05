@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T22:35:36.037Z",
+  "updatedAt": "2026-11-05T23:10:01.321Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -112,11 +112,25 @@
         "publishedAt": "2026-11-05T21:25:57.000Z"
       },
       {
+        "time": "07:41",
+        "title": "プルデンシャル報告書に低評価",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6601484?source=rss",
+        "publishedAt": "2026-11-05T22:41:47.000Z"
+      },
+      {
         "time": "22:52",
         "title": "日本製紙 八代工場の紙生産断念へ",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601473?source=rss",
         "publishedAt": "2026-11-05T13:52:04.000Z"
+      },
+      {
+        "time": "07:52",
+        "title": "コロナ融資 918億円が回収困難に",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6601485?source=rss",
+        "publishedAt": "2026-11-05T22:52:02.000Z"
       },
       {
         "time": "22:20",
@@ -131,20 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601471?source=rss",
         "publishedAt": "2026-11-05T13:36:12.000Z"
-      },
-      {
-        "time": "17:29",
-        "title": "シヤチハタ 化粧品事業に参入へ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601444?source=rss",
-        "publishedAt": "2026-11-05T08:29:19.000Z"
-      },
-      {
-        "time": "19:30",
-        "title": "レッドバロン創業者遺族 申告漏れ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601456?source=rss",
-        "publishedAt": "2026-11-05T10:30:52.000Z"
       }
     ],
     "localHeadlines": [

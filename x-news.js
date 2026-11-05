@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-05T22:35:36.729Z",
+  "updatedAt": "2026-11-05T23:10:02.083Z",
   "items": [
     {
       "time": "06:04",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "ルビオ国務長官が辞任検討か 報道"
     },
     {
-      "time": "21:57",
-      "title": "露 JT資産を同国企業の管理下に",
+      "time": "07:30",
+      "title": "東北沖で「ひずみ」蓄積再開 研究",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601467?source=rss",
-      "publishedAt": "2026-11-05T12:57:53.000Z",
-      "xQuery": "露 JT資産を同国企業の管理下に"
+      "url": "https://news.yahoo.co.jp/pickup/6601481?source=rss",
+      "publishedAt": "2026-11-05T22:30:52.000Z",
+      "xQuery": "東北沖で「ひずみ」蓄積再開 研究"
     },
     {
       "time": "06:25",
