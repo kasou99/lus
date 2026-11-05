@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T20:35:52.446Z",
+  "updatedAt": "2026-11-05T21:09:16.413Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -45,21 +45,28 @@
         "publishedAt": "2026-11-05T20:00:00.000Z"
       },
       {
+        "time": "05:00",
+        "title": "浦安鉄鋼団地協組、9月景況感「横ばい」70社に増加",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9aN21ZQS1YbnlXdkdEZ3lDZEtOb3hXUjI4ZlgtS1pIcTFYWWs2SDQ3U20wLWxGQVIzUzgxWDBhQ2VtdDYxQXJGbkl1ZFdvMS1zVFFCaUFITjg?oc=5",
+        "publishedAt": "2026-11-05T20:00:00.000Z"
+      },
+      {
         "time": "20:00",
         "title": "日工会がまとめた「IMTS2026」は、AI関連や航空宇宙向け、自動化提案も活発！",
         "source": "製造現場ドットコム",
         "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE4wSFVJVVU5NUFZRmlTSjhTNFhETUtZdHJ4UnNOTjNVMTA0cHQ1NVRVdjZFcTBMcjZTdGJBaU9PQk01a0hRZU1SMkZR?oc=5",
         "publishedAt": "2026-11-05T11:00:23.000Z"
-      },
-      {
-        "time": "16:37",
-        "title": "精密スプリング製作所がＥＶ部品製造参入へ 自社技術応用、安価な複合材研究",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1jUnppR2hTeXR6Y1NmZ1ZZSUpSQVlxVldYZ205QTNWOFpwYUxtRERvLTVVc1Z3Zm9yWC1RbFUycHJNRUVlQ29BbmpOMXlKU1RnWnVvbE9lR09mMWhXUlhyemhyQndDUldtNGZhamFnUjV6NjViakhB?oc=5",
-        "publishedAt": "2026-11-05T07:37:19.000Z"
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "06:04",
+        "title": "ルビオ国務長官が辞任検討か 報道",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6601475?source=rss",
+        "publishedAt": "2026-11-05T21:04:46.000Z"
+      },
       {
         "time": "21:57",
         "title": "露 JT資産を同国企業の管理下に",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601425?source=rss",
         "publishedAt": "2026-11-05T06:33:22.000Z"
-      },
-      {
-        "time": "16:51",
-        "title": "米共和党大敗 宣伝頼り示した限界",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601411?source=rss",
-        "publishedAt": "2026-11-05T07:51:59.000Z"
       }
     ],
     "economyHeadlines": [

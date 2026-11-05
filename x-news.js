@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-05T20:35:54.303Z",
+  "updatedAt": "2026-11-05T21:09:17.266Z",
   "items": [
+    {
+      "time": "06:04",
+      "title": "ルビオ国務長官が辞任検討か 報道",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601475?source=rss",
+      "publishedAt": "2026-11-05T21:04:46.000Z",
+      "xQuery": "ルビオ国務長官が辞任検討か 報道"
+    },
     {
       "time": "21:57",
       "title": "露 JT資産を同国企業の管理下に",
@@ -16,14 +24,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6601458?source=rss",
       "publishedAt": "2026-11-05T11:11:25.000Z",
       "xQuery": "めぐみさん拉致 母「会いたい」"
-    },
-    {
-      "time": "20:08",
-      "title": "自転車の青切符 半年で約1.6万件",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601460?source=rss",
-      "publishedAt": "2026-11-05T11:08:11.000Z",
-      "xQuery": "自転車の青切符 半年で約1.6万件"
     },
     {
       "time": "23:40",
