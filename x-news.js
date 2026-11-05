@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-05T14:36:48.910Z",
+  "updatedAt": "2026-11-05T15:11:19.070Z",
   "items": [
     {
       "time": "21:57",
@@ -18,12 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "めぐみさん拉致 母「会いたい」"
     },
     {
-      "time": "18:41",
-      "title": "10月就任の横浜市長が療養 過労か",
+      "time": "20:08",
+      "title": "自転車の青切符 半年で約1.6万件",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601452?source=rss",
-      "publishedAt": "2026-11-05T09:41:26.000Z",
-      "xQuery": "10月就任の横浜市長が療養 過労か"
+      "url": "https://news.yahoo.co.jp/pickup/6601460?source=rss",
+      "publishedAt": "2026-11-05T11:08:11.000Z",
+      "xQuery": "自転車の青切符 半年で約1.6万件"
+    },
+    {
+      "time": "23:40",
+      "title": "蔵内前議長 条件尽くしの異例会見",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601474?source=rss",
+      "publishedAt": "2026-11-05T14:40:30.000Z",
+      "xQuery": "蔵内前議長 条件尽くしの異例会見"
     },
     {
       "time": "22:52",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6601473?source=rss",
       "publishedAt": "2026-11-05T13:52:04.000Z",
       "xQuery": "日本製紙 八代工場の紙生産断念へ"
-    },
-    {
-      "time": "19:30",
-      "title": "レッドバロン創業者遺族 申告漏れ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601456?source=rss",
-      "publishedAt": "2026-11-05T10:30:52.000Z",
-      "xQuery": "レッドバロン創業者遺族 申告漏れ"
     }
   ]
 };
