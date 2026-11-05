@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-05T10:35:43.145Z",
+  "updatedAt": "2026-11-05T11:10:14.529Z",
   "items": [
     {
-      "time": "17:01",
-      "title": "米右派動揺「トランプ後」を模索",
+      "time": "18:42",
+      "title": "6日 全国的に気温高く夏日予想も",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601435?source=rss",
-      "publishedAt": "2026-11-05T08:01:55.000Z",
-      "xQuery": "米右派動揺「トランプ後」を模索"
+      "url": "https://news.yahoo.co.jp/pickup/6601453?source=rss",
+      "publishedAt": "2026-11-05T09:42:58.000Z",
+      "xQuery": "6日 全国的に気温高く夏日予想も"
     },
     {
-      "time": "17:12",
-      "title": "サイバー攻撃 10月は国内4億件超",
+      "time": "17:46",
+      "title": "税の無駄など1445億円 検査院報告",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601439?source=rss",
-      "publishedAt": "2026-11-05T08:12:32.000Z",
-      "xQuery": "サイバー攻撃 10月は国内4億件超"
+      "url": "https://news.yahoo.co.jp/pickup/6601446?source=rss",
+      "publishedAt": "2026-11-05T08:46:46.000Z",
+      "xQuery": "税の無駄など1445億円 検査院報告"
     },
     {
       "time": "18:14",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "10月就任の横浜市長が療養 過労か"
     },
     {
-      "time": "17:29",
-      "title": "シヤチハタ 化粧品事業に参入へ",
+      "time": "19:09",
+      "title": "ラッコのキラ死ぬ 国内飼育1頭に",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601444?source=rss",
-      "publishedAt": "2026-11-05T08:29:19.000Z",
-      "xQuery": "シヤチハタ 化粧品事業に参入へ"
+      "url": "https://news.yahoo.co.jp/pickup/6601455?source=rss",
+      "publishedAt": "2026-11-05T10:09:27.000Z",
+      "xQuery": "ラッコのキラ死ぬ 国内飼育1頭に"
     }
   ]
 };
