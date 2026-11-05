@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T08:16:13.680Z",
+  "updatedAt": "2026-11-05T08:35:26.807Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -18,16 +18,9 @@
       },
       {
         "time": "05:00",
-        "title": "決算を読む オークマ 26年４～９月期 純利益２・６倍で過去最高 米国中心に販売拡大 通期は増収増益予想",
-        "source": "中部経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBtU2ZRT2I2bG51Sk5sU3E1a2V6OXdHLXoxQ3BtX1Jpay13YnZVbHk5VE9Cc2NaaFY2dVZYVnZDTWE1LWVybDB3NU5tS1VKR0NXUFlfY3NfTGtNdnJpVW5OaDZxeG1lZWxnVFNpNWxCWURmZmc?oc=5",
-        "publishedAt": "2026-11-04T20:00:00.000Z"
-      },
-      {
-        "time": "05:00",
-        "title": "中部食品産業創造展’26／会場リポート（上）",
+        "title": "山崎技研、28年旋盤に参入",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5JSW1vLVhPa0lZTFo3a3Uwdk9SbjNzVWhMZ25qVWY5ZFJjclZsM1ZCZGEtckpDMktWZGVYaUM2VjdBX0VRN3lzMy1tbzZ1aUd5S1lUWFJhaEM?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ZdFgtMnkxaThTX1k0cVowLUV4Y293OUZKQ25jaWZ4OVZ5bGpGMU1OaXBTUkQ0c2o0YmVoZFdWOW5NYV9hbEhObG5SQ3NIRlgzZ3pCUVUtYVM?oc=5",
         "publishedAt": "2026-11-04T20:00:00.000Z"
       },
       {
@@ -45,6 +38,13 @@
         "publishedAt": "2026-11-05T01:00:03.000Z"
       },
       {
+        "time": "18:41",
+        "title": "【探訪ザ・カンパニー】オーザック（福山市）安全支えるワイヤ金具",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB2YnlPN09iTUcyOGNldkhrT1k5RzQ5M0pLNkE3NkV1YzJxUDFPam9xOTV6dFZva2ZrNHNxNkZIOGYxMXN6R1JyUHFIMXZIamRMT2c?oc=5",
+        "publishedAt": "2026-11-04T09:41:41.000Z"
+      },
+      {
         "time": "15:00",
         "title": "ブラザー、名古屋大学との共同研究による「びびり振動診断技術」を実用化",
         "source": "PR TIMES",
@@ -52,11 +52,11 @@
         "publishedAt": "2026-11-05T06:00:02.000Z"
       },
       {
-        "time": "13:53",
-        "title": "［台湾情報］台湾の半導体封止・検査、2026年は過去最高の9,010億元へ＜ワイズリサーチ最新レポート＞（PR TIMES）",
-        "source": "毎日新聞",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5tSzlPa19vT2t3ekF6SDlXMVpaYU9iNGVndzhjalZwUnpOTEUySk9xVlI2VDlDWS1LdnFIbUNEMUtxdzRoVnZTbTF6WHNIdEQwVDk0TnNvWU1FZmQ0TDJpUGRQZ2hLSDdq?oc=5",
-        "publishedAt": "2026-11-05T04:53:03.000Z"
+        "time": "11:11",
+        "title": "【台湾情報】台湾の半導体封止・検査、2026年は過去最高の9,010億元へ＜ワイズリサーチ最新レポート＞",
+        "source": "PR TIMES",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9QT2NqSm1ka28yOTBrVDdsMy1vZVZZWWdFMkFkN1VxR2dSYTVYZVVSU0l2ZWpudEUyc283UjdEWHZlNU5pNHE5WHNLSUdjTUkxWGFjWmN4Y2FuX3N5akNNR3hYQ21zc2dMbVE?oc=5",
+        "publishedAt": "2026-11-05T02:11:36.000Z"
       }
     ],
     "worldHeadlines": [
@@ -119,6 +119,13 @@
         "publishedAt": "2026-11-05T06:43:03.000Z"
       },
       {
+        "time": "17:29",
+        "title": "シヤチハタ 化粧品事業に参入へ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6601444?source=rss",
+        "publishedAt": "2026-11-05T08:29:19.000Z"
+      },
+      {
         "time": "14:37",
         "title": "黒字リストラ 日本にも広がるか",
         "source": "Yahoo!ニュース",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601440?source=rss",
         "publishedAt": "2026-11-05T08:12:18.000Z"
-      },
-      {
-        "time": "10:50",
-        "title": "料理の負担減「メンパ食材」注目",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601391?source=rss",
-        "publishedAt": "2026-11-05T01:50:10.000Z"
       }
     ],
     "localHeadlines": [
@@ -161,6 +161,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601433?source=rss",
         "publishedAt": "2026-11-05T07:38:16.000Z"
+      },
+      {
+        "time": "17:21",
+        "title": "改姓巡り婚約解消 訴えた女性敗訴",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6601441?source=rss",
+        "publishedAt": "2026-11-05T08:21:21.000Z"
       },
       {
         "time": "12:18",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601381?source=rss",
         "publishedAt": "2026-11-04T23:56:54.000Z"
-      },
-      {
-        "time": "12:27",
-        "title": "06年豪雨で不明 記者の遺骨発見",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601406?source=rss",
-        "publishedAt": "2026-11-05T03:27:00.000Z"
       }
     ],
     "subsidyHeadlines": [

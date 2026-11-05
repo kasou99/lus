@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-05T08:16:14.434Z",
+  "updatedAt": "2026-11-05T08:35:27.641Z",
   "items": [
     {
       "time": "16:51",
@@ -8,14 +8,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6601411?source=rss",
       "publishedAt": "2026-11-05T07:51:59.000Z",
       "xQuery": "米共和党大敗 宣伝頼り示した限界"
-    },
-    {
-      "time": "16:25",
-      "title": "能登地震でビル倒壊 遺族が提訴",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601429?source=rss",
-      "publishedAt": "2026-11-05T07:25:04.000Z",
-      "xQuery": "能登地震でビル倒壊 遺族が提訴"
     },
     {
       "time": "15:33",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6601413?source=rss",
       "publishedAt": "2026-11-05T03:52:36.000Z",
       "xQuery": "ドコモ オンラインサービス停止"
+    },
+    {
+      "time": "16:38",
+      "title": "伊勢崎3人死亡事故 2審も懲役20年",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601433?source=rss",
+      "publishedAt": "2026-11-05T07:38:16.000Z",
+      "xQuery": "伊勢崎3人死亡事故 2審も懲役20年"
     }
   ]
 };
