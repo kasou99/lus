@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T03:13:50.692Z",
+  "updatedAt": "2026-11-05T03:36:04.641Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -61,11 +61,11 @@
     ],
     "worldHeadlines": [
       {
-        "time": "10:49",
-        "title": "イラン 大敗のトランプ氏を嘲笑",
+        "time": "12:32",
+        "title": "米共和党 大敗の責任押し付け合い",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601392?source=rss",
-        "publishedAt": "2026-11-05T01:49:37.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6601407?source=rss",
+        "publishedAt": "2026-11-05T03:32:04.000Z"
       },
       {
         "time": "09:45",
@@ -89,11 +89,11 @@
         "publishedAt": "2026-11-04T09:09:06.000Z"
       },
       {
-        "time": "17:00",
-        "title": "米大統領 敗因巡りイラン攻撃言及",
+        "time": "10:49",
+        "title": "イラン 大敗のトランプ氏を嘲笑",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601315?source=rss",
-        "publishedAt": "2026-11-04T08:00:55.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6601392?source=rss",
+        "publishedAt": "2026-11-05T01:49:37.000Z"
       },
       {
         "time": "11:56",
@@ -156,11 +156,11 @@
         "publishedAt": "2026-11-05T01:22:25.000Z"
       },
       {
-        "time": "12:10",
-        "title": "蔵内前議長 金銭授受を改めて否定",
+        "time": "12:18",
+        "title": "蔵内前議長 現金受け取っていない",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601403?source=rss",
-        "publishedAt": "2026-11-05T03:10:52.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6601408?source=rss",
+        "publishedAt": "2026-11-05T03:18:56.000Z"
       },
       {
         "time": "08:22",
@@ -177,18 +177,18 @@
         "publishedAt": "2026-11-05T02:36:13.000Z"
       },
       {
-        "time": "20:34",
-        "title": "警官の拳銃奪い自らに発砲 重体",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601342?source=rss",
-        "publishedAt": "2026-11-04T11:34:45.000Z"
-      },
-      {
         "time": "08:56",
         "title": "「哲代おばあちゃん」死去 106歳",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601381?source=rss",
         "publishedAt": "2026-11-04T23:56:54.000Z"
+      },
+      {
+        "time": "12:27",
+        "title": "06年豪雨で不明 記者の遺骨発見",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6601406?source=rss",
+        "publishedAt": "2026-11-05T03:27:00.000Z"
       }
     ],
     "subsidyHeadlines": [

@@ -1,6 +1,22 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-05T03:13:51.547Z",
+  "updatedAt": "2026-11-05T03:36:05.222Z",
   "items": [
+    {
+      "time": "12:03",
+      "title": "「e-Tax」の運用を再開 国税庁",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601404?source=rss",
+      "publishedAt": "2026-11-05T03:03:30.000Z",
+      "xQuery": "「e-Tax」の運用を再開 国税庁"
+    },
+    {
+      "time": "12:18",
+      "title": "蔵内前議長 現金受け取っていない",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601408?source=rss",
+      "publishedAt": "2026-11-05T03:18:56.000Z",
+      "xQuery": "蔵内前議長 現金受け取っていない"
+    },
     {
       "time": "10:49",
       "title": "イラン 大敗のトランプ氏を嘲笑",
@@ -16,22 +32,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6601396?source=rss",
       "publishedAt": "2026-11-05T02:27:04.000Z",
       "xQuery": "台風 スピードアップし日本の東へ"
-    },
-    {
-      "time": "12:10",
-      "title": "蔵内前議長 金銭授受を改めて否定",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601403?source=rss",
-      "publishedAt": "2026-11-05T03:10:52.000Z",
-      "xQuery": "蔵内前議長 金銭授受を改めて否定"
-    },
-    {
-      "time": "12:03",
-      "title": "「e-Tax」の運用を再開 国税庁",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601404?source=rss",
-      "publishedAt": "2026-11-05T03:03:30.000Z",
-      "xQuery": "「e-Tax」の運用を再開 国税庁"
     },
     {
       "time": "11:36",
