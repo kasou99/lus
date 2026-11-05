@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-05T13:11:16.504Z",
+  "updatedAt": "2026-11-05T13:36:15.373Z",
   "items": [
     {
       "time": "21:57",
@@ -18,28 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "首相 米大統領と協力していきたい"
     },
     {
-      "time": "18:40",
-      "title": "個人向け国債「複利型」導入検討",
+      "time": "18:41",
+      "title": "10月就任の横浜市長が療養 過労か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601451?source=rss",
-      "publishedAt": "2026-11-05T09:40:02.000Z",
-      "xQuery": "個人向け国債「複利型」導入検討"
+      "url": "https://news.yahoo.co.jp/pickup/6601452?source=rss",
+      "publishedAt": "2026-11-05T09:41:26.000Z",
+      "xQuery": "10月就任の横浜市長が療養 過労か"
     },
     {
-      "time": "18:03",
-      "title": "サントリー 酒類364品目値上げへ",
+      "time": "22:20",
+      "title": "内外出版社が事業停止 破産申請へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601448?source=rss",
-      "publishedAt": "2026-11-05T09:03:06.000Z",
-      "xQuery": "サントリー 酒類364品目値上げへ"
+      "url": "https://news.yahoo.co.jp/pickup/6601468?source=rss",
+      "publishedAt": "2026-11-05T13:20:50.000Z",
+      "xQuery": "内外出版社が事業停止 破産申請へ"
     },
     {
-      "time": "19:09",
-      "title": "ラッコのキラ死ぬ 国内飼育1頭に",
+      "time": "19:30",
+      "title": "レッドバロン創業者遺族 申告漏れ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601455?source=rss",
-      "publishedAt": "2026-11-05T10:09:27.000Z",
-      "xQuery": "ラッコのキラ死ぬ 国内飼育1頭に"
+      "url": "https://news.yahoo.co.jp/pickup/6601456?source=rss",
+      "publishedAt": "2026-11-05T10:30:52.000Z",
+      "xQuery": "レッドバロン創業者遺族 申告漏れ"
     }
   ]
 };

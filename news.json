@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T13:11:15.758Z",
+  "updatedAt": "2026-11-05T13:36:14.206Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -22,6 +22,13 @@
         "source": "ニコニコニュース",
         "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9XbUx2TXNmWXBGUkI4Ynk4YUgtZFFkR21MOF9pYWFldlRBTmgyU1FvSFVfQm1qUEFIbFlfdXdtNTAzRVhoMmw1ajRnMjdUcGlaaUY2WjJxV2lkTURXNHVoV3V4aEFzOHljb2VoS0R3N2VSTGtyeWctZ2x2OA?oc=5",
         "publishedAt": "2026-11-05T07:15:27.000Z"
+      },
+      {
+        "time": "16:37",
+        "title": "精密スプリング製作所がＥＶ部品製造参入へ 自社技術応用、安価な複合材研究",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1jUnppR2hTeXR6Y1NmZ1ZZSUpSQVlxVldYZ205QTNWOFpwYUxtRERvLTVVc1Z3Zm9yWC1RbFUycHJNRUVlQ29BbmpOMXlKU1RnWnVvbE9lR09mMWhXUlhyemhyQndDUldtNGZhamFnUjV6NjViakhB?oc=5",
+        "publishedAt": "2026-11-05T07:37:19.000Z"
       },
       {
         "time": "09:00",
@@ -50,13 +57,6 @@
         "source": "製造現場ドットコム",
         "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE4wSFVJVVU5NUFZRmlTSjhTNFhETUtZdHJ4UnNOTjNVMTA0cHQ1NVRVdjZFcTBMcjZTdGJBaU9PQk01a0hRZU1SMkZR?oc=5",
         "publishedAt": "2026-11-05T11:00:23.000Z"
-      },
-      {
-        "time": "16:59",
-        "title": "2026年11月5日 機械・ロボット・航空機２ ニュース",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9jOXRfSmNPbDBCYkZkelQtS1BjckNzOUh4b1g4QW16ZDdjSjVGVWpicTVNV1B0SWI1MjhaN1pxZDM1LU9zb0RnVXFOMTlicDlTblAtQg?oc=5",
-        "publishedAt": "2026-11-05T07:59:19.000Z"
       }
     ],
     "worldHeadlines": [
@@ -112,6 +112,13 @@
         "publishedAt": "2026-11-05T06:43:03.000Z"
       },
       {
+        "time": "22:20",
+        "title": "内外出版社が事業停止 破産申請へ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6601468?source=rss",
+        "publishedAt": "2026-11-05T13:20:50.000Z"
+      },
+      {
         "time": "17:29",
         "title": "シヤチハタ 化粧品事業に参入へ",
         "source": "Yahoo!ニュース",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601448?source=rss",
         "publishedAt": "2026-11-05T09:03:06.000Z"
-      },
-      {
-        "time": "17:12",
-        "title": "プロ野球取材で球を集め売却 謝罪",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601440?source=rss",
-        "publishedAt": "2026-11-05T08:12:18.000Z"
       }
     ],
     "localHeadlines": [
