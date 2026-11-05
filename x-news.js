@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-05T21:35:46.549Z",
+  "updatedAt": "2026-11-05T22:11:07.737Z",
   "items": [
     {
       "time": "06:04",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "NYダウ急落 一時1800ドル超安"
     },
     {
-      "time": "20:11",
-      "title": "めぐみさん拉致 母「会いたい」",
+      "time": "06:56",
+      "title": "山梨ダルク代表 1.1億円私的流用",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601458?source=rss",
-      "publishedAt": "2026-11-05T11:11:25.000Z",
-      "xQuery": "めぐみさん拉致 母「会いたい」"
+      "url": "https://news.yahoo.co.jp/pickup/6601479?source=rss",
+      "publishedAt": "2026-11-05T21:56:52.000Z",
+      "xQuery": "山梨ダルク代表 1.1億円私的流用"
     },
     {
       "time": "22:36",
