@@ -1,21 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-05T02:16:30.353Z",
+  "updatedAt": "2026-11-05T02:35:35.227Z",
   "items": [
     {
-      "time": "10:49",
-      "title": "イラン 大敗のトランプ氏を嘲笑",
+      "time": "11:27",
+      "title": "台風 スピードアップし日本の東へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601392?source=rss",
-      "publishedAt": "2026-11-05T01:49:37.000Z",
-      "xQuery": "イラン 大敗のトランプ氏を嘲笑"
-    },
-    {
-      "time": "07:41",
-      "title": "サイバー救援隊を創設へ 政府案",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601372?source=rss",
-      "publishedAt": "2026-11-04T22:41:50.000Z",
-      "xQuery": "サイバー救援隊を創設へ 政府案"
+      "url": "https://news.yahoo.co.jp/pickup/6601396?source=rss",
+      "publishedAt": "2026-11-05T02:27:04.000Z",
+      "xQuery": "台風 スピードアップし日本の東へ"
     },
     {
       "time": "10:14",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "新名神6人死亡 拘禁刑7年が確定"
     },
     {
-      "time": "08:22",
-      "title": "幹部逮捕 川崎市役所を家宅捜索",
+      "time": "10:49",
+      "title": "イラン 大敗のトランプ氏を嘲笑",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601377?source=rss",
-      "publishedAt": "2026-11-04T23:22:44.000Z",
-      "xQuery": "幹部逮捕 川崎市役所を家宅捜索"
+      "url": "https://news.yahoo.co.jp/pickup/6601392?source=rss",
+      "publishedAt": "2026-11-05T01:49:37.000Z",
+      "xQuery": "イラン 大敗のトランプ氏を嘲笑"
+    },
+    {
+      "time": "10:50",
+      "title": "料理の負担減「メンパ食材」注目",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601391?source=rss",
+      "publishedAt": "2026-11-05T01:50:10.000Z",
+      "xQuery": "料理の負担減「メンパ食材」注目"
     }
   ]
 };
