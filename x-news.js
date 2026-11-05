@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-05T09:13:01.988Z",
+  "updatedAt": "2026-11-05T09:35:46.937Z",
   "items": [
     {
-      "time": "16:51",
-      "title": "米共和党大敗 宣伝頼り示した限界",
+      "time": "17:01",
+      "title": "米右派動揺「トランプ後」を模索",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601411?source=rss",
-      "publishedAt": "2026-11-05T07:51:59.000Z",
-      "xQuery": "米共和党大敗 宣伝頼り示した限界"
+      "url": "https://news.yahoo.co.jp/pickup/6601435?source=rss",
+      "publishedAt": "2026-11-05T08:01:55.000Z",
+      "xQuery": "米右派動揺「トランプ後」を模索"
     },
     {
       "time": "17:12",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "ドコモ障害「5G SA」のみで発生"
     },
     {
-      "time": "17:21",
-      "title": "改姓巡り婚約解消 訴えた女性敗訴",
+      "time": "18:14",
+      "title": "映画監督の榊英雄被告 実刑確定へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601441?source=rss",
-      "publishedAt": "2026-11-05T08:21:21.000Z",
-      "xQuery": "改姓巡り婚約解消 訴えた女性敗訴"
+      "url": "https://news.yahoo.co.jp/pickup/6601450?source=rss",
+      "publishedAt": "2026-11-05T09:14:17.000Z",
+      "xQuery": "映画監督の榊英雄被告 実刑確定へ"
     },
     {
       "time": "17:29",

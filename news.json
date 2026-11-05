@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T09:13:00.802Z",
+  "updatedAt": "2026-11-05T09:35:46.393Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -24,13 +24,6 @@
         "publishedAt": "2026-11-05T00:00:01.000Z"
       },
       {
-        "time": "05:00",
-        "title": "山崎技研、28年旋盤に参入",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ZdFgtMnkxaThTX1k0cVowLUV4Y293OUZKQ25jaWZ4OVZ5bGpGMU1OaXBTUkQ0c2o0YmVoZFdWOW5NYV9hbEhObG5SQ3NIRlgzZ3pCUVUtYVM?oc=5",
-        "publishedAt": "2026-11-04T20:00:00.000Z"
-      },
-      {
         "time": "18:41",
         "title": "【探訪ザ・カンパニー】オーザック（福山市）安全支えるワイヤ金具",
         "source": "山陽新聞",
@@ -50,6 +43,13 @@
         "source": "PR TIMES",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9QT2NqSm1ka28yOTBrVDdsMy1vZVZZWWdFMkFkN1VxR2dSYTVYZVVSU0l2ZWpudEUyc283UjdEWHZlNU5pNHE5WHNLSUdjTUkxWGFjWmN4Y2FuX3N5akNNR3hYQ21zc2dMbVE?oc=5",
         "publishedAt": "2026-11-05T02:11:36.000Z"
+      },
+      {
+        "time": "16:59",
+        "title": "2026年11月5日 機械・ロボット・航空機２ ニュース",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9jOXRfSmNPbDBCYkZkelQtS1BjckNzOUh4b1g4QW16ZDdjSjVGVWpicTVNV1B0SWI1MjhaN1pxZDM1LU9zb0RnVXFOMTlicDlTblAtQg?oc=5",
+        "publishedAt": "2026-11-05T07:59:19.000Z"
       },
       {
         "time": "05:00",
@@ -184,11 +184,11 @@
         "publishedAt": "2026-11-05T02:36:13.000Z"
       },
       {
-        "time": "08:56",
-        "title": "「哲代おばあちゃん」死去 106歳",
+        "time": "18:14",
+        "title": "映画監督の榊英雄被告 実刑確定へ",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601381?source=rss",
-        "publishedAt": "2026-11-04T23:56:54.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6601450?source=rss",
+        "publishedAt": "2026-11-05T09:14:17.000Z"
       }
     ],
     "subsidyHeadlines": [
