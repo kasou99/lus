@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-05T10:11:47.660Z",
+  "updatedAt": "2026-11-05T10:35:43.145Z",
   "items": [
     {
       "time": "17:01",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "サイバー攻撃 10月は国内4億件超"
     },
     {
-      "time": "16:35",
-      "title": "ドコモ障害「5G SA」のみで発生",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601432?source=rss",
-      "publishedAt": "2026-11-05T07:35:19.000Z",
-      "xQuery": "ドコモ障害「5G SA」のみで発生"
-    },
-    {
       "time": "18:14",
       "title": "映画監督の榊英雄被告 実刑確定へ",
       "source": "Yahoo!ニュース",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6601452?source=rss",
       "publishedAt": "2026-11-05T09:41:26.000Z",
       "xQuery": "10月就任の横浜市長が療養 過労か"
+    },
+    {
+      "time": "17:29",
+      "title": "シヤチハタ 化粧品事業に参入へ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601444?source=rss",
+      "publishedAt": "2026-11-05T08:29:19.000Z",
+      "xQuery": "シヤチハタ 化粧品事業に参入へ"
     }
   ]
 };
