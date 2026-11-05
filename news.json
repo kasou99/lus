@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T05:36:04.080Z",
+  "updatedAt": "2026-11-05T06:19:15.616Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -52,11 +52,11 @@
         "publishedAt": "2026-11-04T06:39:41.000Z"
       },
       {
-        "time": "13:53",
-        "title": "［台湾情報］台湾の半導体封止・検査、2026年は過去最高の9,010億元へ＜ワイズリサーチ最新レポート＞（PR TIMES）",
-        "source": "毎日新聞",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5tSzlPa19vT2t3ekF6SDlXMVpaYU9iNGVndzhjalZwUnpOTEUySk9xVlI2VDlDWS1LdnFIbUNEMUtxdzRoVnZTbTF6WHNIdEQwVDk0TnNvWU1FZmQ0TDJpUGRQZ2hLSDdq?oc=5",
-        "publishedAt": "2026-11-05T04:53:03.000Z"
+        "time": "15:00",
+        "title": "ブラザー、名古屋大学との共同研究による「びびり振動診断技術」を実用化",
+        "source": "PR TIMES",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1WU0VvRlJ4a2JfdmhFeUw3MTFQM2NXWk1OWHc2bmRwUklWOXpjOHJFS2NEcVNRWGtMMkp2UnMyTjF3OXNXdjhrbnBCUXlaMjdFU1Z3S2dTSS1tVV9feERFSEsyWVdBbHIzakE?oc=5",
+        "publishedAt": "2026-11-05T06:00:02.000Z"
       }
     ],
     "worldHeadlines": [
@@ -105,18 +105,18 @@
     ],
     "economyHeadlines": [
       {
-        "time": "20:49",
-        "title": "米中間選挙 日本経済への影響は",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601343?source=rss",
-        "publishedAt": "2026-11-04T11:49:29.000Z"
-      },
-      {
         "time": "07:35",
         "title": "ダウ一時1500ドル高 選挙から一夜",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601373?source=rss",
         "publishedAt": "2026-11-04T22:35:29.000Z"
+      },
+      {
+        "time": "14:37",
+        "title": "黒字リストラ 日本にも広がるか",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6601409?source=rss",
+        "publishedAt": "2026-11-05T05:37:37.000Z"
       },
       {
         "time": "23:54",
@@ -126,18 +126,11 @@
         "publishedAt": "2026-11-04T14:54:37.000Z"
       },
       {
-        "time": "21:13",
-        "title": "金融庁 ソニーFGに立ち入り検査",
+        "time": "15:17",
+        "title": "活躍期待年齢「68歳」企業の狙い",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601346?source=rss",
-        "publishedAt": "2026-11-04T12:13:24.000Z"
-      },
-      {
-        "time": "22:23",
-        "title": "ゆうちょ銀 松井証券に20%出資",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601352?source=rss",
-        "publishedAt": "2026-11-04T13:23:46.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6601420?source=rss",
+        "publishedAt": "2026-11-05T06:17:59.000Z"
       },
       {
         "time": "10:50",
@@ -145,6 +138,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601391?source=rss",
         "publishedAt": "2026-11-05T01:50:10.000Z"
+      },
+      {
+        "time": "19:10",
+        "title": "すし店の休廃業・解散が急増 25年",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6601334?source=rss",
+        "publishedAt": "2026-11-04T10:10:49.000Z"
       }
     ],
     "localHeadlines": [

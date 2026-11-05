@@ -1,21 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-05T05:36:04.701Z",
+  "updatedAt": "2026-11-05T06:19:16.285Z",
   "items": [
     {
-      "time": "08:10",
-      "title": "エボラ巡り新ワクチン治験 WHO",
+      "time": "14:37",
+      "title": "黒字リストラ 日本にも広がるか",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601378?source=rss",
-      "publishedAt": "2026-11-04T23:10:49.000Z",
-      "xQuery": "エボラ巡り新ワクチン治験 WHO"
-    },
-    {
-      "time": "12:18",
-      "title": "蔵内前議長 現金受け取っていない",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601408?source=rss",
-      "publishedAt": "2026-11-05T03:18:56.000Z",
-      "xQuery": "蔵内前議長 現金受け取っていない"
+      "url": "https://news.yahoo.co.jp/pickup/6601409?source=rss",
+      "publishedAt": "2026-11-05T05:37:37.000Z",
+      "xQuery": "黒字リストラ 日本にも広がるか"
     },
     {
       "time": "12:32",
@@ -26,6 +18,14 @@ window.LUS_X_NEWS = {
       "xQuery": "米共和党 大敗の責任押し付け合い"
     },
     {
+      "time": "11:56",
+      "title": "英語版DBZ作曲家 州司法長官に",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601402?source=rss",
+      "publishedAt": "2026-11-05T02:56:41.000Z",
+      "xQuery": "英語版DBZ作曲家 州司法長官に"
+    },
+    {
       "time": "13:13",
       "title": "ドコモ携帯 全国で障害が発生",
       "source": "Yahoo!ニュース",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "ドコモ携帯 全国で障害が発生"
     },
     {
-      "time": "11:36",
-      "title": "海に新生児らしき遺体 死因が判明",
+      "time": "12:52",
+      "title": "ドコモ オンラインサービス停止",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601397?source=rss",
-      "publishedAt": "2026-11-05T02:36:13.000Z",
-      "xQuery": "海に新生児らしき遺体 死因が判明"
+      "url": "https://news.yahoo.co.jp/pickup/6601413?source=rss",
+      "publishedAt": "2026-11-05T03:52:36.000Z",
+      "xQuery": "ドコモ オンラインサービス停止"
     }
   ]
 };
