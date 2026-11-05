@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-05T08:35:27.641Z",
+  "updatedAt": "2026-11-05T09:13:01.988Z",
   "items": [
     {
       "time": "16:51",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "米共和党大敗 宣伝頼り示した限界"
     },
     {
-      "time": "15:33",
-      "title": "バンス氏 米大統領と距離置く姿勢",
+      "time": "17:12",
+      "title": "サイバー攻撃 10月は国内4億件超",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601425?source=rss",
-      "publishedAt": "2026-11-05T06:33:22.000Z",
-      "xQuery": "バンス氏 米大統領と距離置く姿勢"
+      "url": "https://news.yahoo.co.jp/pickup/6601439?source=rss",
+      "publishedAt": "2026-11-05T08:12:32.000Z",
+      "xQuery": "サイバー攻撃 10月は国内4億件超"
     },
     {
       "time": "16:35",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "ドコモ障害「5G SA」のみで発生"
     },
     {
-      "time": "12:52",
-      "title": "ドコモ オンラインサービス停止",
+      "time": "17:21",
+      "title": "改姓巡り婚約解消 訴えた女性敗訴",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601413?source=rss",
-      "publishedAt": "2026-11-05T03:52:36.000Z",
-      "xQuery": "ドコモ オンラインサービス停止"
+      "url": "https://news.yahoo.co.jp/pickup/6601441?source=rss",
+      "publishedAt": "2026-11-05T08:21:21.000Z",
+      "xQuery": "改姓巡り婚約解消 訴えた女性敗訴"
     },
     {
-      "time": "16:38",
-      "title": "伊勢崎3人死亡事故 2審も懲役20年",
+      "time": "17:29",
+      "title": "シヤチハタ 化粧品事業に参入へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601433?source=rss",
-      "publishedAt": "2026-11-05T07:38:16.000Z",
-      "xQuery": "伊勢崎3人死亡事故 2審も懲役20年"
+      "url": "https://news.yahoo.co.jp/pickup/6601444?source=rss",
+      "publishedAt": "2026-11-05T08:29:19.000Z",
+      "xQuery": "シヤチハタ 化粧品事業に参入へ"
     }
   ]
 };
