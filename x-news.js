@@ -1,13 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-05T07:36:11.285Z",
+  "updatedAt": "2026-11-05T08:16:14.434Z",
   "items": [
     {
-      "time": "15:43",
-      "title": "トヨタ中間決算 3年ぶり営業増益",
+      "time": "16:51",
+      "title": "米共和党大敗 宣伝頼り示した限界",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601424?source=rss",
-      "publishedAt": "2026-11-05T06:43:03.000Z",
-      "xQuery": "トヨタ中間決算 3年ぶり営業増益"
+      "url": "https://news.yahoo.co.jp/pickup/6601411?source=rss",
+      "publishedAt": "2026-11-05T07:51:59.000Z",
+      "xQuery": "米共和党大敗 宣伝頼り示した限界"
+    },
+    {
+      "time": "16:25",
+      "title": "能登地震でビル倒壊 遺族が提訴",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601429?source=rss",
+      "publishedAt": "2026-11-05T07:25:04.000Z",
+      "xQuery": "能登地震でビル倒壊 遺族が提訴"
     },
     {
       "time": "15:33",
@@ -18,28 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "バンス氏 米大統領と距離置く姿勢"
     },
     {
+      "time": "16:35",
+      "title": "ドコモ障害「5G SA」のみで発生",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601432?source=rss",
+      "publishedAt": "2026-11-05T07:35:19.000Z",
+      "xQuery": "ドコモ障害「5G SA」のみで発生"
+    },
+    {
       "time": "12:52",
       "title": "ドコモ オンラインサービス停止",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6601413?source=rss",
       "publishedAt": "2026-11-05T03:52:36.000Z",
       "xQuery": "ドコモ オンラインサービス停止"
-    },
-    {
-      "time": "15:11",
-      "title": "ハリポタ英旗艦店 初日に抗議活動",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601419?source=rss",
-      "publishedAt": "2026-11-05T06:11:32.000Z",
-      "xQuery": "ハリポタ英旗艦店 初日に抗議活動"
-    },
-    {
-      "time": "15:14",
-      "title": "「フレネミー」26年流行語候補に",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601423?source=rss",
-      "publishedAt": "2026-11-05T06:14:13.000Z",
-      "xQuery": "「フレネミー」26年流行語候補に"
     }
   ]
 };
