@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-05T01:39:29.348Z",
+  "updatedAt": "2026-11-05T02:16:30.353Z",
   "items": [
     {
-      "time": "09:45",
-      "title": "米民主党 次のリーダー不在課題",
+      "time": "10:49",
+      "title": "イラン 大敗のトランプ氏を嘲笑",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601386?source=rss",
-      "publishedAt": "2026-11-05T00:45:30.000Z",
-      "xQuery": "米民主党 次のリーダー不在課題"
+      "url": "https://news.yahoo.co.jp/pickup/6601392?source=rss",
+      "publishedAt": "2026-11-05T01:49:37.000Z",
+      "xQuery": "イラン 大敗のトランプ氏を嘲笑"
     },
     {
       "time": "07:41",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "仏銀行サイバー攻撃 177億円流出"
     },
     {
+      "time": "10:22",
+      "title": "新名神6人死亡 拘禁刑7年が確定",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601390?source=rss",
+      "publishedAt": "2026-11-05T01:22:25.000Z",
+      "xQuery": "新名神6人死亡 拘禁刑7年が確定"
+    },
+    {
       "time": "08:22",
       "title": "幹部逮捕 川崎市役所を家宅捜索",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6601377?source=rss",
       "publishedAt": "2026-11-04T23:22:44.000Z",
       "xQuery": "幹部逮捕 川崎市役所を家宅捜索"
-    },
-    {
-      "time": "08:56",
-      "title": "「哲代おばあちゃん」死去 106歳",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601381?source=rss",
-      "publishedAt": "2026-11-04T23:56:54.000Z",
-      "xQuery": "「哲代おばあちゃん」死去 106歳"
     }
   ]
 };
