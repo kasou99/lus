@@ -1,21 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-05T07:12:22.383Z",
+  "updatedAt": "2026-11-05T07:36:11.285Z",
   "items": [
     {
-      "time": "14:37",
-      "title": "黒字リストラ 日本にも広がるか",
+      "time": "15:43",
+      "title": "トヨタ中間決算 3年ぶり営業増益",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601409?source=rss",
-      "publishedAt": "2026-11-05T05:37:37.000Z",
-      "xQuery": "黒字リストラ 日本にも広がるか"
-    },
-    {
-      "time": "11:56",
-      "title": "英語版DBZ作曲家 州司法長官に",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601402?source=rss",
-      "publishedAt": "2026-11-05T02:56:41.000Z",
-      "xQuery": "英語版DBZ作曲家 州司法長官に"
+      "url": "https://news.yahoo.co.jp/pickup/6601424?source=rss",
+      "publishedAt": "2026-11-05T06:43:03.000Z",
+      "xQuery": "トヨタ中間決算 3年ぶり営業増益"
     },
     {
       "time": "15:33",
@@ -26,20 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "バンス氏 米大統領と距離置く姿勢"
     },
     {
-      "time": "13:13",
-      "title": "ドコモ携帯 全国で障害が発生",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601414?source=rss",
-      "publishedAt": "2026-11-05T04:13:44.000Z",
-      "xQuery": "ドコモ携帯 全国で障害が発生"
-    },
-    {
       "time": "12:52",
       "title": "ドコモ オンラインサービス停止",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6601413?source=rss",
       "publishedAt": "2026-11-05T03:52:36.000Z",
       "xQuery": "ドコモ オンラインサービス停止"
+    },
+    {
+      "time": "15:11",
+      "title": "ハリポタ英旗艦店 初日に抗議活動",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601419?source=rss",
+      "publishedAt": "2026-11-05T06:11:32.000Z",
+      "xQuery": "ハリポタ英旗艦店 初日に抗議活動"
+    },
+    {
+      "time": "15:14",
+      "title": "「フレネミー」26年流行語候補に",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601423?source=rss",
+      "publishedAt": "2026-11-05T06:14:13.000Z",
+      "xQuery": "「フレネミー」26年流行語候補に"
     }
   ]
 };

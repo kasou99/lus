@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T07:12:21.512Z",
+  "updatedAt": "2026-11-05T07:36:10.842Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "16:25",
+        "title": "能登地震でビル倒壊 遺族が提訴",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6601429?source=rss",
+        "publishedAt": "2026-11-05T07:25:04.000Z"
+      },
+      {
         "time": "10:22",
         "title": "新名神6人死亡 拘禁刑7年が確定",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601381?source=rss",
         "publishedAt": "2026-11-04T23:56:54.000Z"
-      },
-      {
-        "time": "12:27",
-        "title": "06年豪雨で不明 記者の遺骨発見",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601406?source=rss",
-        "publishedAt": "2026-11-05T03:27:00.000Z"
       }
     ],
     "subsidyHeadlines": [
