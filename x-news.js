@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-05T06:19:16.285Z",
+  "updatedAt": "2026-11-05T06:39:57.892Z",
   "items": [
     {
       "time": "14:37",
@@ -8,14 +8,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6601409?source=rss",
       "publishedAt": "2026-11-05T05:37:37.000Z",
       "xQuery": "黒字リストラ 日本にも広がるか"
-    },
-    {
-      "time": "12:32",
-      "title": "米共和党 大敗の責任押し付け合い",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601407?source=rss",
-      "publishedAt": "2026-11-05T03:32:04.000Z",
-      "xQuery": "米共和党 大敗の責任押し付け合い"
     },
     {
       "time": "11:56",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6601413?source=rss",
       "publishedAt": "2026-11-05T03:52:36.000Z",
       "xQuery": "ドコモ オンラインサービス停止"
+    },
+    {
+      "time": "15:14",
+      "title": "「フレネミー」26年流行語候補に",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601423?source=rss",
+      "publishedAt": "2026-11-05T06:14:13.000Z",
+      "xQuery": "「フレネミー」26年流行語候補に"
     }
   ]
 };
