@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-11-05T21:09:16.413Z",
+  "updatedAt": "2026-11-05T21:35:45.652Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "05:00",
+        "title": "新機構の減速機、同軸ローラーカム 歳差運動でロボット精度を工作機械級に",
+        "source": "日経クロステック",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE53NDJ3VDBwS1RNclE4OHBXSjNFTHlCc1dmbV9vOTd4OTNoM0pCNXNqOW9XSXYwNlZQS3VXeE9vc3R5NkNVWk5Wc0JkZTBKd2s5YkFIdU0yOEZMbWFrN21rdWEySjdoN1lnb3NNQg?oc=5",
+        "publishedAt": "2026-11-05T20:00:00.000Z"
+      },
       {
         "time": "19:55",
         "title": "ブラザー、名古屋大と開発した「びびり振動」の診断機能を工作機械3機種に搭載",
@@ -36,13 +43,6 @@
         "source": "ニュースメディアVOIX",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9YTUNXVDNzS3ZSVEVYVzBoclhrWDFlNXppdXV6eEtiY25QeGZXY0Fma2RGNHNSQTc5UGZhNnNXSFdpUVpUMXd6YkR5WjJmR2NPLVdLTFFoWDdCMWVOaklmTEZUOTdXWXhScVBB?oc=5",
         "publishedAt": "2026-11-05T11:26:14.000Z"
-      },
-      {
-        "time": "05:00",
-        "title": "新機構の減速機、同軸ローラーカム 歳差運動でロボット精度を工作機械級に",
-        "source": "日経クロステック",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE53NDJ3VDBwS1RNclE4OHBXSjNFTHlCc1dmbV9vOTd4OTNoM0pCNXNqOW9XSXYwNlZQS3VXeE9vc3R5NkNVWk5Wc0JkZTBKd2s5YkFIdU0yOEZMbWFrN21rdWEySjdoN1lnb3NNQg?oc=5",
-        "publishedAt": "2026-11-05T20:00:00.000Z"
       },
       {
         "time": "05:00",
@@ -105,6 +105,13 @@
     ],
     "economyHeadlines": [
       {
+        "time": "06:25",
+        "title": "NYダウ急落 一時1800ドル超安",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6601477?source=rss",
+        "publishedAt": "2026-11-05T21:25:57.000Z"
+      },
+      {
         "time": "22:52",
         "title": "日本製紙 八代工場の紙生産断念へ",
         "source": "Yahoo!ニュース",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601456?source=rss",
         "publishedAt": "2026-11-05T10:30:52.000Z"
-      },
-      {
-        "time": "18:03",
-        "title": "サントリー 酒類364品目値上げへ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601448?source=rss",
-        "publishedAt": "2026-11-05T09:03:06.000Z"
       }
     ],
     "localHeadlines": [

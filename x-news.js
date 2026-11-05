@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-05T21:09:17.266Z",
+  "updatedAt": "2026-11-05T21:35:46.549Z",
   "items": [
     {
       "time": "06:04",
@@ -18,6 +18,14 @@ window.LUS_X_NEWS = {
       "xQuery": "露 JT資産を同国企業の管理下に"
     },
     {
+      "time": "06:25",
+      "title": "NYダウ急落 一時1800ドル超安",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601477?source=rss",
+      "publishedAt": "2026-11-05T21:25:57.000Z",
+      "xQuery": "NYダウ急落 一時1800ドル超安"
+    },
+    {
       "time": "20:11",
       "title": "めぐみさん拉致 母「会いたい」",
       "source": "Yahoo!ニュース",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "めぐみさん拉致 母「会いたい」"
     },
     {
-      "time": "23:40",
-      "title": "蔵内前議長 条件尽くしの異例会見",
+      "time": "22:36",
+      "title": "「ドンキ流トイザらス」が始動",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601474?source=rss",
-      "publishedAt": "2026-11-05T14:40:30.000Z",
-      "xQuery": "蔵内前議長 条件尽くしの異例会見"
-    },
-    {
-      "time": "22:52",
-      "title": "日本製紙 八代工場の紙生産断念へ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601473?source=rss",
-      "publishedAt": "2026-11-05T13:52:04.000Z",
-      "xQuery": "日本製紙 八代工場の紙生産断念へ"
+      "url": "https://news.yahoo.co.jp/pickup/6601471?source=rss",
+      "publishedAt": "2026-11-05T13:36:12.000Z",
+      "xQuery": "「ドンキ流トイザらス」が始動"
     }
   ]
 };
