@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-05T11:35:43.237Z",
+  "updatedAt": "2026-11-05T12:16:56.288Z",
   "items": [
+    {
+      "time": "20:52",
+      "title": "首相 米大統領と協力していきたい",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601463?source=rss",
+      "publishedAt": "2026-11-05T11:52:32.000Z",
+      "xQuery": "首相 米大統領と協力していきたい"
+    },
     {
       "time": "18:42",
       "title": "6日 全国的に気温高く夏日予想も",
@@ -10,28 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "6日 全国的に気温高く夏日予想も"
     },
     {
-      "time": "17:46",
-      "title": "税の無駄など1445億円 検査院報告",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601446?source=rss",
-      "publishedAt": "2026-11-05T08:46:46.000Z",
-      "xQuery": "税の無駄など1445億円 検査院報告"
-    },
-    {
-      "time": "18:14",
-      "title": "映画監督の榊英雄被告 実刑確定へ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601450?source=rss",
-      "publishedAt": "2026-11-05T09:14:17.000Z",
-      "xQuery": "映画監督の榊英雄被告 実刑確定へ"
-    },
-    {
       "time": "18:41",
       "title": "10月就任の横浜市長が療養 過労か",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6601452?source=rss",
       "publishedAt": "2026-11-05T09:41:26.000Z",
       "xQuery": "10月就任の横浜市長が療養 過労か"
+    },
+    {
+      "time": "18:03",
+      "title": "サントリー 酒類364品目値上げへ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601448?source=rss",
+      "publishedAt": "2026-11-05T09:03:06.000Z",
+      "xQuery": "サントリー 酒類364品目値上げへ"
     },
     {
       "time": "19:09",
