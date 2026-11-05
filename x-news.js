@@ -1,14 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-05T05:12:07.917Z",
+  "updatedAt": "2026-11-05T05:36:04.701Z",
   "items": [
-    {
-      "time": "13:13",
-      "title": "ドコモ携帯 全国で障害が発生",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601414?source=rss",
-      "publishedAt": "2026-11-05T04:13:44.000Z",
-      "xQuery": "ドコモ携帯 全国で障害が発生"
-    },
     {
       "time": "08:10",
       "title": "エボラ巡り新ワクチン治験 WHO",
@@ -32,6 +24,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6601407?source=rss",
       "publishedAt": "2026-11-05T03:32:04.000Z",
       "xQuery": "米共和党 大敗の責任押し付け合い"
+    },
+    {
+      "time": "13:13",
+      "title": "ドコモ携帯 全国で障害が発生",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601414?source=rss",
+      "publishedAt": "2026-11-05T04:13:44.000Z",
+      "xQuery": "ドコモ携帯 全国で障害が発生"
     },
     {
       "time": "11:36",

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T05:12:06.632Z",
+  "updatedAt": "2026-11-05T05:36:04.080Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -24,18 +24,18 @@
         "publishedAt": "2026-11-04T20:00:00.000Z"
       },
       {
-        "time": "05:00",
-        "title": "決算を読む オークマ 26年４～９月期 純利益２・６倍で過去最高 米国中心に販売拡大 通期は増収増益予想",
-        "source": "中部経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBtU2ZRT2I2bG51Sk5sU3E1a2V6OXdHLXoxQ3BtX1Jpay13YnZVbHk5VE9Cc2NaaFY2dVZYVnZDTWE1LWVybDB3NU5tS1VKR0NXUFlfY3NfTGtNdnJpVW5OaDZxeG1lZWxnVFNpNWxCWURmZmc?oc=5",
-        "publishedAt": "2026-11-04T20:00:00.000Z"
-      },
-      {
         "time": "10:30",
         "title": "RGPレンズ製造装置の世界市場（2026年～2032年）、市場規模（超精密工作機械、レンズ凹面研磨機、検査装置、洗浄装置、シール機）・分析レポートを発表",
         "source": "アットプレス",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE43RloyUzNLMGprVm1qMEZyaDNFeFhURENtNHpHdWp6MEt3eVdMM0NTeU1HdzRmbGJPOFJIbVE1N05aV05vUnZiNHZpM3doQ1E?oc=5",
         "publishedAt": "2026-11-05T01:30:00.000Z"
+      },
+      {
+        "time": "18:41",
+        "title": "【探訪ザ・カンパニー】オーザック（福山市）安全支えるワイヤ金具",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB2YnlPN09iTUcyOGNldkhrT1k5RzQ5M0pLNkE3NkV1YzJxUDFPam9xOTV6dFZva2ZrNHNxNkZIOGYxMXN6R1JyUHFIMXZIamRMT2c?oc=5",
+        "publishedAt": "2026-11-04T09:41:41.000Z"
       },
       {
         "time": "10:00",
@@ -52,11 +52,11 @@
         "publishedAt": "2026-11-04T06:39:41.000Z"
       },
       {
-        "time": "11:11",
-        "title": "【台湾情報】台湾の半導体封止・検査、2026年は過去最高の9,010億元へ＜ワイズリサーチ最新レポート＞",
-        "source": "PR TIMES",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9QT2NqSm1ka28yOTBrVDdsMy1vZVZZWWdFMkFkN1VxR2dSYTVYZVVSU0l2ZWpudEUyc283UjdEWHZlNU5pNHE5WHNLSUdjTUkxWGFjWmN4Y2FuX3N5akNNR3hYQ21zc2dMbVE?oc=5",
-        "publishedAt": "2026-11-05T02:11:36.000Z"
+        "time": "13:53",
+        "title": "［台湾情報］台湾の半導体封止・検査、2026年は過去最高の9,010億元へ＜ワイズリサーチ最新レポート＞（PR TIMES）",
+        "source": "毎日新聞",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5tSzlPa19vT2t3ekF6SDlXMVpaYU9iNGVndzhjalZwUnpOTEUySk9xVlI2VDlDWS1LdnFIbUNEMUtxdzRoVnZTbTF6WHNIdEQwVDk0TnNvWU1FZmQ0TDJpUGRQZ2hLSDdq?oc=5",
+        "publishedAt": "2026-11-05T04:53:03.000Z"
       }
     ],
     "worldHeadlines": [
