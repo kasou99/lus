@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-05T22:11:07.737Z",
+  "updatedAt": "2026-11-05T22:35:36.729Z",
   "items": [
     {
       "time": "06:04",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "NYダウ急落 一時1800ドル超安"
     },
     {
+      "time": "07:25",
+      "title": "ドコモ通信障害が復旧 原因を公表",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601482?source=rss",
+      "publishedAt": "2026-11-05T22:25:22.000Z",
+      "xQuery": "ドコモ通信障害が復旧 原因を公表"
+    },
+    {
       "time": "06:56",
       "title": "山梨ダルク代表 1.1億円私的流用",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6601479?source=rss",
       "publishedAt": "2026-11-05T21:56:52.000Z",
       "xQuery": "山梨ダルク代表 1.1億円私的流用"
-    },
-    {
-      "time": "22:36",
-      "title": "「ドンキ流トイザらス」が始動",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601471?source=rss",
-      "publishedAt": "2026-11-05T13:36:12.000Z",
-      "xQuery": "「ドンキ流トイザらス」が始動"
     }
   ]
 };
