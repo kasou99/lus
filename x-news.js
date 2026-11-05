@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-05T14:12:23.497Z",
+  "updatedAt": "2026-11-05T14:36:48.910Z",
   "items": [
     {
       "time": "21:57",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "露 JT資産を同国企業の管理下に"
     },
     {
-      "time": "20:52",
-      "title": "首相 米大統領と協力していきたい",
+      "time": "20:11",
+      "title": "めぐみさん拉致 母「会いたい」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601463?source=rss",
-      "publishedAt": "2026-11-05T11:52:32.000Z",
-      "xQuery": "首相 米大統領と協力していきたい"
+      "url": "https://news.yahoo.co.jp/pickup/6601458?source=rss",
+      "publishedAt": "2026-11-05T11:11:25.000Z",
+      "xQuery": "めぐみさん拉致 母「会いたい」"
     },
     {
       "time": "18:41",
