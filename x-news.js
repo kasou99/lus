@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-06T10:35:48.308Z",
+  "updatedAt": "2026-11-06T11:10:08.303Z",
   "items": [
     {
       "time": "19:04",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "中間選挙ショック 世界で株安連鎖"
     },
     {
-      "time": "16:53",
-      "title": "石破前首相ら減税法案の採決退席",
+      "time": "19:57",
+      "title": "海外で過労死 遺族ら厚労省に要請",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601535?source=rss",
-      "publishedAt": "2026-11-06T07:53:09.000Z",
-      "xQuery": "石破前首相ら減税法案の採決退席"
+      "url": "https://news.yahoo.co.jp/pickup/6601564?source=rss",
+      "publishedAt": "2026-11-06T10:57:20.000Z",
+      "xQuery": "海外で過労死 遺族ら厚労省に要請"
     },
     {
       "time": "18:02",
