@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T04:36:04.893Z",
+  "updatedAt": "2026-11-06T05:11:56.972Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -126,13 +126,6 @@
         "publishedAt": "2026-11-06T04:01:00.000Z"
       },
       {
-        "time": "06:25",
-        "title": "NYダウ急落 一時1800ドル超安",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601477?source=rss",
-        "publishedAt": "2026-11-05T21:25:57.000Z"
-      },
-      {
         "time": "12:06",
         "title": "台湾市場一時9%急落 下げ幅最大",
         "source": "Yahoo!ニュース",
@@ -145,9 +138,23 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601485?source=rss",
         "publishedAt": "2026-11-05T22:52:02.000Z"
+      },
+      {
+        "time": "11:49",
+        "title": "ピザーラ Dr.STONEコラボで謝罪",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6601507?source=rss",
+        "publishedAt": "2026-11-06T02:49:07.000Z"
       }
     ],
     "localHeadlines": [
+      {
+        "time": "13:53",
+        "title": "職失う覚悟で性的暴行訴え 元検事",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6601523?source=rss",
+        "publishedAt": "2026-11-06T04:53:15.000Z"
+      },
       {
         "time": "13:30",
         "title": "池袋事故の遺族中傷疑い 書類送検",
@@ -177,18 +184,11 @@
         "publishedAt": "2026-11-05T14:40:30.000Z"
       },
       {
-        "time": "11:32",
-        "title": "解体現場 10人が体調不良訴え搬送",
+        "time": "13:40",
+        "title": "解体現場で10人搬送 CO中毒か",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601506?source=rss",
-        "publishedAt": "2026-11-06T02:32:54.000Z"
-      },
-      {
-        "time": "08:36",
-        "title": "大阪で物議「排除アート」問題は",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601488?source=rss",
-        "publishedAt": "2026-11-05T23:36:37.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6601522?source=rss",
+        "publishedAt": "2026-11-06T04:40:01.000Z"
       }
     ],
     "subsidyHeadlines": [

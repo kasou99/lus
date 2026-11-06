@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-06T04:36:05.594Z",
+  "updatedAt": "2026-11-06T05:11:57.960Z",
   "items": [
+    {
+      "time": "14:04",
+      "title": "消費税減税法案 衆院本会議で可決",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601525?source=rss",
+      "publishedAt": "2026-11-06T05:04:08.000Z",
+      "xQuery": "消費税減税法案 衆院本会議で可決"
+    },
     {
       "time": "12:08",
       "title": "支援金対象は現役の3割以上 首相",
@@ -8,14 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6601510?source=rss",
       "publishedAt": "2026-11-06T03:08:30.000Z",
       "xQuery": "支援金対象は現役の3割以上 首相"
-    },
-    {
-      "time": "12:36",
-      "title": "東京都心で夏日 今夜から強い寒気",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601513?source=rss",
-      "publishedAt": "2026-11-06T03:36:08.000Z",
-      "xQuery": "東京都心で夏日 今夜から強い寒気"
     },
     {
       "time": "12:06",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "台湾市場一時9%急落 下げ幅最大"
     },
     {
-      "time": "13:01",
-      "title": "米株式急落 時価総額395兆円消失",
+      "time": "13:34",
+      "title": "日経平均急落 予断許さないと首相",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601518?source=rss",
-      "publishedAt": "2026-11-06T04:01:00.000Z",
-      "xQuery": "米株式急落 時価総額395兆円消失"
+      "url": "https://news.yahoo.co.jp/pickup/6601520?source=rss",
+      "publishedAt": "2026-11-06T04:34:07.000Z",
+      "xQuery": "日経平均急落 予断許さないと首相"
     },
     {
-      "time": "07:52",
-      "title": "コロナ融資 918億円が回収困難に",
+      "time": "13:53",
+      "title": "職失う覚悟で性的暴行訴え 元検事",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601485?source=rss",
-      "publishedAt": "2026-11-05T22:52:02.000Z",
-      "xQuery": "コロナ融資 918億円が回収困難に"
+      "url": "https://news.yahoo.co.jp/pickup/6601523?source=rss",
+      "publishedAt": "2026-11-06T04:53:15.000Z",
+      "xQuery": "職失う覚悟で性的暴行訴え 元検事"
     }
   ]
 };
