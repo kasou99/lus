@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-11-06T16:35:32.953Z",
+  "updatedAt": "2026-11-06T17:09:56.873Z",
   "groups": {
     "machineHeadlines": [
-      {
-        "time": "10:30",
-        "title": "DMG森精機社長が目指す止まらない工作機械／トヨタは中国市場で反転攻勢なるか",
-        "source": "MONOist",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5uaXVHbEpqTXpEblZKSUp1RVM0aktCTmw4QjhFa3A2WUU4cUNoWUQxSG1aRGxWZGF2QlRqTDk0M3V4XzVEZmZsU1EwM2x0Ym1zekJneHBtWFYyRnJVS3hrSDJQSG1wVG50RmtCNzduMA?oc=5",
-        "publishedAt": "2026-11-06T01:30:00.000Z"
-      },
       {
         "time": "16:36",
         "title": "三菱電機、フィジカルAIでヒューマノイドとCNC工作機械が連携する加工システムを開発。省人化に貢献",
         "source": "AIsmiley",
         "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1jZ096eUN4X1RwSXFTbzZ5UU9TckRRa214S0RNdGRwRG5Xckg2X2x4UVNZaUp0MFh5V3ZrTlVaWEtrRk52WGpFOVFKRnBhMTItNURrWUp5eS1kME9hbkxqN3pnZkhyTW0waHdTRnU0SDI?oc=5",
         "publishedAt": "2026-11-06T07:36:19.000Z"
+      },
+      {
+        "time": "10:30",
+        "title": "DMG森精機社長が目指す止まらない工作機械／トヨタは中国市場で反転攻勢なるか",
+        "source": "MONOist",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5uaXVHbEpqTXpEblZKSUp1RVM0aktCTmw4QjhFa3A2WUU4cUNoWUQxSG1aRGxWZGF2QlRqTDk0M3V4XzVEZmZsU1EwM2x0Ym1zekJneHBtWFYyRnJVS3hrSDJQSG1wVG50RmtCNzduMA?oc=5",
+        "publishedAt": "2026-11-06T01:30:00.000Z"
       },
       {
         "time": "05:00",
@@ -52,11 +52,11 @@
         "publishedAt": "2026-11-06T05:45:00.000Z"
       },
       {
-        "time": "07:00",
-        "title": "DMG森精機社長が目指す「止まらない工作機械」 無人化で残る「人の仕事」とは：FAインタビュー",
-        "source": "MONOist",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1fSGdtR0l6eDlrV1N5TW1Na2E1ZHFqN1FNSkJMaEV5TUR5YnN5THF1TmJzUVAzOXZNdW9vS0tqNzZya0k1U1NhT1B5YTZ0Z3I4OURMT3dqc3JlbzMtcEFvMVRrUGpuOFFBQmZ2VTJtdw?oc=5",
-        "publishedAt": "2026-11-05T22:00:00.000Z"
+        "time": "04:10",
+        "title": "『カミナシ 設備保全』、保全データをAIが分析し予防保全の計画まで提案するAIエージェント機能を先行提供",
+        "source": "RBB TODAY",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1OMkoyRWNkZVpfQWtWN2hZOTlLVG5WakxvQjhXMHlHZVl5RG1KdHdzaWF1UWRBN1ZabGh3bjNpVkd4bXVDcFU4dVRWUTdvemNrZlhuWkxQcHZOZmdpcGVKN2wyd0cyNC1oejI5UFhSNUxhY2syaTRuZQ?oc=5",
+        "publishedAt": "2026-11-05T19:10:02.000Z"
       }
     ],
     "worldHeadlines": [
