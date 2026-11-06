@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-06T07:35:56.875Z",
+  "updatedAt": "2026-11-06T08:15:02.578Z",
   "items": [
     {
       "time": "15:53",
@@ -10,14 +10,6 @@ window.LUS_X_NEWS = {
       "xQuery": "日経平均終値 過去3番目の下げ幅"
     },
     {
-      "time": "15:17",
-      "title": "128の信用金庫でシステム障害",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601532?source=rss",
-      "publishedAt": "2026-11-06T06:17:01.000Z",
-      "xQuery": "128の信用金庫でシステム障害"
-    },
-    {
       "time": "16:28",
       "title": "連続強盗 実行役2人無期懲役判決",
       "source": "Yahoo!ニュース",
@@ -26,20 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "連続強盗 実行役2人無期懲役判決"
     },
     {
+      "time": "16:53",
+      "title": "石破前首相ら減税法案の採決退席",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601535?source=rss",
+      "publishedAt": "2026-11-06T07:53:09.000Z",
+      "xQuery": "石破前首相ら減税法案の採決退席"
+    },
+    {
+      "time": "15:17",
+      "title": "128の信用金庫でシステム障害",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601532?source=rss",
+      "publishedAt": "2026-11-06T06:17:01.000Z",
+      "xQuery": "128の信用金庫でシステム障害"
+    },
+    {
       "time": "14:42",
       "title": "道で突然暴行疑い 女性7人被害か",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6601527?source=rss",
       "publishedAt": "2026-11-06T05:42:37.000Z",
       "xQuery": "道で突然暴行疑い 女性7人被害か"
-    },
-    {
-      "time": "16:28",
-      "title": "覆面市議 議会での着用認められる",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601536?source=rss",
-      "publishedAt": "2026-11-06T07:28:34.000Z",
-      "xQuery": "覆面市議 議会での着用認められる"
     }
   ]
 };
