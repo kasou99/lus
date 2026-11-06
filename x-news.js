@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-06T03:36:16.155Z",
+  "updatedAt": "2026-11-06T04:14:03.274Z",
   "items": [
     {
-      "time": "11:53",
-      "title": "財務相 JT資産管理巡り露に抗議",
+      "time": "12:36",
+      "title": "東京都心で夏日 今夜から強い寒気",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601509?source=rss",
-      "publishedAt": "2026-11-06T02:53:28.000Z",
-      "xQuery": "財務相 JT資産管理巡り露に抗議"
+      "url": "https://news.yahoo.co.jp/pickup/6601513?source=rss",
+      "publishedAt": "2026-11-06T03:36:08.000Z",
+      "xQuery": "東京都心で夏日 今夜から強い寒気"
     },
     {
       "time": "12:08",
@@ -16,6 +16,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6601510?source=rss",
       "publishedAt": "2026-11-06T03:08:30.000Z",
       "xQuery": "支援金対象は現役の3割以上 首相"
+    },
+    {
+      "time": "12:06",
+      "title": "台湾市場一時9%急落 下げ幅最大",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601512?source=rss",
+      "publishedAt": "2026-11-06T03:06:17.000Z",
+      "xQuery": "台湾市場一時9%急落 下げ幅最大"
     },
     {
       "time": "07:52",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6601506?source=rss",
       "publishedAt": "2026-11-06T02:32:54.000Z",
       "xQuery": "解体現場 10人が体調不良訴え搬送"
-    },
-    {
-      "time": "10:42",
-      "title": "Suicaペンギンのバッグ 販売休止",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601502?source=rss",
-      "publishedAt": "2026-11-06T01:42:59.000Z",
-      "xQuery": "Suicaペンギンのバッグ 販売休止"
     }
   ]
 };

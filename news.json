@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T03:36:15.502Z",
+  "updatedAt": "2026-11-06T04:14:02.280Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,6 +38,13 @@
         "publishedAt": "2026-11-05T19:10:02.000Z"
       },
       {
+        "time": "13:00",
+        "title": "CNCスイス型旋盤の世界市場（2026年～2032年）、市場規模（小型スイス型CNC旋盤、中型スイス型CNC旋盤、大型スイス型CNC旋盤）・分析レポートを発表",
+        "source": "アットプレス",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE54bXdRWl9RWFJNRTE2al91TGhJMFhNQ2tFamJ6bDQ5b283U243cTluM2lfbDVsMDRRanc2VGJvX2hyNlF6Qk9TblE1Q1RxUlE?oc=5",
+        "publishedAt": "2026-11-06T04:00:00.000Z"
+      },
+      {
         "time": "19:55",
         "title": "ブラザー、名古屋大と開発した「びびり振動」の診断機能を工作機械3機種に搭載",
         "source": "FabScene",
@@ -50,13 +57,6 @@
         "source": "ニュースメディアVOIX",
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFByT2lBNWhxQWlfYmFBWnU0WGhFS2dhU0VLSTRaWndVWC1wZnFWZVQ2NGUyTVJkN0R5MUZCT0VMdTNlVE5LYVlLbklKLUVKd2VfeldBY2Y3WFI2OTlHVzNTTXdReEpibGIt?oc=5",
         "publishedAt": "2026-11-05T11:26:14.000Z"
-      },
-      {
-        "time": "20:00",
-        "title": "日工会がまとめた「IMTS2026」は、AI関連や航空宇宙向け、自動化提案も活発！",
-        "source": "製造現場ドットコム",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE4wSFVJVVU5NUFZRmlTSjhTNFhETUtZdHJ4UnNOTjNVMTA0cHQ1NVRVdjZFcTBMcjZTdGJBaU9PQk01a0hRZU1SMkZR?oc=5",
-        "publishedAt": "2026-11-05T11:00:23.000Z"
       }
     ],
     "worldHeadlines": [
@@ -119,6 +119,13 @@
         "publishedAt": "2026-11-06T00:32:15.000Z"
       },
       {
+        "time": "13:01",
+        "title": "米株式急落 時価総額395兆円消失",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6601518?source=rss",
+        "publishedAt": "2026-11-06T04:01:00.000Z"
+      },
+      {
         "time": "06:25",
         "title": "NYダウ急落 一時1800ドル超安",
         "source": "Yahoo!ニュース",
@@ -131,13 +138,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601512?source=rss",
         "publishedAt": "2026-11-06T03:06:17.000Z"
-      },
-      {
-        "time": "08:53",
-        "title": "9月の実質賃金 9カ月連続プラス",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601493?source=rss",
-        "publishedAt": "2026-11-05T23:53:08.000Z"
       },
       {
         "time": "07:52",
