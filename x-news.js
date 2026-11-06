@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-06T13:11:14.241Z",
+  "updatedAt": "2026-11-06T13:35:52.915Z",
   "items": [
     {
       "time": "21:06",
@@ -18,28 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "MAGA連合に亀裂生じる CNN調査"
     },
     {
+      "time": "18:19",
+      "title": "米国版凱旋門 ⁠着工一時差し止め",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601556?source=rss",
+      "publishedAt": "2026-11-06T09:19:48.000Z",
+      "xQuery": "米国版凱旋門 ⁠着工一時差し止め"
+    },
+    {
+      "time": "22:27",
+      "title": "被害訴える元検事 検察は上意下達",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601578?source=rss",
+      "publishedAt": "2026-11-06T13:27:44.000Z",
+      "xQuery": "被害訴える元検事 検察は上意下達"
+    },
+    {
       "time": "21:50",
       "title": "全国に広がる「被害者手帳」とは",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6601573?source=rss",
       "publishedAt": "2026-11-06T12:50:08.000Z",
       "xQuery": "全国に広がる「被害者手帳」とは"
-    },
-    {
-      "time": "20:35",
-      "title": "ドコモ 流出の対象者に見舞金検討",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601566?source=rss",
-      "publishedAt": "2026-11-06T11:35:39.000Z",
-      "xQuery": "ドコモ 流出の対象者に見舞金検討"
-    },
-    {
-      "time": "18:52",
-      "title": "「ウポポイ」認知度27.5% 内閣府",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601557?source=rss",
-      "publishedAt": "2026-11-06T09:52:37.000Z",
-      "xQuery": "「ウポポイ」認知度27.5% 内閣府"
     }
   ]
 };
