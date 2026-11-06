@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-06T00:30:44.855Z",
+  "updatedAt": "2026-11-06T01:11:55.426Z",
   "items": [
     {
-      "time": "09:17",
-      "title": "日経平均が大幅下落 6万円割れ",
+      "time": "08:49",
+      "title": "ルビオ長官 辞任検討の報道否定",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601495?source=rss",
-      "publishedAt": "2026-11-06T00:17:16.000Z",
-      "xQuery": "日経平均が大幅下落 6万円割れ"
+      "url": "https://news.yahoo.co.jp/pickup/6601491?source=rss",
+      "publishedAt": "2026-11-05T23:49:50.000Z",
+      "xQuery": "ルビオ長官 辞任検討の報道否定"
     },
     {
       "time": "08:22",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "サイバー攻撃で強制遮断検討 政府"
     },
     {
-      "time": "07:25",
-      "title": "ドコモ通信障害が復旧 原因を公表",
+      "time": "09:32",
+      "title": "日経平均 一時4000円以上値下がり",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601482?source=rss",
-      "publishedAt": "2026-11-05T22:25:22.000Z",
-      "xQuery": "ドコモ通信障害が復旧 原因を公表"
+      "url": "https://news.yahoo.co.jp/pickup/6601497?source=rss",
+      "publishedAt": "2026-11-06T00:32:15.000Z",
+      "xQuery": "日経平均 一時4000円以上値下がり"
     },
     {
-      "time": "08:36",
-      "title": "大阪で物議「排除アート」問題は",
+      "time": "09:36",
+      "title": "パラグアイ大統領が辞任表明",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601488?source=rss",
-      "publishedAt": "2026-11-05T23:36:37.000Z",
-      "xQuery": "大阪で物議「排除アート」問題は"
+      "url": "https://news.yahoo.co.jp/pickup/6601496?source=rss",
+      "publishedAt": "2026-11-06T00:36:53.000Z",
+      "xQuery": "パラグアイ大統領が辞任表明"
     }
   ]
 };

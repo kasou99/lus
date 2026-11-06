@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T00:30:44.039Z",
+  "updatedAt": "2026-11-06T01:11:54.689Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -89,27 +89,27 @@
         "publishedAt": "2026-11-05T08:01:55.000Z"
       },
       {
-        "time": "12:32",
-        "title": "米共和党 大敗の責任押し付け合い",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601407?source=rss",
-        "publishedAt": "2026-11-05T03:32:04.000Z"
-      },
-      {
         "time": "15:33",
         "title": "バンス氏 米大統領と距離置く姿勢",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601425?source=rss",
         "publishedAt": "2026-11-05T06:33:22.000Z"
+      },
+      {
+        "time": "09:36",
+        "title": "パラグアイ大統領が辞任表明",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6601496?source=rss",
+        "publishedAt": "2026-11-06T00:36:53.000Z"
       }
     ],
     "economyHeadlines": [
       {
-        "time": "09:17",
-        "title": "日経平均が大幅下落 6万円割れ",
+        "time": "09:32",
+        "title": "日経平均 一時4000円以上値下がり",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601495?source=rss",
-        "publishedAt": "2026-11-06T00:17:16.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6601497?source=rss",
+        "publishedAt": "2026-11-06T00:32:15.000Z"
       },
       {
         "time": "08:22",
