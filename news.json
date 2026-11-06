@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T19:35:10.023Z",
+  "updatedAt": "2026-11-06T20:11:30.152Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,25 +17,18 @@
         "publishedAt": "2026-11-06T01:30:00.000Z"
       },
       {
+        "time": "01:15",
+        "title": "総勢40名の町工場から、また一人。愛知・清須の金型メーカーメイクスタートで、後藤健次が3人目の「現代の名工」に",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9QT1pfR2NLTmgyOUVxdGgxVTNDRVJjYXZvNkpqclpaZ0sweGdaZ2Vjd0djWG9BLU5HY2FOWUxrY1V3TkNFb1dIUVZSc0JDRlpQSU9JdmZDUkJUaFJmclNMRWt0WFBpOHlM?oc=5",
+        "publishedAt": "2026-11-06T16:15:25.000Z"
+      },
+      {
         "time": "09:16",
         "title": "CNC工作機械市場、2035年までの予測：航空宇宙分野の多軸精密加工需要が成長を牽引",
         "source": "IndexBox",
         "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPMmd1dDNCclp5cWY3TjVNRXVVRGd5bUhnaWR5ZUlpTVppVzF6S1BYR2N6VUJTWmE2U1I2QlYwZTVQdm5CZmdjSEhTUUhXb1k1R2t4M1c2QzZtT1ZUMGZDVG1PVThFLXAtVGRwSklCVHBRendqcmdWT3ktYU5KQkNRdmJKSS1xUF9RVlFSMGNnb3FnYmtDU0JBX01uZFpMZ2tKU1NoYkRWeFlWRERUYWdkS29rdlM5TElMTlJ2SEIzc2RqRTgwRERGN3UxcHVVeVpRQXhQOXA2MG4yMEtiS3BLT2tR?oc=5",
         "publishedAt": "2026-11-06T00:16:04.000Z"
-      },
-      {
-        "time": "05:00",
-        "title": "横浜電子、制御盤×協働ロボ強化 本社工場を移転拡張",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE92VzZDbTVhUXJpM2tRMkt4b0F6aFhkdlZCaXVyTjU2dC1BNDNxZXBySHVlTjAwQVQ5d2tYeTZwQW40aldUeGFnSTNrQlh0V19hNDFqaVFqcEU?oc=5",
-        "publishedAt": "2026-11-05T20:00:00.000Z"
-      },
-      {
-        "time": "05:00",
-        "title": "新機構の減速機、同軸ローラーカム 歳差運動でロボット精度を工作機械級に",
-        "source": "日経クロステック",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE53NDJ3VDBwS1RNclE4OHBXSjNFTHlCc1dmbV9vOTd4OTNoM0pCNXNqOW9XSXYwNlZQS3VXeE9vc3R5NkNVWk5Wc0JkZTBKd2s5YkFIdU0yOEZMbWFrN21rdWEySjdoN1lnb3NNQg?oc=5",
-        "publishedAt": "2026-11-05T20:00:00.000Z"
       },
       {
         "time": "17:16",
@@ -57,6 +50,13 @@
         "source": "MONOist",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1fSGdtR0l6eDlrV1N5TW1Na2E1ZHFqN1FNSkJMaEV5TUR5YnN5THF1TmJzUVAzOXZNdW9vS0tqNzZya0k1U1NhT1B5YTZ0Z3I4OURMT3dqc3JlbzMtcEFvMVRrUGpuOFFBQmZ2VTJtdw?oc=5",
         "publishedAt": "2026-11-05T22:00:00.000Z"
+      },
+      {
+        "time": "13:00",
+        "title": "CNCスイス型旋盤の世界市場（2026年～2032年）、市場規模（小型スイス型CNC旋盤、中型スイス型CNC旋盤、大型スイス型CNC旋盤）・分析レポートを発表",
+        "source": "アットプレス",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE54bXdRWl9RWFJNRTE2al91TGhJMFhNQ2tFamJ6bDQ5b283U243cTluM2lfbDVsMDRRanc2VGJvX2hyNlF6Qk9TblE1Q1RxUlE?oc=5",
+        "publishedAt": "2026-11-06T04:00:00.000Z"
       }
     ],
     "worldHeadlines": [
