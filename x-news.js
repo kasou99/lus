@@ -1,14 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-06T04:14:03.274Z",
+  "updatedAt": "2026-11-06T04:36:05.594Z",
   "items": [
-    {
-      "time": "12:36",
-      "title": "東京都心で夏日 今夜から強い寒気",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601513?source=rss",
-      "publishedAt": "2026-11-06T03:36:08.000Z",
-      "xQuery": "東京都心で夏日 今夜から強い寒気"
-    },
     {
       "time": "12:08",
       "title": "支援金対象は現役の3割以上 首相",
@@ -16,6 +8,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6601510?source=rss",
       "publishedAt": "2026-11-06T03:08:30.000Z",
       "xQuery": "支援金対象は現役の3割以上 首相"
+    },
+    {
+      "time": "12:36",
+      "title": "東京都心で夏日 今夜から強い寒気",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601513?source=rss",
+      "publishedAt": "2026-11-06T03:36:08.000Z",
+      "xQuery": "東京都心で夏日 今夜から強い寒気"
     },
     {
       "time": "12:06",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "台湾市場一時9%急落 下げ幅最大"
     },
     {
+      "time": "13:01",
+      "title": "米株式急落 時価総額395兆円消失",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601518?source=rss",
+      "publishedAt": "2026-11-06T04:01:00.000Z",
+      "xQuery": "米株式急落 時価総額395兆円消失"
+    },
+    {
       "time": "07:52",
       "title": "コロナ融資 918億円が回収困難に",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6601485?source=rss",
       "publishedAt": "2026-11-05T22:52:02.000Z",
       "xQuery": "コロナ融資 918億円が回収困難に"
-    },
-    {
-      "time": "11:32",
-      "title": "解体現場 10人が体調不良訴え搬送",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601506?source=rss",
-      "publishedAt": "2026-11-06T02:32:54.000Z",
-      "xQuery": "解体現場 10人が体調不良訴え搬送"
     }
   ]
 };

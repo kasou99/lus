@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T04:14:02.280Z",
+  "updatedAt": "2026-11-06T04:36:04.893Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -75,13 +75,6 @@
         "publishedAt": "2026-11-05T12:57:53.000Z"
       },
       {
-        "time": "22:49",
-        "title": "歴史的勝利 喜び広がるテキサス州",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601472?source=rss",
-        "publishedAt": "2026-11-05T13:49:51.000Z"
-      },
-      {
         "time": "17:01",
         "title": "米右派動揺「トランプ後」を模索",
         "source": "Yahoo!ニュース",
@@ -94,6 +87,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601425?source=rss",
         "publishedAt": "2026-11-05T06:33:22.000Z"
+      },
+      {
+        "time": "13:31",
+        "title": "米中間選挙 無党派層が影の主役に",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6601514?source=rss",
+        "publishedAt": "2026-11-06T04:31:26.000Z"
       },
       {
         "time": "09:36",
@@ -149,18 +149,18 @@
     ],
     "localHeadlines": [
       {
+        "time": "13:30",
+        "title": "池袋事故の遺族中傷疑い 書類送検",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6601521?source=rss",
+        "publishedAt": "2026-11-06T04:30:57.000Z"
+      },
+      {
         "time": "06:56",
         "title": "山梨ダルク代表 1.1億円私的流用",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601479?source=rss",
         "publishedAt": "2026-11-05T21:56:52.000Z"
-      },
-      {
-        "time": "16:25",
-        "title": "能登地震でビル倒壊 遺族が提訴",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601429?source=rss",
-        "publishedAt": "2026-11-05T07:25:04.000Z"
       },
       {
         "time": "18:41",
