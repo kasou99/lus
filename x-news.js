@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-06T05:36:15.019Z",
+  "updatedAt": "2026-11-06T06:20:11.872Z",
   "items": [
     {
-      "time": "14:04",
-      "title": "消費税減税法案 衆院本会議で可決",
+      "time": "15:17",
+      "title": "128の信用金庫でシステム障害",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601525?source=rss",
-      "publishedAt": "2026-11-06T05:04:08.000Z",
-      "xQuery": "消費税減税法案 衆院本会議で可決"
+      "url": "https://news.yahoo.co.jp/pickup/6601532?source=rss",
+      "publishedAt": "2026-11-06T06:17:01.000Z",
+      "xQuery": "128の信用金庫でシステム障害"
     },
     {
       "time": "14:18",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "米株式急落 時価総額395兆円消失"
     },
     {
-      "time": "13:53",
-      "title": "職失う覚悟で性的暴行訴え 元検事",
+      "time": "14:42",
+      "title": "道で突然暴行疑い 女性7人被害か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601523?source=rss",
-      "publishedAt": "2026-11-06T04:53:15.000Z",
-      "xQuery": "職失う覚悟で性的暴行訴え 元検事"
+      "url": "https://news.yahoo.co.jp/pickup/6601527?source=rss",
+      "publishedAt": "2026-11-06T05:42:37.000Z",
+      "xQuery": "道で突然暴行疑い 女性7人被害か"
     }
   ]
 };
