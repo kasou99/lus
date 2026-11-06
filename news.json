@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T02:36:01.244Z",
+  "updatedAt": "2026-11-06T03:13:33.709Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -52,11 +52,11 @@
         "publishedAt": "2026-11-05T11:26:14.000Z"
       },
       {
-        "time": "05:00",
-        "title": "浦安鉄鋼団地協組、9月景況感「横ばい」70社に増加",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9aN21ZQS1YbnlXdkdEZ3lDZEtOb3hXUjI4ZlgtS1pIcTFYWWs2SDQ3U20wLWxGQVIzUzgxWDBhQ2VtdDYxQXJGbkl1ZFdvMS1zVFFCaUFITjg?oc=5",
-        "publishedAt": "2026-11-05T20:00:00.000Z"
+        "time": "20:00",
+        "title": "日工会がまとめた「IMTS2026」は、AI関連や航空宇宙向け、自動化提案も活発！",
+        "source": "製造現場ドットコム",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE4wSFVJVVU5NUFZRmlTSjhTNFhETUtZdHJ4UnNOTjNVMTA0cHQ1NVRVdjZFcTBMcjZTdGJBaU9PQk01a0hRZU1SMkZR?oc=5",
+        "publishedAt": "2026-11-05T11:00:23.000Z"
       }
     ],
     "worldHeadlines": [
@@ -105,18 +105,18 @@
     ],
     "economyHeadlines": [
       {
-        "time": "09:32",
-        "title": "日経平均 一時4000円以上値下がり",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601497?source=rss",
-        "publishedAt": "2026-11-06T00:32:15.000Z"
-      },
-      {
         "time": "08:22",
         "title": "経産省 中部電力に業務改善命令",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601489?source=rss",
         "publishedAt": "2026-11-05T23:22:48.000Z"
+      },
+      {
+        "time": "09:32",
+        "title": "日経平均 一時4000円以上値下がり",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6601497?source=rss",
+        "publishedAt": "2026-11-06T00:32:15.000Z"
       },
       {
         "time": "06:25",
@@ -126,18 +126,18 @@
         "publishedAt": "2026-11-05T21:25:57.000Z"
       },
       {
+        "time": "12:06",
+        "title": "台湾市場一時9%急落 下げ幅最大",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6601512?source=rss",
+        "publishedAt": "2026-11-06T03:06:17.000Z"
+      },
+      {
         "time": "08:53",
         "title": "9月の実質賃金 9カ月連続プラス",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601493?source=rss",
         "publishedAt": "2026-11-05T23:53:08.000Z"
-      },
-      {
-        "time": "22:52",
-        "title": "日本製紙 八代工場の紙生産断念へ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601473?source=rss",
-        "publishedAt": "2026-11-05T13:52:04.000Z"
       },
       {
         "time": "07:52",

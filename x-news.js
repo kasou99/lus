@@ -1,29 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-06T02:36:02.309Z",
+  "updatedAt": "2026-11-06T03:13:34.459Z",
   "items": [
     {
-      "time": "08:49",
-      "title": "ルビオ長官 辞任検討の報道否定",
+      "time": "11:53",
+      "title": "財務相 JT資産管理巡り露に抗議",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601491?source=rss",
-      "publishedAt": "2026-11-05T23:49:50.000Z",
-      "xQuery": "ルビオ長官 辞任検討の報道否定"
+      "url": "https://news.yahoo.co.jp/pickup/6601509?source=rss",
+      "publishedAt": "2026-11-06T02:53:28.000Z",
+      "xQuery": "財務相 JT資産管理巡り露に抗議"
     },
     {
-      "time": "09:59",
-      "title": "取り調べ拒否24年以降158件 調査",
+      "time": "11:30",
+      "title": "サイバー対策強化に100億円 政府",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601499?source=rss",
-      "publishedAt": "2026-11-06T00:59:55.000Z",
-      "xQuery": "取り調べ拒否24年以降158件 調査"
-    },
-    {
-      "time": "08:53",
-      "title": "9月の実質賃金 9カ月連続プラス",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601493?source=rss",
-      "publishedAt": "2026-11-05T23:53:08.000Z",
-      "xQuery": "9月の実質賃金 9カ月連続プラス"
+      "url": "https://news.yahoo.co.jp/pickup/6601505?source=rss",
+      "publishedAt": "2026-11-06T02:30:25.000Z",
+      "xQuery": "サイバー対策強化に100億円 政府"
     },
     {
       "time": "09:32",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "日経平均 一時4000円以上値下がり"
     },
     {
-      "time": "10:04",
-      "title": "米加州 死刑囚548人を終身刑に",
+      "time": "11:32",
+      "title": "解体現場 10人が体調不良訴え搬送",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601498?source=rss",
-      "publishedAt": "2026-11-06T01:04:37.000Z",
-      "xQuery": "米加州 死刑囚548人を終身刑に"
+      "url": "https://news.yahoo.co.jp/pickup/6601506?source=rss",
+      "publishedAt": "2026-11-06T02:32:54.000Z",
+      "xQuery": "解体現場 10人が体調不良訴え搬送"
+    },
+    {
+      "time": "10:42",
+      "title": "Suicaペンギンのバッグ 販売休止",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601502?source=rss",
+      "publishedAt": "2026-11-06T01:42:59.000Z",
+      "xQuery": "Suicaペンギンのバッグ 販売休止"
     }
   ]
 };
