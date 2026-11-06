@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-06T01:11:55.426Z",
+  "updatedAt": "2026-11-06T01:39:10.786Z",
   "items": [
     {
       "time": "08:49",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "日経平均 一時4000円以上値下がり"
     },
     {
-      "time": "09:36",
-      "title": "パラグアイ大統領が辞任表明",
+      "time": "10:04",
+      "title": "米加州 死刑囚548人を終身刑に",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601496?source=rss",
-      "publishedAt": "2026-11-06T00:36:53.000Z",
-      "xQuery": "パラグアイ大統領が辞任表明"
+      "url": "https://news.yahoo.co.jp/pickup/6601498?source=rss",
+      "publishedAt": "2026-11-06T01:04:37.000Z",
+      "xQuery": "米加州 死刑囚548人を終身刑に"
     }
   ]
 };

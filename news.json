@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T01:11:54.689Z",
+  "updatedAt": "2026-11-06T01:39:09.649Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -8,6 +8,13 @@
         "source": "MONOist",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1fSGdtR0l6eDlrV1N5TW1Na2E1ZHFqN1FNSkJMaEV5TUR5YnN5THF1TmJzUVAzOXZNdW9vS0tqNzZya0k1U1NhT1B5YTZ0Z3I4OURMT3dqc3JlbzMtcEFvMVRrUGpuOFFBQmZ2VTJtdw?oc=5",
         "publishedAt": "2026-11-05T22:00:00.000Z"
+      },
+      {
+        "time": "09:16",
+        "title": "CNC工作機械市場、2035年までの予測：航空宇宙分野の多軸精密加工需要が成長を牽引",
+        "source": "IndexBox",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPMmd1dDNCclp5cWY3TjVNRXVVRGd5bUhnaWR5ZUlpTVppVzF6S1BYR2N6VUJTWmE2U1I2QlYwZTVQdm5CZmdjSEhTUUhXb1k1R2t4M1c2QzZtT1ZUMGZDVG1PVThFLXAtVGRwSklCVHBRendqcmdWT3ktYU5KQkNRdmJKSS1xUF9RVlFSMGNnb3FnYmtDU0JBX01uZFpMZ2tKU1NoYkRWeFlWRERUYWdkS29rdlM5TElMTlJ2SEIzc2RqRTgwRERGN3UxcHVVeVpRQXhQOXA2MG4yMEtiS3BLT2tR?oc=5",
+        "publishedAt": "2026-11-06T00:16:04.000Z"
       },
       {
         "time": "05:00",
@@ -31,6 +38,13 @@
         "publishedAt": "2026-11-05T10:55:46.000Z"
       },
       {
+        "time": "10:45",
+        "title": "【設備保全DX】食品工場Week 2026に次世代設備保全クラウド「M2X」ブースを出展",
+        "source": "Infoseek",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE82VG9pR2tTX0Z0WXZ3dGEwOG55V09zNjUyaTI1dkdYNDZPYjdaREZZakpzTTdTWXYxeGZ3Q1FTeTlsc2ZQcVZKTDc3VXdLX0ZaWXk4bmFKbzczZFA5cWE4bGdRUU1jR0hLM1N5cFZyYVAzUQ?oc=5",
+        "publishedAt": "2026-11-05T01:45:25.000Z"
+      },
+      {
         "time": "20:26",
         "title": "カミナシが提供するAIエージェント機能で設備保全の効率化を実現する未来",
         "source": "ニュースメディアVOIX",
@@ -38,25 +52,11 @@
         "publishedAt": "2026-11-05T11:26:14.000Z"
       },
       {
-        "time": "10:45",
-        "title": "【設備保全DX】食品工場Week 2026に次世代設備保全クラウド「M2X」ブースを出展",
-        "source": "Excite エキサイト",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5ybkhjOEprazhJa1FKQWM2NUpaaHczd2dhS1ByV0ptVEN1Y2F2TFBCQTBxTGRISG1FczVMN0REUGxIQUhVMzB6aEgxYzYySG9TTlNwZk1QM1Jic1lGdWRCSXNmbHRxSGsxQkR0T2lrY1dMLWNyWEE?oc=5",
-        "publishedAt": "2026-11-05T01:45:00.000Z"
-      },
-      {
         "time": "20:00",
         "title": "日工会がまとめた「IMTS2026」は、AI関連や航空宇宙向け、自動化提案も活発！",
         "source": "製造現場ドットコム",
         "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE4wSFVJVVU5NUFZRmlTSjhTNFhETUtZdHJ4UnNOTjNVMTA0cHQ1NVRVdjZFcTBMcjZTdGJBaU9PQk01a0hRZU1SMkZR?oc=5",
         "publishedAt": "2026-11-05T11:00:23.000Z"
-      },
-      {
-        "time": "05:00",
-        "title": "浦安鉄鋼団地協組、9月景況感「横ばい」70社に増加",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9aN21ZQS1YbnlXdkdEZ3lDZEtOb3hXUjI4ZlgtS1pIcTFYWWs2SDQ3U20wLWxGQVIzUzgxWDBhQ2VtdDYxQXJGbkl1ZFdvMS1zVFFCaUFITjg?oc=5",
-        "publishedAt": "2026-11-05T20:00:00.000Z"
       }
     ],
     "worldHeadlines": [
