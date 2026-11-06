@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T19:08:42.460Z",
+  "updatedAt": "2026-11-06T19:35:10.023Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,18 +17,18 @@
         "publishedAt": "2026-11-06T01:30:00.000Z"
       },
       {
-        "time": "05:00",
-        "title": "横浜電子、制御盤×協働ロボ強化 本社工場を移転拡張",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE92VzZDbTVhUXJpM2tRMkt4b0F6aFhkdlZCaXVyTjU2dC1BNDNxZXBySHVlTjAwQVQ5d2tYeTZwQW40aldUeGFnSTNrQlh0V19hNDFqaVFqcEU?oc=5",
-        "publishedAt": "2026-11-05T20:00:00.000Z"
-      },
-      {
         "time": "09:16",
         "title": "CNC工作機械市場、2035年までの予測：航空宇宙分野の多軸精密加工需要が成長を牽引",
         "source": "IndexBox",
         "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPMmd1dDNCclp5cWY3TjVNRXVVRGd5bUhnaWR5ZUlpTVppVzF6S1BYR2N6VUJTWmE2U1I2QlYwZTVQdm5CZmdjSEhTUUhXb1k1R2t4M1c2QzZtT1ZUMGZDVG1PVThFLXAtVGRwSklCVHBRendqcmdWT3ktYU5KQkNRdmJKSS1xUF9RVlFSMGNnb3FnYmtDU0JBX01uZFpMZ2tKU1NoYkRWeFlWRERUYWdkS29rdlM5TElMTlJ2SEIzc2RqRTgwRERGN3UxcHVVeVpRQXhQOXA2MG4yMEtiS3BLT2tR?oc=5",
         "publishedAt": "2026-11-06T00:16:04.000Z"
+      },
+      {
+        "time": "05:00",
+        "title": "横浜電子、制御盤×協働ロボ強化 本社工場を移転拡張",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE92VzZDbTVhUXJpM2tRMkt4b0F6aFhkdlZCaXVyTjU2dC1BNDNxZXBySHVlTjAwQVQ5d2tYeTZwQW40aldUeGFnSTNrQlh0V19hNDFqaVFqcEU?oc=5",
+        "publishedAt": "2026-11-05T20:00:00.000Z"
       },
       {
         "time": "05:00",
@@ -52,11 +52,11 @@
         "publishedAt": "2026-11-06T05:45:00.000Z"
       },
       {
-        "time": "04:10",
-        "title": "『カミナシ 設備保全』、保全データをAIが分析し予防保全の計画まで提案するAIエージェント機能を先行提供",
-        "source": "RBB TODAY",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1OMkoyRWNkZVpfQWtWN2hZOTlLVG5WakxvQjhXMHlHZVl5RG1KdHdzaWF1UWRBN1ZabGh3bjNpVkd4bXVDcFU4dVRWUTdvemNrZlhuWkxQcHZOZmdpcGVKN2wyd0cyNC1oejI5UFhSNUxhY2syaTRuZQ?oc=5",
-        "publishedAt": "2026-11-05T19:10:02.000Z"
+        "time": "07:00",
+        "title": "DMG森精機社長が目指す「止まらない工作機械」 無人化で残る「人の仕事」とは：FAインタビュー",
+        "source": "MONOist",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1fSGdtR0l6eDlrV1N5TW1Na2E1ZHFqN1FNSkJMaEV5TUR5YnN5THF1TmJzUVAzOXZNdW9vS0tqNzZya0k1U1NhT1B5YTZ0Z3I4OURMT3dqc3JlbzMtcEFvMVRrUGpuOFFBQmZ2VTJtdw?oc=5",
+        "publishedAt": "2026-11-05T22:00:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -112,6 +112,13 @@
         "publishedAt": "2026-11-06T15:03:11.000Z"
       },
       {
+        "time": "21:19",
+        "title": "信金のシステム障害 すべて復旧",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6601571?source=rss",
+        "publishedAt": "2026-11-06T12:19:34.000Z"
+      },
+      {
         "time": "17:41",
         "title": "中間選挙ショック 世界で株安連鎖",
         "source": "Yahoo!ニュース",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601548?source=rss",
         "publishedAt": "2026-11-06T09:02:07.000Z"
-      },
-      {
-        "time": "21:13",
-        "title": "外国人留学生 日本で就職望む理由",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601570?source=rss",
-        "publishedAt": "2026-11-06T12:13:47.000Z"
       }
     ],
     "localHeadlines": [
