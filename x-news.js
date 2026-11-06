@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-06T23:09:01.306Z",
+  "updatedAt": "2026-11-06T23:35:10.620Z",
   "items": [
     {
-      "time": "00:03",
-      "title": "米10月雇用16.5万人増 予想上回る",
+      "time": "08:10",
+      "title": "高市首相「中国は重要な隣国」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601587?source=rss",
-      "publishedAt": "2026-11-06T15:03:11.000Z",
-      "xQuery": "米10月雇用16.5万人増 予想上回る"
+      "url": "https://news.yahoo.co.jp/pickup/6601599?source=rss",
+      "publishedAt": "2026-11-06T23:10:00.000Z",
+      "xQuery": "高市首相「中国は重要な隣国」"
     },
     {
       "time": "07:35",
