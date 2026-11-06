@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-06T11:10:08.303Z",
+  "updatedAt": "2026-11-06T11:35:00.231Z",
   "items": [
+    {
+      "time": "20:16",
+      "title": "サイバー防御 緊急対策まとめる",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601563?source=rss",
+      "publishedAt": "2026-11-06T11:16:55.000Z",
+      "xQuery": "サイバー防御 緊急対策まとめる"
+    },
     {
       "time": "19:04",
       "title": "信金で大規模障害 ATMなど復旧",
@@ -8,22 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6601562?source=rss",
       "publishedAt": "2026-11-06T10:04:24.000Z",
       "xQuery": "信金で大規模障害 ATMなど復旧"
-    },
-    {
-      "time": "17:41",
-      "title": "中間選挙ショック 世界で株安連鎖",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601546?source=rss",
-      "publishedAt": "2026-11-06T08:41:22.000Z",
-      "xQuery": "中間選挙ショック 世界で株安連鎖"
-    },
-    {
-      "time": "19:57",
-      "title": "海外で過労死 遺族ら厚労省に要請",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601564?source=rss",
-      "publishedAt": "2026-11-06T10:57:20.000Z",
-      "xQuery": "海外で過労死 遺族ら厚労省に要請"
     },
     {
       "time": "18:02",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6601557?source=rss",
       "publishedAt": "2026-11-06T09:52:37.000Z",
       "xQuery": "「ウポポイ」認知度27.5% 内閣府"
+    },
+    {
+      "time": "17:57",
+      "title": "国内最後の飼育 キンシコウが死ぬ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601550?source=rss",
+      "publishedAt": "2026-11-06T08:57:04.000Z",
+      "xQuery": "国内最後の飼育 キンシコウが死ぬ"
     }
   ]
 };
