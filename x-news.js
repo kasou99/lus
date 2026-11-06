@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-06T01:39:10.786Z",
+  "updatedAt": "2026-11-06T02:16:15.173Z",
   "items": [
     {
       "time": "08:49",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "ルビオ長官 辞任検討の報道否定"
     },
     {
-      "time": "08:22",
-      "title": "経産省 中部電力に業務改善命令",
+      "time": "08:53",
+      "title": "9月の実質賃金 9カ月連続プラス",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601489?source=rss",
-      "publishedAt": "2026-11-05T23:22:48.000Z",
-      "xQuery": "経産省 中部電力に業務改善命令"
+      "url": "https://news.yahoo.co.jp/pickup/6601493?source=rss",
+      "publishedAt": "2026-11-05T23:53:08.000Z",
+      "xQuery": "9月の実質賃金 9カ月連続プラス"
     },
     {
       "time": "08:27",

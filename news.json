@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T01:39:09.649Z",
+  "updatedAt": "2026-11-06T02:16:14.626Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -24,6 +24,13 @@
         "publishedAt": "2026-11-05T20:00:00.000Z"
       },
       {
+        "time": "10:30",
+        "title": "DMG森精機社長が目指す止まらない工作機械／トヨタは中国市場で反転攻勢なるか",
+        "source": "MONOist",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5uaXVHbEpqTXpEblZKSUp1RVM0aktCTmw4QjhFa3A2WUU4cUNoWUQxSG1aRGxWZGF2QlRqTDk0M3V4XzVEZmZsU1EwM2x0Ym1zekJneHBtWFYyRnJVS3hrSDJQSG1wVG50RmtCNzduMA?oc=5",
+        "publishedAt": "2026-11-06T01:30:00.000Z"
+      },
+      {
         "time": "04:10",
         "title": "『カミナシ 設備保全』、保全データをAIが分析し予防保全の計画まで提案するAIエージェント機能を先行提供",
         "source": "RBB TODAY",
@@ -38,13 +45,6 @@
         "publishedAt": "2026-11-05T10:55:46.000Z"
       },
       {
-        "time": "10:45",
-        "title": "【設備保全DX】食品工場Week 2026に次世代設備保全クラウド「M2X」ブースを出展",
-        "source": "Infoseek",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE82VG9pR2tTX0Z0WXZ3dGEwOG55V09zNjUyaTI1dkdYNDZPYjdaREZZakpzTTdTWXYxeGZ3Q1FTeTlsc2ZQcVZKTDc3VXdLX0ZaWXk4bmFKbzczZFA5cWE4bGdRUU1jR0hLM1N5cFZyYVAzUQ?oc=5",
-        "publishedAt": "2026-11-05T01:45:25.000Z"
-      },
-      {
         "time": "20:26",
         "title": "カミナシが提供するAIエージェント機能で設備保全の効率化を実現する未来",
         "source": "ニュースメディアVOIX",
@@ -52,11 +52,11 @@
         "publishedAt": "2026-11-05T11:26:14.000Z"
       },
       {
-        "time": "20:00",
-        "title": "日工会がまとめた「IMTS2026」は、AI関連や航空宇宙向け、自動化提案も活発！",
-        "source": "製造現場ドットコム",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE4wSFVJVVU5NUFZRmlTSjhTNFhETUtZdHJ4UnNOTjNVMTA0cHQ1NVRVdjZFcTBMcjZTdGJBaU9PQk01a0hRZU1SMkZR?oc=5",
-        "publishedAt": "2026-11-05T11:00:23.000Z"
+        "time": "05:00",
+        "title": "浦安鉄鋼団地協組、9月景況感「横ばい」70社に増加",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9aN21ZQS1YbnlXdkdEZ3lDZEtOb3hXUjI4ZlgtS1pIcTFYWWs2SDQ3U20wLWxGQVIzUzgxWDBhQ2VtdDYxQXJGbkl1ZFdvMS1zVFFCaUFITjg?oc=5",
+        "publishedAt": "2026-11-05T20:00:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -133,18 +133,18 @@
         "publishedAt": "2026-11-05T23:53:08.000Z"
       },
       {
-        "time": "07:41",
-        "title": "プルデンシャル報告書に低評価",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601484?source=rss",
-        "publishedAt": "2026-11-05T22:41:47.000Z"
-      },
-      {
         "time": "22:52",
         "title": "日本製紙 八代工場の紙生産断念へ",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601473?source=rss",
         "publishedAt": "2026-11-05T13:52:04.000Z"
+      },
+      {
+        "time": "07:52",
+        "title": "コロナ融資 918億円が回収困難に",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6601485?source=rss",
+        "publishedAt": "2026-11-05T22:52:02.000Z"
       }
     ],
     "localHeadlines": [
