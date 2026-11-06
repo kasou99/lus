@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-06T06:20:11.872Z",
+  "updatedAt": "2026-11-06T06:39:59.198Z",
   "items": [
     {
       "time": "15:17",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "85万円寄付 武部農相返金する考え"
     },
     {
-      "time": "13:34",
-      "title": "日経平均急落 予断許さないと首相",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601520?source=rss",
-      "publishedAt": "2026-11-06T04:34:07.000Z",
-      "xQuery": "日経平均急落 予断許さないと首相"
-    },
-    {
       "time": "13:01",
       "title": "米株式急落 時価総額395兆円消失",
       "source": "Yahoo!ニュース",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6601527?source=rss",
       "publishedAt": "2026-11-06T05:42:37.000Z",
       "xQuery": "道で突然暴行疑い 女性7人被害か"
+    },
+    {
+      "time": "13:40",
+      "title": "解体現場で10人搬送 CO中毒か",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601522?source=rss",
+      "publishedAt": "2026-11-06T04:40:01.000Z",
+      "xQuery": "解体現場で10人搬送 CO中毒か"
     }
   ]
 };
