@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-06T10:11:30.377Z",
+  "updatedAt": "2026-11-06T10:35:48.308Z",
   "items": [
     {
       "time": "19:04",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "中間選挙ショック 世界で株安連鎖"
     },
     {
-      "time": "17:23",
-      "title": "総務省 漏えい巡りドコモ行政指導",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601543?source=rss",
-      "publishedAt": "2026-11-06T08:23:34.000Z",
-      "xQuery": "総務省 漏えい巡りドコモ行政指導"
-    },
-    {
       "time": "16:53",
       "title": "石破前首相ら減税法案の採決退席",
       "source": "Yahoo!ニュース",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6601548?source=rss",
       "publishedAt": "2026-11-06T09:02:07.000Z",
       "xQuery": "破産手続き中の全東信 社長が死去"
+    },
+    {
+      "time": "18:52",
+      "title": "「ウポポイ」認知度27.5% 内閣府",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601557?source=rss",
+      "publishedAt": "2026-11-06T09:52:37.000Z",
+      "xQuery": "「ウポポイ」認知度27.5% 内閣府"
     }
   ]
 };
