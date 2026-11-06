@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-11-06T22:35:16.149Z",
+  "updatedAt": "2026-11-06T23:09:00.515Z",
   "groups": {
     "machineHeadlines": [
-      {
-        "time": "16:36",
-        "title": "三菱電機、フィジカルAIでヒューマノイドとCNC工作機械が連携する加工システムを開発。省人化に貢献",
-        "source": "AIsmiley",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1jZ096eUN4X1RwSXFTbzZ5UU9TckRRa214S0RNdGRwRG5Xckg2X2x4UVNZaUp0MFh5V3ZrTlVaWEtrRk52WGpFOVFKRnBhMTItNURrWUp5eS1kME9hbkxqN3pnZkhyTW0waHdTRnU0SDI?oc=5",
-        "publishedAt": "2026-11-06T07:36:19.000Z"
-      },
       {
         "time": "05:56",
         "title": "日本サーボモータードライブの主要メーカーと競争環境",
         "source": "pando.life",
         "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBVRE40OEgxaG9oUmRwRkFHTW9BZURvTFRwRXVyTXJERG9QZF90X1k5Q3pwN2pnQzZ5ZlJUZnhsYVpCeVFoMkV5VVRR?oc=5",
         "publishedAt": "2026-11-06T20:56:22.000Z"
+      },
+      {
+        "time": "16:36",
+        "title": "三菱電機、フィジカルAIでヒューマノイドとCNC工作機械が連携する加工システムを開発。省人化に貢献",
+        "source": "AIsmiley",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1jZ096eUN4X1RwSXFTbzZ5UU9TckRRa214S0RNdGRwRG5Xckg2X2x4UVNZaUp0MFh5V3ZrTlVaWEtrRk52WGpFOVFKRnBhMTItNURrWUp5eS1kME9hbkxqN3pnZkhyTW0waHdTRnU0SDI?oc=5",
+        "publishedAt": "2026-11-06T07:36:19.000Z"
       },
       {
         "time": "10:30",
@@ -61,6 +61,13 @@
     ],
     "worldHeadlines": [
       {
+        "time": "07:35",
+        "title": "米大統領首席補佐官 ミラー氏昇格",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6601592?source=rss",
+        "publishedAt": "2026-11-06T22:35:39.000Z"
+      },
+      {
         "time": "21:09",
         "title": "MAGA連合に亀裂生じる CNN調査",
         "source": "Yahoo!ニュース",
@@ -75,20 +82,6 @@
         "publishedAt": "2026-11-06T08:04:31.000Z"
       },
       {
-        "time": "08:49",
-        "title": "ルビオ長官 辞任検討の報道否定",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601491?source=rss",
-        "publishedAt": "2026-11-05T23:49:50.000Z"
-      },
-      {
-        "time": "21:57",
-        "title": "露 JT資産を同国企業の管理下に",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601467?source=rss",
-        "publishedAt": "2026-11-05T12:57:53.000Z"
-      },
-      {
         "time": "18:19",
         "title": "米国版凱旋門 ⁠着工一時差し止め",
         "source": "Yahoo!ニュース",
@@ -101,6 +94,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601498?source=rss",
         "publishedAt": "2026-11-06T01:04:37.000Z"
+      },
+      {
+        "time": "19:11",
+        "title": "欧州で爆破予告 20便以上に影響",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6601561?source=rss",
+        "publishedAt": "2026-11-06T10:11:11.000Z"
       }
     ],
     "economyHeadlines": [
@@ -149,11 +149,11 @@
     ],
     "localHeadlines": [
       {
-        "time": "16:28",
-        "title": "連続強盗 実行役2人無期懲役判決",
+        "time": "23:32",
+        "title": "4月の戦車暴発 砲弾残留物原因か",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601534?source=rss",
-        "publishedAt": "2026-11-06T07:28:34.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6601586?source=rss",
+        "publishedAt": "2026-11-06T14:32:06.000Z"
       },
       {
         "time": "23:17",
@@ -177,11 +177,11 @@
         "publishedAt": "2026-11-06T05:42:37.000Z"
       },
       {
-        "time": "23:32",
-        "title": "4月の戦車暴発 砲弾残留物原因か",
+        "time": "07:50",
+        "title": "「警察が幅寄せ」警官に反則切符",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601586?source=rss",
-        "publishedAt": "2026-11-06T14:32:06.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6601594?source=rss",
+        "publishedAt": "2026-11-06T22:50:42.000Z"
       },
       {
         "time": "14:49",

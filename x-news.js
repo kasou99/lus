@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-06T22:35:17.279Z",
+  "updatedAt": "2026-11-06T23:09:01.306Z",
   "items": [
     {
       "time": "00:03",
@@ -10,36 +10,36 @@ window.LUS_X_NEWS = {
       "xQuery": "米10月雇用16.5万人増 予想上回る"
     },
     {
-      "time": "21:06",
-      "title": "石破氏ら採決退席 首相言及控える",
+      "time": "07:35",
+      "title": "米大統領首席補佐官 ミラー氏昇格",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601568?source=rss",
-      "publishedAt": "2026-11-06T12:06:05.000Z",
-      "xQuery": "石破氏ら採決退席 首相言及控える"
+      "url": "https://news.yahoo.co.jp/pickup/6601592?source=rss",
+      "publishedAt": "2026-11-06T22:35:39.000Z",
+      "xQuery": "米大統領首席補佐官 ミラー氏昇格"
     },
     {
-      "time": "20:35",
-      "title": "ドコモ 流出の対象者に見舞金検討",
+      "time": "07:52",
+      "title": "メーガン妃父 ポルノ所持疑い逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601566?source=rss",
-      "publishedAt": "2026-11-06T11:35:39.000Z",
-      "xQuery": "ドコモ 流出の対象者に見舞金検討"
+      "url": "https://news.yahoo.co.jp/pickup/6601596?source=rss",
+      "publishedAt": "2026-11-06T22:52:35.000Z",
+      "xQuery": "メーガン妃父 ポルノ所持疑い逮捕"
     },
     {
-      "time": "22:44",
-      "title": "KDDI社長 決算会見で2つのおわび",
+      "time": "07:50",
+      "title": "「警察が幅寄せ」警官に反則切符",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601580?source=rss",
-      "publishedAt": "2026-11-06T13:44:06.000Z",
-      "xQuery": "KDDI社長 決算会見で2つのおわび"
+      "url": "https://news.yahoo.co.jp/pickup/6601594?source=rss",
+      "publishedAt": "2026-11-06T22:50:42.000Z",
+      "xQuery": "「警察が幅寄せ」警官に反則切符"
     },
     {
-      "time": "23:17",
-      "title": "池袋女性刺殺 容疑者死亡で不起訴",
+      "time": "00:43",
+      "title": "RIZEボーカル JESSE容疑者逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601583?source=rss",
-      "publishedAt": "2026-11-06T14:17:53.000Z",
-      "xQuery": "池袋女性刺殺 容疑者死亡で不起訴"
+      "url": "https://news.yahoo.co.jp/pickup/6601588?source=rss",
+      "publishedAt": "2026-11-06T15:43:59.000Z",
+      "xQuery": "RIZEボーカル JESSE容疑者逮捕"
     }
   ]
 };
