@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-11-06T08:15:01.850Z",
+  "updatedAt": "2026-11-06T08:35:26.148Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "16:36",
+        "title": "三菱電機、フィジカルAIでヒューマノイドとCNC工作機械が連携する加工システムを開発。省人化に貢献",
+        "source": "AIsmiley",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1jZ096eUN4X1RwSXFTbzZ5UU9TckRRa214S0RNdGRwRG5Xckg2X2x4UVNZaUp0MFh5V3ZrTlVaWEtrRk52WGpFOVFKRnBhMTItNURrWUp5eS1kME9hbkxqN3pnZkhyTW0waHdTRnU0SDI?oc=5",
+        "publishedAt": "2026-11-06T07:36:19.000Z"
+      },
       {
         "time": "07:00",
         "title": "DMG森精機社長が目指す「止まらない工作機械」 無人化で残る「人の仕事」とは：FAインタビュー",
@@ -50,13 +57,6 @@
         "source": "アットプレス",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE54bXdRWl9RWFJNRTE2al91TGhJMFhNQ2tFamJ6bDQ5b283U243cTluM2lfbDVsMDRRanc2VGJvX2hyNlF6Qk9TblE1Q1RxUlE?oc=5",
         "publishedAt": "2026-11-06T04:00:00.000Z"
-      },
-      {
-        "time": "19:55",
-        "title": "ブラザー、名古屋大と開発した「びびり振動」の診断機能を工作機械3機種に搭載",
-        "source": "FabScene",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTTRQLWx5aWROZVptcHphNDlDaUREMTNhRVVJa0ZUcDVxM2ItSnRSY0pmbEpNbXYtZjBqc05OQ0lWQ2ZLWUluQUxzUEhVUUZMMkpaVTEyUVRlOF9oNEo1UlVFY05CaVNUYkJfcFgzWlM1ZnJPMTJ4RG5UNjAtMnBfakNsdXFYVUEzSjRFazJrWHZaeWdaNU5N0gGcAUFVX3lxTFA5T2Z0ZkQ1WE1PdEhKQ1l5TVI2ek96V09YMFdFVnhTaFNYVUFjei1uTE9mSWo4VVBETWhFLWtBUGVDRVZVNVRpcEhlNE1WU3BoOXJSTDRqZXVQZDlCTDl0OVNmOGdmZzF3Z2dqWGRvcml2cmtScGlQM2hPUG9RVE5VTFRYUW1iWVFkeTFfbjFTV2VIQng5ZVdUTFRHdw?oc=5",
-        "publishedAt": "2026-11-05T10:55:46.000Z"
       }
     ],
     "worldHeadlines": [
@@ -133,18 +133,18 @@
         "publishedAt": "2026-11-05T22:52:02.000Z"
       },
       {
+        "time": "17:23",
+        "title": "総務省 漏えい巡りドコモ行政指導",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6601543?source=rss",
+        "publishedAt": "2026-11-06T08:23:34.000Z"
+      },
+      {
         "time": "11:49",
         "title": "ピザーラ Dr.STONEコラボで謝罪",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601507?source=rss",
         "publishedAt": "2026-11-06T02:49:07.000Z"
-      },
-      {
-        "time": "13:47",
-        "title": "外食 東南アジア進出を加速する訳",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601515?source=rss",
-        "publishedAt": "2026-11-06T04:47:13.000Z"
       }
     ],
     "localHeadlines": [

@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-06T08:15:02.578Z",
+  "updatedAt": "2026-11-06T08:35:26.805Z",
   "items": [
     {
       "time": "15:53",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "日経平均終値 過去3番目の下げ幅"
     },
     {
-      "time": "16:28",
-      "title": "連続強盗 実行役2人無期懲役判決",
+      "time": "17:23",
+      "title": "総務省 漏えい巡りドコモ行政指導",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601534?source=rss",
-      "publishedAt": "2026-11-06T07:28:34.000Z",
-      "xQuery": "連続強盗 実行役2人無期懲役判決"
+      "url": "https://news.yahoo.co.jp/pickup/6601543?source=rss",
+      "publishedAt": "2026-11-06T08:23:34.000Z",
+      "xQuery": "総務省 漏えい巡りドコモ行政指導"
     },
     {
       "time": "16:53",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "128の信用金庫でシステム障害"
     },
     {
-      "time": "14:42",
-      "title": "道で突然暴行疑い 女性7人被害か",
+      "time": "14:49",
+      "title": "余命宣告後2200万円拾い横領 実刑",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601527?source=rss",
-      "publishedAt": "2026-11-06T05:42:37.000Z",
-      "xQuery": "道で突然暴行疑い 女性7人被害か"
+      "url": "https://news.yahoo.co.jp/pickup/6601530?source=rss",
+      "publishedAt": "2026-11-06T05:49:05.000Z",
+      "xQuery": "余命宣告後2200万円拾い横領 実刑"
     }
   ]
 };
