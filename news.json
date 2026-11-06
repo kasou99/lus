@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T06:39:58.095Z",
+  "updatedAt": "2026-11-06T07:12:06.964Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -105,6 +105,13 @@
     ],
     "economyHeadlines": [
       {
+        "time": "15:53",
+        "title": "日経平均終値 過去3番目の下げ幅",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6601533?source=rss",
+        "publishedAt": "2026-11-06T06:53:25.000Z"
+      },
+      {
         "time": "15:17",
         "title": "128の信用金庫でシステム障害",
         "source": "Yahoo!ニュース",
@@ -117,13 +124,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601489?source=rss",
         "publishedAt": "2026-11-05T23:22:48.000Z"
-      },
-      {
-        "time": "09:32",
-        "title": "日経平均 一時4000円以上値下がり",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601497?source=rss",
-        "publishedAt": "2026-11-06T00:32:15.000Z"
       },
       {
         "time": "13:01",

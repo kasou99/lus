@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-06T06:39:59.198Z",
+  "updatedAt": "2026-11-06T07:12:07.898Z",
   "items": [
+    {
+      "time": "15:53",
+      "title": "日経平均終値 過去3番目の下げ幅",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601533?source=rss",
+      "publishedAt": "2026-11-06T06:53:25.000Z",
+      "xQuery": "日経平均終値 過去3番目の下げ幅"
+    },
     {
       "time": "15:17",
       "title": "128の信用金庫でシステム障害",
@@ -16,14 +24,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6601526?source=rss",
       "publishedAt": "2026-11-06T05:18:28.000Z",
       "xQuery": "85万円寄付 武部農相返金する考え"
-    },
-    {
-      "time": "13:01",
-      "title": "米株式急落 時価総額395兆円消失",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601518?source=rss",
-      "publishedAt": "2026-11-06T04:01:00.000Z",
-      "xQuery": "米株式急落 時価総額395兆円消失"
     },
     {
       "time": "14:42",
