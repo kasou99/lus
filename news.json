@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T18:35:24.773Z",
+  "updatedAt": "2026-11-06T19:08:42.460Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -112,13 +112,6 @@
         "publishedAt": "2026-11-06T15:03:11.000Z"
       },
       {
-        "time": "21:19",
-        "title": "信金のシステム障害 すべて復旧",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601571?source=rss",
-        "publishedAt": "2026-11-06T12:19:34.000Z"
-      },
-      {
         "time": "17:41",
         "title": "中間選挙ショック 世界で株安連鎖",
         "source": "Yahoo!ニュース",
@@ -145,6 +138,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601548?source=rss",
         "publishedAt": "2026-11-06T09:02:07.000Z"
+      },
+      {
+        "time": "21:13",
+        "title": "外国人留学生 日本で就職望む理由",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6601570?source=rss",
+        "publishedAt": "2026-11-06T12:13:47.000Z"
       }
     ],
     "localHeadlines": [
