@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-06T11:35:00.231Z",
+  "updatedAt": "2026-11-06T12:16:40.538Z",
   "items": [
     {
       "time": "20:16",
@@ -10,12 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "サイバー防御 緊急対策まとめる"
     },
     {
-      "time": "19:04",
-      "title": "信金で大規模障害 ATMなど復旧",
+      "time": "21:06",
+      "title": "石破氏ら採決退席 首相言及控える",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601562?source=rss",
-      "publishedAt": "2026-11-06T10:04:24.000Z",
-      "xQuery": "信金で大規模障害 ATMなど復旧"
+      "url": "https://news.yahoo.co.jp/pickup/6601568?source=rss",
+      "publishedAt": "2026-11-06T12:06:05.000Z",
+      "xQuery": "石破氏ら採決退席 首相言及控える"
+    },
+    {
+      "time": "21:09",
+      "title": "MAGA連合に亀裂生じる CNN調査",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601569?source=rss",
+      "publishedAt": "2026-11-06T12:09:10.000Z",
+      "xQuery": "MAGA連合に亀裂生じる CNN調査"
     },
     {
       "time": "18:02",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "破産手続き中の全東信 社長が死去"
     },
     {
-      "time": "18:52",
-      "title": "「ウポポイ」認知度27.5% 内閣府",
+      "time": "20:35",
+      "title": "ドコモ 流出の対象者に見舞金検討",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601557?source=rss",
-      "publishedAt": "2026-11-06T09:52:37.000Z",
-      "xQuery": "「ウポポイ」認知度27.5% 内閣府"
-    },
-    {
-      "time": "17:57",
-      "title": "国内最後の飼育 キンシコウが死ぬ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601550?source=rss",
-      "publishedAt": "2026-11-06T08:57:04.000Z",
-      "xQuery": "国内最後の飼育 キンシコウが死ぬ"
+      "url": "https://news.yahoo.co.jp/pickup/6601566?source=rss",
+      "publishedAt": "2026-11-06T11:35:39.000Z",
+      "xQuery": "ドコモ 流出の対象者に見舞金検討"
     }
   ]
 };
