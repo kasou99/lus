@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T14:12:14.471Z",
+  "updatedAt": "2026-11-06T14:35:45.459Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -156,18 +156,18 @@
         "publishedAt": "2026-11-06T07:28:34.000Z"
       },
       {
+        "time": "23:17",
+        "title": "池袋女性刺殺 容疑者死亡で不起訴",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6601583?source=rss",
+        "publishedAt": "2026-11-06T14:17:53.000Z"
+      },
+      {
         "time": "22:27",
         "title": "被害訴える元検事 検察は上意下達",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601578?source=rss",
         "publishedAt": "2026-11-06T13:27:44.000Z"
-      },
-      {
-        "time": "13:53",
-        "title": "職失う覚悟で性的暴行訴え 元検事",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601523?source=rss",
-        "publishedAt": "2026-11-06T04:53:15.000Z"
       },
       {
         "time": "14:42",
@@ -177,18 +177,18 @@
         "publishedAt": "2026-11-06T05:42:37.000Z"
       },
       {
+        "time": "23:32",
+        "title": "4月の戦車暴発 砲弾残留物原因か",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6601586?source=rss",
+        "publishedAt": "2026-11-06T14:32:06.000Z"
+      },
+      {
         "time": "22:59",
         "title": "ひき逃げ事件再捜査へ 遺族の思い",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601582?source=rss",
         "publishedAt": "2026-11-06T13:59:51.000Z"
-      },
-      {
-        "time": "21:36",
-        "title": "検察が求刑言い間違え やり直しへ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601574?source=rss",
-        "publishedAt": "2026-11-06T12:36:46.000Z"
       }
     ],
     "subsidyHeadlines": [

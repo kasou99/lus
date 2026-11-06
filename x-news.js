@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-06T14:12:15.238Z",
+  "updatedAt": "2026-11-06T14:35:46.818Z",
   "items": [
     {
       "time": "21:06",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "被害訴える元検事 検察は上意下達"
     },
     {
-      "time": "21:13",
-      "title": "外国人留学生 日本で就職望む理由",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601570?source=rss",
-      "publishedAt": "2026-11-06T12:13:47.000Z",
-      "xQuery": "外国人留学生 日本で就職望む理由"
-    },
-    {
       "time": "20:35",
       "title": "ドコモ 流出の対象者に見舞金検討",
       "source": "Yahoo!ニュース",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6601580?source=rss",
       "publishedAt": "2026-11-06T13:44:06.000Z",
       "xQuery": "KDDI社長 決算会見で2つのおわび"
+    },
+    {
+      "time": "23:17",
+      "title": "池袋女性刺殺 容疑者死亡で不起訴",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601583?source=rss",
+      "publishedAt": "2026-11-06T14:17:53.000Z",
+      "xQuery": "池袋女性刺殺 容疑者死亡で不起訴"
     }
   ]
 };
