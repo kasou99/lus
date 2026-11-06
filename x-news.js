@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-06T13:35:52.915Z",
+  "updatedAt": "2026-11-06T14:12:15.238Z",
   "items": [
     {
       "time": "21:06",
@@ -10,22 +10,6 @@ window.LUS_X_NEWS = {
       "xQuery": "石破氏ら採決退席 首相言及控える"
     },
     {
-      "time": "21:09",
-      "title": "MAGA連合に亀裂生じる CNN調査",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601569?source=rss",
-      "publishedAt": "2026-11-06T12:09:10.000Z",
-      "xQuery": "MAGA連合に亀裂生じる CNN調査"
-    },
-    {
-      "time": "18:19",
-      "title": "米国版凱旋門 ⁠着工一時差し止め",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601556?source=rss",
-      "publishedAt": "2026-11-06T09:19:48.000Z",
-      "xQuery": "米国版凱旋門 ⁠着工一時差し止め"
-    },
-    {
       "time": "22:27",
       "title": "被害訴える元検事 検察は上意下達",
       "source": "Yahoo!ニュース",
@@ -34,12 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "被害訴える元検事 検察は上意下達"
     },
     {
-      "time": "21:50",
-      "title": "全国に広がる「被害者手帳」とは",
+      "time": "21:13",
+      "title": "外国人留学生 日本で就職望む理由",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601573?source=rss",
-      "publishedAt": "2026-11-06T12:50:08.000Z",
-      "xQuery": "全国に広がる「被害者手帳」とは"
+      "url": "https://news.yahoo.co.jp/pickup/6601570?source=rss",
+      "publishedAt": "2026-11-06T12:13:47.000Z",
+      "xQuery": "外国人留学生 日本で就職望む理由"
+    },
+    {
+      "time": "20:35",
+      "title": "ドコモ 流出の対象者に見舞金検討",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601566?source=rss",
+      "publishedAt": "2026-11-06T11:35:39.000Z",
+      "xQuery": "ドコモ 流出の対象者に見舞金検討"
+    },
+    {
+      "time": "22:44",
+      "title": "KDDI社長 決算会見で2つのおわび",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601580?source=rss",
+      "publishedAt": "2026-11-06T13:44:06.000Z",
+      "xQuery": "KDDI社長 決算会見で2つのおわび"
     }
   ]
 };

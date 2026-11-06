@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T13:35:51.958Z",
+  "updatedAt": "2026-11-06T14:12:14.471Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -126,18 +126,18 @@
         "publishedAt": "2026-11-06T06:53:25.000Z"
       },
       {
-        "time": "08:22",
-        "title": "経産省 中部電力に業務改善命令",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601489?source=rss",
-        "publishedAt": "2026-11-05T23:22:48.000Z"
-      },
-      {
         "time": "17:23",
         "title": "総務省 漏えい巡りドコモ行政指導",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601543?source=rss",
         "publishedAt": "2026-11-06T08:23:34.000Z"
+      },
+      {
+        "time": "22:44",
+        "title": "KDDI社長 決算会見で2つのおわび",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6601580?source=rss",
+        "publishedAt": "2026-11-06T13:44:06.000Z"
       },
       {
         "time": "18:02",
@@ -177,18 +177,18 @@
         "publishedAt": "2026-11-06T05:42:37.000Z"
       },
       {
+        "time": "22:59",
+        "title": "ひき逃げ事件再捜査へ 遺族の思い",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6601582?source=rss",
+        "publishedAt": "2026-11-06T13:59:51.000Z"
+      },
+      {
         "time": "21:36",
         "title": "検察が求刑言い間違え やり直しへ",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601574?source=rss",
         "publishedAt": "2026-11-06T12:36:46.000Z"
-      },
-      {
-        "time": "14:49",
-        "title": "余命宣告後2200万円拾い横領 実刑",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601530?source=rss",
-        "publishedAt": "2026-11-06T05:49:05.000Z"
       }
     ],
     "subsidyHeadlines": [
