@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-06T08:35:26.805Z",
+  "updatedAt": "2026-11-06T09:13:02.554Z",
   "items": [
     {
-      "time": "15:53",
-      "title": "日経平均終値 過去3番目の下げ幅",
+      "time": "17:41",
+      "title": "中間選挙ショック 世界で株安連鎖",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601533?source=rss",
-      "publishedAt": "2026-11-06T06:53:25.000Z",
-      "xQuery": "日経平均終値 過去3番目の下げ幅"
+      "url": "https://news.yahoo.co.jp/pickup/6601546?source=rss",
+      "publishedAt": "2026-11-06T08:41:22.000Z",
+      "xQuery": "中間選挙ショック 世界で株安連鎖"
     },
     {
       "time": "17:23",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "石破前首相ら減税法案の採決退席"
     },
     {
-      "time": "15:17",
-      "title": "128の信用金庫でシステム障害",
+      "time": "18:02",
+      "title": "破産手続き中の全東信 社長が死去",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601532?source=rss",
-      "publishedAt": "2026-11-06T06:17:01.000Z",
-      "xQuery": "128の信用金庫でシステム障害"
+      "url": "https://news.yahoo.co.jp/pickup/6601548?source=rss",
+      "publishedAt": "2026-11-06T09:02:07.000Z",
+      "xQuery": "破産手続き中の全東信 社長が死去"
     },
     {
       "time": "14:49",

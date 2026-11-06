@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T08:35:26.148Z",
+  "updatedAt": "2026-11-06T09:13:01.658Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -15,6 +15,13 @@
         "source": "MONOist",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1fSGdtR0l6eDlrV1N5TW1Na2E1ZHFqN1FNSkJMaEV5TUR5YnN5THF1TmJzUVAzOXZNdW9vS0tqNzZya0k1U1NhT1B5YTZ0Z3I4OURMT3dqc3JlbzMtcEFvMVRrUGpuOFFBQmZ2VTJtdw?oc=5",
         "publishedAt": "2026-11-05T22:00:00.000Z"
+      },
+      {
+        "time": "05:00",
+        "title": "横浜電子、制御盤×協働ロボ強化 本社工場を移転拡張",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE92VzZDbTVhUXJpM2tRMkt4b0F6aFhkdlZCaXVyTjU2dC1BNDNxZXBySHVlTjAwQVQ5d2tYeTZwQW40aldUeGFnSTNrQlh0V19hNDFqaVFqcEU?oc=5",
+        "publishedAt": "2026-11-05T20:00:00.000Z"
       },
       {
         "time": "09:16",
@@ -50,13 +57,6 @@
         "source": "RBB TODAY",
         "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1OMkoyRWNkZVpfQWtWN2hZOTlLVG5WakxvQjhXMHlHZVl5RG1KdHdzaWF1UWRBN1ZabGh3bjNpVkd4bXVDcFU4dVRWUTdvemNrZlhuWkxQcHZOZmdpcGVKN2wyd0cyNC1oejI5UFhSNUxhY2syaTRuZQ?oc=5",
         "publishedAt": "2026-11-05T19:10:02.000Z"
-      },
-      {
-        "time": "13:00",
-        "title": "CNCスイス型旋盤の世界市場（2026年～2032年）、市場規模（小型スイス型CNC旋盤、中型スイス型CNC旋盤、大型スイス型CNC旋盤）・分析レポートを発表",
-        "source": "アットプレス",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE54bXdRWl9RWFJNRTE2al91TGhJMFhNQ2tFamJ6bDQ5b283U243cTluM2lfbDVsMDRRanc2VGJvX2hyNlF6Qk9TblE1Q1RxUlE?oc=5",
-        "publishedAt": "2026-11-06T04:00:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -105,6 +105,13 @@
     ],
     "economyHeadlines": [
       {
+        "time": "17:41",
+        "title": "中間選挙ショック 世界で株安連鎖",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6601546?source=rss",
+        "publishedAt": "2026-11-06T08:41:22.000Z"
+      },
+      {
         "time": "15:53",
         "title": "日経平均終値 過去3番目の下げ幅",
         "source": "Yahoo!ニュース",
@@ -126,13 +133,6 @@
         "publishedAt": "2026-11-05T23:22:48.000Z"
       },
       {
-        "time": "07:52",
-        "title": "コロナ融資 918億円が回収困難に",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601485?source=rss",
-        "publishedAt": "2026-11-05T22:52:02.000Z"
-      },
-      {
         "time": "17:23",
         "title": "総務省 漏えい巡りドコモ行政指導",
         "source": "Yahoo!ニュース",
@@ -140,11 +140,11 @@
         "publishedAt": "2026-11-06T08:23:34.000Z"
       },
       {
-        "time": "11:49",
-        "title": "ピザーラ Dr.STONEコラボで謝罪",
+        "time": "18:02",
+        "title": "破産手続き中の全東信 社長が死去",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601507?source=rss",
-        "publishedAt": "2026-11-06T02:49:07.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6601548?source=rss",
+        "publishedAt": "2026-11-06T09:02:07.000Z"
       }
     ],
     "localHeadlines": [
