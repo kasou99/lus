@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T14:35:45.459Z",
+  "updatedAt": "2026-11-06T15:11:12.181Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -24,18 +24,18 @@
         "publishedAt": "2026-11-05T20:00:00.000Z"
       },
       {
-        "time": "09:16",
-        "title": "CNC工作機械市場、2035年までの予測：航空宇宙分野の多軸精密加工需要が成長を牽引",
-        "source": "IndexBox",
-        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPMmd1dDNCclp5cWY3TjVNRXVVRGd5bUhnaWR5ZUlpTVppVzF6S1BYR2N6VUJTWmE2U1I2QlYwZTVQdm5CZmdjSEhTUUhXb1k1R2t4M1c2QzZtT1ZUMGZDVG1PVThFLXAtVGRwSklCVHBRendqcmdWT3ktYU5KQkNRdmJKSS1xUF9RVlFSMGNnb3FnYmtDU0JBX01uZFpMZ2tKU1NoYkRWeFlWRERUYWdkS29rdlM5TElMTlJ2SEIzc2RqRTgwRERGN3UxcHVVeVpRQXhQOXA2MG4yMEtiS3BLT2tR?oc=5",
-        "publishedAt": "2026-11-06T00:16:04.000Z"
-      },
-      {
         "time": "05:00",
         "title": "新機構の減速機、同軸ローラーカム 歳差運動でロボット精度を工作機械級に",
         "source": "日経クロステック",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE53NDJ3VDBwS1RNclE4OHBXSjNFTHlCc1dmbV9vOTd4OTNoM0pCNXNqOW9XSXYwNlZQS3VXeE9vc3R5NkNVWk5Wc0JkZTBKd2s5YkFIdU0yOEZMbWFrN21rdWEySjdoN1lnb3NNQg?oc=5",
         "publishedAt": "2026-11-05T20:00:00.000Z"
+      },
+      {
+        "time": "09:16",
+        "title": "CNC工作機械市場、2035年までの予測：航空宇宙分野の多軸精密加工需要が成長を牽引",
+        "source": "IndexBox",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPMmd1dDNCclp5cWY3TjVNRXVVRGd5bUhnaWR5ZUlpTVppVzF6S1BYR2N6VUJTWmE2U1I2QlYwZTVQdm5CZmdjSEhTUUhXb1k1R2t4M1c2QzZtT1ZUMGZDVG1PVThFLXAtVGRwSklCVHBRendqcmdWT3ktYU5KQkNRdmJKSS1xUF9RVlFSMGNnb3FnYmtDU0JBX01uZFpMZ2tKU1NoYkRWeFlWRERUYWdkS29rdlM5TElMTlJ2SEIzc2RqRTgwRERGN3UxcHVVeVpRQXhQOXA2MG4yMEtiS3BLT2tR?oc=5",
+        "publishedAt": "2026-11-06T00:16:04.000Z"
       },
       {
         "time": "17:16",
@@ -105,6 +105,13 @@
     ],
     "economyHeadlines": [
       {
+        "time": "00:03",
+        "title": "米10月雇用16.5万人増 予想上回る",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6601587?source=rss",
+        "publishedAt": "2026-11-06T15:03:11.000Z"
+      },
+      {
         "time": "21:19",
         "title": "信金のシステム障害 すべて復旧",
         "source": "Yahoo!ニュース",
@@ -117,13 +124,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601546?source=rss",
         "publishedAt": "2026-11-06T08:41:22.000Z"
-      },
-      {
-        "time": "15:53",
-        "title": "日経平均終値 過去3番目の下げ幅",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601533?source=rss",
-        "publishedAt": "2026-11-06T06:53:25.000Z"
       },
       {
         "time": "17:23",

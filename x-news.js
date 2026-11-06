@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-06T14:35:46.818Z",
+  "updatedAt": "2026-11-06T15:11:13.172Z",
   "items": [
+    {
+      "time": "00:03",
+      "title": "米10月雇用16.5万人増 予想上回る",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601587?source=rss",
+      "publishedAt": "2026-11-06T15:03:11.000Z",
+      "xQuery": "米10月雇用16.5万人増 予想上回る"
+    },
     {
       "time": "21:06",
       "title": "石破氏ら採決退席 首相言及控える",
@@ -8,14 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6601568?source=rss",
       "publishedAt": "2026-11-06T12:06:05.000Z",
       "xQuery": "石破氏ら採決退席 首相言及控える"
-    },
-    {
-      "time": "22:27",
-      "title": "被害訴える元検事 検察は上意下達",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601578?source=rss",
-      "publishedAt": "2026-11-06T13:27:44.000Z",
-      "xQuery": "被害訴える元検事 検察は上意下達"
     },
     {
       "time": "20:35",
