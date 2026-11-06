@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-06T09:13:02.554Z",
+  "updatedAt": "2026-11-06T09:35:38.731Z",
   "items": [
     {
       "time": "17:41",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "破産手続き中の全東信 社長が死去"
     },
     {
-      "time": "14:49",
-      "title": "余命宣告後2200万円拾い横領 実刑",
+      "time": "17:17",
+      "title": "無印良品のネットストア 一時停止",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601530?source=rss",
-      "publishedAt": "2026-11-06T05:49:05.000Z",
-      "xQuery": "余命宣告後2200万円拾い横領 実刑"
+      "url": "https://news.yahoo.co.jp/pickup/6601541?source=rss",
+      "publishedAt": "2026-11-06T08:17:25.000Z",
+      "xQuery": "無印良品のネットストア 一時停止"
     }
   ]
 };

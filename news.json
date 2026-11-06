@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T09:13:01.658Z",
+  "updatedAt": "2026-11-06T09:35:38.010Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,6 +38,13 @@
         "publishedAt": "2026-11-05T20:00:00.000Z"
       },
       {
+        "time": "17:16",
+        "title": "金属成形工作機械市場―2026年～2032年の世界市場予測",
+        "source": "アットプレス",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9SdHE3VHlZUkUxQ1M4dzA3VDhvVFk5X0pFdzZhUGJIM1R1aGc2WFJWWm91VXRfU1RId0tseTJyWU9vbkZRRFZGRTBzc0VEdmc?oc=5",
+        "publishedAt": "2026-11-06T08:16:00.000Z"
+      },
+      {
         "time": "14:45",
         "title": "その貯蔵品管理、Excelで続けますか？ アクロス、設備保全の「静的在庫」に特化した貯蔵品在庫管理クラウド「Mikura」を提供開始",
         "source": "Excite エキサイト",
@@ -50,23 +57,9 @@
         "source": "MONOist",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5uaXVHbEpqTXpEblZKSUp1RVM0aktCTmw4QjhFa3A2WUU4cUNoWUQxSG1aRGxWZGF2QlRqTDk0M3V4XzVEZmZsU1EwM2x0Ym1zekJneHBtWFYyRnJVS3hrSDJQSG1wVG50RmtCNzduMA?oc=5",
         "publishedAt": "2026-11-06T01:30:00.000Z"
-      },
-      {
-        "time": "04:10",
-        "title": "『カミナシ 設備保全』、保全データをAIが分析し予防保全の計画まで提案するAIエージェント機能を先行提供",
-        "source": "RBB TODAY",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1OMkoyRWNkZVpfQWtWN2hZOTlLVG5WakxvQjhXMHlHZVl5RG1KdHdzaWF1UWRBN1ZabGh3bjNpVkd4bXVDcFU4dVRWUTdvemNrZlhuWkxQcHZOZmdpcGVKN2wyd0cyNC1oejI5UFhSNUxhY2syaTRuZQ?oc=5",
-        "publishedAt": "2026-11-05T19:10:02.000Z"
       }
     ],
     "worldHeadlines": [
-      {
-        "time": "08:49",
-        "title": "ルビオ長官 辞任検討の報道否定",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601491?source=rss",
-        "publishedAt": "2026-11-05T23:49:50.000Z"
-      },
       {
         "time": "21:57",
         "title": "露 JT資産を同国企業の管理下に",
@@ -82,6 +75,13 @@
         "publishedAt": "2026-11-06T08:04:31.000Z"
       },
       {
+        "time": "08:49",
+        "title": "ルビオ長官 辞任検討の報道否定",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6601491?source=rss",
+        "publishedAt": "2026-11-05T23:49:50.000Z"
+      },
+      {
         "time": "17:01",
         "title": "米右派動揺「トランプ後」を模索",
         "source": "Yahoo!ニュース",
@@ -89,18 +89,18 @@
         "publishedAt": "2026-11-05T08:01:55.000Z"
       },
       {
-        "time": "15:33",
-        "title": "バンス氏 米大統領と距離置く姿勢",
+        "time": "18:19",
+        "title": "米国版凱旋門 ⁠着工一時差し止め",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601425?source=rss",
-        "publishedAt": "2026-11-05T06:33:22.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6601556?source=rss",
+        "publishedAt": "2026-11-06T09:19:48.000Z"
       },
       {
-        "time": "09:36",
-        "title": "パラグアイ大統領が辞任表明",
+        "time": "10:04",
+        "title": "米加州 死刑囚548人を終身刑に",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601496?source=rss",
-        "publishedAt": "2026-11-06T00:36:53.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6601498?source=rss",
+        "publishedAt": "2026-11-06T01:04:37.000Z"
       }
     ],
     "economyHeadlines": [
