@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T12:16:39.621Z",
+  "updatedAt": "2026-11-06T12:36:02.999Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -105,6 +105,13 @@
     ],
     "economyHeadlines": [
       {
+        "time": "21:19",
+        "title": "信金のシステム障害 すべて復旧",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6601571?source=rss",
+        "publishedAt": "2026-11-06T12:19:34.000Z"
+      },
+      {
         "time": "17:41",
         "title": "中間選挙ショック 世界で株安連鎖",
         "source": "Yahoo!ニュース",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601548?source=rss",
         "publishedAt": "2026-11-06T09:02:07.000Z"
-      },
-      {
-        "time": "21:13",
-        "title": "外国人留学生 日本で就職望む理由",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601570?source=rss",
-        "publishedAt": "2026-11-06T12:13:47.000Z"
       }
     ],
     "localHeadlines": [
@@ -170,13 +170,6 @@
         "publishedAt": "2026-11-05T21:56:52.000Z"
       },
       {
-        "time": "18:41",
-        "title": "10月就任の横浜市長が療養 過労か",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601452?source=rss",
-        "publishedAt": "2026-11-05T09:41:26.000Z"
-      },
-      {
         "time": "13:40",
         "title": "解体現場で10人搬送 CO中毒か",
         "source": "Yahoo!ニュース",
@@ -189,6 +182,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601527?source=rss",
         "publishedAt": "2026-11-06T05:42:37.000Z"
+      },
+      {
+        "time": "14:49",
+        "title": "余命宣告後2200万円拾い横領 実刑",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6601530?source=rss",
+        "publishedAt": "2026-11-06T05:49:05.000Z"
       }
     ],
     "subsidyHeadlines": [

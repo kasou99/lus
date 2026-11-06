@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-06T12:16:40.538Z",
+  "updatedAt": "2026-11-06T12:36:04.180Z",
   "items": [
+    {
+      "time": "21:19",
+      "title": "信金のシステム障害 すべて復旧",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601571?source=rss",
+      "publishedAt": "2026-11-06T12:19:34.000Z",
+      "xQuery": "信金のシステム障害 すべて復旧"
+    },
     {
       "time": "20:16",
       "title": "サイバー防御 緊急対策まとめる",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6601548?source=rss",
       "publishedAt": "2026-11-06T09:02:07.000Z",
       "xQuery": "破産手続き中の全東信 社長が死去"
-    },
-    {
-      "time": "20:35",
-      "title": "ドコモ 流出の対象者に見舞金検討",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601566?source=rss",
-      "publishedAt": "2026-11-06T11:35:39.000Z",
-      "xQuery": "ドコモ 流出の対象者に見舞金検討"
     }
   ]
 };
