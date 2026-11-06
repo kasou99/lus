@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-06T09:35:38.731Z",
+  "updatedAt": "2026-11-06T10:11:30.377Z",
   "items": [
+    {
+      "time": "19:04",
+      "title": "信金で大規模障害 ATMなど復旧",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601562?source=rss",
+      "publishedAt": "2026-11-06T10:04:24.000Z",
+      "xQuery": "信金で大規模障害 ATMなど復旧"
+    },
     {
       "time": "17:41",
       "title": "中間選挙ショック 世界で株安連鎖",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6601548?source=rss",
       "publishedAt": "2026-11-06T09:02:07.000Z",
       "xQuery": "破産手続き中の全東信 社長が死去"
-    },
-    {
-      "time": "17:17",
-      "title": "無印良品のネットストア 一時停止",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601541?source=rss",
-      "publishedAt": "2026-11-06T08:17:25.000Z",
-      "xQuery": "無印良品のネットストア 一時停止"
     }
   ]
 };
