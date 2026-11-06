@@ -1,22 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-06T12:36:04.180Z",
+  "updatedAt": "2026-11-06T13:11:14.241Z",
   "items": [
-    {
-      "time": "21:19",
-      "title": "信金のシステム障害 すべて復旧",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601571?source=rss",
-      "publishedAt": "2026-11-06T12:19:34.000Z",
-      "xQuery": "信金のシステム障害 すべて復旧"
-    },
-    {
-      "time": "20:16",
-      "title": "サイバー防御 緊急対策まとめる",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601563?source=rss",
-      "publishedAt": "2026-11-06T11:16:55.000Z",
-      "xQuery": "サイバー防御 緊急対策まとめる"
-    },
     {
       "time": "21:06",
       "title": "石破氏ら採決退席 首相言及控える",
@@ -34,12 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "MAGA連合に亀裂生じる CNN調査"
     },
     {
-      "time": "18:02",
-      "title": "破産手続き中の全東信 社長が死去",
+      "time": "21:50",
+      "title": "全国に広がる「被害者手帳」とは",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601548?source=rss",
-      "publishedAt": "2026-11-06T09:02:07.000Z",
-      "xQuery": "破産手続き中の全東信 社長が死去"
+      "url": "https://news.yahoo.co.jp/pickup/6601573?source=rss",
+      "publishedAt": "2026-11-06T12:50:08.000Z",
+      "xQuery": "全国に広がる「被害者手帳」とは"
+    },
+    {
+      "time": "20:35",
+      "title": "ドコモ 流出の対象者に見舞金検討",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601566?source=rss",
+      "publishedAt": "2026-11-06T11:35:39.000Z",
+      "xQuery": "ドコモ 流出の対象者に見舞金検討"
+    },
+    {
+      "time": "18:52",
+      "title": "「ウポポイ」認知度27.5% 内閣府",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601557?source=rss",
+      "publishedAt": "2026-11-06T09:52:37.000Z",
+      "xQuery": "「ウポポイ」認知度27.5% 内閣府"
     }
   ]
 };

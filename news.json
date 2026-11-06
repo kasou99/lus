@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T12:36:02.999Z",
+  "updatedAt": "2026-11-06T13:11:13.215Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -163,13 +163,6 @@
         "publishedAt": "2026-11-06T04:53:15.000Z"
       },
       {
-        "time": "06:56",
-        "title": "山梨ダルク代表 1.1億円私的流用",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601479?source=rss",
-        "publishedAt": "2026-11-05T21:56:52.000Z"
-      },
-      {
         "time": "13:40",
         "title": "解体現場で10人搬送 CO中毒か",
         "source": "Yahoo!ニュース",
@@ -182,6 +175,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601527?source=rss",
         "publishedAt": "2026-11-06T05:42:37.000Z"
+      },
+      {
+        "time": "21:36",
+        "title": "検察が求刑言い間違え やり直しへ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6601574?source=rss",
+        "publishedAt": "2026-11-06T12:36:46.000Z"
       },
       {
         "time": "14:49",
