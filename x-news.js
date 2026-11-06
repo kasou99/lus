@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-06T07:12:07.898Z",
+  "updatedAt": "2026-11-06T07:35:56.875Z",
   "items": [
     {
       "time": "15:53",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "128の信用金庫でシステム障害"
     },
     {
-      "time": "14:18",
-      "title": "85万円寄付 武部農相返金する考え",
+      "time": "16:28",
+      "title": "連続強盗 実行役2人無期懲役判決",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601526?source=rss",
-      "publishedAt": "2026-11-06T05:18:28.000Z",
-      "xQuery": "85万円寄付 武部農相返金する考え"
+      "url": "https://news.yahoo.co.jp/pickup/6601534?source=rss",
+      "publishedAt": "2026-11-06T07:28:34.000Z",
+      "xQuery": "連続強盗 実行役2人無期懲役判決"
     },
     {
       "time": "14:42",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "道で突然暴行疑い 女性7人被害か"
     },
     {
-      "time": "13:40",
-      "title": "解体現場で10人搬送 CO中毒か",
+      "time": "16:28",
+      "title": "覆面市議 議会での着用認められる",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601522?source=rss",
-      "publishedAt": "2026-11-06T04:40:01.000Z",
-      "xQuery": "解体現場で10人搬送 CO中毒か"
+      "url": "https://news.yahoo.co.jp/pickup/6601536?source=rss",
+      "publishedAt": "2026-11-06T07:28:34.000Z",
+      "xQuery": "覆面市議 議会での着用認められる"
     }
   ]
 };
