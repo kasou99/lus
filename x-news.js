@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-06T02:16:15.173Z",
+  "updatedAt": "2026-11-06T02:36:02.309Z",
   "items": [
     {
       "time": "08:49",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "ルビオ長官 辞任検討の報道否定"
     },
     {
+      "time": "09:59",
+      "title": "取り調べ拒否24年以降158件 調査",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601499?source=rss",
+      "publishedAt": "2026-11-06T00:59:55.000Z",
+      "xQuery": "取り調べ拒否24年以降158件 調査"
+    },
+    {
       "time": "08:53",
       "title": "9月の実質賃金 9カ月連続プラス",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6601493?source=rss",
       "publishedAt": "2026-11-05T23:53:08.000Z",
       "xQuery": "9月の実質賃金 9カ月連続プラス"
-    },
-    {
-      "time": "08:27",
-      "title": "サイバー攻撃で強制遮断検討 政府",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601490?source=rss",
-      "publishedAt": "2026-11-05T23:27:17.000Z",
-      "xQuery": "サイバー攻撃で強制遮断検討 政府"
     },
     {
       "time": "09:32",
