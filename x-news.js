@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-06T03:13:34.459Z",
+  "updatedAt": "2026-11-06T03:36:16.155Z",
   "items": [
     {
       "time": "11:53",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "財務相 JT資産管理巡り露に抗議"
     },
     {
-      "time": "11:30",
-      "title": "サイバー対策強化に100億円 政府",
+      "time": "12:08",
+      "title": "支援金対象は現役の3割以上 首相",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601505?source=rss",
-      "publishedAt": "2026-11-06T02:30:25.000Z",
-      "xQuery": "サイバー対策強化に100億円 政府"
+      "url": "https://news.yahoo.co.jp/pickup/6601510?source=rss",
+      "publishedAt": "2026-11-06T03:08:30.000Z",
+      "xQuery": "支援金対象は現役の3割以上 首相"
     },
     {
-      "time": "09:32",
-      "title": "日経平均 一時4000円以上値下がり",
+      "time": "07:52",
+      "title": "コロナ融資 918億円が回収困難に",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601497?source=rss",
-      "publishedAt": "2026-11-06T00:32:15.000Z",
-      "xQuery": "日経平均 一時4000円以上値下がり"
+      "url": "https://news.yahoo.co.jp/pickup/6601485?source=rss",
+      "publishedAt": "2026-11-05T22:52:02.000Z",
+      "xQuery": "コロナ融資 918億円が回収困難に"
     },
     {
       "time": "11:32",
