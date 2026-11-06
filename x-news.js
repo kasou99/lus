@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-06T05:11:57.960Z",
+  "updatedAt": "2026-11-06T05:36:15.019Z",
   "items": [
     {
       "time": "14:04",
@@ -10,20 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "消費税減税法案 衆院本会議で可決"
     },
     {
-      "time": "12:08",
-      "title": "支援金対象は現役の3割以上 首相",
+      "time": "14:18",
+      "title": "85万円寄付 武部農相返金する考え",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601510?source=rss",
-      "publishedAt": "2026-11-06T03:08:30.000Z",
-      "xQuery": "支援金対象は現役の3割以上 首相"
-    },
-    {
-      "time": "12:06",
-      "title": "台湾市場一時9%急落 下げ幅最大",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601512?source=rss",
-      "publishedAt": "2026-11-06T03:06:17.000Z",
-      "xQuery": "台湾市場一時9%急落 下げ幅最大"
+      "url": "https://news.yahoo.co.jp/pickup/6601526?source=rss",
+      "publishedAt": "2026-11-06T05:18:28.000Z",
+      "xQuery": "85万円寄付 武部農相返金する考え"
     },
     {
       "time": "13:34",
@@ -32,6 +24,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6601520?source=rss",
       "publishedAt": "2026-11-06T04:34:07.000Z",
       "xQuery": "日経平均急落 予断許さないと首相"
+    },
+    {
+      "time": "13:01",
+      "title": "米株式急落 時価総額395兆円消失",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601518?source=rss",
+      "publishedAt": "2026-11-06T04:01:00.000Z",
+      "xQuery": "米株式急落 時価総額395兆円消失"
     },
     {
       "time": "13:53",
