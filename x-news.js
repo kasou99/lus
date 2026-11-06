@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-05T23:35:13.921Z",
+  "updatedAt": "2026-11-06T00:30:44.855Z",
   "items": [
+    {
+      "time": "09:17",
+      "title": "日経平均が大幅下落 6万円割れ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601495?source=rss",
+      "publishedAt": "2026-11-06T00:17:16.000Z",
+      "xQuery": "日経平均が大幅下落 6万円割れ"
+    },
     {
       "time": "08:22",
       "title": "経産省 中部電力に業務改善命令",
@@ -10,20 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "経産省 中部電力に業務改善命令"
     },
     {
-      "time": "07:30",
-      "title": "東北沖で「ひずみ」蓄積再開 研究",
+      "time": "08:27",
+      "title": "サイバー攻撃で強制遮断検討 政府",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601481?source=rss",
-      "publishedAt": "2026-11-05T22:30:52.000Z",
-      "xQuery": "東北沖で「ひずみ」蓄積再開 研究"
-    },
-    {
-      "time": "06:25",
-      "title": "NYダウ急落 一時1800ドル超安",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601477?source=rss",
-      "publishedAt": "2026-11-05T21:25:57.000Z",
-      "xQuery": "NYダウ急落 一時1800ドル超安"
+      "url": "https://news.yahoo.co.jp/pickup/6601490?source=rss",
+      "publishedAt": "2026-11-05T23:27:17.000Z",
+      "xQuery": "サイバー攻撃で強制遮断検討 政府"
     },
     {
       "time": "07:25",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "ドコモ通信障害が復旧 原因を公表"
     },
     {
-      "time": "06:56",
-      "title": "山梨ダルク代表 1.1億円私的流用",
+      "time": "08:36",
+      "title": "大阪で物議「排除アート」問題は",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601479?source=rss",
-      "publishedAt": "2026-11-05T21:56:52.000Z",
-      "xQuery": "山梨ダルク代表 1.1億円私的流用"
+      "url": "https://news.yahoo.co.jp/pickup/6601488?source=rss",
+      "publishedAt": "2026-11-05T23:36:37.000Z",
+      "xQuery": "大阪で物議「排除アート」問題は"
     }
   ]
 };

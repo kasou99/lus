@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T23:35:13.020Z",
+  "updatedAt": "2026-11-06T00:30:44.039Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,18 +31,18 @@
         "publishedAt": "2026-11-05T10:55:46.000Z"
       },
       {
-        "time": "09:00",
-        "title": "【設備保全DX】食品工場Week 2026に次世代設備保全クラウド「M2X」ブースを出展",
-        "source": "PR TIMES",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBBNzg2N2dvbS1paTRxb0pBaUpjMENlRS1NbGNFaWJyM1RKYWxCZkViVGpuOWtGc3BveDczZ1J5UVczdDdCOE1iTXRHVjFoUHBucVh3VFBhTmh1dlBMTk1VSlREbWxrUHVTTUE?oc=5",
-        "publishedAt": "2026-11-05T00:00:01.000Z"
-      },
-      {
         "time": "20:26",
         "title": "カミナシが提供するAIエージェント機能で設備保全の効率化を実現する未来",
         "source": "ニュースメディアVOIX",
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFByT2lBNWhxQWlfYmFBWnU0WGhFS2dhU0VLSTRaWndVWC1wZnFWZVQ2NGUyTVJkN0R5MUZCT0VMdTNlVE5LYVlLbklKLUVKd2VfeldBY2Y3WFI2OTlHVzNTTXdReEpibGIt?oc=5",
         "publishedAt": "2026-11-05T11:26:14.000Z"
+      },
+      {
+        "time": "10:45",
+        "title": "【設備保全DX】食品工場Week 2026に次世代設備保全クラウド「M2X」ブースを出展",
+        "source": "Excite エキサイト",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5ybkhjOEprazhJa1FKQWM2NUpaaHczd2dhS1ByV0ptVEN1Y2F2TFBCQTBxTGRISG1FczVMN0REUGxIQUhVMzB6aEgxYzYySG9TTlNwZk1QM1Jic1lGdWRCSXNmbHRxSGsxQkR0T2lrY1dMLWNyWEE?oc=5",
+        "publishedAt": "2026-11-05T01:45:00.000Z"
       },
       {
         "time": "20:00",
@@ -61,11 +61,11 @@
     ],
     "worldHeadlines": [
       {
-        "time": "06:04",
-        "title": "ルビオ国務長官が辞任検討か 報道",
+        "time": "08:49",
+        "title": "ルビオ長官 辞任検討の報道否定",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601475?source=rss",
-        "publishedAt": "2026-11-05T21:04:46.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6601491?source=rss",
+        "publishedAt": "2026-11-05T23:49:50.000Z"
       },
       {
         "time": "21:57",
@@ -105,6 +105,13 @@
     ],
     "economyHeadlines": [
       {
+        "time": "09:17",
+        "title": "日経平均が大幅下落 6万円割れ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6601495?source=rss",
+        "publishedAt": "2026-11-06T00:17:16.000Z"
+      },
+      {
         "time": "08:22",
         "title": "経産省 中部電力に業務改善命令",
         "source": "Yahoo!ニュース",
@@ -119,6 +126,13 @@
         "publishedAt": "2026-11-05T21:25:57.000Z"
       },
       {
+        "time": "08:53",
+        "title": "9月の実質賃金 9カ月連続プラス",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6601493?source=rss",
+        "publishedAt": "2026-11-05T23:53:08.000Z"
+      },
+      {
         "time": "07:41",
         "title": "プルデンシャル報告書に低評価",
         "source": "Yahoo!ニュース",
@@ -131,20 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601473?source=rss",
         "publishedAt": "2026-11-05T13:52:04.000Z"
-      },
-      {
-        "time": "07:52",
-        "title": "コロナ融資 918億円が回収困難に",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601485?source=rss",
-        "publishedAt": "2026-11-05T22:52:02.000Z"
-      },
-      {
-        "time": "22:20",
-        "title": "内外出版社が事業停止 破産申請へ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601468?source=rss",
-        "publishedAt": "2026-11-05T13:20:50.000Z"
       }
     ],
     "localHeadlines": [
@@ -184,11 +184,11 @@
         "publishedAt": "2026-11-05T07:38:16.000Z"
       },
       {
-        "time": "17:21",
-        "title": "改姓巡り婚約解消 訴えた女性敗訴",
+        "time": "08:36",
+        "title": "大阪で物議「排除アート」問題は",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601441?source=rss",
-        "publishedAt": "2026-11-05T08:21:21.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6601488?source=rss",
+        "publishedAt": "2026-11-05T23:36:37.000Z"
       }
     ],
     "subsidyHeadlines": [
