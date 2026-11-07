@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-07T15:34:59.911Z",
+  "updatedAt": "2026-11-07T16:10:55.457Z",
   "items": [
+    {
+      "time": "01:08",
+      "title": "地震情報",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595430?source=rss",
+      "publishedAt": "2026-11-07T16:08:21.000Z",
+      "xQuery": "地震情報"
+    },
     {
       "time": "23:18",
       "title": "米中間選挙 共和党大敗の舞台裏",
@@ -16,14 +24,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6601718?source=rss",
       "publishedAt": "2026-11-07T14:37:04.000Z",
       "xQuery": "大阪維新の会「吉村体制」3期目に"
-    },
-    {
-      "time": "22:06",
-      "title": "「継戦能力」強化を明記 政府検討",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601705?source=rss",
-      "publishedAt": "2026-11-07T13:06:01.000Z",
-      "xQuery": "「継戦能力」強化を明記 政府検討"
     },
     {
       "time": "22:13",
