@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-07T12:14:24.888Z",
+  "updatedAt": "2026-11-07T12:35:03.591Z",
   "items": [
     {
       "time": "19:03",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "中国拘束の邦人 満期服役で出所へ"
     },
     {
-      "time": "20:02",
-      "title": "親子3人が乗る漁船 転落の2人死亡",
+      "time": "21:10",
+      "title": "ダイビング中の70代女性 行方不明",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601686?source=rss",
-      "publishedAt": "2026-11-07T11:02:48.000Z",
-      "xQuery": "親子3人が乗る漁船 転落の2人死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6601693?source=rss",
+      "publishedAt": "2026-11-07T12:10:47.000Z",
+      "xQuery": "ダイビング中の70代女性 行方不明"
     },
     {
       "time": "16:52",

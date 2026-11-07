@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T12:14:24.131Z",
+  "updatedAt": "2026-11-07T12:35:01.737Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "21:32",
+        "title": "女性を監禁疑い 供述後に遺体発見",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6601700?source=rss",
+        "publishedAt": "2026-11-07T12:32:34.000Z"
+      },
+      {
         "time": "21:10",
         "title": "ダイビング中の70代女性 行方不明",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601689?source=rss",
         "publishedAt": "2026-11-07T11:35:24.000Z"
-      },
-      {
-        "time": "08:53",
-        "title": "迷惑行為ショウリンジ 7歳も補導",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601602?source=rss",
-        "publishedAt": "2026-11-06T23:53:35.000Z"
       }
     ],
     "subsidyHeadlines": [
