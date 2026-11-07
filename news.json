@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T20:09:42.606Z",
+  "updatedAt": "2026-11-07T20:35:11.842Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,6 +38,13 @@
         "publishedAt": "2026-11-07T02:26:00.000Z"
       },
       {
+        "time": "19:53",
+        "title": "【ひと・交差点】三成興業の渡辺大輔社長 よろず支援拠点の優良事例で表彰",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAtTmN0MU4wOTdRN2RPTjkwZGFCaVdHZWFrRENUNkJ5cmtaT29laDNWdklNU3R4MVctSURGemJ5dV9mNmVBZ3YxME50UXNXbmxuYlE?oc=5",
+        "publishedAt": "2026-11-07T10:53:29.000Z"
+      },
+      {
         "time": "14:18",
         "title": "英国の新顔\"Samurai 220H\"は何が凄い？ 機械設計者が冷静に読み解く | しぶちょー技術研究所",
         "source": "Howl.Link",
@@ -50,13 +57,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601633?source=rss",
         "publishedAt": "2026-11-07T04:31:21.000Z"
-      },
-      {
-        "time": "09:59",
-        "title": "テスラ サイバートラック生産縮小",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601614?source=rss",
-        "publishedAt": "2026-11-07T00:59:00.000Z"
       }
     ],
     "worldHeadlines": [
