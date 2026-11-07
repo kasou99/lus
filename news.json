@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T11:34:55.770Z",
+  "updatedAt": "2026-11-07T12:14:24.131Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -82,13 +82,6 @@
         "publishedAt": "2026-11-07T04:34:08.000Z"
       },
       {
-        "time": "08:49",
-        "title": "米民主党 AI規制法案を多数提出へ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601606?source=rss",
-        "publishedAt": "2026-11-06T23:49:22.000Z"
-      },
-      {
         "time": "18:29",
         "title": "ソマリア海賊問題が再燃 今年15件",
         "source": "Yahoo!ニュース",
@@ -101,6 +94,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601663?source=rss",
         "publishedAt": "2026-11-07T07:57:28.000Z"
+      },
+      {
+        "time": "20:51",
+        "title": "中国拘束の邦人 満期服役で出所へ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6601692?source=rss",
+        "publishedAt": "2026-11-07T11:51:20.000Z"
       }
     ],
     "economyHeadlines": [
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "21:10",
+        "title": "ダイビング中の70代女性 行方不明",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6601693?source=rss",
+        "publishedAt": "2026-11-07T12:10:47.000Z"
+      },
+      {
         "time": "14:07",
         "title": "マンション建築現場で転落 死亡",
         "source": "Yahoo!ニュース",
@@ -170,25 +177,18 @@
         "publishedAt": "2026-11-07T11:02:48.000Z"
       },
       {
+        "time": "20:35",
+        "title": "百条委に選出の県議巡り波紋 福岡",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6601689?source=rss",
+        "publishedAt": "2026-11-07T11:35:24.000Z"
+      },
+      {
         "time": "08:53",
         "title": "迷惑行為ショウリンジ 7歳も補導",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601602?source=rss",
         "publishedAt": "2026-11-06T23:53:35.000Z"
-      },
-      {
-        "time": "07:50",
-        "title": "「警察が幅寄せ」警官に反則切符",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601594?source=rss",
-        "publishedAt": "2026-11-06T22:50:42.000Z"
-      },
-      {
-        "time": "17:27",
-        "title": "受験生困惑?県の図書館長期休館",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601668?source=rss",
-        "publishedAt": "2026-11-07T08:27:09.000Z"
       }
     ],
     "subsidyHeadlines": [

@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-07T11:34:56.354Z",
+  "updatedAt": "2026-11-07T12:14:24.888Z",
   "items": [
     {
       "time": "19:03",
@@ -10,12 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "8日朝 東京など冷え込み今季一番"
     },
     {
-      "time": "17:23",
-      "title": "自民 採決前退席の4氏に説明要求",
+      "time": "18:29",
+      "title": "ソマリア海賊問題が再燃 今年15件",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601664?source=rss",
-      "publishedAt": "2026-11-07T08:23:17.000Z",
-      "xQuery": "自民 採決前退席の4氏に説明要求"
+      "url": "https://news.yahoo.co.jp/pickup/6601675?source=rss",
+      "publishedAt": "2026-11-07T09:29:01.000Z",
+      "xQuery": "ソマリア海賊問題が再燃 今年15件"
+    },
+    {
+      "time": "20:51",
+      "title": "中国拘束の邦人 満期服役で出所へ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601692?source=rss",
+      "publishedAt": "2026-11-07T11:51:20.000Z",
+      "xQuery": "中国拘束の邦人 満期服役で出所へ"
     },
     {
       "time": "20:02",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6601661?source=rss",
       "publishedAt": "2026-11-07T07:52:34.000Z",
       "xQuery": "銭湯の混浴制限 悩む親たちの本音"
-    },
-    {
-      "time": "17:45",
-      "title": "ブッダボット 仏教界でAI活用模索",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601670?source=rss",
-      "publishedAt": "2026-11-07T08:45:09.000Z",
-      "xQuery": "ブッダボット 仏教界でAI活用模索"
     }
   ]
 };
