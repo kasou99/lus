@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-07T02:14:57.504Z",
+  "updatedAt": "2026-11-07T02:35:59.933Z",
   "items": [
     {
       "time": "10:39",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "強い寒気 北海道と東北は暴風警戒"
     },
     {
-      "time": "08:49",
-      "title": "米民主党 AI規制法案を多数提出へ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601606?source=rss",
-      "publishedAt": "2026-11-06T23:49:22.000Z",
-      "xQuery": "米民主党 AI規制法案を多数提出へ"
-    },
-    {
       "time": "09:22",
       "title": "岸田氏 国債NISAは慎重な検討必要",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6601610?source=rss",
       "publishedAt": "2026-11-07T00:22:31.000Z",
       "xQuery": "岸田氏 国債NISAは慎重な検討必要"
+    },
+    {
+      "time": "10:39",
+      "title": "子宮頸がん死50年に4割増 米大学",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601617?source=rss",
+      "publishedAt": "2026-11-07T01:39:39.000Z",
+      "xQuery": "子宮頸がん死50年に4割増 米大学"
     },
     {
       "time": "09:59",
