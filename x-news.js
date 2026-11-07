@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-07T08:13:33.661Z",
+  "updatedAt": "2026-11-07T08:35:30.171Z",
   "items": [
     {
       "time": "14:51",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "米首席補佐官交代 強硬路線進むか"
     },
     {
-      "time": "12:40",
-      "title": "英メーガン妃の父 訴追され出廷",
+      "time": "16:57",
+      "title": "中国の大学など 日本語学ぶ学生減",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601627?source=rss",
-      "publishedAt": "2026-11-07T03:40:41.000Z",
-      "xQuery": "英メーガン妃の父 訴追され出廷"
+      "url": "https://news.yahoo.co.jp/pickup/6601663?source=rss",
+      "publishedAt": "2026-11-07T07:57:28.000Z",
+      "xQuery": "中国の大学など 日本語学ぶ学生減"
     },
     {
       "time": "15:34",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "女性船長の廃業巡り 市長が謝罪"
     },
     {
+      "time": "17:08",
+      "title": "障害者と性 問題提起の投稿真意",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601665?source=rss",
+      "publishedAt": "2026-11-07T08:08:36.000Z",
+      "xQuery": "障害者と性 問題提起の投稿真意"
+    },
+    {
       "time": "16:19",
       "title": "購買力高い大学生 なぜ存在する",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6601656?source=rss",
       "publishedAt": "2026-11-07T07:19:38.000Z",
       "xQuery": "購買力高い大学生 なぜ存在する"
-    },
-    {
-      "time": "14:27",
-      "title": "ラットもおいしいと鳴く? 研究",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601642?source=rss",
-      "publishedAt": "2026-11-07T05:27:58.000Z",
-      "xQuery": "ラットもおいしいと鳴く? 研究"
     }
   ]
 };
