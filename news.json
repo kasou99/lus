@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T04:35:48.821Z",
+  "updatedAt": "2026-11-07T05:10:13.219Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -149,10 +149,46 @@
     ],
     "localHeadlines": [
       {
-        "time": "確認",
-        "title": "福山市・広島岡山の製造業と地域経済ニュースを確認",
-        "source": "Googleニュース",
-        "url": "https://news.google.com/rss/search?q=%E7%A6%8F%E5%B1%B1%E5%B8%82%20%E5%BA%83%E5%B3%B6%20%E5%B2%A1%E5%B1%B1%20%E8%A3%BD%E9%80%A0%E6%A5%AD%20when%3A1d&hl=ja&gl=JP&ceid=JP:ja"
+        "time": "12:19",
+        "title": "海岸で漁船が座礁 2人心肺停止",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6601629?source=rss",
+        "publishedAt": "2026-11-07T03:19:25.000Z"
+      },
+      {
+        "time": "08:41",
+        "title": "寂しい 地震被災で工場の復旧断念",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6601601?source=rss",
+        "publishedAt": "2026-11-06T23:41:06.000Z"
+      },
+      {
+        "time": "14:07",
+        "title": "マンション建築現場で転落 死亡",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6601640?source=rss",
+        "publishedAt": "2026-11-07T05:07:53.000Z"
+      },
+      {
+        "time": "10:58",
+        "title": "故障車修理中 車突っ込み1人死亡",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6601623?source=rss",
+        "publishedAt": "2026-11-07T01:58:54.000Z"
+      },
+      {
+        "time": "08:32",
+        "title": "アパートの住人刺され死亡 男逮捕",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6601598?source=rss",
+        "publishedAt": "2026-11-06T23:32:52.000Z"
+      },
+      {
+        "time": "08:53",
+        "title": "迷惑行為ショウリンジ 7歳も補導",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6601602?source=rss",
+        "publishedAt": "2026-11-06T23:53:35.000Z"
       }
     ],
     "subsidyHeadlines": [

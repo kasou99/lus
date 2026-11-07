@@ -1,37 +1,37 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-07T04:35:50.099Z",
+  "updatedAt": "2026-11-07T05:10:14.275Z",
   "items": [
     {
-      "time": "12:19",
-      "title": "海岸で漁船が座礁 2人心肺停止",
+      "time": "09:44",
+      "title": "超党派議連 ICC赤根所長らを激励",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601629?source=rss",
-      "publishedAt": "2026-11-07T03:19:25.000Z",
-      "xQuery": "海岸で漁船が座礁 2人心肺停止"
+      "url": "https://news.yahoo.co.jp/pickup/6601612?source=rss",
+      "publishedAt": "2026-11-07T00:44:21.000Z",
+      "xQuery": "超党派議連 ICC赤根所長らを激励"
     },
     {
-      "time": "10:58",
-      "title": "欧州各地で爆破予告 報道機関にも",
+      "time": "11:55",
+      "title": "カルト指導者に禁錮200年 ケニア",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601622?source=rss",
-      "publishedAt": "2026-11-07T01:58:58.000Z",
-      "xQuery": "欧州各地で爆破予告 報道機関にも"
+      "url": "https://news.yahoo.co.jp/pickup/6601628?source=rss",
+      "publishedAt": "2026-11-07T02:55:01.000Z",
+      "xQuery": "カルト指導者に禁錮200年 ケニア"
     },
     {
-      "time": "10:58",
-      "title": "故障車修理中 車突っ込み1人死亡",
+      "time": "13:34",
+      "title": "露がJT資産管理 制裁緩和狙いか",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601623?source=rss",
-      "publishedAt": "2026-11-07T01:58:54.000Z",
-      "xQuery": "故障車修理中 車突っ込み1人死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6601634?source=rss",
+      "publishedAt": "2026-11-07T04:34:08.000Z",
+      "xQuery": "露がJT資産管理 制裁緩和狙いか"
     },
     {
-      "time": "10:45",
-      "title": "洗濯機やドライヤー「静音」続々",
+      "time": "13:31",
+      "title": "不正アクセス ゲーセンにも影響",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601619?source=rss",
-      "publishedAt": "2026-11-07T01:45:01.000Z",
-      "xQuery": "洗濯機やドライヤー「静音」続々"
+      "url": "https://news.yahoo.co.jp/pickup/6601633?source=rss",
+      "publishedAt": "2026-11-07T04:31:21.000Z",
+      "xQuery": "不正アクセス ゲーセンにも影響"
     },
     {
       "time": "11:37",
