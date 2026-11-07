@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-07T01:11:18.271Z",
+  "updatedAt": "2026-11-07T01:38:03.645Z",
   "items": [
     {
       "time": "08:49",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "米民主党 AI規制法案を多数提出へ"
     },
     {
-      "time": "08:41",
-      "title": "寂しい 地震被災で工場の復旧断念",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601601?source=rss",
-      "publishedAt": "2026-11-06T23:41:06.000Z",
-      "xQuery": "寂しい 地震被災で工場の復旧断念"
-    },
-    {
       "time": "09:24",
       "title": "中学生4割が外国人増否定的 調査",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6601609?source=rss",
       "publishedAt": "2026-11-07T00:24:44.000Z",
       "xQuery": "中学生4割が外国人増否定的 調査"
+    },
+    {
+      "time": "09:59",
+      "title": "テスラ サイバートラック生産縮小",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601614?source=rss",
+      "publishedAt": "2026-11-07T00:59:00.000Z",
+      "xQuery": "テスラ サイバートラック生産縮小"
     },
     {
       "time": "07:52",
