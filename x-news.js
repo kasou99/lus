@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-07T09:35:03.341Z",
+  "updatedAt": "2026-11-07T10:09:31.439Z",
   "items": [
     {
       "time": "17:23",
@@ -18,6 +18,14 @@ window.LUS_X_NEWS = {
       "xQuery": "中国の大学など 日本語学ぶ学生減"
     },
     {
+      "time": "18:54",
+      "title": "事故漁船に親子3人 転落し2人死亡",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601680?source=rss",
+      "publishedAt": "2026-11-07T09:54:38.000Z",
+      "xQuery": "事故漁船に親子3人 転落し2人死亡"
+    },
+    {
       "time": "17:08",
       "title": "障害者と性 問題提起の投稿真意",
       "source": "Yahoo!ニュース",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6601668?source=rss",
       "publishedAt": "2026-11-07T08:27:09.000Z",
       "xQuery": "受験生困惑?県の図書館長期休館"
-    },
-    {
-      "time": "18:01",
-      "title": "店主以外全員が認知症 愛知の食堂",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601672?source=rss",
-      "publishedAt": "2026-11-07T09:01:46.000Z",
-      "xQuery": "店主以外全員が認知症 愛知の食堂"
     }
   ]
 };

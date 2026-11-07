@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T09:35:02.739Z",
+  "updatedAt": "2026-11-07T10:09:30.411Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,18 +38,18 @@
         "publishedAt": "2026-11-06T16:15:25.000Z"
       },
       {
-        "time": "21:30",
-        "title": "その貯蔵品管理、Excelで続けますか？",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5pUTJiOVh2Y3lwQkpRQzdSOHkwdE9KZXR3RXQwUnNUbFVnMzBIWkdDazZTeGFEZlhrVnRLd0hPV1pRejVOVjNQUVNRQmNBSkc4M1NkZko1UnQ1aUhBNmN2QkhDOVVJSy1H?oc=5",
-        "publishedAt": "2026-11-06T12:30:23.000Z"
-      },
-      {
         "time": "22:15",
         "title": "「導入しても回らない」保全DXを動かす―設備管理BPaaS「MENTENAワークス」提供開始",
         "source": "ニコニコニュース",
         "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ub2h6WEVrRjlCUGlSQTVmZ1c2ZHR4UzdPbXd5ckZjOWNHQlEzdWRCaWxvaURabmZaSkczZllBYjFvaWhjQkVXaXNVY0taQ0JDVUszRA?oc=5",
         "publishedAt": "2026-11-06T13:15:18.000Z"
+      },
+      {
+        "time": "21:30",
+        "title": "その貯蔵品管理、Excelで続けますか？",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5pUTJiOVh2Y3lwQkpRQzdSOHkwdE9KZXR3RXQwUnNUbFVnMzBIWkdDazZTeGFEZlhrVnRLd0hPV1pRejVOVjNQUVNRQmNBSkc4M1NkZko1UnQ1aUhBNmN2QkhDOVVJSy1H?oc=5",
+        "publishedAt": "2026-11-06T12:30:23.000Z"
       },
       {
         "time": "11:26",
@@ -163,6 +163,13 @@
         "publishedAt": "2026-11-07T01:58:54.000Z"
       },
       {
+        "time": "18:54",
+        "title": "事故漁船に親子3人 転落し2人死亡",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6601680?source=rss",
+        "publishedAt": "2026-11-07T09:54:38.000Z"
+      },
+      {
         "time": "08:53",
         "title": "迷惑行為ショウリンジ 7歳も補導",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601668?source=rss",
         "publishedAt": "2026-11-07T08:27:09.000Z"
-      },
-      {
-        "time": "15:34",
-        "title": "女性船長の廃業巡り 市長が謝罪",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601652?source=rss",
-        "publishedAt": "2026-11-07T06:34:39.000Z"
       }
     ],
     "subsidyHeadlines": [
