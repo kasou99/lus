@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T23:35:09.553Z",
+  "updatedAt": "2026-11-07T00:28:18.906Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,13 +31,6 @@
         "publishedAt": "2026-11-06T16:40:03.000Z"
       },
       {
-        "time": "09:16",
-        "title": "CNC工作機械市場、2035年までの予測：航空宇宙分野の多軸精密加工需要が成長を牽引",
-        "source": "IndexBox",
-        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPMmd1dDNCclp5cWY3TjVNRXVVRGd5bUhnaWR5ZUlpTVppVzF6S1BYR2N6VUJTWmE2U1I2QlYwZTVQdm5CZmdjSEhTUUhXb1k1R2t4M1c2QzZtT1ZUMGZDVG1PVThFLXAtVGRwSklCVHBRendqcmdWT3ktYU5KQkNRdmJKSS1xUF9RVlFSMGNnb3FnYmtDU0JBX01uZFpMZ2tKU1NoYkRWeFlWRERUYWdkS29rdlM5TElMTlJ2SEIzc2RqRTgwRERGN3UxcHVVeVpRQXhQOXA2MG4yMEtiS3BLT2tR?oc=5",
-        "publishedAt": "2026-11-06T00:16:04.000Z"
-      },
-      {
         "time": "17:16",
         "title": "金属成形工作機械市場―2026年～2032年の世界市場予測",
         "source": "アットプレス",
@@ -57,6 +50,13 @@
         "source": "アットプレス",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE54bXdRWl9RWFJNRTE2al91TGhJMFhNQ2tFamJ6bDQ5b283U243cTluM2lfbDVsMDRRanc2VGJvX2hyNlF6Qk9TblE1Q1RxUlE?oc=5",
         "publishedAt": "2026-11-06T04:00:00.000Z"
+      },
+      {
+        "time": "14:22",
+        "title": "内外テック[3374]：定款 2026/10/14 2026年11月6日(適時開示) ：日経会社情報DIGITAL",
+        "source": "日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSzN4b2ZCQXZPczJfczQzeklFNTRVelpRNGtKcjlZdkJwYkY4ZFVnNldYb3BfSjNjeFlHcEtvdEJlOU5wWUJvSXBoRVpqZG41TUNlNDVpQ0VSV0lLMFlZTTFRYnFEVVE3SDNqcmw4elNPb3Y0Tzl0U21IYVZSLVM3aV9SNHRuM043aktaMUs4TjZmRUo0N1JlanBBWjJUTXlXUnBSbW9rX0ljQlQyWlFTNWhEdmRkdy1KeVdRUVBZR214RWZEN0ozVFh2cEY?oc=5",
+        "publishedAt": "2026-11-06T05:22:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -82,6 +82,13 @@
         "publishedAt": "2026-11-06T08:04:31.000Z"
       },
       {
+        "time": "08:49",
+        "title": "米民主党 AI規制法案を多数提出へ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6601606?source=rss",
+        "publishedAt": "2026-11-06T23:49:22.000Z"
+      },
+      {
         "time": "18:19",
         "title": "米国版凱旋門 ⁠着工一時差し止め",
         "source": "Yahoo!ニュース",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601498?source=rss",
         "publishedAt": "2026-11-06T01:04:37.000Z"
-      },
-      {
-        "time": "19:11",
-        "title": "欧州で爆破予告 20便以上に影響",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601561?source=rss",
-        "publishedAt": "2026-11-06T10:11:11.000Z"
       }
     ],
     "economyHeadlines": [
@@ -170,11 +170,18 @@
         "publishedAt": "2026-11-06T14:17:53.000Z"
       },
       {
-        "time": "14:42",
-        "title": "道で突然暴行疑い 女性7人被害か",
+        "time": "08:41",
+        "title": "寂しい 地震被災で工場の復旧断念",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601527?source=rss",
-        "publishedAt": "2026-11-06T05:42:37.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6601601?source=rss",
+        "publishedAt": "2026-11-06T23:41:06.000Z"
+      },
+      {
+        "time": "08:53",
+        "title": "迷惑行為ショウリンジ 7歳も補導",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6601602?source=rss",
+        "publishedAt": "2026-11-06T23:53:35.000Z"
       },
       {
         "time": "07:50",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601594?source=rss",
         "publishedAt": "2026-11-06T22:50:42.000Z"
-      },
-      {
-        "time": "14:49",
-        "title": "余命宣告後2200万円拾い横領 実刑",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601530?source=rss",
-        "publishedAt": "2026-11-06T05:49:05.000Z"
       }
     ],
     "subsidyHeadlines": [

@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-06T23:35:10.620Z",
+  "updatedAt": "2026-11-07T00:28:19.649Z",
   "items": [
     {
       "time": "08:10",
@@ -8,6 +8,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6601599?source=rss",
       "publishedAt": "2026-11-06T23:10:00.000Z",
       "xQuery": "高市首相「中国は重要な隣国」"
+    },
+    {
+      "time": "08:41",
+      "title": "寂しい 地震被災で工場の復旧断念",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601601?source=rss",
+      "publishedAt": "2026-11-06T23:41:06.000Z",
+      "xQuery": "寂しい 地震被災で工場の復旧断念"
     },
     {
       "time": "07:35",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "メーガン妃父 ポルノ所持疑い逮捕"
     },
     {
-      "time": "07:50",
-      "title": "「警察が幅寄せ」警官に反則切符",
+      "time": "08:53",
+      "title": "迷惑行為ショウリンジ 7歳も補導",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601594?source=rss",
-      "publishedAt": "2026-11-06T22:50:42.000Z",
-      "xQuery": "「警察が幅寄せ」警官に反則切符"
-    },
-    {
-      "time": "00:43",
-      "title": "RIZEボーカル JESSE容疑者逮捕",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601588?source=rss",
-      "publishedAt": "2026-11-06T15:43:59.000Z",
-      "xQuery": "RIZEボーカル JESSE容疑者逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6601602?source=rss",
+      "publishedAt": "2026-11-06T23:53:35.000Z",
+      "xQuery": "迷惑行為ショウリンジ 7歳も補導"
     }
   ]
 };
