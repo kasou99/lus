@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-07T07:36:02.481Z",
+  "updatedAt": "2026-11-07T08:13:33.661Z",
   "items": [
     {
       "time": "14:51",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "英メーガン妃の父 訴追され出廷"
     },
     {
-      "time": "14:07",
-      "title": "マンション建築現場で転落 死亡",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601640?source=rss",
-      "publishedAt": "2026-11-07T05:07:53.000Z",
-      "xQuery": "マンション建築現場で転落 死亡"
-    },
-    {
       "time": "15:34",
       "title": "女性船長の廃業巡り 市長が謝罪",
       "source": "Yahoo!ニュース",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6601656?source=rss",
       "publishedAt": "2026-11-07T07:19:38.000Z",
       "xQuery": "購買力高い大学生 なぜ存在する"
+    },
+    {
+      "time": "14:27",
+      "title": "ラットもおいしいと鳴く? 研究",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601642?source=rss",
+      "publishedAt": "2026-11-07T05:27:58.000Z",
+      "xQuery": "ラットもおいしいと鳴く? 研究"
     }
   ]
 };

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T07:36:01.758Z",
+  "updatedAt": "2026-11-07T08:13:32.629Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,13 +31,6 @@
         "publishedAt": "2026-11-06T20:56:22.000Z"
       },
       {
-        "time": "16:36",
-        "title": "三菱電機、フィジカルAIでヒューマノイドとCNC工作機械が連携する加工システムを開発。省人化に貢献",
-        "source": "AIsmiley",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1jZ096eUN4X1RwSXFTbzZ5UU9TckRRa214S0RNdGRwRG5Xckg2X2x4UVNZaUp0MFh5V3ZrTlVaWEtrRk52WGpFOVFKRnBhMTItNURrWUp5eS1kME9hbkxqN3pnZkhyTW0waHdTRnU0SDI?oc=5",
-        "publishedAt": "2026-11-06T07:36:19.000Z"
-      },
-      {
         "time": "01:15",
         "title": "総勢40名の町工場から、また一人。愛知・清須の金型メーカーメイクスタートで、後藤健次が3人目の「現代の名工」に",
         "source": "ニコニコニュース",
@@ -50,6 +43,13 @@
         "source": "アットプレス",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9SdHE3VHlZUkUxQ1M4dzA3VDhvVFk5X0pFdzZhUGJIM1R1aGc2WFJWWm91VXRfU1RId0tseTJyWU9vbkZRRFZGRTBzc0VEdmc?oc=5",
         "publishedAt": "2026-11-06T08:16:00.000Z"
+      },
+      {
+        "time": "22:15",
+        "title": "「導入しても回らない」保全DXを動かす―設備管理BPaaS「MENTENAワークス」提供開始",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9ZYkMzOTlWMnMzMGJyakx5SlczS2ppX3pZMjhveGJ0alFEeWNiSk94RExROEI5YldhZ1pXcEN6cm9PNE9SM2hDZnFrVmxvSzJzVnlIa1JQV3Z4Ulh1ME1nVFdxajhrRHlkYlp1REJudDQxM0lpRmlF?oc=5",
+        "publishedAt": "2026-11-06T13:15:18.000Z"
       },
       {
         "time": "21:30",
@@ -82,18 +82,18 @@
         "publishedAt": "2026-11-07T04:34:08.000Z"
       },
       {
-        "time": "21:09",
-        "title": "MAGA連合に亀裂生じる CNN調査",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601569?source=rss",
-        "publishedAt": "2026-11-06T12:09:10.000Z"
-      },
-      {
         "time": "08:49",
         "title": "米民主党 AI規制法案を多数提出へ",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601606?source=rss",
         "publishedAt": "2026-11-06T23:49:22.000Z"
+      },
+      {
+        "time": "16:57",
+        "title": "中国の大学など 日本語学ぶ学生減",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6601663?source=rss",
+        "publishedAt": "2026-11-07T07:57:28.000Z"
       },
       {
         "time": "11:55",
