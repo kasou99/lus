@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-07T12:35:03.591Z",
+  "updatedAt": "2026-11-07T13:09:08.341Z",
   "items": [
     {
-      "time": "19:03",
-      "title": "8日朝 東京など冷え込み今季一番",
+      "time": "22:06",
+      "title": "「継戦能力」強化を明記 政府検討",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601681?source=rss",
-      "publishedAt": "2026-11-07T10:03:12.000Z",
-      "xQuery": "8日朝 東京など冷え込み今季一番"
+      "url": "https://news.yahoo.co.jp/pickup/6601705?source=rss",
+      "publishedAt": "2026-11-07T13:06:01.000Z",
+      "xQuery": "「継戦能力」強化を明記 政府検討"
     },
     {
       "time": "18:29",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "中国拘束の邦人 満期服役で出所へ"
     },
     {
+      "time": "21:32",
+      "title": "女性を監禁疑い 供述後に遺体発見",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601700?source=rss",
+      "publishedAt": "2026-11-07T12:32:34.000Z",
+      "xQuery": "女性を監禁疑い 供述後に遺体発見"
+    },
+    {
       "time": "21:10",
       "title": "ダイビング中の70代女性 行方不明",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6601693?source=rss",
       "publishedAt": "2026-11-07T12:10:47.000Z",
       "xQuery": "ダイビング中の70代女性 行方不明"
-    },
-    {
-      "time": "16:52",
-      "title": "銭湯の混浴制限 悩む親たちの本音",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601661?source=rss",
-      "publishedAt": "2026-11-07T07:52:34.000Z",
-      "xQuery": "銭湯の混浴制限 悩む親たちの本音"
     }
   ]
 };
