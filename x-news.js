@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-07T13:09:08.341Z",
+  "updatedAt": "2026-11-07T13:34:58.535Z",
   "items": [
     {
       "time": "22:06",
@@ -8,14 +8,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6601705?source=rss",
       "publishedAt": "2026-11-07T13:06:01.000Z",
       "xQuery": "「継戦能力」強化を明記 政府検討"
-    },
-    {
-      "time": "18:29",
-      "title": "ソマリア海賊問題が再燃 今年15件",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601675?source=rss",
-      "publishedAt": "2026-11-07T09:29:01.000Z",
-      "xQuery": "ソマリア海賊問題が再燃 今年15件"
     },
     {
       "time": "20:51",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "女性を監禁疑い 供述後に遺体発見"
     },
     {
-      "time": "21:10",
-      "title": "ダイビング中の70代女性 行方不明",
+      "time": "20:35",
+      "title": "百条委に選出の県議巡り波紋 福岡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601693?source=rss",
-      "publishedAt": "2026-11-07T12:10:47.000Z",
-      "xQuery": "ダイビング中の70代女性 行方不明"
+      "url": "https://news.yahoo.co.jp/pickup/6601689?source=rss",
+      "publishedAt": "2026-11-07T11:35:24.000Z",
+      "xQuery": "百条委に選出の県議巡り波紋 福岡"
+    },
+    {
+      "time": "21:18",
+      "title": "引き上げた宿泊税 京都市の使途は",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601697?source=rss",
+      "publishedAt": "2026-11-07T12:18:31.000Z",
+      "xQuery": "引き上げた宿泊税 京都市の使途は"
     }
   ]
 };
