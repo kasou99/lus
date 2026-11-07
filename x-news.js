@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-07T08:35:30.171Z",
+  "updatedAt": "2026-11-07T09:10:50.752Z",
   "items": [
     {
-      "time": "14:51",
-      "title": "米首席補佐官交代 強硬路線進むか",
+      "time": "17:23",
+      "title": "自民 採決前退席の4氏に説明要求",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601647?source=rss",
-      "publishedAt": "2026-11-07T05:51:08.000Z",
-      "xQuery": "米首席補佐官交代 強硬路線進むか"
+      "url": "https://news.yahoo.co.jp/pickup/6601664?source=rss",
+      "publishedAt": "2026-11-07T08:23:17.000Z",
+      "xQuery": "自民 採決前退席の4氏に説明要求"
     },
     {
       "time": "16:57",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "中国の大学など 日本語学ぶ学生減"
     },
     {
-      "time": "15:34",
-      "title": "女性船長の廃業巡り 市長が謝罪",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601652?source=rss",
-      "publishedAt": "2026-11-07T06:34:39.000Z",
-      "xQuery": "女性船長の廃業巡り 市長が謝罪"
-    },
-    {
       "time": "17:08",
       "title": "障害者と性 問題提起の投稿真意",
       "source": "Yahoo!ニュース",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "障害者と性 問題提起の投稿真意"
     },
     {
-      "time": "16:19",
-      "title": "購買力高い大学生 なぜ存在する",
+      "time": "15:05",
+      "title": "SNS中傷 スポーツ・芸能界の対策",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601656?source=rss",
-      "publishedAt": "2026-11-07T07:19:38.000Z",
-      "xQuery": "購買力高い大学生 なぜ存在する"
+      "url": "https://news.yahoo.co.jp/pickup/6601649?source=rss",
+      "publishedAt": "2026-11-07T06:05:42.000Z",
+      "xQuery": "SNS中傷 スポーツ・芸能界の対策"
+    },
+    {
+      "time": "17:27",
+      "title": "受験生困惑?県の図書館長期休館",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601668?source=rss",
+      "publishedAt": "2026-11-07T08:27:09.000Z",
+      "xQuery": "受験生困惑?県の図書館長期休館"
     }
   ]
 };
