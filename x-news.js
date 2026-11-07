@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-07T09:10:50.752Z",
+  "updatedAt": "2026-11-07T09:35:03.341Z",
   "items": [
     {
       "time": "17:23",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "障害者と性 問題提起の投稿真意"
     },
     {
-      "time": "15:05",
-      "title": "SNS中傷 スポーツ・芸能界の対策",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601649?source=rss",
-      "publishedAt": "2026-11-07T06:05:42.000Z",
-      "xQuery": "SNS中傷 スポーツ・芸能界の対策"
-    },
-    {
       "time": "17:27",
       "title": "受験生困惑?県の図書館長期休館",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6601668?source=rss",
       "publishedAt": "2026-11-07T08:27:09.000Z",
       "xQuery": "受験生困惑?県の図書館長期休館"
+    },
+    {
+      "time": "18:01",
+      "title": "店主以外全員が認知症 愛知の食堂",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601672?source=rss",
+      "publishedAt": "2026-11-07T09:01:46.000Z",
+      "xQuery": "店主以外全員が認知症 愛知の食堂"
     }
   ]
 };

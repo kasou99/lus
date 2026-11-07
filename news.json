@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-07T09:10:49.854Z",
+  "updatedAt": "2026-11-07T09:35:02.739Z",
   "groups": {
     "machineHeadlines": [
       {
-        "time": "09:30",
-        "title": "産業用ベアリング市場は2035年に3億7,917万米ドルに到達、CAGR 4.3％で成長｜自動車・工作機械・製造設備における高耐久性・省エネ・高性能ベアリング需要が拡大",
+        "time": "10:30",
+        "title": "工作機械用ボールねじの世界市場（2026年～2032年）、市場規模（内循環ボールねじ、外循環ボールねじ）・分析レポートを発表",
         "source": "Newscast.jp",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4tZ3Y4U0xrRlBIVDZXMDNxcjRuUXlqemcweE1xTFdhV01PWVIxclRyWEhnVmxYOThrLTJ0VFZnUTRCSVVUVmJmMnYwQmFPeHM?oc=5",
-        "publishedAt": "2026-11-07T00:30:00.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE53aVUyamoycm1lUU92eFJGZmpRc0ZQQXZSSnQtUGpLcHktWTRmTUd3QkFZTkxTUEktb081cTBQc0JYbnJ2dFpJNTY2bzRyeWc?oc=5",
+        "publishedAt": "2026-11-07T01:30:00.000Z"
       },
       {
         "time": "07:40",
@@ -17,18 +17,18 @@
         "publishedAt": "2026-11-06T22:40:00.000Z"
       },
       {
-        "time": "10:30",
-        "title": "工作機械用ボールねじの世界市場（2026年～2032年）、市場規模（内循環ボールねじ、外循環ボールねじ）・分析レポートを発表",
-        "source": "アットプレス",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9kem9GbHZPNTFaNmRvNnRmRzFrdFhrX0lWZDUwb1p1WUVfVGNOVGxCSUNybl9BTUxBdHVDem4xcmQzWDMxVUlLVm9oZldYVjg?oc=5",
-        "publishedAt": "2026-11-07T01:30:00.000Z"
-      },
-      {
         "time": "05:56",
         "title": "日本サーボモータードライブの主要メーカーと競争環境",
         "source": "pando.life",
         "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBVRE40OEgxaG9oUmRwRkFHTW9BZURvTFRwRXVyTXJERG9QZF90X1k5Q3pwN2pnQzZ5ZlJUZnhsYVpCeVFoMkV5VVRR?oc=5",
         "publishedAt": "2026-11-06T20:56:22.000Z"
+      },
+      {
+        "time": "09:30",
+        "title": "産業用ベアリング市場は2035年に3億7,917万米ドルに到達、CAGR 4.3％で成長｜自動車・工作機械・製造設備における高耐久性・省エネ・高性能ベアリング需要が拡大",
+        "source": "Newscast.jp",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4tZ3Y4U0xrRlBIVDZXMDNxcjRuUXlqemcweE1xTFdhV01PWVIxclRyWEhnVmxYOThrLTJ0VFZnUTRCSVVUVmJmMnYwQmFPeHM?oc=5",
+        "publishedAt": "2026-11-07T00:30:00.000Z"
       },
       {
         "time": "01:15",
@@ -89,28 +89,21 @@
         "publishedAt": "2026-11-06T23:49:22.000Z"
       },
       {
+        "time": "18:29",
+        "title": "ソマリア海賊問題が再燃 今年15件",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6601675?source=rss",
+        "publishedAt": "2026-11-07T09:29:01.000Z"
+      },
+      {
         "time": "16:57",
         "title": "中国の大学など 日本語学ぶ学生減",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601663?source=rss",
         "publishedAt": "2026-11-07T07:57:28.000Z"
-      },
-      {
-        "time": "11:55",
-        "title": "カルト指導者に禁錮200年 ケニア",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601628?source=rss",
-        "publishedAt": "2026-11-07T02:55:01.000Z"
       }
     ],
     "economyHeadlines": [
-      {
-        "time": "00:03",
-        "title": "米10月雇用16.5万人増 予想上回る",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601587?source=rss",
-        "publishedAt": "2026-11-06T15:03:11.000Z"
-      },
       {
         "time": "13:31",
         "title": "不正アクセス ゲーセンにも影響",
@@ -133,18 +126,25 @@
         "publishedAt": "2026-11-07T05:49:44.000Z"
       },
       {
-        "time": "21:13",
-        "title": "外国人留学生 日本で就職望む理由",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601570?source=rss",
-        "publishedAt": "2026-11-06T12:13:47.000Z"
-      },
-      {
         "time": "16:19",
         "title": "購買力高い大学生 なぜ存在する",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601656?source=rss",
         "publishedAt": "2026-11-07T07:19:38.000Z"
+      },
+      {
+        "time": "18:26",
+        "title": "カスハラ 加害者にならないために",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6601678?source=rss",
+        "publishedAt": "2026-11-07T09:26:39.000Z"
+      },
+      {
+        "time": "11:37",
+        "title": "なぜ?「有線イヤホン」が再流行",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6601625?source=rss",
+        "publishedAt": "2026-11-07T02:37:46.000Z"
       }
     ],
     "localHeadlines": [
