@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-07T14:09:21.965Z",
+  "updatedAt": "2026-11-07T14:35:02.801Z",
   "items": [
     {
       "time": "22:27",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "「継戦能力」強化を明記 政府検討"
     },
     {
-      "time": "20:51",
-      "title": "中国拘束の邦人 満期服役で出所へ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601692?source=rss",
-      "publishedAt": "2026-11-07T11:51:20.000Z",
-      "xQuery": "中国拘束の邦人 満期服役で出所へ"
-    },
-    {
       "time": "21:32",
       "title": "女性を監禁疑い 供述後に遺体発見",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6601700?source=rss",
       "publishedAt": "2026-11-07T12:32:34.000Z",
       "xQuery": "女性を監禁疑い 供述後に遺体発見"
+    },
+    {
+      "time": "22:13",
+      "title": "基地交付金 打ち切り恐れに町反発",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601709?source=rss",
+      "publishedAt": "2026-11-07T13:13:56.000Z",
+      "xQuery": "基地交付金 打ち切り恐れに町反発"
     },
     {
       "time": "20:35",
