@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-07T23:09:00.881Z",
+  "updatedAt": "2026-11-07T23:35:13.390Z",
   "items": [
     {
       "time": "07:25",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "東北新幹線 東京-盛岡で見合わせ"
     },
     {
-      "time": "22:13",
-      "title": "基地交付金 打ち切り恐れに町反発",
+      "time": "07:54",
+      "title": "ポーランドで銃乱射事件 6人死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601709?source=rss",
-      "publishedAt": "2026-11-07T13:13:56.000Z",
-      "xQuery": "基地交付金 打ち切り恐れに町反発"
+      "url": "https://news.yahoo.co.jp/pickup/6601729?source=rss",
+      "publishedAt": "2026-11-07T22:54:59.000Z",
+      "xQuery": "ポーランドで銃乱射事件 6人死亡"
     },
     {
       "time": "07:59",
