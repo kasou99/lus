@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-07T00:44:55.127Z",
+  "updatedAt": "2026-11-07T01:11:18.271Z",
   "items": [
+    {
+      "time": "08:49",
+      "title": "米民主党 AI規制法案を多数提出へ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601606?source=rss",
+      "publishedAt": "2026-11-06T23:49:22.000Z",
+      "xQuery": "米民主党 AI規制法案を多数提出へ"
+    },
     {
       "time": "08:41",
       "title": "寂しい 地震被災で工場の復旧断念",
@@ -8,14 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6601601?source=rss",
       "publishedAt": "2026-11-06T23:41:06.000Z",
       "xQuery": "寂しい 地震被災で工場の復旧断念"
-    },
-    {
-      "time": "08:10",
-      "title": "高市首相「中国は重要な隣国」",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601599?source=rss",
-      "publishedAt": "2026-11-06T23:10:00.000Z",
-      "xQuery": "高市首相「中国は重要な隣国」"
     },
     {
       "time": "09:24",

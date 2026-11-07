@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T00:44:54.063Z",
+  "updatedAt": "2026-11-07T01:11:17.517Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,18 +17,18 @@
         "publishedAt": "2026-11-06T20:56:22.000Z"
       },
       {
-        "time": "10:30",
-        "title": "DMG森精機社長が目指す止まらない工作機械／トヨタは中国市場で反転攻勢なるか",
-        "source": "MONOist",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5uaXVHbEpqTXpEblZKSUp1RVM0aktCTmw4QjhFa3A2WUU4cUNoWUQxSG1aRGxWZGF2QlRqTDk0M3V4XzVEZmZsU1EwM2x0Ym1zekJneHBtWFYyRnJVS3hrSDJQSG1wVG50RmtCNzduMA?oc=5",
-        "publishedAt": "2026-11-06T01:30:00.000Z"
-      },
-      {
         "time": "01:40",
         "title": "『カミナシ 設備保全』、保全データをAIが分析し予防保全の計画まで提案するAIエージェント機能を先行提供",
         "source": "Infoseek",
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1MWWdDam5iMEtWVWhCVVhfX3FmdlRqYlFtSkdiRTdlTFh6U3RpQThtcmNYa3NIeWhDWG1lakg4MWw2NFRrTnVBdnl4OGM1UVlMSlJTdk5kcGR4czdwQnVjU2w2Qkx4MWZLN0w2bURUWmZQZw?oc=5",
         "publishedAt": "2026-11-06T16:40:03.000Z"
+      },
+      {
+        "time": "10:30",
+        "title": "DMG森精機社長が目指す止まらない工作機械／トヨタは中国市場で反転攻勢なるか",
+        "source": "MONOist",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5uaXVHbEpqTXpEblZKSUp1RVM0aktCTmw4QjhFa3A2WUU4cUNoWUQxSG1aRGxWZGF2QlRqTDk0M3V4XzVEZmZsU1EwM2x0Ym1zekJneHBtWFYyRnJVS3hrSDJQSG1wVG50RmtCNzduMA?oc=5",
+        "publishedAt": "2026-11-06T01:30:00.000Z"
       },
       {
         "time": "17:16",
@@ -126,13 +126,6 @@
         "publishedAt": "2026-11-06T08:41:22.000Z"
       },
       {
-        "time": "17:23",
-        "title": "総務省 漏えい巡りドコモ行政指導",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601543?source=rss",
-        "publishedAt": "2026-11-06T08:23:34.000Z"
-      },
-      {
         "time": "22:44",
         "title": "KDDI社長 決算会見で2つのおわび",
         "source": "Yahoo!ニュース",
@@ -145,6 +138,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601548?source=rss",
         "publishedAt": "2026-11-06T09:02:07.000Z"
+      },
+      {
+        "time": "09:59",
+        "title": "テスラ サイバートラック生産縮小",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6601614?source=rss",
+        "publishedAt": "2026-11-07T00:59:00.000Z"
       }
     ],
     "localHeadlines": [
