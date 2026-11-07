@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-07T06:36:26.584Z",
+  "updatedAt": "2026-11-07T07:10:50.147Z",
   "items": [
+    {
+      "time": "15:53",
+      "title": "中山律子さん死去 元プロボウラー",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601654?source=rss",
+      "publishedAt": "2026-11-07T06:53:18.000Z",
+      "xQuery": "中山律子さん死去 元プロボウラー"
+    },
     {
       "time": "13:34",
       "title": "露がJT資産管理 制裁緩和狙いか",
@@ -18,28 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "英メーガン妃の父 訴追され出廷"
     },
     {
-      "time": "14:02",
-      "title": "32年ぶりに「台風32号」発生",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601638?source=rss",
-      "publishedAt": "2026-11-07T05:02:46.000Z",
-      "xQuery": "32年ぶりに「台風32号」発生"
-    },
-    {
-      "time": "14:39",
-      "title": "置き配トラブル責任 国指針公表へ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601645?source=rss",
-      "publishedAt": "2026-11-07T05:39:50.000Z",
-      "xQuery": "置き配トラブル責任 国指針公表へ"
-    },
-    {
       "time": "14:07",
       "title": "マンション建築現場で転落 死亡",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6601640?source=rss",
       "publishedAt": "2026-11-07T05:07:53.000Z",
       "xQuery": "マンション建築現場で転落 死亡"
+    },
+    {
+      "time": "15:34",
+      "title": "女性船長の廃業巡り 市長が謝罪",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601652?source=rss",
+      "publishedAt": "2026-11-07T06:34:39.000Z",
+      "xQuery": "女性船長の廃業巡り 市長が謝罪"
     }
   ]
 };
