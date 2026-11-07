@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-07T01:38:03.645Z",
+  "updatedAt": "2026-11-07T02:14:57.504Z",
   "items": [
+    {
+      "time": "10:39",
+      "title": "強い寒気 北海道と東北は暴風警戒",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601620?source=rss",
+      "publishedAt": "2026-11-07T01:39:39.000Z",
+      "xQuery": "強い寒気 北海道と東北は暴風警戒"
+    },
     {
       "time": "08:49",
       "title": "米民主党 AI規制法案を多数提出へ",
@@ -10,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "米民主党 AI規制法案を多数提出へ"
     },
     {
-      "time": "09:24",
-      "title": "中学生4割が外国人増否定的 調査",
+      "time": "09:22",
+      "title": "岸田氏 国債NISAは慎重な検討必要",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601609?source=rss",
-      "publishedAt": "2026-11-07T00:24:44.000Z",
-      "xQuery": "中学生4割が外国人増否定的 調査"
+      "url": "https://news.yahoo.co.jp/pickup/6601610?source=rss",
+      "publishedAt": "2026-11-07T00:22:31.000Z",
+      "xQuery": "岸田氏 国債NISAは慎重な検討必要"
     },
     {
       "time": "09:59",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "テスラ サイバートラック生産縮小"
     },
     {
-      "time": "07:52",
-      "title": "メーガン妃父 ポルノ所持疑い逮捕",
+      "time": "10:58",
+      "title": "故障車修理中 車突っ込み1人死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601596?source=rss",
-      "publishedAt": "2026-11-06T22:52:35.000Z",
-      "xQuery": "メーガン妃父 ポルノ所持疑い逮捕"
-    },
-    {
-      "time": "08:53",
-      "title": "迷惑行為ショウリンジ 7歳も補導",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601602?source=rss",
-      "publishedAt": "2026-11-06T23:53:35.000Z",
-      "xQuery": "迷惑行為ショウリンジ 7歳も補導"
+      "url": "https://news.yahoo.co.jp/pickup/6601623?source=rss",
+      "publishedAt": "2026-11-07T01:58:54.000Z",
+      "xQuery": "故障車修理中 車突っ込み1人死亡"
     }
   ]
 };

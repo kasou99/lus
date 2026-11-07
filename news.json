@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T01:38:02.683Z",
+  "updatedAt": "2026-11-07T02:14:56.918Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,18 +17,18 @@
         "publishedAt": "2026-11-06T07:36:19.000Z"
       },
       {
+        "time": "07:40",
+        "title": "『カミナシ 設備保全』、保全データをAIが分析し予防保全の計画まで提案するAIエージェント機能を先行提供",
+        "source": "Infoseek",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1MWWdDam5iMEtWVWhCVVhfX3FmdlRqYlFtSkdiRTdlTFh6U3RpQThtcmNYa3NIeWhDWG1lakg4MWw2NFRrTnVBdnl4OGM1UVlMSlJTdk5kcGR4czdwQnVjU2w2Qkx4MWZLN0w2bURUWmZQZw?oc=5",
+        "publishedAt": "2026-11-06T22:40:00.000Z"
+      },
+      {
         "time": "05:56",
         "title": "日本サーボモータードライブの主要メーカーと競争環境",
         "source": "pando.life",
         "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBVRE40OEgxaG9oUmRwRkFHTW9BZURvTFRwRXVyTXJERG9QZF90X1k5Q3pwN2pnQzZ5ZlJUZnhsYVpCeVFoMkV5VVRR?oc=5",
         "publishedAt": "2026-11-06T20:56:22.000Z"
-      },
-      {
-        "time": "01:40",
-        "title": "『カミナシ 設備保全』、保全データをAIが分析し予防保全の計画まで提案するAIエージェント機能を先行提供",
-        "source": "Infoseek",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1MWWdDam5iMEtWVWhCVVhfX3FmdlRqYlFtSkdiRTdlTFh6U3RpQThtcmNYa3NIeWhDWG1lakg4MWw2NFRrTnVBdnl4OGM1UVlMSlJTdk5kcGR4czdwQnVjU2w2Qkx4MWZLN0w2bURUWmZQZw?oc=5",
-        "publishedAt": "2026-11-06T16:40:03.000Z"
       },
       {
         "time": "17:16",
@@ -89,18 +89,18 @@
         "publishedAt": "2026-11-06T23:49:22.000Z"
       },
       {
+        "time": "10:58",
+        "title": "欧州各地で爆破予告 報道機関にも",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6601622?source=rss",
+        "publishedAt": "2026-11-07T01:58:58.000Z"
+      },
+      {
         "time": "18:19",
         "title": "米国版凱旋門 ⁠着工一時差し止め",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601556?source=rss",
         "publishedAt": "2026-11-06T09:19:48.000Z"
-      },
-      {
-        "time": "10:04",
-        "title": "米加州 死刑囚548人を終身刑に",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601498?source=rss",
-        "publishedAt": "2026-11-06T01:04:37.000Z"
       }
     ],
     "economyHeadlines": [
@@ -117,13 +117,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601571?source=rss",
         "publishedAt": "2026-11-06T12:19:34.000Z"
-      },
-      {
-        "time": "17:41",
-        "title": "中間選挙ショック 世界で株安連鎖",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601546?source=rss",
-        "publishedAt": "2026-11-06T08:41:22.000Z"
       },
       {
         "time": "22:44",
@@ -145,6 +138,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601614?source=rss",
         "publishedAt": "2026-11-07T00:59:00.000Z"
+      },
+      {
+        "time": "21:13",
+        "title": "外国人留学生 日本で就職望む理由",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6601570?source=rss",
+        "publishedAt": "2026-11-06T12:13:47.000Z"
       }
     ],
     "localHeadlines": [
@@ -154,6 +154,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601586?source=rss",
         "publishedAt": "2026-11-06T14:32:06.000Z"
+      },
+      {
+        "time": "10:58",
+        "title": "故障車修理中 車突っ込み1人死亡",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6601623?source=rss",
+        "publishedAt": "2026-11-07T01:58:54.000Z"
       },
       {
         "time": "08:32",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601602?source=rss",
         "publishedAt": "2026-11-06T23:53:35.000Z"
-      },
-      {
-        "time": "07:50",
-        "title": "「警察が幅寄せ」警官に反則切符",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601594?source=rss",
-        "publishedAt": "2026-11-06T22:50:42.000Z"
       }
     ],
     "subsidyHeadlines": [
