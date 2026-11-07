@@ -1,21 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-07T07:10:50.147Z",
+  "updatedAt": "2026-11-07T07:36:02.481Z",
   "items": [
     {
-      "time": "15:53",
-      "title": "中山律子さん死去 元プロボウラー",
+      "time": "14:51",
+      "title": "米首席補佐官交代 強硬路線進むか",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601654?source=rss",
-      "publishedAt": "2026-11-07T06:53:18.000Z",
-      "xQuery": "中山律子さん死去 元プロボウラー"
-    },
-    {
-      "time": "13:34",
-      "title": "露がJT資産管理 制裁緩和狙いか",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601634?source=rss",
-      "publishedAt": "2026-11-07T04:34:08.000Z",
-      "xQuery": "露がJT資産管理 制裁緩和狙いか"
+      "url": "https://news.yahoo.co.jp/pickup/6601647?source=rss",
+      "publishedAt": "2026-11-07T05:51:08.000Z",
+      "xQuery": "米首席補佐官交代 強硬路線進むか"
     },
     {
       "time": "12:40",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6601652?source=rss",
       "publishedAt": "2026-11-07T06:34:39.000Z",
       "xQuery": "女性船長の廃業巡り 市長が謝罪"
+    },
+    {
+      "time": "16:19",
+      "title": "購買力高い大学生 なぜ存在する",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601656?source=rss",
+      "publishedAt": "2026-11-07T07:19:38.000Z",
+      "xQuery": "購買力高い大学生 なぜ存在する"
     }
   ]
 };
