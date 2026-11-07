@@ -1,13 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-07T03:12:40.955Z",
+  "updatedAt": "2026-11-07T03:35:56.746Z",
   "items": [
     {
-      "time": "10:39",
-      "title": "強い寒気 北海道と東北は暴風警戒",
+      "time": "12:19",
+      "title": "海岸で漁船が座礁 2人心肺停止",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601620?source=rss",
-      "publishedAt": "2026-11-07T01:39:39.000Z",
-      "xQuery": "強い寒気 北海道と東北は暴風警戒"
+      "url": "https://news.yahoo.co.jp/pickup/6601629?source=rss",
+      "publishedAt": "2026-11-07T03:19:25.000Z",
+      "xQuery": "海岸で漁船が座礁 2人心肺停止"
+    },
+    {
+      "time": "10:58",
+      "title": "欧州各地で爆破予告 報道機関にも",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601622?source=rss",
+      "publishedAt": "2026-11-07T01:58:58.000Z",
+      "xQuery": "欧州各地で爆破予告 報道機関にも"
     },
     {
       "time": "09:22",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6601623?source=rss",
       "publishedAt": "2026-11-07T01:58:54.000Z",
       "xQuery": "故障車修理中 車突っ込み1人死亡"
-    },
-    {
-      "time": "08:53",
-      "title": "迷惑行為ショウリンジ 7歳も補導",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601602?source=rss",
-      "publishedAt": "2026-11-06T23:53:35.000Z",
-      "xQuery": "迷惑行為ショウリンジ 7歳も補導"
     }
   ]
 };
