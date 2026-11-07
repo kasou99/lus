@@ -1,14 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-07T00:28:19.649Z",
+  "updatedAt": "2026-11-07T00:44:55.127Z",
   "items": [
-    {
-      "time": "08:10",
-      "title": "高市首相「中国は重要な隣国」",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601599?source=rss",
-      "publishedAt": "2026-11-06T23:10:00.000Z",
-      "xQuery": "高市首相「中国は重要な隣国」"
-    },
     {
       "time": "08:41",
       "title": "寂しい 地震被災で工場の復旧断念",
@@ -18,12 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "寂しい 地震被災で工場の復旧断念"
     },
     {
-      "time": "07:35",
-      "title": "米大統領首席補佐官 ミラー氏昇格",
+      "time": "08:10",
+      "title": "高市首相「中国は重要な隣国」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601592?source=rss",
-      "publishedAt": "2026-11-06T22:35:39.000Z",
-      "xQuery": "米大統領首席補佐官 ミラー氏昇格"
+      "url": "https://news.yahoo.co.jp/pickup/6601599?source=rss",
+      "publishedAt": "2026-11-06T23:10:00.000Z",
+      "xQuery": "高市首相「中国は重要な隣国」"
+    },
+    {
+      "time": "09:24",
+      "title": "中学生4割が外国人増否定的 調査",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601609?source=rss",
+      "publishedAt": "2026-11-07T00:24:44.000Z",
+      "xQuery": "中学生4割が外国人増否定的 調査"
     },
     {
       "time": "07:52",
