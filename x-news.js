@@ -1,13 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-07T14:35:02.801Z",
+  "updatedAt": "2026-11-07T15:08:54.346Z",
   "items": [
     {
-      "time": "22:27",
-      "title": "露 JT法人3社を一時管理下に追加",
+      "time": "23:18",
+      "title": "米中間選挙 共和党大敗の舞台裏",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601707?source=rss",
-      "publishedAt": "2026-11-07T13:27:51.000Z",
-      "xQuery": "露 JT法人3社を一時管理下に追加"
+      "url": "https://news.yahoo.co.jp/pickup/6601716?source=rss",
+      "publishedAt": "2026-11-07T14:18:01.000Z",
+      "xQuery": "米中間選挙 共和党大敗の舞台裏"
+    },
+    {
+      "time": "23:37",
+      "title": "大阪維新の会「吉村体制」3期目に",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601718?source=rss",
+      "publishedAt": "2026-11-07T14:37:04.000Z",
+      "xQuery": "大阪維新の会「吉村体制」3期目に"
     },
     {
       "time": "22:06",
@@ -18,14 +26,6 @@ window.LUS_X_NEWS = {
       "xQuery": "「継戦能力」強化を明記 政府検討"
     },
     {
-      "time": "21:32",
-      "title": "女性を監禁疑い 供述後に遺体発見",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601700?source=rss",
-      "publishedAt": "2026-11-07T12:32:34.000Z",
-      "xQuery": "女性を監禁疑い 供述後に遺体発見"
-    },
-    {
       "time": "22:13",
       "title": "基地交付金 打ち切り恐れに町反発",
       "source": "Yahoo!ニュース",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "基地交付金 打ち切り恐れに町反発"
     },
     {
-      "time": "20:35",
-      "title": "百条委に選出の県議巡り波紋 福岡",
+      "time": "21:32",
+      "title": "女性を監禁疑い 供述後に遺体発見",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601689?source=rss",
-      "publishedAt": "2026-11-07T11:35:24.000Z",
-      "xQuery": "百条委に選出の県議巡り波紋 福岡"
+      "url": "https://news.yahoo.co.jp/pickup/6601700?source=rss",
+      "publishedAt": "2026-11-07T12:32:34.000Z",
+      "xQuery": "女性を監禁疑い 供述後に遺体発見"
     }
   ]
 };
