@@ -1,14 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-07T22:34:57.665Z",
+  "updatedAt": "2026-11-07T23:09:00.881Z",
   "items": [
-    {
-      "time": "01:13",
-      "title": "愛知県で震度5強 津波の心配なし",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601719?source=rss",
-      "publishedAt": "2026-11-07T16:13:23.000Z",
-      "xQuery": "愛知県で震度5強 津波の心配なし"
-    },
     {
       "time": "07:25",
       "title": "愛知県で震度5強 20人超がけが",
@@ -18,12 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "愛知県で震度5強 20人超がけが"
     },
     {
-      "time": "23:18",
-      "title": "米中間選挙 共和党大敗の舞台裏",
+      "time": "07:52",
+      "title": "東海道新幹線 地震で最大60分遅れ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601716?source=rss",
-      "publishedAt": "2026-11-07T14:18:01.000Z",
-      "xQuery": "米中間選挙 共和党大敗の舞台裏"
+      "url": "https://news.yahoo.co.jp/pickup/6601728?source=rss",
+      "publishedAt": "2026-11-07T22:52:37.000Z",
+      "xQuery": "東海道新幹線 地震で最大60分遅れ"
+    },
+    {
+      "time": "07:38",
+      "title": "東北新幹線 東京-盛岡で見合わせ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601731?source=rss",
+      "publishedAt": "2026-11-07T22:38:37.000Z",
+      "xQuery": "東北新幹線 東京-盛岡で見合わせ"
     },
     {
       "time": "22:13",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "基地交付金 打ち切り恐れに町反発"
     },
     {
-      "time": "21:32",
-      "title": "女性を監禁疑い 供述後に遺体発見",
+      "time": "07:59",
+      "title": "住宅火災で2遺体 1人は子どもか",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601700?source=rss",
-      "publishedAt": "2026-11-07T12:32:34.000Z",
-      "xQuery": "女性を監禁疑い 供述後に遺体発見"
+      "url": "https://news.yahoo.co.jp/pickup/6601733?source=rss",
+      "publishedAt": "2026-11-07T22:59:13.000Z",
+      "xQuery": "住宅火災で2遺体 1人は子どもか"
     }
   ]
 };
