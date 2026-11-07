@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-07T04:12:25.046Z",
+  "updatedAt": "2026-11-07T04:35:50.099Z",
   "items": [
     {
       "time": "12:19",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "欧州各地で爆破予告 報道機関にも"
     },
     {
-      "time": "10:39",
-      "title": "子宮頸がん死50年に4割増 米大学",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601617?source=rss",
-      "publishedAt": "2026-11-07T01:39:39.000Z",
-      "xQuery": "子宮頸がん死50年に4割増 米大学"
-    },
-    {
       "time": "10:58",
       "title": "故障車修理中 車突っ込み1人死亡",
       "source": "Yahoo!ニュース",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6601619?source=rss",
       "publishedAt": "2026-11-07T01:45:01.000Z",
       "xQuery": "洗濯機やドライヤー「静音」続々"
+    },
+    {
+      "time": "11:37",
+      "title": "なぜ?「有線イヤホン」が再流行",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601625?source=rss",
+      "publishedAt": "2026-11-07T02:37:46.000Z",
+      "xQuery": "なぜ?「有線イヤホン」が再流行"
     }
   ]
 };

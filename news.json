@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T04:12:24.279Z",
+  "updatedAt": "2026-11-07T04:35:48.821Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,18 +17,18 @@
         "publishedAt": "2026-11-07T01:30:00.000Z"
       },
       {
-        "time": "16:36",
-        "title": "三菱電機、フィジカルAIでヒューマノイドとCNC工作機械が連携する加工システムを開発。省人化に貢献",
-        "source": "AIsmiley",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1jZ096eUN4X1RwSXFTbzZ5UU9TckRRa214S0RNdGRwRG5Xckg2X2x4UVNZaUp0MFh5V3ZrTlVaWEtrRk52WGpFOVFKRnBhMTItNURrWUp5eS1kME9hbkxqN3pnZkhyTW0waHdTRnU0SDI?oc=5",
-        "publishedAt": "2026-11-06T07:36:19.000Z"
-      },
-      {
         "time": "05:56",
         "title": "日本サーボモータードライブの主要メーカーと競争環境",
         "source": "pando.life",
         "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBVRE40OEgxaG9oUmRwRkFHTW9BZURvTFRwRXVyTXJERG9QZF90X1k5Q3pwN2pnQzZ5ZlJUZnhsYVpCeVFoMkV5VVRR?oc=5",
         "publishedAt": "2026-11-06T20:56:22.000Z"
+      },
+      {
+        "time": "16:36",
+        "title": "三菱電機、フィジカルAIでヒューマノイドとCNC工作機械が連携する加工システムを開発。省人化に貢献",
+        "source": "AIsmiley",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1jZ096eUN4X1RwSXFTbzZ5UU9TckRRa214S0RNdGRwRG5Xckg2X2x4UVNZaUp0MFh5V3ZrTlVaWEtrRk52WGpFOVFKRnBhMTItNURrWUp5eS1kME9hbkxqN3pnZkhyTW0waHdTRnU0SDI?oc=5",
+        "publishedAt": "2026-11-06T07:36:19.000Z"
       },
       {
         "time": "14:22",
@@ -68,18 +68,18 @@
         "publishedAt": "2026-11-06T22:35:39.000Z"
       },
       {
+        "time": "13:34",
+        "title": "露がJT資産管理 制裁緩和狙いか",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6601634?source=rss",
+        "publishedAt": "2026-11-07T04:34:08.000Z"
+      },
+      {
         "time": "21:09",
         "title": "MAGA連合に亀裂生じる CNN調査",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601569?source=rss",
         "publishedAt": "2026-11-06T12:09:10.000Z"
-      },
-      {
-        "time": "17:04",
-        "title": "中間選挙 現状を拒否した無党派層",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601540?source=rss",
-        "publishedAt": "2026-11-06T08:04:31.000Z"
       },
       {
         "time": "08:49",
@@ -126,11 +126,11 @@
         "publishedAt": "2026-11-06T13:44:06.000Z"
       },
       {
-        "time": "18:02",
-        "title": "破産手続き中の全東信 社長が死去",
+        "time": "13:31",
+        "title": "不正アクセス ゲーセンにも影響",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601548?source=rss",
-        "publishedAt": "2026-11-06T09:02:07.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6601633?source=rss",
+        "publishedAt": "2026-11-07T04:31:21.000Z"
       },
       {
         "time": "09:59",
@@ -149,46 +149,10 @@
     ],
     "localHeadlines": [
       {
-        "time": "12:19",
-        "title": "海岸で漁船が座礁 2人心肺停止",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601629?source=rss",
-        "publishedAt": "2026-11-07T03:19:25.000Z"
-      },
-      {
-        "time": "08:41",
-        "title": "寂しい 地震被災で工場の復旧断念",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601601?source=rss",
-        "publishedAt": "2026-11-06T23:41:06.000Z"
-      },
-      {
-        "time": "23:32",
-        "title": "4月の戦車暴発 砲弾残留物原因か",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601586?source=rss",
-        "publishedAt": "2026-11-06T14:32:06.000Z"
-      },
-      {
-        "time": "10:58",
-        "title": "故障車修理中 車突っ込み1人死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601623?source=rss",
-        "publishedAt": "2026-11-07T01:58:54.000Z"
-      },
-      {
-        "time": "08:32",
-        "title": "アパートの住人刺され死亡 男逮捕",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601598?source=rss",
-        "publishedAt": "2026-11-06T23:32:52.000Z"
-      },
-      {
-        "time": "08:53",
-        "title": "迷惑行為ショウリンジ 7歳も補導",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601602?source=rss",
-        "publishedAt": "2026-11-06T23:53:35.000Z"
+        "time": "確認",
+        "title": "福山市・広島岡山の製造業と地域経済ニュースを確認",
+        "source": "Googleニュース",
+        "url": "https://news.google.com/rss/search?q=%E7%A6%8F%E5%B1%B1%E5%B8%82%20%E5%BA%83%E5%B3%B6%20%E5%B2%A1%E5%B1%B1%20%E8%A3%BD%E9%80%A0%E6%A5%AD%20when%3A1d&hl=ja&gl=JP&ceid=JP:ja"
       }
     ],
     "subsidyHeadlines": [
