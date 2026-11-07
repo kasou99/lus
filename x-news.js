@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-07T05:35:24.077Z",
+  "updatedAt": "2026-11-07T06:17:20.875Z",
   "items": [
     {
       "time": "13:34",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "露がJT資産管理 制裁緩和狙いか"
     },
     {
-      "time": "09:44",
-      "title": "超党派議連 ICC赤根所長らを激励",
+      "time": "12:40",
+      "title": "英メーガン妃の父 訴追され出廷",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601612?source=rss",
-      "publishedAt": "2026-11-07T00:44:21.000Z",
-      "xQuery": "超党派議連 ICC赤根所長らを激励"
+      "url": "https://news.yahoo.co.jp/pickup/6601627?source=rss",
+      "publishedAt": "2026-11-07T03:40:41.000Z",
+      "xQuery": "英メーガン妃の父 訴追され出廷"
     },
     {
       "time": "14:02",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "32年ぶりに「台風32号」発生"
     },
     {
+      "time": "14:39",
+      "title": "置き配トラブル責任 国指針公表へ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601645?source=rss",
+      "publishedAt": "2026-11-07T05:39:50.000Z",
+      "xQuery": "置き配トラブル責任 国指針公表へ"
+    },
+    {
       "time": "14:07",
       "title": "マンション建築現場で転落 死亡",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6601640?source=rss",
       "publishedAt": "2026-11-07T05:07:53.000Z",
       "xQuery": "マンション建築現場で転落 死亡"
-    },
-    {
-      "time": "13:31",
-      "title": "不正アクセス ゲーセンにも影響",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601633?source=rss",
-      "publishedAt": "2026-11-07T04:31:21.000Z",
-      "xQuery": "不正アクセス ゲーセンにも影響"
     }
   ]
 };
