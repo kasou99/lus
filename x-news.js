@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-07T10:35:02.990Z",
+  "updatedAt": "2026-11-07T11:08:42.236Z",
   "items": [
     {
       "time": "19:03",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "自民 採決前退席の4氏に説明要求"
     },
     {
-      "time": "18:54",
-      "title": "事故漁船に親子3人 転落し2人死亡",
+      "time": "20:02",
+      "title": "親子3人が乗る漁船 転落の2人死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601680?source=rss",
-      "publishedAt": "2026-11-07T09:54:38.000Z",
-      "xQuery": "事故漁船に親子3人 転落し2人死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6601686?source=rss",
+      "publishedAt": "2026-11-07T11:02:48.000Z",
+      "xQuery": "親子3人が乗る漁船 転落の2人死亡"
     },
     {
       "time": "16:52",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "銭湯の混浴制限 悩む親たちの本音"
     },
     {
-      "time": "17:08",
-      "title": "障害者と性 問題提起の投稿真意",
+      "time": "17:45",
+      "title": "ブッダボット 仏教界でAI活用模索",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601665?source=rss",
-      "publishedAt": "2026-11-07T08:08:36.000Z",
-      "xQuery": "障害者と性 問題提起の投稿真意"
+      "url": "https://news.yahoo.co.jp/pickup/6601670?source=rss",
+      "publishedAt": "2026-11-07T08:45:09.000Z",
+      "xQuery": "ブッダボット 仏教界でAI活用模索"
     }
   ]
 };
