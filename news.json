@@ -1,19 +1,12 @@
 {
-  "updatedAt": "2026-11-07T22:09:24.590Z",
+  "updatedAt": "2026-11-07T22:34:56.993Z",
   "groups": {
     "machineHeadlines": [
       {
-        "time": "09:30",
-        "title": "産業用ベアリング市場は2035年に3億7,917万米ドルに到達、CAGR 4.3％で成長｜自動車・工作機械・製造設備における高耐久性・省エネ・高性能ベアリング需要が拡大",
-        "source": "Newscast.jp",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4tZ3Y4U0xrRlBIVDZXMDNxcjRuUXlqemcweE1xTFdhV01PWVIxclRyWEhnVmxYOThrLTJ0VFZnUTRCSVVUVmJmMnYwQmFPeHM?oc=5",
-        "publishedAt": "2026-11-07T00:30:00.000Z"
-      },
-      {
         "time": "10:30",
         "title": "工作機械用ボールねじの世界市場（2026年～2032年）、市場規模（内循環ボールねじ、外循環ボールねじ）・分析レポートを発表",
-        "source": "アットプレス",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9kem9GbHZPNTFaNmRvNnRmRzFrdFhrX0lWZDUwb1p1WUVfVGNOVGxCSUNybl9BTUxBdHVDem4xcmQzWDMxVUlLVm9oZldYVjg?oc=5",
+        "source": "Newscast.jp",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE53aVUyamoycm1lUU92eFJGZmpRc0ZQQXZSSnQtUGpLcHktWTRmTUd3QkFZTkxTUEktb081cTBQc0JYbnJ2dFpJNTY2bzRyeWc?oc=5",
         "publishedAt": "2026-11-07T01:30:00.000Z"
       },
       {
@@ -31,11 +24,11 @@
         "publishedAt": "2026-11-07T02:26:00.000Z"
       },
       {
-        "time": "19:53",
-        "title": "【ひと・交差点】三成興業の渡辺大輔社長 よろず支援拠点の優良事例で表彰",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAtTmN0MU4wOTdRN2RPTjkwZGFCaVdHZWFrRENUNkJ5cmtaT29laDNWdklNU3R4MVctSURGemJ5dV9mNmVBZ3YxME50UXNXbmxuYlE?oc=5",
-        "publishedAt": "2026-11-07T10:53:29.000Z"
+        "time": "09:30",
+        "title": "産業用ベアリング市場は2035年に3億7,917万米ドルに到達、CAGR 4.3％で成長｜自動車・工作機械・製造設備における高耐久性・省エネ・高性能ベアリング需要が拡大",
+        "source": "Newscast.jp",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4tZ3Y4U0xrRlBIVDZXMDNxcjRuUXlqemcweE1xTFdhV01PWVIxclRyWEhnVmxYOThrLTJ0VFZnUTRCSVVUVmJmMnYwQmFPeHM?oc=5",
+        "publishedAt": "2026-11-07T00:30:00.000Z"
       },
       {
         "time": "05:33",
@@ -57,6 +50,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601633?source=rss",
         "publishedAt": "2026-11-07T04:31:21.000Z"
+      },
+      {
+        "time": "09:59",
+        "title": "テスラ サイバートラック生産縮小",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6601614?source=rss",
+        "publishedAt": "2026-11-07T00:59:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "07:25",
+        "title": "愛知県で震度5強 20人超がけが",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6601724?source=rss",
+        "publishedAt": "2026-11-07T22:25:19.000Z"
+      },
+      {
         "time": "23:37",
         "title": "大阪維新の会「吉村体制」3期目に",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601640?source=rss",
         "publishedAt": "2026-11-07T05:07:53.000Z"
-      },
-      {
-        "time": "20:02",
-        "title": "親子3人が乗る漁船 転落の2人死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601686?source=rss",
-        "publishedAt": "2026-11-07T11:02:48.000Z"
       }
     ],
     "subsidyHeadlines": [

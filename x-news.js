@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-07T22:09:25.627Z",
+  "updatedAt": "2026-11-07T22:34:57.665Z",
   "items": [
     {
       "time": "01:13",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "愛知県で震度5強 津波の心配なし"
     },
     {
+      "time": "07:25",
+      "title": "愛知県で震度5強 20人超がけが",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601724?source=rss",
+      "publishedAt": "2026-11-07T22:25:19.000Z",
+      "xQuery": "愛知県で震度5強 20人超がけが"
+    },
+    {
       "time": "23:18",
       "title": "米中間選挙 共和党大敗の舞台裏",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6601716?source=rss",
       "publishedAt": "2026-11-07T14:18:01.000Z",
       "xQuery": "米中間選挙 共和党大敗の舞台裏"
-    },
-    {
-      "time": "23:37",
-      "title": "大阪維新の会「吉村体制」3期目に",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601718?source=rss",
-      "publishedAt": "2026-11-07T14:37:04.000Z",
-      "xQuery": "大阪維新の会「吉村体制」3期目に"
     },
     {
       "time": "22:13",
