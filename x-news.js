@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-07T16:10:55.457Z",
+  "updatedAt": "2026-11-07T16:35:09.946Z",
   "items": [
     {
-      "time": "01:08",
-      "title": "地震情報",
+      "time": "01:13",
+      "title": "愛知県で震度5強 津波の心配なし",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595430?source=rss",
-      "publishedAt": "2026-11-07T16:08:21.000Z",
-      "xQuery": "地震情報"
+      "url": "https://news.yahoo.co.jp/pickup/6601719?source=rss",
+      "publishedAt": "2026-11-07T16:13:23.000Z",
+      "xQuery": "愛知県で震度5強 津波の心配なし"
     },
     {
       "time": "23:18",
