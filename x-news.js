@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-07T03:35:56.746Z",
+  "updatedAt": "2026-11-07T04:12:25.046Z",
   "items": [
     {
       "time": "12:19",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "欧州各地で爆破予告 報道機関にも"
     },
     {
-      "time": "09:22",
-      "title": "岸田氏 国債NISAは慎重な検討必要",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601610?source=rss",
-      "publishedAt": "2026-11-07T00:22:31.000Z",
-      "xQuery": "岸田氏 国債NISAは慎重な検討必要"
-    },
-    {
       "time": "10:39",
       "title": "子宮頸がん死50年に4割増 米大学",
       "source": "Yahoo!ニュース",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6601623?source=rss",
       "publishedAt": "2026-11-07T01:58:54.000Z",
       "xQuery": "故障車修理中 車突っ込み1人死亡"
+    },
+    {
+      "time": "10:45",
+      "title": "洗濯機やドライヤー「静音」続々",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601619?source=rss",
+      "publishedAt": "2026-11-07T01:45:01.000Z",
+      "xQuery": "洗濯機やドライヤー「静音」続々"
     }
   ]
 };
