@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-07T13:34:58.535Z",
+  "updatedAt": "2026-11-07T14:09:21.965Z",
   "items": [
+    {
+      "time": "22:27",
+      "title": "露 JT法人3社を一時管理下に追加",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601707?source=rss",
+      "publishedAt": "2026-11-07T13:27:51.000Z",
+      "xQuery": "露 JT法人3社を一時管理下に追加"
+    },
     {
       "time": "22:06",
       "title": "「継戦能力」強化を明記 政府検討",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6601689?source=rss",
       "publishedAt": "2026-11-07T11:35:24.000Z",
       "xQuery": "百条委に選出の県議巡り波紋 福岡"
-    },
-    {
-      "time": "21:18",
-      "title": "引き上げた宿泊税 京都市の使途は",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601697?source=rss",
-      "publishedAt": "2026-11-07T12:18:31.000Z",
-      "xQuery": "引き上げた宿泊税 京都市の使途は"
     }
   ]
 };
