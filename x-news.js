@@ -1,22 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-07T05:10:14.275Z",
+  "updatedAt": "2026-11-07T05:35:24.077Z",
   "items": [
-    {
-      "time": "09:44",
-      "title": "超党派議連 ICC赤根所長らを激励",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601612?source=rss",
-      "publishedAt": "2026-11-07T00:44:21.000Z",
-      "xQuery": "超党派議連 ICC赤根所長らを激励"
-    },
-    {
-      "time": "11:55",
-      "title": "カルト指導者に禁錮200年 ケニア",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601628?source=rss",
-      "publishedAt": "2026-11-07T02:55:01.000Z",
-      "xQuery": "カルト指導者に禁錮200年 ケニア"
-    },
     {
       "time": "13:34",
       "title": "露がJT資産管理 制裁緩和狙いか",
@@ -26,20 +10,36 @@ window.LUS_X_NEWS = {
       "xQuery": "露がJT資産管理 制裁緩和狙いか"
     },
     {
+      "time": "09:44",
+      "title": "超党派議連 ICC赤根所長らを激励",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601612?source=rss",
+      "publishedAt": "2026-11-07T00:44:21.000Z",
+      "xQuery": "超党派議連 ICC赤根所長らを激励"
+    },
+    {
+      "time": "14:02",
+      "title": "32年ぶりに「台風32号」発生",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601638?source=rss",
+      "publishedAt": "2026-11-07T05:02:46.000Z",
+      "xQuery": "32年ぶりに「台風32号」発生"
+    },
+    {
+      "time": "14:07",
+      "title": "マンション建築現場で転落 死亡",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601640?source=rss",
+      "publishedAt": "2026-11-07T05:07:53.000Z",
+      "xQuery": "マンション建築現場で転落 死亡"
+    },
+    {
       "time": "13:31",
       "title": "不正アクセス ゲーセンにも影響",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6601633?source=rss",
       "publishedAt": "2026-11-07T04:31:21.000Z",
       "xQuery": "不正アクセス ゲーセンにも影響"
-    },
-    {
-      "time": "11:37",
-      "title": "なぜ?「有線イヤホン」が再流行",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601625?source=rss",
-      "publishedAt": "2026-11-07T02:37:46.000Z",
-      "xQuery": "なぜ?「有線イヤホン」が再流行"
     }
   ]
 };
