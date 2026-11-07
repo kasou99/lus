@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-07T02:35:59.933Z",
+  "updatedAt": "2026-11-07T03:12:40.955Z",
   "items": [
     {
       "time": "10:39",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "子宮頸がん死50年に4割増 米大学"
     },
     {
-      "time": "09:59",
-      "title": "テスラ サイバートラック生産縮小",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601614?source=rss",
-      "publishedAt": "2026-11-07T00:59:00.000Z",
-      "xQuery": "テスラ サイバートラック生産縮小"
-    },
-    {
       "time": "10:58",
       "title": "故障車修理中 車突っ込み1人死亡",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6601623?source=rss",
       "publishedAt": "2026-11-07T01:58:54.000Z",
       "xQuery": "故障車修理中 車突っ込み1人死亡"
+    },
+    {
+      "time": "08:53",
+      "title": "迷惑行為ショウリンジ 7歳も補導",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601602?source=rss",
+      "publishedAt": "2026-11-06T23:53:35.000Z",
+      "xQuery": "迷惑行為ショウリンジ 7歳も補導"
     }
   ]
 };
