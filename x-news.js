@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-07T10:09:31.439Z",
+  "updatedAt": "2026-11-07T10:35:02.990Z",
   "items": [
+    {
+      "time": "19:03",
+      "title": "8日朝 東京など冷え込み今季一番",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601681?source=rss",
+      "publishedAt": "2026-11-07T10:03:12.000Z",
+      "xQuery": "8日朝 東京など冷え込み今季一番"
+    },
     {
       "time": "17:23",
       "title": "自民 採決前退席の4氏に説明要求",
@@ -8,14 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6601664?source=rss",
       "publishedAt": "2026-11-07T08:23:17.000Z",
       "xQuery": "自民 採決前退席の4氏に説明要求"
-    },
-    {
-      "time": "16:57",
-      "title": "中国の大学など 日本語学ぶ学生減",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601663?source=rss",
-      "publishedAt": "2026-11-07T07:57:28.000Z",
-      "xQuery": "中国の大学など 日本語学ぶ学生減"
     },
     {
       "time": "18:54",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "事故漁船に親子3人 転落し2人死亡"
     },
     {
+      "time": "16:52",
+      "title": "銭湯の混浴制限 悩む親たちの本音",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601661?source=rss",
+      "publishedAt": "2026-11-07T07:52:34.000Z",
+      "xQuery": "銭湯の混浴制限 悩む親たちの本音"
+    },
+    {
       "time": "17:08",
       "title": "障害者と性 問題提起の投稿真意",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6601665?source=rss",
       "publishedAt": "2026-11-07T08:08:36.000Z",
       "xQuery": "障害者と性 問題提起の投稿真意"
-    },
-    {
-      "time": "17:27",
-      "title": "受験生困惑?県の図書館長期休館",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601668?source=rss",
-      "publishedAt": "2026-11-07T08:27:09.000Z",
-      "xQuery": "受験生困惑?県の図書館長期休館"
     }
   ]
 };

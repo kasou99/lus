@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T10:09:30.411Z",
+  "updatedAt": "2026-11-07T10:35:02.467Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -24,6 +24,13 @@
         "publishedAt": "2026-11-06T20:56:22.000Z"
       },
       {
+        "time": "11:26",
+        "title": "JT株が19％超下落 子会社がロシア管理下になり売り殺到 日本政府は措置撤回求める（テレ朝NEWS）",
+        "source": "ｄメニューニュース",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcFQ5T2dDc3dtZ3JMRjVEaVozbkszcnhhY2JmNHdNdzltMzJ4ZmpfcnEydmFRY21rUTJsZ0l6Uks0NHJJWmdfTlFDVnRZT05VT1NaQ3NuVGdoTlJyLVRVcmJNSUxMcENzeVJXMDEwSUh5UW9pWU13cHpjWjBhNXgybkczeWcxMUo0c2htRXNuYw?oc=5",
+        "publishedAt": "2026-11-07T02:26:00.000Z"
+      },
+      {
         "time": "09:30",
         "title": "産業用ベアリング市場は2035年に3億7,917万米ドルに到達、CAGR 4.3％で成長｜自動車・工作機械・製造設備における高耐久性・省エネ・高性能ベアリング需要が拡大",
         "source": "Newscast.jp",
@@ -38,25 +45,18 @@
         "publishedAt": "2026-11-06T16:15:25.000Z"
       },
       {
-        "time": "22:15",
-        "title": "「導入しても回らない」保全DXを動かす―設備管理BPaaS「MENTENAワークス」提供開始",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ub2h6WEVrRjlCUGlSQTVmZ1c2ZHR4UzdPbXd5ckZjOWNHQlEzdWRCaWxvaURabmZaSkczZllBYjFvaWhjQkVXaXNVY0taQ0JDVUszRA?oc=5",
-        "publishedAt": "2026-11-06T13:15:18.000Z"
+        "time": "11:30",
+        "title": "JT株が19％超下落 子会社がロシア管理下になり売り殺到 日本政府は措置撤回求める",
+        "source": "ABEMA TIMES",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1UMTBnMmNBY3puQnVqc3pxZGhTemhxQlVBNmVkRm5XWDFBandVQVBORWY3SllFSXJrRkpNTG5LX0lWVUtCZTB5U1N3eFI1bERSOWMwXw?oc=5",
+        "publishedAt": "2026-11-07T02:30:37.000Z"
       },
       {
-        "time": "21:30",
-        "title": "その貯蔵品管理、Excelで続けますか？",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5pUTJiOVh2Y3lwQkpRQzdSOHkwdE9KZXR3RXQwUnNUbFVnMzBIWkdDazZTeGFEZlhrVnRLd0hPV1pRejVOVjNQUVNRQmNBSkc4M1NkZko1UnQ1aUhBNmN2QkhDOVVJSy1H?oc=5",
-        "publishedAt": "2026-11-06T12:30:23.000Z"
-      },
-      {
-        "time": "11:26",
-        "title": "JT株が19％超下落 子会社がロシア管理下になり売り殺到 日本政府は措置撤回求める（テレ朝NEWS）",
-        "source": "ｄメニューニュース",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcFQ5T2dDc3dtZ3JMRjVEaVozbkszcnhhY2JmNHdNdzltMzJ4ZmpfcnEydmFRY21rUTJsZ0l6Uks0NHJJWmdfTlFDVnRZT05VT1NaQ3NuVGdoTlJyLVRVcmJNSUxMcENzeVJXMDEwSUh5UW9pWU13cHpjWjBhNXgybkczeWcxMUo0c2htRXNuYw?oc=5",
-        "publishedAt": "2026-11-07T02:26:00.000Z"
+        "time": "20:03",
+        "title": "東京駅から直通「羽田空港アクセス線」海底トンネル工事現場を公開 2031年開業目指し16日に掘進開始",
+        "source": "東京新聞",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBiNm1TUlZ1SmJvR0d5N2VpNkY0M2E0N2V3bEc4dUhSY1lxN2hsWjZaeTlaLWVmOHVsdjZNRFh3dDhMWmtxQVpiQUM1eVJNc21QOVV0RUlQVngwcGpKYUk4QXBn?oc=5",
+        "publishedAt": "2026-11-06T11:03:42.000Z"
       }
     ],
     "worldHeadlines": [
