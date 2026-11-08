@@ -1,21 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-08T10:10:19.338Z",
+  "updatedAt": "2026-11-08T10:35:07.932Z",
   "items": [
     {
-      "time": "15:51",
-      "title": "台風 強い勢力で小笠原諸島接近か",
+      "time": "17:02",
+      "title": "首相 金正恩氏との首脳会談に意欲",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601792?source=rss",
-      "publishedAt": "2026-11-08T06:51:34.000Z",
-      "xQuery": "台風 強い勢力で小笠原諸島接近か"
-    },
-    {
-      "time": "14:55",
-      "title": "仏全土で抗議デモ 360人拘束",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601788?source=rss",
-      "publishedAt": "2026-11-08T05:55:29.000Z",
-      "xQuery": "仏全土で抗議デモ 360人拘束"
+      "url": "https://news.yahoo.co.jp/pickup/6601806?source=rss",
+      "publishedAt": "2026-11-08T08:02:24.000Z",
+      "xQuery": "首相 金正恩氏との首脳会談に意欲"
     },
     {
       "time": "17:23",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "埼玉の利根川に遺体 不明の14歳か"
     },
     {
-      "time": "17:25",
-      "title": "事故で娘失う 病院で母「いやだ」",
+      "time": "18:43",
+      "title": "緑茶飲料に逆風 麦茶など存在感",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601812?source=rss",
-      "publishedAt": "2026-11-08T08:25:11.000Z",
-      "xQuery": "事故で娘失う 病院で母「いやだ」"
+      "url": "https://news.yahoo.co.jp/pickup/6601821?source=rss",
+      "publishedAt": "2026-11-08T09:43:53.000Z",
+      "xQuery": "緑茶飲料に逆風 麦茶など存在感"
+    },
+    {
+      "time": "18:56",
+      "title": "スズメバチ対策にロープ&クリップ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601825?source=rss",
+      "publishedAt": "2026-11-08T09:56:46.000Z",
+      "xQuery": "スズメバチ対策にロープ&クリップ"
     }
   ]
 };
