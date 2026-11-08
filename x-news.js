@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-08T07:35:23.939Z",
+  "updatedAt": "2026-11-08T08:13:39.917Z",
   "items": [
     {
       "time": "14:33",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "自民 消費減税採決棄権で処分検討"
     },
     {
-      "time": "13:43",
-      "title": "露衛星の軍事利用開始か ウ警戒",
+      "time": "15:51",
+      "title": "台風 強い勢力で小笠原諸島接近か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601779?source=rss",
-      "publishedAt": "2026-11-08T04:43:39.000Z",
-      "xQuery": "露衛星の軍事利用開始か ウ警戒"
+      "url": "https://news.yahoo.co.jp/pickup/6601792?source=rss",
+      "publishedAt": "2026-11-08T06:51:34.000Z",
+      "xQuery": "台風 強い勢力で小笠原諸島接近か"
     },
     {
       "time": "14:32",

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T07:35:22.824Z",
+  "updatedAt": "2026-11-08T08:13:39.356Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,10 +17,17 @@
         "publishedAt": "2026-11-08T05:10:00.000Z"
       },
       {
+        "time": "07:23",
+        "title": "東京貿易テクノシステム株式会社 「JIMTOF 2026」に出展 測定データをものづくりの改善につなげるソリューションを展示",
+        "source": "朝日新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5IaU5SY0Z5UTZ1bWJhNVhVMGFtLXFkWGVRQ0JLWVVQM3pPR2pjZ3k3MzAtcTJBb2NGeUhTcGh0NWxXdHJSQTVDdEtJMzhaS0M1VlVaWEFTMHhTQkk?oc=5",
+        "publishedAt": "2026-11-07T22:23:33.000Z"
+      },
+      {
         "time": "14:45",
         "title": "呉市にて最大級の機械工具展示会を開催！",
         "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5JWTU0OUNCQnlIZlVxM0dQdUJacEhRclpEVEhJMTFCUlIzNmJXektRUlJUOFNGTlNmZV9XbFJja3BELTByRXJNbXBvZW1fdjlXUnZSUE50M3J0TllaWmEweDhTVGFZRTlvN3NIYk05THBCaUdGQjlLaWQzUQ?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1BZVcyUVE3ZXltU2dXTHZIa2Y2VnJtRE0zX01CWUVkOXdSeHFLWERpT0xJTFRqZV9LTDc5SlJSQ3c1al9LVDNPRElNM2pHX0JVTGtnNy1GdE5GN3c5dElObm9ocHNYamhKNWRiblYxeFRRSW02MzVmem5B?oc=5",
         "publishedAt": "2026-11-08T05:45:31.000Z"
       },
       {
@@ -50,13 +57,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601744?source=rss",
         "publishedAt": "2026-11-08T00:14:58.000Z"
-      },
-      {
-        "time": "07:52",
-        "title": "東海道新幹線 地震で最大60分遅れ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601728?source=rss",
-        "publishedAt": "2026-11-07T22:52:37.000Z"
       }
     ],
     "worldHeadlines": [
@@ -184,11 +184,11 @@
         "publishedAt": "2026-11-08T00:58:20.000Z"
       },
       {
-        "time": "21:32",
-        "title": "女性を監禁疑い 供述後に遺体発見",
+        "time": "21:10",
+        "title": "ダイビング中の70代女性 行方不明",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601700?source=rss",
-        "publishedAt": "2026-11-07T12:32:34.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6601693?source=rss",
+        "publishedAt": "2026-11-07T12:10:47.000Z"
       }
     ],
     "subsidyHeadlines": [
