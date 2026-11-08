@@ -1,14 +1,7 @@
 {
-  "updatedAt": "2026-11-08T05:11:00.574Z",
+  "updatedAt": "2026-11-08T05:35:46.964Z",
   "groups": {
     "machineHeadlines": [
-      {
-        "time": "09:57",
-        "title": "工場管理システム「MENTENA」、2026年12月より英語版を提供開始 海外工場の保全業務の可視化・標準化を支援",
-        "source": "朝日新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9IWGVlb1c3OWtnRDRzbHV3OEZNTWZqejBGWlk2MXA5YnlwWVFiWjBRWjNkSF9YRzFKTkFNbkE2UDNsVFhLcWdjNXhLUk9Vbk9SNU5fQjNWU1Z0X2c?oc=5",
-        "publishedAt": "2026-11-08T00:57:18.000Z"
-      },
       {
         "time": "04:54",
         "title": "JT株が19％超下落 子会社がロシア管理下になり売り殺到 日本政府は措置撤回求める",
@@ -31,13 +24,6 @@
         "publishedAt": "2026-11-07T20:33:45.000Z"
       },
       {
-        "time": "14:18",
-        "title": "英国の新顔\"Samurai 220H\"は何が凄い？ 機械設計者が冷静に読み解く | しぶちょー技術研究所",
-        "source": "Howl.Link",
-        "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE1EU3MzOVc2c09LOU9iYlJ2NEtEd3ZyWHNHNDJxT1VjZ0RTa01XODllNVBmVHFfT1cwQkF3?oc=5",
-        "publishedAt": "2026-11-07T05:18:02.000Z"
-      },
-      {
         "time": "09:14",
         "title": "東北新幹線運転再開 ダイヤは乱れ",
         "source": "Yahoo!ニュース",
@@ -57,6 +43,20 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601755?source=rss",
         "publishedAt": "2026-11-08T01:37:50.000Z"
+      },
+      {
+        "time": "09:59",
+        "title": "テスラ サイバートラック生産縮小",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6601614?source=rss",
+        "publishedAt": "2026-11-07T00:59:00.000Z"
+      },
+      {
+        "time": "14:49",
+        "title": "スーパーの衣料品売れない? 今後",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6601643?source=rss",
+        "publishedAt": "2026-11-07T05:49:44.000Z"
       }
     ],
     "worldHeadlines": [

@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-08T05:11:01.339Z",
+  "updatedAt": "2026-11-08T05:35:47.888Z",
   "items": [
     {
       "time": "13:43",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "書店で男性切りつけられる 男逮捕"
     },
     {
-      "time": "10:00",
-      "title": "持ち運び用歯ブラシ 交換の目安は",
+      "time": "14:32",
+      "title": "個人情報「手放す」企業が続々",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601749?source=rss",
-      "publishedAt": "2026-11-08T01:00:33.000Z",
-      "xQuery": "持ち運び用歯ブラシ 交換の目安は"
+      "url": "https://news.yahoo.co.jp/pickup/6601787?source=rss",
+      "publishedAt": "2026-11-08T05:32:18.000Z",
+      "xQuery": "個人情報「手放す」企業が続々"
     }
   ]
 };
