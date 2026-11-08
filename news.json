@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T18:11:38.589Z",
+  "updatedAt": "2026-11-08T18:35:24.041Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,13 +17,6 @@
         "publishedAt": "2026-11-08T12:17:28.000Z"
       },
       {
-        "time": "09:57",
-        "title": "工場管理システム「MENTENA」、2026年12月より英語版を提供開始 海外工場の保全業務の可視化・標準化を支援",
-        "source": "朝日新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9IWGVlb1c3OWtnRDRzbHV3OEZNTWZqejBGWlk2MXA5YnlwWVFiWjBRWjNkSF9YRzFKTkFNbkE2UDNsVFhLcWdjNXhLUk9Vbk9SNU5fQjNWU1Z0X2c?oc=5",
-        "publishedAt": "2026-11-08T00:57:18.000Z"
-      },
-      {
         "time": "14:10",
         "title": "「導入しても回らない」保全DXを動かす―設備管理BPaaS「MENTENAワークス」提供開始",
         "source": "Infoseek",
@@ -31,11 +24,25 @@
         "publishedAt": "2026-11-08T05:10:00.000Z"
       },
       {
+        "time": "08:42",
+        "title": "日立、設備故障の予兆検知と故障診断を連携させるフィジカルAIソリューションを開発",
+        "source": "朝日新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5yemFFTVA5aWJhMEp0alZ3eENic1pZREZ5ekkwcGZEcy11ZXdXWGpza0ZaOHpRa0g1N1FvTGNDRnE4czA1S25TUE03VktIeVRialQ1TkxIaTZsNFU?oc=5",
+        "publishedAt": "2026-11-07T23:42:11.000Z"
+      },
+      {
         "time": "14:45",
         "title": "呉市にて最大級の機械工具展示会を開催！",
         "source": "ニコニコニュース",
         "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1BZVcyUVE3ZXltU2dXTHZIa2Y2VnJtRE0zX01CWUVkOXdSeHFLWERpT0xJTFRqZV9LTDc5SlJSQ3c1al9LVDNPRElNM2pHX0JVTGtnNy1GdE5GN3c5dElObm9ocHNYamhKNWRiblYxeFRRSW02MzVmem5B?oc=5",
         "publishedAt": "2026-11-08T05:45:31.000Z"
+      },
+      {
+        "time": "04:54",
+        "title": "JT株が19％超下落 子会社がロシア管理下になり売り殺到 日本政府は措置撤回求める",
+        "source": "ABEMA",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5iREZmUWhMU1d3ajlacGI0SDJHVmJTbDRWQUVvOElJTVRMbFBGUktacVhxYnpyR28zTTM4Mlh6eTFNTk9UT0VxeWhncHl0UU85UEkwQ3czMk4zT2s?oc=5",
+        "publishedAt": "2026-11-07T19:54:36.000Z"
       },
       {
         "time": "07:23",
@@ -50,13 +57,6 @@
         "source": "Dellows News",
         "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBtMXVGdUN5ajYxeENVOUg5QUUwRU9pcmlHXzg5OVNqajFxNDc3R29qUVdtVzhSTGNqVzdRZUtMX2xpN0wyZXc?oc=5",
         "publishedAt": "2026-11-07T20:33:45.000Z"
-      },
-      {
-        "time": "20:01",
-        "title": "ヤマザキマザック、愛知県に研究開発拠点を2027年8月開設へ",
-        "source": "Dellows News",
-        "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1kbHNwdkR0RWp5T2hJdW8wOHlneUkxeU1KTGJuQ0EyMEcyakViYVdRdHVoMDhDck1fM0tjOHYyN1duU0tzN3c?oc=5",
-        "publishedAt": "2026-11-08T11:01:10.000Z"
       }
     ],
     "worldHeadlines": [
