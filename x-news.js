@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-08T12:35:02.792Z",
+  "updatedAt": "2026-11-08T13:09:08.411Z",
   "items": [
     {
       "time": "18:50",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "清貧であるべき? 議員語る違和感"
     },
     {
-      "time": "17:59",
-      "title": "埼玉の利根川に遺体 不明の14歳か",
+      "time": "21:33",
+      "title": "福井の山林遺体 26歳女性と判明",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601818?source=rss",
-      "publishedAt": "2026-11-08T08:59:40.000Z",
-      "xQuery": "埼玉の利根川に遺体 不明の14歳か"
+      "url": "https://news.yahoo.co.jp/pickup/6601841?source=rss",
+      "publishedAt": "2026-11-08T12:33:34.000Z",
+      "xQuery": "福井の山林遺体 26歳女性と判明"
     },
     {
       "time": "20:40",
