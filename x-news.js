@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-08T00:32:40.482Z",
+  "updatedAt": "2026-11-08T01:11:25.024Z",
   "items": [
     {
       "time": "07:51",
@@ -10,12 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "愛知県で震度5強観測 約30年ぶり"
     },
     {
-      "time": "09:14",
-      "title": "東北新幹線運転再開 ダイヤは乱れ",
+      "time": "08:24",
+      "title": "あす都心11℃予想 12月下旬並み",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601744?source=rss",
-      "publishedAt": "2026-11-08T00:14:58.000Z",
-      "xQuery": "東北新幹線運転再開 ダイヤは乱れ"
+      "url": "https://news.yahoo.co.jp/pickup/6601737?source=rss",
+      "publishedAt": "2026-11-07T23:24:51.000Z",
+      "xQuery": "あす都心11℃予想 12月下旬並み"
+    },
+    {
+      "time": "09:58",
+      "title": "アメ横周辺 路上営業巡り家宅捜索",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601748?source=rss",
+      "publishedAt": "2026-11-08T00:58:20.000Z",
+      "xQuery": "アメ横周辺 路上営業巡り家宅捜索"
     },
     {
       "time": "08:12",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "互いに譲らず 冷え切った日中関係"
     },
     {
-      "time": "07:54",
-      "title": "ポーランドで銃乱射事件 6人死亡",
+      "time": "09:20",
+      "title": "東京・調布 VIVANTファンで盛況",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601729?source=rss",
-      "publishedAt": "2026-11-07T22:54:59.000Z",
-      "xQuery": "ポーランドで銃乱射事件 6人死亡"
-    },
-    {
-      "time": "07:59",
-      "title": "住宅火災で2遺体 1人は子どもか",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601733?source=rss",
-      "publishedAt": "2026-11-07T22:59:13.000Z",
-      "xQuery": "住宅火災で2遺体 1人は子どもか"
+      "url": "https://news.yahoo.co.jp/pickup/6601742?source=rss",
+      "publishedAt": "2026-11-08T00:20:26.000Z",
+      "xQuery": "東京・調布 VIVANTファンで盛況"
     }
   ]
 };
