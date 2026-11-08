@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-08T13:34:45.902Z",
+  "updatedAt": "2026-11-08T14:09:08.137Z",
   "items": [
     {
       "time": "22:13",
@@ -8,14 +8,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6601843?source=rss",
       "publishedAt": "2026-11-08T13:13:17.000Z",
       "xQuery": "欧州右派政党 トランプ氏離れ鮮明"
-    },
-    {
-      "time": "18:25",
-      "title": "清貧であるべき? 議員語る違和感",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601819?source=rss",
-      "publishedAt": "2026-11-08T09:25:52.000Z",
-      "xQuery": "清貧であるべき? 議員語る違和感"
     },
     {
       "time": "21:33",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "飛行中のパラグライダー墜落 死亡"
     },
     {
-      "time": "20:06",
-      "title": "山でサーモン養殖 28年1万t生産へ",
+      "time": "22:16",
+      "title": "死産の子に産着無償提供 広がる輪",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601831?source=rss",
-      "publishedAt": "2026-11-08T11:06:32.000Z",
-      "xQuery": "山でサーモン養殖 28年1万t生産へ"
+      "url": "https://news.yahoo.co.jp/pickup/6601845?source=rss",
+      "publishedAt": "2026-11-08T13:16:47.000Z",
+      "xQuery": "死産の子に産着無償提供 広がる輪"
+    },
+    {
+      "time": "22:24",
+      "title": "商品に個体差「不揃い」バズる訳",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601846?source=rss",
+      "publishedAt": "2026-11-08T13:24:35.000Z",
+      "xQuery": "商品に個体差「不揃い」バズる訳"
     }
   ]
 };
