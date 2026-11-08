@@ -1,13 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-08T04:35:47.205Z",
+  "updatedAt": "2026-11-08T05:11:01.339Z",
   "items": [
     {
-      "time": "11:55",
-      "title": "震度5強 南海トラフと関連性低い",
+      "time": "13:43",
+      "title": "露衛星の軍事利用開始か ウ警戒",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601764?source=rss",
-      "publishedAt": "2026-11-08T02:55:40.000Z",
-      "xQuery": "震度5強 南海トラフと関連性低い"
+      "url": "https://news.yahoo.co.jp/pickup/6601779?source=rss",
+      "publishedAt": "2026-11-08T04:43:39.000Z",
+      "xQuery": "露衛星の軍事利用開始か ウ警戒"
+    },
+    {
+      "time": "11:16",
+      "title": "トランプ氏 UFC代表に報道官打診",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601757?source=rss",
+      "publishedAt": "2026-11-08T02:16:55.000Z",
+      "xQuery": "トランプ氏 UFC代表に報道官打診"
     },
     {
       "time": "13:03",
@@ -18,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "ガザで豪雨 避難民のテントが浸水"
     },
     {
-      "time": "10:22",
-      "title": "東大の新学部開設 学生有志猛反発",
+      "time": "13:34",
+      "title": "書店で男性切りつけられる 男逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601752?source=rss",
-      "publishedAt": "2026-11-08T01:22:44.000Z",
-      "xQuery": "東大の新学部開設 学生有志猛反発"
+      "url": "https://news.yahoo.co.jp/pickup/6601778?source=rss",
+      "publishedAt": "2026-11-08T04:34:12.000Z",
+      "xQuery": "書店で男性切りつけられる 男逮捕"
     },
     {
       "time": "10:00",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6601749?source=rss",
       "publishedAt": "2026-11-08T01:00:33.000Z",
       "xQuery": "持ち運び用歯ブラシ 交換の目安は"
-    },
-    {
-      "time": "09:33",
-      "title": "「なりすまし電話」巧妙化 対策は",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601743?source=rss",
-      "publishedAt": "2026-11-08T00:33:18.000Z",
-      "xQuery": "「なりすまし電話」巧妙化 対策は"
     }
   ]
 };
