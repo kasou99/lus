@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-08T03:35:58.902Z",
+  "updatedAt": "2026-11-08T04:12:41.865Z",
   "items": [
     {
       "time": "11:55",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "東大の新学部開設 学生有志猛反発"
     },
     {
-      "time": "08:53",
-      "title": "iPS細胞活用のがん治験 来年開始",
+      "time": "10:00",
+      "title": "持ち運び用歯ブラシ 交換の目安は",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601739?source=rss",
-      "publishedAt": "2026-11-07T23:53:34.000Z",
-      "xQuery": "iPS細胞活用のがん治験 来年開始"
+      "url": "https://news.yahoo.co.jp/pickup/6601749?source=rss",
+      "publishedAt": "2026-11-08T01:00:33.000Z",
+      "xQuery": "持ち運び用歯ブラシ 交換の目安は"
     },
     {
       "time": "09:33",
