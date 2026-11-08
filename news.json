@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-11-08T12:14:07.396Z",
+  "updatedAt": "2026-11-08T12:35:01.984Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "21:17",
+        "title": "日本における電気制御パネルの市場動向",
+        "source": "pando.life",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5odmxxR2Z3OFU4WFBrd1VtelRjRGp5Tm0wYjdDeGlTYUtJTjJWazY2QnFZSmRjaDgtVUExN0dwUVptMFJUY1JNODd3?oc=5",
+        "publishedAt": "2026-11-08T12:17:28.000Z"
+      },
       {
         "time": "14:10",
         "title": "「導入しても回らない」保全DXを動かす―設備管理BPaaS「MENTENAワークス」提供開始",
@@ -10,18 +17,18 @@
         "publishedAt": "2026-11-08T05:10:00.000Z"
       },
       {
-        "time": "14:45",
-        "title": "呉市にて最大級の機械工具展示会を開催！",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1BZVcyUVE3ZXltU2dXTHZIa2Y2VnJtRE0zX01CWUVkOXdSeHFLWERpT0xJTFRqZV9LTDc5SlJSQ3c1al9LVDNPRElNM2pHX0JVTGtnNy1GdE5GN3c5dElObm9ocHNYamhKNWRiblYxeFRRSW02MzVmem5B?oc=5",
-        "publishedAt": "2026-11-08T05:45:31.000Z"
-      },
-      {
         "time": "08:42",
         "title": "日立、設備故障の予兆検知と故障診断を連携させるフィジカルAIソリューションを開発",
         "source": "朝日新聞",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5yemFFTVA5aWJhMEp0alZ3eENic1pZREZ5ekkwcGZEcy11ZXdXWGpza0ZaOHpRa0g1N1FvTGNDRnE4czA1S25TUE03VktIeVRialQ1TkxIaTZsNFU?oc=5",
         "publishedAt": "2026-11-07T23:42:11.000Z"
+      },
+      {
+        "time": "14:45",
+        "title": "呉市にて最大級の機械工具展示会を開催！",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1BZVcyUVE3ZXltU2dXTHZIa2Y2VnJtRE0zX01CWUVkOXdSeHFLWERpT0xJTFRqZV9LTDc5SlJSQ3c1al9LVDNPRElNM2pHX0JVTGtnNy1GdE5GN3c5dElObm9ocHNYamhKNWRiblYxeFRRSW02MzVmem5B?oc=5",
+        "publishedAt": "2026-11-08T05:45:31.000Z"
       },
       {
         "time": "04:54",
@@ -50,13 +57,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601744?source=rss",
         "publishedAt": "2026-11-08T00:14:58.000Z"
-      },
-      {
-        "time": "10:37",
-        "title": "JR内房線 1カ月半ぶりに全線再開",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601755?source=rss",
-        "publishedAt": "2026-11-08T01:37:50.000Z"
       }
     ],
     "worldHeadlines": [
@@ -149,18 +149,18 @@
     ],
     "localHeadlines": [
       {
-        "time": "07:25",
-        "title": "愛知県で震度5強 20人超がけが",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601724?source=rss",
-        "publishedAt": "2026-11-07T22:25:19.000Z"
-      },
-      {
         "time": "07:51",
         "title": "愛知県で震度5強観測 約30年ぶり",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601732?source=rss",
         "publishedAt": "2026-11-07T22:51:32.000Z"
+      },
+      {
+        "time": "21:33",
+        "title": "福井の山林遺体 26歳女性と判明",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6601841?source=rss",
+        "publishedAt": "2026-11-08T12:33:34.000Z"
       },
       {
         "time": "10:12",
