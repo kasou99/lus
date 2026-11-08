@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-08T06:17:46.935Z",
+  "updatedAt": "2026-11-08T06:37:24.008Z",
   "items": [
     {
       "time": "14:33",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "露衛星の軍事利用開始か ウ警戒"
     },
     {
-      "time": "13:03",
-      "title": "ガザで豪雨 避難民のテントが浸水",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601775?source=rss",
-      "publishedAt": "2026-11-08T04:03:46.000Z",
-      "xQuery": "ガザで豪雨 避難民のテントが浸水"
-    },
-    {
       "time": "14:32",
       "title": "個人情報「手放す」企業が続々",
       "source": "Yahoo!ニュース",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6601783?source=rss",
       "publishedAt": "2026-11-08T05:34:34.000Z",
       "xQuery": "増える遺産相続トラブル 背景は"
+    },
+    {
+      "time": "14:58",
+      "title": "迫る蛍光灯製造禁止 家庭も対応を",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601786?source=rss",
+      "publishedAt": "2026-11-08T05:58:43.000Z",
+      "xQuery": "迫る蛍光灯製造禁止 家庭も対応を"
     }
   ]
 };
