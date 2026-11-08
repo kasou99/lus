@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T01:38:58.948Z",
+  "updatedAt": "2026-11-08T02:15:50.438Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -10,11 +10,11 @@
         "publishedAt": "2026-11-07T02:26:00.000Z"
       },
       {
-        "time": "07:23",
-        "title": "東京貿易テクノシステム株式会社 「JIMTOF 2026」に出展 測定データをものづくりの改善につなげるソリューションを展示",
-        "source": "朝日新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5IaU5SY0Z5UTZ1bWJhNVhVMGFtLXFkWGVRQ0JLWVVQM3pPR2pjZ3k3MzAtcTJBb2NGeUhTcGh0NWxXdHJSQTVDdEtJMzhaS0M1VlVaWEFTMHhTQkk?oc=5",
-        "publishedAt": "2026-11-07T22:23:33.000Z"
+        "time": "19:53",
+        "title": "【ひと・交差点】三成興業の渡辺大輔社長 よろず支援拠点の優良事例で表彰",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAtTmN0MU4wOTdRN2RPTjkwZGFCaVdHZWFrRENUNkJ5cmtaT29laDNWdklNU3R4MVctSURGemJ5dV9mNmVBZ3YxME50UXNXbmxuYlE?oc=5",
+        "publishedAt": "2026-11-07T10:53:29.000Z"
       },
       {
         "time": "05:33",
@@ -45,18 +45,18 @@
         "publishedAt": "2026-11-07T22:52:37.000Z"
       },
       {
+        "time": "10:37",
+        "title": "JR内房線 1カ月半ぶりに全線再開",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6601755?source=rss",
+        "publishedAt": "2026-11-08T01:37:50.000Z"
+      },
+      {
         "time": "09:59",
         "title": "テスラ サイバートラック生産縮小",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601614?source=rss",
         "publishedAt": "2026-11-07T00:59:00.000Z"
-      },
-      {
-        "time": "14:49",
-        "title": "スーパーの衣料品売れない? 今後",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601643?source=rss",
-        "publishedAt": "2026-11-07T05:49:44.000Z"
       }
     ],
     "worldHeadlines": [
@@ -119,6 +119,13 @@
         "publishedAt": "2026-11-07T22:52:37.000Z"
       },
       {
+        "time": "10:37",
+        "title": "JR内房線 1カ月半ぶりに全線再開",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6601755?source=rss",
+        "publishedAt": "2026-11-08T01:37:50.000Z"
+      },
+      {
         "time": "09:59",
         "title": "テスラ サイバートラック生産縮小",
         "source": "Yahoo!ニュース",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601656?source=rss",
         "publishedAt": "2026-11-07T07:19:38.000Z"
-      },
-      {
-        "time": "18:26",
-        "title": "カスハラ 加害者にならないために",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601678?source=rss",
-        "publishedAt": "2026-11-07T09:26:39.000Z"
       }
     ],
     "localHeadlines": [

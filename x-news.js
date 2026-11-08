@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-08T01:38:59.636Z",
+  "updatedAt": "2026-11-08T02:15:51.259Z",
   "items": [
     {
-      "time": "07:51",
-      "title": "愛知県で震度5強観測 約30年ぶり",
+      "time": "11:01",
+      "title": "熊本県で震度4 津波の心配なし",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601732?source=rss",
-      "publishedAt": "2026-11-07T22:51:32.000Z",
-      "xQuery": "愛知県で震度5強観測 約30年ぶり"
+      "url": "https://news.yahoo.co.jp/pickup/6601758?source=rss",
+      "publishedAt": "2026-11-08T02:01:38.000Z",
+      "xQuery": "熊本県で震度4 津波の心配なし"
     },
     {
       "time": "08:57",
