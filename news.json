@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T18:35:24.041Z",
+  "updatedAt": "2026-11-08T19:08:18.970Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -8,6 +8,13 @@
         "source": "BigGo ファイナンス",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE14bjNzLXVoZHBKVnlERkN1OHZwR1BFdFRLVjZCV3gxQllnQXFqa1VCek1GSWg0SDdlTFdodXllT05wTzRUTmRNcXBLZDZmQVpYdjZyMWMxZU5pSkQ1WnFvMC1jbjNQTVVLMjVFM3MySnVCY1FJ?oc=5",
         "publishedAt": "2026-11-08T15:55:00.000Z"
+      },
+      {
+        "time": "19:10",
+        "title": "『カミナシ 設備保全』、保全データをAIが分析し予防保全の計画まで提案するAIエージェント機能を先行提供",
+        "source": "Excite エキサイト",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9HUmlubTd5aFpyZDBWaDItV0lKVFg4ck9pbFBZWmZTemROcFRFeFlwMEhuckJOWmlNeGlGUjQ1WUJPLUlzM3VsaEVPVzlXZXZ4dVdwYl9Yb3BGRE5XbnpQbVZTcm9wMDQ1c0dqbFVsS2F5Vjky?oc=5",
+        "publishedAt": "2026-11-08T10:10:00.000Z"
       },
       {
         "time": "21:17",
@@ -45,18 +52,11 @@
         "publishedAt": "2026-11-07T19:54:36.000Z"
       },
       {
-        "time": "07:23",
-        "title": "東京貿易テクノシステム株式会社 「JIMTOF 2026」に出展 測定データをものづくりの改善につなげるソリューションを展示",
-        "source": "朝日新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5IaU5SY0Z5UTZ1bWJhNVhVMGFtLXFkWGVRQ0JLWVVQM3pPR2pjZ3k3MzAtcTJBb2NGeUhTcGh0NWxXdHJSQTVDdEtJMzhaS0M1VlVaWEFTMHhTQkk?oc=5",
-        "publishedAt": "2026-11-07T22:23:33.000Z"
-      },
-      {
-        "time": "05:33",
-        "title": "株式会社M2XがFOOD展2026に次世代設備保全クラウドを出展へ",
-        "source": "Dellows News",
-        "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBtMXVGdUN5ajYxeENVOUg5QUUwRU9pcmlHXzg5OVNqajFxNDc3R29qUVdtVzhSTGNqVzdRZUtMX2xpN0wyZXc?oc=5",
-        "publishedAt": "2026-11-07T20:33:45.000Z"
+        "time": "21:01",
+        "title": "旋削工具市場の主要10社まとめ",
+        "source": "pando.life",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9yQ21jN2pjTnNrR0JCRVJLUUFUcmE3WVhHcE1pWHhUN2NEWk9pd3B0dFRZWUNXZDhsSXpWSDFOaU84ejNzMmg2VE5R?oc=5",
+        "publishedAt": "2026-11-08T12:01:39.000Z"
       }
     ],
     "worldHeadlines": [
