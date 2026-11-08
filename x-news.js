@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-08T01:11:25.024Z",
+  "updatedAt": "2026-11-08T01:38:59.636Z",
   "items": [
     {
       "time": "07:51",
@@ -10,12 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "愛知県で震度5強観測 約30年ぶり"
     },
     {
-      "time": "08:24",
-      "title": "あす都心11℃予想 12月下旬並み",
+      "time": "08:57",
+      "title": "露 ウのエネ施設に大規模攻撃",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601737?source=rss",
-      "publishedAt": "2026-11-07T23:24:51.000Z",
-      "xQuery": "あす都心11℃予想 12月下旬並み"
+      "url": "https://news.yahoo.co.jp/pickup/6601740?source=rss",
+      "publishedAt": "2026-11-07T23:57:35.000Z",
+      "xQuery": "露 ウのエネ施設に大規模攻撃"
+    },
+    {
+      "time": "10:12",
+      "title": "出火後に家に戻ったか 2遺体発見",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601751?source=rss",
+      "publishedAt": "2026-11-08T01:12:02.000Z",
+      "xQuery": "出火後に家に戻ったか 2遺体発見"
     },
     {
       "time": "09:58",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "アメ横周辺 路上営業巡り家宅捜索"
     },
     {
-      "time": "08:12",
-      "title": "互いに譲らず 冷え切った日中関係",
+      "time": "10:22",
+      "title": "東大の新学部開設 学生有志猛反発",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601734?source=rss",
-      "publishedAt": "2026-11-07T23:12:25.000Z",
-      "xQuery": "互いに譲らず 冷え切った日中関係"
-    },
-    {
-      "time": "09:20",
-      "title": "東京・調布 VIVANTファンで盛況",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601742?source=rss",
-      "publishedAt": "2026-11-08T00:20:26.000Z",
-      "xQuery": "東京・調布 VIVANTファンで盛況"
+      "url": "https://news.yahoo.co.jp/pickup/6601752?source=rss",
+      "publishedAt": "2026-11-08T01:22:44.000Z",
+      "xQuery": "東大の新学部開設 学生有志猛反発"
     }
   ]
 };
