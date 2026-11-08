@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-11-08T10:35:06.947Z",
+  "updatedAt": "2026-11-08T11:08:51.530Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "09:57",
+        "title": "工場管理システム「MENTENA」、2026年12月より英語版を提供開始 海外工場の保全業務の可視化・標準化を支援",
+        "source": "朝日新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9IWGVlb1c3OWtnRDRzbHV3OEZNTWZqejBGWlk2MXA5YnlwWVFiWjBRWjNkSF9YRzFKTkFNbkE2UDNsVFhLcWdjNXhLUk9Vbk9SNU5fQjNWU1Z0X2c?oc=5",
+        "publishedAt": "2026-11-08T00:57:18.000Z"
+      },
       {
         "time": "14:10",
         "title": "「導入しても回らない」保全DXを動かす―設備管理BPaaS「MENTENAワークス」提供開始",
@@ -22,13 +29,6 @@
         "source": "ABEMA",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5iREZmUWhMU1d3ajlacGI0SDJHVmJTbDRWQUVvOElJTVRMbFBGUktacVhxYnpyR28zTTM4Mlh6eTFNTk9UT0VxeWhncHl0UU85UEkwQ3czMk4zT2s?oc=5",
         "publishedAt": "2026-11-07T19:54:36.000Z"
-      },
-      {
-        "time": "19:53",
-        "title": "【ひと・交差点】三成興業の渡辺大輔社長 よろず支援拠点の優良事例で表彰",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAtTmN0MU4wOTdRN2RPTjkwZGFCaVdHZWFrRENUNkJ5cmtaT29laDNWdklNU3R4MVctSURGemJ5dV9mNmVBZ3YxME50UXNXbmxuYlE?oc=5",
-        "publishedAt": "2026-11-07T10:53:29.000Z"
       },
       {
         "time": "05:33",
