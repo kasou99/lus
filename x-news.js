@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-08T14:09:08.137Z",
+  "updatedAt": "2026-11-08T14:35:04.991Z",
   "items": [
     {
       "time": "22:13",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "欧州右派政党 トランプ氏離れ鮮明"
     },
     {
+      "time": "23:28",
+      "title": "日米外相会談 パリG7合わせ調整",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601851?source=rss",
+      "publishedAt": "2026-11-08T14:28:33.000Z",
+      "xQuery": "日米外相会談 パリG7合わせ調整"
+    },
+    {
       "time": "21:33",
       "title": "福井の山林遺体 26歳女性と判明",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6601841?source=rss",
       "publishedAt": "2026-11-08T12:33:34.000Z",
       "xQuery": "福井の山林遺体 26歳女性と判明"
-    },
-    {
-      "time": "20:40",
-      "title": "飛行中のパラグライダー墜落 死亡",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601832?source=rss",
-      "publishedAt": "2026-11-08T11:40:22.000Z",
-      "xQuery": "飛行中のパラグライダー墜落 死亡"
     },
     {
       "time": "22:16",
