@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-08T13:09:08.411Z",
+  "updatedAt": "2026-11-08T13:34:45.902Z",
   "items": [
     {
-      "time": "18:50",
-      "title": "9日は冬の寒さ 都心は1月上旬並み",
+      "time": "22:13",
+      "title": "欧州右派政党 トランプ氏離れ鮮明",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601822?source=rss",
-      "publishedAt": "2026-11-08T09:50:41.000Z",
-      "xQuery": "9日は冬の寒さ 都心は1月上旬並み"
+      "url": "https://news.yahoo.co.jp/pickup/6601843?source=rss",
+      "publishedAt": "2026-11-08T13:13:17.000Z",
+      "xQuery": "欧州右派政党 トランプ氏離れ鮮明"
     },
     {
       "time": "18:25",

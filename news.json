@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T13:09:07.022Z",
+  "updatedAt": "2026-11-08T13:34:44.856Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -61,6 +61,13 @@
     ],
     "worldHeadlines": [
       {
+        "time": "22:13",
+        "title": "欧州右派政党 トランプ氏離れ鮮明",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6601843?source=rss",
+        "publishedAt": "2026-11-08T13:13:17.000Z"
+      },
+      {
         "time": "10:28",
         "title": "中間選挙 接戦2州結果に数週間か",
         "source": "Yahoo!ニュース",
@@ -94,23 +101,9 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601788?source=rss",
         "publishedAt": "2026-11-08T05:55:29.000Z"
-      },
-      {
-        "time": "17:23",
-        "title": "カナリアの島に移民 緊急事態宣言",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601811?source=rss",
-        "publishedAt": "2026-11-08T08:23:24.000Z"
       }
     ],
     "economyHeadlines": [
-      {
-        "time": "09:14",
-        "title": "東北新幹線運転再開 ダイヤは乱れ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601744?source=rss",
-        "publishedAt": "2026-11-08T00:14:58.000Z"
-      },
       {
         "time": "10:37",
         "title": "JR内房線 1カ月半ぶりに全線再開",
@@ -138,6 +131,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601783?source=rss",
         "publishedAt": "2026-11-08T05:34:34.000Z"
+      },
+      {
+        "time": "22:24",
+        "title": "商品に個体差「不揃い」バズる訳",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6601846?source=rss",
+        "publishedAt": "2026-11-08T13:24:35.000Z"
       },
       {
         "time": "18:43",
