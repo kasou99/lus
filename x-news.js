@@ -1,29 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-07T23:35:13.390Z",
+  "updatedAt": "2026-11-08T00:32:40.482Z",
   "items": [
     {
-      "time": "07:25",
-      "title": "愛知県で震度5強 20人超がけが",
+      "time": "07:51",
+      "title": "愛知県で震度5強観測 約30年ぶり",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601724?source=rss",
-      "publishedAt": "2026-11-07T22:25:19.000Z",
-      "xQuery": "愛知県で震度5強 20人超がけが"
+      "url": "https://news.yahoo.co.jp/pickup/6601732?source=rss",
+      "publishedAt": "2026-11-07T22:51:32.000Z",
+      "xQuery": "愛知県で震度5強観測 約30年ぶり"
     },
     {
-      "time": "07:52",
-      "title": "東海道新幹線 地震で最大60分遅れ",
+      "time": "09:14",
+      "title": "東北新幹線運転再開 ダイヤは乱れ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601728?source=rss",
-      "publishedAt": "2026-11-07T22:52:37.000Z",
-      "xQuery": "東海道新幹線 地震で最大60分遅れ"
+      "url": "https://news.yahoo.co.jp/pickup/6601744?source=rss",
+      "publishedAt": "2026-11-08T00:14:58.000Z",
+      "xQuery": "東北新幹線運転再開 ダイヤは乱れ"
     },
     {
-      "time": "07:38",
-      "title": "東北新幹線 東京-盛岡で見合わせ",
+      "time": "08:12",
+      "title": "互いに譲らず 冷え切った日中関係",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601731?source=rss",
-      "publishedAt": "2026-11-07T22:38:37.000Z",
-      "xQuery": "東北新幹線 東京-盛岡で見合わせ"
+      "url": "https://news.yahoo.co.jp/pickup/6601734?source=rss",
+      "publishedAt": "2026-11-07T23:12:25.000Z",
+      "xQuery": "互いに譲らず 冷え切った日中関係"
     },
     {
       "time": "07:54",
