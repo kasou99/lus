@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-08T21:08:58.590Z",
+  "updatedAt": "2026-11-08T21:35:12.557Z",
   "items": [
     {
       "time": "22:13",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "福井の山中に女性遺体 死因は窒息"
     },
     {
-      "time": "22:16",
-      "title": "死産の子に産着無償提供 広がる輪",
+      "time": "06:32",
+      "title": "迷惑行為ショウリンジ SNS模倣か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601845?source=rss",
-      "publishedAt": "2026-11-08T13:16:47.000Z",
-      "xQuery": "死産の子に産着無償提供 広がる輪"
+      "url": "https://news.yahoo.co.jp/pickup/6601857?source=rss",
+      "publishedAt": "2026-11-08T21:32:55.000Z",
+      "xQuery": "迷惑行為ショウリンジ SNS模倣か"
     },
     {
       "time": "22:24",
