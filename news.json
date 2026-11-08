@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-11-08T15:34:50.536Z",
+  "updatedAt": "2026-11-08T16:10:42.078Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "00:55",
+        "title": "中国の全直駆式CNC工作機械大手・鉅鋭鍶（キョエイシ）、11月10日に上海証取科創板へ上場、公開価格は1株45.37元",
+        "source": "BigGo ファイナンス",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE14bjNzLXVoZHBKVnlERkN1OHZwR1BFdFRLVjZCV3gxQllnQXFqa1VCek1GSWg0SDdlTFdodXllT05wTzRUTmRNcXBLZDZmQVpYdjZyMWMxZU5pSkQ1WnFvMC1jbjNQTVVLMjVFM3MySnVCY1FJ?oc=5",
+        "publishedAt": "2026-11-08T15:55:00.000Z"
+      },
       {
         "time": "21:17",
         "title": "日本における電気制御パネルの市場動向",
@@ -31,18 +38,11 @@
         "publishedAt": "2026-11-08T05:45:31.000Z"
       },
       {
-        "time": "04:54",
-        "title": "JT株が19％超下落 子会社がロシア管理下になり売り殺到 日本政府は措置撤回求める",
-        "source": "ABEMA",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5iREZmUWhMU1d3ajlacGI0SDJHVmJTbDRWQUVvOElJTVRMbFBGUktacVhxYnpyR28zTTM4Mlh6eTFNTk9UT0VxeWhncHl0UU85UEkwQ3czMk4zT2s?oc=5",
-        "publishedAt": "2026-11-07T19:54:36.000Z"
-      },
-      {
-        "time": "21:01",
-        "title": "旋削工具市場の主要10社まとめ",
-        "source": "pando.life",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9yQ21jN2pjTnNrR0JCRVJLUUFUcmE3WVhHcE1pWHhUN2NEWk9pd3B0dFRZWUNXZDhsSXpWSDFOaU84ejNzMmg2VE5R?oc=5",
-        "publishedAt": "2026-11-08T12:01:39.000Z"
+        "time": "07:23",
+        "title": "東京貿易テクノシステム株式会社 「JIMTOF 2026」に出展 測定データをものづくりの改善につなげるソリューションを展示",
+        "source": "朝日新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5IaU5SY0Z5UTZ1bWJhNVhVMGFtLXFkWGVRQ0JLWVVQM3pPR2pjZ3k3MzAtcTJBb2NGeUhTcGh0NWxXdHJSQTVDdEtJMzhaS0M1VlVaWEFTMHhTQkk?oc=5",
+        "publishedAt": "2026-11-07T22:23:33.000Z"
       },
       {
         "time": "05:33",
