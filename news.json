@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T11:08:51.530Z",
+  "updatedAt": "2026-11-08T11:34:58.628Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,6 +31,13 @@
         "publishedAt": "2026-11-07T19:54:36.000Z"
       },
       {
+        "time": "07:23",
+        "title": "東京貿易テクノシステム株式会社 「JIMTOF 2026」に出展 測定データをものづくりの改善につなげるソリューションを展示",
+        "source": "朝日新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5IaU5SY0Z5UTZ1bWJhNVhVMGFtLXFkWGVRQ0JLWVVQM3pPR2pjZ3k3MzAtcTJBb2NGeUhTcGh0NWxXdHJSQTVDdEtJMzhaS0M1VlVaWEFTMHhTQkk?oc=5",
+        "publishedAt": "2026-11-07T22:23:33.000Z"
+      },
+      {
         "time": "05:33",
         "title": "株式会社M2XがFOOD展2026に次世代設備保全クラウドを出展へ",
         "source": "Dellows News",
@@ -50,13 +57,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601755?source=rss",
         "publishedAt": "2026-11-08T01:37:50.000Z"
-      },
-      {
-        "time": "17:32",
-        "title": "MAZDA3セダン 北米で売れる理由",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601813?source=rss",
-        "publishedAt": "2026-11-08T08:32:51.000Z"
       }
     ],
     "worldHeadlines": [

@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-08T11:08:53.194Z",
+  "updatedAt": "2026-11-08T11:34:59.727Z",
   "items": [
     {
       "time": "17:02",
@@ -18,6 +18,14 @@ window.LUS_X_NEWS = {
       "xQuery": "カナリアの島に移民 緊急事態宣言"
     },
     {
+      "time": "18:50",
+      "title": "9日は冬の寒さ 都心は1月上旬並み",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601822?source=rss",
+      "publishedAt": "2026-11-08T09:50:41.000Z",
+      "xQuery": "9日は冬の寒さ 都心は1月上旬並み"
+    },
+    {
       "time": "17:59",
       "title": "埼玉の利根川に遺体 不明の14歳か",
       "source": "Yahoo!ニュース",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "埼玉の利根川に遺体 不明の14歳か"
     },
     {
-      "time": "18:43",
-      "title": "緑茶飲料に逆風 麦茶など存在感",
+      "time": "20:06",
+      "title": "山でサーモン養殖 28年1万t生産へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601821?source=rss",
-      "publishedAt": "2026-11-08T09:43:53.000Z",
-      "xQuery": "緑茶飲料に逆風 麦茶など存在感"
-    },
-    {
-      "time": "18:56",
-      "title": "スズメバチ対策にロープ&クリップ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601825?source=rss",
-      "publishedAt": "2026-11-08T09:56:46.000Z",
-      "xQuery": "スズメバチ対策にロープ&クリップ"
+      "url": "https://news.yahoo.co.jp/pickup/6601831?source=rss",
+      "publishedAt": "2026-11-08T11:06:32.000Z",
+      "xQuery": "山でサーモン養殖 28年1万t生産へ"
     }
   ]
 };
