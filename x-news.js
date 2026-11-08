@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-08T08:35:35.255Z",
+  "updatedAt": "2026-11-08T09:11:34.773Z",
   "items": [
     {
       "time": "15:51",
@@ -18,28 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "仏全土で抗議デモ 360人拘束"
     },
     {
+      "time": "17:23",
+      "title": "カナリアの島に移民 緊急事態宣言",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601811?source=rss",
+      "publishedAt": "2026-11-08T08:23:24.000Z",
+      "xQuery": "カナリアの島に移民 緊急事態宣言"
+    },
+    {
+      "time": "17:59",
+      "title": "埼玉の利根川に遺体 不明の14歳か",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601818?source=rss",
+      "publishedAt": "2026-11-08T08:59:40.000Z",
+      "xQuery": "埼玉の利根川に遺体 不明の14歳か"
+    },
+    {
       "time": "15:59",
       "title": "書店員刺される 男「社会に恨み」",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6601795?source=rss",
       "publishedAt": "2026-11-08T06:59:28.000Z",
       "xQuery": "書店員刺される 男「社会に恨み」"
-    },
-    {
-      "time": "17:25",
-      "title": "事故で娘失う 病院で母「いやだ」",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601812?source=rss",
-      "publishedAt": "2026-11-08T08:25:11.000Z",
-      "xQuery": "事故で娘失う 病院で母「いやだ」"
-    },
-    {
-      "time": "17:32",
-      "title": "MAZDA3セダン 北米で売れる理由",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601813?source=rss",
-      "publishedAt": "2026-11-08T08:32:51.000Z",
-      "xQuery": "MAZDA3セダン 北米で売れる理由"
     }
   ]
 };
