@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-11-08T23:09:10.012Z",
+  "updatedAt": "2026-11-08T23:35:07.892Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "07:30",
+        "title": "中村留、新しいATC型複合加工機を披露 コンパクト設計と高精度加工を両立：JIMTOF2026",
+        "source": "MONOist",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5fVkdlcmxWS1Y4MUI1R1l4NUVYQlNfS3M0bExFaDItQUFVbUM4U2dVUndyZ0swVG1Ucnd6ODV5UnNzdndLQ19PZWRvS3FtSkZDcVMyVUdROXhBR3g0a0VRclVodWpNYzFIVERJdEdEQQ?oc=5",
+        "publishedAt": "2026-11-08T22:30:00.000Z"
+      },
       {
         "time": "00:55",
         "title": "中国の全直駆式CNC工作機械大手・鉅鋭鍶（キョエイシ）、11月10日に上海証取科創板へ上場、公開価格は1株45.37元",
@@ -45,18 +52,11 @@
         "publishedAt": "2026-11-08T05:45:31.000Z"
       },
       {
-        "time": "08:42",
-        "title": "日立、設備故障の予兆検知と故障診断を連携させるフィジカルAIソリューションを開発",
-        "source": "朝日新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5yemFFTVA5aWJhMEp0alZ3eENic1pZREZ5ekkwcGZEcy11ZXdXWGpza0ZaOHpRa0g1N1FvTGNDRnE4czA1S25TUE03VktIeVRialQ1TkxIaTZsNFU?oc=5",
-        "publishedAt": "2026-11-07T23:42:11.000Z"
-      },
-      {
-        "time": "21:01",
-        "title": "旋削工具市場の主要10社まとめ",
+        "time": "07:04",
+        "title": "アンゴラ潤滑剤の国内市場と将来予測",
         "source": "pando.life",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9yQ21jN2pjTnNrR0JCRVJLUUFUcmE3WVhHcE1pWHhUN2NEWk9pd3B0dFRZWUNXZDhsSXpWSDFOaU84ejNzMmg2VE5R?oc=5",
-        "publishedAt": "2026-11-08T12:01:39.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1UOGpCT0Z3RWNuWUpzRElYLUJuSEZ6M3RQNm5zeVRPd1ZCNFlXZXhrdWRHY1RZOVd0NksxdVN4TXdTWmV6eVhSdjF3?oc=5",
+        "publishedAt": "2026-11-08T22:04:44.000Z"
       }
     ],
     "worldHeadlines": [
@@ -66,13 +66,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601843?source=rss",
         "publishedAt": "2026-11-08T13:13:17.000Z"
-      },
-      {
-        "time": "10:28",
-        "title": "中間選挙 接戦2州結果に数週間か",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601753?source=rss",
-        "publishedAt": "2026-11-08T01:28:58.000Z"
       },
       {
         "time": "11:16",
@@ -87,6 +80,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601779?source=rss",
         "publishedAt": "2026-11-08T04:43:39.000Z"
+      },
+      {
+        "time": "08:31",
+        "title": "イスラエル 野党党首に組閣指示",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6601869?source=rss",
+        "publishedAt": "2026-11-08T23:31:59.000Z"
       },
       {
         "time": "14:55",
@@ -104,6 +104,13 @@
       }
     ],
     "economyHeadlines": [
+      {
+        "time": "08:28",
+        "title": "CEOと工作員の関係 NVIDIA調査",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6601868?source=rss",
+        "publishedAt": "2026-11-08T23:28:44.000Z"
+      },
       {
         "time": "17:32",
         "title": "MAZDA3セダン 北米で売れる理由",
@@ -126,11 +133,11 @@
         "publishedAt": "2026-11-08T22:46:35.000Z"
       },
       {
-        "time": "14:34",
-        "title": "増える遺産相続トラブル 背景は",
+        "time": "08:17",
+        "title": "Netflix 増収増益でリストラの訳",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601783?source=rss",
-        "publishedAt": "2026-11-08T05:34:34.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6601865?source=rss",
+        "publishedAt": "2026-11-08T23:17:17.000Z"
       },
       {
         "time": "22:24",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601846?source=rss",
         "publishedAt": "2026-11-08T13:24:35.000Z"
-      },
-      {
-        "time": "18:43",
-        "title": "緑茶飲料に逆風 麦茶など存在感",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601821?source=rss",
-        "publishedAt": "2026-11-08T09:43:53.000Z"
       }
     ],
     "localHeadlines": [
