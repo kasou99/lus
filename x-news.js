@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-08T14:35:04.991Z",
+  "updatedAt": "2026-11-08T15:08:50.807Z",
   "items": [
     {
       "time": "22:13",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "日米外相会談 パリG7合わせ調整"
     },
     {
-      "time": "21:33",
-      "title": "福井の山林遺体 26歳女性と判明",
+      "time": "23:39",
+      "title": "福井の山中に女性遺体 死因は窒息",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601841?source=rss",
-      "publishedAt": "2026-11-08T12:33:34.000Z",
-      "xQuery": "福井の山林遺体 26歳女性と判明"
+      "url": "https://news.yahoo.co.jp/pickup/6601853?source=rss",
+      "publishedAt": "2026-11-08T14:39:31.000Z",
+      "xQuery": "福井の山中に女性遺体 死因は窒息"
     },
     {
       "time": "22:16",
