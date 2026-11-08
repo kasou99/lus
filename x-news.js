@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-08T09:11:34.773Z",
+  "updatedAt": "2026-11-08T09:36:30.850Z",
   "items": [
     {
       "time": "15:51",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "埼玉の利根川に遺体 不明の14歳か"
     },
     {
-      "time": "15:59",
-      "title": "書店員刺される 男「社会に恨み」",
+      "time": "17:25",
+      "title": "事故で娘失う 病院で母「いやだ」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601795?source=rss",
-      "publishedAt": "2026-11-08T06:59:28.000Z",
-      "xQuery": "書店員刺される 男「社会に恨み」"
+      "url": "https://news.yahoo.co.jp/pickup/6601812?source=rss",
+      "publishedAt": "2026-11-08T08:25:11.000Z",
+      "xQuery": "事故で娘失う 病院で母「いやだ」"
     }
   ]
 };
