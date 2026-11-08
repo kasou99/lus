@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T22:09:34.990Z",
+  "updatedAt": "2026-11-08T22:34:57.903Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -89,18 +89,18 @@
         "publishedAt": "2026-11-08T04:43:39.000Z"
       },
       {
-        "time": "08:57",
-        "title": "露 ウのエネ施設に大規模攻撃",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601740?source=rss",
-        "publishedAt": "2026-11-07T23:57:35.000Z"
-      },
-      {
         "time": "14:55",
         "title": "仏全土で抗議デモ 360人拘束",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601788?source=rss",
         "publishedAt": "2026-11-08T05:55:29.000Z"
+      },
+      {
+        "time": "07:21",
+        "title": "エジプトで列車同士衝突 7人死亡",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6601860?source=rss",
+        "publishedAt": "2026-11-08T22:21:56.000Z"
       }
     ],
     "economyHeadlines": [
@@ -184,11 +184,11 @@
         "publishedAt": "2026-11-08T08:59:40.000Z"
       },
       {
-        "time": "20:40",
-        "title": "飛行中のパラグライダー墜落 死亡",
+        "time": "07:31",
+        "title": "パラグライダー 初心者イベで墜落",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601832?source=rss",
-        "publishedAt": "2026-11-08T11:40:22.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6601861?source=rss",
+        "publishedAt": "2026-11-08T22:31:11.000Z"
       }
     ],
     "subsidyHeadlines": [

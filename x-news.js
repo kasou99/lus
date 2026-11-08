@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-08T22:09:36.024Z",
+  "updatedAt": "2026-11-08T22:34:58.614Z",
   "items": [
     {
       "time": "06:44",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "9日 関東-北海道で師走並みの寒さ"
     },
     {
-      "time": "23:28",
-      "title": "日米外相会談 パリG7合わせ調整",
+      "time": "07:21",
+      "title": "エジプトで列車同士衝突 7人死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601851?source=rss",
-      "publishedAt": "2026-11-08T14:28:33.000Z",
-      "xQuery": "日米外相会談 パリG7合わせ調整"
+      "url": "https://news.yahoo.co.jp/pickup/6601860?source=rss",
+      "publishedAt": "2026-11-08T22:21:56.000Z",
+      "xQuery": "エジプトで列車同士衝突 7人死亡"
     },
     {
       "time": "23:39",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "福井の山中に女性遺体 死因は窒息"
     },
     {
+      "time": "07:31",
+      "title": "パラグライダー 初心者イベで墜落",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601861?source=rss",
+      "publishedAt": "2026-11-08T22:31:11.000Z",
+      "xQuery": "パラグライダー 初心者イベで墜落"
+    },
+    {
       "time": "06:32",
       "title": "迷惑行為ショウリンジ SNS模倣か",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6601857?source=rss",
       "publishedAt": "2026-11-08T21:32:55.000Z",
       "xQuery": "迷惑行為ショウリンジ SNS模倣か"
-    },
-    {
-      "time": "22:24",
-      "title": "商品に個体差「不揃い」バズる訳",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601846?source=rss",
-      "publishedAt": "2026-11-08T13:24:35.000Z",
-      "xQuery": "商品に個体差「不揃い」バズる訳"
     }
   ]
 };
