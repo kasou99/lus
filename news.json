@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T09:36:30.116Z",
+  "updatedAt": "2026-11-08T10:10:18.507Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -45,18 +45,18 @@
         "publishedAt": "2026-11-08T00:14:58.000Z"
       },
       {
-        "time": "07:52",
-        "title": "東海道新幹線 地震で最大60分遅れ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601728?source=rss",
-        "publishedAt": "2026-11-07T22:52:37.000Z"
-      },
-      {
         "time": "10:37",
         "title": "JR内房線 1カ月半ぶりに全線再開",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601755?source=rss",
         "publishedAt": "2026-11-08T01:37:50.000Z"
+      },
+      {
+        "time": "17:32",
+        "title": "MAZDA3セダン 北米で売れる理由",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6601813?source=rss",
+        "publishedAt": "2026-11-08T08:32:51.000Z"
       }
     ],
     "worldHeadlines": [
@@ -112,13 +112,6 @@
         "publishedAt": "2026-11-08T00:14:58.000Z"
       },
       {
-        "time": "07:52",
-        "title": "東海道新幹線 地震で最大60分遅れ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601728?source=rss",
-        "publishedAt": "2026-11-07T22:52:37.000Z"
-      },
-      {
         "time": "10:37",
         "title": "JR内房線 1カ月半ぶりに全線再開",
         "source": "Yahoo!ニュース",
@@ -145,6 +138,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601783?source=rss",
         "publishedAt": "2026-11-08T05:34:34.000Z"
+      },
+      {
+        "time": "18:43",
+        "title": "緑茶飲料に逆風 麦茶など存在感",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6601821?source=rss",
+        "publishedAt": "2026-11-08T09:43:53.000Z"
       }
     ],
     "localHeadlines": [
