@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T04:12:40.766Z",
+  "updatedAt": "2026-11-08T04:35:46.417Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -177,18 +177,18 @@
         "publishedAt": "2026-11-08T00:58:20.000Z"
       },
       {
+        "time": "13:34",
+        "title": "書店で男性切りつけられる 男逮捕",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6601778?source=rss",
+        "publishedAt": "2026-11-08T04:34:12.000Z"
+      },
+      {
         "time": "21:32",
         "title": "女性を監禁疑い 供述後に遺体発見",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601700?source=rss",
         "publishedAt": "2026-11-07T12:32:34.000Z"
-      },
-      {
-        "time": "21:10",
-        "title": "ダイビング中の70代女性 行方不明",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601693?source=rss",
-        "publishedAt": "2026-11-07T12:10:47.000Z"
       }
     ],
     "subsidyHeadlines": [

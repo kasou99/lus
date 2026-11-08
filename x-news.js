@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-08T04:12:41.865Z",
+  "updatedAt": "2026-11-08T04:35:47.205Z",
   "items": [
     {
       "time": "11:55",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "震度5強 南海トラフと関連性低い"
     },
     {
-      "time": "10:37",
-      "title": "JR内房線 1カ月半ぶりに全線再開",
+      "time": "13:03",
+      "title": "ガザで豪雨 避難民のテントが浸水",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601755?source=rss",
-      "publishedAt": "2026-11-08T01:37:50.000Z",
-      "xQuery": "JR内房線 1カ月半ぶりに全線再開"
+      "url": "https://news.yahoo.co.jp/pickup/6601775?source=rss",
+      "publishedAt": "2026-11-08T04:03:46.000Z",
+      "xQuery": "ガザで豪雨 避難民のテントが浸水"
     },
     {
       "time": "10:22",
