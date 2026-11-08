@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-11-08T03:14:06.050Z",
+  "updatedAt": "2026-11-08T03:35:57.970Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "07:23",
+        "title": "東京貿易テクノシステム株式会社 「JIMTOF 2026」に出展 測定データをものづくりの改善につなげるソリューションを展示",
+        "source": "朝日新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5IaU5SY0Z5UTZ1bWJhNVhVMGFtLXFkWGVRQ0JLWVVQM3pPR2pjZ3k3MzAtcTJBb2NGeUhTcGh0NWxXdHJSQTVDdEtJMzhaS0M1VlVaWEFTMHhTQkk?oc=5",
+        "publishedAt": "2026-11-07T22:23:33.000Z"
+      },
       {
         "time": "04:54",
         "title": "JT株が19％超下落 子会社がロシア管理下になり売り殺到 日本政府は措置撤回求める",
@@ -50,13 +57,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601755?source=rss",
         "publishedAt": "2026-11-08T01:37:50.000Z"
-      },
-      {
-        "time": "09:59",
-        "title": "テスラ サイバートラック生産縮小",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601614?source=rss",
-        "publishedAt": "2026-11-07T00:59:00.000Z"
       }
     ],
     "worldHeadlines": [
