@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-08T21:35:12.557Z",
+  "updatedAt": "2026-11-08T22:09:36.024Z",
   "items": [
     {
-      "time": "22:13",
-      "title": "欧州右派政党 トランプ氏離れ鮮明",
+      "time": "06:44",
+      "title": "9日 関東-北海道で師走並みの寒さ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601843?source=rss",
-      "publishedAt": "2026-11-08T13:13:17.000Z",
-      "xQuery": "欧州右派政党 トランプ氏離れ鮮明"
+      "url": "https://news.yahoo.co.jp/pickup/6601858?source=rss",
+      "publishedAt": "2026-11-08T21:44:30.000Z",
+      "xQuery": "9日 関東-北海道で師走並みの寒さ"
     },
     {
       "time": "23:28",
