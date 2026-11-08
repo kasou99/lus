@@ -1,22 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-08T11:34:59.727Z",
+  "updatedAt": "2026-11-08T12:14:08.335Z",
   "items": [
-    {
-      "time": "17:02",
-      "title": "首相 金正恩氏との首脳会談に意欲",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601806?source=rss",
-      "publishedAt": "2026-11-08T08:02:24.000Z",
-      "xQuery": "首相 金正恩氏との首脳会談に意欲"
-    },
-    {
-      "time": "17:23",
-      "title": "カナリアの島に移民 緊急事態宣言",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601811?source=rss",
-      "publishedAt": "2026-11-08T08:23:24.000Z",
-      "xQuery": "カナリアの島に移民 緊急事態宣言"
-    },
     {
       "time": "18:50",
       "title": "9日は冬の寒さ 都心は1月上旬並み",
@@ -26,12 +10,28 @@ window.LUS_X_NEWS = {
       "xQuery": "9日は冬の寒さ 都心は1月上旬並み"
     },
     {
+      "time": "18:25",
+      "title": "清貧であるべき? 議員語る違和感",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601819?source=rss",
+      "publishedAt": "2026-11-08T09:25:52.000Z",
+      "xQuery": "清貧であるべき? 議員語る違和感"
+    },
+    {
       "time": "17:59",
       "title": "埼玉の利根川に遺体 不明の14歳か",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6601818?source=rss",
       "publishedAt": "2026-11-08T08:59:40.000Z",
       "xQuery": "埼玉の利根川に遺体 不明の14歳か"
+    },
+    {
+      "time": "20:40",
+      "title": "飛行中のパラグライダー墜落 死亡",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601832?source=rss",
+      "publishedAt": "2026-11-08T11:40:22.000Z",
+      "xQuery": "飛行中のパラグライダー墜落 死亡"
     },
     {
       "time": "20:06",

@@ -1,14 +1,7 @@
 {
-  "updatedAt": "2026-11-08T11:34:58.628Z",
+  "updatedAt": "2026-11-08T12:14:07.396Z",
   "groups": {
     "machineHeadlines": [
-      {
-        "time": "09:57",
-        "title": "工場管理システム「MENTENA」、2026年12月より英語版を提供開始 海外工場の保全業務の可視化・標準化を支援",
-        "source": "朝日新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9IWGVlb1c3OWtnRDRzbHV3OEZNTWZqejBGWlk2MXA5YnlwWVFiWjBRWjNkSF9YRzFKTkFNbkE2UDNsVFhLcWdjNXhLUk9Vbk9SNU5fQjNWU1Z0X2c?oc=5",
-        "publishedAt": "2026-11-08T00:57:18.000Z"
-      },
       {
         "time": "14:10",
         "title": "「導入しても回らない」保全DXを動かす―設備管理BPaaS「MENTENAワークス」提供開始",
@@ -24,6 +17,13 @@
         "publishedAt": "2026-11-08T05:45:31.000Z"
       },
       {
+        "time": "08:42",
+        "title": "日立、設備故障の予兆検知と故障診断を連携させるフィジカルAIソリューションを開発",
+        "source": "朝日新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5yemFFTVA5aWJhMEp0alZ3eENic1pZREZ5ekkwcGZEcy11ZXdXWGpza0ZaOHpRa0g1N1FvTGNDRnE4czA1S25TUE03VktIeVRialQ1TkxIaTZsNFU?oc=5",
+        "publishedAt": "2026-11-07T23:42:11.000Z"
+      },
+      {
         "time": "04:54",
         "title": "JT株が19％超下落 子会社がロシア管理下になり売り殺到 日本政府は措置撤回求める",
         "source": "ABEMA",
@@ -31,11 +31,11 @@
         "publishedAt": "2026-11-07T19:54:36.000Z"
       },
       {
-        "time": "07:23",
-        "title": "東京貿易テクノシステム株式会社 「JIMTOF 2026」に出展 測定データをものづくりの改善につなげるソリューションを展示",
-        "source": "朝日新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5IaU5SY0Z5UTZ1bWJhNVhVMGFtLXFkWGVRQ0JLWVVQM3pPR2pjZ3k3MzAtcTJBb2NGeUhTcGh0NWxXdHJSQTVDdEtJMzhaS0M1VlVaWEFTMHhTQkk?oc=5",
-        "publishedAt": "2026-11-07T22:23:33.000Z"
+        "time": "21:01",
+        "title": "旋削工具市場の主要10社まとめ",
+        "source": "pando.life",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9yQ21jN2pjTnNrR0JCRVJLUUFUcmE3WVhHcE1pWHhUN2NEWk9pd3B0dFRZWUNXZDhsSXpWSDFOaU84ejNzMmg2VE5R?oc=5",
+        "publishedAt": "2026-11-08T12:01:39.000Z"
       },
       {
         "time": "05:33",
@@ -184,11 +184,11 @@
         "publishedAt": "2026-11-08T08:59:40.000Z"
       },
       {
-        "time": "09:58",
-        "title": "アメ横周辺 路上営業巡り家宅捜索",
+        "time": "20:40",
+        "title": "飛行中のパラグライダー墜落 死亡",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601748?source=rss",
-        "publishedAt": "2026-11-08T00:58:20.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6601832?source=rss",
+        "publishedAt": "2026-11-08T11:40:22.000Z"
       }
     ],
     "subsidyHeadlines": [
