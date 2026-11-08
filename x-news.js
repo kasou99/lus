@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-08T06:37:24.008Z",
+  "updatedAt": "2026-11-08T07:11:52.120Z",
   "items": [
     {
       "time": "14:33",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "個人情報「手放す」企業が続々"
     },
     {
-      "time": "14:34",
-      "title": "増える遺産相続トラブル 背景は",
+      "time": "15:59",
+      "title": "書店員刺される 男「社会に恨み」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601783?source=rss",
-      "publishedAt": "2026-11-08T05:34:34.000Z",
-      "xQuery": "増える遺産相続トラブル 背景は"
+      "url": "https://news.yahoo.co.jp/pickup/6601795?source=rss",
+      "publishedAt": "2026-11-08T06:59:28.000Z",
+      "xQuery": "書店員刺される 男「社会に恨み」"
     },
     {
-      "time": "14:58",
-      "title": "迫る蛍光灯製造禁止 家庭も対応を",
+      "time": "15:42",
+      "title": "倉庫には古米の山 赤字覚悟で販売",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601786?source=rss",
-      "publishedAt": "2026-11-08T05:58:43.000Z",
-      "xQuery": "迫る蛍光灯製造禁止 家庭も対応を"
+      "url": "https://news.yahoo.co.jp/pickup/6601793?source=rss",
+      "publishedAt": "2026-11-08T06:42:20.000Z",
+      "xQuery": "倉庫には古米の山 赤字覚悟で販売"
     }
   ]
 };

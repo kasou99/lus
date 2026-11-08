@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-11-08T06:37:19.023Z",
+  "updatedAt": "2026-11-08T07:11:51.528Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "09:57",
+        "title": "工場管理システム「MENTENA」、2026年12月より英語版を提供開始 海外工場の保全業務の可視化・標準化を支援",
+        "source": "朝日新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9IWGVlb1c3OWtnRDRzbHV3OEZNTWZqejBGWlk2MXA5YnlwWVFiWjBRWjNkSF9YRzFKTkFNbkE2UDNsVFhLcWdjNXhLUk9Vbk9SNU5fQjNWU1Z0X2c?oc=5",
+        "publishedAt": "2026-11-08T00:57:18.000Z"
+      },
       {
         "time": "14:10",
         "title": "「導入しても回らない」保全DXを動かす―設備管理BPaaS「MENTENAワークス」提供開始",
@@ -50,13 +57,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601728?source=rss",
         "publishedAt": "2026-11-07T22:52:37.000Z"
-      },
-      {
-        "time": "10:37",
-        "title": "JR内房線 1カ月半ぶりに全線再開",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601755?source=rss",
-        "publishedAt": "2026-11-08T01:37:50.000Z"
       }
     ],
     "worldHeadlines": [
@@ -126,11 +126,11 @@
         "publishedAt": "2026-11-08T01:37:50.000Z"
       },
       {
-        "time": "14:49",
-        "title": "スーパーの衣料品売れない? 今後",
+        "time": "15:42",
+        "title": "倉庫には古米の山 赤字覚悟で販売",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601643?source=rss",
-        "publishedAt": "2026-11-07T05:49:44.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6601793?source=rss",
+        "publishedAt": "2026-11-08T06:42:20.000Z"
       },
       {
         "time": "14:34",
@@ -170,18 +170,18 @@
         "publishedAt": "2026-11-08T01:12:02.000Z"
       },
       {
+        "time": "15:59",
+        "title": "書店員刺される 男「社会に恨み」",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6601795?source=rss",
+        "publishedAt": "2026-11-08T06:59:28.000Z"
+      },
+      {
         "time": "09:58",
         "title": "アメ横周辺 路上営業巡り家宅捜索",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601748?source=rss",
         "publishedAt": "2026-11-08T00:58:20.000Z"
-      },
-      {
-        "time": "13:34",
-        "title": "書店で男性切りつけられる 男逮捕",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601778?source=rss",
-        "publishedAt": "2026-11-08T04:34:12.000Z"
       },
       {
         "time": "21:32",
