@@ -1,13 +1,20 @@
 {
-  "updatedAt": "2026-11-08T02:15:50.438Z",
+  "updatedAt": "2026-11-08T02:35:40.338Z",
   "groups": {
     "machineHeadlines": [
       {
-        "time": "11:26",
-        "title": "JT株が19％超下落 子会社がロシア管理下になり売り殺到 日本政府は措置撤回求める（テレ朝NEWS）",
-        "source": "ｄメニューニュース",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcFQ5T2dDc3dtZ3JMRjVEaVozbkszcnhhY2JmNHdNdzltMzJ4ZmpfcnEydmFRY21rUTJsZ0l6Uks0NHJJWmdfTlFDVnRZT05VT1NaQ3NuVGdoTlJyLVRVcmJNSUxMcENzeVJXMDEwSUh5UW9pWU13cHpjWjBhNXgybkczeWcxMUo0c2htRXNuYw?oc=5",
-        "publishedAt": "2026-11-07T02:26:00.000Z"
+        "time": "05:33",
+        "title": "株式会社M2XがFOOD展2026に次世代設備保全クラウドを出展へ",
+        "source": "Dellows News",
+        "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBtMXVGdUN5ajYxeENVOUg5QUUwRU9pcmlHXzg5OVNqajFxNDc3R29qUVdtVzhSTGNqVzdRZUtMX2xpN0wyZXc?oc=5",
+        "publishedAt": "2026-11-07T20:33:45.000Z"
+      },
+      {
+        "time": "04:54",
+        "title": "JT株が19％超下落 子会社がロシア管理下になり売り殺到 日本政府は措置撤回求める",
+        "source": "ABEMA",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5iREZmUWhMU1d3ajlacGI0SDJHVmJTbDRWQUVvOElJTVRMbFBGUktacVhxYnpyR28zTTM4Mlh6eTFNTk9UT0VxeWhncHl0UU85UEkwQ3czMk4zT2s?oc=5",
+        "publishedAt": "2026-11-07T19:54:37.000Z"
       },
       {
         "time": "19:53",
@@ -15,13 +22,6 @@
         "source": "山陽新聞",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAtTmN0MU4wOTdRN2RPTjkwZGFCaVdHZWFrRENUNkJ5cmtaT29laDNWdklNU3R4MVctSURGemJ5dV9mNmVBZ3YxME50UXNXbmxuYlE?oc=5",
         "publishedAt": "2026-11-07T10:53:29.000Z"
-      },
-      {
-        "time": "05:33",
-        "title": "株式会社M2XがFOOD展2026に次世代設備保全クラウドを出展へ",
-        "source": "Dellows News",
-        "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBtMXVGdUN5ajYxeENVOUg5QUUwRU9pcmlHXzg5OVNqajFxNDc3R29qUVdtVzhSTGNqVzdRZUtMX2xpN0wyZXc?oc=5",
-        "publishedAt": "2026-11-07T20:33:45.000Z"
       },
       {
         "time": "14:18",
@@ -75,6 +75,13 @@
         "publishedAt": "2026-11-07T14:18:01.000Z"
       },
       {
+        "time": "11:16",
+        "title": "トランプ氏 UFC代表に報道官打診",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6601757?source=rss",
+        "publishedAt": "2026-11-08T02:16:55.000Z"
+      },
+      {
         "time": "08:57",
         "title": "露 ウのエネ施設に大規模攻撃",
         "source": "Yahoo!ニュース",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601729?source=rss",
         "publishedAt": "2026-11-07T22:54:59.000Z"
-      },
-      {
-        "time": "18:29",
-        "title": "ソマリア海賊問題が再燃 今年15件",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601675?source=rss",
-        "publishedAt": "2026-11-07T09:29:01.000Z"
       }
     ],
     "economyHeadlines": [

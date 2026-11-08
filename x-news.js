@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-08T02:15:51.259Z",
+  "updatedAt": "2026-11-08T02:35:41.223Z",
   "items": [
     {
       "time": "11:01",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "熊本県で震度4 津波の心配なし"
     },
     {
-      "time": "08:57",
-      "title": "露 ウのエネ施設に大規模攻撃",
+      "time": "10:28",
+      "title": "中間選挙 接戦2州結果に数週間か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601740?source=rss",
-      "publishedAt": "2026-11-07T23:57:35.000Z",
-      "xQuery": "露 ウのエネ施設に大規模攻撃"
+      "url": "https://news.yahoo.co.jp/pickup/6601753?source=rss",
+      "publishedAt": "2026-11-08T01:28:58.000Z",
+      "xQuery": "中間選挙 接戦2州結果に数週間か"
     },
     {
       "time": "10:12",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "出火後に家に戻ったか 2遺体発見"
     },
     {
-      "time": "09:58",
-      "title": "アメ横周辺 路上営業巡り家宅捜索",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601748?source=rss",
-      "publishedAt": "2026-11-08T00:58:20.000Z",
-      "xQuery": "アメ横周辺 路上営業巡り家宅捜索"
-    },
-    {
       "time": "10:22",
       "title": "東大の新学部開設 学生有志猛反発",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6601752?source=rss",
       "publishedAt": "2026-11-08T01:22:44.000Z",
       "xQuery": "東大の新学部開設 学生有志猛反発"
+    },
+    {
+      "time": "08:53",
+      "title": "iPS細胞活用のがん治験 来年開始",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601739?source=rss",
+      "publishedAt": "2026-11-07T23:53:34.000Z",
+      "xQuery": "iPS細胞活用のがん治験 来年開始"
     }
   ]
 };
