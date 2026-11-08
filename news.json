@@ -1,13 +1,27 @@
 {
-  "updatedAt": "2026-11-08T05:35:46.964Z",
+  "updatedAt": "2026-11-08T06:17:46.120Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "14:10",
+        "title": "「導入しても回らない」保全DXを動かす―設備管理BPaaS「MENTENAワークス」提供開始",
+        "source": "Infoseek",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBZWVBzZEFsc1lraXI3SHZhbEZSUjRMOEZhbDRGTVhaYjNweklRd1ZjcXhkUE4tVmh1SmJCbzNYRVF3UGEtSHU2ZGg5bzZpbE5oZWo0bzQtOHBJT1dObVVyV19lM0Y5SUprSVAyZ0VHd3hSUQ?oc=5",
+        "publishedAt": "2026-11-08T05:10:00.000Z"
+      },
+      {
+        "time": "14:45",
+        "title": "呉市にて最大級の機械工具展示会を開催！",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5JWTU0OUNCQnlIZlVxM0dQdUJacEhRclpEVEhJMTFCUlIzNmJXektRUlJUOFNGTlNmZV9XbFJja3BELTByRXJNbXBvZW1fdjlXUnZSUE50M3J0TllaWmEweDhTVGFZRTlvN3NIYk05THBCaUdGQjlLaWQzUQ?oc=5",
+        "publishedAt": "2026-11-08T05:45:31.000Z"
+      },
       {
         "time": "04:54",
         "title": "JT株が19％超下落 子会社がロシア管理下になり売り殺到 日本政府は措置撤回求める",
         "source": "ABEMA",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5iREZmUWhMU1d3ajlacGI0SDJHVmJTbDRWQUVvOElJTVRMbFBGUktacVhxYnpyR28zTTM4Mlh6eTFNTk9UT0VxeWhncHl0UU85UEkwQ3czMk4zT2s?oc=5",
-        "publishedAt": "2026-11-07T19:54:37.000Z"
+        "publishedAt": "2026-11-07T19:54:36.000Z"
       },
       {
         "time": "19:53",
@@ -43,20 +57,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601755?source=rss",
         "publishedAt": "2026-11-08T01:37:50.000Z"
-      },
-      {
-        "time": "09:59",
-        "title": "テスラ サイバートラック生産縮小",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601614?source=rss",
-        "publishedAt": "2026-11-07T00:59:00.000Z"
-      },
-      {
-        "time": "14:49",
-        "title": "スーパーの衣料品売れない? 今後",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601643?source=rss",
-        "publishedAt": "2026-11-07T05:49:44.000Z"
       }
     ],
     "worldHeadlines": [
@@ -96,11 +96,11 @@
         "publishedAt": "2026-11-07T23:57:35.000Z"
       },
       {
-        "time": "07:54",
-        "title": "ポーランドで銃乱射事件 6人死亡",
+        "time": "14:55",
+        "title": "仏全土で抗議デモ 360人拘束",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601729?source=rss",
-        "publishedAt": "2026-11-07T22:54:59.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6601788?source=rss",
+        "publishedAt": "2026-11-08T05:55:29.000Z"
       }
     ],
     "economyHeadlines": [
@@ -126,18 +126,18 @@
         "publishedAt": "2026-11-08T01:37:50.000Z"
       },
       {
-        "time": "09:59",
-        "title": "テスラ サイバートラック生産縮小",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601614?source=rss",
-        "publishedAt": "2026-11-07T00:59:00.000Z"
-      },
-      {
         "time": "14:49",
         "title": "スーパーの衣料品売れない? 今後",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601643?source=rss",
         "publishedAt": "2026-11-07T05:49:44.000Z"
+      },
+      {
+        "time": "14:34",
+        "title": "増える遺産相続トラブル 背景は",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6601783?source=rss",
+        "publishedAt": "2026-11-08T05:34:34.000Z"
       },
       {
         "time": "16:19",

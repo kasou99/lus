@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-08T05:35:47.888Z",
+  "updatedAt": "2026-11-08T06:17:46.935Z",
   "items": [
+    {
+      "time": "14:33",
+      "title": "自民 消費減税採決棄権で処分検討",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601782?source=rss",
+      "publishedAt": "2026-11-08T05:33:35.000Z",
+      "xQuery": "自民 消費減税採決棄権で処分検討"
+    },
     {
       "time": "13:43",
       "title": "露衛星の軍事利用開始か ウ警戒",
@@ -8,14 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6601779?source=rss",
       "publishedAt": "2026-11-08T04:43:39.000Z",
       "xQuery": "露衛星の軍事利用開始か ウ警戒"
-    },
-    {
-      "time": "11:16",
-      "title": "トランプ氏 UFC代表に報道官打診",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601757?source=rss",
-      "publishedAt": "2026-11-08T02:16:55.000Z",
-      "xQuery": "トランプ氏 UFC代表に報道官打診"
     },
     {
       "time": "13:03",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "ガザで豪雨 避難民のテントが浸水"
     },
     {
-      "time": "13:34",
-      "title": "書店で男性切りつけられる 男逮捕",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601778?source=rss",
-      "publishedAt": "2026-11-08T04:34:12.000Z",
-      "xQuery": "書店で男性切りつけられる 男逮捕"
-    },
-    {
       "time": "14:32",
       "title": "個人情報「手放す」企業が続々",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6601787?source=rss",
       "publishedAt": "2026-11-08T05:32:18.000Z",
       "xQuery": "個人情報「手放す」企業が続々"
+    },
+    {
+      "time": "14:34",
+      "title": "増える遺産相続トラブル 背景は",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601783?source=rss",
+      "publishedAt": "2026-11-08T05:34:34.000Z",
+      "xQuery": "増える遺産相続トラブル 背景は"
     }
   ]
 };
