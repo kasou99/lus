@@ -1,29 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-08T02:35:41.223Z",
+  "updatedAt": "2026-11-08T03:14:06.776Z",
   "items": [
     {
-      "time": "11:01",
-      "title": "熊本県で震度4 津波の心配なし",
+      "time": "11:55",
+      "title": "震度5強 南海トラフと関連性低い",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601758?source=rss",
-      "publishedAt": "2026-11-08T02:01:38.000Z",
-      "xQuery": "熊本県で震度4 津波の心配なし"
+      "url": "https://news.yahoo.co.jp/pickup/6601764?source=rss",
+      "publishedAt": "2026-11-08T02:55:40.000Z",
+      "xQuery": "震度5強 南海トラフと関連性低い"
     },
     {
-      "time": "10:28",
-      "title": "中間選挙 接戦2州結果に数週間か",
+      "time": "10:37",
+      "title": "JR内房線 1カ月半ぶりに全線再開",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601753?source=rss",
-      "publishedAt": "2026-11-08T01:28:58.000Z",
-      "xQuery": "中間選挙 接戦2州結果に数週間か"
-    },
-    {
-      "time": "10:12",
-      "title": "出火後に家に戻ったか 2遺体発見",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601751?source=rss",
-      "publishedAt": "2026-11-08T01:12:02.000Z",
-      "xQuery": "出火後に家に戻ったか 2遺体発見"
+      "url": "https://news.yahoo.co.jp/pickup/6601755?source=rss",
+      "publishedAt": "2026-11-08T01:37:50.000Z",
+      "xQuery": "JR内房線 1カ月半ぶりに全線再開"
     },
     {
       "time": "10:22",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6601739?source=rss",
       "publishedAt": "2026-11-07T23:53:34.000Z",
       "xQuery": "iPS細胞活用のがん治験 来年開始"
+    },
+    {
+      "time": "09:33",
+      "title": "「なりすまし電話」巧妙化 対策は",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601743?source=rss",
+      "publishedAt": "2026-11-08T00:33:18.000Z",
+      "xQuery": "「なりすまし電話」巧妙化 対策は"
     }
   ]
 };

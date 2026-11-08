@@ -1,14 +1,7 @@
 {
-  "updatedAt": "2026-11-08T02:35:40.338Z",
+  "updatedAt": "2026-11-08T03:14:06.050Z",
   "groups": {
     "machineHeadlines": [
-      {
-        "time": "05:33",
-        "title": "株式会社M2XがFOOD展2026に次世代設備保全クラウドを出展へ",
-        "source": "Dellows News",
-        "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBtMXVGdUN5ajYxeENVOUg5QUUwRU9pcmlHXzg5OVNqajFxNDc3R29qUVdtVzhSTGNqVzdRZUtMX2xpN0wyZXc?oc=5",
-        "publishedAt": "2026-11-07T20:33:45.000Z"
-      },
       {
         "time": "04:54",
         "title": "JT株が19％超下落 子会社がロシア管理下になり売り殺到 日本政府は措置撤回求める",
@@ -22,6 +15,13 @@
         "source": "山陽新聞",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAtTmN0MU4wOTdRN2RPTjkwZGFCaVdHZWFrRENUNkJ5cmtaT29laDNWdklNU3R4MVctSURGemJ5dV9mNmVBZ3YxME50UXNXbmxuYlE?oc=5",
         "publishedAt": "2026-11-07T10:53:29.000Z"
+      },
+      {
+        "time": "05:33",
+        "title": "株式会社M2XがFOOD展2026に次世代設備保全クラウドを出展へ",
+        "source": "Dellows News",
+        "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBtMXVGdUN5ajYxeENVOUg5QUUwRU9pcmlHXzg5OVNqajFxNDc3R29qUVdtVzhSTGNqVzdRZUtMX2xpN0wyZXc?oc=5",
+        "publishedAt": "2026-11-07T20:33:45.000Z"
       },
       {
         "time": "14:18",
