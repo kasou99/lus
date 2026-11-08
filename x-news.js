@@ -1,14 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-08T08:13:39.917Z",
+  "updatedAt": "2026-11-08T08:35:35.255Z",
   "items": [
-    {
-      "time": "14:33",
-      "title": "自民 消費減税採決棄権で処分検討",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601782?source=rss",
-      "publishedAt": "2026-11-08T05:33:35.000Z",
-      "xQuery": "自民 消費減税採決棄権で処分検討"
-    },
     {
       "time": "15:51",
       "title": "台風 強い勢力で小笠原諸島接近か",
@@ -18,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "台風 強い勢力で小笠原諸島接近か"
     },
     {
-      "time": "14:32",
-      "title": "個人情報「手放す」企業が続々",
+      "time": "14:55",
+      "title": "仏全土で抗議デモ 360人拘束",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601787?source=rss",
-      "publishedAt": "2026-11-08T05:32:18.000Z",
-      "xQuery": "個人情報「手放す」企業が続々"
+      "url": "https://news.yahoo.co.jp/pickup/6601788?source=rss",
+      "publishedAt": "2026-11-08T05:55:29.000Z",
+      "xQuery": "仏全土で抗議デモ 360人拘束"
     },
     {
       "time": "15:59",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "書店員刺される 男「社会に恨み」"
     },
     {
-      "time": "15:42",
-      "title": "倉庫には古米の山 赤字覚悟で販売",
+      "time": "17:25",
+      "title": "事故で娘失う 病院で母「いやだ」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601793?source=rss",
-      "publishedAt": "2026-11-08T06:42:20.000Z",
-      "xQuery": "倉庫には古米の山 赤字覚悟で販売"
+      "url": "https://news.yahoo.co.jp/pickup/6601812?source=rss",
+      "publishedAt": "2026-11-08T08:25:11.000Z",
+      "xQuery": "事故で娘失う 病院で母「いやだ」"
+    },
+    {
+      "time": "17:32",
+      "title": "MAZDA3セダン 北米で売れる理由",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601813?source=rss",
+      "publishedAt": "2026-11-08T08:32:51.000Z",
+      "xQuery": "MAZDA3セダン 北米で売れる理由"
     }
   ]
 };

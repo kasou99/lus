@@ -1,27 +1,13 @@
 {
-  "updatedAt": "2026-11-08T08:13:39.356Z",
+  "updatedAt": "2026-11-08T08:35:34.356Z",
   "groups": {
     "machineHeadlines": [
-      {
-        "time": "09:57",
-        "title": "工場管理システム「MENTENA」、2026年12月より英語版を提供開始 海外工場の保全業務の可視化・標準化を支援",
-        "source": "朝日新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9IWGVlb1c3OWtnRDRzbHV3OEZNTWZqejBGWlk2MXA5YnlwWVFiWjBRWjNkSF9YRzFKTkFNbkE2UDNsVFhLcWdjNXhLUk9Vbk9SNU5fQjNWU1Z0X2c?oc=5",
-        "publishedAt": "2026-11-08T00:57:18.000Z"
-      },
       {
         "time": "14:10",
         "title": "「導入しても回らない」保全DXを動かす―設備管理BPaaS「MENTENAワークス」提供開始",
         "source": "Infoseek",
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBZWVBzZEFsc1lraXI3SHZhbEZSUjRMOEZhbDRGTVhaYjNweklRd1ZjcXhkUE4tVmh1SmJCbzNYRVF3UGEtSHU2ZGg5bzZpbE5oZWo0bzQtOHBJT1dObVVyV19lM0Y5SUprSVAyZ0VHd3hSUQ?oc=5",
         "publishedAt": "2026-11-08T05:10:00.000Z"
-      },
-      {
-        "time": "07:23",
-        "title": "東京貿易テクノシステム株式会社 「JIMTOF 2026」に出展 測定データをものづくりの改善につなげるソリューションを展示",
-        "source": "朝日新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5IaU5SY0Z5UTZ1bWJhNVhVMGFtLXFkWGVRQ0JLWVVQM3pPR2pjZ3k3MzAtcTJBb2NGeUhTcGh0NWxXdHJSQTVDdEtJMzhaS0M1VlVaWEFTMHhTQkk?oc=5",
-        "publishedAt": "2026-11-07T22:23:33.000Z"
       },
       {
         "time": "14:45",
@@ -57,6 +43,20 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601744?source=rss",
         "publishedAt": "2026-11-08T00:14:58.000Z"
+      },
+      {
+        "time": "07:52",
+        "title": "東海道新幹線 地震で最大60分遅れ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6601728?source=rss",
+        "publishedAt": "2026-11-07T22:52:37.000Z"
+      },
+      {
+        "time": "10:37",
+        "title": "JR内房線 1カ月半ぶりに全線再開",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6601755?source=rss",
+        "publishedAt": "2026-11-08T01:37:50.000Z"
       }
     ],
     "worldHeadlines": [
@@ -66,13 +66,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601753?source=rss",
         "publishedAt": "2026-11-08T01:28:58.000Z"
-      },
-      {
-        "time": "23:18",
-        "title": "米中間選挙 共和党大敗の舞台裏",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601716?source=rss",
-        "publishedAt": "2026-11-07T14:18:01.000Z"
       },
       {
         "time": "11:16",
@@ -101,6 +94,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601788?source=rss",
         "publishedAt": "2026-11-08T05:55:29.000Z"
+      },
+      {
+        "time": "17:23",
+        "title": "カナリアの島に移民 緊急事態宣言",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6601811?source=rss",
+        "publishedAt": "2026-11-08T08:23:24.000Z"
       }
     ],
     "economyHeadlines": [
@@ -126,6 +126,13 @@
         "publishedAt": "2026-11-08T01:37:50.000Z"
       },
       {
+        "time": "17:32",
+        "title": "MAZDA3セダン 北米で売れる理由",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6601813?source=rss",
+        "publishedAt": "2026-11-08T08:32:51.000Z"
+      },
+      {
         "time": "15:42",
         "title": "倉庫には古米の山 赤字覚悟で販売",
         "source": "Yahoo!ニュース",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601783?source=rss",
         "publishedAt": "2026-11-08T05:34:34.000Z"
-      },
-      {
-        "time": "16:19",
-        "title": "購買力高い大学生 なぜ存在する",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601656?source=rss",
-        "publishedAt": "2026-11-07T07:19:38.000Z"
       }
     ],
     "localHeadlines": [
