@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T14:12:07.193Z",
+  "updatedAt": "2026-11-09T14:36:14.825Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -156,6 +156,13 @@
         "publishedAt": "2026-11-09T04:58:11.000Z"
       },
       {
+        "time": "23:20",
+        "title": "福岡県議会の疑惑 新たな実名証言",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6601966?source=rss",
+        "publishedAt": "2026-11-09T14:20:11.000Z"
+      },
+      {
         "time": "18:46",
         "title": "児童7人はねる 起訴内容を男黙秘",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601904?source=rss",
         "publishedAt": "2026-11-09T04:19:57.000Z"
-      },
-      {
-        "time": "11:45",
-        "title": "クマに襲われ5回手術 後悔尽きず",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601888?source=rss",
-        "publishedAt": "2026-11-09T02:45:25.000Z"
       }
     ],
     "subsidyHeadlines": [

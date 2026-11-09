@@ -1,21 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-09T14:12:08.535Z",
+  "updatedAt": "2026-11-09T14:36:15.699Z",
   "items": [
     {
-      "time": "17:13",
-      "title": "地銀サイバー対策に補助金で調整",
+      "time": "21:10",
+      "title": "4人戒告処分 自民「看過できず」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601925?source=rss",
-      "publishedAt": "2026-11-09T08:13:31.000Z",
-      "xQuery": "地銀サイバー対策に補助金で調整"
+      "url": "https://news.yahoo.co.jp/pickup/6601951?source=rss",
+      "publishedAt": "2026-11-09T12:10:07.000Z",
+      "xQuery": "4人戒告処分 自民「看過できず」"
     },
     {
-      "time": "19:26",
-      "title": "NTTなど5社 衛星連携へ協業検討",
+      "time": "21:54",
+      "title": "IPOに向けた準備に着手 サカナAI",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601943?source=rss",
-      "publishedAt": "2026-11-09T10:26:03.000Z",
-      "xQuery": "NTTなど5社 衛星連携へ協業検討"
+      "url": "https://news.yahoo.co.jp/pickup/6601958?source=rss",
+      "publishedAt": "2026-11-09T12:54:00.000Z",
+      "xQuery": "IPOに向けた準備に着手 サカナAI"
+    },
+    {
+      "time": "22:37",
+      "title": "大地震エネルギー蓄積か 日本海溝",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601961?source=rss",
+      "publishedAt": "2026-11-09T13:37:17.000Z",
+      "xQuery": "大地震エネルギー蓄積か 日本海溝"
     },
     {
       "time": "21:56",
@@ -24,14 +32,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6601959?source=rss",
       "publishedAt": "2026-11-09T12:56:57.000Z",
       "xQuery": "麻生コンクリ JIS認証取り消し"
-    },
-    {
-      "time": "21:10",
-      "title": "4人戒告処分 自民「看過できず」",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601951?source=rss",
-      "publishedAt": "2026-11-09T12:10:07.000Z",
-      "xQuery": "4人戒告処分 自民「看過できず」"
     },
     {
       "time": "22:08",
