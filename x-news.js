@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-09T04:35:41.646Z",
+  "updatedAt": "2026-11-09T05:13:20.496Z",
   "items": [
+    {
+      "time": "13:58",
+      "title": "26年の熊本地震 初の災害関連死",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601907?source=rss",
+      "publishedAt": "2026-11-09T04:58:11.000Z",
+      "xQuery": "26年の熊本地震 初の災害関連死"
+    },
     {
       "time": "12:32",
       "title": "都心は真冬並みの寒さ 寒暖差注意",
@@ -8,6 +16,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6601903?source=rss",
       "publishedAt": "2026-11-09T03:32:38.000Z",
       "xQuery": "都心は真冬並みの寒さ 寒暖差注意"
+    },
+    {
+      "time": "13:48",
+      "title": "採決直前に退席 石破氏が理由説明",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601906?source=rss",
+      "publishedAt": "2026-11-09T04:48:18.000Z",
+      "xQuery": "採決直前に退席 石破氏が理由説明"
     },
     {
       "time": "12:05",
@@ -18,28 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "三井化学がJSR買収 1兆8400億円"
     },
     {
-      "time": "10:45",
-      "title": "10月サイバー攻撃233件 過去最多",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601882?source=rss",
-      "publishedAt": "2026-11-09T01:45:34.000Z",
-      "xQuery": "10月サイバー攻撃233件 過去最多"
-    },
-    {
       "time": "13:19",
       "title": "山林の遺体 監禁後まもなく死亡か",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6601904?source=rss",
       "publishedAt": "2026-11-09T04:19:57.000Z",
       "xQuery": "山林の遺体 監禁後まもなく死亡か"
-    },
-    {
-      "time": "12:20",
-      "title": "幼児死亡 足蹴りした疑いで男逮捕",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601902?source=rss",
-      "publishedAt": "2026-11-09T03:20:22.000Z",
-      "xQuery": "幼児死亡 足蹴りした疑いで男逮捕"
     }
   ]
 };
