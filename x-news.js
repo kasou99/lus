@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-09T12:36:59.398Z",
+  "updatedAt": "2026-11-09T13:12:36.981Z",
   "items": [
     {
       "time": "19:53",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "JT株 2営業日連続のストップ安"
     },
     {
-      "time": "19:07",
-      "title": "NTT 保有するNEC全株売却を発表",
+      "time": "17:13",
+      "title": "地銀サイバー対策に補助金で調整",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601941?source=rss",
-      "publishedAt": "2026-11-09T10:07:31.000Z",
-      "xQuery": "NTT 保有するNEC全株売却を発表"
+      "url": "https://news.yahoo.co.jp/pickup/6601925?source=rss",
+      "publishedAt": "2026-11-09T08:13:31.000Z",
+      "xQuery": "地銀サイバー対策に補助金で調整"
     },
     {
       "time": "21:21",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "石破氏 戒告処分厳粛に受け止め"
     },
     {
+      "time": "21:56",
+      "title": "麻生コンクリ JIS認証取り消し",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601959?source=rss",
+      "publishedAt": "2026-11-09T12:56:57.000Z",
+      "xQuery": "麻生コンクリ JIS認証取り消し"
+    },
+    {
       "time": "20:10",
       "title": "同僚踏みつけ死亡させた疑い 逮捕",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6601947?source=rss",
       "publishedAt": "2026-11-09T11:10:10.000Z",
       "xQuery": "同僚踏みつけ死亡させた疑い 逮捕"
-    },
-    {
-      "time": "21:25",
-      "title": "1.5億円当せん いまだ換金されず",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601953?source=rss",
-      "publishedAt": "2026-11-09T12:25:22.000Z",
-      "xQuery": "1.5億円当せん いまだ換金されず"
     }
   ]
 };

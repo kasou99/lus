@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T12:36:58.699Z",
+  "updatedAt": "2026-11-09T13:12:35.906Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -112,18 +112,18 @@
         "publishedAt": "2026-11-09T10:53:26.000Z"
       },
       {
-        "time": "08:28",
-        "title": "CEOと工作員の関係 NVIDIA調査",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601868?source=rss",
-        "publishedAt": "2026-11-08T23:28:44.000Z"
-      },
-      {
         "time": "12:05",
         "title": "三井化学がJSR買収 1兆8400億円",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601897?source=rss",
         "publishedAt": "2026-11-09T03:05:24.000Z"
+      },
+      {
+        "time": "21:56",
+        "title": "麻生コンクリ JIS認証取り消し",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6601959?source=rss",
+        "publishedAt": "2026-11-09T12:56:57.000Z"
       },
       {
         "time": "19:07",
