@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-08T23:35:08.639Z",
+  "updatedAt": "2026-11-09T00:33:07.753Z",
   "items": [
     {
-      "time": "06:44",
-      "title": "9日 関東-北海道で師走並みの寒さ",
+      "time": "08:31",
+      "title": "イスラエル 野党党首に組閣指示",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601858?source=rss",
-      "publishedAt": "2026-11-08T21:44:30.000Z",
-      "xQuery": "9日 関東-北海道で師走並みの寒さ"
+      "url": "https://news.yahoo.co.jp/pickup/6601869?source=rss",
+      "publishedAt": "2026-11-08T23:31:59.000Z",
+      "xQuery": "イスラエル 野党党首に組閣指示"
     },
     {
-      "time": "07:21",
-      "title": "エジプトで列車同士衝突 7人死亡",
+      "time": "08:28",
+      "title": "CEOと工作員の関係 NVIDIA調査",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601860?source=rss",
-      "publishedAt": "2026-11-08T22:21:56.000Z",
-      "xQuery": "エジプトで列車同士衝突 7人死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6601868?source=rss",
+      "publishedAt": "2026-11-08T23:28:44.000Z",
+      "xQuery": "CEOと工作員の関係 NVIDIA調査"
     },
     {
       "time": "07:31",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "舎人ライナー 資金不足陥る可能性"
     },
     {
-      "time": "06:32",
-      "title": "迷惑行為ショウリンジ SNS模倣か",
+      "time": "08:52",
+      "title": "北朝鮮ハッカーのチャットか 入手",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601857?source=rss",
-      "publishedAt": "2026-11-08T21:32:55.000Z",
-      "xQuery": "迷惑行為ショウリンジ SNS模倣か"
+      "url": "https://news.yahoo.co.jp/pickup/6601870?source=rss",
+      "publishedAt": "2026-11-08T23:52:15.000Z",
+      "xQuery": "北朝鮮ハッカーのチャットか 入手"
     }
   ]
 };
