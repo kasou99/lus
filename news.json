@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T10:11:42.509Z",
+  "updatedAt": "2026-11-09T10:35:52.899Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -24,18 +24,18 @@
         "publishedAt": "2026-11-09T08:26:26.000Z"
       },
       {
-        "time": "08:54",
-        "title": "工作機械２０２６年度上半期受注額が初の１兆円超え",
-        "source": "金属産業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5yajJaWklNUW5hd01zUlpVcE5oME91bmJuazdfU1RsNjNwcDBZUmZCZzF4dGRveG9lZW81d0JhVS1penpNYVpjRXFIYkVLbTNZWkJMT0VGWEc?oc=5",
-        "publishedAt": "2026-11-08T23:54:27.000Z"
-      },
-      {
         "time": "07:30",
         "title": "中村留、新しいATC型複合加工機を披露 コンパクト設計と高精度加工を両立：JIMTOF2026",
         "source": "MONOist",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5fVkdlcmxWS1Y4MUI1R1l4NUVYQlNfS3M0bExFaDItQUFVbUM4U2dVUndyZ0swVG1Ucnd6ODV5UnNzdndLQ19PZWRvS3FtSkZDcVMyVUdROXhBR3g0a0VRclVodWpNYzFIVERJdEdEQQ?oc=5",
         "publishedAt": "2026-11-08T22:30:00.000Z"
+      },
+      {
+        "time": "08:54",
+        "title": "工作機械２０２６年度上半期受注額が初の１兆円超え",
+        "source": "金属産業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5yajJaWklNUW5hd01zUlpVcE5oME91bmJuazdfU1RsNjNwcDBZUmZCZzF4dGRveG9lZW81d0JhVS1penpNYVpjRXFIYkVLbTNZWkJMT0VGWEc?oc=5",
+        "publishedAt": "2026-11-08T23:54:27.000Z"
       },
       {
         "time": "13:00",

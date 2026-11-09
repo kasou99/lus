@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-09T10:11:43.261Z",
+  "updatedAt": "2026-11-09T10:35:53.633Z",
   "items": [
     {
       "time": "18:57",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "労基法 女子保護規定の全廃検討へ"
     },
     {
-      "time": "18:29",
-      "title": "コンロキャンセル界隈 なぜ拡大",
+      "time": "19:07",
+      "title": "NTT 保有するNEC全株売却を発表",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601935?source=rss",
-      "publishedAt": "2026-11-09T09:29:01.000Z",
-      "xQuery": "コンロキャンセル界隈 なぜ拡大"
+      "url": "https://news.yahoo.co.jp/pickup/6601941?source=rss",
+      "publishedAt": "2026-11-09T10:07:31.000Z",
+      "xQuery": "NTT 保有するNEC全株売却を発表"
     }
   ]
 };
