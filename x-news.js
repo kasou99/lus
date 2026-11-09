@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-09T09:16:38.770Z",
+  "updatedAt": "2026-11-09T09:34:49.960Z",
   "items": [
     {
       "time": "17:44",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "ニトリ 最大3762万件の情報流出か"
     },
     {
-      "time": "17:28",
-      "title": "体調不良の横浜市長 公務に復帰",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601929?source=rss",
-      "publishedAt": "2026-11-09T08:28:28.000Z",
-      "xQuery": "体調不良の横浜市長 公務に復帰"
-    },
-    {
       "time": "17:14",
       "title": "労基法 女子保護規定の全廃検討へ",
       "source": "Yahoo!ニュース",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6601920?source=rss",
       "publishedAt": "2026-11-09T07:27:19.000Z",
       "xQuery": "死亡男児の腸に穴 傷害疑い男逮捕"
+    },
+    {
+      "time": "17:13",
+      "title": "津波巡り欧州のビール物議 謝罪",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601926?source=rss",
+      "publishedAt": "2026-11-09T08:13:57.000Z",
+      "xQuery": "津波巡り欧州のビール物議 謝罪"
     }
   ]
 };
