@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-11-09T00:33:07.022Z",
+  "updatedAt": "2026-11-09T01:12:56.072Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "08:54",
+        "title": "工作機械２０２６年度上半期受注額が初の１兆円超え",
+        "source": "金属産業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5yajJaWklNUW5hd01zUlpVcE5oME91bmJuazdfU1RsNjNwcDBZUmZCZzF4dGRveG9lZW81d0JhVS1penpNYVpjRXFIYkVLbTNZWkJMT0VGWEc?oc=5",
+        "publishedAt": "2026-11-08T23:54:27.000Z"
+      },
       {
         "time": "07:30",
         "title": "中村留、新しいATC型複合加工機を披露 コンパクト設計と高精度加工を両立：JIMTOF2026",
@@ -31,20 +38,6 @@
         "publishedAt": "2026-11-08T12:17:28.000Z"
       },
       {
-        "time": "20:01",
-        "title": "ヤマザキマザック、愛知県に研究開発拠点を2027年8月開設へ",
-        "source": "Dellows News",
-        "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1kbHNwdkR0RWp5T2hJdW8wOHlneUkxeU1KTGJuQ0EyMEcyakViYVdRdHVoMDhDck1fM0tjOHYyN1duU0tzN3c?oc=5",
-        "publishedAt": "2026-11-08T11:01:10.000Z"
-      },
-      {
-        "time": "09:57",
-        "title": "工場管理システム「MENTENA」、2026年12月より英語版を提供開始 海外工場の保全業務の可視化・標準化を支援",
-        "source": "朝日新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9IWGVlb1c3OWtnRDRzbHV3OEZNTWZqejBGWlk2MXA5YnlwWVFiWjBRWjNkSF9YRzFKTkFNbkE2UDNsVFhLcWdjNXhLUk9Vbk9SNU5fQjNWU1Z0X2c?oc=5",
-        "publishedAt": "2026-11-08T00:57:18.000Z"
-      },
-      {
         "time": "14:10",
         "title": "「導入しても回らない」保全DXを動かす―設備管理BPaaS「MENTENAワークス」提供開始",
         "source": "Infoseek",
@@ -57,6 +50,13 @@
         "source": "ニコニコニュース",
         "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1BZVcyUVE3ZXltU2dXTHZIa2Y2VnJtRE0zX01CWUVkOXdSeHFLWERpT0xJTFRqZV9LTDc5SlJSQ3c1al9LVDNPRElNM2pHX0JVTGtnNy1GdE5GN3c5dElObm9ocHNYamhKNWRiblYxeFRRSW02MzVmem5B?oc=5",
         "publishedAt": "2026-11-08T05:45:31.000Z"
+      },
+      {
+        "time": "09:03",
+        "title": "Dify共同創業者、日本法人前代表のキジ マルダン氏、Cognitech.DEVの代表取締役CTOとして本格始動",
+        "source": "PR TIMES",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9zMjJ4aTBuUkxkdXI4dy1pZXpxa0FlV2dqS245dk94LXBHcDAyT1djbVJ3cjU3M1h0MHBpSFd2cWRvYXBBeWN3bXp6UU40LUFRYnZ2VndPZFNxTGQ4Z0l6cDZ4T2g5LUZjWGc?oc=5",
+        "publishedAt": "2026-11-09T00:03:18.000Z"
       }
     ],
     "worldHeadlines": [
@@ -66,6 +66,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601843?source=rss",
         "publishedAt": "2026-11-08T13:13:17.000Z"
+      },
+      {
+        "time": "09:45",
+        "title": "米大統領 戦闘再開「可能性低い」",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6601874?source=rss",
+        "publishedAt": "2026-11-09T00:45:33.000Z"
       },
       {
         "time": "11:16",
@@ -89,13 +96,6 @@
         "publishedAt": "2026-11-08T23:31:59.000Z"
       },
       {
-        "time": "14:55",
-        "title": "仏全土で抗議デモ 360人拘束",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601788?source=rss",
-        "publishedAt": "2026-11-08T05:55:29.000Z"
-      },
-      {
         "time": "07:21",
         "title": "エジプトで列車同士衝突 7人死亡",
         "source": "Yahoo!ニュース",
@@ -104,6 +104,13 @@
       }
     ],
     "economyHeadlines": [
+      {
+        "time": "09:51",
+        "title": "7/30に過去最大円買い介入7.9兆円",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6601877?source=rss",
+        "publishedAt": "2026-11-09T00:51:51.000Z"
+      },
       {
         "time": "08:28",
         "title": "CEOと工作員の関係 NVIDIA調査",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601865?source=rss",
         "publishedAt": "2026-11-08T23:17:17.000Z"
-      },
-      {
-        "time": "22:24",
-        "title": "商品に個体差「不揃い」バズる訳",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601846?source=rss",
-        "publishedAt": "2026-11-08T13:24:35.000Z"
       }
     ],
     "localHeadlines": [
@@ -154,13 +154,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601853?source=rss",
         "publishedAt": "2026-11-08T14:39:31.000Z"
-      },
-      {
-        "time": "10:12",
-        "title": "出火後に家に戻ったか 2遺体発見",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601751?source=rss",
-        "publishedAt": "2026-11-08T01:12:02.000Z"
       },
       {
         "time": "15:59",
@@ -182,6 +175,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601861?source=rss",
         "publishedAt": "2026-11-08T22:31:11.000Z"
+      },
+      {
+        "time": "09:46",
+        "title": "パラグライダー落下か 72歳死亡",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6601876?source=rss",
+        "publishedAt": "2026-11-09T00:46:28.000Z"
       },
       {
         "time": "09:58",

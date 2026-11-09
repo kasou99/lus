@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-09T00:33:07.753Z",
+  "updatedAt": "2026-11-09T01:12:57.054Z",
   "items": [
     {
-      "time": "08:31",
-      "title": "イスラエル 野党党首に組閣指示",
+      "time": "09:51",
+      "title": "7/30に過去最大円買い介入7.9兆円",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601869?source=rss",
-      "publishedAt": "2026-11-08T23:31:59.000Z",
-      "xQuery": "イスラエル 野党党首に組閣指示"
+      "url": "https://news.yahoo.co.jp/pickup/6601877?source=rss",
+      "publishedAt": "2026-11-09T00:51:51.000Z",
+      "xQuery": "7/30に過去最大円買い介入7.9兆円"
     },
     {
       "time": "08:28",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "CEOと工作員の関係 NVIDIA調査"
     },
     {
-      "time": "07:31",
-      "title": "パラグライダー 初心者イベで墜落",
+      "time": "09:46",
+      "title": "パラグライダー落下か 72歳死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601861?source=rss",
-      "publishedAt": "2026-11-08T22:31:11.000Z",
-      "xQuery": "パラグライダー 初心者イベで墜落"
+      "url": "https://news.yahoo.co.jp/pickup/6601876?source=rss",
+      "publishedAt": "2026-11-09T00:46:28.000Z",
+      "xQuery": "パラグライダー落下か 72歳死亡"
     },
     {
       "time": "07:46",
