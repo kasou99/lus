@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-09T10:35:53.633Z",
+  "updatedAt": "2026-11-09T11:10:37.364Z",
   "items": [
     {
       "time": "18:57",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "MAGAから急進左派へ 揺らぐ米国"
     },
     {
-      "time": "17:58",
-      "title": "ニトリ 最大3762万件の情報流出か",
+      "time": "19:07",
+      "title": "NTT 保有するNEC全株売却を発表",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601934?source=rss",
-      "publishedAt": "2026-11-09T08:58:01.000Z",
-      "xQuery": "ニトリ 最大3762万件の情報流出か"
+      "url": "https://news.yahoo.co.jp/pickup/6601941?source=rss",
+      "publishedAt": "2026-11-09T10:07:31.000Z",
+      "xQuery": "NTT 保有するNEC全株売却を発表"
     },
     {
       "time": "17:44",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "石破前首相ら4人を戒告処分 自民"
     },
     {
-      "time": "17:14",
-      "title": "労基法 女子保護規定の全廃検討へ",
+      "time": "19:53",
+      "title": "JT株 2営業日連続のストップ安",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601927?source=rss",
-      "publishedAt": "2026-11-09T08:14:20.000Z",
-      "xQuery": "労基法 女子保護規定の全廃検討へ"
+      "url": "https://news.yahoo.co.jp/pickup/6601946?source=rss",
+      "publishedAt": "2026-11-09T10:53:26.000Z",
+      "xQuery": "JT株 2営業日連続のストップ安"
     },
     {
-      "time": "19:07",
-      "title": "NTT 保有するNEC全株売却を発表",
+      "time": "18:29",
+      "title": "コンロキャンセル界隈 なぜ拡大",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601941?source=rss",
-      "publishedAt": "2026-11-09T10:07:31.000Z",
-      "xQuery": "NTT 保有するNEC全株売却を発表"
+      "url": "https://news.yahoo.co.jp/pickup/6601935?source=rss",
+      "publishedAt": "2026-11-09T09:29:01.000Z",
+      "xQuery": "コンロキャンセル界隈 なぜ拡大"
     }
   ]
 };
