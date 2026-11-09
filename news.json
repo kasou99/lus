@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T22:09:15.441Z",
+  "updatedAt": "2026-11-09T22:35:12.267Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -52,11 +52,11 @@
         "publishedAt": "2026-11-09T04:00:02.000Z"
       },
       {
-        "time": "07:30",
-        "title": "中村留、新しいATC型複合加工機を披露 コンパクト設計と高精度加工を両立：JIMTOF2026",
-        "source": "MONOist",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5fVkdlcmxWS1Y4MUI1R1l4NUVYQlNfS3M0bExFaDItQUFVbUM4U2dVUndyZ0swVG1Ucnd6ODV5UnNzdndLQ19PZWRvS3FtSkZDcVMyVUdROXhBR3g0a0VRclVodWpNYzFIVERJdEdEQQ?oc=5",
-        "publishedAt": "2026-11-08T22:30:00.000Z"
+        "time": "05:03",
+        "title": "台湾の自動搬送需要拡大、AI投資が波及",
+        "source": "LOGISTICS TODAY",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1hdVg0RC1fWGY3a0pKMGdvY2tUSU16WFlCSEtsMVNrNml2WnN4NExGMUhwRzBrajhWNUZMSXhLZkdXNkdaYmFJYTBR?oc=5",
+        "publishedAt": "2026-11-09T20:03:45.000Z"
       }
     ],
     "worldHeadlines": [
@@ -82,6 +82,13 @@
         "publishedAt": "2026-11-09T00:45:33.000Z"
       },
       {
+        "time": "07:27",
+        "title": "米国防長官の弾劾採決へ 米下院",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6601977?source=rss",
+        "publishedAt": "2026-11-09T22:27:29.000Z"
+      },
+      {
         "time": "11:08",
         "title": "米大統領 報道官にUFC代表は冗談",
         "source": "Yahoo!ニュース",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601880?source=rss",
         "publishedAt": "2026-11-09T01:26:38.000Z"
-      },
-      {
-        "time": "07:21",
-        "title": "エジプトで列車同士衝突 7人死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601860?source=rss",
-        "publishedAt": "2026-11-08T22:21:56.000Z"
       }
     ],
     "economyHeadlines": [

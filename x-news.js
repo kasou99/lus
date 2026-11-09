@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-09T22:09:16.072Z",
+  "updatedAt": "2026-11-09T22:35:13.339Z",
   "items": [
     {
       "time": "06:48",
@@ -8,6 +8,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6601976?source=rss",
       "publishedAt": "2026-11-09T21:48:49.000Z",
       "xQuery": "石破前首相ら戒告処分 参院側不満"
+    },
+    {
+      "time": "07:27",
+      "title": "米国防長官の弾劾採決へ 米下院",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601977?source=rss",
+      "publishedAt": "2026-11-09T22:27:29.000Z",
+      "xQuery": "米国防長官の弾劾採決へ 米下院"
     },
     {
       "time": "21:43",
@@ -24,14 +32,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6601961?source=rss",
       "publishedAt": "2026-11-09T13:37:17.000Z",
       "xQuery": "大地震エネルギー蓄積か 日本海溝"
-    },
-    {
-      "time": "23:30",
-      "title": "映像 270kgの巨大ヒグマを捕獲",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601968?source=rss",
-      "publishedAt": "2026-11-09T14:30:57.000Z",
-      "xQuery": "映像 270kgの巨大ヒグマを捕獲"
     },
     {
       "time": "00:44",
