@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T09:34:49.205Z",
+  "updatedAt": "2026-11-09T10:11:42.509Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,6 +17,13 @@
         "publishedAt": "2026-11-09T01:30:16.000Z"
       },
       {
+        "time": "17:26",
+        "title": "設備保全クラウド「ミロクルカルテ」、新オプション「ミロクルAIメーター読み取り（α版）」をモノづくりフェア2026で初公開",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1nY0swRXNvUVV4amhwYmhoZFQ2NElDTkJpLUpCSkd4LXcyNlRiMmtsRFpxcVk0MFlLRms4Mkh2UElnUG1CaWhIYllZU3ZlQ285cWNhWU03cXV0V1pRazNTN1gyMWFEekE?oc=5",
+        "publishedAt": "2026-11-09T08:26:26.000Z"
+      },
+      {
         "time": "08:54",
         "title": "工作機械２０２６年度上半期受注額が初の１兆円超え",
         "source": "金属産業新聞",
@@ -29,13 +36,6 @@
         "source": "MONOist",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5fVkdlcmxWS1Y4MUI1R1l4NUVYQlNfS3M0bExFaDItQUFVbUM4U2dVUndyZ0swVG1Ucnd6ODV5UnNzdndLQ19PZWRvS3FtSkZDcVMyVUdROXhBR3g0a0VRclVodWpNYzFIVERJdEdEQQ?oc=5",
         "publishedAt": "2026-11-08T22:30:00.000Z"
-      },
-      {
-        "time": "09:27",
-        "title": "設備保全クラウド「ミロクルカルテ」、新オプション「ミロクルAIメーター読み取り（α版）」をモノづくりフェア2026で初公開",
-        "source": "朝日新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1BLUczekl0VVAyeEE5LVBxSkV1dmhOb3hnXzNQX1hLZDdvV19LeE5nemlKTjA3dlJURl9zd3pXX1NMOEZna25hS1JLbVhTMUswNEEwWjZkOXp0Smc?oc=5",
-        "publishedAt": "2026-11-09T00:27:21.000Z"
       },
       {
         "time": "13:00",
@@ -52,11 +52,11 @@
         "publishedAt": "2026-11-08T15:55:00.000Z"
       },
       {
-        "time": "19:10",
-        "title": "『カミナシ 設備保全』、保全データをAIが分析し予防保全の計画まで提案するAIエージェント機能を先行提供",
-        "source": "Excite エキサイト",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9HUmlubTd5aFpyZDBWaDItV0lKVFg4ck9pbFBZWmZTemROcFRFeFlwMEhuckJOWmlNeGlGUjQ1WUJPLUlzM3VsaEVPVzlXZXZ4dVdwYl9Yb3BGRE5XbnpQbVZTcm9wMDQ1c0dqbFVsS2F5Vjky?oc=5",
-        "publishedAt": "2026-11-08T10:10:00.000Z"
+        "time": "21:17",
+        "title": "日本における電気制御パネルの市場動向",
+        "source": "pando.life",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5odmxxR2Z3OFU4WFBrd1VtelRjRGp5Tm0wYjdDeGlTYUtJTjJWazY2QnFZSmRjaDgtVUExN0dwUVptMFJUY1JNODd3?oc=5",
+        "publishedAt": "2026-11-08T12:17:28.000Z"
       }
     ],
     "worldHeadlines": [
@@ -66,6 +66,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601919?source=rss",
         "publishedAt": "2026-11-09T07:23:55.000Z"
+      },
+      {
+        "time": "18:57",
+        "title": "MAGAから急進左派へ 揺らぐ米国",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6601939?source=rss",
+        "publishedAt": "2026-11-09T09:57:24.000Z"
       },
       {
         "time": "09:45",
@@ -80,13 +87,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601883?source=rss",
         "publishedAt": "2026-11-09T02:08:29.000Z"
-      },
-      {
-        "time": "22:13",
-        "title": "欧州右派政党 トランプ氏離れ鮮明",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601843?source=rss",
-        "publishedAt": "2026-11-08T13:13:17.000Z"
       },
       {
         "time": "10:26",
@@ -119,6 +119,13 @@
         "publishedAt": "2026-11-09T03:05:24.000Z"
       },
       {
+        "time": "19:07",
+        "title": "NTT 保有するNEC全株売却を発表",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6601941?source=rss",
+        "publishedAt": "2026-11-09T10:07:31.000Z"
+      },
+      {
         "time": "16:50",
         "title": "ハウス食品G 26品目を来年値上げ",
         "source": "Yahoo!ニュース",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601864?source=rss",
         "publishedAt": "2026-11-08T22:46:35.000Z"
-      },
-      {
-        "time": "17:13",
-        "title": "津波巡り欧州のビール物議 謝罪",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601926?source=rss",
-        "publishedAt": "2026-11-09T08:13:57.000Z"
       }
     ],
     "localHeadlines": [
@@ -154,6 +154,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601907?source=rss",
         "publishedAt": "2026-11-09T04:58:11.000Z"
+      },
+      {
+        "time": "18:46",
+        "title": "児童7人はねる 起訴内容を男黙秘",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6601938?source=rss",
+        "publishedAt": "2026-11-09T09:46:30.000Z"
       },
       {
         "time": "16:27",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601888?source=rss",
         "publishedAt": "2026-11-09T02:45:25.000Z"
-      },
-      {
-        "time": "07:31",
-        "title": "パラグライダー 初心者イベで墜落",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601861?source=rss",
-        "publishedAt": "2026-11-08T22:31:11.000Z"
       }
     ],
     "subsidyHeadlines": [

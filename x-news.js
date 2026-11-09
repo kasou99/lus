@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-09T09:34:49.960Z",
+  "updatedAt": "2026-11-09T10:11:43.261Z",
   "items": [
     {
-      "time": "17:44",
-      "title": "石破前首相ら4人を戒告処分 自民",
+      "time": "18:57",
+      "title": "MAGAから急進左派へ 揺らぐ米国",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601933?source=rss",
-      "publishedAt": "2026-11-09T08:44:45.000Z",
-      "xQuery": "石破前首相ら4人を戒告処分 自民"
+      "url": "https://news.yahoo.co.jp/pickup/6601939?source=rss",
+      "publishedAt": "2026-11-09T09:57:24.000Z",
+      "xQuery": "MAGAから急進左派へ 揺らぐ米国"
     },
     {
       "time": "17:58",
@@ -18,6 +18,14 @@ window.LUS_X_NEWS = {
       "xQuery": "ニトリ 最大3762万件の情報流出か"
     },
     {
+      "time": "17:44",
+      "title": "石破前首相ら4人を戒告処分 自民",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601933?source=rss",
+      "publishedAt": "2026-11-09T08:44:45.000Z",
+      "xQuery": "石破前首相ら4人を戒告処分 自民"
+    },
+    {
       "time": "17:14",
       "title": "労基法 女子保護規定の全廃検討へ",
       "source": "Yahoo!ニュース",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "労基法 女子保護規定の全廃検討へ"
     },
     {
-      "time": "16:27",
-      "title": "死亡男児の腸に穴 傷害疑い男逮捕",
+      "time": "18:29",
+      "title": "コンロキャンセル界隈 なぜ拡大",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601920?source=rss",
-      "publishedAt": "2026-11-09T07:27:19.000Z",
-      "xQuery": "死亡男児の腸に穴 傷害疑い男逮捕"
-    },
-    {
-      "time": "17:13",
-      "title": "津波巡り欧州のビール物議 謝罪",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601926?source=rss",
-      "publishedAt": "2026-11-09T08:13:57.000Z",
-      "xQuery": "津波巡り欧州のビール物議 謝罪"
+      "url": "https://news.yahoo.co.jp/pickup/6601935?source=rss",
+      "publishedAt": "2026-11-09T09:29:01.000Z",
+      "xQuery": "コンロキャンセル界隈 なぜ拡大"
     }
   ]
 };
