@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-09T01:12:57.054Z",
+  "updatedAt": "2026-11-09T01:39:16.757Z",
   "items": [
     {
       "time": "09:51",
@@ -8,6 +8,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6601877?source=rss",
       "publishedAt": "2026-11-09T00:51:51.000Z",
       "xQuery": "7/30に過去最大円買い介入7.9兆円"
+    },
+    {
+      "time": "09:00",
+      "title": "中国を「脅威」見送りへ 政府方針",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601872?source=rss",
+      "publishedAt": "2026-11-09T00:00:12.000Z",
+      "xQuery": "中国を「脅威」見送りへ 政府方針"
     },
     {
       "time": "08:28",
@@ -24,14 +32,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6601876?source=rss",
       "publishedAt": "2026-11-09T00:46:28.000Z",
       "xQuery": "パラグライダー落下か 72歳死亡"
-    },
-    {
-      "time": "07:46",
-      "title": "舎人ライナー 資金不足陥る可能性",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601864?source=rss",
-      "publishedAt": "2026-11-08T22:46:35.000Z",
-      "xQuery": "舎人ライナー 資金不足陥る可能性"
     },
     {
       "time": "08:52",
