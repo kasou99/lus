@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-09T07:13:47.777Z",
+  "updatedAt": "2026-11-09T07:36:21.546Z",
   "items": [
     {
       "time": "13:58",
@@ -18,12 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "アフリカ カルト教団が増える背景"
     },
     {
-      "time": "13:48",
-      "title": "採決直前に退席 石破氏が理由説明",
+      "time": "16:07",
+      "title": "G7会議前に首相飲酒せず 木原氏",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601906?source=rss",
-      "publishedAt": "2026-11-09T04:48:18.000Z",
-      "xQuery": "採決直前に退席 石破氏が理由説明"
+      "url": "https://news.yahoo.co.jp/pickup/6601917?source=rss",
+      "publishedAt": "2026-11-09T07:07:54.000Z",
+      "xQuery": "G7会議前に首相飲酒せず 木原氏"
+    },
+    {
+      "time": "16:12",
+      "title": "女性殺害 当時17歳に懲役18年判決",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601918?source=rss",
+      "publishedAt": "2026-11-09T07:12:34.000Z",
+      "xQuery": "女性殺害 当時17歳に懲役18年判決"
     },
     {
       "time": "13:25",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6601894?source=rss",
       "publishedAt": "2026-11-09T04:25:34.000Z",
       "xQuery": "黒字リストラ 中高年が残る条件は"
-    },
-    {
-      "time": "15:08",
-      "title": "珍しい現象 二重の水上竜巻が発生",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601913?source=rss",
-      "publishedAt": "2026-11-09T06:08:20.000Z",
-      "xQuery": "珍しい現象 二重の水上竜巻が発生"
     }
   ]
 };

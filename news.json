@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T07:13:47.195Z",
+  "updatedAt": "2026-11-09T07:36:21.124Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -61,11 +61,11 @@
     ],
     "worldHeadlines": [
       {
-        "time": "22:13",
-        "title": "欧州右派政党 トランプ氏離れ鮮明",
+        "time": "16:23",
+        "title": "米大統領 中露首脳と会談の見通し",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601843?source=rss",
-        "publishedAt": "2026-11-08T13:13:17.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6601919?source=rss",
+        "publishedAt": "2026-11-09T07:23:55.000Z"
       },
       {
         "time": "09:45",
@@ -82,6 +82,13 @@
         "publishedAt": "2026-11-09T02:08:29.000Z"
       },
       {
+        "time": "22:13",
+        "title": "欧州右派政党 トランプ氏離れ鮮明",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6601843?source=rss",
+        "publishedAt": "2026-11-08T13:13:17.000Z"
+      },
+      {
         "time": "10:26",
         "title": "イスラエル 反首相陣営に組閣指示",
         "source": "Yahoo!ニュース",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601860?source=rss",
         "publishedAt": "2026-11-08T22:21:56.000Z"
-      },
-      {
-        "time": "14:00",
-        "title": "アフリカ カルト教団が増える背景",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601895?source=rss",
-        "publishedAt": "2026-11-09T05:00:45.000Z"
       }
     ],
     "economyHeadlines": [
@@ -156,6 +156,13 @@
         "publishedAt": "2026-11-09T04:58:11.000Z"
       },
       {
+        "time": "16:27",
+        "title": "死亡男児の腸に穴 傷害疑い男逮捕",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6601920?source=rss",
+        "publishedAt": "2026-11-09T07:27:19.000Z"
+      },
+      {
         "time": "13:19",
         "title": "山林の遺体 監禁後まもなく死亡か",
         "source": "Yahoo!ニュース",
@@ -163,18 +170,11 @@
         "publishedAt": "2026-11-09T04:19:57.000Z"
       },
       {
-        "time": "15:59",
-        "title": "書店員刺される 男「社会に恨み」",
+        "time": "16:12",
+        "title": "女性殺害 当時17歳に懲役18年判決",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601795?source=rss",
-        "publishedAt": "2026-11-08T06:59:28.000Z"
-      },
-      {
-        "time": "12:20",
-        "title": "幼児死亡 足蹴りした疑いで男逮捕",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601902?source=rss",
-        "publishedAt": "2026-11-09T03:20:22.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6601918?source=rss",
+        "publishedAt": "2026-11-09T07:12:34.000Z"
       },
       {
         "time": "11:45",
