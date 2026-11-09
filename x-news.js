@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-09T11:35:33.921Z",
+  "updatedAt": "2026-11-09T12:17:06.774Z",
   "items": [
     {
       "time": "18:57",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "NTT 保有するNEC全株売却を発表"
     },
     {
-      "time": "17:44",
-      "title": "石破前首相ら4人を戒告処分 自民",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601933?source=rss",
-      "publishedAt": "2026-11-09T08:44:45.000Z",
-      "xQuery": "石破前首相ら4人を戒告処分 自民"
-    },
-    {
       "time": "20:10",
       "title": "同僚踏みつけ死亡させた疑い 逮捕",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6601947?source=rss",
       "publishedAt": "2026-11-09T11:10:10.000Z",
       "xQuery": "同僚踏みつけ死亡させた疑い 逮捕"
+    },
+    {
+      "time": "17:10",
+      "title": "セガ委託先 メアド219万件超流出",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601928?source=rss",
+      "publishedAt": "2026-11-09T08:10:01.000Z",
+      "xQuery": "セガ委託先 メアド219万件超流出"
     }
   ]
 };
