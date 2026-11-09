@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-09T03:15:32.590Z",
+  "updatedAt": "2026-11-09T03:35:54.133Z",
   "items": [
     {
       "time": "11:36",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "米大統領 戦闘再開「可能性低い」"
     },
     {
-      "time": "09:51",
-      "title": "7/30に過去最大円買い介入7.9兆円",
+      "time": "12:20",
+      "title": "幼児死亡 足蹴りした疑いで男逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601877?source=rss",
-      "publishedAt": "2026-11-09T00:51:51.000Z",
-      "xQuery": "7/30に過去最大円買い介入7.9兆円"
+      "url": "https://news.yahoo.co.jp/pickup/6601902?source=rss",
+      "publishedAt": "2026-11-09T03:20:22.000Z",
+      "xQuery": "幼児死亡 足蹴りした疑いで男逮捕"
     },
     {
       "time": "11:45",
