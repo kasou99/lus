@@ -1,6 +1,22 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-09T02:35:37.902Z",
+  "updatedAt": "2026-11-09T03:15:32.590Z",
   "items": [
+    {
+      "time": "11:36",
+      "title": "日経平均 一時2000円以上値上がり",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601891?source=rss",
+      "publishedAt": "2026-11-09T02:36:24.000Z",
+      "xQuery": "日経平均 一時2000円以上値上がり"
+    },
+    {
+      "time": "09:45",
+      "title": "米大統領 戦闘再開「可能性低い」",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601874?source=rss",
+      "publishedAt": "2026-11-09T00:45:33.000Z",
+      "xQuery": "米大統領 戦闘再開「可能性低い」"
+    },
     {
       "time": "09:51",
       "title": "7/30に過去最大円買い介入7.9兆円",
@@ -10,28 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "7/30に過去最大円買い介入7.9兆円"
     },
     {
-      "time": "09:00",
-      "title": "中国を「脅威」見送りへ 政府方針",
+      "time": "11:45",
+      "title": "クマに襲われ5回手術 後悔尽きず",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601872?source=rss",
-      "publishedAt": "2026-11-09T00:00:12.000Z",
-      "xQuery": "中国を「脅威」見送りへ 政府方針"
-    },
-    {
-      "time": "11:08",
-      "title": "米大統領 報道官にUFC代表は冗談",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601883?source=rss",
-      "publishedAt": "2026-11-09T02:08:29.000Z",
-      "xQuery": "米大統領 報道官にUFC代表は冗談"
-    },
-    {
-      "time": "08:52",
-      "title": "北朝鮮ハッカーのチャットか 入手",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601870?source=rss",
-      "publishedAt": "2026-11-08T23:52:15.000Z",
-      "xQuery": "北朝鮮ハッカーのチャットか 入手"
+      "url": "https://news.yahoo.co.jp/pickup/6601888?source=rss",
+      "publishedAt": "2026-11-09T02:45:25.000Z",
+      "xQuery": "クマに襲われ5回手術 後悔尽きず"
     },
     {
       "time": "11:13",

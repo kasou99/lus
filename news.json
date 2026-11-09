@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T02:35:36.865Z",
+  "updatedAt": "2026-11-09T03:15:31.970Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -52,11 +52,11 @@
         "publishedAt": "2026-11-08T22:30:00.000Z"
       },
       {
-        "time": "14:10",
-        "title": "「導入しても回らない」保全DXを動かす―設備管理BPaaS「MENTENAワークス」提供開始",
-        "source": "Infoseek",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBZWVBzZEFsc1lraXI3SHZhbEZSUjRMOEZhbDRGTVhaYjNweklRd1ZjcXhkUE4tVmh1SmJCbzNYRVF3UGEtSHU2ZGg5bzZpbE5oZWo0bzQtOHBJT1dObVVyV19lM0Y5SUprSVAyZ0VHd3hSUQ?oc=5",
-        "publishedAt": "2026-11-08T05:10:00.000Z"
+        "time": "11:30",
+        "title": "Dify共同創業者、日本法人前代表のキジ マルダン氏、Cognitech.DEVの代表取締役CTOとして本格始動",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBFV2RVenRScVdSenhMOC1wUlRVZzl5aTUtdnBKa3R6cmtlV0U4MTE5RDVfUU5ycFBRWUtfMFFIRlFLcGYyYVZjSENSeTk0d1NJVmpnWkFfN0UxMWwyY3NnZktBY3dvUlQ2bWlvVW1TTEFDSmF3SnFmRWZqbw?oc=5",
+        "publishedAt": "2026-11-09T02:30:15.000Z"
       }
     ],
     "worldHeadlines": [
@@ -105,6 +105,13 @@
     ],
     "economyHeadlines": [
       {
+        "time": "11:36",
+        "title": "日経平均 一時2000円以上値上がり",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6601891?source=rss",
+        "publishedAt": "2026-11-09T02:36:24.000Z"
+      },
+      {
         "time": "09:51",
         "title": "7/30に過去最大円買い介入7.9兆円",
         "source": "Yahoo!ニュース",
@@ -119,11 +126,11 @@
         "publishedAt": "2026-11-08T23:28:44.000Z"
       },
       {
-        "time": "17:32",
-        "title": "MAZDA3セダン 北米で売れる理由",
+        "time": "12:05",
+        "title": "三井化学がJSR買収 1兆8400億円",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601813?source=rss",
-        "publishedAt": "2026-11-08T08:32:51.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6601897?source=rss",
+        "publishedAt": "2026-11-09T03:05:24.000Z"
       },
       {
         "time": "15:42",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601864?source=rss",
         "publishedAt": "2026-11-08T22:46:35.000Z"
-      },
-      {
-        "time": "08:17",
-        "title": "Netflix 増収増益でリストラの訳",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601865?source=rss",
-        "publishedAt": "2026-11-08T23:17:17.000Z"
       }
     ],
     "localHeadlines": [
@@ -161,6 +161,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601795?source=rss",
         "publishedAt": "2026-11-08T06:59:28.000Z"
+      },
+      {
+        "time": "11:45",
+        "title": "クマに襲われ5回手術 後悔尽きず",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6601888?source=rss",
+        "publishedAt": "2026-11-09T02:45:25.000Z"
       },
       {
         "time": "17:59",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601876?source=rss",
         "publishedAt": "2026-11-09T00:46:28.000Z"
-      },
-      {
-        "time": "10:39",
-        "title": "偽基地局運用疑い 中国籍の男逮捕",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601881?source=rss",
-        "publishedAt": "2026-11-09T01:39:09.000Z"
       }
     ],
     "subsidyHeadlines": [
