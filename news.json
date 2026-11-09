@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T05:13:19.202Z",
+  "updatedAt": "2026-11-09T05:36:33.030Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,6 +31,13 @@
         "publishedAt": "2026-11-08T15:55:00.000Z"
       },
       {
+        "time": "13:00",
+        "title": "帝人株式会社、MENTENA導入で「設備保全の効率化」と「世代間の技術継承」を実現する現場づくり～導入事例を公開しました～",
+        "source": "PR TIMES",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5lZ01qOXBMOGpNalhQZXVZaFluNGRQS0JiM1JOdEVvOEQwdEx3N1F6bktjVldkSzFvRmpIVGo4T1psd2VWR1IwRWhSLXVGd2lWc2w1X0pWRW1sQVdBaFNQdGJuQ1ZnQVZSQnc?oc=5",
+        "publishedAt": "2026-11-09T04:00:02.000Z"
+      },
+      {
         "time": "19:10",
         "title": "『カミナシ 設備保全』、保全データをAIが分析し予防保全の計画まで提案するAIエージェント機能を先行提供",
         "source": "Excite エキサイト",
@@ -50,13 +57,6 @@
         "source": "MONOist",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5fVkdlcmxWS1Y4MUI1R1l4NUVYQlNfS3M0bExFaDItQUFVbUM4U2dVUndyZ0swVG1Ucnd6ODV5UnNzdndLQ19PZWRvS3FtSkZDcVMyVUdROXhBR3g0a0VRclVodWpNYzFIVERJdEdEQQ?oc=5",
         "publishedAt": "2026-11-08T22:30:00.000Z"
-      },
-      {
-        "time": "13:00",
-        "title": "マスダック、北米向け食品製造機械にロックウェル・オートメーションのOn-Machineソリューションを採用",
-        "source": "ZDNET Japan",
-        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9CaEd3MkVpaGNuY0lIdkhGb1laY1pLMU12WkZ5dWV6U1lEYkg3M3pWME5lZWU2bnRhZFVMSVV6ZVJMQUhWaWduajAxZEVFeklNQ1ZF?oc=5",
-        "publishedAt": "2026-11-09T04:00:00.000Z"
       }
     ],
     "worldHeadlines": [

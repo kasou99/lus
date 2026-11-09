@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-09T05:13:20.496Z",
+  "updatedAt": "2026-11-09T05:36:33.667Z",
   "items": [
     {
       "time": "13:58",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "採決直前に退席 石破氏が理由説明"
     },
     {
-      "time": "12:05",
-      "title": "三井化学がJSR買収 1兆8400億円",
+      "time": "11:45",
+      "title": "クマに襲われ5回手術 後悔尽きず",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601897?source=rss",
-      "publishedAt": "2026-11-09T03:05:24.000Z",
-      "xQuery": "三井化学がJSR買収 1兆8400億円"
+      "url": "https://news.yahoo.co.jp/pickup/6601888?source=rss",
+      "publishedAt": "2026-11-09T02:45:25.000Z",
+      "xQuery": "クマに襲われ5回手術 後悔尽きず"
     },
     {
-      "time": "13:19",
-      "title": "山林の遺体 監禁後まもなく死亡か",
+      "time": "12:14",
+      "title": "透析「しない」父 家族救ったケア",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601904?source=rss",
-      "publishedAt": "2026-11-09T04:19:57.000Z",
-      "xQuery": "山林の遺体 監禁後まもなく死亡か"
+      "url": "https://news.yahoo.co.jp/pickup/6601898?source=rss",
+      "publishedAt": "2026-11-09T03:14:16.000Z",
+      "xQuery": "透析「しない」父 家族救ったケア"
     }
   ]
 };
