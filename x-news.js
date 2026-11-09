@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-09T11:10:37.364Z",
+  "updatedAt": "2026-11-09T11:35:33.921Z",
   "items": [
     {
       "time": "18:57",
@@ -8,6 +8,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6601939?source=rss",
       "publishedAt": "2026-11-09T09:57:24.000Z",
       "xQuery": "MAGAから急進左派へ 揺らぐ米国"
+    },
+    {
+      "time": "19:53",
+      "title": "JT株 2営業日連続のストップ安",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601946?source=rss",
+      "publishedAt": "2026-11-09T10:53:26.000Z",
+      "xQuery": "JT株 2営業日連続のストップ安"
     },
     {
       "time": "19:07",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "石破前首相ら4人を戒告処分 自民"
     },
     {
-      "time": "19:53",
-      "title": "JT株 2営業日連続のストップ安",
+      "time": "20:10",
+      "title": "同僚踏みつけ死亡させた疑い 逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601946?source=rss",
-      "publishedAt": "2026-11-09T10:53:26.000Z",
-      "xQuery": "JT株 2営業日連続のストップ安"
-    },
-    {
-      "time": "18:29",
-      "title": "コンロキャンセル界隈 なぜ拡大",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601935?source=rss",
-      "publishedAt": "2026-11-09T09:29:01.000Z",
-      "xQuery": "コンロキャンセル界隈 なぜ拡大"
+      "url": "https://news.yahoo.co.jp/pickup/6601947?source=rss",
+      "publishedAt": "2026-11-09T11:10:10.000Z",
+      "xQuery": "同僚踏みつけ死亡させた疑い 逮捕"
     }
   ]
 };

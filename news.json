@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T11:10:36.571Z",
+  "updatedAt": "2026-11-09T11:35:32.432Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,11 +31,11 @@
         "publishedAt": "2026-11-08T23:54:27.000Z"
       },
       {
-        "time": "07:30",
-        "title": "中村留、新しいATC型複合加工機を披露 コンパクト設計と高精度加工を両立：JIMTOF2026",
-        "source": "MONOist",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5fVkdlcmxWS1Y4MUI1R1l4NUVYQlNfS3M0bExFaDItQUFVbUM4U2dVUndyZ0swVG1Ucnd6ODV5UnNzdndLQ19PZWRvS3FtSkZDcVMyVUdROXhBR3g0a0VRclVodWpNYzFIVERJdEdEQQ?oc=5",
-        "publishedAt": "2026-11-08T22:30:00.000Z"
+        "time": "00:55",
+        "title": "中国の全直駆式CNC工作機械大手・鉅鋭鍶（キョエイシ）、11月10日に上海証取科創板へ上場、公開価格は1株45.37元",
+        "source": "BigGo ファイナンス",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE14bjNzLXVoZHBKVnlERkN1OHZwR1BFdFRLVjZCV3gxQllnQXFqa1VCek1GSWg0SDdlTFdodXllT05wTzRUTmRNcXBLZDZmQVpYdjZyMWMxZU5pSkQ1WnFvMC1jbjNQTVVLMjVFM3MySnVCY1FJ?oc=5",
+        "publishedAt": "2026-11-08T15:55:00.000Z"
       },
       {
         "time": "13:00",
@@ -45,18 +45,18 @@
         "publishedAt": "2026-11-09T04:00:02.000Z"
       },
       {
-        "time": "00:55",
-        "title": "中国の全直駆式CNC工作機械大手・鉅鋭鍶（キョエイシ）、11月10日に上海証取科創板へ上場、公開価格は1株45.37元",
-        "source": "BigGo ファイナンス",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE14bjNzLXVoZHBKVnlERkN1OHZwR1BFdFRLVjZCV3gxQllnQXFqa1VCek1GSWg0SDdlTFdodXllT05wTzRUTmRNcXBLZDZmQVpYdjZyMWMxZU5pSkQ1WnFvMC1jbjNQTVVLMjVFM3MySnVCY1FJ?oc=5",
-        "publishedAt": "2026-11-08T15:55:00.000Z"
-      },
-      {
         "time": "21:17",
         "title": "日本における電気制御パネルの市場動向",
         "source": "pando.life",
         "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5odmxxR2Z3OFU4WFBrd1VtelRjRGp5Tm0wYjdDeGlTYUtJTjJWazY2QnFZSmRjaDgtVUExN0dwUVptMFJUY1JNODd3?oc=5",
         "publishedAt": "2026-11-08T12:17:28.000Z"
+      },
+      {
+        "time": "07:30",
+        "title": "中村留、新しいATC型複合加工機を披露 コンパクト設計と高精度加工を両立：JIMTOF2026",
+        "source": "MONOist",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5fVkdlcmxWS1Y4MUI1R1l4NUVYQlNfS3M0bExFaDItQUFVbUM4U2dVUndyZ0swVG1Ucnd6ODV5UnNzdndLQ19PZWRvS3FtSkZDcVMyVUdROXhBR3g0a0VRclVodWpNYzFIVERJdEdEQQ?oc=5",
+        "publishedAt": "2026-11-08T22:30:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -170,6 +170,13 @@
         "publishedAt": "2026-11-09T07:27:19.000Z"
       },
       {
+        "time": "20:10",
+        "title": "同僚踏みつけ死亡させた疑い 逮捕",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6601947?source=rss",
+        "publishedAt": "2026-11-09T11:10:10.000Z"
+      },
+      {
         "time": "13:19",
         "title": "山林の遺体 監禁後まもなく死亡か",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601888?source=rss",
         "publishedAt": "2026-11-09T02:45:25.000Z"
-      },
-      {
-        "time": "07:31",
-        "title": "パラグライダー 初心者イベで墜落",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601861?source=rss",
-        "publishedAt": "2026-11-08T22:31:11.000Z"
       }
     ],
     "subsidyHeadlines": [
