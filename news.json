@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-09T07:36:21.124Z",
+  "updatedAt": "2026-11-09T08:18:28.526Z",
   "groups": {
     "machineHeadlines": [
       {
-        "time": "15:10",
+        "time": "17:08",
         "title": "｢設備保全DX最前線～データ活用からAI活用へ、現場変革の実践事例～｣ウェビナー抄録【PR】",
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4wMXZiTXlVZXp2cEhibENnRFg4X3o2SDhRTUg2V0RveDdhLWhEMjhXWkdwR0x5Vy11cjZqS05PWDlxeF9qV0xRTV8wRERiM2locEhwdk9Ca3Q?oc=5",
-        "publishedAt": "2026-11-09T06:10:12.000Z"
+        "publishedAt": "2026-11-09T08:08:36.000Z"
       },
       {
         "time": "10:30",
@@ -22,13 +22,6 @@
         "source": "金属産業新聞",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5yajJaWklNUW5hd01zUlpVcE5oME91bmJuazdfU1RsNjNwcDBZUmZCZzF4dGRveG9lZW81d0JhVS1penpNYVpjRXFIYkVLbTNZWkJMT0VGWEc?oc=5",
         "publishedAt": "2026-11-08T23:54:27.000Z"
-      },
-      {
-        "time": "07:30",
-        "title": "中村留、新しいATC型複合加工機を披露 コンパクト設計と高精度加工を両立：JIMTOF2026",
-        "source": "MONOist",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5fVkdlcmxWS1Y4MUI1R1l4NUVYQlNfS3M0bExFaDItQUFVbUM4U2dVUndyZ0swVG1Ucnd6ODV5UnNzdndLQ19PZWRvS3FtSkZDcVMyVUdROXhBR3g0a0VRclVodWpNYzFIVERJdEdEQQ?oc=5",
-        "publishedAt": "2026-11-08T22:30:00.000Z"
       },
       {
         "time": "09:27",
@@ -57,6 +50,13 @@
         "source": "Excite エキサイト",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9HUmlubTd5aFpyZDBWaDItV0lKVFg4ck9pbFBZWmZTemROcFRFeFlwMEhuckJOWmlNeGlGUjQ1WUJPLUlzM3VsaEVPVzlXZXZ4dVdwYl9Yb3BGRE5XbnpQbVZTcm9wMDQ1c0dqbFVsS2F5Vjky?oc=5",
         "publishedAt": "2026-11-08T10:10:00.000Z"
+      },
+      {
+        "time": "21:17",
+        "title": "日本における電気制御パネルの市場動向",
+        "source": "pando.life",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5odmxxR2Z3OFU4WFBrd1VtelRjRGp5Tm0wYjdDeGlTYUtJTjJWazY2QnFZSmRjaDgtVUExN0dwUVptMFJUY1JNODd3?oc=5",
+        "publishedAt": "2026-11-08T12:17:28.000Z"
       }
     ],
     "worldHeadlines": [
@@ -105,20 +105,6 @@
     ],
     "economyHeadlines": [
       {
-        "time": "11:36",
-        "title": "日経平均 一時2000円以上値上がり",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601891?source=rss",
-        "publishedAt": "2026-11-09T02:36:24.000Z"
-      },
-      {
-        "time": "09:51",
-        "title": "7/30に過去最大円買い介入7.9兆円",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601877?source=rss",
-        "publishedAt": "2026-11-09T00:51:51.000Z"
-      },
-      {
         "time": "08:28",
         "title": "CEOと工作員の関係 NVIDIA調査",
         "source": "Yahoo!ニュース",
@@ -133,6 +119,13 @@
         "publishedAt": "2026-11-09T03:05:24.000Z"
       },
       {
+        "time": "16:50",
+        "title": "ハウス食品G 26品目を来年値上げ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6601921?source=rss",
+        "publishedAt": "2026-11-09T07:50:24.000Z"
+      },
+      {
         "time": "13:25",
         "title": "黒字リストラ 中高年が残る条件は",
         "source": "Yahoo!ニュース",
@@ -145,6 +138,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601864?source=rss",
         "publishedAt": "2026-11-08T22:46:35.000Z"
+      },
+      {
+        "time": "17:13",
+        "title": "津波巡り欧州のビール物議 謝罪",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6601926?source=rss",
+        "publishedAt": "2026-11-09T08:13:57.000Z"
       }
     ],
     "localHeadlines": [

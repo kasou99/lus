@@ -1,21 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-09T07:36:21.546Z",
+  "updatedAt": "2026-11-09T08:18:29.280Z",
   "items": [
     {
-      "time": "13:58",
-      "title": "26年の熊本地震 初の災害関連死",
+      "time": "16:23",
+      "title": "米大統領 中露首脳と会談の見通し",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601907?source=rss",
-      "publishedAt": "2026-11-09T04:58:11.000Z",
-      "xQuery": "26年の熊本地震 初の災害関連死"
-    },
-    {
-      "time": "14:00",
-      "title": "アフリカ カルト教団が増える背景",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601895?source=rss",
-      "publishedAt": "2026-11-09T05:00:45.000Z",
-      "xQuery": "アフリカ カルト教団が増える背景"
+      "url": "https://news.yahoo.co.jp/pickup/6601919?source=rss",
+      "publishedAt": "2026-11-09T07:23:55.000Z",
+      "xQuery": "米大統領 中露首脳と会談の見通し"
     },
     {
       "time": "16:07",
@@ -26,6 +18,14 @@ window.LUS_X_NEWS = {
       "xQuery": "G7会議前に首相飲酒せず 木原氏"
     },
     {
+      "time": "16:44",
+      "title": "MS&AD 漏えい計約101万1千件に",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601922?source=rss",
+      "publishedAt": "2026-11-09T07:44:10.000Z",
+      "xQuery": "MS&AD 漏えい計約101万1千件に"
+    },
+    {
       "time": "16:12",
       "title": "女性殺害 当時17歳に懲役18年判決",
       "source": "Yahoo!ニュース",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "女性殺害 当時17歳に懲役18年判決"
     },
     {
-      "time": "13:25",
-      "title": "黒字リストラ 中高年が残る条件は",
+      "time": "16:27",
+      "title": "死亡男児の腸に穴 傷害疑い男逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601894?source=rss",
-      "publishedAt": "2026-11-09T04:25:34.000Z",
-      "xQuery": "黒字リストラ 中高年が残る条件は"
+      "url": "https://news.yahoo.co.jp/pickup/6601920?source=rss",
+      "publishedAt": "2026-11-09T07:27:19.000Z",
+      "xQuery": "死亡男児の腸に穴 傷害疑い男逮捕"
     }
   ]
 };
