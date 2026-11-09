@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-09T03:35:54.133Z",
+  "updatedAt": "2026-11-09T04:14:30.037Z",
   "items": [
     {
-      "time": "11:36",
-      "title": "日経平均 一時2000円以上値上がり",
+      "time": "12:32",
+      "title": "都心は真冬並みの寒さ 寒暖差注意",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601891?source=rss",
-      "publishedAt": "2026-11-09T02:36:24.000Z",
-      "xQuery": "日経平均 一時2000円以上値上がり"
+      "url": "https://news.yahoo.co.jp/pickup/6601903?source=rss",
+      "publishedAt": "2026-11-09T03:32:38.000Z",
+      "xQuery": "都心は真冬並みの寒さ 寒暖差注意"
     },
     {
-      "time": "09:45",
-      "title": "米大統領 戦闘再開「可能性低い」",
+      "time": "12:05",
+      "title": "三井化学がJSR買収 1兆8400億円",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601874?source=rss",
-      "publishedAt": "2026-11-09T00:45:33.000Z",
-      "xQuery": "米大統領 戦闘再開「可能性低い」"
+      "url": "https://news.yahoo.co.jp/pickup/6601897?source=rss",
+      "publishedAt": "2026-11-09T03:05:24.000Z",
+      "xQuery": "三井化学がJSR買収 1兆8400億円"
     },
     {
       "time": "12:20",
