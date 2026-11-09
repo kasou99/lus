@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-09T21:09:32.201Z",
+  "updatedAt": "2026-11-09T21:35:23.362Z",
   "items": [
     {
       "time": "21:10",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "大地震エネルギー蓄積か 日本海溝"
     },
     {
-      "time": "20:10",
-      "title": "同僚踏みつけ死亡させた疑い 逮捕",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601947?source=rss",
-      "publishedAt": "2026-11-09T11:10:10.000Z",
-      "xQuery": "同僚踏みつけ死亡させた疑い 逮捕"
-    },
-    {
       "time": "23:30",
       "title": "映像 270kgの巨大ヒグマを捕獲",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6601968?source=rss",
       "publishedAt": "2026-11-09T14:30:57.000Z",
       "xQuery": "映像 270kgの巨大ヒグマを捕獲"
+    },
+    {
+      "time": "00:44",
+      "title": "自動運転バス運行初日に接触 運休",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601972?source=rss",
+      "publishedAt": "2026-11-09T15:44:51.000Z",
+      "xQuery": "自動運転バス運行初日に接触 運休"
     }
   ]
 };
