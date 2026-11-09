@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T12:17:06.081Z",
+  "updatedAt": "2026-11-09T12:36:58.699Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -15,6 +15,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1HWHhlQzhhbTZaTDNMSDVmWUNrSzhMMFJod09QZTdQUGwyRGRRcHpsVDU4RUZUNldad3J5S2h2VTI1QjNXWnU0RE5kNHAxOHRVdDJIV1BJcUkweGJ3VkRVdWgwQUlDcE10VFNCV1lkcUV0WG1fbFpLT0dIc0lGOXc?oc=5",
         "publishedAt": "2026-11-09T01:30:16.000Z"
+      },
+      {
+        "time": "19:10",
+        "title": "『カミナシ 設備保全』、保全データをAIが分析し予防保全の計画まで提案するAIエージェント機能を先行提供",
+        "source": "Infoseek",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1MWWdDam5iMEtWVWhCVVhfX3FmdlRqYlFtSkdiRTdlTFh6U3RpQThtcmNYa3NIeWhDWG1lakg4MWw2NFRrTnVBdnl4OGM1UVlMSlJTdk5kcGR4czdwQnVjU2w2Qkx4MWZLN0w2bURUWmZQZw?oc=5",
+        "publishedAt": "2026-11-09T10:10:00.000Z"
       },
       {
         "time": "17:26",
@@ -43,13 +50,6 @@
         "source": "PR TIMES",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5lZ01qOXBMOGpNalhQZXVZaFluNGRQS0JiM1JOdEVvOEQwdEx3N1F6bktjVldkSzFvRmpIVGo4T1psd2VWR1IwRWhSLXVGd2lWc2w1X0pWRW1sQVdBaFNQdGJuQ1ZnQVZSQnc?oc=5",
         "publishedAt": "2026-11-09T04:00:02.000Z"
-      },
-      {
-        "time": "21:17",
-        "title": "日本における電気制御パネルの市場動向",
-        "source": "pando.life",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5odmxxR2Z3OFU4WFBrd1VtelRjRGp5Tm0wYjdDeGlTYUtJTjJWazY2QnFZSmRjaDgtVUExN0dwUVptMFJUY1JNODd3?oc=5",
-        "publishedAt": "2026-11-08T12:17:28.000Z"
       },
       {
         "time": "07:30",

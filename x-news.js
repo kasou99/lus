@@ -1,14 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-09T12:17:06.774Z",
+  "updatedAt": "2026-11-09T12:36:59.398Z",
   "items": [
-    {
-      "time": "18:57",
-      "title": "MAGAから急進左派へ 揺らぐ米国",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601939?source=rss",
-      "publishedAt": "2026-11-09T09:57:24.000Z",
-      "xQuery": "MAGAから急進左派へ 揺らぐ米国"
-    },
     {
       "time": "19:53",
       "title": "JT株 2営業日連続のストップ安",
@@ -26,6 +18,14 @@ window.LUS_X_NEWS = {
       "xQuery": "NTT 保有するNEC全株売却を発表"
     },
     {
+      "time": "21:21",
+      "title": "石破氏 戒告処分厳粛に受け止め",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601954?source=rss",
+      "publishedAt": "2026-11-09T12:21:00.000Z",
+      "xQuery": "石破氏 戒告処分厳粛に受け止め"
+    },
+    {
       "time": "20:10",
       "title": "同僚踏みつけ死亡させた疑い 逮捕",
       "source": "Yahoo!ニュース",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "同僚踏みつけ死亡させた疑い 逮捕"
     },
     {
-      "time": "17:10",
-      "title": "セガ委託先 メアド219万件超流出",
+      "time": "21:25",
+      "title": "1.5億円当せん いまだ換金されず",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601928?source=rss",
-      "publishedAt": "2026-11-09T08:10:01.000Z",
-      "xQuery": "セガ委託先 メアド219万件超流出"
+      "url": "https://news.yahoo.co.jp/pickup/6601953?source=rss",
+      "publishedAt": "2026-11-09T12:25:22.000Z",
+      "xQuery": "1.5億円当せん いまだ換金されず"
     }
   ]
 };
