@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-09T23:09:17.513Z",
+  "updatedAt": "2026-11-09T23:35:20.134Z",
   "items": [
     {
       "time": "07:35",
@@ -8,14 +8,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6601979?source=rss",
       "publishedAt": "2026-11-09T22:35:39.000Z",
       "xQuery": "自衛官定員削減 安保3文書明記へ"
-    },
-    {
-      "time": "07:27",
-      "title": "米国防長官の弾劾採決へ 米下院",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601977?source=rss",
-      "publishedAt": "2026-11-09T22:27:29.000Z",
-      "xQuery": "米国防長官の弾劾採決へ 米下院"
     },
     {
       "time": "07:43",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6601961?source=rss",
       "publishedAt": "2026-11-09T13:37:17.000Z",
       "xQuery": "大地震エネルギー蓄積か 日本海溝"
+    },
+    {
+      "time": "07:34",
+      "title": "仏大統領選 リネール氏が出馬表明",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601978?source=rss",
+      "publishedAt": "2026-11-09T22:34:51.000Z",
+      "xQuery": "仏大統領選 リネール氏が出馬表明"
     }
   ]
 };

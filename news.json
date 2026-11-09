@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T23:09:16.384Z",
+  "updatedAt": "2026-11-09T23:35:19.286Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,13 +17,6 @@
         "publishedAt": "2026-11-09T14:08:36.000Z"
       },
       {
-        "time": "22:50",
-        "title": "設備保全クラウド「ミロクルカルテ」、新オプション「ミロクルAIメーター読み取り（α版）」をモノづくりフェア2026で初公開",
-        "source": "朝日新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1BLUczekl0VVAyeEE5LVBxSkV1dmhOb3hnXzNQX1hLZDdvV19LeE5nemlKTjA3dlJURl9zd3pXX1NMOEZna25hS1JLbVhTMUswNEEwWjZkOXp0Smc?oc=5",
-        "publishedAt": "2026-11-09T13:50:51.000Z"
-      },
-      {
         "time": "10:30",
         "title": "DMG森精機社長が目指す「止まらない工作機械」 無人化で残る「人の仕事」とは（MONOist）",
         "source": "Yahoo!ニュース",
@@ -36,6 +29,13 @@
         "source": "Infoseek",
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1MWWdDam5iMEtWVWhCVVhfX3FmdlRqYlFtSkdiRTdlTFh6U3RpQThtcmNYa3NIeWhDWG1lakg4MWw2NFRrTnVBdnl4OGM1UVlMSlJTdk5kcGR4czdwQnVjU2w2Qkx4MWZLN0w2bURUWmZQZw?oc=5",
         "publishedAt": "2026-11-09T10:10:00.000Z"
+      },
+      {
+        "time": "17:26",
+        "title": "設備保全クラウド「ミロクルカルテ」、新オプション「ミロクルAIメーター読み取り（α版）」をモノづくりフェア2026で初公開",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1nY0swRXNvUVV4amhwYmhoZFQ2NElDTkJpLUpCSkd4LXcyNlRiMmtsRFpxcVk0MFlLRms4Mkh2UElnUG1CaWhIYllZU3ZlQ285cWNhWU03cXV0V1pRazNTN1gyMWFEekE?oc=5",
+        "publishedAt": "2026-11-09T08:26:26.000Z"
       },
       {
         "time": "08:54",
