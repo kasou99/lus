@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T22:35:12.267Z",
+  "updatedAt": "2026-11-09T23:09:16.384Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,6 +17,13 @@
         "publishedAt": "2026-11-09T14:08:36.000Z"
       },
       {
+        "time": "22:50",
+        "title": "設備保全クラウド「ミロクルカルテ」、新オプション「ミロクルAIメーター読み取り（α版）」をモノづくりフェア2026で初公開",
+        "source": "朝日新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1BLUczekl0VVAyeEE5LVBxSkV1dmhOb3hnXzNQX1hLZDdvV19LeE5nemlKTjA3dlJURl9zd3pXX1NMOEZna25hS1JLbVhTMUswNEEwWjZkOXp0Smc?oc=5",
+        "publishedAt": "2026-11-09T13:50:51.000Z"
+      },
+      {
         "time": "10:30",
         "title": "DMG森精機社長が目指す「止まらない工作機械」 無人化で残る「人の仕事」とは（MONOist）",
         "source": "Yahoo!ニュース",
@@ -29,13 +36,6 @@
         "source": "Infoseek",
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1MWWdDam5iMEtWVWhCVVhfX3FmdlRqYlFtSkdiRTdlTFh6U3RpQThtcmNYa3NIeWhDWG1lakg4MWw2NFRrTnVBdnl4OGM1UVlMSlJTdk5kcGR4czdwQnVjU2w2Qkx4MWZLN0w2bURUWmZQZw?oc=5",
         "publishedAt": "2026-11-09T10:10:00.000Z"
-      },
-      {
-        "time": "17:26",
-        "title": "設備保全クラウド「ミロクルカルテ」、新オプション「ミロクルAIメーター読み取り（α版）」をモノづくりフェア2026で初公開",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1nY0swRXNvUVV4amhwYmhoZFQ2NElDTkJpLUpCSkd4LXcyNlRiMmtsRFpxcVk0MFlLRms4Mkh2UElnUG1CaWhIYllZU3ZlQ285cWNhWU03cXV0V1pRazNTN1gyMWFEekE?oc=5",
-        "publishedAt": "2026-11-09T08:26:26.000Z"
       },
       {
         "time": "08:54",
@@ -89,11 +89,11 @@
         "publishedAt": "2026-11-09T22:27:29.000Z"
       },
       {
-        "time": "11:08",
-        "title": "米大統領 報道官にUFC代表は冗談",
+        "time": "07:34",
+        "title": "仏大統領選 リネール氏が出馬表明",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601883?source=rss",
-        "publishedAt": "2026-11-09T02:08:29.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6601978?source=rss",
+        "publishedAt": "2026-11-09T22:34:51.000Z"
       },
       {
         "time": "10:26",
@@ -105,11 +105,11 @@
     ],
     "economyHeadlines": [
       {
-        "time": "19:53",
-        "title": "JT株 2営業日連続のストップ安",
+        "time": "07:43",
+        "title": "個人向け国債人気 発行額8兆円超",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601946?source=rss",
-        "publishedAt": "2026-11-09T10:53:26.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6601981?source=rss",
+        "publishedAt": "2026-11-09T22:43:16.000Z"
       },
       {
         "time": "12:05",
