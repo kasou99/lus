@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-09T06:27:01.415Z",
+  "updatedAt": "2026-11-09T06:48:00.958Z",
   "items": [
     {
       "time": "13:58",
@@ -8,14 +8,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6601907?source=rss",
       "publishedAt": "2026-11-09T04:58:11.000Z",
       "xQuery": "26年の熊本地震 初の災害関連死"
-    },
-    {
-      "time": "12:32",
-      "title": "都心は真冬並みの寒さ 寒暖差注意",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601903?source=rss",
-      "publishedAt": "2026-11-09T03:32:38.000Z",
-      "xQuery": "都心は真冬並みの寒さ 寒暖差注意"
     },
     {
       "time": "14:00",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "採決直前に退席 石破氏が理由説明"
     },
     {
-      "time": "14:37",
-      "title": "十分生きた 透析拒んだ父への医療",
+      "time": "13:25",
+      "title": "黒字リストラ 中高年が残る条件は",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601911?source=rss",
-      "publishedAt": "2026-11-09T05:37:25.000Z",
-      "xQuery": "十分生きた 透析拒んだ父への医療"
+      "url": "https://news.yahoo.co.jp/pickup/6601894?source=rss",
+      "publishedAt": "2026-11-09T04:25:34.000Z",
+      "xQuery": "黒字リストラ 中高年が残る条件は"
+    },
+    {
+      "time": "15:08",
+      "title": "珍しい現象 二重の水上竜巻が発生",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601913?source=rss",
+      "publishedAt": "2026-11-09T06:08:20.000Z",
+      "xQuery": "珍しい現象 二重の水上竜巻が発生"
     }
   ]
 };
