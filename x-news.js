@@ -1,21 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-09T08:36:27.717Z",
+  "updatedAt": "2026-11-09T09:16:38.770Z",
   "items": [
     {
-      "time": "16:23",
-      "title": "米大統領 中露首脳と会談の見通し",
+      "time": "17:44",
+      "title": "石破前首相ら4人を戒告処分 自民",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601919?source=rss",
-      "publishedAt": "2026-11-09T07:23:55.000Z",
-      "xQuery": "米大統領 中露首脳と会談の見通し"
+      "url": "https://news.yahoo.co.jp/pickup/6601933?source=rss",
+      "publishedAt": "2026-11-09T08:44:45.000Z",
+      "xQuery": "石破前首相ら4人を戒告処分 自民"
     },
     {
-      "time": "16:07",
-      "title": "G7会議前に首相飲酒せず 木原氏",
+      "time": "17:58",
+      "title": "ニトリ 最大3762万件の情報流出か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601917?source=rss",
-      "publishedAt": "2026-11-09T07:07:54.000Z",
-      "xQuery": "G7会議前に首相飲酒せず 木原氏"
+      "url": "https://news.yahoo.co.jp/pickup/6601934?source=rss",
+      "publishedAt": "2026-11-09T08:58:01.000Z",
+      "xQuery": "ニトリ 最大3762万件の情報流出か"
+    },
+    {
+      "time": "17:28",
+      "title": "体調不良の横浜市長 公務に復帰",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601929?source=rss",
+      "publishedAt": "2026-11-09T08:28:28.000Z",
+      "xQuery": "体調不良の横浜市長 公務に復帰"
     },
     {
       "time": "17:14",
@@ -24,14 +32,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6601927?source=rss",
       "publishedAt": "2026-11-09T08:14:20.000Z",
       "xQuery": "労基法 女子保護規定の全廃検討へ"
-    },
-    {
-      "time": "16:44",
-      "title": "MS&AD 漏えい計約101万1千件に",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601922?source=rss",
-      "publishedAt": "2026-11-09T07:44:10.000Z",
-      "xQuery": "MS&AD 漏えい計約101万1千件に"
     },
     {
       "time": "16:27",
