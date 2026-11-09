@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-09T14:36:15.699Z",
+  "updatedAt": "2026-11-09T15:11:48.864Z",
   "items": [
     {
       "time": "21:10",
@@ -10,12 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "4人戒告処分 自民「看過できず」"
     },
     {
-      "time": "21:54",
-      "title": "IPOに向けた準備に着手 サカナAI",
+      "time": "23:53",
+      "title": "リニア名古屋駅 完成は2033年以降",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601958?source=rss",
-      "publishedAt": "2026-11-09T12:54:00.000Z",
-      "xQuery": "IPOに向けた準備に着手 サカナAI"
+      "url": "https://news.yahoo.co.jp/pickup/6601970?source=rss",
+      "publishedAt": "2026-11-09T14:53:14.000Z",
+      "xQuery": "リニア名古屋駅 完成は2033年以降"
+    },
+    {
+      "time": "21:43",
+      "title": "「低体温症」8割近くが屋内で発症",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601956?source=rss",
+      "publishedAt": "2026-11-09T12:43:25.000Z",
+      "xQuery": "「低体温症」8割近くが屋内で発症"
     },
     {
       "time": "22:37",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "大地震エネルギー蓄積か 日本海溝"
     },
     {
-      "time": "21:56",
-      "title": "麻生コンクリ JIS認証取り消し",
+      "time": "20:10",
+      "title": "同僚踏みつけ死亡させた疑い 逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601959?source=rss",
-      "publishedAt": "2026-11-09T12:56:57.000Z",
-      "xQuery": "麻生コンクリ JIS認証取り消し"
-    },
-    {
-      "time": "22:08",
-      "title": "山口県警 賞与など8千万円未払い",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601960?source=rss",
-      "publishedAt": "2026-11-09T13:08:05.000Z",
-      "xQuery": "山口県警 賞与など8千万円未払い"
+      "url": "https://news.yahoo.co.jp/pickup/6601947?source=rss",
+      "publishedAt": "2026-11-09T11:10:10.000Z",
+      "xQuery": "同僚踏みつけ死亡させた疑い 逮捕"
     }
   ]
 };
