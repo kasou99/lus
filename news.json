@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-11-09T19:35:30.540Z",
+  "updatedAt": "2026-11-09T20:11:05.539Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "05:00",
+        "title": "工作機械受注残高が最高 １兆９８２億円 ＡＩ普及追い風 ：地域ニュース",
+        "source": "読売新聞",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAzT1FPc000SnpMa2pXRUdFelRGS3Z0NnFkVjNIOU9DeUp0NkN6QUcway1YcjV1eUhXcDdUVTBrMWNKd0ZNUWhqV2poMUhlcTN3Q19KVkc0SGt1b2dwaUMwWU8zTDdzVmlYMG9hdTljZkU?oc=5",
+        "publishedAt": "2026-11-09T20:00:00.000Z"
+      },
       {
         "time": "23:08",
         "title": "｢設備保全DX最前線～データ活用からAI活用へ、現場変革の実践事例～｣ウェビナー抄録【PR】",
@@ -50,13 +57,6 @@
         "source": "MONOist",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5fVkdlcmxWS1Y4MUI1R1l4NUVYQlNfS3M0bExFaDItQUFVbUM4U2dVUndyZ0swVG1Ucnd6ODV5UnNzdndLQ19PZWRvS3FtSkZDcVMyVUdROXhBR3g0a0VRclVodWpNYzFIVERJdEdEQQ?oc=5",
         "publishedAt": "2026-11-08T22:30:00.000Z"
-      },
-      {
-        "time": "15:41",
-        "title": "サーボ溶接ガンマーケットリサーチ：調査方法・市場動向・業界規模",
-        "source": "Newscast.jp",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9XRGxnM0VybDduZWxHdDFmN2tkODdHcW1rSEtfdHFYYXdDbjliajZfZUNlSEVYRTFpMExZUmJGd3BsLUR3QzBkTUF6dTZreDg?oc=5",
-        "publishedAt": "2026-11-09T06:41:00.000Z"
       }
     ],
     "worldHeadlines": [
