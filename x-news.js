@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-09T21:35:23.362Z",
+  "updatedAt": "2026-11-09T22:09:16.072Z",
   "items": [
     {
-      "time": "21:10",
-      "title": "4人戒告処分 自民「看過できず」",
+      "time": "06:48",
+      "title": "石破前首相ら戒告処分 参院側不満",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601951?source=rss",
-      "publishedAt": "2026-11-09T12:10:07.000Z",
-      "xQuery": "4人戒告処分 自民「看過できず」"
+      "url": "https://news.yahoo.co.jp/pickup/6601976?source=rss",
+      "publishedAt": "2026-11-09T21:48:49.000Z",
+      "xQuery": "石破前首相ら戒告処分 参院側不満"
     },
     {
       "time": "21:43",
