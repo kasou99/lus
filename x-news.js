@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-09T15:36:06.541Z",
+  "updatedAt": "2026-11-09T16:12:36.017Z",
   "items": [
     {
       "time": "21:10",
@@ -8,14 +8,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6601951?source=rss",
       "publishedAt": "2026-11-09T12:10:07.000Z",
       "xQuery": "4人戒告処分 自民「看過できず」"
-    },
-    {
-      "time": "23:53",
-      "title": "リニア名古屋駅 完成は2033年以降",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601970?source=rss",
-      "publishedAt": "2026-11-09T14:53:14.000Z",
-      "xQuery": "リニア名古屋駅 完成は2033年以降"
     },
     {
       "time": "21:43",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6601947?source=rss",
       "publishedAt": "2026-11-09T11:10:10.000Z",
       "xQuery": "同僚踏みつけ死亡させた疑い 逮捕"
+    },
+    {
+      "time": "23:30",
+      "title": "映像 270kgの巨大ヒグマを捕獲",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601968?source=rss",
+      "publishedAt": "2026-11-09T14:30:57.000Z",
+      "xQuery": "映像 270kgの巨大ヒグマを捕獲"
     }
   ]
 };
