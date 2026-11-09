@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-09T02:16:23.923Z",
+  "updatedAt": "2026-11-09T02:35:37.902Z",
   "items": [
     {
       "time": "09:51",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "米大統領 報道官にUFC代表は冗談"
     },
     {
-      "time": "10:39",
-      "title": "偽基地局運用疑い 中国籍の男逮捕",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601881?source=rss",
-      "publishedAt": "2026-11-09T01:39:09.000Z",
-      "xQuery": "偽基地局運用疑い 中国籍の男逮捕"
-    },
-    {
       "time": "08:52",
       "title": "北朝鮮ハッカーのチャットか 入手",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6601870?source=rss",
       "publishedAt": "2026-11-08T23:52:15.000Z",
       "xQuery": "北朝鮮ハッカーのチャットか 入手"
+    },
+    {
+      "time": "11:13",
+      "title": "赤ちゃんの名前 男の子1位「朔」",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601885?source=rss",
+      "publishedAt": "2026-11-09T02:13:39.000Z",
+      "xQuery": "赤ちゃんの名前 男の子1位「朔」"
     }
   ]
 };
