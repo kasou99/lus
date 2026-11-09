@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T04:14:29.147Z",
+  "updatedAt": "2026-11-09T04:35:40.820Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -15,13 +15,6 @@
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4wMXZiTXlVZXp2cEhibENnRFg4X3o2SDhRTUg2V0RveDdhLWhEMjhXWkdwR0x5Vy11cjZqS05PWDlxeF9qV0xRTV8wRERiM2locEhwdk9Ca3Q?oc=5",
         "publishedAt": "2026-11-09T02:08:36.000Z"
-      },
-      {
-        "time": "07:30",
-        "title": "中村留、新しいATC型複合加工機を披露 コンパクト設計と高精度加工を両立：JIMTOF2026",
-        "source": "MONOist",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5fVkdlcmxWS1Y4MUI1R1l4NUVYQlNfS3M0bExFaDItQUFVbUM4U2dVUndyZ0swVG1Ucnd6ODV5UnNzdndLQ19PZWRvS3FtSkZDcVMyVUdROXhBR3g0a0VRclVodWpNYzFIVERJdEdEQQ?oc=5",
-        "publishedAt": "2026-11-08T22:30:00.000Z"
       },
       {
         "time": "08:54",
@@ -50,6 +43,13 @@
         "source": "pando.life",
         "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5odmxxR2Z3OFU4WFBrd1VtelRjRGp5Tm0wYjdDeGlTYUtJTjJWazY2QnFZSmRjaDgtVUExN0dwUVptMFJUY1JNODd3?oc=5",
         "publishedAt": "2026-11-08T12:17:28.000Z"
+      },
+      {
+        "time": "07:30",
+        "title": "中村留、新しいATC型複合加工機を披露 コンパクト設計と高精度加工を両立：JIMTOF2026",
+        "source": "MONOist",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5fVkdlcmxWS1Y4MUI1R1l4NUVYQlNfS3M0bExFaDItQUFVbUM4U2dVUndyZ0swVG1Ucnd6ODV5UnNzdndLQ19PZWRvS3FtSkZDcVMyVUdROXhBR3g0a0VRclVodWpNYzFIVERJdEdEQQ?oc=5",
+        "publishedAt": "2026-11-08T22:30:00.000Z"
       },
       {
         "time": "11:30",
@@ -133,11 +133,11 @@
         "publishedAt": "2026-11-09T03:05:24.000Z"
       },
       {
-        "time": "15:42",
-        "title": "倉庫には古米の山 赤字覚悟で販売",
+        "time": "13:25",
+        "title": "黒字リストラ 中高年が残る条件は",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601793?source=rss",
-        "publishedAt": "2026-11-08T06:42:20.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6601894?source=rss",
+        "publishedAt": "2026-11-09T04:25:34.000Z"
       },
       {
         "time": "07:46",
@@ -149,11 +149,11 @@
     ],
     "localHeadlines": [
       {
-        "time": "23:39",
-        "title": "福井の山中に女性遺体 死因は窒息",
+        "time": "13:19",
+        "title": "山林の遺体 監禁後まもなく死亡か",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601853?source=rss",
-        "publishedAt": "2026-11-08T14:39:31.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6601904?source=rss",
+        "publishedAt": "2026-11-09T04:19:57.000Z"
       },
       {
         "time": "15:59",

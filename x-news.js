@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-09T04:14:30.037Z",
+  "updatedAt": "2026-11-09T04:35:41.646Z",
   "items": [
     {
       "time": "12:32",
@@ -18,28 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "三井化学がJSR買収 1兆8400億円"
     },
     {
+      "time": "10:45",
+      "title": "10月サイバー攻撃233件 過去最多",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601882?source=rss",
+      "publishedAt": "2026-11-09T01:45:34.000Z",
+      "xQuery": "10月サイバー攻撃233件 過去最多"
+    },
+    {
+      "time": "13:19",
+      "title": "山林の遺体 監禁後まもなく死亡か",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601904?source=rss",
+      "publishedAt": "2026-11-09T04:19:57.000Z",
+      "xQuery": "山林の遺体 監禁後まもなく死亡か"
+    },
+    {
       "time": "12:20",
       "title": "幼児死亡 足蹴りした疑いで男逮捕",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6601902?source=rss",
       "publishedAt": "2026-11-09T03:20:22.000Z",
       "xQuery": "幼児死亡 足蹴りした疑いで男逮捕"
-    },
-    {
-      "time": "11:45",
-      "title": "クマに襲われ5回手術 後悔尽きず",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601888?source=rss",
-      "publishedAt": "2026-11-09T02:45:25.000Z",
-      "xQuery": "クマに襲われ5回手術 後悔尽きず"
-    },
-    {
-      "time": "11:13",
-      "title": "赤ちゃんの名前 男の子1位「朔」",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601885?source=rss",
-      "publishedAt": "2026-11-09T02:13:39.000Z",
-      "xQuery": "赤ちゃんの名前 男の子1位「朔」"
     }
   ]
 };
