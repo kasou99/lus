@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-09T01:39:16.757Z",
+  "updatedAt": "2026-11-09T02:16:23.923Z",
   "items": [
     {
       "time": "09:51",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "中国を「脅威」見送りへ 政府方針"
     },
     {
-      "time": "08:28",
-      "title": "CEOと工作員の関係 NVIDIA調査",
+      "time": "11:08",
+      "title": "米大統領 報道官にUFC代表は冗談",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601868?source=rss",
-      "publishedAt": "2026-11-08T23:28:44.000Z",
-      "xQuery": "CEOと工作員の関係 NVIDIA調査"
+      "url": "https://news.yahoo.co.jp/pickup/6601883?source=rss",
+      "publishedAt": "2026-11-09T02:08:29.000Z",
+      "xQuery": "米大統領 報道官にUFC代表は冗談"
     },
     {
-      "time": "09:46",
-      "title": "パラグライダー落下か 72歳死亡",
+      "time": "10:39",
+      "title": "偽基地局運用疑い 中国籍の男逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601876?source=rss",
-      "publishedAt": "2026-11-09T00:46:28.000Z",
-      "xQuery": "パラグライダー落下か 72歳死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6601881?source=rss",
+      "publishedAt": "2026-11-09T01:39:09.000Z",
+      "xQuery": "偽基地局運用疑い 中国籍の男逮捕"
     },
     {
       "time": "08:52",

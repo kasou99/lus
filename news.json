@@ -1,20 +1,27 @@
 {
-  "updatedAt": "2026-11-09T01:39:15.785Z",
+  "updatedAt": "2026-11-09T02:16:23.105Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "10:30",
+        "title": "DMG森精機社長が目指す「止まらない工作機械」 無人化で残る「人の仕事」とは（MONOist）",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1HWHhlQzhhbTZaTDNMSDVmWUNrSzhMMFJod09QZTdQUGwyRGRRcHpsVDU4RUZUNldad3J5S2h2VTI1QjNXWnU0RE5kNHAxOHRVdDJIV1BJcUkweGJ3VkRVdWgwQUlDcE10VFNCV1lkcUV0WG1fbFpLT0dIc0lGOXc?oc=5",
+        "publishedAt": "2026-11-09T01:30:16.000Z"
+      },
+      {
+        "time": "11:08",
+        "title": "｢設備保全DX最前線～データ活用からAI活用へ、現場変革の実践事例～｣ウェビナー抄録【PR】",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4wMXZiTXlVZXp2cEhibENnRFg4X3o2SDhRTUg2V0RveDdhLWhEMjhXWkdwR0x5Vy11cjZqS05PWDlxeF9qV0xRTV8wRERiM2locEhwdk9Ca3Q?oc=5",
+        "publishedAt": "2026-11-09T02:08:36.000Z"
+      },
       {
         "time": "08:54",
         "title": "工作機械２０２６年度上半期受注額が初の１兆円超え",
         "source": "金属産業新聞",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5yajJaWklNUW5hd01zUlpVcE5oME91bmJuazdfU1RsNjNwcDBZUmZCZzF4dGRveG9lZW81d0JhVS1penpNYVpjRXFIYkVLbTNZWkJMT0VGWEc?oc=5",
         "publishedAt": "2026-11-08T23:54:27.000Z"
-      },
-      {
-        "time": "07:30",
-        "title": "中村留、新しいATC型複合加工機を披露 コンパクト設計と高精度加工を両立：JIMTOF2026",
-        "source": "MONOist",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5fVkdlcmxWS1Y4MUI1R1l4NUVYQlNfS3M0bExFaDItQUFVbUM4U2dVUndyZ0swVG1Ucnd6ODV5UnNzdndLQ19PZWRvS3FtSkZDcVMyVUdROXhBR3g0a0VRclVodWpNYzFIVERJdEdEQQ?oc=5",
-        "publishedAt": "2026-11-08T22:30:00.000Z"
       },
       {
         "time": "00:55",
@@ -38,25 +45,18 @@
         "publishedAt": "2026-11-08T12:17:28.000Z"
       },
       {
+        "time": "07:30",
+        "title": "中村留、新しいATC型複合加工機を披露 コンパクト設計と高精度加工を両立：JIMTOF2026",
+        "source": "MONOist",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5fVkdlcmxWS1Y4MUI1R1l4NUVYQlNfS3M0bExFaDItQUFVbUM4U2dVUndyZ0swVG1Ucnd6ODV5UnNzdndLQ19PZWRvS3FtSkZDcVMyVUdROXhBR3g0a0VRclVodWpNYzFIVERJdEdEQQ?oc=5",
+        "publishedAt": "2026-11-08T22:30:00.000Z"
+      },
+      {
         "time": "14:10",
         "title": "「導入しても回らない」保全DXを動かす―設備管理BPaaS「MENTENAワークス」提供開始",
         "source": "Infoseek",
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBZWVBzZEFsc1lraXI3SHZhbEZSUjRMOEZhbDRGTVhaYjNweklRd1ZjcXhkUE4tVmh1SmJCbzNYRVF3UGEtSHU2ZGg5bzZpbE5oZWo0bzQtOHBJT1dObVVyV19lM0Y5SUprSVAyZ0VHd3hSUQ?oc=5",
         "publishedAt": "2026-11-08T05:10:00.000Z"
-      },
-      {
-        "time": "14:45",
-        "title": "呉市にて最大級の機械工具展示会を開催！",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1BZVcyUVE3ZXltU2dXTHZIa2Y2VnJtRE0zX01CWUVkOXdSeHFLWERpT0xJTFRqZV9LTDc5SlJSQ3c1al9LVDNPRElNM2pHX0JVTGtnNy1GdE5GN3c5dElObm9ocHNYamhKNWRiblYxeFRRSW02MzVmem5B?oc=5",
-        "publishedAt": "2026-11-08T05:45:31.000Z"
-      },
-      {
-        "time": "09:03",
-        "title": "Dify共同創業者、日本法人前代表のキジ マルダン氏、Cognitech.DEVの代表取締役CTOとして本格始動",
-        "source": "PR TIMES",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9zMjJ4aTBuUkxkdXI4dy1pZXpxa0FlV2dqS245dk94LXBHcDAyT1djbVJ3cjU3M1h0MHBpSFd2cWRvYXBBeWN3bXp6UU40LUFRYnZ2VndPZFNxTGQ4Z0l6cDZ4T2g5LUZjWGc?oc=5",
-        "publishedAt": "2026-11-09T00:03:18.000Z"
       }
     ],
     "worldHeadlines": [
@@ -75,11 +75,11 @@
         "publishedAt": "2026-11-09T00:45:33.000Z"
       },
       {
-        "time": "11:16",
-        "title": "トランプ氏 UFC代表に報道官打診",
+        "time": "11:08",
+        "title": "米大統領 報道官にUFC代表は冗談",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601757?source=rss",
-        "publishedAt": "2026-11-08T02:16:55.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6601883?source=rss",
+        "publishedAt": "2026-11-09T02:08:29.000Z"
       },
       {
         "time": "13:43",
@@ -184,11 +184,11 @@
         "publishedAt": "2026-11-09T00:46:28.000Z"
       },
       {
-        "time": "09:58",
-        "title": "アメ横周辺 路上営業巡り家宅捜索",
+        "time": "10:39",
+        "title": "偽基地局運用疑い 中国籍の男逮捕",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601748?source=rss",
-        "publishedAt": "2026-11-08T00:58:20.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6601881?source=rss",
+        "publishedAt": "2026-11-09T01:39:09.000Z"
       }
     ],
     "subsidyHeadlines": [
