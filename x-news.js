@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-09T08:18:29.280Z",
+  "updatedAt": "2026-11-09T08:36:27.717Z",
   "items": [
     {
       "time": "16:23",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "G7会議前に首相飲酒せず 木原氏"
     },
     {
+      "time": "17:14",
+      "title": "労基法 女子保護規定の全廃検討へ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601927?source=rss",
+      "publishedAt": "2026-11-09T08:14:20.000Z",
+      "xQuery": "労基法 女子保護規定の全廃検討へ"
+    },
+    {
       "time": "16:44",
       "title": "MS&AD 漏えい計約101万1千件に",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6601922?source=rss",
       "publishedAt": "2026-11-09T07:44:10.000Z",
       "xQuery": "MS&AD 漏えい計約101万1千件に"
-    },
-    {
-      "time": "16:12",
-      "title": "女性殺害 当時17歳に懲役18年判決",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601918?source=rss",
-      "publishedAt": "2026-11-09T07:12:34.000Z",
-      "xQuery": "女性殺害 当時17歳に懲役18年判決"
     },
     {
       "time": "16:27",

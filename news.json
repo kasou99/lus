@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T08:18:28.526Z",
+  "updatedAt": "2026-11-09T08:36:26.751Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -22,13 +22,6 @@
         "source": "金属産業新聞",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5yajJaWklNUW5hd01zUlpVcE5oME91bmJuazdfU1RsNjNwcDBZUmZCZzF4dGRveG9lZW81d0JhVS1penpNYVpjRXFIYkVLbTNZWkJMT0VGWEc?oc=5",
         "publishedAt": "2026-11-08T23:54:27.000Z"
-      },
-      {
-        "time": "09:27",
-        "title": "設備保全クラウド「ミロクルカルテ」、新オプション「ミロクルAIメーター読み取り（α版）」をモノづくりフェア2026で初公開",
-        "source": "朝日新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1BLUczekl0VVAyeEE5LVBxSkV1dmhOb3hnXzNQX1hLZDdvV19LeE5nemlKTjA3dlJURl9zd3pXX1NMOEZna25hS1JLbVhTMUswNEEwWjZkOXp0Smc?oc=5",
-        "publishedAt": "2026-11-09T00:27:21.000Z"
       },
       {
         "time": "13:00",
@@ -57,6 +50,13 @@
         "source": "pando.life",
         "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5odmxxR2Z3OFU4WFBrd1VtelRjRGp5Tm0wYjdDeGlTYUtJTjJWazY2QnFZSmRjaDgtVUExN0dwUVptMFJUY1JNODd3?oc=5",
         "publishedAt": "2026-11-08T12:17:28.000Z"
+      },
+      {
+        "time": "07:30",
+        "title": "中村留、新しいATC型複合加工機を披露 コンパクト設計と高精度加工を両立：JIMTOF2026",
+        "source": "MONOist",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5fVkdlcmxWS1Y4MUI1R1l4NUVYQlNfS3M0bExFaDItQUFVbUM4U2dVUndyZ0swVG1Ucnd6ODV5UnNzdndLQ19PZWRvS3FtSkZDcVMyVUdROXhBR3g0a0VRclVodWpNYzFIVERJdEdEQQ?oc=5",
+        "publishedAt": "2026-11-08T22:30:00.000Z"
       }
     ],
     "worldHeadlines": [
