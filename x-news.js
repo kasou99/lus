@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-09T13:12:36.981Z",
+  "updatedAt": "2026-11-09T13:36:03.537Z",
   "items": [
     {
       "time": "19:53",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "麻生コンクリ JIS認証取り消し"
     },
     {
-      "time": "20:10",
-      "title": "同僚踏みつけ死亡させた疑い 逮捕",
+      "time": "22:08",
+      "title": "山口県警 賞与など8千万円未払い",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601947?source=rss",
-      "publishedAt": "2026-11-09T11:10:10.000Z",
-      "xQuery": "同僚踏みつけ死亡させた疑い 逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6601960?source=rss",
+      "publishedAt": "2026-11-09T13:08:05.000Z",
+      "xQuery": "山口県警 賞与など8千万円未払い"
     }
   ]
 };
