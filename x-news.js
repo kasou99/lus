@@ -1,14 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-09T13:36:03.537Z",
+  "updatedAt": "2026-11-09T14:12:08.535Z",
   "items": [
-    {
-      "time": "19:53",
-      "title": "JT株 2営業日連続のストップ安",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601946?source=rss",
-      "publishedAt": "2026-11-09T10:53:26.000Z",
-      "xQuery": "JT株 2営業日連続のストップ安"
-    },
     {
       "time": "17:13",
       "title": "地銀サイバー対策に補助金で調整",
@@ -18,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "地銀サイバー対策に補助金で調整"
     },
     {
-      "time": "21:21",
-      "title": "石破氏 戒告処分厳粛に受け止め",
+      "time": "19:26",
+      "title": "NTTなど5社 衛星連携へ協業検討",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601954?source=rss",
-      "publishedAt": "2026-11-09T12:21:00.000Z",
-      "xQuery": "石破氏 戒告処分厳粛に受け止め"
+      "url": "https://news.yahoo.co.jp/pickup/6601943?source=rss",
+      "publishedAt": "2026-11-09T10:26:03.000Z",
+      "xQuery": "NTTなど5社 衛星連携へ協業検討"
     },
     {
       "time": "21:56",
@@ -32,6 +24,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6601959?source=rss",
       "publishedAt": "2026-11-09T12:56:57.000Z",
       "xQuery": "麻生コンクリ JIS認証取り消し"
+    },
+    {
+      "time": "21:10",
+      "title": "4人戒告処分 自民「看過できず」",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601951?source=rss",
+      "publishedAt": "2026-11-09T12:10:07.000Z",
+      "xQuery": "4人戒告処分 自民「看過できず」"
     },
     {
       "time": "22:08",
