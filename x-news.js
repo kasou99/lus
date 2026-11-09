@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-09T05:36:33.667Z",
+  "updatedAt": "2026-11-09T06:27:01.415Z",
   "items": [
     {
       "time": "13:58",
@@ -18,6 +18,14 @@ window.LUS_X_NEWS = {
       "xQuery": "都心は真冬並みの寒さ 寒暖差注意"
     },
     {
+      "time": "14:00",
+      "title": "アフリカ カルト教団が増える背景",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601895?source=rss",
+      "publishedAt": "2026-11-09T05:00:45.000Z",
+      "xQuery": "アフリカ カルト教団が増える背景"
+    },
+    {
       "time": "13:48",
       "title": "採決直前に退席 石破氏が理由説明",
       "source": "Yahoo!ニュース",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "採決直前に退席 石破氏が理由説明"
     },
     {
-      "time": "11:45",
-      "title": "クマに襲われ5回手術 後悔尽きず",
+      "time": "14:37",
+      "title": "十分生きた 透析拒んだ父への医療",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601888?source=rss",
-      "publishedAt": "2026-11-09T02:45:25.000Z",
-      "xQuery": "クマに襲われ5回手術 後悔尽きず"
-    },
-    {
-      "time": "12:14",
-      "title": "透析「しない」父 家族救ったケア",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601898?source=rss",
-      "publishedAt": "2026-11-09T03:14:16.000Z",
-      "xQuery": "透析「しない」父 家族救ったケア"
+      "url": "https://news.yahoo.co.jp/pickup/6601911?source=rss",
+      "publishedAt": "2026-11-09T05:37:25.000Z",
+      "xQuery": "十分生きた 透析拒んだ父への医療"
     }
   ]
 };
