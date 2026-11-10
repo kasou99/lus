@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T14:11:44.353Z",
+  "updatedAt": "2026-11-10T14:35:53.662Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -119,13 +119,6 @@
         "publishedAt": "2026-11-10T09:53:46.000Z"
       },
       {
-        "time": "16:55",
-        "title": "JR東 タッチ不要の改札導入へ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602052?source=rss",
-        "publishedAt": "2026-11-10T07:55:46.000Z"
-      },
-      {
         "time": "19:11",
         "title": "タカラトミー ロゴマーク変更へ",
         "source": "Yahoo!ニュース",
@@ -138,6 +131,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6602078?source=rss",
         "publishedAt": "2026-11-10T10:57:49.000Z"
+      },
+      {
+        "time": "23:12",
+        "title": "もう終わりやで 明石ダコ深刻不漁",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6602095?source=rss",
+        "publishedAt": "2026-11-10T14:12:10.000Z"
       },
       {
         "time": "20:31",
@@ -184,11 +184,11 @@
         "publishedAt": "2026-11-10T08:42:20.000Z"
       },
       {
-        "time": "11:43",
-        "title": "マンション2人死亡 7階から転落か",
+        "time": "12:32",
+        "title": "元交際相手に「いいね」14回 有罪",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602017?source=rss",
-        "publishedAt": "2026-11-10T02:43:06.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6602027?source=rss",
+        "publishedAt": "2026-11-10T03:32:12.000Z"
       }
     ],
     "subsidyHeadlines": [

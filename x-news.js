@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-10T14:11:45.202Z",
+  "updatedAt": "2026-11-10T14:35:54.718Z",
   "items": [
+    {
+      "time": "22:42",
+      "title": "日中首脳会談 実現への調整不調",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6602093?source=rss",
+      "publishedAt": "2026-11-10T13:42:28.000Z",
+      "xQuery": "日中首脳会談 実現への調整不調"
+    },
     {
       "time": "21:24",
       "title": "米・露・ウの協議 9カ月ぶり再開",
@@ -8,14 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6602085?source=rss",
       "publishedAt": "2026-11-10T12:24:04.000Z",
       "xQuery": "米・露・ウの協議 9カ月ぶり再開"
-    },
-    {
-      "time": "20:44",
-      "title": "自民・小渕氏ら 税調副会長を辞任",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602083?source=rss",
-      "publishedAt": "2026-11-10T11:44:04.000Z",
-      "xQuery": "自民・小渕氏ら 税調副会長を辞任"
     },
     {
       "time": "22:32",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "スマホ遠隔操作し詐欺疑い 逮捕"
     },
     {
-      "time": "20:31",
-      "title": "マック 新チキン商品の販売休止へ",
+      "time": "23:12",
+      "title": "もう終わりやで 明石ダコ深刻不漁",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602081?source=rss",
-      "publishedAt": "2026-11-10T11:31:51.000Z",
-      "xQuery": "マック 新チキン商品の販売休止へ"
+      "url": "https://news.yahoo.co.jp/pickup/6602095?source=rss",
+      "publishedAt": "2026-11-10T14:12:10.000Z",
+      "xQuery": "もう終わりやで 明石ダコ深刻不漁"
     }
   ]
 };
