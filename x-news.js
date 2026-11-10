@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-10T06:39:24.228Z",
+  "updatedAt": "2026-11-10T07:11:55.270Z",
   "items": [
     {
       "time": "14:55",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "NVIDIA巡る疑惑 米対応に注目"
     },
     {
-      "time": "11:53",
-      "title": "イノシシか 女性に体当たりの映像",
+      "time": "15:49",
+      "title": "義母を窒息させ殺害疑い 男を逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602018?source=rss",
-      "publishedAt": "2026-11-10T02:53:56.000Z",
-      "xQuery": "イノシシか 女性に体当たりの映像"
+      "url": "https://news.yahoo.co.jp/pickup/6602046?source=rss",
+      "publishedAt": "2026-11-10T06:49:10.000Z",
+      "xQuery": "義母を窒息させ殺害疑い 男を逮捕"
     },
     {
       "time": "14:40",

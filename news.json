@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T06:39:23.624Z",
+  "updatedAt": "2026-11-10T07:11:54.369Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -156,6 +156,13 @@
         "publishedAt": "2026-11-10T03:17:55.000Z"
       },
       {
+        "time": "15:49",
+        "title": "義母を窒息させ殺害疑い 男を逮捕",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6602046?source=rss",
+        "publishedAt": "2026-11-10T06:49:10.000Z"
+      },
+      {
         "time": "12:03",
         "title": "室蘭殺人 男「騒音うるさかった」",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6602027?source=rss",
         "publishedAt": "2026-11-10T03:32:12.000Z"
-      },
-      {
-        "time": "14:40",
-        "title": "メタとの訴訟 前澤氏の請求を棄却",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602036?source=rss",
-        "publishedAt": "2026-11-10T05:40:42.000Z"
       }
     ],
     "subsidyHeadlines": [
