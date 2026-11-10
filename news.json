@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T05:36:05.379Z",
+  "updatedAt": "2026-11-10T06:18:51.706Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -75,11 +75,11 @@
         "publishedAt": "2026-11-09T22:27:29.000Z"
       },
       {
-        "time": "13:56",
-        "title": "米国防長官に弾劾決議案 焦点は",
+        "time": "15:01",
+        "title": "米国防長官に弾劾決議案 何が問題",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602021?source=rss",
-        "publishedAt": "2026-11-10T04:56:09.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6602042?source=rss",
+        "publishedAt": "2026-11-10T06:01:48.000Z"
       },
       {
         "time": "14:30",
@@ -126,13 +126,6 @@
         "publishedAt": "2026-11-09T12:56:57.000Z"
       },
       {
-        "time": "19:07",
-        "title": "NTT 保有するNEC全株売却を発表",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601941?source=rss",
-        "publishedAt": "2026-11-09T10:07:31.000Z"
-      },
-      {
         "time": "08:39",
         "title": "火葬料 公営と民間で大きな差",
         "source": "Yahoo!ニュース",
@@ -145,6 +138,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6602032?source=rss",
         "publishedAt": "2026-11-10T04:50:17.000Z"
+      },
+      {
+        "time": "06:24",
+        "title": "100均パスワード管理ノート 品薄",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6601975?source=rss",
+        "publishedAt": "2026-11-09T21:24:41.000Z"
       }
     ],
     "localHeadlines": [
@@ -156,18 +156,18 @@
         "publishedAt": "2026-11-10T03:17:55.000Z"
       },
       {
-        "time": "10:59",
-        "title": "容疑者が記録の内容 福岡県警検査",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602009?source=rss",
-        "publishedAt": "2026-11-10T01:59:06.000Z"
-      },
-      {
         "time": "12:03",
         "title": "室蘭殺人 男「騒音うるさかった」",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6602019?source=rss",
         "publishedAt": "2026-11-10T03:03:31.000Z"
+      },
+      {
+        "time": "15:00",
+        "title": "福島男児死亡 事件前に児相に情報",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6602041?source=rss",
+        "publishedAt": "2026-11-10T06:00:06.000Z"
       },
       {
         "time": "11:43",
@@ -184,11 +184,11 @@
         "publishedAt": "2026-11-10T03:32:12.000Z"
       },
       {
-        "time": "09:20",
-        "title": "グルメイベントで準備不十分 波紋",
+        "time": "14:40",
+        "title": "メタとの訴訟 前澤氏の請求を棄却",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601993?source=rss",
-        "publishedAt": "2026-11-10T00:20:52.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6602036?source=rss",
+        "publishedAt": "2026-11-10T05:40:42.000Z"
       }
     ],
     "subsidyHeadlines": [

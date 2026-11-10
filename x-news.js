@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-10T05:36:06.274Z",
+  "updatedAt": "2026-11-10T06:18:52.408Z",
   "items": [
     {
       "time": "12:49",
@@ -10,12 +10,28 @@ window.LUS_X_NEWS = {
       "xQuery": "内水氾濫の被害軽減へ 国が対応策"
     },
     {
-      "time": "13:56",
-      "title": "米国防長官に弾劾決議案 焦点は",
+      "time": "10:09",
+      "title": "露政権批判の代表紙 編集部を閉鎖",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602021?source=rss",
-      "publishedAt": "2026-11-10T04:56:09.000Z",
-      "xQuery": "米国防長官に弾劾決議案 焦点は"
+      "url": "https://news.yahoo.co.jp/pickup/6602002?source=rss",
+      "publishedAt": "2026-11-10T01:09:18.000Z",
+      "xQuery": "露政権批判の代表紙 編集部を閉鎖"
+    },
+    {
+      "time": "15:01",
+      "title": "米国防長官に弾劾決議案 何が問題",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6602042?source=rss",
+      "publishedAt": "2026-11-10T06:01:48.000Z",
+      "xQuery": "米国防長官に弾劾決議案 何が問題"
+    },
+    {
+      "time": "14:30",
+      "title": "NVIDIA巡る疑惑 米対応に注目",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6602035?source=rss",
+      "publishedAt": "2026-11-10T05:30:14.000Z",
+      "xQuery": "NVIDIA巡る疑惑 米対応に注目"
     },
     {
       "time": "12:17",
@@ -24,22 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6602024?source=rss",
       "publishedAt": "2026-11-10T03:17:55.000Z",
       "xQuery": "徳島・阿波市長ら 詐欺疑いで逮捕"
-    },
-    {
-      "time": "12:32",
-      "title": "元交際相手に「いいね」14回 有罪",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602027?source=rss",
-      "publishedAt": "2026-11-10T03:32:12.000Z",
-      "xQuery": "元交際相手に「いいね」14回 有罪"
-    },
-    {
-      "time": "11:53",
-      "title": "イノシシか 女性に体当たりの映像",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602018?source=rss",
-      "publishedAt": "2026-11-10T02:53:56.000Z",
-      "xQuery": "イノシシか 女性に体当たりの映像"
     }
   ]
 };
