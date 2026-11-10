@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-10T12:16:11.187Z",
+  "updatedAt": "2026-11-10T12:36:05.144Z",
   "items": [
     {
-      "time": "18:23",
-      "title": "原子力潜水艦 導入視野に検討へ",
+      "time": "21:24",
+      "title": "米・露・ウの協議 9カ月ぶり再開",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602067?source=rss",
-      "publishedAt": "2026-11-10T09:23:37.000Z",
-      "xQuery": "原子力潜水艦 導入視野に検討へ"
+      "url": "https://news.yahoo.co.jp/pickup/6602085?source=rss",
+      "publishedAt": "2026-11-10T12:24:04.000Z",
+      "xQuery": "米・露・ウの協議 9カ月ぶり再開"
     },
     {
-      "time": "19:21",
-      "title": "市長ら逮捕 阿波市役所に家宅捜索",
+      "time": "20:01",
+      "title": "安保3文書 民間力強化を明記へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602075?source=rss",
-      "publishedAt": "2026-11-10T10:21:42.000Z",
-      "xQuery": "市長ら逮捕 阿波市役所に家宅捜索"
+      "url": "https://news.yahoo.co.jp/pickup/6602079?source=rss",
+      "publishedAt": "2026-11-10T11:01:34.000Z",
+      "xQuery": "安保3文書 民間力強化を明記へ"
     },
     {
       "time": "20:44",

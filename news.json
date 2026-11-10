@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T12:16:10.421Z",
+  "updatedAt": "2026-11-10T12:36:03.785Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -61,6 +61,13 @@
     ],
     "worldHeadlines": [
       {
+        "time": "21:24",
+        "title": "米・露・ウの協議 9カ月ぶり再開",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6602085?source=rss",
+        "publishedAt": "2026-11-10T12:24:04.000Z"
+      },
+      {
         "time": "07:27",
         "title": "米国防長官の弾劾採決へ 米下院",
         "source": "Yahoo!ニュース",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6602070?source=rss",
         "publishedAt": "2026-11-10T09:36:06.000Z"
-      },
-      {
-        "time": "17:50",
-        "title": "パプア「三人っ子政策」導入検討",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602061?source=rss",
-        "publishedAt": "2026-11-10T08:50:36.000Z"
       }
     ],
     "economyHeadlines": [
