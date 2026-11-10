@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T00:46:06.391Z",
+  "updatedAt": "2026-11-10T01:11:31.608Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -89,18 +89,18 @@
         "publishedAt": "2026-11-09T22:27:29.000Z"
       },
       {
+        "time": "10:09",
+        "title": "露政権批判の代表紙 編集部を閉鎖",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6602002?source=rss",
+        "publishedAt": "2026-11-10T01:09:18.000Z"
+      },
+      {
         "time": "07:34",
         "title": "仏大統領選 リネール氏が出馬表明",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601978?source=rss",
         "publishedAt": "2026-11-09T22:34:51.000Z"
-      },
-      {
-        "time": "10:26",
-        "title": "イスラエル 反首相陣営に組閣指示",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601880?source=rss",
-        "publishedAt": "2026-11-09T01:26:38.000Z"
       }
     ],
     "economyHeadlines": [
@@ -110,6 +110,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601981?source=rss",
         "publishedAt": "2026-11-09T22:43:16.000Z"
+      },
+      {
+        "time": "09:50",
+        "title": "ホンダ 米オハイオ州に工場新設へ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6601998?source=rss",
+        "publishedAt": "2026-11-10T00:50:15.000Z"
       },
       {
         "time": "21:56",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601985?source=rss",
         "publishedAt": "2026-11-09T23:39:48.000Z"
-      },
-      {
-        "time": "13:25",
-        "title": "黒字リストラ 中高年が残る条件は",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601894?source=rss",
-        "publishedAt": "2026-11-09T04:25:34.000Z"
       }
     ],
     "localHeadlines": [

@@ -1,14 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-10T00:46:07.181Z",
+  "updatedAt": "2026-11-10T01:11:32.538Z",
   "items": [
-    {
-      "time": "07:35",
-      "title": "自衛官定員削減 安保3文書明記へ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601979?source=rss",
-      "publishedAt": "2026-11-09T22:35:39.000Z",
-      "xQuery": "自衛官定員削減 安保3文書明記へ"
-    },
     {
       "time": "07:43",
       "title": "個人向け国債人気 発行額8兆円超",
@@ -16,6 +8,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6601981?source=rss",
       "publishedAt": "2026-11-09T22:43:16.000Z",
       "xQuery": "個人向け国債人気 発行額8兆円超"
+    },
+    {
+      "time": "08:39",
+      "title": "火葬料 公営と民間で大きな差",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601985?source=rss",
+      "publishedAt": "2026-11-09T23:39:48.000Z",
+      "xQuery": "火葬料 公営と民間で大きな差"
     },
     {
       "time": "09:26",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "マンション敷地に倒れた2人 死亡"
     },
     {
-      "time": "08:39",
-      "title": "火葬料 公営と民間で大きな差",
+      "time": "09:31",
+      "title": "マンジャロで視力低下恐れ 米FDA",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601985?source=rss",
-      "publishedAt": "2026-11-09T23:39:48.000Z",
-      "xQuery": "火葬料 公営と民間で大きな差"
+      "url": "https://news.yahoo.co.jp/pickup/6601997?source=rss",
+      "publishedAt": "2026-11-10T00:31:26.000Z",
+      "xQuery": "マンジャロで視力低下恐れ 米FDA"
     },
     {
       "time": "09:20",
