@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-10T08:16:10.626Z",
+  "updatedAt": "2026-11-10T08:35:42.035Z",
   "items": [
     {
       "time": "16:11",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "26年の熊本地震 関連死新たに5人"
     },
     {
-      "time": "14:55",
-      "title": "日本 米中露会談巡り米に懸念伝達",
+      "time": "14:19",
+      "title": "イスラエル 連立樹立の分かれ目は",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602040?source=rss",
-      "publishedAt": "2026-11-10T05:55:50.000Z",
-      "xQuery": "日本 米中露会談巡り米に懸念伝達"
+      "url": "https://news.yahoo.co.jp/pickup/6602022?source=rss",
+      "publishedAt": "2026-11-10T05:19:08.000Z",
+      "xQuery": "イスラエル 連立樹立の分かれ目は"
     },
     {
-      "time": "16:35",
-      "title": "阿波市長逮捕 事故修理費詐取疑い",
+      "time": "15:00",
+      "title": "福島男児死亡 事件前に児相に情報",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602049?source=rss",
-      "publishedAt": "2026-11-10T07:35:03.000Z",
-      "xQuery": "阿波市長逮捕 事故修理費詐取疑い"
+      "url": "https://news.yahoo.co.jp/pickup/6602041?source=rss",
+      "publishedAt": "2026-11-10T06:00:06.000Z",
+      "xQuery": "福島男児死亡 事件前に児相に情報"
     },
     {
       "time": "16:55",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "JR東 タッチ不要の改札導入へ"
     },
     {
-      "time": "14:40",
-      "title": "メタとの訴訟 前澤氏の請求を棄却",
+      "time": "15:32",
+      "title": "「仮面舞踏会」チケ即日完売 なぜ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602036?source=rss",
-      "publishedAt": "2026-11-10T05:40:42.000Z",
-      "xQuery": "メタとの訴訟 前澤氏の請求を棄却"
+      "url": "https://news.yahoo.co.jp/pickup/6602044?source=rss",
+      "publishedAt": "2026-11-10T06:32:22.000Z",
+      "xQuery": "「仮面舞踏会」チケ即日完売 なぜ"
     }
   ]
 };
