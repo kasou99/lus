@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-10T21:09:42.748Z",
+  "updatedAt": "2026-11-10T21:35:00.469Z",
   "items": [
     {
       "time": "22:42",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "タマホーム社員 保険金を不正請求"
     },
     {
-      "time": "20:39",
-      "title": "スマホ遠隔操作し詐欺疑い 逮捕",
+      "time": "06:27",
+      "title": "女性搬送の救急車事故 病院で死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602082?source=rss",
-      "publishedAt": "2026-11-10T11:39:05.000Z",
-      "xQuery": "スマホ遠隔操作し詐欺疑い 逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6602106?source=rss",
+      "publishedAt": "2026-11-10T21:27:11.000Z",
+      "xQuery": "女性搬送の救急車事故 病院で死亡"
     },
     {
       "time": "23:12",
