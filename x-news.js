@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-10T02:15:39.950Z",
+  "updatedAt": "2026-11-10T02:35:21.765Z",
   "items": [
     {
       "time": "09:26",
@@ -18,6 +18,14 @@ window.LUS_X_NEWS = {
       "xQuery": "世界の氷河 1年で4000億t超が減少"
     },
     {
+      "time": "09:33",
+      "title": "石破氏ら戒告の自民 引き締め躍起",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601996?source=rss",
+      "publishedAt": "2026-11-10T00:33:15.000Z",
+      "xQuery": "石破氏ら戒告の自民 引き締め躍起"
+    },
+    {
       "time": "09:26",
       "title": "マンション敷地に倒れた2人 死亡",
       "source": "Yahoo!ニュース",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6601997?source=rss",
       "publishedAt": "2026-11-10T00:31:26.000Z",
       "xQuery": "マンジャロで視力低下恐れ 米FDA"
-    },
-    {
-      "time": "09:20",
-      "title": "グルメイベントで準備不十分 波紋",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601993?source=rss",
-      "publishedAt": "2026-11-10T00:20:52.000Z",
-      "xQuery": "グルメイベントで準備不十分 波紋"
     }
   ]
 };
