@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T09:12:34.875Z",
+  "updatedAt": "2026-11-10T09:36:00.780Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -105,18 +105,18 @@
     ],
     "economyHeadlines": [
       {
+        "time": "18:19",
+        "title": "ソフトバンクG 中間赤字に転落",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6602065?source=rss",
+        "publishedAt": "2026-11-10T09:19:46.000Z"
+      },
+      {
         "time": "07:43",
         "title": "個人向け国債人気 発行額8兆円超",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601981?source=rss",
         "publishedAt": "2026-11-09T22:43:16.000Z"
-      },
-      {
-        "time": "09:50",
-        "title": "ホンダ 米オハイオ州に工場新設へ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601998?source=rss",
-        "publishedAt": "2026-11-10T00:50:15.000Z"
       },
       {
         "time": "16:55",
@@ -163,18 +163,18 @@
         "publishedAt": "2026-11-10T07:35:03.000Z"
       },
       {
-        "time": "12:03",
-        "title": "室蘭殺人 男「騒音うるさかった」",
+        "time": "18:29",
+        "title": "柏の夫婦刺殺で初公判 被告暴れる",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602019?source=rss",
-        "publishedAt": "2026-11-10T03:03:31.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6602066?source=rss",
+        "publishedAt": "2026-11-10T09:29:07.000Z"
       },
       {
-        "time": "15:00",
-        "title": "福島男児死亡 事件前に児相に情報",
+        "time": "18:11",
+        "title": "再婚相手の娘を殺害疑い 男を逮捕",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602041?source=rss",
-        "publishedAt": "2026-11-10T06:00:06.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6602062?source=rss",
+        "publishedAt": "2026-11-10T09:11:53.000Z"
       },
       {
         "time": "17:42",

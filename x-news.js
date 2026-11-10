@@ -1,21 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-10T09:12:36.007Z",
+  "updatedAt": "2026-11-10T09:36:01.516Z",
   "items": [
     {
-      "time": "16:11",
-      "title": "26年の熊本地震 関連死新たに5人",
+      "time": "18:23",
+      "title": "原子力潜水艦 導入視野に検討へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602047?source=rss",
-      "publishedAt": "2026-11-10T07:11:30.000Z",
-      "xQuery": "26年の熊本地震 関連死新たに5人"
+      "url": "https://news.yahoo.co.jp/pickup/6602067?source=rss",
+      "publishedAt": "2026-11-10T09:23:37.000Z",
+      "xQuery": "原子力潜水艦 導入視野に検討へ"
     },
     {
-      "time": "14:19",
-      "title": "イスラエル 連立樹立の分かれ目は",
+      "time": "18:06",
+      "title": "証明書のコンビニ交付 障害相次ぐ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602022?source=rss",
-      "publishedAt": "2026-11-10T05:19:08.000Z",
-      "xQuery": "イスラエル 連立樹立の分かれ目は"
+      "url": "https://news.yahoo.co.jp/pickup/6602063?source=rss",
+      "publishedAt": "2026-11-10T09:06:39.000Z",
+      "xQuery": "証明書のコンビニ交付 障害相次ぐ"
+    },
+    {
+      "time": "18:11",
+      "title": "再婚相手の娘を殺害疑い 男を逮捕",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6602062?source=rss",
+      "publishedAt": "2026-11-10T09:11:53.000Z",
+      "xQuery": "再婚相手の娘を殺害疑い 男を逮捕"
     },
     {
       "time": "17:50",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6602058?source=rss",
       "publishedAt": "2026-11-10T08:42:20.000Z",
       "xQuery": "脱走犬がかみ女性重傷 飼い主逮捕"
-    },
-    {
-      "time": "16:55",
-      "title": "JR東 タッチ不要の改札導入へ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602052?source=rss",
-      "publishedAt": "2026-11-10T07:55:46.000Z",
-      "xQuery": "JR東 タッチ不要の改札導入へ"
     }
   ]
 };
