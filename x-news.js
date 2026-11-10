@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-10T10:35:14.730Z",
+  "updatedAt": "2026-11-10T11:09:55.804Z",
   "items": [
     {
       "time": "18:23",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "市長ら逮捕 阿波市役所に家宅捜索"
     },
     {
-      "time": "18:06",
-      "title": "証明書のコンビニ交付 障害相次ぐ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602063?source=rss",
-      "publishedAt": "2026-11-10T09:06:39.000Z",
-      "xQuery": "証明書のコンビニ交付 障害相次ぐ"
-    },
-    {
       "time": "18:53",
       "title": "SBGが7680億円の赤字 中間決算",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6602072?source=rss",
       "publishedAt": "2026-11-10T09:53:46.000Z",
       "xQuery": "SBGが7680億円の赤字 中間決算"
+    },
+    {
+      "time": "19:37",
+      "title": "日商簿記など 合否や得点が流出か",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6602077?source=rss",
+      "publishedAt": "2026-11-10T10:37:38.000Z",
+      "xQuery": "日商簿記など 合否や得点が流出か"
     },
     {
       "time": "18:11",

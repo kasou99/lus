@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T10:35:13.992Z",
+  "updatedAt": "2026-11-10T11:09:54.830Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -52,11 +52,11 @@
         "publishedAt": "2026-11-10T02:30:23.000Z"
       },
       {
-        "time": "05:00",
-        "title": "AIとともに／オークマ 加工改善、根拠示し提案",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBQZXFCSG41ZldqMGdnU2tSTlEwcWFYUTN0bG5oYUFFX28tTWRqcGdRazFEbXdQUVBtalppLVpPTHJCZC03UmMzN2p6NnVoZlhiRmhGVzByVmQ?oc=5",
-        "publishedAt": "2026-11-09T20:00:00.000Z"
+        "time": "22:50",
+        "title": "設備保全クラウド「ミロクルカルテ」、新オプション「ミロクルAIメーター読み取り（α版）」をモノづくりフェア2026で初公開",
+        "source": "朝日新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1BLUczekl0VVAyeEE5LVBxSkV1dmhOb3hnXzNQX1hLZDdvV19LeE5nemlKTjA3dlJURl9zd3pXX1NMOEZna25hS1JLbVhTMUswNEEwWjZkOXp0Smc?oc=5",
+        "publishedAt": "2026-11-09T13:50:51.000Z"
       }
     ],
     "worldHeadlines": [
@@ -112,13 +112,6 @@
         "publishedAt": "2026-11-10T09:53:46.000Z"
       },
       {
-        "time": "07:43",
-        "title": "個人向け国債人気 発行額8兆円超",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601981?source=rss",
-        "publishedAt": "2026-11-09T22:43:16.000Z"
-      },
-      {
         "time": "16:55",
         "title": "JR東 タッチ不要の改札導入へ",
         "source": "Yahoo!ニュース",
@@ -133,18 +126,25 @@
         "publishedAt": "2026-11-09T12:56:57.000Z"
       },
       {
-        "time": "13:50",
-        "title": "関東 福岡うどんチェーン人気の訳",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602032?source=rss",
-        "publishedAt": "2026-11-10T04:50:17.000Z"
-      },
-      {
         "time": "19:11",
         "title": "タカラトミー ロゴマーク変更へ",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6602074?source=rss",
         "publishedAt": "2026-11-10T10:11:01.000Z"
+      },
+      {
+        "time": "19:57",
+        "title": "関電が作業服を刷新 ビームス監修",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6602078?source=rss",
+        "publishedAt": "2026-11-10T10:57:49.000Z"
+      },
+      {
+        "time": "20:08",
+        "title": "飲食店 食フェス出店のメリットは",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6602068?source=rss",
+        "publishedAt": "2026-11-10T11:08:08.000Z"
       }
     ],
     "localHeadlines": [
