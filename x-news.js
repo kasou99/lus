@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-10T23:09:05.737Z",
+  "updatedAt": "2026-11-10T23:34:51.688Z",
   "items": [
+    {
+      "time": "08:01",
+      "title": "日本のエンタメを排除 きしむ日中",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6602115?source=rss",
+      "publishedAt": "2026-11-10T23:01:30.000Z",
+      "xQuery": "日本のエンタメを排除 きしむ日中"
+    },
     {
       "time": "07:58",
       "title": "米国防長官 自身への弾劾「茶番」",
@@ -8,14 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6602114?source=rss",
       "publishedAt": "2026-11-10T22:58:18.000Z",
       "xQuery": "米国防長官 自身への弾劾「茶番」"
-    },
-    {
-      "time": "07:26",
-      "title": "G7外相会合 ウ支援で声明公表へ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602111?source=rss",
-      "publishedAt": "2026-11-10T22:26:40.000Z",
-      "xQuery": "G7外相会合 ウ支援で声明公表へ"
     },
     {
       "time": "06:39",

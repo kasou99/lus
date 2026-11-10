@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T23:09:04.837Z",
+  "updatedAt": "2026-11-10T23:34:50.487Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -105,6 +105,13 @@
     ],
     "economyHeadlines": [
       {
+        "time": "08:24",
+        "title": "障害者雇用ビジネス 登録制を検討",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6602117?source=rss",
+        "publishedAt": "2026-11-10T23:24:17.000Z"
+      },
+      {
         "time": "23:38",
         "title": "タマホーム社員 保険金を不正請求",
         "source": "Yahoo!ニュース",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6602078?source=rss",
         "publishedAt": "2026-11-10T10:57:49.000Z"
-      },
-      {
-        "time": "23:12",
-        "title": "もう終わりやで 明石ダコ深刻不漁",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602095?source=rss",
-        "publishedAt": "2026-11-10T14:12:10.000Z"
       }
     ],
     "localHeadlines": [
