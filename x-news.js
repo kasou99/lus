@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-10T07:35:49.473Z",
+  "updatedAt": "2026-11-10T08:16:10.626Z",
   "items": [
     {
       "time": "16:11",
@@ -18,12 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "日本 米中露会談巡り米に懸念伝達"
     },
     {
-      "time": "15:49",
-      "title": "義母を窒息させ殺害疑い 男を逮捕",
+      "time": "16:35",
+      "title": "阿波市長逮捕 事故修理費詐取疑い",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602046?source=rss",
-      "publishedAt": "2026-11-10T06:49:10.000Z",
-      "xQuery": "義母を窒息させ殺害疑い 男を逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6602049?source=rss",
+      "publishedAt": "2026-11-10T07:35:03.000Z",
+      "xQuery": "阿波市長逮捕 事故修理費詐取疑い"
+    },
+    {
+      "time": "16:55",
+      "title": "JR東 タッチ不要の改札導入へ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6602052?source=rss",
+      "publishedAt": "2026-11-10T07:55:46.000Z",
+      "xQuery": "JR東 タッチ不要の改札導入へ"
     },
     {
       "time": "14:40",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6602036?source=rss",
       "publishedAt": "2026-11-10T05:40:42.000Z",
       "xQuery": "メタとの訴訟 前澤氏の請求を棄却"
-    },
-    {
-      "time": "15:32",
-      "title": "「仮面舞踏会」チケ即日完売 なぜ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602044?source=rss",
-      "publishedAt": "2026-11-10T06:32:22.000Z",
-      "xQuery": "「仮面舞踏会」チケ即日完売 なぜ"
     }
   ]
 };

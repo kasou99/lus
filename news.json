@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-11-10T07:35:48.494Z",
+  "updatedAt": "2026-11-10T08:16:09.830Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "16:45",
+        "title": "ブラザー工業、「びびり振動診断技術」を実用化…工作機械の加工品質と生産性を向上",
+        "source": "レスポンス（Response.jp）",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5BUEMtS2ZYd0d2aUdxNFRGTXY3aGVTZnZCUjlWVGp4OWk1YmFYOGlFcWJBVHBsV3VGb01Zb3d2QVpVbkw2Nmo2VDFGLVo0SGRjQS1qZmdaYlpfZEt4cWlsRUdn?oc=5",
+        "publishedAt": "2026-11-10T07:45:03.000Z"
+      },
       {
         "time": "05:00",
         "title": "工作機械受注残高が最高 １兆９８２億円 ＡＩ普及追い風 ：地域ニュース",
@@ -38,35 +45,21 @@
         "publishedAt": "2026-11-10T02:30:23.000Z"
       },
       {
+        "time": "22:50",
+        "title": "設備保全クラウド「ミロクルカルテ」、新オプション「ミロクルAIメーター読み取り（α版）」をモノづくりフェア2026で初公開",
+        "source": "朝日新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1BLUczekl0VVAyeEE5LVBxSkV1dmhOb3hnXzNQX1hLZDdvV19LeE5nemlKTjA3dlJURl9zd3pXX1NMOEZna25hS1JLbVhTMUswNEEwWjZkOXp0Smc?oc=5",
+        "publishedAt": "2026-11-09T13:50:51.000Z"
+      },
+      {
         "time": "19:10",
         "title": "『カミナシ 設備保全』、保全データをAIが分析し予防保全の計画まで提案するAIエージェント機能を先行提供",
         "source": "Infoseek",
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1MWWdDam5iMEtWVWhCVVhfX3FmdlRqYlFtSkdiRTdlTFh6U3RpQThtcmNYa3NIeWhDWG1lakg4MWw2NFRrTnVBdnl4OGM1UVlMSlJTdk5kcGR4czdwQnVjU2w2Qkx4MWZLN0w2bURUWmZQZw?oc=5",
         "publishedAt": "2026-11-09T10:10:00.000Z"
-      },
-      {
-        "time": "17:26",
-        "title": "設備保全クラウド「ミロクルカルテ」、新オプション「ミロクルAIメーター読み取り（α版）」をモノづくりフェア2026で初公開",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1nY0swRXNvUVV4amhwYmhoZFQ2NElDTkJpLUpCSkd4LXcyNlRiMmtsRFpxcVk0MFlLRms4Mkh2UElnUG1CaWhIYllZU3ZlQ285cWNhWU03cXV0V1pRazNTN1gyMWFEekE?oc=5",
-        "publishedAt": "2026-11-09T08:26:26.000Z"
-      },
-      {
-        "time": "19:30",
-        "title": "帝人株式会社、MENTENA導入で「設備保全の効率化」と「世代間の技術継承」を実現する現場づくり～導入事例を公開しまし",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5YSmlMWGk4OEJjYTQ2aUxpVjZlSnhhTWhGODJDUjFiN21vUWpRX3N2N2NlenVTS1kweTB4VERTU1RUczcwVHRPMXExSnZLMnQ2LTNZbw?oc=5",
-        "publishedAt": "2026-11-09T10:30:24.000Z"
       }
     ],
     "worldHeadlines": [
-      {
-        "time": "18:57",
-        "title": "MAGAから急進左派へ 揺らぐ米国",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601939?source=rss",
-        "publishedAt": "2026-11-09T09:57:24.000Z"
-      },
       {
         "time": "07:27",
         "title": "米国防長官の弾劾採決へ 米下院",
@@ -101,6 +94,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601978?source=rss",
         "publishedAt": "2026-11-09T22:34:51.000Z"
+      },
+      {
+        "time": "14:19",
+        "title": "イスラエル 連立樹立の分かれ目は",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6602022?source=rss",
+        "publishedAt": "2026-11-10T05:19:08.000Z"
       }
     ],
     "economyHeadlines": [
@@ -119,18 +119,18 @@
         "publishedAt": "2026-11-10T00:50:15.000Z"
       },
       {
+        "time": "16:55",
+        "title": "JR東 タッチ不要の改札導入へ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6602052?source=rss",
+        "publishedAt": "2026-11-10T07:55:46.000Z"
+      },
+      {
         "time": "21:56",
         "title": "麻生コンクリ JIS認証取り消し",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601959?source=rss",
         "publishedAt": "2026-11-09T12:56:57.000Z"
-      },
-      {
-        "time": "08:39",
-        "title": "火葬料 公営と民間で大きな差",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601985?source=rss",
-        "publishedAt": "2026-11-09T23:39:48.000Z"
       },
       {
         "time": "13:50",
@@ -154,6 +154,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6602047?source=rss",
         "publishedAt": "2026-11-10T07:11:30.000Z"
+      },
+      {
+        "time": "16:35",
+        "title": "阿波市長逮捕 事故修理費詐取疑い",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6602049?source=rss",
+        "publishedAt": "2026-11-10T07:35:03.000Z"
       },
       {
         "time": "15:49",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6602017?source=rss",
         "publishedAt": "2026-11-10T02:43:06.000Z"
-      },
-      {
-        "time": "12:32",
-        "title": "元交際相手に「いいね」14回 有罪",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602027?source=rss",
-        "publishedAt": "2026-11-10T03:32:12.000Z"
       }
     ],
     "subsidyHeadlines": [
