@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T01:11:31.608Z",
+  "updatedAt": "2026-11-10T01:39:12.398Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,6 +17,13 @@
         "publishedAt": "2026-11-09T14:08:36.000Z"
       },
       {
+        "time": "22:50",
+        "title": "設備保全クラウド「ミロクルカルテ」、新オプション「ミロクルAIメーター読み取り（α版）」をモノづくりフェア2026で初公開",
+        "source": "朝日新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1BLUczekl0VVAyeEE5LVBxSkV1dmhOb3hnXzNQX1hLZDdvV19LeE5nemlKTjA3dlJURl9zd3pXX1NMOEZna25hS1JLbVhTMUswNEEwWjZkOXp0Smc?oc=5",
+        "publishedAt": "2026-11-09T13:50:51.000Z"
+      },
+      {
         "time": "09:30",
         "title": "【11/24(火)・25(水)・26(木)11:00‐】次世代設備保全クラウド「M2X」で何ができる？無料オンラインデモセミナー開催",
         "source": "PR TIMES",
@@ -24,25 +31,11 @@
         "publishedAt": "2026-11-10T00:30:01.000Z"
       },
       {
-        "time": "10:30",
-        "title": "DMG森精機社長が目指す「止まらない工作機械」 無人化で残る「人の仕事」とは（MONOist）",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1HWHhlQzhhbTZaTDNMSDVmWUNrSzhMMFJod09QZTdQUGwyRGRRcHpsVDU4RUZUNldad3J5S2h2VTI1QjNXWnU0RE5kNHAxOHRVdDJIV1BJcUkweGJ3VkRVdWgwQUlDcE10VFNCV1lkcUV0WG1fbFpLT0dIc0lGOXc?oc=5",
-        "publishedAt": "2026-11-09T01:30:16.000Z"
-      },
-      {
         "time": "19:10",
         "title": "『カミナシ 設備保全』、保全データをAIが分析し予防保全の計画まで提案するAIエージェント機能を先行提供",
         "source": "Infoseek",
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1MWWdDam5iMEtWVWhCVVhfX3FmdlRqYlFtSkdiRTdlTFh6U3RpQThtcmNYa3NIeWhDWG1lakg4MWw2NFRrTnVBdnl4OGM1UVlMSlJTdk5kcGR4czdwQnVjU2w2Qkx4MWZLN0w2bURUWmZQZw?oc=5",
         "publishedAt": "2026-11-09T10:10:00.000Z"
-      },
-      {
-        "time": "17:26",
-        "title": "設備保全クラウド「ミロクルカルテ」、新オプション「ミロクルAIメーター読み取り（α版）」をモノづくりフェア2026で初公開",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1nY0swRXNvUVV4amhwYmhoZFQ2NElDTkJpLUpCSkd4LXcyNlRiMmtsRFpxcVk0MFlLRms4Mkh2UElnUG1CaWhIYllZU3ZlQ285cWNhWU03cXV0V1pRazNTN1gyMWFEekE?oc=5",
-        "publishedAt": "2026-11-09T08:26:26.000Z"
       },
       {
         "time": "13:00",
@@ -57,6 +50,13 @@
         "source": "LOGISTICS TODAY",
         "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1hdVg0RC1fWGY3a0pKMGdvY2tUSU16WFlCSEtsMVNrNml2WnN4NExGMUhwRzBrajhWNUZMSXhLZkdXNkdaYmFJYTBR?oc=5",
         "publishedAt": "2026-11-09T20:03:45.000Z"
+      },
+      {
+        "time": "05:24",
+        "title": "【日本精工 FY2026 Q2 決算説明会】通期営業利益予想を560億円に上方修正、AI需要と円安が牽引",
+        "source": "BigGo ファイナンス",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE51U29Cc1VOTGhKZ3R2c1dkdU9Sczl5blFNREFqVkpjZUd6S2sxWXU3a1dzejZMR0pVc19WYWJwRnBlUUxTTlF4Q2R2dkRYa05xaXJBQ3k3UVJfYTNrcmt3?oc=5",
+        "publishedAt": "2026-11-09T20:24:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -73,13 +73,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601939?source=rss",
         "publishedAt": "2026-11-09T09:57:24.000Z"
-      },
-      {
-        "time": "09:45",
-        "title": "米大統領 戦闘再開「可能性低い」",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601874?source=rss",
-        "publishedAt": "2026-11-09T00:45:33.000Z"
       },
       {
         "time": "07:27",
@@ -101,6 +94,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601978?source=rss",
         "publishedAt": "2026-11-09T22:34:51.000Z"
+      },
+      {
+        "time": "14:00",
+        "title": "アフリカ カルト教団が増える背景",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6601895?source=rss",
+        "publishedAt": "2026-11-09T05:00:45.000Z"
       }
     ],
     "economyHeadlines": [

@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-10T01:11:32.538Z",
+  "updatedAt": "2026-11-10T01:39:13.556Z",
   "items": [
     {
       "time": "07:43",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "個人向け国債人気 発行額8兆円超"
     },
     {
-      "time": "08:39",
-      "title": "火葬料 公営と民間で大きな差",
+      "time": "09:26",
+      "title": "「国内間通信」も監視対象に 検討",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601985?source=rss",
-      "publishedAt": "2026-11-09T23:39:48.000Z",
-      "xQuery": "火葬料 公営と民間で大きな差"
+      "url": "https://news.yahoo.co.jp/pickup/6601992?source=rss",
+      "publishedAt": "2026-11-10T00:26:31.000Z",
+      "xQuery": "「国内間通信」も監視対象に 検討"
     },
     {
       "time": "09:26",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "マンジャロで視力低下恐れ 米FDA"
     },
     {
-      "time": "09:20",
-      "title": "グルメイベントで準備不十分 波紋",
+      "time": "10:31",
+      "title": "ホワイトハッカー 学生なぜ目指す",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601993?source=rss",
-      "publishedAt": "2026-11-10T00:20:52.000Z",
-      "xQuery": "グルメイベントで準備不十分 波紋"
+      "url": "https://news.yahoo.co.jp/pickup/6602006?source=rss",
+      "publishedAt": "2026-11-10T01:31:52.000Z",
+      "xQuery": "ホワイトハッカー 学生なぜ目指す"
     }
   ]
 };
