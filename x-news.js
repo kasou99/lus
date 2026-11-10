@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-10T13:11:13.727Z",
+  "updatedAt": "2026-11-10T13:35:36.593Z",
   "items": [
     {
       "time": "21:24",
@@ -8,14 +8,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6602085?source=rss",
       "publishedAt": "2026-11-10T12:24:04.000Z",
       "xQuery": "米・露・ウの協議 9カ月ぶり再開"
-    },
-    {
-      "time": "20:01",
-      "title": "安保3文書 民間力強化を明記へ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602079?source=rss",
-      "publishedAt": "2026-11-10T11:01:34.000Z",
-      "xQuery": "安保3文書 民間力強化を明記へ"
     },
     {
       "time": "20:44",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "スマホ遠隔操作し詐欺疑い 逮捕"
     },
     {
-      "time": "19:57",
-      "title": "関電が作業服を刷新 ビームス監修",
+      "time": "22:18",
+      "title": "天然コンブ漁獲量が激減 価格高騰",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602078?source=rss",
-      "publishedAt": "2026-11-10T10:57:49.000Z",
-      "xQuery": "関電が作業服を刷新 ビームス監修"
+      "url": "https://news.yahoo.co.jp/pickup/6602088?source=rss",
+      "publishedAt": "2026-11-10T13:18:08.000Z",
+      "xQuery": "天然コンブ漁獲量が激減 価格高騰"
+    },
+    {
+      "time": "20:31",
+      "title": "マック 新チキン商品の販売休止へ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6602081?source=rss",
+      "publishedAt": "2026-11-10T11:31:51.000Z",
+      "xQuery": "マック 新チキン商品の販売休止へ"
     }
   ]
 };
