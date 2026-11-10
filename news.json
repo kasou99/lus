@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-11-10T22:10:04.336Z",
+  "updatedAt": "2026-11-10T22:34:58.237Z",
   "groups": {
     "machineHeadlines": [
-      {
-        "time": "06:30",
-        "title": "今日の注目スケジュール：マネーストック、工作機械受注、独CPIなど(フィスコ)",
-        "source": "Yahoo!ファイナンス",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOclF0MHJyYWR0OUlwWmxadEZlWVRHMFFzVmVqMjE4TDZWbEZXN3BWaXBNSjFvbVZFbHdLQVNEdlBZOWlwdWZ4T1M0ejJyaFI2MlJYbjJUajl3UGZUYjB5ZnZlNWJNSnhteTBMNm9QSzdWa2JyOHF2bzJLaHpONlM4TnpzWDZ1RjA?oc=5",
-        "publishedAt": "2026-11-10T21:30:00.000Z"
-      },
       {
         "time": "06:30",
         "title": "今日の注目スケジュール：マネーストック、工作機械受注、独CPIなど",
         "source": "株探",
         "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Fb01jam9CX2Q0b09tZnB5eWtaN1dyclYwTG5wRDY0SVhGY3U2czZ6MVZKRjJGQnA0Y3BzLVJVb0NuLWF3R3dydlVvZDFidVJ1TGlnTzQyR1M2bWZyWjFyTw?oc=5",
         "publishedAt": "2026-11-10T21:30:00.000Z"
+      },
+      {
+        "time": "07:06",
+        "title": "今日のスケジュール－10月マネーストックや10月工作機械受注など(トレーダーズ・ウェブ)",
+        "source": "Yahoo!ファイナンス",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNVdnNGQyZDc3eFlXNThGd2FKbGNLeVNCU3I5dDg0LVl4RTlBOXo0ZnJMMEIxSHVKRE5zTGFnbmhOX1ZYb19ZQm1SdDFHX21ZREEwNnVMMDRabmF0QWtaZFVuUXFDbncwclphZjlQSXdMWjAzTzd0ZUNtT0N4aWJYc2JIemxDUkE?oc=5",
+        "publishedAt": "2026-11-10T22:06:02.000Z"
       },
       {
         "time": "06:59",
@@ -68,11 +68,11 @@
         "publishedAt": "2026-11-10T12:24:04.000Z"
       },
       {
-        "time": "07:27",
-        "title": "米国防長官の弾劾採決へ 米下院",
+        "time": "07:26",
+        "title": "G7外相会合 ウ支援で声明公表へ",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601977?source=rss",
-        "publishedAt": "2026-11-09T22:27:29.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6602111?source=rss",
+        "publishedAt": "2026-11-10T22:26:40.000Z"
       },
       {
         "time": "15:01",

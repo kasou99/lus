@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-10T22:10:05.026Z",
+  "updatedAt": "2026-11-10T22:34:58.898Z",
   "items": [
+    {
+      "time": "07:26",
+      "title": "G7外相会合 ウ支援で声明公表へ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6602111?source=rss",
+      "publishedAt": "2026-11-10T22:26:40.000Z",
+      "xQuery": "G7外相会合 ウ支援で声明公表へ"
+    },
     {
       "time": "22:42",
       "title": "日中首脳会談 実現への調整不調",
@@ -8,14 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6602093?source=rss",
       "publishedAt": "2026-11-10T13:42:28.000Z",
       "xQuery": "日中首脳会談 実現への調整不調"
-    },
-    {
-      "time": "21:24",
-      "title": "米・露・ウの協議 9カ月ぶり再開",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602085?source=rss",
-      "publishedAt": "2026-11-10T12:24:04.000Z",
-      "xQuery": "米・露・ウの協議 9カ月ぶり再開"
     },
     {
       "time": "06:39",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "女性搬送の救急車事故 病院で死亡"
     },
     {
-      "time": "23:12",
-      "title": "もう終わりやで 明石ダコ深刻不漁",
+      "time": "06:53",
+      "title": "海ほたるで迷惑行為 閉鎖繰り返す",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602095?source=rss",
-      "publishedAt": "2026-11-10T14:12:10.000Z",
-      "xQuery": "もう終わりやで 明石ダコ深刻不漁"
+      "url": "https://news.yahoo.co.jp/pickup/6602108?source=rss",
+      "publishedAt": "2026-11-10T21:53:25.000Z",
+      "xQuery": "海ほたるで迷惑行為 閉鎖繰り返す"
     }
   ]
 };
