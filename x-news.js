@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-09T23:35:20.134Z",
+  "updatedAt": "2026-11-10T00:28:42.114Z",
   "items": [
     {
       "time": "07:35",
@@ -18,28 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "個人向け国債人気 発行額8兆円超"
     },
     {
-      "time": "06:48",
-      "title": "石破前首相ら戒告処分 参院側不満",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601976?source=rss",
-      "publishedAt": "2026-11-09T21:48:49.000Z",
-      "xQuery": "石破前首相ら戒告処分 参院側不満"
-    },
-    {
-      "time": "22:37",
-      "title": "大地震エネルギー蓄積か 日本海溝",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601961?source=rss",
-      "publishedAt": "2026-11-09T13:37:17.000Z",
-      "xQuery": "大地震エネルギー蓄積か 日本海溝"
-    },
-    {
       "time": "07:34",
       "title": "仏大統領選 リネール氏が出馬表明",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6601978?source=rss",
       "publishedAt": "2026-11-09T22:34:51.000Z",
       "xQuery": "仏大統領選 リネール氏が出馬表明"
+    },
+    {
+      "time": "08:39",
+      "title": "火葬料 公営と民間で大きな差",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601985?source=rss",
+      "publishedAt": "2026-11-09T23:39:48.000Z",
+      "xQuery": "火葬料 公営と民間で大きな差"
+    },
+    {
+      "time": "09:20",
+      "title": "グルメイベントで準備不十分 波紋",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601993?source=rss",
+      "publishedAt": "2026-11-10T00:20:52.000Z",
+      "xQuery": "グルメイベントで準備不十分 波紋"
     }
   ]
 };
