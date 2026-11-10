@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T11:09:54.830Z",
+  "updatedAt": "2026-11-10T11:35:32.011Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -119,13 +119,6 @@
         "publishedAt": "2026-11-10T07:55:46.000Z"
       },
       {
-        "time": "21:56",
-        "title": "麻生コンクリ JIS認証取り消し",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601959?source=rss",
-        "publishedAt": "2026-11-09T12:56:57.000Z"
-      },
-      {
         "time": "19:11",
         "title": "タカラトミー ロゴマーク変更へ",
         "source": "Yahoo!ニュース",
@@ -138,6 +131,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6602078?source=rss",
         "publishedAt": "2026-11-10T10:57:49.000Z"
+      },
+      {
+        "time": "20:31",
+        "title": "マック 新チキン商品の販売休止へ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6602081?source=rss",
+        "publishedAt": "2026-11-10T11:31:51.000Z"
       },
       {
         "time": "20:08",
