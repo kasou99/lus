@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-10T06:18:52.408Z",
+  "updatedAt": "2026-11-10T06:39:24.228Z",
   "items": [
     {
-      "time": "12:49",
-      "title": "内水氾濫の被害軽減へ 国が対応策",
+      "time": "14:55",
+      "title": "日本 米中露会談巡り米に懸念伝達",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602029?source=rss",
-      "publishedAt": "2026-11-10T03:49:52.000Z",
-      "xQuery": "内水氾濫の被害軽減へ 国が対応策"
+      "url": "https://news.yahoo.co.jp/pickup/6602040?source=rss",
+      "publishedAt": "2026-11-10T05:55:50.000Z",
+      "xQuery": "日本 米中露会談巡り米に懸念伝達"
     },
     {
       "time": "10:09",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "露政権批判の代表紙 編集部を閉鎖"
     },
     {
-      "time": "15:01",
-      "title": "米国防長官に弾劾決議案 何が問題",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602042?source=rss",
-      "publishedAt": "2026-11-10T06:01:48.000Z",
-      "xQuery": "米国防長官に弾劾決議案 何が問題"
-    },
-    {
       "time": "14:30",
       "title": "NVIDIA巡る疑惑 米対応に注目",
       "source": "Yahoo!ニュース",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "NVIDIA巡る疑惑 米対応に注目"
     },
     {
-      "time": "12:17",
-      "title": "徳島・阿波市長ら 詐欺疑いで逮捕",
+      "time": "11:53",
+      "title": "イノシシか 女性に体当たりの映像",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602024?source=rss",
-      "publishedAt": "2026-11-10T03:17:55.000Z",
-      "xQuery": "徳島・阿波市長ら 詐欺疑いで逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6602018?source=rss",
+      "publishedAt": "2026-11-10T02:53:56.000Z",
+      "xQuery": "イノシシか 女性に体当たりの映像"
+    },
+    {
+      "time": "14:40",
+      "title": "メタとの訴訟 前澤氏の請求を棄却",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6602036?source=rss",
+      "publishedAt": "2026-11-10T05:40:42.000Z",
+      "xQuery": "メタとの訴訟 前澤氏の請求を棄却"
     }
   ]
 };
