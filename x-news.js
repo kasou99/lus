@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-10T12:36:05.144Z",
+  "updatedAt": "2026-11-10T13:11:13.727Z",
   "items": [
     {
       "time": "21:24",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "自民・小渕氏ら 税調副会長を辞任"
     },
     {
-      "time": "18:53",
-      "title": "SBGが7680億円の赤字 中間決算",
+      "time": "20:39",
+      "title": "スマホ遠隔操作し詐欺疑い 逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602072?source=rss",
-      "publishedAt": "2026-11-10T09:53:46.000Z",
-      "xQuery": "SBGが7680億円の赤字 中間決算"
+      "url": "https://news.yahoo.co.jp/pickup/6602082?source=rss",
+      "publishedAt": "2026-11-10T11:39:05.000Z",
+      "xQuery": "スマホ遠隔操作し詐欺疑い 逮捕"
     },
     {
-      "time": "18:11",
-      "title": "再婚相手の娘を殺害疑い 男を逮捕",
+      "time": "19:57",
+      "title": "関電が作業服を刷新 ビームス監修",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602062?source=rss",
-      "publishedAt": "2026-11-10T09:11:53.000Z",
-      "xQuery": "再婚相手の娘を殺害疑い 男を逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6602078?source=rss",
+      "publishedAt": "2026-11-10T10:57:49.000Z",
+      "xQuery": "関電が作業服を刷新 ビームス監修"
     }
   ]
 };
