@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-10T22:34:58.898Z",
+  "updatedAt": "2026-11-10T23:09:05.737Z",
   "items": [
+    {
+      "time": "07:58",
+      "title": "米国防長官 自身への弾劾「茶番」",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6602114?source=rss",
+      "publishedAt": "2026-11-10T22:58:18.000Z",
+      "xQuery": "米国防長官 自身への弾劾「茶番」"
+    },
     {
       "time": "07:26",
       "title": "G7外相会合 ウ支援で声明公表へ",
@@ -8,14 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6602111?source=rss",
       "publishedAt": "2026-11-10T22:26:40.000Z",
       "xQuery": "G7外相会合 ウ支援で声明公表へ"
-    },
-    {
-      "time": "22:42",
-      "title": "日中首脳会談 実現への調整不調",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602093?source=rss",
-      "publishedAt": "2026-11-10T13:42:28.000Z",
-      "xQuery": "日中首脳会談 実現への調整不調"
     },
     {
       "time": "06:39",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "女性搬送の救急車事故 病院で死亡"
     },
     {
-      "time": "06:53",
-      "title": "海ほたるで迷惑行為 閉鎖繰り返す",
+      "time": "07:40",
+      "title": "生徒乗る遊覧船定員1.7倍で航行か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602108?source=rss",
-      "publishedAt": "2026-11-10T21:53:25.000Z",
-      "xQuery": "海ほたるで迷惑行為 閉鎖繰り返す"
+      "url": "https://news.yahoo.co.jp/pickup/6602112?source=rss",
+      "publishedAt": "2026-11-10T22:40:19.000Z",
+      "xQuery": "生徒乗る遊覧船定員1.7倍で航行か"
     }
   ]
 };
