@@ -1,14 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-10T01:39:13.556Z",
+  "updatedAt": "2026-11-10T02:15:39.950Z",
   "items": [
-    {
-      "time": "07:43",
-      "title": "個人向け国債人気 発行額8兆円超",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601981?source=rss",
-      "publishedAt": "2026-11-09T22:43:16.000Z",
-      "xQuery": "個人向け国債人気 発行額8兆円超"
-    },
     {
       "time": "09:26",
       "title": "「国内間通信」も監視対象に 検討",
@@ -16,6 +8,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6601992?source=rss",
       "publishedAt": "2026-11-10T00:26:31.000Z",
       "xQuery": "「国内間通信」も監視対象に 検討"
+    },
+    {
+      "time": "10:29",
+      "title": "世界の氷河 1年で4000億t超が減少",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6602005?source=rss",
+      "publishedAt": "2026-11-10T01:29:06.000Z",
+      "xQuery": "世界の氷河 1年で4000億t超が減少"
     },
     {
       "time": "09:26",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "マンジャロで視力低下恐れ 米FDA"
     },
     {
-      "time": "10:31",
-      "title": "ホワイトハッカー 学生なぜ目指す",
+      "time": "09:20",
+      "title": "グルメイベントで準備不十分 波紋",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602006?source=rss",
-      "publishedAt": "2026-11-10T01:31:52.000Z",
-      "xQuery": "ホワイトハッカー 学生なぜ目指す"
+      "url": "https://news.yahoo.co.jp/pickup/6601993?source=rss",
+      "publishedAt": "2026-11-10T00:20:52.000Z",
+      "xQuery": "グルメイベントで準備不十分 波紋"
     }
   ]
 };
