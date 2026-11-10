@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-10T10:11:43.412Z",
+  "updatedAt": "2026-11-10T10:35:14.730Z",
   "items": [
     {
       "time": "18:23",
@@ -8,6 +8,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6602067?source=rss",
       "publishedAt": "2026-11-10T09:23:37.000Z",
       "xQuery": "原子力潜水艦 導入視野に検討へ"
+    },
+    {
+      "time": "19:21",
+      "title": "市長ら逮捕 阿波市役所に家宅捜索",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6602075?source=rss",
+      "publishedAt": "2026-11-10T10:21:42.000Z",
+      "xQuery": "市長ら逮捕 阿波市役所に家宅捜索"
     },
     {
       "time": "18:06",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6602062?source=rss",
       "publishedAt": "2026-11-10T09:11:53.000Z",
       "xQuery": "再婚相手の娘を殺害疑い 男を逮捕"
-    },
-    {
-      "time": "17:42",
-      "title": "脱走犬がかみ女性重傷 飼い主逮捕",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602058?source=rss",
-      "publishedAt": "2026-11-10T08:42:20.000Z",
-      "xQuery": "脱走犬がかみ女性重傷 飼い主逮捕"
     }
   ]
 };

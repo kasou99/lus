@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T10:11:42.669Z",
+  "updatedAt": "2026-11-10T10:35:13.992Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,6 +31,13 @@
         "publishedAt": "2026-11-10T03:35:00.000Z"
       },
       {
+        "time": "10:37",
+        "title": "20265軸CNCロータリーテーブル市場規模マップ：シェア・動向・フレームワーク",
+        "source": "Newscast.jp",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1nMWtjUDFST2szRWZleGRQNFVZanZwaFpwR1QyU09ob1VsUzYydC0wX3pCWDJLaURIYkt0VHhvYUZkcElYZTNLbjBtYjNsMVk?oc=5",
+        "publishedAt": "2026-11-10T01:37:00.000Z"
+      },
+      {
         "time": "23:08",
         "title": "｢設備保全DX最前線～データ活用からAI活用へ、現場変革の実践事例～｣ウェビナー抄録【PR】",
         "source": "日刊工業新聞",
@@ -45,18 +52,11 @@
         "publishedAt": "2026-11-10T02:30:23.000Z"
       },
       {
-        "time": "19:30",
-        "title": "帝人株式会社、MENTENA導入で「設備保全の効率化」と「世代間の技術継承」を実現する現場づくり～導入事例を公開しまし",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5YSmlMWGk4OEJjYTQ2aUxpVjZlSnhhTWhGODJDUjFiN21vUWpRX3N2N2NlenVTS1kweTB4VERTU1RUczcwVHRPMXExSnZLMnQ2LTNZbw?oc=5",
-        "publishedAt": "2026-11-09T10:30:24.000Z"
-      },
-      {
-        "time": "18:16",
-        "title": "届かぬレアアース どう乗り切る日本企業 「高市発言」1年の現在地 [台湾有事答弁めぐる日中応酬 存立危機事態 高市首相 中国]",
-        "source": "朝日新聞",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9MLUpwaFl2TTNXZW12UkIzVWJ0b2ZIdkhGMVdOdFRtMVNscjVXNThIZVZhX0NYX3ZXam50aEtpUVBURGFNWXN1WF9RaGY4MF9waGU1dWFhOWNXZThKcHROTTFyQTZTajg?oc=5",
-        "publishedAt": "2026-11-10T09:16:29.000Z"
+        "time": "05:00",
+        "title": "AIとともに／オークマ 加工改善、根拠示し提案",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBQZXFCSG41ZldqMGdnU2tSTlEwcWFYUTN0bG5oYUFFX28tTWRqcGdRazFEbXdQUVBtalppLVpPTHJCZC03UmMzN2p6NnVoZlhiRmhGVzByVmQ?oc=5",
+        "publishedAt": "2026-11-09T20:00:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -140,11 +140,11 @@
         "publishedAt": "2026-11-10T04:50:17.000Z"
       },
       {
-        "time": "06:24",
-        "title": "100均パスワード管理ノート 品薄",
+        "time": "19:11",
+        "title": "タカラトミー ロゴマーク変更へ",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601975?source=rss",
-        "publishedAt": "2026-11-09T21:24:41.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6602074?source=rss",
+        "publishedAt": "2026-11-10T10:11:01.000Z"
       }
     ],
     "localHeadlines": [
@@ -154,6 +154,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6602047?source=rss",
         "publishedAt": "2026-11-10T07:11:30.000Z"
+      },
+      {
+        "time": "19:21",
+        "title": "市長ら逮捕 阿波市役所に家宅捜索",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6602075?source=rss",
+        "publishedAt": "2026-11-10T10:21:42.000Z"
       },
       {
         "time": "16:35",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6602058?source=rss",
         "publishedAt": "2026-11-10T08:42:20.000Z"
-      },
-      {
-        "time": "18:48",
-        "title": "給食調理場にスズメ 献立一部中止",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602069?source=rss",
-        "publishedAt": "2026-11-10T09:48:14.000Z"
       }
     ],
     "subsidyHeadlines": [
