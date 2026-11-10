@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T03:36:03.677Z",
+  "updatedAt": "2026-11-10T04:13:18.434Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,11 +17,25 @@
         "publishedAt": "2026-11-09T14:08:36.000Z"
       },
       {
+        "time": "12:35",
+        "title": "台湾：工作機械関連の新代科技、120億円以内で海外3拠点拡充へ - ashu-chinastatistics.com",
+        "source": "ashu-chinastatistics.com",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9PbWV2UkF2Nk1qdFBPSHVrd1FteGhrdmRBdHY5YjJYLUVJY2NqX01RMXVteGxuVUpQamo3R1l0clZ6UEtLNEEyR2pzQU5adGRhRkV4aDdHRVMzMldJODlNOGZFMVhMWkVh?oc=5",
+        "publishedAt": "2026-11-10T03:35:00.000Z"
+      },
+      {
         "time": "11:30",
         "title": "【11/24(火)・25(水)・26(木)11:00‐】次世代設備保全クラウド「M2X」で何ができる？無料オンラインデモセミナー開催",
         "source": "ニコニコニュース",
         "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBsY1l4S1FNTXRqUEM1bGpXdmc0dUx2WUZ1R0hLRkxVTEVPMzh3Sk1Gby1uTHloMTV5TnNwWk9NYUo3azBuVU9ETDhqeUpqWTlOdVZxUEp0WlNrOHFSNlN2R0x5Z2ZaRjFEWjJWcXpVRjhGbXh0NHBHaFVSSQ?oc=5",
         "publishedAt": "2026-11-10T02:30:23.000Z"
+      },
+      {
+        "time": "22:50",
+        "title": "設備保全クラウド「ミロクルカルテ」、新オプション「ミロクルAIメーター読み取り（α版）」をモノづくりフェア2026で初公開",
+        "source": "朝日新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1BLUczekl0VVAyeEE5LVBxSkV1dmhOb3hnXzNQX1hLZDdvV19LeE5nemlKTjA3dlJURl9zd3pXX1NMOEZna25hS1JLbVhTMUswNEEwWjZkOXp0Smc?oc=5",
+        "publishedAt": "2026-11-09T13:50:51.000Z"
       },
       {
         "time": "19:10",
@@ -31,25 +45,11 @@
         "publishedAt": "2026-11-09T10:10:00.000Z"
       },
       {
-        "time": "17:26",
-        "title": "設備保全クラウド「ミロクルカルテ」、新オプション「ミロクルAIメーター読み取り（α版）」をモノづくりフェア2026で初公開",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1nY0swRXNvUVV4amhwYmhoZFQ2NElDTkJpLUpCSkd4LXcyNlRiMmtsRFpxcVk0MFlLRms4Mkh2UElnUG1CaWhIYllZU3ZlQ285cWNhWU03cXV0V1pRazNTN1gyMWFEekE?oc=5",
-        "publishedAt": "2026-11-09T08:26:26.000Z"
-      },
-      {
-        "time": "13:00",
-        "title": "帝人株式会社、MENTENA導入で「設備保全の効率化」と「世代間の技術継承」を実現する現場づくり～導入事例を公開しました～",
-        "source": "PR TIMES",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5lZ01qOXBMOGpNalhQZXVZaFluNGRQS0JiM1JOdEVvOEQwdEx3N1F6bktjVldkSzFvRmpIVGo4T1psd2VWR1IwRWhSLXVGd2lWc2w1X0pWRW1sQVdBaFNQdGJuQ1ZnQVZSQnc?oc=5",
-        "publishedAt": "2026-11-09T04:00:02.000Z"
-      },
-      {
-        "time": "12:30",
-        "title": "穴あけ・タップ加工装置の世界市場（2026年～2032年）、市場規模（ドリル盤、タッピング盤、ドリル・タッピングセンター）・分析レポートを発表",
-        "source": "Newscast.jp",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBZOV9XNjEwMVBiQnQwd3NLMXlua05hSGl6a3J6dzFoOXBzQjRqYVpGel9iRGxlT0ItcGZmNzh2ZlN3akNtdEFpZnlYNmRoYVk?oc=5",
-        "publishedAt": "2026-11-10T03:30:00.000Z"
+        "time": "19:30",
+        "title": "帝人株式会社、MENTENA導入で「設備保全の効率化」と「世代間の技術継承」を実現する現場づくり～導入事例を公開しまし",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5YSmlMWGk4OEJjYTQ2aUxpVjZlSnhhTWhGODJDUjFiN21vUWpRX3N2N2NlenVTS1kweTB4VERTU1RUczcwVHRPMXExSnZLMnQ2LTNZbw?oc=5",
+        "publishedAt": "2026-11-09T10:30:24.000Z"
       },
       {
         "time": "11:35",
@@ -133,18 +133,18 @@
         "publishedAt": "2026-11-09T10:07:31.000Z"
       },
       {
-        "time": "23:53",
-        "title": "リニア名古屋駅 完成は2033年以降",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601970?source=rss",
-        "publishedAt": "2026-11-09T14:53:14.000Z"
-      },
-      {
         "time": "08:39",
         "title": "火葬料 公営と民間で大きな差",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601985?source=rss",
         "publishedAt": "2026-11-09T23:39:48.000Z"
+      },
+      {
+        "time": "12:41",
+        "title": "福岡うどんチェーン 関東人気理由",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6602028?source=rss",
+        "publishedAt": "2026-11-10T03:41:59.000Z"
       }
     ],
     "localHeadlines": [

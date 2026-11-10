@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-10T03:36:04.454Z",
+  "updatedAt": "2026-11-10T04:13:19.021Z",
   "items": [
     {
-      "time": "09:33",
-      "title": "石破氏ら戒告の自民 引き締め躍起",
+      "time": "12:49",
+      "title": "内水氾濫の被害軽減へ 国が対応策",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601996?source=rss",
-      "publishedAt": "2026-11-10T00:33:15.000Z",
-      "xQuery": "石破氏ら戒告の自民 引き締め躍起"
+      "url": "https://news.yahoo.co.jp/pickup/6602029?source=rss",
+      "publishedAt": "2026-11-10T03:49:52.000Z",
+      "xQuery": "内水氾濫の被害軽減へ 国が対応策"
     },
     {
       "time": "09:50",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "徳島・阿波市長ら 詐欺疑いで逮捕"
     },
     {
-      "time": "12:03",
-      "title": "室蘭殺人 男「騒音うるさかった」",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602019?source=rss",
-      "publishedAt": "2026-11-10T03:03:31.000Z",
-      "xQuery": "室蘭殺人 男「騒音うるさかった」"
-    },
-    {
       "time": "11:43",
       "title": "マンション2人死亡 7階から転落か",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6602017?source=rss",
       "publishedAt": "2026-11-10T02:43:06.000Z",
       "xQuery": "マンション2人死亡 7階から転落か"
+    },
+    {
+      "time": "12:32",
+      "title": "元交際相手に「いいね」14回 有罪",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6602027?source=rss",
+      "publishedAt": "2026-11-10T03:32:12.000Z",
+      "xQuery": "元交際相手に「いいね」14回 有罪"
     }
   ]
 };
