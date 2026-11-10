@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-10T07:11:55.270Z",
+  "updatedAt": "2026-11-10T07:35:49.473Z",
   "items": [
+    {
+      "time": "16:11",
+      "title": "26年の熊本地震 関連死新たに5人",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6602047?source=rss",
+      "publishedAt": "2026-11-10T07:11:30.000Z",
+      "xQuery": "26年の熊本地震 関連死新たに5人"
+    },
     {
       "time": "14:55",
       "title": "日本 米中露会談巡り米に懸念伝達",
@@ -8,22 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6602040?source=rss",
       "publishedAt": "2026-11-10T05:55:50.000Z",
       "xQuery": "日本 米中露会談巡り米に懸念伝達"
-    },
-    {
-      "time": "10:09",
-      "title": "露政権批判の代表紙 編集部を閉鎖",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602002?source=rss",
-      "publishedAt": "2026-11-10T01:09:18.000Z",
-      "xQuery": "露政権批判の代表紙 編集部を閉鎖"
-    },
-    {
-      "time": "14:30",
-      "title": "NVIDIA巡る疑惑 米対応に注目",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602035?source=rss",
-      "publishedAt": "2026-11-10T05:30:14.000Z",
-      "xQuery": "NVIDIA巡る疑惑 米対応に注目"
     },
     {
       "time": "15:49",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6602036?source=rss",
       "publishedAt": "2026-11-10T05:40:42.000Z",
       "xQuery": "メタとの訴訟 前澤氏の請求を棄却"
+    },
+    {
+      "time": "15:32",
+      "title": "「仮面舞踏会」チケ即日完売 なぜ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6602044?source=rss",
+      "publishedAt": "2026-11-10T06:32:22.000Z",
+      "xQuery": "「仮面舞踏会」チケ即日完売 なぜ"
     }
   ]
 };

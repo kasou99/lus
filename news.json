@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T07:11:54.369Z",
+  "updatedAt": "2026-11-10T07:35:48.494Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,18 +38,18 @@
         "publishedAt": "2026-11-10T02:30:23.000Z"
       },
       {
-        "time": "22:50",
-        "title": "設備保全クラウド「ミロクルカルテ」、新オプション「ミロクルAIメーター読み取り（α版）」をモノづくりフェア2026で初公開",
-        "source": "朝日新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1BLUczekl0VVAyeEE5LVBxSkV1dmhOb3hnXzNQX1hLZDdvV19LeE5nemlKTjA3dlJURl9zd3pXX1NMOEZna25hS1JLbVhTMUswNEEwWjZkOXp0Smc?oc=5",
-        "publishedAt": "2026-11-09T13:50:51.000Z"
-      },
-      {
         "time": "19:10",
         "title": "『カミナシ 設備保全』、保全データをAIが分析し予防保全の計画まで提案するAIエージェント機能を先行提供",
         "source": "Infoseek",
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1MWWdDam5iMEtWVWhCVVhfX3FmdlRqYlFtSkdiRTdlTFh6U3RpQThtcmNYa3NIeWhDWG1lakg4MWw2NFRrTnVBdnl4OGM1UVlMSlJTdk5kcGR4czdwQnVjU2w2Qkx4MWZLN0w2bURUWmZQZw?oc=5",
         "publishedAt": "2026-11-09T10:10:00.000Z"
+      },
+      {
+        "time": "17:26",
+        "title": "設備保全クラウド「ミロクルカルテ」、新オプション「ミロクルAIメーター読み取り（α版）」をモノづくりフェア2026で初公開",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1nY0swRXNvUVV4amhwYmhoZFQ2NElDTkJpLUpCSkd4LXcyNlRiMmtsRFpxcVk0MFlLRms4Mkh2UElnUG1CaWhIYllZU3ZlQ285cWNhWU03cXV0V1pRazNTN1gyMWFEekE?oc=5",
+        "publishedAt": "2026-11-09T08:26:26.000Z"
       },
       {
         "time": "19:30",
@@ -149,11 +149,11 @@
     ],
     "localHeadlines": [
       {
-        "time": "12:17",
-        "title": "徳島・阿波市長ら 詐欺疑いで逮捕",
+        "time": "16:11",
+        "title": "26年の熊本地震 関連死新たに5人",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602024?source=rss",
-        "publishedAt": "2026-11-10T03:17:55.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6602047?source=rss",
+        "publishedAt": "2026-11-10T07:11:30.000Z"
       },
       {
         "time": "15:49",
