@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-10T09:36:01.516Z",
+  "updatedAt": "2026-11-10T10:11:43.412Z",
   "items": [
     {
       "time": "18:23",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "証明書のコンビニ交付 障害相次ぐ"
     },
     {
+      "time": "18:53",
+      "title": "SBGが7680億円の赤字 中間決算",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6602072?source=rss",
+      "publishedAt": "2026-11-10T09:53:46.000Z",
+      "xQuery": "SBGが7680億円の赤字 中間決算"
+    },
+    {
       "time": "18:11",
       "title": "再婚相手の娘を殺害疑い 男を逮捕",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6602062?source=rss",
       "publishedAt": "2026-11-10T09:11:53.000Z",
       "xQuery": "再婚相手の娘を殺害疑い 男を逮捕"
-    },
-    {
-      "time": "17:50",
-      "title": "パプア「三人っ子政策」導入検討",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602061?source=rss",
-      "publishedAt": "2026-11-10T08:50:36.000Z",
-      "xQuery": "パプア「三人っ子政策」導入検討"
     },
     {
       "time": "17:42",
