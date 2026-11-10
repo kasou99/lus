@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T05:11:56.153Z",
+  "updatedAt": "2026-11-10T05:36:05.379Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -61,13 +61,6 @@
     ],
     "worldHeadlines": [
       {
-        "time": "16:23",
-        "title": "米大統領 中露首脳と会談の見通し",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601919?source=rss",
-        "publishedAt": "2026-11-09T07:23:55.000Z"
-      },
-      {
         "time": "18:57",
         "title": "MAGAから急進左派へ 揺らぐ米国",
         "source": "Yahoo!ニュース",
@@ -87,6 +80,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6602021?source=rss",
         "publishedAt": "2026-11-10T04:56:09.000Z"
+      },
+      {
+        "time": "14:30",
+        "title": "NVIDIA巡る疑惑 米対応に注目",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6602035?source=rss",
+        "publishedAt": "2026-11-10T05:30:14.000Z"
       },
       {
         "time": "10:09",
