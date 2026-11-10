@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-10T13:35:36.593Z",
+  "updatedAt": "2026-11-10T14:11:45.202Z",
   "items": [
     {
       "time": "21:24",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "自民・小渕氏ら 税調副会長を辞任"
     },
     {
+      "time": "22:32",
+      "title": "万博のEVバス補助金 返還は半分",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6602091?source=rss",
+      "publishedAt": "2026-11-10T13:32:36.000Z",
+      "xQuery": "万博のEVバス補助金 返還は半分"
+    },
+    {
       "time": "20:39",
       "title": "スマホ遠隔操作し詐欺疑い 逮捕",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6602082?source=rss",
       "publishedAt": "2026-11-10T11:39:05.000Z",
       "xQuery": "スマホ遠隔操作し詐欺疑い 逮捕"
-    },
-    {
-      "time": "22:18",
-      "title": "天然コンブ漁獲量が激減 価格高騰",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602088?source=rss",
-      "publishedAt": "2026-11-10T13:18:08.000Z",
-      "xQuery": "天然コンブ漁獲量が激減 価格高騰"
     },
     {
       "time": "20:31",
