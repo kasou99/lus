@@ -1,14 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-10T03:13:15.719Z",
+  "updatedAt": "2026-11-10T03:36:04.454Z",
   "items": [
-    {
-      "time": "09:26",
-      "title": "「国内間通信」も監視対象に 検討",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601992?source=rss",
-      "publishedAt": "2026-11-10T00:26:31.000Z",
-      "xQuery": "「国内間通信」も監視対象に 検討"
-    },
     {
       "time": "09:33",
       "title": "石破氏ら戒告の自民 引き締め躍起",
@@ -16,6 +8,22 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6601996?source=rss",
       "publishedAt": "2026-11-10T00:33:15.000Z",
       "xQuery": "石破氏ら戒告の自民 引き締め躍起"
+    },
+    {
+      "time": "09:50",
+      "title": "ホンダ 米オハイオ州に工場新設へ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6601998?source=rss",
+      "publishedAt": "2026-11-10T00:50:15.000Z",
+      "xQuery": "ホンダ 米オハイオ州に工場新設へ"
+    },
+    {
+      "time": "12:17",
+      "title": "徳島・阿波市長ら 詐欺疑いで逮捕",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6602024?source=rss",
+      "publishedAt": "2026-11-10T03:17:55.000Z",
+      "xQuery": "徳島・阿波市長ら 詐欺疑いで逮捕"
     },
     {
       "time": "12:03",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6602017?source=rss",
       "publishedAt": "2026-11-10T02:43:06.000Z",
       "xQuery": "マンション2人死亡 7階から転落か"
-    },
-    {
-      "time": "09:31",
-      "title": "マンジャロで視力低下恐れ 米FDA",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601997?source=rss",
-      "publishedAt": "2026-11-10T00:31:26.000Z",
-      "xQuery": "マンジャロで視力低下恐れ 米FDA"
     }
   ]
 };
