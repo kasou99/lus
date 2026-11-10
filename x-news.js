@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-10T21:35:00.469Z",
+  "updatedAt": "2026-11-10T22:10:05.026Z",
   "items": [
     {
       "time": "22:42",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "米・露・ウの協議 9カ月ぶり再開"
     },
     {
-      "time": "23:38",
-      "title": "タマホーム社員 保険金を不正請求",
+      "time": "06:39",
+      "title": "小泉氏 首相総裁選出馬なら支える",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602099?source=rss",
-      "publishedAt": "2026-11-10T14:38:31.000Z",
-      "xQuery": "タマホーム社員 保険金を不正請求"
+      "url": "https://news.yahoo.co.jp/pickup/6602107?source=rss",
+      "publishedAt": "2026-11-10T21:39:18.000Z",
+      "xQuery": "小泉氏 首相総裁選出馬なら支える"
     },
     {
       "time": "06:27",
