@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-10T04:35:35.477Z",
+  "updatedAt": "2026-11-10T05:11:57.048Z",
   "items": [
     {
       "time": "12:49",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "内水氾濫の被害軽減へ 国が対応策"
     },
     {
-      "time": "09:50",
-      "title": "ホンダ 米オハイオ州に工場新設へ",
+      "time": "13:56",
+      "title": "米国防長官に弾劾決議案 焦点は",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601998?source=rss",
-      "publishedAt": "2026-11-10T00:50:15.000Z",
-      "xQuery": "ホンダ 米オハイオ州に工場新設へ"
+      "url": "https://news.yahoo.co.jp/pickup/6602021?source=rss",
+      "publishedAt": "2026-11-10T04:56:09.000Z",
+      "xQuery": "米国防長官に弾劾決議案 焦点は"
     },
     {
       "time": "12:17",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "徳島・阿波市長ら 詐欺疑いで逮捕"
     },
     {
-      "time": "11:43",
-      "title": "マンション2人死亡 7階から転落か",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602017?source=rss",
-      "publishedAt": "2026-11-10T02:43:06.000Z",
-      "xQuery": "マンション2人死亡 7階から転落か"
-    },
-    {
       "time": "12:32",
       "title": "元交際相手に「いいね」14回 有罪",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6602027?source=rss",
       "publishedAt": "2026-11-10T03:32:12.000Z",
       "xQuery": "元交際相手に「いいね」14回 有罪"
+    },
+    {
+      "time": "11:53",
+      "title": "イノシシか 女性に体当たりの映像",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6602018?source=rss",
+      "publishedAt": "2026-11-10T02:53:56.000Z",
+      "xQuery": "イノシシか 女性に体当たりの映像"
     }
   ]
 };

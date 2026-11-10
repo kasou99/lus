@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T04:35:34.946Z",
+  "updatedAt": "2026-11-10T05:11:56.153Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -8,6 +8,13 @@
         "source": "読売新聞",
         "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAzT1FPc000SnpMa2pXRUdFelRGS3Z0NnFkVjNIOU9DeUp0NkN6QUcway1YcjV1eUhXcDdUVTBrMWNKd0ZNUWhqV2poMUhlcTN3Q19KVkc0SGt1b2dwaUMwWU8zTDdzVmlYMG9hdTljZkU?oc=5",
         "publishedAt": "2026-11-09T20:00:00.000Z"
+      },
+      {
+        "time": "12:14",
+        "title": "「ロボットが工場で働く時代」へ！ 三菱電機、AIが人型ロボットと工作機械を連携させる新技術を開発",
+        "source": "DXマガジン",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9lYnBrX2prblljTWlnT1BFcE9NeUx4YWFweWU5eDh2NklMcXMtQWs0QjJkbmYyRFdnYWFTWGZJYWpXQkNfNUFUbkdRM1g4MTRH?oc=5",
+        "publishedAt": "2026-11-10T03:14:47.000Z"
       },
       {
         "time": "23:08",
@@ -50,13 +57,6 @@
         "source": "ニコニコニュース",
         "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5YSmlMWGk4OEJjYTQ2aUxpVjZlSnhhTWhGODJDUjFiN21vUWpRX3N2N2NlenVTS1kweTB4VERTU1RUczcwVHRPMXExSnZLMnQ2LTNZbw?oc=5",
         "publishedAt": "2026-11-09T10:30:24.000Z"
-      },
-      {
-        "time": "11:35",
-        "title": "中国STAR Market新規上場のコアリース（688827）、初日約300%急騰 抽選当選の最高含み益は7万元超",
-        "source": "BigGo ファイナンス",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE41eXdZQnpaSWswdTJ1UldVbHZMbElWYlJnazVFeFg5NUJEVXhXVXNHQ3VtNFNCMmlqOE9BQjRnRFRMWV9iVXdtdXJPUUJHMHl0dWdfUGhuWk8tVVNJdDlpR2h4MFhabzJrWTVUeVl5bVAwLTNu?oc=5",
-        "publishedAt": "2026-11-10T02:35:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -82,6 +82,13 @@
         "publishedAt": "2026-11-09T22:27:29.000Z"
       },
       {
+        "time": "13:56",
+        "title": "米国防長官に弾劾決議案 焦点は",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6602021?source=rss",
+        "publishedAt": "2026-11-10T04:56:09.000Z"
+      },
+      {
         "time": "10:09",
         "title": "露政権批判の代表紙 編集部を閉鎖",
         "source": "Yahoo!ニュース",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601978?source=rss",
         "publishedAt": "2026-11-09T22:34:51.000Z"
-      },
-      {
-        "time": "14:00",
-        "title": "アフリカ カルト教団が増える背景",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601895?source=rss",
-        "publishedAt": "2026-11-09T05:00:45.000Z"
       }
     ],
     "economyHeadlines": [
@@ -140,11 +140,11 @@
         "publishedAt": "2026-11-09T23:39:48.000Z"
       },
       {
-        "time": "12:41",
-        "title": "福岡うどんチェーン 関東人気理由",
+        "time": "13:50",
+        "title": "関東 福岡うどんチェーン人気の訳",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602028?source=rss",
-        "publishedAt": "2026-11-10T03:41:59.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6602032?source=rss",
+        "publishedAt": "2026-11-10T04:50:17.000Z"
       }
     ],
     "localHeadlines": [
