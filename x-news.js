@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-10T14:35:54.718Z",
+  "updatedAt": "2026-11-10T15:10:06.789Z",
   "items": [
     {
       "time": "22:42",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "米・露・ウの協議 9カ月ぶり再開"
     },
     {
-      "time": "22:32",
-      "title": "万博のEVバス補助金 返還は半分",
+      "time": "23:38",
+      "title": "タマホーム社員 保険金を不正請求",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602091?source=rss",
-      "publishedAt": "2026-11-10T13:32:36.000Z",
-      "xQuery": "万博のEVバス補助金 返還は半分"
+      "url": "https://news.yahoo.co.jp/pickup/6602099?source=rss",
+      "publishedAt": "2026-11-10T14:38:31.000Z",
+      "xQuery": "タマホーム社員 保険金を不正請求"
     },
     {
       "time": "20:39",
