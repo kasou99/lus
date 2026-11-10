@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-10T11:35:32.918Z",
+  "updatedAt": "2026-11-10T12:16:11.187Z",
   "items": [
     {
       "time": "18:23",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "市長ら逮捕 阿波市役所に家宅捜索"
     },
     {
+      "time": "20:44",
+      "title": "自民・小渕氏ら 税調副会長を辞任",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6602083?source=rss",
+      "publishedAt": "2026-11-10T11:44:04.000Z",
+      "xQuery": "自民・小渕氏ら 税調副会長を辞任"
+    },
+    {
       "time": "18:53",
       "title": "SBGが7680億円の赤字 中間決算",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6602072?source=rss",
       "publishedAt": "2026-11-10T09:53:46.000Z",
       "xQuery": "SBGが7680億円の赤字 中間決算"
-    },
-    {
-      "time": "19:37",
-      "title": "日商簿記など 合否や得点が流出か",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602077?source=rss",
-      "publishedAt": "2026-11-10T10:37:38.000Z",
-      "xQuery": "日商簿記など 合否や得点が流出か"
     },
     {
       "time": "18:11",
