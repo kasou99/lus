@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T02:35:20.773Z",
+  "updatedAt": "2026-11-10T03:13:14.941Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,18 +17,11 @@
         "publishedAt": "2026-11-09T14:08:36.000Z"
       },
       {
-        "time": "10:46",
+        "time": "11:30",
         "title": "【11/24(火)・25(水)・26(木)11:00‐】次世代設備保全クラウド「M2X」で何ができる？無料オンラインデモセミナー開催",
-        "source": "時事ドットコム",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5NOGZSTkVOZ2wwdWt1djhOVkI3NThMcS1OMmQ5QzZXZFlxcXpNSl9mUDJZYnp0dE9BX2FsUlVOWWlIT2UxTTdac3F4WnpMeElCZHI3b192SmdvTHYwMXpYaFhWYUM0ZmlsQmZr?oc=5",
-        "publishedAt": "2026-11-10T01:46:00.000Z"
-      },
-      {
-        "time": "17:26",
-        "title": "設備保全クラウド「ミロクルカルテ」、新オプション「ミロクルAIメーター読み取り（α版）」をモノづくりフェア2026で初公開",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1nY0swRXNvUVV4amhwYmhoZFQ2NElDTkJpLUpCSkd4LXcyNlRiMmtsRFpxcVk0MFlLRms4Mkh2UElnUG1CaWhIYllZU3ZlQ285cWNhWU03cXV0V1pRazNTN1gyMWFEekE?oc=5",
-        "publishedAt": "2026-11-09T08:26:26.000Z"
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBsY1l4S1FNTXRqUEM1bGpXdmc0dUx2WUZ1R0hLRkxVTEVPMzh3Sk1Gby1uTHloMTV5TnNwWk9NYUo3azBuVU9ETDhqeUpqWTlOdVZxUEp0WlNrOHFSNlN2R0x5Z2ZaRjFEWjJWcXpVRjhGbXh0NHBHaFVSSQ?oc=5",
+        "publishedAt": "2026-11-10T02:30:23.000Z"
       },
       {
         "time": "19:10",
@@ -36,6 +29,13 @@
         "source": "Infoseek",
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1MWWdDam5iMEtWVWhCVVhfX3FmdlRqYlFtSkdiRTdlTFh6U3RpQThtcmNYa3NIeWhDWG1lakg4MWw2NFRrTnVBdnl4OGM1UVlMSlJTdk5kcGR4czdwQnVjU2w2Qkx4MWZLN0w2bURUWmZQZw?oc=5",
         "publishedAt": "2026-11-09T10:10:00.000Z"
+      },
+      {
+        "time": "17:26",
+        "title": "設備保全クラウド「ミロクルカルテ」、新オプション「ミロクルAIメーター読み取り（α版）」をモノづくりフェア2026で初公開",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1nY0swRXNvUVV4amhwYmhoZFQ2NElDTkJpLUpCSkd4LXcyNlRiMmtsRFpxcVk0MFlLRms4Mkh2UElnUG1CaWhIYllZU3ZlQ285cWNhWU03cXV0V1pRazNTN1gyMWFEekE?oc=5",
+        "publishedAt": "2026-11-09T08:26:26.000Z"
       },
       {
         "time": "13:00",
@@ -52,11 +52,11 @@
         "publishedAt": "2026-11-09T20:10:49.000Z"
       },
       {
-        "time": "05:24",
-        "title": "【日本精工 FY2026 Q2 決算説明会】通期営業利益予想を560億円に上方修正、AI需要と円安が牽引",
+        "time": "11:35",
+        "title": "中国STAR Market新規上場のコアリース（688827）、初日約300%急騰 抽選当選の最高含み益は7万元超",
         "source": "BigGo ファイナンス",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE51U29Cc1VOTGhKZ3R2c1dkdU9Sczl5blFNREFqVkpjZUd6S2sxWXU3a1dzejZMR0pVc19WYWJwRnBlUUxTTlF4Q2R2dkRYa05xaXJBQ3k3UVJfYTNrcmt3?oc=5",
-        "publishedAt": "2026-11-09T20:24:00.000Z"
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE41eXdZQnpaSWswdTJ1UldVbHZMbElWYlJnazVFeFg5NUJEVXhXVXNHQ3VtNFNCMmlqOE9BQjRnRFRMWV9iVXdtdXJPUUJHMHl0dWdfUGhuWk8tVVNJdDlpR2h4MFhabzJrWTVUeVl5bVAwLTNu?oc=5",
+        "publishedAt": "2026-11-10T02:35:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -163,11 +163,18 @@
         "publishedAt": "2026-11-10T01:59:06.000Z"
       },
       {
-        "time": "20:10",
-        "title": "同僚踏みつけ死亡させた疑い 逮捕",
+        "time": "12:03",
+        "title": "室蘭殺人 男「騒音うるさかった」",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601947?source=rss",
-        "publishedAt": "2026-11-09T11:10:10.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6602019?source=rss",
+        "publishedAt": "2026-11-10T03:03:31.000Z"
+      },
+      {
+        "time": "11:43",
+        "title": "マンション2人死亡 7階から転落か",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6602017?source=rss",
+        "publishedAt": "2026-11-10T02:43:06.000Z"
       },
       {
         "time": "22:08",
@@ -175,13 +182,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6601960?source=rss",
         "publishedAt": "2026-11-09T13:08:05.000Z"
-      },
-      {
-        "time": "09:26",
-        "title": "マンション敷地に倒れた2人 死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601995?source=rss",
-        "publishedAt": "2026-11-10T00:26:52.000Z"
       },
       {
         "time": "09:20",

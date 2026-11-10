@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-10T02:35:21.765Z",
+  "updatedAt": "2026-11-10T03:13:15.719Z",
   "items": [
     {
       "time": "09:26",
@@ -10,14 +10,6 @@ window.LUS_X_NEWS = {
       "xQuery": "「国内間通信」も監視対象に 検討"
     },
     {
-      "time": "10:29",
-      "title": "世界の氷河 1年で4000億t超が減少",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602005?source=rss",
-      "publishedAt": "2026-11-10T01:29:06.000Z",
-      "xQuery": "世界の氷河 1年で4000億t超が減少"
-    },
-    {
       "time": "09:33",
       "title": "石破氏ら戒告の自民 引き締め躍起",
       "source": "Yahoo!ニュース",
@@ -26,12 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "石破氏ら戒告の自民 引き締め躍起"
     },
     {
-      "time": "09:26",
-      "title": "マンション敷地に倒れた2人 死亡",
+      "time": "12:03",
+      "title": "室蘭殺人 男「騒音うるさかった」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601995?source=rss",
-      "publishedAt": "2026-11-10T00:26:52.000Z",
-      "xQuery": "マンション敷地に倒れた2人 死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6602019?source=rss",
+      "publishedAt": "2026-11-10T03:03:31.000Z",
+      "xQuery": "室蘭殺人 男「騒音うるさかった」"
+    },
+    {
+      "time": "11:43",
+      "title": "マンション2人死亡 7階から転落か",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6602017?source=rss",
+      "publishedAt": "2026-11-10T02:43:06.000Z",
+      "xQuery": "マンション2人死亡 7階から転落か"
     },
     {
       "time": "09:31",
