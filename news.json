@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T08:35:41.276Z",
+  "updatedAt": "2026-11-10T09:12:34.875Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -89,18 +89,18 @@
         "publishedAt": "2026-11-10T01:09:18.000Z"
       },
       {
-        "time": "07:34",
-        "title": "仏大統領選 リネール氏が出馬表明",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6601978?source=rss",
-        "publishedAt": "2026-11-09T22:34:51.000Z"
-      },
-      {
         "time": "14:19",
         "title": "イスラエル 連立樹立の分かれ目は",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6602022?source=rss",
         "publishedAt": "2026-11-10T05:19:08.000Z"
+      },
+      {
+        "time": "17:50",
+        "title": "パプア「三人っ子政策」導入検討",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6602061?source=rss",
+        "publishedAt": "2026-11-10T08:50:36.000Z"
       }
     ],
     "economyHeadlines": [
@@ -163,13 +163,6 @@
         "publishedAt": "2026-11-10T07:35:03.000Z"
       },
       {
-        "time": "15:49",
-        "title": "義母を窒息させ殺害疑い 男を逮捕",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602046?source=rss",
-        "publishedAt": "2026-11-10T06:49:10.000Z"
-      },
-      {
         "time": "12:03",
         "title": "室蘭殺人 男「騒音うるさかった」",
         "source": "Yahoo!ニュース",
@@ -182,6 +175,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6602041?source=rss",
         "publishedAt": "2026-11-10T06:00:06.000Z"
+      },
+      {
+        "time": "17:42",
+        "title": "脱走犬がかみ女性重傷 飼い主逮捕",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6602058?source=rss",
+        "publishedAt": "2026-11-10T08:42:20.000Z"
       },
       {
         "time": "11:43",

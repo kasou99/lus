@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-10T08:35:42.035Z",
+  "updatedAt": "2026-11-10T09:12:36.007Z",
   "items": [
     {
       "time": "16:11",
@@ -18,12 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "イスラエル 連立樹立の分かれ目は"
     },
     {
-      "time": "15:00",
-      "title": "福島男児死亡 事件前に児相に情報",
+      "time": "17:50",
+      "title": "パプア「三人っ子政策」導入検討",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602041?source=rss",
-      "publishedAt": "2026-11-10T06:00:06.000Z",
-      "xQuery": "福島男児死亡 事件前に児相に情報"
+      "url": "https://news.yahoo.co.jp/pickup/6602061?source=rss",
+      "publishedAt": "2026-11-10T08:50:36.000Z",
+      "xQuery": "パプア「三人っ子政策」導入検討"
+    },
+    {
+      "time": "17:42",
+      "title": "脱走犬がかみ女性重傷 飼い主逮捕",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6602058?source=rss",
+      "publishedAt": "2026-11-10T08:42:20.000Z",
+      "xQuery": "脱走犬がかみ女性重傷 飼い主逮捕"
     },
     {
       "time": "16:55",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6602052?source=rss",
       "publishedAt": "2026-11-10T07:55:46.000Z",
       "xQuery": "JR東 タッチ不要の改札導入へ"
-    },
-    {
-      "time": "15:32",
-      "title": "「仮面舞踏会」チケ即日完売 なぜ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602044?source=rss",
-      "publishedAt": "2026-11-10T06:32:22.000Z",
-      "xQuery": "「仮面舞踏会」チケ即日完売 なぜ"
     }
   ]
 };
