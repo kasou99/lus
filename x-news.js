@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-10T00:28:42.114Z",
+  "updatedAt": "2026-11-10T00:46:07.181Z",
   "items": [
     {
       "time": "07:35",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "個人向け国債人気 発行額8兆円超"
     },
     {
-      "time": "07:34",
-      "title": "仏大統領選 リネール氏が出馬表明",
+      "time": "09:26",
+      "title": "マンション敷地に倒れた2人 死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6601978?source=rss",
-      "publishedAt": "2026-11-09T22:34:51.000Z",
-      "xQuery": "仏大統領選 リネール氏が出馬表明"
+      "url": "https://news.yahoo.co.jp/pickup/6601995?source=rss",
+      "publishedAt": "2026-11-10T00:26:52.000Z",
+      "xQuery": "マンション敷地に倒れた2人 死亡"
     },
     {
       "time": "08:39",

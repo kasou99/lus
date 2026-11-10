@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T00:28:41.355Z",
+  "updatedAt": "2026-11-10T00:46:06.391Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,6 +17,13 @@
         "publishedAt": "2026-11-09T14:08:36.000Z"
       },
       {
+        "time": "09:30",
+        "title": "【11/24(火)・25(水)・26(木)11:00‐】次世代設備保全クラウド「M2X」で何ができる？無料オンラインデモセミナー開催",
+        "source": "PR TIMES",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBIbVIyYjFSRkthd0tpcmdKakZMZmpaMTBGUTJEU2s2WmJ0ck1VcUdVMktRdkczRXZpVktjLUZMQWtBT3dUMjBpMElVbE1BUGQyRGpZSEFnYWVhR0pNb29CYVpJY1BacnFUM3c?oc=5",
+        "publishedAt": "2026-11-10T00:30:01.000Z"
+      },
+      {
         "time": "10:30",
         "title": "DMG森精機社長が目指す「止まらない工作機械」 無人化で残る「人の仕事」とは（MONOist）",
         "source": "Yahoo!ニュース",
@@ -24,18 +31,18 @@
         "publishedAt": "2026-11-09T01:30:16.000Z"
       },
       {
-        "time": "17:26",
-        "title": "設備保全クラウド「ミロクルカルテ」、新オプション「ミロクルAIメーター読み取り（α版）」をモノづくりフェア2026で初公開",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1nY0swRXNvUVV4amhwYmhoZFQ2NElDTkJpLUpCSkd4LXcyNlRiMmtsRFpxcVk0MFlLRms4Mkh2UElnUG1CaWhIYllZU3ZlQ285cWNhWU03cXV0V1pRazNTN1gyMWFEekE?oc=5",
-        "publishedAt": "2026-11-09T08:26:26.000Z"
-      },
-      {
         "time": "19:10",
         "title": "『カミナシ 設備保全』、保全データをAIが分析し予防保全の計画まで提案するAIエージェント機能を先行提供",
         "source": "Infoseek",
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1MWWdDam5iMEtWVWhCVVhfX3FmdlRqYlFtSkdiRTdlTFh6U3RpQThtcmNYa3NIeWhDWG1lakg4MWw2NFRrTnVBdnl4OGM1UVlMSlJTdk5kcGR4czdwQnVjU2w2Qkx4MWZLN0w2bURUWmZQZw?oc=5",
         "publishedAt": "2026-11-09T10:10:00.000Z"
+      },
+      {
+        "time": "17:26",
+        "title": "設備保全クラウド「ミロクルカルテ」、新オプション「ミロクルAIメーター読み取り（α版）」をモノづくりフェア2026で初公開",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1nY0swRXNvUVV4amhwYmhoZFQ2NElDTkJpLUpCSkd4LXcyNlRiMmtsRFpxcVk0MFlLRms4Mkh2UElnUG1CaWhIYllZU3ZlQ285cWNhWU03cXV0V1pRazNTN1gyMWFEekE?oc=5",
+        "publishedAt": "2026-11-09T08:26:26.000Z"
       },
       {
         "time": "13:00",
@@ -50,13 +57,6 @@
         "source": "LOGISTICS TODAY",
         "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1hdVg0RC1fWGY3a0pKMGdvY2tUSU16WFlCSEtsMVNrNml2WnN4NExGMUhwRzBrajhWNUZMSXhLZkdXNkdaYmFJYTBR?oc=5",
         "publishedAt": "2026-11-09T20:03:45.000Z"
-      },
-      {
-        "time": "15:41",
-        "title": "サーボ溶接ガンマーケットリサーチ：調査方法・市場動向・業界規模",
-        "source": "Newscast.jp",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9XRGxnM0VybDduZWxHdDFmN2tkODdHcW1rSEtfdHFYYXdDbjliajZfZUNlSEVYRTFpMExZUmJGd3BsLUR3QzBkTUF6dTZreDg?oc=5",
-        "publishedAt": "2026-11-09T06:41:00.000Z"
       }
     ],
     "worldHeadlines": [
