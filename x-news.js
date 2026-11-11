@@ -1,21 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-11T11:35:35.293Z",
+  "updatedAt": "2026-11-11T12:16:48.207Z",
   "items": [
     {
-      "time": "16:40",
-      "title": "Amazonの改善計画 公取委が認定",
+      "time": "20:54",
+      "title": "安保3文書改定で重視 拒否力とは",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602184?source=rss",
-      "publishedAt": "2026-11-11T07:40:49.000Z",
-      "xQuery": "Amazonの改善計画 公取委が認定"
+      "url": "https://news.yahoo.co.jp/pickup/6602202?source=rss",
+      "publishedAt": "2026-11-11T11:54:33.000Z",
+      "xQuery": "安保3文書改定で重視 拒否力とは"
     },
     {
-      "time": "18:00",
-      "title": "米財務長官 脅迫受け軍基地に転居",
+      "time": "20:47",
+      "title": "武部氏選挙運動巡り 地検に告発状",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602195?source=rss",
-      "publishedAt": "2026-11-11T09:00:26.000Z",
-      "xQuery": "米財務長官 脅迫受け軍基地に転居"
+      "url": "https://news.yahoo.co.jp/pickup/6602213?source=rss",
+      "publishedAt": "2026-11-11T11:47:48.000Z",
+      "xQuery": "武部氏選挙運動巡り 地検に告発状"
+    },
+    {
+      "time": "18:55",
+      "title": "子の不登校で離職 防ぐ企業の制度",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6602206?source=rss",
+      "publishedAt": "2026-11-11T09:55:26.000Z",
+      "xQuery": "子の不登校で離職 防ぐ企業の制度"
     },
     {
       "time": "20:11",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "首脳がCOP31を欠席 日本に化石賞"
     },
     {
-      "time": "18:56",
-      "title": "放火し保険金など1億円詐取 実刑",
+      "time": "17:42",
+      "title": "マイケル氏 スリラー衣装が競売へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602207?source=rss",
-      "publishedAt": "2026-11-11T09:56:24.000Z",
-      "xQuery": "放火し保険金など1億円詐取 実刑"
-    },
-    {
-      "time": "20:04",
-      "title": "京都府内の農場で鳥インフル疑い",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602212?source=rss",
-      "publishedAt": "2026-11-11T11:04:20.000Z",
-      "xQuery": "京都府内の農場で鳥インフル疑い"
+      "url": "https://news.yahoo.co.jp/pickup/6602191?source=rss",
+      "publishedAt": "2026-11-11T08:42:06.000Z",
+      "xQuery": "マイケル氏 スリラー衣装が競売へ"
     }
   ]
 };
