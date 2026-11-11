@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-11T08:15:35.151Z",
+  "updatedAt": "2026-11-11T08:35:37.362Z",
   "items": [
     {
       "time": "15:20",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "昨年7月参院選「違憲状態」最高裁"
     },
     {
-      "time": "14:33",
-      "title": "内閣府メルマガ登録アド6万件流出",
+      "time": "17:17",
+      "title": "植松聖死刑囚が再審を請求 3度目",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602172?source=rss",
-      "publishedAt": "2026-11-11T05:33:30.000Z",
-      "xQuery": "内閣府メルマガ登録アド6万件流出"
+      "url": "https://news.yahoo.co.jp/pickup/6602185?source=rss",
+      "publishedAt": "2026-11-11T08:17:56.000Z",
+      "xQuery": "植松聖死刑囚が再審を請求 3度目"
     },
     {
       "time": "15:42",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "横浜の4歳児死亡 男性の無罪確定"
     },
     {
-      "time": "15:46",
-      "title": "圏央道で5台絡む事故 1人心肺停止",
+      "time": "13:22",
+      "title": "シルク産業 着る以外の用途に活路",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602177?source=rss",
-      "publishedAt": "2026-11-11T06:46:09.000Z",
-      "xQuery": "圏央道で5台絡む事故 1人心肺停止"
+      "url": "https://news.yahoo.co.jp/pickup/6602160?source=rss",
+      "publishedAt": "2026-11-11T04:22:42.000Z",
+      "xQuery": "シルク産業 着る以外の用途に活路"
     },
     {
-      "time": "16:52",
-      "title": "生体認証の証券口座でも侵入疑い",
+      "time": "16:37",
+      "title": "雄牛と雄ロバ 種を越えた交尾行動",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602183?source=rss",
-      "publishedAt": "2026-11-11T07:52:19.000Z",
-      "xQuery": "生体認証の証券口座でも侵入疑い"
+      "url": "https://news.yahoo.co.jp/pickup/6602181?source=rss",
+      "publishedAt": "2026-11-11T07:37:06.000Z",
+      "xQuery": "雄牛と雄ロバ 種を越えた交尾行動"
     }
   ]
 };
