@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-11T14:36:17.272Z",
+  "updatedAt": "2026-11-11T15:10:17.611Z",
   "items": [
     {
       "time": "21:05",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "Amazon「表示枠」公取なぜ問題視"
     },
     {
-      "time": "21:18",
-      "title": "石破氏 高市政権の高支持率に見解",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602218?source=rss",
-      "publishedAt": "2026-11-11T12:18:49.000Z",
-      "xQuery": "石破氏 高市政権の高支持率に見解"
-    },
-    {
       "time": "21:30",
       "title": "月収5万円 受診遅れ死亡した男性",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6602222?source=rss",
       "publishedAt": "2026-11-11T12:30:08.000Z",
       "xQuery": "月収5万円 受診遅れ死亡した男性"
+    },
+    {
+      "time": "23:55",
+      "title": "約6300の学校に爆破予告メール 伊",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6602234?source=rss",
+      "publishedAt": "2026-11-11T14:55:23.000Z",
+      "xQuery": "約6300の学校に爆破予告メール 伊"
     },
     {
       "time": "22:54",
