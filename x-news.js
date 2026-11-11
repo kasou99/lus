@@ -1,14 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-11T03:13:27.870Z",
+  "updatedAt": "2026-11-11T03:36:13.548Z",
   "items": [
-    {
-      "time": "10:56",
-      "title": "3文書改定 自民は「ブレーキ役」",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602135?source=rss",
-      "publishedAt": "2026-11-11T01:56:05.000Z",
-      "xQuery": "3文書改定 自民は「ブレーキ役」"
-    },
     {
       "time": "11:49",
       "title": "ルフィ事件 幹部が起訴内容を否認",
@@ -16,6 +8,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6602143?source=rss",
       "publishedAt": "2026-11-11T02:49:09.000Z",
       "xQuery": "ルフィ事件 幹部が起訴内容を否認"
+    },
+    {
+      "time": "12:00",
+      "title": "高級時計が盗まれた事件 男を逮捕",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6602150?source=rss",
+      "publishedAt": "2026-11-11T03:00:05.000Z",
+      "xQuery": "高級時計が盗まれた事件 男を逮捕"
     },
     {
       "time": "11:45",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "ダンプカー衝突 自転車の15歳死亡"
     },
     {
-      "time": "12:00",
-      "title": "高級時計が盗まれた事件 男を逮捕",
+      "time": "12:22",
+      "title": "学校で裸の男児盗撮疑い 教諭逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602150?source=rss",
-      "publishedAt": "2026-11-11T03:00:05.000Z",
-      "xQuery": "高級時計が盗まれた事件 男を逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6602155?source=rss",
+      "publishedAt": "2026-11-11T03:22:34.000Z",
+      "xQuery": "学校で裸の男児盗撮疑い 教諭逮捕"
     }
   ]
 };

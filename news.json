@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T03:13:27.081Z",
+  "updatedAt": "2026-11-11T03:36:12.789Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -22,6 +22,13 @@
         "source": "BigGo ファイナンス",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9OX0J0Z3NvdmpGVHZ6MnZyXzFsRHNzUTJyWVlHcWxqMFNzczQ1QzlzYXptbFBlaVhLQS05VGVkb3llSmlYc3hIYWxXMHNxT1ByZ0wtd1ZNaHhkczRsUDk5MU4yamJlNGVsbWR6VWx0T2Q5MTBk?oc=5",
         "publishedAt": "2026-11-10T22:25:00.000Z"
+      },
+      {
+        "time": "10:59",
+        "title": "2026年11月11日 深層断面 ニュース",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0zOWhxa19PQlR0czl3TnVjQlZMdVh1Q3pCWEExUkxNeGc1M3JjVXFGTzV5cHdwWW9SbXNhLW5XSUstRDhOekZ4NjA5STRJdTBlT0xUVw?oc=5",
+        "publishedAt": "2026-11-11T01:59:32.000Z"
       },
       {
         "time": "06:59",
@@ -50,13 +57,6 @@
         "source": "BigGo ファイナンス",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8wd1dNaXlfeE5Wd05TeEc2U2RoMTRZUHFCVUVTbTRSMVNzbnM2bFdiaHFkZEdEVW9pUUxkc2k2cWVqbFNGVGoxRWd2R0JyM2ZqVkJINTFPZUk1aElKZXBKLXh2STNPRFJISkRQZ3l2YVNiZjhX?oc=5",
         "publishedAt": "2026-11-10T11:05:00.000Z"
-      },
-      {
-        "time": "12:14",
-        "title": "「ロボットが工場で働く時代」へ！ 三菱電機、AIが人型ロボットと工作機械を連携させる新技術を開発",
-        "source": "DXマガジン",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9lYnBrX2prblljTWlnT1BFcE9NeUx4YWFweWU5eDh2NklMcXMtQWs0QjJkbmYyRFdnYWFTWGZJYWpXQkNfNUFUbkdRM1g4MTRH?oc=5",
-        "publishedAt": "2026-11-10T03:14:47.000Z"
       }
     ],
     "worldHeadlines": [
@@ -163,13 +163,6 @@
         "publishedAt": "2026-11-11T02:49:09.000Z"
       },
       {
-        "time": "18:11",
-        "title": "再婚相手の娘を殺害疑い 男を逮捕",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602062?source=rss",
-        "publishedAt": "2026-11-10T09:11:53.000Z"
-      },
-      {
         "time": "11:22",
         "title": "ダンプカー衝突 自転車の15歳死亡",
         "source": "Yahoo!ニュース",
@@ -177,18 +170,25 @@
         "publishedAt": "2026-11-11T02:22:35.000Z"
       },
       {
+        "time": "08:03",
+        "title": "イベ閑散 主催は集客「約束せず」",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6602113?source=rss",
+        "publishedAt": "2026-11-10T23:03:13.000Z"
+      },
+      {
+        "time": "12:22",
+        "title": "学校で裸の男児盗撮疑い 教諭逮捕",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6602155?source=rss",
+        "publishedAt": "2026-11-11T03:22:34.000Z"
+      },
+      {
         "time": "07:40",
         "title": "生徒乗る遊覧船定員1.7倍で航行か",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6602112?source=rss",
         "publishedAt": "2026-11-10T22:40:19.000Z"
-      },
-      {
-        "time": "23:30",
-        "title": "集客5万人を掲げたイベ閑散 怒り",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602098?source=rss",
-        "publishedAt": "2026-11-10T14:30:22.000Z"
       }
     ],
     "subsidyHeadlines": [
