@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-11T21:35:37.288Z",
+  "updatedAt": "2026-11-11T22:10:22.352Z",
   "items": [
     {
       "time": "21:05",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "月収5万円 受診遅れ死亡した男性"
     },
     {
-      "time": "23:55",
-      "title": "約6300の学校に爆破予告メール 伊",
+      "time": "06:42",
+      "title": "マック 休止中の新チキン開発経緯",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602234?source=rss",
-      "publishedAt": "2026-11-11T14:55:23.000Z",
-      "xQuery": "約6300の学校に爆破予告メール 伊"
+      "url": "https://news.yahoo.co.jp/pickup/6602238?source=rss",
+      "publishedAt": "2026-11-11T21:42:27.000Z",
+      "xQuery": "マック 休止中の新チキン開発経緯"
     }
   ]
 };
