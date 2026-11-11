@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-11T11:10:03.378Z",
+  "updatedAt": "2026-11-11T11:35:35.293Z",
   "items": [
     {
       "time": "16:40",
@@ -18,6 +18,14 @@ window.LUS_X_NEWS = {
       "xQuery": "米財務長官 脅迫受け軍基地に転居"
     },
     {
+      "time": "20:11",
+      "title": "首脳がCOP31を欠席 日本に化石賞",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6602204?source=rss",
+      "publishedAt": "2026-11-11T11:11:29.000Z",
+      "xQuery": "首脳がCOP31を欠席 日本に化石賞"
+    },
+    {
       "time": "18:56",
       "title": "放火し保険金など1億円詐取 実刑",
       "source": "Yahoo!ニュース",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "放火し保険金など1億円詐取 実刑"
     },
     {
-      "time": "17:27",
-      "title": "立花孝志被告の勾留続く 識者は",
+      "time": "20:04",
+      "title": "京都府内の農場で鳥インフル疑い",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602187?source=rss",
-      "publishedAt": "2026-11-11T08:27:59.000Z",
-      "xQuery": "立花孝志被告の勾留続く 識者は"
-    },
-    {
-      "time": "19:04",
-      "title": "イベ閑散 トラブルへの自衛策は",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602209?source=rss",
-      "publishedAt": "2026-11-11T10:04:32.000Z",
-      "xQuery": "イベ閑散 トラブルへの自衛策は"
+      "url": "https://news.yahoo.co.jp/pickup/6602212?source=rss",
+      "publishedAt": "2026-11-11T11:04:20.000Z",
+      "xQuery": "京都府内の農場で鳥インフル疑い"
     }
   ]
 };
