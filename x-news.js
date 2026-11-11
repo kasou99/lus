@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-11T05:11:28.744Z",
+  "updatedAt": "2026-11-11T05:36:14.791Z",
   "items": [
     {
       "time": "12:38",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "日中会談の調整不調 日本は正念場"
     },
     {
-      "time": "12:00",
-      "title": "高級時計が盗まれた事件 男を逮捕",
+      "time": "13:52",
+      "title": "介護 スポットワーカー依存高まる",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602150?source=rss",
-      "publishedAt": "2026-11-11T03:00:05.000Z",
-      "xQuery": "高級時計が盗まれた事件 男を逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6602170?source=rss",
+      "publishedAt": "2026-11-11T04:52:15.000Z",
+      "xQuery": "介護 スポットワーカー依存高まる"
     },
     {
       "time": "11:45",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "ドコモ携帯 全国で障害が発生"
     },
     {
+      "time": "14:10",
+      "title": "共和党重鎮 NVIDIAのCEO辞任要求",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6602167?source=rss",
+      "publishedAt": "2026-11-11T05:10:49.000Z",
+      "xQuery": "共和党重鎮 NVIDIAのCEO辞任要求"
+    },
+    {
       "time": "13:58",
       "title": "兄弟転落死 部屋に血の付いた刃物",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6602169?source=rss",
       "publishedAt": "2026-11-11T04:58:06.000Z",
       "xQuery": "兄弟転落死 部屋に血の付いた刃物"
-    },
-    {
-      "time": "11:50",
-      "title": "「AIくさい」なぜSNSで批判過熱",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602141?source=rss",
-      "publishedAt": "2026-11-11T02:50:12.000Z",
-      "xQuery": "「AIくさい」なぜSNSで批判過熱"
     }
   ]
 };
