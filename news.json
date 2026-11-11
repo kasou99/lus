@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T01:11:22.931Z",
+  "updatedAt": "2026-11-11T01:39:09.293Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -149,20 +149,6 @@
     ],
     "localHeadlines": [
       {
-        "time": "09:52",
-        "title": "ダンプカー衝突 自転車の男性重体",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602128?source=rss",
-        "publishedAt": "2026-11-11T00:52:46.000Z"
-      },
-      {
-        "time": "18:29",
-        "title": "柏の夫婦刺殺で初公判 被告暴れる",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602066?source=rss",
-        "publishedAt": "2026-11-10T09:29:07.000Z"
-      },
-      {
         "time": "18:11",
         "title": "再婚相手の娘を殺害疑い 男を逮捕",
         "source": "Yahoo!ニュース",
@@ -170,11 +156,25 @@
         "publishedAt": "2026-11-10T09:11:53.000Z"
       },
       {
+        "time": "09:52",
+        "title": "ダンプカー衝突 自転車の男性重体",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6602128?source=rss",
+        "publishedAt": "2026-11-11T00:52:46.000Z"
+      },
+      {
         "time": "06:27",
         "title": "女性搬送の救急車事故 病院で死亡",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6602106?source=rss",
         "publishedAt": "2026-11-10T21:27:11.000Z"
+      },
+      {
+        "time": "10:15",
+        "title": "アパートで火事 1歳含む12人搬送",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6602130?source=rss",
+        "publishedAt": "2026-11-11T01:15:21.000Z"
       },
       {
         "time": "07:40",
