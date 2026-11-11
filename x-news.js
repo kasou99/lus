@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-11T10:11:28.876Z",
+  "updatedAt": "2026-11-11T10:36:07.289Z",
   "items": [
     {
       "time": "16:40",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "立花孝志被告の勾留続く 識者は"
     },
     {
-      "time": "16:37",
-      "title": "雄牛と雄ロバ 種を越えた交尾行動",
+      "time": "19:04",
+      "title": "イベ閑散 トラブルへの自衛策は",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602181?source=rss",
-      "publishedAt": "2026-11-11T07:37:06.000Z",
-      "xQuery": "雄牛と雄ロバ 種を越えた交尾行動"
+      "url": "https://news.yahoo.co.jp/pickup/6602209?source=rss",
+      "publishedAt": "2026-11-11T10:04:32.000Z",
+      "xQuery": "イベ閑散 トラブルへの自衛策は"
     }
   ]
 };
