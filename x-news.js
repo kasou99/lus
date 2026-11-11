@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-11T14:11:29.365Z",
+  "updatedAt": "2026-11-11T14:36:17.272Z",
   "items": [
     {
       "time": "21:05",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "月収5万円 受診遅れ死亡した男性"
     },
     {
-      "time": "21:51",
-      "title": "メーガン妃の父親 保釈中に再拘束",
+      "time": "22:54",
+      "title": "開発事業者がミラー設置断る 困惑",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602226?source=rss",
-      "publishedAt": "2026-11-11T12:51:09.000Z",
-      "xQuery": "メーガン妃の父親 保釈中に再拘束"
+      "url": "https://news.yahoo.co.jp/pickup/6602232?source=rss",
+      "publishedAt": "2026-11-11T13:54:56.000Z",
+      "xQuery": "開発事業者がミラー設置断る 困惑"
     }
   ]
 };
