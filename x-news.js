@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-11T13:36:09.696Z",
+  "updatedAt": "2026-11-11T14:11:29.365Z",
   "items": [
     {
       "time": "21:05",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "消費減税法案 支援金巡り野党追及"
     },
     {
-      "time": "22:11",
-      "title": "ドコモ 障害から完全復旧と発表",
+      "time": "22:26",
+      "title": "Amazon「表示枠」公取なぜ問題視",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602230?source=rss",
-      "publishedAt": "2026-11-11T13:11:26.000Z",
-      "xQuery": "ドコモ 障害から完全復旧と発表"
+      "url": "https://news.yahoo.co.jp/pickup/6602231?source=rss",
+      "publishedAt": "2026-11-11T13:26:37.000Z",
+      "xQuery": "Amazon「表示枠」公取なぜ問題視"
     },
     {
       "time": "21:18",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "月収5万円 受診遅れ死亡した男性"
     },
     {
-      "time": "18:46",
-      "title": "クロマグロ 漁獲枠巡り日韓が対立",
+      "time": "21:51",
+      "title": "メーガン妃の父親 保釈中に再拘束",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602201?source=rss",
-      "publishedAt": "2026-11-11T09:46:04.000Z",
-      "xQuery": "クロマグロ 漁獲枠巡り日韓が対立"
+      "url": "https://news.yahoo.co.jp/pickup/6602226?source=rss",
+      "publishedAt": "2026-11-11T12:51:09.000Z",
+      "xQuery": "メーガン妃の父親 保釈中に再拘束"
     }
   ]
 };
