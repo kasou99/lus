@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T23:09:37.003Z",
+  "updatedAt": "2026-11-11T23:35:16.598Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -45,18 +45,18 @@
         "publishedAt": "2026-11-11T06:25:00.000Z"
       },
       {
+        "time": "05:45",
+        "title": "日本製鉄発のベンチャーKAMAMESHIらが解説。「壊れてから」では遅い設備保全と輸送トラブルを、データで未然に防ぐ3講演、「すぐマネできる！事例紹介セミナー」第4弾＜12/9・10・参加無料",
+        "source": "Excite エキサイト",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9CLWJaT1N0UlE4SFZSMk9CUGhQZmZ6TzQ5WWtteURwYVZCQ2xrbjhxNUZvdGdIalFxdGc2bW1nZ24tSlJIc0l0ZmVNOUwyRzcwdlFuNEZQaERBX09ZRTlmcXF1NzBOeW0zTDFrZGdfdU53UU0?oc=5",
+        "publishedAt": "2026-11-11T20:45:00.000Z"
+      },
+      {
         "time": "22:51",
         "title": "エクサ、生化学工業の「設備起因による生産機会損失“0”」に向け、設備保全管理の高度化を構想策定から推進",
         "source": "ニコニコニュース",
         "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1jZlk5YnNWMzJPVDFpQjltc254T3RCRkN3SF9INTZrSGdtV2ZEX29ZZlNURnRZVjlMUEFITjNHaXltUU9DdXNWNF90a1VHSHJnRUpxc3lwa1BrTG1mTVcxdzJfU1Bfa09sNy1vdHA3R09pYUp1WlE?oc=5",
         "publishedAt": "2026-11-11T13:51:14.000Z"
-      },
-      {
-        "time": "17:03",
-        "title": "10月の工作機械受注速報、前年同月比42．5％増の2043億7700万円(時事通信)",
-        "source": "Yahoo!ファイナンス",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPekczSHJMSXliOWY2VVViWjNVaWhEZE9QbHdWZFZKTTZGcnNGekkzWGFQRWp5ME15LW8ydFdFNjNQdUp1N0NIcUJfVERLVzVaUzViTnpfakFvcVBvOHFPeHZGaGlQYjkzaFREbzFtc2E2Mkd3cHRsc2pZV08xSGI4ZldpejJQMlk?oc=5",
-        "publishedAt": "2026-11-11T08:03:38.000Z"
       }
     ],
     "worldHeadlines": [
@@ -105,6 +105,13 @@
     ],
     "economyHeadlines": [
       {
+        "time": "08:20",
+        "title": "エヌビディアがCEO解任準備 報道",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6602248?source=rss",
+        "publishedAt": "2026-11-11T23:20:47.000Z"
+      },
+      {
         "time": "06:28",
         "title": "Amazon出品者「安値強要された」",
         "source": "Yahoo!ニュース",
@@ -133,13 +140,6 @@
         "publishedAt": "2026-11-11T22:30:24.000Z"
       },
       {
-        "time": "18:55",
-        "title": "子の不登校で離職 防ぐ企業の制度",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602206?source=rss",
-        "publishedAt": "2026-11-11T09:55:26.000Z"
-      },
-      {
         "time": "08:41",
         "title": "「稼ぐ」マンション管理組合増加",
         "source": "Yahoo!ニュース",
@@ -148,6 +148,13 @@
       }
     ],
     "localHeadlines": [
+      {
+        "time": "08:17",
+        "title": "福山市で住宅が全焼 3人不明",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6602249?source=rss",
+        "publishedAt": "2026-11-11T23:17:19.000Z"
+      },
       {
         "time": "06:19",
         "title": "腕時計窃盗疑い 気に入ってしまい",
@@ -161,13 +168,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6602207?source=rss",
         "publishedAt": "2026-11-11T09:56:24.000Z"
-      },
-      {
-        "time": "15:42",
-        "title": "横浜の4歳児死亡 男性の無罪確定",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602176?source=rss",
-        "publishedAt": "2026-11-11T06:42:43.000Z"
       },
       {
         "time": "17:17",

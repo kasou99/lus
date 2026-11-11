@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-11T23:09:37.580Z",
+  "updatedAt": "2026-11-11T23:35:17.951Z",
   "items": [
     {
-      "time": "21:05",
-      "title": "消費減税法案 支援金巡り野党追及",
+      "time": "07:55",
+      "title": "核「持ち込ませず」例外検討 政府",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602215?source=rss",
-      "publishedAt": "2026-11-11T12:05:32.000Z",
-      "xQuery": "消費減税法案 支援金巡り野党追及"
+      "url": "https://news.yahoo.co.jp/pickup/6602246?source=rss",
+      "publishedAt": "2026-11-11T22:55:34.000Z",
+      "xQuery": "核「持ち込ませず」例外検討 政府"
     },
     {
       "time": "06:28",
@@ -16,6 +16,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6602237?source=rss",
       "publishedAt": "2026-11-11T21:28:30.000Z",
       "xQuery": "Amazon出品者「安値強要された」"
+    },
+    {
+      "time": "08:20",
+      "title": "エヌビディアがCEO解任準備 報道",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6602248?source=rss",
+      "publishedAt": "2026-11-11T23:20:47.000Z",
+      "xQuery": "エヌビディアがCEO解任準備 報道"
     },
     {
       "time": "07:26",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6602222?source=rss",
       "publishedAt": "2026-11-11T12:30:08.000Z",
       "xQuery": "月収5万円 受診遅れ死亡した男性"
-    },
-    {
-      "time": "06:42",
-      "title": "マック 休止中の新チキン開発経緯",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602238?source=rss",
-      "publishedAt": "2026-11-11T21:42:27.000Z",
-      "xQuery": "マック 休止中の新チキン開発経緯"
     }
   ]
 };
