@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-11T07:12:08.724Z",
+  "updatedAt": "2026-11-11T07:36:15.417Z",
   "items": [
     {
       "time": "15:20",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "内閣府メルマガ登録アド6万件流出"
     },
     {
-      "time": "14:59",
-      "title": "NTTドコモ障害 不正アクセス否定",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602173?source=rss",
-      "publishedAt": "2026-11-11T05:59:22.000Z",
-      "xQuery": "NTTドコモ障害 不正アクセス否定"
-    },
-    {
       "time": "15:42",
       "title": "横浜の4歳児死亡 男性の無罪確定",
       "source": "Yahoo!ニュース",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6602169?source=rss",
       "publishedAt": "2026-11-11T04:58:06.000Z",
       "xQuery": "兄弟転落死 部屋に血の付いた刃物"
+    },
+    {
+      "time": "15:46",
+      "title": "圏央道で5台絡む事故 1人心肺停止",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6602177?source=rss",
+      "publishedAt": "2026-11-11T06:46:09.000Z",
+      "xQuery": "圏央道で5台絡む事故 1人心肺停止"
     }
   ]
 };
