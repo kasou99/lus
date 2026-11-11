@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T02:36:27.104Z",
+  "updatedAt": "2026-11-11T03:13:27.081Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -45,18 +45,18 @@
         "publishedAt": "2026-11-10T07:45:03.000Z"
       },
       {
-        "time": "12:14",
-        "title": "「ロボットが工場で働く時代」へ！ 三菱電機、AIが人型ロボットと工作機械を連携させる新技術を開発",
-        "source": "DXマガジン",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9lYnBrX2prblljTWlnT1BFcE9NeUx4YWFweWU5eDh2NklMcXMtQWs0QjJkbmYyRFdnYWFTWGZJYWpXQkNfNUFUbkdRM1g4MTRH?oc=5",
-        "publishedAt": "2026-11-10T03:14:47.000Z"
-      },
-      {
         "time": "20:05",
         "title": "工作機械本体の輸出が10カ月連続で伸び悩み、基幹部品は逆勢14.5%成長",
         "source": "BigGo ファイナンス",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8wd1dNaXlfeE5Wd05TeEc2U2RoMTRZUHFCVUVTbTRSMVNzbnM2bFdiaHFkZEdEVW9pUUxkc2k2cWVqbFNGVGoxRWd2R0JyM2ZqVkJINTFPZUk1aElKZXBKLXh2STNPRFJISkRQZ3l2YVNiZjhX?oc=5",
         "publishedAt": "2026-11-10T11:05:00.000Z"
+      },
+      {
+        "time": "12:14",
+        "title": "「ロボットが工場で働く時代」へ！ 三菱電機、AIが人型ロボットと工作機械を連携させる新技術を開発",
+        "source": "DXマガジン",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9lYnBrX2prblljTWlnT1BFcE9NeUx4YWFweWU5eDh2NklMcXMtQWs0QjJkbmYyRFdnYWFTWGZJYWpXQkNfNUFUbkdRM1g4MTRH?oc=5",
+        "publishedAt": "2026-11-10T03:14:47.000Z"
       }
     ],
     "worldHeadlines": [
@@ -149,6 +149,20 @@
     ],
     "localHeadlines": [
       {
+        "time": "12:00",
+        "title": "高級時計が盗まれた事件 男を逮捕",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6602150?source=rss",
+        "publishedAt": "2026-11-11T03:00:05.000Z"
+      },
+      {
+        "time": "11:49",
+        "title": "ルフィ事件 幹部が起訴内容を否認",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6602143?source=rss",
+        "publishedAt": "2026-11-11T02:49:09.000Z"
+      },
+      {
         "time": "18:11",
         "title": "再婚相手の娘を殺害疑い 男を逮捕",
         "source": "Yahoo!ニュース",
@@ -161,20 +175,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6602142?source=rss",
         "publishedAt": "2026-11-11T02:22:35.000Z"
-      },
-      {
-        "time": "06:27",
-        "title": "女性搬送の救急車事故 病院で死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602106?source=rss",
-        "publishedAt": "2026-11-10T21:27:11.000Z"
-      },
-      {
-        "time": "10:15",
-        "title": "アパートで火事 1歳含む12人搬送",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602130?source=rss",
-        "publishedAt": "2026-11-11T01:15:21.000Z"
       },
       {
         "time": "07:40",

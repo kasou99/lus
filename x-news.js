@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-11T02:36:27.798Z",
+  "updatedAt": "2026-11-11T03:13:27.870Z",
   "items": [
     {
       "time": "10:56",
@@ -10,12 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "3文書改定 自民は「ブレーキ役」"
     },
     {
-      "time": "09:05",
-      "title": "北海道で史上最も早い-20℃以下",
+      "time": "11:49",
+      "title": "ルフィ事件 幹部が起訴内容を否認",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602121?source=rss",
-      "publishedAt": "2026-11-11T00:05:34.000Z",
-      "xQuery": "北海道で史上最も早い-20℃以下"
+      "url": "https://news.yahoo.co.jp/pickup/6602143?source=rss",
+      "publishedAt": "2026-11-11T02:49:09.000Z",
+      "xQuery": "ルフィ事件 幹部が起訴内容を否認"
+    },
+    {
+      "time": "11:45",
+      "title": "ドコモ携帯 全国で障害が発生",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6602147?source=rss",
+      "publishedAt": "2026-11-11T02:45:39.000Z",
+      "xQuery": "ドコモ携帯 全国で障害が発生"
     },
     {
       "time": "11:22",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "ダンプカー衝突 自転車の15歳死亡"
     },
     {
-      "time": "09:42",
-      "title": "前澤友作氏なぜ敗訴 詐欺広告裁判",
+      "time": "12:00",
+      "title": "高級時計が盗まれた事件 男を逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602126?source=rss",
-      "publishedAt": "2026-11-11T00:42:48.000Z",
-      "xQuery": "前澤友作氏なぜ敗訴 詐欺広告裁判"
-    },
-    {
-      "time": "10:47",
-      "title": "家庭向けの防犯ドローン発売へ 米",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602134?source=rss",
-      "publishedAt": "2026-11-11T01:47:34.000Z",
-      "xQuery": "家庭向けの防犯ドローン発売へ 米"
+      "url": "https://news.yahoo.co.jp/pickup/6602150?source=rss",
+      "publishedAt": "2026-11-11T03:00:05.000Z",
+      "xQuery": "高級時計が盗まれた事件 男を逮捕"
     }
   ]
 };
