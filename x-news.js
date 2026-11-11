@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-11T00:29:43.001Z",
+  "updatedAt": "2026-11-11T00:47:24.601Z",
   "items": [
     {
-      "time": "08:01",
-      "title": "日本のエンタメを排除 きしむ日中",
+      "time": "09:34",
+      "title": "国際情勢は歴史的変革期 政府方針",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602115?source=rss",
-      "publishedAt": "2026-11-10T23:01:30.000Z",
-      "xQuery": "日本のエンタメを排除 きしむ日中"
+      "url": "https://news.yahoo.co.jp/pickup/6602125?source=rss",
+      "publishedAt": "2026-11-11T00:34:36.000Z",
+      "xQuery": "国際情勢は歴史的変革期 政府方針"
     },
     {
       "time": "08:24",
