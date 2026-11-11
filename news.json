@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-11-11T22:10:21.028Z",
+  "updatedAt": "2026-11-11T22:35:15.802Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "07:33",
+        "title": "工作機械の技術を人型ロボットへ 中国・三凱機電、関節用減速機を増産",
+        "source": "36Kr Japan",
+        "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTFBmdTlzUU5kUGpab205d1o0MTAyY2N2UmhGQ1JsaHRQZ1d5VkZLd2JXNXMxcFlGOXBpWFlr?oc=5",
+        "publishedAt": "2026-11-11T22:33:25.000Z"
+      },
       {
         "time": "05:00",
         "title": "工作機械4社、10月受注40％増 米中好調持続",
@@ -43,13 +50,6 @@
         "source": "ニコニコニュース",
         "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1jZlk5YnNWMzJPVDFpQjltc254T3RCRkN3SF9INTZrSGdtV2ZEX29ZZlNURnRZVjlMUEFITjNHaXltUU9DdXNWNF90a1VHSHJnRUpxc3lwa1BrTG1mTVcxdzJfU1Bfa09sNy1vdHA3R09pYUp1WlE?oc=5",
         "publishedAt": "2026-11-11T13:51:14.000Z"
-      },
-      {
-        "time": "07:25",
-        "title": "11日の主な予定、日銀マネーストックに工作機械受注、独CPI発表",
-        "source": "BigGo ファイナンス",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9OX0J0Z3NvdmpGVHZ6MnZyXzFsRHNzUTJyWVlHcWxqMFNzczQ1QzlzYXptbFBlaVhLQS05VGVkb3llSmlYc3hIYWxXMHNxT1ByZ0wtd1ZNaHhkczRsUDk5MU4yamJlNGVsbWR6VWx0T2Q5MTBk?oc=5",
-        "publishedAt": "2026-11-10T22:25:00.000Z"
       },
       {
         "time": "17:03",
@@ -126,6 +126,13 @@
         "publishedAt": "2026-11-11T00:46:12.000Z"
       },
       {
+        "time": "07:30",
+        "title": "懸命に働くは美徳51% 読売調査",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6602243?source=rss",
+        "publishedAt": "2026-11-11T22:30:24.000Z"
+      },
+      {
         "time": "18:55",
         "title": "子の不登校で離職 防ぐ企業の制度",
         "source": "Yahoo!ニュース",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6602118?source=rss",
         "publishedAt": "2026-11-10T23:41:27.000Z"
-      },
-      {
-        "time": "06:42",
-        "title": "マック 休止中の新チキン開発経緯",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602238?source=rss",
-        "publishedAt": "2026-11-11T21:42:27.000Z"
       }
     ],
     "localHeadlines": [
