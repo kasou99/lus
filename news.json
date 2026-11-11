@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-11-11T05:36:14.029Z",
+  "updatedAt": "2026-11-11T06:19:42.719Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "15:06",
+        "title": "工作機械活況、裏では部品争奪戦 AI特需の半導体向けは顧客もライバル",
+        "source": "日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1xS3RHRHpFQ1J3RDhZUEUtNFZPd05lUkJPekdELWJaYmFITWIwYkh6UkVCTC1kOU1MMzF2MlRuNXJULV9WczFSMS1KT3VQNnNYTjltUDQ0UlN0Znh1YVZySzBuOHdkSHRWb0w5Vw?oc=5",
+        "publishedAt": "2026-11-11T06:06:25.000Z"
+      },
       {
         "time": "07:45",
         "title": "きょうの主な経済指標・スケジュール＞１０月マネーストック、工作機械受注など(ウエルスアドバイザー)",
@@ -17,11 +24,11 @@
         "publishedAt": "2026-11-10T21:30:00.000Z"
       },
       {
-        "time": "13:30",
+        "time": "14:00",
         "title": "CNC工作機械市場の最新予測：2026年に73550百万米ドル規模、成長率5.4%の見通し",
-        "source": "Excite エキサイト",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBMWHFqWVpwVWJzQVhhTmQ0N1EzeWJ2TnBaalpIMFhjeFZVbUx0TUNGamVEYVNOaHZKdHdvVDVkUF92ZHhRNmRCYmNSbzZxTXNXN05naXBabVdQZEVMbzhPZWlaTXVSd2ZwYnc?oc=5",
-        "publishedAt": "2026-11-11T04:30:00.000Z"
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9EOVF0THNpeXNXY2tpWHJYdTNyRFI1ekF3bUVLQUpBN1N5ZVB5VDVhckJpSXFub090QmV2and6Q3JtcTlOdXZobmFPZ3RRWUUwUmtKLUd4M1FmN3plVnlJMWQtZy1pbzc3dGRCbDM0dFBuWnlLZzJsVVJUbw?oc=5",
+        "publishedAt": "2026-11-11T05:00:23.000Z"
       },
       {
         "time": "07:29",
@@ -38,13 +45,6 @@
         "publishedAt": "2026-11-10T21:59:18.000Z"
       },
       {
-        "time": "16:45",
-        "title": "ブラザー工業、「びびり振動診断技術」を実用化…工作機械の加工品質と生産性を向上",
-        "source": "レスポンス（Response.jp）",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE15S2hMNm1oVnRna0Rza29oQW9iSU5qVzExd2V1Rktpa0NjdUR4MFlNdnpUbWlrcXNuQl9iaDRpVE9ZV2pFeE5XMWZRYnNUWm1TOXk2UWpYWkh5ZWhNVWVB?oc=5",
-        "publishedAt": "2026-11-10T07:45:03.000Z"
-      },
-      {
         "time": "07:06",
         "title": "今日のスケジュール－10月マネーストックや10月工作機械受注など(トレーダーズ・ウェブ)",
         "source": "Yahoo!ファイナンス",
@@ -52,11 +52,11 @@
         "publishedAt": "2026-11-10T22:06:02.000Z"
       },
       {
-        "time": "20:05",
-        "title": "工作機械本体の輸出が10カ月連続で伸び悩み、基幹部品は逆勢14.5%成長",
-        "source": "BigGo ファイナンス",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8wd1dNaXlfeE5Wd05TeEc2U2RoMTRZUHFCVUVTbTRSMVNzbnM2bFdiaHFkZEdEVW9pUUxkc2k2cWVqbFNGVGoxRWd2R0JyM2ZqVkJINTFPZUk1aElKZXBKLXh2STNPRFJISkRQZ3l2YVNiZjhX?oc=5",
-        "publishedAt": "2026-11-10T11:05:00.000Z"
+        "time": "16:45",
+        "title": "ブラザー工業、「びびり振動診断技術」を実用化…工作機械の加工品質と生産性を向上",
+        "source": "レスポンス（Response.jp）",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE15S2hMNm1oVnRna0Rza29oQW9iSU5qVzExd2V1Rktpa0NjdUR4MFlNdnpUbWlrcXNuQl9iaDRpVE9ZV2pFeE5XMWZRYnNUWm1TOXk2UWpYWkh5ZWhNVWVB?oc=5",
+        "publishedAt": "2026-11-10T07:45:03.000Z"
       }
     ],
     "worldHeadlines": [

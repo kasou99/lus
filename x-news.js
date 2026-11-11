@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-11T05:36:14.791Z",
+  "updatedAt": "2026-11-11T06:19:43.403Z",
   "items": [
     {
-      "time": "12:38",
-      "title": "日中会談の調整不調 日本は正念場",
+      "time": "14:33",
+      "title": "内閣府メルマガ登録アド6万件流出",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602161?source=rss",
-      "publishedAt": "2026-11-11T03:38:54.000Z",
-      "xQuery": "日中会談の調整不調 日本は正念場"
+      "url": "https://news.yahoo.co.jp/pickup/6602172?source=rss",
+      "publishedAt": "2026-11-11T05:33:30.000Z",
+      "xQuery": "内閣府メルマガ登録アド6万件流出"
     },
     {
       "time": "13:52",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "介護 スポットワーカー依存高まる"
     },
     {
-      "time": "11:45",
-      "title": "ドコモ携帯 全国で障害が発生",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602147?source=rss",
-      "publishedAt": "2026-11-11T02:45:39.000Z",
-      "xQuery": "ドコモ携帯 全国で障害が発生"
-    },
-    {
       "time": "14:10",
       "title": "共和党重鎮 NVIDIAのCEO辞任要求",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6602167?source=rss",
       "publishedAt": "2026-11-11T05:10:49.000Z",
       "xQuery": "共和党重鎮 NVIDIAのCEO辞任要求"
+    },
+    {
+      "time": "14:59",
+      "title": "NTTドコモ障害 不正アクセス否定",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6602173?source=rss",
+      "publishedAt": "2026-11-11T05:59:22.000Z",
+      "xQuery": "NTTドコモ障害 不正アクセス否定"
     },
     {
       "time": "13:58",
