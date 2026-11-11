@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-11T21:04:24.681Z",
+  "updatedAt": "2026-11-11T21:35:37.288Z",
   "items": [
     {
       "time": "21:05",
@@ -10,12 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "消費減税法案 支援金巡り野党追及"
     },
     {
-      "time": "22:26",
-      "title": "Amazon「表示枠」公取なぜ問題視",
+      "time": "06:19",
+      "title": "腕時計窃盗疑い 気に入ってしまい",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602231?source=rss",
-      "publishedAt": "2026-11-11T13:26:37.000Z",
-      "xQuery": "Amazon「表示枠」公取なぜ問題視"
+      "url": "https://news.yahoo.co.jp/pickup/6602236?source=rss",
+      "publishedAt": "2026-11-11T21:19:46.000Z",
+      "xQuery": "腕時計窃盗疑い 気に入ってしまい"
+    },
+    {
+      "time": "06:28",
+      "title": "Amazon出品者「安値強要された」",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6602237?source=rss",
+      "publishedAt": "2026-11-11T21:28:30.000Z",
+      "xQuery": "Amazon出品者「安値強要された」"
     },
     {
       "time": "21:30",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6602234?source=rss",
       "publishedAt": "2026-11-11T14:55:23.000Z",
       "xQuery": "約6300の学校に爆破予告メール 伊"
-    },
-    {
-      "time": "22:54",
-      "title": "開発事業者がミラー設置断る 困惑",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602232?source=rss",
-      "publishedAt": "2026-11-11T13:54:56.000Z",
-      "xQuery": "開発事業者がミラー設置断る 困惑"
     }
   ]
 };

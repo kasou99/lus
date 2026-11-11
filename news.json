@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T21:04:23.927Z",
+  "updatedAt": "2026-11-11T21:35:36.336Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,11 +38,11 @@
         "publishedAt": "2026-11-11T06:25:00.000Z"
       },
       {
-        "time": "06:30",
-        "title": "今日の注目スケジュール：マネーストック、工作機械受注、独CPIなど",
-        "source": "株探",
-        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Fb01jam9CX2Q0b09tZnB5eWtaN1dyclYwTG5wRDY0SVhGY3U2czZ6MVZKRjJGQnA0Y3BzLVJVb0NuLWF3R3dydlVvZDFidVJ1TGlnTzQyR1M2bWZyWjFyTw?oc=5",
-        "publishedAt": "2026-11-10T21:30:00.000Z"
+        "time": "05:45",
+        "title": "日本製鉄発のベンチャーKAMAMESHIらが解説。「壊れてから」では遅い設備保全と輸送トラブルを、データで未然に防ぐ3講演、「すぐマネできる！事例紹介セミナー」第4弾＜12/9・10・参加無料",
+        "source": "Excite エキサイト",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9CLWJaT1N0UlE4SFZSMk9CUGhQZmZ6TzQ5WWtteURwYVZCQ2xrbjhxNUZvdGdIalFxdGc2bW1nZ24tSlJIc0l0ZmVNOUwyRzcwdlFuNEZQaERBX09ZRTlmcXF1NzBOeW0zTDFrZGdfdU53UU0?oc=5",
+        "publishedAt": "2026-11-11T20:45:00.000Z"
       },
       {
         "time": "22:51",
@@ -105,18 +105,11 @@
     ],
     "economyHeadlines": [
       {
-        "time": "08:24",
-        "title": "障害者雇用ビジネス 登録制を検討",
+        "time": "06:28",
+        "title": "Amazon出品者「安値強要された」",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602117?source=rss",
-        "publishedAt": "2026-11-10T23:24:17.000Z"
-      },
-      {
-        "time": "16:40",
-        "title": "Amazonの改善計画 公取委が認定",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602184?source=rss",
-        "publishedAt": "2026-11-11T07:40:49.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6602237?source=rss",
+        "publishedAt": "2026-11-11T21:28:30.000Z"
       },
       {
         "time": "22:26",
@@ -124,6 +117,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6602231?source=rss",
         "publishedAt": "2026-11-11T13:26:37.000Z"
+      },
+      {
+        "time": "08:24",
+        "title": "障害者雇用ビジネス 登録制を検討",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6602117?source=rss",
+        "publishedAt": "2026-11-10T23:24:17.000Z"
       },
       {
         "time": "09:46",
@@ -148,6 +148,13 @@
       }
     ],
     "localHeadlines": [
+      {
+        "time": "06:19",
+        "title": "腕時計窃盗疑い 気に入ってしまい",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6602236?source=rss",
+        "publishedAt": "2026-11-11T21:19:46.000Z"
+      },
       {
         "time": "18:56",
         "title": "放火し保険金など1億円詐取 実刑",
@@ -175,13 +182,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6602221?source=rss",
         "publishedAt": "2026-11-11T12:33:51.000Z"
-      },
-      {
-        "time": "13:58",
-        "title": "兄弟転落死 部屋に血の付いた刃物",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602169?source=rss",
-        "publishedAt": "2026-11-11T04:58:06.000Z"
       },
       {
         "time": "21:30",
