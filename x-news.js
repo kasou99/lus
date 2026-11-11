@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-11T00:47:24.601Z",
+  "updatedAt": "2026-11-11T01:11:23.671Z",
   "items": [
     {
       "time": "09:34",
@@ -18,12 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "障害者雇用ビジネス 登録制を検討"
     },
     {
-      "time": "07:40",
-      "title": "生徒乗る遊覧船定員1.7倍で航行か",
+      "time": "09:42",
+      "title": "前澤友作氏なぜ敗訴 詐欺広告裁判",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602112?source=rss",
-      "publishedAt": "2026-11-10T22:40:19.000Z",
-      "xQuery": "生徒乗る遊覧船定員1.7倍で航行か"
+      "url": "https://news.yahoo.co.jp/pickup/6602126?source=rss",
+      "publishedAt": "2026-11-11T00:42:48.000Z",
+      "xQuery": "前澤友作氏なぜ敗訴 詐欺広告裁判"
+    },
+    {
+      "time": "09:46",
+      "title": "トヨタ 軽トラックを米国で販売へ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6602124?source=rss",
+      "publishedAt": "2026-11-11T00:46:12.000Z",
+      "xQuery": "トヨタ 軽トラックを米国で販売へ"
     },
     {
       "time": "08:03",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6602113?source=rss",
       "publishedAt": "2026-11-10T23:03:13.000Z",
       "xQuery": "イベ閑散 主催は集客「約束せず」"
-    },
-    {
-      "time": "08:41",
-      "title": "「稼ぐ」マンション管理組合増加",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602118?source=rss",
-      "publishedAt": "2026-11-10T23:41:27.000Z",
-      "xQuery": "「稼ぐ」マンション管理組合増加"
     }
   ]
 };
