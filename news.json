@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T04:13:36.290Z",
+  "updatedAt": "2026-11-11T04:35:50.854Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,11 +17,11 @@
         "publishedAt": "2026-11-10T21:30:00.000Z"
       },
       {
-        "time": "07:25",
+        "time": "07:29",
         "title": "11日の主な予定、日銀マネーストックに工作機械受注、独CPI発表",
         "source": "BigGo ファイナンス",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9OX0J0Z3NvdmpGVHZ6MnZyXzFsRHNzUTJyWVlHcWxqMFNzczQ1QzlzYXptbFBlaVhLQS05VGVkb3llSmlYc3hIYWxXMHNxT1ByZ0wtd1ZNaHhkczRsUDk5MU4yamJlNGVsbWR6VWx0T2Q5MTBk?oc=5",
-        "publishedAt": "2026-11-10T22:25:00.000Z"
+        "publishedAt": "2026-11-10T22:29:07.000Z"
       },
       {
         "time": "06:59",
@@ -29,6 +29,13 @@
         "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
         "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5pRnFqNmtHb2c5YWxxSVRCRV9LR19JVUpZVlhTRFJsMXctME9XT2VGeTgxaVZ2T2FzczFCNDlLNU9OUnlyNW44c0VBakVtdFc0QWh5YzBUSk0tcHhoVWFlekJ3MEljMk0?oc=5",
         "publishedAt": "2026-11-10T21:59:18.000Z"
+      },
+      {
+        "time": "13:30",
+        "title": "CNC工作機械市場の最新予測：2026年に73550百万米ドル規模、成長率5.4%の見通し",
+        "source": "ドリームニュース",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5tWVRrenhhNDVoSW5RcTZMYUsyd3Fub0RVdDZJOWJBUEV4WHcweDYxMklubUFleEpxNHZHRVdrQml2dV9TUkY0M2Q4S3lNdEctVlhj?oc=5",
+        "publishedAt": "2026-11-11T04:30:00.000Z"
       },
       {
         "time": "16:45",
@@ -50,13 +57,6 @@
         "source": "BigGo ファイナンス",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8wd1dNaXlfeE5Wd05TeEc2U2RoMTRZUHFCVUVTbTRSMVNzbnM2bFdiaHFkZEdEVW9pUUxkc2k2cWVqbFNGVGoxRWd2R0JyM2ZqVkJINTFPZUk1aElKZXBKLXh2STNPRFJISkRQZ3l2YVNiZjhX?oc=5",
         "publishedAt": "2026-11-10T11:05:00.000Z"
-      },
-      {
-        "time": "10:59",
-        "title": "2026年11月11日 深層断面 ニュース",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0zOWhxa19PQlR0czl3TnVjQlZMdVh1Q3pCWEExUkxNeGc1M3JjVXFGTzV5cHdwWW9SbXNhLW5XSUstRDhOekZ4NjA5STRJdTBlT0xUVw?oc=5",
-        "publishedAt": "2026-11-11T01:59:32.000Z"
       }
     ],
     "worldHeadlines": [
@@ -140,11 +140,11 @@
         "publishedAt": "2026-11-10T23:41:27.000Z"
       },
       {
-        "time": "09:55",
-        "title": "栄養も「優等生」モヤシに存在感",
+        "time": "13:22",
+        "title": "シルク産業 着る以外の用途に活路",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602129?source=rss",
-        "publishedAt": "2026-11-11T00:55:26.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6602160?source=rss",
+        "publishedAt": "2026-11-11T04:22:42.000Z"
       }
     ],
     "localHeadlines": [
