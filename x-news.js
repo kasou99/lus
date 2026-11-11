@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-11T04:35:52.027Z",
+  "updatedAt": "2026-11-11T05:11:28.744Z",
   "items": [
     {
-      "time": "11:49",
-      "title": "ルフィ事件 幹部が起訴内容を否認",
+      "time": "12:38",
+      "title": "日中会談の調整不調 日本は正念場",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602143?source=rss",
-      "publishedAt": "2026-11-11T02:49:09.000Z",
-      "xQuery": "ルフィ事件 幹部が起訴内容を否認"
+      "url": "https://news.yahoo.co.jp/pickup/6602161?source=rss",
+      "publishedAt": "2026-11-11T03:38:54.000Z",
+      "xQuery": "日中会談の調整不調 日本は正念場"
     },
     {
       "time": "12:00",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "ドコモ携帯 全国で障害が発生"
     },
     {
-      "time": "11:22",
-      "title": "ダンプカー衝突 自転車の15歳死亡",
+      "time": "13:58",
+      "title": "兄弟転落死 部屋に血の付いた刃物",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602142?source=rss",
-      "publishedAt": "2026-11-11T02:22:35.000Z",
-      "xQuery": "ダンプカー衝突 自転車の15歳死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6602169?source=rss",
+      "publishedAt": "2026-11-11T04:58:06.000Z",
+      "xQuery": "兄弟転落死 部屋に血の付いた刃物"
     },
     {
       "time": "11:50",
