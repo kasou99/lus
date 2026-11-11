@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-11T09:12:22.261Z",
+  "updatedAt": "2026-11-11T09:35:38.169Z",
   "items": [
     {
       "time": "16:40",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "米財務長官 脅迫受け軍基地に転居"
     },
     {
-      "time": "15:42",
-      "title": "横浜の4歳児死亡 男性の無罪確定",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602176?source=rss",
-      "publishedAt": "2026-11-11T06:42:43.000Z",
-      "xQuery": "横浜の4歳児死亡 男性の無罪確定"
-    },
-    {
       "time": "17:33",
       "title": "パスキー設定の証券口座 侵入疑い",
       "source": "Yahoo!ニュース",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6602187?source=rss",
       "publishedAt": "2026-11-11T08:27:59.000Z",
       "xQuery": "立花孝志被告の勾留続く 識者は"
+    },
+    {
+      "time": "16:37",
+      "title": "雄牛と雄ロバ 種を越えた交尾行動",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6602181?source=rss",
+      "publishedAt": "2026-11-11T07:37:06.000Z",
+      "xQuery": "雄牛と雄ロバ 種を越えた交尾行動"
     }
   ]
 };
