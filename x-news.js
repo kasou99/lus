@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-11T22:35:16.530Z",
+  "updatedAt": "2026-11-11T23:09:37.580Z",
   "items": [
     {
       "time": "21:05",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "消費減税法案 支援金巡り野党追及"
     },
     {
-      "time": "06:19",
-      "title": "腕時計窃盗疑い 気に入ってしまい",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602236?source=rss",
-      "publishedAt": "2026-11-11T21:19:46.000Z",
-      "xQuery": "腕時計窃盗疑い 気に入ってしまい"
-    },
-    {
       "time": "06:28",
       "title": "Amazon出品者「安値強要された」",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6602237?source=rss",
       "publishedAt": "2026-11-11T21:28:30.000Z",
       "xQuery": "Amazon出品者「安値強要された」"
+    },
+    {
+      "time": "07:26",
+      "title": "厚労省 残業タクシー「半減」",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6602242?source=rss",
+      "publishedAt": "2026-11-11T22:26:36.000Z",
+      "xQuery": "厚労省 残業タクシー「半減」"
     },
     {
       "time": "21:30",
