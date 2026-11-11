@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-11T06:19:43.403Z",
+  "updatedAt": "2026-11-11T06:40:09.768Z",
   "items": [
+    {
+      "time": "15:20",
+      "title": "昨年7月参院選「違憲状態」最高裁",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6602175?source=rss",
+      "publishedAt": "2026-11-11T06:20:13.000Z",
+      "xQuery": "昨年7月参院選「違憲状態」最高裁"
+    },
     {
       "time": "14:33",
       "title": "内閣府メルマガ登録アド6万件流出",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6602173?source=rss",
       "publishedAt": "2026-11-11T05:59:22.000Z",
       "xQuery": "NTTドコモ障害 不正アクセス否定"
-    },
-    {
-      "time": "13:58",
-      "title": "兄弟転落死 部屋に血の付いた刃物",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602169?source=rss",
-      "publishedAt": "2026-11-11T04:58:06.000Z",
-      "xQuery": "兄弟転落死 部屋に血の付いた刃物"
     }
   ]
 };

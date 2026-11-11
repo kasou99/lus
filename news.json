@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T06:19:42.719Z",
+  "updatedAt": "2026-11-11T06:40:09.009Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -10,11 +10,25 @@
         "publishedAt": "2026-11-11T06:06:25.000Z"
       },
       {
-        "time": "07:45",
-        "title": "きょうの主な経済指標・スケジュール＞１０月マネーストック、工作機械受注など(ウエルスアドバイザー)",
+        "time": "15:26",
+        "title": "10月工作機械受注は前年比42.5％増、前月比8.4％減＝工作機械工業会",
+        "source": "Reuters",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPWUN2N3pTVk1PUkpTanVfY3duU1kwUFBJWFFkWWppd2V6NHZqYThXYmV6ODBJYkx1aFJhSGZqZ3Jhd1JBODVpMUZXUDVHMEF1OWQxTXYxLTNydnRnRW5YQS1nM2JGUl9KY3lZTnJLT1J0dXNfbVllQmFkdVdSdVBDSDVad0pVZw?oc=5",
+        "publishedAt": "2026-11-11T06:26:00.000Z"
+      },
+      {
+        "time": "15:25",
+        "title": "１０月工作機械受注は前年比４２％増、２０００億円台を維持(ウエルスアドバイザー)",
         "source": "Yahoo!ファイナンス",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQU1rY3NtRE94d1hBUEVIa1duTC02UW9WckVMaGh1VXg3N0V5ekY2WDk1WC11OG91ZnNiSXBXNGg2VFptOWRXeUFZelNzOTlYTnNwM3hKQWFlZXJRUFFpWFRncUFyTWlZY2pvNW9qT1Z2aFVhYW92M2xVSlhBM2E0Mk5oZmVZOXc?oc=5",
-        "publishedAt": "2026-11-10T22:45:09.000Z"
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTTBGelJZdnJ5a3dYVFZBeWJ5V2JWbDN3bnI1MGdHZTFPTDlwUzFqTEdqUGhhQVVJNDlhMlNONzZHMzNvS1NtWHgwdVpqeG4xNlRUUktlWUJYMTI1bjAyb0tiZUtJeWJxaUpYa1pJQW40cDZ1MkhZbXdfV1BOTlNKeUZHNTJod0k?oc=5",
+        "publishedAt": "2026-11-11T06:25:30.000Z"
+      },
+      {
+        "time": "13:30",
+        "title": "CNC工作機械市場の最新予測：2026年に73550百万米ドル規模、成長率5.4%の見通し",
+        "source": "Excite エキサイト",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBMWHFqWVpwVWJzQVhhTmQ0N1EzeWJ2TnBaalpIMFhjeFZVbUx0TUNGamVEYVNOaHZKdHdvVDVkUF92ZHhRNmRCYmNSbzZxTXNXN05naXBabVdQZEVMbzhPZWlaTXVSd2ZwYnc?oc=5",
+        "publishedAt": "2026-11-11T04:30:00.000Z"
       },
       {
         "time": "06:30",
@@ -24,13 +38,6 @@
         "publishedAt": "2026-11-10T21:30:00.000Z"
       },
       {
-        "time": "14:00",
-        "title": "CNC工作機械市場の最新予測：2026年に73550百万米ドル規模、成長率5.4%の見通し",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9EOVF0THNpeXNXY2tpWHJYdTNyRFI1ekF3bUVLQUpBN1N5ZVB5VDVhckJpSXFub090QmV2and6Q3JtcTlOdXZobmFPZ3RRWUUwUmtKLUd4M1FmN3plVnlJMWQtZy1pbzc3dGRCbDM0dFBuWnlLZzJsVVJUbw?oc=5",
-        "publishedAt": "2026-11-11T05:00:23.000Z"
-      },
-      {
         "time": "07:29",
         "title": "11日の主な予定、日銀マネーストックに工作機械受注、独CPI発表",
         "source": "BigGo ファイナンス",
@@ -38,25 +45,18 @@
         "publishedAt": "2026-11-10T22:29:07.000Z"
       },
       {
+        "time": "15:17",
+        "title": "日本工作機械工業会、10月の工作機械受注額（速報）を発表",
+        "source": "日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA2QWVHVGNDazYyQld1U1hUa0pNRXdHWHZvMDZnUkxwQ2Q2aEczYUNSUDdfeE1aY0FiNTRGb3BUUzJBTkYxaXBJdjFyTVRURU9PeVFoZ1JZMjBRWmRLR3JVbTFJSzJ0RWN6VEZhTQ?oc=5",
+        "publishedAt": "2026-11-11T06:17:06.000Z"
+      },
+      {
         "time": "06:59",
         "title": "今日の注目スケジュール：マネーストック、工作機械受注、独CPIなど 執筆 Fisco - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
         "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
         "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5pRnFqNmtHb2c5YWxxSVRCRV9LR19JVUpZVlhTRFJsMXctME9XT2VGeTgxaVZ2T2FzczFCNDlLNU9OUnlyNW44c0VBakVtdFc0QWh5YzBUSk0tcHhoVWFlekJ3MEljMk0?oc=5",
         "publishedAt": "2026-11-10T21:59:18.000Z"
-      },
-      {
-        "time": "07:06",
-        "title": "今日のスケジュール－10月マネーストックや10月工作機械受注など(トレーダーズ・ウェブ)",
-        "source": "Yahoo!ファイナンス",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNVdnNGQyZDc3eFlXNThGd2FKbGNLeVNCU3I5dDg0LVl4RTlBOXo0ZnJMMEIxSHVKRE5zTGFnbmhOX1ZYb19ZQm1SdDFHX21ZREEwNnVMMDRabmF0QWtaZFVuUXFDbncwclphZjlQSXdMWjAzTzd0ZUNtT0N4aWJYc2JIemxDUkE?oc=5",
-        "publishedAt": "2026-11-10T22:06:02.000Z"
-      },
-      {
-        "time": "16:45",
-        "title": "ブラザー工業、「びびり振動診断技術」を実用化…工作機械の加工品質と生産性を向上",
-        "source": "レスポンス（Response.jp）",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE15S2hMNm1oVnRna0Rza29oQW9iSU5qVzExd2V1Rktpa0NjdUR4MFlNdnpUbWlrcXNuQl9iaDRpVE9ZV2pFeE5XMWZRYnNUWm1TOXk2UWpYWkh5ZWhNVWVB?oc=5",
-        "publishedAt": "2026-11-10T07:45:03.000Z"
       }
     ],
     "worldHeadlines": [
