@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-11T08:35:37.362Z",
+  "updatedAt": "2026-11-11T09:12:22.261Z",
   "items": [
     {
-      "time": "15:20",
-      "title": "昨年7月参院選「違憲状態」最高裁",
+      "time": "16:40",
+      "title": "Amazonの改善計画 公取委が認定",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602175?source=rss",
-      "publishedAt": "2026-11-11T06:20:13.000Z",
-      "xQuery": "昨年7月参院選「違憲状態」最高裁"
+      "url": "https://news.yahoo.co.jp/pickup/6602184?source=rss",
+      "publishedAt": "2026-11-11T07:40:49.000Z",
+      "xQuery": "Amazonの改善計画 公取委が認定"
     },
     {
-      "time": "17:17",
-      "title": "植松聖死刑囚が再審を請求 3度目",
+      "time": "18:00",
+      "title": "米財務長官 脅迫受け軍基地に転居",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602185?source=rss",
-      "publishedAt": "2026-11-11T08:17:56.000Z",
-      "xQuery": "植松聖死刑囚が再審を請求 3度目"
+      "url": "https://news.yahoo.co.jp/pickup/6602195?source=rss",
+      "publishedAt": "2026-11-11T09:00:26.000Z",
+      "xQuery": "米財務長官 脅迫受け軍基地に転居"
     },
     {
       "time": "15:42",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "横浜の4歳児死亡 男性の無罪確定"
     },
     {
-      "time": "13:22",
-      "title": "シルク産業 着る以外の用途に活路",
+      "time": "17:33",
+      "title": "パスキー設定の証券口座 侵入疑い",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602160?source=rss",
-      "publishedAt": "2026-11-11T04:22:42.000Z",
-      "xQuery": "シルク産業 着る以外の用途に活路"
+      "url": "https://news.yahoo.co.jp/pickup/6602193?source=rss",
+      "publishedAt": "2026-11-11T08:33:52.000Z",
+      "xQuery": "パスキー設定の証券口座 侵入疑い"
     },
     {
-      "time": "16:37",
-      "title": "雄牛と雄ロバ 種を越えた交尾行動",
+      "time": "17:27",
+      "title": "立花孝志被告の勾留続く 識者は",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602181?source=rss",
-      "publishedAt": "2026-11-11T07:37:06.000Z",
-      "xQuery": "雄牛と雄ロバ 種を越えた交尾行動"
+      "url": "https://news.yahoo.co.jp/pickup/6602187?source=rss",
+      "publishedAt": "2026-11-11T08:27:59.000Z",
+      "xQuery": "立花孝志被告の勾留続く 識者は"
     }
   ]
 };
