@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-11-11T06:40:09.009Z",
+  "updatedAt": "2026-11-11T07:12:08.041Z",
   "groups": {
     "machineHeadlines": [
-      {
-        "time": "15:06",
-        "title": "工作機械活況、裏では部品争奪戦 AI特需の半導体向けは顧客もライバル",
-        "source": "日本経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1xS3RHRHpFQ1J3RDhZUEUtNFZPd05lUkJPekdELWJaYmFITWIwYkh6UkVCTC1kOU1MMzF2MlRuNXJULV9WczFSMS1KT3VQNnNYTjltUDQ0UlN0Znh1YVZySzBuOHdkSHRWb0w5Vw?oc=5",
-        "publishedAt": "2026-11-11T06:06:25.000Z"
-      },
       {
         "time": "15:26",
         "title": "10月工作機械受注は前年比42.5％増、前月比8.4％減＝工作機械工業会",
         "source": "Reuters",
         "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPWUN2N3pTVk1PUkpTanVfY3duU1kwUFBJWFFkWWppd2V6NHZqYThXYmV6ODBJYkx1aFJhSGZqZ3Jhd1JBODVpMUZXUDVHMEF1OWQxTXYxLTNydnRnRW5YQS1nM2JGUl9KY3lZTnJLT1J0dXNfbVllQmFkdVdSdVBDSDVad0pVZw?oc=5",
         "publishedAt": "2026-11-11T06:26:00.000Z"
+      },
+      {
+        "time": "15:06",
+        "title": "工作機械活況、裏では部品争奪戦 AI特需の半導体向けは顧客もライバル",
+        "source": "日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1xS3RHRHpFQ1J3RDhZUEUtNFZPd05lUkJPekdELWJaYmFITWIwYkh6UkVCTC1kOU1MMzF2MlRuNXJULV9WczFSMS1KT3VQNnNYTjltUDQ0UlN0Znh1YVZySzBuOHdkSHRWb0w5Vw?oc=5",
+        "publishedAt": "2026-11-11T06:06:25.000Z"
       },
       {
         "time": "15:25",
@@ -24,11 +24,11 @@
         "publishedAt": "2026-11-11T06:25:30.000Z"
       },
       {
-        "time": "13:30",
+        "time": "14:00",
         "title": "CNC工作機械市場の最新予測：2026年に73550百万米ドル規模、成長率5.4%の見通し",
-        "source": "Excite エキサイト",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBMWHFqWVpwVWJzQVhhTmQ0N1EzeWJ2TnBaalpIMFhjeFZVbUx0TUNGamVEYVNOaHZKdHdvVDVkUF92ZHhRNmRCYmNSbzZxTXNXN05naXBabVdQZEVMbzhPZWlaTXVSd2ZwYnc?oc=5",
-        "publishedAt": "2026-11-11T04:30:00.000Z"
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9EOVF0THNpeXNXY2tpWHJYdTNyRFI1ekF3bUVLQUpBN1N5ZVB5VDVhckJpSXFub090QmV2and6Q3JtcTlOdXZobmFPZ3RRWUUwUmtKLUd4M1FmN3plVnlJMWQtZy1pbzc3dGRCbDM0dFBuWnlLZzJsVVJUbw?oc=5",
+        "publishedAt": "2026-11-11T05:00:23.000Z"
       },
       {
         "time": "06:30",
@@ -149,18 +149,25 @@
     ],
     "localHeadlines": [
       {
+        "time": "15:42",
+        "title": "横浜の4歳児死亡 男性の無罪確定",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6602176?source=rss",
+        "publishedAt": "2026-11-11T06:42:43.000Z"
+      },
+      {
+        "time": "15:46",
+        "title": "圏央道で5台絡む事故 1人心肺停止",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6602177?source=rss",
+        "publishedAt": "2026-11-11T06:46:09.000Z"
+      },
+      {
         "time": "12:00",
         "title": "高級時計が盗まれた事件 男を逮捕",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6602150?source=rss",
         "publishedAt": "2026-11-11T03:00:05.000Z"
-      },
-      {
-        "time": "11:49",
-        "title": "ルフィ事件 幹部が起訴内容を否認",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602143?source=rss",
-        "publishedAt": "2026-11-11T02:49:09.000Z"
       },
       {
         "time": "11:22",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6602113?source=rss",
         "publishedAt": "2026-11-10T23:03:13.000Z"
-      },
-      {
-        "time": "12:22",
-        "title": "学校で裸の男児盗撮疑い 教諭逮捕",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602155?source=rss",
-        "publishedAt": "2026-11-11T03:22:34.000Z"
       }
     ],
     "subsidyHeadlines": [
