@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T13:11:23.276Z",
+  "updatedAt": "2026-11-11T13:36:08.849Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,18 +38,18 @@
         "publishedAt": "2026-11-10T22:25:00.000Z"
       },
       {
-        "time": "17:03",
-        "title": "10月の工作機械受注速報、前年同月比42．5％増の2043億7700万円(時事通信)",
-        "source": "Yahoo!ファイナンス",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPekczSHJMSXliOWY2VVViWjNVaWhEZE9QbHdWZFZKTTZGcnNGekkzWGFQRWp5ME15LW8ydFdFNjNQdUp1N0NIcUJfVERLVzVaUzViTnpfakFvcVBvOHFPeHZGaGlQYjkzaFREbzFtc2E2Mkd3cHRsc2pZV08xSGI4ZldpejJQMlk?oc=5",
-        "publishedAt": "2026-11-11T08:03:38.000Z"
-      },
-      {
         "time": "06:45",
         "title": "今日の注目スケジュール：マネーストック、工作機械受注、独CPIなど 執筆 Fisco - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
         "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
         "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5pRnFqNmtHb2c5YWxxSVRCRV9LR19JVUpZVlhTRFJsMXctME9XT2VGeTgxaVZ2T2FzczFCNDlLNU9OUnlyNW44c0VBakVtdFc0QWh5YzBUSk0tcHhoVWFlekJ3MEljMk0?oc=5",
         "publishedAt": "2026-11-10T21:45:00.000Z"
+      },
+      {
+        "time": "17:03",
+        "title": "10月の工作機械受注速報、前年同月比42．5％増の2043億7700万円(時事通信)",
+        "source": "Yahoo!ファイナンス",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPekczSHJMSXliOWY2VVViWjNVaWhEZE9QbHdWZFZKTTZGcnNGekkzWGFQRWp5ME15LW8ydFdFNjNQdUp1N0NIcUJfVERLVzVaUzViTnpfakFvcVBvOHFPeHZGaGlQYjkzaFREbzFtc2E2Mkd3cHRsc2pZV08xSGI4ZldpejJQMlk?oc=5",
+        "publishedAt": "2026-11-11T08:03:38.000Z"
       },
       {
         "time": "15:17",
@@ -60,6 +60,13 @@
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "22:25",
+        "title": "露ウ 大規模な捕虜交換で合意か",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6602229?source=rss",
+        "publishedAt": "2026-11-11T13:25:26.000Z"
+      },
       {
         "time": "21:51",
         "title": "メーガン妃の父親 保釈中に再拘束",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6602201?source=rss",
         "publishedAt": "2026-11-11T09:46:04.000Z"
-      },
-      {
-        "time": "14:11",
-        "title": "多重事故で12人死亡 ブルガリア",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602168?source=rss",
-        "publishedAt": "2026-11-11T05:11:29.000Z"
       }
     ],
     "economyHeadlines": [
@@ -117,6 +117,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6602184?source=rss",
         "publishedAt": "2026-11-11T07:40:49.000Z"
+      },
+      {
+        "time": "22:26",
+        "title": "Amazon「表示枠」公取なぜ問題視",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6602231?source=rss",
+        "publishedAt": "2026-11-11T13:26:37.000Z"
       },
       {
         "time": "09:46",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6602118?source=rss",
         "publishedAt": "2026-11-10T23:41:27.000Z"
-      },
-      {
-        "time": "13:22",
-        "title": "シルク産業 着る以外の用途に活路",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602160?source=rss",
-        "publishedAt": "2026-11-11T04:22:42.000Z"
       }
     ],
     "localHeadlines": [

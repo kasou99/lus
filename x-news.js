@@ -1,13 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-11T13:11:24.344Z",
+  "updatedAt": "2026-11-11T13:36:09.696Z",
   "items": [
     {
-      "time": "21:31",
-      "title": "防衛方針の新概念「拒否力」とは",
+      "time": "21:05",
+      "title": "消費減税法案 支援金巡り野党追及",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602224?source=rss",
-      "publishedAt": "2026-11-11T12:31:42.000Z",
-      "xQuery": "防衛方針の新概念「拒否力」とは"
+      "url": "https://news.yahoo.co.jp/pickup/6602215?source=rss",
+      "publishedAt": "2026-11-11T12:05:32.000Z",
+      "xQuery": "消費減税法案 支援金巡り野党追及"
+    },
+    {
+      "time": "22:11",
+      "title": "ドコモ 障害から完全復旧と発表",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6602230?source=rss",
+      "publishedAt": "2026-11-11T13:11:26.000Z",
+      "xQuery": "ドコモ 障害から完全復旧と発表"
     },
     {
       "time": "21:18",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "月収5万円 受診遅れ死亡した男性"
     },
     {
-      "time": "21:33",
-      "title": "ゴミ収集車に体挟まれる 男性死亡",
+      "time": "18:46",
+      "title": "クロマグロ 漁獲枠巡り日韓が対立",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602221?source=rss",
-      "publishedAt": "2026-11-11T12:33:51.000Z",
-      "xQuery": "ゴミ収集車に体挟まれる 男性死亡"
-    },
-    {
-      "time": "21:12",
-      "title": "今月閉園でも 模型補修続ける職人",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602217?source=rss",
-      "publishedAt": "2026-11-11T12:12:51.000Z",
-      "xQuery": "今月閉園でも 模型補修続ける職人"
+      "url": "https://news.yahoo.co.jp/pickup/6602201?source=rss",
+      "publishedAt": "2026-11-11T09:46:04.000Z",
+      "xQuery": "クロマグロ 漁獲枠巡り日韓が対立"
     }
   ]
 };
