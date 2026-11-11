@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T10:36:06.060Z",
+  "updatedAt": "2026-11-11T11:10:02.176Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -170,13 +170,6 @@
         "publishedAt": "2026-11-11T09:56:24.000Z"
       },
       {
-        "time": "15:46",
-        "title": "圏央道で5台絡む事故 1人心肺停止",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602177?source=rss",
-        "publishedAt": "2026-11-11T06:46:09.000Z"
-      },
-      {
         "time": "12:00",
         "title": "高級時計が盗まれた事件 男を逮捕",
         "source": "Yahoo!ニュース",
@@ -189,6 +182,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6602169?source=rss",
         "publishedAt": "2026-11-11T04:58:06.000Z"
+      },
+      {
+        "time": "20:04",
+        "title": "京都府内の農場で鳥インフル疑い",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6602212?source=rss",
+        "publishedAt": "2026-11-11T11:04:20.000Z"
       }
     ],
     "subsidyHeadlines": [

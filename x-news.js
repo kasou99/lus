@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-11T10:36:07.289Z",
+  "updatedAt": "2026-11-11T11:10:03.378Z",
   "items": [
     {
       "time": "16:40",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "米財務長官 脅迫受け軍基地に転居"
     },
     {
-      "time": "17:33",
-      "title": "パスキー設定の証券口座 侵入疑い",
+      "time": "18:56",
+      "title": "放火し保険金など1億円詐取 実刑",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602193?source=rss",
-      "publishedAt": "2026-11-11T08:33:52.000Z",
-      "xQuery": "パスキー設定の証券口座 侵入疑い"
+      "url": "https://news.yahoo.co.jp/pickup/6602207?source=rss",
+      "publishedAt": "2026-11-11T09:56:24.000Z",
+      "xQuery": "放火し保険金など1億円詐取 実刑"
     },
     {
       "time": "17:27",
