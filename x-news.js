@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-10T23:34:51.688Z",
+  "updatedAt": "2026-11-11T00:29:43.001Z",
   "items": [
     {
       "time": "08:01",
@@ -10,28 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "日本のエンタメを排除 きしむ日中"
     },
     {
-      "time": "07:58",
-      "title": "米国防長官 自身への弾劾「茶番」",
+      "time": "08:24",
+      "title": "障害者雇用ビジネス 登録制を検討",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602114?source=rss",
-      "publishedAt": "2026-11-10T22:58:18.000Z",
-      "xQuery": "米国防長官 自身への弾劾「茶番」"
-    },
-    {
-      "time": "06:39",
-      "title": "小泉氏 首相総裁選出馬なら支える",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602107?source=rss",
-      "publishedAt": "2026-11-10T21:39:18.000Z",
-      "xQuery": "小泉氏 首相総裁選出馬なら支える"
-    },
-    {
-      "time": "06:27",
-      "title": "女性搬送の救急車事故 病院で死亡",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602106?source=rss",
-      "publishedAt": "2026-11-10T21:27:11.000Z",
-      "xQuery": "女性搬送の救急車事故 病院で死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6602117?source=rss",
+      "publishedAt": "2026-11-10T23:24:17.000Z",
+      "xQuery": "障害者雇用ビジネス 登録制を検討"
     },
     {
       "time": "07:40",
@@ -40,6 +24,22 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6602112?source=rss",
       "publishedAt": "2026-11-10T22:40:19.000Z",
       "xQuery": "生徒乗る遊覧船定員1.7倍で航行か"
+    },
+    {
+      "time": "08:03",
+      "title": "イベ閑散 主催は集客「約束せず」",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6602113?source=rss",
+      "publishedAt": "2026-11-10T23:03:13.000Z",
+      "xQuery": "イベ閑散 主催は集客「約束せず」"
+    },
+    {
+      "time": "08:41",
+      "title": "「稼ぐ」マンション管理組合増加",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6602118?source=rss",
+      "publishedAt": "2026-11-10T23:41:27.000Z",
+      "xQuery": "「稼ぐ」マンション管理組合増加"
     }
   ]
 };
