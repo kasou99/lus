@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-11T02:14:11.798Z",
+  "updatedAt": "2026-11-11T02:36:27.798Z",
   "items": [
     {
       "time": "10:56",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "北海道で史上最も早い-20℃以下"
     },
     {
-      "time": "09:52",
-      "title": "ダンプカー衝突 自転車の男性重体",
+      "time": "11:22",
+      "title": "ダンプカー衝突 自転車の15歳死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602128?source=rss",
-      "publishedAt": "2026-11-11T00:52:46.000Z",
-      "xQuery": "ダンプカー衝突 自転車の男性重体"
+      "url": "https://news.yahoo.co.jp/pickup/6602142?source=rss",
+      "publishedAt": "2026-11-11T02:22:35.000Z",
+      "xQuery": "ダンプカー衝突 自転車の15歳死亡"
     },
     {
       "time": "09:42",
