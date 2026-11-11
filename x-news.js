@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-11T12:16:48.207Z",
+  "updatedAt": "2026-11-11T12:36:54.593Z",
   "items": [
     {
-      "time": "20:54",
-      "title": "安保3文書改定で重視 拒否力とは",
+      "time": "21:31",
+      "title": "防衛方針の新概念「拒否力」とは",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602202?source=rss",
-      "publishedAt": "2026-11-11T11:54:33.000Z",
-      "xQuery": "安保3文書改定で重視 拒否力とは"
+      "url": "https://news.yahoo.co.jp/pickup/6602224?source=rss",
+      "publishedAt": "2026-11-11T12:31:42.000Z",
+      "xQuery": "防衛方針の新概念「拒否力」とは"
     },
     {
       "time": "20:47",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "武部氏選挙運動巡り 地検に告発状"
     },
     {
-      "time": "18:55",
-      "title": "子の不登校で離職 防ぐ企業の制度",
+      "time": "21:18",
+      "title": "石破氏 高市政権の高支持率に見解",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602206?source=rss",
-      "publishedAt": "2026-11-11T09:55:26.000Z",
-      "xQuery": "子の不登校で離職 防ぐ企業の制度"
+      "url": "https://news.yahoo.co.jp/pickup/6602218?source=rss",
+      "publishedAt": "2026-11-11T12:18:49.000Z",
+      "xQuery": "石破氏 高市政権の高支持率に見解"
     },
     {
       "time": "20:11",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "首脳がCOP31を欠席 日本に化石賞"
     },
     {
-      "time": "17:42",
-      "title": "マイケル氏 スリラー衣装が競売へ",
+      "time": "18:55",
+      "title": "子の不登校で離職 防ぐ企業の制度",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602191?source=rss",
-      "publishedAt": "2026-11-11T08:42:06.000Z",
-      "xQuery": "マイケル氏 スリラー衣装が競売へ"
+      "url": "https://news.yahoo.co.jp/pickup/6602206?source=rss",
+      "publishedAt": "2026-11-11T09:55:26.000Z",
+      "xQuery": "子の不登校で離職 防ぐ企業の制度"
     }
   ]
 };

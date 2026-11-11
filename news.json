@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T12:16:47.610Z",
+  "updatedAt": "2026-11-11T12:36:53.402Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -10,18 +10,18 @@
         "publishedAt": "2026-11-11T06:26:00.000Z"
       },
       {
-        "time": "15:25",
-        "title": "10月工作機械受注は前年比42.5％増、前月比8.4％減＝工作機械工業会(ロイター)",
-        "source": "Yahoo!ファイナンス",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNYWNuOFY0U1VwRUFvZVpTRG84MF9nclNLeXJlS2RMaGUxNGJpQXZNN2JKMGw1RnFYb0xmZGo2V2s5djJzLTJTZ0wya09Yai1sN1BDZFJCVlVTZnh1VDB2X1hyMGJWdFY1RmtVVTFsSG5KWXBPUU16XzliSVRpTGJVSUVKc1FQc0E?oc=5",
-        "publishedAt": "2026-11-11T06:25:56.000Z"
-      },
-      {
         "time": "15:06",
         "title": "工作機械活況、裏では部品争奪戦 AI特需の半導体向けは顧客もライバル",
         "source": "日本経済新聞",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1xS3RHRHpFQ1J3RDhZUEUtNFZPd05lUkJPekdELWJaYmFITWIwYkh6UkVCTC1kOU1MMzF2MlRuNXJULV9WczFSMS1KT3VQNnNYTjltUDQ0UlN0Znh1YVZySzBuOHdkSHRWb0w5Vw?oc=5",
         "publishedAt": "2026-11-11T06:06:25.000Z"
+      },
+      {
+        "time": "15:25",
+        "title": "10月工作機械受注は前年比42.5％増、前月比8.4％減＝工作機械工業会（ロイター）",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA3TTc2LVhSMDdQNzJXUTZ1X3R0QnFmNzVVTk85dVRMdU5tRzl1My1xQ2hDdFI1elZOMTJGZ1l6T2pBQVBGWmtBRjlXQXB4ZHl3S08tMVRMaU1EejgzWkpMSk1GSUhhUFY3UTF2ZGd4a3FScTRYQ3ZmZ2FQcFN1OTA?oc=5",
+        "publishedAt": "2026-11-11T06:25:56.000Z"
       },
       {
         "time": "06:30",
@@ -45,18 +45,18 @@
         "publishedAt": "2026-11-10T21:45:00.000Z"
       },
       {
+        "time": "17:03",
+        "title": "10月の工作機械受注速報、前年同月比42．5％増の2043億7700万円(時事通信)",
+        "source": "Yahoo!ファイナンス",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPekczSHJMSXliOWY2VVViWjNVaWhEZE9QbHdWZFZKTTZGcnNGekkzWGFQRWp5ME15LW8ydFdFNjNQdUp1N0NIcUJfVERLVzVaUzViTnpfakFvcVBvOHFPeHZGaGlQYjkzaFREbzFtc2E2Mkd3cHRsc2pZV08xSGI4ZldpejJQMlk?oc=5",
+        "publishedAt": "2026-11-11T08:03:38.000Z"
+      },
+      {
         "time": "15:17",
         "title": "日本工作機械工業会、10月の工作機械受注額（速報）を発表",
         "source": "日本経済新聞",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9ta3lwaTFKcmxiTG9ZYlZhV0o2ZERJUGVSczFkemktcEMyX1RXT3JuSVoyaDJUQ3p3MUJZTEJTTFRhZWY3NTBkRmJTQnducWdad2piaFk4WUZTejlMTEVUd1QwMFo3VlZpNDZJ?oc=5",
         "publishedAt": "2026-11-11T06:17:06.000Z"
-      },
-      {
-        "time": "13:30",
-        "title": "CNC工作機械市場の最新予測：2026年に73550百万米ドル規模、成長率5.4%の見通し",
-        "source": "ドリームニュース",
-        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5tWVRrenhhNDVoSW5RcTZMYUsyd3Fub0RVdDZJOWJBUEV4WHcweDYxMklubUFleEpxNHZHRVdrQml2dV9TUkY0M2Q4S3lNdEctVlhj?oc=5",
-        "publishedAt": "2026-11-11T04:30:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "18:56",
+        "title": "放火し保険金など1億円詐取 実刑",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6602207?source=rss",
+        "publishedAt": "2026-11-11T09:56:24.000Z"
+      },
+      {
         "time": "15:42",
         "title": "横浜の4歳児死亡 男性の無罪確定",
         "source": "Yahoo!ニュース",
@@ -163,11 +170,11 @@
         "publishedAt": "2026-11-11T08:17:56.000Z"
       },
       {
-        "time": "18:56",
-        "title": "放火し保険金など1億円詐取 実刑",
+        "time": "21:33",
+        "title": "ゴミ収集車に体挟まれる 男性死亡",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602207?source=rss",
-        "publishedAt": "2026-11-11T09:56:24.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6602221?source=rss",
+        "publishedAt": "2026-11-11T12:33:51.000Z"
       },
       {
         "time": "13:58",
@@ -177,18 +184,11 @@
         "publishedAt": "2026-11-11T04:58:06.000Z"
       },
       {
-        "time": "20:04",
-        "title": "京都府内の農場で鳥インフル疑い",
+        "time": "21:30",
+        "title": "月収5万円 受診遅れ死亡した男性",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602212?source=rss",
-        "publishedAt": "2026-11-11T11:04:20.000Z"
-      },
-      {
-        "time": "21:12",
-        "title": "今月閉園でも 模型補修続ける職人",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602217?source=rss",
-        "publishedAt": "2026-11-11T12:12:51.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6602222?source=rss",
+        "publishedAt": "2026-11-11T12:30:08.000Z"
       }
     ],
     "subsidyHeadlines": [
