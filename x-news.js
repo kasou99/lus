@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-11T01:39:10.080Z",
+  "updatedAt": "2026-11-11T02:14:11.798Z",
   "items": [
     {
-      "time": "09:34",
-      "title": "国際情勢は歴史的変革期 政府方針",
+      "time": "10:56",
+      "title": "3文書改定 自民は「ブレーキ役」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602125?source=rss",
-      "publishedAt": "2026-11-11T00:34:36.000Z",
-      "xQuery": "国際情勢は歴史的変革期 政府方針"
+      "url": "https://news.yahoo.co.jp/pickup/6602135?source=rss",
+      "publishedAt": "2026-11-11T01:56:05.000Z",
+      "xQuery": "3文書改定 自民は「ブレーキ役」"
     },
     {
       "time": "09:05",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "前澤友作氏なぜ敗訴 詐欺広告裁判"
     },
     {
-      "time": "08:03",
-      "title": "イベ閑散 主催は集客「約束せず」",
+      "time": "10:47",
+      "title": "家庭向けの防犯ドローン発売へ 米",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602113?source=rss",
-      "publishedAt": "2026-11-10T23:03:13.000Z",
-      "xQuery": "イベ閑散 主催は集客「約束せず」"
+      "url": "https://news.yahoo.co.jp/pickup/6602134?source=rss",
+      "publishedAt": "2026-11-11T01:47:34.000Z",
+      "xQuery": "家庭向けの防犯ドローン発売へ 米"
     }
   ]
 };

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T01:39:09.293Z",
+  "updatedAt": "2026-11-11T02:14:11.097Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -112,18 +112,11 @@
         "publishedAt": "2026-11-10T23:24:17.000Z"
       },
       {
-        "time": "23:38",
-        "title": "タマホーム社員 保険金を不正請求",
+        "time": "10:47",
+        "title": "家庭向けの防犯ドローン発売へ 米",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602099?source=rss",
-        "publishedAt": "2026-11-10T14:38:31.000Z"
-      },
-      {
-        "time": "18:53",
-        "title": "SBGが7680億円の赤字 中間決算",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602072?source=rss",
-        "publishedAt": "2026-11-10T09:53:46.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6602134?source=rss",
+        "publishedAt": "2026-11-11T01:47:34.000Z"
       },
       {
         "time": "09:46",
@@ -145,6 +138,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6602118?source=rss",
         "publishedAt": "2026-11-10T23:41:27.000Z"
+      },
+      {
+        "time": "09:55",
+        "title": "栄養も「優等生」モヤシに存在感",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6602129?source=rss",
+        "publishedAt": "2026-11-11T00:55:26.000Z"
       }
     ],
     "localHeadlines": [
