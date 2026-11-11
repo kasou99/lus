@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-11T12:36:54.593Z",
+  "updatedAt": "2026-11-11T13:11:24.344Z",
   "items": [
     {
       "time": "21:31",
@@ -10,14 +10,6 @@ window.LUS_X_NEWS = {
       "xQuery": "防衛方針の新概念「拒否力」とは"
     },
     {
-      "time": "20:47",
-      "title": "武部氏選挙運動巡り 地検に告発状",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602213?source=rss",
-      "publishedAt": "2026-11-11T11:47:48.000Z",
-      "xQuery": "武部氏選挙運動巡り 地検に告発状"
-    },
-    {
       "time": "21:18",
       "title": "石破氏 高市政権の高支持率に見解",
       "source": "Yahoo!ニュース",
@@ -26,20 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "石破氏 高市政権の高支持率に見解"
     },
     {
-      "time": "20:11",
-      "title": "首脳がCOP31を欠席 日本に化石賞",
+      "time": "21:30",
+      "title": "月収5万円 受診遅れ死亡した男性",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602204?source=rss",
-      "publishedAt": "2026-11-11T11:11:29.000Z",
-      "xQuery": "首脳がCOP31を欠席 日本に化石賞"
+      "url": "https://news.yahoo.co.jp/pickup/6602222?source=rss",
+      "publishedAt": "2026-11-11T12:30:08.000Z",
+      "xQuery": "月収5万円 受診遅れ死亡した男性"
     },
     {
-      "time": "18:55",
-      "title": "子の不登校で離職 防ぐ企業の制度",
+      "time": "21:33",
+      "title": "ゴミ収集車に体挟まれる 男性死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602206?source=rss",
-      "publishedAt": "2026-11-11T09:55:26.000Z",
-      "xQuery": "子の不登校で離職 防ぐ企業の制度"
+      "url": "https://news.yahoo.co.jp/pickup/6602221?source=rss",
+      "publishedAt": "2026-11-11T12:33:51.000Z",
+      "xQuery": "ゴミ収集車に体挟まれる 男性死亡"
+    },
+    {
+      "time": "21:12",
+      "title": "今月閉園でも 模型補修続ける職人",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6602217?source=rss",
+      "publishedAt": "2026-11-11T12:12:51.000Z",
+      "xQuery": "今月閉園でも 模型補修続ける職人"
     }
   ]
 };
