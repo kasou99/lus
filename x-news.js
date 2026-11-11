@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-11T07:36:15.417Z",
+  "updatedAt": "2026-11-11T08:15:35.151Z",
   "items": [
     {
       "time": "15:20",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "横浜の4歳児死亡 男性の無罪確定"
     },
     {
-      "time": "13:58",
-      "title": "兄弟転落死 部屋に血の付いた刃物",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602169?source=rss",
-      "publishedAt": "2026-11-11T04:58:06.000Z",
-      "xQuery": "兄弟転落死 部屋に血の付いた刃物"
-    },
-    {
       "time": "15:46",
       "title": "圏央道で5台絡む事故 1人心肺停止",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6602177?source=rss",
       "publishedAt": "2026-11-11T06:46:09.000Z",
       "xQuery": "圏央道で5台絡む事故 1人心肺停止"
+    },
+    {
+      "time": "16:52",
+      "title": "生体認証の証券口座でも侵入疑い",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6602183?source=rss",
+      "publishedAt": "2026-11-11T07:52:19.000Z",
+      "xQuery": "生体認証の証券口座でも侵入疑い"
     }
   ]
 };
