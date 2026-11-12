@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-12T06:41:01.597Z",
+  "updatedAt": "2026-11-12T07:12:21.414Z",
   "items": [
     {
-      "time": "14:07",
-      "title": "良品計画 破棄すべき情報を保管",
+      "time": "16:04",
+      "title": "良品計画の社長 情報流出巡り謝罪",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602302?source=rss",
-      "publishedAt": "2026-11-12T05:07:26.000Z",
-      "xQuery": "良品計画 破棄すべき情報を保管"
+      "url": "https://news.yahoo.co.jp/pickup/6602308?source=rss",
+      "publishedAt": "2026-11-12T07:04:58.000Z",
+      "xQuery": "良品計画の社長 情報流出巡り謝罪"
     },
     {
       "time": "12:09",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "ポスト高市の首相再選支持 相次ぐ"
     },
     {
-      "time": "11:54",
-      "title": "上院選ミシシッピ州 民主勝利確実",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602286?source=rss",
-      "publishedAt": "2026-11-12T02:54:37.000Z",
-      "xQuery": "上院選ミシシッピ州 民主勝利確実"
-    },
-    {
       "time": "13:43",
       "title": "すかいらーくHDがShin-Shin買収",
       "source": "Yahoo!ニュース",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "すかいらーくHDがShin-Shin買収"
     },
     {
-      "time": "13:38",
-      "title": "AIで飲食店の空席検索 3つの懸念",
+      "time": "15:56",
+      "title": "利根川に遺体 不明の14歳と判明",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602281?source=rss",
-      "publishedAt": "2026-11-12T04:38:09.000Z",
-      "xQuery": "AIで飲食店の空席検索 3つの懸念"
+      "url": "https://news.yahoo.co.jp/pickup/6602307?source=rss",
+      "publishedAt": "2026-11-12T06:56:04.000Z",
+      "xQuery": "利根川に遺体 不明の14歳と判明"
+    },
+    {
+      "time": "15:56",
+      "title": "丸亀 かけうどんを390円に値下げ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6602309?source=rss",
+      "publishedAt": "2026-11-12T06:56:36.000Z",
+      "xQuery": "丸亀 かけうどんを390円に値下げ"
     }
   ]
 };

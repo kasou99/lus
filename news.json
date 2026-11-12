@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T06:41:00.970Z",
+  "updatedAt": "2026-11-12T07:12:20.609Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -10,18 +10,18 @@
         "publishedAt": "2026-11-12T01:57:17.000Z"
       },
       {
-        "time": "14:01",
-        "title": "工作機械のツガミ、業績・配当予想を上方修正、株価は売りこなす動き(ウエルスアドバイザー)",
-        "source": "Yahoo!ファイナンス",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVWRfb3JEdHJoYU5WT1BwdjQtb3RqcnBoOTk0REtSVWdXMlZjUzZCNElaYUtvcUFlT1B4a1ZxeW5oeVhUdTVpQk00eWY4c2hFWkkydlBhc2dCRHBRUHJwR0lmVFUyWEVHYmNkREdENjdkcEVRUkdyOE13aFBpYkhRZ2ZIQ0pxZWs?oc=5",
-        "publishedAt": "2026-11-12T05:01:03.000Z"
-      },
-      {
         "time": "15:00",
         "title": "岡本工作機械（群馬・安中市）海外販売好調で増収 2026年9月中間決算",
         "source": "上毛新聞電子版",
         "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9qamJFY3FBRU5Mb08tRlN3MGwxVEZxSkc0YUlOZ3V6emZIYmwzcWZtcDBhTy1vcTlqWExoc282a3FncmpUQlFpX3hiU1gtMzRHTnpQdllKQ3VZZw?oc=5",
         "publishedAt": "2026-11-12T06:00:00.000Z"
+      },
+      {
+        "time": "14:01",
+        "title": "工作機械のツガミ、業績・配当予想を上方修正、株価は売りこなす動き(ウエルスアドバイザー)",
+        "source": "Yahoo!ファイナンス",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVWRfb3JEdHJoYU5WT1BwdjQtb3RqcnBoOTk0REtSVWdXMlZjUzZCNElaYUtvcUFlT1B4a1ZxeW5oeVhUdTVpQk00eWY4c2hFWkkydlBhc2dCRHBRUHJwR0lmVFUyWEVHYmNkREdENjdkcEVRUkdyOE13aFBpYkhRZ2ZIQ0pxZWs?oc=5",
+        "publishedAt": "2026-11-12T05:01:03.000Z"
       },
       {
         "time": "07:33",
@@ -105,6 +105,13 @@
     ],
     "economyHeadlines": [
       {
+        "time": "16:04",
+        "title": "良品計画の社長 情報流出巡り謝罪",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6602308?source=rss",
+        "publishedAt": "2026-11-12T07:04:58.000Z"
+      },
+      {
         "time": "14:07",
         "title": "良品計画 破棄すべき情報を保管",
         "source": "Yahoo!ニュース",
@@ -126,13 +133,6 @@
         "publishedAt": "2026-11-12T04:43:45.000Z"
       },
       {
-        "time": "13:54",
-        "title": "タマホーム不正請求巡り 全店調査",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602294?source=rss",
-        "publishedAt": "2026-11-12T04:54:29.000Z"
-      },
-      {
         "time": "14:47",
         "title": "ビール10月販売2割増 減税追い風",
         "source": "Yahoo!ニュース",
@@ -140,11 +140,11 @@
         "publishedAt": "2026-11-12T05:47:59.000Z"
       },
       {
-        "time": "15:38",
-        "title": "丸亀製麺 5商品を最大60円値下げ",
+        "time": "15:56",
+        "title": "丸亀 かけうどんを390円に値下げ",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602304?source=rss",
-        "publishedAt": "2026-11-12T06:38:56.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6602309?source=rss",
+        "publishedAt": "2026-11-12T06:56:36.000Z"
       }
     ],
     "localHeadlines": [
@@ -177,18 +177,18 @@
         "publishedAt": "2026-11-12T03:22:48.000Z"
       },
       {
+        "time": "15:56",
+        "title": "利根川に遺体 不明の14歳と判明",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6602307?source=rss",
+        "publishedAt": "2026-11-12T06:56:04.000Z"
+      },
+      {
         "time": "12:45",
         "title": "鳥人間で東北大処分 当事者に聞く",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6602293?source=rss",
         "publishedAt": "2026-11-12T03:45:49.000Z"
-      },
-      {
-        "time": "11:42",
-        "title": "ショック 川に展示の作品真っ二つ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602275?source=rss",
-        "publishedAt": "2026-11-12T02:42:02.000Z"
       }
     ],
     "subsidyHeadlines": [
