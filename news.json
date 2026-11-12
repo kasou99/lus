@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T13:11:13.939Z",
+  "updatedAt": "2026-11-12T13:36:18.983Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -105,6 +105,13 @@
     ],
     "economyHeadlines": [
       {
+        "time": "22:34",
+        "title": "タマホーム 5年以上前から不正か",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6602348?source=rss",
+        "publishedAt": "2026-11-12T13:34:28.000Z"
+      },
+      {
         "time": "20:26",
         "title": "新築転売対策 与党が空室税検討",
         "source": "Yahoo!ニュース",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6602328?source=rss",
         "publishedAt": "2026-11-12T09:25:36.000Z"
-      },
-      {
-        "time": "17:34",
-        "title": "ダイハツなど3車種17万台リコール",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602319?source=rss",
-        "publishedAt": "2026-11-12T08:34:59.000Z"
       }
     ],
     "localHeadlines": [
@@ -154,13 +154,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6602340?source=rss",
         "publishedAt": "2026-11-12T11:50:17.000Z"
-      },
-      {
-        "time": "18:04",
-        "title": "訪日客ぼったくり相談3倍 新宿署",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602326?source=rss",
-        "publishedAt": "2026-11-12T09:04:54.000Z"
       },
       {
         "time": "15:56",
@@ -189,6 +182,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6602347?source=rss",
         "publishedAt": "2026-11-12T13:05:20.000Z"
+      },
+      {
+        "time": "22:35",
+        "title": "適応障害は風邪 生徒に副校長発言",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6602350?source=rss",
+        "publishedAt": "2026-11-12T13:35:04.000Z"
       }
     ],
     "subsidyHeadlines": [
