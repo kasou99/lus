@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-12T10:11:27.561Z",
+  "updatedAt": "2026-11-12T10:36:26.325Z",
   "items": [
     {
       "time": "17:58",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "麻生氏 採決棄権の石破氏らに苦言"
     },
     {
-      "time": "18:36",
-      "title": "日銀委員 利上げで経済減速懸念",
+      "time": "18:31",
+      "title": "広い範囲で空気が乾燥 火災相次ぐ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602330?source=rss",
-      "publishedAt": "2026-11-12T09:36:00.000Z",
-      "xQuery": "日銀委員 利上げで経済減速懸念"
+      "url": "https://news.yahoo.co.jp/pickup/6602329?source=rss",
+      "publishedAt": "2026-11-12T09:31:59.000Z",
+      "xQuery": "広い範囲で空気が乾燥 火災相次ぐ"
     },
     {
       "time": "18:25",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "NVIDIA疑惑 女性は台湾を8回訪問"
     },
     {
-      "time": "18:04",
-      "title": "訪日客ぼったくり相談3倍 新宿署",
+      "time": "19:02",
+      "title": "すかいらーく Shin-Shinなぜ買収",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602326?source=rss",
-      "publishedAt": "2026-11-12T09:04:54.000Z",
-      "xQuery": "訪日客ぼったくり相談3倍 新宿署"
+      "url": "https://news.yahoo.co.jp/pickup/6602322?source=rss",
+      "publishedAt": "2026-11-12T10:02:14.000Z",
+      "xQuery": "すかいらーく Shin-Shinなぜ買収"
     },
     {
       "time": "17:08",
