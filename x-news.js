@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-12T08:35:36.833Z",
+  "updatedAt": "2026-11-12T09:12:28.090Z",
   "items": [
     {
       "time": "16:04",
@@ -10,12 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "良品計画の社長 情報流出巡り謝罪"
     },
     {
-      "time": "16:41",
-      "title": "北海道新聞 拘束記者の実名掲載",
+      "time": "17:58",
+      "title": "麻生氏 採決棄権の石破氏らに苦言",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602313?source=rss",
-      "publishedAt": "2026-11-12T07:41:26.000Z",
-      "xQuery": "北海道新聞 拘束記者の実名掲載"
+      "url": "https://news.yahoo.co.jp/pickup/6602323?source=rss",
+      "publishedAt": "2026-11-12T08:58:43.000Z",
+      "xQuery": "麻生氏 採決棄権の石破氏らに苦言"
+    },
+    {
+      "time": "17:34",
+      "title": "ダイハツなど3車種17万台リコール",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6602319?source=rss",
+      "publishedAt": "2026-11-12T08:34:59.000Z",
+      "xQuery": "ダイハツなど3車種17万台リコール"
     },
     {
       "time": "15:56",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "利根川に遺体 不明の14歳と判明"
     },
     {
-      "time": "13:44",
-      "title": "おうし座北流星群 13日頃に極大",
+      "time": "17:08",
+      "title": "丸亀製麺が値下げ 社長語る危機感",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602298?source=rss",
-      "publishedAt": "2026-11-12T04:44:01.000Z",
-      "xQuery": "おうし座北流星群 13日頃に極大"
-    },
-    {
-      "time": "16:48",
-      "title": "アラーム確認せず 患者に重い障害",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602314?source=rss",
-      "publishedAt": "2026-11-12T07:48:01.000Z",
-      "xQuery": "アラーム確認せず 患者に重い障害"
+      "url": "https://news.yahoo.co.jp/pickup/6602316?source=rss",
+      "publishedAt": "2026-11-12T08:08:13.000Z",
+      "xQuery": "丸亀製麺が値下げ 社長語る危機感"
     }
   ]
 };

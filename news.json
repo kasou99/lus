@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T08:35:36.333Z",
+  "updatedAt": "2026-11-12T09:12:27.400Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,6 +38,13 @@
         "publishedAt": "2026-11-11T23:07:58.000Z"
       },
       {
+        "time": "17:04",
+        "title": "決算:シチズンの純利益29％増に上振れ 27年3月期、時計や工作機械けん引",
+        "source": "日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4wd1ZTcFg1NU9VRlgtNkhucjBMWnA0RGVtUEdaaVVxZDF1SDl6OHNZSHVYY1dCclhxaGZpa1E4V1p1WjFIZVJQUUVNcUZtekhPSlRhUTA1NFliclFOOEdKWDA4SklCVTVDWjJKbg?oc=5",
+        "publishedAt": "2026-11-12T08:04:20.000Z"
+      },
+      {
         "time": "05:00",
         "title": "工作機械4社、10月受注40％増 米中好調持続",
         "source": "日刊工業新聞",
@@ -50,13 +57,6 @@
         "source": "NET-IB NEWS",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1MUkljSm91djBOZzNMMy0tNW1nUGxxRlRXX0JLdk9oX0E2WGMzOUdmMVJNTFR2eHBsdEREMkVQaHhaMzlmUmhGSHpFamd6SmpPUmc?oc=5",
         "publishedAt": "2026-11-12T06:00:00.000Z"
-      },
-      {
-        "time": "05:00",
-        "title": "好事魔多し AI特需「顧客もライバル」など3本をお届けします",
-        "source": "日本経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBNTGFRcEE1VUZaVHZSdkZfU1U2djMweXlrMFQtZGhVUUZOSXl2VEIzdUpTNzV1aFp2Uk1lNzYwaGZLeWZmTmFyQzVEOGR3eXdaTm9wWnpKbkFqWXVwb1pQb3RBTS1TM0llOU56Yzl6TFVVZDYzaFBuNE5TZVlyQQ?oc=5",
-        "publishedAt": "2026-11-11T20:00:02.000Z"
       }
     ],
     "worldHeadlines": [
@@ -133,11 +133,11 @@
         "publishedAt": "2026-11-12T04:43:45.000Z"
       },
       {
-        "time": "14:47",
-        "title": "ビール10月販売2割増 減税追い風",
+        "time": "17:34",
+        "title": "ダイハツなど3車種17万台リコール",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602303?source=rss",
-        "publishedAt": "2026-11-12T05:47:59.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6602319?source=rss",
+        "publishedAt": "2026-11-12T08:34:59.000Z"
       },
       {
         "time": "15:56",
@@ -149,18 +149,18 @@
     ],
     "localHeadlines": [
       {
+        "time": "18:04",
+        "title": "訪日客ぼったくり相談3倍 新宿署",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6602326?source=rss",
+        "publishedAt": "2026-11-12T09:04:54.000Z"
+      },
+      {
         "time": "11:32",
         "title": "踏切内に車 列車と衝突し逃走",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6602273?source=rss",
         "publishedAt": "2026-11-12T02:32:21.000Z"
-      },
-      {
-        "time": "21:30",
-        "title": "月収5万円 受診遅れ死亡した男性",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602222?source=rss",
-        "publishedAt": "2026-11-11T12:30:08.000Z"
       },
       {
         "time": "13:17",
