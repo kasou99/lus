@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-12T23:08:55.568Z",
+  "updatedAt": "2026-11-12T23:35:37.491Z",
   "items": [
     {
       "time": "06:59",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "「Microsoft 365」で大規模障害"
     },
     {
-      "time": "22:34",
-      "title": "タマホーム 5年以上前から不正か",
+      "time": "22:05",
+      "title": "勤務先から21億円超横領疑い 逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602348?source=rss",
-      "publishedAt": "2026-11-12T13:34:28.000Z",
-      "xQuery": "タマホーム 5年以上前から不正か"
+      "url": "https://news.yahoo.co.jp/pickup/6602347?source=rss",
+      "publishedAt": "2026-11-12T13:05:20.000Z",
+      "xQuery": "勤務先から21億円超横領疑い 逮捕"
     }
   ]
 };
