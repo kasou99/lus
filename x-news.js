@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-12T13:36:20.311Z",
+  "updatedAt": "2026-11-12T14:12:08.998Z",
   "items": [
     {
-      "time": "20:50",
-      "title": "拘束の記者 精力的に北方領土取材",
+      "time": "23:08",
+      "title": "エヌビディアのフアンCEOが辞任",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602339?source=rss",
-      "publishedAt": "2026-11-12T11:50:54.000Z",
-      "xQuery": "拘束の記者 精力的に北方領土取材"
+      "url": "https://news.yahoo.co.jp/pickup/6602353?source=rss",
+      "publishedAt": "2026-11-12T14:08:14.000Z",
+      "xQuery": "エヌビディアのフアンCEOが辞任"
     },
     {
-      "time": "18:42",
-      "title": "阿波市の副市長 市長逮捕受け謝罪",
+      "time": "22:32",
+      "title": "石破氏 採決で退席の小渕氏を評価",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602331?source=rss",
-      "publishedAt": "2026-11-12T09:42:53.000Z",
-      "xQuery": "阿波市の副市長 市長逮捕受け謝罪"
+      "url": "https://news.yahoo.co.jp/pickup/6602349?source=rss",
+      "publishedAt": "2026-11-12T13:32:14.000Z",
+      "xQuery": "石破氏 採決で退席の小渕氏を評価"
     },
     {
       "time": "22:02",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "無印良品 クレカ番号流出巡る経緯"
     },
     {
-      "time": "20:50",
-      "title": "3歳児死亡 こども園は9月に傷確認",
+      "time": "22:34",
+      "title": "タマホーム 5年以上前から不正か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602340?source=rss",
-      "publishedAt": "2026-11-12T11:50:17.000Z",
-      "xQuery": "3歳児死亡 こども園は9月に傷確認"
+      "url": "https://news.yahoo.co.jp/pickup/6602348?source=rss",
+      "publishedAt": "2026-11-12T13:34:28.000Z",
+      "xQuery": "タマホーム 5年以上前から不正か"
     },
     {
       "time": "22:05",

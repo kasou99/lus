@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T13:36:18.983Z",
+  "updatedAt": "2026-11-12T14:12:08.258Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -105,6 +105,20 @@
     ],
     "economyHeadlines": [
       {
+        "time": "23:08",
+        "title": "エヌビディアのフアンCEOが辞任",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6602353?source=rss",
+        "publishedAt": "2026-11-12T14:08:14.000Z"
+      },
+      {
+        "time": "18:25",
+        "title": "NVIDIA疑惑 女性は台湾を8回訪問",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6602328?source=rss",
+        "publishedAt": "2026-11-12T09:25:36.000Z"
+      },
+      {
         "time": "22:34",
         "title": "タマホーム 5年以上前から不正か",
         "source": "Yahoo!ニュース",
@@ -131,20 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6602343?source=rss",
         "publishedAt": "2026-11-12T13:02:08.000Z"
-      },
-      {
-        "time": "11:01",
-        "title": "CEOの解任可否を決定へ NVIDIA",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602271?source=rss",
-        "publishedAt": "2026-11-12T02:01:03.000Z"
-      },
-      {
-        "time": "18:25",
-        "title": "NVIDIA疑惑 女性は台湾を8回訪問",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602328?source=rss",
-        "publishedAt": "2026-11-12T09:25:36.000Z"
       }
     ],
     "localHeadlines": [
