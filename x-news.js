@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-12T03:36:14.557Z",
+  "updatedAt": "2026-11-12T04:13:22.521Z",
   "items": [
     {
       "time": "11:58",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "交番襲撃差し戻し審 男に死刑求刑"
     },
     {
-      "time": "11:32",
-      "title": "踏切内に車 列車と衝突し逃走",
+      "time": "12:45",
+      "title": "鳥人間で東北大処分 当事者に聞く",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602273?source=rss",
-      "publishedAt": "2026-11-12T02:32:21.000Z",
-      "xQuery": "踏切内に車 列車と衝突し逃走"
+      "url": "https://news.yahoo.co.jp/pickup/6602293?source=rss",
+      "publishedAt": "2026-11-12T03:45:49.000Z",
+      "xQuery": "鳥人間で東北大処分 当事者に聞く"
     },
     {
       "time": "11:42",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "ショック 川に展示の作品真っ二つ"
     },
     {
-      "time": "12:02",
-      "title": "「マック過疎地」に新店舗 行列",
+      "time": "12:23",
+      "title": "生後6カ月の娘が突然死 父の思い",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602284?source=rss",
-      "publishedAt": "2026-11-12T03:02:44.000Z",
-      "xQuery": "「マック過疎地」に新店舗 行列"
+      "url": "https://news.yahoo.co.jp/pickup/6602289?source=rss",
+      "publishedAt": "2026-11-12T03:23:04.000Z",
+      "xQuery": "生後6カ月の娘が突然死 父の思い"
     }
   ]
 };
