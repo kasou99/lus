@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-12T04:13:22.521Z",
+  "updatedAt": "2026-11-12T04:36:04.800Z",
   "items": [
     {
       "time": "11:58",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "鳥人間で東北大処分 当事者に聞く"
     },
     {
+      "time": "13:17",
+      "title": "猟犬が飼い猫をかみ殺す 市が謝罪",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6602295?source=rss",
+      "publishedAt": "2026-11-12T04:17:24.000Z",
+      "xQuery": "猟犬が飼い猫をかみ殺す 市が謝罪"
+    },
+    {
       "time": "11:42",
       "title": "ショック 川に展示の作品真っ二つ",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6602275?source=rss",
       "publishedAt": "2026-11-12T02:42:02.000Z",
       "xQuery": "ショック 川に展示の作品真っ二つ"
-    },
-    {
-      "time": "12:23",
-      "title": "生後6カ月の娘が突然死 父の思い",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602289?source=rss",
-      "publishedAt": "2026-11-12T03:23:04.000Z",
-      "xQuery": "生後6カ月の娘が突然死 父の思い"
     }
   ]
 };

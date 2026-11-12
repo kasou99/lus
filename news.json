@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-11-12T04:13:21.394Z",
+  "updatedAt": "2026-11-12T04:36:03.971Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "07:33",
+        "title": "工作機械の技術を人型ロボットへ 中国・三凱機電、関節用減速機を増産",
+        "source": "36Kr Japan",
+        "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTFBmdTlzUU5kUGpab205d1o0MTAyY2N2UmhGQ1JsaHRQZ1d5VkZLd2JXNXMxcFlGOXBpWFlr?oc=5",
+        "publishedAt": "2026-11-11T22:33:25.000Z"
+      },
       {
         "time": "10:39",
         "title": "2026年9月分工作機械受注総額は1978.7億円",
@@ -22,13 +29,6 @@
         "source": "Reuters",
         "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPWUN2N3pTVk1PUkpTanVfY3duU1kwUFBJWFFkWWppd2V6NHZqYThXYmV6ODBJYkx1aFJhSGZqZ3Jhd1JBODVpMUZXUDVHMEF1OWQxTXYxLTNydnRnRW5YQS1nM2JGUl9KY3lZTnJLT1J0dXNfbVllQmFkdVdSdVBDSDVad0pVZw?oc=5",
         "publishedAt": "2026-11-11T06:26:00.000Z"
-      },
-      {
-        "time": "07:30",
-        "title": "工作機械の技術を人型ロボットへ 中国・三凱機電、関節用減速機を増産",
-        "source": "ｄメニューニュース",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBlYkw1MHR4Mmtvdlo5bnhQaEVPb3RCUGNGT05RbGFfM0JjQTByMzBrSmYtQnhwTnJ1MVdqbnpqdVhSMU9pc3AyLW5rLTFnV3VfVUlRNDhtaTVsbTAzUmNSQXNhT2lTZFF2ZzV6VlZRbjdDTW9SdEJFedIBeEFVX3lxTFBlYkw1MHR4Mmtvdlo5bnhQaEVPb3RCUGNGT05RbGFfM0JjQTByMzBrSmYtQnhwTnJ1MVdqbnpqdVhSMU9pc3AyLW5rLTFnV3VfVUlRNDhtaTVsbTAzUmNSQXNhT2lTZFF2ZzV6VlZRbjdDTW9SdEJFeQ?oc=5",
-        "publishedAt": "2026-11-11T22:30:00.000Z"
       },
       {
         "time": "15:06",
@@ -156,18 +156,18 @@
         "publishedAt": "2026-11-12T02:32:21.000Z"
       },
       {
-        "time": "21:33",
-        "title": "ゴミ収集車に体挟まれる 男性死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602221?source=rss",
-        "publishedAt": "2026-11-11T12:33:51.000Z"
-      },
-      {
         "time": "21:30",
         "title": "月収5万円 受診遅れ死亡した男性",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6602222?source=rss",
         "publishedAt": "2026-11-11T12:30:08.000Z"
+      },
+      {
+        "time": "13:17",
+        "title": "猟犬が飼い猫をかみ殺す 市が謝罪",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6602295?source=rss",
+        "publishedAt": "2026-11-12T04:17:24.000Z"
       },
       {
         "time": "12:22",
