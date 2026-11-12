@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-12T04:36:04.800Z",
+  "updatedAt": "2026-11-12T05:11:48.791Z",
   "items": [
     {
-      "time": "11:58",
-      "title": "中継 良品計画の清水社長らが会見",
+      "time": "14:07",
+      "title": "良品計画 破棄すべき情報を保管",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602279?source=rss",
-      "publishedAt": "2026-11-12T02:58:47.000Z",
-      "xQuery": "中継 良品計画の清水社長らが会見"
+      "url": "https://news.yahoo.co.jp/pickup/6602302?source=rss",
+      "publishedAt": "2026-11-12T05:07:26.000Z",
+      "xQuery": "良品計画 破棄すべき情報を保管"
     },
     {
-      "time": "12:22",
-      "title": "交番襲撃差し戻し審 男に死刑求刑",
+      "time": "12:09",
+      "title": "ポスト高市の首相再選支持 相次ぐ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602291?source=rss",
-      "publishedAt": "2026-11-12T03:22:48.000Z",
-      "xQuery": "交番襲撃差し戻し審 男に死刑求刑"
+      "url": "https://news.yahoo.co.jp/pickup/6602290?source=rss",
+      "publishedAt": "2026-11-12T03:09:55.000Z",
+      "xQuery": "ポスト高市の首相再選支持 相次ぐ"
     },
     {
       "time": "12:45",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "鳥人間で東北大処分 当事者に聞く"
     },
     {
+      "time": "13:43",
+      "title": "すかいらーくHDがShin-Shin買収",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6602300?source=rss",
+      "publishedAt": "2026-11-12T04:43:45.000Z",
+      "xQuery": "すかいらーくHDがShin-Shin買収"
+    },
+    {
       "time": "13:17",
       "title": "猟犬が飼い猫をかみ殺す 市が謝罪",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6602295?source=rss",
       "publishedAt": "2026-11-12T04:17:24.000Z",
       "xQuery": "猟犬が飼い猫をかみ殺す 市が謝罪"
-    },
-    {
-      "time": "11:42",
-      "title": "ショック 川に展示の作品真っ二つ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602275?source=rss",
-      "publishedAt": "2026-11-12T02:42:02.000Z",
-      "xQuery": "ショック 川に展示の作品真っ二つ"
     }
   ]
 };
