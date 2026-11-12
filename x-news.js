@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-12T12:37:36.428Z",
+  "updatedAt": "2026-11-12T13:11:14.752Z",
   "items": [
     {
       "time": "20:50",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "阿波市の副市長 市長逮捕受け謝罪"
     },
     {
-      "time": "19:18",
-      "title": "筑波大付属小 第三者委いじめ認定",
+      "time": "22:02",
+      "title": "無印良品 クレカ番号流出巡る経緯",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602333?source=rss",
-      "publishedAt": "2026-11-12T10:18:09.000Z",
-      "xQuery": "筑波大付属小 第三者委いじめ認定"
+      "url": "https://news.yahoo.co.jp/pickup/6602343?source=rss",
+      "publishedAt": "2026-11-12T13:02:08.000Z",
+      "xQuery": "無印良品 クレカ番号流出巡る経緯"
     },
     {
       "time": "20:50",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "3歳児死亡 こども園は9月に傷確認"
     },
     {
-      "time": "21:27",
-      "title": "新種ホエザル カメラにひょっこり",
+      "time": "22:05",
+      "title": "勤務先から21億円超横領疑い 逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602342?source=rss",
-      "publishedAt": "2026-11-12T12:27:59.000Z",
-      "xQuery": "新種ホエザル カメラにひょっこり"
+      "url": "https://news.yahoo.co.jp/pickup/6602347?source=rss",
+      "publishedAt": "2026-11-12T13:05:20.000Z",
+      "xQuery": "勤務先から21億円超横領疑い 逮捕"
     }
   ]
 };

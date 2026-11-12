@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T12:37:35.487Z",
+  "updatedAt": "2026-11-12T13:11:13.939Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -10,11 +10,25 @@
         "publishedAt": "2026-11-12T01:57:17.000Z"
       },
       {
+        "time": "21:04",
+        "title": "【健椿 FY2026 Q3 決算説明会】中国工作機械市場が力強く回復 健椿の前三季税後純利益は1.2億台湾ドル、前年比4.8倍増 EPS 2.06台湾ドル",
+        "source": "BigGo ファイナンス",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8xZnhGdXNEOUdRbjctUHFKSGtwdHVVWFpGQUxtWEd6b1Y1RFN4Rkd3UVlCdjdlNjJyWG1PQ2o4aDlGcktXM2hoUkVpSGRGMmQ1a3V3UVdLWUxYTFhVNUE2Wg?oc=5",
+        "publishedAt": "2026-11-12T12:04:00.000Z"
+      },
+      {
         "time": "19:23",
         "title": "〔決算〕シチズン、通期業績予想を上方修正＝時計、工作機械好調(時事通信)",
         "source": "Yahoo!ファイナンス",
         "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMHFMZ3JmRV82MnpadEppNGtsQU8zQ0kwX2RBaFViZVZueEpDbUctbXcyZGpoa1VCN1J3Y0RFa1VZLUhuMXdvdHRIWkI0RW05ZEZ6aHJlYXl3MjJCMV8xZ1RidkxGcHo1WUEtMzdmMEczXzdyb3k5cGpveHZTR3dBNnAxZGFHTEU?oc=5",
         "publishedAt": "2026-11-12T10:23:54.000Z"
+      },
+      {
+        "time": "17:04",
+        "title": "決算:シチズンの純利益29％増に上振れ 27年3月期、時計や工作機械けん引",
+        "source": "日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4wd1ZTcFg1NU9VRlgtNkhucjBMWnA0RGVtUEdaaVVxZDF1SDl6OHNZSHVYY1dCclhxaGZpa1E4V1p1WjFIZVJQUUVNcUZtekhPSlRhUTA1NFliclFOOEdKWDA4SklCVTVDWjJKbg?oc=5",
+        "publishedAt": "2026-11-12T08:04:20.000Z"
       },
       {
         "time": "15:00",
@@ -43,20 +57,6 @@
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9rTXBXYkJERVJmMUMzV24wMEZQT0NVaklOR2hNLVF3SmszVVVGcTF5SnhPaXE2UHdOS1RkM0ZPS0EzOHlBcnhpLVUwUnUxc2dJbDlMYTh4WXg?oc=5",
         "publishedAt": "2026-11-11T20:00:00.000Z"
-      },
-      {
-        "time": "15:00",
-        "title": "リックス、27年3月期中間は増収増益 半導体・工作機械けん引 - NET-IB NEWS",
-        "source": "NET-IB NEWS",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1MUkljSm91djBOZzNMMy0tNW1nUGxxRlRXX0JLdk9oX0E2WGMzOUdmMVJNTFR2eHBsdEREMkVQaHhaMzlmUmhGSHpFamd6SmpPUmc?oc=5",
-        "publishedAt": "2026-11-12T06:00:00.000Z"
-      },
-      {
-        "time": "14:01",
-        "title": "工作機械のツガミ、業績・配当予想を上方修正、株価は売りこなす動き(ウエルスアドバイザー)",
-        "source": "Yahoo!ファイナンス",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVWRfb3JEdHJoYU5WT1BwdjQtb3RqcnBoOTk0REtSVWdXMlZjUzZCNElaYUtvcUFlT1B4a1ZxeW5oeVhUdTVpQk00eWY4c2hFWkkydlBhc2dCRHBRUHJwR0lmVFUyWEVHYmNkREdENjdkcEVRUkdyOE13aFBpYkhRZ2ZIQ0pxZWs?oc=5",
-        "publishedAt": "2026-11-12T05:01:03.000Z"
       }
     ],
     "worldHeadlines": [
@@ -119,6 +119,13 @@
         "publishedAt": "2026-11-12T07:04:58.000Z"
       },
       {
+        "time": "22:02",
+        "title": "無印良品 クレカ番号流出巡る経緯",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6602343?source=rss",
+        "publishedAt": "2026-11-12T13:02:08.000Z"
+      },
+      {
         "time": "11:01",
         "title": "CEOの解任可否を決定へ NVIDIA",
         "source": "Yahoo!ニュース",
@@ -131,13 +138,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6602328?source=rss",
         "publishedAt": "2026-11-12T09:25:36.000Z"
-      },
-      {
-        "time": "18:36",
-        "title": "日銀委員 利上げで経済減速懸念",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602330?source=rss",
-        "publishedAt": "2026-11-12T09:36:00.000Z"
       },
       {
         "time": "17:34",
@@ -184,11 +184,11 @@
         "publishedAt": "2026-11-12T10:18:09.000Z"
       },
       {
-        "time": "12:45",
-        "title": "鳥人間で東北大処分 当事者に聞く",
+        "time": "22:05",
+        "title": "勤務先から21億円超横領疑い 逮捕",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602293?source=rss",
-        "publishedAt": "2026-11-12T03:45:49.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6602347?source=rss",
+        "publishedAt": "2026-11-12T13:05:20.000Z"
       }
     ],
     "subsidyHeadlines": [
