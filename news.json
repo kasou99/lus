@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T07:35:55.229Z",
+  "updatedAt": "2026-11-12T08:15:40.404Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -24,6 +24,13 @@
         "publishedAt": "2026-11-12T05:01:03.000Z"
       },
       {
+        "time": "12:44",
+        "title": "2026年9月分工作機械受注総額は1978.7億円",
+        "source": "製造現場ドットコム",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB4NWwydmdlX3kyQ2FxMXc2RGlWWngyWmRFT01oWVh3a0Q2MFQ5c3ZXOUZ5RkNQVDN0VlJQaXVpcnlPZEQ0LVNJLXV3?oc=5",
+        "publishedAt": "2026-11-12T03:44:12.000Z"
+      },
+      {
         "time": "07:33",
         "title": "工作機械の技術を人型ロボットへ 中国・三凱機電、関節用減速機を増産",
         "source": "36Kr Japan",
@@ -38,13 +45,6 @@
         "publishedAt": "2026-11-11T20:00:00.000Z"
       },
       {
-        "time": "10:39",
-        "title": "2026年9月分工作機械受注総額は1978.7億円",
-        "source": "製造現場ドットコム",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB4NWwydmdlX3kyQ2FxMXc2RGlWWngyWmRFT01oWVh3a0Q2MFQ5c3ZXOUZ5RkNQVDN0VlJQaXVpcnlPZEQ0LVNJLXV3?oc=5",
-        "publishedAt": "2026-11-12T01:39:33.000Z"
-      },
-      {
         "time": "15:00",
         "title": "リックス、27年3月期中間は増収増益 半導体・工作機械けん引 - NET-IB NEWS",
         "source": "NET-IB NEWS",
@@ -52,11 +52,11 @@
         "publishedAt": "2026-11-12T06:00:00.000Z"
       },
       {
-        "time": "10:33",
+        "time": "12:44",
         "title": "DMG森精機、生成AIで工作機械の不具合診断を支援 復旧時間の短縮へ「サービスエージェント」提供開始",
         "source": "製造現場ドットコム",
         "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9SS1RGQXNBdDVNbVRCVlcydHFKWC1Wa0gwdUpJeW9iWVd2aHpRRHlXdnFTazAyRzkxZWNIOTFIYmxfQ0hveUpJUmlR?oc=5",
-        "publishedAt": "2026-11-12T01:33:11.000Z"
+        "publishedAt": "2026-11-12T03:44:12.000Z"
       }
     ],
     "worldHeadlines": [
@@ -170,18 +170,18 @@
         "publishedAt": "2026-11-12T04:17:24.000Z"
       },
       {
-        "time": "12:22",
-        "title": "交番襲撃差し戻し審 男に死刑求刑",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602291?source=rss",
-        "publishedAt": "2026-11-12T03:22:48.000Z"
-      },
-      {
         "time": "15:56",
         "title": "利根川に遺体 不明の14歳と判明",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6602307?source=rss",
         "publishedAt": "2026-11-12T06:56:04.000Z"
+      },
+      {
+        "time": "16:48",
+        "title": "アラーム確認せず 患者に重い障害",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6602314?source=rss",
+        "publishedAt": "2026-11-12T07:48:01.000Z"
       },
       {
         "time": "12:45",
