@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-11T23:35:17.951Z",
+  "updatedAt": "2026-11-12T00:30:49.471Z",
   "items": [
     {
-      "time": "07:55",
-      "title": "核「持ち込ませず」例外検討 政府",
+      "time": "07:40",
+      "title": "違憲状態解決策見えず 合区に限界",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602246?source=rss",
-      "publishedAt": "2026-11-11T22:55:34.000Z",
-      "xQuery": "核「持ち込ませず」例外検討 政府"
+      "url": "https://news.yahoo.co.jp/pickup/6602244?source=rss",
+      "publishedAt": "2026-11-11T22:40:54.000Z",
+      "xQuery": "違憲状態解決策見えず 合区に限界"
     },
     {
-      "time": "06:28",
-      "title": "Amazon出品者「安値強要された」",
+      "time": "09:12",
+      "title": "露ウ 大規模な捕虜交換で合意",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602237?source=rss",
-      "publishedAt": "2026-11-11T21:28:30.000Z",
-      "xQuery": "Amazon出品者「安値強要された」"
+      "url": "https://news.yahoo.co.jp/pickup/6602256?source=rss",
+      "publishedAt": "2026-11-12T00:12:28.000Z",
+      "xQuery": "露ウ 大規模な捕虜交換で合意"
     },
     {
       "time": "08:20",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "エヌビディアがCEO解任準備 報道"
     },
     {
-      "time": "07:26",
-      "title": "厚労省 残業タクシー「半減」",
+      "time": "08:20",
+      "title": "給食費を自腹で穴埋め 課題指摘",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602242?source=rss",
-      "publishedAt": "2026-11-11T22:26:36.000Z",
-      "xQuery": "厚労省 残業タクシー「半減」"
+      "url": "https://news.yahoo.co.jp/pickup/6602250?source=rss",
+      "publishedAt": "2026-11-11T23:20:24.000Z",
+      "xQuery": "給食費を自腹で穴埋め 課題指摘"
     },
     {
-      "time": "21:30",
-      "title": "月収5万円 受診遅れ死亡した男性",
+      "time": "08:39",
+      "title": "「毛沢東」中国若者の間でブーム",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602222?source=rss",
-      "publishedAt": "2026-11-11T12:30:08.000Z",
-      "xQuery": "月収5万円 受診遅れ死亡した男性"
+      "url": "https://news.yahoo.co.jp/pickup/6602251?source=rss",
+      "publishedAt": "2026-11-11T23:39:28.000Z",
+      "xQuery": "「毛沢東」中国若者の間でブーム"
     }
   ]
 };
