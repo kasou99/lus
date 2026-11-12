@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-12T09:12:28.090Z",
+  "updatedAt": "2026-11-12T09:36:56.115Z",
   "items": [
     {
       "time": "16:04",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "麻生氏 採決棄権の石破氏らに苦言"
     },
     {
-      "time": "17:34",
-      "title": "ダイハツなど3車種17万台リコール",
+      "time": "18:25",
+      "title": "NVIDIA疑惑 女性は台湾を8回訪問",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602319?source=rss",
-      "publishedAt": "2026-11-12T08:34:59.000Z",
-      "xQuery": "ダイハツなど3車種17万台リコール"
+      "url": "https://news.yahoo.co.jp/pickup/6602328?source=rss",
+      "publishedAt": "2026-11-12T09:25:36.000Z",
+      "xQuery": "NVIDIA疑惑 女性は台湾を8回訪問"
     },
     {
-      "time": "15:56",
-      "title": "利根川に遺体 不明の14歳と判明",
+      "time": "18:04",
+      "title": "訪日客ぼったくり相談3倍 新宿署",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602307?source=rss",
-      "publishedAt": "2026-11-12T06:56:04.000Z",
-      "xQuery": "利根川に遺体 不明の14歳と判明"
+      "url": "https://news.yahoo.co.jp/pickup/6602326?source=rss",
+      "publishedAt": "2026-11-12T09:04:54.000Z",
+      "xQuery": "訪日客ぼったくり相談3倍 新宿署"
     },
     {
       "time": "17:08",
