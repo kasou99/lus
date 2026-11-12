@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-12T05:11:48.791Z",
+  "updatedAt": "2026-11-12T05:36:12.238Z",
   "items": [
     {
       "time": "14:07",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "すかいらーくHDがShin-Shin買収"
     },
     {
-      "time": "13:17",
-      "title": "猟犬が飼い猫をかみ殺す 市が謝罪",
+      "time": "14:05",
+      "title": "海外からマンジャロ 韓国が容認",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602295?source=rss",
-      "publishedAt": "2026-11-12T04:17:24.000Z",
-      "xQuery": "猟犬が飼い猫をかみ殺す 市が謝罪"
+      "url": "https://news.yahoo.co.jp/pickup/6602299?source=rss",
+      "publishedAt": "2026-11-12T05:05:34.000Z",
+      "xQuery": "海外からマンジャロ 韓国が容認"
     }
   ]
 };
