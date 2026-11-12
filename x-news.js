@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-12T21:35:31.228Z",
+  "updatedAt": "2026-11-12T22:09:50.207Z",
   "items": [
     {
-      "time": "23:08",
-      "title": "エヌビディアのフアンCEOが辞任",
+      "time": "06:59",
+      "title": "エヌビディアCEO辞任 動揺広がる",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602353?source=rss",
-      "publishedAt": "2026-11-12T14:08:14.000Z",
-      "xQuery": "エヌビディアのフアンCEOが辞任"
+      "url": "https://news.yahoo.co.jp/pickup/6602361?source=rss",
+      "publishedAt": "2026-11-12T21:59:48.000Z",
+      "xQuery": "エヌビディアCEO辞任 動揺広がる"
     },
     {
       "time": "00:13",

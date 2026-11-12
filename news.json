@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T21:35:30.304Z",
+  "updatedAt": "2026-11-12T22:09:49.358Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -105,6 +105,13 @@
     ],
     "economyHeadlines": [
       {
+        "time": "06:59",
+        "title": "エヌビディアCEO辞任 動揺広がる",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6602361?source=rss",
+        "publishedAt": "2026-11-12T21:59:48.000Z"
+      },
+      {
         "time": "23:08",
         "title": "エヌビディアのフアンCEOが辞任",
         "source": "Yahoo!ニュース",
@@ -131,13 +138,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6602338?source=rss",
         "publishedAt": "2026-11-12T11:26:49.000Z"
-      },
-      {
-        "time": "16:04",
-        "title": "良品計画の社長 情報流出巡り謝罪",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602308?source=rss",
-        "publishedAt": "2026-11-12T07:04:58.000Z"
       },
       {
         "time": "22:02",
