@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-12T02:35:41.953Z",
+  "updatedAt": "2026-11-12T03:13:29.716Z",
   "items": [
+    {
+      "time": "11:58",
+      "title": "中継 良品計画の清水社長らが会見",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6602279?source=rss",
+      "publishedAt": "2026-11-12T02:58:47.000Z",
+      "xQuery": "中継 良品計画の清水社長らが会見"
+    },
     {
       "time": "09:24",
       "title": "減税法案 支援金対象は交渉切り札",
@@ -10,36 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "減税法案 支援金対象は交渉切り札"
     },
     {
-      "time": "07:30",
-      "title": "懸命に働くは美徳51% 読売調査",
+      "time": "11:32",
+      "title": "踏切内に車 列車と衝突し逃走",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602243?source=rss",
-      "publishedAt": "2026-11-11T22:30:24.000Z",
-      "xQuery": "懸命に働くは美徳51% 読売調査"
+      "url": "https://news.yahoo.co.jp/pickup/6602273?source=rss",
+      "publishedAt": "2026-11-12T02:32:21.000Z",
+      "xQuery": "踏切内に車 列車と衝突し逃走"
     },
     {
-      "time": "11:01",
-      "title": "CEOの解任可否を決定へ NVIDIA",
+      "time": "11:42",
+      "title": "ショック 川に展示の作品真っ二つ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602271?source=rss",
-      "publishedAt": "2026-11-12T02:01:03.000Z",
-      "xQuery": "CEOの解任可否を決定へ NVIDIA"
+      "url": "https://news.yahoo.co.jp/pickup/6602275?source=rss",
+      "publishedAt": "2026-11-12T02:42:02.000Z",
+      "xQuery": "ショック 川に展示の作品真っ二つ"
     },
     {
-      "time": "09:11",
-      "title": "EU「ダークパターン」禁止へ",
+      "time": "12:02",
+      "title": "「マック過疎地」に新店舗 行列",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602254?source=rss",
-      "publishedAt": "2026-11-12T00:11:57.000Z",
-      "xQuery": "EU「ダークパターン」禁止へ"
-    },
-    {
-      "time": "10:08",
-      "title": "イベ閑散波紋 出演料まだ払われず",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602265?source=rss",
-      "publishedAt": "2026-11-12T01:08:57.000Z",
-      "xQuery": "イベ閑散波紋 出演料まだ払われず"
+      "url": "https://news.yahoo.co.jp/pickup/6602284?source=rss",
+      "publishedAt": "2026-11-12T03:02:44.000Z",
+      "xQuery": "「マック過疎地」に新店舗 行列"
     }
   ]
 };

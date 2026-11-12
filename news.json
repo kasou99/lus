@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T02:35:41.236Z",
+  "updatedAt": "2026-11-12T03:13:28.910Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -61,6 +61,13 @@
     ],
     "worldHeadlines": [
       {
+        "time": "11:54",
+        "title": "上院選ミシシッピ州 民主勝利確実",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6602286?source=rss",
+        "publishedAt": "2026-11-12T02:54:37.000Z"
+      },
+      {
         "time": "10:50",
         "title": "スペイン 14年ぶりの全国ゼネスト",
         "source": "Yahoo!ニュース",
@@ -75,6 +82,13 @@
         "publishedAt": "2026-11-12T00:12:28.000Z"
       },
       {
+        "time": "11:51",
+        "title": "駐米ロシア大使が死去 疾患が原因",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6602285?source=rss",
+        "publishedAt": "2026-11-12T02:51:41.000Z"
+      },
+      {
         "time": "21:51",
         "title": "メーガン妃の父親 保釈中に再拘束",
         "source": "Yahoo!ニュース",
@@ -82,28 +96,21 @@
         "publishedAt": "2026-11-11T12:51:09.000Z"
       },
       {
-        "time": "18:00",
-        "title": "米財務長官 脅迫受け軍基地に転居",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602195?source=rss",
-        "publishedAt": "2026-11-11T09:00:26.000Z"
-      },
-      {
         "time": "23:55",
         "title": "約6300の学校に爆破予告メール 伊",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6602234?source=rss",
         "publishedAt": "2026-11-11T14:55:23.000Z"
-      },
-      {
-        "time": "18:46",
-        "title": "クロマグロ 漁獲枠巡り日韓が対立",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602201?source=rss",
-        "publishedAt": "2026-11-11T09:46:04.000Z"
       }
     ],
     "economyHeadlines": [
+      {
+        "time": "11:58",
+        "title": "中継 良品計画の清水社長らが会見",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6602279?source=rss",
+        "publishedAt": "2026-11-12T02:58:47.000Z"
+      },
       {
         "time": "11:01",
         "title": "CEOの解任可否を決定へ NVIDIA",
@@ -124,13 +131,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6602237?source=rss",
         "publishedAt": "2026-11-11T21:28:30.000Z"
-      },
-      {
-        "time": "22:26",
-        "title": "Amazon「表示枠」公取なぜ問題視",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602231?source=rss",
-        "publishedAt": "2026-11-11T13:26:37.000Z"
       },
       {
         "time": "08:59",
@@ -163,13 +163,6 @@
         "publishedAt": "2026-11-12T02:32:21.000Z"
       },
       {
-        "time": "06:19",
-        "title": "腕時計窃盗疑い 気に入ってしまい",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602236?source=rss",
-        "publishedAt": "2026-11-11T21:19:46.000Z"
-      },
-      {
         "time": "21:33",
         "title": "ゴミ収集車に体挟まれる 男性死亡",
         "source": "Yahoo!ニュース",
@@ -182,6 +175,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6602222?source=rss",
         "publishedAt": "2026-11-11T12:30:08.000Z"
+      },
+      {
+        "time": "11:42",
+        "title": "ショック 川に展示の作品真っ二つ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6602275?source=rss",
+        "publishedAt": "2026-11-12T02:42:02.000Z"
       },
       {
         "time": "10:08",
