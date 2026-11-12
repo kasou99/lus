@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T22:35:46.454Z",
+  "updatedAt": "2026-11-12T23:08:54.890Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -45,27 +45,27 @@
         "publishedAt": "2026-11-12T03:44:12.000Z"
       },
       {
-        "time": "08:07",
-        "title": "工作機械の技術を人型ロボットへ 中国・三凱機電、関節用減速機を増産",
-        "source": "36Kr Japan",
-        "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTFBmdTlzUU5kUGpab205d1o0MTAyY2N2UmhGQ1JsaHRQZ1d5VkZLd2JXNXMxcFlGOXBpWFlr?oc=5",
-        "publishedAt": "2026-11-11T23:07:58.000Z"
-      },
-      {
         "time": "15:00",
         "title": "リックス、27年3月期中間は増収増益 半導体・工作機械けん引 - NET-IB NEWS",
         "source": "NET-IB NEWS",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1MUkljSm91djBOZzNMMy0tNW1nUGxxRlRXX0JLdk9oX0E2WGMzOUdmMVJNTFR2eHBsdEREMkVQaHhaMzlmUmhGSHpFamd6SmpPUmc?oc=5",
         "publishedAt": "2026-11-12T06:00:00.000Z"
+      },
+      {
+        "time": "14:01",
+        "title": "工作機械のツガミ、業績・配当予想を上方修正、株価は売りこなす動き(ウエルスアドバイザー)",
+        "source": "Yahoo!ファイナンス",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVWRfb3JEdHJoYU5WT1BwdjQtb3RqcnBoOTk0REtSVWdXMlZjUzZCNElaYUtvcUFlT1B4a1ZxeW5oeVhUdTVpQk00eWY4c2hFWkkydlBhc2dCRHBRUHJwR0lmVFUyWEVHYmNkREdENjdkcEVRUkdyOE13aFBpYkhRZ2ZIQ0pxZWs?oc=5",
+        "publishedAt": "2026-11-12T05:01:03.000Z"
       }
     ],
     "worldHeadlines": [
       {
-        "time": "00:13",
-        "title": "米ワシントンで銃撃事件 5人負傷",
+        "time": "07:44",
+        "title": "米首都銃撃5人死傷 容疑者も死亡",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602356?source=rss",
-        "publishedAt": "2026-11-12T15:13:03.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6602368?source=rss",
+        "publishedAt": "2026-11-12T22:44:16.000Z"
       },
       {
         "time": "23:38",
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "07:42",
+        "title": "山形県で住宅全焼 3人の遺体",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6602365?source=rss",
+        "publishedAt": "2026-11-12T22:42:21.000Z"
+      },
+      {
         "time": "20:50",
         "title": "3歳児死亡 こども園は9月に傷確認",
         "source": "Yahoo!ニュース",
@@ -161,13 +168,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6602307?source=rss",
         "publishedAt": "2026-11-12T06:56:04.000Z"
-      },
-      {
-        "time": "18:42",
-        "title": "阿波市の副市長 市長逮捕受け謝罪",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602331?source=rss",
-        "publishedAt": "2026-11-12T09:42:53.000Z"
       },
       {
         "time": "23:10",

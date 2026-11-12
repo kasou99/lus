@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-12T22:35:47.231Z",
+  "updatedAt": "2026-11-12T23:08:55.568Z",
   "items": [
     {
       "time": "06:59",
@@ -10,12 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "エヌビディアCEO辞任 動揺広がる"
     },
     {
-      "time": "00:13",
-      "title": "米ワシントンで銃撃事件 5人負傷",
+      "time": "07:42",
+      "title": "山形県で住宅全焼 3人の遺体",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602356?source=rss",
-      "publishedAt": "2026-11-12T15:13:03.000Z",
-      "xQuery": "米ワシントンで銃撃事件 5人負傷"
+      "url": "https://news.yahoo.co.jp/pickup/6602365?source=rss",
+      "publishedAt": "2026-11-12T22:42:21.000Z",
+      "xQuery": "山形県で住宅全焼 3人の遺体"
+    },
+    {
+      "time": "07:44",
+      "title": "米首都銃撃5人死傷 容疑者も死亡",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6602368?source=rss",
+      "publishedAt": "2026-11-12T22:44:16.000Z",
+      "xQuery": "米首都銃撃5人死傷 容疑者も死亡"
     },
     {
       "time": "07:19",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6602348?source=rss",
       "publishedAt": "2026-11-12T13:34:28.000Z",
       "xQuery": "タマホーム 5年以上前から不正か"
-    },
-    {
-      "time": "22:05",
-      "title": "勤務先から21億円超横領疑い 逮捕",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602347?source=rss",
-      "publishedAt": "2026-11-12T13:05:20.000Z",
-      "xQuery": "勤務先から21億円超横領疑い 逮捕"
     }
   ]
 };
