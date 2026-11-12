@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-12T11:35:40.762Z",
+  "updatedAt": "2026-11-12T12:16:52.514Z",
   "items": [
     {
-      "time": "17:58",
-      "title": "麻生氏 採決棄権の石破氏らに苦言",
+      "time": "20:50",
+      "title": "拘束の記者 精力的に北方領土取材",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602323?source=rss",
-      "publishedAt": "2026-11-12T08:58:43.000Z",
-      "xQuery": "麻生氏 採決棄権の石破氏らに苦言"
+      "url": "https://news.yahoo.co.jp/pickup/6602339?source=rss",
+      "publishedAt": "2026-11-12T11:50:54.000Z",
+      "xQuery": "拘束の記者 精力的に北方領土取材"
     },
     {
       "time": "18:25",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "筑波大付属小 第三者委いじめ認定"
     },
     {
-      "time": "17:00",
-      "title": "消費税減税の広報動画 公開見送り",
+      "time": "20:50",
+      "title": "3歳児死亡 こども園は9月に傷確認",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602311?source=rss",
-      "publishedAt": "2026-11-12T08:00:20.000Z",
-      "xQuery": "消費税減税の広報動画 公開見送り"
+      "url": "https://news.yahoo.co.jp/pickup/6602340?source=rss",
+      "publishedAt": "2026-11-12T11:50:17.000Z",
+      "xQuery": "3歳児死亡 こども園は9月に傷確認"
     },
     {
-      "time": "12:37",
-      "title": "Appleサポートコミュ 20日閉鎖へ",
+      "time": "19:08",
+      "title": "芥川「藪の中」当初は題名違った",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602292?source=rss",
-      "publishedAt": "2026-11-12T03:37:32.000Z",
-      "xQuery": "Appleサポートコミュ 20日閉鎖へ"
+      "url": "https://news.yahoo.co.jp/pickup/6602332?source=rss",
+      "publishedAt": "2026-11-12T10:08:06.000Z",
+      "xQuery": "芥川「藪の中」当初は題名違った"
     }
   ]
 };
