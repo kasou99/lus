@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-12T22:09:50.207Z",
+  "updatedAt": "2026-11-12T22:35:47.231Z",
   "items": [
     {
       "time": "06:59",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "米ワシントンで銃撃事件 5人負傷"
     },
     {
-      "time": "06:11",
-      "title": "マイクロソフト「365」大規模障害",
+      "time": "07:19",
+      "title": "「Microsoft 365」で大規模障害",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602357?source=rss",
-      "publishedAt": "2026-11-12T21:11:23.000Z",
-      "xQuery": "マイクロソフト「365」大規模障害"
+      "url": "https://news.yahoo.co.jp/pickup/6602362?source=rss",
+      "publishedAt": "2026-11-12T22:19:09.000Z",
+      "xQuery": "「Microsoft 365」で大規模障害"
     },
     {
       "time": "22:34",
