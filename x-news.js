@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-12T12:16:52.514Z",
+  "updatedAt": "2026-11-12T12:37:36.428Z",
   "items": [
     {
       "time": "20:50",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "拘束の記者 精力的に北方領土取材"
     },
     {
-      "time": "18:25",
-      "title": "NVIDIA疑惑 女性は台湾を8回訪問",
+      "time": "18:42",
+      "title": "阿波市の副市長 市長逮捕受け謝罪",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602328?source=rss",
-      "publishedAt": "2026-11-12T09:25:36.000Z",
-      "xQuery": "NVIDIA疑惑 女性は台湾を8回訪問"
+      "url": "https://news.yahoo.co.jp/pickup/6602331?source=rss",
+      "publishedAt": "2026-11-12T09:42:53.000Z",
+      "xQuery": "阿波市の副市長 市長逮捕受け謝罪"
     },
     {
       "time": "19:18",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "3歳児死亡 こども園は9月に傷確認"
     },
     {
-      "time": "19:08",
-      "title": "芥川「藪の中」当初は題名違った",
+      "time": "21:27",
+      "title": "新種ホエザル カメラにひょっこり",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602332?source=rss",
-      "publishedAt": "2026-11-12T10:08:06.000Z",
-      "xQuery": "芥川「藪の中」当初は題名違った"
+      "url": "https://news.yahoo.co.jp/pickup/6602342?source=rss",
+      "publishedAt": "2026-11-12T12:27:59.000Z",
+      "xQuery": "新種ホエザル カメラにひょっこり"
     }
   ]
 };
