@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T00:30:48.462Z",
+  "updatedAt": "2026-11-12T01:11:42.622Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -61,6 +61,13 @@
     ],
     "worldHeadlines": [
       {
+        "time": "09:55",
+        "title": "スペインでゼネスト 400万人参加",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6602261?source=rss",
+        "publishedAt": "2026-11-12T00:55:43.000Z"
+      },
+      {
         "time": "09:12",
         "title": "露ウ 大規模な捕虜交換で合意",
         "source": "Yahoo!ニュース",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6602201?source=rss",
         "publishedAt": "2026-11-11T09:46:04.000Z"
-      },
-      {
-        "time": "08:39",
-        "title": "「毛沢東」中国若者の間でブーム",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602251?source=rss",
-        "publishedAt": "2026-11-11T23:39:28.000Z"
       }
     ],
     "economyHeadlines": [
@@ -163,13 +163,6 @@
         "publishedAt": "2026-11-11T21:19:46.000Z"
       },
       {
-        "time": "18:56",
-        "title": "放火し保険金など1億円詐取 実刑",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602207?source=rss",
-        "publishedAt": "2026-11-11T09:56:24.000Z"
-      },
-      {
         "time": "17:17",
         "title": "植松聖死刑囚が再審を請求 3度目",
         "source": "Yahoo!ニュース",
@@ -189,6 +182,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6602222?source=rss",
         "publishedAt": "2026-11-11T12:30:08.000Z"
+      },
+      {
+        "time": "10:08",
+        "title": "イベ閑散波紋 出演料まだ払われず",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6602265?source=rss",
+        "publishedAt": "2026-11-12T01:08:57.000Z"
       }
     ],
     "subsidyHeadlines": [

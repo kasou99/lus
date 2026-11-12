@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-12T00:30:49.471Z",
+  "updatedAt": "2026-11-12T01:11:43.532Z",
   "items": [
     {
       "time": "07:40",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "エヌビディアがCEO解任準備 報道"
     },
     {
-      "time": "08:20",
-      "title": "給食費を自腹で穴埋め 課題指摘",
+      "time": "09:11",
+      "title": "EU「ダークパターン」禁止へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602250?source=rss",
-      "publishedAt": "2026-11-11T23:20:24.000Z",
-      "xQuery": "給食費を自腹で穴埋め 課題指摘"
+      "url": "https://news.yahoo.co.jp/pickup/6602254?source=rss",
+      "publishedAt": "2026-11-12T00:11:57.000Z",
+      "xQuery": "EU「ダークパターン」禁止へ"
     },
     {
-      "time": "08:39",
-      "title": "「毛沢東」中国若者の間でブーム",
+      "time": "10:08",
+      "title": "イベ閑散波紋 出演料まだ払われず",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602251?source=rss",
-      "publishedAt": "2026-11-11T23:39:28.000Z",
-      "xQuery": "「毛沢東」中国若者の間でブーム"
+      "url": "https://news.yahoo.co.jp/pickup/6602265?source=rss",
+      "publishedAt": "2026-11-12T01:08:57.000Z",
+      "xQuery": "イベ閑散波紋 出演料まだ払われず"
     }
   ]
 };
