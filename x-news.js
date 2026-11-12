@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-12T11:10:30.644Z",
+  "updatedAt": "2026-11-12T11:35:40.762Z",
   "items": [
     {
       "time": "17:58",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "NVIDIA疑惑 女性は台湾を8回訪問"
     },
     {
-      "time": "19:02",
-      "title": "すかいらーく Shin-Shinなぜ買収",
+      "time": "19:18",
+      "title": "筑波大付属小 第三者委いじめ認定",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602322?source=rss",
-      "publishedAt": "2026-11-12T10:02:14.000Z",
-      "xQuery": "すかいらーく Shin-Shinなぜ買収"
+      "url": "https://news.yahoo.co.jp/pickup/6602333?source=rss",
+      "publishedAt": "2026-11-12T10:18:09.000Z",
+      "xQuery": "筑波大付属小 第三者委いじめ認定"
     },
     {
-      "time": "17:08",
-      "title": "丸亀製麺が値下げ 社長語る危機感",
+      "time": "17:00",
+      "title": "消費税減税の広報動画 公開見送り",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602316?source=rss",
-      "publishedAt": "2026-11-12T08:08:13.000Z",
-      "xQuery": "丸亀製麺が値下げ 社長語る危機感"
+      "url": "https://news.yahoo.co.jp/pickup/6602311?source=rss",
+      "publishedAt": "2026-11-12T08:00:20.000Z",
+      "xQuery": "消費税減税の広報動画 公開見送り"
     },
     {
       "time": "12:37",
