@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T15:11:04.966Z",
+  "updatedAt": "2026-11-12T15:36:10.996Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -61,11 +61,11 @@
     ],
     "worldHeadlines": [
       {
-        "time": "09:12",
-        "title": "露ウ 大規模な捕虜交換で合意",
+        "time": "00:13",
+        "title": "米ワシントンで銃撃事件 5人負傷",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602256?source=rss",
-        "publishedAt": "2026-11-12T00:12:28.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6602356?source=rss",
+        "publishedAt": "2026-11-12T15:13:03.000Z"
       },
       {
         "time": "23:38",
@@ -75,18 +75,11 @@
         "publishedAt": "2026-11-12T14:38:19.000Z"
       },
       {
-        "time": "13:44",
-        "title": "米有権者 党派対立にも警戒感",
+        "time": "09:12",
+        "title": "露ウ 大規模な捕虜交換で合意",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602278?source=rss",
-        "publishedAt": "2026-11-12T04:44:00.000Z"
-      },
-      {
-        "time": "11:54",
-        "title": "上院選ミシシッピ州 民主勝利確実",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602286?source=rss",
-        "publishedAt": "2026-11-12T02:54:37.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6602256?source=rss",
+        "publishedAt": "2026-11-12T00:12:28.000Z"
       },
       {
         "time": "11:51",
@@ -94,6 +87,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6602285?source=rss",
         "publishedAt": "2026-11-12T02:51:41.000Z"
+      },
+      {
+        "time": "13:44",
+        "title": "米有権者 党派対立にも警戒感",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6602278?source=rss",
+        "publishedAt": "2026-11-12T04:44:00.000Z"
       },
       {
         "time": "23:26",

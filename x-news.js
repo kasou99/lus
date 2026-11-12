@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-12T15:11:06.057Z",
+  "updatedAt": "2026-11-12T15:36:11.906Z",
   "items": [
     {
       "time": "23:08",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "エヌビディアのフアンCEOが辞任"
     },
     {
-      "time": "23:38",
-      "title": "米NYで建物崩壊8人死亡 17人負傷",
+      "time": "00:13",
+      "title": "米ワシントンで銃撃事件 5人負傷",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602355?source=rss",
-      "publishedAt": "2026-11-12T14:38:19.000Z",
-      "xQuery": "米NYで建物崩壊8人死亡 17人負傷"
+      "url": "https://news.yahoo.co.jp/pickup/6602356?source=rss",
+      "publishedAt": "2026-11-12T15:13:03.000Z",
+      "xQuery": "米ワシントンで銃撃事件 5人負傷"
     },
     {
       "time": "22:34",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "勤務先から21億円超横領疑い 逮捕"
     },
     {
-      "time": "23:26",
-      "title": "米国防長官ら 墓地で衛兵から叱責",
+      "time": "23:10",
+      "title": "銭湯侵入疑い 男は国際的犯罪Gか",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602354?source=rss",
-      "publishedAt": "2026-11-12T14:26:32.000Z",
-      "xQuery": "米国防長官ら 墓地で衛兵から叱責"
+      "url": "https://news.yahoo.co.jp/pickup/6602352?source=rss",
+      "publishedAt": "2026-11-12T14:10:37.000Z",
+      "xQuery": "銭湯侵入疑い 男は国際的犯罪Gか"
     }
   ]
 };
