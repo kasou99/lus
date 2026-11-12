@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T14:12:08.258Z",
+  "updatedAt": "2026-11-12T14:36:22.635Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,18 +17,18 @@
         "publishedAt": "2026-11-12T12:04:00.000Z"
       },
       {
-        "time": "19:23",
-        "title": "〔決算〕シチズン、通期業績予想を上方修正＝時計、工作機械好調(時事通信)",
-        "source": "Yahoo!ファイナンス",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMHFMZ3JmRV82MnpadEppNGtsQU8zQ0kwX2RBaFViZVZueEpDbUctbXcyZGpoa1VCN1J3Y0RFa1VZLUhuMXdvdHRIWkI0RW05ZEZ6aHJlYXl3MjJCMV8xZ1RidkxGcHo1WUEtMzdmMEczXzdyb3k5cGpveHZTR3dBNnAxZGFHTEU?oc=5",
-        "publishedAt": "2026-11-12T10:23:54.000Z"
-      },
-      {
         "time": "17:04",
         "title": "決算:シチズンの純利益29％増に上振れ 27年3月期、時計や工作機械けん引",
         "source": "日本経済新聞",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4wd1ZTcFg1NU9VRlgtNkhucjBMWnA0RGVtUEdaaVVxZDF1SDl6OHNZSHVYY1dCclhxaGZpa1E4V1p1WjFIZVJQUUVNcUZtekhPSlRhUTA1NFliclFOOEdKWDA4SklCVTVDWjJKbg?oc=5",
         "publishedAt": "2026-11-12T08:04:20.000Z"
+      },
+      {
+        "time": "19:23",
+        "title": "〔決算〕シチズン、通期業績予想を上方修正＝時計、工作機械好調(時事通信)",
+        "source": "Yahoo!ファイナンス",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMHFMZ3JmRV82MnpadEppNGtsQU8zQ0kwX2RBaFViZVZueEpDbUctbXcyZGpoa1VCN1J3Y0RFa1VZLUhuMXdvdHRIWkI0RW05ZEZ6aHJlYXl3MjJCMV8xZ1RidkxGcHo1WUEtMzdmMEczXzdyb3k5cGpveHZTR3dBNnAxZGFHTEU?oc=5",
+        "publishedAt": "2026-11-12T10:23:54.000Z"
       },
       {
         "time": "15:00",
@@ -75,13 +75,6 @@
         "publishedAt": "2026-11-12T02:54:37.000Z"
       },
       {
-        "time": "10:50",
-        "title": "スペイン 14年ぶりの全国ゼネスト",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602272?source=rss",
-        "publishedAt": "2026-11-12T01:50:03.000Z"
-      },
-      {
         "time": "09:12",
         "title": "露ウ 大規模な捕虜交換で合意",
         "source": "Yahoo!ニュース",
@@ -89,18 +82,25 @@
         "publishedAt": "2026-11-12T00:12:28.000Z"
       },
       {
-        "time": "14:05",
-        "title": "海外からマンジャロ 韓国が容認",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602299?source=rss",
-        "publishedAt": "2026-11-12T05:05:34.000Z"
-      },
-      {
         "time": "11:51",
         "title": "駐米ロシア大使が死去 疾患が原因",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6602285?source=rss",
         "publishedAt": "2026-11-12T02:51:41.000Z"
+      },
+      {
+        "time": "23:26",
+        "title": "米国防長官ら 墓地で衛兵から叱責",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6602354?source=rss",
+        "publishedAt": "2026-11-12T14:26:32.000Z"
+      },
+      {
+        "time": "14:05",
+        "title": "海外からマンジャロ 韓国が容認",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6602299?source=rss",
+        "publishedAt": "2026-11-12T05:05:34.000Z"
       }
     ],
     "economyHeadlines": [
@@ -170,6 +170,13 @@
         "publishedAt": "2026-11-12T09:42:53.000Z"
       },
       {
+        "time": "23:10",
+        "title": "銭湯侵入疑い 男は国際的犯罪Gか",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6602352?source=rss",
+        "publishedAt": "2026-11-12T14:10:37.000Z"
+      },
+      {
         "time": "19:18",
         "title": "筑波大付属小 第三者委いじめ認定",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6602347?source=rss",
         "publishedAt": "2026-11-12T13:05:20.000Z"
-      },
-      {
-        "time": "22:35",
-        "title": "適応障害は風邪 生徒に副校長発言",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602350?source=rss",
-        "publishedAt": "2026-11-12T13:35:04.000Z"
       }
     ],
     "subsidyHeadlines": [

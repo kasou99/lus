@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-12T14:12:08.998Z",
+  "updatedAt": "2026-11-12T14:36:23.577Z",
   "items": [
     {
       "time": "23:08",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "石破氏 採決で退席の小渕氏を評価"
     },
     {
-      "time": "22:02",
-      "title": "無印良品 クレカ番号流出巡る経緯",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602343?source=rss",
-      "publishedAt": "2026-11-12T13:02:08.000Z",
-      "xQuery": "無印良品 クレカ番号流出巡る経緯"
-    },
-    {
       "time": "22:34",
       "title": "タマホーム 5年以上前から不正か",
       "source": "Yahoo!ニュース",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6602347?source=rss",
       "publishedAt": "2026-11-12T13:05:20.000Z",
       "xQuery": "勤務先から21億円超横領疑い 逮捕"
+    },
+    {
+      "time": "22:35",
+      "title": "適応障害は風邪 生徒に副校長発言",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6602350?source=rss",
+      "publishedAt": "2026-11-12T13:35:04.000Z",
+      "xQuery": "適応障害は風邪 生徒に副校長発言"
     }
   ]
 };
