@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T06:20:07.760Z",
+  "updatedAt": "2026-11-12T06:41:00.970Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,13 +17,6 @@
         "publishedAt": "2026-11-12T05:01:03.000Z"
       },
       {
-        "time": "07:33",
-        "title": "工作機械の技術を人型ロボットへ 中国・三凱機電、関節用減速機を増産",
-        "source": "36Kr Japan",
-        "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTFBmdTlzUU5kUGpab205d1o0MTAyY2N2UmhGQ1JsaHRQZ1d5VkZLd2JXNXMxcFlGOXBpWFlr?oc=5",
-        "publishedAt": "2026-11-11T22:33:25.000Z"
-      },
-      {
         "time": "15:00",
         "title": "岡本工作機械（群馬・安中市）海外販売好調で増収 2026年9月中間決算",
         "source": "上毛新聞電子版",
@@ -31,11 +24,11 @@
         "publishedAt": "2026-11-12T06:00:00.000Z"
       },
       {
-        "time": "05:00",
-        "title": "工作機械4社、10月受注40％増 米中好調持続",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9rTXBXYkJERVJmMUMzV24wMEZQT0NVaklOR2hNLVF3SmszVVVGcTF5SnhPaXE2UHdOS1RkM0ZPS0EzOHlBcnhpLVUwUnUxc2dJbDlMYTh4WXg?oc=5",
-        "publishedAt": "2026-11-11T20:00:00.000Z"
+        "time": "07:33",
+        "title": "工作機械の技術を人型ロボットへ 中国・三凱機電、関節用減速機を増産",
+        "source": "36Kr Japan",
+        "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTFBmdTlzUU5kUGpab205d1o0MTAyY2N2UmhGQ1JsaHRQZ1d5VkZLd2JXNXMxcFlGOXBpWFlr?oc=5",
+        "publishedAt": "2026-11-11T22:33:25.000Z"
       },
       {
         "time": "10:39",
@@ -45,6 +38,13 @@
         "publishedAt": "2026-11-12T01:39:33.000Z"
       },
       {
+        "time": "05:00",
+        "title": "工作機械4社、10月受注40％増 米中好調持続",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9rTXBXYkJERVJmMUMzV24wMEZQT0NVaklOR2hNLVF3SmszVVVGcTF5SnhPaXE2UHdOS1RkM0ZPS0EzOHlBcnhpLVUwUnUxc2dJbDlMYTh4WXg?oc=5",
+        "publishedAt": "2026-11-11T20:00:00.000Z"
+      },
+      {
         "time": "15:00",
         "title": "リックス、27年3月期中間は増収増益 半導体・工作機械けん引 - NET-IB NEWS",
         "source": "NET-IB NEWS",
@@ -52,11 +52,11 @@
         "publishedAt": "2026-11-12T06:00:00.000Z"
       },
       {
-        "time": "15:26",
-        "title": "10月工作機械受注は前年比42.5％増、前月比8.4％減＝工作機械工業会 | ロイター",
-        "source": "Reuters",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPWUN2N3pTVk1PUkpTanVfY3duU1kwUFBJWFFkWWppd2V6NHZqYThXYmV6ODBJYkx1aFJhSGZqZ3Jhd1JBODVpMUZXUDVHMEF1OWQxTXYxLTNydnRnRW5YQS1nM2JGUl9KY3lZTnJLT1J0dXNfbVllQmFkdVdSdVBDSDVad0pVZw?oc=5",
-        "publishedAt": "2026-11-11T06:26:00.000Z"
+        "time": "10:33",
+        "title": "DMG森精機、生成AIで工作機械の不具合診断を支援 復旧時間の短縮へ「サービスエージェント」提供開始",
+        "source": "製造現場ドットコム",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9SS1RGQXNBdDVNbVRCVlcydHFKWC1Wa0gwdUpJeW9iWVd2aHpRRHlXdnFTazAyRzkxZWNIOTFIYmxfQ0hveUpJUmlR?oc=5",
+        "publishedAt": "2026-11-12T01:33:11.000Z"
       }
     ],
     "worldHeadlines": [
@@ -140,11 +140,11 @@
         "publishedAt": "2026-11-12T05:47:59.000Z"
       },
       {
-        "time": "13:38",
-        "title": "AIで飲食店の空席検索 3つの懸念",
+        "time": "15:38",
+        "title": "丸亀製麺 5商品を最大60円値下げ",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602281?source=rss",
-        "publishedAt": "2026-11-12T04:38:09.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6602304?source=rss",
+        "publishedAt": "2026-11-12T06:38:56.000Z"
       }
     ],
     "localHeadlines": [

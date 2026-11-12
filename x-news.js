@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-12T06:20:08.969Z",
+  "updatedAt": "2026-11-12T06:41:01.597Z",
   "items": [
     {
       "time": "14:07",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "上院選ミシシッピ州 民主勝利確実"
     },
     {
+      "time": "13:43",
+      "title": "すかいらーくHDがShin-Shin買収",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6602300?source=rss",
+      "publishedAt": "2026-11-12T04:43:45.000Z",
+      "xQuery": "すかいらーくHDがShin-Shin買収"
+    },
+    {
       "time": "13:38",
       "title": "AIで飲食店の空席検索 3つの懸念",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6602281?source=rss",
       "publishedAt": "2026-11-12T04:38:09.000Z",
       "xQuery": "AIで飲食店の空席検索 3つの懸念"
-    },
-    {
-      "time": "12:45",
-      "title": "鳥人間で東北大処分 当事者に聞く",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602293?source=rss",
-      "publishedAt": "2026-11-12T03:45:49.000Z",
-      "xQuery": "鳥人間で東北大処分 当事者に聞く"
     }
   ]
 };
