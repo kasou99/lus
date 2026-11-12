@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-12T03:13:29.716Z",
+  "updatedAt": "2026-11-12T03:36:14.557Z",
   "items": [
     {
       "time": "11:58",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "中継 良品計画の清水社長らが会見"
     },
     {
-      "time": "09:24",
-      "title": "減税法案 支援金対象は交渉切り札",
+      "time": "12:22",
+      "title": "交番襲撃差し戻し審 男に死刑求刑",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602258?source=rss",
-      "publishedAt": "2026-11-12T00:24:58.000Z",
-      "xQuery": "減税法案 支援金対象は交渉切り札"
+      "url": "https://news.yahoo.co.jp/pickup/6602291?source=rss",
+      "publishedAt": "2026-11-12T03:22:48.000Z",
+      "xQuery": "交番襲撃差し戻し審 男に死刑求刑"
     },
     {
       "time": "11:32",

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T03:13:28.910Z",
+  "updatedAt": "2026-11-12T03:36:13.672Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -149,13 +149,6 @@
     ],
     "localHeadlines": [
       {
-        "time": "08:17",
-        "title": "福山市で住宅が全焼 3人不明",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602249?source=rss",
-        "publishedAt": "2026-11-11T23:17:19.000Z"
-      },
-      {
         "time": "11:32",
         "title": "踏切内に車 列車と衝突し逃走",
         "source": "Yahoo!ニュース",
@@ -175,6 +168,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6602222?source=rss",
         "publishedAt": "2026-11-11T12:30:08.000Z"
+      },
+      {
+        "time": "12:22",
+        "title": "交番襲撃差し戻し審 男に死刑求刑",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6602291?source=rss",
+        "publishedAt": "2026-11-12T03:22:48.000Z"
       },
       {
         "time": "11:42",
