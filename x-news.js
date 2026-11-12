@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-12T21:09:59.542Z",
+  "updatedAt": "2026-11-12T21:35:31.228Z",
   "items": [
     {
       "time": "23:08",
@@ -18,6 +18,14 @@ window.LUS_X_NEWS = {
       "xQuery": "米ワシントンで銃撃事件 5人負傷"
     },
     {
+      "time": "06:11",
+      "title": "マイクロソフト「365」大規模障害",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6602357?source=rss",
+      "publishedAt": "2026-11-12T21:11:23.000Z",
+      "xQuery": "マイクロソフト「365」大規模障害"
+    },
+    {
       "time": "22:34",
       "title": "タマホーム 5年以上前から不正か",
       "source": "Yahoo!ニュース",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6602347?source=rss",
       "publishedAt": "2026-11-12T13:05:20.000Z",
       "xQuery": "勤務先から21億円超横領疑い 逮捕"
-    },
-    {
-      "time": "23:10",
-      "title": "銭湯侵入疑い 男は国際的犯罪Gか",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602352?source=rss",
-      "publishedAt": "2026-11-12T14:10:37.000Z",
-      "xQuery": "銭湯侵入疑い 男は国際的犯罪Gか"
     }
   ]
 };
