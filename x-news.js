@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-12T14:36:23.577Z",
+  "updatedAt": "2026-11-12T15:11:06.057Z",
   "items": [
     {
       "time": "23:08",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "エヌビディアのフアンCEOが辞任"
     },
     {
-      "time": "22:32",
-      "title": "石破氏 採決で退席の小渕氏を評価",
+      "time": "23:38",
+      "title": "米NYで建物崩壊8人死亡 17人負傷",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602349?source=rss",
-      "publishedAt": "2026-11-12T13:32:14.000Z",
-      "xQuery": "石破氏 採決で退席の小渕氏を評価"
+      "url": "https://news.yahoo.co.jp/pickup/6602355?source=rss",
+      "publishedAt": "2026-11-12T14:38:19.000Z",
+      "xQuery": "米NYで建物崩壊8人死亡 17人負傷"
     },
     {
       "time": "22:34",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "勤務先から21億円超横領疑い 逮捕"
     },
     {
-      "time": "22:35",
-      "title": "適応障害は風邪 生徒に副校長発言",
+      "time": "23:26",
+      "title": "米国防長官ら 墓地で衛兵から叱責",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602350?source=rss",
-      "publishedAt": "2026-11-12T13:35:04.000Z",
-      "xQuery": "適応障害は風邪 生徒に副校長発言"
+      "url": "https://news.yahoo.co.jp/pickup/6602354?source=rss",
+      "publishedAt": "2026-11-12T14:26:32.000Z",
+      "xQuery": "米国防長官ら 墓地で衛兵から叱責"
     }
   ]
 };

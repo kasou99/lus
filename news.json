@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T14:36:22.635Z",
+  "updatedAt": "2026-11-12T15:11:04.966Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -61,6 +61,20 @@
     ],
     "worldHeadlines": [
       {
+        "time": "09:12",
+        "title": "露ウ 大規模な捕虜交換で合意",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6602256?source=rss",
+        "publishedAt": "2026-11-12T00:12:28.000Z"
+      },
+      {
+        "time": "23:38",
+        "title": "米NYで建物崩壊8人死亡 17人負傷",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6602355?source=rss",
+        "publishedAt": "2026-11-12T14:38:19.000Z"
+      },
+      {
         "time": "13:44",
         "title": "米有権者 党派対立にも警戒感",
         "source": "Yahoo!ニュース",
@@ -75,13 +89,6 @@
         "publishedAt": "2026-11-12T02:54:37.000Z"
       },
       {
-        "time": "09:12",
-        "title": "露ウ 大規模な捕虜交換で合意",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602256?source=rss",
-        "publishedAt": "2026-11-12T00:12:28.000Z"
-      },
-      {
         "time": "11:51",
         "title": "駐米ロシア大使が死去 疾患が原因",
         "source": "Yahoo!ニュース",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6602354?source=rss",
         "publishedAt": "2026-11-12T14:26:32.000Z"
-      },
-      {
-        "time": "14:05",
-        "title": "海外からマンジャロ 韓国が容認",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602299?source=rss",
-        "publishedAt": "2026-11-12T05:05:34.000Z"
       }
     ],
     "economyHeadlines": [
