@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-12T10:36:26.325Z",
+  "updatedAt": "2026-11-12T11:10:30.644Z",
   "items": [
     {
       "time": "17:58",
@@ -8,14 +8,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6602323?source=rss",
       "publishedAt": "2026-11-12T08:58:43.000Z",
       "xQuery": "麻生氏 採決棄権の石破氏らに苦言"
-    },
-    {
-      "time": "18:31",
-      "title": "広い範囲で空気が乾燥 火災相次ぐ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602329?source=rss",
-      "publishedAt": "2026-11-12T09:31:59.000Z",
-      "xQuery": "広い範囲で空気が乾燥 火災相次ぐ"
     },
     {
       "time": "18:25",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6602316?source=rss",
       "publishedAt": "2026-11-12T08:08:13.000Z",
       "xQuery": "丸亀製麺が値下げ 社長語る危機感"
+    },
+    {
+      "time": "12:37",
+      "title": "Appleサポートコミュ 20日閉鎖へ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6602292?source=rss",
+      "publishedAt": "2026-11-12T03:37:32.000Z",
+      "xQuery": "Appleサポートコミュ 20日閉鎖へ"
     }
   ]
 };
