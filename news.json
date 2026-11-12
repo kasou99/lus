@@ -1,13 +1,20 @@
 {
-  "updatedAt": "2026-11-12T01:39:19.058Z",
+  "updatedAt": "2026-11-12T02:15:26.981Z",
   "groups": {
     "machineHeadlines": [
       {
         "time": "05:00",
-        "title": "工作機械4社、10月受注40％増 米中好調持続",
+        "title": "10月の工作機械受注、42％増 16カ月連続プラス",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9rTXBXYkJERVJmMUMzV24wMEZQT0NVaklOR2hNLVF3SmszVVVGcTF5SnhPaXE2UHdOS1RkM0ZPS0EzOHlBcnhpLVUwUnUxc2dJbDlMYTh4WXg?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1faEhOc1dRSUxJYmcxdG05cl8wSGk0c1dGT3o5aXZBNldtenU0VEViblZiQXlFUVcyWkloSXJRNUFNYTdoeDRFRmRLWWZDckhHU2J1NkF5TWc?oc=5",
         "publishedAt": "2026-11-11T20:00:00.000Z"
+      },
+      {
+        "time": "10:33",
+        "title": "2026年9月分工作機械受注総額は1978.7億円",
+        "source": "製造現場ドットコム",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB4NWwydmdlX3kyQ2FxMXc2RGlWWngyWmRFT01oWVh3a0Q2MFQ5c3ZXOUZ5RkNQVDN0VlJQaXVpcnlPZEQ0LVNJLXV3?oc=5",
+        "publishedAt": "2026-11-12T01:33:14.000Z"
       },
       {
         "time": "15:26",
@@ -45,27 +52,20 @@
         "publishedAt": "2026-11-11T06:25:00.000Z"
       },
       {
-        "time": "05:45",
-        "title": "日本製鉄発のベンチャーKAMAMESHIらが解説。「壊れてから」では遅い設備保全と輸送トラブルを、データで未然に防ぐ3講演、「すぐマネできる！事例紹介セミナー」第4弾＜12/9・10・参加無料",
-        "source": "Excite エキサイト",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9CLWJaT1N0UlE4SFZSMk9CUGhQZmZ6TzQ5WWtteURwYVZCQ2xrbjhxNUZvdGdIalFxdGc2bW1nZ24tSlJIc0l0ZmVNOUwyRzcwdlFuNEZQaERBX09ZRTlmcXF1NzBOeW0zTDFrZGdfdU53UU0?oc=5",
-        "publishedAt": "2026-11-11T20:45:00.000Z"
-      },
-      {
-        "time": "22:51",
-        "title": "エクサ、生化学工業の「設備起因による生産機会損失“0”」に向け、設備保全管理の高度化を構想策定から推進",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1jZlk5YnNWMzJPVDFpQjltc254T3RCRkN3SF9INTZrSGdtV2ZEX29ZZlNURnRZVjlMUEFITjNHaXltUU9DdXNWNF90a1VHSHJnRUpxc3lwa1BrTG1mTVcxdzJfU1Bfa09sNy1vdHA3R09pYUp1WlE?oc=5",
-        "publishedAt": "2026-11-11T13:51:14.000Z"
+        "time": "05:00",
+        "title": "工作機械4社、10月受注40％増 米中好調持続",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9rTXBXYkJERVJmMUMzV24wMEZQT0NVaklOR2hNLVF3SmszVVVGcTF5SnhPaXE2UHdOS1RkM0ZPS0EzOHlBcnhpLVUwUnUxc2dJbDlMYTh4WXg?oc=5",
+        "publishedAt": "2026-11-11T20:00:00.000Z"
       }
     ],
     "worldHeadlines": [
       {
-        "time": "09:55",
-        "title": "スペインでゼネスト 400万人参加",
+        "time": "10:50",
+        "title": "スペイン 14年ぶりの全国ゼネスト",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602261?source=rss",
-        "publishedAt": "2026-11-12T00:55:43.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6602272?source=rss",
+        "publishedAt": "2026-11-12T01:50:03.000Z"
       },
       {
         "time": "09:12",
@@ -105,11 +105,11 @@
     ],
     "economyHeadlines": [
       {
-        "time": "08:20",
-        "title": "エヌビディアがCEO解任準備 報道",
+        "time": "11:01",
+        "title": "CEOの解任可否を決定へ NVIDIA",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602248?source=rss",
-        "publishedAt": "2026-11-11T23:20:47.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6602271?source=rss",
+        "publishedAt": "2026-11-12T02:01:03.000Z"
       },
       {
         "time": "10:27",

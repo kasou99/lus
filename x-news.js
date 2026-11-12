@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-12T01:39:19.949Z",
+  "updatedAt": "2026-11-12T02:15:28.338Z",
   "items": [
     {
       "time": "09:24",
@@ -18,20 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "懸命に働くは美徳51% 読売調査"
     },
     {
-      "time": "08:20",
-      "title": "エヌビディアがCEO解任準備 報道",
+      "time": "11:01",
+      "title": "CEOの解任可否を決定へ NVIDIA",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602248?source=rss",
-      "publishedAt": "2026-11-11T23:20:47.000Z",
-      "xQuery": "エヌビディアがCEO解任準備 報道"
-    },
-    {
-      "time": "10:27",
-      "title": "CEO去就巡る報道 NVIDIA株下落",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602266?source=rss",
-      "publishedAt": "2026-11-12T01:27:01.000Z",
-      "xQuery": "CEO去就巡る報道 NVIDIA株下落"
+      "url": "https://news.yahoo.co.jp/pickup/6602271?source=rss",
+      "publishedAt": "2026-11-12T02:01:03.000Z",
+      "xQuery": "CEOの解任可否を決定へ NVIDIA"
     },
     {
       "time": "09:11",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6602254?source=rss",
       "publishedAt": "2026-11-12T00:11:57.000Z",
       "xQuery": "EU「ダークパターン」禁止へ"
+    },
+    {
+      "time": "10:08",
+      "title": "イベ閑散波紋 出演料まだ払われず",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6602265?source=rss",
+      "publishedAt": "2026-11-12T01:08:57.000Z",
+      "xQuery": "イベ閑散波紋 出演料まだ払われず"
     }
   ]
 };
