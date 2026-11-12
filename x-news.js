@@ -1,14 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-12T09:36:56.115Z",
+  "updatedAt": "2026-11-12T10:11:27.561Z",
   "items": [
-    {
-      "time": "16:04",
-      "title": "良品計画の社長 情報流出巡り謝罪",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602308?source=rss",
-      "publishedAt": "2026-11-12T07:04:58.000Z",
-      "xQuery": "良品計画の社長 情報流出巡り謝罪"
-    },
     {
       "time": "17:58",
       "title": "麻生氏 採決棄権の石破氏らに苦言",
@@ -16,6 +8,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6602323?source=rss",
       "publishedAt": "2026-11-12T08:58:43.000Z",
       "xQuery": "麻生氏 採決棄権の石破氏らに苦言"
+    },
+    {
+      "time": "18:36",
+      "title": "日銀委員 利上げで経済減速懸念",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6602330?source=rss",
+      "publishedAt": "2026-11-12T09:36:00.000Z",
+      "xQuery": "日銀委員 利上げで経済減速懸念"
     },
     {
       "time": "18:25",
