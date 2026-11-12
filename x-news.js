@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-12T01:11:43.532Z",
+  "updatedAt": "2026-11-12T01:39:19.949Z",
   "items": [
     {
-      "time": "07:40",
-      "title": "違憲状態解決策見えず 合区に限界",
+      "time": "09:24",
+      "title": "減税法案 支援金対象は交渉切り札",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602244?source=rss",
-      "publishedAt": "2026-11-11T22:40:54.000Z",
-      "xQuery": "違憲状態解決策見えず 合区に限界"
+      "url": "https://news.yahoo.co.jp/pickup/6602258?source=rss",
+      "publishedAt": "2026-11-12T00:24:58.000Z",
+      "xQuery": "減税法案 支援金対象は交渉切り札"
     },
     {
-      "time": "09:12",
-      "title": "露ウ 大規模な捕虜交換で合意",
+      "time": "07:30",
+      "title": "懸命に働くは美徳51% 読売調査",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602256?source=rss",
-      "publishedAt": "2026-11-12T00:12:28.000Z",
-      "xQuery": "露ウ 大規模な捕虜交換で合意"
+      "url": "https://news.yahoo.co.jp/pickup/6602243?source=rss",
+      "publishedAt": "2026-11-11T22:30:24.000Z",
+      "xQuery": "懸命に働くは美徳51% 読売調査"
     },
     {
       "time": "08:20",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "エヌビディアがCEO解任準備 報道"
     },
     {
+      "time": "10:27",
+      "title": "CEO去就巡る報道 NVIDIA株下落",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6602266?source=rss",
+      "publishedAt": "2026-11-12T01:27:01.000Z",
+      "xQuery": "CEO去就巡る報道 NVIDIA株下落"
+    },
+    {
       "time": "09:11",
       "title": "EU「ダークパターン」禁止へ",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6602254?source=rss",
       "publishedAt": "2026-11-12T00:11:57.000Z",
       "xQuery": "EU「ダークパターン」禁止へ"
-    },
-    {
-      "time": "10:08",
-      "title": "イベ閑散波紋 出演料まだ払われず",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602265?source=rss",
-      "publishedAt": "2026-11-12T01:08:57.000Z",
-      "xQuery": "イベ閑散波紋 出演料まだ払われず"
     }
   ]
 };
