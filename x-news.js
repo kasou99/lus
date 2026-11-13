@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-13T11:10:15.628Z",
+  "updatedAt": "2026-11-13T11:35:23.329Z",
   "items": [
     {
-      "time": "17:08",
-      "title": "支援金 勤労者全体の5割以上検討",
+      "time": "19:47",
+      "title": "個人向け国債NISA化 見送りで調整",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602431?source=rss",
-      "publishedAt": "2026-11-13T08:08:14.000Z",
-      "xQuery": "支援金 勤労者全体の5割以上検討"
+      "url": "https://news.yahoo.co.jp/pickup/6602452?source=rss",
+      "publishedAt": "2026-11-13T10:47:40.000Z",
+      "xQuery": "個人向け国債NISA化 見送りで調整"
     },
     {
       "time": "19:00",

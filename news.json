@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T11:10:15.175Z",
+  "updatedAt": "2026-11-13T11:35:22.440Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,6 +31,13 @@
         "publishedAt": "2026-11-12T23:00:00.000Z"
       },
       {
+        "time": "20:24",
+        "title": "10億ドル規模の日本サーボモーター・ドライブ市場：産業価値と今後の見通し、2026年から",
+        "source": "pando.life",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBZM250X25DMi1neERiMnY1bkttQUtWTDFfOEtMWVRyRDBxQzliOEM1WXBkMUF2Qm4yWGlyV3hKeG45S1FVM0tDWUJn?oc=5",
+        "publishedAt": "2026-11-13T11:24:06.000Z"
+      },
+      {
         "time": "14:00",
         "title": "Cognitech.DEV、設備保全AI「HOZEN」の共同実証先5社を募集 フィジカルAIへの3段階ロードマップを発表",
         "source": "PR TIMES",
@@ -50,13 +57,6 @@
         "source": "ニコニコニュース",
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9xVmFKQlh4VGxMd2YzTnFNS052YnpBRTJ6WEgxT0hQTThNRHhSQzd0RnJoOF9pcENPd2FDS1VLME43Unp5cHpHbVd4SVdTNlpFdlhMTVVYejV6VXVYNjdmNml6QkhzZ1Vf?oc=5",
         "publishedAt": "2026-11-13T02:15:13.000Z"
-      },
-      {
-        "time": "16:37",
-        "title": "Cognitech.DEVが設備保全AI「HOZEN」の共同実証パートナーを5社募集する理由とその魅力",
-        "source": "ニュースメディアVOIX",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE02TUJfTkloRlh3QkYxR2o0N3JUT095TnNhMllpQTFKNm1WT013ZU9HdC12N1NYaXlMeFduU2tZUHdDRmppUVlLbGt4dTJjeUh3dV9BTVVrUTdWZDRPdm9tRlg4MDYtY3prVlhj?oc=5",
-        "publishedAt": "2026-11-13T07:37:43.000Z"
       }
     ],
     "worldHeadlines": [
