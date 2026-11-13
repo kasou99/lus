@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-13T10:11:27.971Z",
+  "updatedAt": "2026-11-13T10:35:57.083Z",
   "items": [
     {
       "time": "17:08",
@@ -18,28 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "GMO攻撃 被害申告は29.9億円に"
     },
     {
+      "time": "19:14",
+      "title": "Microsoft障害 復旧の兆し",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6602451?source=rss",
+      "publishedAt": "2026-11-13T10:14:50.000Z",
+      "xQuery": "Microsoft障害 復旧の兆し"
+    },
+    {
+      "time": "18:19",
+      "title": "損保3社タマホーム保険販売停止へ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6602444?source=rss",
+      "publishedAt": "2026-11-13T09:19:53.000Z",
+      "xQuery": "損保3社タマホーム保険販売停止へ"
+    },
+    {
       "time": "18:21",
       "title": "3歳長女を殴り殺害疑い 父親逮捕",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6602445?source=rss",
       "publishedAt": "2026-11-13T09:21:12.000Z",
       "xQuery": "3歳長女を殴り殺害疑い 父親逮捕"
-    },
-    {
-      "time": "17:07",
-      "title": "女性2人死亡 トラックひき逃げか",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602432?source=rss",
-      "publishedAt": "2026-11-13T08:07:42.000Z",
-      "xQuery": "女性2人死亡 トラックひき逃げか"
-    },
-    {
-      "time": "17:40",
-      "title": "北朝鮮が国旗規格変更 建国以来初",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602436?source=rss",
-      "publishedAt": "2026-11-13T08:40:15.000Z",
-      "xQuery": "北朝鮮が国旗規格変更 建国以来初"
     }
   ]
 };
