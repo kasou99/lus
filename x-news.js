@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-13T04:35:50.685Z",
+  "updatedAt": "2026-11-13T05:11:32.129Z",
   "items": [
+    {
+      "time": "12:57",
+      "title": "イラン側 バーレーンの米施設攻撃",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6602406?source=rss",
+      "publishedAt": "2026-11-13T03:57:37.000Z",
+      "xQuery": "イラン側 バーレーンの米施設攻撃"
+    },
     {
       "time": "11:50",
       "title": "冬の電気・ガスなど支援 6500億円",
@@ -8,14 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6602397?source=rss",
       "publishedAt": "2026-11-13T02:50:29.000Z",
       "xQuery": "冬の電気・ガスなど支援 6500億円"
-    },
-    {
-      "time": "11:42",
-      "title": "土木職員 今春45都道府県定員割れ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602395?source=rss",
-      "publishedAt": "2026-11-13T02:42:29.000Z",
-      "xQuery": "土木職員 今春45都道府県定員割れ"
     },
     {
       "time": "12:06",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "元恋人にいいね14回押し有罪 解説"
     },
     {
-      "time": "11:04",
-      "title": "奈良で妻が行方不明 捜索続け12年",
+      "time": "12:32",
+      "title": "磁気テープ再注目 流出リスク低く",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602389?source=rss",
-      "publishedAt": "2026-11-13T02:04:30.000Z",
-      "xQuery": "奈良で妻が行方不明 捜索続け12年"
+      "url": "https://news.yahoo.co.jp/pickup/6602402?source=rss",
+      "publishedAt": "2026-11-13T03:32:45.000Z",
+      "xQuery": "磁気テープ再注目 流出リスク低く"
     }
   ]
 };
