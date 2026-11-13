@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T01:39:08.543Z",
+  "updatedAt": "2026-11-13T02:13:49.169Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -24,18 +24,18 @@
         "publishedAt": "2026-11-12T12:04:00.000Z"
       },
       {
-        "time": "10:57",
-        "title": "工作機械受注が教えてくれる日本株・世界経済（26 年10 月） | 藤代 宏一 | 第一ライフ資産運用経済研究所",
-        "source": "第一ライフ資産運用経済研究所",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Ua2xOaWxMaGFIaEJDZTZfdzRuQXJ5NXRGR2R0aVR6VGprWVo4QlpmdDFxVWUyVlNkMXB0QUFrcmNFYWFuNTk2QlBvdjdlZVAtSnZEUmhvcExZRms?oc=5",
-        "publishedAt": "2026-11-12T01:57:17.000Z"
-      },
-      {
         "time": "17:04",
         "title": "決算:シチズンの純利益29％増に上振れ 27年3月期、時計や工作機械けん引",
         "source": "日本経済新聞",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4wd1ZTcFg1NU9VRlgtNkhucjBMWnA0RGVtUEdaaVVxZDF1SDl6OHNZSHVYY1dCclhxaGZpa1E4V1p1WjFIZVJQUUVNcUZtekhPSlRhUTA1NFliclFOOEdKWDA4SklCVTVDWjJKbg?oc=5",
         "publishedAt": "2026-11-12T08:04:20.000Z"
+      },
+      {
+        "time": "05:00",
+        "title": "さあ出番／東海高周波社長に就任した広瀬和弘氏 高周波技術の用途拡大",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9KOU50b1EwS2o3bF9fY3BEY3lXYnVxOUFYdGJRNzlMNFZOWXBlY2xlMXp1VUNvNjNYbm5mR1RnSHNmQU5qd1BKYk42NGszWGdBV1lJcjgyVkE?oc=5",
+        "publishedAt": "2026-11-12T20:00:00.000Z"
       },
       {
         "time": "15:00",
@@ -119,6 +119,13 @@
         "publishedAt": "2026-11-12T14:08:14.000Z"
       },
       {
+        "time": "11:06",
+        "title": "メルセデス 独工場の一部閉鎖検討",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6602392?source=rss",
+        "publishedAt": "2026-11-13T02:06:47.000Z"
+      },
+      {
         "time": "09:40",
         "title": "ワタミがMBO検討 きょう付議へ",
         "source": "Yahoo!ニュース",
@@ -131,13 +138,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6602348?source=rss",
         "publishedAt": "2026-11-12T13:34:28.000Z"
-      },
-      {
-        "time": "22:02",
-        "title": "無印良品 クレカ番号流出巡る経緯",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602343?source=rss",
-        "publishedAt": "2026-11-12T13:02:08.000Z"
       },
       {
         "time": "19:02",
@@ -177,18 +177,18 @@
         "publishedAt": "2026-11-12T14:10:37.000Z"
       },
       {
-        "time": "19:18",
-        "title": "筑波大付属小 第三者委いじめ認定",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602333?source=rss",
-        "publishedAt": "2026-11-12T10:18:09.000Z"
-      },
-      {
         "time": "22:05",
         "title": "勤務先から21億円超横領疑い 逮捕",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6602347?source=rss",
         "publishedAt": "2026-11-12T13:05:20.000Z"
+      },
+      {
+        "time": "22:35",
+        "title": "適応障害は風邪 生徒に副校長発言",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6602350?source=rss",
+        "publishedAt": "2026-11-12T13:35:04.000Z"
       }
     ],
     "subsidyHeadlines": [

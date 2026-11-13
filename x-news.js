@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-13T01:39:10.095Z",
+  "updatedAt": "2026-11-13T02:13:49.913Z",
   "items": [
     {
       "time": "09:02",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "思いやり予算 5年3兆円超を米要求"
     },
     {
-      "time": "07:59",
-      "title": "首相 防衛費巡る「大幅増税」慎重",
+      "time": "10:00",
+      "title": "参議院議員の山崎正昭氏が死去",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602369?source=rss",
-      "publishedAt": "2026-11-12T22:59:30.000Z",
-      "xQuery": "首相 防衛費巡る「大幅増税」慎重"
+      "url": "https://news.yahoo.co.jp/pickup/6602385?source=rss",
+      "publishedAt": "2026-11-13T01:00:12.000Z",
+      "xQuery": "参議院議員の山崎正昭氏が死去"
     },
     {
       "time": "10:01",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "Microsoft障害 全面復旧は未定"
     },
     {
-      "time": "10:00",
-      "title": "参議院議員の山崎正昭氏が死去",
+      "time": "11:06",
+      "title": "メルセデス 独工場の一部閉鎖検討",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602385?source=rss",
-      "publishedAt": "2026-11-13T01:00:12.000Z",
-      "xQuery": "参議院議員の山崎正昭氏が死去"
+      "url": "https://news.yahoo.co.jp/pickup/6602392?source=rss",
+      "publishedAt": "2026-11-13T02:06:47.000Z",
+      "xQuery": "メルセデス 独工場の一部閉鎖検討"
     },
     {
-      "time": "09:40",
-      "title": "ワタミがMBO検討 きょう付議へ",
+      "time": "11:04",
+      "title": "奈良で妻が行方不明 捜索続け12年",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602380?source=rss",
-      "publishedAt": "2026-11-13T00:40:03.000Z",
-      "xQuery": "ワタミがMBO検討 きょう付議へ"
+      "url": "https://news.yahoo.co.jp/pickup/6602389?source=rss",
+      "publishedAt": "2026-11-13T02:04:30.000Z",
+      "xQuery": "奈良で妻が行方不明 捜索続け12年"
     }
   ]
 };
