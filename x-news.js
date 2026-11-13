@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-13T12:36:14.778Z",
+  "updatedAt": "2026-11-13T13:10:53.478Z",
   "items": [
     {
       "time": "19:47",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "Microsoft障害 復旧の兆し"
     },
     {
-      "time": "18:19",
-      "title": "損保3社タマホーム保険販売停止へ",
+      "time": "20:59",
+      "title": "発達障害の娘 支え続けた母の思い",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602444?source=rss",
-      "publishedAt": "2026-11-13T09:19:53.000Z",
-      "xQuery": "損保3社タマホーム保険販売停止へ"
+      "url": "https://news.yahoo.co.jp/pickup/6602456?source=rss",
+      "publishedAt": "2026-11-13T11:59:02.000Z",
+      "xQuery": "発達障害の娘 支え続けた母の思い"
     },
     {
-      "time": "18:21",
-      "title": "3歳長女を殴り殺害疑い 父親逮捕",
+      "time": "20:30",
+      "title": "社内イベ「忘新年会」など大幅減",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602445?source=rss",
-      "publishedAt": "2026-11-13T09:21:12.000Z",
-      "xQuery": "3歳長女を殴り殺害疑い 父親逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6602457?source=rss",
+      "publishedAt": "2026-11-13T11:30:25.000Z",
+      "xQuery": "社内イベ「忘新年会」など大幅減"
     }
   ]
 };
