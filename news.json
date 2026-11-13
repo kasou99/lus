@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T10:35:56.408Z",
+  "updatedAt": "2026-11-13T11:10:15.175Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,13 +38,6 @@
         "publishedAt": "2026-11-13T05:00:12.000Z"
       },
       {
-        "time": "16:25",
-        "title": "間接材トータルコストダウンサービス「MISUMI floow」 三菱電機 尾張旭工場にMISUMI floowを導入",
-        "source": "浜松経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBVVUNaX3piQ1FDcWFYcGRYZFdDWEd3SkRqREZKRWlhRkw0S3g2eFhNLUhTdnNLbnRmT2d3emRjVnlCWnpzVjlNSF9hMF91VEJYNFRyMkxjaw?oc=5",
-        "publishedAt": "2026-11-13T07:25:49.000Z"
-      },
-      {
         "time": "21:04",
         "title": "【健椿 FY2026 Q3 決算説明会】中国工作機械市場が力強く回復 健椿の前三季税後純利益は1.2億台湾ドル、前年比4.8倍増 EPS 2.06台湾ドル",
         "source": "BigGo ファイナンス",
@@ -57,6 +50,13 @@
         "source": "ニコニコニュース",
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9xVmFKQlh4VGxMd2YzTnFNS052YnpBRTJ6WEgxT0hQTThNRHhSQzd0RnJoOF9pcENPd2FDS1VLME43Unp5cHpHbVd4SVdTNlpFdlhMTVVYejV6VXVYNjdmNml6QkhzZ1Vf?oc=5",
         "publishedAt": "2026-11-13T02:15:13.000Z"
+      },
+      {
+        "time": "16:37",
+        "title": "Cognitech.DEVが設備保全AI「HOZEN」の共同実証パートナーを5社募集する理由とその魅力",
+        "source": "ニュースメディアVOIX",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE02TUJfTkloRlh3QkYxR2o0N3JUT095TnNhMllpQTFKNm1WT013ZU9HdC12N1NYaXlMeFduU2tZUHdDRmppUVlLbGt4dTJjeUh3dV9BTVVrUTdWZDRPdm9tRlg4MDYtY3prVlhj?oc=5",
+        "publishedAt": "2026-11-13T07:37:43.000Z"
       }
     ],
     "worldHeadlines": [
@@ -105,6 +105,13 @@
     ],
     "economyHeadlines": [
       {
+        "time": "19:47",
+        "title": "個人向け国債NISA化 見送りで調整",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6602452?source=rss",
+        "publishedAt": "2026-11-13T10:47:40.000Z"
+      },
+      {
         "time": "18:19",
         "title": "損保3社タマホーム保険販売停止へ",
         "source": "Yahoo!ニュース",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6602391?source=rss",
         "publishedAt": "2026-11-13T02:30:48.000Z"
-      },
-      {
-        "time": "06:59",
-        "title": "エヌビディアCEO辞任 動揺広がる",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602361?source=rss",
-        "publishedAt": "2026-11-12T21:59:48.000Z"
       }
     ],
     "localHeadlines": [

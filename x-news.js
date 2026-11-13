@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-13T10:35:57.083Z",
+  "updatedAt": "2026-11-13T11:10:15.628Z",
   "items": [
     {
       "time": "17:08",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "支援金 勤労者全体の5割以上検討"
     },
     {
-      "time": "16:52",
-      "title": "GMO攻撃 被害申告は29.9億円に",
+      "time": "19:00",
+      "title": "ニデック 年内の臨時株主総会断念",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602430?source=rss",
-      "publishedAt": "2026-11-13T07:52:08.000Z",
-      "xQuery": "GMO攻撃 被害申告は29.9億円に"
+      "url": "https://news.yahoo.co.jp/pickup/6602448?source=rss",
+      "publishedAt": "2026-11-13T10:00:14.000Z",
+      "xQuery": "ニデック 年内の臨時株主総会断念"
     },
     {
       "time": "19:14",
