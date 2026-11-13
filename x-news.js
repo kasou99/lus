@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-13T14:35:43.681Z",
+  "updatedAt": "2026-11-13T15:10:27.663Z",
   "items": [
     {
-      "time": "23:16",
-      "title": "MS障害 日本は比較的安定状態",
+      "time": "23:48",
+      "title": "自衛官の給与引き上げ法が成立",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602477?source=rss",
-      "publishedAt": "2026-11-13T14:16:12.000Z",
-      "xQuery": "MS障害 日本は比較的安定状態"
+      "url": "https://news.yahoo.co.jp/pickup/6602480?source=rss",
+      "publishedAt": "2026-11-13T14:48:03.000Z",
+      "xQuery": "自衛官の給与引き上げ法が成立"
     },
     {
       "time": "21:44",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "大雨被害の由利本荘市 災害死判断"
     },
     {
-      "time": "22:14",
-      "title": "「週明け怖い」MS障害の影響広く",
+      "time": "23:16",
+      "title": "MS障害 日本は比較的安定状態",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602468?source=rss",
-      "publishedAt": "2026-11-13T13:14:51.000Z",
-      "xQuery": "「週明け怖い」MS障害の影響広く"
+      "url": "https://news.yahoo.co.jp/pickup/6602477?source=rss",
+      "publishedAt": "2026-11-13T14:16:12.000Z",
+      "xQuery": "MS障害 日本は比較的安定状態"
     },
     {
       "time": "22:18",
