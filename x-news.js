@@ -1,13 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-13T07:36:22.762Z",
+  "updatedAt": "2026-11-13T08:14:34.086Z",
   "items": [
     {
-      "time": "14:37",
-      "title": "政府 ロシアに首脳会談を打診",
+      "time": "17:08",
+      "title": "支援金 勤労者全体の5割以上検討",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602418?source=rss",
-      "publishedAt": "2026-11-13T05:37:03.000Z",
-      "xQuery": "政府 ロシアに首脳会談を打診"
+      "url": "https://news.yahoo.co.jp/pickup/6602431?source=rss",
+      "publishedAt": "2026-11-13T08:08:14.000Z",
+      "xQuery": "支援金 勤労者全体の5割以上検討"
+    },
+    {
+      "time": "16:52",
+      "title": "GMO攻撃 被害申告は29.9億円に",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6602430?source=rss",
+      "publishedAt": "2026-11-13T07:52:08.000Z",
+      "xQuery": "GMO攻撃 被害申告は29.9億円に"
     },
     {
       "time": "15:48",
@@ -16,14 +24,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6602424?source=rss",
       "publishedAt": "2026-11-13T06:48:40.000Z",
       "xQuery": "メール障害で納期遅延 法的扱いは"
-    },
-    {
-      "time": "14:43",
-      "title": "クレカ不正利用 新たな手口に注意",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602420?source=rss",
-      "publishedAt": "2026-11-13T05:43:47.000Z",
-      "xQuery": "クレカ不正利用 新たな手口に注意"
     },
     {
       "time": "15:30",

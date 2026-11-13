@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T07:36:22.137Z",
+  "updatedAt": "2026-11-13T08:14:33.300Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -15,6 +15,13 @@
         "source": "Yahoo!ファイナンス",
         "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSUtYWm5PVWJUMmRXTVdhVWpNOWdFNFRyWDNMd2RhRDVXT3lFNHNiek5vdmpFVHdaX2piajdibkJyWU1wUERfOGU1WmpVSGRuN3R3SEdGX3M0WDM2djU5d0doa0ZZSjZrMDlUM1NhQWxoSjMzYjVnWVF6ekluQnZOUGtCeEY5UjQ?oc=5",
         "publishedAt": "2026-11-13T00:36:28.000Z"
+      },
+      {
+        "time": "15:00",
+        "title": "エンシュウ[6218]：業績予想及び配当予想の修正並びに特別損失の計上に関するお知らせ 2026年11月13日(適時開示) ：日経会社情報DIGITAL",
+        "source": "日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9iWXpNZE1BNjhPdTdsRHU2ZjA3SkQ1dlRqMjhhTEt6dlQ5S0NGRXlHeGpjeVJ6LWI4bzNLdTFhMTVqWUxvMTFSbkFRTFVwOHIzUTFtd21nbXBGclhoRmZKdVNEb25VZnEzVHc?oc=5",
+        "publishedAt": "2026-11-13T06:00:00.000Z"
       },
       {
         "time": "12:59",
@@ -50,13 +57,6 @@
         "source": "BigGo ファイナンス",
         "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8xZnhGdXNEOUdRbjctUHFKSGtwdHVVWFpGQUxtWEd6b1Y1RFN4Rkd3UVlCdjdlNjJyWG1PQ2o4aDlGcktXM2hoUkVpSGRGMmQ1a3V3UVdLWUxYTFhVNUE2Wg?oc=5",
         "publishedAt": "2026-11-12T12:04:00.000Z"
-      },
-      {
-        "time": "11:15",
-        "title": "“削る瞬間の手応え”までリアルに再現。製造業・教育機関向け「XR旋盤トレーナー」をローンチ、受注受付を開始",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9xVmFKQlh4VGxMd2YzTnFNS052YnpBRTJ6WEgxT0hQTThNRHhSQzd0RnJoOF9pcENPd2FDS1VLME43Unp5cHpHbVd4SVdTNlpFdlhMTVVYejV6VXVYNjdmNml6QkhzZ1Vf?oc=5",
-        "publishedAt": "2026-11-13T02:15:13.000Z"
       }
     ],
     "worldHeadlines": [
@@ -163,6 +163,13 @@
         "publishedAt": "2026-11-13T05:19:30.000Z"
       },
       {
+        "time": "17:07",
+        "title": "女性2人死亡 トラックひき逃げか",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6602432?source=rss",
+        "publishedAt": "2026-11-13T08:07:42.000Z"
+      },
+      {
         "time": "22:05",
         "title": "勤務先から21億円超横領疑い 逮捕",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6602423?source=rss",
         "publishedAt": "2026-11-13T06:30:33.000Z"
-      },
-      {
-        "time": "12:30",
-        "title": "市議兼業 売名と言われたアイドル",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602404?source=rss",
-        "publishedAt": "2026-11-13T03:30:54.000Z"
       }
     ],
     "subsidyHeadlines": [
