@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-13T00:30:07.113Z",
+  "updatedAt": "2026-11-13T00:48:51.006Z",
   "items": [
     {
       "time": "09:02",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "「Microsoft 365」で大規模障害"
     },
     {
-      "time": "08:32",
-      "title": "イノシシに襲われ重傷 夫語る状況",
+      "time": "09:40",
+      "title": "ワタミがMBO検討 きょう付議へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602374?source=rss",
-      "publishedAt": "2026-11-12T23:32:04.000Z",
-      "xQuery": "イノシシに襲われ重傷 夫語る状況"
+      "url": "https://news.yahoo.co.jp/pickup/6602380?source=rss",
+      "publishedAt": "2026-11-13T00:40:03.000Z",
+      "xQuery": "ワタミがMBO検討 きょう付議へ"
     },
     {
-      "time": "08:36",
-      "title": "丸亀製麺の値下げ 「逆張り」真髄",
+      "time": "09:29",
+      "title": "米国防長官 自身注意の衛兵に勲章",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602372?source=rss",
-      "publishedAt": "2026-11-12T23:36:10.000Z",
-      "xQuery": "丸亀製麺の値下げ 「逆張り」真髄"
+      "url": "https://news.yahoo.co.jp/pickup/6602379?source=rss",
+      "publishedAt": "2026-11-13T00:29:49.000Z",
+      "xQuery": "米国防長官 自身注意の衛兵に勲章"
     }
   ]
 };
