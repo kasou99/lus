@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-13T13:35:45.817Z",
+  "updatedAt": "2026-11-13T14:11:35.896Z",
   "items": [
     {
       "time": "19:47",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "ワタミがMBO実施へ 320億円程度"
     },
     {
-      "time": "20:59",
-      "title": "発達障害の娘 支え続けた母の思い",
+      "time": "22:52",
+      "title": "ひき逃げか 2人死亡で関係者聴取",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602456?source=rss",
-      "publishedAt": "2026-11-13T11:59:02.000Z",
-      "xQuery": "発達障害の娘 支え続けた母の思い"
+      "url": "https://news.yahoo.co.jp/pickup/6602473?source=rss",
+      "publishedAt": "2026-11-13T13:52:45.000Z",
+      "xQuery": "ひき逃げか 2人死亡で関係者聴取"
     }
   ]
 };
