@@ -1,21 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-13T02:36:04.903Z",
+  "updatedAt": "2026-11-13T03:13:18.779Z",
   "items": [
     {
-      "time": "11:30",
-      "title": "エヌビディア 暫定CEOにクレス氏",
+      "time": "11:50",
+      "title": "冬の電気・ガスなど支援 6500億円",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602391?source=rss",
-      "publishedAt": "2026-11-13T02:30:48.000Z",
-      "xQuery": "エヌビディア 暫定CEOにクレス氏"
+      "url": "https://news.yahoo.co.jp/pickup/6602397?source=rss",
+      "publishedAt": "2026-11-13T02:50:29.000Z",
+      "xQuery": "冬の電気・ガスなど支援 6500億円"
     },
     {
-      "time": "10:00",
-      "title": "参議院議員の山崎正昭氏が死去",
+      "time": "11:42",
+      "title": "土木職員 今春45都道府県定員割れ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602385?source=rss",
-      "publishedAt": "2026-11-13T01:00:12.000Z",
-      "xQuery": "参議院議員の山崎正昭氏が死去"
+      "url": "https://news.yahoo.co.jp/pickup/6602395?source=rss",
+      "publishedAt": "2026-11-13T02:42:29.000Z",
+      "xQuery": "土木職員 今春45都道府県定員割れ"
+    },
+    {
+      "time": "12:06",
+      "title": "Microsoft365で障害 SNSの反応",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6602401?source=rss",
+      "publishedAt": "2026-11-13T03:06:06.000Z",
+      "xQuery": "Microsoft365で障害 SNSの反応"
     },
     {
       "time": "11:22",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "Microsoft障害 日本政府にも影響"
     },
     {
-      "time": "11:06",
-      "title": "メルセデス 独工場の一部閉鎖検討",
+      "time": "10:00",
+      "title": "参議院議員の山崎正昭氏が死去",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602392?source=rss",
-      "publishedAt": "2026-11-13T02:06:47.000Z",
-      "xQuery": "メルセデス 独工場の一部閉鎖検討"
-    },
-    {
-      "time": "11:04",
-      "title": "奈良で妻が行方不明 捜索続け12年",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602389?source=rss",
-      "publishedAt": "2026-11-13T02:04:30.000Z",
-      "xQuery": "奈良で妻が行方不明 捜索続け12年"
+      "url": "https://news.yahoo.co.jp/pickup/6602385?source=rss",
+      "publishedAt": "2026-11-13T01:00:12.000Z",
+      "xQuery": "参議院議員の山崎正昭氏が死去"
     }
   ]
 };

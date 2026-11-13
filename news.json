@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-11-13T02:36:04.063Z",
+  "updatedAt": "2026-11-13T03:13:18.072Z",
   "groups": {
     "machineHeadlines": [
-      {
-        "time": "09:36",
-        "title": "シチズン時計が大幅続伸、時計や工作機械好調で２７年３月期営業益予想を上方修正(ウエルスアドバイザー)",
-        "source": "Yahoo!ファイナンス",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSUtYWm5PVWJUMmRXTVdhVWpNOWdFNFRyWDNMd2RhRDVXT3lFNHNiek5vdmpFVHdaX2piajdibkJyWU1wUERfOGU1WmpVSGRuN3R3SEdGX3M0WDM2djU5d0doa0ZZSjZrMDlUM1NhQWxoSjMzYjVnWVF6ekluQnZOUGtCeEY5UjQ?oc=5",
-        "publishedAt": "2026-11-13T00:36:28.000Z"
-      },
       {
         "time": "11:30",
         "title": "工作機械受注「年2兆円」時代に監視すべき20社｜本命メーカーから商社・部品・測定機器まで一気に網羅",
         "source": "note",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9xMGs2d0lfWU1jWXE2WkFiek5xSDBwcjhiQ1ZIV2FKS1FDYlhiSTFMUElmUEYwempURS1EN3JwWkZCTGNObTJEek5fMGZqalhMZEh3QjNVdDcyX1U?oc=5",
         "publishedAt": "2026-11-13T02:30:00.000Z"
+      },
+      {
+        "time": "09:36",
+        "title": "シチズン時計が大幅続伸、時計や工作機械好調で２７年３月期営業益予想を上方修正(ウエルスアドバイザー)",
+        "source": "Yahoo!ファイナンス",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSUtYWm5PVWJUMmRXTVdhVWpNOWdFNFRyWDNMd2RhRDVXT3lFNHNiek5vdmpFVHdaX2piajdibkJyWU1wUERfOGU1WmpVSGRuN3R3SEdGX3M0WDM2djU5d0doa0ZZSjZrMDlUM1NhQWxoSjMzYjVnWVF6ekluQnZOUGtCeEY5UjQ?oc=5",
+        "publishedAt": "2026-11-13T00:36:28.000Z"
       },
       {
         "time": "08:00",
@@ -52,11 +52,11 @@
         "publishedAt": "2026-11-12T06:00:00.000Z"
       },
       {
-        "time": "12:44",
-        "title": "2026年9月分工作機械受注総額は1978.7億円",
-        "source": "製造現場ドットコム",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB4NWwydmdlX3kyQ2FxMXc2RGlWWngyWmRFT01oWVh3a0Q2MFQ5c3ZXOUZ5RkNQVDN0VlJQaXVpcnlPZEQ0LVNJLXV3?oc=5",
-        "publishedAt": "2026-11-12T03:44:12.000Z"
+        "time": "11:15",
+        "title": "“削る瞬間の手応え”までリアルに再現。製造業・教育機関向け「XR旋盤トレーナー」をローンチ、受注受付を開始",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9xVmFKQlh4VGxMd2YzTnFNS052YnpBRTJ6WEgxT0hQTThNRHhSQzd0RnJoOF9pcENPd2FDS1VLME43Unp5cHpHbVd4SVdTNlpFdlhMTVVYejV6VXVYNjdmNml6QkhzZ1Vf?oc=5",
+        "publishedAt": "2026-11-13T02:15:13.000Z"
       }
     ],
     "worldHeadlines": [
@@ -105,6 +105,13 @@
     ],
     "economyHeadlines": [
       {
+        "time": "11:50",
+        "title": "冬の電気・ガスなど支援 6500億円",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6602397?source=rss",
+        "publishedAt": "2026-11-13T02:50:29.000Z"
+      },
+      {
         "time": "23:08",
         "title": "エヌビディアのフアンCEOが辞任",
         "source": "Yahoo!ニュース",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6602380?source=rss",
         "publishedAt": "2026-11-13T00:40:03.000Z"
-      },
-      {
-        "time": "22:34",
-        "title": "タマホーム 5年以上前から不正か",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602348?source=rss",
-        "publishedAt": "2026-11-12T13:34:28.000Z"
       }
     ],
     "localHeadlines": [
@@ -163,11 +163,11 @@
         "publishedAt": "2026-11-12T23:31:14.000Z"
       },
       {
-        "time": "20:50",
-        "title": "3歳児死亡 こども園は9月に傷確認",
+        "time": "11:38",
+        "title": "おでん店主殺害 娘夫婦が無罪主張",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602340?source=rss",
-        "publishedAt": "2026-11-12T11:50:17.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6602394?source=rss",
+        "publishedAt": "2026-11-13T02:38:01.000Z"
       },
       {
         "time": "23:10",
