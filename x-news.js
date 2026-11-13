@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-13T00:48:51.006Z",
+  "updatedAt": "2026-11-13T01:11:17.806Z",
   "items": [
     {
       "time": "09:02",
@@ -18,12 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "首相 防衛費巡る「大幅増税」慎重"
     },
     {
-      "time": "07:19",
-      "title": "「Microsoft 365」で大規模障害",
+      "time": "10:01",
+      "title": "Microsoft障害 全面復旧は未定",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602362?source=rss",
-      "publishedAt": "2026-11-12T22:19:09.000Z",
-      "xQuery": "「Microsoft 365」で大規模障害"
+      "url": "https://news.yahoo.co.jp/pickup/6602382?source=rss",
+      "publishedAt": "2026-11-13T01:01:01.000Z",
+      "xQuery": "Microsoft障害 全面復旧は未定"
+    },
+    {
+      "time": "10:00",
+      "title": "参議院議員の山崎正昭氏が死去",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6602385?source=rss",
+      "publishedAt": "2026-11-13T01:00:12.000Z",
+      "xQuery": "参議院議員の山崎正昭氏が死去"
     },
     {
       "time": "09:40",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6602380?source=rss",
       "publishedAt": "2026-11-13T00:40:03.000Z",
       "xQuery": "ワタミがMBO検討 きょう付議へ"
-    },
-    {
-      "time": "09:29",
-      "title": "米国防長官 自身注意の衛兵に勲章",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602379?source=rss",
-      "publishedAt": "2026-11-13T00:29:49.000Z",
-      "xQuery": "米国防長官 自身注意の衛兵に勲章"
     }
   ]
 };
