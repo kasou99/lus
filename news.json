@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T09:13:06.643Z",
+  "updatedAt": "2026-11-13T09:36:05.686Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -105,6 +105,20 @@
     ],
     "economyHeadlines": [
       {
+        "time": "18:19",
+        "title": "損保3社タマホーム保険販売停止へ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6602444?source=rss",
+        "publishedAt": "2026-11-13T09:19:53.000Z"
+      },
+      {
+        "time": "22:34",
+        "title": "タマホーム 5年以上前から不正か",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6602348?source=rss",
+        "publishedAt": "2026-11-12T13:34:28.000Z"
+      },
+      {
         "time": "11:50",
         "title": "冬の電気・ガスなど支援 6500億円",
         "source": "Yahoo!ニュース",
@@ -131,23 +145,16 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6602361?source=rss",
         "publishedAt": "2026-11-12T21:59:48.000Z"
-      },
-      {
-        "time": "11:06",
-        "title": "メルセデス 独工場の一部閉鎖検討",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602392?source=rss",
-        "publishedAt": "2026-11-13T02:06:47.000Z"
-      },
-      {
-        "time": "09:40",
-        "title": "ワタミがMBO検討 きょう付議へ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602380?source=rss",
-        "publishedAt": "2026-11-13T00:40:03.000Z"
       }
     ],
     "localHeadlines": [
+      {
+        "time": "18:21",
+        "title": "3歳長女を殴り殺害疑い 父親逮捕",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6602445?source=rss",
+        "publishedAt": "2026-11-13T09:21:12.000Z"
+      },
       {
         "time": "11:38",
         "title": "おでん店主殺害 娘夫婦が無罪主張",
@@ -168,13 +175,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6602432?source=rss",
         "publishedAt": "2026-11-13T08:07:42.000Z"
-      },
-      {
-        "time": "22:05",
-        "title": "勤務先から21億円超横領疑い 逮捕",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602347?source=rss",
-        "publishedAt": "2026-11-12T13:05:20.000Z"
       },
       {
         "time": "15:30",

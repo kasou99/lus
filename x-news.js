@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-13T09:13:07.616Z",
+  "updatedAt": "2026-11-13T09:36:06.440Z",
   "items": [
     {
       "time": "17:08",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "メール障害で納期遅延 法的扱いは"
     },
     {
+      "time": "18:21",
+      "title": "3歳長女を殴り殺害疑い 父親逮捕",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6602445?source=rss",
+      "publishedAt": "2026-11-13T09:21:12.000Z",
+      "xQuery": "3歳長女を殴り殺害疑い 父親逮捕"
+    },
+    {
       "time": "17:07",
       "title": "女性2人死亡 トラックひき逃げか",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6602432?source=rss",
       "publishedAt": "2026-11-13T08:07:42.000Z",
       "xQuery": "女性2人死亡 トラックひき逃げか"
-    },
-    {
-      "time": "15:30",
-      "title": "男児死亡のゼリー 包装に注意書き",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602423?source=rss",
-      "publishedAt": "2026-11-13T06:30:33.000Z",
-      "xQuery": "男児死亡のゼリー 包装に注意書き"
     }
   ]
 };
