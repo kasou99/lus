@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-13T08:14:34.086Z",
+  "updatedAt": "2026-11-13T08:35:33.918Z",
   "items": [
     {
       "time": "17:08",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "メール障害で納期遅延 法的扱いは"
     },
     {
+      "time": "17:07",
+      "title": "女性2人死亡 トラックひき逃げか",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6602432?source=rss",
+      "publishedAt": "2026-11-13T08:07:42.000Z",
+      "xQuery": "女性2人死亡 トラックひき逃げか"
+    },
+    {
       "time": "15:30",
       "title": "男児死亡のゼリー 包装に注意書き",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6602423?source=rss",
       "publishedAt": "2026-11-13T06:30:33.000Z",
       "xQuery": "男児死亡のゼリー 包装に注意書き"
-    },
-    {
-      "time": "14:19",
-      "title": "ボビー被告 不同意性交を認める",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602416?source=rss",
-      "publishedAt": "2026-11-13T05:19:30.000Z",
-      "xQuery": "ボビー被告 不同意性交を認める"
     }
   ]
 };
