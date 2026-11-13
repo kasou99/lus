@@ -1,14 +1,7 @@
 {
-  "updatedAt": "2026-11-13T09:36:05.686Z",
+  "updatedAt": "2026-11-13T10:11:27.057Z",
   "groups": {
     "machineHeadlines": [
-      {
-        "time": "17:32",
-        "title": "決算:エンシュウの純利益18％増に上振れ 27年3月期、工作機械が改善",
-        "source": "日本経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ra2oyUU9na3J5NlhLVU5iYkQ4TWh0UG15aHBhcWFLVi1vZUdYck1lUER2QjZZLWZQc3cySjEyNFBab2NSdEg0aEpzUFlhY3hURFpCZHRMN0w1YkVWdTJLeGFiRWpuN1dvSU1MTQ?oc=5",
-        "publishedAt": "2026-11-13T08:32:12.000Z"
-      },
       {
         "time": "11:30",
         "title": "工作機械受注「年2兆円」時代に監視すべき20社｜本命メーカーから商社・部品・測定機器まで一気に網羅",
@@ -38,13 +31,6 @@
         "publishedAt": "2026-11-12T23:00:00.000Z"
       },
       {
-        "time": "16:25",
-        "title": "間接材トータルコストダウンサービス「MISUMI floow」 三菱電機 尾張旭工場にMISUMI floowを導入",
-        "source": "浜松経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBVVUNaX3piQ1FDcWFYcGRYZFdDWEd3SkRqREZKRWlhRkw0S3g2eFhNLUhTdnNLbnRmT2d3emRjVnlCWnpzVjlNSF9hMF91VEJYNFRyMkxjaw?oc=5",
-        "publishedAt": "2026-11-13T07:25:49.000Z"
-      },
-      {
         "time": "14:00",
         "title": "Cognitech.DEV、設備保全AI「HOZEN」の共同実証先5社を募集 フィジカルAIへの3段階ロードマップを発表",
         "source": "PR TIMES",
@@ -52,11 +38,25 @@
         "publishedAt": "2026-11-13T05:00:12.000Z"
       },
       {
+        "time": "16:25",
+        "title": "間接材トータルコストダウンサービス「MISUMI floow」 三菱電機 尾張旭工場にMISUMI floowを導入",
+        "source": "浜松経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBVVUNaX3piQ1FDcWFYcGRYZFdDWEd3SkRqREZKRWlhRkw0S3g2eFhNLUhTdnNLbnRmT2d3emRjVnlCWnpzVjlNSF9hMF91VEJYNFRyMkxjaw?oc=5",
+        "publishedAt": "2026-11-13T07:25:49.000Z"
+      },
+      {
         "time": "21:04",
         "title": "【健椿 FY2026 Q3 決算説明会】中国工作機械市場が力強く回復 健椿の前三季税後純利益は1.2億台湾ドル、前年比4.8倍増 EPS 2.06台湾ドル",
         "source": "BigGo ファイナンス",
         "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8xZnhGdXNEOUdRbjctUHFKSGtwdHVVWFpGQUxtWEd6b1Y1RFN4Rkd3UVlCdjdlNjJyWG1PQ2o4aDlGcktXM2hoUkVpSGRGMmQ1a3V3UVdLWUxYTFhVNUE2Wg?oc=5",
         "publishedAt": "2026-11-12T12:04:00.000Z"
+      },
+      {
+        "time": "11:15",
+        "title": "“削る瞬間の手応え”までリアルに再現。製造業・教育機関向け「XR旋盤トレーナー」をローンチ、受注受付を開始",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9xVmFKQlh4VGxMd2YzTnFNS052YnpBRTJ6WEgxT0hQTThNRHhSQzd0RnJoOF9pcENPd2FDS1VLME43Unp5cHpHbVd4SVdTNlpFdlhMTVVYejV6VXVYNjdmNml6QkhzZ1Vf?oc=5",
+        "publishedAt": "2026-11-13T02:15:13.000Z"
       }
     ],
     "worldHeadlines": [
@@ -112,11 +112,11 @@
         "publishedAt": "2026-11-13T09:19:53.000Z"
       },
       {
-        "time": "22:34",
-        "title": "タマホーム 5年以上前から不正か",
+        "time": "19:00",
+        "title": "ニデック 年内の臨時株主総会断念",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602348?source=rss",
-        "publishedAt": "2026-11-12T13:34:28.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6602448?source=rss",
+        "publishedAt": "2026-11-13T10:00:14.000Z"
       },
       {
         "time": "11:50",

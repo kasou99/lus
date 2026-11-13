@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-13T09:36:06.440Z",
+  "updatedAt": "2026-11-13T10:11:27.971Z",
   "items": [
     {
       "time": "17:08",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "GMO攻撃 被害申告は29.9億円に"
     },
     {
-      "time": "15:48",
-      "title": "メール障害で納期遅延 法的扱いは",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602424?source=rss",
-      "publishedAt": "2026-11-13T06:48:40.000Z",
-      "xQuery": "メール障害で納期遅延 法的扱いは"
-    },
-    {
       "time": "18:21",
       "title": "3歳長女を殴り殺害疑い 父親逮捕",
       "source": "Yahoo!ニュース",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6602432?source=rss",
       "publishedAt": "2026-11-13T08:07:42.000Z",
       "xQuery": "女性2人死亡 トラックひき逃げか"
+    },
+    {
+      "time": "17:40",
+      "title": "北朝鮮が国旗規格変更 建国以来初",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6602436?source=rss",
+      "publishedAt": "2026-11-13T08:40:15.000Z",
+      "xQuery": "北朝鮮が国旗規格変更 建国以来初"
     }
   ]
 };
