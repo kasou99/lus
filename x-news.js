@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-13T15:10:27.663Z",
+  "updatedAt": "2026-11-13T15:35:21.686Z",
   "items": [
     {
       "time": "23:48",
@@ -18,20 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "大雨被害の由利本荘市 災害死判断"
     },
     {
-      "time": "23:16",
-      "title": "MS障害 日本は比較的安定状態",
+      "time": "22:14",
+      "title": "「週明け怖い」MS障害の影響広く",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602477?source=rss",
-      "publishedAt": "2026-11-13T14:16:12.000Z",
-      "xQuery": "MS障害 日本は比較的安定状態"
-    },
-    {
-      "time": "22:18",
-      "title": "ワタミがMBO実施へ 320億円程度",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602467?source=rss",
-      "publishedAt": "2026-11-13T13:18:38.000Z",
-      "xQuery": "ワタミがMBO実施へ 320億円程度"
+      "url": "https://news.yahoo.co.jp/pickup/6602468?source=rss",
+      "publishedAt": "2026-11-13T13:14:51.000Z",
+      "xQuery": "「週明け怖い」MS障害の影響広く"
     },
     {
       "time": "22:52",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6602473?source=rss",
       "publishedAt": "2026-11-13T13:52:45.000Z",
       "xQuery": "ひき逃げか 2人死亡で関係者聴取"
+    },
+    {
+      "time": "23:13",
+      "title": "米NYでビル崩壊 瞬間の内部映像",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6602476?source=rss",
+      "publishedAt": "2026-11-13T14:13:17.000Z",
+      "xQuery": "米NYでビル崩壊 瞬間の内部映像"
     }
   ]
 };
