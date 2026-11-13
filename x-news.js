@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-13T05:11:32.129Z",
+  "updatedAt": "2026-11-13T05:36:08.226Z",
   "items": [
     {
       "time": "12:57",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "Microsoft365で障害 SNSの反応"
     },
     {
-      "time": "12:49",
-      "title": "元恋人にいいね14回押し有罪 解説",
+      "time": "14:20",
+      "title": "クレカのICチップすり替えに注意",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602405?source=rss",
-      "publishedAt": "2026-11-13T03:49:28.000Z",
-      "xQuery": "元恋人にいいね14回押し有罪 解説"
+      "url": "https://news.yahoo.co.jp/pickup/6602398?source=rss",
+      "publishedAt": "2026-11-13T05:20:34.000Z",
+      "xQuery": "クレカのICチップすり替えに注意"
     },
     {
-      "time": "12:32",
-      "title": "磁気テープ再注目 流出リスク低く",
+      "time": "14:19",
+      "title": "ボビー被告 不同意性交を認める",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602402?source=rss",
-      "publishedAt": "2026-11-13T03:32:45.000Z",
-      "xQuery": "磁気テープ再注目 流出リスク低く"
+      "url": "https://news.yahoo.co.jp/pickup/6602416?source=rss",
+      "publishedAt": "2026-11-13T05:19:30.000Z",
+      "xQuery": "ボビー被告 不同意性交を認める"
     }
   ]
 };
