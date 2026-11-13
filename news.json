@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T13:10:52.787Z",
+  "updatedAt": "2026-11-13T13:35:44.993Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -105,6 +105,20 @@
     ],
     "economyHeadlines": [
       {
+        "time": "22:14",
+        "title": "「週明け怖い」MS障害の影響広く",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6602468?source=rss",
+        "publishedAt": "2026-11-13T13:14:51.000Z"
+      },
+      {
+        "time": "22:18",
+        "title": "ワタミがMBO実施へ 320億円程度",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6602467?source=rss",
+        "publishedAt": "2026-11-13T13:18:38.000Z"
+      },
+      {
         "time": "19:47",
         "title": "個人向け国債NISA化 見送りで調整",
         "source": "Yahoo!ニュース",
@@ -131,20 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6602397?source=rss",
         "publishedAt": "2026-11-13T02:50:29.000Z"
-      },
-      {
-        "time": "23:08",
-        "title": "エヌビディアのフアンCEOが辞任",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602353?source=rss",
-        "publishedAt": "2026-11-12T14:08:14.000Z"
-      },
-      {
-        "time": "11:30",
-        "title": "エヌビディア 暫定CEOにクレス氏",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602391?source=rss",
-        "publishedAt": "2026-11-13T02:30:48.000Z"
       }
     ],
     "localHeadlines": [

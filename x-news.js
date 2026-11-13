@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-13T13:10:53.478Z",
+  "updatedAt": "2026-11-13T13:35:45.817Z",
   "items": [
     {
       "time": "19:47",
@@ -10,20 +10,28 @@ window.LUS_X_NEWS = {
       "xQuery": "個人向け国債NISA化 見送りで調整"
     },
     {
-      "time": "19:00",
-      "title": "ニデック 年内の臨時株主総会断念",
+      "time": "21:44",
+      "title": "大雨被害の由利本荘市 災害死判断",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602448?source=rss",
-      "publishedAt": "2026-11-13T10:00:14.000Z",
-      "xQuery": "ニデック 年内の臨時株主総会断念"
+      "url": "https://news.yahoo.co.jp/pickup/6602465?source=rss",
+      "publishedAt": "2026-11-13T12:44:56.000Z",
+      "xQuery": "大雨被害の由利本荘市 災害死判断"
     },
     {
-      "time": "19:14",
-      "title": "Microsoft障害 復旧の兆し",
+      "time": "22:14",
+      "title": "「週明け怖い」MS障害の影響広く",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602451?source=rss",
-      "publishedAt": "2026-11-13T10:14:50.000Z",
-      "xQuery": "Microsoft障害 復旧の兆し"
+      "url": "https://news.yahoo.co.jp/pickup/6602468?source=rss",
+      "publishedAt": "2026-11-13T13:14:51.000Z",
+      "xQuery": "「週明け怖い」MS障害の影響広く"
+    },
+    {
+      "time": "22:18",
+      "title": "ワタミがMBO実施へ 320億円程度",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6602467?source=rss",
+      "publishedAt": "2026-11-13T13:18:38.000Z",
+      "xQuery": "ワタミがMBO実施へ 320億円程度"
     },
     {
       "time": "20:59",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6602456?source=rss",
       "publishedAt": "2026-11-13T11:59:02.000Z",
       "xQuery": "発達障害の娘 支え続けた母の思い"
-    },
-    {
-      "time": "20:30",
-      "title": "社内イベ「忘新年会」など大幅減",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602457?source=rss",
-      "publishedAt": "2026-11-13T11:30:25.000Z",
-      "xQuery": "社内イベ「忘新年会」など大幅減"
     }
   ]
 };
