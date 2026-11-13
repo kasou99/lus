@@ -1,29 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-12T23:35:37.491Z",
+  "updatedAt": "2026-11-13T00:30:07.113Z",
   "items": [
     {
-      "time": "06:59",
-      "title": "エヌビディアCEO辞任 動揺広がる",
+      "time": "09:02",
+      "title": "思いやり予算 5年3兆円超を米要求",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602361?source=rss",
-      "publishedAt": "2026-11-12T21:59:48.000Z",
-      "xQuery": "エヌビディアCEO辞任 動揺広がる"
+      "url": "https://news.yahoo.co.jp/pickup/6602377?source=rss",
+      "publishedAt": "2026-11-13T00:02:00.000Z",
+      "xQuery": "思いやり予算 5年3兆円超を米要求"
     },
     {
-      "time": "07:42",
-      "title": "山形県で住宅全焼 3人の遺体",
+      "time": "07:59",
+      "title": "首相 防衛費巡る「大幅増税」慎重",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602365?source=rss",
-      "publishedAt": "2026-11-12T22:42:21.000Z",
-      "xQuery": "山形県で住宅全焼 3人の遺体"
-    },
-    {
-      "time": "07:44",
-      "title": "米首都銃撃5人死傷 容疑者も死亡",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602368?source=rss",
-      "publishedAt": "2026-11-12T22:44:16.000Z",
-      "xQuery": "米首都銃撃5人死傷 容疑者も死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6602369?source=rss",
+      "publishedAt": "2026-11-12T22:59:30.000Z",
+      "xQuery": "首相 防衛費巡る「大幅増税」慎重"
     },
     {
       "time": "07:19",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "「Microsoft 365」で大規模障害"
     },
     {
-      "time": "22:05",
-      "title": "勤務先から21億円超横領疑い 逮捕",
+      "time": "08:32",
+      "title": "イノシシに襲われ重傷 夫語る状況",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602347?source=rss",
-      "publishedAt": "2026-11-12T13:05:20.000Z",
-      "xQuery": "勤務先から21億円超横領疑い 逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6602374?source=rss",
+      "publishedAt": "2026-11-12T23:32:04.000Z",
+      "xQuery": "イノシシに襲われ重傷 夫語る状況"
+    },
+    {
+      "time": "08:36",
+      "title": "丸亀製麺の値下げ 「逆張り」真髄",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6602372?source=rss",
+      "publishedAt": "2026-11-12T23:36:10.000Z",
+      "xQuery": "丸亀製麺の値下げ 「逆張り」真髄"
     }
   ]
 };
