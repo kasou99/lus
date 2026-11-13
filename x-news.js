@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-13T21:35:34.636Z",
+  "updatedAt": "2026-11-13T22:09:56.442Z",
   "items": [
+    {
+      "time": "07:01",
+      "title": "全米空港に航空機の地上待機命令",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6602483?source=rss",
+      "publishedAt": "2026-11-13T22:01:07.000Z",
+      "xQuery": "全米空港に航空機の地上待機命令"
+    },
     {
       "time": "23:48",
       "title": "自衛官の給与引き上げ法が成立",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6602473?source=rss",
       "publishedAt": "2026-11-13T13:52:45.000Z",
       "xQuery": "ひき逃げか 2人死亡で関係者聴取"
-    },
-    {
-      "time": "23:13",
-      "title": "米NYでビル崩壊 瞬間の内部映像",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602476?source=rss",
-      "publishedAt": "2026-11-13T14:13:17.000Z",
-      "xQuery": "米NYでビル崩壊 瞬間の内部映像"
     }
   ]
 };

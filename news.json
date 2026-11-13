@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T21:35:33.815Z",
+  "updatedAt": "2026-11-13T22:09:55.598Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -61,6 +61,13 @@
     ],
     "worldHeadlines": [
       {
+        "time": "07:01",
+        "title": "全米空港に航空機の地上待機命令",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6602483?source=rss",
+        "publishedAt": "2026-11-13T22:01:07.000Z"
+      },
+      {
         "time": "23:13",
         "title": "米NYでビル崩壊 瞬間の内部映像",
         "source": "Yahoo!ニュース",
@@ -87,13 +94,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6602368?source=rss",
         "publishedAt": "2026-11-12T22:44:16.000Z"
-      },
-      {
-        "time": "13:44",
-        "title": "米有権者 党派対立にも警戒感",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602278?source=rss",
-        "publishedAt": "2026-11-12T04:44:00.000Z"
       },
       {
         "time": "23:26",
