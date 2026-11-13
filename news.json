@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T23:10:07.136Z",
+  "updatedAt": "2026-11-13T23:35:00.654Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -82,6 +82,13 @@
         "publishedAt": "2026-11-13T03:57:37.000Z"
       },
       {
+        "time": "08:17",
+        "title": "バンス氏 米大統領選見送り検討か",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6602499?source=rss",
+        "publishedAt": "2026-11-13T23:17:38.000Z"
+      },
+      {
         "time": "17:40",
         "title": "北朝鮮が国旗規格変更 建国以来初",
         "source": "Yahoo!ニュース",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6602491?source=rss",
         "publishedAt": "2026-11-13T22:59:22.000Z"
-      },
-      {
-        "time": "07:44",
-        "title": "米首都銃撃5人死傷 容疑者も死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602368?source=rss",
-        "publishedAt": "2026-11-12T22:44:16.000Z"
       }
     ],
     "economyHeadlines": [
