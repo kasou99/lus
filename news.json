@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T04:13:34.261Z",
+  "updatedAt": "2026-11-13T04:35:49.457Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -45,18 +45,18 @@
         "publishedAt": "2026-11-12T08:04:20.000Z"
       },
       {
-        "time": "15:00",
-        "title": "岡本工作機械（群馬・安中市）海外販売好調で増収 2026年9月中間決算",
-        "source": "上毛新聞電子版",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9qamJFY3FBRU5Mb08tRlN3MGwxVEZxSkc0YUlOZ3V6emZIYmwzcWZtcDBhTy1vcTlqWExoc282a3FncmpUQlFpX3hiU1gtMzRHTnpQdllKQ3VZZw?oc=5",
-        "publishedAt": "2026-11-12T06:00:00.000Z"
-      },
-      {
         "time": "11:15",
         "title": "“削る瞬間の手応え”までリアルに再現。製造業・教育機関向け「XR旋盤トレーナー」をローンチ、受注受付を開始",
         "source": "ニコニコニュース",
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9xVmFKQlh4VGxMd2YzTnFNS052YnpBRTJ6WEgxT0hQTThNRHhSQzd0RnJoOF9pcENPd2FDS1VLME43Unp5cHpHbVd4SVdTNlpFdlhMTVVYejV6VXVYNjdmNml6QkhzZ1Vf?oc=5",
         "publishedAt": "2026-11-13T02:15:13.000Z"
+      },
+      {
+        "time": "15:00",
+        "title": "岡本工作機械（群馬・安中市）海外販売好調で増収 2026年9月中間決算",
+        "source": "上毛新聞電子版",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9qamJFY3FBRU5Mb08tRlN3MGwxVEZxSkc0YUlOZ3V6emZIYmwzcWZtcDBhTy1vcTlqWExoc282a3FncmpUQlFpX3hiU1gtMzRHTnpQdllKQ3VZZw?oc=5",
+        "publishedAt": "2026-11-12T06:00:00.000Z"
       }
     ],
     "worldHeadlines": [
