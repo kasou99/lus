@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T19:35:04.700Z",
+  "updatedAt": "2026-11-13T20:11:17.000Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,13 +31,6 @@
         "publishedAt": "2026-11-12T23:00:00.000Z"
       },
       {
-        "time": "15:06",
-        "title": "【決算】エンシュウは増収増益 27年3月期第2四半期（中間期）：ニュース",
-        "source": "中日BIZナビ",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBuWl82bzF3T2N4MVlBZEhmUXgyTTVmQXFidFpGd2RuamUtb005XzBPT2hfR2NlOExSektBWmUyYzhLdDNlT0xVRm1xZlZ6emYtMTA5bEg1VW4wYnVVWTZV?oc=5",
-        "publishedAt": "2026-11-13T06:06:00.000Z"
-      },
-      {
         "time": "20:24",
         "title": "10億ドル規模の日本サーボモーター・ドライブ市場：産業価値と今後の見通し、2026年から",
         "source": "pando.life",
@@ -57,6 +50,13 @@
         "source": "ニュースメディアVOIX",
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8yNU9tNXpHakF4YVV6RWc2US1HOFhoSWliMXNvQUdFTU5DaUhEY0FsZ1lwNlYtbm00U0ZmWG5hOFBWeTRNaWJXdzQzQ1R4bGQ4MUZIYXVoZnBQaGtMUDA0WkNDNWM1N1Nq?oc=5",
         "publishedAt": "2026-11-13T07:37:43.000Z"
+      },
+      {
+        "time": "15:00",
+        "title": "エンシュウ[6218]：業績予想及び配当予想の修正並びに特別損失の計上に関するお知らせ 2026年11月13日(適時開示) ：日経会社情報DIGITAL",
+        "source": "日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNaVdQaDkydmFmY1o2Qk1xZ2Z2QTZHSXpkUTdmel9KTEtaZlo3RzJCNEUxVGxxOGNqUm1fTzdLdGJvUmFRbTdzbGtWb0ktLU05b3o3ZjFVWHhIdHFvTUh5NTBoMzBWZnlMTWE3cDR0blAtN1l6bWhOaGJXbkJoS1RlZ0MyanBmLXNMM09IS0hxVGE0bDhNT0dIak5iOWhMR1ZzVm1nSV94MVNvSndaZ3NRbFJRRE8tdkRGRGx3SDdzNjhBVFZHRGZXejhMY1E?oc=5",
+        "publishedAt": "2026-11-13T06:00:00.000Z"
       }
     ],
     "worldHeadlines": [
