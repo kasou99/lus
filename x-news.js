@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-13T14:11:35.896Z",
+  "updatedAt": "2026-11-13T14:35:43.681Z",
   "items": [
     {
-      "time": "19:47",
-      "title": "個人向け国債NISA化 見送りで調整",
+      "time": "23:16",
+      "title": "MS障害 日本は比較的安定状態",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602452?source=rss",
-      "publishedAt": "2026-11-13T10:47:40.000Z",
-      "xQuery": "個人向け国債NISA化 見送りで調整"
+      "url": "https://news.yahoo.co.jp/pickup/6602477?source=rss",
+      "publishedAt": "2026-11-13T14:16:12.000Z",
+      "xQuery": "MS障害 日本は比較的安定状態"
     },
     {
       "time": "21:44",
