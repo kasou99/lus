@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T07:12:04.497Z",
+  "updatedAt": "2026-11-13T07:36:22.137Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,13 +17,6 @@
         "publishedAt": "2026-11-13T00:36:28.000Z"
       },
       {
-        "time": "15:00",
-        "title": "エンシュウ[6218]：業績予想及び配当予想の修正並びに特別損失の計上に関するお知らせ 2026年11月13日(適時開示) ：日経会社情報DIGITAL",
-        "source": "日本経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9iWXpNZE1BNjhPdTdsRHU2ZjA3SkQ1dlRqMjhhTEt6dlQ5S0NGRXlHeGpjeVJ6LWI4bzNLdTFhMTVqWUxvMTFSbkFRTFVwOHIzUTFtd21nbXBGclhoRmZKdVNEb25VZnEzVHc?oc=5",
-        "publishedAt": "2026-11-13T06:00:00.000Z"
-      },
-      {
         "time": "12:59",
         "title": "設備保全クラウド「ミロクルカルテ」、新オプション「ミロクルAIメーター読み取り（α版）」をモノづくりフェア2026で初公開",
         "source": "山陽新聞",
@@ -38,13 +31,6 @@
         "publishedAt": "2026-11-12T23:00:00.000Z"
       },
       {
-        "time": "21:04",
-        "title": "【健椿 FY2026 Q3 決算説明会】中国工作機械市場が力強く回復 健椿の前三季税後純利益は1.2億台湾ドル、前年比4.8倍増 EPS 2.06台湾ドル",
-        "source": "BigGo ファイナンス",
-        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8xZnhGdXNEOUdRbjctUHFKSGtwdHVVWFpGQUxtWEd6b1Y1RFN4Rkd3UVlCdjdlNjJyWG1PQ2o4aDlGcktXM2hoUkVpSGRGMmQ1a3V3UVdLWUxYTFhVNUE2Wg?oc=5",
-        "publishedAt": "2026-11-12T12:04:00.000Z"
-      },
-      {
         "time": "14:00",
         "title": "Cognitech.DEV、設備保全AI「HOZEN」の共同実証先5社を募集 フィジカルAIへの3段階ロードマップを発表",
         "source": "PR TIMES",
@@ -52,11 +38,25 @@
         "publishedAt": "2026-11-13T05:00:12.000Z"
       },
       {
-        "time": "05:00",
-        "title": "さあ出番／東海高周波社長に就任した広瀬和弘氏 高周波技術の用途拡大",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9KOU50b1EwS2o3bF9fY3BEY3lXYnVxOUFYdGJRNzlMNFZOWXBlY2xlMXp1VUNvNjNYbm5mR1RnSHNmQU5qd1BKYk42NGszWGdBV1lJcjgyVkE?oc=5",
-        "publishedAt": "2026-11-12T20:00:00.000Z"
+        "time": "16:25",
+        "title": "間接材トータルコストダウンサービス「MISUMI floow」 三菱電機 尾張旭工場にMISUMI floowを導入",
+        "source": "浜松経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBVVUNaX3piQ1FDcWFYcGRYZFdDWEd3SkRqREZKRWlhRkw0S3g2eFhNLUhTdnNLbnRmT2d3emRjVnlCWnpzVjlNSF9hMF91VEJYNFRyMkxjaw?oc=5",
+        "publishedAt": "2026-11-13T07:25:49.000Z"
+      },
+      {
+        "time": "21:04",
+        "title": "【健椿 FY2026 Q3 決算説明会】中国工作機械市場が力強く回復 健椿の前三季税後純利益は1.2億台湾ドル、前年比4.8倍増 EPS 2.06台湾ドル",
+        "source": "BigGo ファイナンス",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8xZnhGdXNEOUdRbjctUHFKSGtwdHVVWFpGQUxtWEd6b1Y1RFN4Rkd3UVlCdjdlNjJyWG1PQ2o4aDlGcktXM2hoUkVpSGRGMmQ1a3V3UVdLWUxYTFhVNUE2Wg?oc=5",
+        "publishedAt": "2026-11-12T12:04:00.000Z"
+      },
+      {
+        "time": "11:15",
+        "title": "“削る瞬間の手応え”までリアルに再現。製造業・教育機関向け「XR旋盤トレーナー」をローンチ、受注受付を開始",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9xVmFKQlh4VGxMd2YzTnFNS052YnpBRTJ6WEgxT0hQTThNRHhSQzd0RnJoOF9pcENPd2FDS1VLME43Unp5cHpHbVd4SVdTNlpFdlhMTVVYejV6VXVYNjdmNml6QkhzZ1Vf?oc=5",
+        "publishedAt": "2026-11-13T02:15:13.000Z"
       }
     ],
     "worldHeadlines": [
