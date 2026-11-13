@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T03:35:23.536Z",
+  "updatedAt": "2026-11-13T04:13:34.261Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,18 +31,18 @@
         "publishedAt": "2026-11-12T12:04:00.000Z"
       },
       {
-        "time": "17:04",
-        "title": "決算:シチズンの純利益29％増に上振れ 27年3月期、時計や工作機械けん引",
-        "source": "日本経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4wd1ZTcFg1NU9VRlgtNkhucjBMWnA0RGVtUEdaaVVxZDF1SDl6OHNZSHVYY1dCclhxaGZpa1E4V1p1WjFIZVJQUUVNcUZtekhPSlRhUTA1NFliclFOOEdKWDA4SklCVTVDWjJKbg?oc=5",
-        "publishedAt": "2026-11-12T08:04:20.000Z"
-      },
-      {
         "time": "05:00",
         "title": "さあ出番／東海高周波社長に就任した広瀬和弘氏 高周波技術の用途拡大",
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9KOU50b1EwS2o3bF9fY3BEY3lXYnVxOUFYdGJRNzlMNFZOWXBlY2xlMXp1VUNvNjNYbm5mR1RnSHNmQU5qd1BKYk42NGszWGdBV1lJcjgyVkE?oc=5",
         "publishedAt": "2026-11-12T20:00:00.000Z"
+      },
+      {
+        "time": "17:04",
+        "title": "決算:シチズンの純利益29％増に上振れ 27年3月期、時計や工作機械けん引",
+        "source": "日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4wd1ZTcFg1NU9VRlgtNkhucjBMWnA0RGVtUEdaaVVxZDF1SDl6OHNZSHVYY1dCclhxaGZpa1E4V1p1WjFIZVJQUUVNcUZtekhPSlRhUTA1NFliclFOOEdKWDA4SklCVTVDWjJKbg?oc=5",
+        "publishedAt": "2026-11-12T08:04:20.000Z"
       },
       {
         "time": "15:00",
@@ -61,6 +61,13 @@
     ],
     "worldHeadlines": [
       {
+        "time": "12:57",
+        "title": "イラン側 バーレーンの米施設攻撃",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6602406?source=rss",
+        "publishedAt": "2026-11-13T03:57:37.000Z"
+      },
+      {
         "time": "07:44",
         "title": "米首都銃撃5人死傷 容疑者も死亡",
         "source": "Yahoo!ニュース",
@@ -73,13 +80,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6602355?source=rss",
         "publishedAt": "2026-11-12T14:38:19.000Z"
-      },
-      {
-        "time": "09:12",
-        "title": "露ウ 大規模な捕虜交換で合意",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602256?source=rss",
-        "publishedAt": "2026-11-12T00:12:28.000Z"
       },
       {
         "time": "11:51",
@@ -149,13 +149,6 @@
     ],
     "localHeadlines": [
       {
-        "time": "07:42",
-        "title": "山形県で住宅全焼 3人の遺体",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602365?source=rss",
-        "publishedAt": "2026-11-12T22:42:21.000Z"
-      },
-      {
         "time": "08:31",
         "title": "福山の住宅火災 放火疑い長男逮捕",
         "source": "Yahoo!ニュース",
@@ -182,6 +175,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6602347?source=rss",
         "publishedAt": "2026-11-12T13:05:20.000Z"
+      },
+      {
+        "time": "12:49",
+        "title": "元恋人にいいね14回押し有罪 解説",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6602405?source=rss",
+        "publishedAt": "2026-11-13T03:49:28.000Z"
       },
       {
         "time": "22:35",

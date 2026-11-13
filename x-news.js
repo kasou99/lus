@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-13T03:35:24.140Z",
+  "updatedAt": "2026-11-13T04:13:34.979Z",
   "items": [
     {
       "time": "11:50",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "Microsoft365で障害 SNSの反応"
     },
     {
-      "time": "11:22",
-      "title": "Microsoft障害 日本政府にも影響",
+      "time": "12:49",
+      "title": "元恋人にいいね14回押し有罪 解説",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602393?source=rss",
-      "publishedAt": "2026-11-13T02:22:13.000Z",
-      "xQuery": "Microsoft障害 日本政府にも影響"
+      "url": "https://news.yahoo.co.jp/pickup/6602405?source=rss",
+      "publishedAt": "2026-11-13T03:49:28.000Z",
+      "xQuery": "元恋人にいいね14回押し有罪 解説"
     },
     {
       "time": "11:04",
