@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-13T05:36:08.226Z",
+  "updatedAt": "2026-11-13T06:19:27.461Z",
   "items": [
+    {
+      "time": "14:37",
+      "title": "政府 ロシアに首脳会談を打診",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6602418?source=rss",
+      "publishedAt": "2026-11-13T05:37:03.000Z",
+      "xQuery": "政府 ロシアに首脳会談を打診"
+    },
     {
       "time": "12:57",
       "title": "イラン側 バーレーンの米施設攻撃",
@@ -8,14 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6602406?source=rss",
       "publishedAt": "2026-11-13T03:57:37.000Z",
       "xQuery": "イラン側 バーレーンの米施設攻撃"
-    },
-    {
-      "time": "11:50",
-      "title": "冬の電気・ガスなど支援 6500億円",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602397?source=rss",
-      "publishedAt": "2026-11-13T02:50:29.000Z",
-      "xQuery": "冬の電気・ガスなど支援 6500億円"
     },
     {
       "time": "12:06",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "Microsoft365で障害 SNSの反応"
     },
     {
-      "time": "14:20",
-      "title": "クレカのICチップすり替えに注意",
+      "time": "14:43",
+      "title": "クレカ不正利用 新たな手口に注意",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602398?source=rss",
-      "publishedAt": "2026-11-13T05:20:34.000Z",
-      "xQuery": "クレカのICチップすり替えに注意"
+      "url": "https://news.yahoo.co.jp/pickup/6602420?source=rss",
+      "publishedAt": "2026-11-13T05:43:47.000Z",
+      "xQuery": "クレカ不正利用 新たな手口に注意"
     },
     {
       "time": "14:19",
