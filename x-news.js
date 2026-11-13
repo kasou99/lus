@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-13T03:13:18.779Z",
+  "updatedAt": "2026-11-13T03:35:24.140Z",
   "items": [
     {
       "time": "11:50",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "Microsoft障害 日本政府にも影響"
     },
     {
-      "time": "10:00",
-      "title": "参議院議員の山崎正昭氏が死去",
+      "time": "11:04",
+      "title": "奈良で妻が行方不明 捜索続け12年",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602385?source=rss",
-      "publishedAt": "2026-11-13T01:00:12.000Z",
-      "xQuery": "参議院議員の山崎正昭氏が死去"
+      "url": "https://news.yahoo.co.jp/pickup/6602389?source=rss",
+      "publishedAt": "2026-11-13T02:04:30.000Z",
+      "xQuery": "奈良で妻が行方不明 捜索続け12年"
     }
   ]
 };
