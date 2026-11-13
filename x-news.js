@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-13T06:19:27.461Z",
+  "updatedAt": "2026-11-13T06:40:31.311Z",
   "items": [
     {
       "time": "14:37",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "イラン側 バーレーンの米施設攻撃"
     },
     {
-      "time": "12:06",
-      "title": "Microsoft365で障害 SNSの反応",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602401?source=rss",
-      "publishedAt": "2026-11-13T03:06:06.000Z",
-      "xQuery": "Microsoft365で障害 SNSの反応"
-    },
-    {
       "time": "14:43",
       "title": "クレカ不正利用 新たな手口に注意",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6602420?source=rss",
       "publishedAt": "2026-11-13T05:43:47.000Z",
       "xQuery": "クレカ不正利用 新たな手口に注意"
+    },
+    {
+      "time": "15:30",
+      "title": "男児死亡のゼリー 包装に注意書き",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6602423?source=rss",
+      "publishedAt": "2026-11-13T06:30:33.000Z",
+      "xQuery": "男児死亡のゼリー 包装に注意書き"
     },
     {
       "time": "14:19",
