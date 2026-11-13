@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-13T02:13:49.913Z",
+  "updatedAt": "2026-11-13T02:36:04.903Z",
   "items": [
     {
-      "time": "09:02",
-      "title": "思いやり予算 5年3兆円超を米要求",
+      "time": "11:30",
+      "title": "エヌビディア 暫定CEOにクレス氏",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602377?source=rss",
-      "publishedAt": "2026-11-13T00:02:00.000Z",
-      "xQuery": "思いやり予算 5年3兆円超を米要求"
+      "url": "https://news.yahoo.co.jp/pickup/6602391?source=rss",
+      "publishedAt": "2026-11-13T02:30:48.000Z",
+      "xQuery": "エヌビディア 暫定CEOにクレス氏"
     },
     {
       "time": "10:00",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "参議院議員の山崎正昭氏が死去"
     },
     {
-      "time": "10:01",
-      "title": "Microsoft障害 全面復旧は未定",
+      "time": "11:22",
+      "title": "Microsoft障害 日本政府にも影響",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602382?source=rss",
-      "publishedAt": "2026-11-13T01:01:01.000Z",
-      "xQuery": "Microsoft障害 全面復旧は未定"
+      "url": "https://news.yahoo.co.jp/pickup/6602393?source=rss",
+      "publishedAt": "2026-11-13T02:22:13.000Z",
+      "xQuery": "Microsoft障害 日本政府にも影響"
     },
     {
       "time": "11:06",

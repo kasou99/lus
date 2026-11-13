@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T02:13:49.169Z",
+  "updatedAt": "2026-11-13T02:36:04.063Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -8,6 +8,13 @@
         "source": "Yahoo!ファイナンス",
         "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSUtYWm5PVWJUMmRXTVdhVWpNOWdFNFRyWDNMd2RhRDVXT3lFNHNiek5vdmpFVHdaX2piajdibkJyWU1wUERfOGU1WmpVSGRuN3R3SEdGX3M0WDM2djU5d0doa0ZZSjZrMDlUM1NhQWxoSjMzYjVnWVF6ekluQnZOUGtCeEY5UjQ?oc=5",
         "publishedAt": "2026-11-13T00:36:28.000Z"
+      },
+      {
+        "time": "11:30",
+        "title": "工作機械受注「年2兆円」時代に監視すべき20社｜本命メーカーから商社・部品・測定機器まで一気に網羅",
+        "source": "note",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9xMGs2d0lfWU1jWXE2WkFiek5xSDBwcjhiQ1ZIV2FKS1FDYlhiSTFMUElmUEYwempURS1EN3JwWkZCTGNObTJEek5fMGZqalhMZEh3QjNVdDcyX1U?oc=5",
+        "publishedAt": "2026-11-13T02:30:00.000Z"
       },
       {
         "time": "08:00",
@@ -50,13 +57,6 @@
         "source": "製造現場ドットコム",
         "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB4NWwydmdlX3kyQ2FxMXc2RGlWWngyWmRFT01oWVh3a0Q2MFQ5c3ZXOUZ5RkNQVDN0VlJQaXVpcnlPZEQ0LVNJLXV3?oc=5",
         "publishedAt": "2026-11-12T03:44:12.000Z"
-      },
-      {
-        "time": "15:00",
-        "title": "リックス、27年3月期中間は増収増益 半導体・工作機械けん引 - NET-IB NEWS",
-        "source": "NET-IB NEWS",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1MUkljSm91djBOZzNMMy0tNW1nUGxxRlRXX0JLdk9oX0E2WGMzOUdmMVJNTFR2eHBsdEREMkVQaHhaMzlmUmhGSHpFamd6SmpPUmc?oc=5",
-        "publishedAt": "2026-11-12T06:00:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -105,18 +105,25 @@
     ],
     "economyHeadlines": [
       {
-        "time": "06:59",
-        "title": "エヌビディアCEO辞任 動揺広がる",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602361?source=rss",
-        "publishedAt": "2026-11-12T21:59:48.000Z"
-      },
-      {
         "time": "23:08",
         "title": "エヌビディアのフアンCEOが辞任",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6602353?source=rss",
         "publishedAt": "2026-11-12T14:08:14.000Z"
+      },
+      {
+        "time": "11:30",
+        "title": "エヌビディア 暫定CEOにクレス氏",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6602391?source=rss",
+        "publishedAt": "2026-11-13T02:30:48.000Z"
+      },
+      {
+        "time": "06:59",
+        "title": "エヌビディアCEO辞任 動揺広がる",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6602361?source=rss",
+        "publishedAt": "2026-11-12T21:59:48.000Z"
       },
       {
         "time": "11:06",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6602348?source=rss",
         "publishedAt": "2026-11-12T13:34:28.000Z"
-      },
-      {
-        "time": "19:02",
-        "title": "すかいらーく Shin-Shinなぜ買収",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602322?source=rss",
-        "publishedAt": "2026-11-12T10:02:14.000Z"
       }
     ],
     "localHeadlines": [
