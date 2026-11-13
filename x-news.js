@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-13T06:40:31.311Z",
+  "updatedAt": "2026-11-13T07:12:05.615Z",
   "items": [
     {
       "time": "14:37",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "政府 ロシアに首脳会談を打診"
     },
     {
-      "time": "12:57",
-      "title": "イラン側 バーレーンの米施設攻撃",
+      "time": "15:48",
+      "title": "メール障害で納期遅延 法的扱いは",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602406?source=rss",
-      "publishedAt": "2026-11-13T03:57:37.000Z",
-      "xQuery": "イラン側 バーレーンの米施設攻撃"
+      "url": "https://news.yahoo.co.jp/pickup/6602424?source=rss",
+      "publishedAt": "2026-11-13T06:48:40.000Z",
+      "xQuery": "メール障害で納期遅延 法的扱いは"
     },
     {
       "time": "14:43",
