@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-13T22:34:46.058Z",
+  "updatedAt": "2026-11-13T23:10:07.734Z",
   "items": [
     {
       "time": "07:01",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "全米空港に航空機の地上待機命令"
     },
     {
-      "time": "23:48",
-      "title": "自衛官の給与引き上げ法が成立",
+      "time": "07:59",
+      "title": "米で遊覧船とタンカーが衝突 報道",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602480?source=rss",
-      "publishedAt": "2026-11-13T14:48:03.000Z",
-      "xQuery": "自衛官の給与引き上げ法が成立"
+      "url": "https://news.yahoo.co.jp/pickup/6602491?source=rss",
+      "publishedAt": "2026-11-13T22:59:22.000Z",
+      "xQuery": "米で遊覧船とタンカーが衝突 報道"
     },
     {
       "time": "07:28",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "マネックス証券 免許証画像流出か"
     },
     {
-      "time": "22:14",
-      "title": "「週明け怖い」MS障害の影響広く",
+      "time": "07:37",
+      "title": "MS「復旧が進み、安定した状態」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602468?source=rss",
-      "publishedAt": "2026-11-13T13:14:51.000Z",
-      "xQuery": "「週明け怖い」MS障害の影響広く"
+      "url": "https://news.yahoo.co.jp/pickup/6602492?source=rss",
+      "publishedAt": "2026-11-13T22:37:15.000Z",
+      "xQuery": "MS「復旧が進み、安定した状態」"
     },
     {
-      "time": "23:13",
-      "title": "米NYでビル崩壊 瞬間の内部映像",
+      "time": "07:48",
+      "title": "2人死亡ひき逃げ事故 49歳を逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602476?source=rss",
-      "publishedAt": "2026-11-13T14:13:17.000Z",
-      "xQuery": "米NYでビル崩壊 瞬間の内部映像"
+      "url": "https://news.yahoo.co.jp/pickup/6602496?source=rss",
+      "publishedAt": "2026-11-13T22:48:26.000Z",
+      "xQuery": "2人死亡ひき逃げ事故 49歳を逮捕"
     }
   ]
 };

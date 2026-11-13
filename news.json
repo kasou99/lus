@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T22:34:45.318Z",
+  "updatedAt": "2026-11-13T23:10:07.136Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -89,18 +89,18 @@
         "publishedAt": "2026-11-13T08:40:15.000Z"
       },
       {
+        "time": "07:59",
+        "title": "米で遊覧船とタンカーが衝突 報道",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6602491?source=rss",
+        "publishedAt": "2026-11-13T22:59:22.000Z"
+      },
+      {
         "time": "07:44",
         "title": "米首都銃撃5人死傷 容疑者も死亡",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6602368?source=rss",
         "publishedAt": "2026-11-12T22:44:16.000Z"
-      },
-      {
-        "time": "23:26",
-        "title": "米国防長官ら 墓地で衛兵から叱責",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602354?source=rss",
-        "publishedAt": "2026-11-12T14:26:32.000Z"
       }
     ],
     "economyHeadlines": [
@@ -110,6 +110,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6602468?source=rss",
         "publishedAt": "2026-11-13T13:14:51.000Z"
+      },
+      {
+        "time": "08:03",
+        "title": "「人生初FAX」MS障害で代替手段",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6602497?source=rss",
+        "publishedAt": "2026-11-13T23:03:31.000Z"
       },
       {
         "time": "22:18",
@@ -138,16 +145,16 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6602448?source=rss",
         "publishedAt": "2026-11-13T10:00:14.000Z"
-      },
-      {
-        "time": "11:50",
-        "title": "冬の電気・ガスなど支援 6500億円",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602397?source=rss",
-        "publishedAt": "2026-11-13T02:50:29.000Z"
       }
     ],
     "localHeadlines": [
+      {
+        "time": "07:48",
+        "title": "2人死亡ひき逃げ事故 49歳を逮捕",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6602496?source=rss",
+        "publishedAt": "2026-11-13T22:48:26.000Z"
+      },
       {
         "time": "21:44",
         "title": "大雨被害の由利本荘市 災害死判断",
@@ -161,13 +168,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6602445?source=rss",
         "publishedAt": "2026-11-13T09:21:12.000Z"
-      },
-      {
-        "time": "22:52",
-        "title": "ひき逃げか 2人死亡で関係者聴取",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602473?source=rss",
-        "publishedAt": "2026-11-13T13:52:45.000Z"
       },
       {
         "time": "14:19",
