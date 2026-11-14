@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-14T10:34:59.079Z",
+  "updatedAt": "2026-11-14T11:08:47.076Z",
   "items": [
     {
       "time": "17:45",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "3歳死亡 歩行訓練で腹立てたと父"
     },
     {
+      "time": "17:46",
+      "title": "菓子屋の倒産最多へ 老舗でも低迷",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6602566?source=rss",
+      "publishedAt": "2026-11-14T08:46:28.000Z",
+      "xQuery": "菓子屋の倒産最多へ 老舗でも低迷"
+    },
+    {
       "time": "18:42",
       "title": "売れ残りを寄付 広がる一方問題も",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6602572?source=rss",
       "publishedAt": "2026-11-14T09:42:53.000Z",
       "xQuery": "売れ残りを寄付 広がる一方問題も"
-    },
-    {
-      "time": "15:51",
-      "title": "市営住宅236戸に別人が入居 伊賀",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602552?source=rss",
-      "publishedAt": "2026-11-14T06:51:30.000Z",
-      "xQuery": "市営住宅236戸に別人が入居 伊賀"
     }
   ]
 };
