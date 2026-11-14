@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-14T01:38:53.234Z",
+  "updatedAt": "2026-11-14T02:15:37.502Z",
   "items": [
+    {
+      "time": "10:50",
+      "title": "全米 航空機の地上待機命令を解除",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6602522?source=rss",
+      "publishedAt": "2026-11-14T01:50:35.000Z",
+      "xQuery": "全米 航空機の地上待機命令を解除"
+    },
     {
       "time": "09:02",
       "title": "米中露首脳会談 19日に中国で開催",
@@ -8,22 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6602511?source=rss",
       "publishedAt": "2026-11-14T00:02:05.000Z",
       "xQuery": "米中露首脳会談 19日に中国で開催"
-    },
-    {
-      "time": "09:45",
-      "title": "3メガバンク中間決算 最高益更新",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602512?source=rss",
-      "publishedAt": "2026-11-14T00:45:45.000Z",
-      "xQuery": "3メガバンク中間決算 最高益更新"
-    },
-    {
-      "time": "09:20",
-      "title": "米でタンカーがクルーズ船に衝突",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602509?source=rss",
-      "publishedAt": "2026-11-14T00:20:23.000Z",
-      "xQuery": "米でタンカーがクルーズ船に衝突"
     },
     {
       "time": "08:55",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "マイクロソフト 大規模障害を謝罪"
     },
     {
-      "time": "10:30",
-      "title": "婚活に300万円課金 結婚した男性",
+      "time": "10:20",
+      "title": "タマホーム 保険代理業を廃業へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602518?source=rss",
-      "publishedAt": "2026-11-14T01:30:03.000Z",
-      "xQuery": "婚活に300万円課金 結婚した男性"
+      "url": "https://news.yahoo.co.jp/pickup/6602519?source=rss",
+      "publishedAt": "2026-11-14T01:20:08.000Z",
+      "xQuery": "タマホーム 保険代理業を廃業へ"
+    },
+    {
+      "time": "10:28",
+      "title": "「銀だこ」曲がり角 赤字転落なぜ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6602520?source=rss",
+      "publishedAt": "2026-11-14T01:28:24.000Z",
+      "xQuery": "「銀だこ」曲がり角 赤字転落なぜ"
     }
   ]
 };
