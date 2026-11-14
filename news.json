@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T03:12:53.309Z",
+  "updatedAt": "2026-11-14T03:36:19.018Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -61,6 +61,20 @@
     ],
     "worldHeadlines": [
       {
+        "time": "12:13",
+        "title": "米中露会談 核兵器削減を協議へ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6602532?source=rss",
+        "publishedAt": "2026-11-14T03:13:51.000Z"
+      },
+      {
+        "time": "09:02",
+        "title": "米中露首脳会談 19日に中国で開催",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6602511?source=rss",
+        "publishedAt": "2026-11-14T00:02:05.000Z"
+      },
+      {
         "time": "10:50",
         "title": "全米 航空機の地上待機命令を解除",
         "source": "Yahoo!ニュース",
@@ -75,13 +89,6 @@
         "publishedAt": "2026-11-14T02:54:59.000Z"
       },
       {
-        "time": "09:02",
-        "title": "米中露首脳会談 19日に中国で開催",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602511?source=rss",
-        "publishedAt": "2026-11-14T00:02:05.000Z"
-      },
-      {
         "time": "23:13",
         "title": "米NYでビル崩壊 瞬間の内部映像",
         "source": "Yahoo!ニュース",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6602406?source=rss",
         "publishedAt": "2026-11-13T03:57:37.000Z"
-      },
-      {
-        "time": "08:17",
-        "title": "バンス氏 米大統領選見送り検討か",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602499?source=rss",
-        "publishedAt": "2026-11-13T23:17:38.000Z"
       }
     ],
     "economyHeadlines": [

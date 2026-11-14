@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-14T03:12:53.802Z",
+  "updatedAt": "2026-11-14T03:36:19.606Z",
   "items": [
     {
-      "time": "10:50",
-      "title": "全米 航空機の地上待機命令を解除",
+      "time": "12:13",
+      "title": "米中露会談 核兵器削減を協議へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602522?source=rss",
-      "publishedAt": "2026-11-14T01:50:35.000Z",
-      "xQuery": "全米 航空機の地上待機命令を解除"
+      "url": "https://news.yahoo.co.jp/pickup/6602532?source=rss",
+      "publishedAt": "2026-11-14T03:13:51.000Z",
+      "xQuery": "米中露会談 核兵器削減を協議へ"
     },
     {
-      "time": "09:53",
-      "title": "FRB 市場の最大脅威は「AI関連」",
+      "time": "11:54",
+      "title": "米空港で混乱 原因はハードウエア",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602514?source=rss",
-      "publishedAt": "2026-11-14T00:53:09.000Z",
-      "xQuery": "FRB 市場の最大脅威は「AI関連」"
+      "url": "https://news.yahoo.co.jp/pickup/6602529?source=rss",
+      "publishedAt": "2026-11-14T02:54:59.000Z",
+      "xQuery": "米空港で混乱 原因はハードウエア"
     },
     {
       "time": "11:26",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "3歳死亡 5回虐待通告もなぜ防げず"
     },
     {
-      "time": "11:03",
-      "title": "ニデック半期報告書 提出延期検討",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602523?source=rss",
-      "publishedAt": "2026-11-14T02:03:37.000Z",
-      "xQuery": "ニデック半期報告書 提出延期検討"
-    },
-    {
       "time": "10:28",
       "title": "「銀だこ」曲がり角 赤字転落なぜ",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6602520?source=rss",
       "publishedAt": "2026-11-14T01:28:24.000Z",
       "xQuery": "「銀だこ」曲がり角 赤字転落なぜ"
+    },
+    {
+      "time": "10:30",
+      "title": "婚活に300万円課金 結婚した男性",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6602518?source=rss",
+      "publishedAt": "2026-11-14T01:30:03.000Z",
+      "xQuery": "婚活に300万円課金 結婚した男性"
     }
   ]
 };
