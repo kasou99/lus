@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T12:13:56.668Z",
+  "updatedAt": "2026-11-14T12:35:03.544Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -177,18 +177,18 @@
         "publishedAt": "2026-11-14T07:25:03.000Z"
       },
       {
-        "time": "18:18",
-        "title": "36年4カ月の滞納も 伊賀市営住宅",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602570?source=rss",
-        "publishedAt": "2026-11-14T09:18:52.000Z"
-      },
-      {
         "time": "15:51",
         "title": "市営住宅236戸に別人が入居 伊賀",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6602552?source=rss",
         "publishedAt": "2026-11-14T06:51:30.000Z"
+      },
+      {
+        "time": "21:32",
+        "title": "48歳で認知症診断 職場で輝く52歳",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6602591?source=rss",
+        "publishedAt": "2026-11-14T12:32:20.000Z"
       }
     ],
     "subsidyHeadlines": [

@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-14T12:13:57.858Z",
+  "updatedAt": "2026-11-14T12:35:04.555Z",
   "items": [
     {
-      "time": "17:45",
-      "title": "米の航空混乱 途方に暮れる乗客",
+      "time": "20:17",
+      "title": "米中露の接近 日本政府は危機感",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602568?source=rss",
-      "publishedAt": "2026-11-14T08:45:15.000Z",
-      "xQuery": "米の航空混乱 途方に暮れる乗客"
+      "url": "https://news.yahoo.co.jp/pickup/6602584?source=rss",
+      "publishedAt": "2026-11-14T11:17:04.000Z",
+      "xQuery": "米中露の接近 日本政府は危機感"
     },
     {
-      "time": "18:37",
-      "title": "印旛沼決壊 暮らしの再建進まず",
+      "time": "19:11",
+      "title": "1.5℃目標もう無理? COPの意義は",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602573?source=rss",
-      "publishedAt": "2026-11-14T09:37:01.000Z",
-      "xQuery": "印旛沼決壊 暮らしの再建進まず"
+      "url": "https://news.yahoo.co.jp/pickup/6602577?source=rss",
+      "publishedAt": "2026-11-14T10:11:34.000Z",
+      "xQuery": "1.5℃目標もう無理? COPの意義は"
     },
     {
       "time": "17:46",
