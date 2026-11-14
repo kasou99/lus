@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T06:17:29.035Z",
+  "updatedAt": "2026-11-14T06:37:32.884Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -105,6 +105,13 @@
     ],
     "economyHeadlines": [
       {
+        "time": "15:24",
+        "title": "エヌビディアCEO 後任選定難航か",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6602554?source=rss",
+        "publishedAt": "2026-11-14T06:24:31.000Z"
+      },
+      {
         "time": "10:20",
         "title": "タマホーム 保険代理業を廃業へ",
         "source": "Yahoo!ニュース",
@@ -131,13 +138,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6602523?source=rss",
         "publishedAt": "2026-11-14T02:03:37.000Z"
-      },
-      {
-        "time": "22:14",
-        "title": "「週明け怖い」MS障害の影響広く",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602468?source=rss",
-        "publishedAt": "2026-11-13T13:14:51.000Z"
       },
       {
         "time": "08:03",

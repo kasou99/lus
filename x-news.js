@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-14T06:17:29.822Z",
+  "updatedAt": "2026-11-14T06:37:33.752Z",
   "items": [
     {
-      "time": "14:27",
-      "title": "MS 個人向けサービスが完全復旧",
+      "time": "15:27",
+      "title": "マイクロソフトの障害 全面復旧",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602546?source=rss",
-      "publishedAt": "2026-11-14T05:27:37.000Z",
-      "xQuery": "MS 個人向けサービスが完全復旧"
+      "url": "https://news.yahoo.co.jp/pickup/6602556?source=rss",
+      "publishedAt": "2026-11-14T06:27:25.000Z",
+      "xQuery": "マイクロソフトの障害 全面復旧"
     },
     {
       "time": "13:22",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "「人生初FAX」MS障害で代替手段"
     },
     {
+      "time": "15:06",
+      "title": "関東15日は気温急降下 師走並みか",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6602551?source=rss",
+      "publishedAt": "2026-11-14T06:06:59.000Z",
+      "xQuery": "関東15日は気温急降下 師走並みか"
+    },
+    {
       "time": "14:50",
       "title": "「夫を包丁で刺した」49歳女逮捕",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6602547?source=rss",
       "publishedAt": "2026-11-14T05:50:33.000Z",
       "xQuery": "「夫を包丁で刺した」49歳女逮捕"
-    },
-    {
-      "time": "10:28",
-      "title": "「銀だこ」曲がり角 赤字転落なぜ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602520?source=rss",
-      "publishedAt": "2026-11-14T01:28:24.000Z",
-      "xQuery": "「銀だこ」曲がり角 赤字転落なぜ"
     }
   ]
 };
