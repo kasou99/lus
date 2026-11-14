@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T23:35:00.654Z",
+  "updatedAt": "2026-11-14T00:29:21.601Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -61,11 +61,18 @@
     ],
     "worldHeadlines": [
       {
-        "time": "07:01",
-        "title": "全米空港に航空機の地上待機命令",
+        "time": "09:02",
+        "title": "米中露首脳会談 19日に中国で開催",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602483?source=rss",
-        "publishedAt": "2026-11-13T22:01:07.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6602511?source=rss",
+        "publishedAt": "2026-11-14T00:02:05.000Z"
+      },
+      {
+        "time": "08:42",
+        "title": "全米空港で地上待機命令 通信障害",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6602503?source=rss",
+        "publishedAt": "2026-11-13T23:42:11.000Z"
       },
       {
         "time": "23:13",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6602436?source=rss",
         "publishedAt": "2026-11-13T08:40:15.000Z"
-      },
-      {
-        "time": "07:59",
-        "title": "米で遊覧船とタンカーが衝突 報道",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602491?source=rss",
-        "publishedAt": "2026-11-13T22:59:22.000Z"
       }
     ],
     "economyHeadlines": [
@@ -170,6 +170,13 @@
         "publishedAt": "2026-11-13T09:21:12.000Z"
       },
       {
+        "time": "08:47",
+        "title": "3歳暴行死 虐待疑い通告5回あった",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6602507?source=rss",
+        "publishedAt": "2026-11-13T23:47:27.000Z"
+      },
+      {
         "time": "14:19",
         "title": "ボビー被告 不同意性交を認める",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6602423?source=rss",
         "publishedAt": "2026-11-13T06:30:33.000Z"
-      },
-      {
-        "time": "23:12",
-        "title": "1日2件の事故 免許返納した75歳",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602478?source=rss",
-        "publishedAt": "2026-11-13T14:12:19.000Z"
       }
     ],
     "subsidyHeadlines": [

@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-13T23:35:01.119Z",
+  "updatedAt": "2026-11-14T00:29:22.529Z",
   "items": [
     {
-      "time": "07:01",
-      "title": "全米空港に航空機の地上待機命令",
+      "time": "09:02",
+      "title": "米中露首脳会談 19日に中国で開催",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602483?source=rss",
-      "publishedAt": "2026-11-13T22:01:07.000Z",
-      "xQuery": "全米空港に航空機の地上待機命令"
+      "url": "https://news.yahoo.co.jp/pickup/6602511?source=rss",
+      "publishedAt": "2026-11-14T00:02:05.000Z",
+      "xQuery": "米中露首脳会談 19日に中国で開催"
     },
     {
-      "time": "07:59",
-      "title": "米で遊覧船とタンカーが衝突 報道",
+      "time": "08:42",
+      "title": "全米空港で地上待機命令 通信障害",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602491?source=rss",
-      "publishedAt": "2026-11-13T22:59:22.000Z",
-      "xQuery": "米で遊覧船とタンカーが衝突 報道"
+      "url": "https://news.yahoo.co.jp/pickup/6602503?source=rss",
+      "publishedAt": "2026-11-13T23:42:11.000Z",
+      "xQuery": "全米空港で地上待機命令 通信障害"
     },
     {
-      "time": "07:28",
-      "title": "マネックス証券 免許証画像流出か",
+      "time": "08:17",
+      "title": "バンス氏 米大統領選見送り検討か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602486?source=rss",
-      "publishedAt": "2026-11-13T22:28:18.000Z",
-      "xQuery": "マネックス証券 免許証画像流出か"
+      "url": "https://news.yahoo.co.jp/pickup/6602499?source=rss",
+      "publishedAt": "2026-11-13T23:17:38.000Z",
+      "xQuery": "バンス氏 米大統領選見送り検討か"
     },
     {
-      "time": "07:37",
-      "title": "MS「復旧が進み、安定した状態」",
+      "time": "08:55",
+      "title": "マイクロソフト 大規模障害を謝罪",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602492?source=rss",
-      "publishedAt": "2026-11-13T22:37:15.000Z",
-      "xQuery": "MS「復旧が進み、安定した状態」"
+      "url": "https://news.yahoo.co.jp/pickup/6602508?source=rss",
+      "publishedAt": "2026-11-13T23:55:42.000Z",
+      "xQuery": "マイクロソフト 大規模障害を謝罪"
     },
     {
-      "time": "07:48",
-      "title": "2人死亡ひき逃げ事故 49歳を逮捕",
+      "time": "08:47",
+      "title": "3歳暴行死 虐待疑い通告5回あった",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602496?source=rss",
-      "publishedAt": "2026-11-13T22:48:26.000Z",
-      "xQuery": "2人死亡ひき逃げ事故 49歳を逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6602507?source=rss",
+      "publishedAt": "2026-11-13T23:47:27.000Z",
+      "xQuery": "3歳暴行死 虐待疑い通告5回あった"
     }
   ]
 };
