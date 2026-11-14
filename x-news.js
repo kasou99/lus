@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-14T22:09:06.969Z",
+  "updatedAt": "2026-11-14T22:35:03.446Z",
   "items": [
     {
       "time": "20:17",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "MS 障害原因は過去の増強作業"
     },
     {
-      "time": "21:32",
-      "title": "日本兵の墓が無縁化 解消に法の壁",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602590?source=rss",
-      "publishedAt": "2026-11-14T12:32:53.000Z",
-      "xQuery": "日本兵の墓が無縁化 解消に法の壁"
-    },
-    {
       "time": "21:56",
       "title": "縦型ショートドラマ トラブル急増",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6602597?source=rss",
       "publishedAt": "2026-11-14T12:56:42.000Z",
       "xQuery": "縦型ショートドラマ トラブル急増"
+    },
+    {
+      "time": "07:18",
+      "title": "ラヴ上等「あっすん」容疑者逮捕",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6602608?source=rss",
+      "publishedAt": "2026-11-14T22:18:13.000Z",
+      "xQuery": "ラヴ上等「あっすん」容疑者逮捕"
     }
   ]
 };
