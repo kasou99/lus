@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T02:35:46.598Z",
+  "updatedAt": "2026-11-14T03:12:53.309Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,18 +38,18 @@
         "publishedAt": "2026-11-13T07:37:43.000Z"
       },
       {
+        "time": "05:00",
+        "title": "【倒産】米中貿易摩擦や新型コロナの影響で業績大幅悪化…産業機械部品や工作機械部品の製造業者が特別清算 負債総額約2億5000万円 新潟・長岡市",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ObkRZLWR5YVFocml2NHpEN2hOZGZndEhtUXYwa2pvTWN1NzFRamhUQkExS3ZvLU5xaXJPa2ZCQ3pZNkxraEcxQW8zcWpONXJjTFFDOFZ2SEx2NGFkRzY5ZDFtenpBbXlaY1I1ZHhnX0tabFI4RUJyTjlnNm9sZTQ?oc=5",
+        "publishedAt": "2026-11-13T20:00:01.000Z"
+      },
+      {
         "time": "15:00",
         "title": "エンシュウ[6218]：業績予想及び配当予想の修正並びに特別損失の計上に関するお知らせ 2026年11月13日(適時開示) ：日経会社情報DIGITAL",
         "source": "日本経済新聞",
         "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNaVdQaDkydmFmY1o2Qk1xZ2Z2QTZHSXpkUTdmel9KTEtaZlo3RzJCNEUxVGxxOGNqUm1fTzdLdGJvUmFRbTdzbGtWb0ktLU05b3o3ZjFVWHhIdHFvTUh5NTBoMzBWZnlMTWE3cDR0blAtN1l6bWhOaGJXbkJoS1RlZ0MyanBmLXNMM09IS0hxVGE0bDhNT0dIak5iOWhMR1ZzVm1nSV94MVNvSndaZ3NRbFJRRE8tdkRGRGx3SDdzNjhBVFZHRGZXejhMY1E?oc=5",
         "publishedAt": "2026-11-13T06:00:00.000Z"
-      },
-      {
-        "time": "05:00",
-        "title": "【倒産】米中貿易摩擦や新型コロナの影響で業績大幅悪化…産業機械部品や工作機械部品の製造業者が特別清算 負債総額約2億5000万円 新潟・長岡市",
-        "source": "ｄメニューニュース",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE40UHZobWZicERKOVJQaDhRaUFFaFlhbEY4U2RsamdhaVl6MXQyeTU0VnNSYXh5dmh4N3EwRGJLWUVWSVA5WGwwNDBKemduTE84dGlCYUI1TUxHWVBLRDdUTXNXMm1TV1E4alVPZTNJZGdHcWhvbXNr0gF3QVVfeXFMTjRQdmhtZmJwREo5UlBoOFFpQUVoWWFsRjhTZGxqZ2FpWXoxdDJ5NTRWc1JheHl2aHg3cTBEYktZRVZJUDlYbDA0MEp6Z25MTzh0aUJhQjVNTEdZUEtEN1RNc1cybVNXUThqVU9lM0lkZ0dxaG9tc2s?oc=5",
-        "publishedAt": "2026-11-13T20:00:00.000Z"
       },
       {
         "time": "15:06",
@@ -66,6 +66,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6602522?source=rss",
         "publishedAt": "2026-11-14T01:50:35.000Z"
+      },
+      {
+        "time": "11:54",
+        "title": "米空港で混乱 原因はハードウエア",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6602529?source=rss",
+        "publishedAt": "2026-11-14T02:54:59.000Z"
       },
       {
         "time": "09:02",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6602499?source=rss",
         "publishedAt": "2026-11-13T23:17:38.000Z"
-      },
-      {
-        "time": "17:40",
-        "title": "北朝鮮が国旗規格変更 建国以来初",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602436?source=rss",
-        "publishedAt": "2026-11-13T08:40:15.000Z"
       }
     ],
     "economyHeadlines": [

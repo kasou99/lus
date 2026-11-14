@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-14T02:35:47.187Z",
+  "updatedAt": "2026-11-14T03:12:53.802Z",
   "items": [
     {
       "time": "10:50",
@@ -10,28 +10,28 @@ window.LUS_X_NEWS = {
       "xQuery": "全米 航空機の地上待機命令を解除"
     },
     {
-      "time": "09:02",
-      "title": "米中露首脳会談 19日に中国で開催",
+      "time": "09:53",
+      "title": "FRB 市場の最大脅威は「AI関連」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602511?source=rss",
-      "publishedAt": "2026-11-14T00:02:05.000Z",
-      "xQuery": "米中露首脳会談 19日に中国で開催"
+      "url": "https://news.yahoo.co.jp/pickup/6602514?source=rss",
+      "publishedAt": "2026-11-14T00:53:09.000Z",
+      "xQuery": "FRB 市場の最大脅威は「AI関連」"
     },
     {
-      "time": "08:55",
-      "title": "マイクロソフト 大規模障害を謝罪",
+      "time": "11:26",
+      "title": "3歳死亡 5回虐待通告もなぜ防げず",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602508?source=rss",
-      "publishedAt": "2026-11-13T23:55:42.000Z",
-      "xQuery": "マイクロソフト 大規模障害を謝罪"
+      "url": "https://news.yahoo.co.jp/pickup/6602526?source=rss",
+      "publishedAt": "2026-11-14T02:26:28.000Z",
+      "xQuery": "3歳死亡 5回虐待通告もなぜ防げず"
     },
     {
-      "time": "10:20",
-      "title": "タマホーム 保険代理業を廃業へ",
+      "time": "11:03",
+      "title": "ニデック半期報告書 提出延期検討",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602519?source=rss",
-      "publishedAt": "2026-11-14T01:20:08.000Z",
-      "xQuery": "タマホーム 保険代理業を廃業へ"
+      "url": "https://news.yahoo.co.jp/pickup/6602523?source=rss",
+      "publishedAt": "2026-11-14T02:03:37.000Z",
+      "xQuery": "ニデック半期報告書 提出延期検討"
     },
     {
       "time": "10:28",
