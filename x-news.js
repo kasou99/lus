@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-14T22:35:03.446Z",
+  "updatedAt": "2026-11-14T23:09:13.856Z",
   "items": [
+    {
+      "time": "07:36",
+      "title": "首相 「アジア版IEA」創設提唱へ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6602615?source=rss",
+      "publishedAt": "2026-11-14T22:36:41.000Z",
+      "xQuery": "首相 「アジア版IEA」創設提唱へ"
+    },
     {
       "time": "20:17",
       "title": "米中露の接近 日本政府は危機感",
@@ -8,22 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6602584?source=rss",
       "publishedAt": "2026-11-14T11:17:04.000Z",
       "xQuery": "米中露の接近 日本政府は危機感"
-    },
-    {
-      "time": "22:45",
-      "title": "AI悪用攻撃拠点か 世界で千台発見",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602602?source=rss",
-      "publishedAt": "2026-11-14T13:45:44.000Z",
-      "xQuery": "AI悪用攻撃拠点か 世界で千台発見"
-    },
-    {
-      "time": "23:42",
-      "title": "MS 障害原因は過去の増強作業",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602606?source=rss",
-      "publishedAt": "2026-11-14T14:42:06.000Z",
-      "xQuery": "MS 障害原因は過去の増強作業"
     },
     {
       "time": "21:56",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6602608?source=rss",
       "publishedAt": "2026-11-14T22:18:13.000Z",
       "xQuery": "ラヴ上等「あっすん」容疑者逮捕"
+    },
+    {
+      "time": "07:24",
+      "title": "大阪3歳死亡 遺体に50カ所のあざ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6602612?source=rss",
+      "publishedAt": "2026-11-14T22:24:20.000Z",
+      "xQuery": "大阪3歳死亡 遺体に50カ所のあざ"
     }
   ]
 };
