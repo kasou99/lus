@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-14T14:35:01.346Z",
+  "updatedAt": "2026-11-14T15:08:57.444Z",
   "items": [
     {
       "time": "20:17",
@@ -18,12 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "AI悪用攻撃拠点か 世界で千台発見"
     },
     {
-      "time": "14:58",
-      "title": "学校の「男女別学」存在意義は",
+      "time": "23:42",
+      "title": "MS 障害原因は過去の増強作業",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602548?source=rss",
-      "publishedAt": "2026-11-14T05:58:43.000Z",
-      "xQuery": "学校の「男女別学」存在意義は"
+      "url": "https://news.yahoo.co.jp/pickup/6602606?source=rss",
+      "publishedAt": "2026-11-14T14:42:06.000Z",
+      "xQuery": "MS 障害原因は過去の増強作業"
+    },
+    {
+      "time": "21:32",
+      "title": "日本兵の墓が無縁化 解消に法の壁",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6602590?source=rss",
+      "publishedAt": "2026-11-14T12:32:53.000Z",
+      "xQuery": "日本兵の墓が無縁化 解消に法の壁"
     },
     {
       "time": "21:56",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6602597?source=rss",
       "publishedAt": "2026-11-14T12:56:42.000Z",
       "xQuery": "縦型ショートドラマ トラブル急増"
-    },
-    {
-      "time": "22:07",
-      "title": "体に障害 恋愛は無理と思っていた",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602599?source=rss",
-      "publishedAt": "2026-11-14T13:07:22.000Z",
-      "xQuery": "体に障害 恋愛は無理と思っていた"
     }
   ]
 };

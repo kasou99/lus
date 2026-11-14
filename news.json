@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T14:35:00.595Z",
+  "updatedAt": "2026-11-14T15:08:56.575Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,31 +17,17 @@
         "publishedAt": "2026-11-14T08:30:00.000Z"
       },
       {
-        "time": "05:00",
+        "time": "08:15",
         "title": "【倒産】米中貿易摩擦や新型コロナの影響で業績大幅悪化…産業機械部品や工作機械部品の製造業者が特別清算 負債総額約2億5000万円 新潟・長岡市",
         "source": "Yahoo!ニュース",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ObkRZLWR5YVFocml2NHpEN2hOZGZndEhtUXYwa2pvTWN1NzFRamhUQkExS3ZvLU5xaXJPa2ZCQ3pZNkxraEcxQW8zcWpONXJjTFFDOFZ2SEx2NGFkRzY5ZDFtenpBbXlaY1I1ZHhnX0tabFI4RUJyTjlnNm9sZTQ?oc=5",
-        "publishedAt": "2026-11-13T20:00:01.000Z"
-      },
-      {
-        "time": "23:51",
-        "title": "Cognitech.DEV、設備保全AI「HOZEN」の共同実証先5社を募集 フィジカルAIへの3段階ロードマップを発表",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1MY0xpQXBNRjU1eXJpRi1RX0sxRWNDOURZQWFheHpKSmRBQ3doV2hlM19JaFlYa3M3d1c5Z3ljeXRkN21Rc1g3LWR3aU9KbHhGTlVLYW5VZEl1c3FndVZScERFMThCTXBIblRVSGJITDVvT3JrLXRBbw?oc=5",
-        "publishedAt": "2026-11-13T14:51:30.000Z"
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPa01wMW5sak5IRVVtSVlzUHJsLWUxeWE1OVhNNk5LenVHUUxOanBxTFY0UEtGQjdWX2hEc1VHTmpPc3VoWmZKcF81MnFtcXhRS3dWb18wMEh1NXZGd1ZXUWNHZ2RLWFBvMUoxRXhkNm54NFVramlmaVRQeXgtLVlKeGR0bFZBQktTVnJxeWd3?oc=5",
+        "publishedAt": "2026-11-13T23:15:42.000Z"
       },
       {
         "time": "05:00",
         "title": "「原子の揺れ」観察できた 半導体過熱の解決へ一歩 ２００年前実験ヒントに",
         "source": "中部経済新聞",
         "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE03bDEwTk5sbjNHS2dGMVRiSmlFYVIzTWY1cElDTlZ5UVpQdnNLVVlFX3k3Y0Ffd0h3dWZ6b2EySUNNbENxWEU2cldQTnRJNG5VajR2RWw1dVpscFhrMkZGNmhmLUd6VEVBeXpFRkw2NmJRajg?oc=5",
-        "publishedAt": "2026-11-13T20:00:00.000Z"
-      },
-      {
-        "time": "05:00",
-        "title": "繊維の情報を次世代に 蒲郡市でテックスビジョン開幕 - www.chukei-news.co.jp",
-        "source": "www.chukei-news.co.jp",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBfbElZQXdubXJ1N28yb1dMSElVNXVSZXNlZjZJUHNlZnBwWDI5OFJiRFFnZDlsZFVXN0tVZ292YUJoR1RQX283MmdKb3NFSC1OYXZFRlpIVFdDaUc2OURyVWFQUWI4Q1BZUk1INll4WUtjLVU?oc=5",
         "publishedAt": "2026-11-13T20:00:00.000Z"
       },
       {
@@ -53,9 +39,23 @@
       },
       {
         "time": "05:00",
+        "title": "繊維の情報を次世代に 蒲郡市でテックスビジョン開幕 - www.chukei-news.co.jp",
+        "source": "www.chukei-news.co.jp",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBfbElZQXdubXJ1N28yb1dMSElVNXVSZXNlZjZJUHNlZnBwWDI5OFJiRFFnZDlsZFVXN0tVZ292YUJoR1RQX283MmdKb3NFSC1OYXZFRlpIVFdDaUc2OURyVWFQUWI4Q1BZUk1INll4WUtjLVU?oc=5",
+        "publishedAt": "2026-11-13T20:00:00.000Z"
+      },
+      {
+        "time": "05:00",
         "title": "商店街の「逸品名品」提案 愛商連と名商連 金山総合駅でイベント - www.chukei-news.co.jp",
         "source": "www.chukei-news.co.jp",
         "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB4Vk9hTWtQLTBvOU9rYy0yVU5kMGRtWWl3eHdmZ29kZ1VpNmxNWlBLRTBTSERCYnZ6UHNfc2lJZXpBNm0ySS11RG5OLXYxdHF5ZHpWZVl5RzNob2N3azJsWVgxU2h0Z2VRbHJpWU9DQng4bXc?oc=5",
+        "publishedAt": "2026-11-13T20:00:00.000Z"
+      },
+      {
+        "time": "05:00",
+        "title": "28年運転へ巨大支柱搬入 ＪＥＲＡなど 秋田沖風力、公開 - www.chukei-news.co.jp",
+        "source": "www.chukei-news.co.jp",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAtRTJQR3RqVEZHNFluVXlHSGpzc09NcUhUS0ZnZEQza3h2YVdkMVlLN3h2UEV5X3lwSTZ0ZWt2ZndFbElrSmc5cUdCdFIyaV9TdWxqcXM3ZjRUSXRBVnBleF9ZVWdZZ2M0c3ROMzIxOXZ3NEE?oc=5",
         "publishedAt": "2026-11-13T20:00:00.000Z"
       }
     ],
