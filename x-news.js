@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-14T11:35:12.003Z",
+  "updatedAt": "2026-11-14T12:13:57.858Z",
   "items": [
     {
       "time": "17:45",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "印旛沼決壊 暮らしの再建進まず"
     },
     {
-      "time": "16:49",
-      "title": "3歳死亡 歩行訓練で腹立てたと父",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602559?source=rss",
-      "publishedAt": "2026-11-14T07:49:18.000Z",
-      "xQuery": "3歳死亡 歩行訓練で腹立てたと父"
-    },
-    {
       "time": "17:46",
       "title": "菓子屋の倒産最多へ 老舗でも低迷",
       "source": "Yahoo!ニュース",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6602572?source=rss",
       "publishedAt": "2026-11-14T09:42:53.000Z",
       "xQuery": "売れ残りを寄付 広がる一方問題も"
+    },
+    {
+      "time": "18:05",
+      "title": "宿泊増 鳥取県の「VIVANT」戦略",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6602569?source=rss",
+      "publishedAt": "2026-11-14T09:05:24.000Z",
+      "xQuery": "宿泊増 鳥取県の「VIVANT」戦略"
     }
   ]
 };
