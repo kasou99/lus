@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T17:08:39.729Z",
+  "updatedAt": "2026-11-14T17:35:04.615Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -89,18 +89,18 @@
         "publishedAt": "2026-11-14T01:50:35.000Z"
       },
       {
-        "time": "11:54",
-        "title": "米空港で混乱 原因はハードウエア",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602529?source=rss",
-        "publishedAt": "2026-11-14T02:54:59.000Z"
-      },
-      {
         "time": "08:17",
         "title": "バンス氏 米大統領選見送り検討か",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6602499?source=rss",
         "publishedAt": "2026-11-13T23:17:38.000Z"
+      },
+      {
+        "time": "09:20",
+        "title": "米でタンカーがクルーズ船に衝突",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6602509?source=rss",
+        "publishedAt": "2026-11-14T00:20:23.000Z"
       }
     ],
     "economyHeadlines": [
