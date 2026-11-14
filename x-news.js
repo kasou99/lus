@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-14T08:13:06.259Z",
+  "updatedAt": "2026-11-14T08:35:40.063Z",
   "items": [
     {
       "time": "15:27",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "エヌビディアCEO 後任選定難航か"
     },
     {
-      "time": "15:06",
-      "title": "関東15日は気温急降下 師走並みか",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602551?source=rss",
-      "publishedAt": "2026-11-14T06:06:59.000Z",
-      "xQuery": "関東15日は気温急降下 師走並みか"
-    },
-    {
       "time": "16:49",
       "title": "3歳死亡 歩行訓練で腹立てたと父",
       "source": "Yahoo!ニュース",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "3歳死亡 歩行訓練で腹立てたと父"
     },
     {
-      "time": "16:25",
-      "title": "首都圏でクマ目撃増 神奈川や埼玉",
+      "time": "15:51",
+      "title": "市営住宅236戸に別人が入居 伊賀",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602558?source=rss",
-      "publishedAt": "2026-11-14T07:25:03.000Z",
-      "xQuery": "首都圏でクマ目撃増 神奈川や埼玉"
+      "url": "https://news.yahoo.co.jp/pickup/6602552?source=rss",
+      "publishedAt": "2026-11-14T06:51:30.000Z",
+      "xQuery": "市営住宅236戸に別人が入居 伊賀"
+    },
+    {
+      "time": "17:23",
+      "title": "友達は0人 居場所求めて東大受験",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6602560?source=rss",
+      "publishedAt": "2026-11-14T08:23:01.000Z",
+      "xQuery": "友達は0人 居場所求めて東大受験"
     }
   ]
 };

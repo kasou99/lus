@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T08:13:05.440Z",
+  "updatedAt": "2026-11-14T08:35:38.750Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -8,6 +8,13 @@
         "source": "中部経済新聞",
         "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5XVi03aU01XzM0RzF2QmJuNWQ4b3pzOFZJclhLcmRLaTFYVVM4d1VnLUVXUng3Q2FNUnJhemUxelFFZjJFN3E2Mnc0WVRDRzJETm5SYVNQbmxDQ0tscW9fWUZkNWlnS2l6aGRWakZabkpIQnM?oc=5",
         "publishedAt": "2026-11-13T20:00:00.000Z"
+      },
+      {
+        "time": "17:30",
+        "title": "超精密CNC工作機械の世界市場（2026年～2032年）、市場規模（旋盤、フライス盤、研削盤、その他）・分析レポートを発表",
+        "source": "アットプレス",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ydHNvZ0hDNVg0TmtyT0kwVWRTTVUxN2NpT0RZeEV0eVlaeVdMWXM1Q0doLTkyR3MzenRheGc1Y1I5aV8ybm1FUjJFVWxEWFk?oc=5",
+        "publishedAt": "2026-11-14T08:30:00.000Z"
       },
       {
         "time": "05:00",
@@ -45,17 +52,10 @@
         "publishedAt": "2026-11-13T20:00:00.000Z"
       },
       {
-        "time": "19:25",
-        "title": "台湾の新代、説明会で強気見通し：メモリ調達は来年末まで確保、粗利益率43〜47%を維持",
-        "source": "BigGo ファイナンス",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9pcGtsc3UwcndrbjN2VkNuWVR5MkJZOGk1STFhRWhrajBGRzNQZ0RSc0RXVFEwTks1Y19oMzVZQnBlazFnbVlnczlfSWZlZGlReVZQT2RHUnhOaVJGWFJVMndDYkhybFp5N0pTeV9yWTJhS1Ez?oc=5",
-        "publishedAt": "2026-11-13T10:25:00.000Z"
-      },
-      {
         "time": "22:21",
         "title": "間接材トータルコストダウンサービス「MISUMI floow」 三菱電機 尾張旭工場にMISUMI floowを導入",
         "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9SaDdLaGlqQ1hxbjVFOTRZY3RwQXBrcUlHbXZ1UUJsQ2EwT2FSU0VkV1JFb2dSR0dhOE5uemc2NzhqQm5IMk41TzZianFLS01NVThBZ01oeUNGYTNVSzlpY0hKYk9rR2x1?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1KTnRwLWFrS1MtaWd2X0llTGxHbk5jMDVJTG93dUZVbkhLSFgwM3BnenVtQ2l5WW9NbDJwS2I1bGIxZFNEWkN4cUNXbHJrdjBtTHRCTnhPcjBHcW9nR2d1OE9PRWI4ZlNwYnJUVjFTMFgzRDRHSlFUdWd4NA?oc=5",
         "publishedAt": "2026-11-13T13:21:17.000Z"
       }
     ],
@@ -140,11 +140,11 @@
         "publishedAt": "2026-11-14T02:03:37.000Z"
       },
       {
-        "time": "08:03",
-        "title": "「人生初FAX」MS障害で代替手段",
+        "time": "17:23",
+        "title": "職場で電話苦手30代最多? 克服法",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602497?source=rss",
-        "publishedAt": "2026-11-13T23:03:31.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6602565?source=rss",
+        "publishedAt": "2026-11-14T08:23:58.000Z"
       }
     ],
     "localHeadlines": [
@@ -154,13 +154,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6602559?source=rss",
         "publishedAt": "2026-11-14T07:49:18.000Z"
-      },
-      {
-        "time": "07:48",
-        "title": "2人死亡ひき逃げ事故 49歳を逮捕",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602496?source=rss",
-        "publishedAt": "2026-11-13T22:48:26.000Z"
       },
       {
         "time": "14:50",
@@ -189,6 +182,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6602552?source=rss",
         "publishedAt": "2026-11-14T06:51:30.000Z"
+      },
+      {
+        "time": "17:23",
+        "title": "友達は0人 居場所求めて東大受験",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6602560?source=rss",
+        "publishedAt": "2026-11-14T08:23:01.000Z"
       }
     ],
     "subsidyHeadlines": [
