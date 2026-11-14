@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-14T08:35:40.063Z",
+  "updatedAt": "2026-11-14T09:10:45.011Z",
   "items": [
     {
-      "time": "15:27",
-      "title": "マイクロソフトの障害 全面復旧",
+      "time": "17:45",
+      "title": "米の航空混乱 途方に暮れる乗客",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602556?source=rss",
-      "publishedAt": "2026-11-14T06:27:25.000Z",
-      "xQuery": "マイクロソフトの障害 全面復旧"
+      "url": "https://news.yahoo.co.jp/pickup/6602568?source=rss",
+      "publishedAt": "2026-11-14T08:45:15.000Z",
+      "xQuery": "米の航空混乱 途方に暮れる乗客"
     },
     {
       "time": "15:24",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "市営住宅236戸に別人が入居 伊賀"
     },
     {
-      "time": "17:23",
-      "title": "友達は0人 居場所求めて東大受験",
+      "time": "10:30",
+      "title": "婚活に300万円課金 結婚した男性",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602560?source=rss",
-      "publishedAt": "2026-11-14T08:23:01.000Z",
-      "xQuery": "友達は0人 居場所求めて東大受験"
+      "url": "https://news.yahoo.co.jp/pickup/6602518?source=rss",
+      "publishedAt": "2026-11-14T01:30:03.000Z",
+      "xQuery": "婚活に300万円課金 結婚した男性"
     }
   ]
 };
