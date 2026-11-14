@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-14T12:35:04.555Z",
+  "updatedAt": "2026-11-14T13:09:11.404Z",
   "items": [
     {
       "time": "20:17",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "1.5℃目標もう無理? COPの意義は"
     },
     {
-      "time": "17:46",
-      "title": "菓子屋の倒産最多へ 老舗でも低迷",
+      "time": "21:56",
+      "title": "縦型ショートドラマ トラブル急増",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602566?source=rss",
-      "publishedAt": "2026-11-14T08:46:28.000Z",
-      "xQuery": "菓子屋の倒産最多へ 老舗でも低迷"
+      "url": "https://news.yahoo.co.jp/pickup/6602597?source=rss",
+      "publishedAt": "2026-11-14T12:56:42.000Z",
+      "xQuery": "縦型ショートドラマ トラブル急増"
     },
     {
-      "time": "18:42",
-      "title": "売れ残りを寄付 広がる一方問題も",
+      "time": "21:32",
+      "title": "48歳で認知症診断 職場で輝く52歳",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602572?source=rss",
-      "publishedAt": "2026-11-14T09:42:53.000Z",
-      "xQuery": "売れ残りを寄付 広がる一方問題も"
+      "url": "https://news.yahoo.co.jp/pickup/6602591?source=rss",
+      "publishedAt": "2026-11-14T12:32:20.000Z",
+      "xQuery": "48歳で認知症診断 職場で輝く52歳"
     },
     {
       "time": "18:05",
