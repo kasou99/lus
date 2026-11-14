@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-14T07:35:10.217Z",
+  "updatedAt": "2026-11-14T08:13:06.259Z",
   "items": [
     {
       "time": "15:27",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "関東15日は気温急降下 師走並みか"
     },
     {
-      "time": "14:50",
-      "title": "「夫を包丁で刺した」49歳女逮捕",
+      "time": "16:49",
+      "title": "3歳死亡 歩行訓練で腹立てたと父",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602547?source=rss",
-      "publishedAt": "2026-11-14T05:50:33.000Z",
-      "xQuery": "「夫を包丁で刺した」49歳女逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6602559?source=rss",
+      "publishedAt": "2026-11-14T07:49:18.000Z",
+      "xQuery": "3歳死亡 歩行訓練で腹立てたと父"
     },
     {
-      "time": "15:51",
-      "title": "市営住宅236戸に別人が入居 伊賀",
+      "time": "16:25",
+      "title": "首都圏でクマ目撃増 神奈川や埼玉",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602552?source=rss",
-      "publishedAt": "2026-11-14T06:51:30.000Z",
-      "xQuery": "市営住宅236戸に別人が入居 伊賀"
+      "url": "https://news.yahoo.co.jp/pickup/6602558?source=rss",
+      "publishedAt": "2026-11-14T07:25:03.000Z",
+      "xQuery": "首都圏でクマ目撃増 神奈川や埼玉"
     }
   ]
 };

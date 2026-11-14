@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T07:35:09.258Z",
+  "updatedAt": "2026-11-14T08:13:05.440Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,13 +31,6 @@
         "publishedAt": "2026-11-13T11:24:06.000Z"
       },
       {
-        "time": "16:37",
-        "title": "Cognitech.DEVが設備保全AI「HOZEN」の共同実証パートナーを5社募集する理由とその魅力",
-        "source": "ニュースメディアVOIX",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8yNU9tNXpHakF4YVV6RWc2US1HOFhoSWliMXNvQUdFTU5DaUhEY0FsZ1lwNlYtbm00U0ZmWG5hOFBWeTRNaWJXdzQzQ1R4bGQ4MUZIYXVoZnBQaGtMUDA0WkNDNWM1N1Nq?oc=5",
-        "publishedAt": "2026-11-13T07:37:43.000Z"
-      },
-      {
         "time": "20:25",
         "title": "電電公会、50社の台湾企業を率いてワルシャワへ 100件超の商談で中東欧のAI・EV商機を狙う",
         "source": "BigGo ファイナンス",
@@ -52,10 +45,17 @@
         "publishedAt": "2026-11-13T20:00:00.000Z"
       },
       {
+        "time": "19:25",
+        "title": "台湾の新代、説明会で強気見通し：メモリ調達は来年末まで確保、粗利益率43〜47%を維持",
+        "source": "BigGo ファイナンス",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9pcGtsc3UwcndrbjN2VkNuWVR5MkJZOGk1STFhRWhrajBGRzNQZ0RSc0RXVFEwTks1Y19oMzVZQnBlazFnbVlnczlfSWZlZGlReVZQT2RHUnhOaVJGWFJVMndDYkhybFp5N0pTeV9yWTJhS1Ez?oc=5",
+        "publishedAt": "2026-11-13T10:25:00.000Z"
+      },
+      {
         "time": "22:21",
         "title": "間接材トータルコストダウンサービス「MISUMI floow」 三菱電機 尾張旭工場にMISUMI floowを導入",
         "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1KTnRwLWFrS1MtaWd2X0llTGxHbk5jMDVJTG93dUZVbkhLSFgwM3BnenVtQ2l5WW9NbDJwS2I1bGIxZFNEWkN4cUNXbHJrdjBtTHRCTnhPcjBHcW9nR2d1OE9PRWI4ZlNwYnJUVjFTMFgzRDRHSlFUdWd4NA?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9SaDdLaGlqQ1hxbjVFOTRZY3RwQXBrcUlHbXZ1UUJsQ2EwT2FSU0VkV1JFb2dSR0dhOE5uemc2NzhqQm5IMk41TzZianFLS01NVThBZ01oeUNGYTNVSzlpY0hKYk9rR2x1?oc=5",
         "publishedAt": "2026-11-13T13:21:17.000Z"
       }
     ],
@@ -149,18 +149,18 @@
     ],
     "localHeadlines": [
       {
+        "time": "16:49",
+        "title": "3歳死亡 歩行訓練で腹立てたと父",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6602559?source=rss",
+        "publishedAt": "2026-11-14T07:49:18.000Z"
+      },
+      {
         "time": "07:48",
         "title": "2人死亡ひき逃げ事故 49歳を逮捕",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6602496?source=rss",
         "publishedAt": "2026-11-13T22:48:26.000Z"
-      },
-      {
-        "time": "11:26",
-        "title": "3歳死亡 5回虐待通告もなぜ防げず",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602526?source=rss",
-        "publishedAt": "2026-11-14T02:26:28.000Z"
       },
       {
         "time": "14:50",
