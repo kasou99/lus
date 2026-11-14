@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-14T00:45:13.552Z",
+  "updatedAt": "2026-11-14T01:12:03.491Z",
   "items": [
     {
       "time": "09:02",
@@ -10,6 +10,14 @@ window.LUS_X_NEWS = {
       "xQuery": "米中露首脳会談 19日に中国で開催"
     },
     {
+      "time": "09:45",
+      "title": "3メガバンク中間決算 最高益更新",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6602512?source=rss",
+      "publishedAt": "2026-11-14T00:45:45.000Z",
+      "xQuery": "3メガバンク中間決算 最高益更新"
+    },
+    {
       "time": "08:42",
       "title": "全米空港で地上待機命令 通信障害",
       "source": "Yahoo!ニュース",
@@ -18,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "全米空港で地上待機命令 通信障害"
     },
     {
-      "time": "08:17",
-      "title": "バンス氏 米大統領選見送り検討か",
+      "time": "09:20",
+      "title": "米でタンカーがクルーズ船に衝突",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602499?source=rss",
-      "publishedAt": "2026-11-13T23:17:38.000Z",
-      "xQuery": "バンス氏 米大統領選見送り検討か"
+      "url": "https://news.yahoo.co.jp/pickup/6602509?source=rss",
+      "publishedAt": "2026-11-14T00:20:23.000Z",
+      "xQuery": "米でタンカーがクルーズ船に衝突"
     },
     {
       "time": "08:55",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6602508?source=rss",
       "publishedAt": "2026-11-13T23:55:42.000Z",
       "xQuery": "マイクロソフト 大規模障害を謝罪"
-    },
-    {
-      "time": "08:47",
-      "title": "3歳暴行死 虐待疑い通告5回あった",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602507?source=rss",
-      "publishedAt": "2026-11-13T23:47:27.000Z",
-      "xQuery": "3歳暴行死 虐待疑い通告5回あった"
     }
   ]
 };
