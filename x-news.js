@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-14T09:10:45.011Z",
+  "updatedAt": "2026-11-14T09:35:15.295Z",
   "items": [
     {
       "time": "17:45",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "3歳死亡 歩行訓練で腹立てたと父"
     },
     {
-      "time": "15:51",
-      "title": "市営住宅236戸に別人が入居 伊賀",
+      "time": "18:18",
+      "title": "36年4カ月の滞納も 伊賀市営住宅",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602552?source=rss",
-      "publishedAt": "2026-11-14T06:51:30.000Z",
-      "xQuery": "市営住宅236戸に別人が入居 伊賀"
+      "url": "https://news.yahoo.co.jp/pickup/6602570?source=rss",
+      "publishedAt": "2026-11-14T09:18:52.000Z",
+      "xQuery": "36年4カ月の滞納も 伊賀市営住宅"
     },
     {
       "time": "10:30",
