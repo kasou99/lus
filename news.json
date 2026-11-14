@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T05:35:47.958Z",
+  "updatedAt": "2026-11-14T06:17:29.035Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,25 +38,25 @@
         "publishedAt": "2026-11-13T07:37:43.000Z"
       },
       {
-        "time": "15:00",
-        "title": "エンシュウ[6218]：業績予想及び配当予想の修正並びに特別損失の計上に関するお知らせ 2026年11月13日(適時開示) ：日経会社情報DIGITAL",
-        "source": "日本経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNaVdQaDkydmFmY1o2Qk1xZ2Z2QTZHSXpkUTdmel9KTEtaZlo3RzJCNEUxVGxxOGNqUm1fTzdLdGJvUmFRbTdzbGtWb0ktLU05b3o3ZjFVWHhIdHFvTUh5NTBoMzBWZnlMTWE3cDR0blAtN1l6bWhOaGJXbkJoS1RlZ0MyanBmLXNMM09IS0hxVGE0bDhNT0dIak5iOWhMR1ZzVm1nSV94MVNvSndaZ3NRbFJRRE8tdkRGRGx3SDdzNjhBVFZHRGZXejhMY1E?oc=5",
-        "publishedAt": "2026-11-13T06:00:00.000Z"
-      },
-      {
-        "time": "15:06",
-        "title": "【決算】エンシュウは増収増益 27年3月期第2四半期（中間期）：ニュース",
-        "source": "中日BIZナビ",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBuWl82bzF3T2N4MVlBZEhmUXgyTTVmQXFidFpGd2RuamUtb005XzBPT2hfR2NlOExSektBWmUyYzhLdDNlT0xVRm1xZlZ6emYtMTA5bEg1VW4wYnVVWTZV?oc=5",
-        "publishedAt": "2026-11-13T06:06:00.000Z"
-      },
-      {
         "time": "20:25",
         "title": "電電公会、50社の台湾企業を率いてワルシャワへ 100件超の商談で中東欧のAI・EV商機を狙う",
         "source": "BigGo ファイナンス",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBIQlVoS1FxRVdOXzhZTGZMRVdvSW5LWUhxYnR5a2JEM2dzd1J0MHVtczg4eklYWnFNdU5jYmg2amQzSmptajk1VnR3WUxZcll6U3Z6SzhueXAyQUNXd2xWZ2tyX1VkSWd1WlNKYWhfZTZlbUh4?oc=5",
         "publishedAt": "2026-11-13T11:25:00.000Z"
+      },
+      {
+        "time": "22:21",
+        "title": "間接材トータルコストダウンサービス「MISUMI floow」 三菱電機 尾張旭工場にMISUMI floowを導入",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9SaDdLaGlqQ1hxbjVFOTRZY3RwQXBrcUlHbXZ1UUJsQ2EwT2FSU0VkV1JFb2dSR0dhOE5uemc2NzhqQm5IMk41TzZianFLS01NVThBZ01oeUNGYTNVSzlpY0hKYk9rR2x1?oc=5",
+        "publishedAt": "2026-11-13T13:21:17.000Z"
+      },
+      {
+        "time": "05:00",
+        "title": "「原子の揺れ」観察できた 半導体過熱の解決へ一歩 ２００年前実験ヒントに",
+        "source": "中部経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE03bDEwTk5sbjNHS2dGMVRiSmlFYVIzTWY1cElDTlZ5UVpQdnNLVVlFX3k3Y0Ffd0h3dWZ6b2EySUNNbENxWEU2cldQTnRJNG5VajR2RWw1dVpscFhrMkZGNmhmLUd6VEVBeXpFRkw2NmJRajg?oc=5",
+        "publishedAt": "2026-11-13T20:00:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -170,6 +170,13 @@
         "publishedAt": "2026-11-14T02:26:28.000Z"
       },
       {
+        "time": "14:50",
+        "title": "「夫を包丁で刺した」49歳女逮捕",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6602547?source=rss",
+        "publishedAt": "2026-11-14T05:50:33.000Z"
+      },
+      {
         "time": "10:55",
         "title": "測量中崩れた岩に挟まれ 29歳死亡",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6602478?source=rss",
         "publishedAt": "2026-11-13T14:12:19.000Z"
-      },
-      {
-        "time": "10:30",
-        "title": "婚活に300万円課金 結婚した男性",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602518?source=rss",
-        "publishedAt": "2026-11-14T01:30:03.000Z"
       }
     ],
     "subsidyHeadlines": [

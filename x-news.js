@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-14T05:35:48.620Z",
+  "updatedAt": "2026-11-14T06:17:29.822Z",
   "items": [
     {
-      "time": "12:13",
-      "title": "米中露会談 核兵器削減を協議へ",
+      "time": "14:27",
+      "title": "MS 個人向けサービスが完全復旧",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602532?source=rss",
-      "publishedAt": "2026-11-14T03:13:51.000Z",
-      "xQuery": "米中露会談 核兵器削減を協議へ"
+      "url": "https://news.yahoo.co.jp/pickup/6602546?source=rss",
+      "publishedAt": "2026-11-14T05:27:37.000Z",
+      "xQuery": "MS 個人向けサービスが完全復旧"
     },
     {
       "time": "13:22",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "「人生初FAX」MS障害で代替手段"
     },
     {
+      "time": "14:50",
+      "title": "「夫を包丁で刺した」49歳女逮捕",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6602547?source=rss",
+      "publishedAt": "2026-11-14T05:50:33.000Z",
+      "xQuery": "「夫を包丁で刺した」49歳女逮捕"
+    },
+    {
       "time": "10:28",
       "title": "「銀だこ」曲がり角 赤字転落なぜ",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6602520?source=rss",
       "publishedAt": "2026-11-14T01:28:24.000Z",
       "xQuery": "「銀だこ」曲がり角 赤字転落なぜ"
-    },
-    {
-      "time": "13:22",
-      "title": "大学お笑い日本一の名大生 進路は",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602538?source=rss",
-      "publishedAt": "2026-11-14T04:22:25.000Z",
-      "xQuery": "大学お笑い日本一の名大生 進路は"
     }
   ]
 };
