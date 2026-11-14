@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T03:36:19.018Z",
+  "updatedAt": "2026-11-14T04:12:10.931Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -10,11 +10,11 @@
         "publishedAt": "2026-11-13T20:00:00.000Z"
       },
       {
-        "time": "12:59",
-        "title": "設備保全クラウド「ミロクルカルテ」、新オプション「ミロクルAIメーター読み取り（α版）」をモノづくりフェア2026で初公開",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1nY0swRXNvUVV4amhwYmhoZFQ2NElDTkJpLUpCSkd4LXcyNlRiMmtsRFpxcVk0MFlLRms4Mkh2UElnUG1CaWhIYllZU3ZlQ285cWNhWU03cXV0V1pRazNTN1gyMWFEekE?oc=5",
-        "publishedAt": "2026-11-13T03:59:12.000Z"
+        "time": "05:00",
+        "title": "【倒産】米中貿易摩擦や新型コロナの影響で業績大幅悪化…産業機械部品や工作機械部品の製造業者が特別清算 負債総額約2億5000万円 新潟・長岡市",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ObkRZLWR5YVFocml2NHpEN2hOZGZndEhtUXYwa2pvTWN1NzFRamhUQkExS3ZvLU5xaXJPa2ZCQ3pZNkxraEcxQW8zcWpONXJjTFFDOFZ2SEx2NGFkRzY5ZDFtenpBbXlaY1I1ZHhnX0tabFI4RUJyTjlnNm9sZTQ?oc=5",
+        "publishedAt": "2026-11-13T20:00:01.000Z"
       },
       {
         "time": "20:24",
@@ -38,13 +38,6 @@
         "publishedAt": "2026-11-13T07:37:43.000Z"
       },
       {
-        "time": "05:00",
-        "title": "【倒産】米中貿易摩擦や新型コロナの影響で業績大幅悪化…産業機械部品や工作機械部品の製造業者が特別清算 負債総額約2億5000万円 新潟・長岡市",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ObkRZLWR5YVFocml2NHpEN2hOZGZndEhtUXYwa2pvTWN1NzFRamhUQkExS3ZvLU5xaXJPa2ZCQ3pZNkxraEcxQW8zcWpONXJjTFFDOFZ2SEx2NGFkRzY5ZDFtenpBbXlaY1I1ZHhnX0tabFI4RUJyTjlnNm9sZTQ?oc=5",
-        "publishedAt": "2026-11-13T20:00:01.000Z"
-      },
-      {
         "time": "15:00",
         "title": "エンシュウ[6218]：業績予想及び配当予想の修正並びに特別損失の計上に関するお知らせ 2026年11月13日(適時開示) ：日経会社情報DIGITAL",
         "source": "日本経済新聞",
@@ -57,6 +50,13 @@
         "source": "中日BIZナビ",
         "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBuWl82bzF3T2N4MVlBZEhmUXgyTTVmQXFidFpGd2RuamUtb005XzBPT2hfR2NlOExSektBWmUyYzhLdDNlT0xVRm1xZlZ6emYtMTA5bEg1VW4wYnVVWTZV?oc=5",
         "publishedAt": "2026-11-13T06:06:00.000Z"
+      },
+      {
+        "time": "20:25",
+        "title": "電電公会、50社の台湾企業を率いてワルシャワへ 100件超の商談で中東欧のAI・EV商機を狙う",
+        "source": "BigGo ファイナンス",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBIQlVoS1FxRVdOXzhZTGZMRVdvSW5LWUhxYnR5a2JEM2dzd1J0MHVtczg4eklYWnFNdU5jYmg2amQzSmptajk1VnR3WUxZcll6U3Z6SzhueXAyQUNXd2xWZ2tyX1VkSWd1WlNKYWhfZTZlbUh4?oc=5",
+        "publishedAt": "2026-11-13T11:25:00.000Z"
       }
     ],
     "worldHeadlines": [
