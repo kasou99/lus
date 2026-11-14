@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T02:15:36.890Z",
+  "updatedAt": "2026-11-14T02:35:46.598Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -8,13 +8,6 @@
         "source": "中部経済新聞",
         "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5XVi03aU01XzM0RzF2QmJuNWQ4b3pzOFZJclhLcmRLaTFYVVM4d1VnLUVXUng3Q2FNUnJhemUxelFFZjJFN3E2Mnc0WVRDRzJETm5SYVNQbmxDQ0tscW9fWUZkNWlnS2l6aGRWakZabkpIQnM?oc=5",
         "publishedAt": "2026-11-13T20:00:00.000Z"
-      },
-      {
-        "time": "11:30",
-        "title": "工作機械受注「年2兆円」時代に監視すべき20社｜本命メーカーから商社・部品・測定機器まで一気に網羅",
-        "source": "note",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9xMGs2d0lfWU1jWXE2WkFiek5xSDBwcjhiQ1ZIV2FKS1FDYlhiSTFMUElmUEYwempURS1EN3JwWkZCTGNObTJEek5fMGZqalhMZEh3QjNVdDcyX1U?oc=5",
-        "publishedAt": "2026-11-13T02:30:00.000Z"
       },
       {
         "time": "12:59",
@@ -57,6 +50,13 @@
         "source": "ｄメニューニュース",
         "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE40UHZobWZicERKOVJQaDhRaUFFaFlhbEY4U2RsamdhaVl6MXQyeTU0VnNSYXh5dmh4N3EwRGJLWUVWSVA5WGwwNDBKemduTE84dGlCYUI1TUxHWVBLRDdUTXNXMm1TV1E4alVPZTNJZGdHcWhvbXNr0gF3QVVfeXFMTjRQdmhtZmJwREo5UlBoOFFpQUVoWWFsRjhTZGxqZ2FpWXoxdDJ5NTRWc1JheHl2aHg3cTBEYktZRVZJUDlYbDA0MEp6Z25MTzh0aUJhQjVNTEdZUEtEN1RNc1cybVNXUThqVU9lM0lkZ0dxaG9tc2s?oc=5",
         "publishedAt": "2026-11-13T20:00:00.000Z"
+      },
+      {
+        "time": "15:06",
+        "title": "【決算】エンシュウは増収増益 27年3月期第2四半期（中間期）：ニュース",
+        "source": "中日BIZナビ",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBuWl82bzF3T2N4MVlBZEhmUXgyTTVmQXFidFpGd2RuamUtb005XzBPT2hfR2NlOExSektBWmUyYzhLdDNlT0xVRm1xZlZ6emYtMTA5bEg1VW4wYnVVWTZV?oc=5",
+        "publishedAt": "2026-11-13T06:06:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -163,11 +163,11 @@
         "publishedAt": "2026-11-13T09:21:12.000Z"
       },
       {
-        "time": "08:47",
-        "title": "3歳暴行死 虐待疑い通告5回あった",
+        "time": "11:26",
+        "title": "3歳死亡 5回虐待通告もなぜ防げず",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602507?source=rss",
-        "publishedAt": "2026-11-13T23:47:27.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6602526?source=rss",
+        "publishedAt": "2026-11-14T02:26:28.000Z"
       },
       {
         "time": "10:55",
