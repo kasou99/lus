@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-14T09:35:15.295Z",
+  "updatedAt": "2026-11-14T10:09:42.316Z",
   "items": [
     {
       "time": "17:45",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "米の航空混乱 途方に暮れる乗客"
     },
     {
-      "time": "15:24",
-      "title": "エヌビディアCEO 後任選定難航か",
+      "time": "18:37",
+      "title": "印旛沼決壊 暮らしの再建進まず",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602554?source=rss",
-      "publishedAt": "2026-11-14T06:24:31.000Z",
-      "xQuery": "エヌビディアCEO 後任選定難航か"
+      "url": "https://news.yahoo.co.jp/pickup/6602573?source=rss",
+      "publishedAt": "2026-11-14T09:37:01.000Z",
+      "xQuery": "印旛沼決壊 暮らしの再建進まず"
     },
     {
       "time": "16:49",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "3歳死亡 歩行訓練で腹立てたと父"
     },
     {
-      "time": "18:18",
-      "title": "36年4カ月の滞納も 伊賀市営住宅",
+      "time": "18:42",
+      "title": "売れ残りを寄付 広がる一方問題も",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602570?source=rss",
-      "publishedAt": "2026-11-14T09:18:52.000Z",
-      "xQuery": "36年4カ月の滞納も 伊賀市営住宅"
+      "url": "https://news.yahoo.co.jp/pickup/6602572?source=rss",
+      "publishedAt": "2026-11-14T09:42:53.000Z",
+      "xQuery": "売れ残りを寄付 広がる一方問題も"
     },
     {
-      "time": "10:30",
-      "title": "婚活に300万円課金 結婚した男性",
+      "time": "18:51",
+      "title": "スバルWRXのMT車復活 要望受け",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602518?source=rss",
-      "publishedAt": "2026-11-14T01:30:03.000Z",
-      "xQuery": "婚活に300万円課金 結婚した男性"
+      "url": "https://news.yahoo.co.jp/pickup/6602575?source=rss",
+      "publishedAt": "2026-11-14T09:51:37.000Z",
+      "xQuery": "スバルWRXのMT車復活 要望受け"
     }
   ]
 };
