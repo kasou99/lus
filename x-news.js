@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-14T13:34:54.462Z",
+  "updatedAt": "2026-11-14T14:09:17.354Z",
   "items": [
     {
       "time": "20:17",
@@ -10,12 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "米中露の接近 日本政府は危機感"
     },
     {
-      "time": "19:11",
-      "title": "1.5℃目標もう無理? COPの意義は",
+      "time": "22:45",
+      "title": "AI悪用攻撃拠点か 世界で千台発見",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602577?source=rss",
-      "publishedAt": "2026-11-14T10:11:34.000Z",
-      "xQuery": "1.5℃目標もう無理? COPの意義は"
+      "url": "https://news.yahoo.co.jp/pickup/6602602?source=rss",
+      "publishedAt": "2026-11-14T13:45:44.000Z",
+      "xQuery": "AI悪用攻撃拠点か 世界で千台発見"
+    },
+    {
+      "time": "14:58",
+      "title": "学校の「男女別学」存在意義は",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6602548?source=rss",
+      "publishedAt": "2026-11-14T05:58:43.000Z",
+      "xQuery": "学校の「男女別学」存在意義は"
     },
     {
       "time": "21:56",
@@ -24,14 +32,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6602597?source=rss",
       "publishedAt": "2026-11-14T12:56:42.000Z",
       "xQuery": "縦型ショートドラマ トラブル急増"
-    },
-    {
-      "time": "21:32",
-      "title": "48歳で認知症診断 職場で輝く52歳",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602591?source=rss",
-      "publishedAt": "2026-11-14T12:32:20.000Z",
-      "xQuery": "48歳で認知症診断 職場で輝く52歳"
     },
     {
       "time": "22:07",
