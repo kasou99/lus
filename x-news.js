@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-14T06:37:33.752Z",
+  "updatedAt": "2026-11-14T07:10:52.883Z",
   "items": [
     {
       "time": "15:27",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "全米の空路混乱 150万人足止めか"
     },
     {
-      "time": "08:03",
-      "title": "「人生初FAX」MS障害で代替手段",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602497?source=rss",
-      "publishedAt": "2026-11-13T23:03:31.000Z",
-      "xQuery": "「人生初FAX」MS障害で代替手段"
-    },
-    {
       "time": "15:06",
       "title": "関東15日は気温急降下 師走並みか",
       "source": "Yahoo!ニュース",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6602547?source=rss",
       "publishedAt": "2026-11-14T05:50:33.000Z",
       "xQuery": "「夫を包丁で刺した」49歳女逮捕"
+    },
+    {
+      "time": "15:51",
+      "title": "市営住宅236戸に別人が入居 伊賀",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6602552?source=rss",
+      "publishedAt": "2026-11-14T06:51:30.000Z",
+      "xQuery": "市営住宅236戸に別人が入居 伊賀"
     }
   ]
 };
