@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-14T10:09:42.316Z",
+  "updatedAt": "2026-11-14T10:34:59.079Z",
   "items": [
     {
       "time": "17:45",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "売れ残りを寄付 広がる一方問題も"
     },
     {
-      "time": "18:51",
-      "title": "スバルWRXのMT車復活 要望受け",
+      "time": "15:51",
+      "title": "市営住宅236戸に別人が入居 伊賀",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602575?source=rss",
-      "publishedAt": "2026-11-14T09:51:37.000Z",
-      "xQuery": "スバルWRXのMT車復活 要望受け"
+      "url": "https://news.yahoo.co.jp/pickup/6602552?source=rss",
+      "publishedAt": "2026-11-14T06:51:30.000Z",
+      "xQuery": "市営住宅236戸に別人が入居 伊賀"
     }
   ]
 };
