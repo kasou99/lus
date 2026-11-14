@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T11:08:46.252Z",
+  "updatedAt": "2026-11-14T11:35:11.253Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,20 +31,6 @@
         "publishedAt": "2026-11-13T14:51:30.000Z"
       },
       {
-        "time": "20:24",
-        "title": "10億ドル規模の日本サーボモーター・ドライブ市場：産業価値と今後の見通し、2026年から",
-        "source": "pando.life",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBZM250X25DMi1neERiMnY1bkttQUtWTDFfOEtMWVRyRDBxQzliOEM1WXBkMUF2Qm4yWGlyV3hKeG45S1FVM0tDWUJn?oc=5",
-        "publishedAt": "2026-11-13T11:24:06.000Z"
-      },
-      {
-        "time": "20:25",
-        "title": "電電公会、50社の台湾企業を率いてワルシャワへ 100件超の商談で中東欧のAI・EV商機を狙う",
-        "source": "BigGo ファイナンス",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBIQlVoS1FxRVdOXzhZTGZMRVdvSW5LWUhxYnR5a2JEM2dzd1J0MHVtczg4eklYWnFNdU5jYmg2amQzSmptajk1VnR3WUxZcll6U3Z6SzhueXAyQUNXd2xWZ2tyX1VkSWd1WlNKYWhfZTZlbUh4?oc=5",
-        "publishedAt": "2026-11-13T11:25:00.000Z"
-      },
-      {
         "time": "05:00",
         "title": "「原子の揺れ」観察できた 半導体過熱の解決へ一歩 ２００年前実験ヒントに",
         "source": "中部経済新聞",
@@ -57,6 +43,20 @@
         "source": "ニコニコニュース",
         "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1KTnRwLWFrS1MtaWd2X0llTGxHbk5jMDVJTG93dUZVbkhLSFgwM3BnenVtQ2l5WW9NbDJwS2I1bGIxZFNEWkN4cUNXbHJrdjBtTHRCTnhPcjBHcW9nR2d1OE9PRWI4ZlNwYnJUVjFTMFgzRDRHSlFUdWd4NA?oc=5",
         "publishedAt": "2026-11-13T13:21:17.000Z"
+      },
+      {
+        "time": "05:00",
+        "title": "繊維の情報を次世代に 蒲郡市でテックスビジョン開幕 - www.chukei-news.co.jp",
+        "source": "www.chukei-news.co.jp",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBfbElZQXdubXJ1N28yb1dMSElVNXVSZXNlZjZJUHNlZnBwWDI5OFJiRFFnZDlsZFVXN0tVZ292YUJoR1RQX283MmdKb3NFSC1OYXZFRlpIVFdDaUc2OURyVWFQUWI4Q1BZUk1INll4WUtjLVU?oc=5",
+        "publishedAt": "2026-11-13T20:00:00.000Z"
+      },
+      {
+        "time": "05:00",
+        "title": "商店街の「逸品名品」提案 愛商連と名商連 金山総合駅でイベント - www.chukei-news.co.jp",
+        "source": "www.chukei-news.co.jp",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB4Vk9hTWtQLTBvOU9rYy0yVU5kMGRtWWl3eHdmZ29kZ1VpNmxNWlBLRTBTSERCYnZ6UHNfc2lJZXpBNm0ySS11RG5OLXYxdHF5ZHpWZVl5RzNob2N3azJsWVgxU2h0Z2VRbHJpWU9DQng4bXc?oc=5",
+        "publishedAt": "2026-11-13T20:00:00.000Z"
       }
     ],
     "worldHeadlines": [
