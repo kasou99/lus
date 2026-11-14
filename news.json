@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T21:08:51.442Z",
+  "updatedAt": "2026-11-14T21:35:21.241Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -15,6 +15,13 @@
         "source": "IndexBox",
         "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbzV6LWZPb3JuYjVkVXhvellDY0FrNFRKUF9vcEpiNVNKcnlzblBpYzNqcmducks2MXdwRG0tVjVIQjVhYTFQSlpCR1hhaWRqZGI5bklFaDhxWi1Ibjh1S3BqMXVCQXJuZEZJdk54eUhuS3JpSndhTVl4MG44SDZKaGJQR2dQREFKaVVaTTVUVWVuTGhXaFlISXl1SVo2WDRydWxITGRPSWVmRnpySTlQNXFocDVLN2RBSEJqajA0d2JrYkRhREE?oc=5",
         "publishedAt": "2026-11-14T15:06:04.000Z"
+      },
+      {
+        "time": "03:07",
+        "title": "メイクスタートの後藤健次氏が現代の名工に選出 総勢40名の町工場で3人目",
+        "source": "Dellows News",
+        "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5MS2c4a0VYb1BVaHBxTnFKTm1zOXZVT1VmWG9jOUpYajFUY2swUkkzQXhpZi1YcXBLUG5fVmZ2TDNfOVl1OHQ0?oc=5",
+        "publishedAt": "2026-11-14T18:07:34.000Z"
       },
       {
         "time": "15:24",
@@ -50,13 +57,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6602597?source=rss",
         "publishedAt": "2026-11-14T12:56:42.000Z"
-      },
-      {
-        "time": "10:28",
-        "title": "「銀だこ」曲がり角 赤字転落なぜ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602520?source=rss",
-        "publishedAt": "2026-11-14T01:28:24.000Z"
       }
     ],
     "worldHeadlines": [
