@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-14T04:12:11.526Z",
+  "updatedAt": "2026-11-14T04:35:52.432Z",
   "items": [
     {
       "time": "12:13",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "米中露会談 核兵器削減を協議へ"
     },
     {
-      "time": "11:54",
-      "title": "米空港で混乱 原因はハードウエア",
+      "time": "13:22",
+      "title": "全米の空路混乱 150万人足止めか",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602529?source=rss",
-      "publishedAt": "2026-11-14T02:54:59.000Z",
-      "xQuery": "米空港で混乱 原因はハードウエア"
+      "url": "https://news.yahoo.co.jp/pickup/6602537?source=rss",
+      "publishedAt": "2026-11-14T04:22:41.000Z",
+      "xQuery": "全米の空路混乱 150万人足止めか"
     },
     {
-      "time": "11:26",
-      "title": "3歳死亡 5回虐待通告もなぜ防げず",
+      "time": "08:03",
+      "title": "「人生初FAX」MS障害で代替手段",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602526?source=rss",
-      "publishedAt": "2026-11-14T02:26:28.000Z",
-      "xQuery": "3歳死亡 5回虐待通告もなぜ防げず"
+      "url": "https://news.yahoo.co.jp/pickup/6602497?source=rss",
+      "publishedAt": "2026-11-13T23:03:31.000Z",
+      "xQuery": "「人生初FAX」MS障害で代替手段"
     },
     {
       "time": "10:28",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "「銀だこ」曲がり角 赤字転落なぜ"
     },
     {
-      "time": "10:30",
-      "title": "婚活に300万円課金 結婚した男性",
+      "time": "13:22",
+      "title": "大学お笑い日本一の名大生 進路は",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602518?source=rss",
-      "publishedAt": "2026-11-14T01:30:03.000Z",
-      "xQuery": "婚活に300万円課金 結婚した男性"
+      "url": "https://news.yahoo.co.jp/pickup/6602538?source=rss",
+      "publishedAt": "2026-11-14T04:22:25.000Z",
+      "xQuery": "大学お笑い日本一の名大生 進路は"
     }
   ]
 };

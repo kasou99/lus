@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T04:12:10.931Z",
+  "updatedAt": "2026-11-14T04:35:51.605Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -82,6 +82,13 @@
         "publishedAt": "2026-11-14T01:50:35.000Z"
       },
       {
+        "time": "13:22",
+        "title": "全米の空路混乱 150万人足止めか",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6602537?source=rss",
+        "publishedAt": "2026-11-14T04:22:41.000Z"
+      },
+      {
         "time": "11:54",
         "title": "米空港で混乱 原因はハードウエア",
         "source": "Yahoo!ニュース",
@@ -89,18 +96,11 @@
         "publishedAt": "2026-11-14T02:54:59.000Z"
       },
       {
-        "time": "23:13",
-        "title": "米NYでビル崩壊 瞬間の内部映像",
+        "time": "08:17",
+        "title": "バンス氏 米大統領選見送り検討か",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602476?source=rss",
-        "publishedAt": "2026-11-13T14:13:17.000Z"
-      },
-      {
-        "time": "12:57",
-        "title": "イラン側 バーレーンの米施設攻撃",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602406?source=rss",
-        "publishedAt": "2026-11-13T03:57:37.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6602499?source=rss",
+        "publishedAt": "2026-11-13T23:17:38.000Z"
       }
     ],
     "economyHeadlines": [
@@ -177,18 +177,18 @@
         "publishedAt": "2026-11-14T01:55:43.000Z"
       },
       {
-        "time": "21:44",
-        "title": "大雨被害の由利本荘市 災害死判断",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602465?source=rss",
-        "publishedAt": "2026-11-13T12:44:56.000Z"
-      },
-      {
         "time": "23:12",
         "title": "1日2件の事故 免許返納した75歳",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6602478?source=rss",
         "publishedAt": "2026-11-13T14:12:19.000Z"
+      },
+      {
+        "time": "10:30",
+        "title": "婚活に300万円課金 結婚した男性",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6602518?source=rss",
+        "publishedAt": "2026-11-14T01:30:03.000Z"
       }
     ],
     "subsidyHeadlines": [
