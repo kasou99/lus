@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T20:35:08.007Z",
+  "updatedAt": "2026-11-14T21:08:51.442Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -15,20 +15,6 @@
         "source": "IndexBox",
         "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbzV6LWZPb3JuYjVkVXhvellDY0FrNFRKUF9vcEpiNVNKcnlzblBpYzNqcmducks2MXdwRG0tVjVIQjVhYTFQSlpCR1hhaWRqZGI5bklFaDhxWi1Ibjh1S3BqMXVCQXJuZEZJdk54eUhuS3JpSndhTVl4MG44SDZKaGJQR2dQREFKaVVaTTVUVWVuTGhXaFlISXl1SVo2WDRydWxITGRPSWVmRnpySTlQNXFocDVLN2RBSEJqajA0d2JrYkRhREE?oc=5",
         "publishedAt": "2026-11-14T15:06:04.000Z"
-      },
-      {
-        "time": "05:41",
-        "title": "ブラザー工業 工作機械にＡＩチャット機能 作業者の質問に自動回答 年度内提供目指す",
-        "source": "ｄメニューニュース",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMlZZOE83eWhqSWIxbDBQU2xXempqMTlfQ1l0SXh0YXNHY0hpRGhvSjVhcVdUYm9CcUpMakU4QVJWZlZEQkJHRXJiQmxlUmsxODB2Njl2cHJaMElQMXoxaFZ0SEJFRUxpbWJRVVdvSjliRDEtTi1SaGEyVS1rRkg4UWVIa2FRenozc09MbTBKaWtpZUxJTEdUOFNOeXVhOW1n0gGTAUFVX3lxTFBxb3kzZ2NILUUtWmVJdXIxY29HM2JnS3AyeU5Ga1JIcFVtcGpKUnBFc0g3RHluZzNramVUUVlqalVxSmV6eF9fSzBCcGtFZVBlbk1nYzYzQWVfTGNvSW9YaDVLNlNYVmhwc3AweGYxUUdhc0ItdnBocktmTGsyTG1QR2FuTXdmbjlYd29fWC1NbGJoaw?oc=5",
-        "publishedAt": "2026-11-13T20:41:12.000Z"
-      },
-      {
-        "time": "06:00",
-        "title": "県東部の中小企業 販路拡大へ商談会 沼津で４信金",
-        "source": "静岡新聞DIGITAL",
-        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9XQmJlVEJ0QlR3RGlZM2pZWnFQMzRiZm9vU1ZEcU4ybVo0UktuRk9nVHhYU1RKU1A5RXlVVEExQjFmUk81N2pKWDBLbDIxdw?oc=5",
-        "publishedAt": "2026-11-13T21:00:00.000Z"
       },
       {
         "time": "15:24",
@@ -57,6 +43,20 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6602575?source=rss",
         "publishedAt": "2026-11-14T09:51:37.000Z"
+      },
+      {
+        "time": "21:56",
+        "title": "縦型ショートドラマ トラブル急増",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6602597?source=rss",
+        "publishedAt": "2026-11-14T12:56:42.000Z"
+      },
+      {
+        "time": "10:28",
+        "title": "「銀だこ」曲がり角 赤字転落なぜ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6602520?source=rss",
+        "publishedAt": "2026-11-14T01:28:24.000Z"
       }
     ],
     "worldHeadlines": [
