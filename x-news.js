@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-14T13:09:11.404Z",
+  "updatedAt": "2026-11-14T13:34:54.462Z",
   "items": [
     {
       "time": "20:17",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "48歳で認知症診断 職場で輝く52歳"
     },
     {
-      "time": "18:05",
-      "title": "宿泊増 鳥取県の「VIVANT」戦略",
+      "time": "22:07",
+      "title": "体に障害 恋愛は無理と思っていた",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602569?source=rss",
-      "publishedAt": "2026-11-14T09:05:24.000Z",
-      "xQuery": "宿泊増 鳥取県の「VIVANT」戦略"
+      "url": "https://news.yahoo.co.jp/pickup/6602599?source=rss",
+      "publishedAt": "2026-11-14T13:07:22.000Z",
+      "xQuery": "体に障害 恋愛は無理と思っていた"
     }
   ]
 };
