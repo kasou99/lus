@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-14T01:12:03.491Z",
+  "updatedAt": "2026-11-14T01:38:53.234Z",
   "items": [
     {
       "time": "09:02",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "3メガバンク中間決算 最高益更新"
     },
     {
-      "time": "08:42",
-      "title": "全米空港で地上待機命令 通信障害",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602503?source=rss",
-      "publishedAt": "2026-11-13T23:42:11.000Z",
-      "xQuery": "全米空港で地上待機命令 通信障害"
-    },
-    {
       "time": "09:20",
       "title": "米でタンカーがクルーズ船に衝突",
       "source": "Yahoo!ニュース",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6602508?source=rss",
       "publishedAt": "2026-11-13T23:55:42.000Z",
       "xQuery": "マイクロソフト 大規模障害を謝罪"
+    },
+    {
+      "time": "10:30",
+      "title": "婚活に300万円課金 結婚した男性",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6602518?source=rss",
+      "publishedAt": "2026-11-14T01:30:03.000Z",
+      "xQuery": "婚活に300万円課金 結婚した男性"
     }
   ]
 };
