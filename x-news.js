@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-14T07:10:52.883Z",
+  "updatedAt": "2026-11-14T07:35:10.217Z",
   "items": [
     {
       "time": "15:27",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "マイクロソフトの障害 全面復旧"
     },
     {
-      "time": "13:22",
-      "title": "全米の空路混乱 150万人足止めか",
+      "time": "15:24",
+      "title": "エヌビディアCEO 後任選定難航か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602537?source=rss",
-      "publishedAt": "2026-11-14T04:22:41.000Z",
-      "xQuery": "全米の空路混乱 150万人足止めか"
+      "url": "https://news.yahoo.co.jp/pickup/6602554?source=rss",
+      "publishedAt": "2026-11-14T06:24:31.000Z",
+      "xQuery": "エヌビディアCEO 後任選定難航か"
     },
     {
       "time": "15:06",
