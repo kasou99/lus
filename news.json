@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T11:35:07.015Z",
+  "updatedAt": "2026-11-15T12:15:06.523Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,13 +38,6 @@
         "publishedAt": "2026-11-15T07:31:31.000Z"
       },
       {
-        "time": "03:07",
-        "title": "メイクスタートの後藤健次氏が現代の名工に選出 総勢40名の町工場で3人目",
-        "source": "Dellows News",
-        "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5MS2c4a0VYb1BVaHBxTnFKTm1zOXZVT1VmWG9jOUpYajFUY2swUkkzQXhpZi1YcXBLUG5fVmZ2TDNfOVl1OHQ0?oc=5",
-        "publishedAt": "2026-11-14T18:07:34.000Z"
-      },
-      {
         "time": "16:14",
         "title": "タマホーム 架空請求を売上計上か",
         "source": "Yahoo!ニュース",
@@ -57,6 +50,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6602636?source=rss",
         "publishedAt": "2026-11-15T01:06:17.000Z"
+      },
+      {
+        "time": "15:15",
+        "title": "東京自由が丘「らしさ」消えた?",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6602670?source=rss",
+        "publishedAt": "2026-11-15T06:15:25.000Z"
       }
     ],
     "worldHeadlines": [
@@ -66,13 +66,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6602660?source=rss",
         "publishedAt": "2026-11-15T04:19:08.000Z"
-      },
-      {
-        "time": "12:13",
-        "title": "米中露会談 核兵器削減を協議へ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602532?source=rss",
-        "publishedAt": "2026-11-14T03:13:51.000Z"
       },
       {
         "time": "12:40",
@@ -101,6 +94,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6602707?source=rss",
         "publishedAt": "2026-11-15T10:26:37.000Z"
+      },
+      {
+        "time": "17:45",
+        "title": "米の航空混乱 途方に暮れる乗客",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6602568?source=rss",
+        "publishedAt": "2026-11-14T08:45:15.000Z"
       }
     ],
     "economyHeadlines": [
@@ -156,6 +156,13 @@
         "publishedAt": "2026-11-15T10:21:39.000Z"
       },
       {
+        "time": "20:37",
+        "title": "漁船同士が衝突し1隻沈没 8人搬送",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6602713?source=rss",
+        "publishedAt": "2026-11-15T11:37:45.000Z"
+      },
+      {
         "time": "07:18",
         "title": "ラヴ上等「あっすん」容疑者逮捕",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6602703?source=rss",
         "publishedAt": "2026-11-15T09:40:26.000Z"
-      },
-      {
-        "time": "15:24",
-        "title": "豊洲の公園にポケカ袋が散乱 波紋",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602672?source=rss",
-        "publishedAt": "2026-11-15T06:24:54.000Z"
       }
     ],
     "subsidyHeadlines": [

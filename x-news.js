@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-15T11:35:08.139Z",
+  "updatedAt": "2026-11-15T12:15:07.324Z",
   "items": [
     {
       "time": "20:03",
@@ -10,20 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "横田さん拉致49年 北側の真相不明"
     },
     {
-      "time": "19:00",
-      "title": "防衛省AI活用の基本方針 見直しへ",
+      "time": "20:49",
+      "title": "生活保護費改定 物価高の反映焦点",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602704?source=rss",
-      "publishedAt": "2026-11-15T10:00:56.000Z",
-      "xQuery": "防衛省AI活用の基本方針 見直しへ"
-    },
-    {
-      "time": "19:21",
-      "title": "愛知の住宅強盗事件 トクリュウか",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602706?source=rss",
-      "publishedAt": "2026-11-15T10:21:39.000Z",
-      "xQuery": "愛知の住宅強盗事件 トクリュウか"
+      "url": "https://news.yahoo.co.jp/pickup/6602714?source=rss",
+      "publishedAt": "2026-11-15T11:49:58.000Z",
+      "xQuery": "生活保護費改定 物価高の反映焦点"
     },
     {
       "time": "16:07",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6602711?source=rss",
       "publishedAt": "2026-11-15T11:08:59.000Z",
       "xQuery": "スピッツ﨑山さん重傷 治療に専念"
+    },
+    {
+      "time": "21:02",
+      "title": "妻が酒でひょう変 限界感じた夫",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6602718?source=rss",
+      "publishedAt": "2026-11-15T12:02:41.000Z",
+      "xQuery": "妻が酒でひょう変 限界感じた夫"
     }
   ]
 };
