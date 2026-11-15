@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T03:36:09.197Z",
+  "updatedAt": "2026-11-15T04:13:12.734Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -8,6 +8,13 @@
         "source": "アットプレス",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ydHNvZ0hDNVg0TmtyT0kwVWRTTVUxN2NpT0RZeEV0eVlaeVdMWXM1Q0doLTkyR3MzenRheGc1Y1I5aV8ybm1FUjJFVWxEWFk?oc=5",
         "publishedAt": "2026-11-14T08:30:00.000Z"
+      },
+      {
+        "time": "12:45",
+        "title": "京都・上七軒歌舞練場で秋の公演 大規模修繕の支援呼びかけ",
+        "source": "au Webポータル",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE94eFRfNXhibDhhS2dYWFFnRDVybWpsN0YwMWIwTVdxQkVEWXJCVVp5OU5ROGtpbFRTc2p5dnRwaThFZEtSdjRGcXo2QVREQVZKS1k1Z0NqQnlnNlQtSDdfZzBfTXlPNm84RG51NGt3?oc=5",
+        "publishedAt": "2026-11-15T03:45:00.000Z"
       },
       {
         "time": "07:00",
@@ -22,13 +29,6 @@
         "source": "IndexBox",
         "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbzV6LWZPb3JuYjVkVXhvellDY0FrNFRKUF9vcEpiNVNKcnlzblBpYzNqcmducks2MXdwRG0tVjVIQjVhYTFQSlpCR1hhaWRqZGI5bklFaDhxWi1Ibjh1S3BqMXVCQXJuZEZJdk54eUhuS3JpSndhTVl4MG44SDZKaGJQR2dQREFKaVVaTTVUVWVuTGhXaFlISXl1SVo2WDRydWxITGRPSWVmRnpySTlQNXFocDVLN2RBSEJqajA0d2JrYkRhREE?oc=5",
         "publishedAt": "2026-11-14T15:06:04.000Z"
-      },
-      {
-        "time": "18:42",
-        "title": "売れ残りを寄付 広がる一方問題も",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602572?source=rss",
-        "publishedAt": "2026-11-14T09:42:53.000Z"
       },
       {
         "time": "10:06",
@@ -52,11 +52,11 @@
         "publishedAt": "2026-11-14T12:56:42.000Z"
       },
       {
-        "time": "09:24",
-        "title": "再開発が大赤字 大阪・阿倍野の今",
+        "time": "12:39",
+        "title": "手が出ない 福岡市マンション高騰",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602629?source=rss",
-        "publishedAt": "2026-11-15T00:24:50.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6602655?source=rss",
+        "publishedAt": "2026-11-15T03:39:08.000Z"
       }
     ],
     "worldHeadlines": [
@@ -75,11 +75,11 @@
         "publishedAt": "2026-11-14T03:13:51.000Z"
       },
       {
-        "time": "09:02",
-        "title": "米中露首脳会談 19日に中国で開催",
+        "time": "12:40",
+        "title": "米の「中国脅威論」どう生まれた",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602511?source=rss",
-        "publishedAt": "2026-11-14T00:02:05.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6602656?source=rss",
+        "publishedAt": "2026-11-15T03:40:02.000Z"
       },
       {
         "time": "08:42",
@@ -105,13 +105,6 @@
     ],
     "economyHeadlines": [
       {
-        "time": "18:42",
-        "title": "売れ残りを寄付 広がる一方問題も",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602572?source=rss",
-        "publishedAt": "2026-11-14T09:42:53.000Z"
-      },
-      {
         "time": "10:06",
         "title": "月収2万円と年金5万円 70代の現実",
         "source": "Yahoo!ニュース",
@@ -133,6 +126,13 @@
         "publishedAt": "2026-11-14T12:56:42.000Z"
       },
       {
+        "time": "12:39",
+        "title": "手が出ない 福岡市マンション高騰",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6602655?source=rss",
+        "publishedAt": "2026-11-15T03:39:08.000Z"
+      },
+      {
         "time": "09:24",
         "title": "再開発が大赤字 大阪・阿倍野の今",
         "source": "Yahoo!ニュース",
@@ -149,11 +149,11 @@
     ],
     "localHeadlines": [
       {
-        "time": "08:40",
-        "title": "住宅強盗 寝ていた82歳女性が重傷",
+        "time": "12:56",
+        "title": "住宅に強盗 少年ら5人が関与か",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602623?source=rss",
-        "publishedAt": "2026-11-14T23:40:52.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6602657?source=rss",
+        "publishedAt": "2026-11-15T03:56:41.000Z"
       },
       {
         "time": "07:18",
