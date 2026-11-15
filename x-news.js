@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-15T04:13:13.479Z",
+  "updatedAt": "2026-11-15T04:36:01.428Z",
   "items": [
     {
       "time": "12:02",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "住宅に強盗 少年ら5人が関与か"
     },
     {
-      "time": "09:00",
-      "title": "伝説の給食みかんパン なぜ消えた",
+      "time": "11:57",
+      "title": "ハンズ渋谷店「本日最終」響く声",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602628?source=rss",
-      "publishedAt": "2026-11-15T00:00:58.000Z",
-      "xQuery": "伝説の給食みかんパン なぜ消えた"
+      "url": "https://news.yahoo.co.jp/pickup/6602649?source=rss",
+      "publishedAt": "2026-11-15T02:57:36.000Z",
+      "xQuery": "ハンズ渋谷店「本日最終」響く声"
     }
   ]
 };
