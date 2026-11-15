@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-15T22:09:29.629Z",
+  "updatedAt": "2026-11-15T22:35:11.168Z",
   "items": [
     {
       "time": "00:37",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "福岡市長選 再選挙の見通し"
     },
     {
-      "time": "23:36",
-      "title": "原潜の保有「反対」52% 読売調査",
+      "time": "07:20",
+      "title": "エストニア ロシアとの国境閉鎖へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602735?source=rss",
-      "publishedAt": "2026-11-15T14:36:13.000Z",
-      "xQuery": "原潜の保有「反対」52% 読売調査"
+      "url": "https://news.yahoo.co.jp/pickup/6602742?source=rss",
+      "publishedAt": "2026-11-15T22:20:16.000Z",
+      "xQuery": "エストニア ロシアとの国境閉鎖へ"
     },
     {
       "time": "06:14",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "特急と衝突し車火災 遺体を発見"
     },
     {
-      "time": "22:02",
-      "title": "NVIDIAフアン氏復帰を 署名広がる",
+      "time": "07:28",
+      "title": "フアン氏がNVIDIA復帰協議 報道",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602724?source=rss",
-      "publishedAt": "2026-11-15T13:02:58.000Z",
-      "xQuery": "NVIDIAフアン氏復帰を 署名広がる"
+      "url": "https://news.yahoo.co.jp/pickup/6602744?source=rss",
+      "publishedAt": "2026-11-15T22:28:14.000Z",
+      "xQuery": "フアン氏がNVIDIA復帰協議 報道"
     },
     {
       "time": "22:56",
