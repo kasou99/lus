@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-15T23:10:58.028Z",
+  "updatedAt": "2026-11-15T23:35:27.189Z",
   "items": [
     {
-      "time": "00:37",
-      "title": "福岡市長選 再選挙の見通し",
+      "time": "08:22",
+      "title": "福岡市長選 再選挙が確実に",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602736?source=rss",
-      "publishedAt": "2026-11-15T15:37:18.000Z",
-      "xQuery": "福岡市長選 再選挙の見通し"
+      "url": "https://news.yahoo.co.jp/pickup/6602753?source=rss",
+      "publishedAt": "2026-11-15T23:22:11.000Z",
+      "xQuery": "福岡市長選 再選挙が確実に"
     },
     {
       "time": "07:43",

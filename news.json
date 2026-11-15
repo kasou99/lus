@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T23:10:57.446Z",
+  "updatedAt": "2026-11-15T23:35:26.514Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -10,18 +10,18 @@
         "publishedAt": "2026-11-15T22:45:00.000Z"
       },
       {
-        "time": "05:00",
-        "title": "牧野フライスが新加工技術を続々開発、ガラス成形用SiC型も誕生（2ページ目）",
-        "source": "日経クロステック",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQ2xjVjIxNUZ0RUNadmJ0OVV4S1M5czZlT09GY1RJbjRXRkU3aHZiaVRsVml6VHh3QUtSaEdsaG9hTzFqR0V2VXFRdW9xRlU4ZVJReTZvWjFjdzVmSHVsTnR6RDdWZUFVTHlkaDFUUURoUTJvbWYydDVMSHFCeWNQZ2d5WVVIUTBVWG9UYmVzSTA5SGpOMFNWRnZ3?oc=5",
-        "publishedAt": "2026-11-15T20:00:00.000Z"
-      },
-      {
         "time": "15:30",
         "title": "景況7年半ぶりプラス圏に浮上 半導体、工作機械の需要が回復 長岡信金2026年度上半期の景気動向調査",
         "source": "新潟日報",
         "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1DNVdvbFd2MkMxQWR1b1I0U3ZYLVI0Yk4xT09TNkZKTmJMeXh5Q2lIRko0ZFN0MFY0VzdIUGtkaDh6eU5uN2xXUExNTk96aktZN0k4bklYZWxjd1ptX3c?oc=5",
         "publishedAt": "2026-11-15T06:30:00.000Z"
+      },
+      {
+        "time": "05:00",
+        "title": "牧野フライスが新加工技術を続々開発、ガラス成形用SiC型も誕生（2ページ目）",
+        "source": "日経クロステック",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQ2xjVjIxNUZ0RUNadmJ0OVV4S1M5czZlT09GY1RJbjRXRkU3aHZiaVRsVml6VHh3QUtSaEdsaG9hTzFqR0V2VXFRdW9xRlU4ZVJReTZvWjFjdzVmSHVsTnR6RDdWZUFVTHlkaDFUUURoUTJvbWYydDVMSHFCeWNQZ2d5WVVIUTBVWG9UYmVzSTA5SGpOMFNWRnZ3?oc=5",
+        "publishedAt": "2026-11-15T20:00:00.000Z"
       },
       {
         "time": "05:03",
@@ -149,11 +149,18 @@
     ],
     "localHeadlines": [
       {
-        "time": "00:37",
-        "title": "福岡市長選 再選挙の見通し",
+        "time": "08:22",
+        "title": "福岡市長選 再選挙が確実に",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602736?source=rss",
-        "publishedAt": "2026-11-15T15:37:18.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6602753?source=rss",
+        "publishedAt": "2026-11-15T23:22:11.000Z"
+      },
+      {
+        "time": "08:21",
+        "title": "福岡市長選再選挙出る?7人の回答",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6602752?source=rss",
+        "publishedAt": "2026-11-15T23:21:50.000Z"
       },
       {
         "time": "07:19",
@@ -168,13 +175,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6602737?source=rss",
         "publishedAt": "2026-11-15T21:14:12.000Z"
-      },
-      {
-        "time": "21:25",
-        "title": "愛媛知事選 現職中村氏が5選確実",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602720?source=rss",
-        "publishedAt": "2026-11-15T12:25:54.000Z"
       },
       {
         "time": "22:56",
