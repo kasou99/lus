@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-11-15T05:35:52.572Z",
+  "updatedAt": "2026-11-15T06:17:35.913Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "12:45",
+        "title": "京都・上七軒歌舞練場で秋の公演 大規模修繕の支援呼びかけ",
+        "source": "Infoseek",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1nbHYtYnFoTHpWQjg5VDZMVFVyTk13aV9Mc21Xcml4WDllRGtnMWFLOE1Fd2xDRW9lQWdET3lxNFNjak1oQkY4M1F1Y1pKbldxZDJlemdIWHpFbzlqZmlfNjYzSVY5QjVaWC14VGpkOFEzejdoSVVodE45Q3N6N2fSAX9BVV95cUxNZ2x2LWJxaEx6VkI4OVQ2TFRVck5Nd2lfTHNtV3JpeFg5ZURrZzFhSzhNRXdsQ0VvZUFnRE95cTRTY2pNaEJGODNRdWNaSm5XcWQyZXpnSFh6RW85amZpXzY2M0lWOUI1WlgteFRqZDhRM3o3aElVaHROOUNzejdn?oc=5",
+        "publishedAt": "2026-11-15T03:45:00.000Z"
+      },
       {
         "time": "17:30",
         "title": "超精密CNC工作機械の世界市場（2026年～2032年）、市場規模（旋盤、フライス盤、研削盤、その他）・分析レポートを発表",
@@ -10,11 +17,11 @@
         "publishedAt": "2026-11-14T08:30:00.000Z"
       },
       {
-        "time": "12:45",
-        "title": "京都・上七軒歌舞練場で秋の公演 大規模修繕の支援呼びかけ",
-        "source": "au Webポータル",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE94eFRfNXhibDhhS2dYWFFnRDVybWpsN0YwMWIwTVdxQkVEWXJCVVp5OU5ROGtpbFRTc2p5dnRwaThFZEtSdjRGcXo2QVREQVZKS1k1Z0NqQnlnNlQtSDdfZzBfTXlPNm84RG51NGt3?oc=5",
-        "publishedAt": "2026-11-15T03:45:00.000Z"
+        "time": "00:06",
+        "title": "絶縁フェルール市場2035年予測：電化と自動化が成長をけん引",
+        "source": "IndexBox",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbzV6LWZPb3JuYjVkVXhvellDY0FrNFRKUF9vcEpiNVNKcnlzblBpYzNqcmducks2MXdwRG0tVjVIQjVhYTFQSlpCR1hhaWRqZGI5bklFaDhxWi1Ibjh1S3BqMXVCQXJuZEZJdk54eUhuS3JpSndhTVl4MG44SDZKaGJQR2dQREFKaVVaTTVUVWVuTGhXaFlISXl1SVo2WDRydWxITGRPSWVmRnpySTlQNXFocDVLN2RBSEJqajA0d2JrYkRhREE?oc=5",
+        "publishedAt": "2026-11-14T15:06:04.000Z"
       },
       {
         "time": "07:00",
@@ -24,11 +31,11 @@
         "publishedAt": "2026-11-14T22:00:24.000Z"
       },
       {
-        "time": "00:06",
-        "title": "絶縁フェルール市場2035年予測：電化と自動化が成長をけん引",
-        "source": "IndexBox",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbzV6LWZPb3JuYjVkVXhvellDY0FrNFRKUF9vcEpiNVNKcnlzblBpYzNqcmducks2MXdwRG0tVjVIQjVhYTFQSlpCR1hhaWRqZGI5bklFaDhxWi1Ibjh1S3BqMXVCQXJuZEZJdk54eUhuS3JpSndhTVl4MG44SDZKaGJQR2dQREFKaVVaTTVUVWVuTGhXaFlISXl1SVo2WDRydWxITGRPSWVmRnpySTlQNXFocDVLN2RBSEJqajA0d2JrYkRhREE?oc=5",
-        "publishedAt": "2026-11-14T15:06:04.000Z"
+        "time": "03:07",
+        "title": "メイクスタートの後藤健次氏が現代の名工に選出 総勢40名の町工場で3人目",
+        "source": "Dellows News",
+        "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5MS2c4a0VYb1BVaHBxTnFKTm1zOXZVT1VmWG9jOUpYajFUY2swUkkzQXhpZi1YcXBLUG5fVmZ2TDNfOVl1OHQ0?oc=5",
+        "publishedAt": "2026-11-14T18:07:34.000Z"
       },
       {
         "time": "10:06",
@@ -50,13 +57,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6602597?source=rss",
         "publishedAt": "2026-11-14T12:56:42.000Z"
-      },
-      {
-        "time": "12:39",
-        "title": "手が出ない 福岡市マンション高騰",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602655?source=rss",
-        "publishedAt": "2026-11-15T03:39:08.000Z"
       }
     ],
     "worldHeadlines": [
@@ -140,11 +140,11 @@
         "publishedAt": "2026-11-15T00:24:50.000Z"
       },
       {
-        "time": "11:57",
-        "title": "ハンズ渋谷店「本日最終」響く声",
+        "time": "15:15",
+        "title": "東京自由が丘「らしさ」消えた?",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602649?source=rss",
-        "publishedAt": "2026-11-15T02:57:36.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6602670?source=rss",
+        "publishedAt": "2026-11-15T06:15:25.000Z"
       }
     ],
     "localHeadlines": [

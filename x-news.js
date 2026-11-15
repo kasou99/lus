@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-15T05:35:53.406Z",
+  "updatedAt": "2026-11-15T06:17:36.651Z",
   "items": [
     {
       "time": "13:19",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "米中露が会談へ 日本は蚊帳の外か"
     },
     {
-      "time": "12:02",
-      "title": "定数削減巡り国民と維新に温度差",
+      "time": "14:07",
+      "title": "ヒ素含む古書 22年以降100点超",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602652?source=rss",
-      "publishedAt": "2026-11-15T03:02:14.000Z",
-      "xQuery": "定数削減巡り国民と維新に温度差"
+      "url": "https://news.yahoo.co.jp/pickup/6602665?source=rss",
+      "publishedAt": "2026-11-15T05:07:12.000Z",
+      "xQuery": "ヒ素含む古書 22年以降100点超"
     },
     {
-      "time": "12:56",
-      "title": "住宅に強盗 少年ら5人が関与か",
+      "time": "13:46",
+      "title": "大阪3歳死亡 平均体重5キロ下回る",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602657?source=rss",
-      "publishedAt": "2026-11-15T03:56:41.000Z",
-      "xQuery": "住宅に強盗 少年ら5人が関与か"
+      "url": "https://news.yahoo.co.jp/pickup/6602664?source=rss",
+      "publishedAt": "2026-11-15T04:46:23.000Z",
+      "xQuery": "大阪3歳死亡 平均体重5キロ下回る"
     },
     {
       "time": "12:39",
