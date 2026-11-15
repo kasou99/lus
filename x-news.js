@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-15T10:09:48.249Z",
+  "updatedAt": "2026-11-15T10:35:19.693Z",
   "items": [
     {
       "time": "17:51",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "「中国の元スパイ」語る 接近手口"
     },
     {
-      "time": "17:14",
-      "title": "高級レストランにタイパの波 なぜ",
+      "time": "19:21",
+      "title": "愛知の住宅強盗事件 トクリュウか",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602693?source=rss",
-      "publishedAt": "2026-11-15T08:14:52.000Z",
-      "xQuery": "高級レストランにタイパの波 なぜ"
+      "url": "https://news.yahoo.co.jp/pickup/6602706?source=rss",
+      "publishedAt": "2026-11-15T10:21:39.000Z",
+      "xQuery": "愛知の住宅強盗事件 トクリュウか"
     },
     {
       "time": "16:07",
