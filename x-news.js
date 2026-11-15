@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-15T09:35:09.565Z",
+  "updatedAt": "2026-11-15T10:09:48.249Z",
   "items": [
     {
       "time": "17:51",
@@ -8,14 +8,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6602696?source=rss",
       "publishedAt": "2026-11-15T08:51:34.000Z",
       "xQuery": "消費減税「効果小さい」63% 共同"
-    },
-    {
-      "time": "16:21",
-      "title": "週後半 日本海側で暴風・大雪恐れ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602679?source=rss",
-      "publishedAt": "2026-11-15T07:21:09.000Z",
-      "xQuery": "週後半 日本海側で暴風・大雪恐れ"
     },
     {
       "time": "17:56",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6602677?source=rss",
       "publishedAt": "2026-11-15T07:07:47.000Z",
       "xQuery": "死んだンゴ 投稿者命日に寄付急増"
+    },
+    {
+      "time": "18:40",
+      "title": "スピッツ﨑山さん 交通事故で搬送",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6602703?source=rss",
+      "publishedAt": "2026-11-15T09:40:26.000Z",
+      "xQuery": "スピッツ﨑山さん 交通事故で搬送"
     }
   ]
 };
