@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-15T06:38:42.727Z",
+  "updatedAt": "2026-11-15T07:10:47.182Z",
   "items": [
     {
-      "time": "13:19",
-      "title": "米中露が会談へ 日本は蚊帳の外か",
+      "time": "15:39",
+      "title": "首相APEC出席へ 焦点は日中関係",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602660?source=rss",
-      "publishedAt": "2026-11-15T04:19:08.000Z",
-      "xQuery": "米中露が会談へ 日本は蚊帳の外か"
+      "url": "https://news.yahoo.co.jp/pickup/6602674?source=rss",
+      "publishedAt": "2026-11-15T06:39:22.000Z",
+      "xQuery": "首相APEC出席へ 焦点は日中関係"
     },
     {
       "time": "13:46",
