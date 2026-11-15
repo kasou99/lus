@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T06:17:35.913Z",
+  "updatedAt": "2026-11-15T06:38:41.591Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "15:20",
+        "title": "福岡市HPが閲覧不可に 原因不明",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6602673?source=rss",
+        "publishedAt": "2026-11-15T06:20:58.000Z"
+      },
+      {
         "time": "12:56",
         "title": "住宅に強盗 少年ら5人が関与か",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6602663?source=rss",
         "publishedAt": "2026-11-15T04:54:33.000Z"
-      },
-      {
-        "time": "08:28",
-        "title": "7時頃登校し清掃 校長に児童感化",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602624?source=rss",
-        "publishedAt": "2026-11-14T23:28:20.000Z"
       }
     ],
     "subsidyHeadlines": [

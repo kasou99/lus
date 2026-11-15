@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-15T06:17:36.651Z",
+  "updatedAt": "2026-11-15T06:38:42.727Z",
   "items": [
     {
       "time": "13:19",
@@ -10,14 +10,6 @@ window.LUS_X_NEWS = {
       "xQuery": "米中露が会談へ 日本は蚊帳の外か"
     },
     {
-      "time": "14:07",
-      "title": "ヒ素含む古書 22年以降100点超",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602665?source=rss",
-      "publishedAt": "2026-11-15T05:07:12.000Z",
-      "xQuery": "ヒ素含む古書 22年以降100点超"
-    },
-    {
       "time": "13:46",
       "title": "大阪3歳死亡 平均体重5キロ下回る",
       "source": "Yahoo!ニュース",
@@ -26,20 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "大阪3歳死亡 平均体重5キロ下回る"
     },
     {
-      "time": "12:39",
-      "title": "手が出ない 福岡市マンション高騰",
+      "time": "15:20",
+      "title": "福岡市HPが閲覧不可に 原因不明",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602655?source=rss",
-      "publishedAt": "2026-11-15T03:39:08.000Z",
-      "xQuery": "手が出ない 福岡市マンション高騰"
+      "url": "https://news.yahoo.co.jp/pickup/6602673?source=rss",
+      "publishedAt": "2026-11-15T06:20:58.000Z",
+      "xQuery": "福岡市HPが閲覧不可に 原因不明"
     },
     {
-      "time": "13:54",
-      "title": "いろは坂右折禁止 渋滞緩和に効果",
+      "time": "15:15",
+      "title": "東京自由が丘「らしさ」消えた?",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602663?source=rss",
-      "publishedAt": "2026-11-15T04:54:33.000Z",
-      "xQuery": "いろは坂右折禁止 渋滞緩和に効果"
+      "url": "https://news.yahoo.co.jp/pickup/6602670?source=rss",
+      "publishedAt": "2026-11-15T06:15:25.000Z",
+      "xQuery": "東京自由が丘「らしさ」消えた?"
+    },
+    {
+      "time": "15:24",
+      "title": "豊洲の公園にポケカ袋が散乱 波紋",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6602672?source=rss",
+      "publishedAt": "2026-11-15T06:24:54.000Z",
+      "xQuery": "豊洲の公園にポケカ袋が散乱 波紋"
     }
   ]
 };
