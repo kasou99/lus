@@ -1,49 +1,7 @@
 {
-  "updatedAt": "2026-11-15T13:35:05.354Z",
+  "updatedAt": "2026-11-15T14:09:39.509Z",
   "groups": {
     "machineHeadlines": [
-      {
-        "time": "15:30",
-        "title": "景況7年半ぶりプラス圏に浮上 半導体、工作機械の需要が回復 長岡信金2026年度上半期の景気動向調査",
-        "source": "新潟日報",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1DNVdvbFd2MkMxQWR1b1I0U3ZYLVI0Yk4xT09TNkZKTmJMeXh5Q2lIRko0ZFN0MFY0VzdIUGtkaDh6eU5uN2xXUExNTk96aktZN0k4bklYZWxjd1ptX3c?oc=5",
-        "publishedAt": "2026-11-15T06:30:00.000Z"
-      },
-      {
-        "time": "12:45",
-        "title": "京都・上七軒歌舞練場で秋の公演 大規模修繕の支援呼びかけ",
-        "source": "Infoseek",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1nbHYtYnFoTHpWQjg5VDZMVFVyTk13aV9Mc21Xcml4WDllRGtnMWFLOE1Fd2xDRW9lQWdET3lxNFNjak1oQkY4M1F1Y1pKbldxZDJlemdIWHpFbzlqZmlfNjYzSVY5QjVaWC14VGpkOFEzejdoSVVodE45Q3N6N2fSAX9BVV95cUxNZ2x2LWJxaEx6VkI4OVQ2TFRVck5Nd2lfTHNtV3JpeFg5ZURrZzFhSzhNRXdsQ0VvZUFnRE95cTRTY2pNaEJGODNRdWNaSm5XcWQyZXpnSFh6RW85amZpXzY2M0lWOUI1WlgteFRqZDhRM3o3aElVaHROOUNzejdn?oc=5",
-        "publishedAt": "2026-11-15T03:45:00.000Z"
-      },
-      {
-        "time": "07:00",
-        "title": "韓国SKハイニックス、龍仁の新工場を2027年2月に稼働へ…3拠点で正社員募集",
-        "source": "Infoseek",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE12UEdscTYyVWJGZ1lHTS02WmxWZGNlRVlsTV91OTJLRzJORmNjejU3SzZnOC1CdDYtd3pBYWJLLTJiWnkwc1plYkpPRWlaN3RuMklMYXJfaE1jVXFQV0thN1YyekFibTIzNlHSAWpBVV95cUxNdlBHbHE2MlViRmdZR00tNlpsVmRjZUVZbE1fdTkyS0cyTkZjY3o1N0s2ZzgtQnQ2LXd6QWFiSy0yYlp5MHNaZWJKT0VpWjd0bjJJTGFyX2hNY1VxUFdLYTdWMnpBYm0yMzZR?oc=5",
-        "publishedAt": "2026-11-14T22:00:24.000Z"
-      },
-      {
-        "time": "00:06",
-        "title": "絶縁フェルール市場2035年予測：電化と自動化が成長をけん引",
-        "source": "IndexBox",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbzV6LWZPb3JuYjVkVXhvellDY0FrNFRKUF9vcEpiNVNKcnlzblBpYzNqcmducks2MXdwRG0tVjVIQjVhYTFQSlpCR1hhaWRqZGI5bklFaDhxWi1Ibjh1S3BqMXVCQXJuZEZJdk54eUhuS3JpSndhTVl4MG44SDZKaGJQR2dQREFKaVVaTTVUVWVuTGhXaFlISXl1SVo2WDRydWxITGRPSWVmRnpySTlQNXFocDVLN2RBSEJqajA0d2JrYkRhREE?oc=5",
-        "publishedAt": "2026-11-14T15:06:04.000Z"
-      },
-      {
-        "time": "16:31",
-        "title": "工場の自家消費で年間約212トンのCO2削減へ！竹中 本社工場・藤岡工場の太陽光発電設備",
-        "source": "ライブドアニュース",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBSbW9XR0hwSWpJWE13eTNILU55Ri14UVFiNGdTU1huUWdXejFXQzE3Y19SYlRLLUlPQWJUUFBrOFRpUDhiNndaY2owZ1NwYmZVTnNtR1h0OTZCb2FCWkx3?oc=5",
-        "publishedAt": "2026-11-15T07:31:31.000Z"
-      },
-      {
-        "time": "03:07",
-        "title": "メイクスタートの後藤健次氏が現代の名工に選出 総勢40名の町工場で3人目",
-        "source": "Dellows News",
-        "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5MS2c4a0VYb1BVaHBxTnFKTm1zOXZVT1VmWG9jOUpYajFUY2swUkkzQXhpZi1YcXBLUG5fVmZ2TDNfOVl1OHQ0?oc=5",
-        "publishedAt": "2026-11-14T18:07:34.000Z"
-      },
       {
         "time": "22:02",
         "title": "NVIDIAフアン氏復帰を 署名広がる",
@@ -57,6 +15,48 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6602678?source=rss",
         "publishedAt": "2026-11-15T07:14:52.000Z"
+      },
+      {
+        "time": "10:06",
+        "title": "月収2万円と年金5万円 70代の現実",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6602636?source=rss",
+        "publishedAt": "2026-11-15T01:06:17.000Z"
+      },
+      {
+        "time": "18:11",
+        "title": "スガキヤ20年ぶり関東に進出 狙い",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6602698?source=rss",
+        "publishedAt": "2026-11-15T09:11:05.000Z"
+      },
+      {
+        "time": "17:01",
+        "title": "外食大手 スキマバイトを即戦力に",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6602690?source=rss",
+        "publishedAt": "2026-11-15T08:01:54.000Z"
+      },
+      {
+        "time": "17:14",
+        "title": "高級レストランにタイパの波 なぜ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6602693?source=rss",
+        "publishedAt": "2026-11-15T08:14:52.000Z"
+      },
+      {
+        "time": "10:52",
+        "title": "東京で「臭い豚骨」がブーム 背景",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6602644?source=rss",
+        "publishedAt": "2026-11-15T01:52:40.000Z"
+      },
+      {
+        "time": "11:23",
+        "title": "子どもの間で「宝石集め」ブーム",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6602647?source=rss",
+        "publishedAt": "2026-11-15T02:23:17.000Z"
       }
     ],
     "worldHeadlines": [
@@ -156,11 +156,11 @@
         "publishedAt": "2026-11-15T12:25:54.000Z"
       },
       {
-        "time": "22:24",
-        "title": "熊本市長選 現職大西氏が4選確実",
+        "time": "22:43",
+        "title": "熊本市長選 現職大西一史氏が4選",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602729?source=rss",
-        "publishedAt": "2026-11-15T13:24:25.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6602731?source=rss",
+        "publishedAt": "2026-11-15T13:43:18.000Z"
       },
       {
         "time": "21:18",
@@ -170,18 +170,18 @@
         "publishedAt": "2026-11-15T12:18:00.000Z"
       },
       {
-        "time": "19:21",
-        "title": "愛知の住宅強盗事件 トクリュウか",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602706?source=rss",
-        "publishedAt": "2026-11-15T10:21:39.000Z"
-      },
-      {
         "time": "22:10",
         "title": "特急と衝突し車火災 1人安否不明",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6602725?source=rss",
         "publishedAt": "2026-11-15T13:10:15.000Z"
+      },
+      {
+        "time": "22:56",
+        "title": "走行中の車から転落 女性が重傷",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6602732?source=rss",
+        "publishedAt": "2026-11-15T13:56:05.000Z"
       },
       {
         "time": "07:18",
@@ -215,20 +215,6 @@
         "title": "中小企業省力化投資補助金の公募・採択情報を確認",
         "source": "中小機構",
         "url": "https://seisansei.smrj.go.jp/subsidy_info/laborsaving_subsidy.html"
-      },
-      {
-        "time": "17:00",
-        "title": "【2026年最新】中小企業向け補助金6制度まとめ｜締切・補助率・上限額一覧",
-        "source": "補助金ポータル",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Idm5vYjJtajVIYjhheTZVVTVQTXRXMndVNkRmWnVEZnZyNVRRV3ZncXZhREsxNXBqYXFZSlZmNHhLeHhkbUNRcXljRlJNWVh2ZmZrSXlsVVJsdGI5RGtBdmoxUGx1YlozMUE?oc=5",
-        "publishedAt": "2026-11-05T08:00:00.000Z"
-      },
-      {
-        "time": "17:00",
-        "title": "介護テクノロジー導入支援事業【令和9年度240億円】補助率4/5・47都道府県の受付状況と今からの準備",
-        "source": "補助金ポータル",
-        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBmTVZVRlpoUS0weXJ2SG5VVGNZczBDTzVDV3pGTmY4R0Zib2tMVTdVclRkVmRNVy1DWlFEV2xJcVIxelpNQWVlaUhqR0lObS1QczhieDF4T0N0Y3A4Y0trYw?oc=5",
-        "publishedAt": "2026-11-12T08:00:00.000Z"
       }
     ]
   }

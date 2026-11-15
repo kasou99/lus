@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-15T13:35:06.257Z",
+  "updatedAt": "2026-11-15T14:09:48.787Z",
   "items": [
     {
       "time": "20:49",
@@ -18,28 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "愛媛知事選 現職中村氏が5選確実"
     },
     {
+      "time": "22:02",
+      "title": "NVIDIAフアン氏復帰を 署名広がる",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6602724?source=rss",
+      "publishedAt": "2026-11-15T13:02:58.000Z",
+      "xQuery": "NVIDIAフアン氏復帰を 署名広がる"
+    },
+    {
+      "time": "22:10",
+      "title": "特急と衝突し車火災 1人安否不明",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6602725?source=rss",
+      "publishedAt": "2026-11-15T13:10:15.000Z",
+      "xQuery": "特急と衝突し車火災 1人安否不明"
+    },
+    {
       "time": "21:11",
       "title": "独プールで4人搬送 MS障害影響",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6602715?source=rss",
       "publishedAt": "2026-11-15T12:11:46.000Z",
       "xQuery": "独プールで4人搬送 MS障害影響"
-    },
-    {
-      "time": "17:01",
-      "title": "外食大手 スキマバイトを即戦力に",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602690?source=rss",
-      "publishedAt": "2026-11-15T08:01:54.000Z",
-      "xQuery": "外食大手 スキマバイトを即戦力に"
-    },
-    {
-      "time": "17:48",
-      "title": "おじさん構文 AIの学会で発表の訳",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602695?source=rss",
-      "publishedAt": "2026-11-15T08:48:13.000Z",
-      "xQuery": "おじさん構文 AIの学会で発表の訳"
     }
   ]
 };
