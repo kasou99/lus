@@ -1,21 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-15T14:35:03.401Z",
+  "updatedAt": "2026-11-15T15:09:08.237Z",
   "items": [
     {
-      "time": "20:49",
-      "title": "生活保護費改定 物価高の反映焦点",
+      "time": "23:36",
+      "title": "原潜の保有「反対」52% 読売調査",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602714?source=rss",
-      "publishedAt": "2026-11-15T11:49:58.000Z",
-      "xQuery": "生活保護費改定 物価高の反映焦点"
-    },
-    {
-      "time": "22:43",
-      "title": "熊本市長選 現職大西一史氏が4選",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602731?source=rss",
-      "publishedAt": "2026-11-15T13:43:18.000Z",
-      "xQuery": "熊本市長選 現職大西一史氏が4選"
+      "url": "https://news.yahoo.co.jp/pickup/6602735?source=rss",
+      "publishedAt": "2026-11-15T14:36:13.000Z",
+      "xQuery": "原潜の保有「反対」52% 読売調査"
     },
     {
       "time": "23:27",
@@ -24,6 +16,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6602734?source=rss",
       "publishedAt": "2026-11-15T14:27:33.000Z",
       "xQuery": "MS障害 インド政府機関混乱なし"
+    },
+    {
+      "time": "22:43",
+      "title": "熊本市長選 現職大西一史氏が4選",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6602731?source=rss",
+      "publishedAt": "2026-11-15T13:43:18.000Z",
+      "xQuery": "熊本市長選 現職大西一史氏が4選"
     },
     {
       "time": "22:02",
