@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-15T03:13:45.654Z",
+  "updatedAt": "2026-11-15T03:36:10.449Z",
   "items": [
     {
       "time": "12:05",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "0歳に暴行「こんなパパでごめん」"
     },
     {
-      "time": "11:23",
-      "title": "子どもの間で「宝石集め」ブーム",
+      "time": "09:00",
+      "title": "伝説の給食みかんパン なぜ消えた",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602647?source=rss",
-      "publishedAt": "2026-11-15T02:23:17.000Z",
-      "xQuery": "子どもの間で「宝石集め」ブーム"
+      "url": "https://news.yahoo.co.jp/pickup/6602628?source=rss",
+      "publishedAt": "2026-11-15T00:00:58.000Z",
+      "xQuery": "伝説の給食みかんパン なぜ消えた"
     },
     {
       "time": "10:52",
