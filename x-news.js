@@ -1,14 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-15T01:11:26.861Z",
+  "updatedAt": "2026-11-15T01:39:11.968Z",
   "items": [
-    {
-      "time": "08:41",
-      "title": "米中露会談 3首脳の思惑が交錯",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602626?source=rss",
-      "publishedAt": "2026-11-14T23:41:26.000Z",
-      "xQuery": "米中露会談 3首脳の思惑が交錯"
-    },
     {
       "time": "08:42",
       "title": "ウのNATO加盟で東部撤退 米打診",
@@ -18,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "ウのNATO加盟で東部撤退 米打診"
     },
     {
-      "time": "08:40",
-      "title": "住宅強盗 寝ていた82歳女性が重傷",
+      "time": "10:02",
+      "title": "米知事選 民主党が計6州を奪還",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602623?source=rss",
-      "publishedAt": "2026-11-14T23:40:52.000Z",
-      "xQuery": "住宅強盗 寝ていた82歳女性が重傷"
+      "url": "https://news.yahoo.co.jp/pickup/6602637?source=rss",
+      "publishedAt": "2026-11-15T01:02:20.000Z",
+      "xQuery": "米知事選 民主党が計6州を奪還"
     },
     {
-      "time": "07:18",
-      "title": "ラヴ上等「あっすん」容疑者逮捕",
+      "time": "10:06",
+      "title": "月収2万円と年金5万円 70代の現実",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602608?source=rss",
-      "publishedAt": "2026-11-14T22:18:13.000Z",
-      "xQuery": "ラヴ上等「あっすん」容疑者逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6602636?source=rss",
+      "publishedAt": "2026-11-15T01:06:17.000Z",
+      "xQuery": "月収2万円と年金5万円 70代の現実"
     },
     {
       "time": "09:51",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6602633?source=rss",
       "publishedAt": "2026-11-15T00:51:10.000Z",
       "xQuery": "公務員が白塗りニンニク姿 体張る"
+    },
+    {
+      "time": "09:24",
+      "title": "再開発が大赤字 大阪・阿倍野の今",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6602629?source=rss",
+      "publishedAt": "2026-11-15T00:24:50.000Z",
+      "xQuery": "再開発が大赤字 大阪・阿倍野の今"
     }
   ]
 };
