@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-15T07:35:22.272Z",
+  "updatedAt": "2026-11-15T08:13:55.526Z",
   "items": [
     {
       "time": "15:39",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "SpaceX 宇宙船空中回収に初成功"
     },
     {
+      "time": "16:45",
+      "title": "青森死亡ひき逃げ 新たに男を逮捕",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6602686?source=rss",
+      "publishedAt": "2026-11-15T07:45:34.000Z",
+      "xQuery": "青森死亡ひき逃げ 新たに男を逮捕"
+    },
+    {
       "time": "16:14",
       "title": "タマホーム 架空請求を売上計上か",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6602678?source=rss",
       "publishedAt": "2026-11-15T07:14:52.000Z",
       "xQuery": "タマホーム 架空請求を売上計上か"
-    },
-    {
-      "time": "15:15",
-      "title": "東京自由が丘「らしさ」消えた?",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602670?source=rss",
-      "publishedAt": "2026-11-15T06:15:25.000Z",
-      "xQuery": "東京自由が丘「らしさ」消えた?"
     },
     {
       "time": "15:24",
