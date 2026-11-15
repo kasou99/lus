@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-15T10:35:19.693Z",
+  "updatedAt": "2026-11-15T11:08:42.829Z",
   "items": [
     {
-      "time": "17:51",
-      "title": "消費減税「効果小さい」63% 共同",
+      "time": "19:00",
+      "title": "防衛省AI活用の基本方針 見直しへ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602696?source=rss",
-      "publishedAt": "2026-11-15T08:51:34.000Z",
-      "xQuery": "消費減税「効果小さい」63% 共同"
+      "url": "https://news.yahoo.co.jp/pickup/6602704?source=rss",
+      "publishedAt": "2026-11-15T10:00:56.000Z",
+      "xQuery": "防衛省AI活用の基本方針 見直しへ"
     },
     {
       "time": "17:56",
