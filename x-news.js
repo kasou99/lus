@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-15T08:35:38.162Z",
+  "updatedAt": "2026-11-15T09:10:59.012Z",
   "items": [
+    {
+      "time": "17:51",
+      "title": "消費減税「効果小さい」63% 共同",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6602696?source=rss",
+      "publishedAt": "2026-11-15T08:51:34.000Z",
+      "xQuery": "消費減税「効果小さい」63% 共同"
+    },
     {
       "time": "16:21",
       "title": "週後半 日本海側で暴風・大雪恐れ",
@@ -8,14 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6602679?source=rss",
       "publishedAt": "2026-11-15T07:21:09.000Z",
       "xQuery": "週後半 日本海側で暴風・大雪恐れ"
-    },
-    {
-      "time": "15:33",
-      "title": "SpaceX 宇宙船空中回収に初成功",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602675?source=rss",
-      "publishedAt": "2026-11-15T06:33:11.000Z",
-      "xQuery": "SpaceX 宇宙船空中回収に初成功"
     },
     {
       "time": "16:45",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "青森死亡ひき逃げ 新たに男を逮捕"
     },
     {
-      "time": "16:14",
-      "title": "タマホーム 架空請求を売上計上か",
+      "time": "17:14",
+      "title": "高級レストランにタイパの波 なぜ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602678?source=rss",
-      "publishedAt": "2026-11-15T07:14:52.000Z",
-      "xQuery": "タマホーム 架空請求を売上計上か"
+      "url": "https://news.yahoo.co.jp/pickup/6602693?source=rss",
+      "publishedAt": "2026-11-15T08:14:52.000Z",
+      "xQuery": "高級レストランにタイパの波 なぜ"
     },
     {
       "time": "15:24",
