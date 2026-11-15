@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-15T08:13:55.526Z",
+  "updatedAt": "2026-11-15T08:35:38.162Z",
   "items": [
     {
-      "time": "15:39",
-      "title": "首相APEC出席へ 焦点は日中関係",
+      "time": "16:21",
+      "title": "週後半 日本海側で暴風・大雪恐れ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602674?source=rss",
-      "publishedAt": "2026-11-15T06:39:22.000Z",
-      "xQuery": "首相APEC出席へ 焦点は日中関係"
+      "url": "https://news.yahoo.co.jp/pickup/6602679?source=rss",
+      "publishedAt": "2026-11-15T07:21:09.000Z",
+      "xQuery": "週後半 日本海側で暴風・大雪恐れ"
     },
     {
       "time": "15:33",

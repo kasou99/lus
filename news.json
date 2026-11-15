@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T08:13:54.691Z",
+  "updatedAt": "2026-11-15T08:35:37.297Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -15,13 +15,6 @@
         "source": "Infoseek",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1nbHYtYnFoTHpWQjg5VDZMVFVyTk13aV9Mc21Xcml4WDllRGtnMWFLOE1Fd2xDRW9lQWdET3lxNFNjak1oQkY4M1F1Y1pKbldxZDJlemdIWHpFbzlqZmlfNjYzSVY5QjVaWC14VGpkOFEzejdoSVVodE45Q3N6N2fSAX9BVV95cUxNZ2x2LWJxaEx6VkI4OVQ2TFRVck5Nd2lfTHNtV3JpeFg5ZURrZzFhSzhNRXdsQ0VvZUFnRE95cTRTY2pNaEJGODNRdWNaSm5XcWQyZXpnSFh6RW85amZpXzY2M0lWOUI1WlgteFRqZDhRM3o3aElVaHROOUNzejdn?oc=5",
         "publishedAt": "2026-11-15T03:45:00.000Z"
-      },
-      {
-        "time": "17:30",
-        "title": "超精密CNC工作機械の世界市場（2026年～2032年）、市場規模（旋盤、フライス盤、研削盤、その他）・分析レポートを発表",
-        "source": "アットプレス",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ydHNvZ0hDNVg0TmtyT0kwVWRTTVUxN2NpT0RZeEV0eVlaeVdMWXM1Q0doLTkyR3MzenRheGc1Y1I5aV8ybm1FUjJFVWxEWFk?oc=5",
-        "publishedAt": "2026-11-14T08:30:00.000Z"
       },
       {
         "time": "00:06",
@@ -57,6 +50,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6602636?source=rss",
         "publishedAt": "2026-11-15T01:06:17.000Z"
+      },
+      {
+        "time": "12:39",
+        "title": "手が出ない 福岡市マンション高騰",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6602655?source=rss",
+        "publishedAt": "2026-11-15T03:39:08.000Z"
       }
     ],
     "worldHeadlines": [
@@ -119,13 +119,6 @@
         "publishedAt": "2026-11-15T01:06:17.000Z"
       },
       {
-        "time": "21:56",
-        "title": "縦型ショートドラマ トラブル急増",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602597?source=rss",
-        "publishedAt": "2026-11-14T12:56:42.000Z"
-      },
-      {
         "time": "12:39",
         "title": "手が出ない 福岡市マンション高騰",
         "source": "Yahoo!ニュース",
@@ -145,6 +138,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6602690?source=rss",
         "publishedAt": "2026-11-15T08:01:54.000Z"
+      },
+      {
+        "time": "17:14",
+        "title": "高級レストランにタイパの波 なぜ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6602693?source=rss",
+        "publishedAt": "2026-11-15T08:14:52.000Z"
       }
     ],
     "localHeadlines": [
@@ -184,11 +184,11 @@
         "publishedAt": "2026-11-15T01:55:15.000Z"
       },
       {
-        "time": "13:54",
-        "title": "いろは坂右折禁止 渋滞緩和に効果",
+        "time": "15:24",
+        "title": "豊洲の公園にポケカ袋が散乱 波紋",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602663?source=rss",
-        "publishedAt": "2026-11-15T04:54:33.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6602672?source=rss",
+        "publishedAt": "2026-11-15T06:24:54.000Z"
       }
     ],
     "subsidyHeadlines": [
