@@ -1,14 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-15T01:39:11.968Z",
+  "updatedAt": "2026-11-15T02:15:49.989Z",
   "items": [
-    {
-      "time": "08:42",
-      "title": "ウのNATO加盟で東部撤退 米打診",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602627?source=rss",
-      "publishedAt": "2026-11-14T23:42:31.000Z",
-      "xQuery": "ウのNATO加盟で東部撤退 米打診"
-    },
     {
       "time": "10:02",
       "title": "米知事選 民主党が計6州を奪還",
@@ -16,6 +8,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6602637?source=rss",
       "publishedAt": "2026-11-15T01:02:20.000Z",
       "xQuery": "米知事選 民主党が計6州を奪還"
+    },
+    {
+      "time": "10:48",
+      "title": "検事の取り調べ AIでチェックへ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6602643?source=rss",
+      "publishedAt": "2026-11-15T01:48:48.000Z",
+      "xQuery": "検事の取り調べ AIでチェックへ"
     },
     {
       "time": "10:06",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "公務員が白塗りニンニク姿 体張る"
     },
     {
-      "time": "09:24",
-      "title": "再開発が大赤字 大阪・阿倍野の今",
+      "time": "07:57",
+      "title": "令和キッズの間で「宝石ブーム」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602629?source=rss",
-      "publishedAt": "2026-11-15T00:24:50.000Z",
-      "xQuery": "再開発が大赤字 大阪・阿倍野の今"
+      "url": "https://news.yahoo.co.jp/pickup/6602617?source=rss",
+      "publishedAt": "2026-11-14T22:57:21.000Z",
+      "xQuery": "令和キッズの間で「宝石ブーム」"
     }
   ]
 };

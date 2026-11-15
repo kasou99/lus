@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T01:39:10.968Z",
+  "updatedAt": "2026-11-15T02:15:49.285Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,13 +31,6 @@
         "publishedAt": "2026-11-14T18:07:34.000Z"
       },
       {
-        "time": "15:24",
-        "title": "エヌビディアCEO 後任選定難航か",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602554?source=rss",
-        "publishedAt": "2026-11-14T06:24:31.000Z"
-      },
-      {
         "time": "18:42",
         "title": "売れ残りを寄付 広がる一方問題も",
         "source": "Yahoo!ニュース",
@@ -57,6 +50,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6602575?source=rss",
         "publishedAt": "2026-11-14T09:51:37.000Z"
+      },
+      {
+        "time": "21:56",
+        "title": "縦型ショートドラマ トラブル急増",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6602597?source=rss",
+        "publishedAt": "2026-11-14T12:56:42.000Z"
       }
     ],
     "worldHeadlines": [
@@ -105,13 +105,6 @@
     ],
     "economyHeadlines": [
       {
-        "time": "15:24",
-        "title": "エヌビディアCEO 後任選定難航か",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602554?source=rss",
-        "publishedAt": "2026-11-14T06:24:31.000Z"
-      },
-      {
         "time": "18:42",
         "title": "売れ残りを寄付 広がる一方問題も",
         "source": "Yahoo!ニュース",
@@ -145,6 +138,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6602629?source=rss",
         "publishedAt": "2026-11-15T00:24:50.000Z"
+      },
+      {
+        "time": "10:52",
+        "title": "東京で「臭い豚骨」がブーム 背景",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6602644?source=rss",
+        "publishedAt": "2026-11-15T01:52:40.000Z"
       }
     ],
     "localHeadlines": [
@@ -170,6 +170,13 @@
         "publishedAt": "2026-11-14T22:24:20.000Z"
       },
       {
+        "time": "10:55",
+        "title": "0歳に暴行「こんなパパでごめん」",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6602640?source=rss",
+        "publishedAt": "2026-11-15T01:55:15.000Z"
+      },
+      {
         "time": "15:51",
         "title": "市営住宅236戸に別人が入居 伊賀",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6602624?source=rss",
         "publishedAt": "2026-11-14T23:28:20.000Z"
-      },
-      {
-        "time": "22:07",
-        "title": "体に障害 恋愛は無理と思っていた",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602599?source=rss",
-        "publishedAt": "2026-11-14T13:07:22.000Z"
       }
     ],
     "subsidyHeadlines": [
