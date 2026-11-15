@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-15T05:10:58.069Z",
+  "updatedAt": "2026-11-15T05:35:53.406Z",
   "items": [
+    {
+      "time": "13:19",
+      "title": "米中露が会談へ 日本は蚊帳の外か",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6602660?source=rss",
+      "publishedAt": "2026-11-15T04:19:08.000Z",
+      "xQuery": "米中露が会談へ 日本は蚊帳の外か"
+    },
     {
       "time": "12:02",
       "title": "定数削減巡り国民と維新に温度差",
@@ -8,14 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6602652?source=rss",
       "publishedAt": "2026-11-15T03:02:14.000Z",
       "xQuery": "定数削減巡り国民と維新に温度差"
-    },
-    {
-      "time": "12:40",
-      "title": "米の「中国脅威論」どう生まれた",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602656?source=rss",
-      "publishedAt": "2026-11-15T03:40:02.000Z",
-      "xQuery": "米の「中国脅威論」どう生まれた"
     },
     {
       "time": "12:56",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "住宅に強盗 少年ら5人が関与か"
     },
     {
+      "time": "12:39",
+      "title": "手が出ない 福岡市マンション高騰",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6602655?source=rss",
+      "publishedAt": "2026-11-15T03:39:08.000Z",
+      "xQuery": "手が出ない 福岡市マンション高騰"
+    },
+    {
       "time": "13:54",
       "title": "いろは坂右折禁止 渋滞緩和に効果",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6602663?source=rss",
       "publishedAt": "2026-11-15T04:54:33.000Z",
       "xQuery": "いろは坂右折禁止 渋滞緩和に効果"
-    },
-    {
-      "time": "11:57",
-      "title": "ハンズ渋谷店「本日最終」響く声",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602649?source=rss",
-      "publishedAt": "2026-11-15T02:57:36.000Z",
-      "xQuery": "ハンズ渋谷店「本日最終」響く声"
     }
   ]
 };
