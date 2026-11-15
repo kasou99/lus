@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T13:09:10.115Z",
+  "updatedAt": "2026-11-15T13:35:05.354Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -156,6 +156,13 @@
         "publishedAt": "2026-11-15T12:25:54.000Z"
       },
       {
+        "time": "22:24",
+        "title": "熊本市長選 現職大西氏が4選確実",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6602729?source=rss",
+        "publishedAt": "2026-11-15T13:24:25.000Z"
+      },
+      {
         "time": "21:18",
         "title": "福岡市長選 再選挙の可能性",
         "source": "Yahoo!ニュース",
@@ -170,11 +177,11 @@
         "publishedAt": "2026-11-15T10:21:39.000Z"
       },
       {
-        "time": "20:37",
-        "title": "漁船同士が衝突し1隻沈没 8人搬送",
+        "time": "22:10",
+        "title": "特急と衝突し車火災 1人安否不明",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602713?source=rss",
-        "publishedAt": "2026-11-15T11:37:45.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6602725?source=rss",
+        "publishedAt": "2026-11-15T13:10:15.000Z"
       },
       {
         "time": "07:18",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6602608?source=rss",
         "publishedAt": "2026-11-14T22:18:13.000Z"
-      },
-      {
-        "time": "20:08",
-        "title": "スピッツ﨑山さん重傷 治療に専念",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602711?source=rss",
-        "publishedAt": "2026-11-15T11:08:59.000Z"
       }
     ],
     "subsidyHeadlines": [

@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-15T13:09:10.921Z",
+  "updatedAt": "2026-11-15T13:35:06.257Z",
   "items": [
     {
       "time": "20:49",
@@ -10,20 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "生活保護費改定 物価高の反映焦点"
     },
     {
-      "time": "19:26",
-      "title": "仏のデモおさまらず みえぬ打開策",
+      "time": "21:25",
+      "title": "愛媛知事選 現職中村氏が5選確実",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602707?source=rss",
-      "publishedAt": "2026-11-15T10:26:37.000Z",
-      "xQuery": "仏のデモおさまらず みえぬ打開策"
-    },
-    {
-      "time": "21:18",
-      "title": "福岡市長選 再選挙の可能性",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602719?source=rss",
-      "publishedAt": "2026-11-15T12:18:00.000Z",
-      "xQuery": "福岡市長選 再選挙の可能性"
+      "url": "https://news.yahoo.co.jp/pickup/6602720?source=rss",
+      "publishedAt": "2026-11-15T12:25:54.000Z",
+      "xQuery": "愛媛知事選 現職中村氏が5選確実"
     },
     {
       "time": "21:11",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "独プールで4人搬送 MS障害影響"
     },
     {
-      "time": "20:08",
-      "title": "スピッツ﨑山さん重傷 治療に専念",
+      "time": "17:01",
+      "title": "外食大手 スキマバイトを即戦力に",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602711?source=rss",
-      "publishedAt": "2026-11-15T11:08:59.000Z",
-      "xQuery": "スピッツ﨑山さん重傷 治療に専念"
+      "url": "https://news.yahoo.co.jp/pickup/6602690?source=rss",
+      "publishedAt": "2026-11-15T08:01:54.000Z",
+      "xQuery": "外食大手 スキマバイトを即戦力に"
+    },
+    {
+      "time": "17:48",
+      "title": "おじさん構文 AIの学会で発表の訳",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6602695?source=rss",
+      "publishedAt": "2026-11-15T08:48:13.000Z",
+      "xQuery": "おじさん構文 AIの学会で発表の訳"
     }
   ]
 };
