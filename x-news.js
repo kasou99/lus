@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-15T02:15:49.989Z",
+  "updatedAt": "2026-11-15T02:35:21.538Z",
   "items": [
     {
       "time": "10:02",
@@ -18,6 +18,14 @@ window.LUS_X_NEWS = {
       "xQuery": "検事の取り調べ AIでチェックへ"
     },
     {
+      "time": "10:55",
+      "title": "0歳に暴行「こんなパパでごめん」",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6602640?source=rss",
+      "publishedAt": "2026-11-15T01:55:15.000Z",
+      "xQuery": "0歳に暴行「こんなパパでごめん」"
+    },
+    {
       "time": "10:06",
       "title": "月収2万円と年金5万円 70代の現実",
       "source": "Yahoo!ニュース",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "月収2万円と年金5万円 70代の現実"
     },
     {
-      "time": "09:51",
-      "title": "公務員が白塗りニンニク姿 体張る",
+      "time": "11:23",
+      "title": "子どもの間で「宝石集め」ブーム",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602633?source=rss",
-      "publishedAt": "2026-11-15T00:51:10.000Z",
-      "xQuery": "公務員が白塗りニンニク姿 体張る"
-    },
-    {
-      "time": "07:57",
-      "title": "令和キッズの間で「宝石ブーム」",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602617?source=rss",
-      "publishedAt": "2026-11-14T22:57:21.000Z",
-      "xQuery": "令和キッズの間で「宝石ブーム」"
+      "url": "https://news.yahoo.co.jp/pickup/6602647?source=rss",
+      "publishedAt": "2026-11-15T02:23:17.000Z",
+      "xQuery": "子どもの間で「宝石集め」ブーム"
     }
   ]
 };
