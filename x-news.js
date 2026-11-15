@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-15T02:35:21.538Z",
+  "updatedAt": "2026-11-15T03:13:45.654Z",
   "items": [
     {
-      "time": "10:02",
-      "title": "米知事選 民主党が計6州を奪還",
+      "time": "12:05",
+      "title": "政府広報の夫婦漫才に疑問の声",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602637?source=rss",
-      "publishedAt": "2026-11-15T01:02:20.000Z",
-      "xQuery": "米知事選 民主党が計6州を奪還"
+      "url": "https://news.yahoo.co.jp/pickup/6602653?source=rss",
+      "publishedAt": "2026-11-15T03:05:14.000Z",
+      "xQuery": "政府広報の夫婦漫才に疑問の声"
     },
     {
-      "time": "10:48",
-      "title": "検事の取り調べ AIでチェックへ",
+      "time": "10:44",
+      "title": "AIエージェント普及 問われる対応",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602643?source=rss",
-      "publishedAt": "2026-11-15T01:48:48.000Z",
-      "xQuery": "検事の取り調べ AIでチェックへ"
+      "url": "https://news.yahoo.co.jp/pickup/6602642?source=rss",
+      "publishedAt": "2026-11-15T01:44:27.000Z",
+      "xQuery": "AIエージェント普及 問われる対応"
     },
     {
       "time": "10:55",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "0歳に暴行「こんなパパでごめん」"
     },
     {
-      "time": "10:06",
-      "title": "月収2万円と年金5万円 70代の現実",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602636?source=rss",
-      "publishedAt": "2026-11-15T01:06:17.000Z",
-      "xQuery": "月収2万円と年金5万円 70代の現実"
-    },
-    {
       "time": "11:23",
       "title": "子どもの間で「宝石集め」ブーム",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6602647?source=rss",
       "publishedAt": "2026-11-15T02:23:17.000Z",
       "xQuery": "子どもの間で「宝石集め」ブーム"
+    },
+    {
+      "time": "10:52",
+      "title": "東京で「臭い豚骨」がブーム 背景",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6602644?source=rss",
+      "publishedAt": "2026-11-15T01:52:40.000Z",
+      "xQuery": "東京で「臭い豚骨」がブーム 背景"
     }
   ]
 };
