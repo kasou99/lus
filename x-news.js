@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-15T11:08:42.829Z",
+  "updatedAt": "2026-11-15T11:35:08.139Z",
   "items": [
+    {
+      "time": "20:03",
+      "title": "横田さん拉致49年 北側の真相不明",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6602710?source=rss",
+      "publishedAt": "2026-11-15T11:03:14.000Z",
+      "xQuery": "横田さん拉致49年 北側の真相不明"
+    },
     {
       "time": "19:00",
       "title": "防衛省AI活用の基本方針 見直しへ",
@@ -8,14 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6602704?source=rss",
       "publishedAt": "2026-11-15T10:00:56.000Z",
       "xQuery": "防衛省AI活用の基本方針 見直しへ"
-    },
-    {
-      "time": "17:56",
-      "title": "「中国の元スパイ」語る 接近手口",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602697?source=rss",
-      "publishedAt": "2026-11-15T08:56:52.000Z",
-      "xQuery": "「中国の元スパイ」語る 接近手口"
     },
     {
       "time": "19:21",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "死んだンゴ 投稿者命日に寄付急増"
     },
     {
-      "time": "18:40",
-      "title": "スピッツ﨑山さん 交通事故で搬送",
+      "time": "20:08",
+      "title": "スピッツ﨑山さん重傷 治療に専念",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602703?source=rss",
-      "publishedAt": "2026-11-15T09:40:26.000Z",
-      "xQuery": "スピッツ﨑山さん 交通事故で搬送"
+      "url": "https://news.yahoo.co.jp/pickup/6602711?source=rss",
+      "publishedAt": "2026-11-15T11:08:59.000Z",
+      "xQuery": "スピッツ﨑山さん重傷 治療に専念"
     }
   ]
 };
