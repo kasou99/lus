@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-15T09:10:59.012Z",
+  "updatedAt": "2026-11-15T09:35:09.565Z",
   "items": [
     {
       "time": "17:51",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "週後半 日本海側で暴風・大雪恐れ"
     },
     {
-      "time": "16:45",
-      "title": "青森死亡ひき逃げ 新たに男を逮捕",
+      "time": "17:56",
+      "title": "「中国の元スパイ」語る 接近手口",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602686?source=rss",
-      "publishedAt": "2026-11-15T07:45:34.000Z",
-      "xQuery": "青森死亡ひき逃げ 新たに男を逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6602697?source=rss",
+      "publishedAt": "2026-11-15T08:56:52.000Z",
+      "xQuery": "「中国の元スパイ」語る 接近手口"
     },
     {
       "time": "17:14",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "高級レストランにタイパの波 なぜ"
     },
     {
-      "time": "15:24",
-      "title": "豊洲の公園にポケカ袋が散乱 波紋",
+      "time": "16:07",
+      "title": "死んだンゴ 投稿者命日に寄付急増",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602672?source=rss",
-      "publishedAt": "2026-11-15T06:24:54.000Z",
-      "xQuery": "豊洲の公園にポケカ袋が散乱 波紋"
+      "url": "https://news.yahoo.co.jp/pickup/6602677?source=rss",
+      "publishedAt": "2026-11-15T07:07:47.000Z",
+      "xQuery": "死んだンゴ 投稿者命日に寄付急増"
     }
   ]
 };
