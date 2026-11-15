@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T19:35:08.089Z",
+  "updatedAt": "2026-11-15T20:10:19.340Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -10,6 +10,13 @@
         "publishedAt": "2026-11-15T06:30:00.000Z"
       },
       {
+        "time": "05:00",
+        "title": "牧野フライスが新加工技術を続々開発、ガラス成形用SiC型も誕生",
+        "source": "日経クロステック",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBOVFlQTDVDLWhQakZ3YnNRUFdSRHpTUU0xYUx4T0NTVk15SlQ1QzloX3gzNlhEdnBHR0FMSGZLZGRVVENralpSMlhvYnVlVmhJbTFqOWt3elctbkNxRDFNOFZwUFZlalB6NjRCMQ?oc=5",
+        "publishedAt": "2026-11-15T20:00:00.000Z"
+      },
+      {
         "time": "00:21",
         "title": "シチズンの26年4～9月期、大幅な営業増益 時計・工作機械がけん引 通期予想は上方修正",
         "source": "電波新聞デジタル",
@@ -17,11 +24,25 @@
         "publishedAt": "2026-11-15T15:21:35.000Z"
       },
       {
+        "time": "05:00",
+        "title": "関東精機、1台で軸の熱変位制御 液温調整の高付加価値機",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8ySTZZWXpRZnFZVTgxNWV0TlZvbi15NTZYLUhpeHBabEJZZEpndlZWRk1XN25qV1pzbXhxcEZSaFFQSWlwd2hoSlc0ZzZtcHhfZzdoMFd0bVQ?oc=5",
+        "publishedAt": "2026-11-15T20:00:00.000Z"
+      },
+      {
         "time": "07:49",
         "title": "「近畿大学原子炉」の制御盤を操作する実習を受ける福井工業大の学生＝8月、大阪府東大阪市",
         "source": "西日本新聞me",
         "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB3RDl3Ml92eW03ckZPeGpZTndvSDRjRi1lZUt2alRpc3E1aW1xLVZqcnl3RDFZMHlPVzZaeEpEc2JHNHhuN2VaamhUZXdJZ3dwdjVyaVVBUQ?oc=5",
         "publishedAt": "2026-11-14T22:49:34.000Z"
+      },
+      {
+        "time": "05:03",
+        "title": "アナログ・デバイセズ、生産現場のDXを後押しJIMTOFで産業機器向けソリューションを提案",
+        "source": "電波新聞デジタル",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBtbUdLVTE1YnRCX28xeGxiYzh4UFdJS2h5Y0VXN2VNUzFxQ3FoeFIyN0RwMUFqVnV5Qk1pb1g5aUdfZ25Xa3FBQks0U1p6aG9CQWc?oc=5",
+        "publishedAt": "2026-11-15T20:03:43.000Z"
       },
       {
         "time": "12:45",
@@ -36,27 +57,6 @@
         "source": "Infoseek",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE12UEdscTYyVWJGZ1lHTS02WmxWZGNlRVlsTV91OTJLRzJORmNjejU3SzZnOC1CdDYtd3pBYWJLLTJiWnkwc1plYkpPRWlaN3RuMklMYXJfaE1jVXFQV0thN1YyekFibTIzNlHSAWpBVV95cUxNdlBHbHE2MlViRmdZR00tNlpsVmRjZUVZbE1fdTkyS0cyTkZjY3o1N0s2ZzgtQnQ2LXd6QWFiSy0yYlp5MHNaZWJKT0VpWjd0bjJJTGFyX2hNY1VxUFdLYTdWMnpBYm0yMzZR?oc=5",
         "publishedAt": "2026-11-14T22:00:24.000Z"
-      },
-      {
-        "time": "16:31",
-        "title": "工場の自家消費で年間約212トンのCO2削減へ！竹中 本社工場・藤岡工場の太陽光発電設備",
-        "source": "ライブドアニュース",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBSbW9XR0hwSWpJWE13eTNILU55Ri14UVFiNGdTU1huUWdXejFXQzE3Y19SYlRLLUlPQWJUUFBrOFRpUDhiNndaY2owZ1NwYmZVTnNtR1h0OTZCb2FCWkx3?oc=5",
-        "publishedAt": "2026-11-15T07:31:31.000Z"
-      },
-      {
-        "time": "22:02",
-        "title": "NVIDIAフアン氏復帰を 署名広がる",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602724?source=rss",
-        "publishedAt": "2026-11-15T13:02:58.000Z"
-      },
-      {
-        "time": "16:14",
-        "title": "タマホーム 架空請求を売上計上か",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602678?source=rss",
-        "publishedAt": "2026-11-15T07:14:52.000Z"
       }
     ],
     "worldHeadlines": [
