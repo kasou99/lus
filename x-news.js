@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-15T00:33:19.007Z",
+  "updatedAt": "2026-11-15T01:11:26.861Z",
   "items": [
     {
       "time": "08:41",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "米中露会談 3首脳の思惑が交錯"
     },
     {
-      "time": "08:10",
-      "title": "横田さん拉致49年 母が思い吐露",
+      "time": "08:42",
+      "title": "ウのNATO加盟で東部撤退 米打診",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602620?source=rss",
-      "publishedAt": "2026-11-14T23:10:36.000Z",
-      "xQuery": "横田さん拉致49年 母が思い吐露"
+      "url": "https://news.yahoo.co.jp/pickup/6602627?source=rss",
+      "publishedAt": "2026-11-14T23:42:31.000Z",
+      "xQuery": "ウのNATO加盟で東部撤退 米打診"
     },
     {
       "time": "08:40",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "ラヴ上等「あっすん」容疑者逮捕"
     },
     {
-      "time": "08:28",
-      "title": "7時頃登校し清掃 校長に児童感化",
+      "time": "09:51",
+      "title": "公務員が白塗りニンニク姿 体張る",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602624?source=rss",
-      "publishedAt": "2026-11-14T23:28:20.000Z",
-      "xQuery": "7時頃登校し清掃 校長に児童感化"
+      "url": "https://news.yahoo.co.jp/pickup/6602633?source=rss",
+      "publishedAt": "2026-11-15T00:51:10.000Z",
+      "xQuery": "公務員が白塗りニンニク姿 体張る"
     }
   ]
 };

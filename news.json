@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T00:33:18.140Z",
+  "updatedAt": "2026-11-15T01:11:26.092Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -13,7 +13,7 @@
         "time": "07:00",
         "title": "韓国SKハイニックス、龍仁の新工場を2027年2月に稼働へ…3拠点で正社員募集",
         "source": "Infoseek",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9Gb2FDRzlRU1JUZmpXc3VxWlYwOWxDTXoxdTBzUGVlZjZZNUg5U2NmX0l2N2ZGUjJhZjlkMmV1SWYyU0taNVFkczJvYUhONG1na2d6WTZ1cW9mSjIxdG1QdS1tTXHSAWpBVV95cUxNdlBHbHE2MlViRmdZR00tNlpsVmRjZUVZbE1fdTkyS0cyTkZjY3o1N0s2ZzgtQnQ2LXd6QWFiSy0yYlp5MHNaZWJKT0VpWjd0bjJJTGFyX2hNY1VxUFdLYTdWMnpBYm0yMzZR?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE12UEdscTYyVWJGZ1lHTS02WmxWZGNlRVlsTV91OTJLRzJORmNjejU3SzZnOC1CdDYtd3pBYWJLLTJiWnkwc1plYkpPRWlaN3RuMklMYXJfaE1jVXFQV0thN1YyekFibTIzNlHSAWpBVV95cUxNdlBHbHE2MlViRmdZR00tNlpsVmRjZUVZbE1fdTkyS0cyTkZjY3o1N0s2ZzgtQnQ2LXd6QWFiSy0yYlp5MHNaZWJKT0VpWjd0bjJJTGFyX2hNY1VxUFdLYTdWMnpBYm0yMzZR?oc=5",
         "publishedAt": "2026-11-14T22:00:24.000Z"
       },
       {
@@ -22,6 +22,13 @@
         "source": "IndexBox",
         "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbzV6LWZPb3JuYjVkVXhvellDY0FrNFRKUF9vcEpiNVNKcnlzblBpYzNqcmducks2MXdwRG0tVjVIQjVhYTFQSlpCR1hhaWRqZGI5bklFaDhxWi1Ibjh1S3BqMXVCQXJuZEZJdk54eUhuS3JpSndhTVl4MG44SDZKaGJQR2dQREFKaVVaTTVUVWVuTGhXaFlISXl1SVo2WDRydWxITGRPSWVmRnpySTlQNXFocDVLN2RBSEJqajA0d2JrYkRhREE?oc=5",
         "publishedAt": "2026-11-14T15:06:04.000Z"
+      },
+      {
+        "time": "03:07",
+        "title": "メイクスタートの後藤健次氏が現代の名工に選出 総勢40名の町工場で3人目",
+        "source": "Dellows News",
+        "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5MS2c4a0VYb1BVaHBxTnFKTm1zOXZVT1VmWG9jOUpYajFUY2swUkkzQXhpZi1YcXBLUG5fVmZ2TDNfOVl1OHQ0?oc=5",
+        "publishedAt": "2026-11-14T18:07:34.000Z"
       },
       {
         "time": "15:24",
@@ -38,25 +45,18 @@
         "publishedAt": "2026-11-14T09:42:53.000Z"
       },
       {
+        "time": "10:06",
+        "title": "月収2万円と年金5万円 70代の現実",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6602636?source=rss",
+        "publishedAt": "2026-11-15T01:06:17.000Z"
+      },
+      {
         "time": "18:51",
         "title": "スバルWRXのMT車復活 要望受け",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6602575?source=rss",
         "publishedAt": "2026-11-14T09:51:37.000Z"
-      },
-      {
-        "time": "21:56",
-        "title": "縦型ショートドラマ トラブル急増",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602597?source=rss",
-        "publishedAt": "2026-11-14T12:56:42.000Z"
-      },
-      {
-        "time": "09:24",
-        "title": "再開発が大赤字 大阪・阿倍野の今",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602629?source=rss",
-        "publishedAt": "2026-11-15T00:24:50.000Z"
       }
     ],
     "worldHeadlines": [
@@ -89,18 +89,18 @@
         "publishedAt": "2026-11-14T23:42:31.000Z"
       },
       {
+        "time": "10:02",
+        "title": "米知事選 民主党が計6州を奪還",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6602637?source=rss",
+        "publishedAt": "2026-11-15T01:02:20.000Z"
+      },
+      {
         "time": "17:45",
         "title": "米の航空混乱 途方に暮れる乗客",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6602568?source=rss",
         "publishedAt": "2026-11-14T08:45:15.000Z"
-      },
-      {
-        "time": "10:50",
-        "title": "全米 航空機の地上待機命令を解除",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602522?source=rss",
-        "publishedAt": "2026-11-14T01:50:35.000Z"
       }
     ],
     "economyHeadlines": [
@@ -117,6 +117,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6602572?source=rss",
         "publishedAt": "2026-11-14T09:42:53.000Z"
+      },
+      {
+        "time": "10:06",
+        "title": "月収2万円と年金5万円 70代の現実",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6602636?source=rss",
+        "publishedAt": "2026-11-15T01:06:17.000Z"
       },
       {
         "time": "18:51",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6602629?source=rss",
         "publishedAt": "2026-11-15T00:24:50.000Z"
-      },
-      {
-        "time": "10:28",
-        "title": "「銀だこ」曲がり角 赤字転落なぜ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602520?source=rss",
-        "publishedAt": "2026-11-14T01:28:24.000Z"
       }
     ],
     "localHeadlines": [
