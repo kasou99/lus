@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T16:11:00.765Z",
+  "updatedAt": "2026-11-15T16:35:02.165Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -45,18 +45,18 @@
         "publishedAt": "2026-11-15T07:31:31.000Z"
       },
       {
-        "time": "03:07",
-        "title": "メイクスタートの後藤健次氏が現代の名工に選出 総勢40名の町工場で3人目",
-        "source": "Dellows News",
-        "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5MS2c4a0VYb1BVaHBxTnFKTm1zOXZVT1VmWG9jOUpYajFUY2swUkkzQXhpZi1YcXBLUG5fVmZ2TDNfOVl1OHQ0?oc=5",
-        "publishedAt": "2026-11-14T18:07:34.000Z"
-      },
-      {
         "time": "22:02",
         "title": "NVIDIAフアン氏復帰を 署名広がる",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6602724?source=rss",
         "publishedAt": "2026-11-15T13:02:58.000Z"
+      },
+      {
+        "time": "16:14",
+        "title": "タマホーム 架空請求を売上計上か",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6602678?source=rss",
+        "publishedAt": "2026-11-15T07:14:52.000Z"
       }
     ],
     "worldHeadlines": [
