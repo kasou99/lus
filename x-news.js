@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-15T21:09:09.548Z",
+  "updatedAt": "2026-11-15T21:35:05.533Z",
   "items": [
     {
       "time": "00:37",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "原潜の保有「反対」52% 読売調査"
     },
     {
-      "time": "23:27",
-      "title": "MS障害 インド政府機関混乱なし",
+      "time": "06:14",
+      "title": "特急と衝突し車火災 遺体を発見",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602734?source=rss",
-      "publishedAt": "2026-11-15T14:27:33.000Z",
-      "xQuery": "MS障害 インド政府機関混乱なし"
+      "url": "https://news.yahoo.co.jp/pickup/6602737?source=rss",
+      "publishedAt": "2026-11-15T21:14:12.000Z",
+      "xQuery": "特急と衝突し車火災 遺体を発見"
     },
     {
       "time": "22:02",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "NVIDIAフアン氏復帰を 署名広がる"
     },
     {
-      "time": "22:10",
-      "title": "特急と衝突し車火災 1人安否不明",
+      "time": "22:56",
+      "title": "走行中の車から転落 女性が重傷",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602725?source=rss",
-      "publishedAt": "2026-11-15T13:10:15.000Z",
-      "xQuery": "特急と衝突し車火災 1人安否不明"
+      "url": "https://news.yahoo.co.jp/pickup/6602732?source=rss",
+      "publishedAt": "2026-11-15T13:56:05.000Z",
+      "xQuery": "走行中の車から転落 女性が重傷"
     }
   ]
 };
