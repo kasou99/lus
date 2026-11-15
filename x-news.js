@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-15T12:35:34.252Z",
+  "updatedAt": "2026-11-15T13:09:10.921Z",
   "items": [
     {
       "time": "20:49",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "生活保護費改定 物価高の反映焦点"
     },
     {
-      "time": "20:37",
-      "title": "漁船同士が衝突し1隻沈没 8人搬送",
+      "time": "19:26",
+      "title": "仏のデモおさまらず みえぬ打開策",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602713?source=rss",
-      "publishedAt": "2026-11-15T11:37:45.000Z",
-      "xQuery": "漁船同士が衝突し1隻沈没 8人搬送"
+      "url": "https://news.yahoo.co.jp/pickup/6602707?source=rss",
+      "publishedAt": "2026-11-15T10:26:37.000Z",
+      "xQuery": "仏のデモおさまらず みえぬ打開策"
     },
     {
       "time": "21:18",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "福岡市長選 再選挙の可能性"
     },
     {
-      "time": "21:02",
-      "title": "妻が酒でひょう変 限界感じた夫",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602718?source=rss",
-      "publishedAt": "2026-11-15T12:02:41.000Z",
-      "xQuery": "妻が酒でひょう変 限界感じた夫"
-    },
-    {
       "time": "21:11",
       "title": "独プールで4人搬送 MS障害影響",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6602715?source=rss",
       "publishedAt": "2026-11-15T12:11:46.000Z",
       "xQuery": "独プールで4人搬送 MS障害影響"
+    },
+    {
+      "time": "20:08",
+      "title": "スピッツ﨑山さん重傷 治療に専念",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6602711?source=rss",
+      "publishedAt": "2026-11-15T11:08:59.000Z",
+      "xQuery": "スピッツ﨑山さん重傷 治療に専念"
     }
   ]
 };
