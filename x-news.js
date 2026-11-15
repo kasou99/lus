@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-15T07:10:47.182Z",
+  "updatedAt": "2026-11-15T07:35:22.272Z",
   "items": [
     {
       "time": "15:39",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "首相APEC出席へ 焦点は日中関係"
     },
     {
-      "time": "13:46",
-      "title": "大阪3歳死亡 平均体重5キロ下回る",
+      "time": "15:33",
+      "title": "SpaceX 宇宙船空中回収に初成功",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602664?source=rss",
-      "publishedAt": "2026-11-15T04:46:23.000Z",
-      "xQuery": "大阪3歳死亡 平均体重5キロ下回る"
+      "url": "https://news.yahoo.co.jp/pickup/6602675?source=rss",
+      "publishedAt": "2026-11-15T06:33:11.000Z",
+      "xQuery": "SpaceX 宇宙船空中回収に初成功"
     },
     {
-      "time": "15:20",
-      "title": "福岡市HPが閲覧不可に 原因不明",
+      "time": "16:14",
+      "title": "タマホーム 架空請求を売上計上か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602673?source=rss",
-      "publishedAt": "2026-11-15T06:20:58.000Z",
-      "xQuery": "福岡市HPが閲覧不可に 原因不明"
+      "url": "https://news.yahoo.co.jp/pickup/6602678?source=rss",
+      "publishedAt": "2026-11-15T07:14:52.000Z",
+      "xQuery": "タマホーム 架空請求を売上計上か"
     },
     {
       "time": "15:15",
