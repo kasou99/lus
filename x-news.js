@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-15T04:36:01.428Z",
+  "updatedAt": "2026-11-15T05:10:58.069Z",
   "items": [
     {
       "time": "12:02",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "米の「中国脅威論」どう生まれた"
     },
     {
-      "time": "12:05",
-      "title": "政府広報の夫婦漫才に疑問の声",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602653?source=rss",
-      "publishedAt": "2026-11-15T03:05:14.000Z",
-      "xQuery": "政府広報の夫婦漫才に疑問の声"
-    },
-    {
       "time": "12:56",
       "title": "住宅に強盗 少年ら5人が関与か",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6602657?source=rss",
       "publishedAt": "2026-11-15T03:56:41.000Z",
       "xQuery": "住宅に強盗 少年ら5人が関与か"
+    },
+    {
+      "time": "13:54",
+      "title": "いろは坂右折禁止 渋滞緩和に効果",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6602663?source=rss",
+      "publishedAt": "2026-11-15T04:54:33.000Z",
+      "xQuery": "いろは坂右折禁止 渋滞緩和に効果"
     },
     {
       "time": "11:57",
