@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T23:35:15.329Z",
+  "updatedAt": "2026-11-15T00:33:18.140Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -52,14 +52,21 @@
         "publishedAt": "2026-11-14T12:56:42.000Z"
       },
       {
-        "time": "10:28",
-        "title": "「銀だこ」曲がり角 赤字転落なぜ",
+        "time": "09:24",
+        "title": "再開発が大赤字 大阪・阿倍野の今",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602520?source=rss",
-        "publishedAt": "2026-11-14T01:28:24.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6602629?source=rss",
+        "publishedAt": "2026-11-15T00:24:50.000Z"
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "08:41",
+        "title": "米中露会談 3首脳の思惑が交錯",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6602626?source=rss",
+        "publishedAt": "2026-11-14T23:41:26.000Z"
+      },
       {
         "time": "12:13",
         "title": "米中露会談 核兵器削減を協議へ",
@@ -75,6 +82,13 @@
         "publishedAt": "2026-11-14T00:02:05.000Z"
       },
       {
+        "time": "08:42",
+        "title": "ウのNATO加盟で東部撤退 米打診",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6602627?source=rss",
+        "publishedAt": "2026-11-14T23:42:31.000Z"
+      },
+      {
         "time": "17:45",
         "title": "米の航空混乱 途方に暮れる乗客",
         "source": "Yahoo!ニュース",
@@ -87,20 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6602522?source=rss",
         "publishedAt": "2026-11-14T01:50:35.000Z"
-      },
-      {
-        "time": "11:54",
-        "title": "米空港で混乱 原因はハードウエア",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602529?source=rss",
-        "publishedAt": "2026-11-14T02:54:59.000Z"
-      },
-      {
-        "time": "08:17",
-        "title": "バンス氏 米大統領選見送り検討か",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602499?source=rss",
-        "publishedAt": "2026-11-13T23:17:38.000Z"
       }
     ],
     "economyHeadlines": [
@@ -133,34 +133,34 @@
         "publishedAt": "2026-11-14T12:56:42.000Z"
       },
       {
+        "time": "09:24",
+        "title": "再開発が大赤字 大阪・阿倍野の今",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6602629?source=rss",
+        "publishedAt": "2026-11-15T00:24:50.000Z"
+      },
+      {
         "time": "10:28",
         "title": "「銀だこ」曲がり角 赤字転落なぜ",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6602520?source=rss",
         "publishedAt": "2026-11-14T01:28:24.000Z"
-      },
-      {
-        "time": "17:46",
-        "title": "菓子屋の倒産最多へ 老舗でも低迷",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602566?source=rss",
-        "publishedAt": "2026-11-14T08:46:28.000Z"
       }
     ],
     "localHeadlines": [
+      {
+        "time": "08:40",
+        "title": "住宅強盗 寝ていた82歳女性が重傷",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6602623?source=rss",
+        "publishedAt": "2026-11-14T23:40:52.000Z"
+      },
       {
         "time": "07:18",
         "title": "ラヴ上等「あっすん」容疑者逮捕",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6602608?source=rss",
         "publishedAt": "2026-11-14T22:18:13.000Z"
-      },
-      {
-        "time": "18:37",
-        "title": "印旛沼決壊 暮らしの再建進まず",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602573?source=rss",
-        "publishedAt": "2026-11-14T09:37:01.000Z"
       },
       {
         "time": "07:24",

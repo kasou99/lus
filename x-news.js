@@ -1,21 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-14T23:35:16.279Z",
+  "updatedAt": "2026-11-15T00:33:19.007Z",
   "items": [
     {
-      "time": "08:07",
-      "title": "きょう近畿や東海で激しい雨 注意",
+      "time": "08:41",
+      "title": "米中露会談 3首脳の思惑が交錯",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602621?source=rss",
-      "publishedAt": "2026-11-14T23:07:27.000Z",
-      "xQuery": "きょう近畿や東海で激しい雨 注意"
+      "url": "https://news.yahoo.co.jp/pickup/6602626?source=rss",
+      "publishedAt": "2026-11-14T23:41:26.000Z",
+      "xQuery": "米中露会談 3首脳の思惑が交錯"
     },
     {
-      "time": "07:36",
-      "title": "首相 「アジア版IEA」創設提唱へ",
+      "time": "08:10",
+      "title": "横田さん拉致49年 母が思い吐露",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602615?source=rss",
-      "publishedAt": "2026-11-14T22:36:41.000Z",
-      "xQuery": "首相 「アジア版IEA」創設提唱へ"
+      "url": "https://news.yahoo.co.jp/pickup/6602620?source=rss",
+      "publishedAt": "2026-11-14T23:10:36.000Z",
+      "xQuery": "横田さん拉致49年 母が思い吐露"
+    },
+    {
+      "time": "08:40",
+      "title": "住宅強盗 寝ていた82歳女性が重傷",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6602623?source=rss",
+      "publishedAt": "2026-11-14T23:40:52.000Z",
+      "xQuery": "住宅強盗 寝ていた82歳女性が重傷"
     },
     {
       "time": "07:18",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6602624?source=rss",
       "publishedAt": "2026-11-14T23:28:20.000Z",
       "xQuery": "7時頃登校し清掃 校長に児童感化"
-    },
-    {
-      "time": "07:58",
-      "title": "Netflixが値上げ 最安は990円に",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602619?source=rss",
-      "publishedAt": "2026-11-14T22:58:48.000Z",
-      "xQuery": "Netflixが値上げ 最安は990円に"
     }
   ]
 };
