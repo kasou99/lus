@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-15T15:34:54.105Z",
+  "updatedAt": "2026-11-15T16:11:02.607Z",
   "items": [
+    {
+      "time": "00:37",
+      "title": "福岡市長選 再選挙の見通し",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6602736?source=rss",
+      "publishedAt": "2026-11-15T15:37:18.000Z",
+      "xQuery": "福岡市長選 再選挙の見通し"
+    },
     {
       "time": "23:36",
       "title": "原潜の保有「反対」52% 読売調査",
@@ -16,14 +24,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6602734?source=rss",
       "publishedAt": "2026-11-15T14:27:33.000Z",
       "xQuery": "MS障害 インド政府機関混乱なし"
-    },
-    {
-      "time": "22:43",
-      "title": "熊本市長選 現職大西一史氏が4選",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602731?source=rss",
-      "publishedAt": "2026-11-15T13:43:18.000Z",
-      "xQuery": "熊本市長選 現職大西一史氏が4選"
     },
     {
       "time": "22:02",
