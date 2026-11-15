@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-15T22:35:11.168Z",
+  "updatedAt": "2026-11-15T23:10:58.028Z",
   "items": [
     {
       "time": "00:37",
@@ -8,6 +8,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6602736?source=rss",
       "publishedAt": "2026-11-15T15:37:18.000Z",
       "xQuery": "福岡市長選 再選挙の見通し"
+    },
+    {
+      "time": "07:43",
+      "title": "大学発ベンチャー過去10年で3.5倍",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6602745?source=rss",
+      "publishedAt": "2026-11-15T22:43:59.000Z",
+      "xQuery": "大学発ベンチャー過去10年で3.5倍"
     },
     {
       "time": "07:20",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6602744?source=rss",
       "publishedAt": "2026-11-15T22:28:14.000Z",
       "xQuery": "フアン氏がNVIDIA復帰協議 報道"
-    },
-    {
-      "time": "22:56",
-      "title": "走行中の車から転落 女性が重傷",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602732?source=rss",
-      "publishedAt": "2026-11-15T13:56:05.000Z",
-      "xQuery": "走行中の車から転落 女性が重傷"
     }
   ]
 };
