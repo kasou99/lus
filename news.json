@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T11:38:23.101Z",
+  "updatedAt": "2026-11-16T12:21:54.176Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -149,18 +149,18 @@
     ],
     "localHeadlines": [
       {
+        "time": "20:42",
+        "title": "刺されたか 中野区で女性が重体",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6602829?source=rss",
+        "publishedAt": "2026-11-16T11:42:18.000Z"
+      },
+      {
         "time": "19:43",
         "title": "没収の供託金はどこへ 福岡市長選",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6602824?source=rss",
         "publishedAt": "2026-11-16T10:43:18.000Z"
-      },
-      {
-        "time": "15:48",
-        "title": "福岡市長選が再選挙へ 憤る市民も",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602799?source=rss",
-        "publishedAt": "2026-11-16T06:48:42.000Z"
       },
       {
         "time": "11:09",

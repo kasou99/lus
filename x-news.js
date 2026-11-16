@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-16T11:38:23.809Z",
+  "updatedAt": "2026-11-16T12:21:54.909Z",
   "items": [
     {
       "time": "18:40",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "タイムズカーの会員数 1.4万人減"
     },
     {
+      "time": "20:42",
+      "title": "刺されたか 中野区で女性が重体",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6602829?source=rss",
+      "publishedAt": "2026-11-16T11:42:18.000Z",
+      "xQuery": "刺されたか 中野区で女性が重体"
+    },
+    {
       "time": "20:26",
       "title": "3歳死亡 枚方市長「悔やまれる」",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6602828?source=rss",
       "publishedAt": "2026-11-16T11:26:36.000Z",
       "xQuery": "3歳死亡 枚方市長「悔やまれる」"
-    },
-    {
-      "time": "17:40",
-      "title": "尖圭コンジローマ 男性患者が増加",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602812?source=rss",
-      "publishedAt": "2026-11-16T08:40:46.000Z",
-      "xQuery": "尖圭コンジローマ 男性患者が増加"
     }
   ]
 };
