@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T10:38:13.711Z",
+  "updatedAt": "2026-11-16T11:12:26.102Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -24,18 +24,18 @@
         "publishedAt": "2026-11-15T23:36:00.000Z"
       },
       {
-        "time": "08:45",
-        "title": "設計／製造から工場運用へ、オートデスクが描く工場全体の最適化戦略（MONOist）",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAzalVTWnVOck5acDM2MzBaZmgtaS15LTlzZWhYaTg3NGJEOEtZdTg2TDJNU09EamV6TWN0dXNDMnhseHpkLTU0akJpWnhmNzk0V1FXc3BULTk4VzJlS1IwTHp0ejM5Zy1wYkhmMHJ5VTBVczF0a0NlUzhEZVFLekU?oc=5",
-        "publishedAt": "2026-11-15T23:45:16.000Z"
-      },
-      {
         "time": "05:00",
         "title": "関東精機、1台で軸の熱変位制御 液温調整の高付加価値機",
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8ySTZZWXpRZnFZVTgxNWV0TlZvbi15NTZYLUhpeHBabEJZZEpndlZWRk1XN25qV1pzbXhxcEZSaFFQSWlwd2hoSlc0ZzZtcHhfZzdoMFd0bVQ?oc=5",
         "publishedAt": "2026-11-15T20:00:00.000Z"
+      },
+      {
+        "time": "08:45",
+        "title": "設計／製造から工場運用へ、オートデスクが描く工場全体の最適化戦略（MONOist）",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAzalVTWnVOck5acDM2MzBaZmgtaS15LTlzZWhYaTg3NGJEOEtZdTg2TDJNU09EamV6TWN0dXNDMnhseHpkLTU0akJpWnhmNzk0V1FXc3BULTk4VzJlS1IwTHp0ejM5Zy1wYkhmMHJ5VTBVczF0a0NlUzhEZVFLekU?oc=5",
+        "publishedAt": "2026-11-15T23:45:16.000Z"
       },
       {
         "time": "09:25",
@@ -149,11 +149,11 @@
     ],
     "localHeadlines": [
       {
-        "time": "08:22",
-        "title": "福岡市長選 再選挙が確実に",
+        "time": "19:43",
+        "title": "没収の供託金はどこへ 福岡市長選",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602753?source=rss",
-        "publishedAt": "2026-11-15T23:22:11.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6602824?source=rss",
+        "publishedAt": "2026-11-16T10:43:18.000Z"
       },
       {
         "time": "15:48",

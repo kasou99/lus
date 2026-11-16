@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-16T10:38:14.182Z",
+  "updatedAt": "2026-11-16T11:12:26.940Z",
   "items": [
     {
       "time": "18:40",
@@ -18,6 +18,14 @@ window.LUS_X_NEWS = {
       "xQuery": "タイムズカーの会員数 1.4万人減"
     },
     {
+      "time": "19:43",
+      "title": "没収の供託金はどこへ 福岡市長選",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6602824?source=rss",
+      "publishedAt": "2026-11-16T10:43:18.000Z",
+      "xQuery": "没収の供託金はどこへ 福岡市長選"
+    },
+    {
       "time": "17:40",
       "title": "尖圭コンジローマ 男性患者が増加",
       "source": "Yahoo!ニュース",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6602815?source=rss",
       "publishedAt": "2026-11-16T08:55:28.000Z",
       "xQuery": "どう思う 夫婦のセパレート帰省"
-    },
-    {
-      "time": "17:53",
-      "title": "X-GUNさがね・まさひろ氏市議に",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602808?source=rss",
-      "publishedAt": "2026-11-16T08:53:49.000Z",
-      "xQuery": "X-GUNさがね・まさひろ氏市議に"
     }
   ]
 };
