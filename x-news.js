@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-16T06:30:15.442Z",
+  "updatedAt": "2026-11-16T07:19:10.914Z",
   "items": [
     {
       "time": "12:29",
@@ -10,12 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "今週後半ほど気温低く 冬の空気に"
     },
     {
-      "time": "13:59",
-      "title": "AI株下げ 日経平均一時6万円割れ",
+      "time": "15:48",
+      "title": "福岡市長選が再選挙へ 憤る市民も",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602786?source=rss",
-      "publishedAt": "2026-11-16T04:59:06.000Z",
-      "xQuery": "AI株下げ 日経平均一時6万円割れ"
+      "url": "https://news.yahoo.co.jp/pickup/6602799?source=rss",
+      "publishedAt": "2026-11-16T06:48:42.000Z",
+      "xQuery": "福岡市長選が再選挙へ 憤る市民も"
+    },
+    {
+      "time": "15:55",
+      "title": "中国スパイ 諜報の傾向とパターン",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6602800?source=rss",
+      "publishedAt": "2026-11-16T06:55:34.000Z",
+      "xQuery": "中国スパイ 諜報の傾向とパターン"
     },
     {
       "time": "15:01",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6602789?source=rss",
       "publishedAt": "2026-11-16T05:05:29.000Z",
       "xQuery": "判決不服 斉藤慎二被告が控訴"
-    },
-    {
-      "time": "14:05",
-      "title": "富岳に不正アクセス 理研が明かす",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602790?source=rss",
-      "publishedAt": "2026-11-16T05:05:16.000Z",
-      "xQuery": "富岳に不正アクセス 理研が明かす"
     }
   ]
 };

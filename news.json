@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T06:30:14.214Z",
+  "updatedAt": "2026-11-16T07:19:09.915Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -24,6 +24,13 @@
         "publishedAt": "2026-11-15T23:36:00.000Z"
       },
       {
+        "time": "08:45",
+        "title": "設計／製造から工場運用へ、オートデスクが描く工場全体の最適化戦略（MONOist）",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAzalVTWnVOck5acDM2MzBaZmgtaS15LTlzZWhYaTg3NGJEOEtZdTg2TDJNU09EamV6TWN0dXNDMnhseHpkLTU0akJpWnhmNzk0V1FXc3BULTk4VzJlS1IwTHp0ejM5Zy1wYkhmMHJ5VTBVczF0a0NlUzhEZVFLekU?oc=5",
+        "publishedAt": "2026-11-15T23:45:16.000Z"
+      },
+      {
         "time": "09:25",
         "title": "竹中、2工場に補助金活用し太陽光525kW導入 CO2を年間212t削減",
         "source": "環境ビジネスオンライン",
@@ -45,18 +52,11 @@
         "publishedAt": "2026-11-15T20:00:00.000Z"
       },
       {
-        "time": "00:21",
-        "title": "シチズンの26年4～9月期、大幅な営業増益 時計・工作機械がけん引 通期予想は上方修正",
-        "source": "電波新聞デジタル",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9hN2JTTEN0a2V6M0xJTVMwUW1IOWRmV0VSRzQtN2JKRTIzVE5XTUExLWNjanNJMVhhTTBFRDRiWUZKRnJkMUVNSmRCVUpUZ055TEE?oc=5",
-        "publishedAt": "2026-11-15T15:21:35.000Z"
-      },
-      {
-        "time": "15:40",
-        "title": "景況7年半ぶりプラス圏に浮上 半導体、工作機械の需要が回復 長岡信金2026年度上半期の景気動向調査",
-        "source": "47NEWS",
-        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0zVGI4azQ0aVVWTUh3S25iZ0ZIa2RsWTd4YmFwUHZkZHQ0N3B0ZkJabmVUX3VBcG9XVGxGejlQTlAwV3BkcnZTNnNtUQ?oc=5",
-        "publishedAt": "2026-11-15T06:40:00.000Z"
+        "time": "12:35",
+        "title": "アドバンテック、エッジAIやITS向けに10GbE対応レイヤー3産業用スイッチングハブを発表",
+        "source": "ASCII.jp",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1qQ0V3a1U4dDRJNzROazg2RE1RUUNPanQyeFlZa1k2dkJEOFo1WFBMNHM0YjR2STk3U0NsbWg0TDhsenNNc2N5Z0RMcno2T1BXeDF1NA?oc=5",
+        "publishedAt": "2026-11-16T03:35:39.000Z"
       }
     ],
     "worldHeadlines": [
@@ -82,11 +82,11 @@
         "publishedAt": "2026-11-15T22:20:16.000Z"
       },
       {
-        "time": "13:35",
-        "title": "中国スパイ疑惑事件 諜報の傾向は",
+        "time": "15:55",
+        "title": "中国スパイ 諜報の傾向とパターン",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602777?source=rss",
-        "publishedAt": "2026-11-16T04:35:00.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6602800?source=rss",
+        "publishedAt": "2026-11-16T06:55:34.000Z"
       },
       {
         "time": "17:56",
@@ -140,14 +140,28 @@
         "publishedAt": "2026-11-16T04:30:28.000Z"
       },
       {
-        "time": "13:34",
-        "title": "PS5の世界出荷1億台 成功の背景",
+        "time": "09:42",
+        "title": "コンテナホテル8年で145店舗 背景",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602776?source=rss",
-        "publishedAt": "2026-11-16T04:34:07.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6602759?source=rss",
+        "publishedAt": "2026-11-16T00:42:07.000Z"
       }
     ],
     "localHeadlines": [
+      {
+        "time": "08:22",
+        "title": "福岡市長選 再選挙が確実に",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6602753?source=rss",
+        "publishedAt": "2026-11-15T23:22:11.000Z"
+      },
+      {
+        "time": "15:48",
+        "title": "福岡市長選が再選挙へ 憤る市民も",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6602799?source=rss",
+        "publishedAt": "2026-11-16T06:48:42.000Z"
+      },
       {
         "time": "11:09",
         "title": "元ジャンポケ斉藤被告 実刑判決",
@@ -175,20 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6602793?source=rss",
         "publishedAt": "2026-11-16T06:01:57.000Z"
-      },
-      {
-        "time": "11:37",
-        "title": "神戸6歳死亡 叔父は起訴内容否認",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602768?source=rss",
-        "publishedAt": "2026-11-16T02:37:50.000Z"
-      },
-      {
-        "time": "08:22",
-        "title": "福岡市長選 再選挙が確実に",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602753?source=rss",
-        "publishedAt": "2026-11-15T23:22:11.000Z"
       }
     ],
     "subsidyHeadlines": [
