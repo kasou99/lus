@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-16T11:12:26.940Z",
+  "updatedAt": "2026-11-16T11:38:23.809Z",
   "items": [
     {
       "time": "18:40",
@@ -10,6 +10,14 @@ window.LUS_X_NEWS = {
       "xQuery": "マンション短期売買 課税強化検討"
     },
     {
+      "time": "20:00",
+      "title": "コカイン摘発 過去最多更新ペース",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6602825?source=rss",
+      "publishedAt": "2026-11-16T11:00:04.000Z",
+      "xQuery": "コカイン摘発 過去最多更新ペース"
+    },
+    {
       "time": "18:17",
       "title": "タイムズカーの会員数 1.4万人減",
       "source": "Yahoo!ニュース",
@@ -18,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "タイムズカーの会員数 1.4万人減"
     },
     {
-      "time": "19:43",
-      "title": "没収の供託金はどこへ 福岡市長選",
+      "time": "20:26",
+      "title": "3歳死亡 枚方市長「悔やまれる」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602824?source=rss",
-      "publishedAt": "2026-11-16T10:43:18.000Z",
-      "xQuery": "没収の供託金はどこへ 福岡市長選"
+      "url": "https://news.yahoo.co.jp/pickup/6602828?source=rss",
+      "publishedAt": "2026-11-16T11:26:36.000Z",
+      "xQuery": "3歳死亡 枚方市長「悔やまれる」"
     },
     {
       "time": "17:40",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6602812?source=rss",
       "publishedAt": "2026-11-16T08:40:46.000Z",
       "xQuery": "尖圭コンジローマ 男性患者が増加"
-    },
-    {
-      "time": "17:55",
-      "title": "どう思う 夫婦のセパレート帰省",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602815?source=rss",
-      "publishedAt": "2026-11-16T08:55:28.000Z",
-      "xQuery": "どう思う 夫婦のセパレート帰省"
     }
   ]
 };
