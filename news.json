@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T09:16:58.932Z",
+  "updatedAt": "2026-11-16T09:44:02.050Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -126,25 +126,25 @@
         "publishedAt": "2026-11-16T03:10:41.000Z"
       },
       {
+        "time": "18:17",
+        "title": "タイムズカーの会員数 1.4万人減",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6602816?source=rss",
+        "publishedAt": "2026-11-16T09:17:39.000Z"
+      },
+      {
+        "time": "18:40",
+        "title": "マンション短期売買 課税強化検討",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6602817?source=rss",
+        "publishedAt": "2026-11-16T09:40:24.000Z"
+      },
+      {
         "time": "17:41",
         "title": "「いきステ」経営改革 復活の兆し",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6602809?source=rss",
         "publishedAt": "2026-11-16T08:41:39.000Z"
-      },
-      {
-        "time": "13:30",
-        "title": "分譲マンション賃料過去最高 東京",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602785?source=rss",
-        "publishedAt": "2026-11-16T04:30:28.000Z"
-      },
-      {
-        "time": "09:42",
-        "title": "コンテナホテル8年で145店舗 背景",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602759?source=rss",
-        "publishedAt": "2026-11-16T00:42:07.000Z"
       }
     ],
     "localHeadlines": [
