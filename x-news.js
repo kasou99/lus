@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-16T01:14:10.689Z",
+  "updatedAt": "2026-11-16T01:41:27.592Z",
   "items": [
     {
       "time": "09:24",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "フアン氏がNVIDIA復帰協議 報道"
     },
     {
-      "time": "07:47",
-      "title": "JSR売却 差益9000億円超の見込み",
+      "time": "10:33",
+      "title": "常磐道 車7台事故で10人以上けが",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602747?source=rss",
-      "publishedAt": "2026-11-15T22:47:18.000Z",
-      "xQuery": "JSR売却 差益9000億円超の見込み"
+      "url": "https://news.yahoo.co.jp/pickup/6602762?source=rss",
+      "publishedAt": "2026-11-16T01:33:14.000Z",
+      "xQuery": "常磐道 車7台事故で10人以上けが"
     },
     {
       "time": "09:42",
