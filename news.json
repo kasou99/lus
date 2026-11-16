@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-16T20:11:41.287Z",
+  "updatedAt": "2026-11-16T20:35:29.816Z",
   "groups": {
     "machineHeadlines": [
       {
-        "time": "23:30",
+        "time": "05:04",
         "title": "工作機械受注「年間2兆円」見通しの衝撃。JIMTOF2026後の設備投資サイクルは、日本株にどこまで追い風を吹かせるのか",
         "source": "note",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5aUGdQWkV2eHVoQzhWR1ZaY191S2NvTWxWWFRFang0UGRiY0dkMm9tQXJ1YVY0M1g2TXdQM0FONWNuR0hyZ2R6eVdCdXVsTTRwV1JyWkZXX0V3c1U?oc=5",
-        "publishedAt": "2026-11-16T14:30:00.000Z"
+        "publishedAt": "2026-11-16T20:04:08.000Z"
       },
       {
         "time": "07:45",
@@ -215,6 +215,20 @@
         "title": "中小企業省力化投資補助金の公募・採択情報を確認",
         "source": "中小機構",
         "url": "https://seisansei.smrj.go.jp/subsidy_info/laborsaving_subsidy.html"
+      },
+      {
+        "time": "17:00",
+        "title": "【2026年最新】中小企業向け補助金6制度まとめ｜締切・補助率・上限額一覧",
+        "source": "補助金ポータル",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Idm5vYjJtajVIYjhheTZVVTVQTXRXMndVNkRmWnVEZnZyNVRRV3ZncXZhREsxNXBqYXFZSlZmNHhLeHhkbUNRcXljRlJNWVh2ZmZrSXlsVVJsdGI5RGtBdmoxUGx1YlozMUE?oc=5",
+        "publishedAt": "2026-11-05T08:00:00.000Z"
+      },
+      {
+        "time": "16:00",
+        "title": "【補助金支援で3冠達成】エフアンドエム、「累計採択社数」「入金までの手続き支援社数」「提携金融機関数」で国内No.1を獲得",
+        "source": "イザ！",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9oUkVHU1R3aHdrYmpZbUtXWU9sNHNBQW1IMDkwVkJyRkVXR1ZyeVJwSDZxanExaU5idnk3U3ByQXJtdHlvUUpVU1ZkakVydWJUMTVwZVlwQnBUeTRJTVFnR1RmQnZwR05KTGxDeHhmRHlWN29hMjNYekhn?oc=5",
+        "publishedAt": "2026-11-16T07:00:00.000Z"
       }
     ]
   }
