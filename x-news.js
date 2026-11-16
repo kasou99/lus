@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-16T02:36:19.461Z",
+  "updatedAt": "2026-11-16T03:15:28.024Z",
   "items": [
     {
       "time": "11:26",
@@ -10,20 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "ドコモ「5G SA」でまた通信障害"
     },
     {
-      "time": "08:22",
-      "title": "福岡市長選 再選挙が確実に",
+      "time": "11:38",
+      "title": "日韓首脳 17日にフィリピンで会談",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602753?source=rss",
-      "publishedAt": "2026-11-15T23:22:11.000Z",
-      "xQuery": "福岡市長選 再選挙が確実に"
-    },
-    {
-      "time": "09:17",
-      "title": "エボラ アフリカ中部で今なお猛威",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602757?source=rss",
-      "publishedAt": "2026-11-16T00:17:16.000Z",
-      "xQuery": "エボラ アフリカ中部で今なお猛威"
+      "url": "https://news.yahoo.co.jp/pickup/6602766?source=rss",
+      "publishedAt": "2026-11-16T02:38:36.000Z",
+      "xQuery": "日韓首脳 17日にフィリピンで会談"
     },
     {
       "time": "10:44",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6602765?source=rss",
       "publishedAt": "2026-11-16T02:09:34.000Z",
       "xQuery": "元ジャンポケ斉藤被告 実刑判決"
+    },
+    {
+      "time": "09:42",
+      "title": "コンテナホテル8年で145店舗 背景",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6602759?source=rss",
+      "publishedAt": "2026-11-16T00:42:07.000Z",
+      "xQuery": "コンテナホテル8年で145店舗 背景"
     }
   ]
 };
