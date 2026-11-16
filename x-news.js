@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-16T09:44:02.773Z",
+  "updatedAt": "2026-11-16T10:14:25.274Z",
   "items": [
     {
       "time": "17:33",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "ドコモ「5G SA」で障害 完全復旧"
     },
     {
-      "time": "16:46",
-      "title": "祖父母ら3人殺害事件 死刑を求刑",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602805?source=rss",
-      "publishedAt": "2026-11-16T07:46:01.000Z",
-      "xQuery": "祖父母ら3人殺害事件 死刑を求刑"
-    },
-    {
       "time": "18:17",
       "title": "タイムズカーの会員数 1.4万人減",
       "source": "Yahoo!ニュース",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6602812?source=rss",
       "publishedAt": "2026-11-16T08:40:46.000Z",
       "xQuery": "尖圭コンジローマ 男性患者が増加"
+    },
+    {
+      "time": "17:55",
+      "title": "どう思う 夫婦のセパレート帰省",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6602815?source=rss",
+      "publishedAt": "2026-11-16T08:55:28.000Z",
+      "xQuery": "どう思う 夫婦のセパレート帰省"
     }
   ]
 };
