@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T14:47:32.914Z",
+  "updatedAt": "2026-11-16T15:18:39.260Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "23:51",
+        "title": "中野死亡 男は女性が勤める店の客",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6602848?source=rss",
+        "publishedAt": "2026-11-16T14:51:54.000Z"
+      },
+      {
         "time": "21:49",
         "title": "中野区で女性が刺され死亡 男逮捕",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6602842?source=rss",
         "publishedAt": "2026-11-16T13:39:59.000Z"
-      },
-      {
-        "time": "20:26",
-        "title": "3歳死亡 枚方市長「悔やまれる」",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602828?source=rss",
-        "publishedAt": "2026-11-16T11:26:36.000Z"
       }
     ],
     "subsidyHeadlines": [

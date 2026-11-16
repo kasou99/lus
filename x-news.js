@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-16T14:47:33.784Z",
+  "updatedAt": "2026-11-16T15:18:39.716Z",
   "items": [
     {
       "time": "23:25",
@@ -10,12 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "3カ国会談巡り中国「戦勝国」強調"
     },
     {
-      "time": "21:49",
-      "title": "中野区で女性が刺され死亡 男逮捕",
+      "time": "23:00",
+      "title": "はやぶさ2に不具合 目的地を変更",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602837?source=rss",
-      "publishedAt": "2026-11-16T12:49:25.000Z",
-      "xQuery": "中野区で女性が刺され死亡 男逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6602844?source=rss",
+      "publishedAt": "2026-11-16T14:00:45.000Z",
+      "xQuery": "はやぶさ2に不具合 目的地を変更"
+    },
+    {
+      "time": "23:51",
+      "title": "中野死亡 男は女性が勤める店の客",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6602848?source=rss",
+      "publishedAt": "2026-11-16T14:51:54.000Z",
+      "xQuery": "中野死亡 男は女性が勤める店の客"
     },
     {
       "time": "22:39",
@@ -24,14 +32,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6602842?source=rss",
       "publishedAt": "2026-11-16T13:39:59.000Z",
       "xQuery": "元モデル死亡 男は「自傷」と説明"
-    },
-    {
-      "time": "22:09",
-      "title": "喫煙率なぜ地域差 北日本上位独占",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602835?source=rss",
-      "publishedAt": "2026-11-16T13:09:02.000Z",
-      "xQuery": "喫煙率なぜ地域差 北日本上位独占"
     },
     {
       "time": "22:31",
