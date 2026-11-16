@@ -1,29 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-16T05:13:22.688Z",
+  "updatedAt": "2026-11-16T05:36:21.928Z",
   "items": [
     {
-      "time": "11:26",
-      "title": "ドコモ「5G SA」でまた通信障害",
+      "time": "12:29",
+      "title": "今週後半ほど気温低く 冬の空気に",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602767?source=rss",
-      "publishedAt": "2026-11-16T02:26:41.000Z",
-      "xQuery": "ドコモ「5G SA」でまた通信障害"
+      "url": "https://news.yahoo.co.jp/pickup/6602780?source=rss",
+      "publishedAt": "2026-11-16T03:29:44.000Z",
+      "xQuery": "今週後半ほど気温低く 冬の空気に"
     },
     {
-      "time": "12:07",
-      "title": "サイバー攻撃 AI「自律化」が脅威",
+      "time": "13:59",
+      "title": "AI株下げ 日経平均一時6万円割れ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602770?source=rss",
-      "publishedAt": "2026-11-16T03:07:35.000Z",
-      "xQuery": "サイバー攻撃 AI「自律化」が脅威"
+      "url": "https://news.yahoo.co.jp/pickup/6602786?source=rss",
+      "publishedAt": "2026-11-16T04:59:06.000Z",
+      "xQuery": "AI株下げ 日経平均一時6万円割れ"
     },
     {
-      "time": "12:10",
-      "title": "フアン氏復帰求める署名 16万人超",
+      "time": "13:54",
+      "title": "斉藤被告 判決言い渡し静かに聞く",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602778?source=rss",
-      "publishedAt": "2026-11-16T03:10:41.000Z",
-      "xQuery": "フアン氏復帰求める署名 16万人超"
+      "url": "https://news.yahoo.co.jp/pickup/6602788?source=rss",
+      "publishedAt": "2026-11-16T04:54:20.000Z",
+      "xQuery": "斉藤被告 判決言い渡し静かに聞く"
     },
     {
       "time": "13:30",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "分譲マンション賃料過去最高 東京"
     },
     {
-      "time": "13:54",
-      "title": "斉藤被告 判決言い渡し静かに聞く",
+      "time": "12:11",
+      "title": "若者に広がる投資熱 その実態は",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602788?source=rss",
-      "publishedAt": "2026-11-16T04:54:20.000Z",
-      "xQuery": "斉藤被告 判決言い渡し静かに聞く"
+      "url": "https://news.yahoo.co.jp/pickup/6602779?source=rss",
+      "publishedAt": "2026-11-16T03:11:43.000Z",
+      "xQuery": "若者に広がる投資熱 その実態は"
     }
   ]
 };
