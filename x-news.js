@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-15T23:35:27.189Z",
+  "updatedAt": "2026-11-16T00:36:46.542Z",
   "items": [
+    {
+      "time": "09:24",
+      "title": "7-9月期実質GDP 4期ぶりマイナス",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6602758?source=rss",
+      "publishedAt": "2026-11-16T00:24:20.000Z",
+      "xQuery": "7-9月期実質GDP 4期ぶりマイナス"
+    },
     {
       "time": "08:22",
       "title": "福岡市長選 再選挙が確実に",
@@ -10,28 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "福岡市長選 再選挙が確実に"
     },
     {
-      "time": "07:43",
-      "title": "大学発ベンチャー過去10年で3.5倍",
+      "time": "08:21",
+      "title": "福岡市長選再選挙出る?7人の回答",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602745?source=rss",
-      "publishedAt": "2026-11-15T22:43:59.000Z",
-      "xQuery": "大学発ベンチャー過去10年で3.5倍"
-    },
-    {
-      "time": "07:20",
-      "title": "エストニア ロシアとの国境閉鎖へ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602742?source=rss",
-      "publishedAt": "2026-11-15T22:20:16.000Z",
-      "xQuery": "エストニア ロシアとの国境閉鎖へ"
-    },
-    {
-      "time": "06:14",
-      "title": "特急と衝突し車火災 遺体を発見",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602737?source=rss",
-      "publishedAt": "2026-11-15T21:14:12.000Z",
-      "xQuery": "特急と衝突し車火災 遺体を発見"
+      "url": "https://news.yahoo.co.jp/pickup/6602752?source=rss",
+      "publishedAt": "2026-11-15T23:21:50.000Z",
+      "xQuery": "福岡市長選再選挙出る?7人の回答"
     },
     {
       "time": "07:28",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6602744?source=rss",
       "publishedAt": "2026-11-15T22:28:14.000Z",
       "xQuery": "フアン氏がNVIDIA復帰協議 報道"
+    },
+    {
+      "time": "09:25",
+      "title": "そごう・西武大規模改装に400億円",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6602755?source=rss",
+      "publishedAt": "2026-11-16T00:25:56.000Z",
+      "xQuery": "そごう・西武大規模改装に400億円"
     }
   ]
 };
