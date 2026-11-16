@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-16T05:36:21.928Z",
+  "updatedAt": "2026-11-16T06:30:15.442Z",
   "items": [
     {
       "time": "12:29",
@@ -18,28 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "AI株下げ 日経平均一時6万円割れ"
     },
     {
-      "time": "13:54",
-      "title": "斉藤被告 判決言い渡し静かに聞く",
+      "time": "15:01",
+      "title": "元eggモデルを殺害疑い 男逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602788?source=rss",
-      "publishedAt": "2026-11-16T04:54:20.000Z",
-      "xQuery": "斉藤被告 判決言い渡し静かに聞く"
+      "url": "https://news.yahoo.co.jp/pickup/6602793?source=rss",
+      "publishedAt": "2026-11-16T06:01:57.000Z",
+      "xQuery": "元eggモデルを殺害疑い 男逮捕"
     },
     {
-      "time": "13:30",
-      "title": "分譲マンション賃料過去最高 東京",
+      "time": "14:05",
+      "title": "判決不服 斉藤慎二被告が控訴",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602785?source=rss",
-      "publishedAt": "2026-11-16T04:30:28.000Z",
-      "xQuery": "分譲マンション賃料過去最高 東京"
+      "url": "https://news.yahoo.co.jp/pickup/6602789?source=rss",
+      "publishedAt": "2026-11-16T05:05:29.000Z",
+      "xQuery": "判決不服 斉藤慎二被告が控訴"
     },
     {
-      "time": "12:11",
-      "title": "若者に広がる投資熱 その実態は",
+      "time": "14:05",
+      "title": "富岳に不正アクセス 理研が明かす",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602779?source=rss",
-      "publishedAt": "2026-11-16T03:11:43.000Z",
-      "xQuery": "若者に広がる投資熱 その実態は"
+      "url": "https://news.yahoo.co.jp/pickup/6602790?source=rss",
+      "publishedAt": "2026-11-16T05:05:16.000Z",
+      "xQuery": "富岳に不正アクセス 理研が明かす"
     }
   ]
 };
