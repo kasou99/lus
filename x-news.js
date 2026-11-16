@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-16T08:28:45.742Z",
+  "updatedAt": "2026-11-16T08:48:09.245Z",
   "items": [
+    {
+      "time": "17:33",
+      "title": "文科相のパーティー 会費は9万円",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6602811?source=rss",
+      "publishedAt": "2026-11-16T08:33:57.000Z",
+      "xQuery": "文科相のパーティー 会費は9万円"
+    },
     {
       "time": "17:04",
       "title": "ドコモ「5G SA」で障害 完全復旧",
@@ -8,14 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6602807?source=rss",
       "publishedAt": "2026-11-16T08:04:49.000Z",
       "xQuery": "ドコモ「5G SA」で障害 完全復旧"
-    },
-    {
-      "time": "16:24",
-      "title": "日経平均は反落 AI株が下げ主導",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602802?source=rss",
-      "publishedAt": "2026-11-16T07:24:08.000Z",
-      "xQuery": "日経平均は反落 AI株が下げ主導"
     },
     {
       "time": "15:48",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "元eggモデルを殺害疑い 男逮捕"
     },
     {
-      "time": "14:05",
-      "title": "判決不服 斉藤慎二被告が控訴",
+      "time": "17:35",
+      "title": "夫婦別々で帰省 あなたの考えは",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602789?source=rss",
-      "publishedAt": "2026-11-16T05:05:29.000Z",
-      "xQuery": "判決不服 斉藤慎二被告が控訴"
+      "url": "https://news.yahoo.co.jp/pickup/6602801?source=rss",
+      "publishedAt": "2026-11-16T08:35:49.000Z",
+      "xQuery": "夫婦別々で帰省 あなたの考えは"
     }
   ]
 };

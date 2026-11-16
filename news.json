@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T08:28:44.720Z",
+  "updatedAt": "2026-11-16T08:48:08.510Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -112,13 +112,6 @@
         "publishedAt": "2026-11-16T07:24:08.000Z"
       },
       {
-        "time": "09:24",
-        "title": "7-9月期実質GDP 4期ぶりマイナス",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602758?source=rss",
-        "publishedAt": "2026-11-16T00:24:20.000Z"
-      },
-      {
         "time": "07:28",
         "title": "フアン氏がNVIDIA復帰協議 報道",
         "source": "Yahoo!ニュース",
@@ -131,6 +124,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6602778?source=rss",
         "publishedAt": "2026-11-16T03:10:41.000Z"
+      },
+      {
+        "time": "17:41",
+        "title": "「いきステ」経営改革 復活の兆し",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6602809?source=rss",
+        "publishedAt": "2026-11-16T08:41:39.000Z"
       },
       {
         "time": "13:30",
