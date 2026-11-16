@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T16:35:32.800Z",
+  "updatedAt": "2026-11-16T17:10:03.830Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,6 +31,13 @@
         "publishedAt": "2026-11-15T23:36:00.000Z"
       },
       {
+        "time": "08:45",
+        "title": "設計／製造から工場運用へ、オートデスクが描く工場全体の最適化戦略（MONOist）",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAzalVTWnVOck5acDM2MzBaZmgtaS15LTlzZWhYaTg3NGJEOEtZdTg2TDJNU09EamV6TWN0dXNDMnhseHpkLTU0akJpWnhmNzk0V1FXc3BULTk4VzJlS1IwTHp0ejM5Zy1wYkhmMHJ5VTBVczF0a0NlUzhEZVFLekU?oc=5",
+        "publishedAt": "2026-11-15T23:45:16.000Z"
+      },
+      {
         "time": "09:25",
         "title": "自動車部品メーカー、補助金で太陽光525kW導入 CO2削減212t／年",
         "source": "環境ビジネスオンライン",
@@ -50,13 +57,6 @@
         "source": "日経クロステック",
         "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQ2xjVjIxNUZ0RUNadmJ0OVV4S1M5czZlT09GY1RJbjRXRkU3aHZiaVRsVml6VHh3QUtSaEdsaG9hTzFqR0V2VXFRdW9xRlU4ZVJReTZvWjFjdzVmSHVsTnR6RDdWZUFVTHlkaDFUUURoUTJvbWYydDVMSHFCeWNQZ2d5WVVIUTBVWG9UYmVzSTA5SGpOMFNWRnZ3?oc=5",
         "publishedAt": "2026-11-15T20:00:00.000Z"
-      },
-      {
-        "time": "14:51",
-        "title": "工場・プラント向け｜漏洩・異音検知の新技術 導入ガイドと製品比較【2026年11月版】",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBzLXd3Qk1jRU9RMzAxNml4LTV2MXh4aDZfcWRhWUNTUjVJMVlPbU1RMEVadXdhUU1xMjZjdUNBTXVjaTZ3THlpcXBVWExuZTVkUTItckpTU1R0VVFvZC0wRU5zNGZ5UWlp?oc=5",
-        "publishedAt": "2026-11-16T05:51:16.000Z"
       }
     ],
     "worldHeadlines": [
