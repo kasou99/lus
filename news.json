@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T15:18:39.260Z",
+  "updatedAt": "2026-11-16T15:42:52.714Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,13 +31,6 @@
         "publishedAt": "2026-11-15T23:36:00.000Z"
       },
       {
-        "time": "05:00",
-        "title": "関東精機、1台で軸の熱変位制御 液温調整の高付加価値機",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8ySTZZWXpRZnFZVTgxNWV0TlZvbi15NTZYLUhpeHBabEJZZEpndlZWRk1XN25qV1pzbXhxcEZSaFFQSWlwd2hoSlc0ZzZtcHhfZzdoMFd0bVQ?oc=5",
-        "publishedAt": "2026-11-15T20:00:00.000Z"
-      },
-      {
         "time": "09:25",
         "title": "自動車部品メーカー、補助金で太陽光525kW導入 CO2削減212t／年",
         "source": "環境ビジネスオンライン",
@@ -45,18 +38,25 @@
         "publishedAt": "2026-11-16T00:25:06.000Z"
       },
       {
+        "time": "05:00",
+        "title": "関東精機、1台で軸の熱変位制御 液温調整の高付加価値機",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8ySTZZWXpRZnFZVTgxNWV0TlZvbi15NTZYLUhpeHBabEJZZEpndlZWRk1XN25qV1pzbXhxcEZSaFFQSWlwd2hoSlc0ZzZtcHhfZzdoMFd0bVQ?oc=5",
+        "publishedAt": "2026-11-15T20:00:00.000Z"
+      },
+      {
+        "time": "05:00",
+        "title": "牧野フライスが新加工技術を続々開発、ガラス成形用SiC型も誕生（2ページ目）",
+        "source": "日経クロステック",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQ2xjVjIxNUZ0RUNadmJ0OVV4S1M5czZlT09GY1RJbjRXRkU3aHZiaVRsVml6VHh3QUtSaEdsaG9hTzFqR0V2VXFRdW9xRlU4ZVJReTZvWjFjdzVmSHVsTnR6RDdWZUFVTHlkaDFUUURoUTJvbWYydDVMSHFCeWNQZ2d5WVVIUTBVWG9UYmVzSTA5SGpOMFNWRnZ3?oc=5",
+        "publishedAt": "2026-11-15T20:00:00.000Z"
+      },
+      {
         "time": "20:15",
         "title": "食品工場の技能伝承ガイドを無料公開「原料が替わったら、その判断、誰に聞く？」",
         "source": "ニコニコニュース",
         "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA4akhIOFBlLTBBMHlPMUZSRjV4bWo0dzVDamdVRVZ3c3A1M3BjZmxSZ2NRYXpmQ2lvd2RydU5uYkxSbFo2TUhvZ08yOV9sNjdaWVpNRGQzZ2NHVlF5Qkp5a21zNU05a2xTRWVJVVB6dlVqY0hQQUNGRTIxSQ?oc=5",
         "publishedAt": "2026-11-16T11:15:33.000Z"
-      },
-      {
-        "time": "00:21",
-        "title": "シチズンの26年4～9月期、大幅な営業増益 時計・工作機械がけん引 通期予想は上方修正",
-        "source": "電波新聞デジタル",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9hN2JTTEN0a2V6M0xJTVMwUW1IOWRmV0VSRzQtN2JKRTIzVE5XTUExLWNjanNJMVhhTTBFRDRiWUZKRnJkMUVNSmRCVUpUZ055TEE?oc=5",
-        "publishedAt": "2026-11-15T15:21:35.000Z"
       }
     ],
     "worldHeadlines": [
