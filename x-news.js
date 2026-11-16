@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-16T13:27:24.344Z",
+  "updatedAt": "2026-11-16T13:53:21.485Z",
   "items": [
     {
       "time": "19:16",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "立憲 党職員への「退職勧奨」検討"
     },
     {
-      "time": "20:00",
-      "title": "コカイン摘発 過去最多更新ペース",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602825?source=rss",
-      "publishedAt": "2026-11-16T11:00:04.000Z",
-      "xQuery": "コカイン摘発 過去最多更新ペース"
-    },
-    {
       "time": "21:49",
       "title": "中野区で女性が刺され死亡 男逮捕",
       "source": "Yahoo!ニュース",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6602828?source=rss",
       "publishedAt": "2026-11-16T11:26:36.000Z",
       "xQuery": "3歳死亡 枚方市長「悔やまれる」"
+    },
+    {
+      "time": "22:31",
+      "title": "卵サンドつかむ客動画炎上 店説明",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6602840?source=rss",
+      "publishedAt": "2026-11-16T13:31:14.000Z",
+      "xQuery": "卵サンドつかむ客動画炎上 店説明"
     }
   ]
 };
