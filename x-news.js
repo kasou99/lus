@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-16T04:45:35.588Z",
+  "updatedAt": "2026-11-16T05:13:22.688Z",
   "items": [
     {
       "time": "11:26",
@@ -10,36 +10,36 @@ window.LUS_X_NEWS = {
       "xQuery": "ドコモ「5G SA」でまた通信障害"
     },
     {
-      "time": "12:52",
-      "title": "常磐道で車7台絡む事故 2人けが",
+      "time": "12:07",
+      "title": "サイバー攻撃 AI「自律化」が脅威",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602781?source=rss",
-      "publishedAt": "2026-11-16T03:52:10.000Z",
-      "xQuery": "常磐道で車7台絡む事故 2人けが"
+      "url": "https://news.yahoo.co.jp/pickup/6602770?source=rss",
+      "publishedAt": "2026-11-16T03:07:35.000Z",
+      "xQuery": "サイバー攻撃 AI「自律化」が脅威"
     },
     {
-      "time": "11:09",
-      "title": "元ジャンポケ斉藤被告 実刑判決",
+      "time": "12:10",
+      "title": "フアン氏復帰求める署名 16万人超",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602765?source=rss",
-      "publishedAt": "2026-11-16T02:09:34.000Z",
-      "xQuery": "元ジャンポケ斉藤被告 実刑判決"
+      "url": "https://news.yahoo.co.jp/pickup/6602778?source=rss",
+      "publishedAt": "2026-11-16T03:10:41.000Z",
+      "xQuery": "フアン氏復帰求める署名 16万人超"
     },
     {
-      "time": "11:56",
-      "title": "「国道にウマ」札幌で通報相次ぐ",
+      "time": "13:30",
+      "title": "分譲マンション賃料過去最高 東京",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602773?source=rss",
-      "publishedAt": "2026-11-16T02:56:33.000Z",
-      "xQuery": "「国道にウマ」札幌で通報相次ぐ"
+      "url": "https://news.yahoo.co.jp/pickup/6602785?source=rss",
+      "publishedAt": "2026-11-16T04:30:28.000Z",
+      "xQuery": "分譲マンション賃料過去最高 東京"
     },
     {
-      "time": "13:15",
-      "title": "小学生兄弟 暗算「珠聖10段」合格",
+      "time": "13:54",
+      "title": "斉藤被告 判決言い渡し静かに聞く",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602782?source=rss",
-      "publishedAt": "2026-11-16T04:15:22.000Z",
-      "xQuery": "小学生兄弟 暗算「珠聖10段」合格"
+      "url": "https://news.yahoo.co.jp/pickup/6602788?source=rss",
+      "publishedAt": "2026-11-16T04:54:20.000Z",
+      "xQuery": "斉藤被告 判決言い渡し静かに聞く"
     }
   ]
 };
