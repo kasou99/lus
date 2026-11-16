@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-16T03:15:28.024Z",
+  "updatedAt": "2026-11-16T04:14:19.258Z",
   "items": [
     {
       "time": "11:26",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "ドコモ「5G SA」でまた通信障害"
     },
     {
-      "time": "11:38",
-      "title": "日韓首脳 17日にフィリピンで会談",
+      "time": "12:52",
+      "title": "常磐道で車7台絡む事故 2人けが",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602766?source=rss",
-      "publishedAt": "2026-11-16T02:38:36.000Z",
-      "xQuery": "日韓首脳 17日にフィリピンで会談"
+      "url": "https://news.yahoo.co.jp/pickup/6602781?source=rss",
+      "publishedAt": "2026-11-16T03:52:10.000Z",
+      "xQuery": "常磐道で車7台絡む事故 2人けが"
     },
     {
-      "time": "10:44",
-      "title": "常磐道で車7台絡む事故 12人けが",
+      "time": "11:37",
+      "title": "神戸6歳死亡 叔父は起訴内容否認",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602763?source=rss",
-      "publishedAt": "2026-11-16T01:44:09.000Z",
-      "xQuery": "常磐道で車7台絡む事故 12人けが"
+      "url": "https://news.yahoo.co.jp/pickup/6602768?source=rss",
+      "publishedAt": "2026-11-16T02:37:50.000Z",
+      "xQuery": "神戸6歳死亡 叔父は起訴内容否認"
     },
     {
       "time": "11:09",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "元ジャンポケ斉藤被告 実刑判決"
     },
     {
-      "time": "09:42",
-      "title": "コンテナホテル8年で145店舗 背景",
+      "time": "11:56",
+      "title": "「国道にウマ」札幌で通報相次ぐ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602759?source=rss",
-      "publishedAt": "2026-11-16T00:42:07.000Z",
-      "xQuery": "コンテナホテル8年で145店舗 背景"
+      "url": "https://news.yahoo.co.jp/pickup/6602773?source=rss",
+      "publishedAt": "2026-11-16T02:56:33.000Z",
+      "xQuery": "「国道にウマ」札幌で通報相次ぐ"
     }
   ]
 };
