@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-11-16T22:10:03.615Z",
+  "updatedAt": "2026-11-16T22:35:35.269Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "07:00",
+        "title": "元工作機械エンジニアが「JIMTOF2026」で見た、2つの技術的潮流",
+        "source": "MONOist",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1PYU1VVlNKb2FrWnNuOVB4SmhEUFRwdTIwRmlzRFd2Q1VtVFZlM3lXcmljZlVKUXVOZk1sTTdIQ1NzMl95Wk9hTHVOVTJmbGUxamNtaHdablZTeFVUVUVxNDZqS2F1QllVTV9yQXZrcw?oc=5",
+        "publishedAt": "2026-11-16T22:00:00.000Z"
+      },
       {
         "time": "05:04",
         "title": "工作機械受注「年間2兆円」見通しの衝撃。JIMTOF2026後の設備投資サイクルは、日本株にどこまで追い風を吹かせるのか",
@@ -10,11 +17,11 @@
         "publishedAt": "2026-11-16T20:04:08.000Z"
       },
       {
-        "time": "07:45",
-        "title": "DMG森精機が進める工作機械部品へのAM活用、自社イベントで最新5軸機も展示",
-        "source": "MONOist",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5mekFicm9nSXAyZ3Yzdkw0aWljRTdCTGFXUlNrd1NfQ1k5SGJzS05BLU5GNG1ha2djYmlSSm5vNkQ3bXBEejFGcjR0a25Vc0N4ZzM1dlhnM0R5Z09ybWFRN08ya2Q4R2NnM21WWGVIZw?oc=5",
-        "publishedAt": "2026-11-15T22:45:00.000Z"
+        "time": "05:00",
+        "title": "【特許】ヤマザキマザック、衝突したロボを適切に退避",
+        "source": "日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZTBPZ2RnU3BjZkc4UVBsOHo2UDNXQnB5N3RSOFNNMElPQjZDc0dBZ2JIQ0wySnc4eGxnN2RrR2tXdHp5SXdlUUQwZVJrc081RGRzbFhUbTNucVV3dkt3UjVtRllkTHhKS3N0dmI5M3RPR3llMHltN1NYS3owVFFfOE5RN0Vub1k?oc=5",
+        "publishedAt": "2026-11-16T20:00:00.000Z"
       },
       {
         "time": "15:14",
@@ -22,6 +29,20 @@
         "source": "BigGo ファイナンス",
         "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBMemtNRk16Q25HSXJWUjZXMzV4Mk1aT0NmRFQwTi0xSVhMRlZEMm9nOG9YbUhLeXVaTEhBVTg5Wm5ZX0EtNzhGb0lfc3ZYclVvVzJHOGxYUEV4dUNEbVJB?oc=5",
         "publishedAt": "2026-11-16T06:14:00.000Z"
+      },
+      {
+        "time": "05:00",
+        "title": "古いPCで思い出す「消しゴムキー」、それがマシに思える恐怖のキーボードとは",
+        "source": "日経クロステック Active",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOR3NBcWxZT2FwVFVRbF9fZ3NfWmk0aUF1UnF2bGQ4YjY3RUYzQW5TRjB6SGxyallCeDVyNGdleTNodWxCUk5GMlZBUXR4eDktdWhaX2I2RDd4aDVkWHJMT0t0Ry1MWVdORlFTc0VSZzJ5U0xib0EzY1lleGFCZjNWQUdfOVlqaUR1bmcwRw?oc=5",
+        "publishedAt": "2026-11-16T20:00:00.000Z"
+      },
+      {
+        "time": "07:45",
+        "title": "DMG森精機が進める工作機械部品へのAM活用、自社イベントで最新5軸機も展示",
+        "source": "MONOist",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5mekFicm9nSXAyZ3Yzdkw0aWljRTdCTGFXUlNrd1NfQ1k5SGJzS05BLU5GNG1ha2djYmlSSm5vNkQ3bXBEejFGcjR0a25Vc0N4ZzM1dlhnM0R5Z09ybWFRN08ya2Q4R2NnM21WWGVIZw?oc=5",
+        "publishedAt": "2026-11-15T22:45:00.000Z"
       },
       {
         "time": "08:36",
@@ -36,27 +57,6 @@
         "source": "環境ビジネスオンライン",
         "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBEY1dKSHZ3RjNUUkw1R1NjbmVVN1N4VS1Wbm5yd202TzdlSmJGZTJfbV9Qa2swR1gwRDhPVUs0UXprLUZJY0JORVUtTl8wN0lEbEY1bnh0SW9FTXZwQ0lab0ExUTR6RFR4Mnd3bk5wN1FRdWRscXAwZkJwR1U?oc=5",
         "publishedAt": "2026-11-16T00:25:06.000Z"
-      },
-      {
-        "time": "08:45",
-        "title": "設計／製造から工場運用へ、オートデスクが描く工場全体の最適化戦略（MONOist）",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAzalVTWnVOck5acDM2MzBaZmgtaS15LTlzZWhYaTg3NGJEOEtZdTg2TDJNU09EamV6TWN0dXNDMnhseHpkLTU0akJpWnhmNzk0V1FXc3BULTk4VzJlS1IwTHp0ejM5Zy1wYkhmMHJ5VTBVczF0a0NlUzhEZVFLekU?oc=5",
-        "publishedAt": "2026-11-15T23:45:16.000Z"
-      },
-      {
-        "time": "14:51",
-        "title": "工場・プラント向け｜漏洩・異音検知の新技術 導入ガイドと製品比較【2026年11月版】",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBzLXd3Qk1jRU9RMzAxNml4LTV2MXh4aDZfcWRhWUNTUjVJMVlPbU1RMEVadXdhUU1xMjZjdUNBTXVjaTZ3THlpcXBVWExuZTVkUTItckpTU1R0VVFvZC0wRU5zNGZ5UWlp?oc=5",
-        "publishedAt": "2026-11-16T05:51:16.000Z"
-      },
-      {
-        "time": "12:35",
-        "title": "アドバンテック、エッジAIやITS向けに10GbE対応レイヤー3産業用スイッチングハブを発表",
-        "source": "ASCII.jp",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1qQ0V3a1U4dDRJNzROazg2RE1RUUNPanQyeFlZa1k2dkJEOFo1WFBMNHM0YjR2STk3U0NsbWg0TDhsenNNc2N5Z0RMcno2T1BXeDF1NA?oc=5",
-        "publishedAt": "2026-11-16T03:35:39.000Z"
       }
     ],
     "worldHeadlines": [
