@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-16T13:53:21.485Z",
+  "updatedAt": "2026-11-16T14:25:27.935Z",
   "items": [
     {
       "time": "19:16",
@@ -10,14 +10,6 @@ window.LUS_X_NEWS = {
       "xQuery": "政府 19日の米中ロ首脳会談を注視"
     },
     {
-      "time": "22:20",
-      "title": "立憲 党職員への「退職勧奨」検討",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602838?source=rss",
-      "publishedAt": "2026-11-16T13:20:34.000Z",
-      "xQuery": "立憲 党職員への「退職勧奨」検討"
-    },
-    {
       "time": "21:49",
       "title": "中野区で女性が刺され死亡 男逮捕",
       "source": "Yahoo!ニュース",
@@ -26,12 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "中野区で女性が刺され死亡 男逮捕"
     },
     {
-      "time": "20:26",
-      "title": "3歳死亡 枚方市長「悔やまれる」",
+      "time": "22:39",
+      "title": "元モデル死亡 男は「自傷」と説明",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602828?source=rss",
-      "publishedAt": "2026-11-16T11:26:36.000Z",
-      "xQuery": "3歳死亡 枚方市長「悔やまれる」"
+      "url": "https://news.yahoo.co.jp/pickup/6602842?source=rss",
+      "publishedAt": "2026-11-16T13:39:59.000Z",
+      "xQuery": "元モデル死亡 男は「自傷」と説明"
+    },
+    {
+      "time": "22:09",
+      "title": "喫煙率なぜ地域差 北日本上位独占",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6602835?source=rss",
+      "publishedAt": "2026-11-16T13:09:02.000Z",
+      "xQuery": "喫煙率なぜ地域差 北日本上位独占"
     },
     {
       "time": "22:31",
