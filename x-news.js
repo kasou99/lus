@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-16T21:35:42.876Z",
+  "updatedAt": "2026-11-16T22:10:04.447Z",
   "items": [
     {
       "time": "06:21",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "トランプ大統領 アジア歴訪へ出発"
     },
     {
-      "time": "23:25",
-      "title": "3カ国会談巡り中国「戦勝国」強調",
+      "time": "06:54",
+      "title": "NY株大幅反落 ハイテク株に売り",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602847?source=rss",
-      "publishedAt": "2026-11-16T14:25:07.000Z",
-      "xQuery": "3カ国会談巡り中国「戦勝国」強調"
+      "url": "https://news.yahoo.co.jp/pickup/6602852?source=rss",
+      "publishedAt": "2026-11-16T21:54:31.000Z",
+      "xQuery": "NY株大幅反落 ハイテク株に売り"
     },
     {
       "time": "23:51",
