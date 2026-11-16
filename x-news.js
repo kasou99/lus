@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-16T23:09:20.960Z",
+  "updatedAt": "2026-11-16T23:35:28.011Z",
   "items": [
     {
-      "time": "06:21",
-      "title": "トランプ大統領 アジア歴訪へ出発",
+      "time": "08:05",
+      "title": "日露会談「否定しない」露報道官",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602850?source=rss",
-      "publishedAt": "2026-11-16T21:21:32.000Z",
-      "xQuery": "トランプ大統領 アジア歴訪へ出発"
+      "url": "https://news.yahoo.co.jp/pickup/6602860?source=rss",
+      "publishedAt": "2026-11-16T23:05:40.000Z",
+      "xQuery": "日露会談「否定しない」露報道官"
     },
     {
       "time": "06:54",

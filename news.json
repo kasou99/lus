@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T23:09:20.102Z",
+  "updatedAt": "2026-11-16T23:35:26.662Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,13 +31,6 @@
         "publishedAt": "2026-11-16T06:14:00.000Z"
       },
       {
-        "time": "05:00",
-        "title": "古いPCで思い出す「消しゴムキー」、それがマシに思える恐怖のキーボードとは",
-        "source": "日経クロステック Active",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOR3NBcWxZT2FwVFVRbF9fZ3NfWmk0aUF1UnF2bGQ4YjY3RUYzQW5TRjB6SGxyallCeDVyNGdleTNodWxCUk5GMlZBUXR4eDktdWhaX2I2RDd4aDVkWHJMT0t0Ry1MWVdORlFTc0VSZzJ5U0xib0EzY1lleGFCZjNWQUdfOVlqaUR1bmcwRw?oc=5",
-        "publishedAt": "2026-11-16T20:00:00.000Z"
-      },
-      {
         "time": "08:36",
         "title": "東かがわ市 小海地区１号制御盤移設 年度内に設計委託",
         "source": "建通新聞",
@@ -57,6 +50,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAzalVTWnVOck5acDM2MzBaZmgtaS15LTlzZWhYaTg3NGJEOEtZdTg2TDJNU09EamV6TWN0dXNDMnhseHpkLTU0akJpWnhmNzk0V1FXc3BULTk4VzJlS1IwTHp0ejM5Zy1wYkhmMHJ5VTBVczF0a0NlUzhEZVFLekU?oc=5",
         "publishedAt": "2026-11-15T23:45:16.000Z"
+      },
+      {
+        "time": "14:51",
+        "title": "工場・プラント向け｜漏洩・異音検知の新技術 導入ガイドと製品比較【2026年11月版】",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBzLXd3Qk1jRU9RMzAxNml4LTV2MXh4aDZfcWRhWUNTUjVJMVlPbU1RMEVadXdhUU1xMjZjdUNBTXVjaTZ3THlpcXBVWExuZTVkUTItckpTU1R0VVFvZC0wRU5zNGZ5UWlp?oc=5",
+        "publishedAt": "2026-11-16T05:51:16.000Z"
       }
     ],
     "worldHeadlines": [
@@ -82,6 +82,13 @@
         "publishedAt": "2026-11-16T14:25:07.000Z"
       },
       {
+        "time": "08:08",
+        "title": "米大統領 フアン氏復帰検討に理解",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6602861?source=rss",
+        "publishedAt": "2026-11-16T23:08:34.000Z"
+      },
+      {
         "time": "07:20",
         "title": "エストニア ロシアとの国境閉鎖へ",
         "source": "Yahoo!ニュース",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6602800?source=rss",
         "publishedAt": "2026-11-16T06:55:34.000Z"
-      },
-      {
-        "time": "16:38",
-        "title": "AIカンニングに韓国政府が危機感",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602806?source=rss",
-        "publishedAt": "2026-11-16T07:38:58.000Z"
       }
     ],
     "economyHeadlines": [
@@ -163,6 +163,13 @@
         "publishedAt": "2026-11-16T14:51:54.000Z"
       },
       {
+        "time": "08:30",
+        "title": "3歳児虐待疑い 今年1月に児相把握",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6602862?source=rss",
+        "publishedAt": "2026-11-16T23:30:17.000Z"
+      },
+      {
         "time": "11:09",
         "title": "元ジャンポケ斉藤被告 実刑判決",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6602849?source=rss",
         "publishedAt": "2026-11-16T21:11:11.000Z"
-      },
-      {
-        "time": "22:39",
-        "title": "元モデル死亡 男は「自傷」と説明",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602842?source=rss",
-        "publishedAt": "2026-11-16T13:39:59.000Z"
       }
     ],
     "subsidyHeadlines": [
