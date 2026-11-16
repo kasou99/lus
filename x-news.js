@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-16T02:17:52.996Z",
+  "updatedAt": "2026-11-16T02:36:19.461Z",
   "items": [
     {
-      "time": "11:06",
-      "title": "NTTドコモ 全国で通信障害発生",
+      "time": "11:26",
+      "title": "ドコモ「5G SA」でまた通信障害",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602764?source=rss",
-      "publishedAt": "2026-11-16T02:06:35.000Z",
-      "xQuery": "NTTドコモ 全国で通信障害発生"
+      "url": "https://news.yahoo.co.jp/pickup/6602767?source=rss",
+      "publishedAt": "2026-11-16T02:26:41.000Z",
+      "xQuery": "ドコモ「5G SA」でまた通信障害"
     },
     {
       "time": "08:22",
@@ -16,6 +16,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6602753?source=rss",
       "publishedAt": "2026-11-15T23:22:11.000Z",
       "xQuery": "福岡市長選 再選挙が確実に"
+    },
+    {
+      "time": "09:17",
+      "title": "エボラ アフリカ中部で今なお猛威",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6602757?source=rss",
+      "publishedAt": "2026-11-16T00:17:16.000Z",
+      "xQuery": "エボラ アフリカ中部で今なお猛威"
     },
     {
       "time": "10:44",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6602765?source=rss",
       "publishedAt": "2026-11-16T02:09:34.000Z",
       "xQuery": "元ジャンポケ斉藤被告 実刑判決"
-    },
-    {
-      "time": "09:42",
-      "title": "コンテナホテル8年で145店舗 背景",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602759?source=rss",
-      "publishedAt": "2026-11-16T00:42:07.000Z",
-      "xQuery": "コンテナホテル8年で145店舗 背景"
     }
   ]
 };
