@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-16T12:49:55.870Z",
+  "updatedAt": "2026-11-16T13:27:24.344Z",
   "items": [
     {
       "time": "19:16",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "政府 19日の米中ロ首脳会談を注視"
     },
     {
-      "time": "18:40",
-      "title": "マンション短期売買 課税強化検討",
+      "time": "22:20",
+      "title": "立憲 党職員への「退職勧奨」検討",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602817?source=rss",
-      "publishedAt": "2026-11-16T09:40:24.000Z",
-      "xQuery": "マンション短期売買 課税強化検討"
+      "url": "https://news.yahoo.co.jp/pickup/6602838?source=rss",
+      "publishedAt": "2026-11-16T13:20:34.000Z",
+      "xQuery": "立憲 党職員への「退職勧奨」検討"
     },
     {
       "time": "20:00",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "コカイン摘発 過去最多更新ペース"
     },
     {
-      "time": "21:27",
-      "title": "中野区で女性が刺され重体 男逮捕",
+      "time": "21:49",
+      "title": "中野区で女性が刺され死亡 男逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602836?source=rss",
-      "publishedAt": "2026-11-16T12:27:57.000Z",
-      "xQuery": "中野区で女性が刺され重体 男逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6602837?source=rss",
+      "publishedAt": "2026-11-16T12:49:25.000Z",
+      "xQuery": "中野区で女性が刺され死亡 男逮捕"
     },
     {
       "time": "20:26",
