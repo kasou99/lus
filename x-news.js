@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-16T04:14:19.258Z",
+  "updatedAt": "2026-11-16T04:45:35.588Z",
   "items": [
     {
       "time": "11:26",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "常磐道で車7台絡む事故 2人けが"
     },
     {
-      "time": "11:37",
-      "title": "神戸6歳死亡 叔父は起訴内容否認",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602768?source=rss",
-      "publishedAt": "2026-11-16T02:37:50.000Z",
-      "xQuery": "神戸6歳死亡 叔父は起訴内容否認"
-    },
-    {
       "time": "11:09",
       "title": "元ジャンポケ斉藤被告 実刑判決",
       "source": "Yahoo!ニュース",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6602773?source=rss",
       "publishedAt": "2026-11-16T02:56:33.000Z",
       "xQuery": "「国道にウマ」札幌で通報相次ぐ"
+    },
+    {
+      "time": "13:15",
+      "title": "小学生兄弟 暗算「珠聖10段」合格",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6602782?source=rss",
+      "publishedAt": "2026-11-16T04:15:22.000Z",
+      "xQuery": "小学生兄弟 暗算「珠聖10段」合格"
     }
   ]
 };

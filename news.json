@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T04:14:18.523Z",
+  "updatedAt": "2026-11-16T04:45:35.110Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -15,6 +15,13 @@
         "source": "建通新聞",
         "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMWRvazg3SEtSZG5Qa1BsNXdxS1dSWXQ2cEdEY1ZVdGlxUTl1MVg0ZE91LU9Zc3lsNHVGSEpNTExOdklBSmNIQTcwcUd6V3M1bFZ1M3ZCanNESUVTa1Y5RW00NUp5WFQ5bFE2RmdhVVpzdTRMQmdPSmFaNTRQQlpqQQ?oc=5",
         "publishedAt": "2026-11-15T23:36:00.000Z"
+      },
+      {
+        "time": "08:45",
+        "title": "設計／製造から工場運用へ、オートデスクが描く工場全体の最適化戦略（MONOist）",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAzalVTWnVOck5acDM2MzBaZmgtaS15LTlzZWhYaTg3NGJEOEtZdTg2TDJNU09EamV6TWN0dXNDMnhseHpkLTU0akJpWnhmNzk0V1FXc3BULTk4VzJlS1IwTHp0ejM5Zy1wYkhmMHJ5VTBVczF0a0NlUzhEZVFLekU?oc=5",
+        "publishedAt": "2026-11-15T23:45:16.000Z"
       },
       {
         "time": "09:22",
@@ -50,13 +57,6 @@
         "source": "電波新聞デジタル",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9hN2JTTEN0a2V6M0xJTVMwUW1IOWRmV0VSRzQtN2JKRTIzVE5XTUExLWNjanNJMVhhTTBFRDRiWUZKRnJkMUVNSmRCVUpUZ055TEE?oc=5",
         "publishedAt": "2026-11-15T15:21:35.000Z"
-      },
-      {
-        "time": "17:33",
-        "title": "元バイク屋が、NC旋盤のシミュレーター作ってみた！【プロ版】Gコード練習・検証用に",
-        "source": "YouTube",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE51VkNsZFF3RE9UMEcxdkdjMC1hM2N4V0ZUUGhLbnY4aUVwYkR2WHJ6bjJPNUtVRnAzUHk4ZHlKZkxUX21fbkoxeS1lS09jNi1qY3hjWDE5RUtUU0tY?oc=5",
-        "publishedAt": "2026-11-15T08:33:16.000Z"
       }
     ],
     "worldHeadlines": [
@@ -82,11 +82,11 @@
         "publishedAt": "2026-11-15T22:20:16.000Z"
       },
       {
-        "time": "19:26",
-        "title": "仏のデモおさまらず みえぬ打開策",
+        "time": "13:35",
+        "title": "中国スパイ疑惑事件 諜報の傾向は",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602707?source=rss",
-        "publishedAt": "2026-11-15T10:26:37.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6602777?source=rss",
+        "publishedAt": "2026-11-16T04:35:00.000Z"
       },
       {
         "time": "17:56",
@@ -126,11 +126,11 @@
         "publishedAt": "2026-11-16T03:10:41.000Z"
       },
       {
-        "time": "07:47",
-        "title": "JSR売却 差益9000億円超の見込み",
+        "time": "13:30",
+        "title": "分譲マンション賃料過去最高 東京",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602747?source=rss",
-        "publishedAt": "2026-11-15T22:47:18.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6602785?source=rss",
+        "publishedAt": "2026-11-16T04:30:28.000Z"
       },
       {
         "time": "09:25",
@@ -140,11 +140,11 @@
         "publishedAt": "2026-11-16T00:25:56.000Z"
       },
       {
-        "time": "09:42",
-        "title": "コンテナホテル8年で145店舗 背景",
+        "time": "13:34",
+        "title": "PS5の世界出荷1億台 成功の背景",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602759?source=rss",
-        "publishedAt": "2026-11-16T00:42:07.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6602776?source=rss",
+        "publishedAt": "2026-11-16T04:34:07.000Z"
       }
     ],
     "localHeadlines": [
@@ -184,11 +184,11 @@
         "publishedAt": "2026-11-15T21:14:12.000Z"
       },
       {
-        "time": "22:56",
-        "title": "走行中の車から転落 女性が重傷",
+        "time": "11:56",
+        "title": "「国道にウマ」札幌で通報相次ぐ",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602732?source=rss",
-        "publishedAt": "2026-11-15T13:56:05.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6602773?source=rss",
+        "publishedAt": "2026-11-16T02:56:33.000Z"
       }
     ],
     "subsidyHeadlines": [
