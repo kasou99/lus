@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-16T21:10:05.119Z",
+  "updatedAt": "2026-11-16T21:35:42.876Z",
   "items": [
+    {
+      "time": "06:21",
+      "title": "トランプ大統領 アジア歴訪へ出発",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6602850?source=rss",
+      "publishedAt": "2026-11-16T21:21:32.000Z",
+      "xQuery": "トランプ大統領 アジア歴訪へ出発"
+    },
     {
       "time": "23:25",
       "title": "3カ国会談巡り中国「戦勝国」強調",
@@ -8,14 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6602847?source=rss",
       "publishedAt": "2026-11-16T14:25:07.000Z",
       "xQuery": "3カ国会談巡り中国「戦勝国」強調"
-    },
-    {
-      "time": "23:00",
-      "title": "はやぶさ2に不具合 目的地を変更",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602844?source=rss",
-      "publishedAt": "2026-11-16T14:00:45.000Z",
-      "xQuery": "はやぶさ2に不具合 目的地を変更"
     },
     {
       "time": "23:51",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "中野死亡 男は女性が勤める店の客"
     },
     {
-      "time": "22:39",
-      "title": "元モデル死亡 男は「自傷」と説明",
+      "time": "06:11",
+      "title": "元eggモデル殺害 過去に警察沙汰",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602842?source=rss",
-      "publishedAt": "2026-11-16T13:39:59.000Z",
-      "xQuery": "元モデル死亡 男は「自傷」と説明"
+      "url": "https://news.yahoo.co.jp/pickup/6602849?source=rss",
+      "publishedAt": "2026-11-16T21:11:11.000Z",
+      "xQuery": "元eggモデル殺害 過去に警察沙汰"
     },
     {
       "time": "22:31",
