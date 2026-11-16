@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T07:19:09.915Z",
+  "updatedAt": "2026-11-16T07:50:42.820Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -52,11 +52,11 @@
         "publishedAt": "2026-11-15T20:00:00.000Z"
       },
       {
-        "time": "12:35",
-        "title": "アドバンテック、エッジAIやITS向けに10GbE対応レイヤー3産業用スイッチングハブを発表",
-        "source": "ASCII.jp",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1qQ0V3a1U4dDRJNzROazg2RE1RUUNPanQyeFlZa1k2dkJEOFo1WFBMNHM0YjR2STk3U0NsbWg0TDhsenNNc2N5Z0RMcno2T1BXeDF1NA?oc=5",
-        "publishedAt": "2026-11-16T03:35:39.000Z"
+        "time": "14:51",
+        "title": "工場・プラント向け｜漏洩・異音検知の新技術 導入ガイドと製品比較【2026年11月版】",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBzLXd3Qk1jRU9RMzAxNml4LTV2MXh4aDZfcWRhWUNTUjVJMVlPbU1RMEVadXdhUU1xMjZjdUNBTXVjaTZ3THlpcXBVWExuZTVkUTItckpTU1R0VVFvZC0wRU5zNGZ5UWlp?oc=5",
+        "publishedAt": "2026-11-16T05:51:16.000Z"
       }
     ],
     "worldHeadlines": [
@@ -66,13 +66,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6602660?source=rss",
         "publishedAt": "2026-11-15T04:19:08.000Z"
-      },
-      {
-        "time": "12:40",
-        "title": "米の「中国脅威論」どう生まれた",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602656?source=rss",
-        "publishedAt": "2026-11-15T03:40:02.000Z"
       },
       {
         "time": "07:20",
@@ -87,6 +80,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6602800?source=rss",
         "publishedAt": "2026-11-16T06:55:34.000Z"
+      },
+      {
+        "time": "16:38",
+        "title": "AIカンニングに韓国政府が危機感",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6602806?source=rss",
+        "publishedAt": "2026-11-16T07:38:58.000Z"
       },
       {
         "time": "17:56",
@@ -105,18 +105,18 @@
     ],
     "economyHeadlines": [
       {
+        "time": "16:24",
+        "title": "日経平均は反落 AI株が下げ主導",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6602802?source=rss",
+        "publishedAt": "2026-11-16T07:24:08.000Z"
+      },
+      {
         "time": "09:24",
         "title": "7-9月期実質GDP 4期ぶりマイナス",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6602758?source=rss",
         "publishedAt": "2026-11-16T00:24:20.000Z"
-      },
-      {
-        "time": "13:59",
-        "title": "AI株下げ 日経平均一時6万円割れ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602786?source=rss",
-        "publishedAt": "2026-11-16T04:59:06.000Z"
       },
       {
         "time": "07:28",
@@ -184,11 +184,11 @@
         "publishedAt": "2026-11-16T04:54:20.000Z"
       },
       {
-        "time": "15:01",
-        "title": "元eggモデルを殺害疑い 男逮捕",
+        "time": "16:46",
+        "title": "祖父母ら3人殺害事件 死刑を求刑",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602793?source=rss",
-        "publishedAt": "2026-11-16T06:01:57.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6602805?source=rss",
+        "publishedAt": "2026-11-16T07:46:01.000Z"
       }
     ],
     "subsidyHeadlines": [

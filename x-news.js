@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-16T07:19:10.914Z",
+  "updatedAt": "2026-11-16T07:50:43.869Z",
   "items": [
     {
-      "time": "12:29",
-      "title": "今週後半ほど気温低く 冬の空気に",
+      "time": "16:24",
+      "title": "日経平均は反落 AI株が下げ主導",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602780?source=rss",
-      "publishedAt": "2026-11-16T03:29:44.000Z",
-      "xQuery": "今週後半ほど気温低く 冬の空気に"
+      "url": "https://news.yahoo.co.jp/pickup/6602802?source=rss",
+      "publishedAt": "2026-11-16T07:24:08.000Z",
+      "xQuery": "日経平均は反落 AI株が下げ主導"
     },
     {
       "time": "15:48",
