@@ -1,21 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-16T10:14:25.274Z",
+  "updatedAt": "2026-11-16T10:38:14.182Z",
   "items": [
     {
-      "time": "17:33",
-      "title": "文科相のパーティー 会費は9万円",
+      "time": "18:40",
+      "title": "マンション短期売買 課税強化検討",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602811?source=rss",
-      "publishedAt": "2026-11-16T08:33:57.000Z",
-      "xQuery": "文科相のパーティー 会費は9万円"
-    },
-    {
-      "time": "17:04",
-      "title": "ドコモ「5G SA」で障害 完全復旧",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602807?source=rss",
-      "publishedAt": "2026-11-16T08:04:49.000Z",
-      "xQuery": "ドコモ「5G SA」で障害 完全復旧"
+      "url": "https://news.yahoo.co.jp/pickup/6602817?source=rss",
+      "publishedAt": "2026-11-16T09:40:24.000Z",
+      "xQuery": "マンション短期売買 課税強化検討"
     },
     {
       "time": "18:17",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6602815?source=rss",
       "publishedAt": "2026-11-16T08:55:28.000Z",
       "xQuery": "どう思う 夫婦のセパレート帰省"
+    },
+    {
+      "time": "17:53",
+      "title": "X-GUNさがね・まさひろ氏市議に",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6602808?source=rss",
+      "publishedAt": "2026-11-16T08:53:49.000Z",
+      "xQuery": "X-GUNさがね・まさひろ氏市議に"
     }
   ]
 };
