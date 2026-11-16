@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-16T01:41:27.592Z",
+  "updatedAt": "2026-11-16T02:17:52.996Z",
   "items": [
     {
-      "time": "09:24",
-      "title": "7-9月期実質GDP 4期ぶりマイナス",
+      "time": "11:06",
+      "title": "NTTドコモ 全国で通信障害発生",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602758?source=rss",
-      "publishedAt": "2026-11-16T00:24:20.000Z",
-      "xQuery": "7-9月期実質GDP 4期ぶりマイナス"
+      "url": "https://news.yahoo.co.jp/pickup/6602764?source=rss",
+      "publishedAt": "2026-11-16T02:06:35.000Z",
+      "xQuery": "NTTドコモ 全国で通信障害発生"
     },
     {
       "time": "08:22",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "福岡市長選 再選挙が確実に"
     },
     {
-      "time": "07:28",
-      "title": "フアン氏がNVIDIA復帰協議 報道",
+      "time": "10:44",
+      "title": "常磐道で車7台絡む事故 12人けが",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602744?source=rss",
-      "publishedAt": "2026-11-15T22:28:14.000Z",
-      "xQuery": "フアン氏がNVIDIA復帰協議 報道"
+      "url": "https://news.yahoo.co.jp/pickup/6602763?source=rss",
+      "publishedAt": "2026-11-16T01:44:09.000Z",
+      "xQuery": "常磐道で車7台絡む事故 12人けが"
     },
     {
-      "time": "10:33",
-      "title": "常磐道 車7台事故で10人以上けが",
+      "time": "11:09",
+      "title": "元ジャンポケ斉藤被告 実刑判決",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602762?source=rss",
-      "publishedAt": "2026-11-16T01:33:14.000Z",
-      "xQuery": "常磐道 車7台事故で10人以上けが"
+      "url": "https://news.yahoo.co.jp/pickup/6602765?source=rss",
+      "publishedAt": "2026-11-16T02:09:34.000Z",
+      "xQuery": "元ジャンポケ斉藤被告 実刑判決"
     },
     {
       "time": "09:42",

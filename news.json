@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T01:41:27.000Z",
+  "updatedAt": "2026-11-16T02:17:52.256Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -10,11 +10,11 @@
         "publishedAt": "2026-11-15T22:45:00.000Z"
       },
       {
-        "time": "08:45",
-        "title": "設計／製造から工場運用へ、オートデスクが描く工場全体の最適化戦略（MONOist）",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAzalVTWnVOck5acDM2MzBaZmgtaS15LTlzZWhYaTg3NGJEOEtZdTg2TDJNU09EamV6TWN0dXNDMnhseHpkLTU0akJpWnhmNzk0V1FXc3BULTk4VzJlS1IwTHp0ejM5Zy1wYkhmMHJ5VTBVczF0a0NlUzhEZVFLekU?oc=5",
-        "publishedAt": "2026-11-15T23:45:16.000Z"
+        "time": "08:36",
+        "title": "東かがわ市 小海地区１号制御盤移設 年度内に設計委託",
+        "source": "建通新聞",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMWRvazg3SEtSZG5Qa1BsNXdxS1dSWXQ2cEdEY1ZVdGlxUTl1MVg0ZE91LU9Zc3lsNHVGSEpNTExOdklBSmNIQTcwcUd6V3M1bFZ1M3ZCanNESUVTa1Y5RW00NUp5WFQ5bFE2RmdhVVpzdTRMQmdPSmFaNTRQQlpqQQ?oc=5",
+        "publishedAt": "2026-11-15T23:36:00.000Z"
       },
       {
         "time": "09:22",
@@ -22,6 +22,13 @@
         "source": "環境ビジネスオンライン",
         "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBEY1dKSHZ3RjNUUkw1R1NjbmVVN1N4VS1Wbm5yd202TzdlSmJGZTJfbV9Qa2swR1gwRDhPVUs0UXprLUZJY0JORVUtTl8wN0lEbEY1bnh0SW9FTXZwQ0lab0ExUTR6RFR4Mnd3bk5wN1FRdWRscXAwZkJwR1U?oc=5",
         "publishedAt": "2026-11-16T00:22:30.000Z"
+      },
+      {
+        "time": "05:00",
+        "title": "関東精機、1台で軸の熱変位制御 液温調整の高付加価値機",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8ySTZZWXpRZnFZVTgxNWV0TlZvbi15NTZYLUhpeHBabEJZZEpndlZWRk1XN25qV1pzbXhxcEZSaFFQSWlwd2hoSlc0ZzZtcHhfZzdoMFd0bVQ?oc=5",
+        "publishedAt": "2026-11-15T20:00:00.000Z"
       },
       {
         "time": "15:30",
@@ -38,25 +45,18 @@
         "publishedAt": "2026-11-15T20:00:00.000Z"
       },
       {
-        "time": "05:03",
-        "title": "アナログ・デバイセズ、生産現場のDXを後押しJIMTOFで産業機器向けソリューションを提案",
-        "source": "電波新聞デジタル",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBtbUdLVTE1YnRCX28xeGxiYzh4UFdJS2h5Y0VXN2VNUzFxQ3FoeFIyN0RwMUFqVnV5Qk1pb1g5aUdfZ25Xa3FBQks0U1p6aG9CQWc?oc=5",
-        "publishedAt": "2026-11-15T20:03:43.000Z"
-      },
-      {
-        "time": "17:33",
-        "title": "元バイク屋が、NC旋盤のシミュレーター作ってみた！【プロ版】Gコード練習・検証用に",
-        "source": "YouTube",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE51VkNsZFF3RE9UMEcxdkdjMC1hM2N4V0ZUUGhLbnY4aUVwYkR2WHJ6bjJPNUtVRnAzUHk4ZHlKZkxUX21fbkoxeS1lS09jNi1qY3hjWDE5RUtUU0tY?oc=5",
-        "publishedAt": "2026-11-15T08:33:16.000Z"
-      },
-      {
         "time": "00:21",
         "title": "シチズンの26年4～9月期、大幅な営業増益 時計・工作機械がけん引 通期予想は上方修正",
         "source": "電波新聞デジタル",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9hN2JTTEN0a2V6M0xJTVMwUW1IOWRmV0VSRzQtN2JKRTIzVE5XTUExLWNjanNJMVhhTTBFRDRiWUZKRnJkMUVNSmRCVUpUZ055TEE?oc=5",
         "publishedAt": "2026-11-15T15:21:35.000Z"
+      },
+      {
+        "time": "12:45",
+        "title": "京都・上七軒歌舞練場で秋の公演 大規模修繕の支援呼びかけ",
+        "source": "Infoseek",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1nbHYtYnFoTHpWQjg5VDZMVFVyTk13aV9Mc21Xcml4WDllRGtnMWFLOE1Fd2xDRW9lQWdET3lxNFNjak1oQkY4M1F1Y1pKbldxZDJlemdIWHpFbzlqZmlfNjYzSVY5QjVaWC14VGpkOFEzejdoSVVodE45Q3N6N2fSAX9BVV95cUxNZ2x2LWJxaEx6VkI4OVQ2TFRVck5Nd2lfTHNtV3JpeFg5ZURrZzFhSzhNRXdsQ0VvZUFnRE95cTRTY2pNaEJGODNRdWNaSm5XcWQyZXpnSFh6RW85amZpXzY2M0lWOUI1WlgteFRqZDhRM3o3aElVaHROOUNzejdn?oc=5",
+        "publishedAt": "2026-11-15T03:45:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "11:09",
+        "title": "元ジャンポケ斉藤被告 実刑判決",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6602765?source=rss",
+        "publishedAt": "2026-11-16T02:09:34.000Z"
+      },
+      {
         "time": "08:22",
         "title": "福岡市長選 再選挙が確実に",
         "source": "Yahoo!ニュース",
@@ -156,11 +163,11 @@
         "publishedAt": "2026-11-15T23:22:11.000Z"
       },
       {
-        "time": "10:33",
-        "title": "常磐道 車7台事故で10人以上けが",
+        "time": "10:44",
+        "title": "常磐道で車7台絡む事故 12人けが",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602762?source=rss",
-        "publishedAt": "2026-11-16T01:33:14.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6602763?source=rss",
+        "publishedAt": "2026-11-16T01:44:09.000Z"
       },
       {
         "time": "07:19",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6602732?source=rss",
         "publishedAt": "2026-11-15T13:56:05.000Z"
-      },
-      {
-        "time": "07:18",
-        "title": "ラヴ上等「あっすん」容疑者逮捕",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602608?source=rss",
-        "publishedAt": "2026-11-14T22:18:13.000Z"
       }
     ],
     "subsidyHeadlines": [
