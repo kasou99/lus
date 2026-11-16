@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-16T12:21:54.909Z",
+  "updatedAt": "2026-11-16T12:49:55.870Z",
   "items": [
+    {
+      "time": "19:16",
+      "title": "政府 19日の米中ロ首脳会談を注視",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6602819?source=rss",
+      "publishedAt": "2026-11-16T10:16:28.000Z",
+      "xQuery": "政府 19日の米中ロ首脳会談を注視"
+    },
     {
       "time": "18:40",
       "title": "マンション短期売買 課税強化検討",
@@ -18,20 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "コカイン摘発 過去最多更新ペース"
     },
     {
-      "time": "18:17",
-      "title": "タイムズカーの会員数 1.4万人減",
+      "time": "21:27",
+      "title": "中野区で女性が刺され重体 男逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602816?source=rss",
-      "publishedAt": "2026-11-16T09:17:39.000Z",
-      "xQuery": "タイムズカーの会員数 1.4万人減"
-    },
-    {
-      "time": "20:42",
-      "title": "刺されたか 中野区で女性が重体",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602829?source=rss",
-      "publishedAt": "2026-11-16T11:42:18.000Z",
-      "xQuery": "刺されたか 中野区で女性が重体"
+      "url": "https://news.yahoo.co.jp/pickup/6602836?source=rss",
+      "publishedAt": "2026-11-16T12:27:57.000Z",
+      "xQuery": "中野区で女性が刺され重体 男逮捕"
     },
     {
       "time": "20:26",
