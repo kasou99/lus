@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-16T07:50:43.869Z",
+  "updatedAt": "2026-11-16T08:28:45.742Z",
   "items": [
+    {
+      "time": "17:04",
+      "title": "ドコモ「5G SA」で障害 完全復旧",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6602807?source=rss",
+      "publishedAt": "2026-11-16T08:04:49.000Z",
+      "xQuery": "ドコモ「5G SA」で障害 完全復旧"
+    },
     {
       "time": "16:24",
       "title": "日経平均は反落 AI株が下げ主導",
@@ -16,14 +24,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6602799?source=rss",
       "publishedAt": "2026-11-16T06:48:42.000Z",
       "xQuery": "福岡市長選が再選挙へ 憤る市民も"
-    },
-    {
-      "time": "15:55",
-      "title": "中国スパイ 諜報の傾向とパターン",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602800?source=rss",
-      "publishedAt": "2026-11-16T06:55:34.000Z",
-      "xQuery": "中国スパイ 諜報の傾向とパターン"
     },
     {
       "time": "15:01",

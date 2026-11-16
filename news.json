@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T07:50:42.820Z",
+  "updatedAt": "2026-11-16T08:28:44.720Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,18 +31,18 @@
         "publishedAt": "2026-11-15T23:45:16.000Z"
       },
       {
-        "time": "09:25",
-        "title": "竹中、2工場に補助金活用し太陽光525kW導入 CO2を年間212t削減",
-        "source": "環境ビジネスオンライン",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBEY1dKSHZ3RjNUUkw1R1NjbmVVN1N4VS1Wbm5yd202TzdlSmJGZTJfbV9Qa2swR1gwRDhPVUs0UXprLUZJY0JORVUtTl8wN0lEbEY1bnh0SW9FTXZwQ0lab0ExUTR6RFR4Mnd3bk5wN1FRdWRscXAwZkJwR1U?oc=5",
-        "publishedAt": "2026-11-16T00:25:06.000Z"
-      },
-      {
         "time": "05:00",
         "title": "関東精機、1台で軸の熱変位制御 液温調整の高付加価値機",
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8ySTZZWXpRZnFZVTgxNWV0TlZvbi15NTZYLUhpeHBabEJZZEpndlZWRk1XN25qV1pzbXhxcEZSaFFQSWlwd2hoSlc0ZzZtcHhfZzdoMFd0bVQ?oc=5",
         "publishedAt": "2026-11-15T20:00:00.000Z"
+      },
+      {
+        "time": "09:25",
+        "title": "竹中、2工場に補助金活用し太陽光525kW導入 CO2を年間212t削減",
+        "source": "環境ビジネスオンライン",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBEY1dKSHZ3RjNUUkw1R1NjbmVVN1N4VS1Wbm5yd202TzdlSmJGZTJfbV9Qa2swR1gwRDhPVUs0UXprLUZJY0JORVUtTl8wN0lEbEY1bnh0SW9FTXZwQ0lab0ExUTR6RFR4Mnd3bk5wN1FRdWRscXAwZkJwR1U?oc=5",
+        "publishedAt": "2026-11-16T00:25:06.000Z"
       },
       {
         "time": "05:00",
