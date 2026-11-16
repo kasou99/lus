@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-16T22:35:35.875Z",
+  "updatedAt": "2026-11-16T23:09:20.960Z",
   "items": [
     {
       "time": "06:21",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "NY株大幅反落 ハイテク株に売り"
     },
     {
-      "time": "23:51",
-      "title": "中野死亡 男は女性が勤める店の客",
+      "time": "07:44",
+      "title": "女性刺され死亡 雑に扱われたと男",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602848?source=rss",
-      "publishedAt": "2026-11-16T14:51:54.000Z",
-      "xQuery": "中野死亡 男は女性が勤める店の客"
+      "url": "https://news.yahoo.co.jp/pickup/6602858?source=rss",
+      "publishedAt": "2026-11-16T22:44:31.000Z",
+      "xQuery": "女性刺され死亡 雑に扱われたと男"
     },
     {
       "time": "06:11",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "元eggモデル殺害 過去に警察沙汰"
     },
     {
-      "time": "22:31",
-      "title": "卵サンドつかむ客動画炎上 店説明",
+      "time": "07:49",
+      "title": "「オーケー」関西出店加速 強みは",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602840?source=rss",
-      "publishedAt": "2026-11-16T13:31:14.000Z",
-      "xQuery": "卵サンドつかむ客動画炎上 店説明"
+      "url": "https://news.yahoo.co.jp/pickup/6602859?source=rss",
+      "publishedAt": "2026-11-16T22:49:00.000Z",
+      "xQuery": "「オーケー」関西出店加速 強みは"
     }
   ]
 };
