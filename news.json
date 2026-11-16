@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-11-16T19:35:17.990Z",
+  "updatedAt": "2026-11-16T20:11:41.287Z",
   "groups": {
     "machineHeadlines": [
-      {
-        "time": "07:45",
-        "title": "DMG森精機が進める工作機械部品へのAM活用、自社イベントで最新5軸機も展示",
-        "source": "MONOist",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5mekFicm9nSXAyZ3Yzdkw0aWljRTdCTGFXUlNrd1NfQ1k5SGJzS05BLU5GNG1ha2djYmlSSm5vNkQ3bXBEejFGcjR0a25Vc0N4ZzM1dlhnM0R5Z09ybWFRN08ya2Q4R2NnM21WWGVIZw?oc=5",
-        "publishedAt": "2026-11-15T22:45:00.000Z"
-      },
       {
         "time": "23:30",
         "title": "工作機械受注「年間2兆円」見通しの衝撃。JIMTOF2026後の設備投資サイクルは、日本株にどこまで追い風を吹かせるのか",
         "source": "note",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5aUGdQWkV2eHVoQzhWR1ZaY191S2NvTWxWWFRFang0UGRiY0dkMm9tQXJ1YVY0M1g2TXdQM0FONWNuR0hyZ2R6eVdCdXVsTTRwV1JyWkZXX0V3c1U?oc=5",
         "publishedAt": "2026-11-16T14:30:00.000Z"
+      },
+      {
+        "time": "07:45",
+        "title": "DMG森精機が進める工作機械部品へのAM活用、自社イベントで最新5軸機も展示",
+        "source": "MONOist",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5mekFicm9nSXAyZ3Yzdkw0aWljRTdCTGFXUlNrd1NfQ1k5SGJzS05BLU5GNG1ha2djYmlSSm5vNkQ3bXBEejFGcjR0a25Vc0N4ZzM1dlhnM0R5Z09ybWFRN08ya2Q4R2NnM21WWGVIZw?oc=5",
+        "publishedAt": "2026-11-15T22:45:00.000Z"
       },
       {
         "time": "15:14",
@@ -45,18 +45,18 @@
         "publishedAt": "2026-11-16T00:25:06.000Z"
       },
       {
-        "time": "05:00",
-        "title": "関東精機、1台で軸の熱変位制御 液温調整の高付加価値機",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8ySTZZWXpRZnFZVTgxNWV0TlZvbi15NTZYLUhpeHBabEJZZEpndlZWRk1XN25qV1pzbXhxcEZSaFFQSWlwd2hoSlc0ZzZtcHhfZzdoMFd0bVQ?oc=5",
-        "publishedAt": "2026-11-15T20:00:00.000Z"
+        "time": "14:51",
+        "title": "工場・プラント向け｜漏洩・異音検知の新技術 導入ガイドと製品比較【2026年11月版】",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBzLXd3Qk1jRU9RMzAxNml4LTV2MXh4aDZfcWRhWUNTUjVJMVlPbU1RMEVadXdhUU1xMjZjdUNBTXVjaTZ3THlpcXBVWExuZTVkUTItckpTU1R0VVFvZC0wRU5zNGZ5UWlp?oc=5",
+        "publishedAt": "2026-11-16T05:51:16.000Z"
       },
       {
-        "time": "05:00",
-        "title": "牧野フライスが新加工技術を続々開発、ガラス成形用SiC型も誕生（2ページ目）",
-        "source": "日経クロステック",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQ2xjVjIxNUZ0RUNadmJ0OVV4S1M5czZlT09GY1RJbjRXRkU3aHZiaVRsVml6VHh3QUtSaEdsaG9hTzFqR0V2VXFRdW9xRlU4ZVJReTZvWjFjdzVmSHVsTnR6RDdWZUFVTHlkaDFUUURoUTJvbWYydDVMSHFCeWNQZ2d5WVVIUTBVWG9UYmVzSTA5SGpOMFNWRnZ3?oc=5",
-        "publishedAt": "2026-11-15T20:00:00.000Z"
+        "time": "12:35",
+        "title": "アドバンテック、エッジAIやITS向けに10GbE対応レイヤー3産業用スイッチングハブを発表",
+        "source": "ASCII.jp",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1qQ0V3a1U4dDRJNzROazg2RE1RUUNPanQyeFlZa1k2dkJEOFo1WFBMNHM0YjR2STk3U0NsbWg0TDhsenNNc2N5Z0RMcno2T1BXeDF1NA?oc=5",
+        "publishedAt": "2026-11-16T03:35:39.000Z"
       }
     ],
     "worldHeadlines": [
@@ -215,20 +215,6 @@
         "title": "中小企業省力化投資補助金の公募・採択情報を確認",
         "source": "中小機構",
         "url": "https://seisansei.smrj.go.jp/subsidy_info/laborsaving_subsidy.html"
-      },
-      {
-        "time": "17:00",
-        "title": "【2026年最新】中小企業向け補助金6制度まとめ｜締切・補助率・上限額一覧",
-        "source": "補助金ポータル",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Idm5vYjJtajVIYjhheTZVVTVQTXRXMndVNkRmWnVEZnZyNVRRV3ZncXZhREsxNXBqYXFZSlZmNHhLeHhkbUNRcXljRlJNWVh2ZmZrSXlsVVJsdGI5RGtBdmoxUGx1YlozMUE?oc=5",
-        "publishedAt": "2026-11-05T08:00:00.000Z"
-      },
-      {
-        "time": "16:00",
-        "title": "【補助金支援で3冠達成】エフアンドエム、「累計採択社数」「入金までの手続き支援社数」「提携金融機関数」で国内No.1を獲得",
-        "source": "イザ！",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9oUkVHU1R3aHdrYmpZbUtXWU9sNHNBQW1IMDkwVkJyRkVXR1ZyeVJwSDZxanExaU5idnk3U3ByQXJtdHlvUUpVU1ZkakVydWJUMTVwZVlwQnBUeTRJTVFnR1RmQnZwR05KTGxDeHhmRHlWN29hMjNYekhn?oc=5",
-        "publishedAt": "2026-11-16T07:00:00.000Z"
       }
     ]
   }
