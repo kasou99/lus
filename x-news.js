@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-16T14:25:27.935Z",
+  "updatedAt": "2026-11-16T14:47:33.784Z",
   "items": [
     {
-      "time": "19:16",
-      "title": "政府 19日の米中ロ首脳会談を注視",
+      "time": "23:25",
+      "title": "3カ国会談巡り中国「戦勝国」強調",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602819?source=rss",
-      "publishedAt": "2026-11-16T10:16:28.000Z",
-      "xQuery": "政府 19日の米中ロ首脳会談を注視"
+      "url": "https://news.yahoo.co.jp/pickup/6602847?source=rss",
+      "publishedAt": "2026-11-16T14:25:07.000Z",
+      "xQuery": "3カ国会談巡り中国「戦勝国」強調"
     },
     {
       "time": "21:49",
