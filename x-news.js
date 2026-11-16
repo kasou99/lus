@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-16T00:36:46.542Z",
+  "updatedAt": "2026-11-16T01:14:10.689Z",
   "items": [
     {
       "time": "09:24",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "福岡市長選 再選挙が確実に"
     },
     {
-      "time": "08:21",
-      "title": "福岡市長選再選挙出る?7人の回答",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602752?source=rss",
-      "publishedAt": "2026-11-15T23:21:50.000Z",
-      "xQuery": "福岡市長選再選挙出る?7人の回答"
-    },
-    {
       "time": "07:28",
       "title": "フアン氏がNVIDIA復帰協議 報道",
       "source": "Yahoo!ニュース",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "フアン氏がNVIDIA復帰協議 報道"
     },
     {
-      "time": "09:25",
-      "title": "そごう・西武大規模改装に400億円",
+      "time": "07:47",
+      "title": "JSR売却 差益9000億円超の見込み",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602755?source=rss",
-      "publishedAt": "2026-11-16T00:25:56.000Z",
-      "xQuery": "そごう・西武大規模改装に400億円"
+      "url": "https://news.yahoo.co.jp/pickup/6602747?source=rss",
+      "publishedAt": "2026-11-15T22:47:18.000Z",
+      "xQuery": "JSR売却 差益9000億円超の見込み"
+    },
+    {
+      "time": "09:42",
+      "title": "コンテナホテル8年で145店舗 背景",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6602759?source=rss",
+      "publishedAt": "2026-11-16T00:42:07.000Z",
+      "xQuery": "コンテナホテル8年で145店舗 背景"
     }
   ]
 };
