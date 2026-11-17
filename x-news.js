@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-17T05:11:48.587Z",
+  "updatedAt": "2026-11-17T05:36:31.139Z",
   "items": [
     {
       "time": "13:34",
@@ -18,28 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "米大統領 金正恩氏と会談の可能性"
     },
     {
-      "time": "09:05",
-      "title": "「防衛産業基盤戦略」概要が判明",
+      "time": "12:02",
+      "title": "6歳虐待死 獄中の母が悔恨の手紙",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602866?source=rss",
-      "publishedAt": "2026-11-17T00:05:44.000Z",
-      "xQuery": "「防衛産業基盤戦略」概要が判明"
+      "url": "https://news.yahoo.co.jp/pickup/6602886?source=rss",
+      "publishedAt": "2026-11-17T03:02:07.000Z",
+      "xQuery": "6歳虐待死 獄中の母が悔恨の手紙"
     },
     {
-      "time": "12:53",
-      "title": "ケーキ店死傷 死亡の男を書類送検",
+      "time": "10:07",
+      "title": "しし座流星群 17日深夜から見ごろ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602897?source=rss",
-      "publishedAt": "2026-11-17T03:53:15.000Z",
-      "xQuery": "ケーキ店死傷 死亡の男を書類送検"
+      "url": "https://news.yahoo.co.jp/pickup/6602874?source=rss",
+      "publishedAt": "2026-11-17T01:07:50.000Z",
+      "xQuery": "しし座流星群 17日深夜から見ごろ"
     },
     {
-      "time": "10:47",
-      "title": "「白い麻婆豆腐」じわじわ拡大",
+      "time": "11:28",
+      "title": "コメダがタイ初出店 朝から行列",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602880?source=rss",
-      "publishedAt": "2026-11-17T01:47:32.000Z",
-      "xQuery": "「白い麻婆豆腐」じわじわ拡大"
+      "url": "https://news.yahoo.co.jp/pickup/6602885?source=rss",
+      "publishedAt": "2026-11-17T02:28:36.000Z",
+      "xQuery": "コメダがタイ初出店 朝から行列"
     }
   ]
 };
