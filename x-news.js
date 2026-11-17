@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-17T05:36:31.139Z",
+  "updatedAt": "2026-11-17T06:20:12.992Z",
   "items": [
     {
       "time": "13:34",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "ドコモ障害再発防止求める 総務相"
     },
     {
-      "time": "09:09",
-      "title": "米大統領 金正恩氏と会談の可能性",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602867?source=rss",
-      "publishedAt": "2026-11-17T00:09:18.000Z",
-      "xQuery": "米大統領 金正恩氏と会談の可能性"
-    },
-    {
       "time": "12:02",
       "title": "6歳虐待死 獄中の母が悔恨の手紙",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6602886?source=rss",
       "publishedAt": "2026-11-17T03:02:07.000Z",
       "xQuery": "6歳虐待死 獄中の母が悔恨の手紙"
+    },
+    {
+      "time": "14:33",
+      "title": "公園の池に人骨のようなもの 大阪",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6602904?source=rss",
+      "publishedAt": "2026-11-17T05:33:59.000Z",
+      "xQuery": "公園の池に人骨のようなもの 大阪"
     },
     {
       "time": "10:07",
