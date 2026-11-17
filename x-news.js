@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-17T12:16:20.720Z",
+  "updatedAt": "2026-11-17T12:37:47.147Z",
   "items": [
     {
       "time": "20:50",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "関東 明け方にかけ警報級大雨恐れ"
     },
     {
-      "time": "18:38",
-      "title": "楽天証券 最大1125万口座分流出か",
+      "time": "21:30",
+      "title": "「JINS」最大1829万件の情報流出",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602935?source=rss",
-      "publishedAt": "2026-11-17T09:38:48.000Z",
-      "xQuery": "楽天証券 最大1125万口座分流出か"
+      "url": "https://news.yahoo.co.jp/pickup/6602951?source=rss",
+      "publishedAt": "2026-11-17T12:30:05.000Z",
+      "xQuery": "「JINS」最大1829万件の情報流出"
     },
     {
       "time": "21:03",
