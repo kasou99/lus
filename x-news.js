@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-17T02:35:18.330Z",
+  "updatedAt": "2026-11-17T03:13:25.759Z",
   "items": [
+    {
+      "time": "11:56",
+      "title": "「伝説の左腕」江夏豊さんが死去",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6602890?source=rss",
+      "publishedAt": "2026-11-17T02:56:39.000Z",
+      "xQuery": "「伝説の左腕」江夏豊さんが死去"
+    },
     {
       "time": "11:13",
       "title": "米中露 共同コミュニケを発表へ",
@@ -8,14 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6602883?source=rss",
       "publishedAt": "2026-11-17T02:13:12.000Z",
       "xQuery": "米中露 共同コミュニケを発表へ"
-    },
-    {
-      "time": "10:47",
-      "title": "推定ロシア機領空侵犯 福岡沖ノ島",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602882?source=rss",
-      "publishedAt": "2026-11-17T01:47:00.000Z",
-      "xQuery": "推定ロシア機領空侵犯 福岡沖ノ島"
     },
     {
       "time": "10:32",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "MS大規模障害 幹部が原因を説明"
     },
     {
-      "time": "09:56",
-      "title": "前橋市の住宅街にクマ 男性がけが",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602873?source=rss",
-      "publishedAt": "2026-11-17T00:56:27.000Z",
-      "xQuery": "前橋市の住宅街にクマ 男性がけが"
-    },
-    {
       "time": "10:18",
       "title": "菊地直子さん 逃亡の日々振り返る",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6602875?source=rss",
       "publishedAt": "2026-11-17T01:18:28.000Z",
       "xQuery": "菊地直子さん 逃亡の日々振り返る"
+    },
+    {
+      "time": "09:26",
+      "title": "町内会入らずゴミ捨て場利用 賛否",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6602868?source=rss",
+      "publishedAt": "2026-11-17T00:26:18.000Z",
+      "xQuery": "町内会入らずゴミ捨て場利用 賛否"
     }
   ]
 };

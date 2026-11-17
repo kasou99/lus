@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T02:35:17.531Z",
+  "updatedAt": "2026-11-17T03:13:24.881Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -75,6 +75,13 @@
         "publishedAt": "2026-11-16T14:25:07.000Z"
       },
       {
+        "time": "11:45",
+        "title": "イラン「汚い爆弾」米高官狙いか",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6602889?source=rss",
+        "publishedAt": "2026-11-17T02:45:26.000Z"
+      },
+      {
         "time": "09:09",
         "title": "米大統領 金正恩氏と会談の可能性",
         "source": "Yahoo!ニュース",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6602860?source=rss",
         "publishedAt": "2026-11-16T23:05:40.000Z"
-      },
-      {
-        "time": "08:08",
-        "title": "米大統領 フアン氏復帰検討に理解",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602861?source=rss",
-        "publishedAt": "2026-11-16T23:08:34.000Z"
       }
     ],
     "economyHeadlines": [
@@ -170,18 +170,18 @@
         "publishedAt": "2026-11-16T21:11:11.000Z"
       },
       {
+        "time": "12:02",
+        "title": "6歳虐待死 獄中の母が悔恨の手紙",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6602886?source=rss",
+        "publishedAt": "2026-11-17T03:02:07.000Z"
+      },
+      {
         "time": "10:18",
         "title": "菊地直子さん 逃亡の日々振り返る",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6602875?source=rss",
         "publishedAt": "2026-11-17T01:18:28.000Z"
-      },
-      {
-        "time": "09:56",
-        "title": "前橋市の住宅街にクマ 男性がけが",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602873?source=rss",
-        "publishedAt": "2026-11-17T00:56:27.000Z"
       },
       {
         "time": "11:16",
