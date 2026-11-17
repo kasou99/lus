@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-17T04:35:58.459Z",
+  "updatedAt": "2026-11-17T05:11:48.587Z",
   "items": [
+    {
+      "time": "13:34",
+      "title": "ドコモ障害再発防止求める 総務相",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6602899?source=rss",
+      "publishedAt": "2026-11-17T04:34:33.000Z",
+      "xQuery": "ドコモ障害再発防止求める 総務相"
+    },
     {
       "time": "09:09",
       "title": "米大統領 金正恩氏と会談の可能性",
@@ -24,14 +32,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6602897?source=rss",
       "publishedAt": "2026-11-17T03:53:15.000Z",
       "xQuery": "ケーキ店死傷 死亡の男を書類送検"
-    },
-    {
-      "time": "10:18",
-      "title": "菊地直子さん 逃亡の日々振り返る",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602875?source=rss",
-      "publishedAt": "2026-11-17T01:18:28.000Z",
-      "xQuery": "菊地直子さん 逃亡の日々振り返る"
     },
     {
       "time": "10:47",
