@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-17T07:35:45.899Z",
+  "updatedAt": "2026-11-17T08:15:39.970Z",
   "items": [
+    {
+      "time": "16:21",
+      "title": "米国防長官 12月の訪日で調整",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6602913?source=rss",
+      "publishedAt": "2026-11-17T07:21:52.000Z",
+      "xQuery": "米国防長官 12月の訪日で調整"
+    },
     {
       "time": "14:41",
       "title": "文科相のパーティー問題 残る疑問",
@@ -8,22 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6602896?source=rss",
       "publishedAt": "2026-11-17T05:41:59.000Z",
       "xQuery": "文科相のパーティー問題 残る疑問"
-    },
-    {
-      "time": "11:45",
-      "title": "イラン「汚い爆弾」米高官狙いか",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602889?source=rss",
-      "publishedAt": "2026-11-17T02:45:26.000Z",
-      "xQuery": "イラン「汚い爆弾」米高官狙いか"
-    },
-    {
-      "time": "15:50",
-      "title": "再選挙へ 福岡市で掲示板一旦撤去",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602911?source=rss",
-      "publishedAt": "2026-11-17T06:50:56.000Z",
-      "xQuery": "再選挙へ 福岡市で掲示板一旦撤去"
     },
     {
       "time": "15:32",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6602907?source=rss",
       "publishedAt": "2026-11-17T06:26:10.000Z",
       "xQuery": "グルメフェス炎上 主催者2人直撃"
+    },
+    {
+      "time": "16:59",
+      "title": "駅そばを倍に値上げ 決断した75歳",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6602919?source=rss",
+      "publishedAt": "2026-11-17T07:59:05.000Z",
+      "xQuery": "駅そばを倍に値上げ 決断した75歳"
     }
   ]
 };
