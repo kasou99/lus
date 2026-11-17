@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-17T21:10:03.417Z",
+  "updatedAt": "2026-11-17T21:35:41.835Z",
   "items": [
     {
       "time": "23:00",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "ASEAN 米大統領へ「特別待遇」"
     },
     {
-      "time": "22:57",
-      "title": "米大統領 冗談交じりに高市氏評す",
+      "time": "06:32",
+      "title": "小渕優子氏更迭 自民総務会で反発",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602960?source=rss",
-      "publishedAt": "2026-11-17T13:57:09.000Z",
-      "xQuery": "米大統領 冗談交じりに高市氏評す"
+      "url": "https://news.yahoo.co.jp/pickup/6602978?source=rss",
+      "publishedAt": "2026-11-17T21:32:04.000Z",
+      "xQuery": "小渕優子氏更迭 自民総務会で反発"
     },
     {
       "time": "00:15",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "韓国野党前代表 日本で入国拒否"
     },
     {
-      "time": "22:48",
-      "title": "交際1人でも子宮頸がん 子供諦め",
+      "time": "06:19",
+      "title": "NHK 職員に「飲み会22時頃まで」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602962?source=rss",
-      "publishedAt": "2026-11-17T13:48:07.000Z",
-      "xQuery": "交際1人でも子宮頸がん 子供諦め"
+      "url": "https://news.yahoo.co.jp/pickup/6602976?source=rss",
+      "publishedAt": "2026-11-17T21:19:02.000Z",
+      "xQuery": "NHK 職員に「飲み会22時頃まで」"
     }
   ]
 };
