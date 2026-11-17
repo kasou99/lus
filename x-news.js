@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-17T09:36:21.139Z",
+  "updatedAt": "2026-11-17T10:11:40.209Z",
   "items": [
     {
       "time": "18:15",
@@ -18,28 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "米国防長官 12月の訪日で調整"
     },
     {
+      "time": "18:41",
+      "title": "関東 明け方にかけ警報級大雨恐れ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6602933?source=rss",
+      "publishedAt": "2026-11-17T09:41:57.000Z",
+      "xQuery": "関東 明け方にかけ警報級大雨恐れ"
+    },
+    {
+      "time": "18:38",
+      "title": "楽天証券 最大1125万口座分流出か",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6602935?source=rss",
+      "publishedAt": "2026-11-17T09:38:48.000Z",
+      "xQuery": "楽天証券 最大1125万口座分流出か"
+    },
+    {
       "time": "16:58",
       "title": "物議の選挙ポスター AIと認める",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6602918?source=rss",
       "publishedAt": "2026-11-17T07:58:54.000Z",
       "xQuery": "物議の選挙ポスター AIと認める"
-    },
-    {
-      "time": "15:26",
-      "title": "グルメフェス炎上 主催者2人直撃",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602907?source=rss",
-      "publishedAt": "2026-11-17T06:26:10.000Z",
-      "xQuery": "グルメフェス炎上 主催者2人直撃"
-    },
-    {
-      "time": "17:37",
-      "title": "閉山中に中国人遭難 懸賞金に指摘",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602924?source=rss",
-      "publishedAt": "2026-11-17T08:37:06.000Z",
-      "xQuery": "閉山中に中国人遭難 懸賞金に指摘"
     }
   ]
 };
