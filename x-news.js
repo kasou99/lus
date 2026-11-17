@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-17T06:42:04.034Z",
+  "updatedAt": "2026-11-17T07:12:57.025Z",
   "items": [
     {
       "time": "14:41",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "イラン「汚い爆弾」米高官狙いか"
     },
     {
+      "time": "15:50",
+      "title": "再選挙へ 福岡市で掲示板一旦撤去",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6602911?source=rss",
+      "publishedAt": "2026-11-17T06:50:56.000Z",
+      "xQuery": "再選挙へ 福岡市で掲示板一旦撤去"
+    },
+    {
       "time": "15:32",
       "title": "東大寺でシカの体の一部見つかる",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6602908?source=rss",
       "publishedAt": "2026-11-17T06:32:01.000Z",
       "xQuery": "東大寺でシカの体の一部見つかる"
-    },
-    {
-      "time": "11:28",
-      "title": "コメダがタイ初出店 朝から行列",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602885?source=rss",
-      "publishedAt": "2026-11-17T02:28:36.000Z",
-      "xQuery": "コメダがタイ初出店 朝から行列"
     },
     {
       "time": "15:26",
