@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-17T22:35:53.730Z",
+  "updatedAt": "2026-11-17T23:09:32.207Z",
   "items": [
     {
       "time": "07:14",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "日本版DBSに脆弱性 稼働延期へ"
     },
     {
-      "time": "22:02",
-      "title": "ASEAN 米大統領へ「特別待遇」",
+      "time": "07:22",
+      "title": "NVIDIA前CEO 復帰なら「光栄」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602954?source=rss",
-      "publishedAt": "2026-11-17T13:02:27.000Z",
-      "xQuery": "ASEAN 米大統領へ「特別待遇」"
+      "url": "https://news.yahoo.co.jp/pickup/6602983?source=rss",
+      "publishedAt": "2026-11-17T22:22:28.000Z",
+      "xQuery": "NVIDIA前CEO 復帰なら「光栄」"
     },
     {
       "time": "06:32",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "小渕優子氏更迭 自民総務会で反発"
     },
     {
-      "time": "07:22",
-      "title": "NVIDIA前CEO 復帰なら「光栄」",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602983?source=rss",
-      "publishedAt": "2026-11-17T22:22:28.000Z",
-      "xQuery": "NVIDIA前CEO 復帰なら「光栄」"
-    },
-    {
       "time": "06:19",
       "title": "NHK 職員に「飲み会22時頃まで」",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6602976?source=rss",
       "publishedAt": "2026-11-17T21:19:02.000Z",
       "xQuery": "NHK 職員に「飲み会22時頃まで」"
+    },
+    {
+      "time": "07:41",
+      "title": "給食でアレルギー症状 資料改ざん",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6602985?source=rss",
+      "publishedAt": "2026-11-17T22:41:39.000Z",
+      "xQuery": "給食でアレルギー症状 資料改ざん"
     }
   ]
 };
