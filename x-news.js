@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-17T22:10:51.206Z",
+  "updatedAt": "2026-11-17T22:35:53.730Z",
   "items": [
     {
-      "time": "23:00",
-      "title": "日米豪印が共同文書 中国念頭",
+      "time": "07:14",
+      "title": "日本版DBSに脆弱性 稼働延期へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602965?source=rss",
-      "publishedAt": "2026-11-17T14:00:52.000Z",
-      "xQuery": "日米豪印が共同文書 中国念頭"
+      "url": "https://news.yahoo.co.jp/pickup/6602982?source=rss",
+      "publishedAt": "2026-11-17T22:14:00.000Z",
+      "xQuery": "日本版DBSに脆弱性 稼働延期へ"
     },
     {
       "time": "22:02",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "小渕優子氏更迭 自民総務会で反発"
     },
     {
-      "time": "00:15",
-      "title": "韓国野党前代表 日本で入国拒否",
+      "time": "07:22",
+      "title": "NVIDIA前CEO 復帰なら「光栄」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602969?source=rss",
-      "publishedAt": "2026-11-17T15:15:40.000Z",
-      "xQuery": "韓国野党前代表 日本で入国拒否"
+      "url": "https://news.yahoo.co.jp/pickup/6602983?source=rss",
+      "publishedAt": "2026-11-17T22:22:28.000Z",
+      "xQuery": "NVIDIA前CEO 復帰なら「光栄」"
     },
     {
       "time": "06:19",

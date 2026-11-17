@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T22:10:50.113Z",
+  "updatedAt": "2026-11-17T22:35:53.113Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -105,6 +105,13 @@
     ],
     "economyHeadlines": [
       {
+        "time": "07:22",
+        "title": "NVIDIA前CEO 復帰なら「光栄」",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6602983?source=rss",
+        "publishedAt": "2026-11-17T22:22:28.000Z"
+      },
+      {
         "time": "06:19",
         "title": "NHK 職員に「飲み会22時頃まで」",
         "source": "Yahoo!ニュース",
@@ -126,13 +133,6 @@
         "publishedAt": "2026-11-17T08:44:10.000Z"
       },
       {
-        "time": "07:49",
-        "title": "「オーケー」関西出店加速 強みは",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602859?source=rss",
-        "publishedAt": "2026-11-16T22:49:00.000Z"
-      },
-      {
         "time": "19:05",
         "title": "「女性専用」ジム拡大 悩みに対応",
         "source": "Yahoo!ニュース",
@@ -149,18 +149,18 @@
     ],
     "localHeadlines": [
       {
+        "time": "07:22",
+        "title": "ポーカー大会無許可開催疑い 逮捕",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6602981?source=rss",
+        "publishedAt": "2026-11-17T22:22:50.000Z"
+      },
+      {
         "time": "14:33",
         "title": "公園の池に人骨のようなもの 大阪",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6602904?source=rss",
         "publishedAt": "2026-11-17T05:33:59.000Z"
-      },
-      {
-        "time": "22:02",
-        "title": "前橋にクマ2頭 1頭捕獲し1頭不明",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602953?source=rss",
-        "publishedAt": "2026-11-17T13:02:56.000Z"
       },
       {
         "time": "10:18",
