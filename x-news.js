@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-17T10:11:40.209Z",
+  "updatedAt": "2026-11-17T10:36:10.561Z",
   "items": [
     {
       "time": "18:15",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "首相と露大統領 接触の方向で調整"
     },
     {
-      "time": "16:21",
-      "title": "米国防長官 12月の訪日で調整",
+      "time": "18:40",
+      "title": "緊急地震速報の誤報巡る対応 完了",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602913?source=rss",
-      "publishedAt": "2026-11-17T07:21:52.000Z",
-      "xQuery": "米国防長官 12月の訪日で調整"
+      "url": "https://news.yahoo.co.jp/pickup/6602934?source=rss",
+      "publishedAt": "2026-11-17T09:40:39.000Z",
+      "xQuery": "緊急地震速報の誤報巡る対応 完了"
     },
     {
       "time": "18:41",
