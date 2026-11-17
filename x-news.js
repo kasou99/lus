@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-17T09:13:14.363Z",
+  "updatedAt": "2026-11-17T09:36:21.139Z",
   "items": [
+    {
+      "time": "18:15",
+      "title": "首相と露大統領 接触の方向で調整",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6602931?source=rss",
+      "publishedAt": "2026-11-17T09:15:40.000Z",
+      "xQuery": "首相と露大統領 接触の方向で調整"
+    },
     {
       "time": "16:21",
       "title": "米国防長官 12月の訪日で調整",
@@ -8,14 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6602913?source=rss",
       "publishedAt": "2026-11-17T07:21:52.000Z",
       "xQuery": "米国防長官 12月の訪日で調整"
-    },
-    {
-      "time": "14:41",
-      "title": "文科相のパーティー問題 残る疑問",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602896?source=rss",
-      "publishedAt": "2026-11-17T05:41:59.000Z",
-      "xQuery": "文科相のパーティー問題 残る疑問"
     },
     {
       "time": "16:58",
