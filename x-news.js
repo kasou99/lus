@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-17T15:12:02.359Z",
+  "updatedAt": "2026-11-17T15:35:51.071Z",
   "items": [
     {
       "time": "23:00",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "米大統領 冗談交じりに高市氏評す"
     },
     {
+      "time": "00:15",
+      "title": "韓国野党前代表 日本で入国拒否",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6602969?source=rss",
+      "publishedAt": "2026-11-17T15:15:40.000Z",
+      "xQuery": "韓国野党前代表 日本で入国拒否"
+    },
+    {
       "time": "22:48",
       "title": "交際1人でも子宮頸がん 子供諦め",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6602962?source=rss",
       "publishedAt": "2026-11-17T13:48:07.000Z",
       "xQuery": "交際1人でも子宮頸がん 子供諦め"
-    },
-    {
-      "time": "00:01",
-      "title": "「山の神祭」準備中に白イノシシ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602972?source=rss",
-      "publishedAt": "2026-11-17T15:01:40.000Z",
-      "xQuery": "「山の神祭」準備中に白イノシシ"
     }
   ]
 };
