@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-17T02:16:14.506Z",
+  "updatedAt": "2026-11-17T02:35:18.330Z",
   "items": [
+    {
+      "time": "11:13",
+      "title": "米中露 共同コミュニケを発表へ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6602883?source=rss",
+      "publishedAt": "2026-11-17T02:13:12.000Z",
+      "xQuery": "米中露 共同コミュニケを発表へ"
+    },
     {
       "time": "10:47",
       "title": "推定ロシア機領空侵犯 福岡沖ノ島",
@@ -8,14 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6602882?source=rss",
       "publishedAt": "2026-11-17T01:47:00.000Z",
       "xQuery": "推定ロシア機領空侵犯 福岡沖ノ島"
-    },
-    {
-      "time": "09:46",
-      "title": "千葉豪雨 今も断水続くマンション",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602870?source=rss",
-      "publishedAt": "2026-11-17T00:46:37.000Z",
-      "xQuery": "千葉豪雨 今も断水続くマンション"
     },
     {
       "time": "10:32",
