@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-17T14:36:03.375Z",
+  "updatedAt": "2026-11-17T15:12:02.359Z",
   "items": [
     {
       "time": "23:00",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "米大統領 冗談交じりに高市氏評す"
     },
     {
-      "time": "21:03",
-      "title": "JT ロシア問題で巨額損失の恐れ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602948?source=rss",
-      "publishedAt": "2026-11-17T12:03:11.000Z",
-      "xQuery": "JT ロシア問題で巨額損失の恐れ"
-    },
-    {
       "time": "22:48",
       "title": "交際1人でも子宮頸がん 子供諦め",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6602962?source=rss",
       "publishedAt": "2026-11-17T13:48:07.000Z",
       "xQuery": "交際1人でも子宮頸がん 子供諦め"
+    },
+    {
+      "time": "00:01",
+      "title": "「山の神祭」準備中に白イノシシ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6602972?source=rss",
+      "publishedAt": "2026-11-17T15:01:40.000Z",
+      "xQuery": "「山の神祭」準備中に白イノシシ"
     }
   ]
 };
