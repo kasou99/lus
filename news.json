@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T11:35:03.186Z",
+  "updatedAt": "2026-11-17T12:16:19.775Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -61,6 +61,13 @@
     ],
     "worldHeadlines": [
       {
+        "time": "20:50",
+        "title": "中国首相 高市氏との接触避けたか",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6602947?source=rss",
+        "publishedAt": "2026-11-17T11:50:49.000Z"
+      },
+      {
         "time": "11:13",
         "title": "米中露 共同コミュニケを発表へ",
         "source": "Yahoo!ニュース",
@@ -94,22 +101,15 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6602867?source=rss",
         "publishedAt": "2026-11-17T00:09:18.000Z"
-      },
-      {
-        "time": "06:21",
-        "title": "トランプ大統領 アジア歴訪へ出発",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602850?source=rss",
-        "publishedAt": "2026-11-16T21:21:32.000Z"
       }
     ],
     "economyHeadlines": [
       {
-        "time": "06:54",
-        "title": "NY株大幅反落 ハイテク株に売り",
+        "time": "21:03",
+        "title": "JT ロシア問題で巨額損失の恐れ",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602852?source=rss",
-        "publishedAt": "2026-11-16T21:54:31.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6602948?source=rss",
+        "publishedAt": "2026-11-17T12:03:11.000Z"
       },
       {
         "time": "17:44",

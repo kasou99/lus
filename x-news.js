@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-17T11:35:04.448Z",
+  "updatedAt": "2026-11-17T12:16:20.720Z",
   "items": [
     {
-      "time": "18:15",
-      "title": "首相と露大統領 接触の方向で調整",
+      "time": "20:50",
+      "title": "中国首相 高市氏との接触避けたか",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602931?source=rss",
-      "publishedAt": "2026-11-17T09:15:40.000Z",
-      "xQuery": "首相と露大統領 接触の方向で調整"
+      "url": "https://news.yahoo.co.jp/pickup/6602947?source=rss",
+      "publishedAt": "2026-11-17T11:50:49.000Z",
+      "xQuery": "中国首相 高市氏との接触避けたか"
     },
     {
       "time": "18:41",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "楽天証券 最大1125万口座分流出か"
     },
     {
+      "time": "21:03",
+      "title": "JT ロシア問題で巨額損失の恐れ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6602948?source=rss",
+      "publishedAt": "2026-11-17T12:03:11.000Z",
+      "xQuery": "JT ロシア問題で巨額損失の恐れ"
+    },
+    {
       "time": "20:20",
       "title": "政府広報 陰謀論系YouTuber起用",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6602941?source=rss",
       "publishedAt": "2026-11-17T11:20:29.000Z",
       "xQuery": "政府広報 陰謀論系YouTuber起用"
-    },
-    {
-      "time": "19:05",
-      "title": "「女性専用」ジム拡大 悩みに対応",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602937?source=rss",
-      "publishedAt": "2026-11-17T10:05:34.000Z",
-      "xQuery": "「女性専用」ジム拡大 悩みに対応"
     }
   ]
 };
