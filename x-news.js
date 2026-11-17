@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-16T23:35:28.011Z",
+  "updatedAt": "2026-11-17T00:30:19.233Z",
   "items": [
     {
-      "time": "08:05",
-      "title": "日露会談「否定しない」露報道官",
+      "time": "08:33",
+      "title": "日米豪印の共同文書案 概要が判明",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602860?source=rss",
-      "publishedAt": "2026-11-16T23:05:40.000Z",
-      "xQuery": "日露会談「否定しない」露報道官"
+      "url": "https://news.yahoo.co.jp/pickup/6602863?source=rss",
+      "publishedAt": "2026-11-16T23:33:25.000Z",
+      "xQuery": "日米豪印の共同文書案 概要が判明"
     },
     {
-      "time": "06:54",
-      "title": "NY株大幅反落 ハイテク株に売り",
+      "time": "08:08",
+      "title": "米大統領 フアン氏復帰検討に理解",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602852?source=rss",
-      "publishedAt": "2026-11-16T21:54:31.000Z",
-      "xQuery": "NY株大幅反落 ハイテク株に売り"
+      "url": "https://news.yahoo.co.jp/pickup/6602861?source=rss",
+      "publishedAt": "2026-11-16T23:08:34.000Z",
+      "xQuery": "米大統領 フアン氏復帰検討に理解"
     },
     {
       "time": "07:44",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "女性刺され死亡 雑に扱われたと男"
     },
     {
-      "time": "06:11",
-      "title": "元eggモデル殺害 過去に警察沙汰",
+      "time": "08:45",
+      "title": "中3を逮捕 同級生の腹刺した疑い",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602849?source=rss",
-      "publishedAt": "2026-11-16T21:11:11.000Z",
-      "xQuery": "元eggモデル殺害 過去に警察沙汰"
+      "url": "https://news.yahoo.co.jp/pickup/6602864?source=rss",
+      "publishedAt": "2026-11-16T23:45:43.000Z",
+      "xQuery": "中3を逮捕 同級生の腹刺した疑い"
     },
     {
-      "time": "07:49",
-      "title": "「オーケー」関西出店加速 強みは",
+      "time": "09:26",
+      "title": "町内会入らずゴミ捨て場利用 賛否",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602859?source=rss",
-      "publishedAt": "2026-11-16T22:49:00.000Z",
-      "xQuery": "「オーケー」関西出店加速 強みは"
+      "url": "https://news.yahoo.co.jp/pickup/6602868?source=rss",
+      "publishedAt": "2026-11-17T00:26:18.000Z",
+      "xQuery": "町内会入らずゴミ捨て場利用 賛否"
     }
   ]
 };
