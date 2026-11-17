@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T20:36:18.708Z",
+  "updatedAt": "2026-11-17T21:10:02.537Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,6 +38,13 @@
         "publishedAt": "2026-11-17T01:30:00.000Z"
       },
       {
+        "time": "17:00",
+        "title": "歯車製造する複合加工機 新開発 主力旋盤ベースに機能強化 ＴＡＫＩＳＡＷＡ",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1KSjZPZWk3RHhwZmMteVVrSHY3VU9hbGg3WHQ1WHdtNUVRVlJNdWNsYVBITW1HanZoQVJPenlzbWlJQ3Y4cE9TdzBYVjd6RzlIZUE?oc=5",
+        "publishedAt": "2026-11-17T08:00:00.000Z"
+      },
+      {
         "time": "14:37",
         "title": "メタルバンドソーマシンマーケットリサーチ：調査方法・市場動向・業界規模",
         "source": "Newscast.jp",
@@ -45,18 +52,11 @@
         "publishedAt": "2026-11-17T05:37:00.000Z"
       },
       {
-        "time": "14:00",
-        "title": "産業用EMIフィルター市場、2032年に44億7,300万米ドルへ――産業用電力電子機器と再生可能エネルギー向け需要が拡大",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1YNGpma1BnZm5uc1dZREFINFZlc0w1ZUFoM01Vd3B5S0l6a2I2V3ZPR0ExcDgyRjljSWxVLUJIejRRenYwcTdzb3k3bkVkelNid3F2UERReWx3d1RHMmRnLWY4VWRBZ0VX?oc=5",
-        "publishedAt": "2026-11-17T05:00:42.000Z"
-      },
-      {
-        "time": "13:00",
-        "title": "電動射出成形機の小型化に貢献、日本精工がボールねじ向け薄型シール開発：工作機械",
-        "source": "MONOist",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5CbGVrWG9wNDZsbmkydEJ4ZXZvekE0RGRhY1NNRjZBLURDZVpPa1JZZ011Q05RM2NwV1RvaVVkTU1GNXkxd3B1NmQzbGt4NmhPdFVnbnhmRVRRWUpKcU9BeHRnU2h2ZDl0MVI1NGEwWQ?oc=5",
-        "publishedAt": "2026-11-17T04:00:00.000Z"
+        "time": "11:55",
+        "title": "LS Electric、ベトナム・バクニン第2工場を竣工…2030年売上3.5億ドルを狙う",
+        "source": "BigGo ファイナンス",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB2REV6ZmNBLW9vMXNFS2dCQk1HNjBqcVpVcTF4Q0dfeWpINkFoMktTXzFmT09RaUpOSTQyUTBvUTBBUnpYUzF5SVdWdGpTN1p0WUk5d1JlVjVJd241QlZkclpOU2g3Q2hwbXRQTVRIckxwN21a?oc=5",
+        "publishedAt": "2026-11-17T02:55:00.000Z"
       }
     ],
     "worldHeadlines": [
