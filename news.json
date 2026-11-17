@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T23:09:31.668Z",
+  "updatedAt": "2026-11-17T23:35:31.742Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -105,11 +105,25 @@
     ],
     "economyHeadlines": [
       {
+        "time": "08:30",
+        "title": "NVIDIA会長 フアン氏CEO復帰ない",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6602988?source=rss",
+        "publishedAt": "2026-11-17T23:30:40.000Z"
+      },
+      {
         "time": "07:22",
         "title": "NVIDIA前CEO 復帰なら「光栄」",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6602983?source=rss",
         "publishedAt": "2026-11-17T22:22:28.000Z"
+      },
+      {
+        "time": "08:15",
+        "title": "個人向け国債 税優遇見送りで調整",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6602987?source=rss",
+        "publishedAt": "2026-11-17T23:15:14.000Z"
       },
       {
         "time": "06:19",
@@ -131,20 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6602923?source=rss",
         "publishedAt": "2026-11-17T08:44:10.000Z"
-      },
-      {
-        "time": "19:05",
-        "title": "「女性専用」ジム拡大 悩みに対応",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602937?source=rss",
-        "publishedAt": "2026-11-17T10:05:34.000Z"
-      },
-      {
-        "time": "16:59",
-        "title": "駅そばを倍に値上げ 決断した75歳",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602919?source=rss",
-        "publishedAt": "2026-11-17T07:59:05.000Z"
       }
     ],
     "localHeadlines": [
