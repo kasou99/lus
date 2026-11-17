@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-17T08:35:32.739Z",
+  "updatedAt": "2026-11-17T09:13:14.363Z",
   "items": [
     {
       "time": "16:21",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "文科相のパーティー問題 残る疑問"
     },
     {
-      "time": "15:32",
-      "title": "東大寺でシカの体の一部見つかる",
+      "time": "16:58",
+      "title": "物議の選挙ポスター AIと認める",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602908?source=rss",
-      "publishedAt": "2026-11-17T06:32:01.000Z",
-      "xQuery": "東大寺でシカの体の一部見つかる"
+      "url": "https://news.yahoo.co.jp/pickup/6602918?source=rss",
+      "publishedAt": "2026-11-17T07:58:54.000Z",
+      "xQuery": "物議の選挙ポスター AIと認める"
     },
     {
       "time": "15:26",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "グルメフェス炎上 主催者2人直撃"
     },
     {
-      "time": "16:59",
-      "title": "駅そばを倍に値上げ 決断した75歳",
+      "time": "17:37",
+      "title": "閉山中に中国人遭難 懸賞金に指摘",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602919?source=rss",
-      "publishedAt": "2026-11-17T07:59:05.000Z",
-      "xQuery": "駅そばを倍に値上げ 決断した75歳"
+      "url": "https://news.yahoo.co.jp/pickup/6602924?source=rss",
+      "publishedAt": "2026-11-17T08:37:06.000Z",
+      "xQuery": "閉山中に中国人遭難 懸賞金に指摘"
     }
   ]
 };
