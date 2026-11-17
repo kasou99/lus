@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-17T03:13:25.759Z",
+  "updatedAt": "2026-11-17T03:35:58.164Z",
   "items": [
     {
       "time": "11:56",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "「伝説の左腕」江夏豊さんが死去"
     },
     {
-      "time": "11:13",
-      "title": "米中露 共同コミュニケを発表へ",
+      "time": "09:05",
+      "title": "「防衛産業基盤戦略」概要が判明",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602883?source=rss",
-      "publishedAt": "2026-11-17T02:13:12.000Z",
-      "xQuery": "米中露 共同コミュニケを発表へ"
+      "url": "https://news.yahoo.co.jp/pickup/6602866?source=rss",
+      "publishedAt": "2026-11-17T00:05:44.000Z",
+      "xQuery": "「防衛産業基盤戦略」概要が判明"
     },
     {
       "time": "10:32",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "菊地直子さん 逃亡の日々振り返る"
     },
     {
-      "time": "09:26",
-      "title": "町内会入らずゴミ捨て場利用 賛否",
+      "time": "11:16",
+      "title": "東京・葛飾区の住宅街にシカ1頭",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602868?source=rss",
-      "publishedAt": "2026-11-17T00:26:18.000Z",
-      "xQuery": "町内会入らずゴミ捨て場利用 賛否"
+      "url": "https://news.yahoo.co.jp/pickup/6602884?source=rss",
+      "publishedAt": "2026-11-17T02:16:52.000Z",
+      "xQuery": "東京・葛飾区の住宅街にシカ1頭"
     }
   ]
 };
