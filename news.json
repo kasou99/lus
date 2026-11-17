@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T14:11:54.102Z",
+  "updatedAt": "2026-11-17T14:36:02.088Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -22,13 +22,6 @@
         "source": "アットプレス",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBES1lWSWE0QTBPUmpzTHBpTTNhOTRJWW55a0JNUTh1dUdNUGdOVEJXVUs2RlY0UkVXNzdFOUpqTW40Zk03dGFqQjR6ZXY4bE0?oc=5",
         "publishedAt": "2026-11-17T05:00:00.000Z"
-      },
-      {
-        "time": "23:30",
-        "title": "工作機械受注「年間2兆円」見通しの衝撃。JIMTOF2026後の設備投資サイクルは、日本株にどこまで追い風を吹かせるのか",
-        "source": "note",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5aUGdQWkV2eHVoQzhWR1ZaY191S2NvTWxWWFRFang0UGRiY0dkMm9tQXJ1YVY0M1g2TXdQM0FONWNuR0hyZ2R6eVdCdXVsTTRwV1JyWkZXX0V3c1U?oc=5",
-        "publishedAt": "2026-11-16T14:30:00.000Z"
       },
       {
         "time": "09:00",
@@ -57,6 +50,13 @@
         "source": "Newscast.jp",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBzWGRjMEV5RGlweFFrQVQ5aTRER3FiekE3M3ppRkRvdnY2TmNMOU5jdFgwUWNsQ29BczNwSDk0YVBJOE9WNE1aX1ZQeVJIdFE?oc=5",
         "publishedAt": "2026-11-17T05:37:00.000Z"
+      },
+      {
+        "time": "11:55",
+        "title": "LS Electric、ベトナム・バクニン第2工場を竣工…2030年売上3.5億ドルを狙う",
+        "source": "BigGo ファイナンス",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB2REV6ZmNBLW9vMXNFS2dCQk1HNjBqcVpVcTF4Q0dfeWpINkFoMktTXzFmT09RaUpOSTQyUTBvUTBBUnpYUzF5SVdWdGpTN1p0WUk5d1JlVjVJd241QlZkclpOU2g3Q2hwbXRQTVRIckxwN21a?oc=5",
+        "publishedAt": "2026-11-17T02:55:00.000Z"
       }
     ],
     "worldHeadlines": [
