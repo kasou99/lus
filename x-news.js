@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-17T12:37:47.147Z",
+  "updatedAt": "2026-11-17T13:12:05.376Z",
   "items": [
     {
       "time": "20:50",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "中国首相 高市氏との接触避けたか"
     },
     {
-      "time": "18:41",
-      "title": "関東 明け方にかけ警報級大雨恐れ",
+      "time": "22:02",
+      "title": "ASEAN 米大統領へ「特別待遇」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602933?source=rss",
-      "publishedAt": "2026-11-17T09:41:57.000Z",
-      "xQuery": "関東 明け方にかけ警報級大雨恐れ"
+      "url": "https://news.yahoo.co.jp/pickup/6602954?source=rss",
+      "publishedAt": "2026-11-17T13:02:27.000Z",
+      "xQuery": "ASEAN 米大統領へ「特別待遇」"
     },
     {
       "time": "21:30",
