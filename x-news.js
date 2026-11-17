@@ -1,37 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-17T06:20:12.992Z",
+  "updatedAt": "2026-11-17T06:42:04.034Z",
   "items": [
     {
-      "time": "13:34",
-      "title": "ドコモ障害再発防止求める 総務相",
+      "time": "14:41",
+      "title": "文科相のパーティー問題 残る疑問",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602899?source=rss",
-      "publishedAt": "2026-11-17T04:34:33.000Z",
-      "xQuery": "ドコモ障害再発防止求める 総務相"
+      "url": "https://news.yahoo.co.jp/pickup/6602896?source=rss",
+      "publishedAt": "2026-11-17T05:41:59.000Z",
+      "xQuery": "文科相のパーティー問題 残る疑問"
     },
     {
-      "time": "12:02",
-      "title": "6歳虐待死 獄中の母が悔恨の手紙",
+      "time": "11:45",
+      "title": "イラン「汚い爆弾」米高官狙いか",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602886?source=rss",
-      "publishedAt": "2026-11-17T03:02:07.000Z",
-      "xQuery": "6歳虐待死 獄中の母が悔恨の手紙"
+      "url": "https://news.yahoo.co.jp/pickup/6602889?source=rss",
+      "publishedAt": "2026-11-17T02:45:26.000Z",
+      "xQuery": "イラン「汚い爆弾」米高官狙いか"
     },
     {
-      "time": "14:33",
-      "title": "公園の池に人骨のようなもの 大阪",
+      "time": "15:32",
+      "title": "東大寺でシカの体の一部見つかる",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602904?source=rss",
-      "publishedAt": "2026-11-17T05:33:59.000Z",
-      "xQuery": "公園の池に人骨のようなもの 大阪"
-    },
-    {
-      "time": "10:07",
-      "title": "しし座流星群 17日深夜から見ごろ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602874?source=rss",
-      "publishedAt": "2026-11-17T01:07:50.000Z",
-      "xQuery": "しし座流星群 17日深夜から見ごろ"
+      "url": "https://news.yahoo.co.jp/pickup/6602908?source=rss",
+      "publishedAt": "2026-11-17T06:32:01.000Z",
+      "xQuery": "東大寺でシカの体の一部見つかる"
     },
     {
       "time": "11:28",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6602885?source=rss",
       "publishedAt": "2026-11-17T02:28:36.000Z",
       "xQuery": "コメダがタイ初出店 朝から行列"
+    },
+    {
+      "time": "15:26",
+      "title": "グルメフェス炎上 主催者2人直撃",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6602907?source=rss",
+      "publishedAt": "2026-11-17T06:26:10.000Z",
+      "xQuery": "グルメフェス炎上 主催者2人直撃"
     }
   ]
 };

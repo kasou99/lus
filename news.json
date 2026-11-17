@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T06:20:12.347Z",
+  "updatedAt": "2026-11-17T06:42:02.214Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -10,18 +10,18 @@
         "publishedAt": "2026-11-16T22:00:00.000Z"
       },
       {
-        "time": "13:16",
-        "title": "【日研トータルソーシング】設備保全人材を育成する「東広島保全テクノセンター」が認定職業訓練関係優良事業所として広島県より表彰",
-        "source": "時事ドットコム",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBHaXN4YTVGd2tHWnRmQ01uT2cyNWI3RWhMd0xZNFB1MTRXeTMxTkFtVDFxLTdlVEZDOWs3Um93UEhubG9PSUtxbXhOcUh1Yk9rdGxoOU5FMkFrTTJ0N05TT0t6bXdibXBwVVJZ?oc=5",
-        "publishedAt": "2026-11-17T04:16:00.000Z"
-      },
-      {
         "time": "14:00",
         "title": "単体工作機械の世界市場（2026年～2032年）、市場規模（射出成形、プレス成形、その他）・分析レポートを発表",
         "source": "アットプレス",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBES1lWSWE0QTBPUmpzTHBpTTNhOTRJWW55a0JNUTh1dUdNUGdOVEJXVUs2RlY0UkVXNzdFOUpqTW40Zk03dGFqQjR6ZXY4bE0?oc=5",
         "publishedAt": "2026-11-17T05:00:00.000Z"
+      },
+      {
+        "time": "13:16",
+        "title": "【日研トータルソーシング】設備保全人材を育成する「東広島保全テクノセンター」が認定職業訓練関係優良事業所として広島県より表彰",
+        "source": "時事ドットコム",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBHaXN4YTVGd2tHWnRmQ01uT2cyNWI3RWhMd0xZNFB1MTRXeTMxTkFtVDFxLTdlVEZDOWs3Um93UEhubG9PSUtxbXhOcUh1Yk9rdGxoOU5FMkFrTTJ0N05TT0t6bXdibXBwVVJZ?oc=5",
+        "publishedAt": "2026-11-17T04:16:00.000Z"
       },
       {
         "time": "23:30",
@@ -45,18 +45,18 @@
         "publishedAt": "2026-11-17T04:00:00.000Z"
       },
       {
-        "time": "14:00",
-        "title": "産業用EMIフィルター市場、2032年に44億7,300万米ドルへ――産業用電力電子機器と再生可能エネルギー向け需要が拡大",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1YNGpma1BnZm5uc1dZREFINFZlc0w1ZUFoM01Vd3B5S0l6a2I2V3ZPR0ExcDgyRjljSWxVLUJIejRRenYwcTdzb3k3bkVkelNid3F2UERReWx3d1RHMmRnLWY4VWRBZ0VX?oc=5",
-        "publishedAt": "2026-11-17T05:00:42.000Z"
-      },
-      {
         "time": "10:30",
         "title": "人を支えるロボットに必要なものとは／マツダの新物流拠点、視察レポート",
         "source": "MONOist",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9qWUJlVWYyUmhXOUI5QzYtU0JoODVPdTJ6Z1B4R0ROSkZjc1JxbDVzc1hRMjd4MERGdHc3N2hJWjdWMXRTX2JxNDlmOG41WENoMTNveFZzZzJ5Z2tRQUtPaDRZVHhrZUI2R1pnRG1hQQ?oc=5",
         "publishedAt": "2026-11-17T01:30:00.000Z"
+      },
+      {
+        "time": "11:55",
+        "title": "LS Electric、ベトナム・バクニン第2工場を竣工…2030年売上3.5億ドルを狙う",
+        "source": "BigGo ファイナンス",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB2REV6ZmNBLW9vMXNFS2dCQk1HNjBqcVpVcTF4Q0dfeWpINkFoMktTXzFmT09RaUpOSTQyUTBvUTBBUnpYUzF5SVdWdGpTN1p0WUk5d1JlVjVJd241QlZkclpOU2g3Q2hwbXRQTVRIckxwN21a?oc=5",
+        "publishedAt": "2026-11-17T02:55:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -170,13 +170,6 @@
         "publishedAt": "2026-11-17T03:53:15.000Z"
       },
       {
-        "time": "07:44",
-        "title": "女性刺され死亡 雑に扱われたと男",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602858?source=rss",
-        "publishedAt": "2026-11-16T22:44:31.000Z"
-      },
-      {
         "time": "12:02",
         "title": "6歳虐待死 獄中の母が悔恨の手紙",
         "source": "Yahoo!ニュース",
@@ -189,6 +182,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6602875?source=rss",
         "publishedAt": "2026-11-17T01:18:28.000Z"
+      },
+      {
+        "time": "15:32",
+        "title": "東大寺でシカの体の一部見つかる",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6602908?source=rss",
+        "publishedAt": "2026-11-17T06:32:01.000Z"
       }
     ],
     "subsidyHeadlines": [
