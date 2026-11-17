@@ -1,14 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-17T00:30:19.233Z",
+  "updatedAt": "2026-11-17T01:12:19.202Z",
   "items": [
-    {
-      "time": "08:33",
-      "title": "日米豪印の共同文書案 概要が判明",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602863?source=rss",
-      "publishedAt": "2026-11-16T23:33:25.000Z",
-      "xQuery": "日米豪印の共同文書案 概要が判明"
-    },
     {
       "time": "08:08",
       "title": "米大統領 フアン氏復帰検討に理解",
@@ -16,6 +8,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6602861?source=rss",
       "publishedAt": "2026-11-16T23:08:34.000Z",
       "xQuery": "米大統領 フアン氏復帰検討に理解"
+    },
+    {
+      "time": "08:30",
+      "title": "3歳児虐待疑い 今年1月に児相把握",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6602862?source=rss",
+      "publishedAt": "2026-11-16T23:30:17.000Z",
+      "xQuery": "3歳児虐待疑い 今年1月に児相把握"
     },
     {
       "time": "07:44",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "女性刺され死亡 雑に扱われたと男"
     },
     {
+      "time": "09:56",
+      "title": "前橋市の住宅街にクマ 男性がけが",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6602873?source=rss",
+      "publishedAt": "2026-11-17T00:56:27.000Z",
+      "xQuery": "前橋市の住宅街にクマ 男性がけが"
+    },
+    {
       "time": "08:45",
       "title": "中3を逮捕 同級生の腹刺した疑い",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6602864?source=rss",
       "publishedAt": "2026-11-16T23:45:43.000Z",
       "xQuery": "中3を逮捕 同級生の腹刺した疑い"
-    },
-    {
-      "time": "09:26",
-      "title": "町内会入らずゴミ捨て場利用 賛否",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602868?source=rss",
-      "publishedAt": "2026-11-17T00:26:18.000Z",
-      "xQuery": "町内会入らずゴミ捨て場利用 賛否"
     }
   ]
 };

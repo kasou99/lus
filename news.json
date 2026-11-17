@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T00:30:17.864Z",
+  "updatedAt": "2026-11-17T01:12:18.463Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "09:46",
+        "title": "千葉豪雨 今も断水続くマンション",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6602870?source=rss",
+        "publishedAt": "2026-11-17T00:46:37.000Z"
+      },
+      {
         "time": "07:44",
         "title": "女性刺され死亡 雑に扱われたと男",
         "source": "Yahoo!ニュース",
@@ -170,25 +177,18 @@
         "publishedAt": "2026-11-16T23:30:17.000Z"
       },
       {
-        "time": "11:09",
-        "title": "元ジャンポケ斉藤被告 実刑判決",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602765?source=rss",
-        "publishedAt": "2026-11-16T02:09:34.000Z"
-      },
-      {
-        "time": "14:05",
-        "title": "判決不服 斉藤慎二被告が控訴",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602789?source=rss",
-        "publishedAt": "2026-11-16T05:05:29.000Z"
-      },
-      {
         "time": "06:11",
         "title": "元eggモデル殺害 過去に警察沙汰",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6602849?source=rss",
         "publishedAt": "2026-11-16T21:11:11.000Z"
+      },
+      {
+        "time": "09:56",
+        "title": "前橋市の住宅街にクマ 男性がけが",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6602873?source=rss",
+        "publishedAt": "2026-11-17T00:56:27.000Z"
       }
     ],
     "subsidyHeadlines": [
@@ -215,20 +215,6 @@
         "title": "中小企業省力化投資補助金の公募・採択情報を確認",
         "source": "中小機構",
         "url": "https://seisansei.smrj.go.jp/subsidy_info/laborsaving_subsidy.html"
-      },
-      {
-        "time": "17:00",
-        "title": "【2026年最新】中小企業向け補助金6制度まとめ｜締切・補助率・上限額一覧",
-        "source": "補助金ポータル",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Idm5vYjJtajVIYjhheTZVVTVQTXRXMndVNkRmWnVEZnZyNVRRV3ZncXZhREsxNXBqYXFZSlZmNHhLeHhkbUNRcXljRlJNWVh2ZmZrSXlsVVJsdGI5RGtBdmoxUGx1YlozMUE?oc=5",
-        "publishedAt": "2026-11-05T08:00:00.000Z"
-      },
-      {
-        "time": "16:00",
-        "title": "【補助金支援で3冠達成】エフアンドエム、「累計採択社数」「入金までの手続き支援社数」「提携金融機関数」で国内No.1を獲得",
-        "source": "イザ！",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9oUkVHU1R3aHdrYmpZbUtXWU9sNHNBQW1IMDkwVkJyRkVXR1ZyeVJwSDZxanExaU5idnk3U3ByQXJtdHlvUUpVU1ZkakVydWJUMTVwZVlwQnBUeTRJTVFnR1RmQnZwR05KTGxDeHhmRHlWN29hMjNYekhn?oc=5",
-        "publishedAt": "2026-11-16T07:00:00.000Z"
       }
     ]
   }
