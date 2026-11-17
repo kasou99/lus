@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-17T11:10:12.122Z",
+  "updatedAt": "2026-11-17T11:35:04.448Z",
   "items": [
     {
       "time": "18:15",
@@ -8,14 +8,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6602931?source=rss",
       "publishedAt": "2026-11-17T09:15:40.000Z",
       "xQuery": "首相と露大統領 接触の方向で調整"
-    },
-    {
-      "time": "18:40",
-      "title": "緊急地震速報の誤報巡る対応 完了",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602934?source=rss",
-      "publishedAt": "2026-11-17T09:40:39.000Z",
-      "xQuery": "緊急地震速報の誤報巡る対応 完了"
     },
     {
       "time": "18:41",
@@ -32,6 +24,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6602935?source=rss",
       "publishedAt": "2026-11-17T09:38:48.000Z",
       "xQuery": "楽天証券 最大1125万口座分流出か"
+    },
+    {
+      "time": "20:20",
+      "title": "政府広報 陰謀論系YouTuber起用",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6602941?source=rss",
+      "publishedAt": "2026-11-17T11:20:29.000Z",
+      "xQuery": "政府広報 陰謀論系YouTuber起用"
     },
     {
       "time": "19:05",
