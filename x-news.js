@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-17T01:12:19.202Z",
+  "updatedAt": "2026-11-17T01:39:13.279Z",
   "items": [
     {
       "time": "08:08",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "前橋市の住宅街にクマ 男性がけが"
     },
     {
-      "time": "08:45",
-      "title": "中3を逮捕 同級生の腹刺した疑い",
+      "time": "10:18",
+      "title": "菊地直子さん 逃亡の日々振り返る",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602864?source=rss",
-      "publishedAt": "2026-11-16T23:45:43.000Z",
-      "xQuery": "中3を逮捕 同級生の腹刺した疑い"
+      "url": "https://news.yahoo.co.jp/pickup/6602875?source=rss",
+      "publishedAt": "2026-11-17T01:18:28.000Z",
+      "xQuery": "菊地直子さん 逃亡の日々振り返る"
     }
   ]
 };
