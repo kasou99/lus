@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-17T13:36:11.661Z",
+  "updatedAt": "2026-11-17T14:11:54.934Z",
   "items": [
     {
-      "time": "20:50",
-      "title": "中国首相 高市氏との接触避けたか",
+      "time": "23:00",
+      "title": "日米豪印が共同文書 中国念頭",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602947?source=rss",
-      "publishedAt": "2026-11-17T11:50:49.000Z",
-      "xQuery": "中国首相 高市氏との接触避けたか"
+      "url": "https://news.yahoo.co.jp/pickup/6602965?source=rss",
+      "publishedAt": "2026-11-17T14:00:52.000Z",
+      "xQuery": "日米豪印が共同文書 中国念頭"
     },
     {
       "time": "22:02",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "ASEAN 米大統領へ「特別待遇」"
     },
     {
-      "time": "21:30",
-      "title": "「JINS」最大1829万件の情報流出",
+      "time": "22:57",
+      "title": "米大統領 冗談交じりに高市氏評す",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602951?source=rss",
-      "publishedAt": "2026-11-17T12:30:05.000Z",
-      "xQuery": "「JINS」最大1829万件の情報流出"
+      "url": "https://news.yahoo.co.jp/pickup/6602960?source=rss",
+      "publishedAt": "2026-11-17T13:57:09.000Z",
+      "xQuery": "米大統領 冗談交じりに高市氏評す"
     },
     {
       "time": "21:03",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "JT ロシア問題で巨額損失の恐れ"
     },
     {
-      "time": "20:20",
-      "title": "政府広報 陰謀論系YouTuber起用",
+      "time": "22:48",
+      "title": "交際1人でも子宮頸がん 子供諦め",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602941?source=rss",
-      "publishedAt": "2026-11-17T11:20:29.000Z",
-      "xQuery": "政府広報 陰謀論系YouTuber起用"
+      "url": "https://news.yahoo.co.jp/pickup/6602962?source=rss",
+      "publishedAt": "2026-11-17T13:48:07.000Z",
+      "xQuery": "交際1人でも子宮頸がん 子供諦め"
     }
   ]
 };
