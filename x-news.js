@@ -1,29 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-17T01:39:13.279Z",
+  "updatedAt": "2026-11-17T02:16:14.506Z",
   "items": [
     {
-      "time": "08:08",
-      "title": "米大統領 フアン氏復帰検討に理解",
+      "time": "10:47",
+      "title": "推定ロシア機領空侵犯 福岡沖ノ島",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602861?source=rss",
-      "publishedAt": "2026-11-16T23:08:34.000Z",
-      "xQuery": "米大統領 フアン氏復帰検討に理解"
+      "url": "https://news.yahoo.co.jp/pickup/6602882?source=rss",
+      "publishedAt": "2026-11-17T01:47:00.000Z",
+      "xQuery": "推定ロシア機領空侵犯 福岡沖ノ島"
     },
     {
-      "time": "08:30",
-      "title": "3歳児虐待疑い 今年1月に児相把握",
+      "time": "09:46",
+      "title": "千葉豪雨 今も断水続くマンション",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602862?source=rss",
-      "publishedAt": "2026-11-16T23:30:17.000Z",
-      "xQuery": "3歳児虐待疑い 今年1月に児相把握"
+      "url": "https://news.yahoo.co.jp/pickup/6602870?source=rss",
+      "publishedAt": "2026-11-17T00:46:37.000Z",
+      "xQuery": "千葉豪雨 今も断水続くマンション"
     },
     {
-      "time": "07:44",
-      "title": "女性刺され死亡 雑に扱われたと男",
+      "time": "10:32",
+      "title": "MS大規模障害 幹部が原因を説明",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602858?source=rss",
-      "publishedAt": "2026-11-16T22:44:31.000Z",
-      "xQuery": "女性刺され死亡 雑に扱われたと男"
+      "url": "https://news.yahoo.co.jp/pickup/6602871?source=rss",
+      "publishedAt": "2026-11-17T01:32:41.000Z",
+      "xQuery": "MS大規模障害 幹部が原因を説明"
     },
     {
       "time": "09:56",
