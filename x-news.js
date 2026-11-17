@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-17T10:36:10.561Z",
+  "updatedAt": "2026-11-17T11:10:12.122Z",
   "items": [
     {
       "time": "18:15",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "楽天証券 最大1125万口座分流出か"
     },
     {
-      "time": "16:58",
-      "title": "物議の選挙ポスター AIと認める",
+      "time": "19:05",
+      "title": "「女性専用」ジム拡大 悩みに対応",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602918?source=rss",
-      "publishedAt": "2026-11-17T07:58:54.000Z",
-      "xQuery": "物議の選挙ポスター AIと認める"
+      "url": "https://news.yahoo.co.jp/pickup/6602937?source=rss",
+      "publishedAt": "2026-11-17T10:05:34.000Z",
+      "xQuery": "「女性専用」ジム拡大 悩みに対応"
     }
   ]
 };
