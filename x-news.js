@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-17T03:35:58.164Z",
+  "updatedAt": "2026-11-17T04:13:15.209Z",
   "items": [
     {
-      "time": "11:56",
-      "title": "「伝説の左腕」江夏豊さんが死去",
+      "time": "09:09",
+      "title": "米大統領 金正恩氏と会談の可能性",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602890?source=rss",
-      "publishedAt": "2026-11-17T02:56:39.000Z",
-      "xQuery": "「伝説の左腕」江夏豊さんが死去"
+      "url": "https://news.yahoo.co.jp/pickup/6602867?source=rss",
+      "publishedAt": "2026-11-17T00:09:18.000Z",
+      "xQuery": "米大統領 金正恩氏と会談の可能性"
     },
     {
       "time": "09:05",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "「防衛産業基盤戦略」概要が判明"
     },
     {
-      "time": "10:32",
-      "title": "MS大規模障害 幹部が原因を説明",
+      "time": "12:53",
+      "title": "ケーキ店死傷 死亡の男を書類送検",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602871?source=rss",
-      "publishedAt": "2026-11-17T01:32:41.000Z",
-      "xQuery": "MS大規模障害 幹部が原因を説明"
+      "url": "https://news.yahoo.co.jp/pickup/6602897?source=rss",
+      "publishedAt": "2026-11-17T03:53:15.000Z",
+      "xQuery": "ケーキ店死傷 死亡の男を書類送検"
     },
     {
       "time": "10:18",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "菊地直子さん 逃亡の日々振り返る"
     },
     {
-      "time": "11:16",
-      "title": "東京・葛飾区の住宅街にシカ1頭",
+      "time": "10:47",
+      "title": "「白い麻婆豆腐」じわじわ拡大",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602884?source=rss",
-      "publishedAt": "2026-11-17T02:16:52.000Z",
-      "xQuery": "東京・葛飾区の住宅街にシカ1頭"
+      "url": "https://news.yahoo.co.jp/pickup/6602880?source=rss",
+      "publishedAt": "2026-11-17T01:47:32.000Z",
+      "xQuery": "「白い麻婆豆腐」じわじわ拡大"
     }
   ]
 };
