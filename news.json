@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T16:35:41.477Z",
+  "updatedAt": "2026-11-17T17:10:57.719Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,13 +38,6 @@
         "publishedAt": "2026-11-17T01:30:00.000Z"
       },
       {
-        "time": "17:01",
-        "title": "歯車製造する複合加工機 新開発 主力旋盤ベースに機能強化 ＴＡＫＩＳＡＷＡ",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1KSjZPZWk3RHhwZmMteVVrSHY3VU9hbGg3WHQ1WHdtNUVRVlJNdWNsYVBITW1HanZoQVJPenlzbWlJQ3Y4cE9TdzBYVjd6RzlIZUE?oc=5",
-        "publishedAt": "2026-11-17T08:01:29.000Z"
-      },
-      {
         "time": "14:37",
         "title": "メタルバンドソーマシンマーケットリサーチ：調査方法・市場動向・業界規模",
         "source": "Newscast.jp",
@@ -57,6 +50,13 @@
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9BWXEtQS1EbTdRR0YxMzBEQndpS2xMbHpBTkZvaFlIblNIU0J4M2hvY1Z6LVktTjQ3bzVZTktuNVZwV1A0ZHR4VkVlYmVvdERZUGNTTHE4clk?oc=5",
         "publishedAt": "2026-11-16T20:00:00.000Z"
+      },
+      {
+        "time": "14:00",
+        "title": "産業用EMIフィルター市場、2032年に44億7,300万米ドルへ――産業用電力電子機器と再生可能エネルギー向け需要が拡大",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1YNGpma1BnZm5uc1dZREFINFZlc0w1ZUFoM01Vd3B5S0l6a2I2V3ZPR0ExcDgyRjljSWxVLUJIejRRenYwcTdzb3k3bkVkelNid3F2UERReWx3d1RHMmRnLWY4VWRBZ0VX?oc=5",
+        "publishedAt": "2026-11-17T05:00:42.000Z"
       }
     ],
     "worldHeadlines": [
