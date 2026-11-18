@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-18T21:35:43.387Z",
+  "updatedAt": "2026-11-18T22:10:13.870Z",
   "items": [
     {
       "time": "02:27",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "首相 プーチン大統領と30分対話"
     },
     {
-      "time": "21:11",
-      "title": "支援金 対象年収下限「56万円」案",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603076?source=rss",
-      "publishedAt": "2026-11-18T12:11:23.000Z",
-      "xQuery": "支援金 対象年収下限「56万円」案"
-    },
-    {
       "time": "22:52",
       "title": "富士山で中国人遭難 捜索打ち切り",
       "source": "Yahoo!ニュース",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6603093?source=rss",
       "publishedAt": "2026-11-18T15:00:45.000Z",
       "xQuery": "NHK飲み会通達 記者が不満漏らす"
+    },
+    {
+      "time": "23:05",
+      "title": "川に展示の美術作品 さらに破壊か",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603090?source=rss",
+      "publishedAt": "2026-11-18T14:05:12.000Z",
+      "xQuery": "川に展示の美術作品 さらに破壊か"
     }
   ]
 };
