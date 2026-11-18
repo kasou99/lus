@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T16:36:34.233Z",
+  "updatedAt": "2026-11-18T17:09:59.287Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -41,8 +41,15 @@
         "time": "19:43",
         "title": "株式会社設備保全総合研究所が提供する『EMLink』で保全業務を自動化する新機能の発表",
         "source": "ニュースメディアVOIX",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE53Q2pra1FaTjV3UW9yT3dsV3FQVmpWaGlyLTJfQTM2VHZNazkzUHFmSW9aaXktU0dla1U5dXZxMHVTdmxCQjNHLS1GV1BDal9GUEZMcmMwZlpDQ1BDU25BS2JqajJpY0s0Q1c4dm9KV1lzZw?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ITzhfZE53YjllMWYxRDFXdmZiQUNDS2lMZGRvMTgxY0MtY2tKWTFfeU1XWWctMlBpSVY4ZTFNQVNObzMwSzJsS0FXTzdTMlpwazdSdEpRZXlMbUZiQjU2MWZfQXEzQjZSQnQyWnVmQQ?oc=5",
         "publishedAt": "2026-11-18T10:43:32.000Z"
+      },
+      {
+        "time": "19:55",
+        "title": "FESTO、食品や医薬品業界向けに衛生設計の電動駆動ソリューションを発売シリンダとサーボモータ、ケーブルを統合",
+        "source": "オートメーション新聞WEB",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBEclgyN0lad01iLTRnS1FEcGo4VmFYOE5YTVkzQVdnNjhybURSa0d5TWI2UVVnUEMzMjc0dWl3Wng1Nkxyb3l2cXBIdklkUkdtUThWZDBrTlFMdw?oc=5",
+        "publishedAt": "2026-11-18T10:55:00.000Z"
       },
       {
         "time": "13:34",
@@ -50,13 +57,6 @@
         "source": "Newscast.jp",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9sYXRtQU90bTlyUmRiUDhlSHdjSUl0a2dpOWtTZnQ0NXpFUGdXQUwxYkFORnZNX3hYRHM5ZnJnUGphQ3JmYVFuNEd4dUFLMUk?oc=5",
         "publishedAt": "2026-11-18T04:34:00.000Z"
-      },
-      {
-        "time": "22:35",
-        "title": "鴻池運輸、日進機工を175億円で買収 ウオータージェット技術で保全事業を強化",
-        "source": "BigGo ファイナンス",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1NWkczbEs1QWJQUko1VV90UXBkSUNVUXI2WWRTNHdCWEh3Wk1oNFh6clEyS3RBRGQ3TTRCR0x4X2Nna3B1V1FYenMtU0FudTZKeW9KQ2lWUndwa1VLQ29WbHNFTjNfOW5vZ0dMN0IwMnFHVGp0?oc=5",
-        "publishedAt": "2026-11-18T13:35:00.000Z"
       }
     ],
     "worldHeadlines": [
