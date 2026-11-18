@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-18T04:35:36.431Z",
+  "updatedAt": "2026-11-18T05:11:34.801Z",
   "items": [
     {
-      "time": "11:58",
-      "title": "リニア開業時期 年内公表を断念",
+      "time": "13:35",
+      "title": "米中間選挙 上院で全議席が固まる",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603011?source=rss",
-      "publishedAt": "2026-11-18T02:58:23.000Z",
-      "xQuery": "リニア開業時期 年内公表を断念"
+      "url": "https://news.yahoo.co.jp/pickup/6603024?source=rss",
+      "publishedAt": "2026-11-18T04:35:35.000Z",
+      "xQuery": "米中間選挙 上院で全議席が固まる"
     },
     {
-      "time": "09:45",
-      "title": "小型船に緑ナンバー導入へ 国交省",
+      "time": "13:58",
+      "title": "3歳娘死亡 傷害致死疑いで父逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602995?source=rss",
-      "publishedAt": "2026-11-18T00:45:45.000Z",
-      "xQuery": "小型船に緑ナンバー導入へ 国交省"
+      "url": "https://news.yahoo.co.jp/pickup/6603028?source=rss",
+      "publishedAt": "2026-11-18T04:58:13.000Z",
+      "xQuery": "3歳娘死亡 傷害致死疑いで父逮捕"
     },
     {
       "time": "12:42",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "中野刺殺 女性に800万円使った"
     },
     {
+      "time": "13:55",
+      "title": "1.2億円入り金庫盗んだ疑い 逮捕",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603027?source=rss",
+      "publishedAt": "2026-11-18T04:55:53.000Z",
+      "xQuery": "1.2億円入り金庫盗んだ疑い 逮捕"
+    },
+    {
       "time": "11:58",
       "title": "市が誤送付した個人情報 SNS拡散",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6603012?source=rss",
       "publishedAt": "2026-11-18T02:58:00.000Z",
       "xQuery": "市が誤送付した個人情報 SNS拡散"
-    },
-    {
-      "time": "12:33",
-      "title": "KDDI新「INFOBAR」発表 8年ぶり",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603018?source=rss",
-      "publishedAt": "2026-11-18T03:33:51.000Z",
-      "xQuery": "KDDI新「INFOBAR」発表 8年ぶり"
     }
   ]
 };
