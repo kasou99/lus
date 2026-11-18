@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-18T14:36:22.947Z",
+  "updatedAt": "2026-11-18T15:11:06.671Z",
   "items": [
     {
       "time": "21:11",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "支援金 対象年収下限「56万円」案"
     },
     {
-      "time": "21:57",
-      "title": "APEC首脳宣言 AI活用などで調整",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603083?source=rss",
-      "publishedAt": "2026-11-18T12:57:53.000Z",
-      "xQuery": "APEC首脳宣言 AI活用などで調整"
-    },
-    {
       "time": "22:07",
       "title": "日中首脳が握手 会談は見送りへ",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6603084?source=rss",
       "publishedAt": "2026-11-18T13:07:07.000Z",
       "xQuery": "日中首脳が握手 会談は見送りへ"
+    },
+    {
+      "time": "22:36",
+      "title": "香港の夜景ショー 22年の歴史に幕",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603088?source=rss",
+      "publishedAt": "2026-11-18T13:36:13.000Z",
+      "xQuery": "香港の夜景ショー 22年の歴史に幕"
     },
     {
       "time": "22:52",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "富士山で中国人遭難 捜索打ち切り"
     },
     {
-      "time": "17:26",
-      "title": "Suica「紫のうさぎ」得票率51.7%",
+      "time": "00:00",
+      "title": "NHK飲み会通達 記者が不満漏らす",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603054?source=rss",
-      "publishedAt": "2026-11-18T08:26:46.000Z",
-      "xQuery": "Suica「紫のうさぎ」得票率51.7%"
+      "url": "https://news.yahoo.co.jp/pickup/6603093?source=rss",
+      "publishedAt": "2026-11-18T15:00:45.000Z",
+      "xQuery": "NHK飲み会通達 記者が不満漏らす"
     }
   ]
 };
