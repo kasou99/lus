@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-18T05:11:34.801Z",
+  "updatedAt": "2026-11-18T05:36:41.960Z",
   "items": [
     {
       "time": "13:35",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "中野刺殺 女性に800万円使った"
     },
     {
-      "time": "13:55",
-      "title": "1.2億円入り金庫盗んだ疑い 逮捕",
+      "time": "14:06",
+      "title": "楽天証券 情報漏えいの確認方法",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603027?source=rss",
-      "publishedAt": "2026-11-18T04:55:53.000Z",
-      "xQuery": "1.2億円入り金庫盗んだ疑い 逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6603030?source=rss",
+      "publishedAt": "2026-11-18T05:06:26.000Z",
+      "xQuery": "楽天証券 情報漏えいの確認方法"
     },
     {
-      "time": "11:58",
-      "title": "市が誤送付した個人情報 SNS拡散",
+      "time": "12:33",
+      "title": "KDDI新「INFOBAR」発表 8年ぶり",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603012?source=rss",
-      "publishedAt": "2026-11-18T02:58:00.000Z",
-      "xQuery": "市が誤送付した個人情報 SNS拡散"
+      "url": "https://news.yahoo.co.jp/pickup/6603018?source=rss",
+      "publishedAt": "2026-11-18T03:33:51.000Z",
+      "xQuery": "KDDI新「INFOBAR」発表 8年ぶり"
     }
   ]
 };

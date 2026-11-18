@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T05:11:34.203Z",
+  "updatedAt": "2026-11-18T05:36:41.065Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -39,17 +39,17 @@
       },
       {
         "time": "05:00",
-        "title": "丸紅情報、工場のサイバー対策支援 OT領域、網屋と連携",
+        "title": "園芸博協会が専用アプリ 体験型で自然環境学ぶ",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1FaVc5c29ob0J0OERrRkJoUGViZk5uNi04bElSTk9QbmlzaDlmMEtJb1ZrMV85Rmg4cmtGZDgwSXAtZGhHRzl3SllCOUV3MW00TWYtOUZidU4?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBXU2xXbDJfUzE2VndBRUpObHdCVjlCRVdHQTFwX2hXTXNVbll4R3QxdURZTzNRZnJodWo0S3NNR09EMGRWQkxLb3BJbzlMbHNkMTVKRWxRUnE?oc=5",
         "publishedAt": "2026-11-17T20:00:00.000Z"
       },
       {
-        "time": "17:00",
-        "title": "歯車製造する複合加工機 新開発 主力旋盤ベースに機能強化 ＴＡＫＩＳＡＷＡ",
+        "time": "20:08",
+        "title": "【探訪ザ・カンパニー】オーザック（福山市）安全支えるワイヤ金具",
         "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1KSjZPZWk3RHhwZmMteVVrSHY3VU9hbGg3WHQ1WHdtNUVRVlJNdWNsYVBITW1HanZoQVJPenlzbWlJQ3Y4cE9TdzBYVjd6RzlIZUE?oc=5",
-        "publishedAt": "2026-11-17T08:00:00.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB2YnlPN09iTUcyOGNldkhrT1k5RzQ5M0pLNkE3NkV1YzJxUDFPam9xOTV6dFZva2ZrNHNxNkZIOGYxMXN6R1JyUHFIMXZIamRMT2c?oc=5",
+        "publishedAt": "2026-11-17T11:08:56.000Z"
       },
       {
         "time": "11:00",
@@ -96,14 +96,21 @@
         "publishedAt": "2026-11-17T11:50:49.000Z"
       },
       {
-        "time": "22:02",
-        "title": "ASEAN 米大統領へ「特別待遇」",
+        "time": "14:21",
+        "title": "栄養失調の子25万人超恐れ ハイチ",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602954?source=rss",
-        "publishedAt": "2026-11-17T13:02:27.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6603029?source=rss",
+        "publishedAt": "2026-11-18T05:21:23.000Z"
       }
     ],
     "economyHeadlines": [
+      {
+        "time": "14:18",
+        "title": "Suica新キャラは「紫のうさぎ」",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6603031?source=rss",
+        "publishedAt": "2026-11-18T05:18:31.000Z"
+      },
       {
         "time": "11:58",
         "title": "リニア開業時期 年内公表を断念",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6602976?source=rss",
         "publishedAt": "2026-11-17T21:19:02.000Z"
-      },
-      {
-        "time": "10:04",
-        "title": "経済損失1.2兆円 男性更年期対策",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602999?source=rss",
-        "publishedAt": "2026-11-18T01:04:04.000Z"
       }
     ],
     "localHeadlines": [
