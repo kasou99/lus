@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-18T06:41:52.451Z",
+  "updatedAt": "2026-11-18T07:13:08.622Z",
   "groups": {
     "machineHeadlines": [
       {
-        "time": "09:57",
+        "time": "15:04",
         "title": "JIMTOF2026 視察レポート｜「売った後」で勝負する時代へ ― 工作機械メーカー各社のCS×生成AI展示を見てきました",
         "source": "株式会社マクニカ",
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBubXI1dngzbFUtSV9nZVNFeG9FeG5RYzZFSDBrQ0w4OXU4M21GVGdmNXRIWkR3Nl9jemJyX0FtWGo2UDZrMy1zV2kzQ2xwSkVGV3VxRWhZbWhvSTdwN2I0ZDJ0WnVYdEFR?oc=5",
-        "publishedAt": "2026-11-18T00:57:32.000Z"
+        "publishedAt": "2026-11-18T06:04:04.000Z"
       },
       {
         "time": "11:33",
@@ -31,13 +31,6 @@
         "publishedAt": "2026-11-17T09:21:43.000Z"
       },
       {
-        "time": "12:55",
-        "title": "日立社員、「卓越した技能者(現代の名工)」として厚生労働大臣表彰を受賞：デジタル：日立",
-        "source": "Hitachi Global",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8wSC1vQnVzZmZzT1pWaDQ0Qm93M2ZkZjJxNWt4LW5YSlVLd29Tb3o0YkhNQUU4cmtuTzZTYzVJcjNpMi1SQTBxUVB6MDVCVDFwV3pScHhtU0FzaF9vN3RHVWgtZVpnQkFWbDVuaFQ3U2dsVWp2Zk5YQkt5eWwtSm8?oc=5",
-        "publishedAt": "2026-11-18T03:55:28.000Z"
-      },
-      {
         "time": "13:34",
         "title": "サーボシステムマーケットリサーチ：調査方法・市場動向・業界規模",
         "source": "Newscast.jp",
@@ -46,9 +39,9 @@
       },
       {
         "time": "05:00",
-        "title": "園芸博協会が専用アプリ 体験型で自然環境学ぶ",
+        "title": "丸紅情報、工場のサイバー対策支援 OT領域、網屋と連携",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBXU2xXbDJfUzE2VndBRUpObHdCVjlCRVdHQTFwX2hXTXNVbll4R3QxdURZTzNRZnJodWo0S3NNR09EMGRWQkxLb3BJbzlMbHNkMTVKRWxRUnE?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1FaVc5c29ob0J0OERrRkJoUGViZk5uNi04bElSTk9QbmlzaDlmMEtJb1ZrMV85Rmg4cmtGZDgwSXAtZGhHRzl3SllCOUV3MW00TWYtOUZidU4?oc=5",
         "publishedAt": "2026-11-17T20:00:00.000Z"
       },
       {
@@ -57,6 +50,13 @@
         "source": "岡山経済新聞",
         "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5YdkV0U2poSTZvR25CTVVzcEw2RnFUVkNMaERkTHh5ZTBlak1nY0NGem5aOERKSmlwUWF4Q3BjTFk3UWh5bmRVQnJSSFV1WGwwLWpBWA?oc=5",
         "publishedAt": "2026-11-18T05:58:16.000Z"
+      },
+      {
+        "time": "11:00",
+        "title": "40～75℃の過酷環境でも安定動作する、省スペース・コンパクト設計の産業用ギガビットハブを発売",
+        "source": "テクノエッジ TechnoEdge",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9yeXp3WWpHcFlNbU43ZUptWF84cjBrRk1UVEVjR3A5cDlNTWRjcG9PVF9HanRrbzlTRnJqT0xCN05ZaTZ2M1hYX210ZW1IbE1Cci1ZeTJrZnNsV21qWDlRdUNzRlBKTUJvSTJyblFLSEtaQQ?oc=5",
+        "publishedAt": "2026-11-18T02:00:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -68,18 +68,18 @@
         "publishedAt": "2026-11-18T04:35:35.000Z"
       },
       {
+        "time": "15:43",
+        "title": "露大統領APEC議長国に立候補表明",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6603038?source=rss",
+        "publishedAt": "2026-11-18T06:43:12.000Z"
+      },
+      {
         "time": "09:37",
         "title": "APECきょう開幕 付近は厳戒態勢",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6602997?source=rss",
         "publishedAt": "2026-11-18T00:37:51.000Z"
-      },
-      {
-        "time": "23:00",
-        "title": "日米豪印が共同文書 中国念頭",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602965?source=rss",
-        "publishedAt": "2026-11-17T14:00:52.000Z"
       },
       {
         "time": "22:57",
