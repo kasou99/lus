@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-18T07:36:09.180Z",
+  "updatedAt": "2026-11-18T08:15:45.074Z",
   "items": [
     {
       "time": "15:17",
@@ -10,6 +10,14 @@ window.LUS_X_NEWS = {
       "xQuery": "受刑者の選挙権制限は合憲 最高裁"
     },
     {
+      "time": "15:43",
+      "title": "露大統領APEC議長国に立候補表明",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603038?source=rss",
+      "publishedAt": "2026-11-18T06:43:12.000Z",
+      "xQuery": "露大統領APEC議長国に立候補表明"
+    },
+    {
       "time": "15:40",
       "title": "関文科相 24年3月にもパーティー",
       "source": "Yahoo!ニュース",
@@ -18,28 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "関文科相 24年3月にもパーティー"
     },
     {
-      "time": "13:12",
-      "title": "半導体 調達ルート狭まる中国企業",
+      "time": "15:11",
+      "title": "Suica新キャラ紫のうさぎ X反応",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603014?source=rss",
-      "publishedAt": "2026-11-18T04:12:43.000Z",
-      "xQuery": "半導体 調達ルート狭まる中国企業"
+      "url": "https://news.yahoo.co.jp/pickup/6603032?source=rss",
+      "publishedAt": "2026-11-18T06:11:31.000Z",
+      "xQuery": "Suica新キャラ紫のうさぎ X反応"
     },
     {
-      "time": "15:37",
-      "title": "NHK会長「飲み会」通達巡り言及",
+      "time": "16:56",
+      "title": "余った給食売る自販機 保護者が列",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603039?source=rss",
-      "publishedAt": "2026-11-18T06:37:52.000Z",
-      "xQuery": "NHK会長「飲み会」通達巡り言及"
-    },
-    {
-      "time": "14:06",
-      "title": "楽天証券 情報漏えいの確認方法",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603030?source=rss",
-      "publishedAt": "2026-11-18T05:06:26.000Z",
-      "xQuery": "楽天証券 情報漏えいの確認方法"
+      "url": "https://news.yahoo.co.jp/pickup/6603050?source=rss",
+      "publishedAt": "2026-11-18T07:56:41.000Z",
+      "xQuery": "余った給食売る自販機 保護者が列"
     }
   ]
 };
