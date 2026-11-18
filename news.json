@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T13:36:02.561Z",
+  "updatedAt": "2026-11-18T14:11:31.396Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -96,11 +96,11 @@
         "publishedAt": "2026-11-18T06:43:12.000Z"
       },
       {
-        "time": "14:21",
-        "title": "栄養失調の子25万人超恐れ ハイチ",
+        "time": "13:12",
+        "title": "半導体 調達ルート狭まる中国企業",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6603029?source=rss",
-        "publishedAt": "2026-11-18T05:21:23.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6603014?source=rss",
+        "publishedAt": "2026-11-18T04:12:43.000Z"
       }
     ],
     "economyHeadlines": [
@@ -140,11 +140,11 @@
         "publishedAt": "2026-11-18T05:18:31.000Z"
       },
       {
-        "time": "15:11",
-        "title": "Suica新キャラ紫のうさぎ X反応",
+        "time": "22:40",
+        "title": "飲み会巡る通達 NHK記者は戸惑い",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6603032?source=rss",
-        "publishedAt": "2026-11-18T06:11:31.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6603085?source=rss",
+        "publishedAt": "2026-11-18T13:40:48.000Z"
       }
     ],
     "localHeadlines": [
@@ -163,6 +163,13 @@
         "publishedAt": "2026-11-18T13:34:01.000Z"
       },
       {
+        "time": "22:52",
+        "title": "富士山で中国人遭難 捜索打ち切り",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6603089?source=rss",
+        "publishedAt": "2026-11-18T13:52:58.000Z"
+      },
+      {
         "time": "20:43",
         "title": "市長のハワイ出張 妻が私費で同行",
         "source": "Yahoo!ニュース",
@@ -177,18 +184,11 @@
         "publishedAt": "2026-11-18T12:55:59.000Z"
       },
       {
-        "time": "12:42",
-        "title": "中野刺殺 女性に800万円使った",
+        "time": "23:05",
+        "title": "川に展示の美術作品 さらに破壊か",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6603017?source=rss",
-        "publishedAt": "2026-11-18T03:42:54.000Z"
-      },
-      {
-        "time": "11:58",
-        "title": "市が誤送付した個人情報 SNS拡散",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6603012?source=rss",
-        "publishedAt": "2026-11-18T02:58:00.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6603090?source=rss",
+        "publishedAt": "2026-11-18T14:05:12.000Z"
       }
     ],
     "subsidyHeadlines": [
@@ -215,6 +215,20 @@
         "title": "中小企業省力化投資補助金の公募・採択情報を確認",
         "source": "中小機構",
         "url": "https://seisansei.smrj.go.jp/subsidy_info/laborsaving_subsidy.html"
+      },
+      {
+        "time": "17:00",
+        "title": "【2026年最新】中小企業向け補助金6制度まとめ｜締切・補助率・上限額一覧",
+        "source": "補助金ポータル",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Idm5vYjJtajVIYjhheTZVVTVQTXRXMndVNkRmWnVEZnZyNVRRV3ZncXZhREsxNXBqYXFZSlZmNHhLeHhkbUNRcXljRlJNWVh2ZmZrSXlsVVJsdGI5RGtBdmoxUGx1YlozMUE?oc=5",
+        "publishedAt": "2026-11-05T08:00:00.000Z"
+      },
+      {
+        "time": "17:00",
+        "title": "介護テクノロジー導入支援事業【令和9年度240億円】補助率4/5・47都道府県の受付状況と今からの準備",
+        "source": "補助金ポータル",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBmTVZVRlpoUS0weXJ2SG5VVGNZczBDTzVDV3pGTmY4R0Zib2tMVTdVclRkVmRNVy1DWlFEV2xJcVIxelpNQWVlaUhqR0lObS1QczhieDF4T0N0Y3A4Y0trYw?oc=5",
+        "publishedAt": "2026-11-12T08:00:00.000Z"
       }
     ]
   }

@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-18T13:36:03.101Z",
+  "updatedAt": "2026-11-18T14:11:32.114Z",
   "items": [
     {
       "time": "21:11",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "日中首脳が握手 会談は見送りへ"
     },
     {
-      "time": "18:40",
-      "title": "EVなどに新税 28年5月導入で調整",
+      "time": "21:55",
+      "title": "娘殺された公園 ベンチ寄贈した父",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603065?source=rss",
-      "publishedAt": "2026-11-18T09:40:12.000Z",
-      "xQuery": "EVなどに新税 28年5月導入で調整"
+      "url": "https://news.yahoo.co.jp/pickup/6603080?source=rss",
+      "publishedAt": "2026-11-18T12:55:59.000Z",
+      "xQuery": "娘殺された公園 ベンチ寄贈した父"
     },
     {
-      "time": "21:17",
-      "title": "SA・PAのゴミ箱 280カ所で廃止へ",
+      "time": "20:43",
+      "title": "市長のハワイ出張 妻が私費で同行",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603078?source=rss",
-      "publishedAt": "2026-11-18T12:17:04.000Z",
-      "xQuery": "SA・PAのゴミ箱 280カ所で廃止へ"
+      "url": "https://news.yahoo.co.jp/pickup/6603071?source=rss",
+      "publishedAt": "2026-11-18T11:43:05.000Z",
+      "xQuery": "市長のハワイ出張 妻が私費で同行"
     }
   ]
 };
