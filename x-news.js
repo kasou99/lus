@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-18T08:35:24.213Z",
+  "updatedAt": "2026-11-18T09:12:22.996Z",
   "items": [
+    {
+      "time": "17:51",
+      "title": "DHC 顧客氏名など1911万件漏えい",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603058?source=rss",
+      "publishedAt": "2026-11-18T08:51:06.000Z",
+      "xQuery": "DHC 顧客氏名など1911万件漏えい"
+    },
     {
       "time": "16:40",
       "title": "日本車の部品 一部共通化する方針",
@@ -10,36 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "日本車の部品 一部共通化する方針"
     },
     {
-      "time": "15:17",
-      "title": "受刑者の選挙権制限は合憲 最高裁",
+      "time": "17:42",
+      "title": "高市氏が中国到着 歓迎に各国と差",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603035?source=rss",
-      "publishedAt": "2026-11-18T06:17:47.000Z",
-      "xQuery": "受刑者の選挙権制限は合憲 最高裁"
+      "url": "https://news.yahoo.co.jp/pickup/6603057?source=rss",
+      "publishedAt": "2026-11-18T08:42:41.000Z",
+      "xQuery": "高市氏が中国到着 歓迎に各国と差"
     },
     {
-      "time": "15:43",
-      "title": "露大統領APEC議長国に立候補表明",
+      "time": "16:38",
+      "title": "米大統領に出前ふるまう 比大統領",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603038?source=rss",
-      "publishedAt": "2026-11-18T06:43:12.000Z",
-      "xQuery": "露大統領APEC議長国に立候補表明"
+      "url": "https://news.yahoo.co.jp/pickup/6603048?source=rss",
+      "publishedAt": "2026-11-18T07:38:16.000Z",
+      "xQuery": "米大統領に出前ふるまう 比大統領"
     },
     {
-      "time": "15:11",
-      "title": "Suica新キャラ紫のうさぎ X反応",
+      "time": "16:32",
+      "title": "Suica新キャラ A案とC案も活用へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603032?source=rss",
-      "publishedAt": "2026-11-18T06:11:31.000Z",
-      "xQuery": "Suica新キャラ紫のうさぎ X反応"
-    },
-    {
-      "time": "16:56",
-      "title": "余った給食売る自販機 保護者が列",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603050?source=rss",
-      "publishedAt": "2026-11-18T07:56:41.000Z",
-      "xQuery": "余った給食売る自販機 保護者が列"
+      "url": "https://news.yahoo.co.jp/pickup/6603046?source=rss",
+      "publishedAt": "2026-11-18T07:32:25.000Z",
+      "xQuery": "Suica新キャラ A案とC案も活用へ"
     }
   ]
 };
