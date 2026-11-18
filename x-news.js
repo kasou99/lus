@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-18T21:09:49.610Z",
+  "updatedAt": "2026-11-18T21:35:43.387Z",
   "items": [
     {
       "time": "02:27",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "熊本県で震度5弱 津波の心配なし"
     },
     {
+      "time": "06:13",
+      "title": "首相 プーチン大統領と30分対話",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603096?source=rss",
+      "publishedAt": "2026-11-18T21:13:33.000Z",
+      "xQuery": "首相 プーチン大統領と30分対話"
+    },
+    {
       "time": "21:11",
       "title": "支援金 対象年収下限「56万円」案",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6603076?source=rss",
       "publishedAt": "2026-11-18T12:11:23.000Z",
       "xQuery": "支援金 対象年収下限「56万円」案"
-    },
-    {
-      "time": "22:07",
-      "title": "日中首脳が握手 会談は見送りへ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603084?source=rss",
-      "publishedAt": "2026-11-18T13:07:07.000Z",
-      "xQuery": "日中首脳が握手 会談は見送りへ"
     },
     {
       "time": "22:52",
