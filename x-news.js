@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-18T09:12:22.996Z",
+  "updatedAt": "2026-11-18T09:36:04.642Z",
   "items": [
     {
       "time": "17:51",
@@ -18,28 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "日本車の部品 一部共通化する方針"
     },
     {
+      "time": "13:22",
+      "title": "佐賀関火災1年 揺らぐ再建の思い",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603021?source=rss",
+      "publishedAt": "2026-11-18T04:22:31.000Z",
+      "xQuery": "佐賀関火災1年 揺らぐ再建の思い"
+    },
+    {
+      "time": "18:19",
+      "title": "兵庫3歳死亡 双子妹も生後に死亡",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603061?source=rss",
+      "publishedAt": "2026-11-18T09:19:32.000Z",
+      "xQuery": "兵庫3歳死亡 双子妹も生後に死亡"
+    },
+    {
       "time": "17:42",
       "title": "高市氏が中国到着 歓迎に各国と差",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6603057?source=rss",
       "publishedAt": "2026-11-18T08:42:41.000Z",
       "xQuery": "高市氏が中国到着 歓迎に各国と差"
-    },
-    {
-      "time": "16:38",
-      "title": "米大統領に出前ふるまう 比大統領",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603048?source=rss",
-      "publishedAt": "2026-11-18T07:38:16.000Z",
-      "xQuery": "米大統領に出前ふるまう 比大統領"
-    },
-    {
-      "time": "16:32",
-      "title": "Suica新キャラ A案とC案も活用へ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603046?source=rss",
-      "publishedAt": "2026-11-18T07:32:25.000Z",
-      "xQuery": "Suica新キャラ A案とC案も活用へ"
     }
   ]
 };
