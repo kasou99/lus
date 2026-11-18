@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-18T14:11:32.114Z",
+  "updatedAt": "2026-11-18T14:36:22.947Z",
   "items": [
     {
       "time": "21:11",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "日中首脳が握手 会談は見送りへ"
     },
     {
-      "time": "21:55",
-      "title": "娘殺された公園 ベンチ寄贈した父",
+      "time": "22:52",
+      "title": "富士山で中国人遭難 捜索打ち切り",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603080?source=rss",
-      "publishedAt": "2026-11-18T12:55:59.000Z",
-      "xQuery": "娘殺された公園 ベンチ寄贈した父"
+      "url": "https://news.yahoo.co.jp/pickup/6603089?source=rss",
+      "publishedAt": "2026-11-18T13:52:58.000Z",
+      "xQuery": "富士山で中国人遭難 捜索打ち切り"
     },
     {
-      "time": "20:43",
-      "title": "市長のハワイ出張 妻が私費で同行",
+      "time": "17:26",
+      "title": "Suica「紫のうさぎ」得票率51.7%",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603071?source=rss",
-      "publishedAt": "2026-11-18T11:43:05.000Z",
-      "xQuery": "市長のハワイ出張 妻が私費で同行"
+      "url": "https://news.yahoo.co.jp/pickup/6603054?source=rss",
+      "publishedAt": "2026-11-18T08:26:46.000Z",
+      "xQuery": "Suica「紫のうさぎ」得票率51.7%"
     }
   ]
 };
