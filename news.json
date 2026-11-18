@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-11-17T23:35:31.742Z",
+  "updatedAt": "2026-11-18T00:30:31.486Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "08:50",
+        "title": "AI統合型設備保全クラウド『EMLink』、手元の資料から保全報告書・保全計画を完全自動で作成 ― 自社ルールに沿ってAIエージェントが自律実行",
+        "source": "PR TIMES",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9mcWY2cDlaM1Zhbm5ZcjViUzhOcjJWb2dFNFlOZlh2bThOTHpjZXB1UXdHaE01VEV3VGdrb2xzNi1QMFVJMXhmdmt2Vzh5b3F6SEVRNU9qYUFydmNOYmNZSWZTZENEcUhFTUE?oc=5",
+        "publishedAt": "2026-11-17T23:50:02.000Z"
+      },
       {
         "time": "10:30",
         "title": "人を支えるロボットに必要なものとは／マツダの新物流拠点、視察レポート",
@@ -24,11 +31,11 @@
         "publishedAt": "2026-11-17T05:00:00.000Z"
       },
       {
-        "time": "09:00",
+        "time": "10:15",
         "title": "【設備保全DX】第9回［名古屋］スマート工場EXPOに次世代設備保全クラウド「M2X」ブースを出展",
-        "source": "PR TIMES",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1waHZPd1FjVGtBMGFicG9GWUpZWHdUU3AwQXZXSHZodlZYYlZRcVpBbnk1ay12X2ZGdzVDMFIxSzNBLWxhSXhDUVRiV25KOUZaUWVRN19IOWtLNFZncDl6NmxZT1RmRzl1d3c?oc=5",
-        "publishedAt": "2026-11-17T00:00:02.000Z"
+        "source": "Infoseek",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB4ZFJ2cGpKZm9VY0kxejlET1k2T09rdEhiR2tBSlVaczlHX2wtVFdUckNESzliYllESmJWa2dEYmdVXzB3a1ZrNy1sWGtBYTAyaFZYalozakJIb2ZtUWg2QVN3LVA4cUlfZVNWS0VJQzdNdw?oc=5",
+        "publishedAt": "2026-11-17T01:15:38.000Z"
       },
       {
         "time": "17:00",
@@ -50,13 +57,6 @@
         "source": "BigGo ファイナンス",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB2REV6ZmNBLW9vMXNFS2dCQk1HNjBqcVpVcTF4Q0dfeWpINkFoMktTXzFmT09RaUpOSTQyUTBvUTBBUnpYUzF5SVdWdGpTN1p0WUk5d1JlVjVJd241QlZkclpOU2g3Q2hwbXRQTVRIckxwN21a?oc=5",
         "publishedAt": "2026-11-17T02:55:00.000Z"
-      },
-      {
-        "time": "13:00",
-        "title": "電動射出成形機の小型化に貢献、日本精工がボールねじ向け薄型シール開発：工作機械",
-        "source": "MONOist",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5CbGVrWG9wNDZsbmkydEJ4ZXZvekE0RGRhY1NNRjZBLURDZVpPa1JZZ011Q05RM2NwV1RvaVVkTU1GNXkxd3B1NmQzbGt4NmhPdFVnbnhmRVRRWUpKcU9BeHRnU2h2ZDl0MVI1NGEwWQ?oc=5",
-        "publishedAt": "2026-11-17T04:00:00.000Z"
       }
     ],
     "worldHeadlines": [

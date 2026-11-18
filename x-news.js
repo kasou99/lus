@@ -1,21 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-17T23:35:32.402Z",
+  "updatedAt": "2026-11-18T00:30:32.329Z",
   "items": [
     {
-      "time": "07:14",
-      "title": "日本版DBSに脆弱性 稼働延期へ",
+      "time": "08:15",
+      "title": "個人向け国債 税優遇見送りで調整",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602982?source=rss",
-      "publishedAt": "2026-11-17T22:14:00.000Z",
-      "xQuery": "日本版DBSに脆弱性 稼働延期へ"
+      "url": "https://news.yahoo.co.jp/pickup/6602987?source=rss",
+      "publishedAt": "2026-11-17T23:15:14.000Z",
+      "xQuery": "個人向け国債 税優遇見送りで調整"
     },
     {
-      "time": "07:22",
-      "title": "NVIDIA前CEO 復帰なら「光栄」",
+      "time": "07:41",
+      "title": "転職組の教員免許を容易に 改革案",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602983?source=rss",
-      "publishedAt": "2026-11-17T22:22:28.000Z",
-      "xQuery": "NVIDIA前CEO 復帰なら「光栄」"
+      "url": "https://news.yahoo.co.jp/pickup/6602984?source=rss",
+      "publishedAt": "2026-11-17T22:41:18.000Z",
+      "xQuery": "転職組の教員免許を容易に 改革案"
+    },
+    {
+      "time": "08:30",
+      "title": "NVIDIA会長 フアン氏CEO復帰ない",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6602988?source=rss",
+      "publishedAt": "2026-11-17T23:30:40.000Z",
+      "xQuery": "NVIDIA会長 フアン氏CEO復帰ない"
     },
     {
       "time": "06:32",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "小渕優子氏更迭 自民総務会で反発"
     },
     {
-      "time": "06:19",
-      "title": "NHK 職員に「飲み会22時頃まで」",
+      "time": "07:22",
+      "title": "ポーカー大会無許可開催疑い 逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602976?source=rss",
-      "publishedAt": "2026-11-17T21:19:02.000Z",
-      "xQuery": "NHK 職員に「飲み会22時頃まで」"
-    },
-    {
-      "time": "07:41",
-      "title": "給食でアレルギー症状 資料改ざん",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602985?source=rss",
-      "publishedAt": "2026-11-17T22:41:39.000Z",
-      "xQuery": "給食でアレルギー症状 資料改ざん"
+      "url": "https://news.yahoo.co.jp/pickup/6602981?source=rss",
+      "publishedAt": "2026-11-17T22:22:50.000Z",
+      "xQuery": "ポーカー大会無許可開催疑い 逮捕"
     }
   ]
 };
