@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-18T11:10:17.843Z",
+  "updatedAt": "2026-11-18T11:35:58.400Z",
   "items": [
     {
       "time": "20:08",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "ボイジャー1号「1光日」に到達"
     },
     {
-      "time": "17:51",
-      "title": "DHC 顧客氏名など1911万件漏えい",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603058?source=rss",
-      "publishedAt": "2026-11-18T08:51:06.000Z",
-      "xQuery": "DHC 顧客氏名など1911万件漏えい"
-    },
-    {
       "time": "13:22",
       "title": "佐賀関火災1年 揺らぐ再建の思い",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6603021?source=rss",
       "publishedAt": "2026-11-18T04:22:31.000Z",
       "xQuery": "佐賀関火災1年 揺らぐ再建の思い"
+    },
+    {
+      "time": "18:40",
+      "title": "EVなどに新税 28年5月導入で調整",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603065?source=rss",
+      "publishedAt": "2026-11-18T09:40:12.000Z",
+      "xQuery": "EVなどに新税 28年5月導入で調整"
     },
     {
       "time": "17:42",
