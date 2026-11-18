@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-18T01:39:15.029Z",
+  "updatedAt": "2026-11-18T02:16:07.289Z",
   "items": [
     {
       "time": "09:37",
@@ -10,20 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "APECきょう開幕 付近は厳戒態勢"
     },
     {
-      "time": "08:15",
-      "title": "個人向け国債 税優遇見送りで調整",
+      "time": "10:04",
+      "title": "経済損失1.2兆円 男性更年期対策",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602987?source=rss",
-      "publishedAt": "2026-11-17T23:15:14.000Z",
-      "xQuery": "個人向け国債 税優遇見送りで調整"
-    },
-    {
-      "time": "09:03",
-      "title": "ゾコーバ治験 米助成金削減が影響",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602992?source=rss",
-      "publishedAt": "2026-11-18T00:03:55.000Z",
-      "xQuery": "ゾコーバ治験 米助成金削減が影響"
+      "url": "https://news.yahoo.co.jp/pickup/6602999?source=rss",
+      "publishedAt": "2026-11-18T01:04:04.000Z",
+      "xQuery": "経済損失1.2兆円 男性更年期対策"
     },
     {
       "time": "10:32",
@@ -32,6 +24,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6603003?source=rss",
       "publishedAt": "2026-11-18T01:32:06.000Z",
       "xQuery": "看護師の死 突きつける命の格差"
+    },
+    {
+      "time": "10:53",
+      "title": "町内会に入らずごみ出し 法的には",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603004?source=rss",
+      "publishedAt": "2026-11-18T01:53:12.000Z",
+      "xQuery": "町内会に入らずごみ出し 法的には"
     },
     {
       "time": "09:50",

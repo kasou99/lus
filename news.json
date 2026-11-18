@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T01:39:13.969Z",
+  "updatedAt": "2026-11-18T02:16:06.392Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,6 +17,13 @@
         "publishedAt": "2026-11-17T23:50:02.000Z"
       },
       {
+        "time": "12:00",
+        "title": "あの人に「人がやるべき仕事」を聞いてみたら……：FAメルマガ 編集後記",
+        "source": "MONOist",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9uNktWSWVJdjg3ZWVCVzR2WGM5TkRWQ253RlFQVXRReVdKSTRrSTM3aDF5UjM5blBxZTJoWFF4MWUyRTRMT0Zpc3NWLXh0SHo5M21hQ2RQSlhMaDBEMV9UODNCcVNmU2R1QnZsSTZQZw?oc=5",
+        "publishedAt": "2026-11-17T03:00:00.000Z"
+      },
+      {
         "time": "18:21",
         "title": "【日研トータルソーシング】設備保全人材を育成する「東広島保全テクノセンター」が認定職業訓練関係優良事業所として広島県よ",
         "source": "ニコニコニュース",
@@ -31,18 +38,11 @@
         "publishedAt": "2026-11-17T05:00:00.000Z"
       },
       {
-        "time": "10:45",
-        "title": "【設備保全DX】第9回［名古屋］スマート工場EXPOに次世代設備保全クラウド「M2X」ブースを出展",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBTeHJHNUw3WTVBQzd2RHF4aTBlYWN6VWE0SUJDQS1PUndrSXlJLVpDeVVHSUE4c1BjX2dheTZwNzE4ci1abFk2M3ZkV3NoWEFGZ3ZXZVh2emNWZEx0Nmg0UzRsdXlrUnBIVm9SWEdaRnN1QlA1Qy1HaW9R?oc=5",
-        "publishedAt": "2026-11-17T01:45:16.000Z"
-      },
-      {
-        "time": "13:00",
-        "title": "電動射出成形機の小型化に貢献、日本精工がボールねじ向け薄型シール開発：工作機械",
-        "source": "MONOist",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5CbGVrWG9wNDZsbmkydEJ4ZXZvekE0RGRhY1NNRjZBLURDZVpPa1JZZ011Q05RM2NwV1RvaVVkTU1GNXkxd3B1NmQzbGt4NmhPdFVnbnhmRVRRWUpKcU9BeHRnU2h2ZDl0MVI1NGEwWQ?oc=5",
-        "publishedAt": "2026-11-17T04:00:00.000Z"
+        "time": "05:00",
+        "title": "丸紅情報、工場のサイバー対策支援 OT領域、網屋と連携",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1FaVc5c29ob0J0OERrRkJoUGViZk5uNi04bElSTk9QbmlzaDlmMEtJb1ZrMV85Rmg4cmtGZDgwSXAtZGhHRzl3SllCOUV3MW00TWYtOUZidU4?oc=5",
+        "publishedAt": "2026-11-17T20:00:00.000Z"
       },
       {
         "time": "17:00",
