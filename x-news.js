@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-18T01:12:10.333Z",
+  "updatedAt": "2026-11-18T01:39:15.029Z",
   "items": [
     {
       "time": "09:37",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "ゾコーバ治験 米助成金削減が影響"
     },
     {
-      "time": "09:34",
-      "title": "受診遅れ死亡 皆保険の日本でなぜ",
+      "time": "10:32",
+      "title": "看護師の死 突きつける命の格差",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602993?source=rss",
-      "publishedAt": "2026-11-18T00:34:34.000Z",
-      "xQuery": "受診遅れ死亡 皆保険の日本でなぜ"
+      "url": "https://news.yahoo.co.jp/pickup/6603003?source=rss",
+      "publishedAt": "2026-11-18T01:32:06.000Z",
+      "xQuery": "看護師の死 突きつける命の格差"
     },
     {
-      "time": "08:30",
-      "title": "NVIDIA会長 フアン氏CEO復帰ない",
+      "time": "09:50",
+      "title": "硫黄島 新たな陸地ドーム10個分に",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602988?source=rss",
-      "publishedAt": "2026-11-17T23:30:40.000Z",
-      "xQuery": "NVIDIA会長 フアン氏CEO復帰ない"
+      "url": "https://news.yahoo.co.jp/pickup/6602996?source=rss",
+      "publishedAt": "2026-11-18T00:50:50.000Z",
+      "xQuery": "硫黄島 新たな陸地ドーム10個分に"
     }
   ]
 };
