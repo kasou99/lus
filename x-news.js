@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-18T02:35:18.511Z",
+  "updatedAt": "2026-11-18T03:14:07.868Z",
   "items": [
     {
-      "time": "09:37",
-      "title": "APECきょう開幕 付近は厳戒態勢",
+      "time": "11:46",
+      "title": "装備移転三原則「非核」の削除案",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602997?source=rss",
-      "publishedAt": "2026-11-18T00:37:51.000Z",
-      "xQuery": "APECきょう開幕 付近は厳戒態勢"
+      "url": "https://news.yahoo.co.jp/pickup/6603009?source=rss",
+      "publishedAt": "2026-11-18T02:46:21.000Z",
+      "xQuery": "装備移転三原則「非核」の削除案"
     },
     {
       "time": "10:04",
@@ -18,28 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "経済損失1.2兆円 男性更年期対策"
     },
     {
-      "time": "10:32",
-      "title": "看護師の死 突きつける命の格差",
+      "time": "11:42",
+      "title": "東京・新橋の駅前ビルから出火",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603003?source=rss",
-      "publishedAt": "2026-11-18T01:32:06.000Z",
-      "xQuery": "看護師の死 突きつける命の格差"
+      "url": "https://news.yahoo.co.jp/pickup/6603010?source=rss",
+      "publishedAt": "2026-11-18T02:42:52.000Z",
+      "xQuery": "東京・新橋の駅前ビルから出火"
     },
     {
-      "time": "10:53",
-      "title": "町内会に入らずごみ出し 法的には",
+      "time": "06:19",
+      "title": "NHK 職員に「飲み会22時頃まで」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603004?source=rss",
-      "publishedAt": "2026-11-18T01:53:12.000Z",
-      "xQuery": "町内会に入らずごみ出し 法的には"
+      "url": "https://news.yahoo.co.jp/pickup/6602976?source=rss",
+      "publishedAt": "2026-11-17T21:19:02.000Z",
+      "xQuery": "NHK 職員に「飲み会22時頃まで」"
     },
     {
-      "time": "09:50",
-      "title": "硫黄島 新たな陸地ドーム10個分に",
+      "time": "11:58",
+      "title": "市が誤送付した個人情報 SNS拡散",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602996?source=rss",
-      "publishedAt": "2026-11-18T00:50:50.000Z",
-      "xQuery": "硫黄島 新たな陸地ドーム10個分に"
+      "url": "https://news.yahoo.co.jp/pickup/6603012?source=rss",
+      "publishedAt": "2026-11-18T02:58:00.000Z",
+      "xQuery": "市が誤送付した個人情報 SNS拡散"
     }
   ]
 };
