@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-18T11:35:58.400Z",
+  "updatedAt": "2026-11-18T12:15:52.487Z",
   "items": [
     {
       "time": "20:08",
@@ -10,14 +10,6 @@ window.LUS_X_NEWS = {
       "xQuery": "ボイジャー1号「1光日」に到達"
     },
     {
-      "time": "13:22",
-      "title": "佐賀関火災1年 揺らぐ再建の思い",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603021?source=rss",
-      "publishedAt": "2026-11-18T04:22:31.000Z",
-      "xQuery": "佐賀関火災1年 揺らぐ再建の思い"
-    },
-    {
       "time": "18:40",
       "title": "EVなどに新税 28年5月導入で調整",
       "source": "Yahoo!ニュース",
@@ -26,20 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "EVなどに新税 28年5月導入で調整"
     },
     {
-      "time": "17:42",
-      "title": "高市氏が中国到着 歓迎に各国と差",
+      "time": "20:52",
+      "title": "SA・PAのゴミ箱 280カ所で撤去へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603057?source=rss",
-      "publishedAt": "2026-11-18T08:42:41.000Z",
-      "xQuery": "高市氏が中国到着 歓迎に各国と差"
+      "url": "https://news.yahoo.co.jp/pickup/6603075?source=rss",
+      "publishedAt": "2026-11-18T11:52:31.000Z",
+      "xQuery": "SA・PAのゴミ箱 280カ所で撤去へ"
     },
     {
-      "time": "18:19",
-      "title": "兵庫3歳死亡 双子妹も生後に死亡",
+      "time": "20:43",
+      "title": "市長のハワイ出張 妻が私費で同行",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603061?source=rss",
-      "publishedAt": "2026-11-18T09:19:32.000Z",
-      "xQuery": "兵庫3歳死亡 双子妹も生後に死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6603071?source=rss",
+      "publishedAt": "2026-11-18T11:43:05.000Z",
+      "xQuery": "市長のハワイ出張 妻が私費で同行"
+    },
+    {
+      "time": "18:30",
+      "title": "ネット繋がらない新機種 開発経緯",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603060?source=rss",
+      "publishedAt": "2026-11-18T09:30:05.000Z",
+      "xQuery": "ネット繋がらない新機種 開発経緯"
     }
   ]
 };
