@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T06:19:54.845Z",
+  "updatedAt": "2026-11-18T06:41:52.451Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -119,6 +119,20 @@
         "publishedAt": "2026-11-18T06:11:31.000Z"
       },
       {
+        "time": "15:37",
+        "title": "NHK会長「飲み会」通達巡り言及",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6603039?source=rss",
+        "publishedAt": "2026-11-18T06:37:52.000Z"
+      },
+      {
+        "time": "06:19",
+        "title": "NHK 職員に「飲み会22時頃まで」",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6602976?source=rss",
+        "publishedAt": "2026-11-17T21:19:02.000Z"
+      },
+      {
         "time": "11:58",
         "title": "リニア開業時期 年内公表を断念",
         "source": "Yahoo!ニュース",
@@ -131,20 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6602988?source=rss",
         "publishedAt": "2026-11-17T23:30:40.000Z"
-      },
-      {
-        "time": "07:22",
-        "title": "NVIDIA前CEO 復帰なら「光栄」",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602983?source=rss",
-        "publishedAt": "2026-11-17T22:22:28.000Z"
-      },
-      {
-        "time": "06:19",
-        "title": "NHK 職員に「飲み会22時頃まで」",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602976?source=rss",
-        "publishedAt": "2026-11-17T21:19:02.000Z"
       }
     ],
     "localHeadlines": [

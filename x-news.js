@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-18T06:19:56.783Z",
+  "updatedAt": "2026-11-18T06:41:53.294Z",
   "items": [
+    {
+      "time": "15:17",
+      "title": "受刑者の選挙権制限は合憲 最高裁",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603035?source=rss",
+      "publishedAt": "2026-11-18T06:17:47.000Z",
+      "xQuery": "受刑者の選挙権制限は合憲 最高裁"
+    },
     {
       "time": "13:35",
       "title": "米中間選挙 上院で全議席が固まる",
@@ -8,6 +16,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6603024?source=rss",
       "publishedAt": "2026-11-18T04:35:35.000Z",
       "xQuery": "米中間選挙 上院で全議席が固まる"
+    },
+    {
+      "time": "14:21",
+      "title": "栄養失調の子25万人超恐れ ハイチ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603029?source=rss",
+      "publishedAt": "2026-11-18T05:21:23.000Z",
+      "xQuery": "栄養失調の子25万人超恐れ ハイチ"
     },
     {
       "time": "13:58",
@@ -24,22 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6603017?source=rss",
       "publishedAt": "2026-11-18T03:42:54.000Z",
       "xQuery": "中野刺殺 女性に800万円使った"
-    },
-    {
-      "time": "14:06",
-      "title": "楽天証券 情報漏えいの確認方法",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603030?source=rss",
-      "publishedAt": "2026-11-18T05:06:26.000Z",
-      "xQuery": "楽天証券 情報漏えいの確認方法"
-    },
-    {
-      "time": "12:33",
-      "title": "KDDI新「INFOBAR」発表 8年ぶり",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603018?source=rss",
-      "publishedAt": "2026-11-18T03:33:51.000Z",
-      "xQuery": "KDDI新「INFOBAR」発表 8年ぶり"
     }
   ]
 };
