@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-18T23:09:39.626Z",
+  "updatedAt": "2026-11-18T23:36:05.319Z",
   "items": [
+    {
+      "time": "07:37",
+      "title": "少子化相 日本版DBS脆弱性を謝罪",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603101?source=rss",
+      "publishedAt": "2026-11-18T22:37:45.000Z",
+      "xQuery": "少子化相 日本版DBS脆弱性を謝罪"
+    },
     {
       "time": "07:21",
       "title": "トランプ氏 露大統領と個別会談へ",
@@ -24,14 +32,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6603094?source=rss",
       "publishedAt": "2026-11-18T17:27:46.000Z",
       "xQuery": "熊本県で震度5弱 津波の心配なし"
-    },
-    {
-      "time": "22:52",
-      "title": "富士山で中国人遭難 捜索打ち切り",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603089?source=rss",
-      "publishedAt": "2026-11-18T13:52:58.000Z",
-      "xQuery": "富士山で中国人遭難 捜索打ち切り"
     },
     {
       "time": "07:59",
