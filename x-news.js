@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-18T00:30:32.329Z",
+  "updatedAt": "2026-11-18T01:12:10.333Z",
   "items": [
+    {
+      "time": "09:37",
+      "title": "APECきょう開幕 付近は厳戒態勢",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6602997?source=rss",
+      "publishedAt": "2026-11-18T00:37:51.000Z",
+      "xQuery": "APECきょう開幕 付近は厳戒態勢"
+    },
     {
       "time": "08:15",
       "title": "個人向け国債 税優遇見送りで調整",
@@ -10,12 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "個人向け国債 税優遇見送りで調整"
     },
     {
-      "time": "07:41",
-      "title": "転職組の教員免許を容易に 改革案",
+      "time": "09:03",
+      "title": "ゾコーバ治験 米助成金削減が影響",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602984?source=rss",
-      "publishedAt": "2026-11-17T22:41:18.000Z",
-      "xQuery": "転職組の教員免許を容易に 改革案"
+      "url": "https://news.yahoo.co.jp/pickup/6602992?source=rss",
+      "publishedAt": "2026-11-18T00:03:55.000Z",
+      "xQuery": "ゾコーバ治験 米助成金削減が影響"
+    },
+    {
+      "time": "09:34",
+      "title": "受診遅れ死亡 皆保険の日本でなぜ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6602993?source=rss",
+      "publishedAt": "2026-11-18T00:34:34.000Z",
+      "xQuery": "受診遅れ死亡 皆保険の日本でなぜ"
     },
     {
       "time": "08:30",
@@ -24,22 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6602988?source=rss",
       "publishedAt": "2026-11-17T23:30:40.000Z",
       "xQuery": "NVIDIA会長 フアン氏CEO復帰ない"
-    },
-    {
-      "time": "06:32",
-      "title": "小渕優子氏更迭 自民総務会で反発",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602978?source=rss",
-      "publishedAt": "2026-11-17T21:32:04.000Z",
-      "xQuery": "小渕優子氏更迭 自民総務会で反発"
-    },
-    {
-      "time": "07:22",
-      "title": "ポーカー大会無許可開催疑い 逮捕",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602981?source=rss",
-      "publishedAt": "2026-11-17T22:22:50.000Z",
-      "xQuery": "ポーカー大会無許可開催疑い 逮捕"
     }
   ]
 };

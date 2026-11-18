@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-11-18T00:30:31.486Z",
+  "updatedAt": "2026-11-18T01:12:09.744Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "09:57",
+        "title": "JIMTOF2026 視察レポート｜「売った後」で勝負する時代へ ― 工作機械メーカー各社のCS×生成AI展示を見てきました",
+        "source": "株式会社マクニカ",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBubXI1dngzbFUtSV9nZVNFeG9FeG5RYzZFSDBrQ0w4OXU4M21GVGdmNXRIWkR3Nl9jemJyX0FtWGo2UDZrMy1zV2kzQ2xwSkVGV3VxRWhZbWhvSTdwN2I0ZDJ0WnVYdEFR?oc=5",
+        "publishedAt": "2026-11-18T00:57:32.000Z"
+      },
       {
         "time": "08:50",
         "title": "AI統合型設備保全クラウド『EMLink』、手元の資料から保全報告書・保全計画を完全自動で作成 ― 自社ルールに沿ってAIエージェントが自律実行",
@@ -50,16 +57,16 @@
         "source": "Newscast.jp",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBzWGRjMEV5RGlweFFrQVQ5aTRER3FiekE3M3ppRkRvdnY2TmNMOU5jdFgwUWNsQ29BczNwSDk0YVBJOE9WNE1aX1ZQeVJIdFE?oc=5",
         "publishedAt": "2026-11-17T05:37:00.000Z"
-      },
-      {
-        "time": "11:55",
-        "title": "LS Electric、ベトナム・バクニン第2工場を竣工…2030年売上3.5億ドルを狙う",
-        "source": "BigGo ファイナンス",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB2REV6ZmNBLW9vMXNFS2dCQk1HNjBqcVpVcTF4Q0dfeWpINkFoMktTXzFmT09RaUpOSTQyUTBvUTBBUnpYUzF5SVdWdGpTN1p0WUk5d1JlVjVJd241QlZkclpOU2g3Q2hwbXRQTVRIckxwN21a?oc=5",
-        "publishedAt": "2026-11-17T02:55:00.000Z"
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "09:37",
+        "title": "APECきょう開幕 付近は厳戒態勢",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6602997?source=rss",
+        "publishedAt": "2026-11-18T00:37:51.000Z"
+      },
       {
         "time": "23:00",
         "title": "日米豪印が共同文書 中国念頭",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6602913?source=rss",
         "publishedAt": "2026-11-17T07:21:52.000Z"
-      },
-      {
-        "time": "11:45",
-        "title": "イラン「汚い爆弾」米高官狙いか",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602889?source=rss",
-        "publishedAt": "2026-11-17T02:45:26.000Z"
       }
     ],
     "economyHeadlines": [
@@ -133,18 +133,18 @@
         "publishedAt": "2026-11-17T21:19:02.000Z"
       },
       {
+        "time": "10:04",
+        "title": "経済損失1.2兆円 男性更年期対策",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6602999?source=rss",
+        "publishedAt": "2026-11-18T01:04:04.000Z"
+      },
+      {
         "time": "21:03",
         "title": "JT ロシア問題で巨額損失の恐れ",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6602948?source=rss",
         "publishedAt": "2026-11-17T12:03:11.000Z"
-      },
-      {
-        "time": "17:44",
-        "title": "高速の深夜割引 年度内に見直し",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6602923?source=rss",
-        "publishedAt": "2026-11-17T08:44:10.000Z"
       }
     ],
     "localHeadlines": [
