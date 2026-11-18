@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-18T12:15:52.487Z",
+  "updatedAt": "2026-11-18T12:37:46.804Z",
   "items": [
     {
       "time": "20:08",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "EVなどに新税 28年5月導入で調整"
     },
     {
-      "time": "20:52",
-      "title": "SA・PAのゴミ箱 280カ所で撤去へ",
+      "time": "21:17",
+      "title": "SA・PAのゴミ箱 280カ所で廃止へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603075?source=rss",
-      "publishedAt": "2026-11-18T11:52:31.000Z",
-      "xQuery": "SA・PAのゴミ箱 280カ所で撤去へ"
+      "url": "https://news.yahoo.co.jp/pickup/6603078?source=rss",
+      "publishedAt": "2026-11-18T12:17:04.000Z",
+      "xQuery": "SA・PAのゴミ箱 280カ所で廃止へ"
     },
     {
       "time": "20:43",
