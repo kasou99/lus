@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-18T13:11:11.245Z",
+  "updatedAt": "2026-11-18T13:36:03.101Z",
   "items": [
     {
       "time": "21:11",
@@ -10,12 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "支援金 対象年収下限「56万円」案"
     },
     {
-      "time": "20:08",
-      "title": "ボイジャー1号「1光日」に到達",
+      "time": "21:57",
+      "title": "APEC首脳宣言 AI活用などで調整",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603070?source=rss",
-      "publishedAt": "2026-11-18T11:08:03.000Z",
-      "xQuery": "ボイジャー1号「1光日」に到達"
+      "url": "https://news.yahoo.co.jp/pickup/6603083?source=rss",
+      "publishedAt": "2026-11-18T12:57:53.000Z",
+      "xQuery": "APEC首脳宣言 AI活用などで調整"
+    },
+    {
+      "time": "22:07",
+      "title": "日中首脳が握手 会談は見送りへ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603084?source=rss",
+      "publishedAt": "2026-11-18T13:07:07.000Z",
+      "xQuery": "日中首脳が握手 会談は見送りへ"
     },
     {
       "time": "18:40",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6603078?source=rss",
       "publishedAt": "2026-11-18T12:17:04.000Z",
       "xQuery": "SA・PAのゴミ箱 280カ所で廃止へ"
-    },
-    {
-      "time": "20:43",
-      "title": "市長のハワイ出張 妻が私費で同行",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603071?source=rss",
-      "publishedAt": "2026-11-18T11:43:05.000Z",
-      "xQuery": "市長のハワイ出張 妻が私費で同行"
     }
   ]
 };

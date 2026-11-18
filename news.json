@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T13:11:10.500Z",
+  "updatedAt": "2026-11-18T13:36:02.561Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -15,6 +15,13 @@
         "source": "みんかぶ",
         "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1fOUVfWlcxSDVLUjhiZ3NKU0lhay1NRjJMR0RjUlJTaktndkI5cHRYVXlJR3cyQUsyelNKMXVORDNjVmo1cTJKMg?oc=5",
         "publishedAt": "2026-11-18T10:00:02.000Z"
+      },
+      {
+        "time": "22:22",
+        "title": "CNC工作機械の有力企業トップ10",
+        "source": "pando.life",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1mTnA4Y2pLUnE4TmZCaFhoRXZfZ0U0VFZiTVAwTXZQT3JmaXdhTThFNE9Ja3M0bDVJeUx4blc4bVJkWnNLTGlIYjZB?oc=5",
+        "publishedAt": "2026-11-18T13:22:26.000Z"
       },
       {
         "time": "11:33",
@@ -50,13 +57,6 @@
         "source": "Newscast.jp",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9sYXRtQU90bTlyUmRiUDhlSHdjSUl0a2dpOWtTZnQ0NXpFUGdXQUwxYkFORnZNX3hYRHM5ZnJnUGphQ3JmYVFuNEd4dUFLMUk?oc=5",
         "publishedAt": "2026-11-18T04:34:00.000Z"
-      },
-      {
-        "time": "16:20",
-        "title": "40～75℃の過酷環境でも安定動作する、省スペース・コンパクト設計の産業用ギガビットハブを発売",
-        "source": "ASCII.jp",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9pNlRiY3dPcl85UmctNkUzbm16T1lDLVpMdzVDTXRvQTh0SVJwUjJzSERHUzJlYUliRjhYdGlRNl9ucnJhUGpiYzJSTzJFcVdLcDRoUQ?oc=5",
-        "publishedAt": "2026-11-18T07:20:39.000Z"
       }
     ],
     "worldHeadlines": [
@@ -156,6 +156,13 @@
         "publishedAt": "2026-11-18T09:19:32.000Z"
       },
       {
+        "time": "22:34",
+        "title": "大道芸 ギリヤーク尼ヶ崎さん死去",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6603087?source=rss",
+        "publishedAt": "2026-11-18T13:34:01.000Z"
+      },
+      {
         "time": "20:43",
         "title": "市長のハワイ出張 妻が私費で同行",
         "source": "Yahoo!ニュース",
@@ -175,13 +182,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6603017?source=rss",
         "publishedAt": "2026-11-18T03:42:54.000Z"
-      },
-      {
-        "time": "11:42",
-        "title": "東京・新橋の駅前ビルから出火",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6603010?source=rss",
-        "publishedAt": "2026-11-18T02:42:52.000Z"
       },
       {
         "time": "11:58",
@@ -215,20 +215,6 @@
         "title": "中小企業省力化投資補助金の公募・採択情報を確認",
         "source": "中小機構",
         "url": "https://seisansei.smrj.go.jp/subsidy_info/laborsaving_subsidy.html"
-      },
-      {
-        "time": "17:00",
-        "title": "【2026年最新】中小企業向け補助金6制度まとめ｜締切・補助率・上限額一覧",
-        "source": "補助金ポータル",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Idm5vYjJtajVIYjhheTZVVTVQTXRXMndVNkRmWnVEZnZyNVRRV3ZncXZhREsxNXBqYXFZSlZmNHhLeHhkbUNRcXljRlJNWVh2ZmZrSXlsVVJsdGI5RGtBdmoxUGx1YlozMUE?oc=5",
-        "publishedAt": "2026-11-05T08:00:00.000Z"
-      },
-      {
-        "time": "17:00",
-        "title": "介護テクノロジー導入支援事業【令和9年度240億円】補助率4/5・47都道府県の受付状況と今からの準備",
-        "source": "補助金ポータル",
-        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBmTVZVRlpoUS0weXJ2SG5VVGNZczBDTzVDV3pGTmY4R0Zib2tMVTdVclRkVmRNVy1DWlFEV2xJcVIxelpNQWVlaUhqR0lObS1QczhieDF4T0N0Y3A4Y0trYw?oc=5",
-        "publishedAt": "2026-11-12T08:00:00.000Z"
       }
     ]
   }
