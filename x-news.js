@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-18T22:35:53.518Z",
+  "updatedAt": "2026-11-18T23:09:39.626Z",
   "items": [
     {
-      "time": "06:13",
-      "title": "首相 プーチン大統領と30分対話",
+      "time": "07:21",
+      "title": "トランプ氏 露大統領と個別会談へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603096?source=rss",
-      "publishedAt": "2026-11-18T21:13:33.000Z",
-      "xQuery": "首相 プーチン大統領と30分対話"
+      "url": "https://news.yahoo.co.jp/pickup/6603100?source=rss",
+      "publishedAt": "2026-11-18T22:21:47.000Z",
+      "xQuery": "トランプ氏 露大統領と個別会談へ"
     },
     {
       "time": "07:21",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "富士山で中国人遭難 捜索打ち切り"
     },
     {
-      "time": "00:00",
-      "title": "NHK飲み会通達 記者が不満漏らす",
+      "time": "07:59",
+      "title": "秋田のアシカ・リオン 移動中死ぬ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603093?source=rss",
-      "publishedAt": "2026-11-18T15:00:45.000Z",
-      "xQuery": "NHK飲み会通達 記者が不満漏らす"
+      "url": "https://news.yahoo.co.jp/pickup/6603105?source=rss",
+      "publishedAt": "2026-11-18T22:59:18.000Z",
+      "xQuery": "秋田のアシカ・リオン 移動中死ぬ"
     }
   ]
 };
