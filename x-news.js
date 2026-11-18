@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-18T12:37:46.804Z",
+  "updatedAt": "2026-11-18T13:11:11.245Z",
   "items": [
+    {
+      "time": "21:11",
+      "title": "支援金 対象年収下限「56万円」案",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603076?source=rss",
+      "publishedAt": "2026-11-18T12:11:23.000Z",
+      "xQuery": "支援金 対象年収下限「56万円」案"
+    },
     {
       "time": "20:08",
       "title": "ボイジャー1号「1光日」に到達",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6603071?source=rss",
       "publishedAt": "2026-11-18T11:43:05.000Z",
       "xQuery": "市長のハワイ出張 妻が私費で同行"
-    },
-    {
-      "time": "18:30",
-      "title": "ネット繋がらない新機種 開発経緯",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603060?source=rss",
-      "publishedAt": "2026-11-18T09:30:05.000Z",
-      "xQuery": "ネット繋がらない新機種 開発経緯"
     }
   ]
 };
