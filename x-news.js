@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-18T17:09:59.932Z",
+  "updatedAt": "2026-11-18T17:35:53.583Z",
   "items": [
+    {
+      "time": "02:27",
+      "title": "熊本県で震度5弱 津波の心配なし",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603094?source=rss",
+      "publishedAt": "2026-11-18T17:27:46.000Z",
+      "xQuery": "熊本県で震度5弱 津波の心配なし"
+    },
     {
       "time": "21:11",
       "title": "支援金 対象年収下限「56万円」案",
@@ -16,14 +24,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6603084?source=rss",
       "publishedAt": "2026-11-18T13:07:07.000Z",
       "xQuery": "日中首脳が握手 会談は見送りへ"
-    },
-    {
-      "time": "22:36",
-      "title": "香港の夜景ショー 22年の歴史に幕",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603088?source=rss",
-      "publishedAt": "2026-11-18T13:36:13.000Z",
-      "xQuery": "香港の夜景ショー 22年の歴史に幕"
     },
     {
       "time": "22:52",
