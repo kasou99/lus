@@ -1,37 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-18T03:35:55.181Z",
+  "updatedAt": "2026-11-18T04:13:16.777Z",
   "items": [
     {
-      "time": "11:46",
-      "title": "装備移転三原則「非核」の削除案",
+      "time": "11:58",
+      "title": "リニア開業時期 年内公表を断念",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603009?source=rss",
-      "publishedAt": "2026-11-18T02:46:21.000Z",
-      "xQuery": "装備移転三原則「非核」の削除案"
+      "url": "https://news.yahoo.co.jp/pickup/6603011?source=rss",
+      "publishedAt": "2026-11-18T02:58:23.000Z",
+      "xQuery": "リニア開業時期 年内公表を断念"
     },
     {
-      "time": "10:04",
-      "title": "経済損失1.2兆円 男性更年期対策",
+      "time": "09:45",
+      "title": "小型船に緑ナンバー導入へ 国交省",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602999?source=rss",
-      "publishedAt": "2026-11-18T01:04:04.000Z",
-      "xQuery": "経済損失1.2兆円 男性更年期対策"
+      "url": "https://news.yahoo.co.jp/pickup/6602995?source=rss",
+      "publishedAt": "2026-11-18T00:45:45.000Z",
+      "xQuery": "小型船に緑ナンバー導入へ 国交省"
     },
     {
-      "time": "11:42",
-      "title": "東京・新橋の駅前ビルから出火",
+      "time": "12:42",
+      "title": "中野刺殺 女性に800万円使った",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603010?source=rss",
-      "publishedAt": "2026-11-18T02:42:52.000Z",
-      "xQuery": "東京・新橋の駅前ビルから出火"
-    },
-    {
-      "time": "06:19",
-      "title": "NHK 職員に「飲み会22時頃まで」",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6602976?source=rss",
-      "publishedAt": "2026-11-17T21:19:02.000Z",
-      "xQuery": "NHK 職員に「飲み会22時頃まで」"
+      "url": "https://news.yahoo.co.jp/pickup/6603017?source=rss",
+      "publishedAt": "2026-11-18T03:42:54.000Z",
+      "xQuery": "中野刺殺 女性に800万円使った"
     },
     {
       "time": "11:58",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6603012?source=rss",
       "publishedAt": "2026-11-18T02:58:00.000Z",
       "xQuery": "市が誤送付した個人情報 SNS拡散"
+    },
+    {
+      "time": "12:33",
+      "title": "KDDI新「INFOBAR」発表 8年ぶり",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603018?source=rss",
+      "publishedAt": "2026-11-18T03:33:51.000Z",
+      "xQuery": "KDDI新「INFOBAR」発表 8年ぶり"
     }
   ]
 };

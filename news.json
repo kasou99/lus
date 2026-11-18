@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T03:35:54.249Z",
+  "updatedAt": "2026-11-18T04:13:16.070Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,25 +31,25 @@
         "publishedAt": "2026-11-17T05:00:00.000Z"
       },
       {
-        "time": "13:00",
-        "title": "電動射出成形機の小型化に貢献、日本精工がボールねじ向け薄型シール開発：工作機械",
-        "source": "MONOist",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5CbGVrWG9wNDZsbmkydEJ4ZXZvekE0RGRhY1NNRjZBLURDZVpPa1JZZ011Q05RM2NwV1RvaVVkTU1GNXkxd3B1NmQzbGt4NmhPdFVnbnhmRVRRWUpKcU9BeHRnU2h2ZDl0MVI1NGEwWQ?oc=5",
-        "publishedAt": "2026-11-17T04:00:00.000Z"
-      },
-      {
-        "time": "20:08",
-        "title": "【探訪ザ・カンパニー】オーザック（福山市）安全支えるワイヤ金具",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB2YnlPN09iTUcyOGNldkhrT1k5RzQ5M0pLNkE3NkV1YzJxUDFPam9xOTV6dFZva2ZrNHNxNkZIOGYxMXN6R1JyUHFIMXZIamRMT2c?oc=5",
-        "publishedAt": "2026-11-17T11:08:56.000Z"
+        "time": "12:55",
+        "title": "日立社員、「卓越した技能者(現代の名工)」として厚生労働大臣表彰を受賞：デジタル：日立",
+        "source": "Hitachi Global",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8wSC1vQnVzZmZzT1pWaDQ0Qm93M2ZkZjJxNWt4LW5YSlVLd29Tb3o0YkhNQUU4cmtuTzZTYzVJcjNpMi1SQTBxUVB6MDVCVDFwV3pScHhtU0FzaF9vN3RHVWgtZVpnQkFWbDVuaFQ3U2dsVWp2Zk5YQkt5eWwtSm8?oc=5",
+        "publishedAt": "2026-11-18T03:55:28.000Z"
       },
       {
         "time": "05:00",
-        "title": "園芸博協会が専用アプリ 体験型で自然環境学ぶ",
+        "title": "丸紅情報、工場のサイバー対策支援 OT領域、網屋と連携",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBXU2xXbDJfUzE2VndBRUpObHdCVjlCRVdHQTFwX2hXTXNVbll4R3QxdURZTzNRZnJodWo0S3NNR09EMGRWQkxLb3BJbzlMbHNkMTVKRWxRUnE?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1FaVc5c29ob0J0OERrRkJoUGViZk5uNi04bElSTk9QbmlzaDlmMEtJb1ZrMV85Rmg4cmtGZDgwSXAtZGhHRzl3SllCOUV3MW00TWYtOUZidU4?oc=5",
         "publishedAt": "2026-11-17T20:00:00.000Z"
+      },
+      {
+        "time": "17:00",
+        "title": "歯車製造する複合加工機 新開発 主力旋盤ベースに機能強化 ＴＡＫＩＳＡＷＡ",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1KSjZPZWk3RHhwZmMteVVrSHY3VU9hbGg3WHQ1WHdtNUVRVlJNdWNsYVBITW1HanZoQVJPenlzbWlJQ3Y4cE9TdzBYVjd6RzlIZUE?oc=5",
+        "publishedAt": "2026-11-17T08:00:00.000Z"
       },
       {
         "time": "14:37",
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "12:42",
+        "title": "中野刺殺 女性に800万円使った",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6603017?source=rss",
+        "publishedAt": "2026-11-18T03:42:54.000Z"
+      },
+      {
         "time": "11:42",
         "title": "東京・新橋の駅前ビルから出火",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6602924?source=rss",
         "publishedAt": "2026-11-17T08:37:06.000Z"
-      },
-      {
-        "time": "10:53",
-        "title": "町内会に入らずごみ出し 法的には",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6603004?source=rss",
-        "publishedAt": "2026-11-18T01:53:12.000Z"
       }
     ],
     "subsidyHeadlines": [
