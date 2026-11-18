@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-18T08:15:45.074Z",
+  "updatedAt": "2026-11-18T08:35:24.213Z",
   "items": [
+    {
+      "time": "16:40",
+      "title": "日本車の部品 一部共通化する方針",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603047?source=rss",
+      "publishedAt": "2026-11-18T07:40:00.000Z",
+      "xQuery": "日本車の部品 一部共通化する方針"
+    },
     {
       "time": "15:17",
       "title": "受刑者の選挙権制限は合憲 最高裁",
@@ -16,14 +24,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6603038?source=rss",
       "publishedAt": "2026-11-18T06:43:12.000Z",
       "xQuery": "露大統領APEC議長国に立候補表明"
-    },
-    {
-      "time": "15:40",
-      "title": "関文科相 24年3月にもパーティー",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603037?source=rss",
-      "publishedAt": "2026-11-18T06:40:22.000Z",
-      "xQuery": "関文科相 24年3月にもパーティー"
     },
     {
       "time": "15:11",
