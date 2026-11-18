@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-18T10:36:08.345Z",
+  "updatedAt": "2026-11-18T11:10:17.843Z",
   "items": [
+    {
+      "time": "20:08",
+      "title": "ボイジャー1号「1光日」に到達",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603070?source=rss",
+      "publishedAt": "2026-11-18T11:08:03.000Z",
+      "xQuery": "ボイジャー1号「1光日」に到達"
+    },
     {
       "time": "17:51",
       "title": "DHC 顧客氏名など1911万件漏えい",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6603061?source=rss",
       "publishedAt": "2026-11-18T09:19:32.000Z",
       "xQuery": "兵庫3歳死亡 双子妹も生後に死亡"
-    },
-    {
-      "time": "18:38",
-      "title": "顧客情報漏えいか 楽天証券が説明",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603062?source=rss",
-      "publishedAt": "2026-11-18T09:38:22.000Z",
-      "xQuery": "顧客情報漏えいか 楽天証券が説明"
     }
   ]
 };

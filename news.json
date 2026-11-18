@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T10:36:07.301Z",
+  "updatedAt": "2026-11-18T11:10:16.949Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,6 +31,13 @@
         "publishedAt": "2026-11-18T01:15:00.000Z"
       },
       {
+        "time": "19:43",
+        "title": "株式会社設備保全総合研究所が提供する『EMLink』で保全業務を自動化する新機能の発表",
+        "source": "ニュースメディアVOIX",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE53Q2pra1FaTjV3UW9yT3dsV3FQVmpWaGlyLTJfQTM2VHZNazkzUHFmSW9aaXktU0dla1U5dXZxMHVTdmxCQjNHLS1GV1BDal9GUEZMcmMwZlpDQ1BDU25BS2JqajJpY0s0Q1c4dm9KV1lzZw?oc=5",
+        "publishedAt": "2026-11-18T10:43:32.000Z"
+      },
+      {
         "time": "23:15",
         "title": "【日研トータルソーシング】設備保全人材を育成する「東広島保全テクノセンター」が認定職業訓練関係優良事業所として広島県より表彰",
         "source": "Infoseek",
@@ -50,13 +57,6 @@
         "source": "ASCII.jp",
         "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9pNlRiY3dPcl85UmctNkUzbm16T1lDLVpMdzVDTXRvQTh0SVJwUjJzSERHUzJlYUliRjhYdGlRNl9ucnJhUGpiYzJSTzJFcVdLcDRoUQ?oc=5",
         "publishedAt": "2026-11-18T07:20:39.000Z"
-      },
-      {
-        "time": "05:00",
-        "title": "研究開発トップに聞く（8）JR東日本常務執行役員・西村佳久氏",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9RWHRvNHBDdElfSk1ZcXBaUWJZNU1iTUxZVjdORDFwX2plX3BTRDNVNk5NYkVOd05pTkUtMnBwSjE0SFVtWnRZZ1BSRnhPbnhLTWFQOGFfb1Q?oc=5",
-        "publishedAt": "2026-11-17T20:00:00.000Z"
       }
     ],
     "worldHeadlines": [
