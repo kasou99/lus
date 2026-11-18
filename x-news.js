@@ -1,14 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-18T22:10:13.870Z",
+  "updatedAt": "2026-11-18T22:35:53.518Z",
   "items": [
-    {
-      "time": "02:27",
-      "title": "熊本県で震度5弱 津波の心配なし",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603094?source=rss",
-      "publishedAt": "2026-11-18T17:27:46.000Z",
-      "xQuery": "熊本県で震度5弱 津波の心配なし"
-    },
     {
       "time": "06:13",
       "title": "首相 プーチン大統領と30分対話",
@@ -16,6 +8,22 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6603096?source=rss",
       "publishedAt": "2026-11-18T21:13:33.000Z",
       "xQuery": "首相 プーチン大統領と30分対話"
+    },
+    {
+      "time": "07:21",
+      "title": "防衛費財務省案 自民内で異論噴出",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603099?source=rss",
+      "publishedAt": "2026-11-18T22:21:45.000Z",
+      "xQuery": "防衛費財務省案 自民内で異論噴出"
+    },
+    {
+      "time": "02:27",
+      "title": "熊本県で震度5弱 津波の心配なし",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603094?source=rss",
+      "publishedAt": "2026-11-18T17:27:46.000Z",
+      "xQuery": "熊本県で震度5弱 津波の心配なし"
     },
     {
       "time": "22:52",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6603093?source=rss",
       "publishedAt": "2026-11-18T15:00:45.000Z",
       "xQuery": "NHK飲み会通達 記者が不満漏らす"
-    },
-    {
-      "time": "23:05",
-      "title": "川に展示の美術作品 さらに破壊か",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603090?source=rss",
-      "publishedAt": "2026-11-18T14:05:12.000Z",
-      "xQuery": "川に展示の美術作品 さらに破壊か"
     }
   ]
 };
