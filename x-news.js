@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-18T09:36:04.642Z",
+  "updatedAt": "2026-11-18T10:11:33.497Z",
   "items": [
     {
       "time": "17:51",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "DHC 顧客氏名など1911万件漏えい"
     },
     {
-      "time": "16:40",
-      "title": "日本車の部品 一部共通化する方針",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603047?source=rss",
-      "publishedAt": "2026-11-18T07:40:00.000Z",
-      "xQuery": "日本車の部品 一部共通化する方針"
-    },
-    {
       "time": "13:22",
       "title": "佐賀関火災1年 揺らぐ再建の思い",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6603021?source=rss",
       "publishedAt": "2026-11-18T04:22:31.000Z",
       "xQuery": "佐賀関火災1年 揺らぐ再建の思い"
+    },
+    {
+      "time": "17:42",
+      "title": "高市氏が中国到着 歓迎に各国と差",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603057?source=rss",
+      "publishedAt": "2026-11-18T08:42:41.000Z",
+      "xQuery": "高市氏が中国到着 歓迎に各国と差"
     },
     {
       "time": "18:19",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "兵庫3歳死亡 双子妹も生後に死亡"
     },
     {
-      "time": "17:42",
-      "title": "高市氏が中国到着 歓迎に各国と差",
+      "time": "18:38",
+      "title": "顧客情報漏えいか 楽天証券が説明",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603057?source=rss",
-      "publishedAt": "2026-11-18T08:42:41.000Z",
-      "xQuery": "高市氏が中国到着 歓迎に各国と差"
+      "url": "https://news.yahoo.co.jp/pickup/6603062?source=rss",
+      "publishedAt": "2026-11-18T09:38:22.000Z",
+      "xQuery": "顧客情報漏えいか 楽天証券が説明"
     }
   ]
 };
