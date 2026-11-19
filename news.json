@@ -1,27 +1,13 @@
 {
-  "updatedAt": "2026-11-19T04:35:59.546Z",
+  "updatedAt": "2026-11-19T05:12:12.284Z",
   "groups": {
     "machineHeadlines": [
-      {
-        "time": "13:30",
-        "title": "世界の一体型ドライブサーボモーター市場規模、2026年537百万米ドルから2032年787百万米ドルへ拡大",
-        "source": "ドリームニュース",
-        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5CdzFTR0lKbExfSjZfcTRkSHpITWJnbGlGY2dmbWZHbGRIY1BRX0REajkwaXIzX0FKanVEYmV2OUtkNl9VT19RcFRwSndMWDVTVUdZ?oc=5",
-        "publishedAt": "2026-11-19T04:30:00.000Z"
-      },
       {
         "time": "15:04",
         "title": "JIMTOF2026 視察レポート｜「売った後」で勝負する時代へ ― 工作機械メーカー各社のCS×生成AI展示を見てきました",
         "source": "株式会社マクニカ",
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBubXI1dngzbFUtSV9nZVNFeG9FeG5RYzZFSDBrQ0w4OXU4M21GVGdmNXRIWkR3Nl9jemJyX0FtWGo2UDZrMy1zV2kzQ2xwSkVGV3VxRWhZbWhvSTdwN2I0ZDJ0WnVYdEFR?oc=5",
         "publishedAt": "2026-11-18T06:04:04.000Z"
-      },
-      {
-        "time": "12:16",
-        "title": "アナログ・テック、ファンレス産業用PC「AIR-ST-NL-001」の受注受付を開始 ― -20～60℃対応、構成を固定したAironiAシリーズの標準モデル",
-        "source": "ASCII.jp",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5MZnJEbzBtS0VObW00RGs5ekRYajA2SnJzWmo2bHpoR1h5RkJza2NQaHEyZTZaVmdEQjRFdzZibzhaazM0R0gyOTNEdlVUdnhQaE1PNA?oc=5",
-        "publishedAt": "2026-11-19T03:16:04.000Z"
       },
       {
         "time": "13:30",
@@ -57,6 +43,20 @@
         "source": "ニコニコニュース",
         "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1JRklZSTdLMnFiaXNDVms4YXFYLWpaN054TGNya3dpbkttelJYbl9tQjJhVTRiVmYtY2JWWENuYWpma090RmlpYWZ2S1NqdDhERkZiZW5JR3JtVk9BOGJXWXNodUl5MEtUSURHdG93ZV9RbTJPMXdxN2JoSQ?oc=5",
         "publishedAt": "2026-11-18T14:30:24.000Z"
+      },
+      {
+        "time": "19:43",
+        "title": "株式会社設備保全総合研究所が提供する『EMLink』で保全業務を自動化する新機能の発表",
+        "source": "ニュースメディアVOIX",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ITzhfZE53YjllMWYxRDFXdmZiQUNDS2lMZGRvMTgxY0MtY2tKWTFfeU1XWWctMlBpSVY4ZTFNQVNObzMwSzJsS0FXTzdTMlpwazdSdEpRZXlMbUZiQjU2MWZfQXEzQjZSQnQyWnVmQQ?oc=5",
+        "publishedAt": "2026-11-18T10:43:32.000Z"
+      },
+      {
+        "time": "12:16",
+        "title": "アナログ・テック、ファンレス産業用PC「AIR-ST-NL-001」の受注受付を開始 ― -20～60℃対応、構成を固定したAironiAシリーズの標準モデル",
+        "source": "ASCII.jp",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5MZnJEbzBtS0VObW00RGs5ekRYajA2SnJzWmo2bHpoR1h5RkJza2NQaHEyZTZaVmdEQjRFdzZibzhaazM0R0gyOTNEdlVUdnhQaE1PNA?oc=5",
+        "publishedAt": "2026-11-19T03:16:04.000Z"
       }
     ],
     "worldHeadlines": [
@@ -75,6 +75,13 @@
         "publishedAt": "2026-11-18T13:07:07.000Z"
       },
       {
+        "time": "13:37",
+        "title": "APEC 中国が見せた「線引き」",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6603146?source=rss",
+        "publishedAt": "2026-11-19T04:37:28.000Z"
+      },
+      {
         "time": "07:57",
         "title": "米史上初 黒人の下院議長誕生へ",
         "source": "Yahoo!ニュース",
@@ -87,13 +94,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6603126?source=rss",
         "publishedAt": "2026-11-19T01:50:20.000Z"
-      },
-      {
-        "time": "09:18",
-        "title": "米 ベネズエラと軍事協力で合意",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6603113?source=rss",
-        "publishedAt": "2026-11-19T00:18:35.000Z"
       },
       {
         "time": "17:42",
@@ -156,18 +156,18 @@
         "publishedAt": "2026-11-19T02:56:06.000Z"
       },
       {
-        "time": "11:53",
-        "title": "訪問介護先付近に放火疑い 逮捕",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6603139?source=rss",
-        "publishedAt": "2026-11-19T02:53:23.000Z"
-      },
-      {
         "time": "11:10",
         "title": "熊本で震度5弱 住民「夜は怖い」",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6603128?source=rss",
         "publishedAt": "2026-11-19T02:10:38.000Z"
+      },
+      {
+        "time": "13:49",
+        "title": "岩手の震災遺体 90歳男性と判明",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6603154?source=rss",
+        "publishedAt": "2026-11-19T04:49:30.000Z"
       },
       {
         "time": "10:37",

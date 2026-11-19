@@ -1,14 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-19T04:36:00.519Z",
+  "updatedAt": "2026-11-19T05:12:12.950Z",
   "items": [
-    {
-      "time": "11:34",
-      "title": "日露首脳対話 関係改善の道険しく",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603135?source=rss",
-      "publishedAt": "2026-11-19T02:34:45.000Z",
-      "xQuery": "日露首脳対話 関係改善の道険しく"
-    },
     {
       "time": "12:32",
       "title": "平均年齢75.7歳 歴史的首脳会談へ",
@@ -18,20 +10,28 @@ window.LUS_X_NEWS = {
       "xQuery": "平均年齢75.7歳 歴史的首脳会談へ"
     },
     {
+      "time": "13:37",
+      "title": "APEC 中国が見せた「線引き」",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603146?source=rss",
+      "publishedAt": "2026-11-19T04:37:28.000Z",
+      "xQuery": "APEC 中国が見せた「線引き」"
+    },
+    {
+      "time": "12:05",
+      "title": "タマホーム 高松以外も不正請求か",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603142?source=rss",
+      "publishedAt": "2026-11-19T03:05:48.000Z",
+      "xQuery": "タマホーム 高松以外も不正請求か"
+    },
+    {
       "time": "13:05",
       "title": "スバル 米国製SUVを「逆輸入」",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6603150?source=rss",
       "publishedAt": "2026-11-19T04:05:33.000Z",
       "xQuery": "スバル 米国製SUVを「逆輸入」"
-    },
-    {
-      "time": "12:08",
-      "title": "外来種のインコ増殖 住民は困惑",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603143?source=rss",
-      "publishedAt": "2026-11-19T03:08:39.000Z",
-      "xQuery": "外来種のインコ増殖 住民は困惑"
     },
     {
       "time": "12:10",
