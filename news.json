@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T20:35:38.723Z",
+  "updatedAt": "2026-11-19T21:10:18.143Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,6 +38,13 @@
         "publishedAt": "2026-11-19T04:30:01.000Z"
       },
       {
+        "time": "05:00",
+        "title": "ファミマ、飲料補充ロボ 店舗作業時間7割減 AIで売れ筋優先",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9kU05UMEo5T1p3SXV6Z0JBcERzM19fbmJoY2ZRQWJuMHRWcmF0c1BhSmZyTVZWdlppQi1aY2lqVVA3Q3NLQjRpOUxPR2h0YUp6b1oxODM3ckI?oc=5",
+        "publishedAt": "2026-11-19T20:00:00.000Z"
+      },
+      {
         "time": "10:00",
         "title": "DINレールコンピュータの世界市場（2026年～2032年）、市場規模（Intel、NVIDIA、AMD）・分析レポートを発表",
         "source": "Newscast.jp",
@@ -50,13 +57,6 @@
         "source": "조선일보",
         "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcXIxaHAtbnJWSzZTd1Z1SUNFUEJ2Tnl3d29vVWNXVWlCTG9pY2RvV3dWSXNRaEpxTzV0Wm52TXR1LVdrQlkyTUdDc3VoOUdkaXMyT3RESV9fUHhEMlpTUkNNQllyZ2piR056bjREWU04SmhLNzdvN0pPekFwRDU3RA?oc=5",
         "publishedAt": "2026-11-19T15:34:00.000Z"
-      },
-      {
-        "time": "09:57",
-        "title": "プログラムのポスターが掲出されたファブラボ「FILES」の入り口",
-        "source": "伊豆下田経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE00TnhjTVdxdklZRmNlQ1EtYmdjXzhCMHZKZmRJb08tQzBkdlNBRGx6c1pNSHY4UnJnQjNIY240Xy1jNGhndzVFRFdZTWZQbkMxSjhwUWFB?oc=5",
-        "publishedAt": "2026-11-19T00:57:10.000Z"
       }
     ],
     "worldHeadlines": [
