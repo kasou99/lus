@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T11:35:49.721Z",
+  "updatedAt": "2026-11-19T12:16:04.538Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -61,11 +61,25 @@
     ],
     "worldHeadlines": [
       {
+        "time": "20:59",
+        "title": "米中露首脳「平和宣言」を発表",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6603204?source=rss",
+        "publishedAt": "2026-11-19T11:59:20.000Z"
+      },
+      {
         "time": "20:14",
         "title": "3カ国会談 中露は「戦勝国」強調",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6603198?source=rss",
         "publishedAt": "2026-11-19T11:14:06.000Z"
+      },
+      {
+        "time": "21:15",
+        "title": "ロヒンギャ迫害 ジェノサイド認定",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6603205?source=rss",
+        "publishedAt": "2026-11-19T12:15:23.000Z"
       },
       {
         "time": "17:51",
@@ -75,13 +89,6 @@
         "publishedAt": "2026-11-19T08:51:30.000Z"
       },
       {
-        "time": "13:37",
-        "title": "APEC 中国が見せた「線引き」",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6603146?source=rss",
-        "publishedAt": "2026-11-19T04:37:28.000Z"
-      },
-      {
         "time": "16:19",
         "title": "米露首脳が対面会談 ウ巡り協議",
         "source": "Yahoo!ニュース",
@@ -89,34 +96,27 @@
         "publishedAt": "2026-11-19T07:19:02.000Z"
       },
       {
-        "time": "07:57",
-        "title": "米史上初 黒人の下院議長誕生へ",
+        "time": "13:37",
+        "title": "APEC 中国が見せた「線引き」",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6603104?source=rss",
-        "publishedAt": "2026-11-18T22:57:28.000Z"
-      },
-      {
-        "time": "10:50",
-        "title": "北朝鮮非難の国連決議 米国が棄権",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6603126?source=rss",
-        "publishedAt": "2026-11-19T01:50:20.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6603146?source=rss",
+        "publishedAt": "2026-11-19T04:37:28.000Z"
       }
     ],
     "economyHeadlines": [
+      {
+        "time": "21:06",
+        "title": "楽天証券に報告徴求命令 金融庁",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6603203?source=rss",
+        "publishedAt": "2026-11-19T12:06:41.000Z"
+      },
       {
         "time": "19:35",
         "title": "JT 露事業巡り1.3兆円の損失計上",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6603194?source=rss",
         "publishedAt": "2026-11-19T10:35:41.000Z"
-      },
-      {
-        "time": "21:17",
-        "title": "SA・PAのゴミ箱 280カ所で廃止へ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6603078?source=rss",
-        "publishedAt": "2026-11-18T12:17:04.000Z"
       },
       {
         "time": "13:05",

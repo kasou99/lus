@@ -1,21 +1,37 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-19T11:35:50.531Z",
+  "updatedAt": "2026-11-19T12:16:05.370Z",
   "items": [
     {
-      "time": "20:14",
-      "title": "3カ国会談 中露は「戦勝国」強調",
+      "time": "20:59",
+      "title": "米中露首脳「平和宣言」を発表",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603198?source=rss",
-      "publishedAt": "2026-11-19T11:14:06.000Z",
-      "xQuery": "3カ国会談 中露は「戦勝国」強調"
+      "url": "https://news.yahoo.co.jp/pickup/6603204?source=rss",
+      "publishedAt": "2026-11-19T11:59:20.000Z",
+      "xQuery": "米中露首脳「平和宣言」を発表"
     },
     {
-      "time": "18:26",
-      "title": "政府 配信者の発言全ては確認せず",
+      "time": "18:56",
+      "title": "内閣支持率は微増の42.8% 時事",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603188?source=rss",
-      "publishedAt": "2026-11-19T09:26:28.000Z",
-      "xQuery": "政府 配信者の発言全ては確認せず"
+      "url": "https://news.yahoo.co.jp/pickup/6603191?source=rss",
+      "publishedAt": "2026-11-19T09:56:58.000Z",
+      "xQuery": "内閣支持率は微増の42.8% 時事"
+    },
+    {
+      "time": "21:06",
+      "title": "楽天証券に報告徴求命令 金融庁",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603203?source=rss",
+      "publishedAt": "2026-11-19T12:06:41.000Z",
+      "xQuery": "楽天証券に報告徴求命令 金融庁"
+    },
+    {
+      "time": "19:35",
+      "title": "JT 露事業巡り1.3兆円の損失計上",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603194?source=rss",
+      "publishedAt": "2026-11-19T10:35:41.000Z",
+      "xQuery": "JT 露事業巡り1.3兆円の損失計上"
     },
     {
       "time": "18:49",
@@ -24,22 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6603190?source=rss",
       "publishedAt": "2026-11-19T09:49:16.000Z",
       "xQuery": "入浴施設で作業 熱中症で男性死亡"
-    },
-    {
-      "time": "19:32",
-      "title": "育休とった男性の心身不調 症状は",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603193?source=rss",
-      "publishedAt": "2026-11-19T10:32:57.000Z",
-      "xQuery": "育休とった男性の心身不調 症状は"
-    },
-    {
-      "time": "19:44",
-      "title": "夜景ショー終了にみる 香港の低迷",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603183?source=rss",
-      "publishedAt": "2026-11-19T10:44:45.000Z",
-      "xQuery": "夜景ショー終了にみる 香港の低迷"
     }
   ]
 };
