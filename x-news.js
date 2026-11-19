@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-19T03:35:57.871Z",
+  "updatedAt": "2026-11-19T04:13:18.243Z",
   "items": [
     {
       "time": "11:34",
@@ -10,28 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "日露首脳対話 関係改善の道険しく"
     },
     {
-      "time": "10:50",
-      "title": "北朝鮮非難の国連決議 米国が棄権",
+      "time": "12:32",
+      "title": "平均年齢75.7歳 歴史的首脳会談へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603126?source=rss",
-      "publishedAt": "2026-11-19T01:50:20.000Z",
-      "xQuery": "北朝鮮非難の国連決議 米国が棄権"
-    },
-    {
-      "time": "11:56",
-      "title": "栃木強殺 勧誘役の高校生に有罪",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603140?source=rss",
-      "publishedAt": "2026-11-19T02:56:06.000Z",
-      "xQuery": "栃木強殺 勧誘役の高校生に有罪"
-    },
-    {
-      "time": "11:53",
-      "title": "訪問介護先付近に放火疑い 逮捕",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603139?source=rss",
-      "publishedAt": "2026-11-19T02:53:23.000Z",
-      "xQuery": "訪問介護先付近に放火疑い 逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6603148?source=rss",
+      "publishedAt": "2026-11-19T03:32:29.000Z",
+      "xQuery": "平均年齢75.7歳 歴史的首脳会談へ"
     },
     {
       "time": "10:19",
@@ -40,6 +24,22 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6603122?source=rss",
       "publishedAt": "2026-11-19T01:19:39.000Z",
       "xQuery": "中学生はねられ意識不明 70歳逮捕"
+    },
+    {
+      "time": "12:08",
+      "title": "外来種のインコ増殖 住民は困惑",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603143?source=rss",
+      "publishedAt": "2026-11-19T03:08:39.000Z",
+      "xQuery": "外来種のインコ増殖 住民は困惑"
+    },
+    {
+      "time": "12:10",
+      "title": "小便器「丸見え」女性記者が驚き",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603145?source=rss",
+      "publishedAt": "2026-11-19T03:10:33.000Z",
+      "xQuery": "小便器「丸見え」女性記者が驚き"
     }
   ]
 };
