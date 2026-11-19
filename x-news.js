@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-19T01:11:12.110Z",
+  "updatedAt": "2026-11-19T01:39:25.786Z",
   "items": [
     {
       "time": "08:35",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "Anthropic IPO公開価格は83ドル"
     },
     {
-      "time": "09:01",
-      "title": "サーバーソフト「nginx」に脆弱性",
+      "time": "10:19",
+      "title": "中学生はねられ意識不明 70歳逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603112?source=rss",
-      "publishedAt": "2026-11-19T00:01:46.000Z",
-      "xQuery": "サーバーソフト「nginx」に脆弱性"
+      "url": "https://news.yahoo.co.jp/pickup/6603122?source=rss",
+      "publishedAt": "2026-11-19T01:19:39.000Z",
+      "xQuery": "中学生はねられ意識不明 70歳逮捕"
     },
     {
       "time": "09:44",
