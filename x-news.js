@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-19T02:35:45.301Z",
+  "updatedAt": "2026-11-19T03:13:29.962Z",
   "items": [
+    {
+      "time": "11:34",
+      "title": "日露首脳対話 関係改善の道険しく",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603135?source=rss",
+      "publishedAt": "2026-11-19T02:34:45.000Z",
+      "xQuery": "日露首脳対話 関係改善の道険しく"
+    },
     {
       "time": "10:50",
       "title": "北朝鮮非難の国連決議 米国が棄権",
@@ -10,36 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "北朝鮮非難の国連決議 米国が棄権"
     },
     {
-      "time": "07:57",
-      "title": "米史上初 黒人の下院議長誕生へ",
+      "time": "11:56",
+      "title": "栃木強殺 勧誘役の高校生に有罪",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603104?source=rss",
-      "publishedAt": "2026-11-18T22:57:28.000Z",
-      "xQuery": "米史上初 黒人の下院議長誕生へ"
+      "url": "https://news.yahoo.co.jp/pickup/6603140?source=rss",
+      "publishedAt": "2026-11-19T02:56:06.000Z",
+      "xQuery": "栃木強殺 勧誘役の高校生に有罪"
     },
     {
-      "time": "11:11",
-      "title": "市民デモ相次ぐ仏 警官が抗議デモ",
+      "time": "11:53",
+      "title": "訪問介護先付近に放火疑い 逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603130?source=rss",
-      "publishedAt": "2026-11-19T02:11:01.000Z",
-      "xQuery": "市民デモ相次ぐ仏 警官が抗議デモ"
+      "url": "https://news.yahoo.co.jp/pickup/6603139?source=rss",
+      "publishedAt": "2026-11-19T02:53:23.000Z",
+      "xQuery": "訪問介護先付近に放火疑い 逮捕"
     },
     {
-      "time": "11:10",
-      "title": "熊本で震度5弱 住民「夜は怖い」",
+      "time": "10:19",
+      "title": "中学生はねられ意識不明 70歳逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603128?source=rss",
-      "publishedAt": "2026-11-19T02:10:38.000Z",
-      "xQuery": "熊本で震度5弱 住民「夜は怖い」"
-    },
-    {
-      "time": "10:37",
-      "title": "2人死亡事故 容疑者勤務先を捜索",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603123?source=rss",
-      "publishedAt": "2026-11-19T01:37:54.000Z",
-      "xQuery": "2人死亡事故 容疑者勤務先を捜索"
+      "url": "https://news.yahoo.co.jp/pickup/6603122?source=rss",
+      "publishedAt": "2026-11-19T01:19:39.000Z",
+      "xQuery": "中学生はねられ意識不明 70歳逮捕"
     }
   ]
 };

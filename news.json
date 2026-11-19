@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T02:35:43.982Z",
+  "updatedAt": "2026-11-19T03:13:29.173Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -10,18 +10,18 @@
         "publishedAt": "2026-11-18T06:04:04.000Z"
       },
       {
-        "time": "19:55",
-        "title": "FESTO、食品や医薬品業界向けに衛生設計の電動駆動ソリューションを発売シリンダとサーボモータ、ケーブルを統合",
-        "source": "オートメーション新聞WEB",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBEclgyN0lad01iLTRnS1FEcGo4VmFYOE5YTVkzQVdnNjhybURSa0d5TWI2UVVnUEMzMjc0dWl3Wng1Nkxyb3l2cXBIdklkUkdtUThWZDBrTlFMdw?oc=5",
-        "publishedAt": "2026-11-18T10:55:00.000Z"
-      },
-      {
         "time": "19:00",
         "title": "シチズン時計、時計・工作機械の好調で上期増収増益 1Qに続き通期業績予想を上方修正し、通期で過去最高の売上・利益を見込む 投稿日時： 2026/11/18 19:00[ログミーファイナンス]",
         "source": "みんかぶ",
         "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1fOUVfWlcxSDVLUjhiZ3NKU0lhay1NRjJMR0RjUlJTaktndkI5cHRYVXlJR3cyQUsyelNKMXVORDNjVmo1cTJKMg?oc=5",
         "publishedAt": "2026-11-18T10:00:02.000Z"
+      },
+      {
+        "time": "19:55",
+        "title": "FESTO、食品や医薬品業界向けに衛生設計の電動駆動ソリューションを発売シリンダとサーボモータ、ケーブルを統合",
+        "source": "オートメーション新聞WEB",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBEclgyN0lad01iLTRnS1FEcGo4VmFYOE5YTVkzQVdnNjhybURSa0d5TWI2UVVnUEMzMjc0dWl3Wng1Nkxyb3l2cXBIdklkUkdtUThWZDBrTlFMdw?oc=5",
+        "publishedAt": "2026-11-18T10:55:00.000Z"
       },
       {
         "time": "22:22",
@@ -126,6 +126,13 @@
         "publishedAt": "2026-11-18T08:26:46.000Z"
       },
       {
+        "time": "12:05",
+        "title": "タマホーム 高松以外も不正請求か",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6603142?source=rss",
+        "publishedAt": "2026-11-19T03:05:48.000Z"
+      },
+      {
         "time": "10:41",
         "title": "賃上げより手取り増 食事補助注目",
         "source": "Yahoo!ニュース",
@@ -138,29 +145,29 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6603046?source=rss",
         "publishedAt": "2026-11-18T07:32:25.000Z"
-      },
-      {
-        "time": "00:00",
-        "title": "NHK飲み会通達 記者が不満漏らす",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6603093?source=rss",
-        "publishedAt": "2026-11-18T15:00:45.000Z"
       }
     ],
     "localHeadlines": [
+      {
+        "time": "11:56",
+        "title": "栃木強殺 勧誘役の高校生に有罪",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6603140?source=rss",
+        "publishedAt": "2026-11-19T02:56:06.000Z"
+      },
+      {
+        "time": "11:53",
+        "title": "訪問介護先付近に放火疑い 逮捕",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6603139?source=rss",
+        "publishedAt": "2026-11-19T02:53:23.000Z"
+      },
       {
         "time": "11:10",
         "title": "熊本で震度5弱 住民「夜は怖い」",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6603128?source=rss",
         "publishedAt": "2026-11-19T02:10:38.000Z"
-      },
-      {
-        "time": "18:19",
-        "title": "兵庫3歳死亡 双子妹も生後に死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6603061?source=rss",
-        "publishedAt": "2026-11-18T09:19:32.000Z"
       },
       {
         "time": "10:37",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6603089?source=rss",
         "publishedAt": "2026-11-18T13:52:58.000Z"
-      },
-      {
-        "time": "20:43",
-        "title": "市長のハワイ出張 妻が私費で同行",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6603071?source=rss",
-        "publishedAt": "2026-11-18T11:43:05.000Z"
       }
     ],
     "subsidyHeadlines": [
