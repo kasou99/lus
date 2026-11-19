@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-19T07:36:09.950Z",
+  "updatedAt": "2026-11-19T08:15:31.320Z",
   "items": [
+    {
+      "time": "16:55",
+      "title": "高市首相 外遊成果に「手応え」",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603175?source=rss",
+      "publishedAt": "2026-11-19T07:55:20.000Z",
+      "xQuery": "高市首相 外遊成果に「手応え」"
+    },
     {
       "time": "16:03",
       "title": "JT 露の子会社7社を連結から除外",
@@ -18,20 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "米露首脳が対面会談 ウ巡り協議"
     },
     {
-      "time": "15:32",
-      "title": "文科相進退 鍵を握る国民民主党",
+      "time": "16:56",
+      "title": "催涙スプレー 学校トラブル相次ぐ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603165?source=rss",
-      "publishedAt": "2026-11-19T06:32:19.000Z",
-      "xQuery": "文科相進退 鍵を握る国民民主党"
-    },
-    {
-      "time": "14:58",
-      "title": "戦車事故 陸自が原因を特定し公表",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603159?source=rss",
-      "publishedAt": "2026-11-19T05:58:27.000Z",
-      "xQuery": "戦車事故 陸自が原因を特定し公表"
+      "url": "https://news.yahoo.co.jp/pickup/6603174?source=rss",
+      "publishedAt": "2026-11-19T07:56:22.000Z",
+      "xQuery": "催涙スプレー 学校トラブル相次ぐ"
     },
     {
       "time": "14:48",
