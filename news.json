@@ -1,13 +1,20 @@
 {
-  "updatedAt": "2026-11-19T07:12:12.750Z",
+  "updatedAt": "2026-11-19T07:36:09.179Z",
   "groups": {
     "machineHeadlines": [
       {
-        "time": "13:30",
+        "time": "13:36",
+        "title": "世界の一体型ドライブサーボモーター市場規模、2026年537百万米ドルから2032年787百万米ドルへ拡大",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE44bHZGZjAyS2tCVmR3a2I1MHpRSEFyQUdmMTU4ekt3YlUxcDIwbFdYRXZZeE53SFdCVzRyaTZLdVFFNklFZ1JnblJsNy1SeDctc2JiclNDRDVWLXdrc3dxMEFsOHZTRWNET0xUR0tJeDZPV1BHemRuUTF0QQ?oc=5",
+        "publishedAt": "2026-11-19T04:36:21.000Z"
+      },
+      {
+        "time": "16:15",
         "title": "設備保全クラウド「M2X」が「第19回 ASPIC AI・クラウドアワード2026」にてベンチャーグランプリを受賞",
-        "source": "PR TIMES",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5rcnRjTl9VMlhJR1d5c3BoMGNDYVMxVVRLem5GdHpPdzNDMFpNQjVYZDhnc0lxWDJWSHlNZmJhY2dFYTZ1STZ0ZEpOSFJLeF9YT1o0a0VHQ21obFF6Z3ZMQV9ydjZzVS1mUXc?oc=5",
-        "publishedAt": "2026-11-19T04:30:01.000Z"
+        "source": "Excite エキサイト",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5RMnU5U3VIbjFTM2dkczBFZklENWRaMUI1TWhvdHpaWFFWLTRFQVlSRFdDdEpxaFM3Tm5RVFdSdWdjaFFQUG1iYU9FR1ZtT3NVZDE2Y28xV01HejJOeFk4eUJIckJnaG1FSWxrU2lTVnNBbnFDUnc?oc=5",
+        "publishedAt": "2026-11-19T07:15:00.000Z"
       },
       {
         "time": "19:00",
@@ -31,25 +38,18 @@
         "publishedAt": "2026-11-18T13:22:26.000Z"
       },
       {
-        "time": "23:30",
-        "title": "日立社員、「卓越した技能者(現代の名工)」として厚生労働大臣表彰を受賞",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1JRklZSTdLMnFiaXNDVms4YXFYLWpaN054TGNya3dpbkttelJYbl9tQjJhVTRiVmYtY2JWWENuYWpma090RmlpYWZ2S1NqdDhERkZiZW5JR3JtVk9BOGJXWXNodUl5MEtUSURHdG93ZV9RbTJPMXdxN2JoSQ?oc=5",
-        "publishedAt": "2026-11-18T14:30:24.000Z"
-      },
-      {
-        "time": "16:20",
-        "title": "40～75℃の過酷環境でも安定動作する、省スペース・コンパクト設計の産業用ギガビットハブを発売",
-        "source": "ASCII.jp",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9pNlRiY3dPcl85UmctNkUzbm16T1lDLVpMdzVDTXRvQTh0SVJwUjJzSERHUzJlYUliRjhYdGlRNl9ucnJhUGpiYzJSTzJFcVdLcDRoUQ?oc=5",
-        "publishedAt": "2026-11-18T07:20:39.000Z"
-      },
-      {
         "time": "19:43",
         "title": "株式会社設備保全総合研究所が提供する『EMLink』で保全業務を自動化する新機能の発表",
         "source": "ニュースメディアVOIX",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ITzhfZE53YjllMWYxRDFXdmZiQUNDS2lMZGRvMTgxY0MtY2tKWTFfeU1XWWctMlBpSVY4ZTFNQVNObzMwSzJsS0FXTzdTMlpwazdSdEpRZXlMbUZiQjU2MWZfQXEzQjZSQnQyWnVmQQ?oc=5",
         "publishedAt": "2026-11-18T10:43:32.000Z"
+      },
+      {
+        "time": "12:16",
+        "title": "アナログ・テック、ファンレス産業用PC「AIR-ST-NL-001」の受注受付を開始 ― -20～60℃対応、構成を固定したAironiAシリーズの標準モデル",
+        "source": "ASCII.jp",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5MZnJEbzBtS0VObW00RGs5ekRYajA2SnJzWmo2bHpoR1h5RkJza2NQaHEyZTZaVmdEQjRFdzZibzhaazM0R0gyOTNEdlVUdnhQaE1PNA?oc=5",
+        "publishedAt": "2026-11-19T03:16:04.000Z"
       },
       {
         "time": "10:00",
@@ -82,11 +82,11 @@
         "publishedAt": "2026-11-19T04:37:28.000Z"
       },
       {
-        "time": "15:12",
-        "title": "米露首脳会談 ウ情勢で意見交換か",
+        "time": "16:19",
+        "title": "米露首脳が対面会談 ウ巡り協議",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6603161?source=rss",
-        "publishedAt": "2026-11-19T06:12:39.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6603170?source=rss",
+        "publishedAt": "2026-11-19T07:19:02.000Z"
       },
       {
         "time": "07:57",

@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-19T07:12:13.698Z",
+  "updatedAt": "2026-11-19T07:36:09.950Z",
   "items": [
     {
       "time": "16:03",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "JT 露の子会社7社を連結から除外"
     },
     {
-      "time": "15:12",
-      "title": "米露首脳会談 ウ情勢で意見交換か",
+      "time": "16:19",
+      "title": "米露首脳が対面会談 ウ巡り協議",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603161?source=rss",
-      "publishedAt": "2026-11-19T06:12:39.000Z",
-      "xQuery": "米露首脳会談 ウ情勢で意見交換か"
+      "url": "https://news.yahoo.co.jp/pickup/6603170?source=rss",
+      "publishedAt": "2026-11-19T07:19:02.000Z",
+      "xQuery": "米露首脳が対面会談 ウ巡り協議"
     },
     {
       "time": "15:32",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "文科相進退 鍵を握る国民民主党"
     },
     {
-      "time": "13:49",
-      "title": "岩手の震災遺体 90歳男性と判明",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603154?source=rss",
-      "publishedAt": "2026-11-19T04:49:30.000Z",
-      "xQuery": "岩手の震災遺体 90歳男性と判明"
-    },
-    {
       "time": "14:58",
       "title": "戦車事故 陸自が原因を特定し公表",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6603159?source=rss",
       "publishedAt": "2026-11-19T05:58:27.000Z",
       "xQuery": "戦車事故 陸自が原因を特定し公表"
+    },
+    {
+      "time": "14:48",
+      "title": "クマに追いかけられた 高校生通報",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603160?source=rss",
+      "publishedAt": "2026-11-19T05:48:07.000Z",
+      "xQuery": "クマに追いかけられた 高校生通報"
     }
   ]
 };
