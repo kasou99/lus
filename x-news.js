@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-19T13:11:38.428Z",
+  "updatedAt": "2026-11-19T13:36:09.164Z",
   "items": [
     {
       "time": "20:59",
@@ -18,6 +18,14 @@ window.LUS_X_NEWS = {
       "xQuery": "ロヒンギャ迫害 ジェノサイド認定"
     },
     {
+      "time": "22:03",
+      "title": "高市首相を「冷遇」? 中国が反論",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603208?source=rss",
+      "publishedAt": "2026-11-19T13:03:28.000Z",
+      "xQuery": "高市首相を「冷遇」? 中国が反論"
+    },
+    {
       "time": "21:06",
       "title": "楽天証券に報告徴求命令 金融庁",
       "source": "Yahoo!ニュース",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6603193?source=rss",
       "publishedAt": "2026-11-19T10:32:57.000Z",
       "xQuery": "育休とった男性の心身不調 症状は"
-    },
-    {
-      "time": "19:53",
-      "title": "「気嵐」いつ現れる 発生条件検証",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603196?source=rss",
-      "publishedAt": "2026-11-19T10:53:46.000Z",
-      "xQuery": "「気嵐」いつ現れる 発生条件検証"
     }
   ]
 };
