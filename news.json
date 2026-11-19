@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-11-19T04:13:17.527Z",
+  "updatedAt": "2026-11-19T04:35:59.546Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "13:30",
+        "title": "世界の一体型ドライブサーボモーター市場規模、2026年537百万米ドルから2032年787百万米ドルへ拡大",
+        "source": "ドリームニュース",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5CdzFTR0lKbExfSjZfcTRkSHpITWJnbGlGY2dmbWZHbGRIY1BRX0REajkwaXIzX0FKanVEYmV2OUtkNl9VT19RcFRwSndMWDVTVUdZ?oc=5",
+        "publishedAt": "2026-11-19T04:30:00.000Z"
+      },
       {
         "time": "15:04",
         "title": "JIMTOF2026 視察レポート｜「売った後」で勝負する時代へ ― 工作機械メーカー各社のCS×生成AI展示を見てきました",
@@ -15,6 +22,13 @@
         "source": "ASCII.jp",
         "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5MZnJEbzBtS0VObW00RGs5ekRYajA2SnJzWmo2bHpoR1h5RkJza2NQaHEyZTZaVmdEQjRFdzZibzhaazM0R0gyOTNEdlVUdnhQaE1PNA?oc=5",
         "publishedAt": "2026-11-19T03:16:04.000Z"
+      },
+      {
+        "time": "13:30",
+        "title": "設備保全クラウド「M2X」が「第19回 ASPIC AI・クラウドアワード2026」にてベンチャーグランプリを受賞",
+        "source": "PR TIMES",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5rcnRjTl9VMlhJR1d5c3BoMGNDYVMxVVRLem5GdHpPdzNDMFpNQjVYZDhnc0lxWDJWSHlNZmJhY2dFYTZ1STZ0ZEpOSFJLeF9YT1o0a0VHQ21obFF6Z3ZMQV9ydjZzVS1mUXc?oc=5",
+        "publishedAt": "2026-11-19T04:30:01.000Z"
       },
       {
         "time": "19:00",
@@ -38,25 +52,11 @@
         "publishedAt": "2026-11-18T13:22:26.000Z"
       },
       {
-        "time": "13:34",
-        "title": "サーボシステムマーケットリサーチ：調査方法・市場動向・業界規模",
-        "source": "Newscast.jp",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9sYXRtQU90bTlyUmRiUDhlSHdjSUl0a2dpOWtTZnQ0NXpFUGdXQUwxYkFORnZNX3hYRHM5ZnJnUGphQ3JmYVFuNEd4dUFLMUk?oc=5",
-        "publishedAt": "2026-11-18T04:34:00.000Z"
-      },
-      {
         "time": "23:30",
         "title": "日立社員、「卓越した技能者(現代の名工)」として厚生労働大臣表彰を受賞",
         "source": "ニコニコニュース",
         "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1JRklZSTdLMnFiaXNDVms4YXFYLWpaN054TGNya3dpbkttelJYbl9tQjJhVTRiVmYtY2JWWENuYWpma090RmlpYWZ2S1NqdDhERkZiZW5JR3JtVk9BOGJXWXNodUl5MEtUSURHdG93ZV9RbTJPMXdxN2JoSQ?oc=5",
         "publishedAt": "2026-11-18T14:30:24.000Z"
-      },
-      {
-        "time": "19:43",
-        "title": "株式会社設備保全総合研究所が提供する『EMLink』で保全業務を自動化する新機能の発表",
-        "source": "ニュースメディアVOIX",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ITzhfZE53YjllMWYxRDFXdmZiQUNDS2lMZGRvMTgxY0MtY2tKWTFfeU1XWWctMlBpSVY4ZTFNQVNObzMwSzJsS0FXTzdTMlpwazdSdEpRZXlMbUZiQjU2MWZfQXEzQjZSQnQyWnVmQQ?oc=5",
-        "publishedAt": "2026-11-18T10:43:32.000Z"
       }
     ],
     "worldHeadlines": [

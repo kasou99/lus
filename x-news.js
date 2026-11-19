@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-19T04:13:18.243Z",
+  "updatedAt": "2026-11-19T04:36:00.519Z",
   "items": [
     {
       "time": "11:34",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "平均年齢75.7歳 歴史的首脳会談へ"
     },
     {
-      "time": "10:19",
-      "title": "中学生はねられ意識不明 70歳逮捕",
+      "time": "13:05",
+      "title": "スバル 米国製SUVを「逆輸入」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603122?source=rss",
-      "publishedAt": "2026-11-19T01:19:39.000Z",
-      "xQuery": "中学生はねられ意識不明 70歳逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6603150?source=rss",
+      "publishedAt": "2026-11-19T04:05:33.000Z",
+      "xQuery": "スバル 米国製SUVを「逆輸入」"
     },
     {
       "time": "12:08",
