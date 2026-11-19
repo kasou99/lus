@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-19T10:11:14.825Z",
+  "updatedAt": "2026-11-19T10:36:04.057Z",
   "items": [
     {
       "time": "17:51",
@@ -8,14 +8,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6603185?source=rss",
       "publishedAt": "2026-11-19T08:51:30.000Z",
       "xQuery": "米中露首脳 核軍縮やイラン議論か"
-    },
-    {
-      "time": "16:55",
-      "title": "高市首相 外遊成果に「手応え」",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603175?source=rss",
-      "publishedAt": "2026-11-19T07:55:20.000Z",
-      "xQuery": "高市首相 外遊成果に「手応え」"
     },
     {
       "time": "18:26",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6603190?source=rss",
       "publishedAt": "2026-11-19T09:49:16.000Z",
       "xQuery": "入浴施設で作業 熱中症で男性死亡"
+    },
+    {
+      "time": "18:19",
+      "title": "歌舞伎町で路駐問題 救急車妨げも",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603186?source=rss",
+      "publishedAt": "2026-11-19T09:19:48.000Z",
+      "xQuery": "歌舞伎町で路駐問題 救急車妨げも"
     }
   ]
 };
