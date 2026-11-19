@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T23:09:10.033Z",
+  "updatedAt": "2026-11-19T23:35:32.204Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,25 +17,11 @@
         "publishedAt": "2026-11-19T04:15:00.000Z"
       },
       {
-        "time": "13:36",
-        "title": "世界の一体型ドライブサーボモーター市場規模、2026年537百万米ドルから2032年787百万米ドルへ拡大",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE44bHZGZjAyS2tCVmR3a2I1MHpRSEFyQUdmMTU4ekt3YlUxcDIwbFdYRXZZeE53SFdCVzRyaTZLdVFFNklFZ1JnblJsNy1SeDctc2JiclNDRDVWLXdrc3dxMEFsOHZTRWNET0xUR0tJeDZPV1BHemRuUTF0QQ?oc=5",
-        "publishedAt": "2026-11-19T04:36:21.000Z"
-      },
-      {
         "time": "13:30",
         "title": "設備保全クラウド「M2X」が「第19回 ASPIC AI・クラウドアワード2026」にてベンチャーグランプリを受賞",
         "source": "PR TIMES",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5rcnRjTl9VMlhJR1d5c3BoMGNDYVMxVVRLem5GdHpPdzNDMFpNQjVYZDhnc0lxWDJWSHlNZmJhY2dFYTZ1STZ0ZEpOSFJLeF9YT1o0a0VHQ21obFF6Z3ZMQV9ydjZzVS1mUXc?oc=5",
         "publishedAt": "2026-11-19T04:30:01.000Z"
-      },
-      {
-        "time": "06:18",
-        "title": "マクニカが振動センサーによる予知保全を出展。「生産・設備データの可視化・活用」に関する注目の出展企業を紹介【イプロスA",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5nZUVsVTZGVXlfYU9RNWp3WHBiZ2hWRERnREtZNFFxWTQ0NWloQ2h0dXFVc3M5MzkwVXozUEJZU1ZEX3hsTmhlSlVzRzVaSzc3dDNIbDRjX29MMjY1N1BuWG5uOGZrdDRY?oc=5",
-        "publishedAt": "2026-11-19T21:18:38.000Z"
       },
       {
         "time": "05:00",
@@ -57,9 +43,30 @@
         "source": "Newscast.jp",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4wZHFUZ3Z0MUZvbWZ2SXpoRm1vdkNnSU1sT2hYOXlSdmlVVjV2Q1l0ZVM5dDF4am9YOGV0eGpmdUw2dWdvTWRnVzBYc0ljYjg?oc=5",
         "publishedAt": "2026-11-19T01:00:00.000Z"
+      },
+      {
+        "time": "11:00",
+        "title": "【製造業向け】AI・自動化・DXの導入事例 全9セッションオンラインカンファレンス「製造業 最新事例サミット」を開催",
+        "source": "イザ！",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9Fa2JubVZFTkh3ZXF0Y2kxZEt0RTM2MDJpbGRBLUJlOTlaNGJiUjd4TVBBMEVxeHRWbkdENlR5aDRPSXotWDZHVXFoMF9ITk90QlhEUk9EWldPeDNYNjdYUEtpVjRldG5nb3N2ZXRPQWxkZTE4N2JsUXhR?oc=5",
+        "publishedAt": "2026-11-19T02:00:29.000Z"
+      },
+      {
+        "time": "13:36",
+        "title": "世界の一体型ドライブサーボモーター市場規模、2026年537百万米ドルから2032年787百万米ドルへ拡大",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE44bHZGZjAyS2tCVmR3a2I1MHpRSEFyQUdmMTU4ekt3YlUxcDIwbFdYRXZZeE53SFdCVzRyaTZLdVFFNklFZ1JnblJsNy1SeDctc2JiclNDRDVWLXdrc3dxMEFsOHZTRWNET0xUR0tJeDZPV1BHemRuUTF0QQ?oc=5",
+        "publishedAt": "2026-11-19T04:36:21.000Z"
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "08:31",
+        "title": "露 クリミア橋攻撃受け報復宣言",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6603235?source=rss",
+        "publishedAt": "2026-11-19T23:31:08.000Z"
+      },
       {
         "time": "07:22",
         "title": "習氏 台湾問題で米大統領をけん制",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6603205?source=rss",
         "publishedAt": "2026-11-19T12:15:23.000Z"
-      },
-      {
-        "time": "22:03",
-        "title": "高市首相を「冷遇」? 中国が反論",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6603208?source=rss",
-        "publishedAt": "2026-11-19T13:03:28.000Z"
       }
     ],
     "economyHeadlines": [

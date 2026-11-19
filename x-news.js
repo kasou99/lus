@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-19T23:09:10.966Z",
+  "updatedAt": "2026-11-19T23:35:33.271Z",
   "items": [
     {
       "time": "07:35",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "首相の中国訪問「新ヤルタ」警戒"
     },
     {
+      "time": "08:18",
+      "title": "21日にかけ寒波 北陸など暴風警戒",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603236?source=rss",
+      "publishedAt": "2026-11-19T23:18:13.000Z",
+      "xQuery": "21日にかけ寒波 北陸など暴風警戒"
+    },
+    {
       "time": "07:22",
       "title": "習氏 台湾問題で米大統領をけん制",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6603226?source=rss",
       "publishedAt": "2026-11-19T22:22:36.000Z",
       "xQuery": "習氏 台湾問題で米大統領をけん制"
-    },
-    {
-      "time": "07:18",
-      "title": "3歳暴行死 母親が後悔の言葉",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603225?source=rss",
-      "publishedAt": "2026-11-19T22:18:14.000Z",
-      "xQuery": "3歳暴行死 母親が後悔の言葉"
     },
     {
       "time": "07:36",
