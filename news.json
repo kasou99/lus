@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T13:36:08.282Z",
+  "updatedAt": "2026-11-19T14:11:56.972Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,18 +38,18 @@
         "publishedAt": "2026-11-18T14:30:24.000Z"
       },
       {
+        "time": "05:00",
+        "title": "40周年「METALEX」タイで開幕 50カ国から集う",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1UYklFNUwxMTM1Vmw1UGxpX1FnbjV0TzJ3TmJfZUpqejhmN2FJLTEzRVVuRE9tYkc3X0lqaFBZSE9rc1J4UUhSaTNISEZnMFRrdzJBZURNUjM?oc=5",
+        "publishedAt": "2026-11-18T20:00:00.000Z"
+      },
+      {
         "time": "10:00",
         "title": "DINレールコンピュータの世界市場（2026年～2032年）、市場規模（Intel、NVIDIA、AMD）・分析レポートを発表",
         "source": "Newscast.jp",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4wZHFUZ3Z0MUZvbWZ2SXpoRm1vdkNnSU1sT2hYOXlSdmlVVjV2Q1l0ZVM5dDF4am9YOGV0eGpmdUw2dWdvTWRnVzBYc0ljYjg?oc=5",
         "publishedAt": "2026-11-19T01:00:00.000Z"
-      },
-      {
-        "time": "05:00",
-        "title": "戦略を読み解く（85）能美防災 DX・M&Aで成長加速",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1tZkhIU2pTaVZYSFFSS2tCOHRQQy1hX2pxalBybXA5cVhSa3hST3BwYWdwWXJYV1d1cldhSloxWmpCZkFyaFluT19UektkQWZQLS10Zzdsby0?oc=5",
-        "publishedAt": "2026-11-18T20:00:00.000Z"
       },
       {
         "time": "09:00",
@@ -149,13 +149,6 @@
     ],
     "localHeadlines": [
       {
-        "time": "17:09",
-        "title": "福岡市長選の再選挙 費用約8億円",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6603176?source=rss",
-        "publishedAt": "2026-11-19T08:09:42.000Z"
-      },
-      {
         "time": "13:49",
         "title": "岩手の震災遺体 90歳男性と判明",
         "source": "Yahoo!ニュース",
@@ -168,6 +161,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6603197?source=rss",
         "publishedAt": "2026-11-19T10:50:52.000Z"
+      },
+      {
+        "time": "22:47",
+        "title": "千葉3人切りつけ事件 男を再逮捕",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6603214?source=rss",
+        "publishedAt": "2026-11-19T13:47:35.000Z"
       },
       {
         "time": "18:49",

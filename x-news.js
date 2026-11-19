@@ -1,14 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-19T13:36:09.164Z",
+  "updatedAt": "2026-11-19T14:11:57.750Z",
   "items": [
-    {
-      "time": "20:59",
-      "title": "米中露首脳「平和宣言」を発表",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603204?source=rss",
-      "publishedAt": "2026-11-19T11:59:20.000Z",
-      "xQuery": "米中露首脳「平和宣言」を発表"
-    },
     {
       "time": "21:15",
       "title": "ロヒンギャ迫害 ジェノサイド認定",
@@ -16,6 +8,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6603205?source=rss",
       "publishedAt": "2026-11-19T12:15:23.000Z",
       "xQuery": "ロヒンギャ迫害 ジェノサイド認定"
+    },
+    {
+      "time": "23:00",
+      "title": "高市首相 トランプ氏と電話会談",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603216?source=rss",
+      "publishedAt": "2026-11-19T14:00:34.000Z",
+      "xQuery": "高市首相 トランプ氏と電話会談"
     },
     {
       "time": "22:03",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "楽天証券に報告徴求命令 金融庁"
     },
     {
-      "time": "19:32",
-      "title": "育休とった男性の心身不調 症状は",
+      "time": "22:47",
+      "title": "千葉3人切りつけ事件 男を再逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603193?source=rss",
-      "publishedAt": "2026-11-19T10:32:57.000Z",
-      "xQuery": "育休とった男性の心身不調 症状は"
+      "url": "https://news.yahoo.co.jp/pickup/6603214?source=rss",
+      "publishedAt": "2026-11-19T13:47:35.000Z",
+      "xQuery": "千葉3人切りつけ事件 男を再逮捕"
     }
   ]
 };
