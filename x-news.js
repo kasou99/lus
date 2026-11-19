@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-19T09:12:34.414Z",
+  "updatedAt": "2026-11-19T09:36:11.893Z",
   "items": [
     {
       "time": "17:51",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "兵庫3歳死亡「パパたたく」と記録"
     },
     {
-      "time": "17:53",
-      "title": "店で18金ネックレス奪う 男が逃走",
+      "time": "18:24",
+      "title": "店でネックレス奪う 男が逃走中",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603180?source=rss",
-      "publishedAt": "2026-11-19T08:53:45.000Z",
-      "xQuery": "店で18金ネックレス奪う 男が逃走"
+      "url": "https://news.yahoo.co.jp/pickup/6603189?source=rss",
+      "publishedAt": "2026-11-19T09:24:12.000Z",
+      "xQuery": "店でネックレス奪う 男が逃走中"
     }
   ]
 };
