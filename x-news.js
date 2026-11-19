@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-19T22:35:31.798Z",
+  "updatedAt": "2026-11-19T23:09:10.966Z",
   "items": [
+    {
+      "time": "07:35",
+      "title": "首相の中国訪問「新ヤルタ」警戒",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603228?source=rss",
+      "publishedAt": "2026-11-19T22:35:06.000Z",
+      "xQuery": "首相の中国訪問「新ヤルタ」警戒"
+    },
     {
       "time": "07:22",
       "title": "習氏 台湾問題で米大統領をけん制",
@@ -8,14 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6603226?source=rss",
       "publishedAt": "2026-11-19T22:22:36.000Z",
       "xQuery": "習氏 台湾問題で米大統領をけん制"
-    },
-    {
-      "time": "23:50",
-      "title": "アンソロピック 米ナスダック上場",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603220?source=rss",
-      "publishedAt": "2026-11-19T14:50:41.000Z",
-      "xQuery": "アンソロピック 米ナスダック上場"
     },
     {
       "time": "07:18",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "3歳暴行死 母親が後悔の言葉"
     },
     {
-      "time": "22:03",
-      "title": "高市首相を「冷遇」? 中国が反論",
+      "time": "07:36",
+      "title": "アンソロピック 初日終値約97ドル",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603208?source=rss",
-      "publishedAt": "2026-11-19T13:03:28.000Z",
-      "xQuery": "高市首相を「冷遇」? 中国が反論"
+      "url": "https://news.yahoo.co.jp/pickup/6603229?source=rss",
+      "publishedAt": "2026-11-19T22:36:03.000Z",
+      "xQuery": "アンソロピック 初日終値約97ドル"
     },
     {
       "time": "06:42",

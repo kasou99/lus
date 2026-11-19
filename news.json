@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T22:35:30.788Z",
+  "updatedAt": "2026-11-19T23:09:10.033Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -39,9 +39,9 @@
       },
       {
         "time": "05:00",
-        "title": "ニッカル商工、3軸MC導入 大型加工品で新規開拓",
+        "title": "ファミマ、飲料補充ロボ 店舗作業時間7割減 AIで売れ筋優先",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA3RDd6eU5VSmQ3d2JtQW9zc1J2TDEwZ2VqcEwtUEtKZ3lEdms3NWEwN29GX1l0OHlZYlFFM0s1OEVKcHhJbEVEMUM2QXpTeFZvZWYwWjd0ZW4?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9kU05UMEo5T1p3SXV6Z0JBcERzM19fbmJoY2ZRQWJuMHRWcmF0c1BhSmZyTVZWdlppQi1aY2lqVVA3Q3NLQjRpOUxPR2h0YUp6b1oxODM3ckI?oc=5",
         "publishedAt": "2026-11-19T20:00:00.000Z"
       },
       {
@@ -105,6 +105,13 @@
     ],
     "economyHeadlines": [
       {
+        "time": "07:36",
+        "title": "アンソロピック 初日終値約97ドル",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6603229?source=rss",
+        "publishedAt": "2026-11-19T22:36:03.000Z"
+      },
+      {
         "time": "21:06",
         "title": "楽天証券に報告徴求命令 金融庁",
         "source": "Yahoo!ニュース",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6603202?source=rss",
         "publishedAt": "2026-11-19T12:21:11.000Z"
-      },
-      {
-        "time": "18:35",
-        "title": "くら寿司 ちいかわ寿司皿再配布へ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6603187?source=rss",
-        "publishedAt": "2026-11-19T09:35:31.000Z"
       }
     ],
     "localHeadlines": [
