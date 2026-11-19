@@ -1,14 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-19T05:36:24.495Z",
+  "updatedAt": "2026-11-19T06:20:27.837Z",
   "items": [
-    {
-      "time": "12:32",
-      "title": "平均年齢75.7歳 歴史的首脳会談へ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603148?source=rss",
-      "publishedAt": "2026-11-19T03:32:29.000Z",
-      "xQuery": "平均年齢75.7歳 歴史的首脳会談へ"
-    },
     {
       "time": "13:37",
       "title": "APEC 中国が見せた「線引き」",
@@ -18,28 +10,36 @@ window.LUS_X_NEWS = {
       "xQuery": "APEC 中国が見せた「線引き」"
     },
     {
-      "time": "12:05",
-      "title": "タマホーム 高松以外も不正請求か",
+      "time": "14:03",
+      "title": "文科相の進退巡り 野党の足並み鍵",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603142?source=rss",
-      "publishedAt": "2026-11-19T03:05:48.000Z",
-      "xQuery": "タマホーム 高松以外も不正請求か"
+      "url": "https://news.yahoo.co.jp/pickup/6603144?source=rss",
+      "publishedAt": "2026-11-19T05:03:53.000Z",
+      "xQuery": "文科相の進退巡り 野党の足並み鍵"
     },
     {
-      "time": "13:05",
-      "title": "スバル 米国製SUVを「逆輸入」",
+      "time": "13:49",
+      "title": "岩手の震災遺体 90歳男性と判明",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603150?source=rss",
-      "publishedAt": "2026-11-19T04:05:33.000Z",
-      "xQuery": "スバル 米国製SUVを「逆輸入」"
+      "url": "https://news.yahoo.co.jp/pickup/6603154?source=rss",
+      "publishedAt": "2026-11-19T04:49:30.000Z",
+      "xQuery": "岩手の震災遺体 90歳男性と判明"
     },
     {
-      "time": "12:10",
-      "title": "小便器「丸見え」女性記者が驚き",
+      "time": "14:48",
+      "title": "クマに追いかけられた 高校生通報",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603145?source=rss",
-      "publishedAt": "2026-11-19T03:10:33.000Z",
-      "xQuery": "小便器「丸見え」女性記者が驚き"
+      "url": "https://news.yahoo.co.jp/pickup/6603160?source=rss",
+      "publishedAt": "2026-11-19T05:48:07.000Z",
+      "xQuery": "クマに追いかけられた 高校生通報"
+    },
+    {
+      "time": "14:32",
+      "title": "23年に男性死亡 仕事仲間の男逮捕",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603158?source=rss",
+      "publishedAt": "2026-11-19T05:32:08.000Z",
+      "xQuery": "23年に男性死亡 仕事仲間の男逮捕"
     }
   ]
 };
