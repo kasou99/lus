@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-19T00:30:18.702Z",
+  "updatedAt": "2026-11-19T01:11:12.110Z",
   "items": [
     {
       "time": "08:35",
@@ -18,6 +18,14 @@ window.LUS_X_NEWS = {
       "xQuery": "米 ベネズエラと軍事協力で合意"
     },
     {
+      "time": "09:34",
+      "title": "Anthropic IPO公開価格は83ドル",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603117?source=rss",
+      "publishedAt": "2026-11-19T00:34:59.000Z",
+      "xQuery": "Anthropic IPO公開価格は83ドル"
+    },
+    {
       "time": "09:01",
       "title": "サーバーソフト「nginx」に脆弱性",
       "source": "Yahoo!ニュース",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "サーバーソフト「nginx」に脆弱性"
     },
     {
-      "time": "07:59",
-      "title": "秋田のアシカ・リオン 移動中死ぬ",
+      "time": "09:44",
+      "title": "四ツ谷駅の除草ヤギ 今月で見納め",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603105?source=rss",
-      "publishedAt": "2026-11-18T22:59:18.000Z",
-      "xQuery": "秋田のアシカ・リオン 移動中死ぬ"
-    },
-    {
-      "time": "09:14",
-      "title": "ボージョレ 今年は「ふくよか」",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603114?source=rss",
-      "publishedAt": "2026-11-19T00:14:54.000Z",
-      "xQuery": "ボージョレ 今年は「ふくよか」"
+      "url": "https://news.yahoo.co.jp/pickup/6603119?source=rss",
+      "publishedAt": "2026-11-19T00:44:45.000Z",
+      "xQuery": "四ツ谷駅の除草ヤギ 今月で見納め"
     }
   ]
 };
