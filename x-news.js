@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-19T09:36:11.893Z",
+  "updatedAt": "2026-11-19T10:11:14.825Z",
   "items": [
     {
       "time": "17:51",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "高市首相 外遊成果に「手応え」"
     },
     {
-      "time": "16:03",
-      "title": "JT 露の子会社7社を連結から除外",
+      "time": "18:26",
+      "title": "政府 配信者の発言全ては確認せず",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603167?source=rss",
-      "publishedAt": "2026-11-19T07:03:54.000Z",
-      "xQuery": "JT 露の子会社7社を連結から除外"
+      "url": "https://news.yahoo.co.jp/pickup/6603188?source=rss",
+      "publishedAt": "2026-11-19T09:26:28.000Z",
+      "xQuery": "政府 配信者の発言全ては確認せず"
     },
     {
       "time": "17:34",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "兵庫3歳死亡「パパたたく」と記録"
     },
     {
-      "time": "18:24",
-      "title": "店でネックレス奪う 男が逃走中",
+      "time": "18:49",
+      "title": "入浴施設で作業 熱中症で男性死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603189?source=rss",
-      "publishedAt": "2026-11-19T09:24:12.000Z",
-      "xQuery": "店でネックレス奪う 男が逃走中"
+      "url": "https://news.yahoo.co.jp/pickup/6603190?source=rss",
+      "publishedAt": "2026-11-19T09:49:16.000Z",
+      "xQuery": "入浴施設で作業 熱中症で男性死亡"
     }
   ]
 };
