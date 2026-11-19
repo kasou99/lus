@@ -1,37 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-18T23:36:05.319Z",
+  "updatedAt": "2026-11-19T00:30:18.702Z",
   "items": [
     {
-      "time": "07:37",
-      "title": "少子化相 日本版DBS脆弱性を謝罪",
+      "time": "08:35",
+      "title": "21日にかけ風強まる 暴風など警戒",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603101?source=rss",
-      "publishedAt": "2026-11-18T22:37:45.000Z",
-      "xQuery": "少子化相 日本版DBS脆弱性を謝罪"
+      "url": "https://news.yahoo.co.jp/pickup/6603109?source=rss",
+      "publishedAt": "2026-11-18T23:35:57.000Z",
+      "xQuery": "21日にかけ風強まる 暴風など警戒"
     },
     {
-      "time": "07:21",
-      "title": "トランプ氏 露大統領と個別会談へ",
+      "time": "09:18",
+      "title": "米 ベネズエラと軍事協力で合意",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603100?source=rss",
-      "publishedAt": "2026-11-18T22:21:47.000Z",
-      "xQuery": "トランプ氏 露大統領と個別会談へ"
+      "url": "https://news.yahoo.co.jp/pickup/6603113?source=rss",
+      "publishedAt": "2026-11-19T00:18:35.000Z",
+      "xQuery": "米 ベネズエラと軍事協力で合意"
     },
     {
-      "time": "07:21",
-      "title": "防衛費財務省案 自民内で異論噴出",
+      "time": "09:01",
+      "title": "サーバーソフト「nginx」に脆弱性",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603099?source=rss",
-      "publishedAt": "2026-11-18T22:21:45.000Z",
-      "xQuery": "防衛費財務省案 自民内で異論噴出"
-    },
-    {
-      "time": "02:27",
-      "title": "熊本県で震度5弱 津波の心配なし",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603094?source=rss",
-      "publishedAt": "2026-11-18T17:27:46.000Z",
-      "xQuery": "熊本県で震度5弱 津波の心配なし"
+      "url": "https://news.yahoo.co.jp/pickup/6603112?source=rss",
+      "publishedAt": "2026-11-19T00:01:46.000Z",
+      "xQuery": "サーバーソフト「nginx」に脆弱性"
     },
     {
       "time": "07:59",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6603105?source=rss",
       "publishedAt": "2026-11-18T22:59:18.000Z",
       "xQuery": "秋田のアシカ・リオン 移動中死ぬ"
+    },
+    {
+      "time": "09:14",
+      "title": "ボージョレ 今年は「ふくよか」",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603114?source=rss",
+      "publishedAt": "2026-11-19T00:14:54.000Z",
+      "xQuery": "ボージョレ 今年は「ふくよか」"
     }
   ]
 };
