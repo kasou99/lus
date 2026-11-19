@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T16:12:08.986Z",
+  "updatedAt": "2026-11-19T16:35:55.418Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,25 +38,25 @@
         "publishedAt": "2026-11-19T03:16:04.000Z"
       },
       {
+        "time": "05:00",
+        "title": "40周年「METALEX」タイで開幕 50カ国から集う",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1UYklFNUwxMTM1Vmw1UGxpX1FnbjV0TzJ3TmJfZUpqejhmN2FJLTEzRVVuRE9tYkc3X0lqaFBZSE9rc1J4UUhSaTNISEZnMFRrdzJBZURNUjM?oc=5",
+        "publishedAt": "2026-11-18T20:00:00.000Z"
+      },
+      {
+        "time": "19:51",
+        "title": "オンラインセミナー「製造業 最新事例サミット」にて全固体電池バックアップモジュールの活用事例を紹介",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1GRFBhelRiT2NxVC1TLW1RQ0hQeU1sODlyOVM1cTdBOUJ2RWZlQlZGQkxLODdwa050WjFjTGxzRENrX2wtR3drU2NvMlZndEU5RTJVVUZ1NTUzeWFzVWpadWF5TlNWNE0yWnplMjV5bk83NlBBT0E?oc=5",
+        "publishedAt": "2026-11-19T10:51:24.000Z"
+      },
+      {
         "time": "10:00",
         "title": "DINレールコンピュータの世界市場（2026年～2032年）、市場規模（Intel、NVIDIA、AMD）・分析レポートを発表",
         "source": "Newscast.jp",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4wZHFUZ3Z0MUZvbWZ2SXpoRm1vdkNnSU1sT2hYOXlSdmlVVjV2Q1l0ZVM5dDF4am9YOGV0eGpmdUw2dWdvTWRnVzBYc0ljYjg?oc=5",
         "publishedAt": "2026-11-19T01:00:00.000Z"
-      },
-      {
-        "time": "05:00",
-        "title": "戦略を読み解く（85）能美防災 DX・M&Aで成長加速",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1tZkhIU2pTaVZYSFFSS2tCOHRQQy1hX2pxalBybXA5cVhSa3hST3BwYWdwWXJYV1d1cldhSloxWmpCZkFyaFluT19UektkQWZQLS10Zzdsby0?oc=5",
-        "publishedAt": "2026-11-18T20:00:00.000Z"
-      },
-      {
-        "time": "05:05",
-        "title": "八代鉄工所が岐阜市・柳津地域ものづくり団地に工場新設 27年秋稼働へ",
-        "source": "ｄメニューニュース",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9RZHM1SS0wTXJGNEpXdXYtU1VrQURuUlljNnMxNDlYZVg2WjluWm9haTlNOXE3RU9CSGZBVG5VV2drSm04amkybF9udi15QU1vdTJrS2NTd0ZESThDdjVzVEVKN3BSd0NJa1lZX3JrbFpvUEpNRTM4c2tPOG1USTDSAX9BVV95cUxPUWRzNUktME1yRjRKV3V2LVNVa0FEblJZYzZzMTQ5WGVYNlo5blpvYWk5TTlxN0VPQkhmQVRuVVdna0ptOGppMmxfbnYteUFNb3Uya0tjU3dGREk4Q3Y1c1RFSjdwUndDSWtZWV9ya2xab1BKTUUzOHNrTzhtVEkw?oc=5",
-        "publishedAt": "2026-11-18T20:05:00.000Z"
       }
     ],
     "worldHeadlines": [
