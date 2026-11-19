@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-19T01:39:25.786Z",
+  "updatedAt": "2026-11-19T02:15:29.587Z",
   "items": [
     {
       "time": "08:35",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "21日にかけ風強まる 暴風など警戒"
     },
     {
-      "time": "09:18",
-      "title": "米 ベネズエラと軍事協力で合意",
+      "time": "07:57",
+      "title": "米史上初 黒人の下院議長誕生へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603113?source=rss",
-      "publishedAt": "2026-11-19T00:18:35.000Z",
-      "xQuery": "米 ベネズエラと軍事協力で合意"
+      "url": "https://news.yahoo.co.jp/pickup/6603104?source=rss",
+      "publishedAt": "2026-11-18T22:57:28.000Z",
+      "xQuery": "米史上初 黒人の下院議長誕生へ"
     },
     {
-      "time": "09:34",
-      "title": "Anthropic IPO公開価格は83ドル",
+      "time": "10:37",
+      "title": "2人死亡事故 容疑者勤務先を捜索",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603117?source=rss",
-      "publishedAt": "2026-11-19T00:34:59.000Z",
-      "xQuery": "Anthropic IPO公開価格は83ドル"
+      "url": "https://news.yahoo.co.jp/pickup/6603123?source=rss",
+      "publishedAt": "2026-11-19T01:37:54.000Z",
+      "xQuery": "2人死亡事故 容疑者勤務先を捜索"
     },
     {
       "time": "10:19",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "中学生はねられ意識不明 70歳逮捕"
     },
     {
-      "time": "09:44",
-      "title": "四ツ谷駅の除草ヤギ 今月で見納め",
+      "time": "10:41",
+      "title": "賃上げより手取り増 食事補助注目",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603119?source=rss",
-      "publishedAt": "2026-11-19T00:44:45.000Z",
-      "xQuery": "四ツ谷駅の除草ヤギ 今月で見納め"
+      "url": "https://news.yahoo.co.jp/pickup/6603124?source=rss",
+      "publishedAt": "2026-11-19T01:41:55.000Z",
+      "xQuery": "賃上げより手取り増 食事補助注目"
     }
   ]
 };
