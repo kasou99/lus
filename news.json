@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T21:35:33.632Z",
+  "updatedAt": "2026-11-19T22:10:25.245Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -24,13 +24,6 @@
         "publishedAt": "2026-11-19T04:36:21.000Z"
       },
       {
-        "time": "12:16",
-        "title": "アナログ・テック、ファンレス産業用PC「AIR-ST-NL-001」の受注受付を開始 ― -20～60℃対応、構成を固定したAironiAシリーズの標準モデル",
-        "source": "ASCII.jp",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5MZnJEbzBtS0VObW00RGs5ekRYajA2SnJzWmo2bHpoR1h5RkJza2NQaHEyZTZaVmdEQjRFdzZibzhaazM0R0gyOTNEdlVUdnhQaE1PNA?oc=5",
-        "publishedAt": "2026-11-19T03:16:04.000Z"
-      },
-      {
         "time": "13:30",
         "title": "設備保全クラウド「M2X」が「第19回 ASPIC AI・クラウドアワード2026」にてベンチャーグランプリを受賞",
         "source": "PR TIMES",
@@ -38,11 +31,25 @@
         "publishedAt": "2026-11-19T04:30:01.000Z"
       },
       {
+        "time": "06:18",
+        "title": "マクニカが振動センサーによる予知保全を出展。「生産・設備データの可視化・活用」に関する注目の出展企業を紹介【イプロスA",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5nZUVsVTZGVXlfYU9RNWp3WHBiZ2hWRERnREtZNFFxWTQ0NWloQ2h0dXFVc3M5MzkwVXozUEJZU1ZEX3hsTmhlSlVzRzVaSzc3dDNIbDRjX29MMjY1N1BuWG5uOGZrdDRY?oc=5",
+        "publishedAt": "2026-11-19T21:18:38.000Z"
+      },
+      {
         "time": "05:00",
-        "title": "ファミマ、飲料補充ロボ 店舗作業時間7割減 AIで売れ筋優先",
+        "title": "ニッカル商工、3軸MC導入 大型加工品で新規開拓",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9kU05UMEo5T1p3SXV6Z0JBcERzM19fbmJoY2ZRQWJuMHRWcmF0c1BhSmZyTVZWdlppQi1aY2lqVVA3Q3NLQjRpOUxPR2h0YUp6b1oxODM3ckI?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA3RDd6eU5VSmQ3d2JtQW9zc1J2TDEwZ2VqcEwtUEtKZ3lEdms3NWEwN29GX1l0OHlZYlFFM0s1OEVKcHhJbEVEMUM2QXpTeFZvZWYwWjd0ZW4?oc=5",
         "publishedAt": "2026-11-19T20:00:00.000Z"
+      },
+      {
+        "time": "12:16",
+        "title": "アナログ・テック、ファンレス産業用PC「AIR-ST-NL-001」の受注受付を開始 ― -20～60℃対応、構成を固定したAironiAシリーズの標準モデル",
+        "source": "ASCII.jp",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5MZnJEbzBtS0VObW00RGs5ekRYajA2SnJzWmo2bHpoR1h5RkJza2NQaHEyZTZaVmdEQjRFdzZibzhaazM0R0gyOTNEdlVUdnhQaE1PNA?oc=5",
+        "publishedAt": "2026-11-19T03:16:04.000Z"
       },
       {
         "time": "10:00",
@@ -50,13 +57,6 @@
         "source": "Newscast.jp",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4wZHFUZ3Z0MUZvbWZ2SXpoRm1vdkNnSU1sT2hYOXlSdmlVVjV2Q1l0ZVM5dDF4am9YOGV0eGpmdUw2dWdvTWRnVzBYc0ljYjg?oc=5",
         "publishedAt": "2026-11-19T01:00:00.000Z"
-      },
-      {
-        "time": "05:10",
-        "title": "【製造業向け】AI・自動化・DXの導入事例 全9セッションオンラインカンファレンス「製造業 最新事例サミット」を開催",
-        "source": "Infoseek",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBILVpHcUNKYTl6TGJWSF9ROUMxQngxTWZ5OV9kSktrcUtQTEZRVEFXelhJcU80MFV1Q3hncTFreUNWZ3RlUktaSFUyWURieFZJc0NaWGxwNWJKd1hGNm8yQnh5dzRwV09SQWd2TW5PRmloUQ?oc=5",
-        "publishedAt": "2026-11-19T20:10:02.000Z"
       }
     ],
     "worldHeadlines": [
@@ -112,18 +112,18 @@
         "publishedAt": "2026-11-19T12:06:41.000Z"
       },
       {
+        "time": "06:42",
+        "title": "楽天証券に対し集団訴訟の動き",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6603224?source=rss",
+        "publishedAt": "2026-11-19T21:42:41.000Z"
+      },
+      {
         "time": "19:35",
         "title": "JT 露事業巡り1.3兆円の損失計上",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6603194?source=rss",
         "publishedAt": "2026-11-19T10:35:41.000Z"
-      },
-      {
-        "time": "13:05",
-        "title": "スバル 米国製SUVを「逆輸入」",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6603150?source=rss",
-        "publishedAt": "2026-11-19T04:05:33.000Z"
       },
       {
         "time": "20:29",

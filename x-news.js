@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-19T21:35:34.329Z",
+  "updatedAt": "2026-11-19T22:10:25.865Z",
   "items": [
     {
       "time": "22:23",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "千葉3人切りつけ事件 男を再逮捕"
     },
     {
-      "time": "21:06",
-      "title": "楽天証券に報告徴求命令 金融庁",
+      "time": "06:42",
+      "title": "楽天証券に対し集団訴訟の動き",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603203?source=rss",
-      "publishedAt": "2026-11-19T12:06:41.000Z",
-      "xQuery": "楽天証券に報告徴求命令 金融庁"
+      "url": "https://news.yahoo.co.jp/pickup/6603224?source=rss",
+      "publishedAt": "2026-11-19T21:42:41.000Z",
+      "xQuery": "楽天証券に対し集団訴訟の動き"
     }
   ]
 };
