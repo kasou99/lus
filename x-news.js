@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-19T06:20:27.837Z",
+  "updatedAt": "2026-11-19T06:42:24.493Z",
   "items": [
     {
-      "time": "13:37",
-      "title": "APEC 中国が見せた「線引き」",
+      "time": "15:12",
+      "title": "米露首脳会談 ウ情勢で意見交換か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603146?source=rss",
-      "publishedAt": "2026-11-19T04:37:28.000Z",
-      "xQuery": "APEC 中国が見せた「線引き」"
+      "url": "https://news.yahoo.co.jp/pickup/6603161?source=rss",
+      "publishedAt": "2026-11-19T06:12:39.000Z",
+      "xQuery": "米露首脳会談 ウ情勢で意見交換か"
     },
     {
-      "time": "14:03",
-      "title": "文科相の進退巡り 野党の足並み鍵",
+      "time": "15:32",
+      "title": "文科相進退 鍵を握る国民民主党",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603144?source=rss",
-      "publishedAt": "2026-11-19T05:03:53.000Z",
-      "xQuery": "文科相の進退巡り 野党の足並み鍵"
+      "url": "https://news.yahoo.co.jp/pickup/6603165?source=rss",
+      "publishedAt": "2026-11-19T06:32:19.000Z",
+      "xQuery": "文科相進退 鍵を握る国民民主党"
     },
     {
       "time": "13:49",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "岩手の震災遺体 90歳男性と判明"
     },
     {
+      "time": "14:58",
+      "title": "戦車事故 陸自が原因を特定し公表",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603159?source=rss",
+      "publishedAt": "2026-11-19T05:58:27.000Z",
+      "xQuery": "戦車事故 陸自が原因を特定し公表"
+    },
+    {
       "time": "14:48",
       "title": "クマに追いかけられた 高校生通報",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6603160?source=rss",
       "publishedAt": "2026-11-19T05:48:07.000Z",
       "xQuery": "クマに追いかけられた 高校生通報"
-    },
-    {
-      "time": "14:32",
-      "title": "23年に男性死亡 仕事仲間の男逮捕",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603158?source=rss",
-      "publishedAt": "2026-11-19T05:32:08.000Z",
-      "xQuery": "23年に男性死亡 仕事仲間の男逮捕"
     }
   ]
 };
