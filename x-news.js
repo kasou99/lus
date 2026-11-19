@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-19T12:16:05.370Z",
+  "updatedAt": "2026-11-19T12:38:06.311Z",
   "items": [
     {
       "time": "20:59",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "米中露首脳「平和宣言」を発表"
     },
     {
-      "time": "18:56",
-      "title": "内閣支持率は微増の42.8% 時事",
+      "time": "21:15",
+      "title": "ロヒンギャ迫害 ジェノサイド認定",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603191?source=rss",
-      "publishedAt": "2026-11-19T09:56:58.000Z",
-      "xQuery": "内閣支持率は微増の42.8% 時事"
+      "url": "https://news.yahoo.co.jp/pickup/6603205?source=rss",
+      "publishedAt": "2026-11-19T12:15:23.000Z",
+      "xQuery": "ロヒンギャ迫害 ジェノサイド認定"
     },
     {
       "time": "21:06",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "楽天証券に報告徴求命令 金融庁"
     },
     {
-      "time": "19:35",
-      "title": "JT 露事業巡り1.3兆円の損失計上",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603194?source=rss",
-      "publishedAt": "2026-11-19T10:35:41.000Z",
-      "xQuery": "JT 露事業巡り1.3兆円の損失計上"
-    },
-    {
       "time": "18:49",
       "title": "入浴施設で作業 熱中症で男性死亡",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6603190?source=rss",
       "publishedAt": "2026-11-19T09:49:16.000Z",
       "xQuery": "入浴施設で作業 熱中症で男性死亡"
+    },
+    {
+      "time": "19:32",
+      "title": "育休とった男性の心身不調 症状は",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603193?source=rss",
+      "publishedAt": "2026-11-19T10:32:57.000Z",
+      "xQuery": "育休とった男性の心身不調 症状は"
     }
   ]
 };

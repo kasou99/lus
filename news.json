@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T12:16:04.538Z",
+  "updatedAt": "2026-11-19T12:38:05.325Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,6 +31,20 @@
         "publishedAt": "2026-11-19T04:30:01.000Z"
       },
       {
+        "time": "22:22",
+        "title": "CNC工作機械の有力企業トップ10",
+        "source": "pando.life",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1mTnA4Y2pLUnE4TmZCaFhoRXZfZ0U0VFZiTVAwTXZQT3JmaXdhTThFNE9Ja3M0bDVJeUx4blc4bVJkWnNLTGlIYjZB?oc=5",
+        "publishedAt": "2026-11-18T13:22:26.000Z"
+      },
+      {
+        "time": "05:00",
+        "title": "40周年「METALEX」タイで開幕 50カ国から集う",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1UYklFNUwxMTM1Vmw1UGxpX1FnbjV0TzJ3TmJfZUpqejhmN2FJLTEzRVVuRE9tYkc3X0lqaFBZSE9rc1J4UUhSaTNISEZnMFRrdzJBZURNUjM?oc=5",
+        "publishedAt": "2026-11-18T20:00:00.000Z"
+      },
+      {
         "time": "12:16",
         "title": "アナログ・テック、ファンレス産業用PC「AIR-ST-NL-001」の受注受付を開始 ― -20～60℃対応、構成を固定したAironiAシリーズの標準モデル",
         "source": "ASCII.jp",
@@ -43,20 +57,6 @@
         "source": "Newscast.jp",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4wZHFUZ3Z0MUZvbWZ2SXpoRm1vdkNnSU1sT2hYOXlSdmlVVjV2Q1l0ZVM5dDF4am9YOGV0eGpmdUw2dWdvTWRnVzBYc0ljYjg?oc=5",
         "publishedAt": "2026-11-19T01:00:00.000Z"
-      },
-      {
-        "time": "05:00",
-        "title": "戦略を読み解く（85）能美防災 DX・M&Aで成長加速",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1tZkhIU2pTaVZYSFFSS2tCOHRQQy1hX2pxalBybXA5cVhSa3hST3BwYWdwWXJYV1d1cldhSloxWmpCZkFyaFluT19UektkQWZQLS10Zzdsby0?oc=5",
-        "publishedAt": "2026-11-18T20:00:00.000Z"
-      },
-      {
-        "time": "22:22",
-        "title": "CNC工作機械の有力企業トップ10",
-        "source": "pando.life",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1mTnA4Y2pLUnE4TmZCaFhoRXZfZ0U0VFZiTVAwTXZQT3JmaXdhTThFNE9Ja3M0bDVJeUx4blc4bVJkWnNLTGlIYjZB?oc=5",
-        "publishedAt": "2026-11-18T13:22:26.000Z"
       }
     ],
     "worldHeadlines": [
@@ -126,18 +126,18 @@
         "publishedAt": "2026-11-19T04:05:33.000Z"
       },
       {
-        "time": "12:05",
-        "title": "タマホーム 高松以外も不正請求か",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6603142?source=rss",
-        "publishedAt": "2026-11-19T03:05:48.000Z"
-      },
-      {
         "time": "20:29",
         "title": "NHK ラジオで関係ない音声を放送",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6603200?source=rss",
         "publishedAt": "2026-11-19T11:29:30.000Z"
+      },
+      {
+        "time": "21:21",
+        "title": "運転手の不適切動画 京急バス謝罪",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6603202?source=rss",
+        "publishedAt": "2026-11-19T12:21:11.000Z"
       },
       {
         "time": "18:35",
