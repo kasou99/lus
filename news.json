@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T08:15:30.480Z",
+  "updatedAt": "2026-11-19T08:36:10.648Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -25,17 +25,10 @@
       },
       {
         "time": "19:00",
-        "title": "シチズン時計、時計・工作機械の好調で上期増収増益 1Qに続き通期業績予想を上方修正し、通期で過去最高の売上・利益を見込む 投稿日時： 2026/11/18 19:00[ログミーファイナンス]",
-        "source": "みんかぶ",
-        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1fOUVfWlcxSDVLUjhiZ3NKU0lhay1NRjJMR0RjUlJTaktndkI5cHRYVXlJR3cyQUsyelNKMXVORDNjVmo1cTJKMg?oc=5",
+        "title": "シチズン時計（7762）、時計・工作機械の好調で上期増収増益 1Qに続き通期業績予想を上方修正し、通期で過去最高の売上・利益を見込む",
+        "source": "ログミーFinance",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1JQzBzNW0xQ295RjNpRXphSzAyOXd2UGtIUi1SeHlMbk1WU0R5V2szbFp6ejhFZXY2MnJrU1E5emxneWQxMGd3WkliUlZ6ZE9PNkE?oc=5",
         "publishedAt": "2026-11-18T10:00:02.000Z"
-      },
-      {
-        "time": "19:55",
-        "title": "FESTO、食品や医薬品業界向けに衛生設計の電動駆動ソリューションを発売シリンダとサーボモータ、ケーブルを統合",
-        "source": "オートメーション新聞WEB",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBEclgyN0lad01iLTRnS1FEcGo4VmFYOE5YTVkzQVdnNjhybURSa0d5TWI2UVVnUEMzMjc0dWl3Wng1Nkxyb3l2cXBIdklkUkdtUThWZDBrTlFMdw?oc=5",
-        "publishedAt": "2026-11-18T10:55:00.000Z"
       },
       {
         "time": "22:22",
@@ -52,20 +45,27 @@
         "publishedAt": "2026-11-18T10:43:32.000Z"
       },
       {
-        "time": "05:00",
-        "title": "40周年「METALEX」タイで開幕 50カ国から集う",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1UYklFNUwxMTM1Vmw1UGxpX1FnbjV0TzJ3TmJfZUpqejhmN2FJLTEzRVVuRE9tYkc3X0lqaFBZSE9rc1J4UUhSaTNISEZnMFRrdzJBZURNUjM?oc=5",
-        "publishedAt": "2026-11-18T20:00:00.000Z"
+        "time": "19:55",
+        "title": "FESTO、食品や医薬品業界向けに衛生設計の電動駆動ソリューションを発売シリンダとサーボモータ、ケーブルを統合",
+        "source": "オートメーション新聞WEB",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBEclgyN0lad01iLTRnS1FEcGo4VmFYOE5YTVkzQVdnNjhybURSa0d5TWI2UVVnUEMzMjc0dWl3Wng1Nkxyb3l2cXBIdklkUkdtUThWZDBrTlFMdw?oc=5",
+        "publishedAt": "2026-11-18T10:55:00.000Z"
+      },
+      {
+        "time": "12:16",
+        "title": "アナログ・テック、ファンレス産業用PC「AIR-ST-NL-001」の受注受付を開始 ― -20～60℃対応、構成を固定したAironiAシリーズの標準モデル",
+        "source": "ASCII.jp",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5MZnJEbzBtS0VObW00RGs5ekRYajA2SnJzWmo2bHpoR1h5RkJza2NQaHEyZTZaVmdEQjRFdzZibzhaazM0R0gyOTNEdlVUdnhQaE1PNA?oc=5",
+        "publishedAt": "2026-11-19T03:16:04.000Z"
       }
     ],
     "worldHeadlines": [
       {
-        "time": "12:32",
-        "title": "平均年齢75.7歳 歴史的首脳会談へ",
+        "time": "17:30",
+        "title": "中継 米中露3カ国の首脳が初会談",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6603148?source=rss",
-        "publishedAt": "2026-11-19T03:32:29.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6603164?source=rss",
+        "publishedAt": "2026-11-19T08:30:33.000Z"
       },
       {
         "time": "22:07",
@@ -163,18 +163,18 @@
         "publishedAt": "2026-11-19T02:56:06.000Z"
       },
       {
-        "time": "14:32",
-        "title": "23年に男性死亡 仕事仲間の男逮捕",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6603158?source=rss",
-        "publishedAt": "2026-11-19T05:32:08.000Z"
-      },
-      {
         "time": "13:49",
         "title": "岩手の震災遺体 90歳男性と判明",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6603154?source=rss",
         "publishedAt": "2026-11-19T04:49:30.000Z"
+      },
+      {
+        "time": "17:34",
+        "title": "兵庫3歳死亡「パパたたく」と記録",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6603179?source=rss",
+        "publishedAt": "2026-11-19T08:34:05.000Z"
       },
       {
         "time": "22:52",

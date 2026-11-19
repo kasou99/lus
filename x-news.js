@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-19T08:15:31.320Z",
+  "updatedAt": "2026-11-19T08:36:11.128Z",
   "items": [
+    {
+      "time": "17:30",
+      "title": "中継 米中露3カ国の首脳が初会談",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603164?source=rss",
+      "publishedAt": "2026-11-19T08:30:33.000Z",
+      "xQuery": "中継 米中露3カ国の首脳が初会談"
+    },
     {
       "time": "16:55",
       "title": "高市首相 外遊成果に「手応え」",
@@ -18,20 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "JT 露の子会社7社を連結から除外"
     },
     {
-      "time": "16:19",
-      "title": "米露首脳が対面会談 ウ巡り協議",
+      "time": "17:09",
+      "title": "福岡市長選の再選挙 費用約8億円",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603170?source=rss",
-      "publishedAt": "2026-11-19T07:19:02.000Z",
-      "xQuery": "米露首脳が対面会談 ウ巡り協議"
-    },
-    {
-      "time": "16:56",
-      "title": "催涙スプレー 学校トラブル相次ぐ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603174?source=rss",
-      "publishedAt": "2026-11-19T07:56:22.000Z",
-      "xQuery": "催涙スプレー 学校トラブル相次ぐ"
+      "url": "https://news.yahoo.co.jp/pickup/6603176?source=rss",
+      "publishedAt": "2026-11-19T08:09:42.000Z",
+      "xQuery": "福岡市長選の再選挙 費用約8億円"
     },
     {
       "time": "14:48",
