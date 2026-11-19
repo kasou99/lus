@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T14:11:56.972Z",
+  "updatedAt": "2026-11-19T14:35:53.158Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,18 +31,18 @@
         "publishedAt": "2026-11-19T04:30:01.000Z"
       },
       {
-        "time": "23:30",
-        "title": "日立社員、「卓越した技能者(現代の名工)」として厚生労働大臣表彰を受賞",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1JRklZSTdLMnFiaXNDVms4YXFYLWpaN054TGNya3dpbkttelJYbl9tQjJhVTRiVmYtY2JWWENuYWpma090RmlpYWZ2S1NqdDhERkZiZW5JR3JtVk9BOGJXWXNodUl5MEtUSURHdG93ZV9RbTJPMXdxN2JoSQ?oc=5",
-        "publishedAt": "2026-11-18T14:30:24.000Z"
-      },
-      {
         "time": "05:00",
         "title": "40周年「METALEX」タイで開幕 50カ国から集う",
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1UYklFNUwxMTM1Vmw1UGxpX1FnbjV0TzJ3TmJfZUpqejhmN2FJLTEzRVVuRE9tYkc3X0lqaFBZSE9rc1J4UUhSaTNISEZnMFRrdzJBZURNUjM?oc=5",
         "publishedAt": "2026-11-18T20:00:00.000Z"
+      },
+      {
+        "time": "11:15",
+        "title": "アナログ・テック、ファンレス産業用PC「AIR-ST-NL-001」の受注受付を開始",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1pOGY0TU9GMDVhYzc2Tlk3bkFjWUpvZk94YmxmREJYWnZiZzhWUmM0TVE4T0h0SU5UWW1uM1gtNU5GQkh1amVySnhLcnRPeUZ0WWVBNHhmaVlJUWd5eG1KSVR0OWlKLXFkbEk2TTNHZ2ZWTmFzWGVSVk5Ycw?oc=5",
+        "publishedAt": "2026-11-19T02:15:24.000Z"
       },
       {
         "time": "10:00",
@@ -52,11 +52,11 @@
         "publishedAt": "2026-11-19T01:00:00.000Z"
       },
       {
-        "time": "09:00",
-        "title": "アナログ・テック、ファンレス産業用PC「AIR-ST-NL-001」の受注受付を開始 ― -20～60℃対応、構成を固定したAironiAシリーズの標準モデル",
-        "source": "テクノエッジ TechnoEdge",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1KNFl5RmZMMjQ4dHBTLVFPejUtYzhJY0d1TS0zUlBCby1ZdGpPVmVpR28xVjQwUERMT0xzVHVRV1BSWDkxQkZweWt3eVRrNEZTeEVtcUtpX1ZwbHBEaVVLM3pFcXBJTTFrdnViN3FGUmRTQQ?oc=5",
-        "publishedAt": "2026-11-19T00:00:00.000Z"
+        "time": "14:43",
+        "title": "電気制御パネル世界市場の主要プレイヤー",
+        "source": "pando.life",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBHOExVRS1veEtmR1ZMZVBKSUJ4Ym0wUjR0cmJrUTd0SDRfWHE0ekJLbEVqNExkV1NKeVo2R0F2YWw5TzdyVkJKa1BB?oc=5",
+        "publishedAt": "2026-11-19T05:43:46.000Z"
       }
     ],
     "worldHeadlines": [

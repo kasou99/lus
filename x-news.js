@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-19T14:11:57.750Z",
+  "updatedAt": "2026-11-19T14:35:53.653Z",
   "items": [
     {
       "time": "21:15",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "高市首相を「冷遇」? 中国が反論"
     },
     {
-      "time": "21:06",
-      "title": "楽天証券に報告徴求命令 金融庁",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603203?source=rss",
-      "publishedAt": "2026-11-19T12:06:41.000Z",
-      "xQuery": "楽天証券に報告徴求命令 金融庁"
-    },
-    {
       "time": "22:47",
       "title": "千葉3人切りつけ事件 男を再逮捕",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6603214?source=rss",
       "publishedAt": "2026-11-19T13:47:35.000Z",
       "xQuery": "千葉3人切りつけ事件 男を再逮捕"
+    },
+    {
+      "time": "22:51",
+      "title": "太田裕美さん死去 乳がんを解説",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603215?source=rss",
+      "publishedAt": "2026-11-19T13:51:02.000Z",
+      "xQuery": "太田裕美さん死去 乳がんを解説"
     }
   ]
 };
