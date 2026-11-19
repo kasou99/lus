@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T11:10:33.740Z",
+  "updatedAt": "2026-11-19T11:35:49.721Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,13 +31,6 @@
         "publishedAt": "2026-11-19T04:30:01.000Z"
       },
       {
-        "time": "22:22",
-        "title": "CNC工作機械の有力企業トップ10",
-        "source": "pando.life",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1mTnA4Y2pLUnE4TmZCaFhoRXZfZ0U0VFZiTVAwTXZQT3JmaXdhTThFNE9Ja3M0bDVJeUx4blc4bVJkWnNLTGlIYjZB?oc=5",
-        "publishedAt": "2026-11-18T13:22:26.000Z"
-      },
-      {
         "time": "12:16",
         "title": "アナログ・テック、ファンレス産業用PC「AIR-ST-NL-001」の受注受付を開始 ― -20～60℃対応、構成を固定したAironiAシリーズの標準モデル",
         "source": "ASCII.jp",
@@ -57,9 +50,23 @@
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1tZkhIU2pTaVZYSFFSS2tCOHRQQy1hX2pxalBybXA5cVhSa3hST3BwYWdwWXJYV1d1cldhSloxWmpCZkFyaFluT19UektkQWZQLS10Zzdsby0?oc=5",
         "publishedAt": "2026-11-18T20:00:00.000Z"
+      },
+      {
+        "time": "22:22",
+        "title": "CNC工作機械の有力企業トップ10",
+        "source": "pando.life",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1mTnA4Y2pLUnE4TmZCaFhoRXZfZ0U0VFZiTVAwTXZQT3JmaXdhTThFNE9Ja3M0bDVJeUx4blc4bVJkWnNLTGlIYjZB?oc=5",
+        "publishedAt": "2026-11-18T13:22:26.000Z"
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "20:14",
+        "title": "3カ国会談 中露は「戦勝国」強調",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6603198?source=rss",
+        "publishedAt": "2026-11-19T11:14:06.000Z"
+      },
       {
         "time": "17:51",
         "title": "米中露首脳 核軍縮やイラン議論か",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6603126?source=rss",
         "publishedAt": "2026-11-19T01:50:20.000Z"
-      },
-      {
-        "time": "17:42",
-        "title": "高市氏が中国到着 歓迎に各国と差",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6603057?source=rss",
-        "publishedAt": "2026-11-18T08:42:41.000Z"
       }
     ],
     "economyHeadlines": [
@@ -126,13 +126,6 @@
         "publishedAt": "2026-11-19T04:05:33.000Z"
       },
       {
-        "time": "17:26",
-        "title": "Suica「紫のうさぎ」得票率51.7%",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6603054?source=rss",
-        "publishedAt": "2026-11-18T08:26:46.000Z"
-      },
-      {
         "time": "12:05",
         "title": "タマホーム 高松以外も不正請求か",
         "source": "Yahoo!ニュース",
@@ -140,11 +133,18 @@
         "publishedAt": "2026-11-19T03:05:48.000Z"
       },
       {
-        "time": "10:41",
-        "title": "賃上げより手取り増 食事補助注目",
+        "time": "20:29",
+        "title": "NHK ラジオで関係ない音声を放送",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6603124?source=rss",
-        "publishedAt": "2026-11-19T01:41:55.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6603200?source=rss",
+        "publishedAt": "2026-11-19T11:29:30.000Z"
+      },
+      {
+        "time": "18:35",
+        "title": "くら寿司 ちいかわ寿司皿再配布へ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6603187?source=rss",
+        "publishedAt": "2026-11-19T09:35:31.000Z"
       }
     ],
     "localHeadlines": [

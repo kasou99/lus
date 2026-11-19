@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-19T11:10:34.660Z",
+  "updatedAt": "2026-11-19T11:35:50.531Z",
   "items": [
     {
-      "time": "17:51",
-      "title": "米中露首脳 核軍縮やイラン議論か",
+      "time": "20:14",
+      "title": "3カ国会談 中露は「戦勝国」強調",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603185?source=rss",
-      "publishedAt": "2026-11-19T08:51:30.000Z",
-      "xQuery": "米中露首脳 核軍縮やイラン議論か"
+      "url": "https://news.yahoo.co.jp/pickup/6603198?source=rss",
+      "publishedAt": "2026-11-19T11:14:06.000Z",
+      "xQuery": "3カ国会談 中露は「戦勝国」強調"
     },
     {
       "time": "18:26",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "政府 配信者の発言全ては確認せず"
     },
     {
-      "time": "19:50",
-      "title": "兵庫3歳死亡「パパ怖い」と訴え",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603197?source=rss",
-      "publishedAt": "2026-11-19T10:50:52.000Z",
-      "xQuery": "兵庫3歳死亡「パパ怖い」と訴え"
-    },
-    {
       "time": "18:49",
       "title": "入浴施設で作業 熱中症で男性死亡",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6603190?source=rss",
       "publishedAt": "2026-11-19T09:49:16.000Z",
       "xQuery": "入浴施設で作業 熱中症で男性死亡"
+    },
+    {
+      "time": "19:32",
+      "title": "育休とった男性の心身不調 症状は",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603193?source=rss",
+      "publishedAt": "2026-11-19T10:32:57.000Z",
+      "xQuery": "育休とった男性の心身不調 症状は"
     },
     {
       "time": "19:44",
