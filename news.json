@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T08:36:10.648Z",
+  "updatedAt": "2026-11-19T09:12:33.676Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -10,18 +10,18 @@
         "publishedAt": "2026-11-19T08:00:00.000Z"
       },
       {
-        "time": "16:15",
-        "title": "設備保全クラウド「M2X」が「第19回 ASPIC AI・クラウドアワード2026」にてベンチャーグランプリを受賞",
-        "source": "時事ドットコム",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1UZ3hMOTZIMzlEdjBWUEZibGIyVTB5RDVOdlgxOXhmbzlBV01jNmFhRmJ4aHFjUTh5aGpTWHROMFVXMkpUS2xoLXh1OER3emxrc2tsNVFVLU93WU1MTmF5czIwSjhRaU5udFdB?oc=5",
-        "publishedAt": "2026-11-19T07:15:00.000Z"
-      },
-      {
         "time": "13:36",
         "title": "世界の一体型ドライブサーボモーター市場規模、2026年537百万米ドルから2032年787百万米ドルへ拡大",
         "source": "ニコニコニュース",
         "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE44bHZGZjAyS2tCVmR3a2I1MHpRSEFyQUdmMTU4ekt3YlUxcDIwbFdYRXZZeE53SFdCVzRyaTZLdVFFNklFZ1JnblJsNy1SeDctc2JiclNDRDVWLXdrc3dxMEFsOHZTRWNET0xUR0tJeDZPV1BHemRuUTF0QQ?oc=5",
         "publishedAt": "2026-11-19T04:36:21.000Z"
+      },
+      {
+        "time": "16:15",
+        "title": "設備保全クラウド「M2X」が「第19回 ASPIC AI・クラウドアワード2026」にてベンチャーグランプリを受賞",
+        "source": "時事ドットコム",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1UZ3hMOTZIMzlEdjBWUEZibGIyVTB5RDVOdlgxOXhmbzlBV01jNmFhRmJ4aHFjUTh5aGpTWHROMFVXMkpUS2xoLXh1OER3emxrc2tsNVFVLU93WU1MTmF5czIwSjhRaU5udFdB?oc=5",
+        "publishedAt": "2026-11-19T07:15:00.000Z"
       },
       {
         "time": "19:00",
@@ -61,11 +61,11 @@
     ],
     "worldHeadlines": [
       {
-        "time": "17:30",
-        "title": "中継 米中露3カ国の首脳が初会談",
+        "time": "17:51",
+        "title": "米中露首脳 核軍縮やイラン議論か",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6603164?source=rss",
-        "publishedAt": "2026-11-19T08:30:33.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6603185?source=rss",
+        "publishedAt": "2026-11-19T08:51:30.000Z"
       },
       {
         "time": "22:07",
@@ -156,13 +156,6 @@
         "publishedAt": "2026-11-19T08:09:42.000Z"
       },
       {
-        "time": "11:56",
-        "title": "栃木強殺 勧誘役の高校生に有罪",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6603140?source=rss",
-        "publishedAt": "2026-11-19T02:56:06.000Z"
-      },
-      {
         "time": "13:49",
         "title": "岩手の震災遺体 90歳男性と判明",
         "source": "Yahoo!ニュース",
@@ -182,6 +175,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6603089?source=rss",
         "publishedAt": "2026-11-18T13:52:58.000Z"
+      },
+      {
+        "time": "17:53",
+        "title": "店で18金ネックレス奪う 男が逃走",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6603180?source=rss",
+        "publishedAt": "2026-11-19T08:53:45.000Z"
       },
       {
         "time": "14:48",

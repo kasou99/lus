@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-19T08:36:11.128Z",
+  "updatedAt": "2026-11-19T09:12:34.414Z",
   "items": [
     {
-      "time": "17:30",
-      "title": "中継 米中露3カ国の首脳が初会談",
+      "time": "17:51",
+      "title": "米中露首脳 核軍縮やイラン議論か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603164?source=rss",
-      "publishedAt": "2026-11-19T08:30:33.000Z",
-      "xQuery": "中継 米中露3カ国の首脳が初会談"
+      "url": "https://news.yahoo.co.jp/pickup/6603185?source=rss",
+      "publishedAt": "2026-11-19T08:51:30.000Z",
+      "xQuery": "米中露首脳 核軍縮やイラン議論か"
     },
     {
       "time": "16:55",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "JT 露の子会社7社を連結から除外"
     },
     {
-      "time": "17:09",
-      "title": "福岡市長選の再選挙 費用約8億円",
+      "time": "17:34",
+      "title": "兵庫3歳死亡「パパたたく」と記録",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603176?source=rss",
-      "publishedAt": "2026-11-19T08:09:42.000Z",
-      "xQuery": "福岡市長選の再選挙 費用約8億円"
+      "url": "https://news.yahoo.co.jp/pickup/6603179?source=rss",
+      "publishedAt": "2026-11-19T08:34:05.000Z",
+      "xQuery": "兵庫3歳死亡「パパたたく」と記録"
     },
     {
-      "time": "14:48",
-      "title": "クマに追いかけられた 高校生通報",
+      "time": "17:53",
+      "title": "店で18金ネックレス奪う 男が逃走",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603160?source=rss",
-      "publishedAt": "2026-11-19T05:48:07.000Z",
-      "xQuery": "クマに追いかけられた 高校生通報"
+      "url": "https://news.yahoo.co.jp/pickup/6603180?source=rss",
+      "publishedAt": "2026-11-19T08:53:45.000Z",
+      "xQuery": "店で18金ネックレス奪う 男が逃走"
     }
   ]
 };
