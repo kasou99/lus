@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-19T12:38:06.311Z",
+  "updatedAt": "2026-11-19T13:11:38.428Z",
   "items": [
     {
       "time": "20:59",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "楽天証券に報告徴求命令 金融庁"
     },
     {
-      "time": "18:49",
-      "title": "入浴施設で作業 熱中症で男性死亡",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603190?source=rss",
-      "publishedAt": "2026-11-19T09:49:16.000Z",
-      "xQuery": "入浴施設で作業 熱中症で男性死亡"
-    },
-    {
       "time": "19:32",
       "title": "育休とった男性の心身不調 症状は",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6603193?source=rss",
       "publishedAt": "2026-11-19T10:32:57.000Z",
       "xQuery": "育休とった男性の心身不調 症状は"
+    },
+    {
+      "time": "19:53",
+      "title": "「気嵐」いつ現れる 発生条件検証",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603196?source=rss",
+      "publishedAt": "2026-11-19T10:53:46.000Z",
+      "xQuery": "「気嵐」いつ現れる 発生条件検証"
     }
   ]
 };
