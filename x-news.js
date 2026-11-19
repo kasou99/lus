@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-19T02:15:29.587Z",
+  "updatedAt": "2026-11-19T02:35:45.301Z",
   "items": [
     {
-      "time": "08:35",
-      "title": "21日にかけ風強まる 暴風など警戒",
+      "time": "10:50",
+      "title": "北朝鮮非難の国連決議 米国が棄権",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603109?source=rss",
-      "publishedAt": "2026-11-18T23:35:57.000Z",
-      "xQuery": "21日にかけ風強まる 暴風など警戒"
+      "url": "https://news.yahoo.co.jp/pickup/6603126?source=rss",
+      "publishedAt": "2026-11-19T01:50:20.000Z",
+      "xQuery": "北朝鮮非難の国連決議 米国が棄権"
     },
     {
       "time": "07:57",
@@ -18,28 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "米史上初 黒人の下院議長誕生へ"
     },
     {
+      "time": "11:11",
+      "title": "市民デモ相次ぐ仏 警官が抗議デモ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603130?source=rss",
+      "publishedAt": "2026-11-19T02:11:01.000Z",
+      "xQuery": "市民デモ相次ぐ仏 警官が抗議デモ"
+    },
+    {
+      "time": "11:10",
+      "title": "熊本で震度5弱 住民「夜は怖い」",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603128?source=rss",
+      "publishedAt": "2026-11-19T02:10:38.000Z",
+      "xQuery": "熊本で震度5弱 住民「夜は怖い」"
+    },
+    {
       "time": "10:37",
       "title": "2人死亡事故 容疑者勤務先を捜索",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6603123?source=rss",
       "publishedAt": "2026-11-19T01:37:54.000Z",
       "xQuery": "2人死亡事故 容疑者勤務先を捜索"
-    },
-    {
-      "time": "10:19",
-      "title": "中学生はねられ意識不明 70歳逮捕",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603122?source=rss",
-      "publishedAt": "2026-11-19T01:19:39.000Z",
-      "xQuery": "中学生はねられ意識不明 70歳逮捕"
-    },
-    {
-      "time": "10:41",
-      "title": "賃上げより手取り増 食事補助注目",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603124?source=rss",
-      "publishedAt": "2026-11-19T01:41:55.000Z",
-      "xQuery": "賃上げより手取り増 食事補助注目"
     }
   ]
 };
