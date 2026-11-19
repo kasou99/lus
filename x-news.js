@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-19T06:42:24.493Z",
+  "updatedAt": "2026-11-19T07:12:13.698Z",
   "items": [
+    {
+      "time": "16:03",
+      "title": "JT 露の子会社7社を連結から除外",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603167?source=rss",
+      "publishedAt": "2026-11-19T07:03:54.000Z",
+      "xQuery": "JT 露の子会社7社を連結から除外"
+    },
     {
       "time": "15:12",
       "title": "米露首脳会談 ウ情勢で意見交換か",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6603159?source=rss",
       "publishedAt": "2026-11-19T05:58:27.000Z",
       "xQuery": "戦車事故 陸自が原因を特定し公表"
-    },
-    {
-      "time": "14:48",
-      "title": "クマに追いかけられた 高校生通報",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603160?source=rss",
-      "publishedAt": "2026-11-19T05:48:07.000Z",
-      "xQuery": "クマに追いかけられた 高校生通報"
     }
   ]
 };
