@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-19T10:36:04.057Z",
+  "updatedAt": "2026-11-19T11:10:34.660Z",
   "items": [
     {
       "time": "17:51",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "政府 配信者の発言全ては確認せず"
     },
     {
-      "time": "17:34",
-      "title": "兵庫3歳死亡「パパたたく」と記録",
+      "time": "19:50",
+      "title": "兵庫3歳死亡「パパ怖い」と訴え",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603179?source=rss",
-      "publishedAt": "2026-11-19T08:34:05.000Z",
-      "xQuery": "兵庫3歳死亡「パパたたく」と記録"
+      "url": "https://news.yahoo.co.jp/pickup/6603197?source=rss",
+      "publishedAt": "2026-11-19T10:50:52.000Z",
+      "xQuery": "兵庫3歳死亡「パパ怖い」と訴え"
     },
     {
       "time": "18:49",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "入浴施設で作業 熱中症で男性死亡"
     },
     {
-      "time": "18:19",
-      "title": "歌舞伎町で路駐問題 救急車妨げも",
+      "time": "19:44",
+      "title": "夜景ショー終了にみる 香港の低迷",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603186?source=rss",
-      "publishedAt": "2026-11-19T09:19:48.000Z",
-      "xQuery": "歌舞伎町で路駐問題 救急車妨げも"
+      "url": "https://news.yahoo.co.jp/pickup/6603183?source=rss",
+      "publishedAt": "2026-11-19T10:44:45.000Z",
+      "xQuery": "夜景ショー終了にみる 香港の低迷"
     }
   ]
 };
