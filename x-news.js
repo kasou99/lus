@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-19T22:10:25.865Z",
+  "updatedAt": "2026-11-19T22:35:31.798Z",
   "items": [
     {
-      "time": "22:23",
-      "title": "APECが閉幕 AI活用の推進で一致",
+      "time": "07:22",
+      "title": "習氏 台湾問題で米大統領をけん制",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603210?source=rss",
-      "publishedAt": "2026-11-19T13:23:12.000Z",
-      "xQuery": "APECが閉幕 AI活用の推進で一致"
+      "url": "https://news.yahoo.co.jp/pickup/6603226?source=rss",
+      "publishedAt": "2026-11-19T22:22:36.000Z",
+      "xQuery": "習氏 台湾問題で米大統領をけん制"
     },
     {
       "time": "23:50",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "アンソロピック 米ナスダック上場"
     },
     {
+      "time": "07:18",
+      "title": "3歳暴行死 母親が後悔の言葉",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603225?source=rss",
+      "publishedAt": "2026-11-19T22:18:14.000Z",
+      "xQuery": "3歳暴行死 母親が後悔の言葉"
+    },
+    {
       "time": "22:03",
       "title": "高市首相を「冷遇」? 中国が反論",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6603208?source=rss",
       "publishedAt": "2026-11-19T13:03:28.000Z",
       "xQuery": "高市首相を「冷遇」? 中国が反論"
-    },
-    {
-      "time": "22:47",
-      "title": "千葉3人切りつけ事件 男を再逮捕",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603214?source=rss",
-      "publishedAt": "2026-11-19T13:47:35.000Z",
-      "xQuery": "千葉3人切りつけ事件 男を再逮捕"
     },
     {
       "time": "06:42",
