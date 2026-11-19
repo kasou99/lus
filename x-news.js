@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-19T14:35:53.653Z",
+  "updatedAt": "2026-11-19T15:11:25.951Z",
   "items": [
     {
-      "time": "21:15",
-      "title": "ロヒンギャ迫害 ジェノサイド認定",
+      "time": "22:23",
+      "title": "APECが閉幕 AI活用の推進で一致",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603205?source=rss",
-      "publishedAt": "2026-11-19T12:15:23.000Z",
-      "xQuery": "ロヒンギャ迫害 ジェノサイド認定"
+      "url": "https://news.yahoo.co.jp/pickup/6603210?source=rss",
+      "publishedAt": "2026-11-19T13:23:12.000Z",
+      "xQuery": "APECが閉幕 AI活用の推進で一致"
     },
     {
-      "time": "23:00",
-      "title": "高市首相 トランプ氏と電話会談",
+      "time": "23:50",
+      "title": "アンソロピック 米ナスダック上場",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603216?source=rss",
-      "publishedAt": "2026-11-19T14:00:34.000Z",
-      "xQuery": "高市首相 トランプ氏と電話会談"
+      "url": "https://news.yahoo.co.jp/pickup/6603220?source=rss",
+      "publishedAt": "2026-11-19T14:50:41.000Z",
+      "xQuery": "アンソロピック 米ナスダック上場"
     },
     {
       "time": "22:03",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "千葉3人切りつけ事件 男を再逮捕"
     },
     {
-      "time": "22:51",
-      "title": "太田裕美さん死去 乳がんを解説",
+      "time": "21:06",
+      "title": "楽天証券に報告徴求命令 金融庁",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603215?source=rss",
-      "publishedAt": "2026-11-19T13:51:02.000Z",
-      "xQuery": "太田裕美さん死去 乳がんを解説"
+      "url": "https://news.yahoo.co.jp/pickup/6603203?source=rss",
+      "publishedAt": "2026-11-19T12:06:41.000Z",
+      "xQuery": "楽天証券に報告徴求命令 金融庁"
     }
   ]
 };

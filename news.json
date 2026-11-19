@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T14:35:53.158Z",
+  "updatedAt": "2026-11-19T15:11:25.301Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,6 +38,13 @@
         "publishedAt": "2026-11-18T20:00:00.000Z"
       },
       {
+        "time": "19:51",
+        "title": "オンラインセミナー「製造業 最新事例サミット」にて全固体電池バックアップモジュールの活用事例を紹介",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1GRFBhelRiT2NxVC1TLW1RQ0hQeU1sODlyOVM1cTdBOUJ2RWZlQlZGQkxLODdwa050WjFjTGxzRENrX2wtR3drU2NvMlZndEU5RTJVVUZ1NTUzeWFzVWpadWF5TlNWNE0yWnplMjV5bk83NlBBT0E?oc=5",
+        "publishedAt": "2026-11-19T10:51:24.000Z"
+      },
+      {
         "time": "11:15",
         "title": "アナログ・テック、ファンレス産業用PC「AIR-ST-NL-001」の受注受付を開始",
         "source": "ニコニコニュース",
@@ -50,13 +57,6 @@
         "source": "Newscast.jp",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4wZHFUZ3Z0MUZvbWZ2SXpoRm1vdkNnSU1sT2hYOXlSdmlVVjV2Q1l0ZVM5dDF4am9YOGV0eGpmdUw2dWdvTWRnVzBYc0ljYjg?oc=5",
         "publishedAt": "2026-11-19T01:00:00.000Z"
-      },
-      {
-        "time": "14:43",
-        "title": "電気制御パネル世界市場の主要プレイヤー",
-        "source": "pando.life",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBHOExVRS1veEtmR1ZMZVBKSUJ4Ym0wUjR0cmJrUTd0SDRfWHE0ekJLbEVqNExkV1NKeVo2R0F2YWw5TzdyVkJKa1BB?oc=5",
-        "publishedAt": "2026-11-19T05:43:46.000Z"
       }
     ],
     "worldHeadlines": [
