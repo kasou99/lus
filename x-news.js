@@ -1,21 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-20T22:35:49.719Z",
+  "updatedAt": "2026-11-20T23:09:54.703Z",
   "items": [
     {
-      "time": "00:11",
-      "title": "官僚参加パーティー5件に 文科相",
+      "time": "07:36",
+      "title": "首相 APECで台湾代表と会談せず",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603350?source=rss",
-      "publishedAt": "2026-11-20T15:11:22.000Z",
-      "xQuery": "官僚参加パーティー5件に 文科相"
-    },
-    {
-      "time": "23:58",
-      "title": "EV補助金受け付け終了 予算枯渇",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603347?source=rss",
-      "publishedAt": "2026-11-20T14:58:48.000Z",
-      "xQuery": "EV補助金受け付け終了 予算枯渇"
+      "url": "https://news.yahoo.co.jp/pickup/6603354?source=rss",
+      "publishedAt": "2026-11-20T22:36:38.000Z",
+      "xQuery": "首相 APECで台湾代表と会談せず"
     },
     {
       "time": "07:30",
@@ -26,20 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "米株式市場急落 ナスダック5%安"
     },
     {
-      "time": "22:42",
-      "title": "ポーランドにミサイル 被害なし",
+      "time": "23:58",
+      "title": "EV補助金受け付け終了 予算枯渇",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603345?source=rss",
-      "publishedAt": "2026-11-20T13:42:05.000Z",
-      "xQuery": "ポーランドにミサイル 被害なし"
+      "url": "https://news.yahoo.co.jp/pickup/6603347?source=rss",
+      "publishedAt": "2026-11-20T14:58:48.000Z",
+      "xQuery": "EV補助金受け付け終了 予算枯渇"
     },
     {
-      "time": "21:32",
-      "title": "サウジ原油 日本での備蓄3倍合意",
+      "time": "07:51",
+      "title": "「リーマン予想」生成AIが証明か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603336?source=rss",
-      "publishedAt": "2026-11-20T12:32:05.000Z",
-      "xQuery": "サウジ原油 日本での備蓄3倍合意"
+      "url": "https://news.yahoo.co.jp/pickup/6603360?source=rss",
+      "publishedAt": "2026-11-20T22:51:15.000Z",
+      "xQuery": "「リーマン予想」生成AIが証明か"
+    },
+    {
+      "time": "07:59",
+      "title": "久石譲さんに名誉学位 英王立音大",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603359?source=rss",
+      "publishedAt": "2026-11-20T22:59:10.000Z",
+      "xQuery": "久石譲さんに名誉学位 英王立音大"
     }
   ]
 };
