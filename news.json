@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T23:35:32.204Z",
+  "updatedAt": "2026-11-20T00:28:15.632Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -10,11 +10,25 @@
         "publishedAt": "2026-11-19T08:00:00.000Z"
       },
       {
+        "time": "09:10",
+        "title": "AI統合型設備保全クラウド『EMLink』のモバイルアプリ、手書きの点検表を撮るだけで結果を入力 ― ローカルLLMで音声・写真・テキストのマルチモーダルに完全対応",
+        "source": "PR TIMES",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA5VWs1dU1RLVFUNFBDdXF5OVBEcXo4dmpSQ1dRcHI1VTNueWxVWlNJdXZDOGhKTk5qT1dWR01Hdk1vdXZQaTlfRnRBSWFNZUVFaS1sRkJzOFJKVFp5eGNFeVRPU0NwbGtKWkE?oc=5",
+        "publishedAt": "2026-11-20T00:10:02.000Z"
+      },
+      {
         "time": "13:15",
         "title": "工作機械の動きをバーチャルで検証 アイコク アルファ【TECH Biz LIVE!】：ニュース",
         "source": "中日BIZナビ",
         "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBhZUN2XzUzSk01MUpfbFJUMjVCSVlrWHplNHZ6QzBtVzVtOE92SW1Zbm1HbjJ3MGc1VFNVdzdvdVgycW5iZGw0ZEk1YmpBTDVydVhzYWVGZmtkaDBTUjZR?oc=5",
         "publishedAt": "2026-11-19T04:15:00.000Z"
+      },
+      {
+        "time": "13:36",
+        "title": "世界の一体型ドライブサーボモーター市場規模、2026年537百万米ドルから2032年787百万米ドルへ拡大",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE44bHZGZjAyS2tCVmR3a2I1MHpRSEFyQUdmMTU4ekt3YlUxcDIwbFdYRXZZeE53SFdCVzRyaTZLdVFFNklFZ1JnblJsNy1SeDctc2JiclNDRDVWLXdrc3dxMEFsOHZTRWNET0xUR0tJeDZPV1BHemRuUTF0QQ?oc=5",
+        "publishedAt": "2026-11-19T04:36:21.000Z"
       },
       {
         "time": "13:30",
@@ -43,20 +57,6 @@
         "source": "Newscast.jp",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4wZHFUZ3Z0MUZvbWZ2SXpoRm1vdkNnSU1sT2hYOXlSdmlVVjV2Q1l0ZVM5dDF4am9YOGV0eGpmdUw2dWdvTWRnVzBYc0ljYjg?oc=5",
         "publishedAt": "2026-11-19T01:00:00.000Z"
-      },
-      {
-        "time": "11:00",
-        "title": "【製造業向け】AI・自動化・DXの導入事例 全9セッションオンラインカンファレンス「製造業 最新事例サミット」を開催",
-        "source": "イザ！",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9Fa2JubVZFTkh3ZXF0Y2kxZEt0RTM2MDJpbGRBLUJlOTlaNGJiUjd4TVBBMEVxeHRWbkdENlR5aDRPSXotWDZHVXFoMF9ITk90QlhEUk9EWldPeDNYNjdYUEtpVjRldG5nb3N2ZXRPQWxkZTE4N2JsUXhR?oc=5",
-        "publishedAt": "2026-11-19T02:00:29.000Z"
-      },
-      {
-        "time": "13:36",
-        "title": "世界の一体型ドライブサーボモーター市場規模、2026年537百万米ドルから2032年787百万米ドルへ拡大",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE44bHZGZjAyS2tCVmR3a2I1MHpRSEFyQUdmMTU4ekt3YlUxcDIwbFdYRXZZeE53SFdCVzRyaTZLdVFFNklFZ1JnblJsNy1SeDctc2JiclNDRDVWLXdrc3dxMEFsOHZTRWNET0xUR0tJeDZPV1BHemRuUTF0QQ?oc=5",
-        "publishedAt": "2026-11-19T04:36:21.000Z"
       }
     ],
     "worldHeadlines": [
@@ -89,18 +89,18 @@
         "publishedAt": "2026-11-19T11:14:06.000Z"
       },
       {
+        "time": "09:24",
+        "title": "ロヒンギャ巡る判決 内容精査と米",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6603242?source=rss",
+        "publishedAt": "2026-11-20T00:24:46.000Z"
+      },
+      {
         "time": "22:23",
         "title": "APECが閉幕 AI活用の推進で一致",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6603210?source=rss",
         "publishedAt": "2026-11-19T13:23:12.000Z"
-      },
-      {
-        "time": "21:15",
-        "title": "ロヒンギャ迫害 ジェノサイド認定",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6603205?source=rss",
-        "publishedAt": "2026-11-19T12:15:23.000Z"
       }
     ],
     "economyHeadlines": [

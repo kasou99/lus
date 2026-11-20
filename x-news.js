@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-19T23:35:33.271Z",
+  "updatedAt": "2026-11-20T00:28:16.343Z",
   "items": [
     {
       "time": "07:35",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "21日にかけ寒波 北陸など暴風警戒"
     },
     {
-      "time": "07:22",
-      "title": "習氏 台湾問題で米大統領をけん制",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603226?source=rss",
-      "publishedAt": "2026-11-19T22:22:36.000Z",
-      "xQuery": "習氏 台湾問題で米大統領をけん制"
-    },
-    {
       "time": "07:36",
       "title": "アンソロピック 初日終値約97ドル",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6603229?source=rss",
       "publishedAt": "2026-11-19T22:36:03.000Z",
       "xQuery": "アンソロピック 初日終値約97ドル"
+    },
+    {
+      "time": "08:31",
+      "title": "露 クリミア橋攻撃受け報復宣言",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603235?source=rss",
+      "publishedAt": "2026-11-19T23:31:08.000Z",
+      "xQuery": "露 クリミア橋攻撃受け報復宣言"
     },
     {
       "time": "06:42",
