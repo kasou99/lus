@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T10:11:21.174Z",
+  "updatedAt": "2026-11-20T10:36:01.724Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -52,11 +52,11 @@
         "publishedAt": "2026-11-20T07:35:40.000Z"
       },
       {
-        "time": "06:18",
-        "title": "マクニカが振動センサーによる予知保全を出展。「生産・設備データの可視化・活用」に関する注目の出展企業を紹介【イプロスA",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5nZUVsVTZGVXlfYU9RNWp3WHBiZ2hWRERnREtZNFFxWTQ0NWloQ2h0dXFVc3M5MzkwVXozUEJZU1ZEX3hsTmhlSlVzRzVaSzc3dDNIbDRjX29MMjY1N1BuWG5uOGZrdDRY?oc=5",
-        "publishedAt": "2026-11-19T21:18:38.000Z"
+        "time": "12:39",
+        "title": "歯車製造する複合加工機 新開発 主力旋盤ベースに機能強化 ＴＡＫＩＳＡＷＡ",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB3SWJ5WGhxYzB0cmhyNk1yN2s5RHhtQjM2NEtpd24wbXRkYlN1OEg3akNxaUVlOXdzcnR6NEhhZzd4U0dQd0xRMjQ3bmQzTmlFNHBoaGhJSjJBeUpVWW4yUXlobHV6azhyNWc?oc=5",
+        "publishedAt": "2026-11-20T03:39:12.000Z"
       }
     ],
     "worldHeadlines": [
@@ -156,6 +156,13 @@
         "publishedAt": "2026-11-20T10:01:45.000Z"
       },
       {
+        "time": "19:13",
+        "title": "横浜市長 市長公舎の廃止方針表明",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6603326?source=rss",
+        "publishedAt": "2026-11-20T10:13:05.000Z"
+      },
+      {
         "time": "15:43",
         "title": "横浜市長の家賃42万円 9割市負担",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6603301?source=rss",
         "publishedAt": "2026-11-20T07:28:46.000Z"
-      },
-      {
-        "time": "07:18",
-        "title": "3歳暴行死 母親が後悔の言葉",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6603225?source=rss",
-        "publishedAt": "2026-11-19T22:18:14.000Z"
       }
     ],
     "subsidyHeadlines": [
