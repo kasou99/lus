@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-20T11:36:13.795Z",
+  "updatedAt": "2026-11-20T12:16:04.113Z",
   "items": [
     {
-      "time": "18:36",
-      "title": "政府内部資料流出か 不正アクセス",
+      "time": "20:09",
+      "title": "大型クロマグロ漁獲枠 25%増合意",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603320?source=rss",
-      "publishedAt": "2026-11-20T09:36:38.000Z",
-      "xQuery": "政府内部資料流出か 不正アクセス"
+      "url": "https://news.yahoo.co.jp/pickup/6603329?source=rss",
+      "publishedAt": "2026-11-20T11:09:13.000Z",
+      "xQuery": "大型クロマグロ漁獲枠 25%増合意"
     },
     {
       "time": "18:41",
@@ -18,28 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "今年のインフル「だらだら流行」"
     },
     {
+      "time": "21:02",
+      "title": "自民党で関文科相の辞任論が浮上",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603332?source=rss",
+      "publishedAt": "2026-11-20T12:02:20.000Z",
+      "xQuery": "自民党で関文科相の辞任論が浮上"
+    },
+    {
+      "time": "20:41",
+      "title": "小中高生の自殺者数 最多ペース",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603331?source=rss",
+      "publishedAt": "2026-11-20T11:41:48.000Z",
+      "xQuery": "小中高生の自殺者数 最多ペース"
+    },
+    {
       "time": "19:13",
       "title": "横浜市長 市長公舎の廃止方針表明",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6603326?source=rss",
       "publishedAt": "2026-11-20T10:13:05.000Z",
       "xQuery": "横浜市長 市長公舎の廃止方針表明"
-    },
-    {
-      "time": "19:35",
-      "title": "ココイチ売却 米KKRに優先交渉権",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603327?source=rss",
-      "publishedAt": "2026-11-20T10:35:37.000Z",
-      "xQuery": "ココイチ売却 米KKRに優先交渉権"
-    },
-    {
-      "time": "18:38",
-      "title": "公認会計士 14歳が史上最年少合格",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603321?source=rss",
-      "publishedAt": "2026-11-20T09:38:47.000Z",
-      "xQuery": "公認会計士 14歳が史上最年少合格"
     }
   ]
 };
