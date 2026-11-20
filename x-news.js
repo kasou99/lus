@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-20T02:15:42.025Z",
+  "updatedAt": "2026-11-20T02:35:43.391Z",
   "items": [
+    {
+      "time": "11:24",
+      "title": "米国頼みの高市外交 限界浮き彫り",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603256?source=rss",
+      "publishedAt": "2026-11-20T02:24:51.000Z",
+      "xQuery": "米国頼みの高市外交 限界浮き彫り"
+    },
     {
       "time": "10:12",
       "title": "日経平均 一時2800円以上値下がり",
@@ -18,20 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "10月の消費者物価指数 2.2%上昇"
     },
     {
-      "time": "08:31",
-      "title": "露 クリミア橋攻撃受け報復宣言",
+      "time": "11:29",
+      "title": "楽天証券へ訴訟準備 1.5万人登録",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603235?source=rss",
-      "publishedAt": "2026-11-19T23:31:08.000Z",
-      "xQuery": "露 クリミア橋攻撃受け報復宣言"
-    },
-    {
-      "time": "11:04",
-      "title": "楽天証券の情報流出 遺憾と金融相",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603253?source=rss",
-      "publishedAt": "2026-11-20T02:04:19.000Z",
-      "xQuery": "楽天証券の情報流出 遺憾と金融相"
+      "url": "https://news.yahoo.co.jp/pickup/6603257?source=rss",
+      "publishedAt": "2026-11-20T02:29:20.000Z",
+      "xQuery": "楽天証券へ訴訟準備 1.5万人登録"
     },
     {
       "time": "10:41",
