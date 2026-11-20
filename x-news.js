@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-20T14:36:17.995Z",
+  "updatedAt": "2026-11-20T15:11:19.059Z",
   "items": [
     {
       "time": "21:31",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "安保3文書素案 原潜「検討着手」"
     },
     {
-      "time": "22:18",
-      "title": "神戸市 マンション空室税の条例案",
+      "time": "23:35",
+      "title": "ZOZOTOWN 1518万人の情報漏洩",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603341?source=rss",
-      "publishedAt": "2026-11-20T13:18:38.000Z",
-      "xQuery": "神戸市 マンション空室税の条例案"
+      "url": "https://news.yahoo.co.jp/pickup/6603349?source=rss",
+      "publishedAt": "2026-11-20T14:35:54.000Z",
+      "xQuery": "ZOZOTOWN 1518万人の情報漏洩"
     },
     {
       "time": "22:42",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "ポーランドにミサイル 被害なし"
     },
     {
+      "time": "21:32",
+      "title": "サウジ原油 日本での備蓄3倍合意",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603336?source=rss",
+      "publishedAt": "2026-11-20T12:32:05.000Z",
+      "xQuery": "サウジ原油 日本での備蓄3倍合意"
+    },
+    {
       "time": "21:02",
       "title": "自民党で関文科相の辞任論が浮上",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6603332?source=rss",
       "publishedAt": "2026-11-20T12:02:20.000Z",
       "xQuery": "自民党で関文科相の辞任論が浮上"
-    },
-    {
-      "time": "23:03",
-      "title": "一時100台ほど車が立ち往生 長野",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603346?source=rss",
-      "publishedAt": "2026-11-20T14:03:53.000Z",
-      "xQuery": "一時100台ほど車が立ち往生 長野"
     }
   ]
 };
