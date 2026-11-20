@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-20T03:35:37.424Z",
+  "updatedAt": "2026-11-20T04:13:30.683Z",
   "items": [
     {
       "time": "11:24",
@@ -10,20 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "米国頼みの高市外交 限界浮き彫り"
     },
     {
-      "time": "12:09",
-      "title": "泉佐野市 里親研修参加で手当方針",
+      "time": "09:24",
+      "title": "ロヒンギャ巡る判決 内容精査と米",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603267?source=rss",
-      "publishedAt": "2026-11-20T03:09:37.000Z",
-      "xQuery": "泉佐野市 里親研修参加で手当方針"
-    },
-    {
-      "time": "10:12",
-      "title": "日経平均 一時2800円以上値下がり",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603248?source=rss",
-      "publishedAt": "2026-11-20T01:12:04.000Z",
-      "xQuery": "日経平均 一時2800円以上値下がり"
+      "url": "https://news.yahoo.co.jp/pickup/6603242?source=rss",
+      "publishedAt": "2026-11-20T00:24:46.000Z",
+      "xQuery": "ロヒンギャ巡る判決 内容精査と米"
     },
     {
       "time": "11:29",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6603261?source=rss",
       "publishedAt": "2026-11-20T02:51:31.000Z",
       "xQuery": "ゴミ蓄積の住宅に遺体 一部白骨化"
+    },
+    {
+      "time": "12:29",
+      "title": "GMO会見なぜ炎上 識者の指摘3点",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603273?source=rss",
+      "publishedAt": "2026-11-20T03:29:11.000Z",
+      "xQuery": "GMO会見なぜ炎上 識者の指摘3点"
     }
   ]
 };

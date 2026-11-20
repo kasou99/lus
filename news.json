@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-20T03:35:36.564Z",
+  "updatedAt": "2026-11-20T04:13:30.104Z",
   "groups": {
     "machineHeadlines": [
       {
-        "time": "17:00",
+        "time": "11:30",
         "title": "［徹底予測2027 機械］工作機械、AI特需で受注が過去最高へ 部品供給追いつかず",
         "source": "日経ビジネス電子版",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBmR1ZLMWtLTF92MVZibzRsZkN1bmFtNE4zazNwb0NrUDNWcEhTOVg2bTZaS1A4dFdOdXNTYzVHUC01eGNEeERkWTYxeDZGOHBBVlNBZU1KNl9pMWFiMzRtcGFkYlYwbUU?oc=5",
-        "publishedAt": "2026-11-19T08:00:00.000Z"
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQR3FsSnBfMnZRV3BKZVJHVHRwRlFFaEZySk1ZbHREM3lnTUluYWVpOXlnakpfS2hMMnA4ZFlMM3NhdUpocmVxZUJqeWxTVnlwdjlLYjlSWS1Cb3ZCZ2FWVmMwSDRGUGR5b1I1RUNmVk1iR3paTHBibWtNcXZWMjE0dFZiS3hoamF0cDZJZ3hB?oc=5",
+        "publishedAt": "2026-11-20T02:30:01.000Z"
       },
       {
         "time": "11:30",
@@ -17,11 +17,11 @@
         "publishedAt": "2026-11-20T02:30:27.000Z"
       },
       {
-        "time": "05:00",
-        "title": "ファミマ、飲料補充ロボ 店舗作業時間7割減 AIで売れ筋優先",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9kU05UMEo5T1p3SXV6Z0JBcERzM19fbmJoY2ZRQWJuMHRWcmF0c1BhSmZyTVZWdlppQi1aY2lqVVA3Q3NLQjRpOUxPR2h0YUp6b1oxODM3ckI?oc=5",
-        "publishedAt": "2026-11-19T20:00:00.000Z"
+        "time": "13:00",
+        "title": "中径ワイヤー切断工作機械の世界市場（2026年～2032年）、市場規模（フラッシュ、浸漬）・分析レポートを発表",
+        "source": "アットプレス",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5xOUdUWkc4SVNNVHU0QmlZWk1OM0dmZEpyRjJLOU01Ty02bDFCQndlcnBTMEhlVVVUY09ZVnpCNGlJYmR5Z25NOEU3T2syOUk?oc=5",
+        "publishedAt": "2026-11-20T04:00:00.000Z"
       },
       {
         "time": "13:15",
@@ -29,20 +29,6 @@
         "source": "中日BIZナビ",
         "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBhZUN2XzUzSk01MUpfbFJUMjVCSVlrWHplNHZ6QzBtVzVtOE92SW1Zbm1HbjJ3MGc1VFNVdzdvdVgycW5iZGw0ZEk1YmpBTDVydVhzYWVGZmtkaDBTUjZR?oc=5",
         "publishedAt": "2026-11-19T04:15:00.000Z"
-      },
-      {
-        "time": "05:10",
-        "title": "【製造業向け】AI・自動化・DXの導入事例 全9セッションオンラインカンファレンス「製造業 最新事例サミット」を開催",
-        "source": "Infoseek",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBILVpHcUNKYTl6TGJWSF9ROUMxQngxTWZ5OV9kSktrcUtQTEZRVEFXelhJcU80MFV1Q3hncTFreUNWZ3RlUktaSFUyWURieFZJc0NaWGxwNWJKd1hGNm8yQnh5dzRwV09SQWd2TW5PRmloUQ?oc=5",
-        "publishedAt": "2026-11-19T20:10:02.000Z"
-      },
-      {
-        "time": "00:34",
-        "title": "「K2戦車に似た模型」と頼むと…AI、146秒で設計図完成",
-        "source": "조선일보",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcXIxaHAtbnJWSzZTd1Z1SUNFUEJ2Tnl3d29vVWNXVWlCTG9pY2RvV3dWSXNRaEpxTzV0Wm52TXR1LVdrQlkyTUdDc3VoOUdkaXMyT3RESV9fUHhEMlpTUkNNQllyZ2piR056bjREWU04SmhLNzdvN0pPekFwRDU3RA?oc=5",
-        "publishedAt": "2026-11-19T15:34:00.000Z"
       },
       {
         "time": "13:30",
@@ -57,6 +43,20 @@
         "source": "ニコニコニュース",
         "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE44bHZGZjAyS2tCVmR3a2I1MHpRSEFyQUdmMTU4ekt3YlUxcDIwbFdYRXZZeE53SFdCVzRyaTZLdVFFNklFZ1JnblJsNy1SeDctc2JiclNDRDVWLXdrc3dxMEFsOHZTRWNET0xUR0tJeDZPV1BHemRuUTF0QQ?oc=5",
         "publishedAt": "2026-11-19T04:36:21.000Z"
+      },
+      {
+        "time": "05:00",
+        "title": "ファミマ、飲料補充ロボ 店舗作業時間7割減 AIで売れ筋優先",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9kU05UMEo5T1p3SXV6Z0JBcERzM19fbmJoY2ZRQWJuMHRWcmF0c1BhSmZyTVZWdlppQi1aY2lqVVA3Q3NLQjRpOUxPR2h0YUp6b1oxODM3ckI?oc=5",
+        "publishedAt": "2026-11-19T20:00:00.000Z"
+      },
+      {
+        "time": "06:18",
+        "title": "マクニカが振動センサーによる予知保全を出展。「生産・設備データの可視化・活用」に関する注目の出展企業を紹介【イプロスA",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5nZUVsVTZGVXlfYU9RNWp3WHBiZ2hWRERnREtZNFFxWTQ0NWloQ2h0dXFVc3M5MzkwVXozUEJZU1ZEX3hsTmhlSlVzRzVaSzc3dDNIbDRjX29MMjY1N1BuWG5uOGZrdDRY?oc=5",
+        "publishedAt": "2026-11-19T21:18:38.000Z"
       }
     ],
     "worldHeadlines": [
@@ -224,11 +224,11 @@
         "publishedAt": "2026-11-05T08:00:00.000Z"
       },
       {
-        "time": "17:00",
-        "title": "介護テクノロジー導入支援事業【令和9年度240億円】補助率4/5・47都道府県の受付状況と今からの準備",
+        "time": "16:00",
+        "title": "【令和8年・2026年】もらえる給付金・支援金まとめ！物価高・農業・子育て・生活支援等、目的別に紹介",
         "source": "補助金ポータル",
-        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBmTVZVRlpoUS0weXJ2SG5VVGNZczBDTzVDV3pGTmY4R0Zib2tMVTdVclRkVmRNVy1DWlFEV2xJcVIxelpNQWVlaUhqR0lObS1QczhieDF4T0N0Y3A4Y0trYw?oc=5",
-        "publishedAt": "2026-11-12T08:00:00.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1PbTA2anpjTjlKcUhxXzQtbEFhcXpkSE1UYjItLXZYTHJ0cG5uS3daeVBsY20xTzFCREZ6NEZYdm16OC1iRzRHZWlWZkpyVUYzZmZiTzVGaXd6Q1dhX2ptWVhpLTZuUkZt?oc=5",
+        "publishedAt": "2026-10-28T07:00:00.000Z"
       }
     ]
   }
