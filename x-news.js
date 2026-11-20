@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-20T06:19:52.662Z",
+  "updatedAt": "2026-11-20T06:41:44.978Z",
   "items": [
     {
       "time": "14:58",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "3歳死亡 父のスマホに虐待の動画"
     },
     {
+      "time": "15:30",
+      "title": "ネパールで邦人35人拘束 詐欺疑い",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603293?source=rss",
+      "publishedAt": "2026-11-20T06:30:01.000Z",
+      "xQuery": "ネパールで邦人35人拘束 詐欺疑い"
+    },
+    {
       "time": "13:32",
       "title": "ホンダ 新型3列SUVを世界初公開",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6603281?source=rss",
       "publishedAt": "2026-11-20T04:32:04.000Z",
       "xQuery": "ホンダ 新型3列SUVを世界初公開"
-    },
-    {
-      "time": "13:35",
-      "title": "駅にサンドイッチ自販機 人気理由",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603282?source=rss",
-      "publishedAt": "2026-11-20T04:35:08.000Z",
-      "xQuery": "駅にサンドイッチ自販機 人気理由"
     }
   ]
 };
