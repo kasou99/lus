@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-20T07:35:57.907Z",
+  "updatedAt": "2026-11-20T08:15:41.591Z",
   "items": [
     {
       "time": "15:48",
@@ -10,12 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "日経平均終値3007円安 AI巡り混乱"
     },
     {
-      "time": "12:02",
-      "title": "MSに再発防止を要請 デジタル相",
+      "time": "16:28",
+      "title": "群馬3人死亡事故 懲役20年が確定",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603263?source=rss",
-      "publishedAt": "2026-11-20T03:02:03.000Z",
-      "xQuery": "MSに再発防止を要請 デジタル相"
+      "url": "https://news.yahoo.co.jp/pickup/6603301?source=rss",
+      "publishedAt": "2026-11-20T07:28:46.000Z",
+      "xQuery": "群馬3人死亡事故 懲役20年が確定"
+    },
+    {
+      "time": "16:25",
+      "title": "首相が中国到着時 タラップに段差",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603300?source=rss",
+      "publishedAt": "2026-11-20T07:25:56.000Z",
+      "xQuery": "首相が中国到着時 タラップに段差"
     },
     {
       "time": "16:20",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6603295?source=rss",
       "publishedAt": "2026-11-20T06:43:44.000Z",
       "xQuery": "横浜市長の家賃42万円 9割市負担"
-    },
-    {
-      "time": "14:24",
-      "title": "3歳死亡 父のスマホに虐待の動画",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603287?source=rss",
-      "publishedAt": "2026-11-20T05:24:29.000Z",
-      "xQuery": "3歳死亡 父のスマホに虐待の動画"
     }
   ]
 };
