@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-20T11:10:24.575Z",
+  "updatedAt": "2026-11-20T11:36:13.795Z",
   "items": [
     {
       "time": "18:36",
@@ -10,28 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "政府内部資料流出か 不正アクセス"
     },
     {
-      "time": "19:01",
-      "title": "山形の国道 一時50台が立ち往生",
+      "time": "18:41",
+      "title": "今年のインフル「だらだら流行」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603325?source=rss",
-      "publishedAt": "2026-11-20T10:01:45.000Z",
-      "xQuery": "山形の国道 一時50台が立ち往生"
-    },
-    {
-      "time": "17:31",
-      "title": "上海で邦人死亡 別の邦人を拘束",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603308?source=rss",
-      "publishedAt": "2026-11-20T08:31:46.000Z",
-      "xQuery": "上海で邦人死亡 別の邦人を拘束"
-    },
-    {
-      "time": "18:38",
-      "title": "公認会計士 14歳が史上最年少合格",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603321?source=rss",
-      "publishedAt": "2026-11-20T09:38:47.000Z",
-      "xQuery": "公認会計士 14歳が史上最年少合格"
+      "url": "https://news.yahoo.co.jp/pickup/6603316?source=rss",
+      "publishedAt": "2026-11-20T09:41:50.000Z",
+      "xQuery": "今年のインフル「だらだら流行」"
     },
     {
       "time": "19:13",
@@ -40,6 +24,22 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6603326?source=rss",
       "publishedAt": "2026-11-20T10:13:05.000Z",
       "xQuery": "横浜市長 市長公舎の廃止方針表明"
+    },
+    {
+      "time": "19:35",
+      "title": "ココイチ売却 米KKRに優先交渉権",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603327?source=rss",
+      "publishedAt": "2026-11-20T10:35:37.000Z",
+      "xQuery": "ココイチ売却 米KKRに優先交渉権"
+    },
+    {
+      "time": "18:38",
+      "title": "公認会計士 14歳が史上最年少合格",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603321?source=rss",
+      "publishedAt": "2026-11-20T09:38:47.000Z",
+      "xQuery": "公認会計士 14歳が史上最年少合格"
     }
   ]
 };
