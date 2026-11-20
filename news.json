@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T05:36:04.064Z",
+  "updatedAt": "2026-11-20T06:19:51.797Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -105,11 +105,11 @@
     ],
     "economyHeadlines": [
       {
-        "time": "10:12",
-        "title": "日経平均 一時2800円以上値下がり",
+        "time": "14:58",
+        "title": "日経平均 一時3000円以上の下落",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6603248?source=rss",
-        "publishedAt": "2026-11-20T01:12:04.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6603288?source=rss",
+        "publishedAt": "2026-11-20T05:58:26.000Z"
       },
       {
         "time": "12:19",
@@ -126,13 +126,6 @@
         "publishedAt": "2026-11-20T02:29:20.000Z"
       },
       {
-        "time": "06:42",
-        "title": "楽天証券に対し集団訴訟の動き",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6603224?source=rss",
-        "publishedAt": "2026-11-19T21:42:41.000Z"
-      },
-      {
         "time": "12:29",
         "title": "GMO会見なぜ炎上 識者の指摘3点",
         "source": "Yahoo!ニュース",
@@ -145,6 +138,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6603281?source=rss",
         "publishedAt": "2026-11-20T04:32:04.000Z"
+      },
+      {
+        "time": "10:41",
+        "title": "空港で靴磨き 航空会社の元社長",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6603252?source=rss",
+        "publishedAt": "2026-11-20T01:41:41.000Z"
       }
     ],
     "localHeadlines": [

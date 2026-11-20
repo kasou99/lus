@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-20T05:36:05.056Z",
+  "updatedAt": "2026-11-20T06:19:52.662Z",
   "items": [
+    {
+      "time": "14:58",
+      "title": "日経平均 一時3000円以上の下落",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603288?source=rss",
+      "publishedAt": "2026-11-20T05:58:26.000Z",
+      "xQuery": "日経平均 一時3000円以上の下落"
+    },
     {
       "time": "13:34",
       "title": "日中会談はなし 難しい関係修復",
@@ -8,14 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6603266?source=rss",
       "publishedAt": "2026-11-20T04:34:35.000Z",
       "xQuery": "日中会談はなし 難しい関係修復"
-    },
-    {
-      "time": "13:28",
-      "title": "独メルツ首相 米中露会談を批判",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603280?source=rss",
-      "publishedAt": "2026-11-20T04:28:15.000Z",
-      "xQuery": "独メルツ首相 米中露会談を批判"
     },
     {
       "time": "14:24",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "3歳死亡 父のスマホに虐待の動画"
     },
     {
-      "time": "13:57",
-      "title": "中野女性殺害「後ろから刺した」",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603283?source=rss",
-      "publishedAt": "2026-11-20T04:57:21.000Z",
-      "xQuery": "中野女性殺害「後ろから刺した」"
-    },
-    {
       "time": "13:32",
       "title": "ホンダ 新型3列SUVを世界初公開",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6603281?source=rss",
       "publishedAt": "2026-11-20T04:32:04.000Z",
       "xQuery": "ホンダ 新型3列SUVを世界初公開"
+    },
+    {
+      "time": "13:35",
+      "title": "駅にサンドイッチ自販機 人気理由",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603282?source=rss",
+      "publishedAt": "2026-11-20T04:35:08.000Z",
+      "xQuery": "駅にサンドイッチ自販機 人気理由"
     }
   ]
 };
