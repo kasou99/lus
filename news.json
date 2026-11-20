@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T20:35:30.747Z",
+  "updatedAt": "2026-11-20T21:09:38.504Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -15,13 +15,6 @@
         "source": "Newscast.jp",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE80SDN1ZXRRRzdwX2VrT1V3b05ENjVfbzJkUUYwM3B0MXFfVy03Yk9fVTRvYnlCZzZnVndSSy1fOEloZk5feFdEa2NkMjZKdDQ?oc=5",
         "publishedAt": "2026-11-20T04:00:00.000Z"
-      },
-      {
-        "time": "12:39",
-        "title": "歯車製造する複合加工機 新開発 主力旋盤ベースに機能強化 ＴＡＫＩＳＡＷＡ",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB3SWJ5WGhxYzB0cmhyNk1yN2s5RHhtQjM2NEtpd24wbXRkYlN1OEg3akNxaUVlOXdzcnR6NEhhZzd4U0dQd0xRMjQ3bmQzTmlFNHBoaGhJSjJBeUpVWW4yUXlobHV6azhyNWc?oc=5",
-        "publishedAt": "2026-11-20T03:39:12.000Z"
       },
       {
         "time": "15:00",
@@ -45,18 +38,25 @@
         "publishedAt": "2026-11-20T01:45:00.000Z"
       },
       {
-        "time": "09:03",
-        "title": "画像・写真 | 錦織圭、明石家さんまは「ジョコビッチ選手みたいでした」“ある一言”に悔しさにじませる 4枚目",
-        "source": "オリコンニュース",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ZS1I1cDEtYV9NQWhFV1ZpbDdhUklKMi1PMGVwNG9RRnJuV3VfZHVVYk9ydVVfWTR5VnZKRnNGUXNQNzhRd3dnbmdpSEZhVVNvajNBbDZIQUNXZw?oc=5",
-        "publishedAt": "2026-11-20T00:03:00.000Z"
+        "time": "16:35",
+        "title": "株式会社設備保全総合研究所のEMLinkモバイルアプリが手書き点検入力を革新する機能を追加",
+        "source": "ニュースメディアVOIX",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBHR2dEQzcwOGE2U3VNWlRRNWMwWmtzNzVIMlVaclRPOVN6MVRFMm9YUExjY3NJY0w0NG04UmFrSmFtRmVraFA2ZERRd01QMlVBZ25qVXkxRU5rdTlIUFRMZHpWVjdmZw?oc=5",
+        "publishedAt": "2026-11-20T07:35:40.000Z"
       },
       {
-        "time": "12:00",
-        "title": "ミサイルサーボの世界市場（2026年～2032年）、市場規模（電気式、空気圧式、油圧式）・分析レポートを発表",
-        "source": "Newscast.jp",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5zR1N0dmtsZTJQWUk1UllIaEVTdDJHM01YaFB5bnZtVG9mQmtjcWRlNkJaZlhfZk1WbjNnbnpoajlvS2hQc0M1aDJnRmNxZjg?oc=5",
-        "publishedAt": "2026-11-20T03:00:00.000Z"
+        "time": "12:39",
+        "title": "歯車製造する複合加工機 新開発 主力旋盤ベースに機能強化 ＴＡＫＩＳＡＷＡ",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB3SWJ5WGhxYzB0cmhyNk1yN2s5RHhtQjM2NEtpd24wbXRkYlN1OEg3akNxaUVlOXdzcnR6NEhhZzd4U0dQd0xRMjQ3bmQzTmlFNHBoaGhJSjJBeUpVWW4yUXlobHV6azhyNWc?oc=5",
+        "publishedAt": "2026-11-20T03:39:12.000Z"
+      },
+      {
+        "time": "06:18",
+        "title": "マクニカが振動センサーによる予知保全を出展。「生産・設備データの可視化・活用」に関する注目の出展企業を紹介【イプロスA",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5nZUVsVTZGVXlfYU9RNWp3WHBiZ2hWRERnREtZNFFxWTQ0NWloQ2h0dXFVc3M5MzkwVXozUEJZU1ZEX3hsTmhlSlVzRzVaSzc3dDNIbDRjX29MMjY1N1BuWG5uOGZrdDRY?oc=5",
+        "publishedAt": "2026-11-19T21:18:38.000Z"
       }
     ],
     "worldHeadlines": [
