@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-20T12:37:57.276Z",
+  "updatedAt": "2026-11-20T13:11:13.742Z",
   "items": [
+    {
+      "time": "21:53",
+      "title": "熊本県で震度4 津波の心配なし",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603337?source=rss",
+      "publishedAt": "2026-11-20T12:53:13.000Z",
+      "xQuery": "熊本県で震度4 津波の心配なし"
+    },
     {
       "time": "21:31",
       "title": "安保3文書素案 原潜「検討着手」",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6603331?source=rss",
       "publishedAt": "2026-11-20T11:41:48.000Z",
       "xQuery": "小中高生の自殺者数 最多ペース"
-    },
-    {
-      "time": "19:13",
-      "title": "横浜市長 市長公舎の廃止方針表明",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603326?source=rss",
-      "publishedAt": "2026-11-20T10:13:05.000Z",
-      "xQuery": "横浜市長 市長公舎の廃止方針表明"
     }
   ]
 };
