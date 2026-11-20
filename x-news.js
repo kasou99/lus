@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-20T01:11:36.326Z",
+  "updatedAt": "2026-11-20T01:39:28.308Z",
   "items": [
     {
-      "time": "09:39",
-      "title": "日経平均 一時2000円以上の下落",
+      "time": "10:12",
+      "title": "日経平均 一時2800円以上値下がり",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603246?source=rss",
-      "publishedAt": "2026-11-20T00:39:14.000Z",
-      "xQuery": "日経平均 一時2000円以上の下落"
+      "url": "https://news.yahoo.co.jp/pickup/6603248?source=rss",
+      "publishedAt": "2026-11-20T01:12:04.000Z",
+      "xQuery": "日経平均 一時2800円以上値下がり"
     },
     {
       "time": "07:35",
