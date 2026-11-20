@@ -1,14 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-20T13:11:13.742Z",
+  "updatedAt": "2026-11-20T13:36:04.732Z",
   "items": [
-    {
-      "time": "21:53",
-      "title": "熊本県で震度4 津波の心配なし",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603337?source=rss",
-      "publishedAt": "2026-11-20T12:53:13.000Z",
-      "xQuery": "熊本県で震度4 津波の心配なし"
-    },
     {
       "time": "21:31",
       "title": "安保3文書素案 原潜「検討着手」",
@@ -18,12 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "安保3文書素案 原潜「検討着手」"
     },
     {
-      "time": "20:09",
-      "title": "大型クロマグロ漁獲枠 25%増合意",
+      "time": "22:18",
+      "title": "神戸市 マンション空室税の条例案",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603329?source=rss",
-      "publishedAt": "2026-11-20T11:09:13.000Z",
-      "xQuery": "大型クロマグロ漁獲枠 25%増合意"
+      "url": "https://news.yahoo.co.jp/pickup/6603341?source=rss",
+      "publishedAt": "2026-11-20T13:18:38.000Z",
+      "xQuery": "神戸市 マンション空室税の条例案"
+    },
+    {
+      "time": "22:23",
+      "title": "ポーランドに巡航ミサイル着弾",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603342?source=rss",
+      "publishedAt": "2026-11-20T13:23:51.000Z",
+      "xQuery": "ポーランドに巡航ミサイル着弾"
     },
     {
       "time": "21:02",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "自民党で関文科相の辞任論が浮上"
     },
     {
-      "time": "20:41",
-      "title": "小中高生の自殺者数 最多ペース",
+      "time": "22:09",
+      "title": "「KARTE」情報漏えい延べ2200社",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603331?source=rss",
-      "publishedAt": "2026-11-20T11:41:48.000Z",
-      "xQuery": "小中高生の自殺者数 最多ペース"
+      "url": "https://news.yahoo.co.jp/pickup/6603339?source=rss",
+      "publishedAt": "2026-11-20T13:09:47.000Z",
+      "xQuery": "「KARTE」情報漏えい延べ2200社"
     }
   ]
 };
