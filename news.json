@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T01:39:27.649Z",
+  "updatedAt": "2026-11-20T02:15:41.392Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -52,11 +52,11 @@
         "publishedAt": "2026-11-19T03:16:04.000Z"
       },
       {
-        "time": "00:34",
-        "title": "「K2戦車に似た模型」と頼むと…AI、146秒で設計図完成",
-        "source": "조선일보",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcXIxaHAtbnJWSzZTd1Z1SUNFUEJ2Tnl3d29vVWNXVWlCTG9pY2RvV3dWSXNRaEpxTzV0Wm52TXR1LVdrQlkyTUdDc3VoOUdkaXMyT3RESV9fUHhEMlpTUkNNQllyZ2piR056bjREWU04SmhLNzdvN0pPekFwRDU3RA?oc=5",
-        "publishedAt": "2026-11-19T15:34:00.000Z"
+        "time": "05:10",
+        "title": "【製造業向け】AI・自動化・DXの導入事例 全9セッションオンラインカンファレンス「製造業 最新事例サミット」を開催",
+        "source": "Infoseek",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBILVpHcUNKYTl6TGJWSF9ROUMxQngxTWZ5OV9kSktrcUtQTEZRVEFXelhJcU80MFV1Q3hncTFreUNWZ3RlUktaSFUyWURieFZJc0NaWGxwNWJKd1hGNm8yQnh5dzRwV09SQWd2TW5PRmloUQ?oc=5",
+        "publishedAt": "2026-11-19T20:10:02.000Z"
       }
     ],
     "worldHeadlines": [
@@ -119,6 +119,13 @@
         "publishedAt": "2026-11-19T22:36:03.000Z"
       },
       {
+        "time": "11:04",
+        "title": "楽天証券の情報流出 遺憾と金融相",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6603253?source=rss",
+        "publishedAt": "2026-11-20T02:04:19.000Z"
+      },
+      {
         "time": "21:06",
         "title": "楽天証券に報告徴求命令 金融庁",
         "source": "Yahoo!ニュース",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6603241?source=rss",
         "publishedAt": "2026-11-20T00:49:54.000Z"
-      },
-      {
-        "time": "20:29",
-        "title": "NHK ラジオで関係ない音声を放送",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6603200?source=rss",
-        "publishedAt": "2026-11-19T11:29:30.000Z"
       }
     ],
     "localHeadlines": [

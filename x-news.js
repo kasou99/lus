@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-20T01:39:28.308Z",
+  "updatedAt": "2026-11-20T02:15:42.025Z",
   "items": [
     {
       "time": "10:12",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "日経平均 一時2800円以上値下がり"
     },
     {
-      "time": "07:35",
-      "title": "首相の中国訪問「新ヤルタ」警戒",
+      "time": "09:49",
+      "title": "10月の消費者物価指数 2.2%上昇",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603228?source=rss",
-      "publishedAt": "2026-11-19T22:35:06.000Z",
-      "xQuery": "首相の中国訪問「新ヤルタ」警戒"
+      "url": "https://news.yahoo.co.jp/pickup/6603241?source=rss",
+      "publishedAt": "2026-11-20T00:49:54.000Z",
+      "xQuery": "10月の消費者物価指数 2.2%上昇"
     },
     {
       "time": "08:31",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "露 クリミア橋攻撃受け報復宣言"
     },
     {
-      "time": "07:44",
-      "title": "体調不良でAI相談 回答うのみ注意",
+      "time": "11:04",
+      "title": "楽天証券の情報流出 遺憾と金融相",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603231?source=rss",
-      "publishedAt": "2026-11-19T22:44:21.000Z",
-      "xQuery": "体調不良でAI相談 回答うのみ注意"
+      "url": "https://news.yahoo.co.jp/pickup/6603253?source=rss",
+      "publishedAt": "2026-11-20T02:04:19.000Z",
+      "xQuery": "楽天証券の情報流出 遺憾と金融相"
     },
     {
-      "time": "09:51",
-      "title": "「スシロー」NY店がオープン",
+      "time": "10:41",
+      "title": "人気の米のカバ死ぬ ニット帽誤飲",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603245?source=rss",
-      "publishedAt": "2026-11-20T00:51:15.000Z",
-      "xQuery": "「スシロー」NY店がオープン"
+      "url": "https://news.yahoo.co.jp/pickup/6603251?source=rss",
+      "publishedAt": "2026-11-20T01:41:37.000Z",
+      "xQuery": "人気の米のカバ死ぬ ニット帽誤飲"
     }
   ]
 };
