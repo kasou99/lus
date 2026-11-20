@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-20T08:35:23.462Z",
+  "updatedAt": "2026-11-20T09:12:48.878Z",
   "items": [
     {
       "time": "17:07",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "H3ロケット打ち上げを民間移管"
     },
     {
+      "time": "17:24",
+      "title": "スマホ無限スクロール どう思う?",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603307?source=rss",
+      "publishedAt": "2026-11-20T08:24:49.000Z",
+      "xQuery": "スマホ無限スクロール どう思う?"
+    },
+    {
       "time": "16:25",
       "title": "首相が中国到着時 タラップに段差",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6603300?source=rss",
       "publishedAt": "2026-11-20T07:25:56.000Z",
       "xQuery": "首相が中国到着時 タラップに段差"
-    },
-    {
-      "time": "16:20",
-      "title": "置き配は玄関前で配達完了 指針案",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603298?source=rss",
-      "publishedAt": "2026-11-20T07:20:05.000Z",
-      "xQuery": "置き配は玄関前で配達完了 指針案"
     },
     {
       "time": "15:43",
