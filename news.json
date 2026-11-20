@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T09:12:48.025Z",
+  "updatedAt": "2026-11-20T09:36:01.106Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -119,13 +119,6 @@
         "publishedAt": "2026-11-20T07:20:05.000Z"
       },
       {
-        "time": "15:21",
-        "title": "27年卒大学生の内定率73% 高水準",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6603291?source=rss",
-        "publishedAt": "2026-11-20T06:21:22.000Z"
-      },
-      {
         "time": "12:19",
         "title": "東海道新幹線 1日で最多504本運行",
         "source": "Yahoo!ニュース",
@@ -140,6 +133,13 @@
         "publishedAt": "2026-11-20T02:29:20.000Z"
       },
       {
+        "time": "18:13",
+        "title": "ツルハHD シンガポール事業撤退",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6603315?source=rss",
+        "publishedAt": "2026-11-20T09:13:59.000Z"
+      },
+      {
         "time": "13:32",
         "title": "ホンダ 新型3列SUVを世界初公開",
         "source": "Yahoo!ニュース",
@@ -148,6 +148,13 @@
       }
     ],
     "localHeadlines": [
+      {
+        "time": "18:19",
+        "title": "山形-宮城の国道 複数台スタック",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6603318?source=rss",
+        "publishedAt": "2026-11-20T09:19:31.000Z"
+      },
       {
         "time": "15:43",
         "title": "横浜市長の家賃42万円 9割市負担",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6603225?source=rss",
         "publishedAt": "2026-11-19T22:18:14.000Z"
-      },
-      {
-        "time": "12:09",
-        "title": "泉佐野市 里親研修参加で手当方針",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6603267?source=rss",
-        "publishedAt": "2026-11-20T03:09:37.000Z"
       }
     ],
     "subsidyHeadlines": [
@@ -224,11 +224,11 @@
         "publishedAt": "2026-11-05T08:00:00.000Z"
       },
       {
-        "time": "17:00",
-        "title": "介護テクノロジー導入支援事業【令和9年度240億円】補助率4/5・47都道府県の受付状況と今からの準備",
+        "time": "16:00",
+        "title": "【令和8年・2026年】もらえる給付金・支援金まとめ！物価高・農業・子育て・生活支援等、目的別に紹介",
         "source": "補助金ポータル",
-        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBmTVZVRlpoUS0weXJ2SG5VVGNZczBDTzVDV3pGTmY4R0Zib2tMVTdVclRkVmRNVy1DWlFEV2xJcVIxelpNQWVlaUhqR0lObS1QczhieDF4T0N0Y3A4Y0trYw?oc=5",
-        "publishedAt": "2026-11-12T08:00:00.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1PbTA2anpjTjlKcUhxXzQtbEFhcXpkSE1UYjItLXZYTHJ0cG5uS3daeVBsY20xTzFCREZ6NEZYdm16OC1iRzRHZWlWZkpyVUYzZmZiTzVGaXd6Q1dhX2ptWVhpLTZuUkZt?oc=5",
+        "publishedAt": "2026-10-28T07:00:00.000Z"
       }
     ]
   }

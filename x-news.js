@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-20T09:12:48.878Z",
+  "updatedAt": "2026-11-20T09:36:01.731Z",
   "items": [
     {
       "time": "17:07",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "3連休前半 日本海側中心に冬の嵐"
     },
     {
-      "time": "15:11",
-      "title": "H3ロケット打ち上げを民間移管",
+      "time": "16:23",
+      "title": "虐待死受け緊急点検 こども家庭庁",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603289?source=rss",
-      "publishedAt": "2026-11-20T06:11:30.000Z",
-      "xQuery": "H3ロケット打ち上げを民間移管"
+      "url": "https://news.yahoo.co.jp/pickup/6603299?source=rss",
+      "publishedAt": "2026-11-20T07:23:04.000Z",
+      "xQuery": "虐待死受け緊急点検 こども家庭庁"
     },
     {
-      "time": "17:24",
-      "title": "スマホ無限スクロール どう思う?",
+      "time": "18:19",
+      "title": "山形-宮城の国道 複数台スタック",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603307?source=rss",
-      "publishedAt": "2026-11-20T08:24:49.000Z",
-      "xQuery": "スマホ無限スクロール どう思う?"
+      "url": "https://news.yahoo.co.jp/pickup/6603318?source=rss",
+      "publishedAt": "2026-11-20T09:19:31.000Z",
+      "xQuery": "山形-宮城の国道 複数台スタック"
     },
     {
       "time": "16:25",
