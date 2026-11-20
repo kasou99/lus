@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-20T12:16:04.113Z",
+  "updatedAt": "2026-11-20T12:37:57.276Z",
   "items": [
+    {
+      "time": "21:31",
+      "title": "安保3文書素案 原潜「検討着手」",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603335?source=rss",
+      "publishedAt": "2026-11-20T12:31:19.000Z",
+      "xQuery": "安保3文書素案 原潜「検討着手」"
+    },
     {
       "time": "20:09",
       "title": "大型クロマグロ漁獲枠 25%増合意",
@@ -8,14 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6603329?source=rss",
       "publishedAt": "2026-11-20T11:09:13.000Z",
       "xQuery": "大型クロマグロ漁獲枠 25%増合意"
-    },
-    {
-      "time": "18:41",
-      "title": "今年のインフル「だらだら流行」",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603316?source=rss",
-      "publishedAt": "2026-11-20T09:41:50.000Z",
-      "xQuery": "今年のインフル「だらだら流行」"
     },
     {
       "time": "21:02",

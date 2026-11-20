@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T12:16:03.502Z",
+  "updatedAt": "2026-11-20T12:37:56.820Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -105,6 +105,13 @@
     ],
     "economyHeadlines": [
       {
+        "time": "21:32",
+        "title": "サウジ原油 日本での備蓄3倍合意",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6603336?source=rss",
+        "publishedAt": "2026-11-20T12:32:05.000Z"
+      },
+      {
         "time": "20:09",
         "title": "大型クロマグロ漁獲枠 25%増合意",
         "source": "Yahoo!ニュース",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6603281?source=rss",
         "publishedAt": "2026-11-20T04:32:04.000Z"
-      },
-      {
-        "time": "17:40",
-        "title": "明治「スーパーカップ」値上げへ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6603309?source=rss",
-        "publishedAt": "2026-11-20T08:40:19.000Z"
       }
     ],
     "localHeadlines": [
@@ -215,6 +215,20 @@
         "title": "中小企業省力化投資補助金の公募・採択情報を確認",
         "source": "中小機構",
         "url": "https://seisansei.smrj.go.jp/subsidy_info/laborsaving_subsidy.html"
+      },
+      {
+        "time": "17:00",
+        "title": "【2026年最新】中小企業向け補助金6制度まとめ｜締切・補助率・上限額一覧",
+        "source": "補助金ポータル",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Idm5vYjJtajVIYjhheTZVVTVQTXRXMndVNkRmWnVEZnZyNVRRV3ZncXZhREsxNXBqYXFZSlZmNHhLeHhkbUNRcXljRlJNWVh2ZmZrSXlsVVJsdGI5RGtBdmoxUGx1YlozMUE?oc=5",
+        "publishedAt": "2026-11-05T08:00:00.000Z"
+      },
+      {
+        "time": "17:00",
+        "title": "介護テクノロジー導入支援事業【令和9年度240億円】補助率4/5・47都道府県の受付状況と今からの準備",
+        "source": "補助金ポータル",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBmTVZVRlpoUS0weXJ2SG5VVGNZczBDTzVDV3pGTmY4R0Zib2tMVTdVclRkVmRNVy1DWlFEV2xJcVIxelpNQWVlaUhqR0lObS1QczhieDF4T0N0Y3A4Y0trYw?oc=5",
+        "publishedAt": "2026-11-12T08:00:00.000Z"
       }
     ]
   }
