@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T08:15:40.870Z",
+  "updatedAt": "2026-11-20T08:35:22.482Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -24,6 +24,13 @@
         "publishedAt": "2026-11-20T02:30:01.000Z"
       },
       {
+        "time": "15:00",
+        "title": "双葉電子工業の「プリセットを用いたサーボモータ通信時間短縮方法」（特許第7715700号）が令和8年度 関東地方発明表彰「発明奨励賞」を受賞",
+        "source": "PR TIMES",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9LWGYtRXVSYXdrdDZJbUM3dlNXeTQzbG5MWFJDb25aZGExZ3RiaTJreUxmUlppendSS2tLbDR5VEwybVBQRW92ckF3Yk5XR2duY1FvYWhnczlFenk4N3pDelI3MGpZa2pBSnc?oc=5",
+        "publishedAt": "2026-11-20T06:00:02.000Z"
+      },
+      {
         "time": "10:45",
         "title": "AI統合型設備保全クラウド『EMLink』のモバイルアプリ、手書きの点検表を撮るだけで結果を入力 ― ローカルLLMで音声・写真・テキストのマルチモーダルに完全対応",
         "source": "Excite エキサイト",
@@ -38,11 +45,11 @@
         "publishedAt": "2026-11-19T16:45:29.000Z"
       },
       {
-        "time": "16:35",
-        "title": "株式会社設備保全総合研究所のEMLinkモバイルアプリが手書き点検入力を革新する機能を追加",
-        "source": "ニュースメディアVOIX",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9aaEZORTZHMktGX1JzRHlFSEQyU2pKWURmSXE0RklKck5SUFZRR3cxcGNrSVRLQ1NjU0gxcnM0azlBTzhCaDhrSGdSdzNaLVNDdktzcllyZWdHT21BRnB4dE5TTnBTdWkw?oc=5",
-        "publishedAt": "2026-11-20T07:35:40.000Z"
+        "time": "05:00",
+        "title": "ファミマ、飲料補充ロボ 店舗作業時間7割減 AIで売れ筋優先",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9kU05UMEo5T1p3SXV6Z0JBcERzM19fbmJoY2ZRQWJuMHRWcmF0c1BhSmZyTVZWdlppQi1aY2lqVVA3Q3NLQjRpOUxPR2h0YUp6b1oxODM3ckI?oc=5",
+        "publishedAt": "2026-11-19T20:00:00.000Z"
       },
       {
         "time": "06:18",
@@ -50,13 +57,6 @@
         "source": "ニコニコニュース",
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5nZUVsVTZGVXlfYU9RNWp3WHBiZ2hWRERnREtZNFFxWTQ0NWloQ2h0dXFVc3M5MzkwVXozUEJZU1ZEX3hsTmhlSlVzRzVaSzc3dDNIbDRjX29MMjY1N1BuWG5uOGZrdDRY?oc=5",
         "publishedAt": "2026-11-19T21:18:38.000Z"
-      },
-      {
-        "time": "12:39",
-        "title": "歯車製造する複合加工機 新開発 主力旋盤ベースに機能強化 ＴＡＫＩＳＡＷＡ",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB3SWJ5WGhxYzB0cmhyNk1yN2s5RHhtQjM2NEtpd24wbXRkYlN1OEg3akNxaUVlOXdzcnR6NEhhZzd4U0dQd0xRMjQ3bmQzTmlFNHBoaGhJSjJBeUpVWW4yUXlobHV6azhyNWc?oc=5",
-        "publishedAt": "2026-11-20T03:39:12.000Z"
       }
     ],
     "worldHeadlines": [
@@ -66,6 +66,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6603293?source=rss",
         "publishedAt": "2026-11-20T06:30:01.000Z"
+      },
+      {
+        "time": "17:31",
+        "title": "上海で邦人死亡 別の邦人を拘束",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6603308?source=rss",
+        "publishedAt": "2026-11-20T08:31:46.000Z"
       },
       {
         "time": "08:31",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6603280?source=rss",
         "publishedAt": "2026-11-20T04:28:15.000Z"
-      },
-      {
-        "time": "09:24",
-        "title": "ロヒンギャ巡る判決 内容精査と米",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6603242?source=rss",
-        "publishedAt": "2026-11-20T00:24:46.000Z"
       }
     ],
     "economyHeadlines": [

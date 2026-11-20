@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-20T08:15:41.591Z",
+  "updatedAt": "2026-11-20T08:35:23.462Z",
   "items": [
     {
-      "time": "15:48",
-      "title": "日経平均終値3007円安 AI巡り混乱",
+      "time": "17:07",
+      "title": "3連休前半 日本海側中心に冬の嵐",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603296?source=rss",
-      "publishedAt": "2026-11-20T06:48:16.000Z",
-      "xQuery": "日経平均終値3007円安 AI巡り混乱"
+      "url": "https://news.yahoo.co.jp/pickup/6603306?source=rss",
+      "publishedAt": "2026-11-20T08:07:19.000Z",
+      "xQuery": "3連休前半 日本海側中心に冬の嵐"
     },
     {
-      "time": "16:28",
-      "title": "群馬3人死亡事故 懲役20年が確定",
+      "time": "15:11",
+      "title": "H3ロケット打ち上げを民間移管",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603301?source=rss",
-      "publishedAt": "2026-11-20T07:28:46.000Z",
-      "xQuery": "群馬3人死亡事故 懲役20年が確定"
+      "url": "https://news.yahoo.co.jp/pickup/6603289?source=rss",
+      "publishedAt": "2026-11-20T06:11:30.000Z",
+      "xQuery": "H3ロケット打ち上げを民間移管"
     },
     {
       "time": "16:25",
