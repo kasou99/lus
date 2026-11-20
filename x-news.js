@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-20T13:36:04.732Z",
+  "updatedAt": "2026-11-20T14:11:28.087Z",
   "items": [
     {
       "time": "21:31",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "神戸市 マンション空室税の条例案"
     },
     {
-      "time": "22:23",
-      "title": "ポーランドに巡航ミサイル着弾",
+      "time": "22:42",
+      "title": "ポーランドにミサイル 被害なし",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603342?source=rss",
-      "publishedAt": "2026-11-20T13:23:51.000Z",
-      "xQuery": "ポーランドに巡航ミサイル着弾"
+      "url": "https://news.yahoo.co.jp/pickup/6603345?source=rss",
+      "publishedAt": "2026-11-20T13:42:05.000Z",
+      "xQuery": "ポーランドにミサイル 被害なし"
     },
     {
       "time": "21:02",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "自民党で関文科相の辞任論が浮上"
     },
     {
-      "time": "22:09",
-      "title": "「KARTE」情報漏えい延べ2200社",
+      "time": "23:03",
+      "title": "一時100台ほど車が立ち往生 長野",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603339?source=rss",
-      "publishedAt": "2026-11-20T13:09:47.000Z",
-      "xQuery": "「KARTE」情報漏えい延べ2200社"
+      "url": "https://news.yahoo.co.jp/pickup/6603346?source=rss",
+      "publishedAt": "2026-11-20T14:03:53.000Z",
+      "xQuery": "一時100台ほど車が立ち往生 長野"
     }
   ]
 };
