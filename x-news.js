@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-20T10:36:02.491Z",
+  "updatedAt": "2026-11-20T11:10:24.575Z",
   "items": [
     {
       "time": "18:36",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "山形の国道 一時50台が立ち往生"
     },
     {
-      "time": "16:25",
-      "title": "首相が中国到着時 タラップに段差",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603300?source=rss",
-      "publishedAt": "2026-11-20T07:25:56.000Z",
-      "xQuery": "首相が中国到着時 タラップに段差"
-    },
-    {
       "time": "17:31",
       "title": "上海で邦人死亡 別の邦人を拘束",
       "source": "Yahoo!ニュース",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6603321?source=rss",
       "publishedAt": "2026-11-20T09:38:47.000Z",
       "xQuery": "公認会計士 14歳が史上最年少合格"
+    },
+    {
+      "time": "19:13",
+      "title": "横浜市長 市長公舎の廃止方針表明",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603326?source=rss",
+      "publishedAt": "2026-11-20T10:13:05.000Z",
+      "xQuery": "横浜市長 市長公舎の廃止方針表明"
     }
   ]
 };
