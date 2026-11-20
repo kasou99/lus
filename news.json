@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T05:11:47.829Z",
+  "updatedAt": "2026-11-20T05:36:04.064Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,11 +17,11 @@
         "publishedAt": "2026-11-20T04:00:00.000Z"
       },
       {
-        "time": "11:30",
-        "title": "AI統合型設備保全クラウド『EMLink』のモバイルアプリ、手書きの点検表を撮るだけで結果を入力",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9yWk5mVVJHZGJYSDYtUEpYWlpGaURWM3laa3ZQMUNHU3M0S1hldENaMjRzRFY3eG41RUNFTGhWRWVpc05mSVVJVHNwSzAzajBxRUZwa1BZbmNjb3gwd2ExZjN5UC1lcDVH?oc=5",
-        "publishedAt": "2026-11-20T02:30:27.000Z"
+        "time": "10:45",
+        "title": "AI統合型設備保全クラウド『EMLink』のモバイルアプリ、手書きの点検表を撮るだけで結果を入力 ― ローカルLLMで音声・写真・テキストのマルチモーダルに完全対応",
+        "source": "Excite エキサイト",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5IMk1SbER6QVhLVzRxcmZ2OE9CY0RmZVJYT0wxaFYzcDhjcVZIOGpIRDFfbVFEX3N0N3ZFeEVuOUhUQmxGalNhWUVmazUzaDZ5amtxMTBZMTQ4cTdzd2UxUm1NYmxjaGpOcHlsQUNNQUJCbE9S?oc=5",
+        "publishedAt": "2026-11-20T01:45:00.000Z"
       },
       {
         "time": "01:45",
@@ -156,6 +156,13 @@
         "publishedAt": "2026-11-20T04:57:21.000Z"
       },
       {
+        "time": "14:24",
+        "title": "3歳死亡 父のスマホに虐待の動画",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6603287?source=rss",
+        "publishedAt": "2026-11-20T05:24:29.000Z"
+      },
+      {
         "time": "07:18",
         "title": "3歳暴行死 母親が後悔の言葉",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6603190?source=rss",
         "publishedAt": "2026-11-19T09:49:16.000Z"
-      },
-      {
-        "time": "19:50",
-        "title": "兵庫3歳死亡「パパ怖い」と訴え",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6603197?source=rss",
-        "publishedAt": "2026-11-19T10:50:52.000Z"
       }
     ],
     "subsidyHeadlines": [

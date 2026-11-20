@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-20T05:11:48.664Z",
+  "updatedAt": "2026-11-20T05:36:05.056Z",
   "items": [
     {
       "time": "13:34",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "独メルツ首相 米中露会談を批判"
     },
     {
-      "time": "11:29",
-      "title": "楽天証券へ訴訟準備 1.5万人登録",
+      "time": "14:24",
+      "title": "3歳死亡 父のスマホに虐待の動画",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603257?source=rss",
-      "publishedAt": "2026-11-20T02:29:20.000Z",
-      "xQuery": "楽天証券へ訴訟準備 1.5万人登録"
+      "url": "https://news.yahoo.co.jp/pickup/6603287?source=rss",
+      "publishedAt": "2026-11-20T05:24:29.000Z",
+      "xQuery": "3歳死亡 父のスマホに虐待の動画"
     },
     {
       "time": "13:57",
