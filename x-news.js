@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-20T22:09:38.388Z",
+  "updatedAt": "2026-11-20T22:35:49.719Z",
   "items": [
     {
-      "time": "21:31",
-      "title": "安保3文書素案 原潜「検討着手」",
+      "time": "00:11",
+      "title": "官僚参加パーティー5件に 文科相",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603335?source=rss",
-      "publishedAt": "2026-11-20T12:31:19.000Z",
-      "xQuery": "安保3文書素案 原潜「検討着手」"
+      "url": "https://news.yahoo.co.jp/pickup/6603350?source=rss",
+      "publishedAt": "2026-11-20T15:11:22.000Z",
+      "xQuery": "官僚参加パーティー5件に 文科相"
     },
     {
       "time": "23:58",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "EV補助金受け付け終了 予算枯渇"
     },
     {
-      "time": "00:11",
-      "title": "官僚参加パーティー5件に 文科相",
+      "time": "07:30",
+      "title": "米株式市場急落 ナスダック5%安",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603350?source=rss",
-      "publishedAt": "2026-11-20T15:11:22.000Z",
-      "xQuery": "官僚参加パーティー5件に 文科相"
+      "url": "https://news.yahoo.co.jp/pickup/6603352?source=rss",
+      "publishedAt": "2026-11-20T22:30:18.000Z",
+      "xQuery": "米株式市場急落 ナスダック5%安"
     },
     {
       "time": "22:42",
