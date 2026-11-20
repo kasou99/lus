@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T00:28:15.632Z",
+  "updatedAt": "2026-11-20T00:47:24.230Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -105,6 +105,13 @@
     ],
     "economyHeadlines": [
       {
+        "time": "09:39",
+        "title": "日経平均 一時2000円以上の下落",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6603246?source=rss",
+        "publishedAt": "2026-11-20T00:39:14.000Z"
+      },
+      {
         "time": "07:36",
         "title": "アンソロピック 初日終値約97ドル",
         "source": "Yahoo!ニュース",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6603200?source=rss",
         "publishedAt": "2026-11-19T11:29:30.000Z"
-      },
-      {
-        "time": "21:21",
-        "title": "運転手の不適切動画 京急バス謝罪",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6603202?source=rss",
-        "publishedAt": "2026-11-19T12:21:11.000Z"
       }
     ],
     "localHeadlines": [

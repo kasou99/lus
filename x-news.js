@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-20T00:28:16.343Z",
+  "updatedAt": "2026-11-20T00:47:25.119Z",
   "items": [
+    {
+      "time": "09:39",
+      "title": "日経平均 一時2000円以上の下落",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603246?source=rss",
+      "publishedAt": "2026-11-20T00:39:14.000Z",
+      "xQuery": "日経平均 一時2000円以上の下落"
+    },
     {
       "time": "07:35",
       "title": "首相の中国訪問「新ヤルタ」警戒",
@@ -16,14 +24,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6603236?source=rss",
       "publishedAt": "2026-11-19T23:18:13.000Z",
       "xQuery": "21日にかけ寒波 北陸など暴風警戒"
-    },
-    {
-      "time": "07:36",
-      "title": "アンソロピック 初日終値約97ドル",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603229?source=rss",
-      "publishedAt": "2026-11-19T22:36:03.000Z",
-      "xQuery": "アンソロピック 初日終値約97ドル"
     },
     {
       "time": "08:31",
