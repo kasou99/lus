@@ -1,21 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-20T06:41:44.978Z",
+  "updatedAt": "2026-11-20T07:13:18.280Z",
   "items": [
     {
-      "time": "14:58",
-      "title": "日経平均 一時3000円以上の下落",
+      "time": "15:48",
+      "title": "日経平均終値3007円安 AI巡り混乱",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603288?source=rss",
-      "publishedAt": "2026-11-20T05:58:26.000Z",
-      "xQuery": "日経平均 一時3000円以上の下落"
+      "url": "https://news.yahoo.co.jp/pickup/6603296?source=rss",
+      "publishedAt": "2026-11-20T06:48:16.000Z",
+      "xQuery": "日経平均終値3007円安 AI巡り混乱"
     },
     {
-      "time": "13:34",
-      "title": "日中会談はなし 難しい関係修復",
+      "time": "12:05",
+      "title": "法務省とラヴ上等 タイアップ経緯",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603266?source=rss",
-      "publishedAt": "2026-11-20T04:34:35.000Z",
-      "xQuery": "日中会談はなし 難しい関係修復"
+      "url": "https://news.yahoo.co.jp/pickup/6603265?source=rss",
+      "publishedAt": "2026-11-20T03:05:50.000Z",
+      "xQuery": "法務省とラヴ上等 タイアップ経緯"
+    },
+    {
+      "time": "15:43",
+      "title": "横浜市長の家賃42万円 9割市負担",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603295?source=rss",
+      "publishedAt": "2026-11-20T06:43:44.000Z",
+      "xQuery": "横浜市長の家賃42万円 9割市負担"
     },
     {
       "time": "14:24",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6603293?source=rss",
       "publishedAt": "2026-11-20T06:30:01.000Z",
       "xQuery": "ネパールで邦人35人拘束 詐欺疑い"
-    },
-    {
-      "time": "13:32",
-      "title": "ホンダ 新型3列SUVを世界初公開",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603281?source=rss",
-      "publishedAt": "2026-11-20T04:32:04.000Z",
-      "xQuery": "ホンダ 新型3列SUVを世界初公開"
     }
   ]
 };

@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-20T06:41:44.212Z",
+  "updatedAt": "2026-11-20T07:13:17.285Z",
   "groups": {
     "machineHeadlines": [
       {
-        "time": "11:30",
-        "title": "［徹底予測2027 機械］工作機械、AI特需で受注が過去最高へ 部品供給追いつかず",
-        "source": "日経ビジネス電子版",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQR3FsSnBfMnZRV3BKZVJHVHRwRlFFaEZySk1ZbHREM3lnTUluYWVpOXlnakpfS2hMMnA4ZFlMM3NhdUpocmVxZUJqeWxTVnlwdjlLYjlSWS1Cb3ZCZ2FWVmMwSDRGUGR5b1I1RUNmVk1iR3paTHBibWtNcXZWMjE0dFZiS3hoamF0cDZJZ3hB?oc=5",
-        "publishedAt": "2026-11-20T02:30:01.000Z"
+        "time": "16:10",
+        "title": "金沢の松本機械工業、新工場稼働 工作機械の無人稼働支援装置を生産",
+        "source": "日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1MU2dkRS1DTFVtVVdmc0VJX2l5dGdxMEwyVERSSUZacUs0QUFhZFhKb2kyZXBzanVRU0lFbnhUREJVaWFmZjR1eVJjY25UQ0tJY3BJTWpneGRURE13bHBCSGlGcnVOTmJ6UjJXTQ?oc=5",
+        "publishedAt": "2026-11-20T07:10:45.000Z"
       },
       {
         "time": "13:00",
@@ -15,6 +15,13 @@
         "source": "アットプレス",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5xOUdUWkc4SVNNVHU0QmlZWk1OM0dmZEpyRjJLOU01Ty02bDFCQndlcnBTMEhlVVVUY09ZVnpCNGlJYmR5Z25NOEU3T2syOUk?oc=5",
         "publishedAt": "2026-11-20T04:00:00.000Z"
+      },
+      {
+        "time": "11:30",
+        "title": "［徹底予測2027 機械］工作機械、AI特需で受注が過去最高へ 部品供給追いつかず",
+        "source": "日経ビジネス電子版",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQR3FsSnBfMnZRV3BKZVJHVHRwRlFFaEZySk1ZbHREM3lnTUluYWVpOXlnakpfS2hMMnA4ZFlMM3NhdUpocmVxZUJqeWxTVnlwdjlLYjlSWS1Cb3ZCZ2FWVmMwSDRGUGR5b1I1RUNmVk1iR3paTHBibWtNcXZWMjE0dFZiS3hoamF0cDZJZ3hB?oc=5",
+        "publishedAt": "2026-11-20T02:30:01.000Z"
       },
       {
         "time": "10:45",
@@ -50,13 +57,6 @@
         "source": "Infoseek",
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBILVpHcUNKYTl6TGJWSF9ROUMxQngxTWZ5OV9kSktrcUtQTEZRVEFXelhJcU80MFV1Q3hncTFreUNWZ3RlUktaSFUyWURieFZJc0NaWGxwNWJKd1hGNm8yQnh5dzRwV09SQWd2TW5PRmloUQ?oc=5",
         "publishedAt": "2026-11-19T20:10:02.000Z"
-      },
-      {
-        "time": "00:34",
-        "title": "「K2戦車に似た模型」と頼むと…AI、146秒で設計図完成",
-        "source": "조선일보",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcXIxaHAtbnJWSzZTd1Z1SUNFUEJ2Tnl3d29vVWNXVWlCTG9pY2RvV3dWSXNRaEpxTzV0Wm52TXR1LVdrQlkyTUdDc3VoOUdkaXMyT3RESV9fUHhEMlpTUkNNQllyZ2piR056bjREWU04SmhLNzdvN0pPekFwRDU3RA?oc=5",
-        "publishedAt": "2026-11-19T15:34:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -105,11 +105,11 @@
     ],
     "economyHeadlines": [
       {
-        "time": "14:58",
-        "title": "日経平均 一時3000円以上の下落",
+        "time": "15:48",
+        "title": "日経平均終値3007円安 AI巡り混乱",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6603288?source=rss",
-        "publishedAt": "2026-11-20T05:58:26.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6603296?source=rss",
+        "publishedAt": "2026-11-20T06:48:16.000Z"
       },
       {
         "time": "15:21",
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "15:43",
+        "title": "横浜市長の家賃42万円 9割市負担",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6603295?source=rss",
+        "publishedAt": "2026-11-20T06:43:44.000Z"
+      },
+      {
         "time": "13:57",
         "title": "中野女性殺害「後ろから刺した」",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6603267?source=rss",
         "publishedAt": "2026-11-20T03:09:37.000Z"
-      },
-      {
-        "time": "18:49",
-        "title": "入浴施設で作業 熱中症で男性死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6603190?source=rss",
-        "publishedAt": "2026-11-19T09:49:16.000Z"
       }
     ],
     "subsidyHeadlines": [
