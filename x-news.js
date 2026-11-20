@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-20T00:47:25.119Z",
+  "updatedAt": "2026-11-20T01:11:36.326Z",
   "items": [
     {
       "time": "09:39",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "首相の中国訪問「新ヤルタ」警戒"
     },
     {
-      "time": "08:18",
-      "title": "21日にかけ寒波 北陸など暴風警戒",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603236?source=rss",
-      "publishedAt": "2026-11-19T23:18:13.000Z",
-      "xQuery": "21日にかけ寒波 北陸など暴風警戒"
-    },
-    {
       "time": "08:31",
       "title": "露 クリミア橋攻撃受け報復宣言",
       "source": "Yahoo!ニュース",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "露 クリミア橋攻撃受け報復宣言"
     },
     {
-      "time": "06:42",
-      "title": "楽天証券に対し集団訴訟の動き",
+      "time": "07:44",
+      "title": "体調不良でAI相談 回答うのみ注意",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603224?source=rss",
-      "publishedAt": "2026-11-19T21:42:41.000Z",
-      "xQuery": "楽天証券に対し集団訴訟の動き"
+      "url": "https://news.yahoo.co.jp/pickup/6603231?source=rss",
+      "publishedAt": "2026-11-19T22:44:21.000Z",
+      "xQuery": "体調不良でAI相談 回答うのみ注意"
+    },
+    {
+      "time": "09:51",
+      "title": "「スシロー」NY店がオープン",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603245?source=rss",
+      "publishedAt": "2026-11-20T00:51:15.000Z",
+      "xQuery": "「スシロー」NY店がオープン"
     }
   ]
 };
