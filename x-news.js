@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-20T07:13:18.280Z",
+  "updatedAt": "2026-11-20T07:35:57.907Z",
   "items": [
     {
       "time": "15:48",
@@ -10,12 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "日経平均終値3007円安 AI巡り混乱"
     },
     {
-      "time": "12:05",
-      "title": "法務省とラヴ上等 タイアップ経緯",
+      "time": "12:02",
+      "title": "MSに再発防止を要請 デジタル相",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603265?source=rss",
-      "publishedAt": "2026-11-20T03:05:50.000Z",
-      "xQuery": "法務省とラヴ上等 タイアップ経緯"
+      "url": "https://news.yahoo.co.jp/pickup/6603263?source=rss",
+      "publishedAt": "2026-11-20T03:02:03.000Z",
+      "xQuery": "MSに再発防止を要請 デジタル相"
+    },
+    {
+      "time": "16:20",
+      "title": "置き配は玄関前で配達完了 指針案",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603298?source=rss",
+      "publishedAt": "2026-11-20T07:20:05.000Z",
+      "xQuery": "置き配は玄関前で配達完了 指針案"
     },
     {
       "time": "15:43",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6603287?source=rss",
       "publishedAt": "2026-11-20T05:24:29.000Z",
       "xQuery": "3歳死亡 父のスマホに虐待の動画"
-    },
-    {
-      "time": "15:30",
-      "title": "ネパールで邦人35人拘束 詐欺疑い",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603293?source=rss",
-      "publishedAt": "2026-11-20T06:30:01.000Z",
-      "xQuery": "ネパールで邦人35人拘束 詐欺疑い"
     }
   ]
 };
