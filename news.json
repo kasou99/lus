@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T23:09:53.361Z",
+  "updatedAt": "2026-11-20T23:35:26.403Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,6 +17,27 @@
         "publishedAt": "2026-11-20T04:00:00.000Z"
       },
       {
+        "time": "14:40",
+        "title": "エコスタイル、低圧系統用蓄電所の部材をパッケージ提供 - ニュース - メガソーラービジネス plus",
+        "source": "日経BP",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9GUmtmaVRZbzJBek5TX2VLVXlST1IyUUxNVlBrbElmTXo0cEFmRGxVUTZuRVhmRnpQelJxV056Z2VDcm9hck9aMmJPQUlsN2tuQk9lQWZockxXV3lxbGF3aWlTZ3IybUV2ay1KcWFzN21pNm1G?oc=5",
+        "publishedAt": "2026-11-20T05:40:00.000Z"
+      },
+      {
+        "time": "12:39",
+        "title": "歯車製造する複合加工機 新開発 主力旋盤ベースに機能強化 ＴＡＫＩＳＡＷＡ",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB3SWJ5WGhxYzB0cmhyNk1yN2s5RHhtQjM2NEtpd24wbXRkYlN1OEg3akNxaUVlOXdzcnR6NEhhZzd4U0dQd0xRMjQ3bmQzTmlFNHBoaGhJSjJBeUpVWW4yUXlobHV6azhyNWc?oc=5",
+        "publishedAt": "2026-11-20T03:39:12.000Z"
+      },
+      {
+        "time": "18:11",
+        "title": "愛知県大口町に研究開発拠点「イノベーションハブ」開設 ヤマザキマザック、来年8月：ニュース",
+        "source": "中日BIZナビ",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE54cGNHWk9DWF9JbExscktqNkxWVldxQjg2OE9WWnFERzZIQkhWNXllYVhNM0M4and6TGF6VmNMYVlUUE03OTdELWNaS0N6MTZfRUJvbGRYbGJJS29HSHFONkkxSTU?oc=5",
+        "publishedAt": "2026-11-20T09:11:47.000Z"
+      },
+      {
         "time": "15:00",
         "title": "双葉電子工業の「プリセットを用いたサーボモータ通信時間短縮方法」（特許第7715700号）が令和8年度 関東地方発明表彰「発明奨励賞」を受賞",
         "source": "PR TIMES",
@@ -31,32 +52,11 @@
         "publishedAt": "2026-11-20T02:30:01.000Z"
       },
       {
-        "time": "10:45",
-        "title": "AI統合型設備保全クラウド『EMLink』のモバイルアプリ、手書きの点検表を撮るだけで結果を入力 ― ローカルLLMで音声・写真・テキストのマルチモーダルに完全対応",
-        "source": "Excite エキサイト",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5IMk1SbER6QVhLVzRxcmZ2OE9CY0RmZVJYT0wxaFYzcDhjcVZIOGpIRDFfbVFEX3N0N3ZFeEVuOUhUQmxGalNhWUVmazUzaDZ5amtxMTBZMTQ4cTdzd2UxUm1NYmxjaGpOcHlsQUNNQUJCbE9S?oc=5",
-        "publishedAt": "2026-11-20T01:45:00.000Z"
-      },
-      {
-        "time": "16:35",
-        "title": "株式会社設備保全総合研究所のEMLinkモバイルアプリが手書き点検入力を革新する機能を追加",
-        "source": "ニュースメディアVOIX",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBHR2dEQzcwOGE2U3VNWlRRNWMwWmtzNzVIMlVaclRPOVN6MVRFMm9YUExjY3NJY0w0NG04UmFrSmFtRmVraFA2ZERRd01QMlVBZ25qVXkxRU5rdTlIUFRMZHpWVjdmZw?oc=5",
-        "publishedAt": "2026-11-20T07:35:40.000Z"
-      },
-      {
-        "time": "12:39",
-        "title": "歯車製造する複合加工機 新開発 主力旋盤ベースに機能強化 ＴＡＫＩＳＡＷＡ",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB3SWJ5WGhxYzB0cmhyNk1yN2s5RHhtQjM2NEtpd24wbXRkYlN1OEg3akNxaUVlOXdzcnR6NEhhZzd4U0dQd0xRMjQ3bmQzTmlFNHBoaGhJSjJBeUpVWW4yUXlobHV6azhyNWc?oc=5",
-        "publishedAt": "2026-11-20T03:39:12.000Z"
-      },
-      {
-        "time": "14:40",
-        "title": "エコスタイル、低圧系統用蓄電所の部材をパッケージ提供 - ニュース - メガソーラービジネス plus",
-        "source": "日経BP",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9GUmtmaVRZbzJBek5TX2VLVXlST1IyUUxNVlBrbElmTXo0cEFmRGxVUTZuRVhmRnpQelJxV056Z2VDcm9hck9aMmJPQUlsN2tuQk9lQWZockxXV3lxbGF3aWlTZ3IybUV2ay1KcWFzN21pNm1G?oc=5",
-        "publishedAt": "2026-11-20T05:40:00.000Z"
+        "time": "06:15",
+        "title": "「サニックスCup国際新体操団体選手権2026」開催",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Vb1RHRm1XSHV3dWJINjJqSDc0WjBmZ2pDTTJOSDNSQzFUMkJmZllQYXlOOEJuanBuUGJHbHI2VjBsODluYkpnLXZkSHZkYTBua24yek1RQ3hlWjl5STdFVmdpalFSTktn?oc=5",
+        "publishedAt": "2026-11-20T21:15:27.000Z"
       }
     ],
     "worldHeadlines": [
