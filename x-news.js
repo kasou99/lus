@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-20T15:11:19.059Z",
+  "updatedAt": "2026-11-20T15:35:39.986Z",
   "items": [
     {
       "time": "21:31",
@@ -10,12 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "安保3文書素案 原潜「検討着手」"
     },
     {
-      "time": "23:35",
-      "title": "ZOZOTOWN 1518万人の情報漏洩",
+      "time": "23:58",
+      "title": "EV補助金受け付け終了 予算枯渇",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603349?source=rss",
-      "publishedAt": "2026-11-20T14:35:54.000Z",
-      "xQuery": "ZOZOTOWN 1518万人の情報漏洩"
+      "url": "https://news.yahoo.co.jp/pickup/6603347?source=rss",
+      "publishedAt": "2026-11-20T14:58:48.000Z",
+      "xQuery": "EV補助金受け付け終了 予算枯渇"
+    },
+    {
+      "time": "00:11",
+      "title": "官僚参加パーティー5件に 文科相",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603350?source=rss",
+      "publishedAt": "2026-11-20T15:11:22.000Z",
+      "xQuery": "官僚参加パーティー5件に 文科相"
     },
     {
       "time": "22:42",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6603336?source=rss",
       "publishedAt": "2026-11-20T12:32:05.000Z",
       "xQuery": "サウジ原油 日本での備蓄3倍合意"
-    },
-    {
-      "time": "21:02",
-      "title": "自民党で関文科相の辞任論が浮上",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603332?source=rss",
-      "publishedAt": "2026-11-20T12:02:20.000Z",
-      "xQuery": "自民党で関文科相の辞任論が浮上"
     }
   ]
 };
