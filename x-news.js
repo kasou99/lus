@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-20T04:35:54.849Z",
+  "updatedAt": "2026-11-20T05:11:48.664Z",
   "items": [
     {
-      "time": "11:24",
-      "title": "米国頼みの高市外交 限界浮き彫り",
+      "time": "13:34",
+      "title": "日中会談はなし 難しい関係修復",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603256?source=rss",
-      "publishedAt": "2026-11-20T02:24:51.000Z",
-      "xQuery": "米国頼みの高市外交 限界浮き彫り"
+      "url": "https://news.yahoo.co.jp/pickup/6603266?source=rss",
+      "publishedAt": "2026-11-20T04:34:35.000Z",
+      "xQuery": "日中会談はなし 難しい関係修復"
     },
     {
-      "time": "09:24",
-      "title": "ロヒンギャ巡る判決 内容精査と米",
+      "time": "13:28",
+      "title": "独メルツ首相 米中露会談を批判",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603242?source=rss",
-      "publishedAt": "2026-11-20T00:24:46.000Z",
-      "xQuery": "ロヒンギャ巡る判決 内容精査と米"
+      "url": "https://news.yahoo.co.jp/pickup/6603280?source=rss",
+      "publishedAt": "2026-11-20T04:28:15.000Z",
+      "xQuery": "独メルツ首相 米中露会談を批判"
     },
     {
       "time": "11:29",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "楽天証券へ訴訟準備 1.5万人登録"
     },
     {
-      "time": "11:48",
-      "title": "H3ロケット打ち上げ 民間移管へ",
+      "time": "13:57",
+      "title": "中野女性殺害「後ろから刺した」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603260?source=rss",
-      "publishedAt": "2026-11-20T02:48:23.000Z",
-      "xQuery": "H3ロケット打ち上げ 民間移管へ"
+      "url": "https://news.yahoo.co.jp/pickup/6603283?source=rss",
+      "publishedAt": "2026-11-20T04:57:21.000Z",
+      "xQuery": "中野女性殺害「後ろから刺した」"
     },
     {
       "time": "13:32",

@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-11-20T04:35:54.249Z",
+  "updatedAt": "2026-11-20T05:11:47.829Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "11:30",
+        "title": "［徹底予測2027 機械］工作機械、AI特需で受注が過去最高へ 部品供給追いつかず",
+        "source": "日経ビジネス電子版",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQR3FsSnBfMnZRV3BKZVJHVHRwRlFFaEZySk1ZbHREM3lnTUluYWVpOXlnakpfS2hMMnA4ZFlMM3NhdUpocmVxZUJqeWxTVnlwdjlLYjlSWS1Cb3ZCZ2FWVmMwSDRGUGR5b1I1RUNmVk1iR3paTHBibWtNcXZWMjE0dFZiS3hoamF0cDZJZ3hB?oc=5",
+        "publishedAt": "2026-11-20T02:30:01.000Z"
+      },
       {
         "time": "13:00",
         "title": "中径ワイヤー切断工作機械の世界市場（2026年～2032年）、市場規模（フラッシュ、浸漬）・分析レポートを発表",
@@ -10,18 +17,11 @@
         "publishedAt": "2026-11-20T04:00:00.000Z"
       },
       {
-        "time": "17:00",
-        "title": "［徹底予測2027 機械］工作機械、AI特需で受注が過去最高へ 部品供給追いつかず",
-        "source": "日経ビジネス電子版",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBmR1ZLMWtLTF92MVZibzRsZkN1bmFtNE4zazNwb0NrUDNWcEhTOVg2bTZaS1A4dFdOdXNTYzVHUC01eGNEeERkWTYxeDZGOHBBVlNBZU1KNl9pMWFiMzRtcGFkYlYwbUU?oc=5",
-        "publishedAt": "2026-11-19T08:00:00.000Z"
-      },
-      {
-        "time": "10:45",
-        "title": "AI統合型設備保全クラウド『EMLink』のモバイルアプリ、手書きの点検表を撮るだけで結果を入力 ― ローカルLLMで音声・写真・テキストのマルチモーダルに完全対応",
-        "source": "Excite エキサイト",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5IMk1SbER6QVhLVzRxcmZ2OE9CY0RmZVJYT0wxaFYzcDhjcVZIOGpIRDFfbVFEX3N0N3ZFeEVuOUhUQmxGalNhWUVmazUzaDZ5amtxMTBZMTQ4cTdzd2UxUm1NYmxjaGpOcHlsQUNNQUJCbE9S?oc=5",
-        "publishedAt": "2026-11-20T01:45:00.000Z"
+        "time": "11:30",
+        "title": "AI統合型設備保全クラウド『EMLink』のモバイルアプリ、手書きの点検表を撮るだけで結果を入力",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9yWk5mVVJHZGJYSDYtUEpYWlpGaURWM3laa3ZQMUNHU3M0S1hldENaMjRzRFY3eG41RUNFTGhWRWVpc05mSVVJVHNwSzAzajBxRUZwa1BZbmNjb3gwd2ExZjN5UC1lcDVH?oc=5",
+        "publishedAt": "2026-11-20T02:30:27.000Z"
       },
       {
         "time": "01:45",
@@ -29,13 +29,6 @@
         "source": "ニコニコニュース",
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBRSXBaRXFnWWdlRXJ5Zl9RcElKLXFZM0cyMjRINDgwa1RQRkFrRzF3dDhvc2J5TVZ6V0Y1VjZtTkpxZ2Jtc0hKaU1ydEs1NjV6a0E1bGpYbmZtWTNsWFlaTkZHOEZ3R3Rr?oc=5",
         "publishedAt": "2026-11-19T16:45:29.000Z"
-      },
-      {
-        "time": "13:36",
-        "title": "世界の一体型ドライブサーボモーター市場規模、2026年537百万米ドルから2032年787百万米ドルへ拡大",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE44bHZGZjAyS2tCVmR3a2I1MHpRSEFyQUdmMTU4ekt3YlUxcDIwbFdYRXZZeE53SFdCVzRyaTZLdVFFNklFZ1JnblJsNy1SeDctc2JiclNDRDVWLXdrc3dxMEFsOHZTRWNET0xUR0tJeDZPV1BHemRuUTF0QQ?oc=5",
-        "publishedAt": "2026-11-19T04:36:21.000Z"
       },
       {
         "time": "12:39",
@@ -57,6 +50,13 @@
         "source": "Infoseek",
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBILVpHcUNKYTl6TGJWSF9ROUMxQngxTWZ5OV9kSktrcUtQTEZRVEFXelhJcU80MFV1Q3hncTFreUNWZ3RlUktaSFUyWURieFZJc0NaWGxwNWJKd1hGNm8yQnh5dzRwV09SQWd2TW5PRmloUQ?oc=5",
         "publishedAt": "2026-11-19T20:10:02.000Z"
+      },
+      {
+        "time": "00:34",
+        "title": "「K2戦車に似た模型」と頼むと…AI、146秒で設計図完成",
+        "source": "조선일보",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcXIxaHAtbnJWSzZTd1Z1SUNFUEJ2Tnl3d29vVWNXVWlCTG9pY2RvV3dWSXNRaEpxTzV0Wm52TXR1LVdrQlkyTUdDc3VoOUdkaXMyT3RESV9fUHhEMlpTUkNNQllyZ2piR056bjREWU04SmhLNzdvN0pPekFwRDU3RA?oc=5",
+        "publishedAt": "2026-11-19T15:34:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -112,13 +112,6 @@
         "publishedAt": "2026-11-20T01:12:04.000Z"
       },
       {
-        "time": "07:36",
-        "title": "アンソロピック 初日終値約97ドル",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6603229?source=rss",
-        "publishedAt": "2026-11-19T22:36:03.000Z"
-      },
-      {
         "time": "12:19",
         "title": "東海道新幹線 1日で最多504本運行",
         "source": "Yahoo!ニュース",
@@ -145,15 +138,22 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6603273?source=rss",
         "publishedAt": "2026-11-20T03:29:11.000Z"
+      },
+      {
+        "time": "13:32",
+        "title": "ホンダ 新型3列SUVを世界初公開",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6603281?source=rss",
+        "publishedAt": "2026-11-20T04:32:04.000Z"
       }
     ],
     "localHeadlines": [
       {
-        "time": "12:09",
-        "title": "泉佐野市 里親研修参加で手当方針",
+        "time": "13:57",
+        "title": "中野女性殺害「後ろから刺した」",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6603267?source=rss",
-        "publishedAt": "2026-11-20T03:09:37.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6603283?source=rss",
+        "publishedAt": "2026-11-20T04:57:21.000Z"
       },
       {
         "time": "07:18",
@@ -170,6 +170,13 @@
         "publishedAt": "2026-11-19T13:47:35.000Z"
       },
       {
+        "time": "12:09",
+        "title": "泉佐野市 里親研修参加で手当方針",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6603267?source=rss",
+        "publishedAt": "2026-11-20T03:09:37.000Z"
+      },
+      {
         "time": "18:49",
         "title": "入浴施設で作業 熱中症で男性死亡",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6603197?source=rss",
         "publishedAt": "2026-11-19T10:50:52.000Z"
-      },
-      {
-        "time": "11:51",
-        "title": "ゴミ蓄積の住宅に遺体 一部白骨化",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6603261?source=rss",
-        "publishedAt": "2026-11-20T02:51:31.000Z"
       }
     ],
     "subsidyHeadlines": [
