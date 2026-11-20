@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-20T04:13:30.683Z",
+  "updatedAt": "2026-11-20T04:35:54.849Z",
   "items": [
     {
       "time": "11:24",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "楽天証券へ訴訟準備 1.5万人登録"
     },
     {
-      "time": "11:51",
-      "title": "ゴミ蓄積の住宅に遺体 一部白骨化",
+      "time": "11:48",
+      "title": "H3ロケット打ち上げ 民間移管へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603261?source=rss",
-      "publishedAt": "2026-11-20T02:51:31.000Z",
-      "xQuery": "ゴミ蓄積の住宅に遺体 一部白骨化"
+      "url": "https://news.yahoo.co.jp/pickup/6603260?source=rss",
+      "publishedAt": "2026-11-20T02:48:23.000Z",
+      "xQuery": "H3ロケット打ち上げ 民間移管へ"
     },
     {
-      "time": "12:29",
-      "title": "GMO会見なぜ炎上 識者の指摘3点",
+      "time": "13:32",
+      "title": "ホンダ 新型3列SUVを世界初公開",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603273?source=rss",
-      "publishedAt": "2026-11-20T03:29:11.000Z",
-      "xQuery": "GMO会見なぜ炎上 識者の指摘3点"
+      "url": "https://news.yahoo.co.jp/pickup/6603281?source=rss",
+      "publishedAt": "2026-11-20T04:32:04.000Z",
+      "xQuery": "ホンダ 新型3列SUVを世界初公開"
     }
   ]
 };
