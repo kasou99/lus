@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-20T03:13:24.595Z",
+  "updatedAt": "2026-11-20T03:35:37.424Z",
   "items": [
     {
       "time": "11:24",
@@ -8,6 +8,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6603256?source=rss",
       "publishedAt": "2026-11-20T02:24:51.000Z",
       "xQuery": "米国頼みの高市外交 限界浮き彫り"
+    },
+    {
+      "time": "12:09",
+      "title": "泉佐野市 里親研修参加で手当方針",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603267?source=rss",
+      "publishedAt": "2026-11-20T03:09:37.000Z",
+      "xQuery": "泉佐野市 里親研修参加で手当方針"
     },
     {
       "time": "10:12",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6603261?source=rss",
       "publishedAt": "2026-11-20T02:51:31.000Z",
       "xQuery": "ゴミ蓄積の住宅に遺体 一部白骨化"
-    },
-    {
-      "time": "10:41",
-      "title": "空港で靴磨き 航空会社の元社長",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603252?source=rss",
-      "publishedAt": "2026-11-20T01:41:41.000Z",
-      "xQuery": "空港で靴磨き 航空会社の元社長"
     }
   ]
 };

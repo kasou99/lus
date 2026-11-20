@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T03:13:23.722Z",
+  "updatedAt": "2026-11-20T03:35:36.564Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,11 +17,32 @@
         "publishedAt": "2026-11-20T02:30:27.000Z"
       },
       {
+        "time": "05:00",
+        "title": "ファミマ、飲料補充ロボ 店舗作業時間7割減 AIで売れ筋優先",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9kU05UMEo5T1p3SXV6Z0JBcERzM19fbmJoY2ZRQWJuMHRWcmF0c1BhSmZyTVZWdlppQi1aY2lqVVA3Q3NLQjRpOUxPR2h0YUp6b1oxODM3ckI?oc=5",
+        "publishedAt": "2026-11-19T20:00:00.000Z"
+      },
+      {
         "time": "13:15",
         "title": "工作機械の動きをバーチャルで検証 アイコク アルファ【TECH Biz LIVE!】：ニュース",
         "source": "中日BIZナビ",
         "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBhZUN2XzUzSk01MUpfbFJUMjVCSVlrWHplNHZ6QzBtVzVtOE92SW1Zbm1HbjJ3MGc1VFNVdzdvdVgycW5iZGw0ZEk1YmpBTDVydVhzYWVGZmtkaDBTUjZR?oc=5",
         "publishedAt": "2026-11-19T04:15:00.000Z"
+      },
+      {
+        "time": "05:10",
+        "title": "【製造業向け】AI・自動化・DXの導入事例 全9セッションオンラインカンファレンス「製造業 最新事例サミット」を開催",
+        "source": "Infoseek",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBILVpHcUNKYTl6TGJWSF9ROUMxQngxTWZ5OV9kSktrcUtQTEZRVEFXelhJcU80MFV1Q3hncTFreUNWZ3RlUktaSFUyWURieFZJc0NaWGxwNWJKd1hGNm8yQnh5dzRwV09SQWd2TW5PRmloUQ?oc=5",
+        "publishedAt": "2026-11-19T20:10:02.000Z"
+      },
+      {
+        "time": "00:34",
+        "title": "「K2戦車に似た模型」と頼むと…AI、146秒で設計図完成",
+        "source": "조선일보",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcXIxaHAtbnJWSzZTd1Z1SUNFUEJ2Tnl3d29vVWNXVWlCTG9pY2RvV3dWSXNRaEpxTzV0Wm52TXR1LVdrQlkyTUdDc3VoOUdkaXMyT3RESV9fUHhEMlpTUkNNQllyZ2piR056bjREWU04SmhLNzdvN0pPekFwRDU3RA?oc=5",
+        "publishedAt": "2026-11-19T15:34:00.000Z"
       },
       {
         "time": "13:30",
@@ -36,27 +57,6 @@
         "source": "ニコニコニュース",
         "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE44bHZGZjAyS2tCVmR3a2I1MHpRSEFyQUdmMTU4ekt3YlUxcDIwbFdYRXZZeE53SFdCVzRyaTZLdVFFNklFZ1JnblJsNy1SeDctc2JiclNDRDVWLXdrc3dxMEFsOHZTRWNET0xUR0tJeDZPV1BHemRuUTF0QQ?oc=5",
         "publishedAt": "2026-11-19T04:36:21.000Z"
-      },
-      {
-        "time": "05:00",
-        "title": "ファミマ、飲料補充ロボ 店舗作業時間7割減 AIで売れ筋優先",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9kU05UMEo5T1p3SXV6Z0JBcERzM19fbmJoY2ZRQWJuMHRWcmF0c1BhSmZyTVZWdlppQi1aY2lqVVA3Q3NLQjRpOUxPR2h0YUp6b1oxODM3ckI?oc=5",
-        "publishedAt": "2026-11-19T20:00:00.000Z"
-      },
-      {
-        "time": "12:16",
-        "title": "アナログ・テック、ファンレス産業用PC「AIR-ST-NL-001」の受注受付を開始 ― -20～60℃対応、構成を固定したAironiAシリーズの標準モデル",
-        "source": "ASCII.jp",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5MZnJEbzBtS0VObW00RGs5ekRYajA2SnJzWmo2bHpoR1h5RkJza2NQaHEyZTZaVmdEQjRFdzZibzhaazM0R0gyOTNEdlVUdnhQaE1PNA?oc=5",
-        "publishedAt": "2026-11-19T03:16:04.000Z"
-      },
-      {
-        "time": "06:18",
-        "title": "マクニカが振動センサーによる予知保全を出展。「生産・設備データの可視化・活用」に関する注目の出展企業を紹介【イプロスA",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5nZUVsVTZGVXlfYU9RNWp3WHBiZ2hWRERnREtZNFFxWTQ0NWloQ2h0dXFVc3M5MzkwVXozUEJZU1ZEX3hsTmhlSlVzRzVaSzc3dDNIbDRjX29MMjY1N1BuWG5uOGZrdDRY?oc=5",
-        "publishedAt": "2026-11-19T21:18:38.000Z"
       }
     ],
     "worldHeadlines": [
@@ -119,6 +119,13 @@
         "publishedAt": "2026-11-19T22:36:03.000Z"
       },
       {
+        "time": "12:19",
+        "title": "東海道新幹線 1日で最多504本運行",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6603269?source=rss",
+        "publishedAt": "2026-11-20T03:19:25.000Z"
+      },
+      {
         "time": "11:04",
         "title": "楽天証券の情報流出 遺憾と金融相",
         "source": "Yahoo!ニュース",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6603224?source=rss",
         "publishedAt": "2026-11-19T21:42:41.000Z"
-      },
-      {
-        "time": "09:49",
-        "title": "10月の消費者物価指数 2.2%上昇",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6603241?source=rss",
-        "publishedAt": "2026-11-20T00:49:54.000Z"
       }
     ],
     "localHeadlines": [
