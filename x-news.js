@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-21T08:13:33.177Z",
+  "updatedAt": "2026-11-21T08:35:45.973Z",
   "items": [
     {
       "time": "15:31",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "預金1億円超個人口座 00年比3.6倍"
     },
     {
-      "time": "14:32",
-      "title": "入浴週1回 生活保護男性「惨め」",
+      "time": "17:01",
+      "title": "道路横断中 除雪車にはねられ死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603400?source=rss",
-      "publishedAt": "2026-11-21T05:32:37.000Z",
-      "xQuery": "入浴週1回 生活保護男性「惨め」"
+      "url": "https://news.yahoo.co.jp/pickup/6603423?source=rss",
+      "publishedAt": "2026-11-21T08:01:30.000Z",
+      "xQuery": "道路横断中 除雪車にはねられ死亡"
     }
   ]
 };
