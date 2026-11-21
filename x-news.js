@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-21T11:08:59.248Z",
+  "updatedAt": "2026-11-21T11:35:23.033Z",
   "items": [
     {
       "time": "18:30",
@@ -18,6 +18,14 @@ window.LUS_X_NEWS = {
       "xQuery": "政治家パーティー官僚参加 妥当?"
     },
     {
+      "time": "20:23",
+      "title": "参政・神谷宗幣氏 演説に変化",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603461?source=rss",
+      "publishedAt": "2026-11-21T11:23:52.000Z",
+      "xQuery": "参政・神谷宗幣氏 演説に変化"
+    },
+    {
       "time": "19:21",
       "title": "調理パフォで客やけど 有罪判決",
       "source": "Yahoo!ニュース",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6603448?source=rss",
       "publishedAt": "2026-11-21T09:55:28.000Z",
       "xQuery": "六花亭 クレカ不正利用を1件確認"
-    },
-    {
-      "time": "18:25",
-      "title": "なんちゃって海鮮丼 ドンキ販売へ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603439?source=rss",
-      "publishedAt": "2026-11-21T09:25:03.000Z",
-      "xQuery": "なんちゃって海鮮丼 ドンキ販売へ"
     }
   ]
 };
