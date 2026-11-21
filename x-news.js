@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-21T10:35:31.637Z",
+  "updatedAt": "2026-11-21T11:08:59.248Z",
   "items": [
     {
       "time": "18:30",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "政治家パーティー官僚参加 妥当?"
     },
     {
-      "time": "19:19",
-      "title": "住宅玄関前に赤ちゃんの遺体 捜査",
+      "time": "19:21",
+      "title": "調理パフォで客やけど 有罪判決",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603451?source=rss",
-      "publishedAt": "2026-11-21T10:19:50.000Z",
-      "xQuery": "住宅玄関前に赤ちゃんの遺体 捜査"
+      "url": "https://news.yahoo.co.jp/pickup/6603450?source=rss",
+      "publishedAt": "2026-11-21T10:21:16.000Z",
+      "xQuery": "調理パフォで客やけど 有罪判決"
     },
     {
       "time": "18:55",
