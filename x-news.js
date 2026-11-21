@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-21T01:39:19.459Z",
+  "updatedAt": "2026-11-21T02:14:57.304Z",
   "items": [
     {
       "time": "08:46",
@@ -11,19 +11,19 @@ window.LUS_X_NEWS = {
     },
     {
       "time": "10:04",
+      "title": "正恩氏 トランプ氏本気度に疑心か",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603378?source=rss",
+      "publishedAt": "2026-11-21T01:04:25.000Z",
+      "xQuery": "正恩氏 トランプ氏本気度に疑心か"
+    },
+    {
+      "time": "10:04",
       "title": "ミサイル落下 ポーランドが露非難",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6603377?source=rss",
       "publishedAt": "2026-11-21T01:04:45.000Z",
       "xQuery": "ミサイル落下 ポーランドが露非難"
-    },
-    {
-      "time": "08:53",
-      "title": "兵庫3歳児暴行死 頭部に致命傷か",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603367?source=rss",
-      "publishedAt": "2026-11-20T23:53:27.000Z",
-      "xQuery": "兵庫3歳児暴行死 頭部に致命傷か"
     },
     {
       "time": "10:20",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "大型物流倉庫で火事 三郷JCT付近"
     },
     {
-      "time": "07:51",
-      "title": "「リーマン予想」生成AIが証明か",
+      "time": "10:20",
+      "title": "なぜ実家暮らし 40代未婚者の答え",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603360?source=rss",
-      "publishedAt": "2026-11-20T22:51:15.000Z",
-      "xQuery": "「リーマン予想」生成AIが証明か"
+      "url": "https://news.yahoo.co.jp/pickup/6603379?source=rss",
+      "publishedAt": "2026-11-21T01:20:54.000Z",
+      "xQuery": "なぜ実家暮らし 40代未婚者の答え"
     }
   ]
 };
