@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-21T09:35:28.179Z",
+  "updatedAt": "2026-11-21T10:09:49.861Z",
   "items": [
     {
       "time": "18:30",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "愛知強殺未遂 関与疑い生徒の父涙"
     },
     {
-      "time": "15:28",
-      "title": "店の「食べ放題」巡り物議 法解説",
+      "time": "18:55",
+      "title": "六花亭 クレカ不正利用を1件確認",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603408?source=rss",
-      "publishedAt": "2026-11-21T06:28:43.000Z",
-      "xQuery": "店の「食べ放題」巡り物議 法解説"
+      "url": "https://news.yahoo.co.jp/pickup/6603448?source=rss",
+      "publishedAt": "2026-11-21T09:55:28.000Z",
+      "xQuery": "六花亭 クレカ不正利用を1件確認"
     },
     {
       "time": "18:25",
