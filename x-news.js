@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-21T07:11:10.251Z",
+  "updatedAt": "2026-11-21T07:35:28.990Z",
   "items": [
     {
       "time": "15:31",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "デンマークで暗殺阻止 露が計画か"
     },
     {
-      "time": "11:06",
-      "title": "執行中に死刑囚が激痛訴える 米",
+      "time": "14:59",
+      "title": "中国人遭難で「懸賞金」県の懸念",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603384?source=rss",
-      "publishedAt": "2026-11-21T02:06:22.000Z",
-      "xQuery": "執行中に死刑囚が激痛訴える 米"
+      "url": "https://news.yahoo.co.jp/pickup/6603405?source=rss",
+      "publishedAt": "2026-11-21T05:59:37.000Z",
+      "xQuery": "中国人遭難で「懸賞金」県の懸念"
     }
   ]
 };

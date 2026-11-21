@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T07:11:09.426Z",
+  "updatedAt": "2026-11-21T07:35:27.815Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -24,13 +24,6 @@
         "publishedAt": "2026-11-21T00:00:32.000Z"
       },
       {
-        "time": "11:29",
-        "title": "日本産業用ベアリング市場、2035年までに212.6億米ドル規模へ成長、CAGR 4.16％が示す産業機械・ロボット需要の新たな展開",
-        "source": "Newscast.jp",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9EU1REc3R5cTlLMml6UVFTU0xYMXBwSmlPLW1tREtnWlBDSFJyLXJIQVhxdDd0ZGFqbi1sRjR3T2Fsb2JUeExiWUJQeTVRZlE?oc=5",
-        "publishedAt": "2026-11-21T02:29:00.000Z"
-      },
-      {
         "time": "04:00",
         "title": "双葉電子工業の「プリセットを用いたサーボモータ通信時間短縮方法」（特許第7715700号）が令和8年度",
         "source": "ニコニコニュース",
@@ -45,18 +38,25 @@
         "publishedAt": "2026-11-20T13:10:00.000Z"
       },
       {
+        "time": "16:35",
+        "title": "株式会社設備保全総合研究所のEMLinkモバイルアプリが手書き点検入力を革新する機能を追加",
+        "source": "ニュースメディアVOIX",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBHR2dEQzcwOGE2U3VNWlRRNWMwWmtzNzVIMlVaclRPOVN6MVRFMm9YUExjY3NJY0w0NG04UmFrSmFtRmVraFA2ZERRd01QMlVBZ25qVXkxRU5rdTlIUFRMZHpWVjdmZw?oc=5",
+        "publishedAt": "2026-11-20T07:35:40.000Z"
+      },
+      {
+        "time": "11:29",
+        "title": "日本産業用ベアリング市場、2035年までに212.6億米ドル規模へ成長、CAGR 4.16％が示す産業機械・ロボット需要の新たな展開",
+        "source": "Newscast.jp",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9EU1REc3R5cTlLMml6UVFTU0xYMXBwSmlPLW1tREtnWlBDSFJyLXJIQVhxdDd0ZGFqbi1sRjR3T2Fsb2JUeExiWUJQeTVRZlE?oc=5",
+        "publishedAt": "2026-11-21T02:29:00.000Z"
+      },
+      {
         "time": "13:30",
         "title": "パワースカイビングカッターの世界市場（2026年～2032年）、市場規模（300mm以下、300～600mm、600mm超）・分析レポートを発表",
         "source": "Newscast.jp",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAyYkdtSmxGRFFYNnVvUE80djJibkVvTFFEVXFaNExrOHhZY2xDMnoyUWVJR2dacjExQWc0TWowTE5mMmRNel9yTUZrUzZsMEU?oc=5",
         "publishedAt": "2026-11-21T04:30:00.000Z"
-      },
-      {
-        "time": "00:25",
-        "title": "-40～75℃の過酷環境でも安定動作する、省スペース・コンパクト設計の産業用ギガビットハブを発売",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBmNDhMSzJrTGNpVUhhd2lJWnpFdnN1U0dRZE40UXdGclY2OFNwbnVfVDhjdWhGaEJjQ1dvNWhMNE9nemRPYXZNZjJPR1BxLVlZa1Z4T1lKQkRVQmZLT3pJajFwZk1tTmM0aFFkLQ?oc=5",
-        "publishedAt": "2026-11-20T15:25:35.000Z"
       }
     ],
     "worldHeadlines": [
@@ -119,6 +119,13 @@
         "publishedAt": "2026-11-20T14:58:48.000Z"
       },
       {
+        "time": "16:27",
+        "title": "預金1億円超個人口座 00年比3.6倍",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6603415?source=rss",
+        "publishedAt": "2026-11-21T07:27:49.000Z"
+      },
+      {
         "time": "19:35",
         "title": "ココイチ売却 米KKRに優先交渉権",
         "source": "Yahoo!ニュース",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6603374?source=rss",
         "publishedAt": "2026-11-21T00:44:43.000Z"
-      },
-      {
-        "time": "15:28",
-        "title": "店の「食べ放題」巡り物議 法解説",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6603408?source=rss",
-        "publishedAt": "2026-11-21T06:28:43.000Z"
       }
     ],
     "localHeadlines": [
