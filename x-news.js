@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-21T11:35:23.033Z",
+  "updatedAt": "2026-11-21T12:15:26.244Z",
   "items": [
     {
-      "time": "18:30",
-      "title": "米中露がICC非難 トランプ氏強調",
+      "time": "18:51",
+      "title": "東北や北陸の山で積雪増へ 注意",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603442?source=rss",
-      "publishedAt": "2026-11-21T09:30:46.000Z",
-      "xQuery": "米中露がICC非難 トランプ氏強調"
+      "url": "https://news.yahoo.co.jp/pickup/6603445?source=rss",
+      "publishedAt": "2026-11-21T09:51:04.000Z",
+      "xQuery": "東北や北陸の山で積雪増へ 注意"
     },
     {
       "time": "19:00",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "参政・神谷宗幣氏 演説に変化"
     },
     {
-      "time": "19:21",
-      "title": "調理パフォで客やけど 有罪判決",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603450?source=rss",
-      "publishedAt": "2026-11-21T10:21:16.000Z",
-      "xQuery": "調理パフォで客やけど 有罪判決"
-    },
-    {
       "time": "18:55",
       "title": "六花亭 クレカ不正利用を1件確認",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6603448?source=rss",
       "publishedAt": "2026-11-21T09:55:28.000Z",
       "xQuery": "六花亭 クレカ不正利用を1件確認"
+    },
+    {
+      "time": "20:51",
+      "title": "夫が酒飲み暴力 謝罪も妻は許せず",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603465?source=rss",
+      "publishedAt": "2026-11-21T11:51:29.000Z",
+      "xQuery": "夫が酒飲み暴力 謝罪も妻は許せず"
     }
   ]
 };

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T11:35:21.454Z",
+  "updatedAt": "2026-11-21T12:15:25.647Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -24,13 +24,6 @@
         "publishedAt": "2026-11-21T00:00:32.000Z"
       },
       {
-        "time": "11:29",
-        "title": "日本産業用ベアリング市場、2035年までに212.6億米ドル規模へ成長、CAGR 4.16％が示す産業機械・ロボット需要の新たな展開",
-        "source": "Newscast.jp",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9EU1REc3R5cTlLMml6UVFTU0xYMXBwSmlPLW1tREtnWlBDSFJyLXJIQVhxdDd0ZGFqbi1sRjR3T2Fsb2JUeExiWUJQeTVRZlE?oc=5",
-        "publishedAt": "2026-11-21T02:29:00.000Z"
-      },
-      {
         "time": "04:00",
         "title": "双葉電子工業の「プリセットを用いたサーボモータ通信時間短縮方法」（特許第7715700号）が令和8年度",
         "source": "ニコニコニュース",
@@ -52,6 +45,13 @@
         "publishedAt": "2026-11-21T00:00:32.000Z"
       },
       {
+        "time": "11:29",
+        "title": "日本産業用ベアリング市場、2035年までに212.6億米ドル規模へ成長、CAGR 4.16％が示す産業機械・ロボット需要の新たな展開",
+        "source": "Newscast.jp",
+        "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE00QW9jQ0VGRDdTLUJBSnFLb2hYZTctV3VsRmFCYXF0TDNvNllVMXJ5Y1IwcExWMkZIYlN5OV9vVEFyTVRKQmZj?oc=5",
+        "publishedAt": "2026-11-21T02:29:00.000Z"
+      },
+      {
         "time": "17:00",
         "title": "歯車製造する複合加工機 新開発 主力旋盤ベースに機能強化 ＴＡＫＩＳＡＷＡ",
         "source": "山陽新聞",
@@ -68,6 +68,13 @@
         "publishedAt": "2026-11-21T09:30:46.000Z"
       },
       {
+        "time": "20:51",
+        "title": "ゼレンスキー氏 露大統領は人殺し",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6603464?source=rss",
+        "publishedAt": "2026-11-21T11:51:20.000Z"
+      },
+      {
         "time": "10:04",
         "title": "正恩氏 トランプ氏本気度に疑心か",
         "source": "Yahoo!ニュース",
@@ -80,13 +87,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6603377?source=rss",
         "publishedAt": "2026-11-21T01:04:45.000Z"
-      },
-      {
-        "time": "17:31",
-        "title": "上海で邦人死亡 別の邦人を拘束",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6603308?source=rss",
-        "publishedAt": "2026-11-20T08:31:46.000Z"
       },
       {
         "time": "14:47",
