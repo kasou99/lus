@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-21T10:09:49.861Z",
+  "updatedAt": "2026-11-21T10:35:31.637Z",
   "items": [
     {
       "time": "18:30",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "米中露がICC非難 トランプ氏強調"
     },
     {
-      "time": "17:23",
-      "title": "政府広報なぜ「都市伝説系」起用",
+      "time": "19:00",
+      "title": "政治家パーティー官僚参加 妥当?",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603426?source=rss",
-      "publishedAt": "2026-11-21T08:23:53.000Z",
-      "xQuery": "政府広報なぜ「都市伝説系」起用"
+      "url": "https://news.yahoo.co.jp/pickup/6603447?source=rss",
+      "publishedAt": "2026-11-21T10:00:14.000Z",
+      "xQuery": "政治家パーティー官僚参加 妥当?"
     },
     {
-      "time": "18:05",
-      "title": "愛知強殺未遂 関与疑い生徒の父涙",
+      "time": "19:19",
+      "title": "住宅玄関前に赤ちゃんの遺体 捜査",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603436?source=rss",
-      "publishedAt": "2026-11-21T09:05:12.000Z",
-      "xQuery": "愛知強殺未遂 関与疑い生徒の父涙"
+      "url": "https://news.yahoo.co.jp/pickup/6603451?source=rss",
+      "publishedAt": "2026-11-21T10:19:50.000Z",
+      "xQuery": "住宅玄関前に赤ちゃんの遺体 捜査"
     },
     {
       "time": "18:55",

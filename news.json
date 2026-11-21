@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T10:09:49.362Z",
+  "updatedAt": "2026-11-21T10:35:31.064Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -156,6 +156,13 @@
         "publishedAt": "2026-11-21T06:14:38.000Z"
       },
       {
+        "time": "19:19",
+        "title": "住宅玄関前に赤ちゃんの遺体 捜査",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6603451?source=rss",
+        "publishedAt": "2026-11-21T10:19:50.000Z"
+      },
+      {
         "time": "18:05",
         "title": "愛知強殺未遂 関与疑い生徒の父涙",
         "source": "Yahoo!ニュース",
@@ -177,18 +184,11 @@
         "publishedAt": "2026-11-21T08:01:30.000Z"
       },
       {
-        "time": "19:13",
-        "title": "横浜市長 市長公舎の廃止方針表明",
+        "time": "19:21",
+        "title": "調理パフォで客やけど 有罪判決",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6603326?source=rss",
-        "publishedAt": "2026-11-20T10:13:05.000Z"
-      },
-      {
-        "time": "14:59",
-        "title": "中国人遭難で「懸賞金」県の懸念",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6603405?source=rss",
-        "publishedAt": "2026-11-21T05:59:37.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6603450?source=rss",
+        "publishedAt": "2026-11-21T10:21:16.000Z"
       }
     ],
     "subsidyHeadlines": [
