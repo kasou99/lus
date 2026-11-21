@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-21T13:35:16.706Z",
+  "updatedAt": "2026-11-21T14:09:42.887Z",
   "items": [
     {
       "time": "21:19",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "ゼレンスキー氏 露大統領は人殺し"
     },
     {
-      "time": "18:55",
-      "title": "六花亭 クレカ不正利用を1件確認",
+      "time": "22:43",
+      "title": "金塊20kgなど盗まれる 兵庫の住宅",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603448?source=rss",
-      "publishedAt": "2026-11-21T09:55:28.000Z",
-      "xQuery": "六花亭 クレカ不正利用を1件確認"
+      "url": "https://news.yahoo.co.jp/pickup/6603477?source=rss",
+      "publishedAt": "2026-11-21T13:43:07.000Z",
+      "xQuery": "金塊20kgなど盗まれる 兵庫の住宅"
     },
     {
-      "time": "21:08",
-      "title": "東大志望者が大幅増 27年入試予測",
+      "time": "17:01",
+      "title": "幻の植物の新種 ミャンマーで発見",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603468?source=rss",
-      "publishedAt": "2026-11-21T12:08:26.000Z",
-      "xQuery": "東大志望者が大幅増 27年入試予測"
+      "url": "https://news.yahoo.co.jp/pickup/6603422?source=rss",
+      "publishedAt": "2026-11-21T08:01:07.000Z",
+      "xQuery": "幻の植物の新種 ミャンマーで発見"
     }
   ]
 };
