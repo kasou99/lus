@@ -1,21 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-21T14:35:03.405Z",
+  "updatedAt": "2026-11-21T15:09:11.737Z",
   "items": [
     {
-      "time": "21:19",
-      "title": "統一選で自民系推薦せず 公明方針",
+      "time": "21:22",
+      "title": "防衛費巡る財務省案 議論が過熱",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603469?source=rss",
-      "publishedAt": "2026-11-21T12:19:34.000Z",
-      "xQuery": "統一選で自民系推薦せず 公明方針"
-    },
-    {
-      "time": "21:46",
-      "title": "大雪影響で約1500人孤立状態 福島",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603473?source=rss",
-      "publishedAt": "2026-11-21T12:46:43.000Z",
-      "xQuery": "大雪影響で約1500人孤立状態 福島"
+      "url": "https://news.yahoo.co.jp/pickup/6603470?source=rss",
+      "publishedAt": "2026-11-21T12:22:25.000Z",
+      "xQuery": "防衛費巡る財務省案 議論が過熱"
     },
     {
       "time": "20:51",
@@ -26,20 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "ゼレンスキー氏 露大統領は人殺し"
     },
     {
+      "time": "23:11",
+      "title": "危険運転で婚約者犠牲 にじむ無念",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603481?source=rss",
+      "publishedAt": "2026-11-21T14:11:49.000Z",
+      "xQuery": "危険運転で婚約者犠牲 にじむ無念"
+    },
+    {
+      "time": "23:41",
+      "title": "LED信号機に弱点 発熱少なく着雪",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603485?source=rss",
+      "publishedAt": "2026-11-21T14:41:24.000Z",
+      "xQuery": "LED信号機に弱点 発熱少なく着雪"
+    },
+    {
       "time": "22:43",
       "title": "金塊20kgなど盗まれる 兵庫の住宅",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6603477?source=rss",
       "publishedAt": "2026-11-21T13:43:07.000Z",
       "xQuery": "金塊20kgなど盗まれる 兵庫の住宅"
-    },
-    {
-      "time": "23:26",
-      "title": "推薦入試 不合格者に1秒間誤通知",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603483?source=rss",
-      "publishedAt": "2026-11-21T14:26:52.000Z",
-      "xQuery": "推薦入試 不合格者に1秒間誤通知"
     }
   ]
 };
