@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-11-21T03:36:02.146Z",
+  "updatedAt": "2026-11-21T04:12:57.654Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "09:00",
+        "title": "工作機械受注が示す日本株と世界経済 高水準維持も伸び率拡大の局面は終了か（TBS CROSS DIG with Bloomberg）",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1vNnFydVVZbDFKUEpsRUtqLUdXcGdvWmgyWWpZOGE5RFhPbFluMmRia3JsY3Nnek4zQ0hRY0k5V2tzMnhFR09PZC1ySlJKQ2lFbzRyRWVIcjg3ODF1UDJISEtRZDJlZ0NzNGRFR1hSSUk5RkxJWTNEbW80bmtrZzg?oc=5",
+        "publishedAt": "2026-11-21T00:00:32.000Z"
+      },
       {
         "time": "09:25",
         "title": "工作機械受注、10月は前年比42.5％増 伸び率は2カ月連続で縮小",
@@ -15,13 +22,6 @@
         "source": "TBS NEWS DIG",
         "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1UWWhrVVdmamw5eWtwQTlBU0xNOHVIOVpiTW05QWhoMTJTeWZmUTFRNGhCMWRPQzRnSUc3ZlRyd2ptN3IzWHotR3JXNEFDNXY4bGlyTmFWMm5ORTVORGVBY3lOUHJjVTg?oc=5",
         "publishedAt": "2026-11-21T00:00:00.000Z"
-      },
-      {
-        "time": "09:00",
-        "title": "工作機械受注が示す日本株と世界経済 高水準維持も伸び率拡大の局面は終了か（TBS CROSS DIG with Bloomberg）",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1vNnFydVVZbDFKUEpsRUtqLUdXcGdvWmgyWWpZOGE5RFhPbFluMmRia3JsY3Nnek4zQ0hRY0k5V2tzMnhFR09PZC1ySlJKQ2lFbzRyRWVIcjg3ODF1UDJISEtRZDJlZ0NzNGRFR1hSSUk5RkxJWTNEbW80bmtrZzg?oc=5",
-        "publishedAt": "2026-11-21T00:00:32.000Z"
       },
       {
         "time": "16:10",
@@ -38,6 +38,13 @@
         "publishedAt": "2026-11-21T02:29:00.000Z"
       },
       {
+        "time": "16:04",
+        "title": "歯車製造する複合加工機 新開発 主力旋盤ベースに機能強化 ＴＡＫＩＳＡＷＡ",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1KSjZPZWk3RHhwZmMteVVrSHY3VU9hbGg3WHQ1WHdtNUVRVlJNdWNsYVBITW1HanZoQVJPenlzbWlJQ3Y4cE9TdzBYVjd6RzlIZUE?oc=5",
+        "publishedAt": "2026-11-20T07:04:08.000Z"
+      },
+      {
         "time": "15:00",
         "title": "双葉電子工業の「プリセットを用いたサーボモータ通信時間短縮方法」（特許第7715700号）が令和8年度 関東地方発明表彰「発明奨励賞」を受賞",
         "source": "PR TIMES",
@@ -45,18 +52,11 @@
         "publishedAt": "2026-11-20T06:00:02.000Z"
       },
       {
-        "time": "13:00",
-        "title": "中径ワイヤー切断工作機械の世界市場（2026年～2032年）、市場規模（フラッシュ、浸漬）・分析レポートを発表",
-        "source": "Newscast.jp",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE80SDN1ZXRRRzdwX2VrT1V3b05ENjVfbzJkUUYwM3B0MXFfVy03Yk9fVTRvYnlCZzZnVndSSy1fOEloZk5feFdEa2NkMjZKdDQ?oc=5",
-        "publishedAt": "2026-11-20T04:00:00.000Z"
-      },
-      {
-        "time": "14:40",
-        "title": "エコスタイル、低圧系統用蓄電所の部材をパッケージ提供 - ニュース - メガソーラービジネス plus",
-        "source": "日経BP",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9GUmtmaVRZbzJBek5TX2VLVXlST1IyUUxNVlBrbElmTXo0cEFmRGxVUTZuRVhmRnpQelJxV056Z2VDcm9hck9aMmJPQUlsN2tuQk9lQWZockxXV3lxbGF3aWlTZ3IybUV2ay1KcWFzN21pNm1G?oc=5",
-        "publishedAt": "2026-11-20T05:40:00.000Z"
+        "time": "06:15",
+        "title": "「サニックスCup国際新体操団体選手権2026」開催",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Vb1RHRm1XSHV3dWJINjJqSDc0WjBmZ2pDTTJOSDNSQzFUMkJmZllQYXlOOEJuanBuUGJHbHI2VjBsODluYkpnLXZkSHZkYTBua24yek1RQ3hlWjl5STdFVmdpalFSTktn?oc=5",
+        "publishedAt": "2026-11-20T21:15:27.000Z"
       }
     ],
     "worldHeadlines": [
@@ -177,18 +177,18 @@
         "publishedAt": "2026-11-20T10:13:05.000Z"
       },
       {
-        "time": "15:43",
-        "title": "横浜市長の家賃42万円 9割市負担",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6603295?source=rss",
-        "publishedAt": "2026-11-20T06:43:44.000Z"
-      },
-      {
         "time": "22:18",
         "title": "神戸市 マンション空室税の条例案",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6603341?source=rss",
         "publishedAt": "2026-11-20T13:18:38.000Z"
+      },
+      {
+        "time": "08:53",
+        "title": "兵庫3歳児暴行死 頭部に致命傷か",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6603367?source=rss",
+        "publishedAt": "2026-11-20T23:53:27.000Z"
       }
     ],
     "subsidyHeadlines": [
