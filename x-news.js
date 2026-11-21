@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-21T22:09:21.470Z",
+  "updatedAt": "2026-11-21T22:35:11.840Z",
   "items": [
     {
       "time": "21:22",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "防衛費巡る財務省案 議論が過熱"
     },
     {
-      "time": "20:51",
-      "title": "ゼレンスキー氏 露大統領は人殺し",
+      "time": "23:41",
+      "title": "LED信号機に弱点 発熱少なく着雪",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603464?source=rss",
-      "publishedAt": "2026-11-21T11:51:20.000Z",
-      "xQuery": "ゼレンスキー氏 露大統領は人殺し"
+      "url": "https://news.yahoo.co.jp/pickup/6603485?source=rss",
+      "publishedAt": "2026-11-21T14:41:24.000Z",
+      "xQuery": "LED信号機に弱点 発熱少なく着雪"
     },
     {
       "time": "23:11",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "危険運転で婚約者犠牲 にじむ無念"
     },
     {
-      "time": "23:41",
-      "title": "LED信号機に弱点 発熱少なく着雪",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603485?source=rss",
-      "publishedAt": "2026-11-21T14:41:24.000Z",
-      "xQuery": "LED信号機に弱点 発熱少なく着雪"
-    },
-    {
       "time": "22:43",
       "title": "金塊20kgなど盗まれる 兵庫の住宅",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6603477?source=rss",
       "publishedAt": "2026-11-21T13:43:07.000Z",
       "xQuery": "金塊20kgなど盗まれる 兵庫の住宅"
+    },
+    {
+      "time": "23:26",
+      "title": "推薦入試 不合格者に1秒間誤通知",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603483?source=rss",
+      "publishedAt": "2026-11-21T14:26:52.000Z",
+      "xQuery": "推薦入試 不合格者に1秒間誤通知"
     }
   ]
 };
