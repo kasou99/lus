@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-21T04:12:58.654Z",
+  "updatedAt": "2026-11-21T04:35:43.496Z",
   "items": [
+    {
+      "time": "13:21",
+      "title": "相次ぐ虐待死事件 なぜ防げない",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603393?source=rss",
+      "publishedAt": "2026-11-21T04:21:09.000Z",
+      "xQuery": "相次ぐ虐待死事件 なぜ防げない"
+    },
     {
       "time": "10:04",
       "title": "正恩氏 トランプ氏本気度に疑心か",
@@ -8,14 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6603378?source=rss",
       "publishedAt": "2026-11-21T01:04:25.000Z",
       "xQuery": "正恩氏 トランプ氏本気度に疑心か"
-    },
-    {
-      "time": "11:01",
-      "title": "スタック車 ほぼノーマルタイヤか",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603383?source=rss",
-      "publishedAt": "2026-11-21T02:01:19.000Z",
-      "xQuery": "スタック車 ほぼノーマルタイヤか"
     },
     {
       "time": "12:21",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "硫黄島沖に新陸地 国土増えるのか"
     },
     {
+      "time": "11:01",
+      "title": "スタック車 ほぼノーマルタイヤか",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603383?source=rss",
+      "publishedAt": "2026-11-21T02:01:19.000Z",
+      "xQuery": "スタック車 ほぼノーマルタイヤか"
+    },
+    {
       "time": "11:06",
       "title": "執行中に死刑囚が激痛訴える 米",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6603384?source=rss",
       "publishedAt": "2026-11-21T02:06:22.000Z",
       "xQuery": "執行中に死刑囚が激痛訴える 米"
-    },
-    {
-      "time": "11:57",
-      "title": "特急と立ち往生の車が衝突 東武",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603388?source=rss",
-      "publishedAt": "2026-11-21T02:57:12.000Z",
-      "xQuery": "特急と立ち往生の車が衝突 東武"
     }
   ]
 };

@@ -1,14 +1,7 @@
 {
-  "updatedAt": "2026-11-21T04:12:57.654Z",
+  "updatedAt": "2026-11-21T04:35:43.072Z",
   "groups": {
     "machineHeadlines": [
-      {
-        "time": "09:00",
-        "title": "工作機械受注が示す日本株と世界経済 高水準維持も伸び率拡大の局面は終了か（TBS CROSS DIG with Bloomberg）",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1vNnFydVVZbDFKUEpsRUtqLUdXcGdvWmgyWWpZOGE5RFhPbFluMmRia3JsY3Nnek4zQ0hRY0k5V2tzMnhFR09PZC1ySlJKQ2lFbzRyRWVIcjg3ODF1UDJISEtRZDJlZ0NzNGRFR1hSSUk5RkxJWTNEbW80bmtrZzg?oc=5",
-        "publishedAt": "2026-11-21T00:00:32.000Z"
-      },
       {
         "time": "09:25",
         "title": "工作機械受注、10月は前年比42.5％増 伸び率は2カ月連続で縮小",
@@ -22,6 +15,13 @@
         "source": "TBS NEWS DIG",
         "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1UWWhrVVdmamw5eWtwQTlBU0xNOHVIOVpiTW05QWhoMTJTeWZmUTFRNGhCMWRPQzRnSUc3ZlRyd2ptN3IzWHotR3JXNEFDNXY4bGlyTmFWMm5ORTVORGVBY3lOUHJjVTg?oc=5",
         "publishedAt": "2026-11-21T00:00:00.000Z"
+      },
+      {
+        "time": "09:00",
+        "title": "工作機械受注が示す日本株と世界経済 高水準維持も伸び率拡大の局面は終了か（TBS CROSS DIG with Bloomberg）",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1vNnFydVVZbDFKUEpsRUtqLUdXcGdvWmgyWWpZOGE5RFhPbFluMmRia3JsY3Nnek4zQ0hRY0k5V2tzMnhFR09PZC1ySlJKQ2lFbzRyRWVIcjg3ODF1UDJISEtRZDJlZ0NzNGRFR1hSSUk5RkxJWTNEbW80bmtrZzg?oc=5",
+        "publishedAt": "2026-11-21T00:00:32.000Z"
       },
       {
         "time": "16:10",
@@ -38,6 +38,13 @@
         "publishedAt": "2026-11-21T02:29:00.000Z"
       },
       {
+        "time": "22:10",
+        "title": "AI統合型設備保全クラウド『EMLink』のモバイルアプリ、手書きの点検表を撮るだけで結果を入力 ― ローカルLLMで音声・写真・テキストのマルチモーダルに完全対応",
+        "source": "Excite エキサイト",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5IMk1SbER6QVhLVzRxcmZ2OE9CY0RmZVJYT0wxaFYzcDhjcVZIOGpIRDFfbVFEX3N0N3ZFeEVuOUhUQmxGalNhWUVmazUzaDZ5amtxMTBZMTQ4cTdzd2UxUm1NYmxjaGpOcHlsQUNNQUJCbE9S?oc=5",
+        "publishedAt": "2026-11-20T13:10:00.000Z"
+      },
+      {
         "time": "16:04",
         "title": "歯車製造する複合加工機 新開発 主力旋盤ベースに機能強化 ＴＡＫＩＳＡＷＡ",
         "source": "山陽新聞",
@@ -50,13 +57,6 @@
         "source": "PR TIMES",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9LWGYtRXVSYXdrdDZJbUM3dlNXeTQzbG5MWFJDb25aZGExZ3RiaTJreUxmUlppendSS2tLbDR5VEwybVBQRW92ckF3Yk5XR2duY1FvYWhnczlFenk4N3pDelI3MGpZa2pBSnc?oc=5",
         "publishedAt": "2026-11-20T06:00:02.000Z"
-      },
-      {
-        "time": "06:15",
-        "title": "「サニックスCup国際新体操団体選手権2026」開催",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Vb1RHRm1XSHV3dWJINjJqSDc0WjBmZ2pDTTJOSDNSQzFUMkJmZllQYXlOOEJuanBuUGJHbHI2VjBsODluYkpnLXZkSHZkYTBua24yek1RQ3hlWjl5STdFVmdpalFSTktn?oc=5",
-        "publishedAt": "2026-11-20T21:15:27.000Z"
       }
     ],
     "worldHeadlines": [
