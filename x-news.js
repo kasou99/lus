@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-21T09:11:20.575Z",
+  "updatedAt": "2026-11-21T09:35:28.179Z",
   "items": [
+    {
+      "time": "18:30",
+      "title": "米中露がICC非難 トランプ氏強調",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603442?source=rss",
+      "publishedAt": "2026-11-21T09:30:46.000Z",
+      "xQuery": "米中露がICC非難 トランプ氏強調"
+    },
     {
       "time": "17:23",
       "title": "政府広報なぜ「都市伝説系」起用",
@@ -10,36 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "政府広報なぜ「都市伝説系」起用"
     },
     {
-      "time": "15:14",
-      "title": "大雪影響で千人超が孤立状態 福島",
+      "time": "18:05",
+      "title": "愛知強殺未遂 関与疑い生徒の父涙",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603404?source=rss",
-      "publishedAt": "2026-11-21T06:14:38.000Z",
-      "xQuery": "大雪影響で千人超が孤立状態 福島"
+      "url": "https://news.yahoo.co.jp/pickup/6603436?source=rss",
+      "publishedAt": "2026-11-21T09:05:12.000Z",
+      "xQuery": "愛知強殺未遂 関与疑い生徒の父涙"
     },
     {
-      "time": "14:47",
-      "title": "デンマークで暗殺阻止 露が計画か",
+      "time": "15:28",
+      "title": "店の「食べ放題」巡り物議 法解説",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603402?source=rss",
-      "publishedAt": "2026-11-21T05:47:10.000Z",
-      "xQuery": "デンマークで暗殺阻止 露が計画か"
+      "url": "https://news.yahoo.co.jp/pickup/6603408?source=rss",
+      "publishedAt": "2026-11-21T06:28:43.000Z",
+      "xQuery": "店の「食べ放題」巡り物議 法解説"
     },
     {
-      "time": "17:01",
-      "title": "道路横断中 除雪車にはねられ死亡",
+      "time": "18:25",
+      "title": "なんちゃって海鮮丼 ドンキ販売へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603423?source=rss",
-      "publishedAt": "2026-11-21T08:01:30.000Z",
-      "xQuery": "道路横断中 除雪車にはねられ死亡"
-    },
-    {
-      "time": "14:32",
-      "title": "入浴週1回 生活保護男性「惨め」",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603400?source=rss",
-      "publishedAt": "2026-11-21T05:32:37.000Z",
-      "xQuery": "入浴週1回 生活保護男性「惨め」"
+      "url": "https://news.yahoo.co.jp/pickup/6603439?source=rss",
+      "publishedAt": "2026-11-21T09:25:03.000Z",
+      "xQuery": "なんちゃって海鮮丼 ドンキ販売へ"
     }
   ]
 };

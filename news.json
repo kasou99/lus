@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-11-21T09:11:19.829Z",
+  "updatedAt": "2026-11-21T09:35:27.173Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "16:31",
+        "title": "工作機械受注が示す日本株と世界経済 高水準維持も伸び率拡大の局面は終了か",
+        "source": "TBS NEWS DIG",
+        "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQRk96LXpZWDF5b3daUWx1bnAxbWhWWnB4bzN3OEh3UjNVMEVUV1hjTFBITXNDei1UTDdXUHJZclZ3WG9feWl0N01tbUp3S1VnUHI0T2RzT3hNZUc4RHdqNWhZeGdzZ2N1ZGNMSE9aYkN1Vmx2ZUtsVjludnVSelFHWGx0NnAySVExbUR0N2xDU3hrNnl1Z1VkeFA4c25yMFNlNjRZMkRfdVRPMEUweG5XNzBQZHJkb1VrWVB4NGJodUYxVEQ0bWVTVGJBZ0k1ZmctMUJjZnNER25oMVFDUFhYTFRpODhzRWl4V21HSW5TZkJWUE1pMVdNOXFHYlJaNWR4SGJqZ0h3cTU?oc=5",
+        "publishedAt": "2026-11-21T07:31:34.000Z"
+      },
       {
         "time": "09:25",
         "title": "工作機械受注、10月は前年比42.5％増 伸び率は2カ月連続で縮小",
         "source": "BigGo ファイナンス",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1xT0FHT0o3U1hFMkdiZXpRZHJvM0tQY2FlV2pDNHJaMkxrd0Q3elJsQi1lWmlBTExkSWE1TlhzbTdQNklSLVZOYzhzdmhDNTlJX3FzMk9ISFlIT0ZCM1lPR29JTzRnNUdDUlFIektxNU0yVFR5?oc=5",
         "publishedAt": "2026-11-21T00:25:00.000Z"
-      },
-      {
-        "time": "09:00",
-        "title": "工作機械受注が示す日本株と世界経済 高水準維持も伸び率拡大の局面は終了か",
-        "source": "TBS NEWS DIG",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1UWWhrVVdmamw5eWtwQTlBU0xNOHVIOVpiTW05QWhoMTJTeWZmUTFRNGhCMWRPQzRnSUc3ZlRyd2ptN3IzWHotR3JXNEFDNXY4bGlyTmFWMm5ORTVORGVBY3lOUHJjVTg?oc=5",
-        "publishedAt": "2026-11-21T00:00:00.000Z"
       },
       {
         "time": "09:00",
@@ -52,14 +52,21 @@
         "publishedAt": "2026-11-21T00:00:32.000Z"
       },
       {
-        "time": "13:30",
-        "title": "パワースカイビングカッターの世界市場（2026年～2032年）、市場規模（300mm以下、300～600mm、600mm超）・分析レポートを発表",
-        "source": "Newscast.jp",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAyYkdtSmxGRFFYNnVvUE80djJibkVvTFFEVXFaNExrOHhZY2xDMnoyUWVJR2dacjExQWc0TWowTE5mMmRNel9yTUZrUzZsMEU?oc=5",
-        "publishedAt": "2026-11-21T04:30:00.000Z"
+        "time": "17:37",
+        "title": "歯車製造する複合加工機 新開発 主力旋盤ベースに機能強化 ＴＡＫＩＳＡＷＡ",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1yV3lQNm9BT1E5d21SNWM0ZVFmY3VUVHRUSUhNU1hxbUZLcGJaNDg0dUlwQTVFV0dHa1A5SDloQXR6aEwzem9VdzFXckFfQ00wMWhqbW5rZUpvX2NISVZUTUZlWlZFTUxt?oc=5",
+        "publishedAt": "2026-11-21T08:37:35.000Z"
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "18:30",
+        "title": "米中露がICC非難 トランプ氏強調",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6603442?source=rss",
+        "publishedAt": "2026-11-21T09:30:46.000Z"
+      },
       {
         "time": "10:04",
         "title": "正恩氏 トランプ氏本気度に疑心か",
@@ -73,13 +80,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6603377?source=rss",
         "publishedAt": "2026-11-21T01:04:45.000Z"
-      },
-      {
-        "time": "15:30",
-        "title": "ネパールで邦人35人拘束 詐欺疑い",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6603293?source=rss",
-        "publishedAt": "2026-11-20T06:30:01.000Z"
       },
       {
         "time": "17:31",
@@ -126,13 +126,6 @@
         "publishedAt": "2026-11-21T07:27:49.000Z"
       },
       {
-        "time": "19:35",
-        "title": "ココイチ売却 米KKRに優先交渉権",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6603327?source=rss",
-        "publishedAt": "2026-11-20T10:35:37.000Z"
-      },
-      {
         "time": "10:20",
         "title": "なぜ実家暮らし 40代未婚者の答え",
         "source": "Yahoo!ニュース",
@@ -145,6 +138,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6603374?source=rss",
         "publishedAt": "2026-11-21T00:44:43.000Z"
+      },
+      {
+        "time": "15:28",
+        "title": "店の「食べ放題」巡り物議 法解説",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6603408?source=rss",
+        "publishedAt": "2026-11-21T06:28:43.000Z"
       }
     ],
     "localHeadlines": [
