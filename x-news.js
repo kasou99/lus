@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-21T03:13:07.634Z",
+  "updatedAt": "2026-11-21T03:36:03.186Z",
   "items": [
     {
       "time": "10:04",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "正恩氏 トランプ氏本気度に疑心か"
     },
     {
-      "time": "11:01",
-      "title": "未着工原発計画に交付金計165億円",
+      "time": "11:06",
+      "title": "執行中に死刑囚が激痛訴える 米",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603382?source=rss",
-      "publishedAt": "2026-11-21T02:01:38.000Z",
-      "xQuery": "未着工原発計画に交付金計165億円"
+      "url": "https://news.yahoo.co.jp/pickup/6603384?source=rss",
+      "publishedAt": "2026-11-21T02:06:22.000Z",
+      "xQuery": "執行中に死刑囚が激痛訴える 米"
     },
     {
       "time": "11:01",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "スタック車 ほぼノーマルタイヤか"
     },
     {
+      "time": "11:57",
+      "title": "特急と立ち往生の車が衝突 東武",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603388?source=rss",
+      "publishedAt": "2026-11-21T02:57:12.000Z",
+      "xQuery": "特急と立ち往生の車が衝突 東武"
+    },
+    {
       "time": "10:20",
       "title": "なぜ実家暮らし 40代未婚者の答え",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6603379?source=rss",
       "publishedAt": "2026-11-21T01:20:54.000Z",
       "xQuery": "なぜ実家暮らし 40代未婚者の答え"
-    },
-    {
-      "time": "11:39",
-      "title": "根津神社で踊る動画 大使館も謝罪",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603386?source=rss",
-      "publishedAt": "2026-11-21T02:39:57.000Z",
-      "xQuery": "根津神社で踊る動画 大使館も謝罪"
     }
   ]
 };
