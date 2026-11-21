@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-21T00:29:42.837Z",
+  "updatedAt": "2026-11-21T00:48:04.668Z",
   "items": [
     {
       "time": "07:36",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "首相中国到着時の段差 木原氏説明"
     },
     {
+      "time": "08:53",
+      "title": "兵庫3歳児暴行死 頭部に致命傷か",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603367?source=rss",
+      "publishedAt": "2026-11-20T23:53:27.000Z",
+      "xQuery": "兵庫3歳児暴行死 頭部に致命傷か"
+    },
+    {
       "time": "07:51",
       "title": "「リーマン予想」生成AIが証明か",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6603360?source=rss",
       "publishedAt": "2026-11-20T22:51:15.000Z",
       "xQuery": "「リーマン予想」生成AIが証明か"
-    },
-    {
-      "time": "09:16",
-      "title": "「精子力」チェック 受ける意義",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603371?source=rss",
-      "publishedAt": "2026-11-21T00:16:42.000Z",
-      "xQuery": "「精子力」チェック 受ける意義"
     }
   ]
 };
