@@ -1,6 +1,22 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-21T22:35:11.840Z",
+  "updatedAt": "2026-11-21T23:09:09.495Z",
   "items": [
+    {
+      "time": "07:35",
+      "title": "関文科相の辞任論 与党内で拡大",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603489?source=rss",
+      "publishedAt": "2026-11-21T22:35:13.000Z",
+      "xQuery": "関文科相の辞任論 与党内で拡大"
+    },
+    {
+      "time": "07:52",
+      "title": "焼失7年 首里城正殿きょう完成式",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603492?source=rss",
+      "publishedAt": "2026-11-21T22:52:28.000Z",
+      "xQuery": "焼失7年 首里城正殿きょう完成式"
+    },
     {
       "time": "21:22",
       "title": "防衛費巡る財務省案 議論が過熱",
@@ -18,28 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "LED信号機に弱点 発熱少なく着雪"
     },
     {
-      "time": "23:11",
-      "title": "危険運転で婚約者犠牲 にじむ無念",
+      "time": "07:50",
+      "title": "DIYで溶接中に出火か 男性が死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603481?source=rss",
-      "publishedAt": "2026-11-21T14:11:49.000Z",
-      "xQuery": "危険運転で婚約者犠牲 にじむ無念"
-    },
-    {
-      "time": "22:43",
-      "title": "金塊20kgなど盗まれる 兵庫の住宅",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603477?source=rss",
-      "publishedAt": "2026-11-21T13:43:07.000Z",
-      "xQuery": "金塊20kgなど盗まれる 兵庫の住宅"
-    },
-    {
-      "time": "23:26",
-      "title": "推薦入試 不合格者に1秒間誤通知",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603483?source=rss",
-      "publishedAt": "2026-11-21T14:26:52.000Z",
-      "xQuery": "推薦入試 不合格者に1秒間誤通知"
+      "url": "https://news.yahoo.co.jp/pickup/6603493?source=rss",
+      "publishedAt": "2026-11-21T22:50:49.000Z",
+      "xQuery": "DIYで溶接中に出火か 男性が死亡"
     }
   ]
 };
