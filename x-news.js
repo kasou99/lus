@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-21T12:15:26.244Z",
+  "updatedAt": "2026-11-21T12:34:56.978Z",
   "items": [
     {
       "time": "18:51",
@@ -10,20 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "東北や北陸の山で積雪増へ 注意"
     },
     {
-      "time": "19:00",
-      "title": "政治家パーティー官僚参加 妥当?",
+      "time": "20:51",
+      "title": "ゼレンスキー氏 露大統領は人殺し",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603447?source=rss",
-      "publishedAt": "2026-11-21T10:00:14.000Z",
-      "xQuery": "政治家パーティー官僚参加 妥当?"
-    },
-    {
-      "time": "20:23",
-      "title": "参政・神谷宗幣氏 演説に変化",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603461?source=rss",
-      "publishedAt": "2026-11-21T11:23:52.000Z",
-      "xQuery": "参政・神谷宗幣氏 演説に変化"
+      "url": "https://news.yahoo.co.jp/pickup/6603464?source=rss",
+      "publishedAt": "2026-11-21T11:51:20.000Z",
+      "xQuery": "ゼレンスキー氏 露大統領は人殺し"
     },
     {
       "time": "18:55",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "六花亭 クレカ不正利用を1件確認"
     },
     {
-      "time": "20:51",
-      "title": "夫が酒飲み暴力 謝罪も妻は許せず",
+      "time": "21:08",
+      "title": "東大志望者が大幅増 27年入試予測",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603465?source=rss",
-      "publishedAt": "2026-11-21T11:51:29.000Z",
-      "xQuery": "夫が酒飲み暴力 謝罪も妻は許せず"
+      "url": "https://news.yahoo.co.jp/pickup/6603468?source=rss",
+      "publishedAt": "2026-11-21T12:08:26.000Z",
+      "xQuery": "東大志望者が大幅増 27年入試予測"
+    },
+    {
+      "time": "17:41",
+      "title": "韓国兵役終え日本直行 男性の感謝",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603432?source=rss",
+      "publishedAt": "2026-11-21T08:41:22.000Z",
+      "xQuery": "韓国兵役終え日本直行 男性の感謝"
     }
   ]
 };
