@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-21T06:39:33.432Z",
+  "updatedAt": "2026-11-21T07:11:10.251Z",
   "items": [
     {
       "time": "15:31",
@@ -18,6 +18,14 @@ window.LUS_X_NEWS = {
       "xQuery": "AIでリーマン予想証明か 精査続く"
     },
     {
+      "time": "15:14",
+      "title": "大雪影響で千人超が孤立状態 福島",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603404?source=rss",
+      "publishedAt": "2026-11-21T06:14:38.000Z",
+      "xQuery": "大雪影響で千人超が孤立状態 福島"
+    },
+    {
       "time": "14:47",
       "title": "デンマークで暗殺阻止 露が計画か",
       "source": "Yahoo!ニュース",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6603384?source=rss",
       "publishedAt": "2026-11-21T02:06:22.000Z",
       "xQuery": "執行中に死刑囚が激痛訴える 米"
-    },
-    {
-      "time": "14:59",
-      "title": "中国人遭難で「懸賞金」県の懸念",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603405?source=rss",
-      "publishedAt": "2026-11-21T05:59:37.000Z",
-      "xQuery": "中国人遭難で「懸賞金」県の懸念"
     }
   ]
 };
