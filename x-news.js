@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-21T14:09:42.887Z",
+  "updatedAt": "2026-11-21T14:35:03.405Z",
   "items": [
     {
       "time": "21:19",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "金塊20kgなど盗まれる 兵庫の住宅"
     },
     {
-      "time": "17:01",
-      "title": "幻の植物の新種 ミャンマーで発見",
+      "time": "23:26",
+      "title": "推薦入試 不合格者に1秒間誤通知",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603422?source=rss",
-      "publishedAt": "2026-11-21T08:01:07.000Z",
-      "xQuery": "幻の植物の新種 ミャンマーで発見"
+      "url": "https://news.yahoo.co.jp/pickup/6603483?source=rss",
+      "publishedAt": "2026-11-21T14:26:52.000Z",
+      "xQuery": "推薦入試 不合格者に1秒間誤通知"
     }
   ]
 };
