@@ -1,21 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-21T13:09:24.014Z",
+  "updatedAt": "2026-11-21T13:35:16.706Z",
   "items": [
     {
-      "time": "20:51",
-      "title": "ゼレンスキー氏 露大統領は人殺し",
+      "time": "21:19",
+      "title": "統一選で自民系推薦せず 公明方針",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603464?source=rss",
-      "publishedAt": "2026-11-21T11:51:20.000Z",
-      "xQuery": "ゼレンスキー氏 露大統領は人殺し"
-    },
-    {
-      "time": "18:51",
-      "title": "東北や北陸の山で積雪増へ 注意",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603445?source=rss",
-      "publishedAt": "2026-11-21T09:51:04.000Z",
-      "xQuery": "東北や北陸の山で積雪増へ 注意"
+      "url": "https://news.yahoo.co.jp/pickup/6603469?source=rss",
+      "publishedAt": "2026-11-21T12:19:34.000Z",
+      "xQuery": "統一選で自民系推薦せず 公明方針"
     },
     {
       "time": "21:46",
@@ -24,6 +16,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6603473?source=rss",
       "publishedAt": "2026-11-21T12:46:43.000Z",
       "xQuery": "大雪影響で約1500人孤立状態 福島"
+    },
+    {
+      "time": "20:51",
+      "title": "ゼレンスキー氏 露大統領は人殺し",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603464?source=rss",
+      "publishedAt": "2026-11-21T11:51:20.000Z",
+      "xQuery": "ゼレンスキー氏 露大統領は人殺し"
     },
     {
       "time": "18:55",
