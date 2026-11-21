@@ -1,22 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-21T00:48:04.668Z",
+  "updatedAt": "2026-11-21T01:11:44.436Z",
   "items": [
-    {
-      "time": "07:36",
-      "title": "首相 APECで台湾代表と会談せず",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603354?source=rss",
-      "publishedAt": "2026-11-20T22:36:38.000Z",
-      "xQuery": "首相 APECで台湾代表と会談せず"
-    },
-    {
-      "time": "08:10",
-      "title": "外国代理人 届け出義務3要件整理",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603362?source=rss",
-      "publishedAt": "2026-11-20T23:10:14.000Z",
-      "xQuery": "外国代理人 届け出義務3要件整理"
-    },
     {
       "time": "08:46",
       "title": "首相中国到着時の段差 木原氏説明",
@@ -24,6 +8,22 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6603366?source=rss",
       "publishedAt": "2026-11-20T23:46:23.000Z",
       "xQuery": "首相中国到着時の段差 木原氏説明"
+    },
+    {
+      "time": "08:55",
+      "title": "定数削減 野党の懸念を置き去りに",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603370?source=rss",
+      "publishedAt": "2026-11-20T23:55:06.000Z",
+      "xQuery": "定数削減 野党の懸念を置き去りに"
+    },
+    {
+      "time": "10:04",
+      "title": "ミサイル落下 ポーランドが露非難",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603377?source=rss",
+      "publishedAt": "2026-11-21T01:04:45.000Z",
+      "xQuery": "ミサイル落下 ポーランドが露非難"
     },
     {
       "time": "08:53",
