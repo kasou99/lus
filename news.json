@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T01:11:43.625Z",
+  "updatedAt": "2026-11-21T01:39:18.805Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -126,6 +126,13 @@
         "publishedAt": "2026-11-20T10:35:37.000Z"
       },
       {
+        "time": "10:20",
+        "title": "なぜ実家暮らし 40代未婚者の答え",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6603379?source=rss",
+        "publishedAt": "2026-11-21T01:20:54.000Z"
+      },
+      {
         "time": "13:32",
         "title": "ホンダ 新型3列SUVを世界初公開",
         "source": "Yahoo!ニュース",
@@ -138,16 +145,16 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6603374?source=rss",
         "publishedAt": "2026-11-21T00:44:43.000Z"
-      },
-      {
-        "time": "17:40",
-        "title": "明治「スーパーカップ」値上げへ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6603309?source=rss",
-        "publishedAt": "2026-11-20T08:40:19.000Z"
       }
     ],
     "localHeadlines": [
+      {
+        "time": "10:20",
+        "title": "大型物流倉庫で火事 三郷JCT付近",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6603380?source=rss",
+        "publishedAt": "2026-11-21T01:20:54.000Z"
+      },
       {
         "time": "23:03",
         "title": "一時100台ほど車が立ち往生 長野",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6603341?source=rss",
         "publishedAt": "2026-11-20T13:18:38.000Z"
-      },
-      {
-        "time": "13:57",
-        "title": "中野女性殺害「後ろから刺した」",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6603283?source=rss",
-        "publishedAt": "2026-11-20T04:57:21.000Z"
       }
     ],
     "subsidyHeadlines": [

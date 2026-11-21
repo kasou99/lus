@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-21T01:11:44.436Z",
+  "updatedAt": "2026-11-21T01:39:19.459Z",
   "items": [
     {
       "time": "08:46",
@@ -8,14 +8,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6603366?source=rss",
       "publishedAt": "2026-11-20T23:46:23.000Z",
       "xQuery": "首相中国到着時の段差 木原氏説明"
-    },
-    {
-      "time": "08:55",
-      "title": "定数削減 野党の懸念を置き去りに",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603370?source=rss",
-      "publishedAt": "2026-11-20T23:55:06.000Z",
-      "xQuery": "定数削減 野党の懸念を置き去りに"
     },
     {
       "time": "10:04",
@@ -32,6 +24,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6603367?source=rss",
       "publishedAt": "2026-11-20T23:53:27.000Z",
       "xQuery": "兵庫3歳児暴行死 頭部に致命傷か"
+    },
+    {
+      "time": "10:20",
+      "title": "大型物流倉庫で火事 三郷JCT付近",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603380?source=rss",
+      "publishedAt": "2026-11-21T01:20:54.000Z",
+      "xQuery": "大型物流倉庫で火事 三郷JCT付近"
     },
     {
       "time": "07:51",
