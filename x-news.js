@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-21T23:09:09.495Z",
+  "updatedAt": "2026-11-21T23:35:11.547Z",
   "items": [
     {
       "time": "07:35",
@@ -18,20 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "焼失7年 首里城正殿きょう完成式"
     },
     {
-      "time": "21:22",
-      "title": "防衛費巡る財務省案 議論が過熱",
+      "time": "08:04",
+      "title": "兵庫3歳死亡 家庭へ復帰なぜ判断",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603470?source=rss",
-      "publishedAt": "2026-11-21T12:22:25.000Z",
-      "xQuery": "防衛費巡る財務省案 議論が過熱"
-    },
-    {
-      "time": "23:41",
-      "title": "LED信号機に弱点 発熱少なく着雪",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603485?source=rss",
-      "publishedAt": "2026-11-21T14:41:24.000Z",
-      "xQuery": "LED信号機に弱点 発熱少なく着雪"
+      "url": "https://news.yahoo.co.jp/pickup/6603495?source=rss",
+      "publishedAt": "2026-11-21T23:04:57.000Z",
+      "xQuery": "兵庫3歳死亡 家庭へ復帰なぜ判断"
     },
     {
       "time": "07:50",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6603493?source=rss",
       "publishedAt": "2026-11-21T22:50:49.000Z",
       "xQuery": "DIYで溶接中に出火か 男性が死亡"
+    },
+    {
+      "time": "07:22",
+      "title": "福間女流四冠が第2子妊娠公表",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603488?source=rss",
+      "publishedAt": "2026-11-21T22:22:24.000Z",
+      "xQuery": "福間女流四冠が第2子妊娠公表"
     }
   ]
 };

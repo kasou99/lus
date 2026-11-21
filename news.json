@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T23:09:08.550Z",
+  "updatedAt": "2026-11-21T23:35:10.470Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -45,18 +45,18 @@
         "publishedAt": "2026-11-21T08:00:45.000Z"
       },
       {
-        "time": "19:03",
-        "title": "創業460年超「治具」の老舗！車1台を掴む驚異の固定技術で世界のモノづくりを支える ナベヤ",
-        "source": "TVer",
-        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1pVUhpcUFaNkdrVS1oNWtYY2hwMjF0el8yUzF6Qy1zWXMzal9vSWh0WG44VmlLYzdMRXVGQzk0dFV0cWl3NWU2SXI0cw?oc=5",
-        "publishedAt": "2026-11-21T10:03:51.000Z"
-      },
-      {
         "time": "13:30",
         "title": "パワースカイビングカッターの世界市場（2026年～2032年）、市場規模（300mm以下、300～600mm、600mm超）・分析レポートを発表",
         "source": "Newscast.jp",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAyYkdtSmxGRFFYNnVvUE80djJibkVvTFFEVXFaNExrOHhZY2xDMnoyUWVJR2dacjExQWc0TWowTE5mMmRNel9yTUZrUzZsMEU?oc=5",
         "publishedAt": "2026-11-21T04:30:00.000Z"
+      },
+      {
+        "time": "07:30",
+        "title": "米株式市場急落 ナスダック5%安",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6603352?source=rss",
+        "publishedAt": "2026-11-20T22:30:18.000Z"
       }
     ],
     "worldHeadlines": [
@@ -112,13 +112,6 @@
         "publishedAt": "2026-11-20T22:30:18.000Z"
       },
       {
-        "time": "23:58",
-        "title": "EV補助金受け付け終了 予算枯渇",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6603347?source=rss",
-        "publishedAt": "2026-11-20T14:58:48.000Z"
-      },
-      {
         "time": "16:27",
         "title": "預金1億円超個人口座 00年比3.6倍",
         "source": "Yahoo!ニュース",
@@ -145,6 +138,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6603408?source=rss",
         "publishedAt": "2026-11-21T06:28:43.000Z"
+      },
+      {
+        "time": "09:37",
+        "title": "ホテル歯ブラシ 返すとお菓子の訳",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6603372?source=rss",
+        "publishedAt": "2026-11-21T00:37:31.000Z"
       }
     ],
     "localHeadlines": [
