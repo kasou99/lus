@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-21T08:35:45.973Z",
+  "updatedAt": "2026-11-21T09:11:20.575Z",
   "items": [
     {
-      "time": "15:31",
-      "title": "文科相交代の可能性示唆 自民党",
+      "time": "17:23",
+      "title": "政府広報なぜ「都市伝説系」起用",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603410?source=rss",
-      "publishedAt": "2026-11-21T06:31:42.000Z",
-      "xQuery": "文科相交代の可能性示唆 自民党"
+      "url": "https://news.yahoo.co.jp/pickup/6603426?source=rss",
+      "publishedAt": "2026-11-21T08:23:53.000Z",
+      "xQuery": "政府広報なぜ「都市伝説系」起用"
     },
     {
       "time": "15:14",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "デンマークで暗殺阻止 露が計画か"
     },
     {
-      "time": "16:27",
-      "title": "預金1億円超個人口座 00年比3.6倍",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603415?source=rss",
-      "publishedAt": "2026-11-21T07:27:49.000Z",
-      "xQuery": "預金1億円超個人口座 00年比3.6倍"
-    },
-    {
       "time": "17:01",
       "title": "道路横断中 除雪車にはねられ死亡",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6603423?source=rss",
       "publishedAt": "2026-11-21T08:01:30.000Z",
       "xQuery": "道路横断中 除雪車にはねられ死亡"
+    },
+    {
+      "time": "14:32",
+      "title": "入浴週1回 生活保護男性「惨め」",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603400?source=rss",
+      "publishedAt": "2026-11-21T05:32:37.000Z",
+      "xQuery": "入浴週1回 生活保護男性「惨め」"
     }
   ]
 };

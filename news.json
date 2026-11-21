@@ -1,14 +1,7 @@
 {
-  "updatedAt": "2026-11-21T08:35:44.976Z",
+  "updatedAt": "2026-11-21T09:11:19.829Z",
   "groups": {
     "machineHeadlines": [
-      {
-        "time": "16:31",
-        "title": "工作機械受注が示す日本株と世界経済 高水準維持も伸び率拡大の局面は終了か",
-        "source": "TBS NEWS DIG",
-        "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQRk96LXpZWDF5b3daUWx1bnAxbWhWWnB4bzN3OEh3UjNVMEVUV1hjTFBITXNDei1UTDdXUHJZclZ3WG9feWl0N01tbUp3S1VnUHI0T2RzT3hNZUc4RHdqNWhZeGdzZ2N1ZGNMSE9aYkN1Vmx2ZUtsVjludnVSelFHWGx0NnAySVExbUR0N2xDU3hrNnl1Z1VkeFA4c25yMFNlNjRZMkRfdVRPMEUweG5XNzBQZHJkb1VrWVB4NGJodUYxVEQ0bWVTVGJBZ0k1ZmctMUJjZnNER25oMVFDUFhYTFRpODhzRWl4V21HSW5TZkJWUE1pMVdNOXFHYlJaNWR4SGJqZ0h3cTU?oc=5",
-        "publishedAt": "2026-11-21T07:31:34.000Z"
-      },
       {
         "time": "09:25",
         "title": "工作機械受注、10月は前年比42.5％増 伸び率は2カ月連続で縮小",
@@ -18,10 +11,24 @@
       },
       {
         "time": "09:00",
+        "title": "工作機械受注が示す日本株と世界経済 高水準維持も伸び率拡大の局面は終了か",
+        "source": "TBS NEWS DIG",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1UWWhrVVdmamw5eWtwQTlBU0xNOHVIOVpiTW05QWhoMTJTeWZmUTFRNGhCMWRPQzRnSUc3ZlRyd2ptN3IzWHotR3JXNEFDNXY4bGlyTmFWMm5ORTVORGVBY3lOUHJjVTg?oc=5",
+        "publishedAt": "2026-11-21T00:00:00.000Z"
+      },
+      {
+        "time": "09:00",
         "title": "工作機械受注が示す日本株と世界経済 高水準維持も伸び率拡大の局面は終了か（TBS CROSS DIG with Bloomberg）",
         "source": "Yahoo!ニュース",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1vNnFydVVZbDFKUEpsRUtqLUdXcGdvWmgyWWpZOGE5RFhPbFluMmRia3JsY3Nnek4zQ0hRY0k5V2tzMnhFR09PZC1ySlJKQ2lFbzRyRWVIcjg3ODF1UDJISEtRZDJlZ0NzNGRFR1hSSUk5RkxJWTNEbW80bmtrZzg?oc=5",
         "publishedAt": "2026-11-21T00:00:32.000Z"
+      },
+      {
+        "time": "11:29",
+        "title": "日本産業用ベアリング市場、2035年までに212.6億米ドル規模へ成長、CAGR 4.16％が示す産業機械・ロボット需要の新たな展開",
+        "source": "Newscast.jp",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9EU1REc3R5cTlLMml6UVFTU0xYMXBwSmlPLW1tREtnWlBDSFJyLXJIQVhxdDd0ZGFqbi1sRjR3T2Fsb2JUeExiWUJQeTVRZlE?oc=5",
+        "publishedAt": "2026-11-21T02:29:00.000Z"
       },
       {
         "time": "04:00",
@@ -43,13 +50,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQcWdCZzJ4d08tS253S3FvRnBic1JVTVlSb1pvUmFseFJDYVRCa2t5UG9zcjRvSFBPZlpUNlBORU51ZlNwbUlCdEZ2SWxKZTlaTzMwdUp4NFJPeS1pbU5hOXJIdE9RS1NwQzFMZXo2cG1iWFZrdmtRN1VOQnFvbnZ1YUdfLXk2aGxabzRRT2Zn?oc=5",
         "publishedAt": "2026-11-21T00:00:32.000Z"
-      },
-      {
-        "time": "11:29",
-        "title": "日本産業用ベアリング市場、2035年までに212.6億米ドル規模へ成長、CAGR 4.16％が示す産業機械・ロボット需要の新たな展開",
-        "source": "Newscast.jp",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9EU1REc3R5cTlLMml6UVFTU0xYMXBwSmlPLW1tREtnWlBDSFJyLXJIQVhxdDd0ZGFqbi1sRjR3T2Fsb2JUeExiWUJQeTVRZlE?oc=5",
-        "publishedAt": "2026-11-21T02:29:00.000Z"
       },
       {
         "time": "13:30",
@@ -89,18 +89,18 @@
         "publishedAt": "2026-11-20T08:31:46.000Z"
       },
       {
-        "time": "13:28",
-        "title": "独メルツ首相 米中露会談を批判",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6603280?source=rss",
-        "publishedAt": "2026-11-20T04:28:15.000Z"
-      },
-      {
         "time": "14:47",
         "title": "デンマークで暗殺阻止 露が計画か",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6603402?source=rss",
         "publishedAt": "2026-11-21T05:47:10.000Z"
+      },
+      {
+        "time": "11:06",
+        "title": "執行中に死刑囚が激痛訴える 米",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6603384?source=rss",
+        "publishedAt": "2026-11-21T02:06:22.000Z"
       }
     ],
     "economyHeadlines": [
@@ -156,6 +156,13 @@
         "publishedAt": "2026-11-21T06:14:38.000Z"
       },
       {
+        "time": "18:05",
+        "title": "愛知強殺未遂 関与疑い生徒の父涙",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6603436?source=rss",
+        "publishedAt": "2026-11-21T09:05:12.000Z"
+      },
+      {
         "time": "11:01",
         "title": "スタック車 ほぼノーマルタイヤか",
         "source": "Yahoo!ニュース",
@@ -168,13 +175,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6603423?source=rss",
         "publishedAt": "2026-11-21T08:01:30.000Z"
-      },
-      {
-        "time": "11:57",
-        "title": "特急と立ち往生の車が衝突 東武",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6603388?source=rss",
-        "publishedAt": "2026-11-21T02:57:12.000Z"
       },
       {
         "time": "19:13",
