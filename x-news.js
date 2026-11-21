@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-20T23:35:27.200Z",
+  "updatedAt": "2026-11-21T00:29:42.837Z",
   "items": [
     {
       "time": "07:36",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "首相 APECで台湾代表と会談せず"
     },
     {
-      "time": "07:30",
-      "title": "米株式市場急落 ナスダック5%安",
+      "time": "08:10",
+      "title": "外国代理人 届け出義務3要件整理",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603352?source=rss",
-      "publishedAt": "2026-11-20T22:30:18.000Z",
-      "xQuery": "米株式市場急落 ナスダック5%安"
+      "url": "https://news.yahoo.co.jp/pickup/6603362?source=rss",
+      "publishedAt": "2026-11-20T23:10:14.000Z",
+      "xQuery": "外国代理人 届け出義務3要件整理"
     },
     {
-      "time": "23:58",
-      "title": "EV補助金受け付け終了 予算枯渇",
+      "time": "08:46",
+      "title": "首相中国到着時の段差 木原氏説明",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603347?source=rss",
-      "publishedAt": "2026-11-20T14:58:48.000Z",
-      "xQuery": "EV補助金受け付け終了 予算枯渇"
+      "url": "https://news.yahoo.co.jp/pickup/6603366?source=rss",
+      "publishedAt": "2026-11-20T23:46:23.000Z",
+      "xQuery": "首相中国到着時の段差 木原氏説明"
     },
     {
       "time": "07:51",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "「リーマン予想」生成AIが証明か"
     },
     {
-      "time": "07:59",
-      "title": "久石譲さんに名誉学位 英王立音大",
+      "time": "09:16",
+      "title": "「精子力」チェック 受ける意義",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603359?source=rss",
-      "publishedAt": "2026-11-20T22:59:10.000Z",
-      "xQuery": "久石譲さんに名誉学位 英王立音大"
+      "url": "https://news.yahoo.co.jp/pickup/6603371?source=rss",
+      "publishedAt": "2026-11-21T00:16:42.000Z",
+      "xQuery": "「精子力」チェック 受ける意義"
     }
   ]
 };
