@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-21T12:34:56.978Z",
+  "updatedAt": "2026-11-21T13:09:24.014Z",
   "items": [
+    {
+      "time": "20:51",
+      "title": "ゼレンスキー氏 露大統領は人殺し",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603464?source=rss",
+      "publishedAt": "2026-11-21T11:51:20.000Z",
+      "xQuery": "ゼレンスキー氏 露大統領は人殺し"
+    },
     {
       "time": "18:51",
       "title": "東北や北陸の山で積雪増へ 注意",
@@ -10,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "東北や北陸の山で積雪増へ 注意"
     },
     {
-      "time": "20:51",
-      "title": "ゼレンスキー氏 露大統領は人殺し",
+      "time": "21:46",
+      "title": "大雪影響で約1500人孤立状態 福島",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603464?source=rss",
-      "publishedAt": "2026-11-21T11:51:20.000Z",
-      "xQuery": "ゼレンスキー氏 露大統領は人殺し"
+      "url": "https://news.yahoo.co.jp/pickup/6603473?source=rss",
+      "publishedAt": "2026-11-21T12:46:43.000Z",
+      "xQuery": "大雪影響で約1500人孤立状態 福島"
     },
     {
       "time": "18:55",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6603468?source=rss",
       "publishedAt": "2026-11-21T12:08:26.000Z",
       "xQuery": "東大志望者が大幅増 27年入試予測"
-    },
-    {
-      "time": "17:41",
-      "title": "韓国兵役終え日本直行 男性の感謝",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603432?source=rss",
-      "publishedAt": "2026-11-21T08:41:22.000Z",
-      "xQuery": "韓国兵役終え日本直行 男性の感謝"
     }
   ]
 };
