@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-21T06:17:38.397Z",
+  "updatedAt": "2026-11-21T06:39:33.432Z",
   "items": [
     {
-      "time": "13:40",
-      "title": "東北や北陸周辺で積雪増 運転注意",
+      "time": "15:31",
+      "title": "文科相交代の可能性示唆 自民党",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603391?source=rss",
-      "publishedAt": "2026-11-21T04:40:04.000Z",
-      "xQuery": "東北や北陸周辺で積雪増 運転注意"
+      "url": "https://news.yahoo.co.jp/pickup/6603410?source=rss",
+      "publishedAt": "2026-11-21T06:31:42.000Z",
+      "xQuery": "文科相交代の可能性示唆 自民党"
     },
     {
       "time": "13:59",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "執行中に死刑囚が激痛訴える 米"
     },
     {
-      "time": "14:32",
-      "title": "入浴週1回 生活保護男性「惨め」",
+      "time": "14:59",
+      "title": "中国人遭難で「懸賞金」県の懸念",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603400?source=rss",
-      "publishedAt": "2026-11-21T05:32:37.000Z",
-      "xQuery": "入浴週1回 生活保護男性「惨め」"
+      "url": "https://news.yahoo.co.jp/pickup/6603405?source=rss",
+      "publishedAt": "2026-11-21T05:59:37.000Z",
+      "xQuery": "中国人遭難で「懸賞金」県の懸念"
     }
   ]
 };
