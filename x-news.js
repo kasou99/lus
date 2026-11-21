@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-21T02:14:57.304Z",
+  "updatedAt": "2026-11-21T02:35:19.591Z",
   "items": [
     {
       "time": "08:46",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "ミサイル落下 ポーランドが露非難"
     },
     {
-      "time": "10:20",
-      "title": "大型物流倉庫で火事 三郷JCT付近",
+      "time": "11:01",
+      "title": "スタック車 ほぼノーマルタイヤか",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603380?source=rss",
-      "publishedAt": "2026-11-21T01:20:54.000Z",
-      "xQuery": "大型物流倉庫で火事 三郷JCT付近"
+      "url": "https://news.yahoo.co.jp/pickup/6603383?source=rss",
+      "publishedAt": "2026-11-21T02:01:19.000Z",
+      "xQuery": "スタック車 ほぼノーマルタイヤか"
     },
     {
       "time": "10:20",
