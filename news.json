@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T17:09:02.961Z",
+  "updatedAt": "2026-11-21T17:35:21.558Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -24,20 +24,6 @@
         "publishedAt": "2026-11-21T00:00:32.000Z"
       },
       {
-        "time": "04:00",
-        "title": "双葉電子工業の「プリセットを用いたサーボモータ通信時間短縮方法」（特許第7715700号）が令和8年度",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0wV2s5TVR1bHBZTHVKT2RxdzhsYm9VcDctNGFNY3I1eGRIenBfbWo2NVBNN29uOEE3X3pKWDFSZ3pYMzVZbGNyVVJVa0lEcGdhcGk5N2IyM25wUmxXUk5QZm9henM3Um5hWHVBMVNsanlhUXEycDVTUg?oc=5",
-        "publishedAt": "2026-11-20T19:00:38.000Z"
-      },
-      {
-        "time": "09:00",
-        "title": "工作機械受注が示す日本株と世界経済 高水準維持も伸び率拡大の局面は終了か (TBS CROSS DIG with Bloomberg)",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQcWdCZzJ4d08tS253S3FvRnBic1JVTVlSb1pvUmFseFJDYVRCa2t5UG9zcjRvSFBPZlpUNlBORU51ZlNwbUlCdEZ2SWxKZTlaTzMwdUp4NFJPeS1pbU5hOXJIdE9RS1NwQzFMZXo2cG1iWFZrdmtRN1VOQnFvbnZ1YUdfLXk2aGxabzRRT2Zn?oc=5",
-        "publishedAt": "2026-11-21T00:00:32.000Z"
-      },
-      {
         "time": "11:29",
         "title": "日本産業用ベアリング市場、2035年までに212.6億米ドル規模へ成長、CAGR 4.16％が示す産業機械・ロボット需要の新たな展開",
         "source": "Newscast.jp",
@@ -52,11 +38,25 @@
         "publishedAt": "2026-11-21T08:00:45.000Z"
       },
       {
-        "time": "19:03",
-        "title": "創業460年超「治具」の老舗！車1台を掴む驚異の固定技術で世界のモノづくりを支える ナベヤ",
-        "source": "TVer",
-        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1pVUhpcUFaNkdrVS1oNWtYY2hwMjF0el8yUzF6Qy1zWXMzal9vSWh0WG44VmlLYzdMRXVGQzk0dFV0cWl3NWU2SXI0cw?oc=5",
-        "publishedAt": "2026-11-21T10:03:51.000Z"
+        "time": "04:00",
+        "title": "双葉電子工業の「プリセットを用いたサーボモータ通信時間短縮方法」（特許第7715700号）が令和8年度",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0wV2s5TVR1bHBZTHVKT2RxdzhsYm9VcDctNGFNY3I1eGRIenBfbWo2NVBNN29uOEE3X3pKWDFSZ3pYMzVZbGNyVVJVa0lEcGdhcGk5N2IyM25wUmxXUk5QZm9henM3Um5hWHVBMVNsanlhUXEycDVTUg?oc=5",
+        "publishedAt": "2026-11-20T19:00:38.000Z"
+      },
+      {
+        "time": "13:30",
+        "title": "パワースカイビングカッターの世界市場（2026年～2032年）、市場規模（300mm以下、300～600mm、600mm超）・分析レポートを発表",
+        "source": "Newscast.jp",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAyYkdtSmxGRFFYNnVvUE80djJibkVvTFFEVXFaNExrOHhZY2xDMnoyUWVJR2dacjExQWc0TWowTE5mMmRNel9yTUZrUzZsMEU?oc=5",
+        "publishedAt": "2026-11-21T04:30:00.000Z"
+      },
+      {
+        "time": "09:00",
+        "title": "工作機械受注が示す日本株と世界経済 高水準維持も伸び率拡大の局面は終了か (TBS CROSS DIG with Bloomberg)",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQcWdCZzJ4d08tS253S3FvRnBic1JVTVlSb1pvUmFseFJDYVRCa2t5UG9zcjRvSFBPZlpUNlBORU51ZlNwbUlCdEZ2SWxKZTlaTzMwdUp4NFJPeS1pbU5hOXJIdE9RS1NwQzFMZXo2cG1iWFZrdmtRN1VOQnFvbnZ1YUdfLXk2aGxabzRRT2Zn?oc=5",
+        "publishedAt": "2026-11-21T00:00:32.000Z"
       }
     ],
     "worldHeadlines": [
