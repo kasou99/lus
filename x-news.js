@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-21T05:36:06.716Z",
+  "updatedAt": "2026-11-21T06:17:38.397Z",
   "items": [
     {
       "time": "13:40",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "東北や北陸周辺で積雪増 運転注意"
     },
     {
-      "time": "12:21",
-      "title": "硫黄島沖に新陸地 国土増えるのか",
+      "time": "13:59",
+      "title": "AIでリーマン予想証明か 精査続く",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603389?source=rss",
-      "publishedAt": "2026-11-21T03:21:06.000Z",
-      "xQuery": "硫黄島沖に新陸地 国土増えるのか"
+      "url": "https://news.yahoo.co.jp/pickup/6603398?source=rss",
+      "publishedAt": "2026-11-21T04:59:13.000Z",
+      "xQuery": "AIでリーマン予想証明か 精査続く"
     },
     {
-      "time": "13:21",
-      "title": "相次ぐ虐待死事件 なぜ防げない",
+      "time": "14:47",
+      "title": "デンマークで暗殺阻止 露が計画か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603393?source=rss",
-      "publishedAt": "2026-11-21T04:21:09.000Z",
-      "xQuery": "相次ぐ虐待死事件 なぜ防げない"
+      "url": "https://news.yahoo.co.jp/pickup/6603402?source=rss",
+      "publishedAt": "2026-11-21T05:47:10.000Z",
+      "xQuery": "デンマークで暗殺阻止 露が計画か"
     },
     {
       "time": "11:06",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "執行中に死刑囚が激痛訴える 米"
     },
     {
-      "time": "12:40",
-      "title": "もし亡き人に会えたら 45通の手紙",
+      "time": "14:32",
+      "title": "入浴週1回 生活保護男性「惨め」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603390?source=rss",
-      "publishedAt": "2026-11-21T03:40:26.000Z",
-      "xQuery": "もし亡き人に会えたら 45通の手紙"
+      "url": "https://news.yahoo.co.jp/pickup/6603400?source=rss",
+      "publishedAt": "2026-11-21T05:32:37.000Z",
+      "xQuery": "入浴週1回 生活保護男性「惨め」"
     }
   ]
 };
