@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-11-21T07:35:27.815Z",
+  "updatedAt": "2026-11-21T08:13:32.735Z",
   "groups": {
     "machineHeadlines": [
-      {
-        "time": "09:25",
-        "title": "工作機械受注、10月は前年比42.5％増 伸び率は2カ月連続で縮小",
-        "source": "BigGo ファイナンス",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1xT0FHT0o3U1hFMkdiZXpRZHJvM0tQY2FlV2pDNHJaMkxrd0Q3elJsQi1lWmlBTExkSWE1TlhzbTdQNklSLVZOYzhzdmhDNTlJX3FzMk9ISFlIT0ZCM1lPR29JTzRnNUdDUlFIektxNU0yVFR5?oc=5",
-        "publishedAt": "2026-11-21T00:25:00.000Z"
-      },
       {
         "time": "09:00",
         "title": "工作機械受注が示す日本株と世界経済 高水準維持も伸び率拡大の局面は終了か",
         "source": "TBS NEWS DIG",
         "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1UWWhrVVdmamw5eWtwQTlBU0xNOHVIOVpiTW05QWhoMTJTeWZmUTFRNGhCMWRPQzRnSUc3ZlRyd2ptN3IzWHotR3JXNEFDNXY4bGlyTmFWMm5ORTVORGVBY3lOUHJjVTg?oc=5",
         "publishedAt": "2026-11-21T00:00:00.000Z"
+      },
+      {
+        "time": "09:25",
+        "title": "工作機械受注、10月は前年比42.5％増 伸び率は2カ月連続で縮小",
+        "source": "BigGo ファイナンス",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1xT0FHT0o3U1hFMkdiZXpRZHJvM0tQY2FlV2pDNHJaMkxrd0Q3elJsQi1lWmlBTExkSWE1TlhzbTdQNklSLVZOYzhzdmhDNTlJX3FzMk9ISFlIT0ZCM1lPR29JTzRnNUdDUlFIektxNU0yVFR5?oc=5",
+        "publishedAt": "2026-11-21T00:25:00.000Z"
       },
       {
         "time": "09:00",
@@ -38,11 +38,11 @@
         "publishedAt": "2026-11-20T13:10:00.000Z"
       },
       {
-        "time": "16:35",
-        "title": "株式会社設備保全総合研究所のEMLinkモバイルアプリが手書き点検入力を革新する機能を追加",
-        "source": "ニュースメディアVOIX",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBHR2dEQzcwOGE2U3VNWlRRNWMwWmtzNzVIMlVaclRPOVN6MVRFMm9YUExjY3NJY0w0NG04UmFrSmFtRmVraFA2ZERRd01QMlVBZ25qVXkxRU5rdTlIUFRMZHpWVjdmZw?oc=5",
-        "publishedAt": "2026-11-20T07:35:40.000Z"
+        "time": "09:00",
+        "title": "工作機械受注が示す日本株と世界経済 高水準維持も伸び率拡大の局面は終了か (TBS CROSS DIG with Bloomberg)",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQcWdCZzJ4d08tS253S3FvRnBic1JVTVlSb1pvUmFseFJDYVRCa2t5UG9zcjRvSFBPZlpUNlBORU51ZlNwbUlCdEZ2SWxKZTlaTzMwdUp4NFJPeS1pbU5hOXJIdE9RS1NwQzFMZXo2cG1iWFZrdmtRN1VOQnFvbnZ1YUdfLXk2aGxabzRRT2Zn?oc=5",
+        "publishedAt": "2026-11-21T00:00:32.000Z"
       },
       {
         "time": "11:29",
@@ -163,18 +163,18 @@
         "publishedAt": "2026-11-21T02:01:19.000Z"
       },
       {
+        "time": "17:01",
+        "title": "道路横断中 除雪車にはねられ死亡",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6603423?source=rss",
+        "publishedAt": "2026-11-21T08:01:30.000Z"
+      },
+      {
         "time": "11:57",
         "title": "特急と立ち往生の車が衝突 東武",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6603388?source=rss",
         "publishedAt": "2026-11-21T02:57:12.000Z"
-      },
-      {
-        "time": "10:20",
-        "title": "大型物流倉庫で火事 三郷JCT付近",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6603380?source=rss",
-        "publishedAt": "2026-11-21T01:20:54.000Z"
       },
       {
         "time": "19:13",

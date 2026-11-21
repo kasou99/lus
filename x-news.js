@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-21T07:35:28.990Z",
+  "updatedAt": "2026-11-21T08:13:33.177Z",
   "items": [
     {
       "time": "15:31",
@@ -8,14 +8,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6603410?source=rss",
       "publishedAt": "2026-11-21T06:31:42.000Z",
       "xQuery": "文科相交代の可能性示唆 自民党"
-    },
-    {
-      "time": "13:59",
-      "title": "AIでリーマン予想証明か 精査続く",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603398?source=rss",
-      "publishedAt": "2026-11-21T04:59:13.000Z",
-      "xQuery": "AIでリーマン予想証明か 精査続く"
     },
     {
       "time": "15:14",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "デンマークで暗殺阻止 露が計画か"
     },
     {
-      "time": "14:59",
-      "title": "中国人遭難で「懸賞金」県の懸念",
+      "time": "16:27",
+      "title": "預金1億円超個人口座 00年比3.6倍",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603405?source=rss",
-      "publishedAt": "2026-11-21T05:59:37.000Z",
-      "xQuery": "中国人遭難で「懸賞金」県の懸念"
+      "url": "https://news.yahoo.co.jp/pickup/6603415?source=rss",
+      "publishedAt": "2026-11-21T07:27:49.000Z",
+      "xQuery": "預金1億円超個人口座 00年比3.6倍"
+    },
+    {
+      "time": "14:32",
+      "title": "入浴週1回 生活保護男性「惨め」",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603400?source=rss",
+      "publishedAt": "2026-11-21T05:32:37.000Z",
+      "xQuery": "入浴週1回 生活保護男性「惨め」"
     }
   ]
 };
