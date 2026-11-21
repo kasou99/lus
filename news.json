@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T18:35:51.470Z",
+  "updatedAt": "2026-11-21T19:08:18.602Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -22,13 +22,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1vNnFydVVZbDFKUEpsRUtqLUdXcGdvWmgyWWpZOGE5RFhPbFluMmRia3JsY3Nnek4zQ0hRY0k5V2tzMnhFR09PZC1ySlJKQ2lFbzRyRWVIcjg3ODF1UDJISEtRZDJlZ0NzNGRFR1hSSUk5RkxJWTNEbW80bmtrZzg?oc=5",
         "publishedAt": "2026-11-21T00:00:32.000Z"
-      },
-      {
-        "time": "04:00",
-        "title": "双葉電子工業の「プリセットを用いたサーボモータ通信時間短縮方法」（特許第7715700号）が令和8年度",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0wV2s5TVR1bHBZTHVKT2RxdzhsYm9VcDctNGFNY3I1eGRIenBfbWo2NVBNN29uOEE3X3pKWDFSZ3pYMzVZbGNyVVJVa0lEcGdhcGk5N2IyM25wUmxXUk5QZm9henM3Um5hWHVBMVNsanlhUXEycDVTUg?oc=5",
-        "publishedAt": "2026-11-20T19:00:38.000Z"
       },
       {
         "time": "09:00",
@@ -57,6 +50,13 @@
         "source": "TVer",
         "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1pVUhpcUFaNkdrVS1oNWtYY2hwMjF0el8yUzF6Qy1zWXMzal9vSWh0WG44VmlLYzdMRXVGQzk0dFV0cWl3NWU2SXI0cw?oc=5",
         "publishedAt": "2026-11-21T10:03:51.000Z"
+      },
+      {
+        "time": "13:30",
+        "title": "パワースカイビングカッターの世界市場（2026年～2032年）、市場規模（300mm以下、300～600mm、600mm超）・分析レポートを発表",
+        "source": "Newscast.jp",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAyYkdtSmxGRFFYNnVvUE80djJibkVvTFFEVXFaNExrOHhZY2xDMnoyUWVJR2dacjExQWc0TWowTE5mMmRNel9yTUZrUzZsMEU?oc=5",
+        "publishedAt": "2026-11-21T04:30:00.000Z"
       }
     ],
     "worldHeadlines": [
