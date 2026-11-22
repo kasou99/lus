@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-22T07:11:20.175Z",
+  "updatedAt": "2026-11-22T07:35:36.148Z",
   "items": [
     {
       "time": "15:29",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "首里城正殿 完成祝うテープカット"
     },
     {
-      "time": "09:29",
-      "title": "地方銀行再編 各地でくすぶる火種",
+      "time": "16:18",
+      "title": "福島の大雪 滞在者ら孤立状態解消",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603509?source=rss",
-      "publishedAt": "2026-11-22T00:29:41.000Z",
-      "xQuery": "地方銀行再編 各地でくすぶる火種"
+      "url": "https://news.yahoo.co.jp/pickup/6603560?source=rss",
+      "publishedAt": "2026-11-22T07:18:07.000Z",
+      "xQuery": "福島の大雪 滞在者ら孤立状態解消"
     },
     {
-      "time": "14:12",
-      "title": "韓国 教育相が入試巡る混乱で辞意",
+      "time": "16:31",
+      "title": "益永死刑囚が死亡 連続企業爆破",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603542?source=rss",
-      "publishedAt": "2026-11-22T05:12:21.000Z",
-      "xQuery": "韓国 教育相が入試巡る混乱で辞意"
+      "url": "https://news.yahoo.co.jp/pickup/6603563?source=rss",
+      "publishedAt": "2026-11-22T07:31:35.000Z",
+      "xQuery": "益永死刑囚が死亡 連続企業爆破"
     },
     {
       "time": "14:33",
