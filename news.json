@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-11-22T19:35:12.504Z",
+  "updatedAt": "2026-11-22T20:10:51.110Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "04:55",
+        "title": "【機械22社】倒産危険度ランキング2027最新版！8位JUKI、3位平和HD、急激に経営が悪化して1位になったのは？",
+        "source": "ダイヤモンド・オンライン",
+        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE84MlZoaHp0MVU0ck5JejdMNVJTQVltT190bk9yS19fQ3FSU0x0d2tPUUlONmhMY1hEaDFualdwMG0xcDN6YnpleW5hUS0?oc=5",
+        "publishedAt": "2026-11-22T19:55:00.000Z"
+      },
       {
         "time": "09:25",
         "title": "【独自】フィジカルＡＩ実用化へ企業連合 製造ロボ制御、京セラなど２０社",
@@ -50,13 +57,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6603504?source=rss",
         "publishedAt": "2026-11-21T23:49:12.000Z"
-      },
-      {
-        "time": "09:58",
-        "title": "メンズメイク 若者を悩ます世代差",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6603512?source=rss",
-        "publishedAt": "2026-11-22T00:58:05.000Z"
       }
     ],
     "worldHeadlines": [
