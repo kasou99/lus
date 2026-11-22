@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-22T14:35:45.578Z",
+  "updatedAt": "2026-11-22T15:09:17.952Z",
   "items": [
     {
       "time": "21:43",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "文科相の「交代示唆」木原氏否定"
     },
     {
-      "time": "21:11",
-      "title": "米大統領側 訪日時のオバマ氏やゆ",
+      "time": "23:22",
+      "title": "参政党が首長選に積極擁立 狙い",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603598?source=rss",
-      "publishedAt": "2026-11-22T12:11:40.000Z",
-      "xQuery": "米大統領側 訪日時のオバマ氏やゆ"
+      "url": "https://news.yahoo.co.jp/pickup/6603611?source=rss",
+      "publishedAt": "2026-11-22T14:22:39.000Z",
+      "xQuery": "参政党が首長選に積極擁立 狙い"
     },
     {
       "time": "22:36",
