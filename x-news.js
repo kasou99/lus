@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-22T03:35:56.349Z",
+  "updatedAt": "2026-11-22T04:13:10.186Z",
   "items": [
     {
       "time": "12:02",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "自民 原潜保有議論「排除せず」"
     },
     {
-      "time": "08:18",
-      "title": "税収格差是正 都と地方せめぎ合い",
+      "time": "12:42",
+      "title": "記録的降水量の北陸 土砂災害警戒",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603498?source=rss",
-      "publishedAt": "2026-11-21T23:18:50.000Z",
-      "xQuery": "税収格差是正 都と地方せめぎ合い"
+      "url": "https://news.yahoo.co.jp/pickup/6603534?source=rss",
+      "publishedAt": "2026-11-22T03:42:27.000Z",
+      "xQuery": "記録的降水量の北陸 土砂災害警戒"
     },
     {
       "time": "11:31",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "AI兵器先行の米露 規制に消極姿勢"
     },
     {
-      "time": "10:47",
-      "title": "大学オールジェンダートイレ 賛否",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603518?source=rss",
-      "publishedAt": "2026-11-22T01:47:04.000Z",
-      "xQuery": "大学オールジェンダートイレ 賛否"
-    },
-    {
       "time": "12:19",
       "title": "既婚者専用マッチングアプリ 実態",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6603531?source=rss",
       "publishedAt": "2026-11-22T03:19:01.000Z",
       "xQuery": "既婚者専用マッチングアプリ 実態"
+    },
+    {
+      "time": "10:05",
+      "title": "若者の手芸ブーム AI時代になぜ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603515?source=rss",
+      "publishedAt": "2026-11-22T01:05:26.000Z",
+      "xQuery": "若者の手芸ブーム AI時代になぜ"
     }
   ]
 };
