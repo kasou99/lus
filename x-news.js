@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-22T04:35:53.496Z",
+  "updatedAt": "2026-11-22T05:11:15.822Z",
   "items": [
     {
       "time": "12:02",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "ウ大統領出身地に露「3連続」攻撃"
     },
     {
-      "time": "12:42",
-      "title": "記録的降水量の北陸 土砂災害警戒",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603534?source=rss",
-      "publishedAt": "2026-11-22T03:42:27.000Z",
-      "xQuery": "記録的降水量の北陸 土砂災害警戒"
-    },
-    {
       "time": "12:19",
       "title": "既婚者専用マッチングアプリ 実態",
       "source": "Yahoo!ニュース",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6603515?source=rss",
       "publishedAt": "2026-11-22T01:05:26.000Z",
       "xQuery": "若者の手芸ブーム AI時代になぜ"
+    },
+    {
+      "time": "13:44",
+      "title": "うーん 買い取り店で揺れる人の心",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603538?source=rss",
+      "publishedAt": "2026-11-22T04:44:13.000Z",
+      "xQuery": "うーん 買い取り店で揺れる人の心"
     }
   ]
 };
