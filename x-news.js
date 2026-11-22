@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-22T02:35:50.051Z",
+  "updatedAt": "2026-11-22T03:13:20.924Z",
   "items": [
     {
       "time": "08:18",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "今年8人転落の防波堤 全員県外客"
     },
     {
+      "time": "11:33",
+      "title": "無資格注射疑いのペット店 実態は",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603523?source=rss",
+      "publishedAt": "2026-11-22T02:33:53.000Z",
+      "xQuery": "無資格注射疑いのペット店 実態は"
+    },
+    {
       "time": "10:47",
       "title": "大学オールジェンダートイレ 賛否",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6603518?source=rss",
       "publishedAt": "2026-11-22T01:47:04.000Z",
       "xQuery": "大学オールジェンダートイレ 賛否"
-    },
-    {
-      "time": "09:58",
-      "title": "メンズメイク 若者を悩ます世代差",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603512?source=rss",
-      "publishedAt": "2026-11-22T00:58:05.000Z",
-      "xQuery": "メンズメイク 若者を悩ます世代差"
     }
   ]
 };
