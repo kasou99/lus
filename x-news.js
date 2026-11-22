@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-22T07:35:36.148Z",
+  "updatedAt": "2026-11-22T08:13:50.485Z",
   "items": [
+    {
+      "time": "16:31",
+      "title": "益永死刑囚が死亡 連続企業爆破",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603563?source=rss",
+      "publishedAt": "2026-11-22T07:31:35.000Z",
+      "xQuery": "益永死刑囚が死亡 連続企業爆破"
+    },
     {
       "time": "15:29",
       "title": "首里城正殿 完成祝うテープカット",
@@ -18,20 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "福島の大雪 滞在者ら孤立状態解消"
     },
     {
-      "time": "16:31",
-      "title": "益永死刑囚が死亡 連続企業爆破",
+      "time": "16:37",
+      "title": "金沢に白タクまん延 手口は巧妙化",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603563?source=rss",
-      "publishedAt": "2026-11-22T07:31:35.000Z",
-      "xQuery": "益永死刑囚が死亡 連続企業爆破"
-    },
-    {
-      "time": "14:33",
-      "title": "12歳男子中学生が行方不明 郡山市",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603546?source=rss",
-      "publishedAt": "2026-11-22T05:33:04.000Z",
-      "xQuery": "12歳男子中学生が行方不明 郡山市"
+      "url": "https://news.yahoo.co.jp/pickup/6603561?source=rss",
+      "publishedAt": "2026-11-22T07:37:41.000Z",
+      "xQuery": "金沢に白タクまん延 手口は巧妙化"
     },
     {
       "time": "15:36",
