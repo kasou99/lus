@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-22T11:35:15.647Z",
+  "updatedAt": "2026-11-22T12:15:06.008Z",
   "items": [
     {
-      "time": "16:25",
-      "title": "23日は空気が乾燥 感染予防を",
+      "time": "19:07",
+      "title": "「普天間」負担軽減会議 開催へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603559?source=rss",
-      "publishedAt": "2026-11-22T07:25:13.000Z",
-      "xQuery": "23日は空気が乾燥 感染予防を"
+      "url": "https://news.yahoo.co.jp/pickup/6603582?source=rss",
+      "publishedAt": "2026-11-22T10:07:41.000Z",
+      "xQuery": "「普天間」負担軽減会議 開催へ"
     },
     {
       "time": "20:11",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "「サイバー保険」に加入 企業増加"
     },
     {
-      "time": "19:41",
-      "title": "タワーレコード 1100万件情報流出",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603588?source=rss",
-      "publishedAt": "2026-11-22T10:41:54.000Z",
-      "xQuery": "タワーレコード 1100万件情報流出"
-    },
-    {
       "time": "20:07",
       "title": "72歳の建築士 2度目の首里城復元",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6603592?source=rss",
       "publishedAt": "2026-11-22T11:07:52.000Z",
       "xQuery": "72歳の建築士 2度目の首里城復元"
+    },
+    {
+      "time": "20:59",
+      "title": "体育館屋根から転落 作業員が死亡",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603596?source=rss",
+      "publishedAt": "2026-11-22T11:59:24.000Z",
+      "xQuery": "体育館屋根から転落 作業員が死亡"
     },
     {
       "time": "18:02",

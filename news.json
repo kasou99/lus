@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T11:35:14.511Z",
+  "updatedAt": "2026-11-22T12:15:05.572Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -10,18 +10,11 @@
         "publishedAt": "2026-11-22T01:35:45.000Z"
       },
       {
-        "time": "09:25",
-        "title": "【独自】フィジカルＡＩ実用化へ企業連合 製造ロボ制御、京セラなど２０社",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUzVNMlpna1hFMHNmZGduYmpGREVUUGoyZ09qb2ZLMl9HQXJna0puZlBkbDJiRHJhcTZuelFaWlNfdXA2dmVGaWdJeGlYQlhzbUFDQU96bHh0WXBleWR4UUpLZEw0VUxNblFTOUhPX3VZNV9MRjdIUnEtWGJhb0tmQWRn?oc=5",
-        "publishedAt": "2026-11-22T00:25:05.000Z"
-      },
-      {
-        "time": "10:29",
-        "title": "くりでんミュージアム 2026くりでん創業祭（2026年12月5日）",
-        "source": "Tetsudo.com（鉄道コム）",
-        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE85Mi14MUtycmEwa1duczVGTHB0RGk1RG9URFRxckllVk9ZSnd4ZVdiS09WSWI0V1NsQlFzNTlSOE9xQ2hBNUhFVzd3VWY?oc=5",
-        "publishedAt": "2026-11-22T01:29:00.000Z"
+        "time": "20:30",
+        "title": "日本のお菓子をもっとおいしくするのは、凍ったバターを切りまくれるマシンかも",
+        "source": "Gizmodo",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE52YldLYldvN0dvbXV0a1NtUDNHWUloUmhvUXk0WGVvTU9yQ3d1YzNfN0VHcG1aalUyQ1gtRzBDYkhVelZHamR1eEUxREVVTFJyRVUyNXROQXFudnI3ZkRwS1VkSEJLQXRIdmdtcg?oc=5",
+        "publishedAt": "2026-11-22T11:30:00.000Z"
       },
       {
         "time": "02:32",
@@ -31,11 +24,11 @@
         "publishedAt": "2026-11-21T17:32:58.000Z"
       },
       {
-        "time": "20:30",
-        "title": "日本のお菓子をもっとおいしくするのは、凍ったバターを切りまくれるマシンかも",
-        "source": "Gizmodo",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE52YldLYldvN0dvbXV0a1NtUDNHWUloUmhvUXk0WGVvTU9yQ3d1YzNfN0VHcG1aalUyQ1gtRzBDYkhVelZHamR1eEUxREVVTFJyRVUyNXROQXFudnI3ZkRwS1VkSEJLQXRIdmdtcg?oc=5",
-        "publishedAt": "2026-11-22T11:30:00.000Z"
+        "time": "10:29",
+        "title": "くりでんミュージアム 2026くりでん創業祭（2026年12月5日）",
+        "source": "Tetsudo.com（鉄道コム）",
+        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE85Mi14MUtycmEwa1duczVGTHB0RGk1RG9URFRxckllVk9ZSnd4ZVdiS09WSWI0V1NsQlFzNTlSOE9xQ2hBNUhFVzd3VWY?oc=5",
+        "publishedAt": "2026-11-22T01:29:00.000Z"
       },
       {
         "time": "00:14",
@@ -57,6 +50,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6603591?source=rss",
         "publishedAt": "2026-11-22T11:11:10.000Z"
+      },
+      {
+        "time": "09:29",
+        "title": "地方銀行再編 各地でくすぶる火種",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6603509?source=rss",
+        "publishedAt": "2026-11-22T00:29:41.000Z"
       }
     ],
     "worldHeadlines": [
@@ -75,18 +75,18 @@
         "publishedAt": "2026-11-21T11:51:20.000Z"
       },
       {
+        "time": "21:11",
+        "title": "米大統領側 訪日時のオバマ氏やゆ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6603598?source=rss",
+        "publishedAt": "2026-11-22T12:11:40.000Z"
+      },
+      {
         "time": "18:08",
         "title": "ホルムズ海峡を遠泳 環境被害訴え",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6603576?source=rss",
         "publishedAt": "2026-11-22T09:08:26.000Z"
-      },
-      {
-        "time": "15:50",
-        "title": "「脱化石」巡り決着不透明 COP31",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6603556?source=rss",
-        "publishedAt": "2026-11-22T06:50:53.000Z"
       },
       {
         "time": "10:21",
@@ -184,11 +184,11 @@
         "publishedAt": "2026-11-22T05:33:04.000Z"
       },
       {
-        "time": "16:37",
-        "title": "金沢に白タクまん延 手口は巧妙化",
+        "time": "20:59",
+        "title": "体育館屋根から転落 作業員が死亡",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6603561?source=rss",
-        "publishedAt": "2026-11-22T07:37:41.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6603596?source=rss",
+        "publishedAt": "2026-11-22T11:59:24.000Z"
       }
     ],
     "subsidyHeadlines": [
