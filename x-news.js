@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-22T14:10:00.834Z",
+  "updatedAt": "2026-11-22T14:35:45.578Z",
   "items": [
     {
       "time": "21:43",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "米大統領側 訪日時のオバマ氏やゆ"
     },
     {
-      "time": "21:22",
-      "title": "踏切内に電動車いすの79歳 死亡",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603599?source=rss",
-      "publishedAt": "2026-11-22T12:22:48.000Z",
-      "xQuery": "踏切内に電動車いすの79歳 死亡"
-    },
-    {
       "time": "22:36",
       "title": "社員を監禁疑い 社長ら4人逮捕",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6603608?source=rss",
       "publishedAt": "2026-11-22T13:36:08.000Z",
       "xQuery": "社員を監禁疑い 社長ら4人逮捕"
+    },
+    {
+      "time": "22:45",
+      "title": "アンソロピックIPO巡り銀行に制約",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603609?source=rss",
+      "publishedAt": "2026-11-22T13:45:03.000Z",
+      "xQuery": "アンソロピックIPO巡り銀行に制約"
     }
   ]
 };
