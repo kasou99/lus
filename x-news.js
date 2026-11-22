@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-22T08:13:50.485Z",
+  "updatedAt": "2026-11-22T08:35:50.956Z",
   "items": [
     {
       "time": "16:31",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "福島の大雪 滞在者ら孤立状態解消"
     },
     {
+      "time": "17:07",
+      "title": "リーマン予想 AI証明巡り共同声明",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603568?source=rss",
+      "publishedAt": "2026-11-22T08:07:46.000Z",
+      "xQuery": "リーマン予想 AI証明巡り共同声明"
+    },
+    {
       "time": "16:37",
       "title": "金沢に白タクまん延 手口は巧妙化",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6603561?source=rss",
       "publishedAt": "2026-11-22T07:37:41.000Z",
       "xQuery": "金沢に白タクまん延 手口は巧妙化"
-    },
-    {
-      "time": "15:36",
-      "title": "「夜職」相次ぐ海外入国トラブル",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603554?source=rss",
-      "publishedAt": "2026-11-22T06:36:19.000Z",
-      "xQuery": "「夜職」相次ぐ海外入国トラブル"
     }
   ]
 };

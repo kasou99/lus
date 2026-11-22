@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T08:13:49.897Z",
+  "updatedAt": "2026-11-22T08:35:49.921Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -8,6 +8,13 @@
         "source": "山陽新聞",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9FZmVvdHRtblJHVUwtN0Qzek94dEpERmI4dkJGOTRwdTRxb2VuVF9xOS1lWldxTVQyTVZBZDZ5clR1ckRVajVqSzdFejhHYU5jTXc?oc=5",
         "publishedAt": "2026-11-21T17:32:58.000Z"
+      },
+      {
+        "time": "10:29",
+        "title": "くりでんミュージアム 2026くりでん創業祭（2026年12月5日）",
+        "source": "Tetsudo.com（鉄道コム）",
+        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE85Mi14MUtycmEwa1duczVGTHB0RGk1RG9URFRxckllVk9ZSnd4ZVdiS09WSWI0V1NsQlFzNTlSOE9xQ2hBNUhFVzd3VWY?oc=5",
+        "publishedAt": "2026-11-22T01:29:00.000Z"
       },
       {
         "time": "20:09",
@@ -29,13 +36,6 @@
         "source": "山陽新聞",
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1yV3lQNm9BT1E5d21SNWM0ZVFmY3VUVHRUSUhNU1hxbUZLcGJaNDg0dUlwQTVFV0dHa1A5SDloQXR6aEwzem9VdzFXckFfQ00wMWhqbW5rZUpvX2NISVZUTUZlWlZFTUxt?oc=5",
         "publishedAt": "2026-11-21T08:37:35.000Z"
-      },
-      {
-        "time": "10:29",
-        "title": "くりでんミュージアム 2026くりでん創業祭（2026年12月5日）",
-        "source": "Tetsudo.com（鉄道コム）",
-        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE85Mi14MUtycmEwa1duczVGTHB0RGk1RG9URFRxckllVk9ZSnd4ZVdiS09WSWI0V1NsQlFzNTlSOE9xQ2hBNUhFVzd3VWY?oc=5",
-        "publishedAt": "2026-11-22T01:29:00.000Z"
       },
       {
         "time": "00:14",
