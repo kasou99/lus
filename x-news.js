@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-22T10:35:19.873Z",
+  "updatedAt": "2026-11-22T11:09:12.636Z",
   "items": [
     {
       "time": "18:35",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "三原則例外 被爆者「言語道断だ」"
     },
     {
+      "time": "19:41",
+      "title": "タワーレコード 1100万件情報流出",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603588?source=rss",
+      "publishedAt": "2026-11-22T10:41:54.000Z",
+      "xQuery": "タワーレコード 1100万件情報流出"
+    },
+    {
       "time": "18:02",
       "title": "原発構内でガラスの下敷きに 死亡",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6603574?source=rss",
       "publishedAt": "2026-11-22T09:02:34.000Z",
       "xQuery": "原発構内でガラスの下敷きに 死亡"
-    },
-    {
-      "time": "18:49",
-      "title": "海転落相次ぐ 生死分けた救命胴衣",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603580?source=rss",
-      "publishedAt": "2026-11-22T09:49:30.000Z",
-      "xQuery": "海転落相次ぐ 生死分けた救命胴衣"
     },
     {
       "time": "17:07",
