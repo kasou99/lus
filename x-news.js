@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-22T13:35:00.919Z",
+  "updatedAt": "2026-11-22T14:10:00.834Z",
   "items": [
     {
-      "time": "19:07",
-      "title": "「普天間」負担軽減会議 開催へ",
+      "time": "21:43",
+      "title": "COP31合意採択断念 EUなど反対",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603582?source=rss",
-      "publishedAt": "2026-11-22T10:07:41.000Z",
-      "xQuery": "「普天間」負担軽減会議 開催へ"
+      "url": "https://news.yahoo.co.jp/pickup/6603603?source=rss",
+      "publishedAt": "2026-11-22T12:43:52.000Z",
+      "xQuery": "COP31合意採択断念 EUなど反対"
     },
     {
-      "time": "20:11",
-      "title": "「サイバー保険」に加入 企業増加",
+      "time": "21:39",
+      "title": "文科相の「交代示唆」木原氏否定",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603591?source=rss",
-      "publishedAt": "2026-11-22T11:11:10.000Z",
-      "xQuery": "「サイバー保険」に加入 企業増加"
+      "url": "https://news.yahoo.co.jp/pickup/6603601?source=rss",
+      "publishedAt": "2026-11-22T12:39:35.000Z",
+      "xQuery": "文科相の「交代示唆」木原氏否定"
     },
     {
       "time": "21:11",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "踏切内に電動車いすの79歳 死亡"
     },
     {
-      "time": "20:59",
-      "title": "体育館屋根から転落 作業員が死亡",
+      "time": "22:36",
+      "title": "社員を監禁疑い 社長ら4人逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603596?source=rss",
-      "publishedAt": "2026-11-22T11:59:24.000Z",
-      "xQuery": "体育館屋根から転落 作業員が死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6603608?source=rss",
+      "publishedAt": "2026-11-22T13:36:08.000Z",
+      "xQuery": "社員を監禁疑い 社長ら4人逮捕"
     }
   ]
 };
