@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-22T03:13:20.924Z",
+  "updatedAt": "2026-11-22T03:35:56.349Z",
   "items": [
+    {
+      "time": "12:02",
+      "title": "自民 原潜保有議論「排除せず」",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603529?source=rss",
+      "publishedAt": "2026-11-22T03:02:53.000Z",
+      "xQuery": "自民 原潜保有議論「排除せず」"
+    },
     {
       "time": "08:18",
       "title": "税収格差是正 都と地方せめぎ合い",
@@ -18,28 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "AI兵器先行の米露 規制に消極姿勢"
     },
     {
-      "time": "10:35",
-      "title": "今年8人転落の防波堤 全員県外客",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603517?source=rss",
-      "publishedAt": "2026-11-22T01:35:08.000Z",
-      "xQuery": "今年8人転落の防波堤 全員県外客"
-    },
-    {
-      "time": "11:33",
-      "title": "無資格注射疑いのペット店 実態は",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603523?source=rss",
-      "publishedAt": "2026-11-22T02:33:53.000Z",
-      "xQuery": "無資格注射疑いのペット店 実態は"
-    },
-    {
       "time": "10:47",
       "title": "大学オールジェンダートイレ 賛否",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6603518?source=rss",
       "publishedAt": "2026-11-22T01:47:04.000Z",
       "xQuery": "大学オールジェンダートイレ 賛否"
+    },
+    {
+      "time": "12:19",
+      "title": "既婚者専用マッチングアプリ 実態",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603531?source=rss",
+      "publishedAt": "2026-11-22T03:19:01.000Z",
+      "xQuery": "既婚者専用マッチングアプリ 実態"
     }
   ]
 };
