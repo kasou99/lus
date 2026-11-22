@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-21T23:35:11.547Z",
+  "updatedAt": "2026-11-22T00:32:36.414Z",
   "items": [
     {
       "time": "07:35",
@@ -10,20 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "関文科相の辞任論 与党内で拡大"
     },
     {
-      "time": "07:52",
-      "title": "焼失7年 首里城正殿きょう完成式",
+      "time": "08:49",
+      "title": "氷河期世代の正社員率改善も 格差",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603492?source=rss",
-      "publishedAt": "2026-11-21T22:52:28.000Z",
-      "xQuery": "焼失7年 首里城正殿きょう完成式"
-    },
-    {
-      "time": "08:04",
-      "title": "兵庫3歳死亡 家庭へ復帰なぜ判断",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603495?source=rss",
-      "publishedAt": "2026-11-21T23:04:57.000Z",
-      "xQuery": "兵庫3歳死亡 家庭へ復帰なぜ判断"
+      "url": "https://news.yahoo.co.jp/pickup/6603504?source=rss",
+      "publishedAt": "2026-11-21T23:49:12.000Z",
+      "xQuery": "氷河期世代の正社員率改善も 格差"
     },
     {
       "time": "07:50",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "DIYで溶接中に出火か 男性が死亡"
     },
     {
-      "time": "07:22",
-      "title": "福間女流四冠が第2子妊娠公表",
+      "time": "08:22",
+      "title": "「叱らない育児」を意識 悩む母",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603488?source=rss",
-      "publishedAt": "2026-11-21T22:22:24.000Z",
-      "xQuery": "福間女流四冠が第2子妊娠公表"
+      "url": "https://news.yahoo.co.jp/pickup/6603500?source=rss",
+      "publishedAt": "2026-11-21T23:22:49.000Z",
+      "xQuery": "「叱らない育児」を意識 悩む母"
+    },
+    {
+      "time": "08:39",
+      "title": "村上春樹さんが村上龍さんを追悼",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603503?source=rss",
+      "publishedAt": "2026-11-21T23:39:54.000Z",
+      "xQuery": "村上春樹さんが村上龍さんを追悼"
     }
   ]
 };
