@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-22T05:36:10.308Z",
+  "updatedAt": "2026-11-22T06:17:46.780Z",
   "items": [
     {
       "time": "09:29",
@@ -10,36 +10,36 @@ window.LUS_X_NEWS = {
       "xQuery": "地方銀行再編 各地でくすぶる火種"
     },
     {
-      "time": "12:02",
-      "title": "自民 原潜保有議論「排除せず」",
+      "time": "10:21",
+      "title": "ブラジル南部 猛烈な嵐で4人死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603529?source=rss",
-      "publishedAt": "2026-11-22T03:02:53.000Z",
-      "xQuery": "自民 原潜保有議論「排除せず」"
+      "url": "https://news.yahoo.co.jp/pickup/6603516?source=rss",
+      "publishedAt": "2026-11-22T01:21:51.000Z",
+      "xQuery": "ブラジル南部 猛烈な嵐で4人死亡"
     },
     {
-      "time": "12:59",
-      "title": "ウ大統領出身地に露「3連続」攻撃",
+      "time": "14:12",
+      "title": "韓国 教育相が入試巡る混乱で辞意",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603535?source=rss",
-      "publishedAt": "2026-11-22T03:59:29.000Z",
-      "xQuery": "ウ大統領出身地に露「3連続」攻撃"
+      "url": "https://news.yahoo.co.jp/pickup/6603542?source=rss",
+      "publishedAt": "2026-11-22T05:12:21.000Z",
+      "xQuery": "韓国 教育相が入試巡る混乱で辞意"
     },
     {
-      "time": "12:19",
-      "title": "既婚者専用マッチングアプリ 実態",
+      "time": "14:46",
+      "title": "原発敷地でガラスの下敷きに 重体",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603531?source=rss",
-      "publishedAt": "2026-11-22T03:19:01.000Z",
-      "xQuery": "既婚者専用マッチングアプリ 実態"
+      "url": "https://news.yahoo.co.jp/pickup/6603547?source=rss",
+      "publishedAt": "2026-11-22T05:46:39.000Z",
+      "xQuery": "原発敷地でガラスの下敷きに 重体"
     },
     {
-      "time": "13:44",
-      "title": "うーん 買い取り店で揺れる人の心",
+      "time": "14:33",
+      "title": "12歳男子中学生が行方不明 郡山市",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603538?source=rss",
-      "publishedAt": "2026-11-22T04:44:13.000Z",
-      "xQuery": "うーん 買い取り店で揺れる人の心"
+      "url": "https://news.yahoo.co.jp/pickup/6603546?source=rss",
+      "publishedAt": "2026-11-22T05:33:04.000Z",
+      "xQuery": "12歳男子中学生が行方不明 郡山市"
     }
   ]
 };
