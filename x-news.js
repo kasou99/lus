@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-22T21:35:23.050Z",
+  "updatedAt": "2026-11-22T22:09:30.969Z",
   "items": [
     {
-      "time": "21:43",
-      "title": "COP31合意採択断念 EUなど反対",
+      "time": "06:58",
+      "title": "COP31 合意文書採択できず閉幕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603603?source=rss",
-      "publishedAt": "2026-11-22T12:43:52.000Z",
-      "xQuery": "COP31合意採択断念 EUなど反対"
+      "url": "https://news.yahoo.co.jp/pickup/6603614?source=rss",
+      "publishedAt": "2026-11-22T21:58:55.000Z",
+      "xQuery": "COP31 合意文書採択できず閉幕"
     },
     {
       "time": "21:39",
