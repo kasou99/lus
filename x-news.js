@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-22T05:11:15.822Z",
+  "updatedAt": "2026-11-22T05:36:10.308Z",
   "items": [
+    {
+      "time": "09:29",
+      "title": "地方銀行再編 各地でくすぶる火種",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603509?source=rss",
+      "publishedAt": "2026-11-22T00:29:41.000Z",
+      "xQuery": "地方銀行再編 各地でくすぶる火種"
+    },
     {
       "time": "12:02",
       "title": "自民 原潜保有議論「排除せず」",
@@ -24,14 +32,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6603531?source=rss",
       "publishedAt": "2026-11-22T03:19:01.000Z",
       "xQuery": "既婚者専用マッチングアプリ 実態"
-    },
-    {
-      "time": "10:05",
-      "title": "若者の手芸ブーム AI時代になぜ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603515?source=rss",
-      "publishedAt": "2026-11-22T01:05:26.000Z",
-      "xQuery": "若者の手芸ブーム AI時代になぜ"
     },
     {
       "time": "13:44",
