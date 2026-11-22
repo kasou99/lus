@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-22T00:32:36.414Z",
+  "updatedAt": "2026-11-22T01:11:17.567Z",
   "items": [
     {
-      "time": "07:35",
-      "title": "関文科相の辞任論 与党内で拡大",
+      "time": "09:26",
+      "title": "「脱化石」削除巡り紛糾 COP31",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603489?source=rss",
-      "publishedAt": "2026-11-21T22:35:13.000Z",
-      "xQuery": "関文科相の辞任論 与党内で拡大"
+      "url": "https://news.yahoo.co.jp/pickup/6603508?source=rss",
+      "publishedAt": "2026-11-22T00:26:56.000Z",
+      "xQuery": "「脱化石」削除巡り紛糾 COP31"
     },
     {
       "time": "08:49",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "氷河期世代の正社員率改善も 格差"
     },
     {
+      "time": "09:38",
+      "title": "大雪で水族館停電 生き物を移動",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603510?source=rss",
+      "publishedAt": "2026-11-22T00:38:32.000Z",
+      "xQuery": "大雪で水族館停電 生き物を移動"
+    },
+    {
       "time": "07:50",
       "title": "DIYで溶接中に出火か 男性が死亡",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6603493?source=rss",
       "publishedAt": "2026-11-21T22:50:49.000Z",
       "xQuery": "DIYで溶接中に出火か 男性が死亡"
-    },
-    {
-      "time": "08:22",
-      "title": "「叱らない育児」を意識 悩む母",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603500?source=rss",
-      "publishedAt": "2026-11-21T23:22:49.000Z",
-      "xQuery": "「叱らない育児」を意識 悩む母"
     },
     {
       "time": "08:39",
