@@ -1,27 +1,27 @@
 {
-  "updatedAt": "2026-11-22T08:35:49.921Z",
+  "updatedAt": "2026-11-22T09:11:40.480Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "10:35",
+        "title": "工作機械受注が示す日本株と世界経済 高水準維持も伸び率拡大の局面は終了か",
+        "source": "TBS NEWS DIG",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1lUnVfUGlvMFhxdEV2NTZzdHd2bTVYT3luOHcycm4xM25sRE1sLVdVeXF3S240U0l0RzZHUmZIMGdLZ0hCVFU1dFkxRWxjLTh2OWgwUHFldkZBSHc1RUVZ?oc=5",
+        "publishedAt": "2026-11-22T01:35:45.000Z"
+      },
+      {
+        "time": "09:25",
+        "title": "【独自】フィジカルＡＩ実用化へ企業連合 製造ロボ制御、京セラなど２０社",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUzVNMlpna1hFMHNmZGduYmpGREVUUGoyZ09qb2ZLMl9HQXJna0puZlBkbDJiRHJhcTZuelFaWlNfdXA2dmVGaWdJeGlYQlhzbUFDQU96bHh0WXBleWR4UUpLZEw0VUxNblFTOUhPX3VZNV9MRjdIUnEtWGJhb0tmQWRn?oc=5",
+        "publishedAt": "2026-11-22T00:25:05.000Z"
+      },
       {
         "time": "02:32",
         "title": "-40～75℃の過酷環境でも安定動作する、省スペース・コンパクト設計の産業用ギガビットハブを発売",
         "source": "山陽新聞",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9FZmVvdHRtblJHVUwtN0Qzek94dEpERmI4dkJGOTRwdTRxb2VuVF9xOS1lWldxTVQyTVZBZDZ5clR1ckRVajVqSzdFejhHYU5jTXc?oc=5",
         "publishedAt": "2026-11-21T17:32:58.000Z"
-      },
-      {
-        "time": "10:29",
-        "title": "くりでんミュージアム 2026くりでん創業祭（2026年12月5日）",
-        "source": "Tetsudo.com（鉄道コム）",
-        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE85Mi14MUtycmEwa1duczVGTHB0RGk1RG9URFRxckllVk9ZSnd4ZVdiS09WSWI0V1NsQlFzNTlSOE9xQ2hBNUhFVzd3VWY?oc=5",
-        "publishedAt": "2026-11-22T01:29:00.000Z"
-      },
-      {
-        "time": "20:09",
-        "title": "NSR250R /SP/SEの投稿一覧",
-        "source": "GooBike",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9lcWlEMi1TUC1RSzdXZ1ptYV9mMUVqNG1UUWc1T0V4eWRRRkpUX19VOE1OYndyX2x4c1ZRVzhiR1R3VU5UVlhjTU8tMHVnS3JLUE5TMHdJWFY5Zw?oc=5",
-        "publishedAt": "2026-11-21T11:09:04.000Z"
       },
       {
         "time": "19:03",
@@ -31,11 +31,11 @@
         "publishedAt": "2026-11-21T10:03:51.000Z"
       },
       {
-        "time": "17:37",
-        "title": "歯車製造する複合加工機 新開発 主力旋盤ベースに機能強化 ＴＡＫＩＳＡＷＡ",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1yV3lQNm9BT1E5d21SNWM0ZVFmY3VUVHRUSUhNU1hxbUZLcGJaNDg0dUlwQTVFV0dHa1A5SDloQXR6aEwzem9VdzFXckFfQ00wMWhqbW5rZUpvX2NISVZUTUZlWlZFTUxt?oc=5",
-        "publishedAt": "2026-11-21T08:37:35.000Z"
+        "time": "10:29",
+        "title": "くりでんミュージアム 2026くりでん創業祭（2026年12月5日）",
+        "source": "Tetsudo.com（鉄道コム）",
+        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE85Mi14MUtycmEwa1duczVGTHB0RGk1RG9URFRxckllVk9ZSnd4ZVdiS09WSWI0V1NsQlFzNTlSOE9xQ2hBNUhFVzd3VWY?oc=5",
+        "publishedAt": "2026-11-22T01:29:00.000Z"
       },
       {
         "time": "00:14",
@@ -82,6 +82,13 @@
         "publishedAt": "2026-11-21T09:30:46.000Z"
       },
       {
+        "time": "18:08",
+        "title": "ホルムズ海峡を遠泳 環境被害訴え",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6603576?source=rss",
+        "publishedAt": "2026-11-22T09:08:26.000Z"
+      },
+      {
         "time": "15:50",
         "title": "「脱化石」巡り決着不透明 COP31",
         "source": "Yahoo!ニュース",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6603516?source=rss",
         "publishedAt": "2026-11-22T01:21:51.000Z"
-      },
-      {
-        "time": "14:12",
-        "title": "韓国 教育相が入試巡る混乱で辞意",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6603542?source=rss",
-        "publishedAt": "2026-11-22T05:12:21.000Z"
       }
     ],
     "economyHeadlines": [
@@ -163,18 +163,18 @@
         "publishedAt": "2026-11-22T07:18:07.000Z"
       },
       {
-        "time": "14:46",
-        "title": "原発敷地でガラスの下敷きに 重体",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6603547?source=rss",
-        "publishedAt": "2026-11-22T05:46:39.000Z"
-      },
-      {
         "time": "10:35",
         "title": "今年8人転落の防波堤 全員県外客",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6603517?source=rss",
         "publishedAt": "2026-11-22T01:35:08.000Z"
+      },
+      {
+        "time": "18:02",
+        "title": "原発構内でガラスの下敷きに 死亡",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6603574?source=rss",
+        "publishedAt": "2026-11-22T09:02:34.000Z"
       },
       {
         "time": "14:33",

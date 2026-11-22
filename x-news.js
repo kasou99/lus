@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-22T08:35:50.956Z",
+  "updatedAt": "2026-11-22T09:11:41.328Z",
   "items": [
     {
       "time": "16:31",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "益永死刑囚が死亡 連続企業爆破"
     },
     {
-      "time": "15:29",
-      "title": "首里城正殿 完成祝うテープカット",
+      "time": "18:08",
+      "title": "ホルムズ海峡を遠泳 環境被害訴え",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603553?source=rss",
-      "publishedAt": "2026-11-22T06:29:31.000Z",
-      "xQuery": "首里城正殿 完成祝うテープカット"
+      "url": "https://news.yahoo.co.jp/pickup/6603576?source=rss",
+      "publishedAt": "2026-11-22T09:08:26.000Z",
+      "xQuery": "ホルムズ海峡を遠泳 環境被害訴え"
     },
     {
-      "time": "16:18",
-      "title": "福島の大雪 滞在者ら孤立状態解消",
+      "time": "18:02",
+      "title": "原発構内でガラスの下敷きに 死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603560?source=rss",
-      "publishedAt": "2026-11-22T07:18:07.000Z",
-      "xQuery": "福島の大雪 滞在者ら孤立状態解消"
+      "url": "https://news.yahoo.co.jp/pickup/6603574?source=rss",
+      "publishedAt": "2026-11-22T09:02:34.000Z",
+      "xQuery": "原発構内でガラスの下敷きに 死亡"
     },
     {
       "time": "17:07",
