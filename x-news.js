@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-22T01:39:15.909Z",
+  "updatedAt": "2026-11-22T02:15:45.029Z",
   "items": [
+    {
+      "time": "08:18",
+      "title": "税収格差是正 都と地方せめぎ合い",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603498?source=rss",
+      "publishedAt": "2026-11-21T23:18:50.000Z",
+      "xQuery": "税収格差是正 都と地方せめぎ合い"
+    },
     {
       "time": "09:26",
       "title": "「脱化石」削除巡り紛糾 COP31",
@@ -8,14 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6603508?source=rss",
       "publishedAt": "2026-11-22T00:26:56.000Z",
       "xQuery": "「脱化石」削除巡り紛糾 COP31"
-    },
-    {
-      "time": "09:38",
-      "title": "大雪で水族館停電 生き物を移動",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603510?source=rss",
-      "publishedAt": "2026-11-22T00:38:32.000Z",
-      "xQuery": "大雪で水族館停電 生き物を移動"
     },
     {
       "time": "10:35",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "今年8人転落の防波堤 全員県外客"
     },
     {
-      "time": "08:44",
-      "title": "児童2人の小学校 残り少ない日々",
+      "time": "10:47",
+      "title": "大学オールジェンダートイレ 賛否",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603502?source=rss",
-      "publishedAt": "2026-11-21T23:44:37.000Z",
-      "xQuery": "児童2人の小学校 残り少ない日々"
+      "url": "https://news.yahoo.co.jp/pickup/6603518?source=rss",
+      "publishedAt": "2026-11-22T01:47:04.000Z",
+      "xQuery": "大学オールジェンダートイレ 賛否"
     },
     {
       "time": "09:58",

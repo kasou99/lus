@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-22T01:39:14.784Z",
+  "updatedAt": "2026-11-22T02:15:44.166Z",
   "groups": {
     "machineHeadlines": [
       {
-        "time": "17:00",
-        "title": "歯車製造する複合加工機 新開発 主力旋盤ベースに機能強化 ＴＡＫＩＳＡＷＡ",
+        "time": "02:32",
+        "title": "-40～75℃の過酷環境でも安定動作する、省スペース・コンパクト設計の産業用ギガビットハブを発売",
         "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1Ja21YX3pvWEx0U3FTc21MWV9rZDJwQk1hX09MTVBVVzdTU3ZodkhISlRXWUl3bXlWZ09GdnJienhZdXVPSWJyUXhjemFtSHMyRkNSUXNnSFJ4R292b3F5Z1ItMA?oc=5",
-        "publishedAt": "2026-11-21T08:00:45.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9FZmVvdHRtblJHVUwtN0Qzek94dEpERmI4dkJGOTRwdTRxb2VuVF9xOS1lWldxTVQyTVZBZDZ5clR1ckRVajVqSzdFejhHYU5jTXc?oc=5",
+        "publishedAt": "2026-11-21T17:32:58.000Z"
       },
       {
         "time": "11:29",
@@ -24,6 +24,20 @@
         "publishedAt": "2026-11-21T10:03:51.000Z"
       },
       {
+        "time": "17:00",
+        "title": "歯車製造する複合加工機 新開発 主力旋盤ベースに機能強化 ＴＡＫＩＳＡＷＡ",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1Ja21YX3pvWEx0U3FTc21MWV9rZDJwQk1hX09MTVBVVzdTU3ZodkhISlRXWUl3bXlWZ09GdnJienhZdXVPSWJyUXhjemFtSHMyRkNSUXNnSFJ4R292b3F5Z1ItMA?oc=5",
+        "publishedAt": "2026-11-21T08:00:45.000Z"
+      },
+      {
+        "time": "00:14",
+        "title": "日本半導体デバイスの国内市場と将来予測",
+        "source": "pando.life",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5NR3RuY01DSmdJQXV1ZXZCYnZDREpraUMwclIzR0FJd0duYWNld1hCaXVFdUx4SS1acmNFRUhnVVN2UUFMX0E0Vkpn?oc=5",
+        "publishedAt": "2026-11-21T15:14:38.000Z"
+      },
+      {
         "time": "13:30",
         "title": "パワースカイビングカッターの世界市場（2026年～2032年）、市場規模（300mm以下、300～600mm、600mm超）・分析レポートを発表",
         "source": "Newscast.jp",
@@ -31,32 +45,18 @@
         "publishedAt": "2026-11-21T04:30:00.000Z"
       },
       {
+        "time": "23:21",
+        "title": "サンワサプライ、-40～75℃対応の5ポート産業用スイッチングハブ",
+        "source": "Dellows News",
+        "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5oTnNybXNFUzc5emxKX2xfQmNVdWFFdFhjSGduRE10amtGdWJNYzZKc2cxdWJJRnRqZVo2eHFRR0FqVHRTU1VR?oc=5",
+        "publishedAt": "2026-11-21T14:21:58.000Z"
+      },
+      {
         "time": "09:29",
         "title": "地方銀行再編 各地でくすぶる火種",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6603509?source=rss",
         "publishedAt": "2026-11-22T00:29:41.000Z"
-      },
-      {
-        "time": "08:49",
-        "title": "氷河期世代の正社員率改善も 格差",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6603504?source=rss",
-        "publishedAt": "2026-11-21T23:49:12.000Z"
-      },
-      {
-        "time": "16:27",
-        "title": "預金1億円超個人口座 00年比3.6倍",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6603415?source=rss",
-        "publishedAt": "2026-11-21T07:27:49.000Z"
-      },
-      {
-        "time": "15:28",
-        "title": "店の「食べ放題」巡り物議 法解説",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6603408?source=rss",
-        "publishedAt": "2026-11-21T06:28:43.000Z"
       }
     ],
     "worldHeadlines": [
@@ -170,18 +170,18 @@
         "publishedAt": "2026-11-21T23:04:57.000Z"
       },
       {
-        "time": "07:52",
-        "title": "焼失7年 首里城正殿きょう完成式",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6603492?source=rss",
-        "publishedAt": "2026-11-21T22:52:28.000Z"
-      },
-      {
         "time": "07:50",
         "title": "DIYで溶接中に出火か 男性が死亡",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6603493?source=rss",
         "publishedAt": "2026-11-21T22:50:49.000Z"
+      },
+      {
+        "time": "11:00",
+        "title": "自衛隊から芸人経て巡査 男性の今",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6603519?source=rss",
+        "publishedAt": "2026-11-22T02:00:19.000Z"
       },
       {
         "time": "22:43",
