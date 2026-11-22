@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-22T12:15:06.008Z",
+  "updatedAt": "2026-11-22T12:35:05.799Z",
   "items": [
     {
       "time": "19:07",
@@ -18,12 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "「サイバー保険」に加入 企業増加"
     },
     {
-      "time": "20:07",
-      "title": "72歳の建築士 2度目の首里城復元",
+      "time": "21:11",
+      "title": "米大統領側 訪日時のオバマ氏やゆ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603592?source=rss",
-      "publishedAt": "2026-11-22T11:07:52.000Z",
-      "xQuery": "72歳の建築士 2度目の首里城復元"
+      "url": "https://news.yahoo.co.jp/pickup/6603598?source=rss",
+      "publishedAt": "2026-11-22T12:11:40.000Z",
+      "xQuery": "米大統領側 訪日時のオバマ氏やゆ"
+    },
+    {
+      "time": "21:22",
+      "title": "踏切内に電動車いすの79歳 死亡",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603599?source=rss",
+      "publishedAt": "2026-11-22T12:22:48.000Z",
+      "xQuery": "踏切内に電動車いすの79歳 死亡"
     },
     {
       "time": "20:59",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6603596?source=rss",
       "publishedAt": "2026-11-22T11:59:24.000Z",
       "xQuery": "体育館屋根から転落 作業員が死亡"
-    },
-    {
-      "time": "18:02",
-      "title": "原発構内でガラスの下敷きに 死亡",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603574?source=rss",
-      "publishedAt": "2026-11-22T09:02:34.000Z",
-      "xQuery": "原発構内でガラスの下敷きに 死亡"
     }
   ]
 };
