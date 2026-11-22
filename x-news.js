@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-22T04:13:10.186Z",
+  "updatedAt": "2026-11-22T04:35:53.496Z",
   "items": [
     {
       "time": "12:02",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "自民 原潜保有議論「排除せず」"
     },
     {
+      "time": "12:59",
+      "title": "ウ大統領出身地に露「3連続」攻撃",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603535?source=rss",
+      "publishedAt": "2026-11-22T03:59:29.000Z",
+      "xQuery": "ウ大統領出身地に露「3連続」攻撃"
+    },
+    {
       "time": "12:42",
       "title": "記録的降水量の北陸 土砂災害警戒",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6603534?source=rss",
       "publishedAt": "2026-11-22T03:42:27.000Z",
       "xQuery": "記録的降水量の北陸 土砂災害警戒"
-    },
-    {
-      "time": "11:31",
-      "title": "AI兵器先行の米露 規制に消極姿勢",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603522?source=rss",
-      "publishedAt": "2026-11-22T02:31:54.000Z",
-      "xQuery": "AI兵器先行の米露 規制に消極姿勢"
     },
     {
       "time": "12:19",
