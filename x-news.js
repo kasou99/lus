@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-22T22:35:16.293Z",
+  "updatedAt": "2026-11-22T23:09:48.315Z",
   "items": [
     {
       "time": "06:58",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "COP31 合意文書採択できず閉幕"
     },
     {
-      "time": "21:39",
-      "title": "文科相の「交代示唆」木原氏否定",
+      "time": "07:35",
+      "title": "連休最終日 西-東日本は行楽日和",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603601?source=rss",
-      "publishedAt": "2026-11-22T12:39:35.000Z",
-      "xQuery": "文科相の「交代示唆」木原氏否定"
+      "url": "https://news.yahoo.co.jp/pickup/6603622?source=rss",
+      "publishedAt": "2026-11-22T22:35:06.000Z",
+      "xQuery": "連休最終日 西-東日本は行楽日和"
     },
     {
       "time": "07:21",
