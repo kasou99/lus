@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-22T23:09:48.315Z",
+  "updatedAt": "2026-11-22T23:35:17.151Z",
   "items": [
     {
       "time": "06:58",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "24年の1億円超所得者 10年で倍増"
     },
     {
-      "time": "22:36",
-      "title": "社員を監禁疑い 社長ら4人逮捕",
+      "time": "08:08",
+      "title": "SOS見せず突然退職 企業どう防ぐ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603608?source=rss",
-      "publishedAt": "2026-11-22T13:36:08.000Z",
-      "xQuery": "社員を監禁疑い 社長ら4人逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6603628?source=rss",
+      "publishedAt": "2026-11-22T23:08:33.000Z",
+      "xQuery": "SOS見せず突然退職 企業どう防ぐ"
     },
     {
       "time": "07:11",
