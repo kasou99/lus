@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-22T09:11:41.328Z",
+  "updatedAt": "2026-11-22T09:35:49.419Z",
   "items": [
     {
       "time": "16:31",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "リーマン予想 AI証明巡り共同声明"
     },
     {
-      "time": "16:37",
-      "title": "金沢に白タクまん延 手口は巧妙化",
+      "time": "15:36",
+      "title": "「夜職」相次ぐ海外入国トラブル",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603561?source=rss",
-      "publishedAt": "2026-11-22T07:37:41.000Z",
-      "xQuery": "金沢に白タクまん延 手口は巧妙化"
+      "url": "https://news.yahoo.co.jp/pickup/6603554?source=rss",
+      "publishedAt": "2026-11-22T06:36:19.000Z",
+      "xQuery": "「夜職」相次ぐ海外入国トラブル"
     }
   ]
 };

@@ -1,21 +1,7 @@
 {
-  "updatedAt": "2026-11-22T09:11:40.480Z",
+  "updatedAt": "2026-11-22T09:35:48.573Z",
   "groups": {
     "machineHeadlines": [
-      {
-        "time": "10:35",
-        "title": "工作機械受注が示す日本株と世界経済 高水準維持も伸び率拡大の局面は終了か",
-        "source": "TBS NEWS DIG",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1lUnVfUGlvMFhxdEV2NTZzdHd2bTVYT3luOHcycm4xM25sRE1sLVdVeXF3S240U0l0RzZHUmZIMGdLZ0hCVFU1dFkxRWxjLTh2OWgwUHFldkZBSHc1RUVZ?oc=5",
-        "publishedAt": "2026-11-22T01:35:45.000Z"
-      },
-      {
-        "time": "09:25",
-        "title": "【独自】フィジカルＡＩ実用化へ企業連合 製造ロボ制御、京セラなど２０社",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUzVNMlpna1hFMHNmZGduYmpGREVUUGoyZ09qb2ZLMl9HQXJna0puZlBkbDJiRHJhcTZuelFaWlNfdXA2dmVGaWdJeGlYQlhzbUFDQU96bHh0WXBleWR4UUpLZEw0VUxNblFTOUhPX3VZNV9MRjdIUnEtWGJhb0tmQWRn?oc=5",
-        "publishedAt": "2026-11-22T00:25:05.000Z"
-      },
       {
         "time": "02:32",
         "title": "-40～75℃の過酷環境でも安定動作する、省スペース・コンパクト設計の産業用ギガビットハブを発売",
@@ -24,18 +10,25 @@
         "publishedAt": "2026-11-21T17:32:58.000Z"
       },
       {
-        "time": "19:03",
-        "title": "創業460年超「治具」の老舗！車1台を掴む驚異の固定技術で世界のモノづくりを支える ナベヤ",
-        "source": "TVer",
-        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1pVUhpcUFaNkdrVS1oNWtYY2hwMjF0el8yUzF6Qy1zWXMzal9vSWh0WG44VmlLYzdMRXVGQzk0dFV0cWl3NWU2SXI0cw?oc=5",
-        "publishedAt": "2026-11-21T10:03:51.000Z"
-      },
-      {
         "time": "10:29",
         "title": "くりでんミュージアム 2026くりでん創業祭（2026年12月5日）",
         "source": "Tetsudo.com（鉄道コム）",
         "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE85Mi14MUtycmEwa1duczVGTHB0RGk1RG9URFRxckllVk9ZSnd4ZVdiS09WSWI0V1NsQlFzNTlSOE9xQ2hBNUhFVzd3VWY?oc=5",
         "publishedAt": "2026-11-22T01:29:00.000Z"
+      },
+      {
+        "time": "20:09",
+        "title": "NSR250R /SP/SEの投稿一覧",
+        "source": "GooBike",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9lcWlEMi1TUC1RSzdXZ1ptYV9mMUVqNG1UUWc1T0V4eWRRRkpUX19VOE1OYndyX2x4c1ZRVzhiR1R3VU5UVlhjTU8tMHVnS3JLUE5TMHdJWFY5Zw?oc=5",
+        "publishedAt": "2026-11-21T11:09:04.000Z"
+      },
+      {
+        "time": "19:03",
+        "title": "創業460年超「治具」の老舗！車1台を掴む驚異の固定技術で世界のモノづくりを支える ナベヤ",
+        "source": "TVer",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1pVUhpcUFaNkdrVS1oNWtYY2hwMjF0el8yUzF6Qy1zWXMzal9vSWh0WG44VmlLYzdMRXVGQzk0dFV0cWl3NWU2SXI0cw?oc=5",
+        "publishedAt": "2026-11-21T10:03:51.000Z"
       },
       {
         "time": "00:14",
@@ -57,6 +50,13 @@
         "source": "Dellows News",
         "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5oTnNybXNFUzc5emxKX2xfQmNVdWFFdFhjSGduRE10amtGdWJNYzZKc2cxdWJJRnRqZVo2eHFRR0FqVHRTU1VR?oc=5",
         "publishedAt": "2026-11-21T14:21:58.000Z"
+      },
+      {
+        "time": "09:29",
+        "title": "地方銀行再編 各地でくすぶる火種",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6603509?source=rss",
+        "publishedAt": "2026-11-22T00:29:41.000Z"
       }
     ],
     "worldHeadlines": [
