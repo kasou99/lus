@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T12:35:04.679Z",
+  "updatedAt": "2026-11-22T13:09:17.183Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -10,11 +10,11 @@
         "publishedAt": "2026-11-22T01:35:45.000Z"
       },
       {
-        "time": "09:25",
-        "title": "【独自】フィジカルＡＩ実用化へ企業連合 製造ロボ制御、京セラなど２０社",
+        "time": "02:32",
+        "title": "-40～75℃の過酷環境でも安定動作する、省スペース・コンパクト設計の産業用ギガビットハブを発売",
         "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUzVNMlpna1hFMHNmZGduYmpGREVUUGoyZ09qb2ZLMl9HQXJna0puZlBkbDJiRHJhcTZuelFaWlNfdXA2dmVGaWdJeGlYQlhzbUFDQU96bHh0WXBleWR4UUpLZEw0VUxNblFTOUhPX3VZNV9MRjdIUnEtWGJhb0tmQWRn?oc=5",
-        "publishedAt": "2026-11-22T00:25:05.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9FZmVvdHRtblJHVUwtN0Qzek94dEpERmI4dkJGOTRwdTRxb2VuVF9xOS1lWldxTVQyTVZBZDZ5clR1ckRVajVqSzdFejhHYU5jTXc?oc=5",
+        "publishedAt": "2026-11-21T17:32:58.000Z"
       },
       {
         "time": "10:29",
@@ -22,13 +22,6 @@
         "source": "Tetsudo.com（鉄道コム）",
         "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE85Mi14MUtycmEwa1duczVGTHB0RGk1RG9URFRxckllVk9ZSnd4ZVdiS09WSWI0V1NsQlFzNTlSOE9xQ2hBNUhFVzd3VWY?oc=5",
         "publishedAt": "2026-11-22T01:29:00.000Z"
-      },
-      {
-        "time": "02:32",
-        "title": "-40～75℃の過酷環境でも安定動作する、省スペース・コンパクト設計の産業用ギガビットハブを発売",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9FZmVvdHRtblJHVUwtN0Qzek94dEpERmI4dkJGOTRwdTRxb2VuVF9xOS1lWldxTVQyTVZBZDZ5clR1ckRVajVqSzdFejhHYU5jTXc?oc=5",
-        "publishedAt": "2026-11-21T17:32:58.000Z"
       },
       {
         "time": "20:30",
@@ -57,9 +50,23 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6603591?source=rss",
         "publishedAt": "2026-11-22T11:11:10.000Z"
+      },
+      {
+        "time": "09:29",
+        "title": "地方銀行再編 各地でくすぶる火種",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6603509?source=rss",
+        "publishedAt": "2026-11-22T00:29:41.000Z"
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "21:43",
+        "title": "COP31合意採択断念 EUなど反対",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6603603?source=rss",
+        "publishedAt": "2026-11-22T12:43:52.000Z"
+      },
       {
         "time": "12:59",
         "title": "ウ大統領出身地に露「3連続」攻撃",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6603516?source=rss",
         "publishedAt": "2026-11-22T01:21:51.000Z"
-      },
-      {
-        "time": "19:50",
-        "title": "工場火災30人超不明 インドネシア",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6603590?source=rss",
-        "publishedAt": "2026-11-22T10:50:38.000Z"
       }
     ],
     "economyHeadlines": [
