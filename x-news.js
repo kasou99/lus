@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-22T06:39:19.219Z",
+  "updatedAt": "2026-11-22T07:11:20.175Z",
   "items": [
+    {
+      "time": "15:29",
+      "title": "首里城正殿 完成祝うテープカット",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603553?source=rss",
+      "publishedAt": "2026-11-22T06:29:31.000Z",
+      "xQuery": "首里城正殿 完成祝うテープカット"
+    },
     {
       "time": "09:29",
       "title": "地方銀行再編 各地でくすぶる火種",
@@ -18,14 +26,6 @@ window.LUS_X_NEWS = {
       "xQuery": "韓国 教育相が入試巡る混乱で辞意"
     },
     {
-      "time": "14:46",
-      "title": "原発敷地でガラスの下敷きに 重体",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603547?source=rss",
-      "publishedAt": "2026-11-22T05:46:39.000Z",
-      "xQuery": "原発敷地でガラスの下敷きに 重体"
-    },
-    {
       "time": "14:33",
       "title": "12歳男子中学生が行方不明 郡山市",
       "source": "Yahoo!ニュース",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "12歳男子中学生が行方不明 郡山市"
     },
     {
-      "time": "15:18",
-      "title": "裸足で24h走り続ける大会なぜ参加",
+      "time": "15:36",
+      "title": "「夜職」相次ぐ海外入国トラブル",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603551?source=rss",
-      "publishedAt": "2026-11-22T06:18:14.000Z",
-      "xQuery": "裸足で24h走り続ける大会なぜ参加"
+      "url": "https://news.yahoo.co.jp/pickup/6603554?source=rss",
+      "publishedAt": "2026-11-22T06:36:19.000Z",
+      "xQuery": "「夜職」相次ぐ海外入国トラブル"
     }
   ]
 };
