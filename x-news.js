@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-22T02:15:45.029Z",
+  "updatedAt": "2026-11-22T02:35:50.051Z",
   "items": [
     {
       "time": "08:18",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "税収格差是正 都と地方せめぎ合い"
     },
     {
-      "time": "09:26",
-      "title": "「脱化石」削除巡り紛糾 COP31",
+      "time": "11:31",
+      "title": "AI兵器先行の米露 規制に消極姿勢",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603508?source=rss",
-      "publishedAt": "2026-11-22T00:26:56.000Z",
-      "xQuery": "「脱化石」削除巡り紛糾 COP31"
+      "url": "https://news.yahoo.co.jp/pickup/6603522?source=rss",
+      "publishedAt": "2026-11-22T02:31:54.000Z",
+      "xQuery": "AI兵器先行の米露 規制に消極姿勢"
     },
     {
       "time": "10:35",
