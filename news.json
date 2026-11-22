@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T01:11:16.717Z",
+  "updatedAt": "2026-11-22T01:39:14.784Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,18 +17,18 @@
         "publishedAt": "2026-11-21T02:29:00.000Z"
       },
       {
-        "time": "13:30",
-        "title": "パワースカイビングカッターの世界市場（2026年～2032年）、市場規模（300mm以下、300～600mm、600mm超）・分析レポートを発表",
-        "source": "Newscast.jp",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAyYkdtSmxGRFFYNnVvUE80djJibkVvTFFEVXFaNExrOHhZY2xDMnoyUWVJR2dacjExQWc0TWowTE5mMmRNel9yTUZrUzZsMEU?oc=5",
-        "publishedAt": "2026-11-21T04:30:00.000Z"
-      },
-      {
         "time": "19:03",
         "title": "創業460年超「治具」の老舗！車1台を掴む驚異の固定技術で世界のモノづくりを支える ナベヤ",
         "source": "TVer",
         "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1pVUhpcUFaNkdrVS1oNWtYY2hwMjF0el8yUzF6Qy1zWXMzal9vSWh0WG44VmlLYzdMRXVGQzk0dFV0cWl3NWU2SXI0cw?oc=5",
         "publishedAt": "2026-11-21T10:03:51.000Z"
+      },
+      {
+        "time": "13:30",
+        "title": "パワースカイビングカッターの世界市場（2026年～2032年）、市場規模（300mm以下、300～600mm、600mm超）・分析レポートを発表",
+        "source": "Newscast.jp",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAyYkdtSmxGRFFYNnVvUE80djJibkVvTFFEVXFaNExrOHhZY2xDMnoyUWVJR2dacjExQWc0TWowTE5mMmRNel9yTUZrUzZsMEU?oc=5",
+        "publishedAt": "2026-11-21T04:30:00.000Z"
       },
       {
         "time": "09:29",
@@ -75,18 +75,18 @@
         "publishedAt": "2026-11-21T11:51:20.000Z"
       },
       {
-        "time": "10:04",
-        "title": "正恩氏 トランプ氏本気度に疑心か",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6603378?source=rss",
-        "publishedAt": "2026-11-21T01:04:25.000Z"
-      },
-      {
         "time": "09:26",
         "title": "「脱化石」削除巡り紛糾 COP31",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6603508?source=rss",
         "publishedAt": "2026-11-22T00:26:56.000Z"
+      },
+      {
+        "time": "10:21",
+        "title": "ブラジル南部 猛烈な嵐で4人死亡",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6603516?source=rss",
+        "publishedAt": "2026-11-22T01:21:51.000Z"
       },
       {
         "time": "14:47",
@@ -149,11 +149,11 @@
     ],
     "localHeadlines": [
       {
-        "time": "11:01",
-        "title": "スタック車 ほぼノーマルタイヤか",
+        "time": "10:35",
+        "title": "今年8人転落の防波堤 全員県外客",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6603383?source=rss",
-        "publishedAt": "2026-11-21T02:01:19.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6603517?source=rss",
+        "publishedAt": "2026-11-22T01:35:08.000Z"
       },
       {
         "time": "09:38",
@@ -163,18 +163,18 @@
         "publishedAt": "2026-11-22T00:38:32.000Z"
       },
       {
-        "time": "07:52",
-        "title": "焼失7年 首里城正殿きょう完成式",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6603492?source=rss",
-        "publishedAt": "2026-11-21T22:52:28.000Z"
-      },
-      {
         "time": "08:04",
         "title": "兵庫3歳死亡 家庭へ復帰なぜ判断",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6603495?source=rss",
         "publishedAt": "2026-11-21T23:04:57.000Z"
+      },
+      {
+        "time": "07:52",
+        "title": "焼失7年 首里城正殿きょう完成式",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6603492?source=rss",
+        "publishedAt": "2026-11-21T22:52:28.000Z"
       },
       {
         "time": "07:50",

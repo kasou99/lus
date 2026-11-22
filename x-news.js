@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-22T01:11:17.567Z",
+  "updatedAt": "2026-11-22T01:39:15.909Z",
   "items": [
     {
       "time": "09:26",
@@ -10,14 +10,6 @@ window.LUS_X_NEWS = {
       "xQuery": "「脱化石」削除巡り紛糾 COP31"
     },
     {
-      "time": "08:49",
-      "title": "氷河期世代の正社員率改善も 格差",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603504?source=rss",
-      "publishedAt": "2026-11-21T23:49:12.000Z",
-      "xQuery": "氷河期世代の正社員率改善も 格差"
-    },
-    {
       "time": "09:38",
       "title": "大雪で水族館停電 生き物を移動",
       "source": "Yahoo!ニュース",
@@ -26,20 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "大雪で水族館停電 生き物を移動"
     },
     {
-      "time": "07:50",
-      "title": "DIYで溶接中に出火か 男性が死亡",
+      "time": "10:35",
+      "title": "今年8人転落の防波堤 全員県外客",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603493?source=rss",
-      "publishedAt": "2026-11-21T22:50:49.000Z",
-      "xQuery": "DIYで溶接中に出火か 男性が死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6603517?source=rss",
+      "publishedAt": "2026-11-22T01:35:08.000Z",
+      "xQuery": "今年8人転落の防波堤 全員県外客"
     },
     {
-      "time": "08:39",
-      "title": "村上春樹さんが村上龍さんを追悼",
+      "time": "08:44",
+      "title": "児童2人の小学校 残り少ない日々",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603503?source=rss",
-      "publishedAt": "2026-11-21T23:39:54.000Z",
-      "xQuery": "村上春樹さんが村上龍さんを追悼"
+      "url": "https://news.yahoo.co.jp/pickup/6603502?source=rss",
+      "publishedAt": "2026-11-21T23:44:37.000Z",
+      "xQuery": "児童2人の小学校 残り少ない日々"
+    },
+    {
+      "time": "09:58",
+      "title": "メンズメイク 若者を悩ます世代差",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603512?source=rss",
+      "publishedAt": "2026-11-22T00:58:05.000Z",
+      "xQuery": "メンズメイク 若者を悩ます世代差"
     }
   ]
 };
