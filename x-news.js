@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-22T11:09:12.636Z",
+  "updatedAt": "2026-11-22T11:35:15.647Z",
   "items": [
     {
-      "time": "18:35",
-      "title": "関東で広く乾燥 火災相次ぎ死者も",
+      "time": "16:25",
+      "title": "23日は空気が乾燥 感染予防を",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603581?source=rss",
-      "publishedAt": "2026-11-22T09:35:26.000Z",
-      "xQuery": "関東で広く乾燥 火災相次ぎ死者も"
+      "url": "https://news.yahoo.co.jp/pickup/6603559?source=rss",
+      "publishedAt": "2026-11-22T07:25:13.000Z",
+      "xQuery": "23日は空気が乾燥 感染予防を"
     },
     {
-      "time": "17:45",
-      "title": "三原則例外 被爆者「言語道断だ」",
+      "time": "20:11",
+      "title": "「サイバー保険」に加入 企業増加",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603573?source=rss",
-      "publishedAt": "2026-11-22T08:45:05.000Z",
-      "xQuery": "三原則例外 被爆者「言語道断だ」"
+      "url": "https://news.yahoo.co.jp/pickup/6603591?source=rss",
+      "publishedAt": "2026-11-22T11:11:10.000Z",
+      "xQuery": "「サイバー保険」に加入 企業増加"
     },
     {
       "time": "19:41",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "タワーレコード 1100万件情報流出"
     },
     {
+      "time": "20:07",
+      "title": "72歳の建築士 2度目の首里城復元",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603592?source=rss",
+      "publishedAt": "2026-11-22T11:07:52.000Z",
+      "xQuery": "72歳の建築士 2度目の首里城復元"
+    },
+    {
       "time": "18:02",
       "title": "原発構内でガラスの下敷きに 死亡",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6603574?source=rss",
       "publishedAt": "2026-11-22T09:02:34.000Z",
       "xQuery": "原発構内でガラスの下敷きに 死亡"
-    },
-    {
-      "time": "17:07",
-      "title": "リーマン予想 AI証明巡り共同声明",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603568?source=rss",
-      "publishedAt": "2026-11-22T08:07:46.000Z",
-      "xQuery": "リーマン予想 AI証明巡り共同声明"
     }
   ]
 };
