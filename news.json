@@ -1,13 +1,20 @@
 {
-  "updatedAt": "2026-11-22T06:17:46.176Z",
+  "updatedAt": "2026-11-22T06:39:18.211Z",
   "groups": {
     "machineHeadlines": [
       {
-        "time": "20:09",
-        "title": "NSR250R /SP/SEの投稿一覧",
-        "source": "GooBike",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9lcWlEMi1TUC1RSzdXZ1ptYV9mMUVqNG1UUWc1T0V4eWRRRkpUX19VOE1OYndyX2x4c1ZRVzhiR1R3VU5UVlhjTU8tMHVnS3JLUE5TMHdJWFY5Zw?oc=5",
-        "publishedAt": "2026-11-21T11:09:04.000Z"
+        "time": "02:32",
+        "title": "-40～75℃の過酷環境でも安定動作する、省スペース・コンパクト設計の産業用ギガビットハブを発売",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9FZmVvdHRtblJHVUwtN0Qzek94dEpERmI4dkJGOTRwdTRxb2VuVF9xOS1lWldxTVQyTVZBZDZ5clR1ckRVajVqSzdFejhHYU5jTXc?oc=5",
+        "publishedAt": "2026-11-21T17:32:58.000Z"
+      },
+      {
+        "time": "19:03",
+        "title": "創業460年超「治具」の老舗！車1台を掴む驚異の固定技術で世界のモノづくりを支える ナベヤ",
+        "source": "TVer",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1pVUhpcUFaNkdrVS1oNWtYY2hwMjF0el8yUzF6Qy1zWXMzal9vSWh0WG44VmlLYzdMRXVGQzk0dFV0cWl3NWU2SXI0cw?oc=5",
+        "publishedAt": "2026-11-21T10:03:51.000Z"
       },
       {
         "time": "17:00",
@@ -17,11 +24,11 @@
         "publishedAt": "2026-11-21T08:00:45.000Z"
       },
       {
-        "time": "19:03",
-        "title": "創業460年超「治具」の老舗！車1台を掴む驚異の固定技術で世界のモノづくりを支える ナベヤ",
-        "source": "TVer",
-        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1pVUhpcUFaNkdrVS1oNWtYY2hwMjF0el8yUzF6Qy1zWXMzal9vSWh0WG44VmlLYzdMRXVGQzk0dFV0cWl3NWU2SXI0cw?oc=5",
-        "publishedAt": "2026-11-21T10:03:51.000Z"
+        "time": "19:08",
+        "title": "精密スプリング製作所がＥＶ部品製造参入へ 自社技術応用、安価な複合材研究",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0xQV9VdWhRVTZXY3RNTGFZdnc2UmJjSXhldzVuWWV1NTFoeG5TQ3d2ZXE2TDg4OUh5dXpfT1lHUWxERHRndzJwZ3hkVi1zRU1HZnc?oc=5",
+        "publishedAt": "2026-11-21T10:08:59.000Z"
       },
       {
         "time": "09:29",
@@ -50,13 +57,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6603439?source=rss",
         "publishedAt": "2026-11-21T09:25:03.000Z"
-      },
-      {
-        "time": "13:44",
-        "title": "うーん 買い取り店で揺れる人の心",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6603538?source=rss",
-        "publishedAt": "2026-11-22T04:44:13.000Z"
       }
     ],
     "worldHeadlines": [
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "15:29",
+        "title": "首里城正殿 完成祝うテープカット",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6603553?source=rss",
+        "publishedAt": "2026-11-22T06:29:31.000Z"
+      },
+      {
         "time": "14:46",
         "title": "原発敷地でガラスの下敷きに 重体",
         "source": "Yahoo!ニュース",
@@ -170,25 +177,18 @@
         "publishedAt": "2026-11-22T00:38:32.000Z"
       },
       {
-        "time": "08:04",
-        "title": "兵庫3歳死亡 家庭へ復帰なぜ判断",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6603495?source=rss",
-        "publishedAt": "2026-11-21T23:04:57.000Z"
-      },
-      {
-        "time": "07:50",
-        "title": "DIYで溶接中に出火か 男性が死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6603493?source=rss",
-        "publishedAt": "2026-11-21T22:50:49.000Z"
-      },
-      {
         "time": "14:33",
         "title": "12歳男子中学生が行方不明 郡山市",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6603546?source=rss",
         "publishedAt": "2026-11-22T05:33:04.000Z"
+      },
+      {
+        "time": "15:18",
+        "title": "裸足で24h走り続ける大会なぜ参加",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6603551?source=rss",
+        "publishedAt": "2026-11-22T06:18:14.000Z"
       }
     ],
     "subsidyHeadlines": [

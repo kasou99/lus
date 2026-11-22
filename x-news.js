@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-22T06:17:46.780Z",
+  "updatedAt": "2026-11-22T06:39:19.219Z",
   "items": [
     {
       "time": "09:29",
@@ -8,14 +8,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6603509?source=rss",
       "publishedAt": "2026-11-22T00:29:41.000Z",
       "xQuery": "地方銀行再編 各地でくすぶる火種"
-    },
-    {
-      "time": "10:21",
-      "title": "ブラジル南部 猛烈な嵐で4人死亡",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603516?source=rss",
-      "publishedAt": "2026-11-22T01:21:51.000Z",
-      "xQuery": "ブラジル南部 猛烈な嵐で4人死亡"
     },
     {
       "time": "14:12",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6603546?source=rss",
       "publishedAt": "2026-11-22T05:33:04.000Z",
       "xQuery": "12歳男子中学生が行方不明 郡山市"
+    },
+    {
+      "time": "15:18",
+      "title": "裸足で24h走り続ける大会なぜ参加",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603551?source=rss",
+      "publishedAt": "2026-11-22T06:18:14.000Z",
+      "xQuery": "裸足で24h走り続ける大会なぜ参加"
     }
   ]
 };
