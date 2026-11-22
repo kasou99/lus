@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-22T09:35:49.419Z",
+  "updatedAt": "2026-11-22T10:10:01.111Z",
   "items": [
     {
-      "time": "16:31",
-      "title": "益永死刑囚が死亡 連続企業爆破",
+      "time": "18:35",
+      "title": "関東で広く乾燥 火災相次ぎ死者も",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603563?source=rss",
-      "publishedAt": "2026-11-22T07:31:35.000Z",
-      "xQuery": "益永死刑囚が死亡 連続企業爆破"
+      "url": "https://news.yahoo.co.jp/pickup/6603581?source=rss",
+      "publishedAt": "2026-11-22T09:35:26.000Z",
+      "xQuery": "関東で広く乾燥 火災相次ぎ死者も"
     },
     {
-      "time": "18:08",
-      "title": "ホルムズ海峡を遠泳 環境被害訴え",
+      "time": "17:45",
+      "title": "三原則例外 被爆者「言語道断だ」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603576?source=rss",
-      "publishedAt": "2026-11-22T09:08:26.000Z",
-      "xQuery": "ホルムズ海峡を遠泳 環境被害訴え"
+      "url": "https://news.yahoo.co.jp/pickup/6603573?source=rss",
+      "publishedAt": "2026-11-22T08:45:05.000Z",
+      "xQuery": "三原則例外 被爆者「言語道断だ」"
     },
     {
       "time": "18:02",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "原発構内でガラスの下敷きに 死亡"
     },
     {
+      "time": "18:49",
+      "title": "海転落相次ぐ 生死分けた救命胴衣",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603580?source=rss",
+      "publishedAt": "2026-11-22T09:49:30.000Z",
+      "xQuery": "海転落相次ぐ 生死分けた救命胴衣"
+    },
+    {
       "time": "17:07",
       "title": "リーマン予想 AI証明巡り共同声明",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6603568?source=rss",
       "publishedAt": "2026-11-22T08:07:46.000Z",
       "xQuery": "リーマン予想 AI証明巡り共同声明"
-    },
-    {
-      "time": "15:36",
-      "title": "「夜職」相次ぐ海外入国トラブル",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603554?source=rss",
-      "publishedAt": "2026-11-22T06:36:19.000Z",
-      "xQuery": "「夜職」相次ぐ海外入国トラブル"
     }
   ]
 };

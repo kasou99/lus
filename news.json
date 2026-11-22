@@ -1,13 +1,20 @@
 {
-  "updatedAt": "2026-11-22T09:35:48.573Z",
+  "updatedAt": "2026-11-22T10:10:00.367Z",
   "groups": {
     "machineHeadlines": [
       {
-        "time": "02:32",
-        "title": "-40～75℃の過酷環境でも安定動作する、省スペース・コンパクト設計の産業用ギガビットハブを発売",
+        "time": "10:35",
+        "title": "工作機械受注が示す日本株と世界経済 高水準維持も伸び率拡大の局面は終了か",
+        "source": "TBS NEWS DIG",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1lUnVfUGlvMFhxdEV2NTZzdHd2bTVYT3luOHcycm4xM25sRE1sLVdVeXF3S240U0l0RzZHUmZIMGdLZ0hCVFU1dFkxRWxjLTh2OWgwUHFldkZBSHc1RUVZ?oc=5",
+        "publishedAt": "2026-11-22T01:35:45.000Z"
+      },
+      {
+        "time": "09:25",
+        "title": "【独自】フィジカルＡＩ実用化へ企業連合 製造ロボ制御、京セラなど２０社",
         "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9FZmVvdHRtblJHVUwtN0Qzek94dEpERmI4dkJGOTRwdTRxb2VuVF9xOS1lWldxTVQyTVZBZDZ5clR1ckRVajVqSzdFejhHYU5jTXc?oc=5",
-        "publishedAt": "2026-11-21T17:32:58.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUzVNMlpna1hFMHNmZGduYmpGREVUUGoyZ09qb2ZLMl9HQXJna0puZlBkbDJiRHJhcTZuelFaWlNfdXA2dmVGaWdJeGlYQlhzbUFDQU96bHh0WXBleWR4UUpLZEw0VUxNblFTOUhPX3VZNV9MRjdIUnEtWGJhb0tmQWRn?oc=5",
+        "publishedAt": "2026-11-22T00:25:05.000Z"
       },
       {
         "time": "10:29",
@@ -24,11 +31,11 @@
         "publishedAt": "2026-11-21T11:09:04.000Z"
       },
       {
-        "time": "19:03",
-        "title": "創業460年超「治具」の老舗！車1台を掴む驚異の固定技術で世界のモノづくりを支える ナベヤ",
-        "source": "TVer",
-        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1pVUhpcUFaNkdrVS1oNWtYY2hwMjF0el8yUzF6Qy1zWXMzal9vSWh0WG44VmlLYzdMRXVGQzk0dFV0cWl3NWU2SXI0cw?oc=5",
-        "publishedAt": "2026-11-21T10:03:51.000Z"
+        "time": "02:32",
+        "title": "-40～75℃の過酷環境でも安定動作する、省スペース・コンパクト設計の産業用ギガビットハブを発売",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9FZmVvdHRtblJHVUwtN0Qzek94dEpERmI4dkJGOTRwdTRxb2VuVF9xOS1lWldxTVQyTVZBZDZ5clR1ckRVajVqSzdFejhHYU5jTXc?oc=5",
+        "publishedAt": "2026-11-21T17:32:58.000Z"
       },
       {
         "time": "00:14",
@@ -36,13 +43,6 @@
         "source": "pando.life",
         "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5NR3RuY01DSmdJQXV1ZXZCYnZDREpraUMwclIzR0FJd0duYWNld1hCaXVFdUx4SS1acmNFRUhnVVN2UUFMX0E0Vkpn?oc=5",
         "publishedAt": "2026-11-21T15:14:38.000Z"
-      },
-      {
-        "time": "19:08",
-        "title": "精密スプリング製作所がＥＶ部品製造参入へ 自社技術応用、安価な複合材研究",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0xQV9VdWhRVTZXY3RNTGFZdnc2UmJjSXhldzVuWWV1NTFoeG5TQ3d2ZXE2TDg4OUh5dXpfT1lHUWxERHRndzJwZ3hkVi1zRU1HZnc?oc=5",
-        "publishedAt": "2026-11-21T10:08:59.000Z"
       },
       {
         "time": "23:21",
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "18:35",
+        "title": "関東で広く乾燥 火災相次ぎ死者も",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6603581?source=rss",
+        "publishedAt": "2026-11-22T09:35:26.000Z"
+      },
+      {
         "time": "15:29",
         "title": "首里城正殿 完成祝うテープカット",
         "source": "Yahoo!ニュース",
@@ -156,18 +163,11 @@
         "publishedAt": "2026-11-22T06:29:31.000Z"
       },
       {
-        "time": "16:18",
-        "title": "福島の大雪 滞在者ら孤立状態解消",
+        "time": "18:49",
+        "title": "海転落相次ぐ 生死分けた救命胴衣",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6603560?source=rss",
-        "publishedAt": "2026-11-22T07:18:07.000Z"
-      },
-      {
-        "time": "10:35",
-        "title": "今年8人転落の防波堤 全員県外客",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6603517?source=rss",
-        "publishedAt": "2026-11-22T01:35:08.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6603580?source=rss",
+        "publishedAt": "2026-11-22T09:49:30.000Z"
       },
       {
         "time": "18:02",
