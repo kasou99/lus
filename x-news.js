@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-22T22:09:30.969Z",
+  "updatedAt": "2026-11-22T22:35:16.293Z",
   "items": [
     {
       "time": "06:58",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "文科相の「交代示唆」木原氏否定"
     },
     {
-      "time": "23:22",
-      "title": "参政党が首長選に積極擁立 狙い",
+      "time": "07:21",
+      "title": "24年の1億円超所得者 10年で倍増",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603611?source=rss",
-      "publishedAt": "2026-11-22T14:22:39.000Z",
-      "xQuery": "参政党が首長選に積極擁立 狙い"
+      "url": "https://news.yahoo.co.jp/pickup/6603620?source=rss",
+      "publishedAt": "2026-11-22T22:21:56.000Z",
+      "xQuery": "24年の1億円超所得者 10年で倍増"
     },
     {
       "time": "22:36",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "社員を監禁疑い 社長ら4人逮捕"
     },
     {
-      "time": "22:45",
-      "title": "アンソロピックIPO巡り銀行に制約",
+      "time": "07:11",
+      "title": "たまごっち30周年「復活」の歴史",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603609?source=rss",
-      "publishedAt": "2026-11-22T13:45:03.000Z",
-      "xQuery": "アンソロピックIPO巡り銀行に制約"
+      "url": "https://news.yahoo.co.jp/pickup/6603615?source=rss",
+      "publishedAt": "2026-11-22T22:11:46.000Z",
+      "xQuery": "たまごっち30周年「復活」の歴史"
     }
   ]
 };
