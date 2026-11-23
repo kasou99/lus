@@ -1,29 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-23T00:33:25.955Z",
+  "updatedAt": "2026-11-23T01:13:01.918Z",
   "items": [
     {
-      "time": "08:30",
-      "title": "米民主党が下‌院で258議席 報道",
+      "time": "08:48",
+      "title": "首相の国会出席削減 自民が議論",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603631?source=rss",
-      "publishedAt": "2026-11-22T23:30:14.000Z",
-      "xQuery": "米民主党が下‌院で258議席 報道"
+      "url": "https://news.yahoo.co.jp/pickup/6603632?source=rss",
+      "publishedAt": "2026-11-22T23:48:06.000Z",
+      "xQuery": "首相の国会出席削減 自民が議論"
     },
     {
-      "time": "07:35",
-      "title": "連休最終日 西-東日本は行楽日和",
+      "time": "09:25",
+      "title": "リビアで露軍艦爆発 無人機攻撃か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603622?source=rss",
-      "publishedAt": "2026-11-22T22:35:06.000Z",
-      "xQuery": "連休最終日 西-東日本は行楽日和"
+      "url": "https://news.yahoo.co.jp/pickup/6603637?source=rss",
+      "publishedAt": "2026-11-23T00:25:34.000Z",
+      "xQuery": "リビアで露軍艦爆発 無人機攻撃か"
     },
     {
-      "time": "08:09",
-      "title": "北極航路 温暖化で氷解け通航量増",
+      "time": "09:08",
+      "title": "死亡事故受け 柏崎刈羽で工事中止",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603627?source=rss",
-      "publishedAt": "2026-11-22T23:09:55.000Z",
-      "xQuery": "北極航路 温暖化で氷解け通航量増"
+      "url": "https://news.yahoo.co.jp/pickup/6603635?source=rss",
+      "publishedAt": "2026-11-23T00:08:57.000Z",
+      "xQuery": "死亡事故受け 柏崎刈羽で工事中止"
     },
     {
       "time": "08:50",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "中央分離帯越え車と衝突 男を逮捕"
     },
     {
-      "time": "08:08",
-      "title": "SOS見せず突然退職 企業どう防ぐ",
+      "time": "09:20",
+      "title": "「ほぼ日手帳」海外で人気のワケ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603628?source=rss",
-      "publishedAt": "2026-11-22T23:08:33.000Z",
-      "xQuery": "SOS見せず突然退職 企業どう防ぐ"
+      "url": "https://news.yahoo.co.jp/pickup/6603636?source=rss",
+      "publishedAt": "2026-11-23T00:20:14.000Z",
+      "xQuery": "「ほぼ日手帳」海外で人気のワケ"
     }
   ]
 };

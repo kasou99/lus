@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T00:33:25.258Z",
+  "updatedAt": "2026-11-23T01:13:01.107Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,18 +17,25 @@
         "publishedAt": "2026-11-22T19:55:00.000Z"
       },
       {
+        "time": "15:34",
+        "title": "工作機械受注が示す日本株と世界経済 高水準維持も伸び率拡大の局面は終了か",
+        "source": "TBS NEWS DIG",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1lUnVfUGlvMFhxdEV2NTZzdHd2bTVYT3luOHcycm4xM25sRE1sLVdVeXF3S240U0l0RzZHUmZIMGdLZ0hCVFU1dFkxRWxjLTh2OWgwUHFldkZBSHc1RUVZ?oc=5",
+        "publishedAt": "2026-11-22T06:34:54.000Z"
+      },
+      {
+        "time": "10:00",
+        "title": "世界が「中国頼み」から抜け出せない仕組みとは？―仏メディア",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9jb1M5WG1CWEg4ek8wSWp1aWZBb1ROZURuUTR0ejVFT2l3aTYwZjRWR0RJZjhQNl9ibnhpNnJFQmR2VE9QQnhzVGZhOTQ3ZzhhdW9CTVd3ZnJsU0E2UV9vS013TGNpV1N0NGZaVzh6LTcyOU0?oc=5",
+        "publishedAt": "2026-11-23T01:00:22.000Z"
+      },
+      {
         "time": "20:30",
         "title": "日本のお菓子をもっとおいしくするのは、凍ったバターを切りまくれるマシンかも",
         "source": "Gizmodo",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE52YldLYldvN0dvbXV0a1NtUDNHWUloUmhvUXk0WGVvTU9yQ3d1YzNfN0VHcG1aalUyQ1gtRzBDYkhVelZHamR1eEUxREVVTFJyRVUyNXROQXFudnI3ZkRwS1VkSEJLQXRIdmdtcg?oc=5",
         "publishedAt": "2026-11-22T11:30:00.000Z"
-      },
-      {
-        "time": "12:10",
-        "title": "“グラビア界イチの透明感”蓬莱舞、2人っきりの楽園デート",
-        "source": "オリコンニュース",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9tXzZ0aXRqNFZIRk9LSHdLVVJRYmRXZjgtWlNoUUM3NkVFVngzSXJRSlJlZGpVUFhQRllRSldqYktxdElLM1hHZWstdmRBc2h6NHoxUFhxVTEzZw?oc=5",
-        "publishedAt": "2026-11-22T03:10:00.000Z"
       },
       {
         "time": "10:29",
@@ -50,13 +57,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6603609?source=rss",
         "publishedAt": "2026-11-22T13:45:03.000Z"
-      },
-      {
-        "time": "20:11",
-        "title": "「サイバー保険」に加入 企業増加",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6603591?source=rss",
-        "publishedAt": "2026-11-22T11:11:10.000Z"
       }
     ],
     "worldHeadlines": [
@@ -149,11 +149,11 @@
     ],
     "localHeadlines": [
       {
-        "time": "15:29",
-        "title": "首里城正殿 完成祝うテープカット",
+        "time": "10:03",
+        "title": "首里城正殿の復元 県知事「万感」",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6603553?source=rss",
-        "publishedAt": "2026-11-22T06:29:31.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6603641?source=rss",
+        "publishedAt": "2026-11-23T01:03:54.000Z"
       },
       {
         "time": "09:08",
