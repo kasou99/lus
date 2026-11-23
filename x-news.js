@@ -1,6 +1,22 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-23T13:35:55.564Z",
+  "updatedAt": "2026-11-23T14:12:55.193Z",
   "items": [
+    {
+      "time": "22:33",
+      "title": "拘束の記者 駐露日本大使が面会",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603725?source=rss",
+      "publishedAt": "2026-11-23T13:33:03.000Z",
+      "xQuery": "拘束の記者 駐露日本大使が面会"
+    },
+    {
+      "time": "22:22",
+      "title": "首里城正殿 すごく濃い赤との声も",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603722?source=rss",
+      "publishedAt": "2026-11-23T13:22:15.000Z",
+      "xQuery": "首里城正殿 すごく濃い赤との声も"
+    },
     {
       "time": "21:54",
       "title": "露が核衛星を年内打ち上げか 報道",
@@ -8,14 +24,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6603720?source=rss",
       "publishedAt": "2026-11-23T12:54:35.000Z",
       "xQuery": "露が核衛星を年内打ち上げか 報道"
-    },
-    {
-      "time": "21:14",
-      "title": "クマ警戒続く 24日から学校再開",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603715?source=rss",
-      "publishedAt": "2026-11-23T12:14:10.000Z",
-      "xQuery": "クマ警戒続く 24日から学校再開"
     },
     {
       "time": "20:37",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "交番で警官死亡 拳銃使われた形跡"
     },
     {
-      "time": "21:48",
-      "title": "地銀など定期預金金利を大幅上げ",
+      "time": "22:29",
+      "title": "中1不明 学校周辺や河川を捜索",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603719?source=rss",
-      "publishedAt": "2026-11-23T12:48:48.000Z",
-      "xQuery": "地銀など定期預金金利を大幅上げ"
-    },
-    {
-      "time": "20:19",
-      "title": "視神経細胞をシート化 東北大開発",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603710?source=rss",
-      "publishedAt": "2026-11-23T11:19:43.000Z",
-      "xQuery": "視神経細胞をシート化 東北大開発"
+      "url": "https://news.yahoo.co.jp/pickup/6603726?source=rss",
+      "publishedAt": "2026-11-23T13:29:45.000Z",
+      "xQuery": "中1不明 学校周辺や河川を捜索"
     }
   ]
 };
