@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-23T04:37:35.133Z",
+  "updatedAt": "2026-11-23T05:13:39.645Z",
   "items": [
     {
-      "time": "08:18",
-      "title": "攻撃急増 背景にセキュリティ軽視",
+      "time": "13:22",
+      "title": "COP31閉幕 化石燃料を巡り対立",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603626?source=rss",
-      "publishedAt": "2026-11-22T23:18:11.000Z",
-      "xQuery": "攻撃急増 背景にセキュリティ軽視"
+      "url": "https://news.yahoo.co.jp/pickup/6603661?source=rss",
+      "publishedAt": "2026-11-23T04:22:01.000Z",
+      "xQuery": "COP31閉幕 化石燃料を巡り対立"
     },
     {
       "time": "11:15",
@@ -16,6 +16,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6603649?source=rss",
       "publishedAt": "2026-11-23T02:15:35.000Z",
       "xQuery": "キーウに攻撃 がれき下の7歳救助"
+    },
+    {
+      "time": "08:18",
+      "title": "攻撃急増 背景にセキュリティ軽視",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603626?source=rss",
+      "publishedAt": "2026-11-22T23:18:11.000Z",
+      "xQuery": "攻撃急増 背景にセキュリティ軽視"
     },
     {
       "time": "12:43",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6603654?source=rss",
       "publishedAt": "2026-11-23T03:12:38.000Z",
       "xQuery": "謎の迷惑行為「少林寺」拡散背景"
-    },
-    {
-      "time": "12:34",
-      "title": "お湯注ぐだけ「カップご飯」好調",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603656?source=rss",
-      "publishedAt": "2026-11-23T03:34:51.000Z",
-      "xQuery": "お湯注ぐだけ「カップご飯」好調"
     }
   ]
 };
