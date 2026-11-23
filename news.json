@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T05:36:18.482Z",
+  "updatedAt": "2026-11-23T06:27:33.956Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,11 +38,11 @@
         "publishedAt": "2026-11-23T02:30:00.000Z"
       },
       {
-        "time": "11:31",
+        "time": "20:30",
         "title": "日本のお菓子をもっとおいしくするのは、凍ったバターを切りまくれるマシンかも",
         "source": "Gizmodo",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE52YldLYldvN0dvbXV0a1NtUDNHWUloUmhvUXk0WGVvTU9yQ3d1YzNfN0VHcG1aalUyQ1gtRzBDYkhVelZHamR1eEUxREVVTFJyRVUyNXROQXFudnI3ZkRwS1VkSEJLQXRIdmdtcg?oc=5",
-        "publishedAt": "2026-11-23T02:31:16.000Z"
+        "publishedAt": "2026-11-22T11:30:00.000Z"
       },
       {
         "time": "09:48",
@@ -119,13 +119,6 @@
         "publishedAt": "2026-11-22T23:08:33.000Z"
       },
       {
-        "time": "22:45",
-        "title": "アンソロピックIPO巡り銀行に制約",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6603609?source=rss",
-        "publishedAt": "2026-11-22T13:45:03.000Z"
-      },
-      {
         "time": "07:21",
         "title": "24年の1億円超所得者 10年で倍増",
         "source": "Yahoo!ニュース",
@@ -133,11 +126,18 @@
         "publishedAt": "2026-11-22T22:21:56.000Z"
       },
       {
-        "time": "14:25",
-        "title": "福利厚生フル活用「ガチ勢」生活",
+        "time": "07:11",
+        "title": "たまごっち30周年「復活」の歴史",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6603669?source=rss",
-        "publishedAt": "2026-11-23T05:25:51.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6603615?source=rss",
+        "publishedAt": "2026-11-22T22:11:46.000Z"
+      },
+      {
+        "time": "15:11",
+        "title": "常識覆す JR東海の異端営業マン",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6603671?source=rss",
+        "publishedAt": "2026-11-23T06:11:18.000Z"
       },
       {
         "time": "12:34",

@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-23T05:36:19.632Z",
+  "updatedAt": "2026-11-23T06:27:35.002Z",
   "items": [
     {
       "time": "13:22",
@@ -8,14 +8,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6603661?source=rss",
       "publishedAt": "2026-11-23T04:22:01.000Z",
       "xQuery": "COP31閉幕 化石燃料を巡り対立"
-    },
-    {
-      "time": "11:15",
-      "title": "キーウに攻撃 がれき下の7歳救助",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603649?source=rss",
-      "publishedAt": "2026-11-23T02:15:35.000Z",
-      "xQuery": "キーウに攻撃 がれき下の7歳救助"
     },
     {
       "time": "13:45",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6603667?source=rss",
       "publishedAt": "2026-11-23T05:26:29.000Z",
       "xQuery": "リフォーム工事業の倒産 過去最多"
+    },
+    {
+      "time": "15:15",
+      "title": "番組中にわいせつな音 BBCが謝罪",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603674?source=rss",
+      "publishedAt": "2026-11-23T06:15:44.000Z",
+      "xQuery": "番組中にわいせつな音 BBCが謝罪"
     }
   ]
 };
