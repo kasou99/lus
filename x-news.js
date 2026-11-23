@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-23T03:38:01.309Z",
+  "updatedAt": "2026-11-23T04:15:11.863Z",
   "items": [
     {
       "time": "08:18",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "首里城正殿の復元 県知事「万感」"
     },
     {
-      "time": "11:04",
-      "title": "トランプ氏 イラン再攻撃に言及",
+      "time": "12:43",
+      "title": "郡山市の中1不明 40人態勢で捜索",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603648?source=rss",
-      "publishedAt": "2026-11-23T02:04:58.000Z",
-      "xQuery": "トランプ氏 イラン再攻撃に言及"
+      "url": "https://news.yahoo.co.jp/pickup/6603658?source=rss",
+      "publishedAt": "2026-11-23T03:43:12.000Z",
+      "xQuery": "郡山市の中1不明 40人態勢で捜索"
     },
     {
       "time": "12:12",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "謎の迷惑行為「少林寺」拡散背景"
     },
     {
-      "time": "09:20",
-      "title": "「ほぼ日手帳」海外で人気のワケ",
+      "time": "12:34",
+      "title": "お湯注ぐだけ「カップご飯」好調",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603636?source=rss",
-      "publishedAt": "2026-11-23T00:20:14.000Z",
-      "xQuery": "「ほぼ日手帳」海外で人気のワケ"
+      "url": "https://news.yahoo.co.jp/pickup/6603656?source=rss",
+      "publishedAt": "2026-11-23T03:34:51.000Z",
+      "xQuery": "お湯注ぐだけ「カップご飯」好調"
     }
   ]
 };
