@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-23T20:10:20.280Z",
+  "updatedAt": "2026-11-23T20:35:51.399Z",
   "groups": {
     "machineHeadlines": [
       {
-        "time": "12:02",
+        "time": "17:57",
         "title": "工作機械受注が示す日本株と世界経済 高水準維持も伸び率拡大の局面は終了か",
         "source": "TBS NEWS DIG",
         "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1lUnVfUGlvMFhxdEV2NTZzdHd2bTVYT3luOHcycm4xM25sRE1sLVdVeXF3S240U0l0RzZHUmZIMGdLZ0hCVFU1dFkxRWxjLTh2OWgwUHFldkZBSHc1RUVZ?oc=5",
-        "publishedAt": "2026-11-23T03:02:00.000Z"
+        "publishedAt": "2026-11-23T08:57:00.000Z"
       },
       {
         "time": "05:00",
@@ -38,13 +38,6 @@
         "publishedAt": "2026-11-23T04:20:00.000Z"
       },
       {
-        "time": "05:00",
-        "title": "AI欠かせぬ職場に JR東海、デジタル技術底上げ",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1aamVscElTR1Y5Z0hjQjZjLTlFdmF5UnhtRVBBdXBwamZXblY3UzQwa2xhS3NwSEV6RXdqczdxNFMya1NpMkxGbEQyYU83RnFfUkZHTzljaHo?oc=5",
-        "publishedAt": "2026-11-23T20:00:00.000Z"
-      },
-      {
         "time": "10:00",
         "title": "世界が「中国頼み」から抜け出せない仕組みとは？―仏メディア",
         "source": "ニコニコニュース",
@@ -57,6 +50,13 @@
         "source": "Newscast.jp",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9sVVUwRm01SEprWF8xSzdpMEpUM1dYcVFIR3pBc0N3RHFVSFRoZmk2U2RiSU1Fc0FJem5rR1dhRXUzRF9zUnFIbUlwQlFSWUE?oc=5",
         "publishedAt": "2026-11-23T02:30:00.000Z"
+      },
+      {
+        "time": "10:00",
+        "title": "「ものづくり革命で人々を幸せに」Japan Robotics代表、Wantedlyの東急線中吊り広告に登場",
+        "source": "イザ！",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5oMVdleWstTlN5RjFscDR2OVgwR1VROUM5V0xJT0ZMRnVuMUpHRHEwaFJkRFU1WDhUdHFacG91OVYtS3RaVHE1SWR0anl5UUJOblRuU0hxUS1laW9mai1qZExBa2dkWGJCWGVPN01RLXVDUHNmSzEzZVFB?oc=5",
+        "publishedAt": "2026-11-23T01:00:08.000Z"
       }
     ],
     "worldHeadlines": [
