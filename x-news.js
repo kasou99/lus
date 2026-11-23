@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-22T23:35:17.151Z",
+  "updatedAt": "2026-11-23T00:33:25.955Z",
   "items": [
     {
-      "time": "06:58",
-      "title": "COP31 合意文書採択できず閉幕",
+      "time": "08:30",
+      "title": "米民主党が下‌院で258議席 報道",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603614?source=rss",
-      "publishedAt": "2026-11-22T21:58:55.000Z",
-      "xQuery": "COP31 合意文書採択できず閉幕"
+      "url": "https://news.yahoo.co.jp/pickup/6603631?source=rss",
+      "publishedAt": "2026-11-22T23:30:14.000Z",
+      "xQuery": "米民主党が下‌院で258議席 報道"
     },
     {
       "time": "07:35",
@@ -18,12 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "連休最終日 西-東日本は行楽日和"
     },
     {
-      "time": "07:21",
-      "title": "24年の1億円超所得者 10年で倍増",
+      "time": "08:09",
+      "title": "北極航路 温暖化で氷解け通航量増",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603620?source=rss",
-      "publishedAt": "2026-11-22T22:21:56.000Z",
-      "xQuery": "24年の1億円超所得者 10年で倍増"
+      "url": "https://news.yahoo.co.jp/pickup/6603627?source=rss",
+      "publishedAt": "2026-11-22T23:09:55.000Z",
+      "xQuery": "北極航路 温暖化で氷解け通航量増"
+    },
+    {
+      "time": "08:50",
+      "title": "中央分離帯越え車と衝突 男を逮捕",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603634?source=rss",
+      "publishedAt": "2026-11-22T23:50:34.000Z",
+      "xQuery": "中央分離帯越え車と衝突 男を逮捕"
     },
     {
       "time": "08:08",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6603628?source=rss",
       "publishedAt": "2026-11-22T23:08:33.000Z",
       "xQuery": "SOS見せず突然退職 企業どう防ぐ"
-    },
-    {
-      "time": "07:11",
-      "title": "たまごっち30周年「復活」の歴史",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603615?source=rss",
-      "publishedAt": "2026-11-22T22:11:46.000Z",
-      "xQuery": "たまごっち30周年「復活」の歴史"
     }
   ]
 };

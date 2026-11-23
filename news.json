@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T23:35:16.553Z",
+  "updatedAt": "2026-11-23T00:33:25.258Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,18 +17,18 @@
         "publishedAt": "2026-11-22T19:55:00.000Z"
       },
       {
-        "time": "09:25",
-        "title": "【独自】フィジカルＡＩ実用化へ企業連合 製造ロボ制御、京セラなど２０社",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUzVNMlpna1hFMHNmZGduYmpGREVUUGoyZ09qb2ZLMl9HQXJna0puZlBkbDJiRHJhcTZuelFaWlNfdXA2dmVGaWdJeGlYQlhzbUFDQU96bHh0WXBleWR4UUpLZEw0VUxNblFTOUhPX3VZNV9MRjdIUnEtWGJhb0tmQWRn?oc=5",
-        "publishedAt": "2026-11-22T00:25:05.000Z"
-      },
-      {
         "time": "20:30",
         "title": "日本のお菓子をもっとおいしくするのは、凍ったバターを切りまくれるマシンかも",
         "source": "Gizmodo",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE52YldLYldvN0dvbXV0a1NtUDNHWUloUmhvUXk0WGVvTU9yQ3d1YzNfN0VHcG1aalUyQ1gtRzBDYkhVelZHamR1eEUxREVVTFJyRVUyNXROQXFudnI3ZkRwS1VkSEJLQXRIdmdtcg?oc=5",
         "publishedAt": "2026-11-22T11:30:00.000Z"
+      },
+      {
+        "time": "12:10",
+        "title": "“グラビア界イチの透明感”蓬莱舞、2人っきりの楽園デート",
+        "source": "オリコンニュース",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9tXzZ0aXRqNFZIRk9LSHdLVVJRYmRXZjgtWlNoUUM3NkVFVngzSXJRSlJlZGpVUFhQRllRSldqYktxdElLM1hHZWstdmRBc2h6NHoxUFhxVTEzZw?oc=5",
+        "publishedAt": "2026-11-22T03:10:00.000Z"
       },
       {
         "time": "10:29",
@@ -75,6 +75,13 @@
         "publishedAt": "2026-11-22T03:59:29.000Z"
       },
       {
+        "time": "09:25",
+        "title": "リビアで露軍艦爆発 無人機攻撃か",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6603637?source=rss",
+        "publishedAt": "2026-11-23T00:25:34.000Z"
+      },
+      {
         "time": "08:30",
         "title": "米民主党が下‌院で258議席 報道",
         "source": "Yahoo!ニュース",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6603576?source=rss",
         "publishedAt": "2026-11-22T09:08:26.000Z"
-      },
-      {
-        "time": "10:21",
-        "title": "ブラジル南部 猛烈な嵐で4人死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6603516?source=rss",
-        "publishedAt": "2026-11-22T01:21:51.000Z"
       }
     ],
     "economyHeadlines": [
@@ -140,21 +140,14 @@
         "publishedAt": "2026-11-22T22:21:56.000Z"
       },
       {
-        "time": "07:11",
-        "title": "たまごっち30周年「復活」の歴史",
+        "time": "09:20",
+        "title": "「ほぼ日手帳」海外で人気のワケ",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6603615?source=rss",
-        "publishedAt": "2026-11-22T22:11:46.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6603636?source=rss",
+        "publishedAt": "2026-11-23T00:20:14.000Z"
       }
     ],
     "localHeadlines": [
-      {
-        "time": "18:35",
-        "title": "関東で広く乾燥 火災相次ぎ死者も",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6603581?source=rss",
-        "publishedAt": "2026-11-22T09:35:26.000Z"
-      },
       {
         "time": "15:29",
         "title": "首里城正殿 完成祝うテープカット",
@@ -163,11 +156,18 @@
         "publishedAt": "2026-11-22T06:29:31.000Z"
       },
       {
-        "time": "18:02",
-        "title": "原発構内でガラスの下敷きに 死亡",
+        "time": "09:08",
+        "title": "死亡事故受け 柏崎刈羽で工事中止",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6603574?source=rss",
-        "publishedAt": "2026-11-22T09:02:34.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6603635?source=rss",
+        "publishedAt": "2026-11-23T00:08:57.000Z"
+      },
+      {
+        "time": "08:50",
+        "title": "中央分離帯越え車と衝突 男を逮捕",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6603634?source=rss",
+        "publishedAt": "2026-11-22T23:50:34.000Z"
       },
       {
         "time": "14:33",
