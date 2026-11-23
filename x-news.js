@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-23T06:51:51.995Z",
+  "updatedAt": "2026-11-23T07:14:08.596Z",
   "items": [
     {
       "time": "13:22",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "復元の首里城正殿 一般公開される"
     },
     {
-      "time": "12:43",
-      "title": "郡山市の中1不明 40人態勢で捜索",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603658?source=rss",
-      "publishedAt": "2026-11-23T03:43:12.000Z",
-      "xQuery": "郡山市の中1不明 40人態勢で捜索"
-    },
-    {
       "time": "14:26",
       "title": "リフォーム工事業の倒産 過去最多",
       "source": "Yahoo!ニュース",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6603674?source=rss",
       "publishedAt": "2026-11-23T06:15:44.000Z",
       "xQuery": "番組中にわいせつな音 BBCが謝罪"
+    },
+    {
+      "time": "14:25",
+      "title": "福利厚生フル活用「ガチ勢」生活",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603669?source=rss",
+      "publishedAt": "2026-11-23T05:25:51.000Z",
+      "xQuery": "福利厚生フル活用「ガチ勢」生活"
     }
   ]
 };
