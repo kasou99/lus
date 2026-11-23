@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-23T22:09:48.053Z",
+  "updatedAt": "2026-11-23T22:35:51.540Z",
   "items": [
     {
-      "time": "23:17",
-      "title": "フアン氏 エヌビディアCEOに復帰",
+      "time": "07:21",
+      "title": "NY株大幅反発 フアン氏復帰好感",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603732?source=rss",
-      "publishedAt": "2026-11-23T14:17:46.000Z",
-      "xQuery": "フアン氏 エヌビディアCEOに復帰"
+      "url": "https://news.yahoo.co.jp/pickup/6603740?source=rss",
+      "publishedAt": "2026-11-23T22:21:34.000Z",
+      "xQuery": "NY株大幅反発 フアン氏復帰好感"
     },
     {
       "time": "06:28",

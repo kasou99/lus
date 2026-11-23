@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T22:09:47.553Z",
+  "updatedAt": "2026-11-23T22:35:50.866Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -112,6 +112,13 @@
         "publishedAt": "2026-11-23T14:17:46.000Z"
       },
       {
+        "time": "07:21",
+        "title": "NY株大幅反発 フアン氏復帰好感",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6603740?source=rss",
+        "publishedAt": "2026-11-23T22:21:34.000Z"
+      },
+      {
         "time": "21:48",
         "title": "地銀など定期預金金利を大幅上げ",
         "source": "Yahoo!ニュース",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6603718?source=rss",
         "publishedAt": "2026-11-23T12:34:20.000Z"
-      },
-      {
-        "time": "12:34",
-        "title": "お湯注ぐだけ「カップご飯」好調",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6603656?source=rss",
-        "publishedAt": "2026-11-23T03:34:51.000Z"
       }
     ],
     "localHeadlines": [
