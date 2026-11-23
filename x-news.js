@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-23T04:15:11.863Z",
+  "updatedAt": "2026-11-23T04:37:35.133Z",
   "items": [
     {
       "time": "08:18",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "攻撃急増 背景にセキュリティ軽視"
     },
     {
-      "time": "10:03",
-      "title": "首里城正殿の復元 県知事「万感」",
+      "time": "11:15",
+      "title": "キーウに攻撃 がれき下の7歳救助",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603641?source=rss",
-      "publishedAt": "2026-11-23T01:03:54.000Z",
-      "xQuery": "首里城正殿の復元 県知事「万感」"
+      "url": "https://news.yahoo.co.jp/pickup/6603649?source=rss",
+      "publishedAt": "2026-11-23T02:15:35.000Z",
+      "xQuery": "キーウに攻撃 がれき下の7歳救助"
     },
     {
       "time": "12:43",
