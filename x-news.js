@@ -1,21 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-23T01:39:27.253Z",
+  "updatedAt": "2026-11-23T02:17:42.774Z",
   "items": [
     {
-      "time": "08:48",
-      "title": "首相の国会出席削減 自民が議論",
+      "time": "09:34",
+      "title": "野党 文科相の「問責」提出の構え",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603632?source=rss",
-      "publishedAt": "2026-11-22T23:48:06.000Z",
-      "xQuery": "首相の国会出席削減 自民が議論"
+      "url": "https://news.yahoo.co.jp/pickup/6603638?source=rss",
+      "publishedAt": "2026-11-23T00:34:04.000Z",
+      "xQuery": "野党 文科相の「問責」提出の構え"
     },
     {
-      "time": "09:25",
-      "title": "リビアで露軍艦爆発 無人機攻撃か",
+      "time": "10:03",
+      "title": "首里城正殿の復元 県知事「万感」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603637?source=rss",
-      "publishedAt": "2026-11-23T00:25:34.000Z",
-      "xQuery": "リビアで露軍艦爆発 無人機攻撃か"
+      "url": "https://news.yahoo.co.jp/pickup/6603641?source=rss",
+      "publishedAt": "2026-11-23T01:03:54.000Z",
+      "xQuery": "首里城正殿の復元 県知事「万感」"
+    },
+    {
+      "time": "11:04",
+      "title": "トランプ氏 イラン再攻撃に言及",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603648?source=rss",
+      "publishedAt": "2026-11-23T02:04:58.000Z",
+      "xQuery": "トランプ氏 イラン再攻撃に言及"
     },
     {
       "time": "09:08",
@@ -24,14 +32,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6603635?source=rss",
       "publishedAt": "2026-11-23T00:08:57.000Z",
       "xQuery": "死亡事故受け 柏崎刈羽で工事中止"
-    },
-    {
-      "time": "08:50",
-      "title": "中央分離帯越え車と衝突 男を逮捕",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603634?source=rss",
-      "publishedAt": "2026-11-22T23:50:34.000Z",
-      "xQuery": "中央分離帯越え車と衝突 男を逮捕"
     },
     {
       "time": "09:20",
