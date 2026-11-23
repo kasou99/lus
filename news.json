@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T02:17:41.733Z",
+  "updatedAt": "2026-11-23T02:37:50.159Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,6 +31,13 @@
         "publishedAt": "2026-11-23T01:00:22.000Z"
       },
       {
+        "time": "11:30",
+        "title": "スクリューグラインダーの世界市場（2026年～2032年）、市場規模（噛み合い式、非噛み合い式）・分析レポートを発表",
+        "source": "Newscast.jp",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9sVVUwRm01SEprWF8xSzdpMEpUM1dYcVFIR3pBc0N3RHFVSFRoZmk2U2RiSU1Fc0FJem5rR1dhRXUzRF9zUnFIbUlwQlFSWUE?oc=5",
+        "publishedAt": "2026-11-23T02:30:00.000Z"
+      },
+      {
         "time": "20:30",
         "title": "日本のお菓子をもっとおいしくするのは、凍ったバターを切りまくれるマシンかも",
         "source": "Gizmodo",
@@ -45,18 +52,11 @@
         "publishedAt": "2026-11-22T03:10:00.000Z"
       },
       {
-        "time": "08:08",
-        "title": "SOS見せず突然退職 企業どう防ぐ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6603628?source=rss",
-        "publishedAt": "2026-11-22T23:08:33.000Z"
-      },
-      {
-        "time": "22:45",
-        "title": "アンソロピックIPO巡り銀行に制約",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6603609?source=rss",
-        "publishedAt": "2026-11-22T13:45:03.000Z"
+        "time": "11:15",
+        "title": "「ものづくり革命で人々を幸せに」Japan Robotics代表、Wantedlyの東急線中吊り広告に登場",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9LaFhlMkhrLWFXYnZSaWIzcThvZEhyNFRwNGZKR3NLMkNYc3ZoUzZHR3owaXEwNVJLYTlxbUdhTURCVnlPQm93NXFCN3paU3FLNW1sclBLTXF6YklkR0FnZGdlVXAtWk9jNUd2YWo0MnFUQXpXdW1nTA?oc=5",
+        "publishedAt": "2026-11-23T02:15:22.000Z"
       }
     ],
     "worldHeadlines": [
