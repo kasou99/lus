@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-23T11:36:17.055Z",
+  "updatedAt": "2026-11-23T12:17:42.832Z",
   "items": [
     {
       "time": "19:12",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "野党 24日にも文科相問責案を協議"
     },
     {
-      "time": "19:12",
-      "title": "ウがリビア沖で露軍艦を「撃沈」",
+      "time": "20:55",
+      "title": "核のごみ巡る住民説明会 疑問の声",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603703?source=rss",
-      "publishedAt": "2026-11-23T10:12:22.000Z",
-      "xQuery": "ウがリビア沖で露軍艦を「撃沈」"
+      "url": "https://news.yahoo.co.jp/pickup/6603713?source=rss",
+      "publishedAt": "2026-11-23T11:55:40.000Z",
+      "xQuery": "核のごみ巡る住民説明会 疑問の声"
     },
     {
-      "time": "16:50",
-      "title": "ガソリン価格下落 米大統領恨み節",
+      "time": "20:37",
+      "title": "交番で警官死亡 拳銃使われた形跡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603686?source=rss",
-      "publishedAt": "2026-11-23T07:50:15.000Z",
-      "xQuery": "ガソリン価格下落 米大統領恨み節"
+      "url": "https://news.yahoo.co.jp/pickup/6603711?source=rss",
+      "publishedAt": "2026-11-23T11:37:40.000Z",
+      "xQuery": "交番で警官死亡 拳銃使われた形跡"
     },
     {
       "time": "18:53",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "タッチ決済改札 利用者が戸惑いも"
     },
     {
-      "time": "20:02",
-      "title": "異色の経歴生かす 手話できる警官",
+      "time": "19:31",
+      "title": "勤労感謝の日に70円ラーメン提供",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603708?source=rss",
-      "publishedAt": "2026-11-23T11:02:10.000Z",
-      "xQuery": "異色の経歴生かす 手話できる警官"
+      "url": "https://news.yahoo.co.jp/pickup/6603705?source=rss",
+      "publishedAt": "2026-11-23T10:31:55.000Z",
+      "xQuery": "勤労感謝の日に70円ラーメン提供"
     }
   ]
 };
