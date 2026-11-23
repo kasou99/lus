@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-23T10:11:54.228Z",
+  "updatedAt": "2026-11-23T10:36:19.322Z",
   "items": [
+    {
+      "time": "19:12",
+      "title": "野党 24日にも文科相問責案を協議",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603704?source=rss",
+      "publishedAt": "2026-11-23T10:12:28.000Z",
+      "xQuery": "野党 24日にも文科相問責案を協議"
+    },
     {
       "time": "17:33",
       "title": "首里城正殿が一般公開 来場者感嘆",
@@ -10,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "首里城正殿が一般公開 来場者感嘆"
     },
     {
-      "time": "16:54",
-      "title": "COP31決裂 影響力みせたサウジ",
+      "time": "19:12",
+      "title": "ウがリビア沖で露軍艦を「撃沈」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603685?source=rss",
-      "publishedAt": "2026-11-23T07:54:20.000Z",
-      "xQuery": "COP31決裂 影響力みせたサウジ"
+      "url": "https://news.yahoo.co.jp/pickup/6603703?source=rss",
+      "publishedAt": "2026-11-23T10:12:22.000Z",
+      "xQuery": "ウがリビア沖で露軍艦を「撃沈」"
     },
     {
       "time": "16:50",
@@ -24,14 +32,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6603686?source=rss",
       "publishedAt": "2026-11-23T07:50:15.000Z",
       "xQuery": "ガソリン価格下落 米大統領恨み節"
-    },
-    {
-      "time": "15:15",
-      "title": "番組中にわいせつな音 BBCが謝罪",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603674?source=rss",
-      "publishedAt": "2026-11-23T06:15:44.000Z",
-      "xQuery": "番組中にわいせつな音 BBCが謝罪"
     },
     {
       "time": "18:53",

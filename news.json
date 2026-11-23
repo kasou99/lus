@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T10:11:53.624Z",
+  "updatedAt": "2026-11-23T10:36:18.581Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -82,18 +82,18 @@
         "publishedAt": "2026-11-23T02:04:58.000Z"
       },
       {
-        "time": "09:25",
-        "title": "リビアで露軍艦爆発 無人機攻撃か",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6603637?source=rss",
-        "publishedAt": "2026-11-23T00:25:34.000Z"
-      },
-      {
         "time": "16:50",
         "title": "ガソリン価格下落 米大統領恨み節",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6603686?source=rss",
         "publishedAt": "2026-11-23T07:50:15.000Z"
+      },
+      {
+        "time": "19:12",
+        "title": "ウがリビア沖で露軍艦を「撃沈」",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6603703?source=rss",
+        "publishedAt": "2026-11-23T10:12:22.000Z"
       },
       {
         "time": "08:30",
@@ -119,13 +119,6 @@
         "publishedAt": "2026-11-22T23:08:33.000Z"
       },
       {
-        "time": "16:10",
-        "title": "カスハラ対策 試行錯誤する企業",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6603677?source=rss",
-        "publishedAt": "2026-11-23T07:10:18.000Z"
-      },
-      {
         "time": "15:11",
         "title": "常識覆す JR東海の異端営業マン",
         "source": "Yahoo!ニュース",
@@ -138,6 +131,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6603656?source=rss",
         "publishedAt": "2026-11-23T03:34:51.000Z"
+      },
+      {
+        "time": "19:31",
+        "title": "勤労感謝の日に70円ラーメン提供",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6603705?source=rss",
+        "publishedAt": "2026-11-23T10:31:55.000Z"
       },
       {
         "time": "09:20",
