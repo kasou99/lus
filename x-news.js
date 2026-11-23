@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-23T12:39:14.873Z",
+  "updatedAt": "2026-11-23T13:13:08.115Z",
   "items": [
     {
-      "time": "19:12",
-      "title": "野党 24日にも文科相問責案を協議",
+      "time": "21:54",
+      "title": "露が核衛星を年内打ち上げか 報道",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603704?source=rss",
-      "publishedAt": "2026-11-23T10:12:28.000Z",
-      "xQuery": "野党 24日にも文科相問責案を協議"
+      "url": "https://news.yahoo.co.jp/pickup/6603720?source=rss",
+      "publishedAt": "2026-11-23T12:54:35.000Z",
+      "xQuery": "露が核衛星を年内打ち上げか 報道"
     },
     {
       "time": "20:55",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "交番で警官死亡 拳銃使われた形跡"
     },
     {
-      "time": "18:53",
-      "title": "タッチ決済改札 利用者が戸惑いも",
+      "time": "21:48",
+      "title": "地銀など定期預金金利を大幅上げ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603699?source=rss",
-      "publishedAt": "2026-11-23T09:53:19.000Z",
-      "xQuery": "タッチ決済改札 利用者が戸惑いも"
+      "url": "https://news.yahoo.co.jp/pickup/6603719?source=rss",
+      "publishedAt": "2026-11-23T12:48:48.000Z",
+      "xQuery": "地銀など定期預金金利を大幅上げ"
     },
     {
-      "time": "21:34",
-      "title": "年収1000万円 社内ニートの不安",
+      "time": "20:19",
+      "title": "視神経細胞をシート化 東北大開発",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603718?source=rss",
-      "publishedAt": "2026-11-23T12:34:20.000Z",
-      "xQuery": "年収1000万円 社内ニートの不安"
+      "url": "https://news.yahoo.co.jp/pickup/6603710?source=rss",
+      "publishedAt": "2026-11-23T11:19:43.000Z",
+      "xQuery": "視神経細胞をシート化 東北大開発"
     }
   ]
 };

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T12:39:14.018Z",
+  "updatedAt": "2026-11-23T13:13:07.195Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -89,21 +89,28 @@
         "publishedAt": "2026-11-23T07:50:15.000Z"
       },
       {
+        "time": "21:54",
+        "title": "露が核衛星を年内打ち上げか 報道",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6603720?source=rss",
+        "publishedAt": "2026-11-23T12:54:35.000Z"
+      },
+      {
         "time": "19:12",
         "title": "ウがリビア沖で露軍艦を「撃沈」",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6603703?source=rss",
         "publishedAt": "2026-11-23T10:12:22.000Z"
-      },
-      {
-        "time": "08:30",
-        "title": "米民主党が下‌院で258議席 報道",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6603631?source=rss",
-        "publishedAt": "2026-11-22T23:30:14.000Z"
       }
     ],
     "economyHeadlines": [
+      {
+        "time": "21:48",
+        "title": "地銀など定期預金金利を大幅上げ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6603719?source=rss",
+        "publishedAt": "2026-11-23T12:48:48.000Z"
+      },
       {
         "time": "14:26",
         "title": "リフォーム工事業の倒産 過去最多",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6603705?source=rss",
         "publishedAt": "2026-11-23T10:31:55.000Z"
-      },
-      {
-        "time": "09:20",
-        "title": "「ほぼ日手帳」海外で人気のワケ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6603636?source=rss",
-        "publishedAt": "2026-11-23T00:20:14.000Z"
       }
     ],
     "localHeadlines": [
