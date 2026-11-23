@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-11-23T07:35:38.967Z",
+  "updatedAt": "2026-11-23T08:17:47.864Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "12:02",
+        "title": "工作機械受注が示す日本株と世界経済 高水準維持も伸び率拡大の局面は終了か",
+        "source": "TBS NEWS DIG",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1lUnVfUGlvMFhxdEV2NTZzdHd2bTVYT3luOHcycm4xM25sRE1sLVdVeXF3S240U0l0RzZHUmZIMGdLZ0hCVFU1dFkxRWxjLTh2OWgwUHFldkZBSHc1RUVZ?oc=5",
+        "publishedAt": "2026-11-23T03:02:00.000Z"
+      },
       {
         "time": "05:00",
         "title": "丸紅、インドの工作機械５割増員 車向け強化",
@@ -24,13 +31,6 @@
         "publishedAt": "2026-11-23T04:20:00.000Z"
       },
       {
-        "time": "10:00",
-        "title": "世界が「中国頼み」から抜け出せない仕組みとは？―仏メディア",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9jb1M5WG1CWEg4ek8wSWp1aWZBb1ROZURuUTR0ejVFT2l3aTYwZjRWR0RJZjhQNl9ibnhpNnJFQmR2VE9QQnhzVGZhOTQ3ZzhhdW9CTVd3ZnJsU0E2UV9vS013TGNpV1N0NGZaVzh6LTcyOU0?oc=5",
-        "publishedAt": "2026-11-23T01:00:22.000Z"
-      },
-      {
         "time": "11:30",
         "title": "スクリューグラインダーの世界市場（2026年～2032年）、市場規模（噛み合い式、非噛み合い式）・分析レポートを発表",
         "source": "Newscast.jp",
@@ -45,21 +45,28 @@
         "publishedAt": "2026-11-22T11:30:00.000Z"
       },
       {
-        "time": "10:00",
-        "title": "「ものづくり革命で人々を幸せに」Japan Robotics代表、Wantedlyの東急線中吊り広告に登場",
-        "source": "イザ！",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5oMVdleWstTlN5RjFscDR2OVgwR1VROUM5V0xJT0ZMRnVuMUpHRHEwaFJkRFU1WDhUdHFacG91OVYtS3RaVHE1SWR0anl5UUJOblRuU0hxUS1laW9mai1qZExBa2dkWGJCWGVPN01RLXVDUHNmSzEzZVFB?oc=5",
-        "publishedAt": "2026-11-23T01:00:08.000Z"
-      },
-      {
         "time": "09:48",
         "title": "「アル・パチーノの教えですよ」東京でも、福岡でもだめだった…時価総額1兆円企業「モノタロウ」が“大阪に本社を置いた”必然",
         "source": "ニコニコニュース",
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9rdTVUeDJteDZRUnpzZE9XS0l6X29iU3NzT2M3anBkZk9VSVdhUU5obEhFZnhPckkzRlU3WDY2SWtUbEd0ZTdFWThRVWJ2ekdMbFZjdlN4cUMtek9jbXg4MDBFTXgtcWJz?oc=5",
         "publishedAt": "2026-11-23T00:48:11.000Z"
+      },
+      {
+        "time": "10:00",
+        "title": "「ものづくり革命で人々を幸せに」Japan Robotics代表、Wantedlyの東急線中吊り広告に登場",
+        "source": "イザ！",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5oMVdleWstTlN5RjFscDR2OVgwR1VROUM5V0xJT0ZMRnVuMUpHRHEwaFJkRFU1WDhUdHFacG91OVYtS3RaVHE1SWR0anl5UUJOblRuU0hxUS1laW9mai1qZExBa2dkWGJCWGVPN01RLXVDUHNmSzEzZVFB?oc=5",
+        "publishedAt": "2026-11-23T01:00:08.000Z"
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "16:54",
+        "title": "COP31決裂 影響力みせたサウジ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6603685?source=rss",
+        "publishedAt": "2026-11-23T07:54:20.000Z"
+      },
       {
         "time": "13:22",
         "title": "COP31閉幕 化石燃料を巡り対立",
@@ -89,18 +96,11 @@
         "publishedAt": "2026-11-23T00:25:34.000Z"
       },
       {
-        "time": "08:30",
-        "title": "米民主党が下‌院で258議席 報道",
+        "time": "16:50",
+        "title": "ガソリン価格下落 米大統領恨み節",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6603631?source=rss",
-        "publishedAt": "2026-11-22T23:30:14.000Z"
-      },
-      {
-        "time": "21:11",
-        "title": "米大統領側 訪日時のオバマ氏やゆ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6603598?source=rss",
-        "publishedAt": "2026-11-22T12:11:40.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6603686?source=rss",
+        "publishedAt": "2026-11-23T07:50:15.000Z"
       }
     ],
     "economyHeadlines": [
@@ -177,18 +177,18 @@
         "publishedAt": "2026-11-23T00:08:57.000Z"
       },
       {
-        "time": "08:50",
-        "title": "中央分離帯越え車と衝突 男を逮捕",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6603634?source=rss",
-        "publishedAt": "2026-11-22T23:50:34.000Z"
-      },
-      {
         "time": "22:36",
         "title": "社員を監禁疑い 社長ら4人逮捕",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6603608?source=rss",
         "publishedAt": "2026-11-22T13:36:08.000Z"
+      },
+      {
+        "time": "17:03",
+        "title": "住宅火災で2遺体発見 50代姉弟か",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6603687?source=rss",
+        "publishedAt": "2026-11-23T08:03:31.000Z"
       }
     ],
     "subsidyHeadlines": [

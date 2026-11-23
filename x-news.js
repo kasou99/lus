@@ -1,14 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-23T07:35:39.895Z",
+  "updatedAt": "2026-11-23T08:17:48.600Z",
   "items": [
-    {
-      "time": "13:22",
-      "title": "COP31閉幕 化石燃料を巡り対立",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603661?source=rss",
-      "publishedAt": "2026-11-23T04:22:01.000Z",
-      "xQuery": "COP31閉幕 化石燃料を巡り対立"
-    },
     {
       "time": "13:45",
       "title": "復元の首里城正殿 一般公開される",
@@ -16,6 +8,22 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6603663?source=rss",
       "publishedAt": "2026-11-23T04:45:16.000Z",
       "xQuery": "復元の首里城正殿 一般公開される"
+    },
+    {
+      "time": "16:35",
+      "title": "気圧低下 24日は頭痛やめまい注意",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603682?source=rss",
+      "publishedAt": "2026-11-23T07:35:25.000Z",
+      "xQuery": "気圧低下 24日は頭痛やめまい注意"
+    },
+    {
+      "time": "16:50",
+      "title": "ガソリン価格下落 米大統領恨み節",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603686?source=rss",
+      "publishedAt": "2026-11-23T07:50:15.000Z",
+      "xQuery": "ガソリン価格下落 米大統領恨み節"
     },
     {
       "time": "16:10",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6603674?source=rss",
       "publishedAt": "2026-11-23T06:15:44.000Z",
       "xQuery": "番組中にわいせつな音 BBCが謝罪"
-    },
-    {
-      "time": "16:11",
-      "title": "食べるポン酢「どろぽん」人気",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603679?source=rss",
-      "publishedAt": "2026-11-23T07:11:29.000Z",
-      "xQuery": "食べるポン酢「どろぽん」人気"
     }
   ]
 };
