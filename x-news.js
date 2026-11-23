@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-23T03:15:21.629Z",
+  "updatedAt": "2026-11-23T03:38:01.309Z",
   "items": [
     {
       "time": "08:18",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "トランプ氏 イラン再攻撃に言及"
     },
     {
-      "time": "09:08",
-      "title": "死亡事故受け 柏崎刈羽で工事中止",
+      "time": "12:12",
+      "title": "謎の迷惑行為「少林寺」拡散背景",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603635?source=rss",
-      "publishedAt": "2026-11-23T00:08:57.000Z",
-      "xQuery": "死亡事故受け 柏崎刈羽で工事中止"
+      "url": "https://news.yahoo.co.jp/pickup/6603654?source=rss",
+      "publishedAt": "2026-11-23T03:12:38.000Z",
+      "xQuery": "謎の迷惑行為「少林寺」拡散背景"
     },
     {
       "time": "09:20",
