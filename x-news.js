@@ -1,6 +1,22 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-23T14:35:53.695Z",
+  "updatedAt": "2026-11-23T15:11:38.988Z",
   "items": [
+    {
+      "time": "23:10",
+      "title": "COP 脱化石遅れで農業へ影響深刻",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603730?source=rss",
+      "publishedAt": "2026-11-23T14:10:38.000Z",
+      "xQuery": "COP 脱化石遅れで農業へ影響深刻"
+    },
+    {
+      "time": "23:44",
+      "title": "米大統領 フアン氏のCEO復帰歓迎",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603733?source=rss",
+      "publishedAt": "2026-11-23T14:44:13.000Z",
+      "xQuery": "米大統領 フアン氏のCEO復帰歓迎"
+    },
     {
       "time": "23:17",
       "title": "フアン氏 エヌビディアCEOに復帰",
@@ -10,20 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "フアン氏 エヌビディアCEOに復帰"
     },
     {
-      "time": "22:33",
-      "title": "拘束の記者 駐露日本大使が面会",
+      "time": "23:08",
+      "title": "「演説妨害」規制への議論 焦点は",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603725?source=rss",
-      "publishedAt": "2026-11-23T13:33:03.000Z",
-      "xQuery": "拘束の記者 駐露日本大使が面会"
-    },
-    {
-      "time": "22:22",
-      "title": "首里城正殿 すごく濃い赤との声も",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603722?source=rss",
-      "publishedAt": "2026-11-23T13:22:15.000Z",
-      "xQuery": "首里城正殿 すごく濃い赤との声も"
+      "url": "https://news.yahoo.co.jp/pickup/6603729?source=rss",
+      "publishedAt": "2026-11-23T14:08:42.000Z",
+      "xQuery": "「演説妨害」規制への議論 焦点は"
     },
     {
       "time": "20:37",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6603711?source=rss",
       "publishedAt": "2026-11-23T11:37:40.000Z",
       "xQuery": "交番で警官死亡 拳銃使われた形跡"
-    },
-    {
-      "time": "22:29",
-      "title": "中1不明 学校周辺や河川を捜索",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603726?source=rss",
-      "publishedAt": "2026-11-23T13:29:45.000Z",
-      "xQuery": "中1不明 学校周辺や河川を捜索"
     }
   ]
 };
