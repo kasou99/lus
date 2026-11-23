@@ -1,13 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-23T08:17:48.600Z",
+  "updatedAt": "2026-11-23T08:38:15.974Z",
   "items": [
     {
-      "time": "13:45",
-      "title": "復元の首里城正殿 一般公開される",
+      "time": "16:54",
+      "title": "COP31決裂 影響力みせたサウジ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603663?source=rss",
-      "publishedAt": "2026-11-23T04:45:16.000Z",
-      "xQuery": "復元の首里城正殿 一般公開される"
+      "url": "https://news.yahoo.co.jp/pickup/6603685?source=rss",
+      "publishedAt": "2026-11-23T07:54:20.000Z",
+      "xQuery": "COP31決裂 影響力みせたサウジ"
+    },
+    {
+      "time": "17:03",
+      "title": "住宅火災で2遺体発見 50代姉弟か",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603687?source=rss",
+      "publishedAt": "2026-11-23T08:03:31.000Z",
+      "xQuery": "住宅火災で2遺体発見 50代姉弟か"
     },
     {
       "time": "16:35",
@@ -24,14 +32,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6603686?source=rss",
       "publishedAt": "2026-11-23T07:50:15.000Z",
       "xQuery": "ガソリン価格下落 米大統領恨み節"
-    },
-    {
-      "time": "16:10",
-      "title": "カスハラ対策 試行錯誤する企業",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603677?source=rss",
-      "publishedAt": "2026-11-23T07:10:18.000Z",
-      "xQuery": "カスハラ対策 試行錯誤する企業"
     },
     {
       "time": "15:15",
