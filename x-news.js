@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-23T21:09:37.843Z",
+  "updatedAt": "2026-11-23T21:35:39.891Z",
   "items": [
     {
       "time": "23:10",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "COP 脱化石遅れで農業へ影響深刻"
     },
     {
-      "time": "23:44",
-      "title": "米大統領 フアン氏のCEO復帰歓迎",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603733?source=rss",
-      "publishedAt": "2026-11-23T14:44:13.000Z",
-      "xQuery": "米大統領 フアン氏のCEO復帰歓迎"
-    },
-    {
       "time": "23:17",
       "title": "フアン氏 エヌビディアCEOに復帰",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6603732?source=rss",
       "publishedAt": "2026-11-23T14:17:46.000Z",
       "xQuery": "フアン氏 エヌビディアCEOに復帰"
+    },
+    {
+      "time": "06:28",
+      "title": "米正副大統領 フアン氏復帰に関与",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603736?source=rss",
+      "publishedAt": "2026-11-23T21:28:40.000Z",
+      "xQuery": "米正副大統領 フアン氏復帰に関与"
     },
     {
       "time": "23:08",
