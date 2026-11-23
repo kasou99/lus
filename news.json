@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T22:35:50.866Z",
+  "updatedAt": "2026-11-23T23:10:30.461Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -15,6 +15,13 @@
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5zQjZVSWVtZWlIVjVrS3hUQW1WdzlCZGxwdGl0a1pwcThXVk1vX25fb0Z6S25NbkpxanZjWHRfRkZFZktwVENEVmx2eHFSUGFnN0paV3R4T24?oc=5",
         "publishedAt": "2026-11-23T20:00:00.000Z"
+      },
+      {
+        "time": "08:00",
+        "title": "AIと会話しながら、気づいたその場で保全記録を残せる──設備保全クラウド「ミロクルカルテ」の「音声入力ガイド」が対話型に進化",
+        "source": "PR TIMES",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9nWnQ0VEUzcU1ZVEt4SUFXeUtJX0I0ZjRvYWgtQUd6WXJxV0EtWjQwY3p4amJlLV9jSWJQQXpCMWVqUXFvMUVNaFE5di1tSExXMU5BMmhyNmxldkV2YjdWemhUUjdndlJQV0E?oc=5",
+        "publishedAt": "2026-11-23T23:00:02.000Z"
       },
       {
         "time": "06:08",
@@ -50,13 +57,6 @@
         "source": "ニコニコニュース",
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9rdTVUeDJteDZRUnpzZE9XS0l6X29iU3NzT2M3anBkZk9VSVdhUU5obEhFZnhPckkzRlU3WDY2SWtUbEd0ZTdFWThRVWJ2ekdMbFZjdlN4cUMtek9jbXg4MDBFTXgtcWJz?oc=5",
         "publishedAt": "2026-11-23T00:48:11.000Z"
-      },
-      {
-        "time": "13:20",
-        "title": "歯車研削盤市場分析レポート：2026年1015百万米ドル規模、成長率3.7%推移",
-        "source": "アットプレス",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE12X2p4N1Jsb3BBaVQxeGR1QUZyMTlPLVRYOTBuOFhCekpTOHBPX2dZTnhudmUxVzEyZkFNcmN2VTVqSFNiYXVhZm41bGpVeDA?oc=5",
-        "publishedAt": "2026-11-23T04:20:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -119,6 +119,13 @@
         "publishedAt": "2026-11-23T22:21:34.000Z"
       },
       {
+        "time": "07:58",
+        "title": "事務職の新卒採用減らす2割 調査",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6603745?source=rss",
+        "publishedAt": "2026-11-23T22:58:24.000Z"
+      },
+      {
         "time": "21:48",
         "title": "地銀など定期預金金利を大幅上げ",
         "source": "Yahoo!ニュース",
@@ -126,18 +133,11 @@
         "publishedAt": "2026-11-23T12:48:48.000Z"
       },
       {
-        "time": "14:26",
-        "title": "リフォーム工事業の倒産 過去最多",
+        "time": "07:45",
+        "title": "奨学金利率が急上昇 負担減求める",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6603667?source=rss",
-        "publishedAt": "2026-11-23T05:26:29.000Z"
-      },
-      {
-        "time": "15:11",
-        "title": "常識覆す JR東海の異端営業マン",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6603671?source=rss",
-        "publishedAt": "2026-11-23T06:11:18.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6603744?source=rss",
+        "publishedAt": "2026-11-23T22:45:42.000Z"
       },
       {
         "time": "21:34",

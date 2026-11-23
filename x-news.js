@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-23T22:35:51.540Z",
+  "updatedAt": "2026-11-23T23:10:31.679Z",
   "items": [
+    {
+      "time": "07:36",
+      "title": "3文書改定 経済安保の概要案判明",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603742?source=rss",
+      "publishedAt": "2026-11-23T22:36:05.000Z",
+      "xQuery": "3文書改定 経済安保の概要案判明"
+    },
     {
       "time": "07:21",
       "title": "NY株大幅反発 フアン氏復帰好感",
@@ -18,14 +26,6 @@ window.LUS_X_NEWS = {
       "xQuery": "米正副大統領 フアン氏復帰に関与"
     },
     {
-      "time": "23:10",
-      "title": "COP 脱化石遅れで農業へ影響深刻",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603730?source=rss",
-      "publishedAt": "2026-11-23T14:10:38.000Z",
-      "xQuery": "COP 脱化石遅れで農業へ影響深刻"
-    },
-    {
       "time": "07:03",
       "title": "ロッククライミング中に滑落 死亡",
       "source": "Yahoo!ニュース",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "ロッククライミング中に滑落 死亡"
     },
     {
-      "time": "21:34",
-      "title": "年収1000万円 社内ニートの不安",
+      "time": "07:45",
+      "title": "奨学金利率が急上昇 負担減求める",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603718?source=rss",
-      "publishedAt": "2026-11-23T12:34:20.000Z",
-      "xQuery": "年収1000万円 社内ニートの不安"
+      "url": "https://news.yahoo.co.jp/pickup/6603744?source=rss",
+      "publishedAt": "2026-11-23T22:45:42.000Z",
+      "xQuery": "奨学金利率が急上昇 負担減求める"
     }
   ]
 };
