@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-23T02:37:50.991Z",
+  "updatedAt": "2026-11-23T03:15:21.629Z",
   "items": [
     {
-      "time": "09:34",
-      "title": "野党 文科相の「問責」提出の構え",
+      "time": "08:18",
+      "title": "攻撃急増 背景にセキュリティ軽視",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603638?source=rss",
-      "publishedAt": "2026-11-23T00:34:04.000Z",
-      "xQuery": "野党 文科相の「問責」提出の構え"
+      "url": "https://news.yahoo.co.jp/pickup/6603626?source=rss",
+      "publishedAt": "2026-11-22T23:18:11.000Z",
+      "xQuery": "攻撃急増 背景にセキュリティ軽視"
     },
     {
       "time": "10:03",

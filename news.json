@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T02:37:50.159Z",
+  "updatedAt": "2026-11-23T03:15:21.027Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -24,6 +24,13 @@
         "publishedAt": "2026-11-22T06:34:54.000Z"
       },
       {
+        "time": "11:31",
+        "title": "日本のお菓子をもっとおいしくするのは、凍ったバターを切りまくれるマシンかも",
+        "source": "Gizmodo",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE52YldLYldvN0dvbXV0a1NtUDNHWUloUmhvUXk0WGVvTU9yQ3d1YzNfN0VHcG1aalUyQ1gtRzBDYkhVelZHamR1eEUxREVVTFJyRVUyNXROQXFudnI3ZkRwS1VkSEJLQXRIdmdtcg?oc=5",
+        "publishedAt": "2026-11-23T02:31:16.000Z"
+      },
+      {
         "time": "10:00",
         "title": "世界が「中国頼み」から抜け出せない仕組みとは？―仏メディア",
         "source": "ニコニコニュース",
@@ -38,25 +45,18 @@
         "publishedAt": "2026-11-23T02:30:00.000Z"
       },
       {
-        "time": "20:30",
-        "title": "日本のお菓子をもっとおいしくするのは、凍ったバターを切りまくれるマシンかも",
-        "source": "Gizmodo",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE52YldLYldvN0dvbXV0a1NtUDNHWUloUmhvUXk0WGVvTU9yQ3d1YzNfN0VHcG1aalUyQ1gtRzBDYkhVelZHamR1eEUxREVVTFJyRVUyNXROQXFudnI3ZkRwS1VkSEJLQXRIdmdtcg?oc=5",
-        "publishedAt": "2026-11-22T11:30:00.000Z"
-      },
-      {
-        "time": "12:10",
-        "title": "“グラビア界イチの透明感”蓬莱舞、2人っきりの楽園デート",
-        "source": "オリコンニュース",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBmSV91aE5FdXE1aHUtUl9uUGY2YWl1Q1pPdlczWVF5RGtfZjFRMGUySmRnZjQ0Z3dGMkMyS3dEbWN5YlFJdTRMRGsyYUwwUUdDS2JrYXBNc2R0UQ?oc=5",
-        "publishedAt": "2026-11-22T03:10:00.000Z"
-      },
-      {
-        "time": "11:15",
+        "time": "10:00",
         "title": "「ものづくり革命で人々を幸せに」Japan Robotics代表、Wantedlyの東急線中吊り広告に登場",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9LaFhlMkhrLWFXYnZSaWIzcThvZEhyNFRwNGZKR3NLMkNYc3ZoUzZHR3owaXEwNVJLYTlxbUdhTURCVnlPQm93NXFCN3paU3FLNW1sclBLTXF6YklkR0FnZGdlVXAtWk9jNUd2YWo0MnFUQXpXdW1nTA?oc=5",
-        "publishedAt": "2026-11-23T02:15:22.000Z"
+        "source": "イザ！",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5oMVdleWstTlN5RjFscDR2OVgwR1VROUM5V0xJT0ZMRnVuMUpHRHEwaFJkRFU1WDhUdHFacG91OVYtS3RaVHE1SWR0anl5UUJOblRuU0hxUS1laW9mai1qZExBa2dkWGJCWGVPN01RLXVDUHNmSzEzZVFB?oc=5",
+        "publishedAt": "2026-11-23T01:00:08.000Z"
+      },
+      {
+        "time": "08:08",
+        "title": "SOS見せず突然退職 企業どう防ぐ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6603628?source=rss",
+        "publishedAt": "2026-11-22T23:08:33.000Z"
       }
     ],
     "worldHeadlines": [
