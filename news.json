@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T06:27:33.956Z",
+  "updatedAt": "2026-11-23T06:51:51.072Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -15,13 +15,6 @@
         "source": "ダイヤモンド・オンライン",
         "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE84MlZoaHp0MVU0ck5JejdMNVJTQVltT190bk9yS19fQ3FSU0x0d2tPUUlONmhMY1hEaDFualdwMG0xcDN6YnpleW5hUS0?oc=5",
         "publishedAt": "2026-11-22T19:55:00.000Z"
-      },
-      {
-        "time": "15:34",
-        "title": "工作機械受注が示す日本株と世界経済 高水準維持も伸び率拡大の局面は終了か",
-        "source": "TBS NEWS DIG",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1lUnVfUGlvMFhxdEV2NTZzdHd2bTVYT3luOHcycm4xM25sRE1sLVdVeXF3S240U0l0RzZHUmZIMGdLZ0hCVFU1dFkxRWxjLTh2OWgwUHFldkZBSHc1RUVZ?oc=5",
-        "publishedAt": "2026-11-22T06:34:54.000Z"
       },
       {
         "time": "13:20",
@@ -57,6 +50,13 @@
         "source": "イザ！",
         "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5oMVdleWstTlN5RjFscDR2OVgwR1VROUM5V0xJT0ZMRnVuMUpHRHEwaFJkRFU1WDhUdHFacG91OVYtS3RaVHE1SWR0anl5UUJOblRuU0hxUS1laW9mai1qZExBa2dkWGJCWGVPN01RLXVDUHNmSzEzZVFB?oc=5",
         "publishedAt": "2026-11-23T01:00:08.000Z"
+      },
+      {
+        "time": "10:00",
+        "title": "世界が「中国頼み」から抜け出せない仕組みとは？―仏メディア",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9jb1M5WG1CWEg4ek8wSWp1aWZBb1ROZURuUTR0ejVFT2l3aTYwZjRWR0RJZjhQNl9ibnhpNnJFQmR2VE9QQnhzVGZhOTQ3ZzhhdW9CTVd3ZnJsU0E2UV9vS013TGNpV1N0NGZaVzh6LTcyOU0?oc=5",
+        "publishedAt": "2026-11-23T01:00:22.000Z"
       }
     ],
     "worldHeadlines": [
