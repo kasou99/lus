@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-23T09:16:34.946Z",
+  "updatedAt": "2026-11-23T09:37:13.428Z",
   "items": [
+    {
+      "time": "17:33",
+      "title": "首里城正殿が一般公開 来場者感嘆",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603691?source=rss",
+      "publishedAt": "2026-11-23T08:33:05.000Z",
+      "xQuery": "首里城正殿が一般公開 来場者感嘆"
+    },
     {
       "time": "16:54",
       "title": "COP31決裂 影響力みせたサウジ",
@@ -16,14 +24,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6603687?source=rss",
       "publishedAt": "2026-11-23T08:03:31.000Z",
       "xQuery": "住宅火災で2遺体発見 50代姉弟か"
-    },
-    {
-      "time": "16:35",
-      "title": "気圧低下 24日は頭痛やめまい注意",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603682?source=rss",
-      "publishedAt": "2026-11-23T07:35:25.000Z",
-      "xQuery": "気圧低下 24日は頭痛やめまい注意"
     },
     {
       "time": "16:50",

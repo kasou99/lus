@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T09:16:33.975Z",
+  "updatedAt": "2026-11-23T09:37:12.395Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,11 +31,11 @@
         "publishedAt": "2026-11-23T04:20:00.000Z"
       },
       {
-        "time": "11:30",
-        "title": "スクリューグラインダーの世界市場（2026年～2032年）、市場規模（噛み合い式、非噛み合い式）・分析レポートを発表",
-        "source": "Newscast.jp",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9sVVUwRm01SEprWF8xSzdpMEpUM1dYcVFIR3pBc0N3RHFVSFRoZmk2U2RiSU1Fc0FJem5rR1dhRXUzRF9zUnFIbUlwQlFSWUE?oc=5",
-        "publishedAt": "2026-11-23T02:30:00.000Z"
+        "time": "10:00",
+        "title": "世界が「中国頼み」から抜け出せない仕組みとは？―仏メディア",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9jb1M5WG1CWEg4ek8wSWp1aWZBb1ROZURuUTR0ejVFT2l3aTYwZjRWR0RJZjhQNl9ibnhpNnJFQmR2VE9QQnhzVGZhOTQ3ZzhhdW9CTVd3ZnJsU0E2UV9vS013TGNpV1N0NGZaVzh6LTcyOU0?oc=5",
+        "publishedAt": "2026-11-23T01:00:22.000Z"
       },
       {
         "time": "20:30",
@@ -45,18 +45,18 @@
         "publishedAt": "2026-11-22T11:30:00.000Z"
       },
       {
-        "time": "09:48",
-        "title": "「アル・パチーノの教えですよ」東京でも、福岡でもだめだった…時価総額1兆円企業「モノタロウ」が“大阪に本社を置いた”必然",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9rdTVUeDJteDZRUnpzZE9XS0l6X29iU3NzT2M3anBkZk9VSVdhUU5obEhFZnhPckkzRlU3WDY2SWtUbEd0ZTdFWThRVWJ2ekdMbFZjdlN4cUMtek9jbXg4MDBFTXgtcWJz?oc=5",
-        "publishedAt": "2026-11-23T00:48:11.000Z"
+        "time": "11:30",
+        "title": "スクリューグラインダーの世界市場（2026年～2032年）、市場規模（噛み合い式、非噛み合い式）・分析レポートを発表",
+        "source": "Newscast.jp",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9sVVUwRm01SEprWF8xSzdpMEpUM1dYcVFIR3pBc0N3RHFVSFRoZmk2U2RiSU1Fc0FJem5rR1dhRXUzRF9zUnFIbUlwQlFSWUE?oc=5",
+        "publishedAt": "2026-11-23T02:30:00.000Z"
       },
       {
-        "time": "10:00",
-        "title": "「ものづくり革命で人々を幸せに」Japan Robotics代表、Wantedlyの東急線中吊り広告に登場",
-        "source": "イザ！",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5oMVdleWstTlN5RjFscDR2OVgwR1VROUM5V0xJT0ZMRnVuMUpHRHEwaFJkRFU1WDhUdHFacG91OVYtS3RaVHE1SWR0anl5UUJOblRuU0hxUS1laW9mai1qZExBa2dkWGJCWGVPN01RLXVDUHNmSzEzZVFB?oc=5",
-        "publishedAt": "2026-11-23T01:00:08.000Z"
+        "time": "16:08",
+        "title": "画像・写真 | 【大阪】御堂筋で「六甲おろし」大合唱 10-FEETが爆音演奏、阪神タイガース選手らパレード 10枚目",
+        "source": "オリコンニュース",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1WOXFiM0NOYm5NUmRuNzZTdWxsdmxEbFF1Ulp5X05SZWt3amdPUmFvVGRTVjE0MXhOekM1ajdEVVNLWkpiMHAtM2FYMWRUamthejJ0b0VqUVNqc28?oc=5",
+        "publishedAt": "2026-11-23T07:08:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -82,13 +82,6 @@
         "publishedAt": "2026-11-23T02:04:58.000Z"
       },
       {
-        "time": "11:15",
-        "title": "キーウに攻撃 がれき下の7歳救助",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6603649?source=rss",
-        "publishedAt": "2026-11-23T02:15:35.000Z"
-      },
-      {
         "time": "09:25",
         "title": "リビアで露軍艦爆発 無人機攻撃か",
         "source": "Yahoo!ニュース",
@@ -101,6 +94,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6603686?source=rss",
         "publishedAt": "2026-11-23T07:50:15.000Z"
+      },
+      {
+        "time": "08:30",
+        "title": "米民主党が下‌院で258議席 報道",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6603631?source=rss",
+        "publishedAt": "2026-11-22T23:30:14.000Z"
       }
     ],
     "economyHeadlines": [
