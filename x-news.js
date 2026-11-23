@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-23T09:37:13.428Z",
+  "updatedAt": "2026-11-23T10:11:54.228Z",
   "items": [
     {
       "time": "17:33",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "COP31決裂 影響力みせたサウジ"
     },
     {
-      "time": "17:03",
-      "title": "住宅火災で2遺体発見 50代姉弟か",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603687?source=rss",
-      "publishedAt": "2026-11-23T08:03:31.000Z",
-      "xQuery": "住宅火災で2遺体発見 50代姉弟か"
-    },
-    {
       "time": "16:50",
       "title": "ガソリン価格下落 米大統領恨み節",
       "source": "Yahoo!ニュース",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6603674?source=rss",
       "publishedAt": "2026-11-23T06:15:44.000Z",
       "xQuery": "番組中にわいせつな音 BBCが謝罪"
+    },
+    {
+      "time": "18:53",
+      "title": "タッチ決済改札 利用者が戸惑いも",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603699?source=rss",
+      "publishedAt": "2026-11-23T09:53:19.000Z",
+      "xQuery": "タッチ決済改札 利用者が戸惑いも"
     }
   ]
 };
