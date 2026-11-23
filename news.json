@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T19:36:07.083Z",
+  "updatedAt": "2026-11-23T20:10:20.280Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -11,17 +11,17 @@
       },
       {
         "time": "05:00",
-        "title": "丸紅、インドの工作機械５割増員 車向け強化",
+        "title": "さあ出番／ミック社長に就任した原田惇氏 社員一丸で会社づくり",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE01T05xNVpscHg1UnFieVlrV2RYU216Tnk1Q0tPczJrXzRSSGFJRmo3UHY1LUE5Y01HbTdDQjFHdjNBTXFwZmotWGNxMThZeF9vX2FINjFVWkY?oc=5",
-        "publishedAt": "2026-11-22T20:00:00.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9qMVNpS0kzdHd5OFFvRjl0XzFEV2dEN1R2RGx6cmNPTTBEbzlUQzdRblFUZjcyQW1FZ0lDdGQ3UEhUdDR1M2lwd0ZjekpSdkpiUzZYQ0tmLXE?oc=5",
+        "publishedAt": "2026-11-23T20:00:00.000Z"
       },
       {
-        "time": "04:55",
-        "title": "【機械22社】倒産危険度ランキング2027最新版！8位JUKI、3位平和HD、急激に経営が悪化して1位になったのは？",
-        "source": "ダイヤモンド・オンライン",
-        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE84MlZoaHp0MVU0ck5JejdMNVJTQVltT190bk9yS19fQ3FSU0x0d2tPUUlONmhMY1hEaDFualdwMG0xcDN6YnpleW5hUS0?oc=5",
-        "publishedAt": "2026-11-22T19:55:00.000Z"
+        "time": "05:00",
+        "title": "未来を変える／東京大学大学院工学研究科精密工学専攻教授・梅田靖",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5zQjZVSWVtZWlIVjVrS3hUQW1WdzlCZGxwdGl0a1pwcThXVk1vX25fb0Z6S25NbkpxanZjWHRfRkZFZktwVENEVmx2eHFSUGFnN0paV3R4T24?oc=5",
+        "publishedAt": "2026-11-23T20:00:00.000Z"
       },
       {
         "time": "18:00",
@@ -38,6 +38,13 @@
         "publishedAt": "2026-11-23T04:20:00.000Z"
       },
       {
+        "time": "05:00",
+        "title": "AI欠かせぬ職場に JR東海、デジタル技術底上げ",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1aamVscElTR1Y5Z0hjQjZjLTlFdmF5UnhtRVBBdXBwamZXblY3UzQwa2xhS3NwSEV6RXdqczdxNFMya1NpMkxGbEQyYU83RnFfUkZHTzljaHo?oc=5",
+        "publishedAt": "2026-11-23T20:00:00.000Z"
+      },
+      {
         "time": "10:00",
         "title": "世界が「中国頼み」から抜け出せない仕組みとは？―仏メディア",
         "source": "ニコニコニュース",
@@ -50,13 +57,6 @@
         "source": "Newscast.jp",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9sVVUwRm01SEprWF8xSzdpMEpUM1dYcVFIR3pBc0N3RHFVSFRoZmk2U2RiSU1Fc0FJem5rR1dhRXUzRF9zUnFIbUlwQlFSWUE?oc=5",
         "publishedAt": "2026-11-23T02:30:00.000Z"
-      },
-      {
-        "time": "10:00",
-        "title": "「ものづくり革命で人々を幸せに」Japan Robotics代表、Wantedlyの東急線中吊り広告に登場",
-        "source": "イザ！",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5oMVdleWstTlN5RjFscDR2OVgwR1VROUM5V0xJT0ZMRnVuMUpHRHEwaFJkRFU1WDhUdHFacG91OVYtS3RaVHE1SWR0anl5UUJOblRuU0hxUS1laW9mai1qZExBa2dkWGJCWGVPN01RLXVDUHNmSzEzZVFB?oc=5",
-        "publishedAt": "2026-11-23T01:00:08.000Z"
       }
     ],
     "worldHeadlines": [
