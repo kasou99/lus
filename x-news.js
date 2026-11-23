@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-23T14:12:55.193Z",
+  "updatedAt": "2026-11-23T14:35:53.695Z",
   "items": [
+    {
+      "time": "23:17",
+      "title": "フアン氏 エヌビディアCEOに復帰",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603732?source=rss",
+      "publishedAt": "2026-11-23T14:17:46.000Z",
+      "xQuery": "フアン氏 エヌビディアCEOに復帰"
+    },
     {
       "time": "22:33",
       "title": "拘束の記者 駐露日本大使が面会",
@@ -16,14 +24,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6603722?source=rss",
       "publishedAt": "2026-11-23T13:22:15.000Z",
       "xQuery": "首里城正殿 すごく濃い赤との声も"
-    },
-    {
-      "time": "21:54",
-      "title": "露が核衛星を年内打ち上げか 報道",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603720?source=rss",
-      "publishedAt": "2026-11-23T12:54:35.000Z",
-      "xQuery": "露が核衛星を年内打ち上げか 報道"
     },
     {
       "time": "20:37",
