@@ -1,14 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-23T21:35:39.891Z",
+  "updatedAt": "2026-11-23T22:09:48.053Z",
   "items": [
-    {
-      "time": "23:10",
-      "title": "COP 脱化石遅れで農業へ影響深刻",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603730?source=rss",
-      "publishedAt": "2026-11-23T14:10:38.000Z",
-      "xQuery": "COP 脱化石遅れで農業へ影響深刻"
-    },
     {
       "time": "23:17",
       "title": "フアン氏 エヌビディアCEOに復帰",
@@ -26,20 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "米正副大統領 フアン氏復帰に関与"
     },
     {
-      "time": "23:08",
-      "title": "「演説妨害」規制への議論 焦点は",
+      "time": "23:10",
+      "title": "COP 脱化石遅れで農業へ影響深刻",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603729?source=rss",
-      "publishedAt": "2026-11-23T14:08:42.000Z",
-      "xQuery": "「演説妨害」規制への議論 焦点は"
+      "url": "https://news.yahoo.co.jp/pickup/6603730?source=rss",
+      "publishedAt": "2026-11-23T14:10:38.000Z",
+      "xQuery": "COP 脱化石遅れで農業へ影響深刻"
     },
     {
-      "time": "20:37",
-      "title": "交番で警官死亡 拳銃使われた形跡",
+      "time": "07:03",
+      "title": "ロッククライミング中に滑落 死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603711?source=rss",
-      "publishedAt": "2026-11-23T11:37:40.000Z",
-      "xQuery": "交番で警官死亡 拳銃使われた形跡"
+      "url": "https://news.yahoo.co.jp/pickup/6603737?source=rss",
+      "publishedAt": "2026-11-23T22:03:20.000Z",
+      "xQuery": "ロッククライミング中に滑落 死亡"
+    },
+    {
+      "time": "21:34",
+      "title": "年収1000万円 社内ニートの不安",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603718?source=rss",
+      "publishedAt": "2026-11-23T12:34:20.000Z",
+      "xQuery": "年収1000万円 社内ニートの不安"
     }
   ]
 };
