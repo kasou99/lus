@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-23T12:17:42.832Z",
+  "updatedAt": "2026-11-23T12:39:14.873Z",
   "items": [
     {
       "time": "19:12",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "タッチ決済改札 利用者が戸惑いも"
     },
     {
-      "time": "19:31",
-      "title": "勤労感謝の日に70円ラーメン提供",
+      "time": "21:34",
+      "title": "年収1000万円 社内ニートの不安",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603705?source=rss",
-      "publishedAt": "2026-11-23T10:31:55.000Z",
-      "xQuery": "勤労感謝の日に70円ラーメン提供"
+      "url": "https://news.yahoo.co.jp/pickup/6603718?source=rss",
+      "publishedAt": "2026-11-23T12:34:20.000Z",
+      "xQuery": "年収1000万円 社内ニートの不安"
     }
   ]
 };
