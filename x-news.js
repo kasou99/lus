@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-23T05:13:39.645Z",
+  "updatedAt": "2026-11-23T05:36:19.632Z",
   "items": [
     {
       "time": "13:22",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "キーウに攻撃 がれき下の7歳救助"
     },
     {
-      "time": "08:18",
-      "title": "攻撃急増 背景にセキュリティ軽視",
+      "time": "13:45",
+      "title": "復元の首里城正殿 一般公開される",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603626?source=rss",
-      "publishedAt": "2026-11-22T23:18:11.000Z",
-      "xQuery": "攻撃急増 背景にセキュリティ軽視"
+      "url": "https://news.yahoo.co.jp/pickup/6603663?source=rss",
+      "publishedAt": "2026-11-23T04:45:16.000Z",
+      "xQuery": "復元の首里城正殿 一般公開される"
     },
     {
       "time": "12:43",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "郡山市の中1不明 40人態勢で捜索"
     },
     {
-      "time": "12:12",
-      "title": "謎の迷惑行為「少林寺」拡散背景",
+      "time": "14:26",
+      "title": "リフォーム工事業の倒産 過去最多",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603654?source=rss",
-      "publishedAt": "2026-11-23T03:12:38.000Z",
-      "xQuery": "謎の迷惑行為「少林寺」拡散背景"
+      "url": "https://news.yahoo.co.jp/pickup/6603667?source=rss",
+      "publishedAt": "2026-11-23T05:26:29.000Z",
+      "xQuery": "リフォーム工事業の倒産 過去最多"
     }
   ]
 };
