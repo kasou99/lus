@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-23T10:36:19.322Z",
+  "updatedAt": "2026-11-23T11:09:48.809Z",
   "items": [
     {
       "time": "19:12",
@@ -8,14 +8,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6603704?source=rss",
       "publishedAt": "2026-11-23T10:12:28.000Z",
       "xQuery": "野党 24日にも文科相問責案を協議"
-    },
-    {
-      "time": "17:33",
-      "title": "首里城正殿が一般公開 来場者感嘆",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603691?source=rss",
-      "publishedAt": "2026-11-23T08:33:05.000Z",
-      "xQuery": "首里城正殿が一般公開 来場者感嘆"
     },
     {
       "time": "19:12",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6603699?source=rss",
       "publishedAt": "2026-11-23T09:53:19.000Z",
       "xQuery": "タッチ決済改札 利用者が戸惑いも"
+    },
+    {
+      "time": "20:02",
+      "title": "異色の経歴生かす 手話できる警官",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603708?source=rss",
+      "publishedAt": "2026-11-23T11:02:10.000Z",
+      "xQuery": "異色の経歴生かす 手話できる警官"
     }
   ]
 };
