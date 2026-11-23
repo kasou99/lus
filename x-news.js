@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-23T07:14:08.596Z",
+  "updatedAt": "2026-11-23T07:35:39.895Z",
   "items": [
     {
       "time": "13:22",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "復元の首里城正殿 一般公開される"
     },
     {
-      "time": "14:26",
-      "title": "リフォーム工事業の倒産 過去最多",
+      "time": "16:10",
+      "title": "カスハラ対策 試行錯誤する企業",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603667?source=rss",
-      "publishedAt": "2026-11-23T05:26:29.000Z",
-      "xQuery": "リフォーム工事業の倒産 過去最多"
+      "url": "https://news.yahoo.co.jp/pickup/6603677?source=rss",
+      "publishedAt": "2026-11-23T07:10:18.000Z",
+      "xQuery": "カスハラ対策 試行錯誤する企業"
     },
     {
       "time": "15:15",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "番組中にわいせつな音 BBCが謝罪"
     },
     {
-      "time": "14:25",
-      "title": "福利厚生フル活用「ガチ勢」生活",
+      "time": "16:11",
+      "title": "食べるポン酢「どろぽん」人気",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603669?source=rss",
-      "publishedAt": "2026-11-23T05:25:51.000Z",
-      "xQuery": "福利厚生フル活用「ガチ勢」生活"
+      "url": "https://news.yahoo.co.jp/pickup/6603679?source=rss",
+      "publishedAt": "2026-11-23T07:11:29.000Z",
+      "xQuery": "食べるポン酢「どろぽん」人気"
     }
   ]
 };
