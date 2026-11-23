@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T13:13:07.195Z",
+  "updatedAt": "2026-11-23T13:35:55.092Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "22:29",
+        "title": "中1不明 学校周辺や河川を捜索",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6603726?source=rss",
+        "publishedAt": "2026-11-23T13:29:45.000Z"
+      },
+      {
         "time": "21:14",
         "title": "クマ警戒続く 24日から学校再開",
         "source": "Yahoo!ニュース",
@@ -156,11 +163,11 @@
         "publishedAt": "2026-11-23T12:14:10.000Z"
       },
       {
-        "time": "17:33",
-        "title": "首里城正殿が一般公開 来場者感嘆",
+        "time": "22:22",
+        "title": "首里城正殿 すごく濃い赤との声も",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6603691?source=rss",
-        "publishedAt": "2026-11-23T08:33:05.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6603722?source=rss",
+        "publishedAt": "2026-11-23T13:22:15.000Z"
       },
       {
         "time": "20:55",
@@ -168,13 +175,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6603713?source=rss",
         "publishedAt": "2026-11-23T11:55:40.000Z"
-      },
-      {
-        "time": "12:43",
-        "title": "郡山市の中1不明 40人態勢で捜索",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6603658?source=rss",
-        "publishedAt": "2026-11-23T03:43:12.000Z"
       },
       {
         "time": "20:37",

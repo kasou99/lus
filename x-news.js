@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-23T13:13:08.115Z",
+  "updatedAt": "2026-11-23T13:35:55.564Z",
   "items": [
     {
       "time": "21:54",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "露が核衛星を年内打ち上げか 報道"
     },
     {
-      "time": "20:55",
-      "title": "核のごみ巡る住民説明会 疑問の声",
+      "time": "21:14",
+      "title": "クマ警戒続く 24日から学校再開",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603713?source=rss",
-      "publishedAt": "2026-11-23T11:55:40.000Z",
-      "xQuery": "核のごみ巡る住民説明会 疑問の声"
+      "url": "https://news.yahoo.co.jp/pickup/6603715?source=rss",
+      "publishedAt": "2026-11-23T12:14:10.000Z",
+      "xQuery": "クマ警戒続く 24日から学校再開"
     },
     {
       "time": "20:37",
