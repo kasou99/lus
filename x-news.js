@@ -1,13 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-24T09:13:38.726Z",
+  "updatedAt": "2026-11-24T09:36:01.217Z",
   "items": [
     {
-      "time": "15:38",
-      "title": "政府初の防災「国家戦略」案判明",
+      "time": "18:13",
+      "title": "京王グループ 約1063万件漏えいか",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603804?source=rss",
-      "publishedAt": "2026-11-24T06:38:58.000Z",
-      "xQuery": "政府初の防災「国家戦略」案判明"
+      "url": "https://news.yahoo.co.jp/pickup/6603825?source=rss",
+      "publishedAt": "2026-11-24T09:13:58.000Z",
+      "xQuery": "京王グループ 約1063万件漏えいか"
+    },
+    {
+      "time": "16:51",
+      "title": "首相とICC赤根所長面会 支持伝達",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603812?source=rss",
+      "publishedAt": "2026-11-24T07:51:52.000Z",
+      "xQuery": "首相とICC赤根所長面会 支持伝達"
     },
     {
       "time": "16:45",
@@ -18,14 +26,6 @@ window.LUS_X_NEWS = {
       "xQuery": "作家の矢作俊彦さんが死去 76歳"
     },
     {
-      "time": "14:03",
-      "title": "食料安保 政府広報の裏で廃棄課題",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603799?source=rss",
-      "publishedAt": "2026-11-24T05:03:50.000Z",
-      "xQuery": "食料安保 政府広報の裏で廃棄課題"
-    },
-    {
       "time": "16:52",
       "title": "高市首相の到着時 タラップ故障か",
       "source": "Yahoo!ニュース",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "高市首相の到着時 タラップ故障か"
     },
     {
-      "time": "15:57",
-      "title": "ヴェレダ クレカ4万件超漏えいか",
+      "time": "17:51",
+      "title": "取材中拾った練習球売る 懲戒解雇",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603807?source=rss",
-      "publishedAt": "2026-11-24T06:57:01.000Z",
-      "xQuery": "ヴェレダ クレカ4万件超漏えいか"
+      "url": "https://news.yahoo.co.jp/pickup/6603823?source=rss",
+      "publishedAt": "2026-11-24T08:51:58.000Z",
+      "xQuery": "取材中拾った練習球売る 懲戒解雇"
     }
   ]
 };
