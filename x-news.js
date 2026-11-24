@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-24T08:36:08.144Z",
+  "updatedAt": "2026-11-24T09:13:38.726Z",
   "items": [
     {
       "time": "15:38",
@@ -10,6 +10,14 @@ window.LUS_X_NEWS = {
       "xQuery": "政府初の防災「国家戦略」案判明"
     },
     {
+      "time": "16:45",
+      "title": "作家の矢作俊彦さんが死去 76歳",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603813?source=rss",
+      "publishedAt": "2026-11-24T07:45:10.000Z",
+      "xQuery": "作家の矢作俊彦さんが死去 76歳"
+    },
+    {
       "time": "14:03",
       "title": "食料安保 政府広報の裏で廃棄課題",
       "source": "Yahoo!ニュース",
@@ -18,28 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "食料安保 政府広報の裏で廃棄課題"
     },
     {
+      "time": "16:52",
+      "title": "高市首相の到着時 タラップ故障か",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603810?source=rss",
+      "publishedAt": "2026-11-24T07:52:18.000Z",
+      "xQuery": "高市首相の到着時 タラップ故障か"
+    },
+    {
       "time": "15:57",
       "title": "ヴェレダ クレカ4万件超漏えいか",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6603807?source=rss",
       "publishedAt": "2026-11-24T06:57:01.000Z",
       "xQuery": "ヴェレダ クレカ4万件超漏えいか"
-    },
-    {
-      "time": "16:02",
-      "title": "キッコーマン 来年58品目値上げ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603805?source=rss",
-      "publishedAt": "2026-11-24T07:02:11.000Z",
-      "xQuery": "キッコーマン 来年58品目値上げ"
-    },
-    {
-      "time": "17:02",
-      "title": "情報流出相次ぐ 防犯グッズ人気",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603815?source=rss",
-      "publishedAt": "2026-11-24T08:02:55.000Z",
-      "xQuery": "情報流出相次ぐ 防犯グッズ人気"
     }
   ]
 };
