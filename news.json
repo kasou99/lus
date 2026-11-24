@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T00:27:40.221Z",
+  "updatedAt": "2026-11-24T00:45:25.071Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -68,11 +68,11 @@
         "publishedAt": "2026-11-23T21:28:40.000Z"
       },
       {
-        "time": "23:44",
-        "title": "米大統領 フアン氏のCEO復帰歓迎",
+        "time": "09:40",
+        "title": "フアン氏のCEO復帰 米議会反発",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6603733?source=rss",
-        "publishedAt": "2026-11-23T14:44:13.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6603761?source=rss",
+        "publishedAt": "2026-11-24T00:40:56.000Z"
       },
       {
         "time": "09:19",
@@ -104,6 +104,13 @@
       }
     ],
     "economyHeadlines": [
+      {
+        "time": "09:36",
+        "title": "日経平均 一時2200円超値上がり",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6603764?source=rss",
+        "publishedAt": "2026-11-24T00:36:37.000Z"
+      },
       {
         "time": "23:17",
         "title": "フアン氏 エヌビディアCEOに復帰",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6603744?source=rss",
         "publishedAt": "2026-11-23T22:45:42.000Z"
-      },
-      {
-        "time": "21:34",
-        "title": "年収1000万円 社内ニートの不安",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6603718?source=rss",
-        "publishedAt": "2026-11-23T12:34:20.000Z"
       }
     ],
     "localHeadlines": [

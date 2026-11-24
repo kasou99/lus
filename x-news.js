@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-24T00:27:41.141Z",
+  "updatedAt": "2026-11-24T00:45:25.806Z",
   "items": [
+    {
+      "time": "09:36",
+      "title": "日経平均 一時2200円超値上がり",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603764?source=rss",
+      "publishedAt": "2026-11-24T00:36:37.000Z",
+      "xQuery": "日経平均 一時2200円超値上がり"
+    },
     {
       "time": "08:10",
       "title": "前線通過 全国的に荒れた天気に",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6603737?source=rss",
       "publishedAt": "2026-11-23T22:03:20.000Z",
       "xQuery": "ロッククライミング中に滑落 死亡"
-    },
-    {
-      "time": "07:58",
-      "title": "事務職の新卒採用減らす2割 調査",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603745?source=rss",
-      "publishedAt": "2026-11-23T22:58:24.000Z",
-      "xQuery": "事務職の新卒採用減らす2割 調査"
     }
   ]
 };
