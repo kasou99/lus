@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-24T06:19:54.998Z",
+  "updatedAt": "2026-11-24T06:42:36.407Z",
   "items": [
     {
       "time": "14:52",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "トラックに巻き込まれ 高校生死亡"
     },
     {
-      "time": "13:18",
-      "title": "くら寿司22品値上げ 34品値下げ",
+      "time": "12:34",
+      "title": "NVIDIAフアンCEO復帰 3つの懸念",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603792?source=rss",
-      "publishedAt": "2026-11-24T04:18:22.000Z",
-      "xQuery": "くら寿司22品値上げ 34品値下げ"
+      "url": "https://news.yahoo.co.jp/pickup/6603782?source=rss",
+      "publishedAt": "2026-11-24T03:34:48.000Z",
+      "xQuery": "NVIDIAフアンCEO復帰 3つの懸念"
     }
   ]
 };

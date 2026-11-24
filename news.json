@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T06:19:54.003Z",
+  "updatedAt": "2026-11-24T06:42:35.518Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,11 +17,11 @@
         "publishedAt": "2026-11-24T00:35:47.000Z"
       },
       {
-        "time": "05:00",
-        "title": "東大など、ミネラルキャストで工作機械補強の新技術 振動・熱変形を抑制",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9DcnozaXJjV2JUY3hMVG40MDdMTmRxbmlxcHh5bldIUHh5TDF2Q3NEMXVjYUxkbDhJN1FzclVmeW9CSUFhTzQ3NWFua3BzaU5oXzNrNHVyNUc?oc=5",
-        "publishedAt": "2026-11-23T20:00:00.000Z"
+        "time": "09:25",
+        "title": "光学スケール世界市場の最新動向：2032年に732百万米ドル規模へ到達見込み（2026年版）",
+        "source": "Newscast.jp",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ncXhHTzJ2ZnQzX1VGQlE4MXBYZmFMRWNZUnFvRk5tMWxkc042ZXpTcWo4VHNKTm9DeTFFUUdkWHhfTHNMS2Nsd29GNHpOWWM?oc=5",
+        "publishedAt": "2026-11-24T00:25:00.000Z"
       },
       {
         "time": "10:45",
@@ -45,18 +45,18 @@
         "publishedAt": "2026-11-23T08:57:00.000Z"
       },
       {
+        "time": "05:00",
+        "title": "さあ出番／ミック社長に就任した原田惇氏 社員一丸で会社づくり",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9qMVNpS0kzdHd5OFFvRjl0XzFEV2dEN1R2RGx6cmNPTTBEbzlUQzdRblFUZjcyQW1FZ0lDdGQ3UEhUdDR1M2lwd0ZjekpSdkpiUzZYQ0tmLXE?oc=5",
+        "publishedAt": "2026-11-23T20:00:00.000Z"
+      },
+      {
         "time": "08:00",
         "title": "AIと会話しながら、気づいたその場で保全記録を残せる──設備保全クラウド「ミロクルカルテ」の「音声入力ガイド」が対話型に進化",
         "source": "PR TIMES",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9nWnQ0VEUzcU1ZVEt4SUFXeUtJX0I0ZjRvYWgtQUd6WXJxV0EtWjQwY3p4amJlLV9jSWJQQXpCMWVqUXFvMUVNaFE5di1tSExXMU5BMmhyNmxldkV2YjdWemhUUjdndlJQV0E?oc=5",
         "publishedAt": "2026-11-23T23:00:02.000Z"
-      },
-      {
-        "time": "12:07",
-        "title": "人手不足・熟練工不足の課題解決へ向け、自動化・知能化・工程集約の提案が活発",
-        "source": "マシニスト出版",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5KcUYtZVNucExRd1pRTWF5Y2t1NzZFVE5IcURfYjdxUWZVY2Y1LUdEQ2k3eTB0aEZtV1BiY2U5UTBkbFVNeEMwZjFrWWdXbTRVbGpzcg?oc=5",
-        "publishedAt": "2026-11-24T03:07:50.000Z"
       }
     ],
     "worldHeadlines": [
