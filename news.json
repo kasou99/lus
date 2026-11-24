@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T06:42:35.518Z",
+  "updatedAt": "2026-11-24T07:13:04.900Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -15,13 +15,6 @@
         "source": "NIDEC CORPORATION",
         "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYVNsbGpmd3ZDcnhJV19ZZGp5VmZiQi1id3lGV1JMdElSVUVvMWJpbS04blBoUW16Z2tPYktZclJWV3JoWlQyY0VMcXBkV2k4M2hmY3hQVUh2MWQ4OGQ1UHJETFp3RFFFa3A2TlBKSk9XTXUzX0d1UVktOHlnYVZhMFRxaTMta194WkozUkd3?oc=5",
         "publishedAt": "2026-11-24T00:35:47.000Z"
-      },
-      {
-        "time": "09:25",
-        "title": "光学スケール世界市場の最新動向：2032年に732百万米ドル規模へ到達見込み（2026年版）",
-        "source": "Newscast.jp",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ncXhHTzJ2ZnQzX1VGQlE4MXBYZmFMRWNZUnFvRk5tMWxkc042ZXpTcWo4VHNKTm9DeTFFUUdkWHhfTHNMS2Nsd29GNHpOWWM?oc=5",
-        "publishedAt": "2026-11-24T00:25:00.000Z"
       },
       {
         "time": "10:45",
@@ -45,18 +38,25 @@
         "publishedAt": "2026-11-23T08:57:00.000Z"
       },
       {
-        "time": "05:00",
-        "title": "さあ出番／ミック社長に就任した原田惇氏 社員一丸で会社づくり",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9qMVNpS0kzdHd5OFFvRjl0XzFEV2dEN1R2RGx6cmNPTTBEbzlUQzdRblFUZjcyQW1FZ0lDdGQ3UEhUdDR1M2lwd0ZjekpSdkpiUzZYQ0tmLXE?oc=5",
-        "publishedAt": "2026-11-23T20:00:00.000Z"
-      },
-      {
         "time": "08:00",
         "title": "AIと会話しながら、気づいたその場で保全記録を残せる──設備保全クラウド「ミロクルカルテ」の「音声入力ガイド」が対話型に進化",
         "source": "PR TIMES",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9nWnQ0VEUzcU1ZVEt4SUFXeUtJX0I0ZjRvYWgtQUd6WXJxV0EtWjQwY3p4amJlLV9jSWJQQXpCMWVqUXFvMUVNaFE5di1tSExXMU5BMmhyNmxldkV2YjdWemhUUjdndlJQV0E?oc=5",
         "publishedAt": "2026-11-23T23:00:02.000Z"
+      },
+      {
+        "time": "15:06",
+        "title": "日本CNCスピンドルチラー市場：主要メーカー、競争環境、製品トレンド2026-2032",
+        "source": "アットプレス",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBQSVEwdS03VjNoYmhVamgtRDBxMG95akwwM3h2MDhjakhIMTgwaWNQVUk2b0UyTTF1RElxVzVLM0ZtbEtFQkQ4YXhCc3Nidw?oc=5",
+        "publishedAt": "2026-11-24T06:06:00.000Z"
+      },
+      {
+        "time": "09:25",
+        "title": "光学スケール世界市場の最新動向：2032年に732百万米ドル規模へ到達見込み（2026年版）",
+        "source": "Newscast.jp",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ncXhHTzJ2ZnQzX1VGQlE4MXBYZmFMRWNZUnFvRk5tMWxkc042ZXpTcWo4VHNKTm9DeTFFUUdkWHhfTHNMS2Nsd29GNHpOWWM?oc=5",
+        "publishedAt": "2026-11-24T00:25:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -112,18 +112,25 @@
         "publishedAt": "2026-11-24T05:52:46.000Z"
       },
       {
-        "time": "10:15",
-        "title": "日経平均 一時2800円超値上がり",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6603771?source=rss",
-        "publishedAt": "2026-11-24T01:15:25.000Z"
-      },
-      {
         "time": "23:17",
         "title": "フアン氏 エヌビディアCEOに復帰",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6603732?source=rss",
         "publishedAt": "2026-11-23T14:17:46.000Z"
+      },
+      {
+        "time": "15:54",
+        "title": "情報流出で不安 防犯グッズ売れる",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6603803?source=rss",
+        "publishedAt": "2026-11-24T06:54:39.000Z"
+      },
+      {
+        "time": "16:02",
+        "title": "キッコーマン 来年58品目値上げ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6603805?source=rss",
+        "publishedAt": "2026-11-24T07:02:11.000Z"
       },
       {
         "time": "11:58",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6603792?source=rss",
         "publishedAt": "2026-11-24T04:18:22.000Z"
-      },
-      {
-        "time": "11:39",
-        "title": "セカストが急成長 人気の要因は",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6603777?source=rss",
-        "publishedAt": "2026-11-24T02:39:20.000Z"
       }
     ],
     "localHeadlines": [
