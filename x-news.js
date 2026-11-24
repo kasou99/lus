@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-23T23:35:20.542Z",
+  "updatedAt": "2026-11-24T00:27:41.141Z",
   "items": [
+    {
+      "time": "08:10",
+      "title": "前線通過 全国的に荒れた天気に",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603747?source=rss",
+      "publishedAt": "2026-11-23T23:10:25.000Z",
+      "xQuery": "前線通過 全国的に荒れた天気に"
+    },
     {
       "time": "07:36",
       "title": "3文書改定 経済安保の概要案判明",
@@ -10,20 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "3文書改定 経済安保の概要案判明"
     },
     {
-      "time": "07:21",
-      "title": "NY株大幅反発 フアン氏復帰好感",
+      "time": "09:02",
+      "title": "フォークリフトが倒れ下敷き 死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603740?source=rss",
-      "publishedAt": "2026-11-23T22:21:34.000Z",
-      "xQuery": "NY株大幅反発 フアン氏復帰好感"
-    },
-    {
-      "time": "06:28",
-      "title": "米正副大統領 フアン氏復帰に関与",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603736?source=rss",
-      "publishedAt": "2026-11-23T21:28:40.000Z",
-      "xQuery": "米正副大統領 フアン氏復帰に関与"
+      "url": "https://news.yahoo.co.jp/pickup/6603756?source=rss",
+      "publishedAt": "2026-11-24T00:02:04.000Z",
+      "xQuery": "フォークリフトが倒れ下敷き 死亡"
     },
     {
       "time": "07:03",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "ロッククライミング中に滑落 死亡"
     },
     {
-      "time": "07:45",
-      "title": "奨学金利率が急上昇 負担減求める",
+      "time": "07:58",
+      "title": "事務職の新卒採用減らす2割 調査",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603744?source=rss",
-      "publishedAt": "2026-11-23T22:45:42.000Z",
-      "xQuery": "奨学金利率が急上昇 負担減求める"
+      "url": "https://news.yahoo.co.jp/pickup/6603745?source=rss",
+      "publishedAt": "2026-11-23T22:58:24.000Z",
+      "xQuery": "事務職の新卒採用減らす2割 調査"
     }
   ]
 };
