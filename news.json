@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T20:36:10.194Z",
+  "updatedAt": "2026-11-24T21:10:20.198Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -45,18 +45,18 @@
         "publishedAt": "2026-11-24T01:39:18.000Z"
       },
       {
-        "time": "13:25",
-        "title": "工作機械カバーとボックスで売上の8割 ― 総合力を武器に大手5社のニーズに応える",
-        "source": "マシニスト出版",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBodTVBTEwzUmxkLU9vdXlNRTRwT19QZ2R6VmdzUU1fZEo0Vnc0ZXBYNnRyU0FDbGUyazJJYVhMbWFMbjJIS3BydEFZOGxIR0VsYUZBNg?oc=5",
-        "publishedAt": "2026-11-24T04:25:52.000Z"
-      },
-      {
         "time": "10:45",
         "title": "【12/8(火)・9(水)・10(木)11:00‐】次世代設備保全クラウド「M2X」で何ができる？無料オンラインデモセミナー開催",
         "source": "Infoseek",
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5valFWRWttR0tiYThvcHZqMlBDdVk4cklTVl9FTzRKaVNna3RCX2dQMzVDdlA3V0Rac3BkblBqdXdzZmN4aWQ1SmR3bzZDSGxRNnVpeEswUFBhODNFVkJDWjRPSW44X0gxR3FlcUgweWxNZw?oc=5",
         "publishedAt": "2026-11-24T01:45:25.000Z"
+      },
+      {
+        "time": "13:25",
+        "title": "工作機械カバーとボックスで売上の8割 ― 総合力を武器に大手5社のニーズに応える",
+        "source": "マシニスト出版",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBodTVBTEwzUmxkLU9vdXlNRTRwT19QZ2R6VmdzUU1fZEo0Vnc0ZXBYNnRyU0FDbGUyazJJYVhMbWFMbjJIS3BydEFZOGxIR0VsYUZBNg?oc=5",
+        "publishedAt": "2026-11-24T04:25:52.000Z"
       }
     ],
     "worldHeadlines": [
