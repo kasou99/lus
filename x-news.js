@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-24T07:35:56.265Z",
+  "updatedAt": "2026-11-24T08:15:45.109Z",
   "items": [
     {
       "time": "15:38",
@@ -10,28 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "政府初の防災「国家戦略」案判明"
     },
     {
-      "time": "14:52",
-      "title": "東電 廃炉・復興で新組織設立へ",
+      "time": "14:03",
+      "title": "食料安保 政府広報の裏で廃棄課題",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603802?source=rss",
-      "publishedAt": "2026-11-24T05:52:46.000Z",
-      "xQuery": "東電 廃炉・復興で新組織設立へ"
-    },
-    {
-      "time": "14:34",
-      "title": "交通誘導中にはねられる 男性死亡",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603801?source=rss",
-      "publishedAt": "2026-11-24T05:34:44.000Z",
-      "xQuery": "交通誘導中にはねられる 男性死亡"
-    },
-    {
-      "time": "12:34",
-      "title": "NVIDIAフアンCEO復帰 3つの懸念",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603782?source=rss",
-      "publishedAt": "2026-11-24T03:34:48.000Z",
-      "xQuery": "NVIDIAフアンCEO復帰 3つの懸念"
+      "url": "https://news.yahoo.co.jp/pickup/6603799?source=rss",
+      "publishedAt": "2026-11-24T05:03:50.000Z",
+      "xQuery": "食料安保 政府広報の裏で廃棄課題"
     },
     {
       "time": "15:57",
@@ -40,6 +24,22 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6603807?source=rss",
       "publishedAt": "2026-11-24T06:57:01.000Z",
       "xQuery": "ヴェレダ クレカ4万件超漏えいか"
+    },
+    {
+      "time": "16:02",
+      "title": "キッコーマン 来年58品目値上げ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603805?source=rss",
+      "publishedAt": "2026-11-24T07:02:11.000Z",
+      "xQuery": "キッコーマン 来年58品目値上げ"
+    },
+    {
+      "time": "17:02",
+      "title": "情報流出相次ぐ 防犯グッズ人気",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603815?source=rss",
+      "publishedAt": "2026-11-24T08:02:55.000Z",
+      "xQuery": "情報流出相次ぐ 防犯グッズ人気"
     }
   ]
 };
