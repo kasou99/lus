@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-24T05:36:10.817Z",
+  "updatedAt": "2026-11-24T06:19:54.998Z",
   "items": [
     {
-      "time": "13:07",
-      "title": "辺野古事故受け7割が校外活動点検",
+      "time": "14:52",
+      "title": "東電 廃炉・復興で新組織設立へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603791?source=rss",
-      "publishedAt": "2026-11-24T04:07:49.000Z",
-      "xQuery": "辺野古事故受け7割が校外活動点検"
+      "url": "https://news.yahoo.co.jp/pickup/6603802?source=rss",
+      "publishedAt": "2026-11-24T05:52:46.000Z",
+      "xQuery": "東電 廃炉・復興で新組織設立へ"
     },
     {
       "time": "14:08",
@@ -16,6 +16,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6603797?source=rss",
       "publishedAt": "2026-11-24T05:08:09.000Z",
       "xQuery": "自民「宇宙庁」早期実現の提言案"
+    },
+    {
+      "time": "14:34",
+      "title": "交通誘導中にはねられる 男性死亡",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603801?source=rss",
+      "publishedAt": "2026-11-24T05:34:44.000Z",
+      "xQuery": "交通誘導中にはねられる 男性死亡"
     },
     {
       "time": "14:04",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6603792?source=rss",
       "publishedAt": "2026-11-24T04:18:22.000Z",
       "xQuery": "くら寿司22品値上げ 34品値下げ"
-    },
-    {
-      "time": "11:54",
-      "title": "ミスド並び方に戸惑いも 運営見解",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603786?source=rss",
-      "publishedAt": "2026-11-24T02:54:09.000Z",
-      "xQuery": "ミスド並び方に戸惑いも 運営見解"
     }
   ]
 };
