@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-24T12:39:11.472Z",
+  "updatedAt": "2026-11-24T13:11:59.469Z",
   "items": [
     {
-      "time": "19:19",
-      "title": "首相 関氏は説明責任果たしている",
+      "time": "20:38",
+      "title": "衆院定数31削減法案 成立の行方は",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603831?source=rss",
-      "publishedAt": "2026-11-24T10:19:11.000Z",
-      "xQuery": "首相 関氏は説明責任果たしている"
+      "url": "https://news.yahoo.co.jp/pickup/6603821?source=rss",
+      "publishedAt": "2026-11-24T11:38:00.000Z",
+      "xQuery": "衆院定数31削減法案 成立の行方は"
     },
     {
       "time": "17:43",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "個人消費判断 約3年ぶり下方修正"
     },
     {
-      "time": "19:43",
-      "title": "台湾 フアン氏のCEO復帰に沸く",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603832?source=rss",
-      "publishedAt": "2026-11-24T10:43:18.000Z",
-      "xQuery": "台湾 フアン氏のCEO復帰に沸く"
-    },
-    {
       "time": "21:08",
       "title": "入湯税未納公表せず 立山町長謝罪",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6603837?source=rss",
       "publishedAt": "2026-11-24T12:08:01.000Z",
       "xQuery": "入湯税未納公表せず 立山町長謝罪"
+    },
+    {
+      "time": "21:33",
+      "title": "詐欺広告巡り 前澤友作氏側が控訴",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603838?source=rss",
+      "publishedAt": "2026-11-24T12:33:46.000Z",
+      "xQuery": "詐欺広告巡り 前澤友作氏側が控訴"
     }
   ]
 };
