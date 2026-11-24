@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-24T03:14:18.191Z",
+  "updatedAt": "2026-11-24T03:36:03.967Z",
   "items": [
     {
       "time": "11:44",
@@ -18,28 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "障害者手帳交付遅れ調査怠る 宮城"
     },
     {
-      "time": "10:28",
-      "title": "立憲 最大5万円給付案を参院提出",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603770?source=rss",
-      "publishedAt": "2026-11-24T01:28:07.000Z",
-      "xQuery": "立憲 最大5万円給付案を参院提出"
-    },
-    {
-      "time": "11:03",
-      "title": "鉄鋼メーカー工場で爆発 1人けが",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603774?source=rss",
-      "publishedAt": "2026-11-24T02:03:55.000Z",
-      "xQuery": "鉄鋼メーカー工場で爆発 1人けが"
-    },
-    {
       "time": "11:58",
       "title": "松屋の一人負け? 牛丼業界で明暗",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6603780?source=rss",
       "publishedAt": "2026-11-24T02:58:23.000Z",
       "xQuery": "松屋の一人負け? 牛丼業界で明暗"
+    },
+    {
+      "time": "12:28",
+      "title": "集落で謎の渋滞 スマホナビ原因か",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603790?source=rss",
+      "publishedAt": "2026-11-24T03:28:55.000Z",
+      "xQuery": "集落で謎の渋滞 スマホナビ原因か"
+    },
+    {
+      "time": "11:54",
+      "title": "ミスド並び方に戸惑いも 運営見解",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603786?source=rss",
+      "publishedAt": "2026-11-24T02:54:09.000Z",
+      "xQuery": "ミスド並び方に戸惑いも 運営見解"
     }
   ]
 };
