@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-24T00:45:25.806Z",
+  "updatedAt": "2026-11-24T01:12:48.911Z",
   "items": [
     {
       "time": "09:36",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "日経平均 一時2200円超値上がり"
     },
     {
-      "time": "08:10",
-      "title": "前線通過 全国的に荒れた天気に",
+      "time": "09:46",
+      "title": "文科相 自宅家賃を政治資金で支出",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603747?source=rss",
-      "publishedAt": "2026-11-23T23:10:25.000Z",
-      "xQuery": "前線通過 全国的に荒れた天気に"
+      "url": "https://news.yahoo.co.jp/pickup/6603766?source=rss",
+      "publishedAt": "2026-11-24T00:46:28.000Z",
+      "xQuery": "文科相 自宅家賃を政治資金で支出"
     },
     {
-      "time": "07:36",
-      "title": "3文書改定 経済安保の概要案判明",
+      "time": "09:40",
+      "title": "フアン氏のCEO復帰 米議会反発",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603742?source=rss",
-      "publishedAt": "2026-11-23T22:36:05.000Z",
-      "xQuery": "3文書改定 経済安保の概要案判明"
+      "url": "https://news.yahoo.co.jp/pickup/6603761?source=rss",
+      "publishedAt": "2026-11-24T00:40:56.000Z",
+      "xQuery": "フアン氏のCEO復帰 米議会反発"
     },
     {
       "time": "09:02",

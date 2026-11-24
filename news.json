@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T00:45:25.071Z",
+  "updatedAt": "2026-11-24T01:12:48.425Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -24,18 +24,18 @@
         "publishedAt": "2026-11-23T20:00:00.000Z"
       },
       {
-        "time": "18:00",
-        "title": "画像・写真 | 【RIZIN】POWPOW!!篠塚辰樹が公式アプリ公開 「たつき vs 火の鳥」など無料ゲーム7本など 7枚目",
-        "source": "オリコンニュース",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9nR3Btb1U4bUxBS3l1SjJBOEVZcGRYeFhaVldMd1VMSXFLTEVXUm1jMTY3dWlKTGtBWmxSZWtGWlJTVGdSNTZtYUdnWHZaaGpzSkdKWnRLQ0Fvdw?oc=5",
-        "publishedAt": "2026-11-23T09:00:00.000Z"
-      },
-      {
         "time": "08:00",
         "title": "AIと会話しながら、気づいたその場で保全記録を残せる──設備保全クラウド「ミロクルカルテ」の「音声入力ガイド」が対話型に進化",
         "source": "PR TIMES",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9nWnQ0VEUzcU1ZVEt4SUFXeUtJX0I0ZjRvYWgtQUd6WXJxV0EtWjQwY3p4amJlLV9jSWJQQXpCMWVqUXFvMUVNaFE5di1tSExXMU5BMmhyNmxldkV2YjdWemhUUjdndlJQV0E?oc=5",
         "publishedAt": "2026-11-23T23:00:02.000Z"
+      },
+      {
+        "time": "18:00",
+        "title": "画像・写真 | 【RIZIN】POWPOW!!篠塚辰樹が公式アプリ公開 「たつき vs 火の鳥」など無料ゲーム7本など 7枚目",
+        "source": "オリコンニュース",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9nR3Btb1U4bUxBS3l1SjJBOEVZcGRYeFhaVldMd1VMSXFLTEVXUm1jMTY3dWlKTGtBWmxSZWtGWlJTVGdSNTZtYUdnWHZaaGpzSkdKWnRLQ0Fvdw?oc=5",
+        "publishedAt": "2026-11-23T09:00:00.000Z"
       },
       {
         "time": "13:20",
@@ -112,18 +112,25 @@
         "publishedAt": "2026-11-24T00:36:37.000Z"
       },
       {
-        "time": "23:17",
-        "title": "フアン氏 エヌビディアCEOに復帰",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6603732?source=rss",
-        "publishedAt": "2026-11-23T14:17:46.000Z"
-      },
-      {
         "time": "07:21",
         "title": "NY株大幅反発 フアン氏復帰好感",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6603740?source=rss",
         "publishedAt": "2026-11-23T22:21:34.000Z"
+      },
+      {
+        "time": "09:47",
+        "title": "NVIDIA時価総額 1日で151兆円増",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6603765?source=rss",
+        "publishedAt": "2026-11-24T00:47:37.000Z"
+      },
+      {
+        "time": "23:17",
+        "title": "フアン氏 エヌビディアCEOに復帰",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6603732?source=rss",
+        "publishedAt": "2026-11-23T14:17:46.000Z"
       },
       {
         "time": "07:58",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6603719?source=rss",
         "publishedAt": "2026-11-23T12:48:48.000Z"
-      },
-      {
-        "time": "07:45",
-        "title": "奨学金利率が急上昇 負担減求める",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6603744?source=rss",
-        "publishedAt": "2026-11-23T22:45:42.000Z"
       }
     ],
     "localHeadlines": [
