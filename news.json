@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T23:09:31.217Z",
+  "updatedAt": "2026-11-24T23:35:04.424Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,6 +31,13 @@
         "publishedAt": "2026-11-24T01:00:00.000Z"
       },
       {
+        "time": "11:28",
+        "title": "工作機械用ロータリージョイント市場調査：規模・状況・調べ方・算出方法",
+        "source": "Newscast.jp",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5UZDZETEswMWxWemZCSjlzZ3E3enYydm42blpoaE9WRjhjQVNnVmFEalk1cXVqTjgzMWlMaEdzRHo3SUNicW9GTE8yU1VzTnc?oc=5",
+        "publishedAt": "2026-11-24T02:28:00.000Z"
+      },
+      {
         "time": "09:35",
         "title": "株式会社つくば精工様 | 工作機械 | ニデック株式会社",
         "source": "NIDEC CORPORATION",
@@ -45,13 +52,6 @@
         "publishedAt": "2026-11-24T01:39:18.000Z"
       },
       {
-        "time": "09:25",
-        "title": "光学スケール世界市場の最新動向：2032年に732百万米ドル規模へ到達見込み（2026年版）",
-        "source": "Newscast.jp",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ncXhHTzJ2ZnQzX1VGQlE4MXBYZmFMRWNZUnFvRk5tMWxkc042ZXpTcWo4VHNKTm9DeTFFUUdkWHhfTHNMS2Nsd29GNHpOWWM?oc=5",
-        "publishedAt": "2026-11-24T00:25:00.000Z"
-      },
-      {
         "time": "10:45",
         "title": "【12/8(火)・9(水)・10(木)11:00‐】次世代設備保全クラウド「M2X」で何ができる？無料オンラインデモセミナー開催",
         "source": "Infoseek",
@@ -60,6 +60,27 @@
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "08:32",
+        "title": "NVIDIAは善良な企業 米司法長官",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6603870?source=rss",
+        "publishedAt": "2026-11-24T23:32:03.000Z"
+      },
+      {
+        "time": "12:34",
+        "title": "NVIDIAフアンCEO復帰 3つの懸念",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6603782?source=rss",
+        "publishedAt": "2026-11-24T03:34:48.000Z"
+      },
+      {
+        "time": "09:40",
+        "title": "フアン氏のCEO復帰 米議会反発",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6603761?source=rss",
+        "publishedAt": "2026-11-24T00:40:56.000Z"
+      },
       {
         "time": "21:39",
         "title": "EUのEV優遇 修正案でも日本除外",
@@ -73,27 +94,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6603853?source=rss",
         "publishedAt": "2026-11-24T14:10:09.000Z"
-      },
-      {
-        "time": "19:43",
-        "title": "台湾 フアン氏のCEO復帰に沸く",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6603832?source=rss",
-        "publishedAt": "2026-11-24T10:43:18.000Z"
-      },
-      {
-        "time": "09:40",
-        "title": "フアン氏のCEO復帰 米議会反発",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6603761?source=rss",
-        "publishedAt": "2026-11-24T00:40:56.000Z"
-      },
-      {
-        "time": "12:34",
-        "title": "NVIDIAフアンCEO復帰 3つの懸念",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6603782?source=rss",
-        "publishedAt": "2026-11-24T03:34:48.000Z"
       },
       {
         "time": "17:41",
@@ -156,6 +156,13 @@
         "publishedAt": "2026-11-24T22:37:56.000Z"
       },
       {
+        "time": "08:17",
+        "title": "住宅で流血の女性が死亡 殺人か",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6603869?source=rss",
+        "publishedAt": "2026-11-24T23:17:49.000Z"
+      },
+      {
         "time": "23:55",
         "title": "逆走車に衝突されたか 運転手死亡",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6603862?source=rss",
         "publishedAt": "2026-11-24T22:36:00.000Z"
-      },
-      {
-        "time": "22:34",
-        "title": "クマ捕獲で苦情多数 市業務に支障",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6603848?source=rss",
-        "publishedAt": "2026-11-24T13:34:44.000Z"
       }
     ],
     "subsidyHeadlines": [

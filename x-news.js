@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-24T23:09:31.742Z",
+  "updatedAt": "2026-11-24T23:35:05.647Z",
   "items": [
     {
       "time": "06:51",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "副首都 来年秋に複数同時に指定"
     },
     {
-      "time": "07:36",
-      "title": "財政難の兵庫県 新庁舎面積削減へ",
+      "time": "08:10",
+      "title": "米中に次ぐAI国家確立へ 政府案",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603862?source=rss",
-      "publishedAt": "2026-11-24T22:36:00.000Z",
-      "xQuery": "財政難の兵庫県 新庁舎面積削減へ"
+      "url": "https://news.yahoo.co.jp/pickup/6603868?source=rss",
+      "publishedAt": "2026-11-24T23:10:28.000Z",
+      "xQuery": "米中に次ぐAI国家確立へ 政府案"
     },
     {
       "time": "07:37",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "米で鳥インフルに3人感染 WHO"
     },
     {
-      "time": "23:55",
-      "title": "逆走車に衝突されたか 運転手死亡",
+      "time": "07:56",
+      "title": "直木賞ノミネート 5作品決まる",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603855?source=rss",
-      "publishedAt": "2026-11-24T14:55:44.000Z",
-      "xQuery": "逆走車に衝突されたか 運転手死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6603867?source=rss",
+      "publishedAt": "2026-11-24T22:56:25.000Z",
+      "xQuery": "直木賞ノミネート 5作品決まる"
     }
   ]
 };
