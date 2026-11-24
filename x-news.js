@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-24T11:11:03.134Z",
+  "updatedAt": "2026-11-24T11:35:56.854Z",
   "items": [
     {
       "time": "19:19",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "京王グループ 約1063万件漏えいか"
     },
     {
-      "time": "16:51",
-      "title": "首相とICC赤根所長面会 支持伝達",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603812?source=rss",
-      "publishedAt": "2026-11-24T07:51:52.000Z",
-      "xQuery": "首相とICC赤根所長面会 支持伝達"
-    },
-    {
       "time": "17:51",
       "title": "取材中拾った練習球売る 懲戒解雇",
       "source": "Yahoo!ニュース",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6603816?source=rss",
       "publishedAt": "2026-11-24T08:41:28.000Z",
       "xQuery": "禁止解除の「GTA」サウジで人気"
+    },
+    {
+      "time": "20:16",
+      "title": "免許持たず美容手術疑い 3人逮捕",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603835?source=rss",
+      "publishedAt": "2026-11-24T11:16:02.000Z",
+      "xQuery": "免許持たず美容手術疑い 3人逮捕"
     }
   ]
 };
