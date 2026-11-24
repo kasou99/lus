@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-11-24T22:36:03.191Z",
+  "updatedAt": "2026-11-24T23:09:31.217Z",
   "groups": {
     "machineHeadlines": [
-      {
-        "time": "18:19",
-        "title": "工作機械受注が示す日本株と世界経済 高水準維持も伸び率拡大の局面は終了か",
-        "source": "TBS NEWS DIG",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1lUnVfUGlvMFhxdEV2NTZzdHd2bTVYT3luOHcycm4xM25sRE1sLVdVeXF3S240U0l0RzZHUmZIMGdLZ0hCVFU1dFkxRWxjLTh2OWgwUHFldkZBSHc1RUVZ?oc=5",
-        "publishedAt": "2026-11-24T09:19:31.000Z"
-      },
       {
         "time": "06:01",
         "title": "フィジカルAIの主戦場に!?…ロボと環境の情報統合、工作機械が突破口になる理由",
         "source": "ニュースイッチ by 日刊工業新聞社",
         "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE01aEttcFFMMXVQZkZ6Vzk0cXZONExVTENacjFGa0hXR2pQLThGZUlHaXVzVHhkMnBpelc1dC1iQlpDdw?oc=5",
         "publishedAt": "2026-11-24T21:01:00.000Z"
+      },
+      {
+        "time": "18:19",
+        "title": "工作機械受注が示す日本株と世界経済 高水準維持も伸び率拡大の局面は終了か",
+        "source": "TBS NEWS DIG",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1lUnVfUGlvMFhxdEV2NTZzdHd2bTVYT3luOHcycm4xM25sRE1sLVdVeXF3S240U0l0RzZHUmZIMGdLZ0hCVFU1dFkxRWxjLTh2OWgwUHFldkZBSHc1RUVZ?oc=5",
+        "publishedAt": "2026-11-24T09:19:31.000Z"
       },
       {
         "time": "15:07",
@@ -31,13 +31,6 @@
         "publishedAt": "2026-11-24T01:00:00.000Z"
       },
       {
-        "time": "11:28",
-        "title": "工作機械用ロータリージョイント市場調査：規模・状況・調べ方・算出方法",
-        "source": "Newscast.jp",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5UZDZETEswMWxWemZCSjlzZ3E3enYydm42blpoaE9WRjhjQVNnVmFEalk1cXVqTjgzMWlMaEdzRHo3SUNicW9GTE8yU1VzTnc?oc=5",
-        "publishedAt": "2026-11-24T02:28:00.000Z"
-      },
-      {
         "time": "09:35",
         "title": "株式会社つくば精工様 | 工作機械 | ニデック株式会社",
         "source": "NIDEC CORPORATION",
@@ -50,6 +43,13 @@
         "source": "山陽新聞",
         "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4wV29SZUJ5Z0w1QUhxODlEWFZLaFBTS1pBRHFTbEhBcllNX0VTQVFKQjUwYVpOYWJidVROSTVUOWFDc1FTd0dGTVVPUVFKRkwtTEZrMzhlczBvWWFPWExPczk4VzU5Wng0WEhJcEpCd0E?oc=5",
         "publishedAt": "2026-11-24T01:39:18.000Z"
+      },
+      {
+        "time": "09:25",
+        "title": "光学スケール世界市場の最新動向：2032年に732百万米ドル規模へ到達見込み（2026年版）",
+        "source": "Newscast.jp",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ncXhHTzJ2ZnQzX1VGQlE4MXBYZmFMRWNZUnFvRk5tMWxkc042ZXpTcWo4VHNKTm9DeTFFUUdkWHhfTHNMS2Nsd29GNHpOWWM?oc=5",
+        "publishedAt": "2026-11-24T00:25:00.000Z"
       },
       {
         "time": "10:45",
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "07:37",
+        "title": "広島女性死亡 強盗殺人疑い男逮捕",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6603863?source=rss",
+        "publishedAt": "2026-11-24T22:37:56.000Z"
+      },
+      {
         "time": "23:55",
         "title": "逆走車に衝突されたか 運転手死亡",
         "source": "Yahoo!ニュース",
@@ -170,25 +177,18 @@
         "publishedAt": "2026-11-24T11:16:02.000Z"
       },
       {
+        "time": "07:36",
+        "title": "財政難の兵庫県 新庁舎面積削減へ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6603862?source=rss",
+        "publishedAt": "2026-11-24T22:36:00.000Z"
+      },
+      {
         "time": "22:34",
         "title": "クマ捕獲で苦情多数 市業務に支障",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6603848?source=rss",
         "publishedAt": "2026-11-24T13:34:44.000Z"
-      },
-      {
-        "time": "14:04",
-        "title": "トラックに巻き込まれ 高校生死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6603798?source=rss",
-        "publishedAt": "2026-11-24T05:04:06.000Z"
-      },
-      {
-        "time": "09:02",
-        "title": "フォークリフトが倒れ下敷き 死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6603756?source=rss",
-        "publishedAt": "2026-11-24T00:02:04.000Z"
       }
     ],
     "subsidyHeadlines": [

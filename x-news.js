@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-24T22:36:04.030Z",
+  "updatedAt": "2026-11-24T23:09:31.742Z",
   "items": [
     {
       "time": "06:51",
@@ -10,28 +10,28 @@ window.LUS_X_NEWS = {
       "xQuery": "副首都 来年秋に複数同時に指定"
     },
     {
-      "time": "22:03",
-      "title": "支援金「最大年27万円」の給付案",
+      "time": "07:36",
+      "title": "財政難の兵庫県 新庁舎面積削減へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603841?source=rss",
-      "publishedAt": "2026-11-24T13:03:48.000Z",
-      "xQuery": "支援金「最大年27万円」の給付案"
+      "url": "https://news.yahoo.co.jp/pickup/6603862?source=rss",
+      "publishedAt": "2026-11-24T22:36:00.000Z",
+      "xQuery": "財政難の兵庫県 新庁舎面積削減へ"
     },
     {
-      "time": "21:39",
-      "title": "EUのEV優遇 修正案でも日本除外",
+      "time": "07:37",
+      "title": "広島女性死亡 強盗殺人疑い男逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603839?source=rss",
-      "publishedAt": "2026-11-24T12:39:02.000Z",
-      "xQuery": "EUのEV優遇 修正案でも日本除外"
+      "url": "https://news.yahoo.co.jp/pickup/6603863?source=rss",
+      "publishedAt": "2026-11-24T22:37:56.000Z",
+      "xQuery": "広島女性死亡 強盗殺人疑い男逮捕"
     },
     {
-      "time": "23:10",
-      "title": "上海市トップを調査 規律違反疑い",
+      "time": "07:54",
+      "title": "米で鳥インフルに3人感染 WHO",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603853?source=rss",
-      "publishedAt": "2026-11-24T14:10:09.000Z",
-      "xQuery": "上海市トップを調査 規律違反疑い"
+      "url": "https://news.yahoo.co.jp/pickup/6603865?source=rss",
+      "publishedAt": "2026-11-24T22:54:06.000Z",
+      "xQuery": "米で鳥インフルに3人感染 WHO"
     },
     {
       "time": "23:55",
