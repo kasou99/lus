@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-24T12:17:15.606Z",
+  "updatedAt": "2026-11-24T12:39:11.472Z",
   "items": [
     {
       "time": "19:19",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "個人消費判断 約3年ぶり下方修正"
     },
     {
-      "time": "17:41",
-      "title": "禁止解除の「GTA」サウジで人気",
+      "time": "19:43",
+      "title": "台湾 フアン氏のCEO復帰に沸く",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603816?source=rss",
-      "publishedAt": "2026-11-24T08:41:28.000Z",
-      "xQuery": "禁止解除の「GTA」サウジで人気"
+      "url": "https://news.yahoo.co.jp/pickup/6603832?source=rss",
+      "publishedAt": "2026-11-24T10:43:18.000Z",
+      "xQuery": "台湾 フアン氏のCEO復帰に沸く"
     },
     {
       "time": "21:08",
