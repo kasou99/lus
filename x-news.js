@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-24T15:11:40.776Z",
+  "updatedAt": "2026-11-24T15:36:17.791Z",
   "items": [
     {
       "time": "21:39",
@@ -8,6 +8,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6603839?source=rss",
       "publishedAt": "2026-11-24T12:39:02.000Z",
       "xQuery": "EUのEV優遇 修正案でも日本除外"
+    },
+    {
+      "time": "22:13",
+      "title": "首相 第2次補正予算案編成を指示",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603844?source=rss",
+      "publishedAt": "2026-11-24T13:13:01.000Z",
+      "xQuery": "首相 第2次補正予算案編成を指示"
     },
     {
       "time": "23:10",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6603855?source=rss",
       "publishedAt": "2026-11-24T14:55:44.000Z",
       "xQuery": "逆走車に衝突されたか 運転手死亡"
-    },
-    {
-      "time": "22:55",
-      "title": "未払い督促強化のNHK 事業収入増",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603852?source=rss",
-      "publishedAt": "2026-11-24T13:55:39.000Z",
-      "xQuery": "未払い督促強化のNHK 事業収入増"
     }
   ]
 };
