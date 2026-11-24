@@ -1,13 +1,20 @@
 {
-  "updatedAt": "2026-11-24T02:16:09.719Z",
+  "updatedAt": "2026-11-24T02:36:40.510Z",
   "groups": {
     "machineHeadlines": [
       {
-        "time": "09:25",
-        "title": "光学スケール世界市場の最新動向：2032年に732百万米ドル規模へ到達見込み（2026年版）",
-        "source": "Newscast.jp",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ncXhHTzJ2ZnQzX1VGQlE4MXBYZmFMRWNZUnFvRk5tMWxkc042ZXpTcWo4VHNKTm9DeTFFUUdkWHhfTHNMS2Nsd29GNHpOWWM?oc=5",
-        "publishedAt": "2026-11-24T00:25:00.000Z"
+        "time": "10:00",
+        "title": "商社ＹＵＡＳＡが工作機械「通算5年保証」開始 メーカー保証終了後の故障に安心提供",
+        "source": "MONOist",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBLZUwyNURET2JVcnVIcEpfcGpyeFAwb3h0V1dQTXR2bzZRb0RxcjhTaVZJaGtVeFA1d05zaVRkMWRqMkk4ZEVfWG0zZjdIbUREV3NremxhWTlWeFdXZjNSdWU5SW1QcENCOExKam9PMA?oc=5",
+        "publishedAt": "2026-11-24T01:00:00.000Z"
+      },
+      {
+        "time": "09:35",
+        "title": "株式会社つくば精工様 | 工作機械 | ニデック株式会社",
+        "source": "NIDEC CORPORATION",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYVNsbGpmd3ZDcnhJV19ZZGp5VmZiQi1id3lGV1JMdElSVUVvMWJpbS04blBoUW16Z2tPYktZclJWV3JoWlQyY0VMcXBkV2k4M2hmY3hQVUh2MWQ4OGQ1UHJETFp3RFFFa3A2TlBKSk9XTXUzX0d1UVktOHlnYVZhMFRxaTMta194WkozUkd3?oc=5",
+        "publishedAt": "2026-11-24T00:35:47.000Z"
       },
       {
         "time": "10:45",
@@ -24,13 +31,6 @@
         "publishedAt": "2026-11-23T08:57:00.000Z"
       },
       {
-        "time": "05:00",
-        "title": "さあ出番／ミック社長に就任した原田惇氏 社員一丸で会社づくり",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9qMVNpS0kzdHd5OFFvRjl0XzFEV2dEN1R2RGx6cmNPTTBEbzlUQzdRblFUZjcyQW1FZ0lDdGQ3UEhUdDR1M2lwd0ZjekpSdkpiUzZYQ0tmLXE?oc=5",
-        "publishedAt": "2026-11-23T20:00:00.000Z"
-      },
-      {
         "time": "08:00",
         "title": "AIと会話しながら、気づいたその場で保全記録を残せる──設備保全クラウド「ミロクルカルテ」の「音声入力ガイド」が対話型に進化 | 株式会社ミロクリエのプレスリリース",
         "source": "PR TIMES",
@@ -38,25 +38,25 @@
         "publishedAt": "2026-11-23T23:00:02.000Z"
       },
       {
+        "time": "09:25",
+        "title": "光学スケール世界市場の最新動向：2032年に732百万米ドル規模へ到達見込み（2026年版）",
+        "source": "Newscast.jp",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ncXhHTzJ2ZnQzX1VGQlE4MXBYZmFMRWNZUnFvRk5tMWxkc042ZXpTcWo4VHNKTm9DeTFFUUdkWHhfTHNMS2Nsd29GNHpOWWM?oc=5",
+        "publishedAt": "2026-11-24T00:25:00.000Z"
+      },
+      {
+        "time": "05:00",
+        "title": "さあ出番／ミック社長に就任した原田惇氏 社員一丸で会社づくり",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9qMVNpS0kzdHd5OFFvRjl0XzFEV2dEN1R2RGx6cmNPTTBEbzlUQzdRblFUZjcyQW1FZ0lDdGQ3UEhUdDR1M2lwd0ZjekpSdkpiUzZYQ0tmLXE?oc=5",
+        "publishedAt": "2026-11-23T20:00:00.000Z"
+      },
+      {
         "time": "18:00",
         "title": "画像・写真 | 【RIZIN】POWPOW!!篠塚辰樹が公式アプリ公開 「たつき vs 火の鳥」など無料ゲーム7本など 7枚目",
         "source": "オリコンニュース",
         "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9nR3Btb1U4bUxBS3l1SjJBOEVZcGRYeFhaVldMd1VMSXFLTEVXUm1jMTY3dWlKTGtBWmxSZWtGWlJTVGdSNTZtYUdnWHZaaGpzSkdKWnRLQ0Fvdw?oc=5",
         "publishedAt": "2026-11-23T09:00:00.000Z"
-      },
-      {
-        "time": "10:00",
-        "title": "現場技術者・学生必携の決定版バイブル！",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1mNHJJVERpczVVQlQ2OUxyb1ZCNDhnN3Q0eXRhbTRaYllUSElLUXRqNC0xNEhKRHBRQzBnV1RDb294WlNsYnlvVFhXZV9TM0tnNld5VEZidGRWWTRSdmpiMHhJM29mYl9R?oc=5",
-        "publishedAt": "2026-11-24T01:00:36.000Z"
-      },
-      {
-        "time": "13:20",
-        "title": "歯車研削盤市場分析レポート：2026年1015百万米ドル規模、成長率3.7%推移",
-        "source": "アットプレス",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE12X2p4N1Jsb3BBaVQxeGR1QUZyMTlPLVRYOTBuOFhCekpTOHBPX2dZTnhudmUxVzEyZkFNcmN2VTVqSFNiYXVhZm41bGpVeDA?oc=5",
-        "publishedAt": "2026-11-23T04:20:00.000Z"
       }
     ],
     "worldHeadlines": [

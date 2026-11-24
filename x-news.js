@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-24T02:16:10.422Z",
+  "updatedAt": "2026-11-24T02:36:41.447Z",
   "items": [
     {
       "time": "10:15",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "日経平均 一時2800円超値上がり"
     },
     {
-      "time": "09:46",
-      "title": "文科相 自宅家賃を政治資金で支出",
+      "time": "10:28",
+      "title": "立憲 最大5万円給付案を参院提出",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603766?source=rss",
-      "publishedAt": "2026-11-24T00:46:28.000Z",
-      "xQuery": "文科相 自宅家賃を政治資金で支出"
+      "url": "https://news.yahoo.co.jp/pickup/6603770?source=rss",
+      "publishedAt": "2026-11-24T01:28:07.000Z",
+      "xQuery": "立憲 最大5万円給付案を参院提出"
     },
     {
       "time": "09:19",
