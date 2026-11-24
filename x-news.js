@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-24T04:35:53.272Z",
+  "updatedAt": "2026-11-24T05:12:07.471Z",
   "items": [
     {
-      "time": "11:44",
-      "title": "野党 文科相への問責案提出で一致",
+      "time": "13:07",
+      "title": "辺野古事故受け7割が校外活動点検",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603783?source=rss",
-      "publishedAt": "2026-11-24T02:44:46.000Z",
-      "xQuery": "野党 文科相への問責案提出で一致"
+      "url": "https://news.yahoo.co.jp/pickup/6603791?source=rss",
+      "publishedAt": "2026-11-24T04:07:49.000Z",
+      "xQuery": "辺野古事故受け7割が校外活動点検"
     },
     {
       "time": "11:59",
@@ -18,6 +18,14 @@ window.LUS_X_NEWS = {
       "xQuery": "排外的デマ激化 新校白紙の事例も"
     },
     {
+      "time": "11:44",
+      "title": "野党 文科相への問責案提出で一致",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603783?source=rss",
+      "publishedAt": "2026-11-24T02:44:46.000Z",
+      "xQuery": "野党 文科相への問責案提出で一致"
+    },
+    {
       "time": "12:28",
       "title": "集落で謎の渋滞 スマホナビ原因か",
       "source": "Yahoo!ニュース",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "集落で謎の渋滞 スマホナビ原因か"
     },
     {
-      "time": "11:39",
-      "title": "セカストが急成長 人気の要因は",
+      "time": "13:18",
+      "title": "くら寿司22品値上げ 34品値下げ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603777?source=rss",
-      "publishedAt": "2026-11-24T02:39:20.000Z",
-      "xQuery": "セカストが急成長 人気の要因は"
-    },
-    {
-      "time": "11:54",
-      "title": "ミスド並び方に戸惑いも 運営見解",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603786?source=rss",
-      "publishedAt": "2026-11-24T02:54:09.000Z",
-      "xQuery": "ミスド並び方に戸惑いも 運営見解"
+      "url": "https://news.yahoo.co.jp/pickup/6603792?source=rss",
+      "publishedAt": "2026-11-24T04:18:22.000Z",
+      "xQuery": "くら寿司22品値上げ 34品値下げ"
     }
   ]
 };
