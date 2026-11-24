@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-24T01:12:48.911Z",
+  "updatedAt": "2026-11-24T01:39:22.701Z",
   "items": [
     {
-      "time": "09:36",
-      "title": "日経平均 一時2200円超値上がり",
+      "time": "10:15",
+      "title": "日経平均 一時2800円超値上がり",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603764?source=rss",
-      "publishedAt": "2026-11-24T00:36:37.000Z",
-      "xQuery": "日経平均 一時2200円超値上がり"
+      "url": "https://news.yahoo.co.jp/pickup/6603771?source=rss",
+      "publishedAt": "2026-11-24T01:15:25.000Z",
+      "xQuery": "日経平均 一時2800円超値上がり"
     },
     {
       "time": "09:46",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "フアン氏のCEO復帰 米議会反発"
     },
     {
+      "time": "09:47",
+      "title": "NVIDIA時価総額 1日で151兆円増",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603765?source=rss",
+      "publishedAt": "2026-11-24T00:47:37.000Z",
+      "xQuery": "NVIDIA時価総額 1日で151兆円増"
+    },
+    {
       "time": "09:02",
       "title": "フォークリフトが倒れ下敷き 死亡",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6603756?source=rss",
       "publishedAt": "2026-11-24T00:02:04.000Z",
       "xQuery": "フォークリフトが倒れ下敷き 死亡"
-    },
-    {
-      "time": "07:03",
-      "title": "ロッククライミング中に滑落 死亡",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603737?source=rss",
-      "publishedAt": "2026-11-23T22:03:20.000Z",
-      "xQuery": "ロッククライミング中に滑落 死亡"
     }
   ]
 };
