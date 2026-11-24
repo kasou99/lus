@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T05:12:06.854Z",
+  "updatedAt": "2026-11-24T05:36:10.024Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -15,6 +15,13 @@
         "source": "NIDEC CORPORATION",
         "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYVNsbGpmd3ZDcnhJV19ZZGp5VmZiQi1id3lGV1JMdElSVUVvMWJpbS04blBoUW16Z2tPYktZclJWV3JoWlQyY0VMcXBkV2k4M2hmY3hQVUh2MWQ4OGQ1UHJETFp3RFFFa3A2TlBKSk9XTXUzX0d1UVktOHlnYVZhMFRxaTMta194WkozUkd3?oc=5",
         "publishedAt": "2026-11-24T00:35:47.000Z"
+      },
+      {
+        "time": "09:25",
+        "title": "光学スケール世界市場の最新動向：2032年に732百万米ドル規模へ到達見込み（2026年版）",
+        "source": "Newscast.jp",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ncXhHTzJ2ZnQzX1VGQlE4MXBYZmFMRWNZUnFvRk5tMWxkc042ZXpTcWo4VHNKTm9DeTFFUUdkWHhfTHNMS2Nsd29GNHpOWWM?oc=5",
+        "publishedAt": "2026-11-24T00:25:00.000Z"
       },
       {
         "time": "10:45",
@@ -38,25 +45,18 @@
         "publishedAt": "2026-11-23T08:57:00.000Z"
       },
       {
-        "time": "08:00",
-        "title": "AIと会話しながら、気づいたその場で保全記録を残せる──設備保全クラウド「ミロクルカルテ」の「音声入力ガイド」が対話型に進化",
-        "source": "PR TIMES",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9nWnQ0VEUzcU1ZVEt4SUFXeUtJX0I0ZjRvYWgtQUd6WXJxV0EtWjQwY3p4amJlLV9jSWJQQXpCMWVqUXFvMUVNaFE5di1tSExXMU5BMmhyNmxldkV2YjdWemhUUjdndlJQV0E?oc=5",
-        "publishedAt": "2026-11-23T23:00:02.000Z"
-      },
-      {
-        "time": "09:25",
-        "title": "光学スケール世界市場の最新動向：2032年に732百万米ドル規模へ到達見込み（2026年版）",
-        "source": "Newscast.jp",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ncXhHTzJ2ZnQzX1VGQlE4MXBYZmFMRWNZUnFvRk5tMWxkc042ZXpTcWo4VHNKTm9DeTFFUUdkWHhfTHNMS2Nsd29GNHpOWWM?oc=5",
-        "publishedAt": "2026-11-24T00:25:00.000Z"
-      },
-      {
         "time": "05:00",
         "title": "さあ出番／ミック社長に就任した原田惇氏 社員一丸で会社づくり",
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9qMVNpS0kzdHd5OFFvRjl0XzFEV2dEN1R2RGx6cmNPTTBEbzlUQzdRblFUZjcyQW1FZ0lDdGQ3UEhUdDR1M2lwd0ZjekpSdkpiUzZYQ0tmLXE?oc=5",
         "publishedAt": "2026-11-23T20:00:00.000Z"
+      },
+      {
+        "time": "08:00",
+        "title": "AIと会話しながら、気づいたその場で保全記録を残せる──設備保全クラウド「ミロクルカルテ」の「音声入力ガイド」が対話型に進化",
+        "source": "PR TIMES",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9nWnQ0VEUzcU1ZVEt4SUFXeUtJX0I0ZjRvYWgtQUd6WXJxV0EtWjQwY3p4amJlLV9jSWJQQXpCMWVqUXFvMUVNaFE5di1tSExXMU5BMmhyNmxldkV2YjdWemhUUjdndlJQV0E?oc=5",
+        "publishedAt": "2026-11-23T23:00:02.000Z"
       }
     ],
     "worldHeadlines": [
@@ -156,11 +156,11 @@
         "publishedAt": "2026-11-24T02:59:56.000Z"
       },
       {
-        "time": "09:08",
-        "title": "障害者手帳交付遅れ調査怠る 宮城",
+        "time": "14:34",
+        "title": "交通誘導中にはねられる 男性死亡",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6603757?source=rss",
-        "publishedAt": "2026-11-24T00:08:58.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6603801?source=rss",
+        "publishedAt": "2026-11-24T05:34:44.000Z"
       },
       {
         "time": "14:04",

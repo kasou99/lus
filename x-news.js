@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-24T05:12:07.471Z",
+  "updatedAt": "2026-11-24T05:36:10.817Z",
   "items": [
     {
       "time": "13:07",
@@ -10,28 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "辺野古事故受け7割が校外活動点検"
     },
     {
-      "time": "11:59",
-      "title": "排外的デマ激化 新校白紙の事例も",
+      "time": "14:08",
+      "title": "自民「宇宙庁」早期実現の提言案",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603788?source=rss",
-      "publishedAt": "2026-11-24T02:59:56.000Z",
-      "xQuery": "排外的デマ激化 新校白紙の事例も"
+      "url": "https://news.yahoo.co.jp/pickup/6603797?source=rss",
+      "publishedAt": "2026-11-24T05:08:09.000Z",
+      "xQuery": "自民「宇宙庁」早期実現の提言案"
     },
     {
-      "time": "11:44",
-      "title": "野党 文科相への問責案提出で一致",
+      "time": "14:04",
+      "title": "トラックに巻き込まれ 高校生死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603783?source=rss",
-      "publishedAt": "2026-11-24T02:44:46.000Z",
-      "xQuery": "野党 文科相への問責案提出で一致"
-    },
-    {
-      "time": "12:28",
-      "title": "集落で謎の渋滞 スマホナビ原因か",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603790?source=rss",
-      "publishedAt": "2026-11-24T03:28:55.000Z",
-      "xQuery": "集落で謎の渋滞 スマホナビ原因か"
+      "url": "https://news.yahoo.co.jp/pickup/6603798?source=rss",
+      "publishedAt": "2026-11-24T05:04:06.000Z",
+      "xQuery": "トラックに巻き込まれ 高校生死亡"
     },
     {
       "time": "13:18",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6603792?source=rss",
       "publishedAt": "2026-11-24T04:18:22.000Z",
       "xQuery": "くら寿司22品値上げ 34品値下げ"
+    },
+    {
+      "time": "11:54",
+      "title": "ミスド並び方に戸惑いも 運営見解",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603786?source=rss",
+      "publishedAt": "2026-11-24T02:54:09.000Z",
+      "xQuery": "ミスド並び方に戸惑いも 運営見解"
     }
   ]
 };
