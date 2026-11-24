@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T15:36:16.974Z",
+  "updatedAt": "2026-11-24T16:12:43.942Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -8,13 +8,6 @@
         "source": "MONOist",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBLZUwyNURET2JVcnVIcEpfcGpyeFAwb3h0V1dQTXR2bzZRb0RxcjhTaVZJaGtVeFA1d05zaVRkMWRqMkk4ZEVfWG0zZjdIbUREV3NremxhWTlWeFdXZjNSdWU5SW1QcENCOExKam9PMA?oc=5",
         "publishedAt": "2026-11-24T01:00:00.000Z"
-      },
-      {
-        "time": "11:28",
-        "title": "工作機械用ロータリージョイント市場調査：規模・状況・調べ方・算出方法",
-        "source": "Newscast.jp",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5UZDZETEswMWxWemZCSjlzZ3E3enYydm42blpoaE9WRjhjQVNnVmFEalk1cXVqTjgzMWlMaEdzRHo3SUNicW9GTE8yU1VzTnc?oc=5",
-        "publishedAt": "2026-11-24T02:28:00.000Z"
       },
       {
         "time": "09:35",
@@ -31,11 +24,25 @@
         "publishedAt": "2026-11-24T01:39:18.000Z"
       },
       {
+        "time": "09:25",
+        "title": "光学スケール世界市場の最新動向：2032年に732百万米ドル規模へ到達見込み（2026年版）",
+        "source": "Newscast.jp",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ncXhHTzJ2ZnQzX1VGQlE4MXBYZmFMRWNZUnFvRk5tMWxkc042ZXpTcWo4VHNKTm9DeTFFUUdkWHhfTHNMS2Nsd29GNHpOWWM?oc=5",
+        "publishedAt": "2026-11-24T00:25:00.000Z"
+      },
+      {
         "time": "10:45",
         "title": "【12/8(火)・9(水)・10(木)11:00‐】次世代設備保全クラウド「M2X」で何ができる？無料オンラインデモセミナー開催",
         "source": "Infoseek",
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5valFWRWttR0tiYThvcHZqMlBDdVk4cklTVl9FTzRKaVNna3RCX2dQMzVDdlA3V0Rac3BkblBqdXdzZmN4aWQ1SmR3bzZDSGxRNnVpeEswUFBhODNFVkJDWjRPSW44X0gxR3FlcUgweWxNZw?oc=5",
         "publishedAt": "2026-11-24T01:45:25.000Z"
+      },
+      {
+        "time": "11:28",
+        "title": "工作機械用ロータリージョイント市場調査：規模・状況・調べ方・算出方法",
+        "source": "アットプレス",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9LYTVZdjQ1ekMxUG9BTGV1UGlqR1BHX2F4VzFzNFZkUzRJdXBmNWlqdXJQWlBnaWl6ZV9YOVdkR2Zzc1E4TXdfX1NhZGF5NlE?oc=5",
+        "publishedAt": "2026-11-24T02:28:00.000Z"
       },
       {
         "time": "15:06",
@@ -50,13 +57,6 @@
         "source": "アットプレス",
         "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1xNDQxcjBmQU90WTZlQTRobDBzU2dNZjlKeDlrc2gzU3JSLU1UbWN3NndWajZqS0FfbWtJX0hTbHJKWnplcTFrdWp3RWZvQQ?oc=5",
         "publishedAt": "2026-11-24T06:26:00.000Z"
-      },
-      {
-        "time": "05:00",
-        "title": "自動化を支える／アピステ メーター巡回点検、カメラで省力化",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBmWkdOSERjRG9yZ3dNYnFkQVdjcERjTzZIaE5tS0VuWVdMX3VhOTlYV1l3WG1vS2h6RktrZ2VOSjc5aEMtakpJa0RvX3hwTjlNSEZmNFZtZHE?oc=5",
-        "publishedAt": "2026-11-23T20:00:00.000Z"
       }
     ],
     "worldHeadlines": [
