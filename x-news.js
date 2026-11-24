@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-24T14:36:37.899Z",
+  "updatedAt": "2026-11-24T15:11:40.776Z",
   "items": [
     {
       "time": "21:39",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "上海市トップを調査 規律違反疑い"
     },
     {
-      "time": "22:13",
-      "title": "首相 第2次補正予算案編成を指示",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603844?source=rss",
-      "publishedAt": "2026-11-24T13:13:01.000Z",
-      "xQuery": "首相 第2次補正予算案編成を指示"
-    },
-    {
       "time": "22:03",
       "title": "支援金「最大年27万円」の給付案",
       "source": "Yahoo!ニュース",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "支援金「最大年27万円」の給付案"
     },
     {
-      "time": "20:16",
-      "title": "免許持たず美容手術疑い 3人逮捕",
+      "time": "23:55",
+      "title": "逆走車に衝突されたか 運転手死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603835?source=rss",
-      "publishedAt": "2026-11-24T11:16:02.000Z",
-      "xQuery": "免許持たず美容手術疑い 3人逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6603855?source=rss",
+      "publishedAt": "2026-11-24T14:55:44.000Z",
+      "xQuery": "逆走車に衝突されたか 運転手死亡"
+    },
+    {
+      "time": "22:55",
+      "title": "未払い督促強化のNHK 事業収入増",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603852?source=rss",
+      "publishedAt": "2026-11-24T13:55:39.000Z",
+      "xQuery": "未払い督促強化のNHK 事業収入増"
     }
   ]
 };
