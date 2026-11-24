@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T17:10:40.991Z",
+  "updatedAt": "2026-11-24T17:35:24.918Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -45,18 +45,18 @@
         "publishedAt": "2026-11-24T06:06:00.000Z"
       },
       {
-        "time": "09:25",
-        "title": "光学スケール世界市場の最新動向：2032年に732百万米ドル規模へ到達見込み（2026年版）",
-        "source": "Newscast.jp",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ncXhHTzJ2ZnQzX1VGQlE4MXBYZmFMRWNZUnFvRk5tMWxkc042ZXpTcWo4VHNKTm9DeTFFUUdkWHhfTHNMS2Nsd29GNHpOWWM?oc=5",
-        "publishedAt": "2026-11-24T00:25:00.000Z"
-      },
-      {
         "time": "15:26",
         "title": "スピンドルチラーの競争環境評価：企業別シェア、売上規模、成長ポテンシャル2026-2032",
         "source": "アットプレス",
         "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1xNDQxcjBmQU90WTZlQTRobDBzU2dNZjlKeDlrc2gzU3JSLU1UbWN3NndWajZqS0FfbWtJX0hTbHJKWnplcTFrdWp3RWZvQQ?oc=5",
         "publishedAt": "2026-11-24T06:26:00.000Z"
+      },
+      {
+        "time": "05:00",
+        "title": "自動化を支える／アピステ メーター巡回点検、カメラで省力化",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBmWkdOSERjRG9yZ3dNYnFkQVdjcERjTzZIaE5tS0VuWVdMX3VhOTlYV1l3WG1vS2h6RktrZ2VOSjc5aEMtakpJa0RvX3hwTjlNSEZmNFZtZHE?oc=5",
+        "publishedAt": "2026-11-23T20:00:00.000Z"
       }
     ],
     "worldHeadlines": [
