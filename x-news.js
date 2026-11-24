@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-24T14:11:54.426Z",
+  "updatedAt": "2026-11-24T14:36:37.899Z",
   "items": [
     {
       "time": "21:39",
@@ -8,6 +8,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6603839?source=rss",
       "publishedAt": "2026-11-24T12:39:02.000Z",
       "xQuery": "EUのEV優遇 修正案でも日本除外"
+    },
+    {
+      "time": "23:10",
+      "title": "上海市トップを調査 規律違反疑い",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603853?source=rss",
+      "publishedAt": "2026-11-24T14:10:09.000Z",
+      "xQuery": "上海市トップを調査 規律違反疑い"
     },
     {
       "time": "22:13",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "支援金「最大年27万円」の給付案"
     },
     {
-      "time": "22:34",
-      "title": "クマ捕獲で苦情多数 市業務に支障",
+      "time": "20:16",
+      "title": "免許持たず美容手術疑い 3人逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603848?source=rss",
-      "publishedAt": "2026-11-24T13:34:44.000Z",
-      "xQuery": "クマ捕獲で苦情多数 市業務に支障"
-    },
-    {
-      "time": "21:33",
-      "title": "詐欺広告巡り 前澤友作氏側が控訴",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603838?source=rss",
-      "publishedAt": "2026-11-24T12:33:46.000Z",
-      "xQuery": "詐欺広告巡り 前澤友作氏側が控訴"
+      "url": "https://news.yahoo.co.jp/pickup/6603835?source=rss",
+      "publishedAt": "2026-11-24T11:16:02.000Z",
+      "xQuery": "免許持たず美容手術疑い 3人逮捕"
     }
   ]
 };
