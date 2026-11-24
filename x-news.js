@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-24T04:13:35.981Z",
+  "updatedAt": "2026-11-24T04:35:53.272Z",
   "items": [
     {
       "time": "11:44",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "排外的デマ激化 新校白紙の事例も"
     },
     {
-      "time": "11:58",
-      "title": "松屋の一人負け? 牛丼業界で明暗",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603780?source=rss",
-      "publishedAt": "2026-11-24T02:58:23.000Z",
-      "xQuery": "松屋の一人負け? 牛丼業界で明暗"
-    },
-    {
       "time": "12:28",
       "title": "集落で謎の渋滞 スマホナビ原因か",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6603790?source=rss",
       "publishedAt": "2026-11-24T03:28:55.000Z",
       "xQuery": "集落で謎の渋滞 スマホナビ原因か"
+    },
+    {
+      "time": "11:39",
+      "title": "セカストが急成長 人気の要因は",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603777?source=rss",
+      "publishedAt": "2026-11-24T02:39:20.000Z",
+      "xQuery": "セカストが急成長 人気の要因は"
     },
     {
       "time": "11:54",

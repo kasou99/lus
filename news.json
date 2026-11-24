@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T04:13:34.887Z",
+  "updatedAt": "2026-11-24T04:35:52.506Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,11 +17,11 @@
         "publishedAt": "2026-11-24T00:35:47.000Z"
       },
       {
-        "time": "09:25",
-        "title": "光学スケール世界市場の最新動向：2032年に732百万米ドル規模へ到達見込み（2026年版）",
-        "source": "Newscast.jp",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ncXhHTzJ2ZnQzX1VGQlE4MXBYZmFMRWNZUnFvRk5tMWxkc042ZXpTcWo4VHNKTm9DeTFFUUdkWHhfTHNMS2Nsd29GNHpOWWM?oc=5",
-        "publishedAt": "2026-11-24T00:25:00.000Z"
+        "time": "10:45",
+        "title": "【12/8(火)・9(水)・10(木)11:00‐】次世代設備保全クラウド「M2X」で何ができる？無料オンラインデモセミナー開催",
+        "source": "Infoseek",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5valFWRWttR0tiYThvcHZqMlBDdVk4cklTVl9FTzRKaVNna3RCX2dQMzVDdlA3V0Rac3BkblBqdXdzZmN4aWQ1SmR3bzZDSGxRNnVpeEswUFBhODNFVkJDWjRPSW44X0gxR3FlcUgweWxNZw?oc=5",
+        "publishedAt": "2026-11-24T01:45:25.000Z"
       },
       {
         "time": "11:28",
@@ -31,13 +31,6 @@
         "publishedAt": "2026-11-24T02:28:00.000Z"
       },
       {
-        "time": "10:45",
-        "title": "【12/8(火)・9(水)・10(木)11:00‐】次世代設備保全クラウド「M2X」で何ができる？無料オンラインデモセミナー開催",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1vR21VdkRjT1B3ekFFMnJhMW54MGFMck8tNEczMFlLSkxyOVgxLWdIbFRuelIzR21XRW4yTnNnamg2Z0tVOGM4ZFZHX0xIVzVaS2x0R1JuNzk0X1k1NTVlby0zYmU0YTN0ZnhVRHNiNjdyTkpaTGZFcw?oc=5",
-        "publishedAt": "2026-11-24T01:45:30.000Z"
-      },
-      {
         "time": "17:57",
         "title": "工作機械受注が示す日本株と世界経済 高水準維持も伸び率拡大の局面は終了か",
         "source": "TBS NEWS DIG",
@@ -45,18 +38,25 @@
         "publishedAt": "2026-11-23T08:57:00.000Z"
       },
       {
-        "time": "05:00",
-        "title": "さあ出番／ミック社長に就任した原田惇氏 社員一丸で会社づくり",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9qMVNpS0kzdHd5OFFvRjl0XzFEV2dEN1R2RGx6cmNPTTBEbzlUQzdRblFUZjcyQW1FZ0lDdGQ3UEhUdDR1M2lwd0ZjekpSdkpiUzZYQ0tmLXE?oc=5",
-        "publishedAt": "2026-11-23T20:00:00.000Z"
-      },
-      {
         "time": "08:00",
         "title": "AIと会話しながら、気づいたその場で保全記録を残せる──設備保全クラウド「ミロクルカルテ」の「音声入力ガイド」が対話型に進化 | 株式会社ミロクリエのプレスリリース",
         "source": "PR TIMES",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9nWnQ0VEUzcU1ZVEt4SUFXeUtJX0I0ZjRvYWgtQUd6WXJxV0EtWjQwY3p4amJlLV9jSWJQQXpCMWVqUXFvMUVNaFE5di1tSExXMU5BMmhyNmxldkV2YjdWemhUUjdndlJQV0E?oc=5",
         "publishedAt": "2026-11-23T23:00:02.000Z"
+      },
+      {
+        "time": "12:07",
+        "title": "人手不足・熟練工不足の課題解決へ向け、自動化・知能化・工程集約の提案が活発",
+        "source": "マシニスト出版",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5KcUYtZVNucExRd1pRTWF5Y2t1NzZFVE5IcURfYjdxUWZVY2Y1LUdEQ2k3eTB0aEZtV1BiY2U5UTBkbFVNeEMwZjFrWWdXbTRVbGpzcg?oc=5",
+        "publishedAt": "2026-11-24T03:07:50.000Z"
+      },
+      {
+        "time": "09:25",
+        "title": "光学スケール世界市場の最新動向：2032年に732百万米ドル規模へ到達見込み（2026年版）",
+        "source": "Newscast.jp",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ncXhHTzJ2ZnQzX1VGQlE4MXBYZmFMRWNZUnFvRk5tMWxkc042ZXpTcWo4VHNKTm9DeTFFUUdkWHhfTHNMS2Nsd29GNHpOWWM?oc=5",
+        "publishedAt": "2026-11-24T00:25:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -112,13 +112,6 @@
         "publishedAt": "2026-11-24T01:15:25.000Z"
       },
       {
-        "time": "09:47",
-        "title": "NVIDIA時価総額 1日で151兆円増",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6603765?source=rss",
-        "publishedAt": "2026-11-24T00:47:37.000Z"
-      },
-      {
         "time": "23:17",
         "title": "フアン氏 エヌビディアCEOに復帰",
         "source": "Yahoo!ニュース",
@@ -131,6 +124,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6603780?source=rss",
         "publishedAt": "2026-11-24T02:58:23.000Z"
+      },
+      {
+        "time": "13:18",
+        "title": "くら寿司22品値上げ 34品値下げ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6603792?source=rss",
+        "publishedAt": "2026-11-24T04:18:22.000Z"
       },
       {
         "time": "11:39",
