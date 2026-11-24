@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T03:36:03.291Z",
+  "updatedAt": "2026-11-24T04:13:34.887Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -24,18 +24,18 @@
         "publishedAt": "2026-11-24T00:25:00.000Z"
       },
       {
-        "time": "10:45",
-        "title": "【12/8(火)・9(水)・10(木)11:00‐】次世代設備保全クラウド「M2X」で何ができる？無料オンラインデモセミナー開催",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1vR21VdkRjT1B3ekFFMnJhMW54MGFMck8tNEczMFlLSkxyOVgxLWdIbFRuelIzR21XRW4yTnNnamg2Z0tVOGM4ZFZHX0xIVzVaS2x0R1JuNzk0X1k1NTVlby0zYmU0YTN0ZnhVRHNiNjdyTkpaTGZFcw?oc=5",
-        "publishedAt": "2026-11-24T01:45:30.000Z"
-      },
-      {
         "time": "11:28",
         "title": "工作機械用ロータリージョイント市場調査：規模・状況・調べ方・算出方法",
         "source": "アットプレス",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9LYTVZdjQ1ekMxUG9BTGV1UGlqR1BHX2F4VzFzNFZkUzRJdXBmNWlqdXJQWlBnaWl6ZV9YOVdkR2Zzc1E4TXdfX1NhZGF5NlE?oc=5",
         "publishedAt": "2026-11-24T02:28:00.000Z"
+      },
+      {
+        "time": "10:45",
+        "title": "【12/8(火)・9(水)・10(木)11:00‐】次世代設備保全クラウド「M2X」で何ができる？無料オンラインデモセミナー開催",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1vR21VdkRjT1B3ekFFMnJhMW54MGFMck8tNEczMFlLSkxyOVgxLWdIbFRuelIzR21XRW4yTnNnamg2Z0tVOGM4ZFZHX0xIVzVaS2x0R1JuNzk0X1k1NTVlby0zYmU0YTN0ZnhVRHNiNjdyTkpaTGZFcw?oc=5",
+        "publishedAt": "2026-11-24T01:45:30.000Z"
       },
       {
         "time": "17:57",
@@ -75,6 +75,13 @@
         "publishedAt": "2026-11-24T00:40:56.000Z"
       },
       {
+        "time": "12:34",
+        "title": "NVIDIAフアンCEO復帰 3つの懸念",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6603782?source=rss",
+        "publishedAt": "2026-11-24T03:34:48.000Z"
+      },
+      {
         "time": "09:19",
         "title": "タジキスタンがICC脱退を通告",
         "source": "Yahoo!ニュース",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6603686?source=rss",
         "publishedAt": "2026-11-23T07:50:15.000Z"
-      },
-      {
-        "time": "19:12",
-        "title": "ウがリビア沖で露軍艦を「撃沈」",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6603703?source=rss",
-        "publishedAt": "2026-11-23T10:12:22.000Z"
       }
     ],
     "economyHeadlines": [

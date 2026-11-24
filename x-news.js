@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-24T03:36:03.967Z",
+  "updatedAt": "2026-11-24T04:13:35.981Z",
   "items": [
     {
       "time": "11:44",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "野党 文科相への問責案提出で一致"
     },
     {
-      "time": "09:08",
-      "title": "障害者手帳交付遅れ調査怠る 宮城",
+      "time": "11:59",
+      "title": "排外的デマ激化 新校白紙の事例も",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603757?source=rss",
-      "publishedAt": "2026-11-24T00:08:58.000Z",
-      "xQuery": "障害者手帳交付遅れ調査怠る 宮城"
+      "url": "https://news.yahoo.co.jp/pickup/6603788?source=rss",
+      "publishedAt": "2026-11-24T02:59:56.000Z",
+      "xQuery": "排外的デマ激化 新校白紙の事例も"
     },
     {
       "time": "11:58",
