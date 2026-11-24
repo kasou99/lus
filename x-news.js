@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-24T09:36:01.217Z",
+  "updatedAt": "2026-11-24T10:11:00.078Z",
   "items": [
     {
       "time": "18:13",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "首相とICC赤根所長面会 支持伝達"
     },
     {
-      "time": "16:45",
-      "title": "作家の矢作俊彦さんが死去 76歳",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603813?source=rss",
-      "publishedAt": "2026-11-24T07:45:10.000Z",
-      "xQuery": "作家の矢作俊彦さんが死去 76歳"
-    },
-    {
       "time": "16:52",
       "title": "高市首相の到着時 タラップ故障か",
       "source": "Yahoo!ニュース",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6603823?source=rss",
       "publishedAt": "2026-11-24T08:51:58.000Z",
       "xQuery": "取材中拾った練習球売る 懲戒解雇"
+    },
+    {
+      "time": "17:41",
+      "title": "禁止解除の「GTA」サウジで人気",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603816?source=rss",
+      "publishedAt": "2026-11-24T08:41:28.000Z",
+      "xQuery": "禁止解除の「GTA」サウジで人気"
     }
   ]
 };
