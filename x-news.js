@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-24T11:35:56.854Z",
+  "updatedAt": "2026-11-24T12:17:15.606Z",
   "items": [
     {
       "time": "19:19",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "首相 関氏は説明責任果たしている"
     },
     {
-      "time": "18:13",
-      "title": "京王グループ 約1063万件漏えいか",
+      "time": "17:43",
+      "title": "重要土地法の改正案が衆院可決",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603825?source=rss",
-      "publishedAt": "2026-11-24T09:13:58.000Z",
-      "xQuery": "京王グループ 約1063万件漏えいか"
+      "url": "https://news.yahoo.co.jp/pickup/6603817?source=rss",
+      "publishedAt": "2026-11-24T08:43:20.000Z",
+      "xQuery": "重要土地法の改正案が衆院可決"
     },
     {
-      "time": "17:51",
-      "title": "取材中拾った練習球売る 懲戒解雇",
+      "time": "18:50",
+      "title": "個人消費判断 約3年ぶり下方修正",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603823?source=rss",
-      "publishedAt": "2026-11-24T08:51:58.000Z",
-      "xQuery": "取材中拾った練習球売る 懲戒解雇"
+      "url": "https://news.yahoo.co.jp/pickup/6603828?source=rss",
+      "publishedAt": "2026-11-24T09:50:22.000Z",
+      "xQuery": "個人消費判断 約3年ぶり下方修正"
     },
     {
       "time": "17:41",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "禁止解除の「GTA」サウジで人気"
     },
     {
-      "time": "20:16",
-      "title": "免許持たず美容手術疑い 3人逮捕",
+      "time": "21:08",
+      "title": "入湯税未納公表せず 立山町長謝罪",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603835?source=rss",
-      "publishedAt": "2026-11-24T11:16:02.000Z",
-      "xQuery": "免許持たず美容手術疑い 3人逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6603837?source=rss",
+      "publishedAt": "2026-11-24T12:08:01.000Z",
+      "xQuery": "入湯税未納公表せず 立山町長謝罪"
     }
   ]
 };
