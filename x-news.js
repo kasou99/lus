@@ -1,13 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-24T02:36:41.447Z",
+  "updatedAt": "2026-11-24T03:14:18.191Z",
   "items": [
     {
-      "time": "10:15",
-      "title": "日経平均 一時2800円超値上がり",
+      "time": "11:44",
+      "title": "野党 文科相への問責案提出で一致",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603771?source=rss",
-      "publishedAt": "2026-11-24T01:15:25.000Z",
-      "xQuery": "日経平均 一時2800円超値上がり"
+      "url": "https://news.yahoo.co.jp/pickup/6603783?source=rss",
+      "publishedAt": "2026-11-24T02:44:46.000Z",
+      "xQuery": "野党 文科相への問責案提出で一致"
+    },
+    {
+      "time": "09:08",
+      "title": "障害者手帳交付遅れ調査怠る 宮城",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603757?source=rss",
+      "publishedAt": "2026-11-24T00:08:58.000Z",
+      "xQuery": "障害者手帳交付遅れ調査怠る 宮城"
     },
     {
       "time": "10:28",
@@ -18,28 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "立憲 最大5万円給付案を参院提出"
     },
     {
-      "time": "09:19",
-      "title": "タジキスタンがICC脱退を通告",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603758?source=rss",
-      "publishedAt": "2026-11-24T00:19:01.000Z",
-      "xQuery": "タジキスタンがICC脱退を通告"
-    },
-    {
-      "time": "09:02",
-      "title": "フォークリフトが倒れ下敷き 死亡",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603756?source=rss",
-      "publishedAt": "2026-11-24T00:02:04.000Z",
-      "xQuery": "フォークリフトが倒れ下敷き 死亡"
-    },
-    {
       "time": "11:03",
       "title": "鉄鋼メーカー工場で爆発 1人けが",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6603774?source=rss",
       "publishedAt": "2026-11-24T02:03:55.000Z",
       "xQuery": "鉄鋼メーカー工場で爆発 1人けが"
+    },
+    {
+      "time": "11:58",
+      "title": "松屋の一人負け? 牛丼業界で明暗",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603780?source=rss",
+      "publishedAt": "2026-11-24T02:58:23.000Z",
+      "xQuery": "松屋の一人負け? 牛丼業界で明暗"
     }
   ]
 };
