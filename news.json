@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-11-24T19:09:17.823Z",
+  "updatedAt": "2026-11-24T19:36:00.534Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "15:07",
+        "title": "絶好調な工作機械関連業界向け板金製品",
+        "source": "マシニスト出版",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1JUHFYVS1ONXZmVXNTWWlSYmZNcFFNMko3bm5nYV9iSl9Rdi0xcVhoVG92MnVYU19kNFE0WWprODIyaUtVQVpjWE5Lb01lNThfUUNGaw?oc=5",
+        "publishedAt": "2026-11-24T06:07:08.000Z"
+      },
       {
         "time": "10:00",
         "title": "商社ＹＵＡＳＡが工作機械「通算5年保証」開始 メーカー保証終了後の故障に安心提供",
         "source": "MONOist",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBLZUwyNURET2JVcnVIcEpfcGpyeFAwb3h0V1dQTXR2bzZRb0RxcjhTaVZJaGtVeFA1d05zaVRkMWRqMkk4ZEVfWG0zZjdIbUREV3NremxhWTlWeFdXZjNSdWU5SW1QcENCOExKam9PMA?oc=5",
         "publishedAt": "2026-11-24T01:00:00.000Z"
-      },
-      {
-        "time": "13:25",
-        "title": "工作機械カバーとボックスで売上の8割 ― 総合力を武器に大手5社のニーズに応える",
-        "source": "マシニスト出版",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBodTVBTEwzUmxkLU9vdXlNRTRwT19QZ2R6VmdzUU1fZEo0Vnc0ZXBYNnRyU0FDbGUyazJJYVhMbWFMbjJIS3BydEFZOGxIR0VsYUZBNg?oc=5",
-        "publishedAt": "2026-11-24T04:25:52.000Z"
       },
       {
         "time": "11:28",
@@ -31,6 +31,13 @@
         "publishedAt": "2026-11-24T00:35:47.000Z"
       },
       {
+        "time": "05:00",
+        "title": "東大など、ミネラルキャストで工作機械補強の新技術 振動・熱変形を抑制",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9DcnozaXJjV2JUY3hMVG40MDdMTmRxbmlxcHh5bldIUHh5TDF2Q3NEMXVjYUxkbDhJN1FzclVmeW9CSUFhTzQ3NWFua3BzaU5oXzNrNHVyNUc?oc=5",
+        "publishedAt": "2026-11-23T20:00:00.000Z"
+      },
+      {
         "time": "10:39",
         "title": "AIと会話しながら、気づいたその場で保全記録を残せる──設備保全クラウド「ミロクルカルテ」の「音声入力ガイド」が対話型に進化",
         "source": "山陽新聞",
@@ -45,18 +52,11 @@
         "publishedAt": "2026-11-24T01:45:25.000Z"
       },
       {
-        "time": "15:06",
-        "title": "日本CNCスピンドルチラー市場：主要メーカー、競争環境、製品トレンド2026-2032",
-        "source": "アットプレス",
-        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBQSVEwdS03VjNoYmhVamgtRDBxMG95akwwM3h2MDhjakhIMTgwaWNQVUk2b0UyTTF1RElxVzVLM0ZtbEtFQkQ4YXhCc3Nidw?oc=5",
-        "publishedAt": "2026-11-24T06:06:00.000Z"
-      },
-      {
-        "time": "15:26",
-        "title": "スピンドルチラーの競争環境評価：企業別シェア、売上規模、成長ポテンシャル2026-2032",
-        "source": "アットプレス",
-        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1xNDQxcjBmQU90WTZlQTRobDBzU2dNZjlKeDlrc2gzU3JSLU1UbWN3NndWajZqS0FfbWtJX0hTbHJKWnplcTFrdWp3RWZvQQ?oc=5",
-        "publishedAt": "2026-11-24T06:26:00.000Z"
+        "time": "13:25",
+        "title": "工作機械カバーとボックスで売上の8割 ― 総合力を武器に大手5社のニーズに応える",
+        "source": "マシニスト出版",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBodTVBTEwzUmxkLU9vdXlNRTRwT19QZ2R6VmdzUU1fZEo0Vnc0ZXBYNnRyU0FDbGUyazJJYVhMbWFMbjJIS3BydEFZOGxIR0VsYUZBNg?oc=5",
+        "publishedAt": "2026-11-24T04:25:52.000Z"
       }
     ],
     "worldHeadlines": [
