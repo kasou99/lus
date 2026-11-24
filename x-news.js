@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-24T07:13:05.440Z",
+  "updatedAt": "2026-11-24T07:35:56.265Z",
   "items": [
+    {
+      "time": "15:38",
+      "title": "政府初の防災「国家戦略」案判明",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603804?source=rss",
+      "publishedAt": "2026-11-24T06:38:58.000Z",
+      "xQuery": "政府初の防災「国家戦略」案判明"
+    },
     {
       "time": "14:52",
       "title": "東電 廃炉・復興で新組織設立へ",
@@ -8,14 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6603802?source=rss",
       "publishedAt": "2026-11-24T05:52:46.000Z",
       "xQuery": "東電 廃炉・復興で新組織設立へ"
-    },
-    {
-      "time": "14:08",
-      "title": "自民「宇宙庁」早期実現の提言案",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603797?source=rss",
-      "publishedAt": "2026-11-24T05:08:09.000Z",
-      "xQuery": "自民「宇宙庁」早期実現の提言案"
     },
     {
       "time": "14:34",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "交通誘導中にはねられる 男性死亡"
     },
     {
-      "time": "14:04",
-      "title": "トラックに巻き込まれ 高校生死亡",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603798?source=rss",
-      "publishedAt": "2026-11-24T05:04:06.000Z",
-      "xQuery": "トラックに巻き込まれ 高校生死亡"
-    },
-    {
       "time": "12:34",
       "title": "NVIDIAフアンCEO復帰 3つの懸念",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6603782?source=rss",
       "publishedAt": "2026-11-24T03:34:48.000Z",
       "xQuery": "NVIDIAフアンCEO復帰 3つの懸念"
+    },
+    {
+      "time": "15:57",
+      "title": "ヴェレダ クレカ4万件超漏えいか",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603807?source=rss",
+      "publishedAt": "2026-11-24T06:57:01.000Z",
+      "xQuery": "ヴェレダ クレカ4万件超漏えいか"
     }
   ]
 };
