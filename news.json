@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T18:13:36.720Z",
+  "updatedAt": "2026-11-24T18:35:14.250Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -8,13 +8,6 @@
         "source": "MONOist",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBLZUwyNURET2JVcnVIcEpfcGpyeFAwb3h0V1dQTXR2bzZRb0RxcjhTaVZJaGtVeFA1d05zaVRkMWRqMkk4ZEVfWG0zZjdIbUREV3NremxhWTlWeFdXZjNSdWU5SW1QcENCOExKam9PMA?oc=5",
         "publishedAt": "2026-11-24T01:00:00.000Z"
-      },
-      {
-        "time": "11:28",
-        "title": "工作機械用ロータリージョイント市場調査：規模・状況・調べ方・算出方法",
-        "source": "Newscast.jp",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5UZDZETEswMWxWemZCSjlzZ3E3enYydm42blpoaE9WRjhjQVNnVmFEalk1cXVqTjgzMWlMaEdzRHo3SUNicW9GTE8yU1VzTnc?oc=5",
-        "publishedAt": "2026-11-24T02:28:00.000Z"
       },
       {
         "time": "09:35",
@@ -38,6 +31,13 @@
         "publishedAt": "2026-11-24T01:45:25.000Z"
       },
       {
+        "time": "11:28",
+        "title": "工作機械用ロータリージョイント市場調査：規模・状況・調べ方・算出方法",
+        "source": "アットプレス",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9LYTVZdjQ1ekMxUG9BTGV1UGlqR1BHX2F4VzFzNFZkUzRJdXBmNWlqdXJQWlBnaWl6ZV9YOVdkR2Zzc1E4TXdfX1NhZGF5NlE?oc=5",
+        "publishedAt": "2026-11-24T02:28:00.000Z"
+      },
+      {
         "time": "15:06",
         "title": "日本CNCスピンドルチラー市場：主要メーカー、競争環境、製品トレンド2026-2032",
         "source": "アットプレス",
@@ -45,18 +45,18 @@
         "publishedAt": "2026-11-24T06:06:00.000Z"
       },
       {
-        "time": "09:25",
-        "title": "光学スケール世界市場の最新動向：2032年に732百万米ドル規模へ到達見込み（2026年版）",
-        "source": "Newscast.jp",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ncXhHTzJ2ZnQzX1VGQlE4MXBYZmFMRWNZUnFvRk5tMWxkc042ZXpTcWo4VHNKTm9DeTFFUUdkWHhfTHNMS2Nsd29GNHpOWWM?oc=5",
-        "publishedAt": "2026-11-24T00:25:00.000Z"
-      },
-      {
         "time": "15:26",
         "title": "スピンドルチラーの競争環境評価：企業別シェア、売上規模、成長ポテンシャル2026-2032",
         "source": "アットプレス",
         "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1xNDQxcjBmQU90WTZlQTRobDBzU2dNZjlKeDlrc2gzU3JSLU1UbWN3NndWajZqS0FfbWtJX0hTbHJKWnplcTFrdWp3RWZvQQ?oc=5",
         "publishedAt": "2026-11-24T06:26:00.000Z"
+      },
+      {
+        "time": "09:25",
+        "title": "光学スケール世界市場の最新動向：2032年に732百万米ドル規模へ到達見込み（2026年版）",
+        "source": "Newscast.jp",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ncXhHTzJ2ZnQzX1VGQlE4MXBYZmFMRWNZUnFvRk5tMWxkc042ZXpTcWo4VHNKTm9DeTFFUUdkWHhfTHNMS2Nsd29GNHpOWWM?oc=5",
+        "publishedAt": "2026-11-24T00:25:00.000Z"
       }
     ],
     "worldHeadlines": [
