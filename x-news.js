@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-24T10:36:20.967Z",
+  "updatedAt": "2026-11-24T11:11:03.134Z",
   "items": [
+    {
+      "time": "19:19",
+      "title": "首相 関氏は説明責任果たしている",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603831?source=rss",
+      "publishedAt": "2026-11-24T10:19:11.000Z",
+      "xQuery": "首相 関氏は説明責任果たしている"
+    },
     {
       "time": "18:13",
       "title": "京王グループ 約1063万件漏えいか",
@@ -16,14 +24,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6603812?source=rss",
       "publishedAt": "2026-11-24T07:51:52.000Z",
       "xQuery": "首相とICC赤根所長面会 支持伝達"
-    },
-    {
-      "time": "16:52",
-      "title": "高市首相の到着時 タラップ故障か",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603810?source=rss",
-      "publishedAt": "2026-11-24T07:52:18.000Z",
-      "xQuery": "高市首相の到着時 タラップ故障か"
     },
     {
       "time": "17:51",

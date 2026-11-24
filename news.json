@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T10:36:20.075Z",
+  "updatedAt": "2026-11-24T11:11:02.203Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -15,6 +15,13 @@
         "source": "NIDEC CORPORATION",
         "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYVNsbGpmd3ZDcnhJV19ZZGp5VmZiQi1id3lGV1JMdElSVUVvMWJpbS04blBoUW16Z2tPYktZclJWV3JoWlQyY0VMcXBkV2k4M2hmY3hQVUh2MWQ4OGQ1UHJETFp3RFFFa3A2TlBKSk9XTXUzX0d1UVktOHlnYVZhMFRxaTMta194WkozUkd3?oc=5",
         "publishedAt": "2026-11-24T00:35:47.000Z"
+      },
+      {
+        "time": "10:39",
+        "title": "AIと会話しながら、気づいたその場で保全記録を残せる──設備保全クラウド「ミロクルカルテ」の「音声入力ガイド」が対話型に進化",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4wV29SZUJ5Z0w1QUhxODlEWFZLaFBTS1pBRHFTbEhBcllNX0VTQVFKQjUwYVpOYWJidVROSTVUOWFDc1FTd0dGTVVPUVFKRkwtTEZrMzhlczBvWWFPWExPczk4VzU5Wng0WEhJcEpCd0E?oc=5",
+        "publishedAt": "2026-11-24T01:39:18.000Z"
       },
       {
         "time": "09:25",
@@ -38,13 +45,6 @@
         "publishedAt": "2026-11-24T02:28:00.000Z"
       },
       {
-        "time": "08:00",
-        "title": "AIと会話しながら、気づいたその場で保全記録を残せる──設備保全クラウド「ミロクルカルテ」の「音声入力ガイド」が対話型に進化",
-        "source": "PR TIMES",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9nWnQ0VEUzcU1ZVEt4SUFXeUtJX0I0ZjRvYWgtQUd6WXJxV0EtWjQwY3p4amJlLV9jSWJQQXpCMWVqUXFvMUVNaFE5di1tSExXMU5BMmhyNmxldkV2YjdWemhUUjdndlJQV0E?oc=5",
-        "publishedAt": "2026-11-23T23:00:02.000Z"
-      },
-      {
         "time": "15:06",
         "title": "日本CNCスピンドルチラー市場：主要メーカー、競争環境、製品トレンド2026-2032",
         "source": "アットプレス",
@@ -66,6 +66,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6603816?source=rss",
         "publishedAt": "2026-11-24T08:41:28.000Z"
+      },
+      {
+        "time": "19:43",
+        "title": "台湾 フアン氏のCEO復帰に沸く",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6603832?source=rss",
+        "publishedAt": "2026-11-24T10:43:18.000Z"
       },
       {
         "time": "06:28",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6603810?source=rss",
         "publishedAt": "2026-11-24T07:52:18.000Z"
-      },
-      {
-        "time": "09:19",
-        "title": "タジキスタンがICC脱退を通告",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6603758?source=rss",
-        "publishedAt": "2026-11-24T00:19:01.000Z"
       }
     ],
     "economyHeadlines": [
