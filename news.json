@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T21:36:05.733Z",
+  "updatedAt": "2026-11-24T22:09:54.957Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -8,6 +8,13 @@
         "source": "TBS NEWS DIG",
         "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1lUnVfUGlvMFhxdEV2NTZzdHd2bTVYT3luOHcycm4xM25sRE1sLVdVeXF3S240U0l0RzZHUmZIMGdLZ0hCVFU1dFkxRWxjLTh2OWgwUHFldkZBSHc1RUVZ?oc=5",
         "publishedAt": "2026-11-24T09:19:31.000Z"
+      },
+      {
+        "time": "06:01",
+        "title": "フィジカルAIの主戦場に!?…ロボと環境の情報統合、工作機械が突破口になる理由",
+        "source": "ニュースイッチ by 日刊工業新聞社",
+        "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE01aEttcFFMMXVQZkZ6Vzk0cXZONExVTENacjFGa0hXR2pQLThGZUlHaXVzVHhkMnBpelc1dC1iQlpDdw?oc=5",
+        "publishedAt": "2026-11-24T21:01:00.000Z"
       },
       {
         "time": "15:07",
@@ -50,13 +57,6 @@
         "source": "Infoseek",
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5valFWRWttR0tiYThvcHZqMlBDdVk4cklTVl9FTzRKaVNna3RCX2dQMzVDdlA3V0Rac3BkblBqdXdzZmN4aWQ1SmR3bzZDSGxRNnVpeEswUFBhODNFVkJDWjRPSW44X0gxR3FlcUgweWxNZw?oc=5",
         "publishedAt": "2026-11-24T01:45:25.000Z"
-      },
-      {
-        "time": "13:25",
-        "title": "工作機械カバーとボックスで売上の8割 ― 総合力を武器に大手5社のニーズに応える",
-        "source": "マシニスト出版",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBodTVBTEwzUmxkLU9vdXlNRTRwT19QZ2R6VmdzUU1fZEo0Vnc0ZXBYNnRyU0FDbGUyazJJYVhMbWFMbjJIS3BydEFZOGxIR0VsYUZBNg?oc=5",
-        "publishedAt": "2026-11-24T04:25:52.000Z"
       }
     ],
     "worldHeadlines": [

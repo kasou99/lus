@@ -1,6 +1,22 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-24T21:36:06.578Z",
+  "updatedAt": "2026-11-24T22:09:56.008Z",
   "items": [
+    {
+      "time": "06:51",
+      "title": "副首都 来年秋に複数同時に指定",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603860?source=rss",
+      "publishedAt": "2026-11-24T21:51:04.000Z",
+      "xQuery": "副首都 来年秋に複数同時に指定"
+    },
+    {
+      "time": "22:03",
+      "title": "支援金「最大年27万円」の給付案",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603841?source=rss",
+      "publishedAt": "2026-11-24T13:03:48.000Z",
+      "xQuery": "支援金「最大年27万円」の給付案"
+    },
     {
       "time": "21:39",
       "title": "EUのEV優遇 修正案でも日本除外",
@@ -10,28 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "EUのEV優遇 修正案でも日本除外"
     },
     {
-      "time": "22:13",
-      "title": "首相 第2次補正予算案編成を指示",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603844?source=rss",
-      "publishedAt": "2026-11-24T13:13:01.000Z",
-      "xQuery": "首相 第2次補正予算案編成を指示"
-    },
-    {
       "time": "23:10",
       "title": "上海市トップを調査 規律違反疑い",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6603853?source=rss",
       "publishedAt": "2026-11-24T14:10:09.000Z",
       "xQuery": "上海市トップを調査 規律違反疑い"
-    },
-    {
-      "time": "22:03",
-      "title": "支援金「最大年27万円」の給付案",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603841?source=rss",
-      "publishedAt": "2026-11-24T13:03:48.000Z",
-      "xQuery": "支援金「最大年27万円」の給付案"
     },
     {
       "time": "23:55",
