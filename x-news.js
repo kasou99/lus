@@ -1,37 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-24T13:11:59.469Z",
+  "updatedAt": "2026-11-24T13:36:12.042Z",
   "items": [
     {
-      "time": "20:38",
-      "title": "衆院定数31削減法案 成立の行方は",
+      "time": "22:13",
+      "title": "首相 第2次補正予算案編成を指示",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603821?source=rss",
-      "publishedAt": "2026-11-24T11:38:00.000Z",
-      "xQuery": "衆院定数31削減法案 成立の行方は"
+      "url": "https://news.yahoo.co.jp/pickup/6603844?source=rss",
+      "publishedAt": "2026-11-24T13:13:01.000Z",
+      "xQuery": "首相 第2次補正予算案編成を指示"
     },
     {
-      "time": "17:43",
-      "title": "重要土地法の改正案が衆院可決",
+      "time": "21:39",
+      "title": "EUのEV優遇 修正案でも日本除外",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603817?source=rss",
-      "publishedAt": "2026-11-24T08:43:20.000Z",
-      "xQuery": "重要土地法の改正案が衆院可決"
+      "url": "https://news.yahoo.co.jp/pickup/6603839?source=rss",
+      "publishedAt": "2026-11-24T12:39:02.000Z",
+      "xQuery": "EUのEV優遇 修正案でも日本除外"
     },
     {
-      "time": "18:50",
-      "title": "個人消費判断 約3年ぶり下方修正",
+      "time": "22:03",
+      "title": "支援金「最大年27万円」の給付案",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603828?source=rss",
-      "publishedAt": "2026-11-24T09:50:22.000Z",
-      "xQuery": "個人消費判断 約3年ぶり下方修正"
-    },
-    {
-      "time": "21:08",
-      "title": "入湯税未納公表せず 立山町長謝罪",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603837?source=rss",
-      "publishedAt": "2026-11-24T12:08:01.000Z",
-      "xQuery": "入湯税未納公表せず 立山町長謝罪"
+      "url": "https://news.yahoo.co.jp/pickup/6603841?source=rss",
+      "publishedAt": "2026-11-24T13:03:48.000Z",
+      "xQuery": "支援金「最大年27万円」の給付案"
     },
     {
       "time": "21:33",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6603838?source=rss",
       "publishedAt": "2026-11-24T12:33:46.000Z",
       "xQuery": "詐欺広告巡り 前澤友作氏側が控訴"
+    },
+    {
+      "time": "20:16",
+      "title": "免許持たず美容手術疑い 3人逮捕",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603835?source=rss",
+      "publishedAt": "2026-11-24T11:16:02.000Z",
+      "xQuery": "免許持たず美容手術疑い 3人逮捕"
     }
   ]
 };
