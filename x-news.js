@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-24T01:39:22.701Z",
+  "updatedAt": "2026-11-24T02:16:10.422Z",
   "items": [
     {
       "time": "10:15",
@@ -18,20 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "文科相 自宅家賃を政治資金で支出"
     },
     {
-      "time": "09:40",
-      "title": "フアン氏のCEO復帰 米議会反発",
+      "time": "09:19",
+      "title": "タジキスタンがICC脱退を通告",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603761?source=rss",
-      "publishedAt": "2026-11-24T00:40:56.000Z",
-      "xQuery": "フアン氏のCEO復帰 米議会反発"
-    },
-    {
-      "time": "09:47",
-      "title": "NVIDIA時価総額 1日で151兆円増",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603765?source=rss",
-      "publishedAt": "2026-11-24T00:47:37.000Z",
-      "xQuery": "NVIDIA時価総額 1日で151兆円増"
+      "url": "https://news.yahoo.co.jp/pickup/6603758?source=rss",
+      "publishedAt": "2026-11-24T00:19:01.000Z",
+      "xQuery": "タジキスタンがICC脱退を通告"
     },
     {
       "time": "09:02",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6603756?source=rss",
       "publishedAt": "2026-11-24T00:02:04.000Z",
       "xQuery": "フォークリフトが倒れ下敷き 死亡"
+    },
+    {
+      "time": "11:03",
+      "title": "鉄鋼メーカー工場で爆発 1人けが",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603774?source=rss",
+      "publishedAt": "2026-11-24T02:03:55.000Z",
+      "xQuery": "鉄鋼メーカー工場で爆発 1人けが"
     }
   ]
 };
