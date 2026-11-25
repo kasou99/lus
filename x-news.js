@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-25T08:36:17.635Z",
+  "updatedAt": "2026-11-25T09:13:22.412Z",
   "items": [
     {
-      "time": "16:18",
-      "title": "オンライン賭博の判事に罷免判決",
+      "time": "17:04",
+      "title": "介護保険料 一部高齢者負担増検討",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603934?source=rss",
-      "publishedAt": "2026-11-25T07:18:08.000Z",
-      "xQuery": "オンライン賭博の判事に罷免判決"
+      "url": "https://news.yahoo.co.jp/pickup/6603939?source=rss",
+      "publishedAt": "2026-11-25T08:04:47.000Z",
+      "xQuery": "介護保険料 一部高齢者負担増検討"
     },
     {
-      "time": "15:19",
-      "title": "福岡市で刺された男性死亡 男逃走",
+      "time": "18:10",
+      "title": "福岡で男性刺され死亡 凶器発見か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603926?source=rss",
-      "publishedAt": "2026-11-25T06:19:28.000Z",
-      "xQuery": "福岡市で刺された男性死亡 男逃走"
+      "url": "https://news.yahoo.co.jp/pickup/6603952?source=rss",
+      "publishedAt": "2026-11-25T09:10:48.000Z",
+      "xQuery": "福岡で男性刺され死亡 凶器発見か"
     },
     {
       "time": "16:59",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "プルデンシャル 新規契約が92%減"
     },
     {
-      "time": "17:30",
-      "title": "クマ巡る抗議 前橋市役所に数百件",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603945?source=rss",
-      "publishedAt": "2026-11-25T08:30:54.000Z",
-      "xQuery": "クマ巡る抗議 前橋市役所に数百件"
-    },
-    {
       "time": "15:58",
       "title": "妻殺害した疑い 医師の男を再逮捕",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6603929?source=rss",
       "publishedAt": "2026-11-25T06:58:10.000Z",
       "xQuery": "妻殺害した疑い 医師の男を再逮捕"
+    },
+    {
+      "time": "16:36",
+      "title": "おでんツンツンで大炎上 男性の今",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603937?source=rss",
+      "publishedAt": "2026-11-25T07:36:10.000Z",
+      "xQuery": "おでんツンツンで大炎上 男性の今"
     }
   ]
 };

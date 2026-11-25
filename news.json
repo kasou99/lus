@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T08:36:16.648Z",
+  "updatedAt": "2026-11-25T09:13:21.598Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -149,11 +149,11 @@
     ],
     "localHeadlines": [
       {
-        "time": "15:19",
-        "title": "福岡市で刺された男性死亡 男逃走",
+        "time": "18:10",
+        "title": "福岡で男性刺され死亡 凶器発見か",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6603926?source=rss",
-        "publishedAt": "2026-11-25T06:19:28.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6603952?source=rss",
+        "publishedAt": "2026-11-25T09:10:48.000Z"
       },
       {
         "time": "15:58",
@@ -161,6 +161,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6603929?source=rss",
         "publishedAt": "2026-11-25T06:58:10.000Z"
+      },
+      {
+        "time": "17:42",
+        "title": "住人死亡の火災 放火疑いで男逮捕",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6603948?source=rss",
+        "publishedAt": "2026-11-25T08:42:25.000Z"
       },
       {
         "time": "17:30",
@@ -175,13 +182,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6603927?source=rss",
         "publishedAt": "2026-11-25T06:37:45.000Z"
-      },
-      {
-        "time": "15:51",
-        "title": "郡山不明12歳 有力な手掛かりなく",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6603930?source=rss",
-        "publishedAt": "2026-11-25T06:51:36.000Z"
       },
       {
         "time": "22:34",
