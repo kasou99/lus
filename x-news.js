@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-25T13:11:52.887Z",
+  "updatedAt": "2026-11-25T13:36:13.529Z",
   "items": [
     {
-      "time": "22:04",
-      "title": "福岡刺殺 確保の男を別容疑で逮捕",
+      "time": "22:17",
+      "title": "問責決議案巡り 与野党攻防が激化",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603982?source=rss",
-      "publishedAt": "2026-11-25T13:04:10.000Z",
-      "xQuery": "福岡刺殺 確保の男を別容疑で逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6603980?source=rss",
+      "publishedAt": "2026-11-25T13:17:28.000Z",
+      "xQuery": "問責決議案巡り 与野党攻防が激化"
     },
     {
       "time": "18:57",
@@ -18,28 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "国立成育医療研究センターで不正"
     },
     {
+      "time": "22:04",
+      "title": "福岡刺殺 確保の男を別容疑で逮捕",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603982?source=rss",
+      "publishedAt": "2026-11-25T13:04:10.000Z",
+      "xQuery": "福岡刺殺 確保の男を別容疑で逮捕"
+    },
+    {
+      "time": "22:01",
+      "title": "パイロット不足 航空の2030年問題",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603979?source=rss",
+      "publishedAt": "2026-11-25T13:01:50.000Z",
+      "xQuery": "パイロット不足 航空の2030年問題"
+    },
+    {
       "time": "20:38",
       "title": "JAXA 月探査車の試験走行を公開",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6603968?source=rss",
       "publishedAt": "2026-11-25T11:38:25.000Z",
       "xQuery": "JAXA 月探査車の試験走行を公開"
-    },
-    {
-      "time": "21:10",
-      "title": "東海テレビに2.4億円所得隠し指摘",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603974?source=rss",
-      "publishedAt": "2026-11-25T12:10:10.000Z",
-      "xQuery": "東海テレビに2.4億円所得隠し指摘"
-    },
-    {
-      "time": "19:08",
-      "title": "トヨタ「新型カムリ」12月に発売",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603964?source=rss",
-      "publishedAt": "2026-11-25T10:08:02.000Z",
-      "xQuery": "トヨタ「新型カムリ」12月に発売"
     }
   ]
 };
