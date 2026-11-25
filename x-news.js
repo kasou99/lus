@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-25T05:36:12.052Z",
+  "updatedAt": "2026-11-25T06:20:30.032Z",
   "items": [
     {
       "time": "11:15",
@@ -10,12 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "米比首脳会談の合意巡り食い違い"
     },
     {
-      "time": "09:55",
-      "title": "AI登場「創造性」問い直す機会に",
+      "time": "14:31",
+      "title": "ウが露船撃沈 リビアで行った背景",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603882?source=rss",
-      "publishedAt": "2026-11-25T00:55:13.000Z",
-      "xQuery": "AI登場「創造性」問い直す機会に"
+      "url": "https://news.yahoo.co.jp/pickup/6603909?source=rss",
+      "publishedAt": "2026-11-25T05:31:27.000Z",
+      "xQuery": "ウが露船撃沈 リビアで行った背景"
+    },
+    {
+      "time": "12:06",
+      "title": "中国ファーウェイに有罪評決 米",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603905?source=rss",
+      "publishedAt": "2026-11-25T03:06:55.000Z",
+      "xQuery": "中国ファーウェイに有罪評決 米"
     },
     {
       "time": "13:49",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "福岡市で人刺されたと通報 男逃走"
     },
     {
-      "time": "11:47",
-      "title": "消えた技能実習生 今も6600人不明",
+      "time": "14:27",
+      "title": "中国の富裕層マネーが香港に 背景",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603898?source=rss",
-      "publishedAt": "2026-11-25T02:47:00.000Z",
-      "xQuery": "消えた技能実習生 今も6600人不明"
-    },
-    {
-      "time": "12:02",
-      "title": "Microsoft 障害受けコードレッド",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603903?source=rss",
-      "publishedAt": "2026-11-25T03:02:26.000Z",
-      "xQuery": "Microsoft 障害受けコードレッド"
+      "url": "https://news.yahoo.co.jp/pickup/6603920?source=rss",
+      "publishedAt": "2026-11-25T05:27:54.000Z",
+      "xQuery": "中国の富裕層マネーが香港に 背景"
     }
   ]
 };

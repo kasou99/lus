@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-11-25T05:36:11.304Z",
+  "updatedAt": "2026-11-25T06:20:28.946Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "15:00",
+        "title": "10月の工作機械受注、前年比42%増 AI関連需要の好調持続",
+        "source": "日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9USlkxT1lZbUF6RjBRVlRYVFBhQkxoSEZfa1VCVEt4bFdYd3ZZVkZFLU9VQV9wUVBFeHlldlNEYm42WlJfOXExSmZUQkxaVmtVa0ZDUG5QQjNiQXQ4NDdTRG1xSExUY1FDRjJ6Mg?oc=5",
+        "publishedAt": "2026-11-25T06:00:00.000Z"
+      },
+      {
+        "time": "15:00",
+        "title": "１０月工作機械受注は２０４４億円で歴代２位、前年比４割超増、北米は３カ月連続過去最高(ウエルスアドバイザー)",
+        "source": "Yahoo!ファイナンス",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOOWRGb1pvQ1djVEVoMWpiR1lWa3kyRldIV2lfT20ybWI1cGVjbG5TVl9oUVN5dDNmSGZQYkNFU25hbFlCOEhENWhzOFhxM2JTMUdVZThFMnl6VTRDV1g3alRaejdtN1JUZG1FOXBSUG5YZjNabWxBbkIwQjFFNlgxSmdSUG5pMFE?oc=5",
+        "publishedAt": "2026-11-25T06:00:23.000Z"
+      },
       {
         "time": "10:23",
         "title": "プレスリリース：［設備保全DX］ものづくり ワールド [福岡]に次世代設備保全クラウド「M2X」ブースを出展 新機能「動画マニュアル」を先行公開（PR TIMES）",
@@ -17,11 +31,18 @@
         "publishedAt": "2026-11-24T21:01:00.000Z"
       },
       {
-        "time": "10:45",
+        "time": "09:00",
         "title": "アンドパッド、製造業向けに設備保全の課題を根本から解決するAI-BPO・コンサルティングサービス「ANDPAD AI設備管理課」を提供開始",
-        "source": "Infoseek",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1URV9EOXJ4cTRuT1kwSjhPLTE1S3pveUtHYkJOLUgwOEI4R05SeDRDa0szUVhESjg1cWZScXkyT2hWTFNhUkhnYVJMTGcxc0Z3cEJLel9XbFljaTM2Z093SUNNbFhFbXByakNIbHlXSW1NQQ?oc=5",
-        "publishedAt": "2026-11-25T01:45:27.000Z"
+        "source": "PR TIMES",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE52ZllYSHU1bnEtaUY2djhxempNa0tCRndNV1hnT1RYN0NSLVdDbzg4RjFpVkt5cENCMHg1ZS1tN01qNUViZExRc2FuRnV3UlRwZGZrcWZKRkxhNDRVeW50clBTUWFrcFhEMFE?oc=5",
+        "publishedAt": "2026-11-25T00:00:02.000Z"
+      },
+      {
+        "time": "15:26",
+        "title": "スピンドルチラーの競争環境評価：企業別シェア、売上規模、成長ポテンシャル2026-2032",
+        "source": "アットプレス",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1xNDQxcjBmQU90WTZlQTRobDBzU2dNZjlKeDlrc2gzU3JSLU1UbWN3NndWajZqS0FfbWtJX0hTbHJKWnplcTFrdWp3RWZvQQ?oc=5",
+        "publishedAt": "2026-11-24T06:26:00.000Z"
       },
       {
         "time": "07:25",
@@ -36,27 +57,6 @@
         "source": "ITmedia",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBvQkIxVTZJczgxeGpRT04tV3NoM1NWV0s2eHhSZGtaQWt6dlJValZjMmk5d1VEcnVOQjRDRUJpaGVyUnlobjVCZF95LUlnOFYxZFEtLUNiQmloYWdtWWRUS25oanR5U3BWUzJFTA?oc=5",
         "publishedAt": "2026-11-25T02:00:00.000Z"
-      },
-      {
-        "time": "15:07",
-        "title": "絶好調な工作機械関連業界向け板金製品",
-        "source": "マシニスト出版",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1JUHFYVS1ONXZmVXNTWWlSYmZNcFFNMko3bm5nYV9iSl9Rdi0xcVhoVG92MnVYU19kNFE0WWprODIyaUtVQVpjWE5Lb01lNThfUUNGaw?oc=5",
-        "publishedAt": "2026-11-24T06:07:08.000Z"
-      },
-      {
-        "time": "05:00",
-        "title": "AI活用前提に制度再設計 政府、AX推進で改革指針",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1IMzVwcWZlcHRFcDkxQVNWMGQ3MkN0ZFFaZ2c4Nlk0c012eXBQUFRDeDdSTUhla2pYZWJCQmVqcXVDcWNETHhNVWxQUmIxdnVuWDhvSE9zdkVpTUpYYlY5QmprWmRQdFJxeUgwSTJ4dkgyLVJtY3FWLWFkUQ?oc=5",
-        "publishedAt": "2026-11-24T20:00:00.000Z"
-      },
-      {
-        "time": "11:00",
-        "title": "【無料ウェビナー】製造業4社の事例から学ぶ「設備を止めない保全DX」の進め方を12月4日に開催！",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9MeUM1eUV6Yzl4WjNiRk5aN0ZTVXFWcU04TGl1V3BTZ2VXRHpEclhQcG1ub2c2T1BMS2dPc3VkT0FYWmFGT3NpQXRVaDlXRTlyU3R5VkU1SnAxbUZLLVZKVHNnQm85dm11?oc=5",
-        "publishedAt": "2026-11-25T02:00:21.000Z"
       }
     ],
     "worldHeadlines": [
@@ -133,27 +133,27 @@
         "publishedAt": "2026-11-25T02:37:57.000Z"
       },
       {
+        "time": "14:42",
+        "title": "擬態段ボールも 置き配の盗難対策",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6603919?source=rss",
+        "publishedAt": "2026-11-25T05:42:06.000Z"
+      },
+      {
         "time": "09:16",
         "title": "新型ウォークマン 歴代最高65万円",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6603878?source=rss",
         "publishedAt": "2026-11-25T00:16:25.000Z"
-      },
-      {
-        "time": "11:10",
-        "title": "バンダイなど3社連携 模倣品対応",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6603893?source=rss",
-        "publishedAt": "2026-11-25T02:10:21.000Z"
       }
     ],
     "localHeadlines": [
       {
-        "time": "13:49",
-        "title": "福岡市で人刺されたと通報 男逃走",
+        "time": "15:19",
+        "title": "福岡市で刺された男性死亡 男逃走",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6603917?source=rss",
-        "publishedAt": "2026-11-25T04:49:55.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6603926?source=rss",
+        "publishedAt": "2026-11-25T06:19:28.000Z"
       },
       {
         "time": "11:32",
