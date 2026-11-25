@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T10:36:24.437Z",
+  "updatedAt": "2026-11-25T11:10:59.050Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,18 +38,18 @@
         "publishedAt": "2026-11-25T01:23:19.000Z"
       },
       {
-        "time": "15:00",
-        "title": "10月の工作機械受注、前年比42%増 AI関連需要の好調持続",
-        "source": "日本経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9USlkxT1lZbUF6RjBRVlRYVFBhQkxoSEZfa1VCVEt4bFdYd3ZZVkZFLU9VQV9wUVBFeHlldlNEYm42WlJfOXExSmZUQkxaVmtVa0ZDUG5QQjNiQXQ4NDdTRG1xSExUY1FDRjJ6Mg?oc=5",
-        "publishedAt": "2026-11-25T06:00:00.000Z"
-      },
-      {
         "time": "06:01",
         "title": "フィジカルAIの主戦場に!?…ロボと環境の情報統合、工作機械が突破口になる理由",
         "source": "ニュースイッチ by 日刊工業新聞社",
         "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE01aEttcFFMMXVQZkZ6Vzk0cXZONExVTENacjFGa0hXR2pQLThGZUlHaXVzVHhkMnBpelc1dC1iQlpDdw?oc=5",
         "publishedAt": "2026-11-24T21:01:00.000Z"
+      },
+      {
+        "time": "15:00",
+        "title": "10月の工作機械受注、前年比42%増 AI関連需要の好調持続",
+        "source": "日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9USlkxT1lZbUF6RjBRVlRYVFBhQkxoSEZfa1VCVEt4bFdYd3ZZVkZFLU9VQV9wUVBFeHlldlNEYm42WlJfOXExSmZUQkxaVmtVa0ZDUG5QQjNiQXQ4NDdTRG1xSExUY1FDRjJ6Mg?oc=5",
+        "publishedAt": "2026-11-25T06:00:00.000Z"
       },
       {
         "time": "09:00",

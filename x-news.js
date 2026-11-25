@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-25T10:36:25.034Z",
+  "updatedAt": "2026-11-25T11:10:59.542Z",
   "items": [
     {
       "time": "17:04",
@@ -18,6 +18,14 @@ window.LUS_X_NEWS = {
       "xQuery": "福岡で男性刺され死亡 凶器発見か"
     },
     {
+      "time": "19:00",
+      "title": "ANA パイロット養成会社を設立",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603962?source=rss",
+      "publishedAt": "2026-11-25T10:00:10.000Z",
+      "xQuery": "ANA パイロット養成会社を設立"
+    },
+    {
       "time": "18:36",
       "title": "逮捕の徳島・阿波市長が辞任意向",
       "source": "Yahoo!ニュース",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6603964?source=rss",
       "publishedAt": "2026-11-25T10:08:02.000Z",
       "xQuery": "トヨタ「新型カムリ」12月に発売"
-    },
-    {
-      "time": "16:36",
-      "title": "おでんツンツンで大炎上 男性の今",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603937?source=rss",
-      "publishedAt": "2026-11-25T07:36:10.000Z",
-      "xQuery": "おでんツンツンで大炎上 男性の今"
     }
   ]
 };
