@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-25T11:36:20.164Z",
+  "updatedAt": "2026-11-25T12:17:18.032Z",
   "items": [
+    {
+      "time": "20:44",
+      "title": "福岡刺殺 関与疑いの男の身柄確保",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603970?source=rss",
+      "publishedAt": "2026-11-25T11:44:59.000Z",
+      "xQuery": "福岡刺殺 関与疑いの男の身柄確保"
+    },
     {
       "time": "18:57",
       "title": "国立成育医療研究センターで不正",
@@ -10,20 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "国立成育医療研究センターで不正"
     },
     {
-      "time": "17:04",
-      "title": "介護保険料 一部高齢者負担増検討",
+      "time": "20:38",
+      "title": "JAXA 月探査車の試験走行を公開",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603939?source=rss",
-      "publishedAt": "2026-11-25T08:04:47.000Z",
-      "xQuery": "介護保険料 一部高齢者負担増検討"
-    },
-    {
-      "time": "20:16",
-      "title": "福岡刺殺事件 男に任意で事情聴取",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603969?source=rss",
-      "publishedAt": "2026-11-25T11:16:54.000Z",
-      "xQuery": "福岡刺殺事件 男に任意で事情聴取"
+      "url": "https://news.yahoo.co.jp/pickup/6603968?source=rss",
+      "publishedAt": "2026-11-25T11:38:25.000Z",
+      "xQuery": "JAXA 月探査車の試験走行を公開"
     },
     {
       "time": "18:36",

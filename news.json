@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-25T11:36:18.888Z",
+  "updatedAt": "2026-11-25T12:17:17.054Z",
   "groups": {
     "machineHeadlines": [
       {
-        "time": "16:53",
-        "title": "工作機械のヤマザキマザック、自動化・工程集約に力 岐阜で展示会",
+        "time": "15:00",
+        "title": "10月の工作機械受注、前年比42%増 AI関連需要の好調持続",
         "source": "日本経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1WWTRfSE9waWJLOVRac3MtM2xfNHJYaFJQUmp2Ym9NYkJUWVY4SVdnWi1XSTM0YkZ0eGlyamwzeWVNQU1TeFR3VHRfdWFleFdDcVpiSDE0M0V1VjBfVHpkYURsV19DeW1tSC1sXw?oc=5",
-        "publishedAt": "2026-11-25T07:53:37.000Z"
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9USlkxT1lZbUF6RjBRVlRYVFBhQkxoSEZfa1VCVEt4bFdYd3ZZVkZFLU9VQV9wUVBFeHlldlNEYm42WlJfOXExSmZUQkxaVmtVa0ZDUG5QQjNiQXQ4NDdTRG1xSExUY1FDRjJ6Mg?oc=5",
+        "publishedAt": "2026-11-25T06:00:00.000Z"
       },
       {
         "time": "17:00",
@@ -45,18 +45,18 @@
         "publishedAt": "2026-11-24T21:01:00.000Z"
       },
       {
-        "time": "15:00",
-        "title": "10月の工作機械受注、前年比42%増 AI関連需要の好調持続",
+        "time": "16:53",
+        "title": "工作機械のヤマザキマザック、自動化・工程集約に力 岐阜で展示会",
         "source": "日本経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9USlkxT1lZbUF6RjBRVlRYVFBhQkxoSEZfa1VCVEt4bFdYd3ZZVkZFLU9VQV9wUVBFeHlldlNEYm42WlJfOXExSmZUQkxaVmtVa0ZDUG5QQjNiQXQ4NDdTRG1xSExUY1FDRjJ6Mg?oc=5",
-        "publishedAt": "2026-11-25T06:00:00.000Z"
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1WWTRfSE9waWJLOVRac3MtM2xfNHJYaFJQUmp2Ym9NYkJUWVY4SVdnWi1XSTM0YkZ0eGlyamwzeWVNQU1TeFR3VHRfdWFleFdDcVpiSDE0M0V1VjBfVHpkYURsV19DeW1tSC1sXw?oc=5",
+        "publishedAt": "2026-11-25T07:53:37.000Z"
       },
       {
-        "time": "09:00",
-        "title": "アンドパッド、製造業向けに設備保全の課題を根本から解決するAI-BPO・コンサルティングサービス「ANDPAD AI設備管理課」を提供開始",
-        "source": "PR TIMES",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE52ZllYSHU1bnEtaUY2djhxempNa0tCRndNV1hnT1RYN0NSLVdDbzg4RjFpVkt5cENCMHg1ZS1tN01qNUViZExRc2FuRnV3UlRwZGZrcWZKRkxhNDRVeW50clBTUWFrcFhEMFE?oc=5",
-        "publishedAt": "2026-11-25T00:00:02.000Z"
+        "time": "16:46",
+        "title": "エクサ、関西エアポートグループが目指す安全性のさらなる向上とサステナブルな空港運営に向け、設備保全管理システムを構築",
+        "source": "RBB TODAY",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBrSjMwMXZpanJpdmU0MHM3NnU3T2hyVW1pelVuVkNOVnozLTAwZGp0dHAteVJvRGROaWlWd3U3X3lRb055NHdOM3FubWc0VHUtNVhiV25XTUloM2hTakJ5N0hhOTdRUDlqelBOVG1QRGszbmZtWWoySw?oc=5",
+        "publishedAt": "2026-11-25T07:46:28.000Z"
       }
     ],
     "worldHeadlines": [
@@ -119,6 +119,13 @@
         "publishedAt": "2026-11-25T07:59:22.000Z"
       },
       {
+        "time": "21:10",
+        "title": "東海テレビに2.4億円所得隠し指摘",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6603974?source=rss",
+        "publishedAt": "2026-11-25T12:10:10.000Z"
+      },
+      {
         "time": "11:37",
         "title": "くら寿司 値上げ・値下げ同時なぜ",
         "source": "Yahoo!ニュース",
@@ -138,22 +145,15 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6603962?source=rss",
         "publishedAt": "2026-11-25T10:00:10.000Z"
-      },
-      {
-        "time": "14:42",
-        "title": "擬態段ボールも 置き配の盗難対策",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6603919?source=rss",
-        "publishedAt": "2026-11-25T05:42:06.000Z"
       }
     ],
     "localHeadlines": [
       {
-        "time": "20:16",
-        "title": "福岡刺殺事件 男に任意で事情聴取",
+        "time": "20:44",
+        "title": "福岡刺殺 関与疑いの男の身柄確保",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6603969?source=rss",
-        "publishedAt": "2026-11-25T11:16:54.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6603970?source=rss",
+        "publishedAt": "2026-11-25T11:44:59.000Z"
       },
       {
         "time": "18:36",
