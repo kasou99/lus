@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-25T06:20:30.032Z",
+  "updatedAt": "2026-11-25T06:43:27.089Z",
   "items": [
     {
       "time": "11:15",
@@ -10,28 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "米比首脳会談の合意巡り食い違い"
     },
     {
-      "time": "14:31",
-      "title": "ウが露船撃沈 リビアで行った背景",
+      "time": "15:32",
+      "title": "露船撃沈 場所にリビア選ばれた訳",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603909?source=rss",
-      "publishedAt": "2026-11-25T05:31:27.000Z",
-      "xQuery": "ウが露船撃沈 リビアで行った背景"
+      "url": "https://news.yahoo.co.jp/pickup/6603931?source=rss",
+      "publishedAt": "2026-11-25T06:32:03.000Z",
+      "xQuery": "露船撃沈 場所にリビア選ばれた訳"
     },
     {
-      "time": "12:06",
-      "title": "中国ファーウェイに有罪評決 米",
+      "time": "15:19",
+      "title": "福岡市で刺された男性死亡 男逃走",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603905?source=rss",
-      "publishedAt": "2026-11-25T03:06:55.000Z",
-      "xQuery": "中国ファーウェイに有罪評決 米"
-    },
-    {
-      "time": "13:49",
-      "title": "福岡市で人刺されたと通報 男逃走",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603917?source=rss",
-      "publishedAt": "2026-11-25T04:49:55.000Z",
-      "xQuery": "福岡市で人刺されたと通報 男逃走"
+      "url": "https://news.yahoo.co.jp/pickup/6603926?source=rss",
+      "publishedAt": "2026-11-25T06:19:28.000Z",
+      "xQuery": "福岡市で刺された男性死亡 男逃走"
     },
     {
       "time": "14:27",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6603920?source=rss",
       "publishedAt": "2026-11-25T05:27:54.000Z",
       "xQuery": "中国の富裕層マネーが香港に 背景"
+    },
+    {
+      "time": "15:31",
+      "title": "マツダ本社工場にイノシシ 見失う",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603925?source=rss",
+      "publishedAt": "2026-11-25T06:31:02.000Z",
+      "xQuery": "マツダ本社工場にイノシシ 見失う"
     }
   ]
 };
