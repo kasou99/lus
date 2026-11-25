@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-25T07:36:17.897Z",
+  "updatedAt": "2026-11-25T08:15:55.863Z",
   "items": [
     {
       "time": "16:18",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "妻殺害した疑い 医師の男を再逮捕"
     },
     {
-      "time": "15:51",
-      "title": "郡山不明12歳 有力な手掛かりなく",
+      "time": "15:58",
+      "title": "海遊館 ラッコ4頭を12月から展示",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603930?source=rss",
-      "publishedAt": "2026-11-25T06:51:36.000Z",
-      "xQuery": "郡山不明12歳 有力な手掛かりなく"
+      "url": "https://news.yahoo.co.jp/pickup/6603928?source=rss",
+      "publishedAt": "2026-11-25T06:58:43.000Z",
+      "xQuery": "海遊館 ラッコ4頭を12月から展示"
     },
     {
-      "time": "15:37",
-      "title": "3人逮捕「闇美容クリニック」潜入",
+      "time": "16:36",
+      "title": "おでんツンツンで大炎上 男性の今",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603927?source=rss",
-      "publishedAt": "2026-11-25T06:37:45.000Z",
-      "xQuery": "3人逮捕「闇美容クリニック」潜入"
+      "url": "https://news.yahoo.co.jp/pickup/6603937?source=rss",
+      "publishedAt": "2026-11-25T07:36:10.000Z",
+      "xQuery": "おでんツンツンで大炎上 男性の今"
     }
   ]
 };
