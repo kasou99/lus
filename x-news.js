@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-25T01:39:34.794Z",
+  "updatedAt": "2026-11-25T02:16:30.255Z",
   "items": [
     {
       "time": "09:18",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "NVIDIAは善良な企業 米司法長官"
     },
     {
-      "time": "07:37",
-      "title": "広島女性死亡 強盗殺人疑い男逮捕",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603863?source=rss",
-      "publishedAt": "2026-11-24T22:37:56.000Z",
-      "xQuery": "広島女性死亡 強盗殺人疑い男逮捕"
-    },
-    {
       "time": "08:17",
       "title": "住宅で流血の女性が死亡 殺人か",
       "source": "Yahoo!ニュース",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "住宅で流血の女性が死亡 殺人か"
     },
     {
-      "time": "10:12",
-      "title": "米CIAのシステム ハッカーが侵入",
+      "time": "10:56",
+      "title": "マツダ本社工場にイノシシ 捜索中",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603881?source=rss",
-      "publishedAt": "2026-11-25T01:12:51.000Z",
-      "xQuery": "米CIAのシステム ハッカーが侵入"
+      "url": "https://news.yahoo.co.jp/pickup/6603891?source=rss",
+      "publishedAt": "2026-11-25T01:56:14.000Z",
+      "xQuery": "マツダ本社工場にイノシシ 捜索中"
+    },
+    {
+      "time": "10:22",
+      "title": "中国の宇宙船 初の外国人乗組員",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603886?source=rss",
+      "publishedAt": "2026-11-25T01:22:17.000Z",
+      "xQuery": "中国の宇宙船 初の外国人乗組員"
     }
   ]
 };
