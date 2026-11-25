@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T14:36:02.570Z",
+  "updatedAt": "2026-11-25T15:11:56.517Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -170,6 +170,13 @@
         "publishedAt": "2026-11-25T06:58:10.000Z"
       },
       {
+        "time": "23:46",
+        "title": "神奈川の死亡事故 5分以上逆走か",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6603988?source=rss",
+        "publishedAt": "2026-11-25T14:46:07.000Z"
+      },
+      {
         "time": "17:30",
         "title": "クマ巡る抗議 前橋市役所に数百件",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6603927?source=rss",
         "publishedAt": "2026-11-25T06:37:45.000Z"
-      },
-      {
-        "time": "22:34",
-        "title": "クマ捕獲で苦情多数 市業務に支障",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6603848?source=rss",
-        "publishedAt": "2026-11-24T13:34:44.000Z"
       }
     ],
     "subsidyHeadlines": [

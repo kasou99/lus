@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-25T14:36:03.341Z",
+  "updatedAt": "2026-11-25T15:11:57.537Z",
   "items": [
     {
       "time": "22:17",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "福岡刺殺 確保の男を別容疑で逮捕"
     },
     {
+      "time": "23:46",
+      "title": "神奈川の死亡事故 5分以上逆走か",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603988?source=rss",
+      "publishedAt": "2026-11-25T14:46:07.000Z",
+      "xQuery": "神奈川の死亡事故 5分以上逆走か"
+    },
+    {
       "time": "23:17",
       "title": "くら寿司 ちいかわ企画初日で終了",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6603987?source=rss",
       "publishedAt": "2026-11-25T14:17:26.000Z",
       "xQuery": "くら寿司 ちいかわ企画初日で終了"
-    },
-    {
-      "time": "22:01",
-      "title": "パイロット不足 航空の2030年問題",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603979?source=rss",
-      "publishedAt": "2026-11-25T13:01:50.000Z",
-      "xQuery": "パイロット不足 航空の2030年問題"
     }
   ]
 };
