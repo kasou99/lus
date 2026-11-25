@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-25T10:12:00.336Z",
+  "updatedAt": "2026-11-25T10:36:25.034Z",
   "items": [
     {
       "time": "17:04",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "逮捕の徳島・阿波市長が辞任意向"
     },
     {
-      "time": "15:58",
-      "title": "妻殺害した疑い 医師の男を再逮捕",
+      "time": "19:08",
+      "title": "トヨタ「新型カムリ」12月に発売",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603929?source=rss",
-      "publishedAt": "2026-11-25T06:58:10.000Z",
-      "xQuery": "妻殺害した疑い 医師の男を再逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6603964?source=rss",
+      "publishedAt": "2026-11-25T10:08:02.000Z",
+      "xQuery": "トヨタ「新型カムリ」12月に発売"
     },
     {
       "time": "16:36",
