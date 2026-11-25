@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T05:11:41.404Z",
+  "updatedAt": "2026-11-25T05:36:11.304Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -24,27 +24,6 @@
         "publishedAt": "2026-11-25T01:45:27.000Z"
       },
       {
-        "time": "15:07",
-        "title": "絶好調な工作機械関連業界向け板金製品",
-        "source": "マシニスト出版",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1JUHFYVS1ONXZmVXNTWWlSYmZNcFFNMko3bm5nYV9iSl9Rdi0xcVhoVG92MnVYU19kNFE0WWprODIyaUtVQVpjWE5Lb01lNThfUUNGaw?oc=5",
-        "publishedAt": "2026-11-24T06:07:08.000Z"
-      },
-      {
-        "time": "15:26",
-        "title": "スピンドルチラーの競争環境評価：企業別シェア、売上規模、成長ポテンシャル2026-2032",
-        "source": "アットプレス",
-        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1xNDQxcjBmQU90WTZlQTRobDBzU2dNZjlKeDlrc2gzU3JSLU1UbWN3NndWajZqS0FfbWtJX0hTbHJKWnplcTFrdWp3RWZvQQ?oc=5",
-        "publishedAt": "2026-11-24T06:26:00.000Z"
-      },
-      {
-        "time": "15:06",
-        "title": "日本CNCスピンドルチラー市場：主要メーカー、競争環境、製品トレンド2026-2032",
-        "source": "アットプレス",
-        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBQSVEwdS03VjNoYmhVamgtRDBxMG95akwwM3h2MDhjakhIMTgwaWNQVUk2b0UyTTF1RElxVzVLM0ZtbEtFQkQ4YXhCc3Nidw?oc=5",
-        "publishedAt": "2026-11-24T06:06:00.000Z"
-      },
-      {
         "time": "07:25",
         "title": "独米GDPと米PCEコア、25日の市場は二段構えの物価・成長指標に注目",
         "source": "BigGo ファイナンス",
@@ -57,6 +36,27 @@
         "source": "ITmedia",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBvQkIxVTZJczgxeGpRT04tV3NoM1NWV0s2eHhSZGtaQWt6dlJValZjMmk5d1VEcnVOQjRDRUJpaGVyUnlobjVCZF95LUlnOFYxZFEtLUNiQmloYWdtWWRUS25oanR5U3BWUzJFTA?oc=5",
         "publishedAt": "2026-11-25T02:00:00.000Z"
+      },
+      {
+        "time": "15:07",
+        "title": "絶好調な工作機械関連業界向け板金製品",
+        "source": "マシニスト出版",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1JUHFYVS1ONXZmVXNTWWlSYmZNcFFNMko3bm5nYV9iSl9Rdi0xcVhoVG92MnVYU19kNFE0WWprODIyaUtVQVpjWE5Lb01lNThfUUNGaw?oc=5",
+        "publishedAt": "2026-11-24T06:07:08.000Z"
+      },
+      {
+        "time": "05:00",
+        "title": "AI活用前提に制度再設計 政府、AX推進で改革指針",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1IMzVwcWZlcHRFcDkxQVNWMGQ3MkN0ZFFaZ2c4Nlk0c012eXBQUFRDeDdSTUhla2pYZWJCQmVqcXVDcWNETHhNVWxQUmIxdnVuWDhvSE9zdkVpTUpYYlY5QmprWmRQdFJxeUgwSTJ4dkgyLVJtY3FWLWFkUQ?oc=5",
+        "publishedAt": "2026-11-24T20:00:00.000Z"
+      },
+      {
+        "time": "11:00",
+        "title": "【無料ウェビナー】製造業4社の事例から学ぶ「設備を止めない保全DX」の進め方を12月4日に開催！",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9MeUM1eUV6Yzl4WjNiRk5aN0ZTVXFWcU04TGl1V3BTZ2VXRHpEclhQcG1ub2c2T1BMS2dPc3VkT0FYWmFGT3NpQXRVaDlXRTlyU3R5VkU1SnAxbUZLLVZKVHNnQm85dm11?oc=5",
+        "publishedAt": "2026-11-25T02:00:21.000Z"
       }
     ],
     "worldHeadlines": [
@@ -75,11 +75,11 @@
         "publishedAt": "2026-11-25T02:15:52.000Z"
       },
       {
-        "time": "21:39",
-        "title": "EUのEV優遇 修正案でも日本除外",
+        "time": "14:31",
+        "title": "ウが露船撃沈 リビアで行った背景",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6603839?source=rss",
-        "publishedAt": "2026-11-24T12:39:02.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6603909?source=rss",
+        "publishedAt": "2026-11-25T05:31:27.000Z"
       },
       {
         "time": "10:12",
@@ -89,18 +89,18 @@
         "publishedAt": "2026-11-25T01:12:51.000Z"
       },
       {
-        "time": "17:41",
-        "title": "禁止解除の「GTA」サウジで人気",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6603816?source=rss",
-        "publishedAt": "2026-11-24T08:41:28.000Z"
-      },
-      {
         "time": "16:52",
         "title": "高市首相の到着時 タラップ故障か",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6603810?source=rss",
         "publishedAt": "2026-11-24T07:52:18.000Z"
+      },
+      {
+        "time": "12:06",
+        "title": "中国ファーウェイに有罪評決 米",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6603905?source=rss",
+        "publishedAt": "2026-11-25T03:06:55.000Z"
       }
     ],
     "economyHeadlines": [

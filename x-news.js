@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-25T05:11:42.118Z",
+  "updatedAt": "2026-11-25T05:36:12.052Z",
   "items": [
     {
-      "time": "13:49",
-      "title": "福岡市で人刺されたと通報 男逃走",
+      "time": "11:15",
+      "title": "米比首脳会談の合意巡り食い違い",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603917?source=rss",
-      "publishedAt": "2026-11-25T04:49:55.000Z",
-      "xQuery": "福岡市で人刺されたと通報 男逃走"
+      "url": "https://news.yahoo.co.jp/pickup/6603894?source=rss",
+      "publishedAt": "2026-11-25T02:15:52.000Z",
+      "xQuery": "米比首脳会談の合意巡り食い違い"
     },
     {
       "time": "09:55",
@@ -18,20 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "AI登場「創造性」問い直す機会に"
     },
     {
-      "time": "09:26",
-      "title": "フアン氏 エヌビディア社員に謝罪",
+      "time": "13:49",
+      "title": "福岡市で人刺されたと通報 男逃走",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603877?source=rss",
-      "publishedAt": "2026-11-25T00:26:32.000Z",
-      "xQuery": "フアン氏 エヌビディア社員に謝罪"
-    },
-    {
-      "time": "12:25",
-      "title": "夫婦殺害放火事件 男に死刑を求刑",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603906?source=rss",
-      "publishedAt": "2026-11-25T03:25:33.000Z",
-      "xQuery": "夫婦殺害放火事件 男に死刑を求刑"
+      "url": "https://news.yahoo.co.jp/pickup/6603917?source=rss",
+      "publishedAt": "2026-11-25T04:49:55.000Z",
+      "xQuery": "福岡市で人刺されたと通報 男逃走"
     },
     {
       "time": "11:47",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6603898?source=rss",
       "publishedAt": "2026-11-25T02:47:00.000Z",
       "xQuery": "消えた技能実習生 今も6600人不明"
+    },
+    {
+      "time": "12:02",
+      "title": "Microsoft 障害受けコードレッド",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603903?source=rss",
+      "publishedAt": "2026-11-25T03:02:26.000Z",
+      "xQuery": "Microsoft 障害受けコードレッド"
     }
   ]
 };
