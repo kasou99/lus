@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-25T03:36:57.503Z",
+  "updatedAt": "2026-11-25T04:14:00.751Z",
   "items": [
     {
       "time": "11:28",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "日経平均 一時2000円超値下がり"
     },
     {
-      "time": "11:17",
-      "title": "週後半は気温上昇予想 寒暖差注意",
+      "time": "09:26",
+      "title": "フアン氏 エヌビディア社員に謝罪",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603895?source=rss",
-      "publishedAt": "2026-11-25T02:17:33.000Z",
-      "xQuery": "週後半は気温上昇予想 寒暖差注意"
+      "url": "https://news.yahoo.co.jp/pickup/6603877?source=rss",
+      "publishedAt": "2026-11-25T00:26:32.000Z",
+      "xQuery": "フアン氏 エヌビディア社員に謝罪"
     },
     {
-      "time": "11:32",
-      "title": "広島強殺事件 殺意なかったと供述",
+      "time": "12:25",
+      "title": "夫婦殺害放火事件 男に死刑を求刑",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603900?source=rss",
-      "publishedAt": "2026-11-25T02:32:05.000Z",
-      "xQuery": "広島強殺事件 殺意なかったと供述"
+      "url": "https://news.yahoo.co.jp/pickup/6603906?source=rss",
+      "publishedAt": "2026-11-25T03:25:33.000Z",
+      "xQuery": "夫婦殺害放火事件 男に死刑を求刑"
     },
     {
       "time": "11:47",
