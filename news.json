@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T04:13:59.631Z",
+  "updatedAt": "2026-11-25T04:35:25.771Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,13 +31,6 @@
         "publishedAt": "2026-11-24T06:07:08.000Z"
       },
       {
-        "time": "13:25",
-        "title": "工作機械カバーとボックスで売上の8割 ― 総合力を武器に大手5社のニーズに応える",
-        "source": "マシニスト出版",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBodTVBTEwzUmxkLU9vdXlNRTRwT19QZ2R6VmdzUU1fZEo0Vnc0ZXBYNnRyU0FDbGUyazJJYVhMbWFMbjJIS3BydEFZOGxIR0VsYUZBNg?oc=5",
-        "publishedAt": "2026-11-24T04:25:52.000Z"
-      },
-      {
         "time": "15:26",
         "title": "スピンドルチラーの競争環境評価：企業別シェア、売上規模、成長ポテンシャル2026-2032",
         "source": "アットプレス",
@@ -57,6 +50,13 @@
         "source": "BigGo ファイナンス",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9zV25xU0RIaWRpWDVielYxR21CQXlCV3pZcmYtd2FJa25nTFdTblhJR1RpcEtnNkNOVnVyY1BYR3dzQ1Y5WjZyZGw5QUhyR1dHTkVGX2pSSFhFT3BWaXY1Um9BNmlhOWpyWERQb0lVM3Y3MFhN?oc=5",
         "publishedAt": "2026-11-24T22:25:00.000Z"
+      },
+      {
+        "time": "11:00",
+        "title": "熊谷組、軌道装置動力車を自動走行 教示運転で確認走行を再現：i-Construction 2.0",
+        "source": "ITmedia",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBvQkIxVTZJczgxeGpRT04tV3NoM1NWV0s2eHhSZGtaQWt6dlJValZjMmk5d1VEcnVOQjRDRUJpaGVyUnlobjVCZF95LUlnOFYxZFEtLUNiQmloYWdtWWRUS25oanR5U3BWUzJFTA?oc=5",
+        "publishedAt": "2026-11-25T02:00:00.000Z"
       }
     ],
     "worldHeadlines": [

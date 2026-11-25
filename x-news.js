@@ -1,14 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-25T04:14:00.751Z",
+  "updatedAt": "2026-11-25T04:35:26.862Z",
   "items": [
-    {
-      "time": "11:28",
-      "title": "日経平均 一時2000円超値下がり",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603901?source=rss",
-      "publishedAt": "2026-11-25T02:28:04.000Z",
-      "xQuery": "日経平均 一時2000円超値下がり"
-    },
     {
       "time": "09:26",
       "title": "フアン氏 エヌビディア社員に謝罪",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6603899?source=rss",
       "publishedAt": "2026-11-25T02:29:53.000Z",
       "xQuery": "SHEINが和解金160億円支払いへ 米"
+    },
+    {
+      "time": "11:10",
+      "title": "バンダイなど3社連携 模倣品対応",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603893?source=rss",
+      "publishedAt": "2026-11-25T02:10:21.000Z",
+      "xQuery": "バンダイなど3社連携 模倣品対応"
     }
   ]
 };
