@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-25T09:36:19.386Z",
+  "updatedAt": "2026-11-25T10:12:00.336Z",
   "items": [
     {
       "time": "17:04",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "福岡で男性刺され死亡 凶器発見か"
     },
     {
-      "time": "18:17",
-      "title": "首相 政治部門ベストドレッサー賞",
+      "time": "18:36",
+      "title": "逮捕の徳島・阿波市長が辞任意向",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603955?source=rss",
-      "publishedAt": "2026-11-25T09:17:21.000Z",
-      "xQuery": "首相 政治部門ベストドレッサー賞"
+      "url": "https://news.yahoo.co.jp/pickup/6603958?source=rss",
+      "publishedAt": "2026-11-25T09:36:31.000Z",
+      "xQuery": "逮捕の徳島・阿波市長が辞任意向"
     },
     {
       "time": "15:58",
