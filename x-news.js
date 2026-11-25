@@ -1,13 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-25T00:30:18.997Z",
+  "updatedAt": "2026-11-25T01:12:46.677Z",
   "items": [
     {
-      "time": "06:51",
-      "title": "副首都 来年秋に複数同時に指定",
+      "time": "09:18",
+      "title": "首相が文科相擁護 辞任ドミノ懸念",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603860?source=rss",
-      "publishedAt": "2026-11-24T21:51:04.000Z",
-      "xQuery": "副首都 来年秋に複数同時に指定"
+      "url": "https://news.yahoo.co.jp/pickup/6603876?source=rss",
+      "publishedAt": "2026-11-25T00:18:57.000Z",
+      "xQuery": "首相が文科相擁護 辞任ドミノ懸念"
+    },
+    {
+      "time": "08:32",
+      "title": "NVIDIAは善良な企業 米司法長官",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603870?source=rss",
+      "publishedAt": "2026-11-24T23:32:03.000Z",
+      "xQuery": "NVIDIAは善良な企業 米司法長官"
     },
     {
       "time": "08:10",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6603869?source=rss",
       "publishedAt": "2026-11-24T23:17:49.000Z",
       "xQuery": "住宅で流血の女性が死亡 殺人か"
-    },
-    {
-      "time": "09:16",
-      "title": "新型ウォークマン 歴代最高65万円",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603878?source=rss",
-      "publishedAt": "2026-11-25T00:16:25.000Z",
-      "xQuery": "新型ウォークマン 歴代最高65万円"
     }
   ]
 };

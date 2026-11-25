@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T00:30:18.424Z",
+  "updatedAt": "2026-11-25T01:12:45.158Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,13 +17,6 @@
         "publishedAt": "2026-11-24T06:07:08.000Z"
       },
       {
-        "time": "10:00",
-        "title": "商社ＹＵＡＳＡが工作機械「通算5年保証」開始 メーカー保証終了後の故障に安心提供",
-        "source": "MONOist",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBLZUwyNURET2JVcnVIcEpfcGpyeFAwb3h0V1dQTXR2bzZRb0RxcjhTaVZJaGtVeFA1d05zaVRkMWRqMkk4ZEVfWG0zZjdIbUREV3NremxhWTlWeFdXZjNSdWU5SW1QcENCOExKam9PMA?oc=5",
-        "publishedAt": "2026-11-24T01:00:00.000Z"
-      },
-      {
         "time": "09:00",
         "title": "【設備保全DX】ものづくり ワールド [福岡]に次世代設備保全クラウド「M2X」ブースを出展 新機能「動画マニュアル」を先行公開",
         "source": "PR TIMES",
@@ -38,13 +31,6 @@
         "publishedAt": "2026-11-24T02:28:00.000Z"
       },
       {
-        "time": "09:35",
-        "title": "株式会社つくば精工様 | 工作機械 | ニデック株式会社",
-        "source": "NIDEC CORPORATION",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYVNsbGpmd3ZDcnhJV19ZZGp5VmZiQi1id3lGV1JMdElSVUVvMWJpbS04blBoUW16Z2tPYktZclJWV3JoWlQyY0VMcXBkV2k4M2hmY3hQVUh2MWQ4OGQ1UHJETFp3RFFFa3A2TlBKSk9XTXUzX0d1UVktOHlnYVZhMFRxaTMta194WkozUkd3?oc=5",
-        "publishedAt": "2026-11-24T00:35:47.000Z"
-      },
-      {
         "time": "10:39",
         "title": "AIと会話しながら、気づいたその場で保全記録を残せる──設備保全クラウド「ミロクルカルテ」の「音声入力ガイド」が対話型に進化",
         "source": "山陽新聞",
@@ -57,6 +43,20 @@
         "source": "マシニスト出版",
         "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBodTVBTEwzUmxkLU9vdXlNRTRwT19QZ2R6VmdzUU1fZEo0Vnc0ZXBYNnRyU0FDbGUyazJJYVhMbWFMbjJIS3BydEFZOGxIR0VsYUZBNg?oc=5",
         "publishedAt": "2026-11-24T04:25:52.000Z"
+      },
+      {
+        "time": "10:45",
+        "title": "【12/8(火)・9(水)・10(木)11:00‐】次世代設備保全クラウド「M2X」で何ができる？無料オンラインデモセミナー開催",
+        "source": "Infoseek",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5valFWRWttR0tiYThvcHZqMlBDdVk4cklTVl9FTzRKaVNna3RCX2dQMzVDdlA3V0Rac3BkblBqdXdzZmN4aWQ1SmR3bzZDSGxRNnVpeEswUFBhODNFVkJDWjRPSW44X0gxR3FlcUgweWxNZw?oc=5",
+        "publishedAt": "2026-11-24T01:45:25.000Z"
+      },
+      {
+        "time": "09:00",
+        "title": "アンドパッド、製造業向けに設備保全の課題を根本から解決するAI-BPO・コンサルティングサービス「ANDPAD AI設備管理課」を提供開始",
+        "source": "PR TIMES",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE52ZllYSHU1bnEtaUY2djhxempNa0tCRndNV1hnT1RYN0NSLVdDbzg4RjFpVkt5cENCMHg1ZS1tN01qNUViZExRc2FuRnV3UlRwZGZrcWZKRkxhNDRVeW50clBTUWFrcFhEMFE?oc=5",
+        "publishedAt": "2026-11-25T00:00:02.000Z"
       }
     ],
     "worldHeadlines": [
