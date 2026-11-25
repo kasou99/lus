@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-25T22:35:27.044Z",
+  "updatedAt": "2026-11-25T23:09:57.992Z",
   "items": [
     {
       "time": "00:17",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "米 日中やEUなどに新関税を提案"
     },
     {
-      "time": "06:15",
-      "title": "フアン氏の復帰 企業統治に批判",
+      "time": "07:44",
+      "title": "AI法改正案の概要判明 罰則新設",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603991?source=rss",
-      "publishedAt": "2026-11-25T21:15:51.000Z",
-      "xQuery": "フアン氏の復帰 企業統治に批判"
+      "url": "https://news.yahoo.co.jp/pickup/6603997?source=rss",
+      "publishedAt": "2026-11-25T22:44:06.000Z",
+      "xQuery": "AI法改正案の概要判明 罰則新設"
     },
     {
       "time": "22:04",
