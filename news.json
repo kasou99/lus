@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T20:10:27.844Z",
+  "updatedAt": "2026-11-25T20:35:57.210Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -7,6 +7,13 @@
         "title": "車向け工作機械､10月の受注は11%減 7カ月ぶりマイナス",
         "source": "日本経済新聞",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAwZEd5Tkp5RFJiVUhadk9DeFR1S0FWdGxkSks3ZmppT3lCRmhjMHJxOUxLZmFRb3BMLVNEWlpES2JVbVk2ckI4ZWt2cHpXdlJGVWdXOVBBWHpnQl9reVdhaGlHSXY3YVJtOHJQUksyd28tSDVHNmVhLWNXR3N1UlU?oc=5",
+        "publishedAt": "2026-11-25T20:00:00.000Z"
+      },
+      {
+        "time": "05:00",
+        "title": "工作機械のヤマザキマザック ＤＸ化支援ソフトにＡＩ機能 来春提供、自社展示会で紹介",
+        "source": "中部経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8xYkN6cWlpTW93R1BmUVNoTktSeXJSMUZ1amF2V2JVYThkNjRHcVRibkhDaldxTWkwQXRhQmIzaHdPbmpjSVc5bHRhSWlGZHhRelZZRzdPclRTYVhpZXpYV21CbElSdmxWcThwX2p2bXE0c2M?oc=5",
         "publishedAt": "2026-11-25T20:00:00.000Z"
       },
       {
@@ -50,13 +57,6 @@
         "source": "ニコニコニュース",
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBHRGUzMmpqU1BZbFo5ZnAyWDZkZEEyWi1XUllOczc4aHhWaEQxbHRBc2wwTHFRMmVFLXR5UmQzTEVuazRMUW5DUkRYbXRUQktWSlZVTm1URWd1U25KaVhRNGd4NVlqSnBs?oc=5",
         "publishedAt": "2026-11-25T15:45:22.000Z"
-      },
-      {
-        "time": "06:01",
-        "title": "フィジカルAIの主戦場に!?…ロボと環境の情報統合、工作機械が突破口になる理由",
-        "source": "ニュースイッチ by 日刊工業新聞社",
-        "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE01aEttcFFMMXVQZkZ6Vzk0cXZONExVTENacjFGa0hXR2pQLThGZUlHaXVzVHhkMnBpelc1dC1iQlpDdw?oc=5",
-        "publishedAt": "2026-11-24T21:01:00.000Z"
       }
     ],
     "worldHeadlines": [
