@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-25T01:12:46.677Z",
+  "updatedAt": "2026-11-25T01:39:34.794Z",
   "items": [
     {
       "time": "09:18",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "NVIDIAは善良な企業 米司法長官"
     },
     {
-      "time": "08:10",
-      "title": "米中に次ぐAI国家確立へ 政府案",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603868?source=rss",
-      "publishedAt": "2026-11-24T23:10:28.000Z",
-      "xQuery": "米中に次ぐAI国家確立へ 政府案"
-    },
-    {
       "time": "07:37",
       "title": "広島女性死亡 強盗殺人疑い男逮捕",
       "source": "Yahoo!ニュース",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6603869?source=rss",
       "publishedAt": "2026-11-24T23:17:49.000Z",
       "xQuery": "住宅で流血の女性が死亡 殺人か"
+    },
+    {
+      "time": "10:12",
+      "title": "米CIAのシステム ハッカーが侵入",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603881?source=rss",
+      "publishedAt": "2026-11-25T01:12:51.000Z",
+      "xQuery": "米CIAのシステム ハッカーが侵入"
     }
   ]
 };
