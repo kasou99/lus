@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T12:17:17.054Z",
+  "updatedAt": "2026-11-25T12:39:20.303Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,13 +38,6 @@
         "publishedAt": "2026-11-25T01:23:19.000Z"
       },
       {
-        "time": "06:01",
-        "title": "フィジカルAIの主戦場に!?…ロボと環境の情報統合、工作機械が突破口になる理由",
-        "source": "ニュースイッチ by 日刊工業新聞社",
-        "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE01aEttcFFMMXVQZkZ6Vzk0cXZONExVTENacjFGa0hXR2pQLThGZUlHaXVzVHhkMnBpelc1dC1iQlpDdw?oc=5",
-        "publishedAt": "2026-11-24T21:01:00.000Z"
-      },
-      {
         "time": "16:53",
         "title": "工作機械のヤマザキマザック、自動化・工程集約に力 岐阜で展示会",
         "source": "日本経済新聞",
@@ -52,11 +45,18 @@
         "publishedAt": "2026-11-25T07:53:37.000Z"
       },
       {
-        "time": "16:46",
-        "title": "エクサ、関西エアポートグループが目指す安全性のさらなる向上とサステナブルな空港運営に向け、設備保全管理システムを構築",
-        "source": "RBB TODAY",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBrSjMwMXZpanJpdmU0MHM3NnU3T2hyVW1pelVuVkNOVnozLTAwZGp0dHAteVJvRGROaWlWd3U3X3lRb055NHdOM3FubWc0VHUtNVhiV25XTUloM2hTakJ5N0hhOTdRUDlqelBOVG1QRGszbmZtWWoySw?oc=5",
-        "publishedAt": "2026-11-25T07:46:28.000Z"
+        "time": "06:01",
+        "title": "フィジカルAIの主戦場に!?…ロボと環境の情報統合、工作機械が突破口になる理由",
+        "source": "ニュースイッチ by 日刊工業新聞社",
+        "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE01aEttcFFMMXVQZkZ6Vzk0cXZONExVTENacjFGa0hXR2pQLThGZUlHaXVzVHhkMnBpelc1dC1iQlpDdw?oc=5",
+        "publishedAt": "2026-11-24T21:01:00.000Z"
+      },
+      {
+        "time": "09:00",
+        "title": "アンドパッド、製造業向けに設備保全の課題を根本から解決するAI-BPO・コンサルティングサービス「ANDPAD AI設備管理課」を提供開始",
+        "source": "PR TIMES",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE52ZllYSHU1bnEtaUY2djhxempNa0tCRndNV1hnT1RYN0NSLVdDbzg4RjFpVkt5cENCMHg1ZS1tN01qNUViZExRc2FuRnV3UlRwZGZrcWZKRkxhNDRVeW50clBTUWFrcFhEMFE?oc=5",
+        "publishedAt": "2026-11-25T00:00:02.000Z"
       }
     ],
     "worldHeadlines": [

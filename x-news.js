@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-25T12:17:18.032Z",
+  "updatedAt": "2026-11-25T12:39:21.055Z",
   "items": [
     {
       "time": "20:44",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "JAXA 月探査車の試験走行を公開"
     },
     {
-      "time": "18:36",
-      "title": "逮捕の徳島・阿波市長が辞任意向",
+      "time": "21:10",
+      "title": "東海テレビに2.4億円所得隠し指摘",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603958?source=rss",
-      "publishedAt": "2026-11-25T09:36:31.000Z",
-      "xQuery": "逮捕の徳島・阿波市長が辞任意向"
+      "url": "https://news.yahoo.co.jp/pickup/6603974?source=rss",
+      "publishedAt": "2026-11-25T12:10:10.000Z",
+      "xQuery": "東海テレビに2.4億円所得隠し指摘"
     },
     {
       "time": "19:08",
