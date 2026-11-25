@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T04:35:25.771Z",
+  "updatedAt": "2026-11-25T05:11:41.404Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "13:49",
+        "title": "福岡市で人刺されたと通報 男逃走",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6603917?source=rss",
+        "publishedAt": "2026-11-25T04:49:55.000Z"
+      },
+      {
         "time": "11:32",
         "title": "広島強殺事件 殺意なかったと供述",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6603837?source=rss",
         "publishedAt": "2026-11-24T12:08:01.000Z"
-      },
-      {
-        "time": "07:36",
-        "title": "財政難の兵庫県 新庁舎面積削減へ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6603862?source=rss",
-        "publishedAt": "2026-11-24T22:36:00.000Z"
       }
     ],
     "subsidyHeadlines": [

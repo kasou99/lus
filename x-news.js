@@ -1,6 +1,22 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-25T04:35:26.862Z",
+  "updatedAt": "2026-11-25T05:11:42.118Z",
   "items": [
+    {
+      "time": "13:49",
+      "title": "福岡市で人刺されたと通報 男逃走",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603917?source=rss",
+      "publishedAt": "2026-11-25T04:49:55.000Z",
+      "xQuery": "福岡市で人刺されたと通報 男逃走"
+    },
+    {
+      "time": "09:55",
+      "title": "AI登場「創造性」問い直す機会に",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603882?source=rss",
+      "publishedAt": "2026-11-25T00:55:13.000Z",
+      "xQuery": "AI登場「創造性」問い直す機会に"
+    },
     {
       "time": "09:26",
       "title": "フアン氏 エヌビディア社員に謝罪",
@@ -24,22 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6603898?source=rss",
       "publishedAt": "2026-11-25T02:47:00.000Z",
       "xQuery": "消えた技能実習生 今も6600人不明"
-    },
-    {
-      "time": "11:29",
-      "title": "SHEINが和解金160億円支払いへ 米",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603899?source=rss",
-      "publishedAt": "2026-11-25T02:29:53.000Z",
-      "xQuery": "SHEINが和解金160億円支払いへ 米"
-    },
-    {
-      "time": "11:10",
-      "title": "バンダイなど3社連携 模倣品対応",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603893?source=rss",
-      "publishedAt": "2026-11-25T02:10:21.000Z",
-      "xQuery": "バンダイなど3社連携 模倣品対応"
     }
   ]
 };
