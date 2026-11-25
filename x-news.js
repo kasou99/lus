@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-25T12:39:21.055Z",
+  "updatedAt": "2026-11-25T13:11:52.887Z",
   "items": [
     {
-      "time": "20:44",
-      "title": "福岡刺殺 関与疑いの男の身柄確保",
+      "time": "22:04",
+      "title": "福岡刺殺 確保の男を別容疑で逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603970?source=rss",
-      "publishedAt": "2026-11-25T11:44:59.000Z",
-      "xQuery": "福岡刺殺 関与疑いの男の身柄確保"
+      "url": "https://news.yahoo.co.jp/pickup/6603982?source=rss",
+      "publishedAt": "2026-11-25T13:04:10.000Z",
+      "xQuery": "福岡刺殺 確保の男を別容疑で逮捕"
     },
     {
       "time": "18:57",
