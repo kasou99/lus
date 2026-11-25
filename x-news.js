@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-25T14:12:02.583Z",
+  "updatedAt": "2026-11-25T14:36:03.341Z",
   "items": [
     {
       "time": "22:17",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "問責決議案巡り 与野党攻防が激化"
     },
     {
-      "time": "18:57",
-      "title": "国立成育医療研究センターで不正",
+      "time": "23:12",
+      "title": "3文書 防衛力整備計画の指針判明",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603960?source=rss",
-      "publishedAt": "2026-11-25T09:57:33.000Z",
-      "xQuery": "国立成育医療研究センターで不正"
+      "url": "https://news.yahoo.co.jp/pickup/6603985?source=rss",
+      "publishedAt": "2026-11-25T14:12:01.000Z",
+      "xQuery": "3文書 防衛力整備計画の指針判明"
     },
     {
       "time": "22:04",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "福岡刺殺 確保の男を別容疑で逮捕"
     },
     {
+      "time": "23:17",
+      "title": "くら寿司 ちいかわ企画初日で終了",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603987?source=rss",
+      "publishedAt": "2026-11-25T14:17:26.000Z",
+      "xQuery": "くら寿司 ちいかわ企画初日で終了"
+    },
+    {
       "time": "22:01",
       "title": "パイロット不足 航空の2030年問題",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6603979?source=rss",
       "publishedAt": "2026-11-25T13:01:50.000Z",
       "xQuery": "パイロット不足 航空の2030年問題"
-    },
-    {
-      "time": "20:38",
-      "title": "JAXA 月探査車の試験走行を公開",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603968?source=rss",
-      "publishedAt": "2026-11-25T11:38:25.000Z",
-      "xQuery": "JAXA 月探査車の試験走行を公開"
     }
   ]
 };
