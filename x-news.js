@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-25T09:13:22.412Z",
+  "updatedAt": "2026-11-25T09:36:19.386Z",
   "items": [
     {
       "time": "17:04",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "福岡で男性刺され死亡 凶器発見か"
     },
     {
-      "time": "16:59",
-      "title": "プルデンシャル 新規契約が92%減",
+      "time": "18:17",
+      "title": "首相 政治部門ベストドレッサー賞",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603940?source=rss",
-      "publishedAt": "2026-11-25T07:59:22.000Z",
-      "xQuery": "プルデンシャル 新規契約が92%減"
+      "url": "https://news.yahoo.co.jp/pickup/6603955?source=rss",
+      "publishedAt": "2026-11-25T09:17:21.000Z",
+      "xQuery": "首相 政治部門ベストドレッサー賞"
     },
     {
       "time": "15:58",
