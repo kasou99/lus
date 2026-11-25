@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-24T23:35:05.647Z",
+  "updatedAt": "2026-11-25T00:30:18.997Z",
   "items": [
     {
       "time": "06:51",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "広島女性死亡 強盗殺人疑い男逮捕"
     },
     {
-      "time": "07:54",
-      "title": "米で鳥インフルに3人感染 WHO",
+      "time": "08:17",
+      "title": "住宅で流血の女性が死亡 殺人か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603865?source=rss",
-      "publishedAt": "2026-11-24T22:54:06.000Z",
-      "xQuery": "米で鳥インフルに3人感染 WHO"
+      "url": "https://news.yahoo.co.jp/pickup/6603869?source=rss",
+      "publishedAt": "2026-11-24T23:17:49.000Z",
+      "xQuery": "住宅で流血の女性が死亡 殺人か"
     },
     {
-      "time": "07:56",
-      "title": "直木賞ノミネート 5作品決まる",
+      "time": "09:16",
+      "title": "新型ウォークマン 歴代最高65万円",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603867?source=rss",
-      "publishedAt": "2026-11-24T22:56:25.000Z",
-      "xQuery": "直木賞ノミネート 5作品決まる"
+      "url": "https://news.yahoo.co.jp/pickup/6603878?source=rss",
+      "publishedAt": "2026-11-25T00:16:25.000Z",
+      "xQuery": "新型ウォークマン 歴代最高65万円"
     }
   ]
 };

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T23:35:04.424Z",
+  "updatedAt": "2026-11-25T00:30:18.424Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -8,13 +8,6 @@
         "source": "ニュースイッチ by 日刊工業新聞社",
         "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE01aEttcFFMMXVQZkZ6Vzk0cXZONExVTENacjFGa0hXR2pQLThGZUlHaXVzVHhkMnBpelc1dC1iQlpDdw?oc=5",
         "publishedAt": "2026-11-24T21:01:00.000Z"
-      },
-      {
-        "time": "18:19",
-        "title": "工作機械受注が示す日本株と世界経済 高水準維持も伸び率拡大の局面は終了か",
-        "source": "TBS NEWS DIG",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1lUnVfUGlvMFhxdEV2NTZzdHd2bTVYT3luOHcycm4xM25sRE1sLVdVeXF3S240U0l0RzZHUmZIMGdLZ0hCVFU1dFkxRWxjLTh2OWgwUHFldkZBSHc1RUVZ?oc=5",
-        "publishedAt": "2026-11-24T09:19:31.000Z"
       },
       {
         "time": "15:07",
@@ -29,6 +22,13 @@
         "source": "MONOist",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBLZUwyNURET2JVcnVIcEpfcGpyeFAwb3h0V1dQTXR2bzZRb0RxcjhTaVZJaGtVeFA1d05zaVRkMWRqMkk4ZEVfWG0zZjdIbUREV3NremxhWTlWeFdXZjNSdWU5SW1QcENCOExKam9PMA?oc=5",
         "publishedAt": "2026-11-24T01:00:00.000Z"
+      },
+      {
+        "time": "09:00",
+        "title": "【設備保全DX】ものづくり ワールド [福岡]に次世代設備保全クラウド「M2X」ブースを出展 新機能「動画マニュアル」を先行公開",
+        "source": "PR TIMES",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE94WWVrUUN6S1FseEFBVjZybHpWVTRheGpFS0hLRnk2cDdWUk1PZF80al9jbzQxSDRCUDZsVG4xcGNwQmQ2bUNieURqU0JONVJhMW1oOVlCbzJscV94bF9veXlqdzFnV3U4N2c?oc=5",
+        "publishedAt": "2026-11-25T00:00:02.000Z"
       },
       {
         "time": "11:28",
@@ -52,11 +52,11 @@
         "publishedAt": "2026-11-24T01:39:18.000Z"
       },
       {
-        "time": "10:45",
-        "title": "【12/8(火)・9(水)・10(木)11:00‐】次世代設備保全クラウド「M2X」で何ができる？無料オンラインデモセミナー開催",
-        "source": "Infoseek",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5valFWRWttR0tiYThvcHZqMlBDdVk4cklTVl9FTzRKaVNna3RCX2dQMzVDdlA3V0Rac3BkblBqdXdzZmN4aWQ1SmR3bzZDSGxRNnVpeEswUFBhODNFVkJDWjRPSW44X0gxR3FlcUgweWxNZw?oc=5",
-        "publishedAt": "2026-11-24T01:45:25.000Z"
+        "time": "13:25",
+        "title": "工作機械カバーとボックスで売上の8割 ― 総合力を武器に大手5社のニーズに応える",
+        "source": "マシニスト出版",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBodTVBTEwzUmxkLU9vdXlNRTRwT19QZ2R6VmdzUU1fZEo0Vnc0ZXBYNnRyU0FDbGUyazJJYVhMbWFMbjJIS3BydEFZOGxIR0VsYUZBNg?oc=5",
+        "publishedAt": "2026-11-24T04:25:52.000Z"
       }
     ],
     "worldHeadlines": [
@@ -119,6 +119,20 @@
         "publishedAt": "2026-11-24T05:52:46.000Z"
       },
       {
+        "time": "09:26",
+        "title": "フアン氏 エヌビディア社員に謝罪",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6603877?source=rss",
+        "publishedAt": "2026-11-25T00:26:32.000Z"
+      },
+      {
+        "time": "09:16",
+        "title": "新型ウォークマン 歴代最高65万円",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6603878?source=rss",
+        "publishedAt": "2026-11-25T00:16:25.000Z"
+      },
+      {
         "time": "17:02",
         "title": "情報流出相次ぐ 防犯グッズ人気",
         "source": "Yahoo!ニュース",
@@ -126,25 +140,11 @@
         "publishedAt": "2026-11-24T08:02:55.000Z"
       },
       {
-        "time": "23:17",
-        "title": "フアン氏 エヌビディアCEOに復帰",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6603732?source=rss",
-        "publishedAt": "2026-11-23T14:17:46.000Z"
-      },
-      {
         "time": "17:51",
         "title": "取材中拾った練習球売る 懲戒解雇",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6603823?source=rss",
         "publishedAt": "2026-11-24T08:51:58.000Z"
-      },
-      {
-        "time": "11:58",
-        "title": "松屋の一人負け? 牛丼業界で明暗",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6603780?source=rss",
-        "publishedAt": "2026-11-24T02:58:23.000Z"
       }
     ],
     "localHeadlines": [
