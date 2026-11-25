@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T15:11:56.517Z",
+  "updatedAt": "2026-11-25T15:35:33.769Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -61,6 +61,13 @@
     ],
     "worldHeadlines": [
       {
+        "time": "00:17",
+        "title": "米 日中やEUなどに新関税を提案",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6603990?source=rss",
+        "publishedAt": "2026-11-25T15:17:03.000Z"
+      },
+      {
         "time": "08:32",
         "title": "NVIDIAは善良な企業 米司法長官",
         "source": "Yahoo!ニュース",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6603810?source=rss",
         "publishedAt": "2026-11-24T07:52:18.000Z"
-      },
-      {
-        "time": "12:06",
-        "title": "中国ファーウェイに有罪評決 米",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6603905?source=rss",
-        "publishedAt": "2026-11-25T03:06:55.000Z"
       }
     ],
     "economyHeadlines": [

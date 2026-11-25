@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-25T15:11:57.537Z",
+  "updatedAt": "2026-11-25T15:35:34.347Z",
   "items": [
     {
-      "time": "22:17",
-      "title": "問責決議案巡り 与野党攻防が激化",
+      "time": "00:17",
+      "title": "米 日中やEUなどに新関税を提案",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603980?source=rss",
-      "publishedAt": "2026-11-25T13:17:28.000Z",
-      "xQuery": "問責決議案巡り 与野党攻防が激化"
+      "url": "https://news.yahoo.co.jp/pickup/6603990?source=rss",
+      "publishedAt": "2026-11-25T15:17:03.000Z",
+      "xQuery": "米 日中やEUなどに新関税を提案"
     },
     {
       "time": "23:12",
