@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-25T21:11:00.736Z",
+  "updatedAt": "2026-11-25T21:35:56.221Z",
   "items": [
     {
       "time": "00:17",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "米 日中やEUなどに新関税を提案"
     },
     {
-      "time": "23:12",
-      "title": "3文書 防衛力整備計画の指針判明",
+      "time": "06:15",
+      "title": "フアン氏の復帰 企業統治に批判",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603985?source=rss",
-      "publishedAt": "2026-11-25T14:12:01.000Z",
-      "xQuery": "3文書 防衛力整備計画の指針判明"
+      "url": "https://news.yahoo.co.jp/pickup/6603991?source=rss",
+      "publishedAt": "2026-11-25T21:15:51.000Z",
+      "xQuery": "フアン氏の復帰 企業統治に批判"
     },
     {
       "time": "22:04",
