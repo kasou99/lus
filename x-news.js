@@ -1,21 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-25T07:13:32.083Z",
+  "updatedAt": "2026-11-25T07:36:17.897Z",
   "items": [
     {
-      "time": "11:15",
-      "title": "米比首脳会談の合意巡り食い違い",
+      "time": "16:18",
+      "title": "オンライン賭博の判事に罷免判決",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603894?source=rss",
-      "publishedAt": "2026-11-25T02:15:52.000Z",
-      "xQuery": "米比首脳会談の合意巡り食い違い"
-    },
-    {
-      "time": "15:32",
-      "title": "露船撃沈 場所にリビア選ばれた訳",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603931?source=rss",
-      "publishedAt": "2026-11-25T06:32:03.000Z",
-      "xQuery": "露船撃沈 場所にリビア選ばれた訳"
+      "url": "https://news.yahoo.co.jp/pickup/6603934?source=rss",
+      "publishedAt": "2026-11-25T07:18:08.000Z",
+      "xQuery": "オンライン賭博の判事に罷免判決"
     },
     {
       "time": "15:19",
@@ -32,6 +24,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6603929?source=rss",
       "publishedAt": "2026-11-25T06:58:10.000Z",
       "xQuery": "妻殺害した疑い 医師の男を再逮捕"
+    },
+    {
+      "time": "15:51",
+      "title": "郡山不明12歳 有力な手掛かりなく",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603930?source=rss",
+      "publishedAt": "2026-11-25T06:51:36.000Z",
+      "xQuery": "郡山不明12歳 有力な手掛かりなく"
     },
     {
       "time": "15:37",
