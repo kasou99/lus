@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-25T11:10:59.542Z",
+  "updatedAt": "2026-11-25T11:36:20.164Z",
   "items": [
+    {
+      "time": "18:57",
+      "title": "国立成育医療研究センターで不正",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603960?source=rss",
+      "publishedAt": "2026-11-25T09:57:33.000Z",
+      "xQuery": "国立成育医療研究センターで不正"
+    },
     {
       "time": "17:04",
       "title": "介護保険料 一部高齢者負担増検討",
@@ -10,20 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "介護保険料 一部高齢者負担増検討"
     },
     {
-      "time": "18:10",
-      "title": "福岡で男性刺され死亡 凶器発見か",
+      "time": "20:16",
+      "title": "福岡刺殺事件 男に任意で事情聴取",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603952?source=rss",
-      "publishedAt": "2026-11-25T09:10:48.000Z",
-      "xQuery": "福岡で男性刺され死亡 凶器発見か"
-    },
-    {
-      "time": "19:00",
-      "title": "ANA パイロット養成会社を設立",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603962?source=rss",
-      "publishedAt": "2026-11-25T10:00:10.000Z",
-      "xQuery": "ANA パイロット養成会社を設立"
+      "url": "https://news.yahoo.co.jp/pickup/6603969?source=rss",
+      "publishedAt": "2026-11-25T11:16:54.000Z",
+      "xQuery": "福岡刺殺事件 男に任意で事情聴取"
     },
     {
       "time": "18:36",
