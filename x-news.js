@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-25T06:43:27.089Z",
+  "updatedAt": "2026-11-25T07:13:32.083Z",
   "items": [
     {
       "time": "11:15",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "福岡市で刺された男性死亡 男逃走"
     },
     {
-      "time": "14:27",
-      "title": "中国の富裕層マネーが香港に 背景",
+      "time": "15:58",
+      "title": "妻殺害した疑い 医師の男を再逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603920?source=rss",
-      "publishedAt": "2026-11-25T05:27:54.000Z",
-      "xQuery": "中国の富裕層マネーが香港に 背景"
+      "url": "https://news.yahoo.co.jp/pickup/6603929?source=rss",
+      "publishedAt": "2026-11-25T06:58:10.000Z",
+      "xQuery": "妻殺害した疑い 医師の男を再逮捕"
     },
     {
-      "time": "15:31",
-      "title": "マツダ本社工場にイノシシ 見失う",
+      "time": "15:37",
+      "title": "3人逮捕「闇美容クリニック」潜入",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603925?source=rss",
-      "publishedAt": "2026-11-25T06:31:02.000Z",
-      "xQuery": "マツダ本社工場にイノシシ 見失う"
+      "url": "https://news.yahoo.co.jp/pickup/6603927?source=rss",
+      "publishedAt": "2026-11-25T06:37:45.000Z",
+      "xQuery": "3人逮捕「闇美容クリニック」潜入"
     }
   ]
 };
