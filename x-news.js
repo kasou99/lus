@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-25T08:15:55.863Z",
+  "updatedAt": "2026-11-25T08:36:17.635Z",
   "items": [
     {
       "time": "16:18",
@@ -18,28 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "福岡市で刺された男性死亡 男逃走"
     },
     {
+      "time": "16:59",
+      "title": "プルデンシャル 新規契約が92%減",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603940?source=rss",
+      "publishedAt": "2026-11-25T07:59:22.000Z",
+      "xQuery": "プルデンシャル 新規契約が92%減"
+    },
+    {
+      "time": "17:30",
+      "title": "クマ巡る抗議 前橋市役所に数百件",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603945?source=rss",
+      "publishedAt": "2026-11-25T08:30:54.000Z",
+      "xQuery": "クマ巡る抗議 前橋市役所に数百件"
+    },
+    {
       "time": "15:58",
       "title": "妻殺害した疑い 医師の男を再逮捕",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6603929?source=rss",
       "publishedAt": "2026-11-25T06:58:10.000Z",
       "xQuery": "妻殺害した疑い 医師の男を再逮捕"
-    },
-    {
-      "time": "15:58",
-      "title": "海遊館 ラッコ4頭を12月から展示",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603928?source=rss",
-      "publishedAt": "2026-11-25T06:58:43.000Z",
-      "xQuery": "海遊館 ラッコ4頭を12月から展示"
-    },
-    {
-      "time": "16:36",
-      "title": "おでんツンツンで大炎上 男性の今",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603937?source=rss",
-      "publishedAt": "2026-11-25T07:36:10.000Z",
-      "xQuery": "おでんツンツンで大炎上 男性の今"
     }
   ]
 };
