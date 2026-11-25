@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-25T02:37:13.717Z",
+  "updatedAt": "2026-11-25T03:13:54.006Z",
   "items": [
     {
       "time": "11:28",
@@ -10,36 +10,36 @@ window.LUS_X_NEWS = {
       "xQuery": "日経平均 一時2000円超値下がり"
     },
     {
-      "time": "09:18",
-      "title": "首相が文科相擁護 辞任ドミノ懸念",
+      "time": "11:17",
+      "title": "週後半は気温上昇予想 寒暖差注意",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603876?source=rss",
-      "publishedAt": "2026-11-25T00:18:57.000Z",
-      "xQuery": "首相が文科相擁護 辞任ドミノ懸念"
+      "url": "https://news.yahoo.co.jp/pickup/6603895?source=rss",
+      "publishedAt": "2026-11-25T02:17:33.000Z",
+      "xQuery": "週後半は気温上昇予想 寒暖差注意"
     },
     {
-      "time": "08:17",
-      "title": "住宅で流血の女性が死亡 殺人か",
+      "time": "11:32",
+      "title": "広島強殺事件 殺意なかったと供述",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603869?source=rss",
-      "publishedAt": "2026-11-24T23:17:49.000Z",
-      "xQuery": "住宅で流血の女性が死亡 殺人か"
+      "url": "https://news.yahoo.co.jp/pickup/6603900?source=rss",
+      "publishedAt": "2026-11-25T02:32:05.000Z",
+      "xQuery": "広島強殺事件 殺意なかったと供述"
     },
     {
-      "time": "10:56",
-      "title": "マツダ本社工場にイノシシ 捜索中",
+      "time": "11:47",
+      "title": "消えた技能実習生 今も6600人不明",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603891?source=rss",
-      "publishedAt": "2026-11-25T01:56:14.000Z",
-      "xQuery": "マツダ本社工場にイノシシ 捜索中"
+      "url": "https://news.yahoo.co.jp/pickup/6603898?source=rss",
+      "publishedAt": "2026-11-25T02:47:00.000Z",
+      "xQuery": "消えた技能実習生 今も6600人不明"
     },
     {
-      "time": "10:22",
-      "title": "中国の宇宙船 初の外国人乗組員",
+      "time": "11:29",
+      "title": "SHEINが和解金160億円支払いへ 米",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603886?source=rss",
-      "publishedAt": "2026-11-25T01:22:17.000Z",
-      "xQuery": "中国の宇宙船 初の外国人乗組員"
+      "url": "https://news.yahoo.co.jp/pickup/6603899?source=rss",
+      "publishedAt": "2026-11-25T02:29:53.000Z",
+      "xQuery": "SHEINが和解金160億円支払いへ 米"
     }
   ]
 };
