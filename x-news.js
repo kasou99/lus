@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-25T02:16:30.255Z",
+  "updatedAt": "2026-11-25T02:37:13.717Z",
   "items": [
+    {
+      "time": "11:28",
+      "title": "日経平均 一時2000円超値下がり",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6603901?source=rss",
+      "publishedAt": "2026-11-25T02:28:04.000Z",
+      "xQuery": "日経平均 一時2000円超値下がり"
+    },
     {
       "time": "09:18",
       "title": "首相が文科相擁護 辞任ドミノ懸念",
@@ -8,14 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6603876?source=rss",
       "publishedAt": "2026-11-25T00:18:57.000Z",
       "xQuery": "首相が文科相擁護 辞任ドミノ懸念"
-    },
-    {
-      "time": "08:32",
-      "title": "NVIDIAは善良な企業 米司法長官",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603870?source=rss",
-      "publishedAt": "2026-11-24T23:32:03.000Z",
-      "xQuery": "NVIDIAは善良な企業 米司法長官"
     },
     {
       "time": "08:17",
