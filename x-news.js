@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-26T20:36:11.627Z",
+  "updatedAt": "2026-11-26T21:10:24.454Z",
   "items": [
     {
       "time": "20:53",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "笹川環境相側 国契約企業から寄付"
     },
     {
-      "time": "23:54",
-      "title": "ECB総裁にデコス氏 EU首脳承認へ",
+      "time": "06:06",
+      "title": "ECB総裁にデコス氏 EU首脳が合意",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604123?source=rss",
-      "publishedAt": "2026-11-26T14:54:27.000Z",
-      "xQuery": "ECB総裁にデコス氏 EU首脳承認へ"
+      "url": "https://news.yahoo.co.jp/pickup/6604124?source=rss",
+      "publishedAt": "2026-11-26T21:06:20.000Z",
+      "xQuery": "ECB総裁にデコス氏 EU首脳が合意"
     },
     {
       "time": "23:22",
