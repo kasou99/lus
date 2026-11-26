@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T00:29:26.106Z",
+  "updatedAt": "2026-11-26T00:49:10.307Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,18 +31,18 @@
         "publishedAt": "2026-11-25T06:00:23.000Z"
       },
       {
-        "time": "16:24",
-        "title": "【福裕 FY2026 Q3 決算説明会】福裕、今期前三半期EPS 0.63台湾ドルで黒字転換 工作機械本業の粗利益率27%、受注増加で2027年第1四半期に強気見通し",
-        "source": "BigGo ファイナンス",
-        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBDcTd1SGx1cDREcmhtNHZ6SXNvczhLajRtQXhjUE1TVnFiYmFfeUV3WWxEVEVFWUtsTk02cTFoZDltWi1OZVdNLXA3bXFyV084QUd4T3hGZ0ZWQmJSY2F1bA?oc=5",
-        "publishedAt": "2026-11-25T07:24:00.000Z"
-      },
-      {
         "time": "23:05",
         "title": "Tesla、工作機械メーカーEMAG本社にドイツ法人を登記",
         "source": "Mezha.net",
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNF9HMTFZLVQzUEV4b0lXSHZxdmU2QXlsUmxNV3dGWlhzY1F2WHRNaUdoTDV0MktEWjVJTFJSVnU1U19kWXZ0UXdoT1Q4Y1NwbG1hQ3N6WWhyajNEbjc0b0h2Y2RFYkF4dUhrNnF1d0dmSVNwUTVtZ1lTWmt5U0dHX3BBLUdYcG5TQmNEX1duVUlxcmZBNFBIa0F1akl4M1VC?oc=5",
         "publishedAt": "2026-11-25T14:05:00.000Z"
+      },
+      {
+        "time": "16:24",
+        "title": "【福裕 FY2026 Q3 決算説明会】福裕、今期前三半期EPS 0.63台湾ドルで黒字転換 工作機械本業の粗利益率27%、受注増加で2027年第1四半期に強気見通し",
+        "source": "BigGo ファイナンス",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBDcTd1SGx1cDREcmhtNHZ6SXNvczhLajRtQXhjUE1TVnFiYmFfeUV3WWxEVEVFWUtsTk02cTFoZDltWi1OZVdNLXA3bXFyV084QUd4T3hGZ0ZWQmJSY2F1bA?oc=5",
+        "publishedAt": "2026-11-25T07:24:00.000Z"
       },
       {
         "time": "10:23",
@@ -105,6 +105,13 @@
     ],
     "economyHeadlines": [
       {
+        "time": "09:44",
+        "title": "NVIDIAを格下げ方向で見直し S&P",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6604015?source=rss",
+        "publishedAt": "2026-11-26T00:44:56.000Z"
+      },
+      {
         "time": "06:15",
         "title": "フアン氏の復帰 企業統治に批判",
         "source": "Yahoo!ニュース",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6603964?source=rss",
         "publishedAt": "2026-11-25T10:08:02.000Z"
-      },
-      {
-        "time": "22:01",
-        "title": "パイロット不足 航空の2030年問題",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6603979?source=rss",
-        "publishedAt": "2026-11-25T13:01:50.000Z"
       }
     ],
     "localHeadlines": [
@@ -177,18 +177,18 @@
         "publishedAt": "2026-11-25T14:46:07.000Z"
       },
       {
+        "time": "09:29",
+        "title": "男性を車で120m引きずり疑い 逮捕",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6604014?source=rss",
+        "publishedAt": "2026-11-26T00:29:47.000Z"
+      },
+      {
         "time": "17:30",
         "title": "クマ巡る抗議 前橋市役所に数百件",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6603945?source=rss",
         "publishedAt": "2026-11-25T08:30:54.000Z"
-      },
-      {
-        "time": "15:37",
-        "title": "3人逮捕「闇美容クリニック」潜入",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6603927?source=rss",
-        "publishedAt": "2026-11-25T06:37:45.000Z"
       }
     ],
     "subsidyHeadlines": [

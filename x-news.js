@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-26T00:29:27.002Z",
+  "updatedAt": "2026-11-26T00:49:11.371Z",
   "items": [
     {
       "time": "07:52",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "エジプトで複数台事故 30人超死亡"
     },
     {
-      "time": "23:46",
-      "title": "神奈川の死亡事故 5分以上逆走か",
+      "time": "09:29",
+      "title": "男性を車で120m引きずり疑い 逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603988?source=rss",
-      "publishedAt": "2026-11-25T14:46:07.000Z",
-      "xQuery": "神奈川の死亡事故 5分以上逆走か"
+      "url": "https://news.yahoo.co.jp/pickup/6604014?source=rss",
+      "publishedAt": "2026-11-26T00:29:47.000Z",
+      "xQuery": "男性を車で120m引きずり疑い 逮捕"
     },
     {
       "time": "09:04",
