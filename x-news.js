@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-26T14:12:13.215Z",
+  "updatedAt": "2026-11-26T14:36:15.728Z",
   "items": [
     {
       "time": "20:37",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "笹川環境相側 国契約企業から寄付"
     },
     {
-      "time": "21:29",
-      "title": "スバル 4車種約18万台リコール",
+      "time": "23:22",
+      "title": "北朝鮮が露軍事支援停止か ウ発表",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604115?source=rss",
-      "publishedAt": "2026-11-26T12:29:02.000Z",
-      "xQuery": "スバル 4車種約18万台リコール"
+      "url": "https://news.yahoo.co.jp/pickup/6604122?source=rss",
+      "publishedAt": "2026-11-26T14:22:48.000Z",
+      "xQuery": "北朝鮮が露軍事支援停止か ウ発表"
     },
     {
-      "time": "21:02",
-      "title": "徳島・阿波市長 辞職願を提出",
+      "time": "22:19",
+      "title": "福井の山中に遺体 殺人疑い再逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604112?source=rss",
-      "publishedAt": "2026-11-26T12:02:34.000Z",
-      "xQuery": "徳島・阿波市長 辞職願を提出"
+      "url": "https://news.yahoo.co.jp/pickup/6604117?source=rss",
+      "publishedAt": "2026-11-26T13:19:10.000Z",
+      "xQuery": "福井の山中に遺体 殺人疑い再逮捕"
     },
     {
       "time": "21:14",

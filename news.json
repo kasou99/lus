@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T14:12:12.514Z",
+  "updatedAt": "2026-11-26T14:36:14.565Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -61,6 +61,13 @@
     ],
     "worldHeadlines": [
       {
+        "time": "23:22",
+        "title": "北朝鮮が露軍事支援停止か ウ発表",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6604122?source=rss",
+        "publishedAt": "2026-11-26T14:22:48.000Z"
+      },
+      {
         "time": "20:37",
         "title": "中国 アメリカの新関税案に反発",
         "source": "Yahoo!ニュース",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6604069?source=rss",
         "publishedAt": "2026-11-26T06:19:56.000Z"
-      },
-      {
-        "time": "14:50",
-        "title": "ネパール災害3カ月 移転拒む住民",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6604063?source=rss",
-        "publishedAt": "2026-11-26T05:50:53.000Z"
       }
     ],
     "economyHeadlines": [
@@ -119,18 +119,18 @@
         "publishedAt": "2026-11-26T12:29:02.000Z"
       },
       {
+        "time": "23:17",
+        "title": "年末年始の「夜行新幹線」続々",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6604121?source=rss",
+        "publishedAt": "2026-11-26T14:17:58.000Z"
+      },
+      {
         "time": "17:44",
         "title": "吉野家HD ダチョウ事業を売却",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6604087?source=rss",
         "publishedAt": "2026-11-26T08:44:48.000Z"
-      },
-      {
-        "time": "19:13",
-        "title": "「夜行新幹線」年末年始に運行へ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6604098?source=rss",
-        "publishedAt": "2026-11-26T10:13:28.000Z"
       },
       {
         "time": "20:31",
