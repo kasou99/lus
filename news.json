@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T15:36:21.509Z",
+  "updatedAt": "2026-11-26T16:12:41.960Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -45,18 +45,18 @@
         "publishedAt": "2026-11-26T02:15:27.000Z"
       },
       {
-        "time": "00:45",
-        "title": "エクサ、関西エアポートグループが目指す安全性のさらなる向上とサステナブルな空港運営に向け、設備保全管理システムを構築",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBHRGUzMmpqU1BZbFo5ZnAyWDZkZEEyWi1XUllOczc4aHhWaEQxbHRBc2wwTHFRMmVFLXR5UmQzTEVuazRMUW5DUkRYbXRUQktWSlZVTm1URWd1U25KaVhRNGd4NVlqSnBs?oc=5",
-        "publishedAt": "2026-11-25T15:45:22.000Z"
-      },
-      {
         "time": "04:02",
         "title": "-40～75℃の過酷環境でも安定動作する、省スペース・コンパクト設計の産業用ギガビットハブを発売",
         "source": "山陽新聞",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9FZmVvdHRtblJHVUwtN0Qzek94dEpERmI4dkJGOTRwdTRxb2VuVF9xOS1lWldxTVQyTVZBZDZ5clR1ckRVajVqSzdFejhHYU5jTXc?oc=5",
         "publishedAt": "2026-11-25T19:02:56.000Z"
+      },
+      {
+        "time": "05:00",
+        "title": "生産ライン 競争力の源泉（139）菊池鋼板興業 経理まで連動、合理化追求",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5LYmk0US1SaXRLN0s5SEJUQ0dQbGlod1BwS0FzLTZYbHowejV3TE4tdG1kZFlhdlRfT2NsVUFLM3Z1T19GZzkySWN6a044R3dIT0tNY2gzaUg?oc=5",
+        "publishedAt": "2026-11-25T20:00:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -215,6 +215,20 @@
         "title": "中小企業省力化投資補助金の公募・採択情報を確認",
         "source": "中小機構",
         "url": "https://seisansei.smrj.go.jp/subsidy_info/laborsaving_subsidy.html"
+      },
+      {
+        "time": "17:00",
+        "title": "【2026年最新】中小企業向け補助金6制度まとめ｜締切・補助率・上限額一覧",
+        "source": "補助金ポータル",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Idm5vYjJtajVIYjhheTZVVTVQTXRXMndVNkRmWnVEZnZyNVRRV3ZncXZhREsxNXBqYXFZSlZmNHhLeHhkbUNRcXljRlJNWVh2ZmZrSXlsVVJsdGI5RGtBdmoxUGx1YlozMUE?oc=5",
+        "publishedAt": "2026-11-05T08:00:00.000Z"
+      },
+      {
+        "time": "17:00",
+        "title": "介護テクノロジー導入支援事業【令和9年度240億円】補助率4/5・47都道府県の受付状況と今からの準備",
+        "source": "補助金ポータル",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBmTVZVRlpoUS0weXJ2SG5VVGNZczBDTzVDV3pGTmY4R0Zib2tMVTdVclRkVmRNVy1DWlFEV2xJcVIxelpNQWVlaUhqR0lObS1QczhieDF4T0N0Y3A4Y0trYw?oc=5",
+        "publishedAt": "2026-11-12T08:00:00.000Z"
       }
     ]
   }
