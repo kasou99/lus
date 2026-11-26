@@ -1,22 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-26T12:16:23.696Z",
+  "updatedAt": "2026-11-26T12:39:34.505Z",
   "items": [
-    {
-      "time": "18:15",
-      "title": "性的いじめ8158件 文科省が初調査",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604089?source=rss",
-      "publishedAt": "2026-11-26T09:15:50.000Z",
-      "xQuery": "性的いじめ8158件 文科省が初調査"
-    },
-    {
-      "time": "14:50",
-      "title": "ネパール災害3カ月 移転拒む住民",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604063?source=rss",
-      "publishedAt": "2026-11-26T05:50:53.000Z",
-      "xQuery": "ネパール災害3カ月 移転拒む住民"
-    },
     {
       "time": "20:37",
       "title": "中国 アメリカの新関税案に反発",
@@ -26,12 +10,28 @@ window.LUS_X_NEWS = {
       "xQuery": "中国 アメリカの新関税案に反発"
     },
     {
+      "time": "20:53",
+      "title": "笹川環境相側 国契約企業から寄付",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6604111?source=rss",
+      "publishedAt": "2026-11-26T11:53:29.000Z",
+      "xQuery": "笹川環境相側 国契約企業から寄付"
+    },
+    {
       "time": "14:49",
       "title": "拘束記者の妻「娘にパパ返して」",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6604065?source=rss",
       "publishedAt": "2026-11-26T05:49:41.000Z",
       "xQuery": "拘束記者の妻「娘にパパ返して」"
+    },
+    {
+      "time": "21:29",
+      "title": "スバル 4車種約18万台リコール",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6604115?source=rss",
+      "publishedAt": "2026-11-26T12:29:02.000Z",
+      "xQuery": "スバル 4車種約18万台リコール"
     },
     {
       "time": "19:13",

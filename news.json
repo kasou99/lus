@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T12:16:23.018Z",
+  "updatedAt": "2026-11-26T12:39:33.792Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -24,18 +24,18 @@
         "publishedAt": "2026-11-25T20:00:00.000Z"
       },
       {
+        "time": "20:05",
+        "title": "日本サーボモータードライブの国内調達先と供給企業",
+        "source": "pando.life",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBPdDR3THhuMlFpbUozTzJrZVVRamtLb2hOSnlGb1JEMDZwTndnUW1qV0JFbldqMXprNVczajZVSVA4NFIzcVlzS0pn?oc=5",
+        "publishedAt": "2026-11-26T11:05:24.000Z"
+      },
+      {
         "time": "13:00",
         "title": "AI統合型設備保全クラウド『EMLink』、オンライン紹介セミナーを11月30日から全10回開催（参加無料）― 設備台帳の一元化からAIエージェントの活用まで45分で解説",
         "source": "PR TIMES",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5DcjZzdk5VUnl0M2Z1UWVRd0o5cUFfZlA5X09WanluZVlrT1Y5SFJQd2VGNi1rbmR6bXpucXF3aGJxMXdBc2pFdlFsRUV6OWNuNWw0STZJWnVGQWR3ZU9TeHBwTE1HaGJHOWc?oc=5",
         "publishedAt": "2026-11-26T04:00:01.000Z"
-      },
-      {
-        "time": "00:03",
-        "title": "「今を一生懸命生きることが大事」 – 東日新聞",
-        "source": "東日新聞",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE45aG55MjhUMU5CSTNTUGx0NzlzUEpkdnZDazdJSEVSbXBVbVE2MEhsUllldXZvMWN6WjdyQmFWUm9LcXMwMWJJX0dwTFp6eVl4QXZYUmlnRGppOUU3eFE?oc=5",
-        "publishedAt": "2026-11-25T15:03:58.000Z"
       },
       {
         "time": "23:05",
@@ -52,11 +52,11 @@
         "publishedAt": "2026-11-26T02:15:27.000Z"
       },
       {
-        "time": "04:02",
-        "title": "-40～75℃の過酷環境でも安定動作する、省スペース・コンパクト設計の産業用ギガビットハブを発売",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9FZmVvdHRtblJHVUwtN0Qzek94dEpERmI4dkJGOTRwdTRxb2VuVF9xOS1lWldxTVQyTVZBZDZ5clR1ckRVajVqSzdFejhHYU5jTXc?oc=5",
-        "publishedAt": "2026-11-25T19:02:56.000Z"
+        "time": "00:45",
+        "title": "エクサ、関西エアポートグループが目指す安全性のさらなる向上とサステナブルな空港運営に向け、設備保全管理システムを構築",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBHRGUzMmpqU1BZbFo5ZnAyWDZkZEEyWi1XUllOczc4aHhWaEQxbHRBc2wwTHFRMmVFLXR5UmQzTEVuazRMUW5DUkRYbXRUQktWSlZVTm1URWd1U25KaVhRNGd4NVlqSnBs?oc=5",
+        "publishedAt": "2026-11-25T15:45:22.000Z"
       }
     ],
     "worldHeadlines": [
@@ -112,6 +112,13 @@
         "publishedAt": "2026-11-26T07:37:47.000Z"
       },
       {
+        "time": "21:29",
+        "title": "スバル 4車種約18万台リコール",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6604115?source=rss",
+        "publishedAt": "2026-11-26T12:29:02.000Z"
+      },
+      {
         "time": "17:44",
         "title": "吉野家HD ダチョウ事業を売却",
         "source": "Yahoo!ニュース",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6604052?source=rss",
         "publishedAt": "2026-11-26T04:25:06.000Z"
-      },
-      {
-        "time": "19:55",
-        "title": "くら寿司 2つの施策に識者違和感",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6604102?source=rss",
-        "publishedAt": "2026-11-26T10:55:26.000Z"
       }
     ],
     "localHeadlines": [
