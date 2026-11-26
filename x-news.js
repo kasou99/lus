@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-26T03:13:20.902Z",
+  "updatedAt": "2026-11-26T03:35:46.831Z",
   "items": [
     {
       "time": "11:53",
@@ -18,6 +18,14 @@ window.LUS_X_NEWS = {
       "xQuery": "中小企業の賃上げ税制 縮小で調整"
     },
     {
+      "time": "12:16",
+      "title": "大阪都構想の協定書案 正式に決定",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6604042?source=rss",
+      "publishedAt": "2026-11-26T03:16:44.000Z",
+      "xQuery": "大阪都構想の協定書案 正式に決定"
+    },
+    {
       "time": "10:32",
       "title": "店の壁に遺体事件 被告が一部否認",
       "source": "Yahoo!ニュース",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6604026?source=rss",
       "publishedAt": "2026-11-26T02:26:05.000Z",
       "xQuery": "若者が注目「フリース」再ブーム"
-    },
-    {
-      "time": "10:44",
-      "title": "料理家・辰巳芳子さん死去 101歳",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604025?source=rss",
-      "publishedAt": "2026-11-26T01:44:40.000Z",
-      "xQuery": "料理家・辰巳芳子さん死去 101歳"
     }
   ]
 };
