@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T01:12:16.819Z",
+  "updatedAt": "2026-11-26T01:39:23.474Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -45,18 +45,18 @@
         "publishedAt": "2026-11-25T14:05:00.000Z"
       },
       {
-        "time": "10:23",
-        "title": "プレスリリース：［設備保全DX］ものづくり ワールド [福岡]に次世代設備保全クラウド「M2X」ブースを出展 新機能「動画マニュアル」を先行公開（PR TIMES）",
-        "source": "毎日新聞",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5sYmE4bmtUc09hT2V4UG9rTFlmV3ZLaFB3QzJONFRDQnNHX2JiaXRiS19VTkI1UlozTEVnR2k5aHk1b09MWmkteWJ6eGhBajR6V2kwOUwwYVBRaHJTcWhoMllBZU1HMFZi?oc=5",
-        "publishedAt": "2026-11-25T01:23:19.000Z"
-      },
-      {
         "time": "15:00",
         "title": "10月の工作機械受注、前年比42%増 AI関連需要の好調持続",
         "source": "日本経済新聞",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9USlkxT1lZbUF6RjBRVlRYVFBhQkxoSEZfa1VCVEt4bFdYd3ZZVkZFLU9VQV9wUVBFeHlldlNEYm42WlJfOXExSmZUQkxaVmtVa0ZDUG5QQjNiQXQ4NDdTRG1xSExUY1FDRjJ6Mg?oc=5",
         "publishedAt": "2026-11-25T06:00:00.000Z"
+      },
+      {
+        "time": "17:00",
+        "title": "10月の工作機械受注、42％増の2043億円 北米けん引 アジアも好調",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5BWFVVSXZ2NTFzLXI0d1YyTF9HUkMtU1lUTklNMUQ5bGtFaUpoRWxPVzBodWQyT0NZU21VQmdObjFkY2prUFlWU1R0Sy1hQ0ZBUnRxRmtXTGg?oc=5",
+        "publishedAt": "2026-11-25T08:00:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "10:32",
+        "title": "店の壁に遺体事件 被告が一部否認",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6604024?source=rss",
+        "publishedAt": "2026-11-26T01:32:44.000Z"
+      },
+      {
         "time": "22:04",
         "title": "福岡刺殺 確保の男を別容疑で逮捕",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6604014?source=rss",
         "publishedAt": "2026-11-26T00:29:47.000Z"
-      },
-      {
-        "time": "17:30",
-        "title": "クマ巡る抗議 前橋市役所に数百件",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6603945?source=rss",
-        "publishedAt": "2026-11-25T08:30:54.000Z"
       }
     ],
     "subsidyHeadlines": [

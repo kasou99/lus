@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-26T01:12:17.706Z",
+  "updatedAt": "2026-11-26T01:39:24.102Z",
   "items": [
     {
-      "time": "07:52",
-      "title": "日本語試験の増設を検討 外務省",
+      "time": "10:21",
+      "title": "野党 文科相の問責案を参院に提出",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603996?source=rss",
-      "publishedAt": "2026-11-25T22:52:44.000Z",
-      "xQuery": "日本語試験の増設を検討 外務省"
+      "url": "https://news.yahoo.co.jp/pickup/6604023?source=rss",
+      "publishedAt": "2026-11-26T01:21:49.000Z",
+      "xQuery": "野党 文科相の問責案を参院に提出"
     },
     {
       "time": "08:09",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "NVIDIAを格下げ方向で見直し S&P"
     },
     {
+      "time": "10:32",
+      "title": "店の壁に遺体事件 被告が一部否認",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6604024?source=rss",
+      "publishedAt": "2026-11-26T01:32:44.000Z",
+      "xQuery": "店の壁に遺体事件 被告が一部否認"
+    },
+    {
       "time": "09:29",
       "title": "男性を車で120m引きずり疑い 逮捕",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6604014?source=rss",
       "publishedAt": "2026-11-26T00:29:47.000Z",
       "xQuery": "男性を車で120m引きずり疑い 逮捕"
-    },
-    {
-      "time": "09:04",
-      "title": "窓開けリンゴ確保 クマの学習能力",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604008?source=rss",
-      "publishedAt": "2026-11-26T00:04:16.000Z",
-      "xQuery": "窓開けリンゴ確保 クマの学習能力"
     }
   ]
 };
