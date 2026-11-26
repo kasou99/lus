@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-26T01:39:24.102Z",
+  "updatedAt": "2026-11-26T02:15:44.239Z",
   "items": [
     {
       "time": "10:21",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "店の壁に遺体事件 被告が一部否認"
     },
     {
-      "time": "09:29",
-      "title": "男性を車で120m引きずり疑い 逮捕",
+      "time": "10:44",
+      "title": "料理家・辰巳芳子さん死去 101歳",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604014?source=rss",
-      "publishedAt": "2026-11-26T00:29:47.000Z",
-      "xQuery": "男性を車で120m引きずり疑い 逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6604025?source=rss",
+      "publishedAt": "2026-11-26T01:44:40.000Z",
+      "xQuery": "料理家・辰巳芳子さん死去 101歳"
     }
   ]
 };
