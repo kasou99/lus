@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-26T11:36:22.958Z",
+  "updatedAt": "2026-11-26T12:16:23.696Z",
   "items": [
     {
       "time": "18:15",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "ネパール災害3カ月 移転拒む住民"
     },
     {
+      "time": "20:37",
+      "title": "中国 アメリカの新関税案に反発",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6604107?source=rss",
+      "publishedAt": "2026-11-26T11:37:31.000Z",
+      "xQuery": "中国 アメリカの新関税案に反発"
+    },
+    {
       "time": "14:49",
       "title": "拘束記者の妻「娘にパパ返して」",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6604065?source=rss",
       "publishedAt": "2026-11-26T05:49:41.000Z",
       "xQuery": "拘束記者の妻「娘にパパ返して」"
-    },
-    {
-      "time": "20:31",
-      "title": "持ち帰り残業巡り 労災認める判決",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604108?source=rss",
-      "publishedAt": "2026-11-26T11:31:25.000Z",
-      "xQuery": "持ち帰り残業巡り 労災認める判決"
     },
     {
       "time": "19:13",
