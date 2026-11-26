@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-26T13:11:29.848Z",
+  "updatedAt": "2026-11-26T13:36:23.026Z",
   "items": [
     {
       "time": "20:37",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "笹川環境相側 国契約企業から寄付"
     },
     {
-      "time": "14:49",
-      "title": "拘束記者の妻「娘にパパ返して」",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604065?source=rss",
-      "publishedAt": "2026-11-26T05:49:41.000Z",
-      "xQuery": "拘束記者の妻「娘にパパ返して」"
-    },
-    {
       "time": "21:29",
       "title": "スバル 4車種約18万台リコール",
       "source": "Yahoo!ニュース",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "スバル 4車種約18万台リコール"
     },
     {
-      "time": "19:13",
-      "title": "「夜行新幹線」年末年始に運行へ",
+      "time": "21:02",
+      "title": "徳島・阿波市長 辞職願を提出",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604098?source=rss",
-      "publishedAt": "2026-11-26T10:13:28.000Z",
-      "xQuery": "「夜行新幹線」年末年始に運行へ"
+      "url": "https://news.yahoo.co.jp/pickup/6604112?source=rss",
+      "publishedAt": "2026-11-26T12:02:34.000Z",
+      "xQuery": "徳島・阿波市長 辞職願を提出"
+    },
+    {
+      "time": "21:14",
+      "title": "汚水が混入か 飲食店ビルで食中毒",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6604114?source=rss",
+      "publishedAt": "2026-11-26T12:14:49.000Z",
+      "xQuery": "汚水が混入か 飲食店ビルで食中毒"
     }
   ]
 };
