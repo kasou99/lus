@@ -1,6 +1,22 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-26T07:35:40.351Z",
+  "updatedAt": "2026-11-26T08:15:35.265Z",
   "items": [
+    {
+      "time": "16:37",
+      "title": "中部電 不正関わった社員6人処分",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6604080?source=rss",
+      "publishedAt": "2026-11-26T07:37:47.000Z",
+      "xQuery": "中部電 不正関わった社員6人処分"
+    },
+    {
+      "time": "16:16",
+      "title": "補正予算でガソリン補助継続 政府",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6604071?source=rss",
+      "publishedAt": "2026-11-26T07:16:32.000Z",
+      "xQuery": "補正予算でガソリン補助継続 政府"
+    },
     {
       "time": "15:19",
       "title": "香港高層住宅火災1年 遺族の憤り",
@@ -10,28 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "香港高層住宅火災1年 遺族の憤り"
     },
     {
-      "time": "11:46",
-      "title": "宇宙DC 米当局が条件付きで認可",
+      "time": "16:39",
+      "title": "記者拘束 妻が手記で早期解放訴え",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604033?source=rss",
-      "publishedAt": "2026-11-26T02:46:05.000Z",
-      "xQuery": "宇宙DC 米当局が条件付きで認可"
-    },
-    {
-      "time": "14:49",
-      "title": "拘束記者の妻「娘にパパ返して」",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604065?source=rss",
-      "publishedAt": "2026-11-26T05:49:41.000Z",
-      "xQuery": "拘束記者の妻「娘にパパ返して」"
-    },
-    {
-      "time": "15:17",
-      "title": "習近平氏の粛清止まらず 後継者は",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604044?source=rss",
-      "publishedAt": "2026-11-26T06:17:22.000Z",
-      "xQuery": "習近平氏の粛清止まらず 後継者は"
+      "url": "https://news.yahoo.co.jp/pickup/6604076?source=rss",
+      "publishedAt": "2026-11-26T07:39:17.000Z",
+      "xQuery": "記者拘束 妻が手記で早期解放訴え"
     },
     {
       "time": "15:27",

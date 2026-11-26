@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T07:35:39.767Z",
+  "updatedAt": "2026-11-26T08:15:34.355Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -11,24 +11,31 @@
       },
       {
         "time": "05:00",
+        "title": "日本工作機械工業会、工作機械受注10月42％増 北米けん引 アジアも好調",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4xT1ZPX1QzZ0JlUV9kQVlqeTdtYzUtd2l5MlNVeXdMYmJpWkp1TDBGVm1oeHl3cDJUcmRsWnQ3WUdqRllqR3VZYVJKNXJBeWRESkctaGQ4b3A?oc=5",
+        "publishedAt": "2026-11-25T20:00:00.000Z"
+      },
+      {
+        "time": "05:00",
         "title": "車向け工作機械､10月の受注は11%減 7カ月ぶりマイナス",
         "source": "日本経済新聞",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAwZEd5Tkp5RFJiVUhadk9DeFR1S0FWdGxkSks3ZmppT3lCRmhjMHJxOUxLZmFRb3BMLVNEWlpES2JVbVk2ckI4ZWt2cHpXdlJGVWdXOVBBWHpnQl9reVdhaGlHSXY3YVJtOHJQUksyd28tSDVHNmVhLWNXR3N1UlU?oc=5",
         "publishedAt": "2026-11-25T20:00:00.000Z"
       },
       {
-        "time": "13:00",
+        "time": "16:45",
         "title": "AI統合型設備保全クラウド『EMLink』、オンライン紹介セミナーを11月30日から全10回開催（参加無料）― 設備台帳の一元化からAIエージェントの活用まで45分で解説",
-        "source": "PR TIMES",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5DcjZzdk5VUnl0M2Z1UWVRd0o5cUFfZlA5X09WanluZVlrT1Y5SFJQd2VGNi1rbmR6bXpucXF3aGJxMXdBc2pFdlFsRUV6OWNuNWw0STZJWnVGQWR3ZU9TeHBwTE1HaGJHOWc?oc=5",
-        "publishedAt": "2026-11-26T04:00:01.000Z"
+        "source": "Excite エキサイト",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9DNzRzeVVKWHBqMU9qZEROMEQzS3RTY0tKN3JyZGwtTHNONEpvSXNTVnk2WERoSDBwRkpuTTNhakJRSktJVmZvTS1FX2ctXzVWUVNGUGZlSGktbzlQMlRfejk0LWhQY3Vfd0gtNWNnQWFqQTRP?oc=5",
+        "publishedAt": "2026-11-26T07:45:00.000Z"
       },
       {
-        "time": "17:00",
-        "title": "10月の工作機械受注、42％増の2043億円 北米けん引 アジアも好調",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5BWFVVSXZ2NTFzLXI0d1YyTF9HUkMtU1lUTklNMUQ5bGtFaUpoRWxPVzBodWQyT0NZU21VQmdObjFkY2prUFlWU1R0Sy1hQ0ZBUnRxRmtXTGg?oc=5",
-        "publishedAt": "2026-11-25T08:00:00.000Z"
+        "time": "00:03",
+        "title": "「今を一生懸命生きることが大事」 – 東日新聞",
+        "source": "東日新聞",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE45aG55MjhUMU5CSTNTUGx0NzlzUEpkdnZDazdJSEVSbXBVbVE2MEhsUllldXZvMWN6WjdyQmFWUm9LcXMwMWJJX0dwTFp6eVl4QXZYUmlnRGppOUU3eFE?oc=5",
+        "publishedAt": "2026-11-25T15:03:58.000Z"
       },
       {
         "time": "23:05",
@@ -45,18 +52,11 @@
         "publishedAt": "2026-11-26T02:15:27.000Z"
       },
       {
-        "time": "17:00",
-        "title": "FALCON MACHINE TOOLS CO.,LTD 2026-11-25 決算説明会",
-        "source": "BigGo ファイナンス",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5xc21sa19nenRkQ2RDWjRkTFRkcll6UDBxUTJDWHd3YXhMUmxUUHY2aDQ1bmRXa1BTT3Z1Xy1KSGlwbU5jdDhJX2g2VEx2RElITVpPNEFLYmFaTkZfbHBaTVV1VC13SE93RmFyeXZiTmpTVERuYi1EdlNaTFBUUTA?oc=5",
-        "publishedAt": "2026-11-25T08:00:05.000Z"
-      },
-      {
-        "time": "16:53",
-        "title": "工作機械のヤマザキマザック、自動化・工程集約に力 岐阜で展示会",
-        "source": "日本経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1WWTRfSE9waWJLOVRac3MtM2xfNHJYaFJQUmp2Ym9NYkJUWVY4SVdnWi1XSTM0YkZ0eGlyamwzeWVNQU1TeFR3VHRfdWFleFdDcVpiSDE0M0V1VjBfVHpkYURsV19DeW1tSC1sXw?oc=5",
-        "publishedAt": "2026-11-25T07:53:37.000Z"
+        "time": "09:30",
+        "title": "カーボンファイバーカップリングの世界市場（2026年～2032年）、市場規模（ディスクカップリング、ギアカップリング、プラムカップリング、その他）・分析レポートを発表",
+        "source": "アットプレス",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5XQmVJSUJRM2VXTFpCUHZFQkw2TUhJaVN3MGNiQ1dicG5OeTVaX3ZoYkNRbGZMcWxVOURZME5YS2h4OEFfTVZKT2w4YTM4NHM?oc=5",
+        "publishedAt": "2026-11-26T00:30:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -105,11 +105,11 @@
     ],
     "economyHeadlines": [
       {
-        "time": "13:57",
-        "title": "中部電 不正関わった関係者処分へ",
+        "time": "16:37",
+        "title": "中部電 不正関わった社員6人処分",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6604056?source=rss",
-        "publishedAt": "2026-11-26T04:57:37.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6604080?source=rss",
+        "publishedAt": "2026-11-26T07:37:47.000Z"
       },
       {
         "time": "09:44",
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "16:39",
+        "title": "記者拘束 妻が手記で早期解放訴え",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6604076?source=rss",
+        "publishedAt": "2026-11-26T07:39:17.000Z"
+      },
+      {
         "time": "14:49",
         "title": "拘束記者の妻「娘にパパ返して」",
         "source": "Yahoo!ニュース",
@@ -161,13 +168,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6604058?source=rss",
         "publishedAt": "2026-11-26T05:03:43.000Z"
-      },
-      {
-        "time": "12:16",
-        "title": "大阪都構想の協定書案 正式に決定",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6604042?source=rss",
-        "publishedAt": "2026-11-26T03:16:44.000Z"
       },
       {
         "time": "13:36",
