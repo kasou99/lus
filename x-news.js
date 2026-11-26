@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-26T02:36:45.023Z",
+  "updatedAt": "2026-11-26T03:13:20.902Z",
   "items": [
     {
-      "time": "10:21",
-      "title": "野党 文科相の問責案を参院に提出",
+      "time": "11:53",
+      "title": "問責案受け 文科相「説明尽くす」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604023?source=rss",
-      "publishedAt": "2026-11-26T01:21:49.000Z",
-      "xQuery": "野党 文科相の問責案を参院に提出"
+      "url": "https://news.yahoo.co.jp/pickup/6604038?source=rss",
+      "publishedAt": "2026-11-26T02:53:54.000Z",
+      "xQuery": "問責案受け 文科相「説明尽くす」"
     },
     {
-      "time": "08:09",
-      "title": "米36州がDC事業者に規制を導入",
+      "time": "08:39",
+      "title": "中小企業の賃上げ税制 縮小で調整",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604002?source=rss",
-      "publishedAt": "2026-11-25T23:09:25.000Z",
-      "xQuery": "米36州がDC事業者に規制を導入"
+      "url": "https://news.yahoo.co.jp/pickup/6604006?source=rss",
+      "publishedAt": "2026-11-25T23:39:50.000Z",
+      "xQuery": "中小企業の賃上げ税制 縮小で調整"
     },
     {
       "time": "10:32",
