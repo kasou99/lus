@@ -1,37 +1,37 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-26T09:35:35.420Z",
+  "updatedAt": "2026-11-26T10:11:52.531Z",
   "items": [
     {
-      "time": "16:37",
-      "title": "中部電 不正関わった社員6人処分",
+      "time": "18:15",
+      "title": "性的いじめ8158件 文科省が初調査",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604080?source=rss",
-      "publishedAt": "2026-11-26T07:37:47.000Z",
-      "xQuery": "中部電 不正関わった社員6人処分"
+      "url": "https://news.yahoo.co.jp/pickup/6604089?source=rss",
+      "publishedAt": "2026-11-26T09:15:50.000Z",
+      "xQuery": "性的いじめ8158件 文科省が初調査"
     },
     {
-      "time": "17:31",
-      "title": "井林国交相 企業から違法献金疑い",
+      "time": "18:37",
+      "title": "福岡刺殺 死因は出血性ショック",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604085?source=rss",
-      "publishedAt": "2026-11-26T08:31:52.000Z",
-      "xQuery": "井林国交相 企業から違法献金疑い"
+      "url": "https://news.yahoo.co.jp/pickup/6604096?source=rss",
+      "publishedAt": "2026-11-26T09:37:45.000Z",
+      "xQuery": "福岡刺殺 死因は出血性ショック"
     },
     {
-      "time": "17:37",
-      "title": "不登校の小中学生 最多の35.9万人",
+      "time": "18:30",
+      "title": "治療目的の不適切入国 規制強化案",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604086?source=rss",
-      "publishedAt": "2026-11-26T08:37:45.000Z",
-      "xQuery": "不登校の小中学生 最多の35.9万人"
+      "url": "https://news.yahoo.co.jp/pickup/6604095?source=rss",
+      "publishedAt": "2026-11-26T09:30:07.000Z",
+      "xQuery": "治療目的の不適切入国 規制強化案"
     },
     {
-      "time": "15:27",
-      "title": "もう限界 カナリア諸島に移民殺到",
+      "time": "14:49",
+      "title": "拘束記者の妻「娘にパパ返して」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604068?source=rss",
-      "publishedAt": "2026-11-26T06:27:34.000Z",
-      "xQuery": "もう限界 カナリア諸島に移民殺到"
+      "url": "https://news.yahoo.co.jp/pickup/6604065?source=rss",
+      "publishedAt": "2026-11-26T05:49:41.000Z",
+      "xQuery": "拘束記者の妻「娘にパパ返して」"
     },
     {
       "time": "16:49",

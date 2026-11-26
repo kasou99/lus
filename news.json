@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T09:35:34.777Z",
+  "updatedAt": "2026-11-26T10:11:51.734Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,6 +31,13 @@
         "publishedAt": "2026-11-25T20:00:00.000Z"
       },
       {
+        "time": "00:03",
+        "title": "「今を一生懸命生きることが大事」 – 東日新聞",
+        "source": "東日新聞",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE45aG55MjhUMU5CSTNTUGx0NzlzUEpkdnZDazdJSEVSbXBVbVE2MEhsUllldXZvMWN6WjdyQmFWUm9LcXMwMWJJX0dwTFp6eVl4QXZYUmlnRGppOUU3eFE?oc=5",
+        "publishedAt": "2026-11-25T15:03:58.000Z"
+      },
+      {
         "time": "23:05",
         "title": "Tesla、工作機械メーカーEMAG本社にドイツ法人を登記",
         "source": "Mezha.net",
@@ -45,18 +52,11 @@
         "publishedAt": "2026-11-26T02:15:27.000Z"
       },
       {
-        "time": "00:45",
-        "title": "エクサ、関西エアポートグループが目指す安全性のさらなる向上とサステナブルな空港運営に向け、設備保全管理システムを構築",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBHRGUzMmpqU1BZbFo5ZnAyWDZkZEEyWi1XUllOczc4aHhWaEQxbHRBc2wwTHFRMmVFLXR5UmQzTEVuazRMUW5DUkRYbXRUQktWSlZVTm1URWd1U25KaVhRNGd4NVlqSnBs?oc=5",
-        "publishedAt": "2026-11-25T15:45:22.000Z"
-      },
-      {
-        "time": "00:03",
-        "title": "「今を一生懸命生きることが大事」 – 東日新聞",
-        "source": "東日新聞",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE45aG55MjhUMU5CSTNTUGx0NzlzUEpkdnZDazdJSEVSbXBVbVE2MEhsUllldXZvMWN6WjdyQmFWUm9LcXMwMWJJX0dwTFp6eVl4QXZYUmlnRGppOUU3eFE?oc=5",
-        "publishedAt": "2026-11-25T15:03:58.000Z"
+        "time": "05:00",
+        "title": "生産ライン 競争力の源泉（139）菊池鋼板興業 経理まで連動、合理化追求",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5LYmk0US1SaXRLN0s5SEJUQ0dQbGlod1BwS0FzLTZYbHowejV3TE4tdG1kZFlhdlRfT2NsVUFLM3Z1T19GZzkySWN6a044R3dIT0tNY2gzaUg?oc=5",
+        "publishedAt": "2026-11-25T20:00:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -149,11 +149,11 @@
     ],
     "localHeadlines": [
       {
-        "time": "16:39",
-        "title": "記者拘束 妻が手記で早期解放訴え",
+        "time": "18:37",
+        "title": "福岡刺殺 死因は出血性ショック",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6604076?source=rss",
-        "publishedAt": "2026-11-26T07:39:17.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6604096?source=rss",
+        "publishedAt": "2026-11-26T09:37:45.000Z"
       },
       {
         "time": "14:49",
