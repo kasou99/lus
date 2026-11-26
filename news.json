@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T21:10:23.361Z",
+  "updatedAt": "2026-11-26T21:35:52.107Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -140,14 +140,21 @@
         "publishedAt": "2026-11-26T11:31:25.000Z"
       },
       {
-        "time": "13:25",
-        "title": "ホンダ 逆輸入のアキュラ来月発売",
+        "time": "06:20",
+        "title": "アメ横周辺の道に机 営業停止処分",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6604052?source=rss",
-        "publishedAt": "2026-11-26T04:25:06.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6604126?source=rss",
+        "publishedAt": "2026-11-26T21:20:31.000Z"
       }
     ],
     "localHeadlines": [
+      {
+        "time": "06:15",
+        "title": "沖縄県本島北部 線状降水帯が発生",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6604125?source=rss",
+        "publishedAt": "2026-11-26T21:15:22.000Z"
+      },
       {
         "time": "18:37",
         "title": "福岡刺殺 死因は出血性ショック",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6604112?source=rss",
         "publishedAt": "2026-11-26T12:02:34.000Z"
-      },
-      {
-        "time": "16:49",
-        "title": "遠足で女児が熱中症 市に逆転勝訴",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6604074?source=rss",
-        "publishedAt": "2026-11-26T07:49:28.000Z"
       }
     ],
     "subsidyHeadlines": [
