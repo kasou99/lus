@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-26T22:35:41.175Z",
+  "updatedAt": "2026-11-26T23:10:00.299Z",
   "items": [
+    {
+      "time": "07:33",
+      "title": "問責案きょう採決 可否は見通せず",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6604133?source=rss",
+      "publishedAt": "2026-11-26T22:33:53.000Z",
+      "xQuery": "問責案きょう採決 可否は見通せず"
+    },
     {
       "time": "06:15",
       "title": "沖縄県本島北部 線状降水帯が発生",
@@ -10,28 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "沖縄県本島北部 線状降水帯が発生"
     },
     {
-      "time": "06:06",
-      "title": "ECB総裁にデコス氏 EU首脳が合意",
+      "time": "07:39",
+      "title": "女性死亡 飲酒しひき逃げ疑い逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604124?source=rss",
-      "publishedAt": "2026-11-26T21:06:20.000Z",
-      "xQuery": "ECB総裁にデコス氏 EU首脳が合意"
+      "url": "https://news.yahoo.co.jp/pickup/6604132?source=rss",
+      "publishedAt": "2026-11-26T22:39:32.000Z",
+      "xQuery": "女性死亡 飲酒しひき逃げ疑い逮捕"
     },
     {
-      "time": "23:22",
-      "title": "北朝鮮が露軍事支援停止か ウ発表",
+      "time": "07:49",
+      "title": "製油所で爆発9人負傷 バンコク",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604122?source=rss",
-      "publishedAt": "2026-11-26T14:22:48.000Z",
-      "xQuery": "北朝鮮が露軍事支援停止か ウ発表"
-    },
-    {
-      "time": "06:20",
-      "title": "アメ横周辺の道に机 営業停止処分",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604126?source=rss",
-      "publishedAt": "2026-11-26T21:20:31.000Z",
-      "xQuery": "アメ横周辺の道に机 営業停止処分"
+      "url": "https://news.yahoo.co.jp/pickup/6604135?source=rss",
+      "publishedAt": "2026-11-26T22:49:45.000Z",
+      "xQuery": "製油所で爆発9人負傷 バンコク"
     },
     {
       "time": "06:56",

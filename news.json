@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T22:35:40.548Z",
+  "updatedAt": "2026-11-26T23:09:59.599Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,18 +17,25 @@
         "publishedAt": "2026-11-26T11:05:24.000Z"
       },
       {
-        "time": "06:48",
-        "title": "【カスタムパーツ事業強化 第6弾】カスタムジャパン、 「POSH Faith」の取扱商品を全ラインアップに拡大",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE40V05ia1NnOUE3cnE1TEVETUxfSjQ3MVJLQUlYQnVfRC1Vb0FKaXY1STJQNjBwTzBid2ZobmtOWnAtZHZvdUVnY3gtNXhUZEU0Sm1jUjRHbEtOazN6NTlOUWRYSVFZdjhz?oc=5",
-        "publishedAt": "2026-11-26T21:48:40.000Z"
-      },
-      {
         "time": "13:00",
         "title": "AI統合型設備保全クラウド『EMLink』、オンライン紹介セミナーを11月30日から全10回開催（参加無料）― 設備台帳の一元化からAIエージェントの活用まで45分で解説",
         "source": "PR TIMES",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5DcjZzdk5VUnl0M2Z1UWVRd0o5cUFfZlA5X09WanluZVlrT1Y5SFJQd2VGNi1rbmR6bXpucXF3aGJxMXdBc2pFdlFsRUV6OWNuNWw0STZJWnVGQWR3ZU9TeHBwTE1HaGJHOWc?oc=5",
         "publishedAt": "2026-11-26T04:00:01.000Z"
+      },
+      {
+        "time": "11:15",
+        "title": "M2X、『Forbes JAPAN』-時代を開く旗手たち 2027年注目の日本発スタートアップ100選-に選出",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBCSGVtU01pZDBUcGpUTmdDSEpFbTVsYVhISmg4b0wxeV8teFlMQkFCMEpKdHJRTVk3ZGtYbS1ablFNVUNOSWdPRTlRWm11OVJQNzNENVJYcHBXOS00WjdNU3NqMVNLbzNz?oc=5",
+        "publishedAt": "2026-11-26T02:15:27.000Z"
+      },
+      {
+        "time": "22:25",
+        "title": "三星半導体工場、無人化を追求 ロボットチーム発足、2028年稼働で自動化の空白を補完",
+        "source": "BigGo ファイナンス",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5ESEJBdWlRVGk2cDMybFJjSkNzemMwVDZFdUctcW43cHpraXplbkZWYlRJVHc4d3ZqMmlsdVFhemMzbnBpMjF5OS1haHVPZVBSNTVIWXNVWHdoUl9JRWFjTDlsUDVwTW14aHBNNkFyZnNZbEJR?oc=5",
+        "publishedAt": "2026-11-26T13:25:00.000Z"
       },
       {
         "time": "14:31",
@@ -38,13 +45,6 @@
         "publishedAt": "2026-11-26T05:31:00.000Z"
       },
       {
-        "time": "07:07",
-        "title": "男性死亡…高速回転の機械に巻き込まれる 会社で仕事中 男性は体が動かず、機械に覆いかぶさった状態…異変に気付いた同僚が発見 男性は会社員90歳",
-        "source": "ｄメニューニュース",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObTBxajlmWW1XRXc0VUhrRjJOa0pRUU1BS282bTAtd1BqX1RSc0N5YUcya05jN3Q3OU1ySnhpMGJsc0tSTE5sbVZiTFJYd01YTFVCeUxLVmEtd2wyd3FmeVBxMkJMd1lzRUVsTEM4Y283VFpaeG1TOC1hcXVNWnNneGE4Q2tCU2tYMUd4dDZhNXFNMzlkS0HSAYgBQVVfeXFMTVE2eEJZbjFFWXhReU5HVFRRNlpBazhVX3VOb3owQ1d5SlB3RVpDRDZJY01VQmptOGRESWJqWVlZZ0xUb3pxRTE2eE13NG40U3BzQ2g2UnFDUXR5b3BSNFBPeVZSQ0Q3V2tDRjhuWW5WSkdFeDRJeXhwU2wyY1VNVEllOHg1c082LQ?oc=5",
-        "publishedAt": "2026-11-26T22:07:27.000Z"
-      },
-      {
         "time": "10:00",
         "title": "単軸サーボシステムコントローラの世界市場（2026年～2032年）、市場規模（ブラシ付きサーボシステムコントローラ、ブラシレスサーボシステムコントローラ）・分析レポートを発表",
         "source": "Newscast.jp",
@@ -52,11 +52,11 @@
         "publishedAt": "2026-11-26T01:00:00.000Z"
       },
       {
-        "time": "09:30",
-        "title": "カーボンファイバーカップリングの世界市場（2026年～2032年）、市場規模（ディスクカップリング、ギアカップリング、プラムカップリング、その他）・分析レポートを発表",
-        "source": "アットプレス",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5XQmVJSUJRM2VXTFpCUHZFQkw2TUhJaVN3MGNiQ1dicG5OeTVaX3ZoYkNRbGZMcWxVOURZME5YS2h4OEFfTVZKT2w4YTM4NHM?oc=5",
-        "publishedAt": "2026-11-26T00:30:00.000Z"
+        "time": "06:47",
+        "title": "男性死亡…高速回転の機械に巻き込まれる 会社で仕事中 男性は体が動かず、機械に覆いかぶさった状態…異変に気付いた同僚が発見 男性は会社員90歳",
+        "source": "埼玉新聞",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE55YnV4OF9vdE4tbTRhM3pkaC16a2ZyaEhzNnhWamlCQThZdUNUcnZkd0p4cXZDdEpONmVTM2M4T2FfdE9veDlCem5JVFY5ZjlpZlNKTTU3NA?oc=5",
+        "publishedAt": "2026-11-26T21:47:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -96,11 +96,11 @@
         "publishedAt": "2026-11-26T06:17:22.000Z"
       },
       {
-        "time": "08:09",
-        "title": "米36州がDC事業者に規制を導入",
+        "time": "07:49",
+        "title": "製油所で爆発9人負傷 バンコク",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6604002?source=rss",
-        "publishedAt": "2026-11-25T23:09:25.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6604135?source=rss",
+        "publishedAt": "2026-11-26T22:49:45.000Z"
       }
     ],
     "economyHeadlines": [
@@ -133,18 +133,18 @@
         "publishedAt": "2026-11-26T08:44:48.000Z"
       },
       {
+        "time": "07:56",
+        "title": "JTなど 英たばこ大手買収検討か",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6604136?source=rss",
+        "publishedAt": "2026-11-26T22:56:24.000Z"
+      },
+      {
         "time": "20:31",
         "title": "持ち帰り残業巡り 労災認める判決",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6604108?source=rss",
         "publishedAt": "2026-11-26T11:31:25.000Z"
-      },
-      {
-        "time": "06:56",
-        "title": "ちいかわイベ グッズ早期完売謝罪",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6604129?source=rss",
-        "publishedAt": "2026-11-26T21:56:12.000Z"
       }
     ],
     "localHeadlines": [
@@ -156,18 +156,18 @@
         "publishedAt": "2026-11-26T21:15:22.000Z"
       },
       {
-        "time": "18:37",
-        "title": "福岡刺殺 死因は出血性ショック",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6604096?source=rss",
-        "publishedAt": "2026-11-26T09:37:45.000Z"
-      },
-      {
         "time": "14:49",
         "title": "拘束記者の妻「娘にパパ返して」",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6604065?source=rss",
         "publishedAt": "2026-11-26T05:49:41.000Z"
+      },
+      {
+        "time": "07:39",
+        "title": "女性死亡 飲酒しひき逃げ疑い逮捕",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6604132?source=rss",
+        "publishedAt": "2026-11-26T22:39:32.000Z"
       },
       {
         "time": "22:19",
