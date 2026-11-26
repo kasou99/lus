@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-26T03:35:46.831Z",
+  "updatedAt": "2026-11-26T04:13:43.995Z",
   "items": [
     {
       "time": "11:53",
@@ -10,14 +10,6 @@ window.LUS_X_NEWS = {
       "xQuery": "問責案受け 文科相「説明尽くす」"
     },
     {
-      "time": "08:39",
-      "title": "中小企業の賃上げ税制 縮小で調整",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604006?source=rss",
-      "publishedAt": "2026-11-25T23:39:50.000Z",
-      "xQuery": "中小企業の賃上げ税制 縮小で調整"
-    },
-    {
       "time": "12:16",
       "title": "大阪都構想の協定書案 正式に決定",
       "source": "Yahoo!ニュース",
@@ -26,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "大阪都構想の協定書案 正式に決定"
     },
     {
-      "time": "10:32",
-      "title": "店の壁に遺体事件 被告が一部否認",
+      "time": "12:45",
+      "title": "神戸6歳死亡に「涙流した」と被告",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604024?source=rss",
-      "publishedAt": "2026-11-26T01:32:44.000Z",
-      "xQuery": "店の壁に遺体事件 被告が一部否認"
+      "url": "https://news.yahoo.co.jp/pickup/6604048?source=rss",
+      "publishedAt": "2026-11-26T03:45:30.000Z",
+      "xQuery": "神戸6歳死亡に「涙流した」と被告"
     },
     {
       "time": "11:26",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6604026?source=rss",
       "publishedAt": "2026-11-26T02:26:05.000Z",
       "xQuery": "若者が注目「フリース」再ブーム"
+    },
+    {
+      "time": "10:44",
+      "title": "料理家・辰巳芳子さん死去 101歳",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6604025?source=rss",
+      "publishedAt": "2026-11-26T01:44:40.000Z",
+      "xQuery": "料理家・辰巳芳子さん死去 101歳"
     }
   ]
 };

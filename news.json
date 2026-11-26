@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T03:35:46.112Z",
+  "updatedAt": "2026-11-26T04:13:43.516Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -15,6 +15,13 @@
         "source": "日本経済新聞",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAwZEd5Tkp5RFJiVUhadk9DeFR1S0FWdGxkSks3ZmppT3lCRmhjMHJxOUxLZmFRb3BMLVNEWlpES2JVbVk2ckI4ZWt2cHpXdlJGVWdXOVBBWHpnQl9reVdhaGlHSXY3YVJtOHJQUksyd28tSDVHNmVhLWNXR3N1UlU?oc=5",
         "publishedAt": "2026-11-25T20:00:00.000Z"
+      },
+      {
+        "time": "13:00",
+        "title": "AI統合型設備保全クラウド『EMLink』、オンライン紹介セミナーを11月30日から全10回開催（参加無料）― 設備台帳の一元化からAIエージェントの活用まで45分で解説",
+        "source": "PR TIMES",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5DcjZzdk5VUnl0M2Z1UWVRd0o5cUFfZlA5X09WanluZVlrT1Y5SFJQd2VGNi1rbmR6bXpucXF3aGJxMXdBc2pFdlFsRUV6OWNuNWw0STZJWnVGQWR3ZU9TeHBwTE1HaGJHOWc?oc=5",
+        "publishedAt": "2026-11-26T04:00:01.000Z"
       },
       {
         "time": "17:00",
@@ -50,13 +57,6 @@
         "source": "ニコニコニュース",
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBCSGVtU01pZDBUcGpUTmdDSEpFbTVsYVhISmg4b0wxeV8teFlMQkFCMEpKdHJRTVk3ZGtYbS1ablFNVUNOSWdPRTlRWm11OVJQNzNENVJYcHBXOS00WjdNU3NqMVNLbzNz?oc=5",
         "publishedAt": "2026-11-26T02:15:27.000Z"
-      },
-      {
-        "time": "15:00",
-        "title": "10月の工作機械受注、前年比42%増 AI関連需要の好調持続",
-        "source": "日本経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9USlkxT1lZbUF6RjBRVlRYVFBhQkxoSEZfa1VCVEt4bFdYd3ZZVkZFLU9VQV9wUVBFeHlldlNEYm42WlJfOXExSmZUQkxaVmtVa0ZDUG5QQjNiQXQ4NDdTRG1xSExUY1FDRjJ6Mg?oc=5",
-        "publishedAt": "2026-11-25T06:00:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -163,18 +163,18 @@
         "publishedAt": "2026-11-26T01:32:44.000Z"
       },
       {
-        "time": "22:04",
-        "title": "福岡刺殺 確保の男を別容疑で逮捕",
+        "time": "12:45",
+        "title": "神戸6歳死亡に「涙流した」と被告",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6603982?source=rss",
-        "publishedAt": "2026-11-25T13:04:10.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6604048?source=rss",
+        "publishedAt": "2026-11-26T03:45:30.000Z"
       },
       {
-        "time": "18:36",
-        "title": "逮捕の徳島・阿波市長が辞任意向",
+        "time": "13:06",
+        "title": "兵庫の3歳女児死亡 臓器に萎縮",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6603958?source=rss",
-        "publishedAt": "2026-11-25T09:36:31.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6604051?source=rss",
+        "publishedAt": "2026-11-26T04:06:08.000Z"
       },
       {
         "time": "23:46",
