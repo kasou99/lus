@@ -1,14 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-26T14:36:15.728Z",
+  "updatedAt": "2026-11-26T15:11:23.921Z",
   "items": [
-    {
-      "time": "20:37",
-      "title": "中国 アメリカの新関税案に反発",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604107?source=rss",
-      "publishedAt": "2026-11-26T11:37:31.000Z",
-      "xQuery": "中国 アメリカの新関税案に反発"
-    },
     {
       "time": "20:53",
       "title": "笹川環境相側 国契約企業から寄付",
@@ -16,6 +8,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6604111?source=rss",
       "publishedAt": "2026-11-26T11:53:29.000Z",
       "xQuery": "笹川環境相側 国契約企業から寄付"
+    },
+    {
+      "time": "23:54",
+      "title": "ECB総裁にデコス氏 EU首脳承認へ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6604123?source=rss",
+      "publishedAt": "2026-11-26T14:54:27.000Z",
+      "xQuery": "ECB総裁にデコス氏 EU首脳承認へ"
     },
     {
       "time": "23:22",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "北朝鮮が露軍事支援停止か ウ発表"
     },
     {
-      "time": "22:19",
-      "title": "福井の山中に遺体 殺人疑い再逮捕",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604117?source=rss",
-      "publishedAt": "2026-11-26T13:19:10.000Z",
-      "xQuery": "福井の山中に遺体 殺人疑い再逮捕"
-    },
-    {
       "time": "21:14",
       "title": "汚水が混入か 飲食店ビルで食中毒",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6604114?source=rss",
       "publishedAt": "2026-11-26T12:14:49.000Z",
       "xQuery": "汚水が混入か 飲食店ビルで食中毒"
+    },
+    {
+      "time": "22:19",
+      "title": "福井の山中に遺体 殺人疑い再逮捕",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6604117?source=rss",
+      "publishedAt": "2026-11-26T13:19:10.000Z",
+      "xQuery": "福井の山中に遺体 殺人疑い再逮捕"
     }
   ]
 };

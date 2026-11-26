@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T14:36:14.565Z",
+  "updatedAt": "2026-11-26T15:11:23.118Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,13 +38,6 @@
         "publishedAt": "2026-11-26T04:00:01.000Z"
       },
       {
-        "time": "00:03",
-        "title": "「今を一生懸命生きることが大事」 – 東日新聞",
-        "source": "東日新聞",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE45aG55MjhUMU5CSTNTUGx0NzlzUEpkdnZDazdJSEVSbXBVbVE2MEhsUllldXZvMWN6WjdyQmFWUm9LcXMwMWJJX0dwTFp6eVl4QXZYUmlnRGppOUU3eFE?oc=5",
-        "publishedAt": "2026-11-25T15:03:58.000Z"
-      },
-      {
         "time": "11:15",
         "title": "M2X、『Forbes JAPAN』-時代を開く旗手たち 2027年注目の日本発スタートアップ100選-に選出",
         "source": "ニコニコニュース",
@@ -57,6 +50,13 @@
         "source": "山陽新聞",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9FZmVvdHRtblJHVUwtN0Qzek94dEpERmI4dkJGOTRwdTRxb2VuVF9xOS1lWldxTVQyTVZBZDZ5clR1ckRVajVqSzdFejhHYU5jTXc?oc=5",
         "publishedAt": "2026-11-25T19:02:56.000Z"
+      },
+      {
+        "time": "09:30",
+        "title": "カーボンファイバーカップリングの世界市場（2026年～2032年）、市場規模（ディスクカップリング、ギアカップリング、プラムカップリング、その他）・分析レポートを発表",
+        "source": "アットプレス",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5XQmVJSUJRM2VXTFpCUHZFQkw2TUhJaVN3MGNiQ1dicG5OeTVaX3ZoYkNRbGZMcWxVOURZME5YS2h4OEFfTVZKT2w4YTM4NHM?oc=5",
+        "publishedAt": "2026-11-26T00:30:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -73,6 +73,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6604107?source=rss",
         "publishedAt": "2026-11-26T11:37:31.000Z"
+      },
+      {
+        "time": "23:54",
+        "title": "ECB総裁にデコス氏 EU首脳承認へ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6604123?source=rss",
+        "publishedAt": "2026-11-26T14:54:27.000Z"
       },
       {
         "time": "12:16",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6604002?source=rss",
         "publishedAt": "2026-11-25T23:09:25.000Z"
-      },
-      {
-        "time": "15:19",
-        "title": "香港高層住宅火災1年 遺族の憤り",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6604069?source=rss",
-        "publishedAt": "2026-11-26T06:19:56.000Z"
       }
     ],
     "economyHeadlines": [
