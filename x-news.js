@@ -1,21 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-26T04:13:43.995Z",
+  "updatedAt": "2026-11-26T04:35:55.226Z",
   "items": [
     {
-      "time": "11:53",
-      "title": "問責案受け 文科相「説明尽くす」",
+      "time": "12:49",
+      "title": "米国の新関税案 木原氏「遺憾」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604038?source=rss",
-      "publishedAt": "2026-11-26T02:53:54.000Z",
-      "xQuery": "問責案受け 文科相「説明尽くす」"
+      "url": "https://news.yahoo.co.jp/pickup/6604050?source=rss",
+      "publishedAt": "2026-11-26T03:49:34.000Z",
+      "xQuery": "米国の新関税案 木原氏「遺憾」"
     },
     {
-      "time": "12:16",
-      "title": "大阪都構想の協定書案 正式に決定",
+      "time": "10:16",
+      "title": "地震で船団解散 再出発する漁師",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604042?source=rss",
-      "publishedAt": "2026-11-26T03:16:44.000Z",
-      "xQuery": "大阪都構想の協定書案 正式に決定"
+      "url": "https://news.yahoo.co.jp/pickup/6604016?source=rss",
+      "publishedAt": "2026-11-26T01:16:28.000Z",
+      "xQuery": "地震で船団解散 再出発する漁師"
+    },
+    {
+      "time": "13:06",
+      "title": "兵庫の3歳女児死亡 臓器に萎縮",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6604051?source=rss",
+      "publishedAt": "2026-11-26T04:06:08.000Z",
+      "xQuery": "兵庫の3歳女児死亡 臓器に萎縮"
     },
     {
       "time": "12:45",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6604026?source=rss",
       "publishedAt": "2026-11-26T02:26:05.000Z",
       "xQuery": "若者が注目「フリース」再ブーム"
-    },
-    {
-      "time": "10:44",
-      "title": "料理家・辰巳芳子さん死去 101歳",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604025?source=rss",
-      "publishedAt": "2026-11-26T01:44:40.000Z",
-      "xQuery": "料理家・辰巳芳子さん死去 101歳"
     }
   ]
 };

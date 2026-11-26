@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T04:13:43.516Z",
+  "updatedAt": "2026-11-26T04:35:54.637Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -133,18 +133,18 @@
         "publishedAt": "2026-11-25T12:10:10.000Z"
       },
       {
+        "time": "13:25",
+        "title": "ホンダ 逆輸入のアキュラ来月発売",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6604052?source=rss",
+        "publishedAt": "2026-11-26T04:25:06.000Z"
+      },
+      {
         "time": "19:08",
         "title": "トヨタ「新型カムリ」12月に発売",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6603964?source=rss",
         "publishedAt": "2026-11-25T10:08:02.000Z"
-      },
-      {
-        "time": "22:01",
-        "title": "パイロット不足 航空の2030年問題",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6603979?source=rss",
-        "publishedAt": "2026-11-25T13:01:50.000Z"
       }
     ],
     "localHeadlines": [
