@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T08:36:07.994Z",
+  "updatedAt": "2026-11-26T09:13:26.950Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -119,18 +119,18 @@
         "publishedAt": "2026-11-26T00:44:56.000Z"
       },
       {
-        "time": "06:15",
-        "title": "フアン氏の復帰 企業統治に批判",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6603991?source=rss",
-        "publishedAt": "2026-11-25T21:15:51.000Z"
-      },
-      {
         "time": "08:39",
         "title": "中小企業の賃上げ税制 縮小で調整",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6604006?source=rss",
         "publishedAt": "2026-11-25T23:39:50.000Z"
+      },
+      {
+        "time": "17:44",
+        "title": "吉野家HD ダチョウ事業を売却",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6604087?source=rss",
+        "publishedAt": "2026-11-26T08:44:48.000Z"
       },
       {
         "time": "13:25",
@@ -170,13 +170,6 @@
         "publishedAt": "2026-11-26T05:03:43.000Z"
       },
       {
-        "time": "13:36",
-        "title": "山上被告側の控訴審主張 注目点は",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6604054?source=rss",
-        "publishedAt": "2026-11-26T04:36:20.000Z"
-      },
-      {
         "time": "13:06",
         "title": "兵庫の3歳女児死亡 臓器に萎縮",
         "source": "Yahoo!ニュース",
@@ -189,6 +182,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6604082?source=rss",
         "publishedAt": "2026-11-26T08:19:08.000Z"
+      },
+      {
+        "time": "16:49",
+        "title": "遠足で女児が熱中症 市に逆転勝訴",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6604074?source=rss",
+        "publishedAt": "2026-11-26T07:49:28.000Z"
       }
     ],
     "subsidyHeadlines": [

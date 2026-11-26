@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-26T08:36:09.019Z",
+  "updatedAt": "2026-11-26T09:13:27.955Z",
   "items": [
     {
       "time": "16:37",
@@ -10,12 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "中部電 不正関わった社員6人処分"
     },
     {
-      "time": "16:16",
-      "title": "補正予算でガソリン補助継続 政府",
+      "time": "17:31",
+      "title": "井林国交相 企業から違法献金疑い",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604071?source=rss",
-      "publishedAt": "2026-11-26T07:16:32.000Z",
-      "xQuery": "補正予算でガソリン補助継続 政府"
+      "url": "https://news.yahoo.co.jp/pickup/6604085?source=rss",
+      "publishedAt": "2026-11-26T08:31:52.000Z",
+      "xQuery": "井林国交相 企業から違法献金疑い"
+    },
+    {
+      "time": "17:37",
+      "title": "不登校の小中学生 最多の35.9万人",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6604086?source=rss",
+      "publishedAt": "2026-11-26T08:37:45.000Z",
+      "xQuery": "不登校の小中学生 最多の35.9万人"
     },
     {
       "time": "15:27",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6604074?source=rss",
       "publishedAt": "2026-11-26T07:49:28.000Z",
       "xQuery": "遠足で女児が熱中症 市に逆転勝訴"
-    },
-    {
-      "time": "17:07",
-      "title": "巡査が警察署で拳銃を誤射か 埼玉",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604081?source=rss",
-      "publishedAt": "2026-11-26T08:07:54.000Z",
-      "xQuery": "巡査が警察署で拳銃を誤射か 埼玉"
     }
   ]
 };
