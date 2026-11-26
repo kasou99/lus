@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-26T10:36:18.721Z",
+  "updatedAt": "2026-11-26T11:10:42.622Z",
   "items": [
     {
       "time": "18:15",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "「夜行新幹線」年末年始に運行へ"
     },
     {
-      "time": "17:44",
-      "title": "吉野家HD ダチョウ事業を売却",
+      "time": "18:40",
+      "title": "大雪停電で200匹死ぬ 水族館思い",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604087?source=rss",
-      "publishedAt": "2026-11-26T08:44:48.000Z",
-      "xQuery": "吉野家HD ダチョウ事業を売却"
+      "url": "https://news.yahoo.co.jp/pickup/6604094?source=rss",
+      "publishedAt": "2026-11-26T09:40:42.000Z",
+      "xQuery": "大雪停電で200匹死ぬ 水族館思い"
     }
   ]
 };
