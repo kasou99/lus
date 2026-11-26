@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-25T23:35:35.875Z",
+  "updatedAt": "2026-11-26T00:29:27.002Z",
   "items": [
     {
-      "time": "00:17",
-      "title": "米 日中やEUなどに新関税を提案",
+      "time": "07:52",
+      "title": "日本語試験の増設を検討 外務省",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603990?source=rss",
-      "publishedAt": "2026-11-25T15:17:03.000Z",
-      "xQuery": "米 日中やEUなどに新関税を提案"
+      "url": "https://news.yahoo.co.jp/pickup/6603996?source=rss",
+      "publishedAt": "2026-11-25T22:52:44.000Z",
+      "xQuery": "日本語試験の増設を検討 外務省"
     },
     {
       "time": "07:44",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "AI法改正案の概要判明 罰則新設"
     },
     {
-      "time": "22:04",
-      "title": "福岡刺殺 確保の男を別容疑で逮捕",
+      "time": "08:29",
+      "title": "エジプトで複数台事故 30人超死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603982?source=rss",
-      "publishedAt": "2026-11-25T13:04:10.000Z",
-      "xQuery": "福岡刺殺 確保の男を別容疑で逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6604004?source=rss",
+      "publishedAt": "2026-11-25T23:29:24.000Z",
+      "xQuery": "エジプトで複数台事故 30人超死亡"
     },
     {
       "time": "23:46",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "神奈川の死亡事故 5分以上逆走か"
     },
     {
-      "time": "23:17",
-      "title": "くら寿司 ちいかわ企画初日で終了",
+      "time": "09:04",
+      "title": "窓開けリンゴ確保 クマの学習能力",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603987?source=rss",
-      "publishedAt": "2026-11-25T14:17:26.000Z",
-      "xQuery": "くら寿司 ちいかわ企画初日で終了"
+      "url": "https://news.yahoo.co.jp/pickup/6604008?source=rss",
+      "publishedAt": "2026-11-26T00:04:16.000Z",
+      "xQuery": "窓開けリンゴ確保 クマの学習能力"
     }
   ]
 };
