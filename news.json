@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T05:36:34.939Z",
+  "updatedAt": "2026-11-26T06:20:12.696Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,13 +38,6 @@
         "publishedAt": "2026-11-25T14:05:00.000Z"
       },
       {
-        "time": "15:00",
-        "title": "１０月工作機械受注は２０４４億円で歴代２位、前年比４割超増、北米は３カ月連続過去最高(ウエルスアドバイザー)",
-        "source": "Yahoo!ファイナンス",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOOWRGb1pvQ1djVEVoMWpiR1lWa3kyRldIV2lfT20ybWI1cGVjbG5TVl9oUVN5dDNmSGZQYkNFU25hbFlCOEhENWhzOFhxM2JTMUdVZThFMnl6VTRDV1g3alRaejdtN1JUZG1FOXBSUG5YZjNabWxBbkIwQjFFNlgxSmdSUG5pMFE?oc=5",
-        "publishedAt": "2026-11-25T06:00:23.000Z"
-      },
-      {
         "time": "11:15",
         "title": "M2X、『Forbes JAPAN』-時代を開く旗手たち 2027年注目の日本発スタートアップ100選-に選出",
         "source": "ニコニコニュース",
@@ -57,6 +50,13 @@
         "source": "BigGo ファイナンス",
         "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBDcTd1SGx1cDREcmhtNHZ6SXNvczhLajRtQXhjUE1TVnFiYmFfeUV3WWxEVEVFWUtsTk02cTFoZDltWi1OZVdNLXA3bXFyV084QUd4T3hGZ0ZWQmJSY2F1bA?oc=5",
         "publishedAt": "2026-11-25T07:24:00.000Z"
+      },
+      {
+        "time": "16:53",
+        "title": "工作機械のヤマザキマザック、自動化・工程集約に力 岐阜で展示会",
+        "source": "日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1WWTRfSE9waWJLOVRac3MtM2xfNHJYaFJQUmp2Ym9NYkJUWVY4SVdnWi1XSTM0YkZ0eGlyamwzeWVNQU1TeFR3VHRfdWFleFdDcVpiSDE0M0V1VjBfVHpkYURsV19DeW1tSC1sXw?oc=5",
+        "publishedAt": "2026-11-25T07:53:37.000Z"
       }
     ],
     "worldHeadlines": [
@@ -75,18 +75,18 @@
         "publishedAt": "2026-11-26T03:16:33.000Z"
       },
       {
+        "time": "15:17",
+        "title": "習近平氏の粛清止まらず 後継者は",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6604044?source=rss",
+        "publishedAt": "2026-11-26T06:17:22.000Z"
+      },
+      {
         "time": "08:09",
         "title": "米36州がDC事業者に規制を導入",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6604002?source=rss",
         "publishedAt": "2026-11-25T23:09:25.000Z"
-      },
-      {
-        "time": "15:32",
-        "title": "露船撃沈 場所にリビア選ばれた訳",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6603931?source=rss",
-        "publishedAt": "2026-11-25T06:32:03.000Z"
       },
       {
         "time": "12:15",
@@ -96,11 +96,11 @@
         "publishedAt": "2026-11-26T03:15:50.000Z"
       },
       {
-        "time": "08:29",
-        "title": "エジプトで複数台事故 30人超死亡",
+        "time": "14:50",
+        "title": "ネパール災害3カ月 移転拒む住民",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6604004?source=rss",
-        "publishedAt": "2026-11-25T23:29:24.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6604063?source=rss",
+        "publishedAt": "2026-11-26T05:50:53.000Z"
       }
     ],
     "economyHeadlines": [
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "14:49",
+        "title": "拘束記者の妻「娘にパパ返して」",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6604065?source=rss",
+        "publishedAt": "2026-11-26T05:49:41.000Z"
+      },
+      {
         "time": "14:03",
         "title": "福岡刺殺事件 口論などなく襲撃か",
         "source": "Yahoo!ニュース",
@@ -168,13 +175,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6604054?source=rss",
         "publishedAt": "2026-11-26T04:36:20.000Z"
-      },
-      {
-        "time": "10:32",
-        "title": "店の壁に遺体事件 被告が一部否認",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6604024?source=rss",
-        "publishedAt": "2026-11-26T01:32:44.000Z"
       },
       {
         "time": "12:45",
