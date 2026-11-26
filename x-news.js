@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-26T21:35:52.860Z",
+  "updatedAt": "2026-11-26T22:10:45.228Z",
   "items": [
     {
       "time": "06:15",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "北朝鮮が露軍事支援停止か ウ発表"
     },
     {
-      "time": "06:20",
-      "title": "アメ横周辺の道に机 営業停止処分",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604126?source=rss",
-      "publishedAt": "2026-11-26T21:20:31.000Z",
-      "xQuery": "アメ横周辺の道に机 営業停止処分"
-    },
-    {
       "time": "21:14",
       "title": "汚水が混入か 飲食店ビルで食中毒",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6604114?source=rss",
       "publishedAt": "2026-11-26T12:14:49.000Z",
       "xQuery": "汚水が混入か 飲食店ビルで食中毒"
+    },
+    {
+      "time": "06:20",
+      "title": "アメ横周辺の道に机 営業停止処分",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6604126?source=rss",
+      "publishedAt": "2026-11-26T21:20:31.000Z",
+      "xQuery": "アメ横周辺の道に机 営業停止処分"
     }
   ]
 };
