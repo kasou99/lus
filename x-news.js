@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-26T23:10:00.299Z",
+  "updatedAt": "2026-11-26T23:35:50.770Z",
   "items": [
     {
       "time": "07:33",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "問責案きょう採決 可否は見通せず"
     },
     {
-      "time": "06:15",
-      "title": "沖縄県本島北部 線状降水帯が発生",
+      "time": "08:17",
+      "title": "ロシア 高市氏との首脳対話認める",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604125?source=rss",
-      "publishedAt": "2026-11-26T21:15:22.000Z",
-      "xQuery": "沖縄県本島北部 線状降水帯が発生"
+      "url": "https://news.yahoo.co.jp/pickup/6604138?source=rss",
+      "publishedAt": "2026-11-26T23:17:23.000Z",
+      "xQuery": "ロシア 高市氏との首脳対話認める"
     },
     {
       "time": "07:39",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "女性死亡 飲酒しひき逃げ疑い逮捕"
     },
     {
-      "time": "07:49",
-      "title": "製油所で爆発9人負傷 バンコク",
+      "time": "07:56",
+      "title": "JTなど 英たばこ大手買収検討か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604135?source=rss",
-      "publishedAt": "2026-11-26T22:49:45.000Z",
-      "xQuery": "製油所で爆発9人負傷 バンコク"
+      "url": "https://news.yahoo.co.jp/pickup/6604136?source=rss",
+      "publishedAt": "2026-11-26T22:56:24.000Z",
+      "xQuery": "JTなど 英たばこ大手買収検討か"
     },
     {
       "time": "06:56",

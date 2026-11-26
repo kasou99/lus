@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T23:09:59.599Z",
+  "updatedAt": "2026-11-26T23:35:49.586Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -52,14 +52,21 @@
         "publishedAt": "2026-11-26T01:00:00.000Z"
       },
       {
-        "time": "06:47",
+        "time": "07:07",
         "title": "男性死亡…高速回転の機械に巻き込まれる 会社で仕事中 男性は体が動かず、機械に覆いかぶさった状態…異変に気付いた同僚が発見 男性は会社員90歳",
-        "source": "埼玉新聞",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE55YnV4OF9vdE4tbTRhM3pkaC16a2ZyaEhzNnhWamlCQThZdUNUcnZkd0p4cXZDdEpONmVTM2M4T2FfdE9veDlCem5JVFY5ZjlpZlNKTTU3NA?oc=5",
-        "publishedAt": "2026-11-26T21:47:00.000Z"
+        "source": "ｄメニューニュース",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObTBxajlmWW1XRXc0VUhrRjJOa0pRUU1BS282bTAtd1BqX1RSc0N5YUcya05jN3Q3OU1ySnhpMGJsc0tSTE5sbVZiTFJYd01YTFVCeUxLVmEtd2wyd3FmeVBxMkJMd1lzRUVsTEM4Y283VFpaeG1TOC1hcXVNWnNneGE4Q2tCU2tYMUd4dDZhNXFNMzlkS0HSAYgBQVVfeXFMTVE2eEJZbjFFWXhReU5HVFRRNlpBazhVX3VOb3owQ1d5SlB3RVpDRDZJY01VQmptOGRESWJqWVlZZ0xUb3pxRTE2eE13NG40U3BzQ2g2UnFDUXR5b3BSNFBPeVZSQ0Q3V2tDRjhuWW5WSkdFeDRJeXhwU2wyY1VNVEllOHg1c082LQ?oc=5",
+        "publishedAt": "2026-11-26T22:07:27.000Z"
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "08:17",
+        "title": "ロシア 高市氏との首脳対話認める",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6604138?source=rss",
+        "publishedAt": "2026-11-26T23:17:23.000Z"
+      },
       {
         "time": "23:22",
         "title": "北朝鮮が露軍事支援停止か ウ発表",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6604044?source=rss",
         "publishedAt": "2026-11-26T06:17:22.000Z"
-      },
-      {
-        "time": "07:49",
-        "title": "製油所で爆発9人負傷 バンコク",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6604135?source=rss",
-        "publishedAt": "2026-11-26T22:49:45.000Z"
       }
     ],
     "economyHeadlines": [
