@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-26T06:20:13.469Z",
+  "updatedAt": "2026-11-26T06:43:42.776Z",
   "items": [
     {
-      "time": "12:15",
-      "title": "香港高層住宅火災1年 遺族の思い",
+      "time": "15:19",
+      "title": "香港高層住宅火災1年 遺族の憤り",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604041?source=rss",
-      "publishedAt": "2026-11-26T03:15:50.000Z",
-      "xQuery": "香港高層住宅火災1年 遺族の思い"
+      "url": "https://news.yahoo.co.jp/pickup/6604069?source=rss",
+      "publishedAt": "2026-11-26T06:19:56.000Z",
+      "xQuery": "香港高層住宅火災1年 遺族の憤り"
     },
     {
       "time": "11:46",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "宇宙DC 米当局が条件付きで認可"
     },
     {
-      "time": "13:36",
-      "title": "山上被告側の控訴審主張 注目点は",
+      "time": "15:17",
+      "title": "習近平氏の粛清止まらず 後継者は",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604054?source=rss",
-      "publishedAt": "2026-11-26T04:36:20.000Z",
-      "xQuery": "山上被告側の控訴審主張 注目点は"
+      "url": "https://news.yahoo.co.jp/pickup/6604044?source=rss",
+      "publishedAt": "2026-11-26T06:17:22.000Z",
+      "xQuery": "習近平氏の粛清止まらず 後継者は"
     },
     {
       "time": "14:49",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "拘束記者の妻「娘にパパ返して」"
     },
     {
-      "time": "13:06",
-      "title": "兵庫の3歳女児死亡 臓器に萎縮",
+      "time": "15:27",
+      "title": "もう限界 カナリア諸島に移民殺到",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604051?source=rss",
-      "publishedAt": "2026-11-26T04:06:08.000Z",
-      "xQuery": "兵庫の3歳女児死亡 臓器に萎縮"
+      "url": "https://news.yahoo.co.jp/pickup/6604068?source=rss",
+      "publishedAt": "2026-11-26T06:27:34.000Z",
+      "xQuery": "もう限界 カナリア諸島に移民殺到"
     }
   ]
 };
