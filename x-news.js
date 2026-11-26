@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-26T02:15:44.239Z",
+  "updatedAt": "2026-11-26T02:36:45.023Z",
   "items": [
     {
       "time": "10:21",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "米36州がDC事業者に規制を導入"
     },
     {
-      "time": "09:44",
-      "title": "NVIDIAを格下げ方向で見直し S&P",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604015?source=rss",
-      "publishedAt": "2026-11-26T00:44:56.000Z",
-      "xQuery": "NVIDIAを格下げ方向で見直し S&P"
-    },
-    {
       "time": "10:32",
       "title": "店の壁に遺体事件 被告が一部否認",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6604024?source=rss",
       "publishedAt": "2026-11-26T01:32:44.000Z",
       "xQuery": "店の壁に遺体事件 被告が一部否認"
+    },
+    {
+      "time": "11:26",
+      "title": "若者が注目「フリース」再ブーム",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6604026?source=rss",
+      "publishedAt": "2026-11-26T02:26:05.000Z",
+      "xQuery": "若者が注目「フリース」再ブーム"
     },
     {
       "time": "10:44",

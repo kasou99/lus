@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T02:15:43.468Z",
+  "updatedAt": "2026-11-26T02:36:44.201Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -45,18 +45,18 @@
         "publishedAt": "2026-11-25T07:24:00.000Z"
       },
       {
+        "time": "11:15",
+        "title": "M2X、『Forbes JAPAN』-時代を開く旗手たち 2027年注目の日本発スタートアップ100選-に選出",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBCSGVtU01pZDBUcGpUTmdDSEpFbTVsYVhISmg4b0wxeV8teFlMQkFCMEpKdHJRTVk3ZGtYbS1ablFNVUNOSWdPRTlRWm11OVJQNzNENVJYcHBXOS00WjdNU3NqMVNLbzNz?oc=5",
+        "publishedAt": "2026-11-26T02:15:27.000Z"
+      },
+      {
         "time": "15:00",
         "title": "10月の工作機械受注、前年比42%増 AI関連需要の好調持続",
         "source": "日本経済新聞",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9USlkxT1lZbUF6RjBRVlRYVFBhQkxoSEZfa1VCVEt4bFdYd3ZZVkZFLU9VQV9wUVBFeHlldlNEYm42WlJfOXExSmZUQkxaVmtVa0ZDUG5QQjNiQXQ4NDdTRG1xSExUY1FDRjJ6Mg?oc=5",
         "publishedAt": "2026-11-25T06:00:00.000Z"
-      },
-      {
-        "time": "00:45",
-        "title": "エクサ、関西エアポートグループが目指す安全性のさらなる向上とサステナブルな空港運営に向け、設備保全管理システムを構築",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBHRGUzMmpqU1BZbFo5ZnAyWDZkZEEyWi1XUllOczc4aHhWaEQxbHRBc2wwTHFRMmVFLXR5UmQzTEVuazRMUW5DUkRYbXRUQktWSlZVTm1URWd1U25KaVhRNGd4NVlqSnBs?oc=5",
-        "publishedAt": "2026-11-25T15:45:22.000Z"
       }
     ],
     "worldHeadlines": [
@@ -126,13 +126,6 @@
         "publishedAt": "2026-11-25T23:39:50.000Z"
       },
       {
-        "time": "16:59",
-        "title": "プルデンシャル 新規契約が92%減",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6603940?source=rss",
-        "publishedAt": "2026-11-25T07:59:22.000Z"
-      },
-      {
         "time": "21:10",
         "title": "東海テレビに2.4億円所得隠し指摘",
         "source": "Yahoo!ニュース",
@@ -145,6 +138,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6603964?source=rss",
         "publishedAt": "2026-11-25T10:08:02.000Z"
+      },
+      {
+        "time": "22:01",
+        "title": "パイロット不足 航空の2030年問題",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6603979?source=rss",
+        "publishedAt": "2026-11-25T13:01:50.000Z"
       }
     ],
     "localHeadlines": [
