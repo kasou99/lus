@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-26T06:43:42.776Z",
+  "updatedAt": "2026-11-26T07:13:13.625Z",
   "items": [
     {
       "time": "15:19",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "宇宙DC 米当局が条件付きで認可"
     },
     {
-      "time": "15:17",
-      "title": "習近平氏の粛清止まらず 後継者は",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604044?source=rss",
-      "publishedAt": "2026-11-26T06:17:22.000Z",
-      "xQuery": "習近平氏の粛清止まらず 後継者は"
-    },
-    {
       "time": "14:49",
       "title": "拘束記者の妻「娘にパパ返して」",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6604065?source=rss",
       "publishedAt": "2026-11-26T05:49:41.000Z",
       "xQuery": "拘束記者の妻「娘にパパ返して」"
+    },
+    {
+      "time": "15:17",
+      "title": "習近平氏の粛清止まらず 後継者は",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6604044?source=rss",
+      "publishedAt": "2026-11-26T06:17:22.000Z",
+      "xQuery": "習近平氏の粛清止まらず 後継者は"
     },
     {
       "time": "15:27",
