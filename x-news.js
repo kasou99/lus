@@ -1,21 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-26T04:35:55.226Z",
+  "updatedAt": "2026-11-26T05:11:43.350Z",
   "items": [
     {
-      "time": "12:49",
-      "title": "米国の新関税案 木原氏「遺憾」",
+      "time": "13:36",
+      "title": "山上被告側の控訴審主張 注目点は",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604050?source=rss",
-      "publishedAt": "2026-11-26T03:49:34.000Z",
-      "xQuery": "米国の新関税案 木原氏「遺憾」"
+      "url": "https://news.yahoo.co.jp/pickup/6604054?source=rss",
+      "publishedAt": "2026-11-26T04:36:20.000Z",
+      "xQuery": "山上被告側の控訴審主張 注目点は"
     },
     {
-      "time": "10:16",
-      "title": "地震で船団解散 再出発する漁師",
+      "time": "11:40",
+      "title": "ファクトチェック組織 誤情報掲載",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604016?source=rss",
-      "publishedAt": "2026-11-26T01:16:28.000Z",
-      "xQuery": "地震で船団解散 再出発する漁師"
+      "url": "https://news.yahoo.co.jp/pickup/6604032?source=rss",
+      "publishedAt": "2026-11-26T02:40:18.000Z",
+      "xQuery": "ファクトチェック組織 誤情報掲載"
+    },
+    {
+      "time": "13:57",
+      "title": "中部電 不正関わった関係者処分へ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6604056?source=rss",
+      "publishedAt": "2026-11-26T04:57:37.000Z",
+      "xQuery": "中部電 不正関わった関係者処分へ"
     },
     {
       "time": "13:06",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6604048?source=rss",
       "publishedAt": "2026-11-26T03:45:30.000Z",
       "xQuery": "神戸6歳死亡に「涙流した」と被告"
-    },
-    {
-      "time": "11:26",
-      "title": "若者が注目「フリース」再ブーム",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604026?source=rss",
-      "publishedAt": "2026-11-26T02:26:05.000Z",
-      "xQuery": "若者が注目「フリース」再ブーム"
     }
   ]
 };

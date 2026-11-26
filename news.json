@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T04:35:54.637Z",
+  "updatedAt": "2026-11-26T05:11:42.361Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -105,6 +105,13 @@
     ],
     "economyHeadlines": [
       {
+        "time": "13:57",
+        "title": "中部電 不正関わった関係者処分へ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6604056?source=rss",
+        "publishedAt": "2026-11-26T04:57:37.000Z"
+      },
+      {
         "time": "09:44",
         "title": "NVIDIAを格下げ方向で見直し S&P",
         "source": "Yahoo!ニュース",
@@ -126,13 +133,6 @@
         "publishedAt": "2026-11-25T23:39:50.000Z"
       },
       {
-        "time": "21:10",
-        "title": "東海テレビに2.4億円所得隠し指摘",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6603974?source=rss",
-        "publishedAt": "2026-11-25T12:10:10.000Z"
-      },
-      {
         "time": "13:25",
         "title": "ホンダ 逆輸入のアキュラ来月発売",
         "source": "Yahoo!ニュース",
@@ -140,20 +140,34 @@
         "publishedAt": "2026-11-26T04:25:06.000Z"
       },
       {
-        "time": "19:08",
-        "title": "トヨタ「新型カムリ」12月に発売",
+        "time": "23:17",
+        "title": "くら寿司 ちいかわ企画初日で終了",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6603964?source=rss",
-        "publishedAt": "2026-11-25T10:08:02.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6603987?source=rss",
+        "publishedAt": "2026-11-25T14:17:26.000Z"
       }
     ],
     "localHeadlines": [
+      {
+        "time": "14:03",
+        "title": "福岡刺殺事件 口論などなく襲撃か",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6604058?source=rss",
+        "publishedAt": "2026-11-26T05:03:43.000Z"
+      },
       {
         "time": "12:16",
         "title": "大阪都構想の協定書案 正式に決定",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6604042?source=rss",
         "publishedAt": "2026-11-26T03:16:44.000Z"
+      },
+      {
+        "time": "13:36",
+        "title": "山上被告側の控訴審主張 注目点は",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6604054?source=rss",
+        "publishedAt": "2026-11-26T04:36:20.000Z"
       },
       {
         "time": "10:32",
@@ -175,20 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6604051?source=rss",
         "publishedAt": "2026-11-26T04:06:08.000Z"
-      },
-      {
-        "time": "23:46",
-        "title": "神奈川の死亡事故 5分以上逆走か",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6603988?source=rss",
-        "publishedAt": "2026-11-25T14:46:07.000Z"
-      },
-      {
-        "time": "09:29",
-        "title": "男性を車で120m引きずり疑い 逮捕",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6604014?source=rss",
-        "publishedAt": "2026-11-26T00:29:47.000Z"
       }
     ],
     "subsidyHeadlines": [
