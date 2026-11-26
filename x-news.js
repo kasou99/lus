@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-26T11:10:42.622Z",
+  "updatedAt": "2026-11-26T11:36:22.958Z",
   "items": [
     {
       "time": "18:15",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "性的いじめ8158件 文科省が初調査"
     },
     {
-      "time": "18:37",
-      "title": "福岡刺殺 死因は出血性ショック",
+      "time": "14:50",
+      "title": "ネパール災害3カ月 移転拒む住民",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604096?source=rss",
-      "publishedAt": "2026-11-26T09:37:45.000Z",
-      "xQuery": "福岡刺殺 死因は出血性ショック"
+      "url": "https://news.yahoo.co.jp/pickup/6604063?source=rss",
+      "publishedAt": "2026-11-26T05:50:53.000Z",
+      "xQuery": "ネパール災害3カ月 移転拒む住民"
     },
     {
       "time": "14:49",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "拘束記者の妻「娘にパパ返して」"
     },
     {
+      "time": "20:31",
+      "title": "持ち帰り残業巡り 労災認める判決",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6604108?source=rss",
+      "publishedAt": "2026-11-26T11:31:25.000Z",
+      "xQuery": "持ち帰り残業巡り 労災認める判決"
+    },
+    {
       "time": "19:13",
       "title": "「夜行新幹線」年末年始に運行へ",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6604098?source=rss",
       "publishedAt": "2026-11-26T10:13:28.000Z",
       "xQuery": "「夜行新幹線」年末年始に運行へ"
-    },
-    {
-      "time": "18:40",
-      "title": "大雪停電で200匹死ぬ 水族館思い",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604094?source=rss",
-      "publishedAt": "2026-11-26T09:40:42.000Z",
-      "xQuery": "大雪停電で200匹死ぬ 水族館思い"
     }
   ]
 };
