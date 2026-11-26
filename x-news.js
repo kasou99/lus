@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-26T00:49:11.371Z",
+  "updatedAt": "2026-11-26T01:12:17.706Z",
   "items": [
     {
       "time": "07:52",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "日本語試験の増設を検討 外務省"
     },
     {
-      "time": "07:44",
-      "title": "AI法改正案の概要判明 罰則新設",
+      "time": "08:09",
+      "title": "米36州がDC事業者に規制を導入",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6603997?source=rss",
-      "publishedAt": "2026-11-25T22:44:06.000Z",
-      "xQuery": "AI法改正案の概要判明 罰則新設"
+      "url": "https://news.yahoo.co.jp/pickup/6604002?source=rss",
+      "publishedAt": "2026-11-25T23:09:25.000Z",
+      "xQuery": "米36州がDC事業者に規制を導入"
     },
     {
-      "time": "08:29",
-      "title": "エジプトで複数台事故 30人超死亡",
+      "time": "09:44",
+      "title": "NVIDIAを格下げ方向で見直し S&P",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604004?source=rss",
-      "publishedAt": "2026-11-25T23:29:24.000Z",
-      "xQuery": "エジプトで複数台事故 30人超死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6604015?source=rss",
+      "publishedAt": "2026-11-26T00:44:56.000Z",
+      "xQuery": "NVIDIAを格下げ方向で見直し S&P"
     },
     {
       "time": "09:29",
