@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-26T05:11:43.350Z",
+  "updatedAt": "2026-11-26T05:36:36.056Z",
   "items": [
     {
       "time": "13:36",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "山上被告側の控訴審主張 注目点は"
     },
     {
-      "time": "11:40",
-      "title": "ファクトチェック組織 誤情報掲載",
+      "time": "11:46",
+      "title": "宇宙DC 米当局が条件付きで認可",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604032?source=rss",
-      "publishedAt": "2026-11-26T02:40:18.000Z",
-      "xQuery": "ファクトチェック組織 誤情報掲載"
+      "url": "https://news.yahoo.co.jp/pickup/6604033?source=rss",
+      "publishedAt": "2026-11-26T02:46:05.000Z",
+      "xQuery": "宇宙DC 米当局が条件付きで認可"
     },
     {
-      "time": "13:57",
-      "title": "中部電 不正関わった関係者処分へ",
+      "time": "14:03",
+      "title": "福岡刺殺事件 口論などなく襲撃か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604056?source=rss",
-      "publishedAt": "2026-11-26T04:57:37.000Z",
-      "xQuery": "中部電 不正関わった関係者処分へ"
+      "url": "https://news.yahoo.co.jp/pickup/6604058?source=rss",
+      "publishedAt": "2026-11-26T05:03:43.000Z",
+      "xQuery": "福岡刺殺事件 口論などなく襲撃か"
     },
     {
       "time": "13:06",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "兵庫の3歳女児死亡 臓器に萎縮"
     },
     {
-      "time": "12:45",
-      "title": "神戸6歳死亡に「涙流した」と被告",
+      "time": "13:25",
+      "title": "ホンダ 逆輸入のアキュラ来月発売",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604048?source=rss",
-      "publishedAt": "2026-11-26T03:45:30.000Z",
-      "xQuery": "神戸6歳死亡に「涙流した」と被告"
+      "url": "https://news.yahoo.co.jp/pickup/6604052?source=rss",
+      "publishedAt": "2026-11-26T04:25:06.000Z",
+      "xQuery": "ホンダ 逆輸入のアキュラ来月発売"
     }
   ]
 };

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T05:11:42.361Z",
+  "updatedAt": "2026-11-26T05:36:34.939Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,13 +31,6 @@
         "publishedAt": "2026-11-25T08:00:00.000Z"
       },
       {
-        "time": "15:00",
-        "title": "１０月工作機械受注は２０４４億円で歴代２位、前年比４割超増、北米は３カ月連続過去最高(ウエルスアドバイザー)",
-        "source": "Yahoo!ファイナンス",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOOWRGb1pvQ1djVEVoMWpiR1lWa3kyRldIV2lfT20ybWI1cGVjbG5TVl9oUVN5dDNmSGZQYkNFU25hbFlCOEhENWhzOFhxM2JTMUdVZThFMnl6VTRDV1g3alRaejdtN1JUZG1FOXBSUG5YZjNabWxBbkIwQjFFNlgxSmdSUG5pMFE?oc=5",
-        "publishedAt": "2026-11-25T06:00:23.000Z"
-      },
-      {
         "time": "23:05",
         "title": "Tesla、工作機械メーカーEMAG本社にドイツ法人を登記",
         "source": "Mezha.net",
@@ -45,11 +38,11 @@
         "publishedAt": "2026-11-25T14:05:00.000Z"
       },
       {
-        "time": "16:24",
-        "title": "【福裕 FY2026 Q3 決算説明会】福裕、今期前三半期EPS 0.63台湾ドルで黒字転換 工作機械本業の粗利益率27%、受注増加で2027年第1四半期に強気見通し",
-        "source": "BigGo ファイナンス",
-        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBDcTd1SGx1cDREcmhtNHZ6SXNvczhLajRtQXhjUE1TVnFiYmFfeUV3WWxEVEVFWUtsTk02cTFoZDltWi1OZVdNLXA3bXFyV084QUd4T3hGZ0ZWQmJSY2F1bA?oc=5",
-        "publishedAt": "2026-11-25T07:24:00.000Z"
+        "time": "15:00",
+        "title": "１０月工作機械受注は２０４４億円で歴代２位、前年比４割超増、北米は３カ月連続過去最高(ウエルスアドバイザー)",
+        "source": "Yahoo!ファイナンス",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOOWRGb1pvQ1djVEVoMWpiR1lWa3kyRldIV2lfT20ybWI1cGVjbG5TVl9oUVN5dDNmSGZQYkNFU25hbFlCOEhENWhzOFhxM2JTMUdVZThFMnl6VTRDV1g3alRaejdtN1JUZG1FOXBSUG5YZjNabWxBbkIwQjFFNlgxSmdSUG5pMFE?oc=5",
+        "publishedAt": "2026-11-25T06:00:23.000Z"
       },
       {
         "time": "11:15",
@@ -57,6 +50,13 @@
         "source": "ニコニコニュース",
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBCSGVtU01pZDBUcGpUTmdDSEpFbTVsYVhISmg4b0wxeV8teFlMQkFCMEpKdHJRTVk3ZGtYbS1ablFNVUNOSWdPRTlRWm11OVJQNzNENVJYcHBXOS00WjdNU3NqMVNLbzNz?oc=5",
         "publishedAt": "2026-11-26T02:15:27.000Z"
+      },
+      {
+        "time": "16:24",
+        "title": "【福裕 FY2026 Q3 決算説明会】福裕、今期前三半期EPS 0.63台湾ドルで黒字転換 工作機械本業の粗利益率27%、受注増加で2027年第1四半期に強気見通し",
+        "source": "BigGo ファイナンス",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBDcTd1SGx1cDREcmhtNHZ6SXNvczhLajRtQXhjUE1TVnFiYmFfeUV3WWxEVEVFWUtsTk02cTFoZDltWi1OZVdNLXA3bXFyV084QUd4T3hGZ0ZWQmJSY2F1bA?oc=5",
+        "publishedAt": "2026-11-25T07:24:00.000Z"
       }
     ],
     "worldHeadlines": [
