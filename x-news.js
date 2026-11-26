@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-26T10:11:52.531Z",
+  "updatedAt": "2026-11-26T10:36:18.721Z",
   "items": [
     {
       "time": "18:15",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "福岡刺殺 死因は出血性ショック"
     },
     {
-      "time": "18:30",
-      "title": "治療目的の不適切入国 規制強化案",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604095?source=rss",
-      "publishedAt": "2026-11-26T09:30:07.000Z",
-      "xQuery": "治療目的の不適切入国 規制強化案"
-    },
-    {
       "time": "14:49",
       "title": "拘束記者の妻「娘にパパ返して」",
       "source": "Yahoo!ニュース",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "拘束記者の妻「娘にパパ返して」"
     },
     {
-      "time": "16:49",
-      "title": "遠足で女児が熱中症 市に逆転勝訴",
+      "time": "19:13",
+      "title": "「夜行新幹線」年末年始に運行へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604074?source=rss",
-      "publishedAt": "2026-11-26T07:49:28.000Z",
-      "xQuery": "遠足で女児が熱中症 市に逆転勝訴"
+      "url": "https://news.yahoo.co.jp/pickup/6604098?source=rss",
+      "publishedAt": "2026-11-26T10:13:28.000Z",
+      "xQuery": "「夜行新幹線」年末年始に運行へ"
+    },
+    {
+      "time": "17:44",
+      "title": "吉野家HD ダチョウ事業を売却",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6604087?source=rss",
+      "publishedAt": "2026-11-26T08:44:48.000Z",
+      "xQuery": "吉野家HD ダチョウ事業を売却"
     }
   ]
 };
