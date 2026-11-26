@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-26T08:15:35.265Z",
+  "updatedAt": "2026-11-26T08:36:09.019Z",
   "items": [
     {
       "time": "16:37",
@@ -18,28 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "補正予算でガソリン補助継続 政府"
     },
     {
-      "time": "15:19",
-      "title": "香港高層住宅火災1年 遺族の憤り",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604069?source=rss",
-      "publishedAt": "2026-11-26T06:19:56.000Z",
-      "xQuery": "香港高層住宅火災1年 遺族の憤り"
-    },
-    {
-      "time": "16:39",
-      "title": "記者拘束 妻が手記で早期解放訴え",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604076?source=rss",
-      "publishedAt": "2026-11-26T07:39:17.000Z",
-      "xQuery": "記者拘束 妻が手記で早期解放訴え"
-    },
-    {
       "time": "15:27",
       "title": "もう限界 カナリア諸島に移民殺到",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6604068?source=rss",
       "publishedAt": "2026-11-26T06:27:34.000Z",
       "xQuery": "もう限界 カナリア諸島に移民殺到"
+    },
+    {
+      "time": "16:49",
+      "title": "遠足で女児が熱中症 市に逆転勝訴",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6604074?source=rss",
+      "publishedAt": "2026-11-26T07:49:28.000Z",
+      "xQuery": "遠足で女児が熱中症 市に逆転勝訴"
+    },
+    {
+      "time": "17:07",
+      "title": "巡査が警察署で拳銃を誤射か 埼玉",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6604081?source=rss",
+      "publishedAt": "2026-11-26T08:07:54.000Z",
+      "xQuery": "巡査が警察署で拳銃を誤射か 埼玉"
     }
   ]
 };
