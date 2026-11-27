@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-27T05:11:30.777Z",
+  "updatedAt": "2026-11-27T05:36:25.173Z",
   "items": [
     {
       "time": "13:23",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "食べ残し持ち帰り 政府が呼びかけ"
     },
     {
-      "time": "11:53",
-      "title": "8年で生徒2人自死 傷抱える遺族",
+      "time": "13:56",
+      "title": "郡山市の中1不明 新たな写真公開",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604160?source=rss",
-      "publishedAt": "2026-11-27T02:53:09.000Z",
-      "xQuery": "8年で生徒2人自死 傷抱える遺族"
+      "url": "https://news.yahoo.co.jp/pickup/6604182?source=rss",
+      "publishedAt": "2026-11-27T04:56:28.000Z",
+      "xQuery": "郡山市の中1不明 新たな写真公開"
     },
     {
       "time": "11:21",
