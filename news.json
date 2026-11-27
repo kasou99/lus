@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T18:35:38.425Z",
+  "updatedAt": "2026-11-27T19:08:31.358Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -24,11 +24,11 @@
         "publishedAt": "2026-11-27T01:37:05.000Z"
       },
       {
-        "time": "09:20",
+        "time": "10:32",
         "title": "生産状況の３次元管理システム開発 モノプロ、視認性が向上",
         "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE16bWVOQlhxOUhzbkRfYjY0VW5QSFlBa1VUU0M3LVJSSmEtUjEtN0VubEpHZzFNMkdITl94SGVYUGprMmlPZ3lYY0lQLUFIaEFZLVE?oc=5",
-        "publishedAt": "2026-11-27T00:20:00.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4xMldZamhNX2FEWkZwTlNlcXkycG1lekJITlN4bEx5d1hRSmVDUTlmWDlHMVZJd3d6M3htb200cVdSbWZUOXg5bWgyTlBaVk9RRVZYVDYxMXRQSzFodkJMZHFKT1dnUQ?oc=5",
+        "publishedAt": "2026-11-27T01:32:19.000Z"
       },
       {
         "time": "02:48",
@@ -38,24 +38,24 @@
         "publishedAt": "2026-11-27T17:48:39.000Z"
       },
       {
+        "time": "02:24",
+        "title": "テスラはロボット開発を目指し、ドイツの機械メーカーの買収を進めている。",
+        "source": "Vietnam.vn",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaUdhZmd3WnIyWEFqNnRrTkNyYnljZThLN3lMR3VMNm02VGo3UjdtcjFTcXlxUUxUSEZuanF4a0RPc0ZQeFNqU3BkbFZJa3lLakRxWjlxRWJsUEgzQVJEUHNHZUxpMHg2d0pSWFBjcTNrcHJRck5rWWFOM1BZYmFUVFlMZTVmTkpLNWJxcTJMTVE5M0xUSF9teWlTWWt3Zw?oc=5",
+        "publishedAt": "2026-11-27T17:24:07.000Z"
+      },
+      {
+        "time": "22:55",
+        "title": "Tesla、独EMAG買収を推進…マスク氏「Optimus 2万台」生産網を確保",
+        "source": "BigGo ファイナンス",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB2TWF0LWhKeVhydGhYRDhHaTl3SWdKbmhMUnBqZ014VUtJN3FmWUtXQmYxZnJqeDBQeERiQzlKbnBpZmFGR0xvdE50SkxUZldlSm9YZUpUcWxoWmcyNjk0dC1ocU9uNVozSzBZMlJRWC1Cblpu?oc=5",
+        "publishedAt": "2026-11-27T13:55:00.000Z"
+      },
+      {
         "time": "05:00",
         "title": "未来牽引するNEXTカンパニー（71）筑豊製作所 多様な機械メンテに精通",
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5nT21SaFhEWDNialpJYnVLNFRlRGFDYmdQbF9tMktTNWNGRXpoU0VHQnFZUUFORUVPdDEwaDQtQVFUcWt2T2Zvb2JsT1dZMmNCMk5PU1c3Wk0?oc=5",
-        "publishedAt": "2026-11-26T20:00:00.000Z"
-      },
-      {
-        "time": "10:22",
-        "title": "DMG森精機、ポーランドに鋳物工場を新設 年間最大2万トンの生産能力で欧州の供給体制を強化",
-        "source": "製造現場ドットコム",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1rNFdnNUZ1TjB6MTRUa0xHRGRoZkJTRWpoMXVKdzdnRHVDNXJldFlnMTl2d2QyMlExU3lwaWtUYmxRNFZxczRZSGdB?oc=5",
-        "publishedAt": "2026-11-27T01:22:05.000Z"
-      },
-      {
-        "time": "05:00",
-        "title": "NMC、部品数減らし安価に 切削液延命器具",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9Ja1haZ0Vwb3RnSzFrZnlPbG9GXy0zVDBkN0NoN3p2bmY0ay03Yy03WFlWRlRENmdEYjNMTkVRckJjVmFZcWdNb2g0T0Rxd3haZjdWN1dwVmc?oc=5",
         "publishedAt": "2026-11-26T20:00:00.000Z"
       }
     ],
