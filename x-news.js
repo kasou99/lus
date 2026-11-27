@@ -1,14 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-27T15:10:55.885Z",
+  "updatedAt": "2026-11-27T15:36:28.185Z",
   "items": [
-    {
-      "time": "17:37",
-      "title": "露指示とされる破壊工作 欧州激化",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604208?source=rss",
-      "publishedAt": "2026-11-27T08:37:30.000Z",
-      "xQuery": "露指示とされる破壊工作 欧州激化"
-    },
     {
       "time": "23:08",
       "title": "関氏18年食事会で300万円収入計上",
@@ -16,6 +8,22 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6604244?source=rss",
       "publishedAt": "2026-11-27T14:08:54.000Z",
       "xQuery": "関氏18年食事会で300万円収入計上"
+    },
+    {
+      "time": "00:15",
+      "title": "防衛相ら 献金報道巡り違法性否定",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6604248?source=rss",
+      "publishedAt": "2026-11-27T15:15:52.000Z",
+      "xQuery": "防衛相ら 献金報道巡り違法性否定"
+    },
+    {
+      "time": "17:37",
+      "title": "露指示とされる破壊工作 欧州激化",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6604208?source=rss",
+      "publishedAt": "2026-11-27T08:37:30.000Z",
+      "xQuery": "露指示とされる破壊工作 欧州激化"
     },
     {
       "time": "23:27",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "山中に2遺体 1人は不明の高校生か"
     },
     {
-      "time": "21:58",
-      "title": "住宅で2400万円強盗被害 3人逃走",
+      "time": "22:00",
+      "title": "舞妓を狙う観光客の迷惑行為 拍車",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604242?source=rss",
-      "publishedAt": "2026-11-27T12:58:47.000Z",
-      "xQuery": "住宅で2400万円強盗被害 3人逃走"
-    },
-    {
-      "time": "23:31",
-      "title": "4歳死亡 職員ゼリー注意書き認識",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604243?source=rss",
-      "publishedAt": "2026-11-27T14:31:28.000Z",
-      "xQuery": "4歳死亡 職員ゼリー注意書き認識"
+      "url": "https://news.yahoo.co.jp/pickup/6604239?source=rss",
+      "publishedAt": "2026-11-27T13:00:25.000Z",
+      "xQuery": "舞妓を狙う観光客の迷惑行為 拍車"
     }
   ]
 };
