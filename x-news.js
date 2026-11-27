@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-27T07:13:03.307Z",
+  "updatedAt": "2026-11-27T07:35:52.867Z",
   "items": [
     {
       "time": "12:51",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "食べ残し持ち帰り 政府が呼びかけ"
     },
     {
-      "time": "14:11",
-      "title": "施設の屋上から缶投げ捨て 車損傷",
+      "time": "15:51",
+      "title": "新INFOBAR 日本の若者に刺さるか",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604183?source=rss",
-      "publishedAt": "2026-11-27T05:11:58.000Z",
-      "xQuery": "施設の屋上から缶投げ捨て 車損傷"
+      "url": "https://news.yahoo.co.jp/pickup/6604193?source=rss",
+      "publishedAt": "2026-11-27T06:51:08.000Z",
+      "xQuery": "新INFOBAR 日本の若者に刺さるか"
     }
   ]
 };
