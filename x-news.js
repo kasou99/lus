@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-27T10:11:56.232Z",
+  "updatedAt": "2026-11-27T10:35:50.164Z",
   "items": [
     {
       "time": "17:06",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "マイナアプリ 旧Ver.に脆弱性"
     },
     {
-      "time": "18:37",
-      "title": "GMO サイバー攻撃防ぐ構想発表",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604216?source=rss",
-      "publishedAt": "2026-11-27T09:37:15.000Z",
-      "xQuery": "GMO サイバー攻撃防ぐ構想発表"
-    },
-    {
       "time": "16:49",
       "title": "「負動産」有料引き取り広がる",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6604200?source=rss",
       "publishedAt": "2026-11-27T07:49:09.000Z",
       "xQuery": "「負動産」有料引き取り広がる"
+    },
+    {
+      "time": "18:49",
+      "title": "Suicaペンギンの銅像 春にも撤去",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6604221?source=rss",
+      "publishedAt": "2026-11-27T09:49:52.000Z",
+      "xQuery": "Suicaペンギンの銅像 春にも撤去"
     }
   ]
 };
