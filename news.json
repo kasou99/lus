@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T08:15:39.395Z",
+  "updatedAt": "2026-11-27T08:36:49.290Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,18 +17,18 @@
         "publishedAt": "2026-11-27T01:37:05.000Z"
       },
       {
-        "time": "09:25",
-        "title": "生産状況の３次元管理システム開発 モノプロ、視認性が向上",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE16bWVOQlhxOUhzbkRfYjY0VW5QSFlBa1VUU0M3LVJSSmEtUjEtN0VubEpHZzFNMkdITl94SGVYUGprMmlPZ3lYY0lQLUFIaEFZLVE?oc=5",
-        "publishedAt": "2026-11-27T00:25:22.000Z"
-      },
-      {
         "time": "13:24",
         "title": "【8074.T FY2026 Q2 決算説明会】YUASA、中間期売上高12.4%増の2,818億円で過去最高更新 通期予想を上方修正も期末配当は据え置き",
         "source": "BigGo ファイナンス",
         "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5TNnJwdmFJOThXTFhwQ2FsTm5iNlJmUEJaNUYwQ1c5YmJjMHJ1b09OelZnX3UtMXRZcVpITFh1S21xaGhueXZhRE9wdER1SkVCZVdhbUVRVnFhQUc5SlZZ?oc=5",
         "publishedAt": "2026-11-27T04:24:00.000Z"
+      },
+      {
+        "time": "09:25",
+        "title": "生産状況の３次元管理システム開発 モノプロ、視認性が向上",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE16bWVOQlhxOUhzbkRfYjY0VW5QSFlBa1VUU0M3LVJSSmEtUjEtN0VubEpHZzFNMkdITl94SGVYUGprMmlPZ3lYY0lQLUFIaEFZLVE?oc=5",
+        "publishedAt": "2026-11-27T00:25:22.000Z"
       },
       {
         "time": "05:00",
@@ -52,11 +52,11 @@
         "publishedAt": "2026-11-27T01:22:05.000Z"
       },
       {
-        "time": "11:14",
-        "title": "カスタムジャパンが「POSH Faith／ポッシュフェイス」の取扱商品を全ラインアップに拡大",
-        "source": "ｄメニューニュース",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE80TnROd2FYNVVYSFhXVVFFX2RzZFozYjRUOVFmSWM1U3hWRHRIUnhUSmJYUXVnTXVHanBRbHZ6NlVubXhrT2MtazNERVZ2a0U5VGhSSl9NSHllUlptWVRmWU9fSlFaRW1NVHFfNzhGYlY2eHAxNmZycng4VWpEUjjSAX9BVV95cUxPNE50TndhWDVVWEhYV1VRRV9kc2RaM2I0VDlRZkljNVN4VkR0SFJ4VEpiWFF1Z011R2pwUWx2ejZVbm14a09jLWszREVWdmtFOVRoUkpfTUh5ZVJabVlUZllPX0pRWkVtTVRxXzc4RmJWNnhwMTZmcnJ4OFVqRFI4?oc=5",
-        "publishedAt": "2026-11-27T02:14:00.000Z"
+        "time": "05:00",
+        "title": "NMC、部品数減らし安価に 切削液延命器具",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9Ja1haZ0Vwb3RnSzFrZnlPbG9GXy0zVDBkN0NoN3p2bmY0ay03Yy03WFlWRlRENmdEYjNMTkVRckJjVmFZcWdNb2g0T0Rxd3haZjdWN1dwVmc?oc=5",
+        "publishedAt": "2026-11-26T20:00:00.000Z"
       }
     ],
     "worldHeadlines": [

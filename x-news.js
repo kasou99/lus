@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-27T08:15:39.898Z",
+  "updatedAt": "2026-11-27T08:36:50.206Z",
   "items": [
     {
       "time": "17:06",
@@ -10,20 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "政府 防災の「国家戦略」を初策定"
     },
     {
-      "time": "16:14",
-      "title": "匿流の特命捜査班新設へ 東京地検",
+      "time": "17:15",
+      "title": "関東など 朝にかけ大雨になる所も",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604191?source=rss",
-      "publishedAt": "2026-11-27T07:14:05.000Z",
-      "xQuery": "匿流の特命捜査班新設へ 東京地検"
-    },
-    {
-      "time": "15:53",
-      "title": "熊本ふっこう応援割 第2弾実施へ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604192?source=rss",
-      "publishedAt": "2026-11-27T06:53:26.000Z",
-      "xQuery": "熊本ふっこう応援割 第2弾実施へ"
+      "url": "https://news.yahoo.co.jp/pickup/6604206?source=rss",
+      "publishedAt": "2026-11-27T08:15:34.000Z",
+      "xQuery": "関東など 朝にかけ大雨になる所も"
     },
     {
       "time": "14:59",
@@ -32,6 +24,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6604188?source=rss",
       "publishedAt": "2026-11-27T05:59:41.000Z",
       "xQuery": "第3子以降出産で1千万円 自民が案"
+    },
+    {
+      "time": "17:08",
+      "title": "神崎武法さんが死去 選挙CM話題",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6604203?source=rss",
+      "publishedAt": "2026-11-27T08:08:59.000Z",
+      "xQuery": "神崎武法さんが死去 選挙CM話題"
     },
     {
       "time": "16:37",
