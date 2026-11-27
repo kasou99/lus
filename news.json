@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T15:36:27.109Z",
+  "updatedAt": "2026-11-27T16:12:31.630Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -45,18 +45,18 @@
         "publishedAt": "2026-11-27T13:55:00.000Z"
       },
       {
-        "time": "17:15",
-        "title": "すべてのミスミ体験をひとつに。新サービス「MISUMI MiMA」、2027年提供開始",
-        "source": "Infoseek",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9vTnlBSk5kUXZ4amV1TG54NTE1UW1COHVYdExhUzJZSkZwc3VZSGVRNTFhYjl3MWxCcnNLMGk0WGJNTDZ3M2MzRmxubHBpSjJwR0NRZnh6V1EzUGh4bFpJZG9jX0NuUEFYZmNlTlhyTUo4dw?oc=5",
-        "publishedAt": "2026-11-27T08:15:38.000Z"
-      },
-      {
         "time": "01:15",
         "title": "AI統合型設備保全クラウド『EMLink』、オンライン紹介セミナーを11月30日から全10回開催（参加無料）",
         "source": "ニコニコニュース",
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0wUzRpRGI3OGJpdGVDSktsNVhLZFFRbEd1M0tybWdFR0NGZy1xS3R4QVV5Z2Z2UkVHcEljLTdidnZGMnN0QzBKWU4xVFNHSnhDXzRaTmhkci1ObFRVRVNUVFdDRng1QURy?oc=5",
         "publishedAt": "2026-11-26T16:15:18.000Z"
+      },
+      {
+        "time": "10:22",
+        "title": "DMG森精機、ポーランドに鋳物工場を新設 年間最大2万トンの生産能力で欧州の供給体制を強化",
+        "source": "製造現場ドットコム",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1rNFdnNUZ1TjB6MTRUa0xHRGRoZkJTRWpoMXVKdzdnRHVDNXJldFlnMTl2d2QyMlExU3lwaWtUYmxRNFZxczRZSGdB?oc=5",
+        "publishedAt": "2026-11-27T01:22:05.000Z"
       }
     ],
     "worldHeadlines": [
