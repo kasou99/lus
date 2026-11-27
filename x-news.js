@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-27T00:30:50.945Z",
+  "updatedAt": "2026-11-27T01:12:43.787Z",
   "items": [
     {
       "time": "09:20",
@@ -10,36 +10,36 @@ window.LUS_X_NEWS = {
       "xQuery": "関氏「問責決議案」3つのシナリオ"
     },
     {
-      "time": "08:17",
-      "title": "ロシア 高市氏との首脳対話認める",
+      "time": "09:02",
+      "title": "ネットいじめ 初めて3万件超える",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604138?source=rss",
-      "publishedAt": "2026-11-26T23:17:23.000Z",
-      "xQuery": "ロシア 高市氏との首脳対話認める"
+      "url": "https://news.yahoo.co.jp/pickup/6604145?source=rss",
+      "publishedAt": "2026-11-27T00:02:40.000Z",
+      "xQuery": "ネットいじめ 初めて3万件超える"
     },
     {
-      "time": "07:39",
-      "title": "女性死亡 飲酒しひき逃げ疑い逮捕",
+      "time": "08:57",
+      "title": "「ひとり情シス」役場職員の不安",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604132?source=rss",
-      "publishedAt": "2026-11-26T22:39:32.000Z",
-      "xQuery": "女性死亡 飲酒しひき逃げ疑い逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6604146?source=rss",
+      "publishedAt": "2026-11-26T23:57:20.000Z",
+      "xQuery": "「ひとり情シス」役場職員の不安"
     },
     {
-      "time": "07:56",
-      "title": "JTなど 英たばこ大手買収検討か",
+      "time": "10:03",
+      "title": "ひき逃げ疑い あべこうじさん聴取",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604136?source=rss",
-      "publishedAt": "2026-11-26T22:56:24.000Z",
-      "xQuery": "JTなど 英たばこ大手買収検討か"
+      "url": "https://news.yahoo.co.jp/pickup/6604155?source=rss",
+      "publishedAt": "2026-11-27T01:03:39.000Z",
+      "xQuery": "ひき逃げ疑い あべこうじさん聴取"
     },
     {
-      "time": "08:28",
-      "title": "実刑判決 AIとの会話履歴が証拠に",
+      "time": "08:57",
+      "title": "国内絶滅危惧のラン 新たな自生地",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604140?source=rss",
-      "publishedAt": "2026-11-26T23:28:06.000Z",
-      "xQuery": "実刑判決 AIとの会話履歴が証拠に"
+      "url": "https://news.yahoo.co.jp/pickup/6604144?source=rss",
+      "publishedAt": "2026-11-26T23:57:11.000Z",
+      "xQuery": "国内絶滅危惧のラン 新たな自生地"
     }
   ]
 };
