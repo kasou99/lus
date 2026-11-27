@@ -1,14 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-27T10:35:50.164Z",
+  "updatedAt": "2026-11-27T11:10:40.314Z",
   "items": [
-    {
-      "time": "17:06",
-      "title": "政府 防災の「国家戦略」を初策定",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604199?source=rss",
-      "publishedAt": "2026-11-27T08:06:09.000Z",
-      "xQuery": "政府 防災の「国家戦略」を初策定"
-    },
     {
       "time": "18:13",
       "title": "文科相の問責決議案 紙一重の否決",
@@ -18,20 +10,28 @@ window.LUS_X_NEWS = {
       "xQuery": "文科相の問責決議案 紙一重の否決"
     },
     {
-      "time": "18:12",
-      "title": "マイナアプリ 旧Ver.に脆弱性",
+      "time": "19:41",
+      "title": "ふるさと納税仲介料上限 政府検討",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604215?source=rss",
-      "publishedAt": "2026-11-27T09:12:52.000Z",
-      "xQuery": "マイナアプリ 旧Ver.に脆弱性"
+      "url": "https://news.yahoo.co.jp/pickup/6604225?source=rss",
+      "publishedAt": "2026-11-27T10:41:27.000Z",
+      "xQuery": "ふるさと納税仲介料上限 政府検討"
     },
     {
-      "time": "16:49",
-      "title": "「負動産」有料引き取り広がる",
+      "time": "19:42",
+      "title": "事故で10人程けが 「暴走車」通報",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604200?source=rss",
-      "publishedAt": "2026-11-27T07:49:09.000Z",
-      "xQuery": "「負動産」有料引き取り広がる"
+      "url": "https://news.yahoo.co.jp/pickup/6604226?source=rss",
+      "publishedAt": "2026-11-27T10:42:51.000Z",
+      "xQuery": "事故で10人程けが 「暴走車」通報"
+    },
+    {
+      "time": "19:32",
+      "title": "神崎武法さん死去 語ったCM内幕",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6604224?source=rss",
+      "publishedAt": "2026-11-27T10:32:28.000Z",
+      "xQuery": "神崎武法さん死去 語ったCM内幕"
     },
     {
       "time": "18:49",
