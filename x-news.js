@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-27T11:36:18.174Z",
+  "updatedAt": "2026-11-27T12:17:46.332Z",
   "items": [
     {
       "time": "18:29",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "問責案否決 重く受け止めると関氏"
     },
     {
-      "time": "19:41",
-      "title": "ふるさと納税仲介料上限 政府検討",
+      "time": "19:33",
+      "title": "防衛省がAI活用新指針 3つの課題",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604225?source=rss",
-      "publishedAt": "2026-11-27T10:41:27.000Z",
-      "xQuery": "ふるさと納税仲介料上限 政府検討"
+      "url": "https://news.yahoo.co.jp/pickup/6604211?source=rss",
+      "publishedAt": "2026-11-27T10:33:40.000Z",
+      "xQuery": "防衛省がAI活用新指針 3つの課題"
     },
     {
       "time": "20:05",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "廃止浄水場から25年間水道水供給"
     },
     {
-      "time": "20:12",
-      "title": "福岡刺殺 直前に被害男性と接触か",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604229?source=rss",
-      "publishedAt": "2026-11-27T11:12:56.000Z",
-      "xQuery": "福岡刺殺 直前に被害男性と接触か"
-    },
-    {
       "time": "19:42",
       "title": "事故で10人程けが 「暴走車」通報",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6604226?source=rss",
       "publishedAt": "2026-11-27T10:42:51.000Z",
       "xQuery": "事故で10人程けが 「暴走車」通報"
+    },
+    {
+      "time": "20:50",
+      "title": "ヘルパー全員70代 老老介護の現場",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6604232?source=rss",
+      "publishedAt": "2026-11-27T11:50:20.000Z",
+      "xQuery": "ヘルパー全員70代 老老介護の現場"
     }
   ]
 };
