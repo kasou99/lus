@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-11-26T23:35:49.586Z",
+  "updatedAt": "2026-11-27T00:30:50.012Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "09:22",
+        "title": "生産状況の３次元管理システム開発 モノプロ、視認性が向上",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE16bWVOQlhxOUhzbkRfYjY0VW5QSFlBa1VUU0M3LVJSSmEtUjEtN0VubEpHZzFNMkdITl94SGVYUGprMmlPZ3lYY0lQLUFIaEFZLVE?oc=5",
+        "publishedAt": "2026-11-27T00:22:31.000Z"
+      },
       {
         "time": "05:00",
         "title": "未来牽引するNEXTカンパニー（71）筑豊製作所 多様な機械メンテに精通",
@@ -17,25 +24,18 @@
         "publishedAt": "2026-11-26T11:05:24.000Z"
       },
       {
+        "time": "06:48",
+        "title": "【カスタムパーツ事業強化 第6弾】カスタムジャパン、 「POSH Faith」の取扱商品を全ラインアップに拡大",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE40V05ia1NnOUE3cnE1TEVETUxfSjQ3MVJLQUlYQnVfRC1Vb0FKaXY1STJQNjBwTzBid2ZobmtOWnAtZHZvdUVnY3gtNXhUZEU0Sm1jUjRHbEtOazN6NTlOUWRYSVFZdjhz?oc=5",
+        "publishedAt": "2026-11-26T21:48:40.000Z"
+      },
+      {
         "time": "13:00",
         "title": "AI統合型設備保全クラウド『EMLink』、オンライン紹介セミナーを11月30日から全10回開催（参加無料）― 設備台帳の一元化からAIエージェントの活用まで45分で解説",
         "source": "PR TIMES",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5DcjZzdk5VUnl0M2Z1UWVRd0o5cUFfZlA5X09WanluZVlrT1Y5SFJQd2VGNi1rbmR6bXpucXF3aGJxMXdBc2pFdlFsRUV6OWNuNWw0STZJWnVGQWR3ZU9TeHBwTE1HaGJHOWc?oc=5",
         "publishedAt": "2026-11-26T04:00:01.000Z"
-      },
-      {
-        "time": "11:15",
-        "title": "M2X、『Forbes JAPAN』-時代を開く旗手たち 2027年注目の日本発スタートアップ100選-に選出",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBCSGVtU01pZDBUcGpUTmdDSEpFbTVsYVhISmg4b0wxeV8teFlMQkFCMEpKdHJRTVk3ZGtYbS1ablFNVUNOSWdPRTlRWm11OVJQNzNENVJYcHBXOS00WjdNU3NqMVNLbzNz?oc=5",
-        "publishedAt": "2026-11-26T02:15:27.000Z"
-      },
-      {
-        "time": "22:25",
-        "title": "三星半導体工場、無人化を追求 ロボットチーム発足、2028年稼働で自動化の空白を補完",
-        "source": "BigGo ファイナンス",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5ESEJBdWlRVGk2cDMybFJjSkNzemMwVDZFdUctcW43cHpraXplbkZWYlRJVHc4d3ZqMmlsdVFhemMzbnBpMjF5OS1haHVPZVBSNTVIWXNVWHdoUl9JRWFjTDlsUDVwTW14aHBNNkFyZnNZbEJR?oc=5",
-        "publishedAt": "2026-11-26T13:25:00.000Z"
       },
       {
         "time": "14:31",
@@ -45,18 +45,18 @@
         "publishedAt": "2026-11-26T05:31:00.000Z"
       },
       {
+        "time": "07:18",
+        "title": "男性死亡…高速回転中に巻き込まれる 会社の機械で仕事中 体が動かない男性、機械に覆いかぶさった状態で発見…同僚が異変に気付く",
+        "source": "ｄメニューニュース",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOeFNUNDZXQjJZZDJlOC1nazJTV1VpZnp1TUJGd0tzMkNHUEo5aE5MVnIyakZneWxpSnhodDZwV213NW5FT0pPM09fUU9tYXcwMVFka2ZZUzBubWpnX1lkc2c5aUJpV094NmxzRTg3MUY3YWlEaVhpeGxtMXAwM3MwckkwTdIBiAFBVV95cUxNUTZ4QlluMUVZeFF5TkdUVFE2WkFrOFVfdU5vejBDV3lKUHdFWkNENkljTVVCam04ZERJYmpZWVlnTFRvenFFMTZ4TXc0bjRTcHNDaDZScUNRdHlvcFI0UE95VlJDRDdXa0NGOG5ZblZKR0V4NEl5eHBTbDJjVU1USWU4eDVzTzYt?oc=5",
+        "publishedAt": "2026-11-26T22:18:45.000Z"
+      },
+      {
         "time": "10:00",
         "title": "単軸サーボシステムコントローラの世界市場（2026年～2032年）、市場規模（ブラシ付きサーボシステムコントローラ、ブラシレスサーボシステムコントローラ）・分析レポートを発表",
         "source": "Newscast.jp",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9UdXlMcHRNdVdBcjJuTHpDNGNENW5aQ1JVNFBWbHJiOGNFVG5OMkdhOEdacEVGT3ZBMEljNklVRjRjWDZEMmd3ZFNYZy1KRmM?oc=5",
         "publishedAt": "2026-11-26T01:00:00.000Z"
-      },
-      {
-        "time": "07:07",
-        "title": "男性死亡…高速回転の機械に巻き込まれる 会社で仕事中 男性は体が動かず、機械に覆いかぶさった状態…異変に気付いた同僚が発見 男性は会社員90歳",
-        "source": "ｄメニューニュース",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObTBxajlmWW1XRXc0VUhrRjJOa0pRUU1BS282bTAtd1BqX1RSc0N5YUcya05jN3Q3OU1ySnhpMGJsc0tSTE5sbVZiTFJYd01YTFVCeUxLVmEtd2wyd3FmeVBxMkJMd1lzRUVsTEM4Y283VFpaeG1TOC1hcXVNWnNneGE4Q2tCU2tYMUd4dDZhNXFNMzlkS0HSAYgBQVVfeXFMTVE2eEJZbjFFWXhReU5HVFRRNlpBazhVX3VOb3owQ1d5SlB3RVpDRDZJY01VQmptOGRESWJqWVlZZ0xUb3pxRTE2eE13NG40U3BzQ2g2UnFDUXR5b3BSNFBPeVZSQ0Q3V2tDRjhuWW5WSkdFeDRJeXhwU2wyY1VNVEllOHg1c082LQ?oc=5",
-        "publishedAt": "2026-11-26T22:07:27.000Z"
       }
     ],
     "worldHeadlines": [
@@ -170,13 +170,6 @@
         "publishedAt": "2026-11-26T22:39:32.000Z"
       },
       {
-        "time": "22:19",
-        "title": "福井の山中に遺体 殺人疑い再逮捕",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6604117?source=rss",
-        "publishedAt": "2026-11-26T13:19:10.000Z"
-      },
-      {
         "time": "13:06",
         "title": "兵庫の3歳女児死亡 臓器に萎縮",
         "source": "Yahoo!ニュース",
@@ -189,6 +182,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6604112?source=rss",
         "publishedAt": "2026-11-26T12:02:34.000Z"
+      },
+      {
+        "time": "09:20",
+        "title": "飼い犬をクマが連れ去りか 血痕も",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6604147?source=rss",
+        "publishedAt": "2026-11-27T00:20:04.000Z"
       }
     ],
     "subsidyHeadlines": [

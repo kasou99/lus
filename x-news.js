@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-26T23:35:50.770Z",
+  "updatedAt": "2026-11-27T00:30:50.945Z",
   "items": [
     {
-      "time": "07:33",
-      "title": "問責案きょう採決 可否は見通せず",
+      "time": "09:20",
+      "title": "関氏「問責決議案」3つのシナリオ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604133?source=rss",
-      "publishedAt": "2026-11-26T22:33:53.000Z",
-      "xQuery": "問責案きょう採決 可否は見通せず"
+      "url": "https://news.yahoo.co.jp/pickup/6604141?source=rss",
+      "publishedAt": "2026-11-27T00:20:48.000Z",
+      "xQuery": "関氏「問責決議案」3つのシナリオ"
     },
     {
       "time": "08:17",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "JTなど 英たばこ大手買収検討か"
     },
     {
-      "time": "06:56",
-      "title": "ちいかわイベ グッズ早期完売謝罪",
+      "time": "08:28",
+      "title": "実刑判決 AIとの会話履歴が証拠に",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604129?source=rss",
-      "publishedAt": "2026-11-26T21:56:12.000Z",
-      "xQuery": "ちいかわイベ グッズ早期完売謝罪"
+      "url": "https://news.yahoo.co.jp/pickup/6604140?source=rss",
+      "publishedAt": "2026-11-26T23:28:06.000Z",
+      "xQuery": "実刑判決 AIとの会話履歴が証拠に"
     }
   ]
 };
