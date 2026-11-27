@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-27T12:39:09.856Z",
+  "updatedAt": "2026-11-27T13:11:12.767Z",
   "items": [
     {
       "time": "18:29",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "問責案否決 重く受け止めると関氏"
     },
     {
-      "time": "19:33",
-      "title": "防衛省がAI活用新指針 3つの課題",
+      "time": "21:47",
+      "title": "3カ国と加入交渉へ TPP閣僚会合",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604211?source=rss",
-      "publishedAt": "2026-11-27T10:33:40.000Z",
-      "xQuery": "防衛省がAI活用新指針 3つの課題"
+      "url": "https://news.yahoo.co.jp/pickup/6604238?source=rss",
+      "publishedAt": "2026-11-27T12:47:03.000Z",
+      "xQuery": "3カ国と加入交渉へ TPP閣僚会合"
     },
     {
       "time": "21:08",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "「高齢者」の定義引き上げ 自民案"
     },
     {
+      "time": "21:58",
+      "title": "住宅で2400万円強盗被害 3人逃走",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6604242?source=rss",
+      "publishedAt": "2026-11-27T12:58:47.000Z",
+      "xQuery": "住宅で2400万円強盗被害 3人逃走"
+    },
+    {
       "time": "20:05",
       "title": "廃止浄水場から25年間水道水供給",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6604227?source=rss",
       "publishedAt": "2026-11-27T11:05:47.000Z",
       "xQuery": "廃止浄水場から25年間水道水供給"
-    },
-    {
-      "time": "19:42",
-      "title": "事故で10人程けが 「暴走車」通報",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604226?source=rss",
-      "publishedAt": "2026-11-27T10:42:51.000Z",
-      "xQuery": "事故で10人程けが 「暴走車」通報"
     }
   ]
 };

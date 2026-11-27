@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T12:39:08.980Z",
+  "updatedAt": "2026-11-27T13:11:11.980Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -24,11 +24,11 @@
         "publishedAt": "2026-11-27T01:37:05.000Z"
       },
       {
-        "time": "10:52",
+        "time": "09:20",
         "title": "生産状況の３次元管理システム開発 モノプロ、視認性が向上",
         "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5OMWRvWmRQMUVtdnNhSEVWQTZYNGNiQmpJY0xxTXpPVy1EZ0Z3R1JELTVBMUJUTkx0M09XeV92dGwwMHNiMkFTcjJHQnludExIVzdBanJZeEtTWjdu?oc=5",
-        "publishedAt": "2026-11-27T01:52:30.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE16bWVOQlhxOUhzbkRfYjY0VW5QSFlBa1VUU0M3LVJSSmEtUjEtN0VubEpHZzFNMkdITl94SGVYUGprMmlPZ3lYY0lQLUFIaEFZLVE?oc=5",
+        "publishedAt": "2026-11-27T00:20:00.000Z"
       },
       {
         "time": "05:00",
@@ -36,6 +36,13 @@
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5nT21SaFhEWDNialpJYnVLNFRlRGFDYmdQbF9tMktTNWNGRXpoU0VHQnFZUUFORUVPdDEwaDQtQVFUcWt2T2Zvb2JsT1dZMmNCMk5PU1c3Wk0?oc=5",
         "publishedAt": "2026-11-26T20:00:00.000Z"
+      },
+      {
+        "time": "17:15",
+        "title": "すべてのミスミ体験をひとつに。新サービス「MISUMI MiMA」、2027年提供開始",
+        "source": "Infoseek",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9vTnlBSk5kUXZ4amV1TG54NTE1UW1COHVYdExhUzJZSkZwc3VZSGVRNTFhYjl3MWxCcnNLMGk0WGJNTDZ3M2MzRmxubHBpSjJwR0NRZnh6V1EzUGh4bFpJZG9jX0NuUEFYZmNlTlhyTUo4dw?oc=5",
+        "publishedAt": "2026-11-27T08:15:38.000Z"
       },
       {
         "time": "01:15",
@@ -50,13 +57,6 @@
         "source": "製造現場ドットコム",
         "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1rNFdnNUZ1TjB6MTRUa0xHRGRoZkJTRWpoMXVKdzdnRHVDNXJldFlnMTl2d2QyMlExU3lwaWtUYmxRNFZxczRZSGdB?oc=5",
         "publishedAt": "2026-11-27T01:22:05.000Z"
-      },
-      {
-        "time": "05:00",
-        "title": "NMC、部品数減らし安価に 切削液延命器具",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9Ja1haZ0Vwb3RnSzFrZnlPbG9GXy0zVDBkN0NoN3p2bmY0ay03Yy03WFlWRlRENmdEYjNMTkVRckJjVmFZcWdNb2g0T0Rxd3haZjdWN1dwVmc?oc=5",
-        "publishedAt": "2026-11-26T20:00:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -75,6 +75,13 @@
         "publishedAt": "2026-11-26T23:17:23.000Z"
       },
       {
+        "time": "21:47",
+        "title": "3カ国と加入交渉へ TPP閣僚会合",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6604238?source=rss",
+        "publishedAt": "2026-11-27T12:47:03.000Z"
+      },
+      {
         "time": "16:31",
         "title": "タイ邦人殺害19年 来年11月時効",
         "source": "Yahoo!ニュース",
@@ -87,13 +94,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6604122?source=rss",
         "publishedAt": "2026-11-26T14:22:48.000Z"
-      },
-      {
-        "time": "20:37",
-        "title": "中国 アメリカの新関税案に反発",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6604107?source=rss",
-        "publishedAt": "2026-11-26T11:37:31.000Z"
       },
       {
         "time": "15:23",
@@ -149,18 +149,11 @@
     ],
     "localHeadlines": [
       {
-        "time": "20:12",
-        "title": "福岡刺殺 直前に被害男性と接触か",
+        "time": "21:58",
+        "title": "住宅で2400万円強盗被害 3人逃走",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6604229?source=rss",
-        "publishedAt": "2026-11-27T11:12:56.000Z"
-      },
-      {
-        "time": "11:53",
-        "title": "8年で生徒2人自死 傷抱える遺族",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6604160?source=rss",
-        "publishedAt": "2026-11-27T02:53:09.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6604242?source=rss",
+        "publishedAt": "2026-11-27T12:58:47.000Z"
       },
       {
         "time": "20:05",
@@ -182,6 +175,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6604232?source=rss",
         "publishedAt": "2026-11-27T11:50:20.000Z"
+      },
+      {
+        "time": "22:00",
+        "title": "舞妓を狙う観光客の迷惑行為 拍車",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6604239?source=rss",
+        "publishedAt": "2026-11-27T13:00:25.000Z"
       },
       {
         "time": "10:03",
