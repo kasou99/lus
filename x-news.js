@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-27T14:36:25.429Z",
+  "updatedAt": "2026-11-27T15:10:55.885Z",
   "items": [
     {
       "time": "17:37",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "関氏18年食事会で300万円収入計上"
     },
     {
-      "time": "21:08",
-      "title": "「高齢者」の定義引き上げ 自民案",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604235?source=rss",
-      "publishedAt": "2026-11-27T12:08:53.000Z",
-      "xQuery": "「高齢者」の定義引き上げ 自民案"
-    },
-    {
       "time": "23:27",
       "title": "山中に2遺体 1人は不明の高校生か",
       "source": "Yahoo!ニュース",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6604242?source=rss",
       "publishedAt": "2026-11-27T12:58:47.000Z",
       "xQuery": "住宅で2400万円強盗被害 3人逃走"
+    },
+    {
+      "time": "23:31",
+      "title": "4歳死亡 職員ゼリー注意書き認識",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6604243?source=rss",
+      "publishedAt": "2026-11-27T14:31:28.000Z",
+      "xQuery": "4歳死亡 職員ゼリー注意書き認識"
     }
   ]
 };
