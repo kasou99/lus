@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-27T22:35:42.294Z",
+  "updatedAt": "2026-11-27T23:09:44.451Z",
   "items": [
     {
       "time": "23:08",
@@ -10,20 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "関氏18年食事会で300万円収入計上"
     },
     {
-      "time": "00:15",
-      "title": "防衛相ら 献金報道巡り違法性否定",
+      "time": "07:58",
+      "title": "政治資金パーティーの収入 37%増",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604248?source=rss",
-      "publishedAt": "2026-11-27T15:15:52.000Z",
-      "xQuery": "防衛相ら 献金報道巡り違法性否定"
-    },
-    {
-      "time": "17:37",
-      "title": "露指示とされる破壊工作 欧州激化",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604208?source=rss",
-      "publishedAt": "2026-11-27T08:37:30.000Z",
-      "xQuery": "露指示とされる破壊工作 欧州激化"
+      "url": "https://news.yahoo.co.jp/pickup/6604259?source=rss",
+      "publishedAt": "2026-11-27T22:58:39.000Z",
+      "xQuery": "政治資金パーティーの収入 37%増"
     },
     {
       "time": "23:27",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6604239?source=rss",
       "publishedAt": "2026-11-27T13:00:25.000Z",
       "xQuery": "舞妓を狙う観光客の迷惑行為 拍車"
+    },
+    {
+      "time": "07:26",
+      "title": "「かっぱ寿司」なぜ赤字に転落",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6604250?source=rss",
+      "publishedAt": "2026-11-27T22:26:15.000Z",
+      "xQuery": "「かっぱ寿司」なぜ赤字に転落"
     }
   ]
 };

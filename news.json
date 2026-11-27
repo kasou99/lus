@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T22:35:41.377Z",
+  "updatedAt": "2026-11-27T23:09:43.838Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,11 +38,11 @@
         "publishedAt": "2026-11-27T17:48:39.000Z"
       },
       {
-        "time": "10:32",
+        "time": "10:52",
         "title": "生産状況の３次元管理システム開発 モノプロ、視認性が向上",
         "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4xMldZamhNX2FEWkZwTlNlcXkycG1lekJITlN4bEx5d1hRSmVDUTlmWDlHMVZJd3d6M3htb200cVdSbWZUOXg5bWgyTlBaVk9RRVZYVDYxMXRQSzFodkJMZHFKT1dnUQ?oc=5",
-        "publishedAt": "2026-11-27T01:32:19.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5OMWRvWmRQMUVtdnNhSEVWQTZYNGNiQmpJY0xxTXpPVy1EZ0Z3R1JELTVBMUJUTkx0M09XeV92dGwwMHNiMkFTcjJHQnludExIVzdBanJZeEtTWjdu?oc=5",
+        "publishedAt": "2026-11-27T01:52:30.000Z"
       },
       {
         "time": "02:24",
@@ -89,18 +89,18 @@
         "publishedAt": "2026-11-27T07:31:46.000Z"
       },
       {
-        "time": "23:22",
-        "title": "北朝鮮が露軍事支援停止か ウ発表",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6604122?source=rss",
-        "publishedAt": "2026-11-26T14:22:48.000Z"
-      },
-      {
         "time": "15:23",
         "title": "インド最大野党 メタと政府を提訴",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6604190?source=rss",
         "publishedAt": "2026-11-27T06:23:19.000Z"
+      },
+      {
+        "time": "18:09",
+        "title": "韓国の入試不正 前年より69.9%増",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6604213?source=rss",
+        "publishedAt": "2026-11-27T09:09:00.000Z"
       }
     ],
     "economyHeadlines": [
