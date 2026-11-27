@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-27T09:36:11.583Z",
+  "updatedAt": "2026-11-27T10:11:56.232Z",
   "items": [
     {
       "time": "17:06",
@@ -18,28 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "文科相の問責決議案 紙一重の否決"
     },
     {
-      "time": "17:15",
-      "title": "関東など 朝にかけ大雨になる所も",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604206?source=rss",
-      "publishedAt": "2026-11-27T08:15:34.000Z",
-      "xQuery": "関東など 朝にかけ大雨になる所も"
-    },
-    {
-      "time": "17:08",
-      "title": "神崎武法さんが死去 選挙CM話題",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604203?source=rss",
-      "publishedAt": "2026-11-27T08:08:59.000Z",
-      "xQuery": "神崎武法さんが死去 選挙CM話題"
-    },
-    {
       "time": "18:12",
       "title": "マイナアプリ 旧Ver.に脆弱性",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6604215?source=rss",
       "publishedAt": "2026-11-27T09:12:52.000Z",
       "xQuery": "マイナアプリ 旧Ver.に脆弱性"
+    },
+    {
+      "time": "18:37",
+      "title": "GMO サイバー攻撃防ぐ構想発表",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6604216?source=rss",
+      "publishedAt": "2026-11-27T09:37:15.000Z",
+      "xQuery": "GMO サイバー攻撃防ぐ構想発表"
+    },
+    {
+      "time": "16:49",
+      "title": "「負動産」有料引き取り広がる",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6604200?source=rss",
+      "publishedAt": "2026-11-27T07:49:09.000Z",
+      "xQuery": "「負動産」有料引き取り広がる"
     }
   ]
 };
