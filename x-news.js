@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-27T09:12:59.639Z",
+  "updatedAt": "2026-11-27T09:36:11.583Z",
   "items": [
     {
       "time": "17:06",
@@ -10,6 +10,14 @@ window.LUS_X_NEWS = {
       "xQuery": "政府 防災の「国家戦略」を初策定"
     },
     {
+      "time": "18:13",
+      "title": "文科相の問責決議案 紙一重の否決",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6604218?source=rss",
+      "publishedAt": "2026-11-27T09:13:14.000Z",
+      "xQuery": "文科相の問責決議案 紙一重の否決"
+    },
+    {
       "time": "17:15",
       "title": "関東など 朝にかけ大雨になる所も",
       "source": "Yahoo!ニュース",
@@ -18,28 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "関東など 朝にかけ大雨になる所も"
     },
     {
-      "time": "17:24",
-      "title": "問責案否決 自民議員も関氏に苦言",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604205?source=rss",
-      "publishedAt": "2026-11-27T08:24:06.000Z",
-      "xQuery": "問責案否決 自民議員も関氏に苦言"
-    },
-    {
-      "time": "14:59",
-      "title": "第3子以降出産で1千万円 自民が案",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604188?source=rss",
-      "publishedAt": "2026-11-27T05:59:41.000Z",
-      "xQuery": "第3子以降出産で1千万円 自民が案"
-    },
-    {
       "time": "17:08",
       "title": "神崎武法さんが死去 選挙CM話題",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6604203?source=rss",
       "publishedAt": "2026-11-27T08:08:59.000Z",
       "xQuery": "神崎武法さんが死去 選挙CM話題"
+    },
+    {
+      "time": "18:12",
+      "title": "マイナアプリ 旧Ver.に脆弱性",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6604215?source=rss",
+      "publishedAt": "2026-11-27T09:12:52.000Z",
+      "xQuery": "マイナアプリ 旧Ver.に脆弱性"
     }
   ]
 };
