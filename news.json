@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-11-27T04:35:51.823Z",
+  "updatedAt": "2026-11-27T05:11:29.507Z",
   "groups": {
     "machineHeadlines": [
-      {
-        "time": "09:25",
-        "title": "生産状況の３次元管理システム開発 モノプロ、視認性が向上",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE16bWVOQlhxOUhzbkRfYjY0VW5QSFlBa1VUU0M3LVJSSmEtUjEtN0VubEpHZzFNMkdITl94SGVYUGprMmlPZ3lYY0lQLUFIaEFZLVE?oc=5",
-        "publishedAt": "2026-11-27T00:25:22.000Z"
-      },
       {
         "time": "10:27",
         "title": "【レポート】JIMTOF2026「切削工具・周辺機器編」――省資源・高精度加工・生産性向上を支える最新技術に注目",
         "source": "製造現場ドットコム",
         "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE85ZXJlcWVrZUZoa0lvcGR6aGNkMTJpU0dJSEZyYV9sMUhUckd3Z2RrQTN6Ym5ZOE5nVWxmdmhyUlM1YWZFRmdKQ1VR?oc=5",
         "publishedAt": "2026-11-27T01:27:26.000Z"
+      },
+      {
+        "time": "09:25",
+        "title": "生産状況の３次元管理システム開発 モノプロ、視認性が向上",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE16bWVOQlhxOUhzbkRfYjY0VW5QSFlBa1VUU0M3LVJSSmEtUjEtN0VubEpHZzFNMkdITl94SGVYUGprMmlPZ3lYY0lQLUFIaEFZLVE?oc=5",
+        "publishedAt": "2026-11-27T00:25:22.000Z"
       },
       {
         "time": "10:43",
@@ -31,18 +31,18 @@
         "publishedAt": "2026-11-26T16:15:18.000Z"
       },
       {
-        "time": "20:05",
-        "title": "日本サーボモータードライブの国内調達先と供給企業",
-        "source": "pando.life",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBPdDR3THhuMlFpbUozTzJrZVVRamtLb2hOSnlGb1JEMDZwTndnUW1qV0JFbldqMXprNVczajZVSVA4NFIzcVlzS0pn?oc=5",
-        "publishedAt": "2026-11-26T11:05:24.000Z"
-      },
-      {
         "time": "09:57",
         "title": "DMG森精機、ポーランドに鋳物工場を新設 年間最大2万トンの生産能力で欧州の供給体制を強化",
         "source": "製造現場ドットコム",
         "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1rNFdnNUZ1TjB6MTRUa0xHRGRoZkJTRWpoMXVKdzdnRHVDNXJldFlnMTl2d2QyMlExU3lwaWtUYmxRNFZxczRZSGdB?oc=5",
         "publishedAt": "2026-11-27T00:57:15.000Z"
+      },
+      {
+        "time": "20:05",
+        "title": "日本サーボモータードライブの国内調達先と供給企業",
+        "source": "pando.life",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBPdDR3THhuMlFpbUozTzJrZVVRamtLb2hOSnlGb1JEMDZwTndnUW1qV0JFbldqMXprNVczajZVSVA4NFIzcVlzS0pn?oc=5",
+        "publishedAt": "2026-11-26T11:05:24.000Z"
       },
       {
         "time": "13:24",
@@ -52,11 +52,11 @@
         "publishedAt": "2026-11-27T04:24:00.000Z"
       },
       {
-        "time": "14:31",
-        "title": "エンファクトリー、物流ロボの現場定着を解説",
-        "source": "LOGISTICS TODAY",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBYVjNBNGtkZjloUFVMYkRmWlUyTW9tMDhxLXhWdnozQUxTWWdXUzR0QjlUSUNaWVFxWUYwcmhFWHJCTWVacVMyZFdR?oc=5",
-        "publishedAt": "2026-11-26T05:31:00.000Z"
+        "time": "06:47",
+        "title": "男性死亡…高速回転中に巻き込まれる 会社の機械で仕事中 動けない男性、覆いかぶさった状態…同僚が異変に気付いて発見",
+        "source": "埼玉新聞",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE55YnV4OF9vdE4tbTRhM3pkaC16a2ZyaEhzNnhWamlCQThZdUNUcnZkd0p4cXZDdEpONmVTM2M4T2FfdE9veDlCem5JVFY5ZjlpZlNKTTU3NA?oc=5",
+        "publishedAt": "2026-11-26T21:47:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -170,6 +170,13 @@
         "publishedAt": "2026-11-27T02:53:09.000Z"
       },
       {
+        "time": "13:56",
+        "title": "郡山市の中1不明 新たな写真公開",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6604182?source=rss",
+        "publishedAt": "2026-11-27T04:56:28.000Z"
+      },
+      {
         "time": "10:03",
         "title": "ひき逃げ疑い あべこうじさん聴取",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6604172?source=rss",
         "publishedAt": "2026-11-27T03:24:35.000Z"
-      },
-      {
-        "time": "11:21",
-        "title": "マンジャロ無許可販売疑い 女逮捕",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6604158?source=rss",
-        "publishedAt": "2026-11-27T02:21:18.000Z"
       }
     ],
     "subsidyHeadlines": [

@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-27T04:35:52.544Z",
+  "updatedAt": "2026-11-27T05:11:30.777Z",
   "items": [
     {
-      "time": "11:40",
-      "title": "関文科相の問責決議案 否決",
+      "time": "13:23",
+      "title": "首相 関文科相を続投させる構え",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604161?source=rss",
-      "publishedAt": "2026-11-27T02:40:11.000Z",
-      "xQuery": "関文科相の問責決議案 否決"
+      "url": "https://news.yahoo.co.jp/pickup/6604175?source=rss",
+      "publishedAt": "2026-11-27T04:23:01.000Z",
+      "xQuery": "首相 関文科相を続投させる構え"
     },
     {
       "time": "12:51",
@@ -16,6 +16,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6604174?source=rss",
       "publishedAt": "2026-11-27T03:51:33.000Z",
       "xQuery": "28日は関東で警報級大雨の恐れ"
+    },
+    {
+      "time": "13:36",
+      "title": "食べ残し持ち帰り 政府が呼びかけ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6604166?source=rss",
+      "publishedAt": "2026-11-27T04:36:49.000Z",
+      "xQuery": "食べ残し持ち帰り 政府が呼びかけ"
     },
     {
       "time": "11:53",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6604158?source=rss",
       "publishedAt": "2026-11-27T02:21:18.000Z",
       "xQuery": "マンジャロ無許可販売疑い 女逮捕"
-    },
-    {
-      "time": "12:24",
-      "title": "格闘家 ぱんちゃん璃奈容疑者逮捕",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604172?source=rss",
-      "publishedAt": "2026-11-27T03:24:35.000Z",
-      "xQuery": "格闘家 ぱんちゃん璃奈容疑者逮捕"
     }
   ]
 };
