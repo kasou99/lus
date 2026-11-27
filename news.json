@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T21:35:51.682Z",
+  "updatedAt": "2026-11-27T22:10:31.902Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -24,18 +24,18 @@
         "publishedAt": "2026-11-27T01:37:05.000Z"
       },
       {
-        "time": "10:32",
-        "title": "生産状況の３次元管理システム開発 モノプロ、視認性が向上",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4xMldZamhNX2FEWkZwTlNlcXkycG1lekJITlN4bEx5d1hRSmVDUTlmWDlHMVZJd3d6M3htb200cVdSbWZUOXg5bWgyTlBaVk9RRVZYVDYxMXRQSzFodkJMZHFKT1dnUQ?oc=5",
-        "publishedAt": "2026-11-27T01:32:19.000Z"
-      },
-      {
         "time": "02:48",
         "title": "すべてのミスミ体験をひとつに。新サービス「MISUMI MiMA」、2027年提供開始",
         "source": "ニコニコニュース",
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ULWdhdUtOb1BrUHh6aFNtRjJoMkxRcnZhY1pMZU1hZnpYaUlCQUF5LXAzZkEzWmVVazhqTWVyODY2ZVFONDFxb3p4TDdTS2ZIMlBFT2hZWUZhMmljd3dhYXpDOTlGQVJW?oc=5",
         "publishedAt": "2026-11-27T17:48:39.000Z"
+      },
+      {
+        "time": "10:32",
+        "title": "生産状況の３次元管理システム開発 モノプロ、視認性が向上",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4xMldZamhNX2FEWkZwTlNlcXkycG1lekJITlN4bEx5d1hRSmVDUTlmWDlHMVZJd3d6M3htb200cVdSbWZUOXg5bWgyTlBaVk9RRVZYVDYxMXRQSzFodkJMZHFKT1dnUQ?oc=5",
+        "publishedAt": "2026-11-27T01:32:19.000Z"
       },
       {
         "time": "10:22",
@@ -45,11 +45,11 @@
         "publishedAt": "2026-11-27T01:22:05.000Z"
       },
       {
-        "time": "06:47",
-        "title": "男性死亡…高速回転中に巻き込まれる 会社の機械で仕事中 動けない男性、覆いかぶさった状態…同僚が異変に気付いて発見",
-        "source": "埼玉新聞",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9TZ2UzbkhXQkxRNFl5LVJBWTJDTHNDVGNzSkJIUVlZVGdiVWY1QzJpSFZqOVlTYzBYNU9QWmt5SVQtc3BqdUM1WTZ0TktOMEVhRmI1bk1XX2pUQXoyM1drc245NGxQdw?oc=5",
-        "publishedAt": "2026-11-26T21:47:00.000Z"
+        "time": "07:03",
+        "title": "ミスミ、AI対話で設計・調達を支援 新サービス「MiMA」を2027年に提供へ",
+        "source": "日本ネット経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1jZnhhb1JHeUVUNjFObVc5Y1FvU25jMnVpblNqeHgzTUJtbnd6UXowMDNOdjF2cDRiVmprY2VsbnJibGQ1Nl9ndXV1VjNRN0FXZW1HQlB3?oc=5",
+        "publishedAt": "2026-11-27T22:03:34.000Z"
       },
       {
         "time": "02:24",
