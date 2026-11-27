@@ -1,14 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-27T14:11:35.829Z",
+  "updatedAt": "2026-11-27T14:36:25.429Z",
   "items": [
-    {
-      "time": "18:29",
-      "title": "問責案否決 重く受け止めると関氏",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604220?source=rss",
-      "publishedAt": "2026-11-27T09:29:53.000Z",
-      "xQuery": "問責案否決 重く受け止めると関氏"
-    },
     {
       "time": "17:37",
       "title": "露指示とされる破壊工作 欧州激化",
@@ -16,6 +8,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6604208?source=rss",
       "publishedAt": "2026-11-27T08:37:30.000Z",
       "xQuery": "露指示とされる破壊工作 欧州激化"
+    },
+    {
+      "time": "23:08",
+      "title": "関氏18年食事会で300万円収入計上",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6604244?source=rss",
+      "publishedAt": "2026-11-27T14:08:54.000Z",
+      "xQuery": "関氏18年食事会で300万円収入計上"
     },
     {
       "time": "21:08",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "「高齢者」の定義引き上げ 自民案"
     },
     {
+      "time": "23:27",
+      "title": "山中に2遺体 1人は不明の高校生か",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6604246?source=rss",
+      "publishedAt": "2026-11-27T14:27:39.000Z",
+      "xQuery": "山中に2遺体 1人は不明の高校生か"
+    },
+    {
       "time": "21:58",
       "title": "住宅で2400万円強盗被害 3人逃走",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6604242?source=rss",
       "publishedAt": "2026-11-27T12:58:47.000Z",
       "xQuery": "住宅で2400万円強盗被害 3人逃走"
-    },
-    {
-      "time": "20:05",
-      "title": "廃止浄水場から25年間水道水供給",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604227?source=rss",
-      "publishedAt": "2026-11-27T11:05:47.000Z",
-      "xQuery": "廃止浄水場から25年間水道水供給"
     }
   ]
 };
