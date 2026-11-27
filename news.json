@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T08:36:49.290Z",
+  "updatedAt": "2026-11-27T09:12:58.967Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,13 +17,6 @@
         "publishedAt": "2026-11-27T01:37:05.000Z"
       },
       {
-        "time": "13:24",
-        "title": "【8074.T FY2026 Q2 決算説明会】YUASA、中間期売上高12.4%増の2,818億円で過去最高更新 通期予想を上方修正も期末配当は据え置き",
-        "source": "BigGo ファイナンス",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5TNnJwdmFJOThXTFhwQ2FsTm5iNlJmUEJaNUYwQ1c5YmJjMHJ1b09OelZnX3UtMXRZcVpITFh1S21xaGhueXZhRE9wdER1SkVCZVdhbUVRVnFhQUc5SlZZ?oc=5",
-        "publishedAt": "2026-11-27T04:24:00.000Z"
-      },
-      {
         "time": "09:25",
         "title": "生産状況の３次元管理システム開発 モノプロ、視認性が向上",
         "source": "山陽新聞",
@@ -31,11 +24,25 @@
         "publishedAt": "2026-11-27T00:25:22.000Z"
       },
       {
+        "time": "13:24",
+        "title": "【8074.T FY2026 Q2 決算説明会】YUASA、中間期売上高12.4%増の2,818億円で過去最高更新 通期予想を上方修正も期末配当は据え置き",
+        "source": "BigGo ファイナンス",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5TNnJwdmFJOThXTFhwQ2FsTm5iNlJmUEJaNUYwQ1c5YmJjMHJ1b09OelZnX3UtMXRZcVpITFh1S21xaGhueXZhRE9wdER1SkVCZVdhbUVRVnFhQUc5SlZZ?oc=5",
+        "publishedAt": "2026-11-27T04:24:00.000Z"
+      },
+      {
         "time": "05:00",
         "title": "未来牽引するNEXTカンパニー（71）筑豊製作所 多様な機械メンテに精通",
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5nT21SaFhEWDNialpJYnVLNFRlRGFDYmdQbF9tMktTNWNGRXpoU0VHQnFZUUFORUVPdDEwaDQtQVFUcWt2T2Zvb2JsT1dZMmNCMk5PU1c3Wk0?oc=5",
         "publishedAt": "2026-11-26T20:00:00.000Z"
+      },
+      {
+        "time": "17:16",
+        "title": "すべてのミスミ体験をひとつに。新サービス「MISUMI MiMA」、2027年提供開始",
+        "source": "時事ドットコム",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5rNVloeEZ5RWU0U1dwbUI1cGZpTHlTMjFnZ2FGY0ZHX0tEcGtJWFdjTERBVnVYSzBfLU4zVEdjY0hfR2hBX2c0X1hJSUdQUERpLUtmNG1nWXBUbjlCSUZ1eHE1QWZsX2diV1Jn?oc=5",
+        "publishedAt": "2026-11-27T08:16:00.000Z"
       },
       {
         "time": "01:15",
@@ -50,16 +57,16 @@
         "source": "製造現場ドットコム",
         "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1rNFdnNUZ1TjB6MTRUa0xHRGRoZkJTRWpoMXVKdzdnRHVDNXJldFlnMTl2d2QyMlExU3lwaWtUYmxRNFZxczRZSGdB?oc=5",
         "publishedAt": "2026-11-27T01:22:05.000Z"
-      },
-      {
-        "time": "05:00",
-        "title": "NMC、部品数減らし安価に 切削液延命器具",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9Ja1haZ0Vwb3RnSzFrZnlPbG9GXy0zVDBkN0NoN3p2bmY0ay03Yy03WFlWRlRENmdEYjNMTkVRckJjVmFZcWdNb2g0T0Rxd3haZjdWN1dwVmc?oc=5",
-        "publishedAt": "2026-11-26T20:00:00.000Z"
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "17:37",
+        "title": "露指示とされる破壊工作 欧州激化",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6604208?source=rss",
+        "publishedAt": "2026-11-27T08:37:30.000Z"
+      },
       {
         "time": "08:17",
         "title": "ロシア 高市氏との首脳対話認める",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6604190?source=rss",
         "publishedAt": "2026-11-27T06:23:19.000Z"
-      },
-      {
-        "time": "06:06",
-        "title": "ECB総裁にデコス氏 EU首脳が合意",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6604124?source=rss",
-        "publishedAt": "2026-11-26T21:06:20.000Z"
       }
     ],
     "economyHeadlines": [

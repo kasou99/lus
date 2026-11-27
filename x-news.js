@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-27T08:36:50.206Z",
+  "updatedAt": "2026-11-27T09:12:59.639Z",
   "items": [
     {
       "time": "17:06",
@@ -18,6 +18,14 @@ window.LUS_X_NEWS = {
       "xQuery": "関東など 朝にかけ大雨になる所も"
     },
     {
+      "time": "17:24",
+      "title": "問責案否決 自民議員も関氏に苦言",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6604205?source=rss",
+      "publishedAt": "2026-11-27T08:24:06.000Z",
+      "xQuery": "問責案否決 自民議員も関氏に苦言"
+    },
+    {
       "time": "14:59",
       "title": "第3子以降出産で1千万円 自民が案",
       "source": "Yahoo!ニュース",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6604203?source=rss",
       "publishedAt": "2026-11-27T08:08:59.000Z",
       "xQuery": "神崎武法さんが死去 選挙CM話題"
-    },
-    {
-      "time": "16:37",
-      "title": "市保管の婚姻届 市議が撮影し投稿",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604198?source=rss",
-      "publishedAt": "2026-11-27T07:37:31.000Z",
-      "xQuery": "市保管の婚姻届 市議が撮影し投稿"
     }
   ]
 };
