@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T11:10:39.741Z",
+  "updatedAt": "2026-11-27T11:36:17.338Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "20:12",
+        "title": "福岡刺殺 直前に被害男性と接触か",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6604229?source=rss",
+        "publishedAt": "2026-11-27T11:12:56.000Z"
+      },
+      {
         "time": "11:53",
         "title": "8年で生徒2人自死 傷抱える遺族",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6604155?source=rss",
         "publishedAt": "2026-11-27T01:03:39.000Z"
-      },
-      {
-        "time": "12:24",
-        "title": "格闘家 ぱんちゃん璃奈容疑者逮捕",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6604172?source=rss",
-        "publishedAt": "2026-11-27T03:24:35.000Z"
       }
     ],
     "subsidyHeadlines": [

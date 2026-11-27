@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-27T11:10:40.314Z",
+  "updatedAt": "2026-11-27T11:36:18.174Z",
   "items": [
     {
-      "time": "18:13",
-      "title": "文科相の問責決議案 紙一重の否決",
+      "time": "18:29",
+      "title": "問責案否決 重く受け止めると関氏",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604218?source=rss",
-      "publishedAt": "2026-11-27T09:13:14.000Z",
-      "xQuery": "文科相の問責決議案 紙一重の否決"
+      "url": "https://news.yahoo.co.jp/pickup/6604220?source=rss",
+      "publishedAt": "2026-11-27T09:29:53.000Z",
+      "xQuery": "問責案否決 重く受け止めると関氏"
     },
     {
       "time": "19:41",
@@ -18,28 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "ふるさと納税仲介料上限 政府検討"
     },
     {
+      "time": "20:05",
+      "title": "廃止浄水場から25年間水道水供給",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6604227?source=rss",
+      "publishedAt": "2026-11-27T11:05:47.000Z",
+      "xQuery": "廃止浄水場から25年間水道水供給"
+    },
+    {
+      "time": "20:12",
+      "title": "福岡刺殺 直前に被害男性と接触か",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6604229?source=rss",
+      "publishedAt": "2026-11-27T11:12:56.000Z",
+      "xQuery": "福岡刺殺 直前に被害男性と接触か"
+    },
+    {
       "time": "19:42",
       "title": "事故で10人程けが 「暴走車」通報",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6604226?source=rss",
       "publishedAt": "2026-11-27T10:42:51.000Z",
       "xQuery": "事故で10人程けが 「暴走車」通報"
-    },
-    {
-      "time": "19:32",
-      "title": "神崎武法さん死去 語ったCM内幕",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604224?source=rss",
-      "publishedAt": "2026-11-27T10:32:28.000Z",
-      "xQuery": "神崎武法さん死去 語ったCM内幕"
-    },
-    {
-      "time": "18:49",
-      "title": "Suicaペンギンの銅像 春にも撤去",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604221?source=rss",
-      "publishedAt": "2026-11-27T09:49:52.000Z",
-      "xQuery": "Suicaペンギンの銅像 春にも撤去"
     }
   ]
 };
