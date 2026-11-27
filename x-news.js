@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-27T01:39:32.444Z",
+  "updatedAt": "2026-11-27T02:16:02.000Z",
   "items": [
+    {
+      "time": "10:45",
+      "title": "神崎武法・元公明党代表が死去",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6604157?source=rss",
+      "publishedAt": "2026-11-27T01:45:48.000Z",
+      "xQuery": "神崎武法・元公明党代表が死去"
+    },
     {
       "time": "09:20",
       "title": "関氏「問責決議案」3つのシナリオ",
@@ -8,14 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6604141?source=rss",
       "publishedAt": "2026-11-27T00:20:48.000Z",
       "xQuery": "関氏「問責決議案」3つのシナリオ"
-    },
-    {
-      "time": "09:02",
-      "title": "ネットいじめ 初めて3万件超える",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604145?source=rss",
-      "publishedAt": "2026-11-27T00:02:40.000Z",
-      "xQuery": "ネットいじめ 初めて3万件超える"
     },
     {
       "time": "08:57",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "ひき逃げ疑い あべこうじさん聴取"
     },
     {
-      "time": "10:17",
-      "title": "絶滅危惧種ペンギン 人工授精成功",
+      "time": "10:18",
+      "title": "子供の遊び場設置で売上増も 背景",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604156?source=rss",
-      "publishedAt": "2026-11-27T01:17:35.000Z",
-      "xQuery": "絶滅危惧種ペンギン 人工授精成功"
+      "url": "https://news.yahoo.co.jp/pickup/6604150?source=rss",
+      "publishedAt": "2026-11-27T01:18:50.000Z",
+      "xQuery": "子供の遊び場設置で売上増も 背景"
     }
   ]
 };
