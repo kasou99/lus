@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-27T12:17:46.332Z",
+  "updatedAt": "2026-11-27T12:39:09.856Z",
   "items": [
     {
       "time": "18:29",
@@ -18,6 +18,14 @@ window.LUS_X_NEWS = {
       "xQuery": "防衛省がAI活用新指針 3つの課題"
     },
     {
+      "time": "21:08",
+      "title": "「高齢者」の定義引き上げ 自民案",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6604235?source=rss",
+      "publishedAt": "2026-11-27T12:08:53.000Z",
+      "xQuery": "「高齢者」の定義引き上げ 自民案"
+    },
+    {
       "time": "20:05",
       "title": "廃止浄水場から25年間水道水供給",
       "source": "Yahoo!ニュース",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6604226?source=rss",
       "publishedAt": "2026-11-27T10:42:51.000Z",
       "xQuery": "事故で10人程けが 「暴走車」通報"
-    },
-    {
-      "time": "20:50",
-      "title": "ヘルパー全員70代 老老介護の現場",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604232?source=rss",
-      "publishedAt": "2026-11-27T11:50:20.000Z",
-      "xQuery": "ヘルパー全員70代 老老介護の現場"
     }
   ]
 };
