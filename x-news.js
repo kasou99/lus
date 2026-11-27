@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-27T04:13:30.378Z",
+  "updatedAt": "2026-11-27T04:35:52.544Z",
   "items": [
     {
       "time": "11:40",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "関文科相の問責決議案 否決"
     },
     {
-      "time": "10:45",
-      "title": "神崎武法・元公明党代表が死去",
+      "time": "12:51",
+      "title": "28日は関東で警報級大雨の恐れ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604157?source=rss",
-      "publishedAt": "2026-11-27T01:45:48.000Z",
-      "xQuery": "神崎武法・元公明党代表が死去"
+      "url": "https://news.yahoo.co.jp/pickup/6604174?source=rss",
+      "publishedAt": "2026-11-27T03:51:33.000Z",
+      "xQuery": "28日は関東で警報級大雨の恐れ"
     },
     {
       "time": "11:53",
