@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T18:13:12.738Z",
+  "updatedAt": "2026-11-27T18:35:38.425Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,6 +31,13 @@
         "publishedAt": "2026-11-27T00:20:00.000Z"
       },
       {
+        "time": "02:48",
+        "title": "すべてのミスミ体験をひとつに。新サービス「MISUMI MiMA」、2027年提供開始",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ULWdhdUtOb1BrUHh6aFNtRjJoMkxRcnZhY1pMZU1hZnpYaUlCQUF5LXAzZkEzWmVVazhqTWVyODY2ZVFONDFxb3p4TDdTS2ZIMlBFT2hZWUZhMmljd3dhYXpDOTlGQVJW?oc=5",
+        "publishedAt": "2026-11-27T17:48:39.000Z"
+      },
+      {
         "time": "05:00",
         "title": "未来牽引するNEXTカンパニー（71）筑豊製作所 多様な機械メンテに精通",
         "source": "日刊工業新聞",
@@ -49,13 +56,6 @@
         "title": "NMC、部品数減らし安価に 切削液延命器具",
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9Ja1haZ0Vwb3RnSzFrZnlPbG9GXy0zVDBkN0NoN3p2bmY0ay03Yy03WFlWRlRENmdEYjNMTkVRckJjVmFZcWdNb2g0T0Rxd3haZjdWN1dwVmc?oc=5",
-        "publishedAt": "2026-11-26T20:00:00.000Z"
-      },
-      {
-        "time": "05:00",
-        "title": "経営ひと言／ミツトヨ・佐々木繁幸社長「計測標準化探る」",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9DV3ZSVHN4Z1J6NjZZdEx2YWg3RE9wWS05VnhUbjNNdTFEazA1QWZkVkpBSkJiMTdqZi01bERORWY3Y3haUnk3V0JpV2FvVkotOVR0STl4SnU?oc=5",
         "publishedAt": "2026-11-26T20:00:00.000Z"
       }
     ],
