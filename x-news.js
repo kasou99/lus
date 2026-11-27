@@ -1,21 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-27T07:35:52.867Z",
+  "updatedAt": "2026-11-27T08:15:39.898Z",
   "items": [
     {
-      "time": "12:51",
-      "title": "28日は関東で警報級大雨の恐れ",
+      "time": "17:06",
+      "title": "政府 防災の「国家戦略」を初策定",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604174?source=rss",
-      "publishedAt": "2026-11-27T03:51:33.000Z",
-      "xQuery": "28日は関東で警報級大雨の恐れ"
+      "url": "https://news.yahoo.co.jp/pickup/6604199?source=rss",
+      "publishedAt": "2026-11-27T08:06:09.000Z",
+      "xQuery": "政府 防災の「国家戦略」を初策定"
     },
     {
-      "time": "15:23",
-      "title": "インド最大野党 メタと政府を提訴",
+      "time": "16:14",
+      "title": "匿流の特命捜査班新設へ 東京地検",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604190?source=rss",
-      "publishedAt": "2026-11-27T06:23:19.000Z",
-      "xQuery": "インド最大野党 メタと政府を提訴"
+      "url": "https://news.yahoo.co.jp/pickup/6604191?source=rss",
+      "publishedAt": "2026-11-27T07:14:05.000Z",
+      "xQuery": "匿流の特命捜査班新設へ 東京地検"
+    },
+    {
+      "time": "15:53",
+      "title": "熊本ふっこう応援割 第2弾実施へ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6604192?source=rss",
+      "publishedAt": "2026-11-27T06:53:26.000Z",
+      "xQuery": "熊本ふっこう応援割 第2弾実施へ"
     },
     {
       "time": "14:59",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "第3子以降出産で1千万円 自民が案"
     },
     {
-      "time": "13:36",
-      "title": "食べ残し持ち帰り 政府が呼びかけ",
+      "time": "16:37",
+      "title": "市保管の婚姻届 市議が撮影し投稿",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604166?source=rss",
-      "publishedAt": "2026-11-27T04:36:49.000Z",
-      "xQuery": "食べ残し持ち帰り 政府が呼びかけ"
-    },
-    {
-      "time": "15:51",
-      "title": "新INFOBAR 日本の若者に刺さるか",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604193?source=rss",
-      "publishedAt": "2026-11-27T06:51:08.000Z",
-      "xQuery": "新INFOBAR 日本の若者に刺さるか"
+      "url": "https://news.yahoo.co.jp/pickup/6604198?source=rss",
+      "publishedAt": "2026-11-27T07:37:31.000Z",
+      "xQuery": "市保管の婚姻届 市議が撮影し投稿"
     }
   ]
 };
