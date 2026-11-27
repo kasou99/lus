@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-27T03:13:43.620Z",
+  "updatedAt": "2026-11-27T03:36:05.721Z",
   "items": [
     {
       "time": "11:40",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "神崎武法・元公明党代表が死去"
     },
     {
-      "time": "09:52",
-      "title": "JAXA 日本人宇宙飛行士を募集へ",
+      "time": "11:53",
+      "title": "8年で生徒2人自死 傷抱える遺族",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604153?source=rss",
-      "publishedAt": "2026-11-27T00:52:49.000Z",
-      "xQuery": "JAXA 日本人宇宙飛行士を募集へ"
+      "url": "https://news.yahoo.co.jp/pickup/6604160?source=rss",
+      "publishedAt": "2026-11-27T02:53:09.000Z",
+      "xQuery": "8年で生徒2人自死 傷抱える遺族"
     },
     {
       "time": "11:21",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "マンジャロ無許可販売疑い 女逮捕"
     },
     {
-      "time": "11:53",
-      "title": "8年で生徒2人自死 傷抱える遺族",
+      "time": "12:24",
+      "title": "格闘家 ぱんちゃん璃奈容疑者逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604160?source=rss",
-      "publishedAt": "2026-11-27T02:53:09.000Z",
-      "xQuery": "8年で生徒2人自死 傷抱える遺族"
+      "url": "https://news.yahoo.co.jp/pickup/6604172?source=rss",
+      "publishedAt": "2026-11-27T03:24:35.000Z",
+      "xQuery": "格闘家 ぱんちゃん璃奈容疑者逮捕"
     }
   ]
 };
