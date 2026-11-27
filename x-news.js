@@ -1,14 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-27T06:43:48.917Z",
+  "updatedAt": "2026-11-27T07:13:03.307Z",
   "items": [
-    {
-      "time": "13:23",
-      "title": "首相 関文科相を続投させる構え",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604175?source=rss",
-      "publishedAt": "2026-11-27T04:23:01.000Z",
-      "xQuery": "首相 関文科相を続投させる構え"
-    },
     {
       "time": "12:51",
       "title": "28日は関東で警報級大雨の恐れ",
@@ -16,6 +8,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6604174?source=rss",
       "publishedAt": "2026-11-27T03:51:33.000Z",
       "xQuery": "28日は関東で警報級大雨の恐れ"
+    },
+    {
+      "time": "15:23",
+      "title": "インド最大野党 メタと政府を提訴",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6604190?source=rss",
+      "publishedAt": "2026-11-27T06:23:19.000Z",
+      "xQuery": "インド最大野党 メタと政府を提訴"
     },
     {
       "time": "14:59",
