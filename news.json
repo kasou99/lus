@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T21:09:50.257Z",
+  "updatedAt": "2026-11-27T21:35:51.682Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,25 +38,25 @@
         "publishedAt": "2026-11-27T17:48:39.000Z"
       },
       {
-        "time": "02:24",
-        "title": "テスラはロボット開発を目指し、ドイツの機械メーカーの買収を進めている。",
-        "source": "Vietnam.vn",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaUdhZmd3WnIyWEFqNnRrTkNyYnljZThLN3lMR3VMNm02VGo3UjdtcjFTcXlxUUxUSEZuanF4a0RPc0ZQeFNqU3BkbFZJa3lLakRxWjlxRWJsUEgzQVJEUHNHZUxpMHg2d0pSWFBjcTNrcHJRck5rWWFOM1BZYmFUVFlMZTVmTkpLNWJxcTJMTVE5M0xUSF9teWlTWWt3Zw?oc=5",
-        "publishedAt": "2026-11-27T17:24:07.000Z"
-      },
-      {
-        "time": "22:55",
-        "title": "Tesla、独EMAG買収を推進…マスク氏「Optimus 2万台」生産網を確保",
-        "source": "BigGo ファイナンス",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB2TWF0LWhKeVhydGhYRDhHaTl3SWdKbmhMUnBqZ014VUtJN3FmWUtXQmYxZnJqeDBQeERiQzlKbnBpZmFGR0xvdE50SkxUZldlSm9YZUpUcWxoWmcyNjk0dC1ocU9uNVozSzBZMlJRWC1Cblpu?oc=5",
-        "publishedAt": "2026-11-27T13:55:00.000Z"
-      },
-      {
         "time": "10:22",
         "title": "DMG森精機、ポーランドに鋳物工場を新設 年間最大2万トンの生産能力で欧州の供給体制を強化",
         "source": "製造現場ドットコム",
         "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1rNFdnNUZ1TjB6MTRUa0xHRGRoZkJTRWpoMXVKdzdnRHVDNXJldFlnMTl2d2QyMlExU3lwaWtUYmxRNFZxczRZSGdB?oc=5",
         "publishedAt": "2026-11-27T01:22:05.000Z"
+      },
+      {
+        "time": "06:47",
+        "title": "男性死亡…高速回転中に巻き込まれる 会社の機械で仕事中 動けない男性、覆いかぶさった状態…同僚が異変に気付いて発見",
+        "source": "埼玉新聞",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9TZ2UzbkhXQkxRNFl5LVJBWTJDTHNDVGNzSkJIUVlZVGdiVWY1QzJpSFZqOVlTYzBYNU9QWmt5SVQtc3BqdUM1WTZ0TktOMEVhRmI1bk1XX2pUQXoyM1drc245NGxQdw?oc=5",
+        "publishedAt": "2026-11-26T21:47:00.000Z"
+      },
+      {
+        "time": "02:24",
+        "title": "テスラはロボット開発を目指し、ドイツの機械メーカーの買収を進めている。",
+        "source": "Vietnam.vn",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaUdhZmd3WnIyWEFqNnRrTkNyYnljZThLN3lMR3VMNm02VGo3UjdtcjFTcXlxUUxUSEZuanF4a0RPc0ZQeFNqU3BkbFZJa3lLakRxWjlxRWJsUEgzQVJEUHNHZUxpMHg2d0pSWFBjcTNrcHJRck5rWWFOM1BZYmFUVFlMZTVmTkpLNWJxcTJMTVE5M0xUSF9teWlTWWt3Zw?oc=5",
+        "publishedAt": "2026-11-27T17:24:07.000Z"
       }
     ],
     "worldHeadlines": [
