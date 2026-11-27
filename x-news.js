@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-27T13:36:18.398Z",
+  "updatedAt": "2026-11-27T14:11:35.829Z",
   "items": [
     {
       "time": "18:29",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "問責案否決 重く受け止めると関氏"
     },
     {
-      "time": "21:47",
-      "title": "3カ国と加入交渉へ TPP閣僚会合",
+      "time": "17:37",
+      "title": "露指示とされる破壊工作 欧州激化",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604238?source=rss",
-      "publishedAt": "2026-11-27T12:47:03.000Z",
-      "xQuery": "3カ国と加入交渉へ TPP閣僚会合"
+      "url": "https://news.yahoo.co.jp/pickup/6604208?source=rss",
+      "publishedAt": "2026-11-27T08:37:30.000Z",
+      "xQuery": "露指示とされる破壊工作 欧州激化"
     },
     {
       "time": "21:08",
