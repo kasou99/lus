@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-27T02:16:02.000Z",
+  "updatedAt": "2026-11-27T02:36:42.151Z",
   "items": [
     {
       "time": "10:45",
@@ -18,6 +18,14 @@ window.LUS_X_NEWS = {
       "xQuery": "関氏「問責決議案」3つのシナリオ"
     },
     {
+      "time": "09:52",
+      "title": "JAXA 日本人宇宙飛行士を募集へ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6604153?source=rss",
+      "publishedAt": "2026-11-27T00:52:49.000Z",
+      "xQuery": "JAXA 日本人宇宙飛行士を募集へ"
+    },
+    {
       "time": "08:57",
       "title": "「ひとり情シス」役場職員の不安",
       "source": "Yahoo!ニュース",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "「ひとり情シス」役場職員の不安"
     },
     {
-      "time": "10:03",
-      "title": "ひき逃げ疑い あべこうじさん聴取",
+      "time": "11:21",
+      "title": "マンジャロ無許可販売疑い 女逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604155?source=rss",
-      "publishedAt": "2026-11-27T01:03:39.000Z",
-      "xQuery": "ひき逃げ疑い あべこうじさん聴取"
-    },
-    {
-      "time": "10:18",
-      "title": "子供の遊び場設置で売上増も 背景",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604150?source=rss",
-      "publishedAt": "2026-11-27T01:18:50.000Z",
-      "xQuery": "子供の遊び場設置で売上増も 背景"
+      "url": "https://news.yahoo.co.jp/pickup/6604158?source=rss",
+      "publishedAt": "2026-11-27T02:21:18.000Z",
+      "xQuery": "マンジャロ無許可販売疑い 女逮捕"
     }
   ]
 };
