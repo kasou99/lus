@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-27T02:36:42.151Z",
+  "updatedAt": "2026-11-27T03:13:43.620Z",
   "items": [
+    {
+      "time": "11:40",
+      "title": "関文科相の問責決議案 否決",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6604161?source=rss",
+      "publishedAt": "2026-11-27T02:40:11.000Z",
+      "xQuery": "関文科相の問責決議案 否決"
+    },
     {
       "time": "10:45",
       "title": "神崎武法・元公明党代表が死去",
@@ -8,14 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6604157?source=rss",
       "publishedAt": "2026-11-27T01:45:48.000Z",
       "xQuery": "神崎武法・元公明党代表が死去"
-    },
-    {
-      "time": "09:20",
-      "title": "関氏「問責決議案」3つのシナリオ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604141?source=rss",
-      "publishedAt": "2026-11-27T00:20:48.000Z",
-      "xQuery": "関氏「問責決議案」3つのシナリオ"
     },
     {
       "time": "09:52",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "JAXA 日本人宇宙飛行士を募集へ"
     },
     {
-      "time": "08:57",
-      "title": "「ひとり情シス」役場職員の不安",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604146?source=rss",
-      "publishedAt": "2026-11-26T23:57:20.000Z",
-      "xQuery": "「ひとり情シス」役場職員の不安"
-    },
-    {
       "time": "11:21",
       "title": "マンジャロ無許可販売疑い 女逮捕",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6604158?source=rss",
       "publishedAt": "2026-11-27T02:21:18.000Z",
       "xQuery": "マンジャロ無許可販売疑い 女逮捕"
+    },
+    {
+      "time": "11:53",
+      "title": "8年で生徒2人自死 傷抱える遺族",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6604160?source=rss",
+      "publishedAt": "2026-11-27T02:53:09.000Z",
+      "xQuery": "8年で生徒2人自死 傷抱える遺族"
     }
   ]
 };

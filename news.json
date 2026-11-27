@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T02:36:41.236Z",
+  "updatedAt": "2026-11-27T03:13:42.705Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,18 +31,11 @@
         "publishedAt": "2026-11-26T11:05:24.000Z"
       },
       {
-        "time": "22:25",
-        "title": "三星半導体工場、無人化を追求 ロボットチーム発足、2028年稼働で自動化の空白を補完",
-        "source": "BigGo ファイナンス",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5ESEJBdWlRVGk2cDMybFJjSkNzemMwVDZFdUctcW43cHpraXplbkZWYlRJVHc4d3ZqMmlsdVFhemMzbnBpMjF5OS1haHVPZVBSNTVIWXNVWHdoUl9JRWFjTDlsUDVwTW14aHBNNkFyZnNZbEJR?oc=5",
-        "publishedAt": "2026-11-26T13:25:00.000Z"
-      },
-      {
-        "time": "06:22",
+        "time": "09:57",
         "title": "DMG森精機、ポーランドに鋳物工場を新設 年間最大2万トンの生産能力で欧州の供給体制を強化",
         "source": "製造現場ドットコム",
         "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1rNFdnNUZ1TjB6MTRUa0xHRGRoZkJTRWpoMXVKdzdnRHVDNXJldFlnMTl2d2QyMlExU3lwaWtUYmxRNFZxczRZSGdB?oc=5",
-        "publishedAt": "2026-11-26T21:22:38.000Z"
+        "publishedAt": "2026-11-27T00:57:15.000Z"
       },
       {
         "time": "06:48",
@@ -50,6 +43,13 @@
         "source": "ニコニコニュース",
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE40V05ia1NnOUE3cnE1TEVETUxfSjQ3MVJLQUlYQnVfRC1Vb0FKaXY1STJQNjBwTzBid2ZobmtOWnAtZHZvdUVnY3gtNXhUZEU0Sm1jUjRHbEtOazN6NTlOUWRYSVFZdjhz?oc=5",
         "publishedAt": "2026-11-26T21:48:40.000Z"
+      },
+      {
+        "time": "06:48",
+        "title": "男性死亡…高速回転中に巻き込まれる 会社の機械で仕事中 動けない男性、覆いかぶさった状態…同僚が異変に気付いて発見",
+        "source": "ｄメニューニュース",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOeFNUNDZXQjJZZDJlOC1nazJTV1VpZnp1TUJGd0tzMkNHUEo5aE5MVnIyakZneWxpSnhodDZwV213NW5FT0pPM09fUU9tYXcwMVFka2ZZUzBubWpnX1lkc2c5aUJpV094NmxzRTg3MUY3YWlEaVhpeGxtMXAwM3MwckkwTdIBiAFBVV95cUxNUTZ4QlluMUVZeFF5TkdUVFE2WkFrOFVfdU5vejBDV3lKUHdFWkNENkljTVVCam04ZERJYmpZWVlnTFRvenFFMTZ4TXc0bjRTcHNDaDZScUNRdHlvcFI0UE95VlJDRDdXa0NGOG5ZblZKR0V4NEl5eHBTbDJjVU1USWU4eDVzTzYt?oc=5",
+        "publishedAt": "2026-11-26T21:48:00.000Z"
       },
       {
         "time": "14:31",
@@ -149,25 +149,11 @@
     ],
     "localHeadlines": [
       {
-        "time": "06:15",
-        "title": "沖縄県本島北部 線状降水帯が発生",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6604125?source=rss",
-        "publishedAt": "2026-11-26T21:15:22.000Z"
-      },
-      {
         "time": "14:49",
         "title": "拘束記者の妻「娘にパパ返して」",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6604065?source=rss",
         "publishedAt": "2026-11-26T05:49:41.000Z"
-      },
-      {
-        "time": "10:03",
-        "title": "ひき逃げ疑い あべこうじさん聴取",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6604155?source=rss",
-        "publishedAt": "2026-11-27T01:03:39.000Z"
       },
       {
         "time": "07:39",
@@ -177,11 +163,18 @@
         "publishedAt": "2026-11-26T22:39:32.000Z"
       },
       {
-        "time": "16:49",
-        "title": "遠足で女児が熱中症 市に逆転勝訴",
+        "time": "11:53",
+        "title": "8年で生徒2人自死 傷抱える遺族",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6604074?source=rss",
-        "publishedAt": "2026-11-26T07:49:28.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6604160?source=rss",
+        "publishedAt": "2026-11-27T02:53:09.000Z"
+      },
+      {
+        "time": "10:03",
+        "title": "ひき逃げ疑い あべこうじさん聴取",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6604155?source=rss",
+        "publishedAt": "2026-11-27T01:03:39.000Z"
       },
       {
         "time": "11:21",
@@ -189,6 +182,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6604158?source=rss",
         "publishedAt": "2026-11-27T02:21:18.000Z"
+      },
+      {
+        "time": "21:14",
+        "title": "汚水が混入か 飲食店ビルで食中毒",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6604114?source=rss",
+        "publishedAt": "2026-11-26T12:14:49.000Z"
       }
     ],
     "subsidyHeadlines": [
