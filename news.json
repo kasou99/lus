@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T01:12:43.054Z",
+  "updatedAt": "2026-11-27T01:39:31.914Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -10,18 +10,18 @@
         "publishedAt": "2026-11-27T00:25:22.000Z"
       },
       {
-        "time": "06:22",
-        "title": "DMG森精機、ポーランドに鋳物工場を新設 年間最大2万トンの生産能力で欧州の供給体制を強化",
-        "source": "製造現場ドットコム",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1rNFdnNUZ1TjB6MTRUa0xHRGRoZkJTRWpoMXVKdzdnRHVDNXJldFlnMTl2d2QyMlExU3lwaWtUYmxRNFZxczRZSGdB?oc=5",
-        "publishedAt": "2026-11-26T21:22:38.000Z"
-      },
-      {
         "time": "05:00",
         "title": "未来牽引するNEXTカンパニー（71）筑豊製作所 多様な機械メンテに精通",
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5nT21SaFhEWDNialpJYnVLNFRlRGFDYmdQbF9tMktTNWNGRXpoU0VHQnFZUUFORUVPdDEwaDQtQVFUcWt2T2Zvb2JsT1dZMmNCMk5PU1c3Wk0?oc=5",
         "publishedAt": "2026-11-26T20:00:00.000Z"
+      },
+      {
+        "time": "00:17",
+        "title": "【レポート】JIMTOF2026「切削工具・周辺機器編」――省資源・高精度加工・生産性向上を支える最新技術に注目",
+        "source": "製造現場ドットコム",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE85ZXJlcWVrZUZoa0lvcGR6aGNkMTJpU0dJSEZyYV9sMUhUckd3Z2RrQTN6Ym5ZOE5nVWxmdmhyUlM1YWZFRmdKQ1VR?oc=5",
+        "publishedAt": "2026-11-26T15:17:23.000Z"
       },
       {
         "time": "20:05",
@@ -112,13 +112,6 @@
         "publishedAt": "2026-11-26T07:37:47.000Z"
       },
       {
-        "time": "21:29",
-        "title": "スバル 4車種約18万台リコール",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6604115?source=rss",
-        "publishedAt": "2026-11-26T12:29:02.000Z"
-      },
-      {
         "time": "23:17",
         "title": "年末年始の「夜行新幹線」続々",
         "source": "Yahoo!ニュース",
@@ -145,6 +138,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6604108?source=rss",
         "publishedAt": "2026-11-26T11:31:25.000Z"
+      },
+      {
+        "time": "06:20",
+        "title": "アメ横周辺の道に机 営業停止処分",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6604126?source=rss",
+        "publishedAt": "2026-11-26T21:20:31.000Z"
       }
     ],
     "localHeadlines": [

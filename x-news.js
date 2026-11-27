@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-27T01:12:43.787Z",
+  "updatedAt": "2026-11-27T01:39:32.444Z",
   "items": [
     {
       "time": "09:20",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "ひき逃げ疑い あべこうじさん聴取"
     },
     {
-      "time": "08:57",
-      "title": "国内絶滅危惧のラン 新たな自生地",
+      "time": "10:17",
+      "title": "絶滅危惧種ペンギン 人工授精成功",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604144?source=rss",
-      "publishedAt": "2026-11-26T23:57:11.000Z",
-      "xQuery": "国内絶滅危惧のラン 新たな自生地"
+      "url": "https://news.yahoo.co.jp/pickup/6604156?source=rss",
+      "publishedAt": "2026-11-27T01:17:35.000Z",
+      "xQuery": "絶滅危惧種ペンギン 人工授精成功"
     }
   ]
 };
