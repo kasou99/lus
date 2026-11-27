@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-27T05:36:25.173Z",
+  "updatedAt": "2026-11-27T06:20:11.474Z",
   "items": [
     {
       "time": "13:23",
@@ -18,6 +18,14 @@ window.LUS_X_NEWS = {
       "xQuery": "28日は関東で警報級大雨の恐れ"
     },
     {
+      "time": "14:59",
+      "title": "第3子以降出産で1千万円 自民が案",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6604188?source=rss",
+      "publishedAt": "2026-11-27T05:59:41.000Z",
+      "xQuery": "第3子以降出産で1千万円 自民が案"
+    },
+    {
       "time": "13:36",
       "title": "食べ残し持ち帰り 政府が呼びかけ",
       "source": "Yahoo!ニュース",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "食べ残し持ち帰り 政府が呼びかけ"
     },
     {
-      "time": "13:56",
-      "title": "郡山市の中1不明 新たな写真公開",
+      "time": "14:11",
+      "title": "施設の屋上から缶投げ捨て 車損傷",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604182?source=rss",
-      "publishedAt": "2026-11-27T04:56:28.000Z",
-      "xQuery": "郡山市の中1不明 新たな写真公開"
-    },
-    {
-      "time": "11:21",
-      "title": "マンジャロ無許可販売疑い 女逮捕",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604158?source=rss",
-      "publishedAt": "2026-11-27T02:21:18.000Z",
-      "xQuery": "マンジャロ無許可販売疑い 女逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6604183?source=rss",
+      "publishedAt": "2026-11-27T05:11:58.000Z",
+      "xQuery": "施設の屋上から缶投げ捨て 車損傷"
     }
   ]
 };
