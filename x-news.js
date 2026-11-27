@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-27T23:09:44.451Z",
+  "updatedAt": "2026-11-27T23:35:41.305Z",
   "items": [
     {
       "time": "23:08",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "政治資金パーティーの収入 37%増"
     },
     {
-      "time": "23:27",
-      "title": "山中に2遺体 1人は不明の高校生か",
+      "time": "07:51",
+      "title": "文科相の問責案否決 火種消えず",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604246?source=rss",
-      "publishedAt": "2026-11-27T14:27:39.000Z",
-      "xQuery": "山中に2遺体 1人は不明の高校生か"
+      "url": "https://news.yahoo.co.jp/pickup/6604258?source=rss",
+      "publishedAt": "2026-11-27T22:51:18.000Z",
+      "xQuery": "文科相の問責案否決 火種消えず"
     },
     {
-      "time": "22:00",
-      "title": "舞妓を狙う観光客の迷惑行為 拍車",
+      "time": "08:20",
+      "title": "2遺体 不明生徒誘拐疑いで男逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604239?source=rss",
-      "publishedAt": "2026-11-27T13:00:25.000Z",
-      "xQuery": "舞妓を狙う観光客の迷惑行為 拍車"
+      "url": "https://news.yahoo.co.jp/pickup/6604260?source=rss",
+      "publishedAt": "2026-11-27T23:20:33.000Z",
+      "xQuery": "2遺体 不明生徒誘拐疑いで男逮捕"
     },
     {
       "time": "07:26",

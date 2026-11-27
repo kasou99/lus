@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T23:09:43.838Z",
+  "updatedAt": "2026-11-27T23:35:40.634Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,25 +17,11 @@
         "publishedAt": "2026-11-27T07:45:00.000Z"
       },
       {
-        "time": "07:03",
-        "title": "ミスミ、AI対話で設計・調達を支援 新サービス「MiMA」を2027年に提供へ",
-        "source": "日本ネット経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1jZnhhb1JHeUVUNjFObVc5Y1FvU25jMnVpblNqeHgzTUJtbnd6UXowMDNOdjF2cDRiVmprY2VsbnJibGQ1Nl9ndXV1VjNRN0FXZW1HQlB3?oc=5",
-        "publishedAt": "2026-11-27T22:03:34.000Z"
-      },
-      {
         "time": "10:37",
         "title": "【レポート】JIMTOF2026「切削工具・周辺機器編」――省資源・高精度加工・生産性向上を支える最新技術に注目",
         "source": "製造現場ドットコム",
         "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE85ZXJlcWVrZUZoa0lvcGR6aGNkMTJpU0dJSEZyYV9sMUhUckd3Z2RrQTN6Ym5ZOE5nVWxmdmhyUlM1YWZFRmdKQ1VR?oc=5",
         "publishedAt": "2026-11-27T01:37:05.000Z"
-      },
-      {
-        "time": "02:48",
-        "title": "すべてのミスミ体験をひとつに。新サービス「MISUMI MiMA」、2027年提供開始",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ULWdhdUtOb1BrUHh6aFNtRjJoMkxRcnZhY1pMZU1hZnpYaUlCQUF5LXAzZkEzWmVVazhqTWVyODY2ZVFONDFxb3p4TDdTS2ZIMlBFT2hZWUZhMmljd3dhYXpDOTlGQVJW?oc=5",
-        "publishedAt": "2026-11-27T17:48:39.000Z"
       },
       {
         "time": "10:52",
@@ -45,18 +31,32 @@
         "publishedAt": "2026-11-27T01:52:30.000Z"
       },
       {
+        "time": "02:48",
+        "title": "すべてのミスミ体験をひとつに。新サービス「MISUMI MiMA」、2027年提供開始",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ULWdhdUtOb1BrUHh6aFNtRjJoMkxRcnZhY1pMZU1hZnpYaUlCQUF5LXAzZkEzWmVVazhqTWVyODY2ZVFONDFxb3p4TDdTS2ZIMlBFT2hZWUZhMmljd3dhYXpDOTlGQVJW?oc=5",
+        "publishedAt": "2026-11-27T17:48:39.000Z"
+      },
+      {
+        "time": "10:22",
+        "title": "DMG森精機、ポーランドに鋳物工場を新設 年間最大2万トンの生産能力で欧州の供給体制を強化",
+        "source": "製造現場ドットコム",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1rNFdnNUZ1TjB6MTRUa0xHRGRoZkJTRWpoMXVKdzdnRHVDNXJldFlnMTl2d2QyMlExU3lwaWtUYmxRNFZxczRZSGdB?oc=5",
+        "publishedAt": "2026-11-27T01:22:05.000Z"
+      },
+      {
+        "time": "07:03",
+        "title": "ミスミ、AI対話で設計・調達を支援 新サービス「MiMA」を2027年に提供へ",
+        "source": "日本ネット経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1jZnhhb1JHeUVUNjFObVc5Y1FvU25jMnVpblNqeHgzTUJtbnd6UXowMDNOdjF2cDRiVmprY2VsbnJibGQ1Nl9ndXV1VjNRN0FXZW1HQlB3?oc=5",
+        "publishedAt": "2026-11-27T22:03:34.000Z"
+      },
+      {
         "time": "02:24",
         "title": "テスラはロボット開発を目指し、ドイツの機械メーカーの買収を進めている。",
         "source": "Vietnam.vn",
         "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaUdhZmd3WnIyWEFqNnRrTkNyYnljZThLN3lMR3VMNm02VGo3UjdtcjFTcXlxUUxUSEZuanF4a0RPc0ZQeFNqU3BkbFZJa3lLakRxWjlxRWJsUEgzQVJEUHNHZUxpMHg2d0pSWFBjcTNrcHJRck5rWWFOM1BZYmFUVFlMZTVmTkpLNWJxcTJMTVE5M0xUSF9teWlTWWt3Zw?oc=5",
         "publishedAt": "2026-11-27T17:24:07.000Z"
-      },
-      {
-        "time": "22:55",
-        "title": "Tesla、独EMAG買収を推進…マスク氏「Optimus 2万台」生産網を確保",
-        "source": "BigGo ファイナンス",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB2TWF0LWhKeVhydGhYRDhHaTl3SWdKbmhMUnBqZ014VUtJN3FmWUtXQmYxZnJqeDBQeERiQzlKbnBpZmFGR0xvdE50SkxUZldlSm9YZUpUcWxoWmcyNjk0dC1ocU9uNVozSzBZMlJRWC1Cblpu?oc=5",
-        "publishedAt": "2026-11-27T13:55:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -96,11 +96,11 @@
         "publishedAt": "2026-11-27T06:23:19.000Z"
       },
       {
-        "time": "18:09",
-        "title": "韓国の入試不正 前年より69.9%増",
+        "time": "08:08",
+        "title": "邦人を売春させた疑い 韓国で捜査",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6604213?source=rss",
-        "publishedAt": "2026-11-27T09:09:00.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6604254?source=rss",
+        "publishedAt": "2026-11-27T23:08:30.000Z"
       }
     ],
     "economyHeadlines": [
@@ -149,25 +149,18 @@
     ],
     "localHeadlines": [
       {
+        "time": "08:20",
+        "title": "2遺体 不明生徒誘拐疑いで男逮捕",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6604260?source=rss",
+        "publishedAt": "2026-11-27T23:20:33.000Z"
+      },
+      {
         "time": "23:27",
         "title": "山中に2遺体 1人は不明の高校生か",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6604246?source=rss",
         "publishedAt": "2026-11-27T14:27:39.000Z"
-      },
-      {
-        "time": "21:58",
-        "title": "住宅で2400万円強盗被害 3人逃走",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6604242?source=rss",
-        "publishedAt": "2026-11-27T12:58:47.000Z"
-      },
-      {
-        "time": "00:06",
-        "title": "静岡の住宅街にイノシシ 4人けが",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6604247?source=rss",
-        "publishedAt": "2026-11-27T15:06:02.000Z"
       },
       {
         "time": "23:31",
@@ -189,6 +182,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6604239?source=rss",
         "publishedAt": "2026-11-27T13:00:25.000Z"
+      },
+      {
+        "time": "12:24",
+        "title": "格闘家 ぱんちゃん璃奈容疑者逮捕",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6604172?source=rss",
+        "publishedAt": "2026-11-27T03:24:35.000Z"
       }
     ],
     "subsidyHeadlines": [
