@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-28T07:35:47.678Z",
+  "updatedAt": "2026-11-28T08:13:31.805Z",
   "items": [
+    {
+      "time": "16:33",
+      "title": "25年参院選 目立ったSNS広告費",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6604308?source=rss",
+      "publishedAt": "2026-11-28T07:33:42.000Z",
+      "xQuery": "25年参院選 目立ったSNS広告費"
+    },
     {
       "time": "15:34",
       "title": "29日にかけ急な強い雨や落雷注意",
@@ -10,28 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "29日にかけ急な強い雨や落雷注意"
     },
     {
-      "time": "14:47",
-      "title": "台湾の統一地方選 与党が伸長か",
+      "time": "16:44",
+      "title": "車同士が正面衝突 運転の女性死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604298?source=rss",
-      "publishedAt": "2026-11-28T05:47:48.000Z",
-      "xQuery": "台湾の統一地方選 与党が伸長か"
-    },
-    {
-      "time": "15:36",
-      "title": "山中に2人の遺体 一部は白骨化",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604305?source=rss",
-      "publishedAt": "2026-11-28T06:36:11.000Z",
-      "xQuery": "山中に2人の遺体 一部は白骨化"
-    },
-    {
-      "time": "14:10",
-      "title": "L.L.Bean 日本支社を閉鎖へ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604295?source=rss",
-      "publishedAt": "2026-11-28T05:10:18.000Z",
-      "xQuery": "L.L.Bean 日本支社を閉鎖へ"
+      "url": "https://news.yahoo.co.jp/pickup/6604307?source=rss",
+      "publishedAt": "2026-11-28T07:44:51.000Z",
+      "xQuery": "車同士が正面衝突 運転の女性死亡"
     },
     {
       "time": "14:54",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6604301?source=rss",
       "publishedAt": "2026-11-28T05:54:26.000Z",
       "xQuery": "フォークリフトにはねられる 死亡"
+    },
+    {
+      "time": "16:52",
+      "title": "書店がYouTube 10分で4千冊完売",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6604312?source=rss",
+      "publishedAt": "2026-11-28T07:52:07.000Z",
+      "xQuery": "書店がYouTube 10分で4千冊完売"
     }
   ]
 };

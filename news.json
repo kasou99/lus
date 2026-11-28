@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-28T07:35:47.049Z",
+  "updatedAt": "2026-11-28T08:13:31.217Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -10,18 +10,18 @@
         "publishedAt": "2026-11-27T09:35:00.000Z"
       },
       {
-        "time": "16:45",
-        "title": "中国：山東済南で工作機械の産業団地、NCメーカーなど集積へ",
-        "source": "亜州ビジネス中国",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4tYm5qRHc3aE5XdVpRV0ZBaWJDdHFWVWVxejhlZVJZMjVwbGxkSDV5Z1Z2eDVuRHVBN3p0a2FzME5McW9WT2JNRFJvazFUeDN1bTNXTUhuWDkzTmhELWpKcHFobHlMVG5q?oc=5",
-        "publishedAt": "2026-11-27T07:45:00.000Z"
-      },
-      {
         "time": "15:00",
         "title": "CNCねじ研削盤の世界市場（2026年～2032年）、市場規模（外径ねじ研削盤、内径ねじ研削盤）・分析レポートを発表",
         "source": "アットプレス",
         "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1XMzdjRE5Lb2hSOVgwdWxoR2swcUcyaWpLZk1BUDN0MDJsSUNPUlFnTlhUZVhnSU1EMUlYRFc1X1loUkdmMExwaUVBZHAzZw?oc=5",
         "publishedAt": "2026-11-28T06:00:00.000Z"
+      },
+      {
+        "time": "16:00",
+        "title": "日本ガス検知器のメーカー別シェアと動向",
+        "source": "pando.life",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9hMHRnSG1xSDk5SE5XUnNqa0ZDMEg4cDEzVUlRcjZYeWVyNTM0T3N3cFZTSjhVVEdway11MTliZ0V2Nnl3aWtadk93?oc=5",
+        "publishedAt": "2026-11-28T07:00:46.000Z"
       },
       {
         "time": "02:48",
@@ -45,21 +45,28 @@
         "publishedAt": "2026-11-27T13:55:00.000Z"
       },
       {
+        "time": "06:24",
+        "title": "-40～75℃の過酷環境でも安定動作する、省スペース・コンパクト設計の産業用ギガビットハブを発売",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9FZmVvdHRtblJHVUwtN0Qzek94dEpERmI4dkJGOTRwdTRxb2VuVF9xOS1lWldxTVQyTVZBZDZ5clR1ckRVajVqSzdFejhHYU5jTXc?oc=5",
+        "publishedAt": "2026-11-27T21:24:09.000Z"
+      },
+      {
         "time": "07:03",
         "title": "ミスミ、AI対話で設計・調達を支援 新サービス「MiMA」を2027年に提供へ",
         "source": "日本ネット経済新聞",
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1jZnhhb1JHeUVUNjFObVc5Y1FvU25jMnVpblNqeHgzTUJtbnd6UXowMDNOdjF2cDRiVmprY2VsbnJibGQ1Nl9ndXV1VjNRN0FXZW1HQlB3?oc=5",
         "publishedAt": "2026-11-27T22:03:34.000Z"
-      },
-      {
-        "time": "22:36",
-        "title": "産業用レバー市場2035年展望：更新需要と自動化が成長を下支え - ニュースと統計",
-        "source": "IndexBox",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVnFlRTBMRHhjM2JoRTBlbmZoV3JLZEpsbWFBYUZ1V25LNkJPZ2dWcUxBTHVDZVVNOVRKRXExUUZrZGFWMGhJdWRUVU0xYWVfQ3NKa3VORG9BSGpmNDU3OHVDbWJqc0hndkRSR1NpUnVCbzl2X0FwVHBjMTVPc0JoLU5VWlBEaGdLTTdJVnFYb1BlQmJCTjNSeEN6TTh0b3RRTDlGNTFRTEtiUUFud1h4bXBzLVRrcHhSMHluc25pVHRZa2pzUGN1ZGlLQ1VtR0J0MV9B?oc=5",
-        "publishedAt": "2026-11-27T13:36:04.000Z"
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "16:56",
+        "title": "米空軍のシステムに不正侵入 報道",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6604311?source=rss",
+        "publishedAt": "2026-11-28T07:56:12.000Z"
+      },
       {
         "time": "14:47",
         "title": "台湾の統一地方選 与党が伸長か",
@@ -80,13 +87,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6604264?source=rss",
         "publishedAt": "2026-11-27T23:47:07.000Z"
-      },
-      {
-        "time": "21:47",
-        "title": "3カ国と加入交渉へ TPP閣僚会合",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6604238?source=rss",
-        "publishedAt": "2026-11-27T12:47:03.000Z"
       },
       {
         "time": "14:48",
@@ -133,18 +133,18 @@
         "publishedAt": "2026-11-28T05:10:18.000Z"
       },
       {
+        "time": "16:52",
+        "title": "書店がYouTube 10分で4千冊完売",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6604312?source=rss",
+        "publishedAt": "2026-11-28T07:52:07.000Z"
+      },
+      {
         "time": "13:37",
         "title": "「ゆで太郎」会員制度やめた理由",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6604290?source=rss",
         "publishedAt": "2026-11-28T04:37:14.000Z"
-      },
-      {
-        "time": "09:11",
-        "title": "西友 トライアル西友に変え客数増",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6604267?source=rss",
-        "publishedAt": "2026-11-28T00:11:18.000Z"
       }
     ],
     "localHeadlines": [
@@ -177,11 +177,11 @@
         "publishedAt": "2026-11-27T23:20:33.000Z"
       },
       {
-        "time": "11:06",
-        "title": "男女7人けが 襲ったイノシシ駆除",
+        "time": "16:44",
+        "title": "車同士が正面衝突 運転の女性死亡",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6604280?source=rss",
-        "publishedAt": "2026-11-28T02:06:09.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6604307?source=rss",
+        "publishedAt": "2026-11-28T07:44:51.000Z"
       },
       {
         "time": "14:54",
