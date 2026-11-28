@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-28T06:17:45.187Z",
+  "updatedAt": "2026-11-28T06:40:43.234Z",
   "items": [
     {
       "time": "14:48",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "L.L.Bean 日本支社を閉鎖へ"
     },
     {
-      "time": "12:52",
-      "title": "転落しそうな4歳保護 小学生手柄",
+      "time": "14:54",
+      "title": "フォークリフトにはねられる 死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604288?source=rss",
-      "publishedAt": "2026-11-28T03:52:22.000Z",
-      "xQuery": "転落しそうな4歳保護 小学生手柄"
+      "url": "https://news.yahoo.co.jp/pickup/6604301?source=rss",
+      "publishedAt": "2026-11-28T05:54:26.000Z",
+      "xQuery": "フォークリフトにはねられる 死亡"
     }
   ]
 };
