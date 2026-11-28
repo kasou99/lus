@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-28T19:35:41.792Z",
+  "updatedAt": "2026-11-28T20:10:38.220Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,13 +31,6 @@
         "publishedAt": "2026-11-28T03:17:38.000Z"
       },
       {
-        "time": "05:00",
-        "title": "【倒産】負債1億1000万円…日本料理店「割烹渡辺」の運営会社が破産開始決定 新型コロナ禍による宴会需要の縮小や物価上昇が影響 新潟・西蒲区",
-        "source": "ｄメニューニュース",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBWUU5KODFSZmZpQVRON1RuNE5PYTlGZzNCOFVsX3I3UzNXT2FLenhzNE03TmpTS2hpajJYOVBRUzdpckRPS09sX013aEc2bU5VOGVUakYxQUhvNXoxeE5xZDAwX2lnN19sT2xkdTFndkt0bWlZWE840gF3QVVfeXFMUFZRTko4MVJmZmlBVE43VG40Tk9hOUZnM0I4VWxfcjdTM1dPYUt6eHM0TTdOalNLaGlqMlg5UFFTN2lyRE9LT2xfTXdoRzZtTlU4ZVRqRjFBSG81ejF4TnFkMDBfaWc3X2xPbGR1MWd2S3RtaVlYTzg?oc=5",
-        "publishedAt": "2026-11-27T20:00:00.000Z"
-      },
-      {
         "time": "06:18",
         "title": "Sansan、インターネットイニシアティブなどが出展。「データの一元管理・可視化」に関する注目の出展企業を紹介【イプロ",
         "source": "ニコニコニュース",
@@ -57,6 +50,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6604276?source=rss",
         "publishedAt": "2026-11-28T01:34:03.000Z"
+      },
+      {
+        "time": "17:18",
+        "title": "サン電子 300億円超申告漏れ指摘",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6604314?source=rss",
+        "publishedAt": "2026-11-28T08:18:37.000Z"
       }
     ],
     "worldHeadlines": [
