@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-28T13:09:27.781Z",
+  "updatedAt": "2026-11-28T13:35:38.894Z",
   "items": [
     {
       "time": "21:15",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "高市氏側 昨年企業Gから分散献金"
     },
     {
-      "time": "19:00",
-      "title": "防衛費5年「60兆円弱」米側は難色",
+      "time": "22:26",
+      "title": "金融43社 片山氏団体のパー券購入",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604325?source=rss",
-      "publishedAt": "2026-11-28T10:00:38.000Z",
-      "xQuery": "防衛費5年「60兆円弱」米側は難色"
+      "url": "https://news.yahoo.co.jp/pickup/6604337?source=rss",
+      "publishedAt": "2026-11-28T13:26:57.000Z",
+      "xQuery": "金融43社 片山氏団体のパー券購入"
     },
     {
       "time": "20:28",

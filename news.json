@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-28T13:09:27.289Z",
+  "updatedAt": "2026-11-28T13:35:38.022Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -45,18 +45,18 @@
         "publishedAt": "2026-11-27T17:48:39.000Z"
       },
       {
-        "time": "05:00",
-        "title": "【倒産】負債1億1000万円…日本料理店「割烹渡辺」の運営会社が破産開始決定 新型コロナ禍による宴会需要の縮小や物価上昇が影響 新潟・西蒲区",
-        "source": "ｄメニューニュース",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBWUU5KODFSZmZpQVRON1RuNE5PYTlGZzNCOFVsX3I3UzNXT2FLenhzNE03TmpTS2hpajJYOVBRUzdpckRPS09sX013aEc2bU5VOGVUakYxQUhvNXoxeE5xZDAwX2lnN19sT2xkdTFndkt0bWlZWE840gF3QVVfeXFMUFZRTko4MVJmZmlBVE43VG40Tk9hOUZnM0I4VWxfcjdTM1dPYUt6eHM0TTdOalNLaGlqMlg5UFFTN2lyRE9LT2xfTXdoRzZtTlU4ZVRqRjFBSG81ejF4TnFkMDBfaWc3X2xPbGR1MWd2S3RtaVlYTzg?oc=5",
-        "publishedAt": "2026-11-27T20:00:00.000Z"
-      },
-      {
         "time": "02:24",
         "title": "テスラはロボット開発を目指し、ドイツの機械メーカーの買収を進めている。",
         "source": "Vietnam.vn",
         "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaUdhZmd3WnIyWEFqNnRrTkNyYnljZThLN3lMR3VMNm02VGo3UjdtcjFTcXlxUUxUSEZuanF4a0RPc0ZQeFNqU3BkbFZJa3lLakRxWjlxRWJsUEgzQVJEUHNHZUxpMHg2d0pSWFBjcTNrcHJRck5rWWFOM1BZYmFUVFlMZTVmTkpLNWJxcTJMTVE5M0xUSF9teWlTWWt3Zw?oc=5",
         "publishedAt": "2026-11-27T17:24:07.000Z"
+      },
+      {
+        "time": "10:45",
+        "title": "神戸の松蔭中学・高校の生徒アイデアを採り入れた防災バッグが発売へ [兵庫県]",
+        "source": "朝日新聞",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ucW9SMm8tZnNNeWZMYXdmQXZmeEQ5UFBVZ2JxWUhhY0EtTzRsaW44Uno4eTVVUDFpNHUtc2pCTnNQYWhwWXVYWnFFNEswVEJjazhHWEtyR1l6UV9OOWkzY1BJamZEbjQ?oc=5",
+        "publishedAt": "2026-11-28T01:45:01.000Z"
       }
     ],
     "worldHeadlines": [
@@ -149,13 +149,6 @@
     ],
     "localHeadlines": [
       {
-        "time": "13:16",
-        "title": "熊本地震 災害関連死の申請相次ぐ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6604289?source=rss",
-        "publishedAt": "2026-11-28T04:16:54.000Z"
-      },
-      {
         "time": "15:36",
         "title": "山中に2人の遺体 一部は白骨化",
         "source": "Yahoo!ニュース",
@@ -189,6 +182,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6604301?source=rss",
         "publishedAt": "2026-11-28T05:54:26.000Z"
+      },
+      {
+        "time": "20:28",
+        "title": "PL学園全校 28年度生徒募集休止",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6604329?source=rss",
+        "publishedAt": "2026-11-28T11:28:33.000Z"
       }
     ],
     "subsidyHeadlines": [
