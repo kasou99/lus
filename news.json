@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-28T03:12:54.393Z",
+  "updatedAt": "2026-11-28T03:35:45.999Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -24,18 +24,18 @@
         "publishedAt": "2026-11-27T22:03:34.000Z"
       },
       {
+        "time": "12:17",
+        "title": "テスラはオプティマスロボット開発のため、ドイツのエンジニアリング会社を買収した。",
+        "source": "Vietnam.vn",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPR1doMzd4YWRBMGE1Z3hTNVFSYlBSOElnWWJjWTNIOTVreTh0Mmh4b0dhMG8xRHIyTXBBZy1mN1FvSFBidmxNVTE5M0RydGh2WkxyNEJIeWE5XzYxdjlJd3FFRVZKOFlUejh0Tm1ZQnU2eTNJTUpZOUxfOWtETmhnSnhNMjJFbVFHWWRLeg?oc=5",
+        "publishedAt": "2026-11-28T03:17:38.000Z"
+      },
+      {
         "time": "02:48",
         "title": "すべてのミスミ体験をひとつに。新サービス「MISUMI MiMA」、2027年提供開始",
         "source": "ニコニコニュース",
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ULWdhdUtOb1BrUHh6aFNtRjJoMkxRcnZhY1pMZU1hZnpYaUlCQUF5LXAzZkEzWmVVazhqTWVyODY2ZVFONDFxb3p4TDdTS2ZIMlBFT2hZWUZhMmljd3dhYXpDOTlGQVJW?oc=5",
         "publishedAt": "2026-11-27T17:48:39.000Z"
-      },
-      {
-        "time": "02:24",
-        "title": "テスラはロボット開発を目指し、ドイツの機械メーカーの買収を進めている。",
-        "source": "Vietnam.vn",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaUdhZmd3WnIyWEFqNnRrTkNyYnljZThLN3lMR3VMNm02VGo3UjdtcjFTcXlxUUxUSEZuanF4a0RPc0ZQeFNqU3BkbFZJa3lLakRxWjlxRWJsUEgzQVJEUHNHZUxpMHg2d0pSWFBjcTNrcHJRck5rWWFOM1BZYmFUVFlMZTVmTkpLNWJxcTJMTVE5M0xUSF9teWlTWWt3Zw?oc=5",
-        "publishedAt": "2026-11-27T17:24:07.000Z"
       },
       {
         "time": "22:55",
@@ -45,11 +45,11 @@
         "publishedAt": "2026-11-27T13:55:00.000Z"
       },
       {
-        "time": "13:04",
-        "title": "「第20回 日立建機グループ国際技能競技会」を開催 - Hitachi Construction Machinery Co., Ltd.",
-        "source": "Hitachi Construction Machinery Co., Ltd.",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5BMl9SU2hDaHJZRDNhYl9pdkhWaGd4U2U0UDdMeThQQkxBUTI4Tk1GR2xUYjY3SzYwbDFUUmYwZzNKemZfN3dpX25zZVhQaDJCdFN0aVdHWUZiUi1hbDZKbTlscnpNTk5lMkF0SDhqZw?oc=5",
-        "publishedAt": "2026-11-27T04:04:00.000Z"
+        "time": "02:24",
+        "title": "テスラはロボット開発を目指し、ドイツの機械メーカーの買収を進めている。",
+        "source": "Vietnam.vn",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaUdhZmd3WnIyWEFqNnRrTkNyYnljZThLN3lMR3VMNm02VGo3UjdtcjFTcXlxUUxUSEZuanF4a0RPc0ZQeFNqU3BkbFZJa3lLakRxWjlxRWJsUEgzQVJEUHNHZUxpMHg2d0pSWFBjcTNrcHJRck5rWWFOM1BZYmFUVFlMZTVmTkpLNWJxcTJMTVE5M0xUSF9teWlTWWt3Zw?oc=5",
+        "publishedAt": "2026-11-27T17:24:07.000Z"
       },
       {
         "time": "13:24",
