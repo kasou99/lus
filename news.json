@@ -1,14 +1,7 @@
 {
-  "updatedAt": "2026-11-28T11:09:08.728Z",
+  "updatedAt": "2026-11-28T11:35:23.131Z",
   "groups": {
     "machineHeadlines": [
-      {
-        "time": "06:24",
-        "title": "-40～75℃の過酷環境でも安定動作する、省スペース・コンパクト設計の産業用ギガビットハブを発売",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9FZmVvdHRtblJHVUwtN0Qzek94dEpERmI4dkJGOTRwdTRxb2VuVF9xOS1lWldxTVQyTVZBZDZ5clR1ckRVajVqSzdFejhHYU5jTXc?oc=5",
-        "publishedAt": "2026-11-27T21:24:09.000Z"
-      },
       {
         "time": "22:55",
         "title": "Tesla、独EMAG買収を推進…マスク氏「Optimus 2万台」生産網を確保",
@@ -45,18 +38,25 @@
         "publishedAt": "2026-11-27T17:48:39.000Z"
       },
       {
-        "time": "05:00",
-        "title": "【倒産】負債1億1000万円…日本料理店「割烹渡辺」の運営会社が破産開始決定 新型コロナ禍による宴会需要の縮小や物価上昇が影響 新潟・西蒲区",
-        "source": "ｄメニューニュース",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBWUU5KODFSZmZpQVRON1RuNE5PYTlGZzNCOFVsX3I3UzNXT2FLenhzNE03TmpTS2hpajJYOVBRUzdpckRPS09sX013aEc2bU5VOGVUakYxQUhvNXoxeE5xZDAwX2lnN19sT2xkdTFndkt0bWlZWE840gF3QVVfeXFMUFZRTko4MVJmZmlBVE43VG40Tk9hOUZnM0I4VWxfcjdTM1dPYUt6eHM0TTdOalNLaGlqMlg5UFFTN2lyRE9LT2xfTXdoRzZtTlU4ZVRqRjFBSG81ejF4TnFkMDBfaWc3X2xPbGR1MWd2S3RtaVlYTzg?oc=5",
-        "publishedAt": "2026-11-27T20:00:00.000Z"
-      },
-      {
         "time": "02:24",
         "title": "テスラはロボット開発を目指し、ドイツの機械メーカーの買収を進めている。",
         "source": "Vietnam.vn",
         "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaUdhZmd3WnIyWEFqNnRrTkNyYnljZThLN3lMR3VMNm02VGo3UjdtcjFTcXlxUUxUSEZuanF4a0RPc0ZQeFNqU3BkbFZJa3lLakRxWjlxRWJsUEgzQVJEUHNHZUxpMHg2d0pSWFBjcTNrcHJRck5rWWFOM1BZYmFUVFlMZTVmTkpLNWJxcTJMTVE5M0xUSF9teWlTWWt3Zw?oc=5",
         "publishedAt": "2026-11-27T17:24:07.000Z"
+      },
+      {
+        "time": "10:45",
+        "title": "神戸の松蔭中学・高校の生徒アイデアを採り入れた防災バッグが発売へ [兵庫県]",
+        "source": "朝日新聞",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ucW9SMm8tZnNNeWZMYXdmQXZmeEQ5UFBVZ2JxWUhhY0EtTzRsaW44Uno4eTVVUDFpNHUtc2pCTnNQYWhwWXVYWnFFNEswVEJjazhHWEtyR1l6UV9OOWkzY1BJamZEbjQ?oc=5",
+        "publishedAt": "2026-11-28T01:45:01.000Z"
+      },
+      {
+        "time": "05:00",
+        "title": "【倒産】負債1億1000万円…日本料理店「割烹渡辺」の運営会社が破産開始決定 新型コロナ禍による宴会需要の縮小や物価上昇が影響 新潟・西蒲区",
+        "source": "ｄメニューニュース",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBWUU5KODFSZmZpQVRON1RuNE5PYTlGZzNCOFVsX3I3UzNXT2FLenhzNE03TmpTS2hpajJYOVBRUzdpckRPS09sX013aEc2bU5VOGVUakYxQUhvNXoxeE5xZDAwX2lnN19sT2xkdTFndkt0bWlZWE840gF3QVVfeXFMUFZRTko4MVJmZmlBVE43VG40Tk9hOUZnM0I4VWxfcjdTM1dPYUt6eHM0TTdOalNLaGlqMlg5UFFTN2lyRE9LT2xfTXdoRzZtTlU4ZVRqRjFBSG81ejF4TnFkMDBfaWc3X2xPbGR1MWd2S3RtaVlYTzg?oc=5",
+        "publishedAt": "2026-11-27T20:00:00.000Z"
       }
     ],
     "worldHeadlines": [

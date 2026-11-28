@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-28T11:09:09.372Z",
+  "updatedAt": "2026-11-28T11:35:23.907Z",
   "items": [
     {
       "time": "19:00",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "拘束記者の妻手記 露で相次ぎ報道"
     },
     {
-      "time": "19:13",
-      "title": "銚子のサバ加工ピンチ 6社が倒産",
+      "time": "20:28",
+      "title": "PL学園全校 28年度生徒募集休止",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604326?source=rss",
-      "publishedAt": "2026-11-28T10:13:34.000Z",
-      "xQuery": "銚子のサバ加工ピンチ 6社が倒産"
+      "url": "https://news.yahoo.co.jp/pickup/6604329?source=rss",
+      "publishedAt": "2026-11-28T11:28:33.000Z",
+      "xQuery": "PL学園全校 28年度生徒募集休止"
     },
     {
-      "time": "16:52",
-      "title": "書店がYouTube 10分で4千冊完売",
+      "time": "15:15",
+      "title": "寺で無許可ダンスバトル 法的には",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604312?source=rss",
-      "publishedAt": "2026-11-28T07:52:07.000Z",
-      "xQuery": "書店がYouTube 10分で4千冊完売"
+      "url": "https://news.yahoo.co.jp/pickup/6604300?source=rss",
+      "publishedAt": "2026-11-28T06:15:53.000Z",
+      "xQuery": "寺で無許可ダンスバトル 法的には"
     }
   ]
 };
