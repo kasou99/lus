@@ -1,13 +1,20 @@
 {
-  "updatedAt": "2026-11-28T09:11:30.323Z",
+  "updatedAt": "2026-11-28T09:35:52.351Z",
   "groups": {
     "machineHeadlines": [
       {
-        "time": "18:35",
-        "title": "テスラ、独工作機械大手EMAG買収を計画か Optimus向け精密ギアの内製能力確保へ",
+        "time": "06:24",
+        "title": "-40～75℃の過酷環境でも安定動作する、省スペース・コンパクト設計の産業用ギガビットハブを発売",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9FZmVvdHRtblJHVUwtN0Qzek94dEpERmI4dkJGOTRwdTRxb2VuVF9xOS1lWldxTVQyTVZBZDZ5clR1ckRVajVqSzdFejhHYU5jTXc?oc=5",
+        "publishedAt": "2026-11-27T21:24:09.000Z"
+      },
+      {
+        "time": "22:55",
+        "title": "Tesla、独EMAG買収を推進…マスク氏「Optimus 2万台」生産網を確保",
         "source": "BigGo ファイナンス",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9xcGY0d1ZBLWQyeG0ySlhMMERFdzRSLXB0RzRybFFWcTkyenJBTW54ckVXU1ZlZHJCa1NwbksydEtwUUlyTWcwaUkzbmxrdDFSOEJCbGg0R3Z3OWxhQnktQnllWEZETnBpSUZ2RDBlMTI5c1l4?oc=5",
-        "publishedAt": "2026-11-27T09:35:00.000Z"
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB2TWF0LWhKeVhydGhYRDhHaTl3SWdKbmhMUnBqZ014VUtJN3FmWUtXQmYxZnJqeDBQeERiQzlKbnBpZmFGR0xvdE50SkxUZldlSm9YZUpUcWxoWmcyNjk0dC1ocU9uNVozSzBZMlJRWC1Cblpu?oc=5",
+        "publishedAt": "2026-11-27T13:55:00.000Z"
       },
       {
         "time": "15:00",
@@ -17,11 +24,11 @@
         "publishedAt": "2026-11-28T06:00:00.000Z"
       },
       {
-        "time": "07:03",
-        "title": "ミスミ、AI対話で設計・調達を支援 新サービス「MiMA」を2027年に提供へ",
-        "source": "日本ネット経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1jZnhhb1JHeUVUNjFObVc5Y1FvU25jMnVpblNqeHgzTUJtbnd6UXowMDNOdjF2cDRiVmprY2VsbnJibGQ1Nl9ndXV1VjNRN0FXZW1HQlB3?oc=5",
-        "publishedAt": "2026-11-27T22:03:34.000Z"
+        "time": "16:00",
+        "title": "日本ガス検知器のメーカー別シェアと動向",
+        "source": "pando.life",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9hMHRnSG1xSDk5SE5XUnNqa0ZDMEg4cDEzVUlRcjZYeWVyNTM0T3N3cFZTSjhVVEdway11MTliZ0V2Nnl3aWtadk93?oc=5",
+        "publishedAt": "2026-11-28T07:00:46.000Z"
       },
       {
         "time": "02:48",
@@ -38,18 +45,11 @@
         "publishedAt": "2026-11-27T17:24:07.000Z"
       },
       {
-        "time": "22:55",
-        "title": "Tesla、独EMAG買収を推進…マスク氏「Optimus 2万台」生産網を確保",
-        "source": "BigGo ファイナンス",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB2TWF0LWhKeVhydGhYRDhHaTl3SWdKbmhMUnBqZ014VUtJN3FmWUtXQmYxZnJqeDBQeERiQzlKbnBpZmFGR0xvdE50SkxUZldlSm9YZUpUcWxoWmcyNjk0dC1ocU9uNVozSzBZMlJRWC1Cblpu?oc=5",
-        "publishedAt": "2026-11-27T13:55:00.000Z"
-      },
-      {
-        "time": "10:45",
-        "title": "神戸の松蔭中学・高校の生徒アイデアを採り入れた防災バッグが発売へ [兵庫県]",
-        "source": "朝日新聞",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ucW9SMm8tZnNNeWZMYXdmQXZmeEQ5UFBVZ2JxWUhhY0EtTzRsaW44Uno4eTVVUDFpNHUtc2pCTnNQYWhwWXVYWnFFNEswVEJjazhHWEtyR1l6UV9OOWkzY1BJamZEbjQ?oc=5",
-        "publishedAt": "2026-11-28T01:45:01.000Z"
+        "time": "07:03",
+        "title": "ミスミ、AI対話で設計・調達を支援 新サービス「MiMA」を2027年に提供へ",
+        "source": "日本ネット経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1jZnhhb1JHeUVUNjFObVc5Y1FvU25jMnVpblNqeHgzTUJtbnd6UXowMDNOdjF2cDRiVmprY2VsbnJibGQ1Nl9ndXV1VjNRN0FXZW1HQlB3?oc=5",
+        "publishedAt": "2026-11-27T22:03:34.000Z"
       },
       {
         "time": "05:00",

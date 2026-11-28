@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-28T09:11:31.399Z",
+  "updatedAt": "2026-11-28T09:35:53.103Z",
   "items": [
     {
       "time": "16:56",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "拘束記者の妻手記 露で相次ぎ報道"
     },
     {
-      "time": "17:18",
-      "title": "サン電子 300億円超申告漏れ指摘",
+      "time": "18:04",
+      "title": "大学病院 老朽化トラブル相次ぐ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604314?source=rss",
-      "publishedAt": "2026-11-28T08:18:37.000Z",
-      "xQuery": "サン電子 300億円超申告漏れ指摘"
+      "url": "https://news.yahoo.co.jp/pickup/6604318?source=rss",
+      "publishedAt": "2026-11-28T09:04:01.000Z",
+      "xQuery": "大学病院 老朽化トラブル相次ぐ"
     },
     {
       "time": "17:08",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "「一生結婚しない」が2割超 背景"
     },
     {
-      "time": "16:44",
-      "title": "車同士が正面衝突 運転の女性死亡",
+      "time": "16:52",
+      "title": "書店がYouTube 10分で4千冊完売",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604307?source=rss",
-      "publishedAt": "2026-11-28T07:44:51.000Z",
-      "xQuery": "車同士が正面衝突 運転の女性死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6604312?source=rss",
+      "publishedAt": "2026-11-28T07:52:07.000Z",
+      "xQuery": "書店がYouTube 10分で4千冊完売"
     }
   ]
 };
