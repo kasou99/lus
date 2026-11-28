@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-28T12:15:05.550Z",
+  "updatedAt": "2026-11-28T12:36:19.282Z",
   "items": [
+    {
+      "time": "21:15",
+      "title": "高市氏側 昨年企業Gから分散献金",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6604330?source=rss",
+      "publishedAt": "2026-11-28T12:15:29.000Z",
+      "xQuery": "高市氏側 昨年企業Gから分散献金"
+    },
     {
       "time": "19:00",
       "title": "防衛費5年「60兆円弱」米側は難色",
@@ -8,14 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6604325?source=rss",
       "publishedAt": "2026-11-28T10:00:38.000Z",
       "xQuery": "防衛費5年「60兆円弱」米側は難色"
-    },
-    {
-      "time": "18:04",
-      "title": "大学病院 老朽化トラブル相次ぐ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604318?source=rss",
-      "publishedAt": "2026-11-28T09:04:01.000Z",
-      "xQuery": "大学病院 老朽化トラブル相次ぐ"
     },
     {
       "time": "20:28",
