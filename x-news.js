@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-28T16:10:53.737Z",
+  "updatedAt": "2026-11-28T16:35:27.858Z",
   "items": [
     {
       "time": "21:15",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "政党収入 グッズ販売で数千万円も"
     },
     {
-      "time": "23:43",
-      "title": "車5台が絡む事故 女性2人心肺停止",
+      "time": "01:12",
+      "title": "車5台が絡む事故 女性2人死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604349?source=rss",
-      "publishedAt": "2026-11-28T14:43:27.000Z",
-      "xQuery": "車5台が絡む事故 女性2人心肺停止"
+      "url": "https://news.yahoo.co.jp/pickup/6604351?source=rss",
+      "publishedAt": "2026-11-28T16:12:48.000Z",
+      "xQuery": "車5台が絡む事故 女性2人死亡"
     },
     {
       "time": "23:58",
