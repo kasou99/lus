@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-28T09:35:53.103Z",
+  "updatedAt": "2026-11-28T10:10:29.231Z",
   "items": [
+    {
+      "time": "18:04",
+      "title": "大学病院 老朽化トラブル相次ぐ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6604318?source=rss",
+      "publishedAt": "2026-11-28T09:04:01.000Z",
+      "xQuery": "大学病院 老朽化トラブル相次ぐ"
+    },
     {
       "time": "16:56",
       "title": "米空軍のシステムに不正侵入 報道",
@@ -16,14 +24,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6604316?source=rss",
       "publishedAt": "2026-11-28T08:25:58.000Z",
       "xQuery": "拘束記者の妻手記 露で相次ぎ報道"
-    },
-    {
-      "time": "18:04",
-      "title": "大学病院 老朽化トラブル相次ぐ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604318?source=rss",
-      "publishedAt": "2026-11-28T09:04:01.000Z",
-      "xQuery": "大学病院 老朽化トラブル相次ぐ"
     },
     {
       "time": "17:08",
