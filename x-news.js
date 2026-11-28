@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-28T02:35:41.324Z",
+  "updatedAt": "2026-11-28T03:12:55.211Z",
   "items": [
     {
       "time": "08:53",
@@ -10,22 +10,6 @@ window.LUS_X_NEWS = {
       "xQuery": "基礎控除上乗せ見直し 先送り方針"
     },
     {
-      "time": "10:11",
-      "title": "独 核禁止条約再検討会議を欠席へ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604275?source=rss",
-      "publishedAt": "2026-11-28T01:11:26.000Z",
-      "xQuery": "独 核禁止条約再検討会議を欠席へ"
-    },
-    {
-      "time": "08:08",
-      "title": "邦人を売春させた疑い 韓国で捜査",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604254?source=rss",
-      "publishedAt": "2026-11-27T23:08:30.000Z",
-      "xQuery": "邦人を売春させた疑い 韓国で捜査"
-    },
-    {
       "time": "10:34",
       "title": "疲弊する管理職 重荷を下ろす制度",
       "source": "Yahoo!ニュース",
@@ -34,12 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "疲弊する管理職 重荷を下ろす制度"
     },
     {
-      "time": "10:01",
-      "title": "お台場オワコン説は本当? 分析",
+      "time": "11:06",
+      "title": "男女7人けが 襲ったイノシシ駆除",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604270?source=rss",
-      "publishedAt": "2026-11-28T01:01:05.000Z",
-      "xQuery": "お台場オワコン説は本当? 分析"
+      "url": "https://news.yahoo.co.jp/pickup/6604280?source=rss",
+      "publishedAt": "2026-11-28T02:06:09.000Z",
+      "xQuery": "男女7人けが 襲ったイノシシ駆除"
+    },
+    {
+      "time": "10:00",
+      "title": "鎌田大地選手を英国で起訴 英報道",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6604273?source=rss",
+      "publishedAt": "2026-11-28T01:00:59.000Z",
+      "xQuery": "鎌田大地選手を英国で起訴 英報道"
+    },
+    {
+      "time": "10:39",
+      "title": "南海フェリー 撤退回避の壁高く",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6604277?source=rss",
+      "publishedAt": "2026-11-28T01:39:51.000Z",
+      "xQuery": "南海フェリー 撤退回避の壁高く"
     }
   ]
 };
