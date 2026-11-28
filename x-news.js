@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-28T04:12:55.238Z",
+  "updatedAt": "2026-11-28T04:35:43.280Z",
   "items": [
     {
-      "time": "08:53",
-      "title": "基礎控除上乗せ見直し 先送り方針",
+      "time": "13:16",
+      "title": "熊本地震 災害関連死の申請相次ぐ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604266?source=rss",
-      "publishedAt": "2026-11-27T23:53:48.000Z",
-      "xQuery": "基礎控除上乗せ見直し 先送り方針"
+      "url": "https://news.yahoo.co.jp/pickup/6604289?source=rss",
+      "publishedAt": "2026-11-28T04:16:54.000Z",
+      "xQuery": "熊本地震 災害関連死の申請相次ぐ"
     },
     {
       "time": "11:06",
