@@ -1,20 +1,27 @@
 {
-  "updatedAt": "2026-11-28T20:10:38.220Z",
+  "updatedAt": "2026-11-28T20:35:38.957Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "20:52",
+        "title": "【探訪・ザ・カンパニー】江口電機（倉敷市）生産ラインの効率化を後押し",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE52Q2Q0M0ZCeGgtMkdTajBHMDVWZVBIaWFzbTRCZm1MaGxzT0tXMTJxTng1QXh1YWFRR29nZ3RTNWhSYjdSdTdtSkplVkVEOVB1dkE?oc=5",
+        "publishedAt": "2026-11-28T11:52:45.000Z"
+      },
+      {
+        "time": "20:00",
+        "title": "【倒産】電気工事業者が破産手続き開始決定 負債総額約1億600万円【帝国データバンク】",
+        "source": "TBS NEWS DIG",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9UYWtwV0l2R0VSTGZxczNfNE5mNUNmRzRJR3MwRk85OWxPYk5uQk54ZmY2LXNsNW5WVTQyMnZXVTBMX1ZHTndPT1J0czJENEpIUVJFTjMza1NjR01jazZMSlJFYw?oc=5",
+        "publishedAt": "2026-11-28T11:00:00.000Z"
+      },
       {
         "time": "15:00",
         "title": "CNCねじ研削盤の世界市場（2026年～2032年）、市場規模（外径ねじ研削盤、内径ねじ研削盤）・分析レポートを発表",
         "source": "Newscast.jp",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5tYmtlS1Mybzl0R0ZiZlRmNFUtdXVneUZzNlJrYkFjSnJMNXI2dXJMZUtuSVZFeVNQa05sdE1XN21oSmZmWlVHbUtJaERrRnc?oc=5",
         "publishedAt": "2026-11-28T06:00:00.000Z"
-      },
-      {
-        "time": "06:24",
-        "title": "-40～75℃の過酷環境でも安定動作する、省スペース・コンパクト設計の産業用ギガビットハブを発売",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9FZmVvdHRtblJHVUwtN0Qzek94dEpERmI4dkJGOTRwdTRxb2VuVF9xOS1lWldxTVQyTVZBZDZ5clR1ckRVajVqSzdFejhHYU5jTXc?oc=5",
-        "publishedAt": "2026-11-27T21:24:09.000Z"
       },
       {
         "time": "07:03",
@@ -50,13 +57,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6604276?source=rss",
         "publishedAt": "2026-11-28T01:34:03.000Z"
-      },
-      {
-        "time": "17:18",
-        "title": "サン電子 300億円超申告漏れ指摘",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6604314?source=rss",
-        "publishedAt": "2026-11-28T08:18:37.000Z"
       }
     ],
     "worldHeadlines": [
