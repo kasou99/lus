@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-28T03:35:46.715Z",
+  "updatedAt": "2026-11-28T04:12:55.238Z",
   "items": [
     {
       "time": "08:53",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "基礎控除上乗せ見直し 先送り方針"
     },
     {
-      "time": "10:34",
-      "title": "疲弊する管理職 重荷を下ろす制度",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604276?source=rss",
-      "publishedAt": "2026-11-28T01:34:03.000Z",
-      "xQuery": "疲弊する管理職 重荷を下ろす制度"
-    },
-    {
       "time": "11:06",
       "title": "男女7人けが 襲ったイノシシ駆除",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6604280?source=rss",
       "publishedAt": "2026-11-28T02:06:09.000Z",
       "xQuery": "男女7人けが 襲ったイノシシ駆除"
+    },
+    {
+      "time": "12:53",
+      "title": "生徒誘拐疑いの男 ネットで接点か",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6604287?source=rss",
+      "publishedAt": "2026-11-28T03:53:24.000Z",
+      "xQuery": "生徒誘拐疑いの男 ネットで接点か"
     },
     {
       "time": "10:00",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "鎌田大地選手を英国で起訴 英報道"
     },
     {
-      "time": "10:39",
-      "title": "南海フェリー 撤退回避の壁高く",
+      "time": "10:44",
+      "title": "大人紙おむつ ごみ処理悩む自治体",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604277?source=rss",
-      "publishedAt": "2026-11-28T01:39:51.000Z",
-      "xQuery": "南海フェリー 撤退回避の壁高く"
+      "url": "https://news.yahoo.co.jp/pickup/6604278?source=rss",
+      "publishedAt": "2026-11-28T01:44:12.000Z",
+      "xQuery": "大人紙おむつ ごみ処理悩む自治体"
     }
   ]
 };
