@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-28T10:10:29.231Z",
+  "updatedAt": "2026-11-28T10:35:28.981Z",
   "items": [
+    {
+      "time": "19:00",
+      "title": "防衛費5年「60兆円弱」米側は難色",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6604325?source=rss",
+      "publishedAt": "2026-11-28T10:00:38.000Z",
+      "xQuery": "防衛費5年「60兆円弱」米側は難色"
+    },
     {
       "time": "18:04",
       "title": "大学病院 老朽化トラブル相次ぐ",
@@ -8,14 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6604318?source=rss",
       "publishedAt": "2026-11-28T09:04:01.000Z",
       "xQuery": "大学病院 老朽化トラブル相次ぐ"
-    },
-    {
-      "time": "16:56",
-      "title": "米空軍のシステムに不正侵入 報道",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604311?source=rss",
-      "publishedAt": "2026-11-28T07:56:12.000Z",
-      "xQuery": "米空軍のシステムに不正侵入 報道"
     },
     {
       "time": "17:25",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "拘束記者の妻手記 露で相次ぎ報道"
     },
     {
-      "time": "17:08",
-      "title": "「一生結婚しない」が2割超 背景",
+      "time": "19:13",
+      "title": "銚子のサバ加工ピンチ 6社が倒産",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604313?source=rss",
-      "publishedAt": "2026-11-28T08:08:43.000Z",
-      "xQuery": "「一生結婚しない」が2割超 背景"
+      "url": "https://news.yahoo.co.jp/pickup/6604326?source=rss",
+      "publishedAt": "2026-11-28T10:13:34.000Z",
+      "xQuery": "銚子のサバ加工ピンチ 6社が倒産"
     },
     {
       "time": "16:52",

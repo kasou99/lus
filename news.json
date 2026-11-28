@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-28T10:10:28.532Z",
+  "updatedAt": "2026-11-28T10:35:28.059Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -68,11 +68,11 @@
         "publishedAt": "2026-11-28T07:56:12.000Z"
       },
       {
-        "time": "14:47",
-        "title": "台湾の統一地方選 与党が伸長か",
+        "time": "18:09",
+        "title": "韓国の入試不正 前年より69.9%増",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6604298?source=rss",
-        "publishedAt": "2026-11-28T05:47:48.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6604213?source=rss",
+        "publishedAt": "2026-11-27T09:09:00.000Z"
       },
       {
         "time": "10:11",
@@ -119,13 +119,6 @@
         "publishedAt": "2026-11-28T08:18:37.000Z"
       },
       {
-        "time": "11:33",
-        "title": "美容クリーム誤認表示疑い 返金へ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6604282?source=rss",
-        "publishedAt": "2026-11-28T02:33:42.000Z"
-      },
-      {
         "time": "10:39",
         "title": "南海フェリー 撤退回避の壁高く",
         "source": "Yahoo!ニュース",
@@ -138,6 +131,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6604295?source=rss",
         "publishedAt": "2026-11-28T05:10:18.000Z"
+      },
+      {
+        "time": "19:13",
+        "title": "銚子のサバ加工ピンチ 6社が倒産",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6604326?source=rss",
+        "publishedAt": "2026-11-28T10:13:34.000Z"
       },
       {
         "time": "16:52",
