@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-28T00:47:33.178Z",
+  "updatedAt": "2026-11-28T01:11:38.250Z",
   "items": [
+    {
+      "time": "08:53",
+      "title": "基礎控除上乗せ見直し 先送り方針",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6604266?source=rss",
+      "publishedAt": "2026-11-27T23:53:48.000Z",
+      "xQuery": "基礎控除上乗せ見直し 先送り方針"
+    },
     {
       "time": "09:13",
       "title": "気温変化 暖かい雨から冷たい雨へ",
@@ -8,22 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6604269?source=rss",
       "publishedAt": "2026-11-28T00:13:15.000Z",
       "xQuery": "気温変化 暖かい雨から冷たい雨へ"
-    },
-    {
-      "time": "07:58",
-      "title": "政治資金パーティーの収入 37%増",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604259?source=rss",
-      "publishedAt": "2026-11-27T22:58:39.000Z",
-      "xQuery": "政治資金パーティーの収入 37%増"
-    },
-    {
-      "time": "08:20",
-      "title": "2遺体 不明生徒誘拐疑いで男逮捕",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604260?source=rss",
-      "publishedAt": "2026-11-27T23:20:33.000Z",
-      "xQuery": "2遺体 不明生徒誘拐疑いで男逮捕"
     },
     {
       "time": "08:08",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "邦人を売春させた疑い 韓国で捜査"
     },
     {
-      "time": "07:26",
-      "title": "「かっぱ寿司」なぜ赤字に転落",
+      "time": "08:20",
+      "title": "2遺体 不明生徒誘拐疑いで男逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604250?source=rss",
-      "publishedAt": "2026-11-27T22:26:15.000Z",
-      "xQuery": "「かっぱ寿司」なぜ赤字に転落"
+      "url": "https://news.yahoo.co.jp/pickup/6604260?source=rss",
+      "publishedAt": "2026-11-27T23:20:33.000Z",
+      "xQuery": "2遺体 不明生徒誘拐疑いで男逮捕"
+    },
+    {
+      "time": "08:22",
+      "title": "北海道で左タイヤの脱落頻発 なぜ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6604261?source=rss",
+      "publishedAt": "2026-11-27T23:22:26.000Z",
+      "xQuery": "北海道で左タイヤの脱落頻発 なぜ"
     }
   ]
 };
