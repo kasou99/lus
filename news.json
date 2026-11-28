@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-28T05:36:18.763Z",
+  "updatedAt": "2026-11-28T06:17:44.218Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,18 +17,11 @@
         "publishedAt": "2026-11-27T07:45:00.000Z"
       },
       {
-        "time": "07:03",
-        "title": "ミスミ、AI対話で設計・調達を支援 新サービス「MiMA」を2027年に提供へ",
-        "source": "日本ネット経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1jZnhhb1JHeUVUNjFObVc5Y1FvU25jMnVpblNqeHgzTUJtbnd6UXowMDNOdjF2cDRiVmprY2VsbnJibGQ1Nl9ndXV1VjNRN0FXZW1HQlB3?oc=5",
-        "publishedAt": "2026-11-27T22:03:34.000Z"
-      },
-      {
-        "time": "12:17",
-        "title": "テスラはオプティマスロボット開発のため、ドイツのエンジニアリング会社を買収した。",
-        "source": "Vietnam.vn",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPR1doMzd4YWRBMGE1Z3hTNVFSYlBSOElnWWJjWTNIOTVreTh0Mmh4b0dhMG8xRHIyTXBBZy1mN1FvSFBidmxNVTE5M0RydGh2WkxyNEJIeWE5XzYxdjlJd3FFRVZKOFlUejh0Tm1ZQnU2eTNJTUpZOUxfOWtETmhnSnhNMjJFbVFHWWRLeg?oc=5",
-        "publishedAt": "2026-11-28T03:17:38.000Z"
+        "time": "15:00",
+        "title": "CNCねじ研削盤の世界市場（2026年～2032年）、市場規模（外径ねじ研削盤、内径ねじ研削盤）・分析レポートを発表",
+        "source": "アットプレス",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1XMzdjRE5Lb2hSOVgwdWxoR2swcUcyaWpLZk1BUDN0MDJsSUNPUlFnTlhUZVhnSU1EMUlYRFc1X1loUkdmMExwaUVBZHAzZw?oc=5",
+        "publishedAt": "2026-11-28T06:00:00.000Z"
       },
       {
         "time": "02:48",
@@ -38,6 +31,13 @@
         "publishedAt": "2026-11-27T17:48:39.000Z"
       },
       {
+        "time": "02:24",
+        "title": "テスラはロボット開発を目指し、ドイツの機械メーカーの買収を進めている。",
+        "source": "Vietnam.vn",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaUdhZmd3WnIyWEFqNnRrTkNyYnljZThLN3lMR3VMNm02VGo3UjdtcjFTcXlxUUxUSEZuanF4a0RPc0ZQeFNqU3BkbFZJa3lLakRxWjlxRWJsUEgzQVJEUHNHZUxpMHg2d0pSWFBjcTNrcHJRck5rWWFOM1BZYmFUVFlMZTVmTkpLNWJxcTJMTVE5M0xUSF9teWlTWWt3Zw?oc=5",
+        "publishedAt": "2026-11-27T17:24:07.000Z"
+      },
+      {
         "time": "22:55",
         "title": "Tesla、独EMAG買収を推進…マスク氏「Optimus 2万台」生産網を確保",
         "source": "BigGo ファイナンス",
@@ -45,11 +45,11 @@
         "publishedAt": "2026-11-27T13:55:00.000Z"
       },
       {
-        "time": "02:24",
-        "title": "テスラはロボット開発を目指し、ドイツの機械メーカーの買収を進めている。",
-        "source": "Vietnam.vn",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaUdhZmd3WnIyWEFqNnRrTkNyYnljZThLN3lMR3VMNm02VGo3UjdtcjFTcXlxUUxUSEZuanF4a0RPc0ZQeFNqU3BkbFZJa3lLakRxWjlxRWJsUEgzQVJEUHNHZUxpMHg2d0pSWFBjcTNrcHJRck5rWWFOM1BZYmFUVFlMZTVmTkpLNWJxcTJMTVE5M0xUSF9teWlTWWt3Zw?oc=5",
-        "publishedAt": "2026-11-27T17:24:07.000Z"
+        "time": "07:03",
+        "title": "ミスミ、AI対話で設計・調達を支援 新サービス「MiMA」を2027年に提供へ",
+        "source": "日本ネット経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1jZnhhb1JHeUVUNjFObVc5Y1FvU25jMnVpblNqeHgzTUJtbnd6UXowMDNOdjF2cDRiVmprY2VsbnJibGQ1Nl9ndXV1VjNRN0FXZW1HQlB3?oc=5",
+        "publishedAt": "2026-11-27T22:03:34.000Z"
       },
       {
         "time": "05:00",
@@ -61,11 +61,11 @@
     ],
     "worldHeadlines": [
       {
-        "time": "13:46",
-        "title": "台湾の統一地方選 与党の伸長焦点",
+        "time": "14:47",
+        "title": "台湾の統一地方選 与党が伸長か",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6604291?source=rss",
-        "publishedAt": "2026-11-28T04:46:47.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6604298?source=rss",
+        "publishedAt": "2026-11-28T05:47:48.000Z"
       },
       {
         "time": "10:11",
@@ -73,13 +73,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6604275?source=rss",
         "publishedAt": "2026-11-28T01:11:26.000Z"
-      },
-      {
-        "time": "17:37",
-        "title": "露指示とされる破壊工作 欧州激化",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6604208?source=rss",
-        "publishedAt": "2026-11-27T08:37:30.000Z"
       },
       {
         "time": "08:47",
@@ -94,6 +87,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6604238?source=rss",
         "publishedAt": "2026-11-27T12:47:03.000Z"
+      },
+      {
+        "time": "14:48",
+        "title": "米議会 フアンCEOの追及本格化へ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6604299?source=rss",
+        "publishedAt": "2026-11-28T05:48:58.000Z"
       },
       {
         "time": "08:08",
@@ -177,18 +177,18 @@
         "publishedAt": "2026-11-28T02:06:09.000Z"
       },
       {
+        "time": "14:54",
+        "title": "フォークリフトにはねられる 死亡",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6604301?source=rss",
+        "publishedAt": "2026-11-28T05:54:26.000Z"
+      },
+      {
         "time": "10:44",
         "title": "大人紙おむつ ごみ処理悩む自治体",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6604278?source=rss",
         "publishedAt": "2026-11-28T01:44:12.000Z"
-      },
-      {
-        "time": "22:00",
-        "title": "舞妓を狙う観光客の迷惑行為 拍車",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6604239?source=rss",
-        "publishedAt": "2026-11-27T13:00:25.000Z"
       }
     ],
     "subsidyHeadlines": [

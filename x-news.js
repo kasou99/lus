@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-28T05:36:19.566Z",
+  "updatedAt": "2026-11-28T06:17:45.187Z",
   "items": [
     {
-      "time": "13:46",
-      "title": "台湾の統一地方選 与党の伸長焦点",
+      "time": "14:48",
+      "title": "米議会 フアンCEOの追及本格化へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604291?source=rss",
-      "publishedAt": "2026-11-28T04:46:47.000Z",
-      "xQuery": "台湾の統一地方選 与党の伸長焦点"
+      "url": "https://news.yahoo.co.jp/pickup/6604299?source=rss",
+      "publishedAt": "2026-11-28T05:48:58.000Z",
+      "xQuery": "米議会 フアンCEOの追及本格化へ"
     },
     {
-      "time": "14:00",
-      "title": "SNS動画 支持獲得を狙い各党注力",
+      "time": "14:47",
+      "title": "台湾の統一地方選 与党が伸長か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604294?source=rss",
-      "publishedAt": "2026-11-28T05:00:56.000Z",
-      "xQuery": "SNS動画 支持獲得を狙い各党注力"
+      "url": "https://news.yahoo.co.jp/pickup/6604298?source=rss",
+      "publishedAt": "2026-11-28T05:47:48.000Z",
+      "xQuery": "台湾の統一地方選 与党が伸長か"
     },
     {
       "time": "12:53",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "生徒誘拐疑いの男 ネットで接点か"
     },
     {
-      "time": "11:33",
-      "title": "美容クリーム誤認表示疑い 返金へ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604282?source=rss",
-      "publishedAt": "2026-11-28T02:33:42.000Z",
-      "xQuery": "美容クリーム誤認表示疑い 返金へ"
-    },
-    {
       "time": "14:10",
       "title": "L.L.Bean 日本支社を閉鎖へ",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6604295?source=rss",
       "publishedAt": "2026-11-28T05:10:18.000Z",
       "xQuery": "L.L.Bean 日本支社を閉鎖へ"
+    },
+    {
+      "time": "12:52",
+      "title": "転落しそうな4歳保護 小学生手柄",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6604288?source=rss",
+      "publishedAt": "2026-11-28T03:52:22.000Z",
+      "xQuery": "転落しそうな4歳保護 小学生手柄"
     }
   ]
 };
