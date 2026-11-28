@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-28T04:35:43.280Z",
+  "updatedAt": "2026-11-28T05:10:51.123Z",
   "items": [
     {
       "time": "13:16",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "熊本地震 災害関連死の申請相次ぐ"
     },
     {
-      "time": "11:06",
-      "title": "男女7人けが 襲ったイノシシ駆除",
+      "time": "13:46",
+      "title": "台湾の統一地方選 与党の伸長焦点",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604280?source=rss",
-      "publishedAt": "2026-11-28T02:06:09.000Z",
-      "xQuery": "男女7人けが 襲ったイノシシ駆除"
+      "url": "https://news.yahoo.co.jp/pickup/6604291?source=rss",
+      "publishedAt": "2026-11-28T04:46:47.000Z",
+      "xQuery": "台湾の統一地方選 与党の伸長焦点"
     },
     {
       "time": "12:53",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "生徒誘拐疑いの男 ネットで接点か"
     },
     {
-      "time": "10:00",
-      "title": "鎌田大地選手を英国で起訴 英報道",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604273?source=rss",
-      "publishedAt": "2026-11-28T01:00:59.000Z",
-      "xQuery": "鎌田大地選手を英国で起訴 英報道"
-    },
-    {
       "time": "10:44",
       "title": "大人紙おむつ ごみ処理悩む自治体",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6604278?source=rss",
       "publishedAt": "2026-11-28T01:44:12.000Z",
       "xQuery": "大人紙おむつ ごみ処理悩む自治体"
+    },
+    {
+      "time": "13:37",
+      "title": "「ゆで太郎」会員制度やめた理由",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6604290?source=rss",
+      "publishedAt": "2026-11-28T04:37:14.000Z",
+      "xQuery": "「ゆで太郎」会員制度やめた理由"
     }
   ]
 };

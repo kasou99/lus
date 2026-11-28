@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-28T04:35:42.681Z",
+  "updatedAt": "2026-11-28T05:10:50.350Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,18 +17,18 @@
         "publishedAt": "2026-11-27T07:45:00.000Z"
       },
       {
+        "time": "06:24",
+        "title": "-40～75℃の過酷環境でも安定動作する、省スペース・コンパクト設計の産業用ギガビットハブを発売",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9FZmVvdHRtblJHVUwtN0Qzek94dEpERmI4dkJGOTRwdTRxb2VuVF9xOS1lWldxTVQyTVZBZDZ5clR1ckRVajVqSzdFejhHYU5jTXc?oc=5",
+        "publishedAt": "2026-11-27T21:24:09.000Z"
+      },
+      {
         "time": "07:03",
         "title": "ミスミ、AI対話で設計・調達を支援 新サービス「MiMA」を2027年に提供へ",
         "source": "日本ネット経済新聞",
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1jZnhhb1JHeUVUNjFObVc5Y1FvU25jMnVpblNqeHgzTUJtbnd6UXowMDNOdjF2cDRiVmprY2VsbnJibGQ1Nl9ndXV1VjNRN0FXZW1HQlB3?oc=5",
         "publishedAt": "2026-11-27T22:03:34.000Z"
-      },
-      {
-        "time": "12:17",
-        "title": "テスラはオプティマスロボット開発のため、ドイツのエンジニアリング会社を買収した。",
-        "source": "Vietnam.vn",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPR1doMzd4YWRBMGE1Z3hTNVFSYlBSOElnWWJjWTNIOTVreTh0Mmh4b0dhMG8xRHIyTXBBZy1mN1FvSFBidmxNVTE5M0RydGh2WkxyNEJIeWE5XzYxdjlJd3FFRVZKOFlUejh0Tm1ZQnU2eTNJTUpZOUxfOWtETmhnSnhNMjJFbVFHWWRLeg?oc=5",
-        "publishedAt": "2026-11-28T03:17:38.000Z"
       },
       {
         "time": "02:48",
@@ -38,18 +38,18 @@
         "publishedAt": "2026-11-27T17:48:39.000Z"
       },
       {
-        "time": "22:55",
-        "title": "Tesla、独EMAG買収を推進…マスク氏「Optimus 2万台」生産網を確保",
-        "source": "BigGo ファイナンス",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB2TWF0LWhKeVhydGhYRDhHaTl3SWdKbmhMUnBqZ014VUtJN3FmWUtXQmYxZnJqeDBQeERiQzlKbnBpZmFGR0xvdE50SkxUZldlSm9YZUpUcWxoWmcyNjk0dC1ocU9uNVozSzBZMlJRWC1Cblpu?oc=5",
-        "publishedAt": "2026-11-27T13:55:00.000Z"
-      },
-      {
         "time": "02:24",
         "title": "テスラはロボット開発を目指し、ドイツの機械メーカーの買収を進めている。",
         "source": "Vietnam.vn",
         "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaUdhZmd3WnIyWEFqNnRrTkNyYnljZThLN3lMR3VMNm02VGo3UjdtcjFTcXlxUUxUSEZuanF4a0RPc0ZQeFNqU3BkbFZJa3lLakRxWjlxRWJsUEgzQVJEUHNHZUxpMHg2d0pSWFBjcTNrcHJRck5rWWFOM1BZYmFUVFlMZTVmTkpLNWJxcTJMTVE5M0xUSF9teWlTWWt3Zw?oc=5",
         "publishedAt": "2026-11-27T17:24:07.000Z"
+      },
+      {
+        "time": "22:55",
+        "title": "Tesla、独EMAG買収を推進…マスク氏「Optimus 2万台」生産網を確保",
+        "source": "BigGo ファイナンス",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB2TWF0LWhKeVhydGhYRDhHaTl3SWdKbmhMUnBqZ014VUtJN3FmWUtXQmYxZnJqeDBQeERiQzlKbnBpZmFGR0xvdE50SkxUZldlSm9YZUpUcWxoWmcyNjk0dC1ocU9uNVozSzBZMlJRWC1Cblpu?oc=5",
+        "publishedAt": "2026-11-27T13:55:00.000Z"
       },
       {
         "time": "05:00",
@@ -60,6 +60,13 @@
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "13:46",
+        "title": "台湾の統一地方選 与党の伸長焦点",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6604291?source=rss",
+        "publishedAt": "2026-11-28T04:46:47.000Z"
+      },
       {
         "time": "10:11",
         "title": "独 核禁止条約再検討会議を欠席へ",
@@ -89,13 +96,6 @@
         "publishedAt": "2026-11-27T12:47:03.000Z"
       },
       {
-        "time": "15:23",
-        "title": "インド最大野党 メタと政府を提訴",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6604190?source=rss",
-        "publishedAt": "2026-11-27T06:23:19.000Z"
-      },
-      {
         "time": "08:08",
         "title": "邦人を売春させた疑い 韓国で捜査",
         "source": "Yahoo!ニュース",
@@ -104,13 +104,6 @@
       }
     ],
     "economyHeadlines": [
-      {
-        "time": "21:24",
-        "title": "米ネトフリ 日本作品への投資拡大",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6604237?source=rss",
-        "publishedAt": "2026-11-27T12:24:12.000Z"
-      },
       {
         "time": "18:37",
         "title": "GMO サイバー攻撃防ぐ構想発表",
@@ -138,6 +131,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6604277?source=rss",
         "publishedAt": "2026-11-28T01:39:51.000Z"
+      },
+      {
+        "time": "13:37",
+        "title": "「ゆで太郎」会員制度やめた理由",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6604290?source=rss",
+        "publishedAt": "2026-11-28T04:37:14.000Z"
       },
       {
         "time": "09:11",
