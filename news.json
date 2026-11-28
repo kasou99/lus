@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-28T19:08:28.511Z",
+  "updatedAt": "2026-11-28T19:35:41.792Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -8,13 +8,6 @@
         "source": "Newscast.jp",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5tYmtlS1Mybzl0R0ZiZlRmNFUtdXVneUZzNlJrYkFjSnJMNXI2dXJMZUtuSVZFeVNQa05sdE1XN21oSmZmWlVHbUtJaERrRnc?oc=5",
         "publishedAt": "2026-11-28T06:00:00.000Z"
-      },
-      {
-        "time": "10:45",
-        "title": "神戸の松蔭中学・高校の生徒アイデアを採り入れた防災バッグが発売へ [兵庫県]",
-        "source": "朝日新聞",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ucW9SMm8tZnNNeWZMYXdmQXZmeEQ5UFBVZ2JxWUhhY0EtTzRsaW44Uno4eTVVUDFpNHUtc2pCTnNQYWhwWXVYWnFFNEswVEJjazhHWEtyR1l6UV9OOWkzY1BJamZEbjQ?oc=5",
-        "publishedAt": "2026-11-28T01:45:01.000Z"
       },
       {
         "time": "06:24",
@@ -50,6 +43,13 @@
         "source": "ニコニコニュース",
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ZQWh2bWRnNmdaaTh4YkZFUzN1eXZiaEVFcndSS1VxRTNRQVYtdE9ReEUwZzlBa2tFME12cDNrSGRzOXZIdzZFOXByUkEwUEI5UEoycWpvWnF6ZVRRcTIzRU9KQ29BU1VU?oc=5",
         "publishedAt": "2026-11-27T21:18:25.000Z"
+      },
+      {
+        "time": "10:45",
+        "title": "神戸の松蔭中学・高校の生徒アイデアを採り入れた防災バッグが発売へ [兵庫県]",
+        "source": "朝日新聞",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ucW9SMm8tZnNNeWZMYXdmQXZmeEQ5UFBVZ2JxWUhhY0EtTzRsaW44Uno4eTVVUDFpNHUtc2pCTnNQYWhwWXVYWnFFNEswVEJjazhHWEtyR1l6UV9OOWkzY1BJamZEbjQ?oc=5",
+        "publishedAt": "2026-11-28T01:45:01.000Z"
       },
       {
         "time": "10:34",
