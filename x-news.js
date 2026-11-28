@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-28T01:11:38.250Z",
+  "updatedAt": "2026-11-28T01:39:35.467Z",
   "items": [
     {
       "time": "08:53",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "基礎控除上乗せ見直し 先送り方針"
     },
     {
-      "time": "09:13",
-      "title": "気温変化 暖かい雨から冷たい雨へ",
+      "time": "08:47",
+      "title": "ロシア 最新鋭の原潜を極東配備へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604269?source=rss",
-      "publishedAt": "2026-11-28T00:13:15.000Z",
-      "xQuery": "気温変化 暖かい雨から冷たい雨へ"
+      "url": "https://news.yahoo.co.jp/pickup/6604264?source=rss",
+      "publishedAt": "2026-11-27T23:47:07.000Z",
+      "xQuery": "ロシア 最新鋭の原潜を極東配備へ"
     },
     {
       "time": "08:08",

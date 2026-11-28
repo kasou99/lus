@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-28T01:11:37.794Z",
+  "updatedAt": "2026-11-28T01:39:34.857Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,13 +31,6 @@
         "publishedAt": "2026-11-27T17:48:39.000Z"
       },
       {
-        "time": "10:37",
-        "title": "【レポート】JIMTOF2026「切削工具・周辺機器編」――省資源・高精度加工・生産性向上を支える最新技術に注目",
-        "source": "製造現場ドットコム",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE85ZXJlcWVrZUZoa0lvcGR6aGNkMTJpU0dJSEZyYV9sMUhUckd3Z2RrQTN6Ym5ZOE5nVWxmdmhyUlM1YWZFRmdKQ1VR?oc=5",
-        "publishedAt": "2026-11-27T01:37:05.000Z"
-      },
-      {
         "time": "10:52",
         "title": "生産状況の３次元管理システム開発 モノプロ、視認性が向上",
         "source": "山陽新聞",
@@ -57,9 +50,23 @@
         "source": "BigGo ファイナンス",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB2TWF0LWhKeVhydGhYRDhHaTl3SWdKbmhMUnBqZ014VUtJN3FmWUtXQmYxZnJqeDBQeERiQzlKbnBpZmFGR0xvdE50SkxUZldlSm9YZUpUcWxoWmcyNjk0dC1ocU9uNVozSzBZMlJRWC1Cblpu?oc=5",
         "publishedAt": "2026-11-27T13:55:00.000Z"
+      },
+      {
+        "time": "10:47",
+        "title": "ヤマザキマザック 今井幹則氏が「現代の名工」に選出 ATCの調整精度向上と技能伝承に貢献",
+        "source": "製造現場ドットコム",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFA4VEY2dXotYmFxMUoxYlJpWGNOUi1fQU12b3JHV3ROenVvQndTZElvekxrdHJUc0dZaEsxaTFMYVpuQXhtTnVyUDV3?oc=5",
+        "publishedAt": "2026-11-27T01:47:05.000Z"
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "10:11",
+        "title": "独 核禁止条約再検討会議を欠席へ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6604275?source=rss",
+        "publishedAt": "2026-11-28T01:11:26.000Z"
+      },
       {
         "time": "17:37",
         "title": "露指示とされる破壊工作 欧州激化",
@@ -80,13 +87,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6604238?source=rss",
         "publishedAt": "2026-11-27T12:47:03.000Z"
-      },
-      {
-        "time": "16:31",
-        "title": "タイ邦人殺害19年 来年11月時効",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6604195?source=rss",
-        "publishedAt": "2026-11-27T07:31:46.000Z"
       },
       {
         "time": "15:23",
@@ -119,18 +119,18 @@
         "publishedAt": "2026-11-27T09:37:15.000Z"
       },
       {
+        "time": "10:34",
+        "title": "疲弊する管理職 重荷を下ろす制度",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6604276?source=rss",
+        "publishedAt": "2026-11-28T01:34:03.000Z"
+      },
+      {
         "time": "15:53",
         "title": "熊本ふっこう応援割 第2弾実施へ",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6604192?source=rss",
         "publishedAt": "2026-11-27T06:53:26.000Z"
-      },
-      {
-        "time": "16:49",
-        "title": "「負動産」有料引き取り広がる",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6604200?source=rss",
-        "publishedAt": "2026-11-27T07:49:09.000Z"
       },
       {
         "time": "09:11",
