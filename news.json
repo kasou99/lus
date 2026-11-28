@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-28T17:08:53.151Z",
+  "updatedAt": "2026-11-28T17:35:21.434Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -8,6 +8,13 @@
         "source": "Newscast.jp",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5tYmtlS1Mybzl0R0ZiZlRmNFUtdXVneUZzNlJrYkFjSnJMNXI2dXJMZUtuSVZFeVNQa05sdE1XN21oSmZmWlVHbUtJaERrRnc?oc=5",
         "publishedAt": "2026-11-28T06:00:00.000Z"
+      },
+      {
+        "time": "10:45",
+        "title": "神戸の松蔭中学・高校の生徒アイデアを採り入れた防災バッグが発売へ [兵庫県]",
+        "source": "朝日新聞",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ucW9SMm8tZnNNeWZMYXdmQXZmeEQ5UFBVZ2JxWUhhY0EtTzRsaW44Uno4eTVVUDFpNHUtc2pCTnNQYWhwWXVYWnFFNEswVEJjazhHWEtyR1l6UV9OOWkzY1BJamZEbjQ?oc=5",
+        "publishedAt": "2026-11-28T01:45:01.000Z"
       },
       {
         "time": "07:03",
@@ -38,13 +45,6 @@
         "publishedAt": "2026-11-27T20:00:00.000Z"
       },
       {
-        "time": "02:24",
-        "title": "テスラはロボット開発を目指し、ドイツの機械メーカーの買収を進めている。",
-        "source": "Vietnam.vn",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaUdhZmd3WnIyWEFqNnRrTkNyYnljZThLN3lMR3VMNm02VGo3UjdtcjFTcXlxUUxUSEZuanF4a0RPc0ZQeFNqU3BkbFZJa3lLakRxWjlxRWJsUEgzQVJEUHNHZUxpMHg2d0pSWFBjcTNrcHJRck5rWWFOM1BZYmFUVFlMZTVmTkpLNWJxcTJMTVE5M0xUSF9teWlTWWt3Zw?oc=5",
-        "publishedAt": "2026-11-27T17:24:07.000Z"
-      },
-      {
         "time": "06:18",
         "title": "Sansan、インターネットイニシアティブなどが出展。「データの一元管理・可視化」に関する注目の出展企業を紹介【イプロ",
         "source": "ニコニコニュース",
@@ -52,11 +52,11 @@
         "publishedAt": "2026-11-27T21:18:25.000Z"
       },
       {
-        "time": "10:45",
-        "title": "神戸の松蔭中学・高校の生徒アイデアを採り入れた防災バッグが発売へ [兵庫県]",
-        "source": "朝日新聞",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ucW9SMm8tZnNNeWZMYXdmQXZmeEQ5UFBVZ2JxWUhhY0EtTzRsaW44Uno4eTVVUDFpNHUtc2pCTnNQYWhwWXVYWnFFNEswVEJjazhHWEtyR1l6UV9OOWkzY1BJamZEbjQ?oc=5",
-        "publishedAt": "2026-11-28T01:45:01.000Z"
+        "time": "10:34",
+        "title": "疲弊する管理職 重荷を下ろす制度",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6604276?source=rss",
+        "publishedAt": "2026-11-28T01:34:03.000Z"
       }
     ],
     "worldHeadlines": [
