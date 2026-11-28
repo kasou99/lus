@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-28T06:40:43.234Z",
+  "updatedAt": "2026-11-28T07:11:20.526Z",
   "items": [
     {
-      "time": "14:48",
-      "title": "米議会 フアンCEOの追及本格化へ",
+      "time": "15:34",
+      "title": "29日にかけ急な強い雨や落雷注意",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604299?source=rss",
-      "publishedAt": "2026-11-28T05:48:58.000Z",
-      "xQuery": "米議会 フアンCEOの追及本格化へ"
+      "url": "https://news.yahoo.co.jp/pickup/6604304?source=rss",
+      "publishedAt": "2026-11-28T06:34:31.000Z",
+      "xQuery": "29日にかけ急な強い雨や落雷注意"
     },
     {
       "time": "14:47",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "台湾の統一地方選 与党が伸長か"
     },
     {
-      "time": "12:53",
-      "title": "生徒誘拐疑いの男 ネットで接点か",
+      "time": "15:36",
+      "title": "山中に2人の遺体 一部は白骨化",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604287?source=rss",
-      "publishedAt": "2026-11-28T03:53:24.000Z",
-      "xQuery": "生徒誘拐疑いの男 ネットで接点か"
+      "url": "https://news.yahoo.co.jp/pickup/6604305?source=rss",
+      "publishedAt": "2026-11-28T06:36:11.000Z",
+      "xQuery": "山中に2人の遺体 一部は白骨化"
     },
     {
       "time": "14:10",

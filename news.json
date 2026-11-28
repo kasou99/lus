@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-28T06:40:42.396Z",
+  "updatedAt": "2026-11-28T07:11:19.668Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,18 +17,32 @@
         "publishedAt": "2026-11-27T07:45:00.000Z"
       },
       {
-        "time": "06:24",
-        "title": "-40～75℃の過酷環境でも安定動作する、省スペース・コンパクト設計の産業用ギガビットハブを発売",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9FZmVvdHRtblJHVUwtN0Qzek94dEpERmI4dkJGOTRwdTRxb2VuVF9xOS1lWldxTVQyTVZBZDZ5clR1ckRVajVqSzdFejhHYU5jTXc?oc=5",
-        "publishedAt": "2026-11-27T21:24:09.000Z"
-      },
-      {
         "time": "15:00",
         "title": "CNCねじ研削盤の世界市場（2026年～2032年）、市場規模（外径ねじ研削盤、内径ねじ研削盤）・分析レポートを発表",
         "source": "アットプレス",
         "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1XMzdjRE5Lb2hSOVgwdWxoR2swcUcyaWpLZk1BUDN0MDJsSUNPUlFnTlhUZVhnSU1EMUlYRFc1X1loUkdmMExwaUVBZHAzZw?oc=5",
         "publishedAt": "2026-11-28T06:00:00.000Z"
+      },
+      {
+        "time": "02:48",
+        "title": "すべてのミスミ体験をひとつに。新サービス「MISUMI MiMA」、2027年提供開始",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ULWdhdUtOb1BrUHh6aFNtRjJoMkxRcnZhY1pMZU1hZnpYaUlCQUF5LXAzZkEzWmVVazhqTWVyODY2ZVFONDFxb3p4TDdTS2ZIMlBFT2hZWUZhMmljd3dhYXpDOTlGQVJW?oc=5",
+        "publishedAt": "2026-11-27T17:48:39.000Z"
+      },
+      {
+        "time": "02:24",
+        "title": "テスラはロボット開発を目指し、ドイツの機械メーカーの買収を進めている。",
+        "source": "Vietnam.vn",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaUdhZmd3WnIyWEFqNnRrTkNyYnljZThLN3lMR3VMNm02VGo3UjdtcjFTcXlxUUxUSEZuanF4a0RPc0ZQeFNqU3BkbFZJa3lLakRxWjlxRWJsUEgzQVJEUHNHZUxpMHg2d0pSWFBjcTNrcHJRck5rWWFOM1BZYmFUVFlMZTVmTkpLNWJxcTJMTVE5M0xUSF9teWlTWWt3Zw?oc=5",
+        "publishedAt": "2026-11-27T17:24:07.000Z"
+      },
+      {
+        "time": "22:55",
+        "title": "Tesla、独EMAG買収を推進…マスク氏「Optimus 2万台」生産網を確保",
+        "source": "BigGo ファイナンス",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB2TWF0LWhKeVhydGhYRDhHaTl3SWdKbmhMUnBqZ014VUtJN3FmWUtXQmYxZnJqeDBQeERiQzlKbnBpZmFGR0xvdE50SkxUZldlSm9YZUpUcWxoWmcyNjk0dC1ocU9uNVozSzBZMlJRWC1Cblpu?oc=5",
+        "publishedAt": "2026-11-27T13:55:00.000Z"
       },
       {
         "time": "07:03",
@@ -43,20 +57,6 @@
         "source": "Vietnam.vn",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPR1doMzd4YWRBMGE1Z3hTNVFSYlBSOElnWWJjWTNIOTVreTh0Mmh4b0dhMG8xRHIyTXBBZy1mN1FvSFBidmxNVTE5M0RydGh2WkxyNEJIeWE5XzYxdjlJd3FFRVZKOFlUejh0Tm1ZQnU2eTNJTUpZOUxfOWtETmhnSnhNMjJFbVFHWWRLeg?oc=5",
         "publishedAt": "2026-11-28T03:17:38.000Z"
-      },
-      {
-        "time": "02:48",
-        "title": "すべてのミスミ体験をひとつに。新サービス「MISUMI MiMA」、2027年提供開始",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ULWdhdUtOb1BrUHh6aFNtRjJoMkxRcnZhY1pMZU1hZnpYaUlCQUF5LXAzZkEzWmVVazhqTWVyODY2ZVFONDFxb3p4TDdTS2ZIMlBFT2hZWUZhMmljd3dhYXpDOTlGQVJW?oc=5",
-        "publishedAt": "2026-11-27T17:48:39.000Z"
-      },
-      {
-        "time": "22:55",
-        "title": "Tesla、独EMAG買収を推進…マスク氏「Optimus 2万台」生産網を確保",
-        "source": "BigGo ファイナンス",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB2TWF0LWhKeVhydGhYRDhHaTl3SWdKbmhMUnBqZ014VUtJN3FmWUtXQmYxZnJqeDBQeERiQzlKbnBpZmFGR0xvdE50SkxUZldlSm9YZUpUcWxoWmcyNjk0dC1ocU9uNVozSzBZMlJRWC1Cblpu?oc=5",
-        "publishedAt": "2026-11-27T13:55:00.000Z"
       }
     ],
     "worldHeadlines": [
