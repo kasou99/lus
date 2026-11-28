@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-28T13:35:38.894Z",
+  "updatedAt": "2026-11-28T14:09:52.260Z",
   "items": [
     {
       "time": "21:15",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "大槻義彦氏が死去 早大名誉教授"
     },
     {
-      "time": "15:15",
-      "title": "寺で無許可ダンスバトル 法的には",
+      "time": "22:38",
+      "title": "扱う店が半減 富士宮やきそばの今",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604300?source=rss",
-      "publishedAt": "2026-11-28T06:15:53.000Z",
-      "xQuery": "寺で無許可ダンスバトル 法的には"
+      "url": "https://news.yahoo.co.jp/pickup/6604339?source=rss",
+      "publishedAt": "2026-11-28T13:38:34.000Z",
+      "xQuery": "扱う店が半減 富士宮やきそばの今"
     }
   ]
 };

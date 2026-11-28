@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-28T13:35:38.022Z",
+  "updatedAt": "2026-11-28T14:09:51.446Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -10,18 +10,18 @@
         "publishedAt": "2026-11-28T06:00:00.000Z"
       },
       {
+        "time": "10:45",
+        "title": "神戸の松蔭中学・高校の生徒アイデアを採り入れた防災バッグが発売へ [兵庫県]",
+        "source": "朝日新聞",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ucW9SMm8tZnNNeWZMYXdmQXZmeEQ5UFBVZ2JxWUhhY0EtTzRsaW44Uno4eTVVUDFpNHUtc2pCTnNQYWhwWXVYWnFFNEswVEJjazhHWEtyR1l6UV9OOWkzY1BJamZEbjQ?oc=5",
+        "publishedAt": "2026-11-28T01:45:01.000Z"
+      },
+      {
         "time": "06:24",
         "title": "-40～75℃の過酷環境でも安定動作する、省スペース・コンパクト設計の産業用ギガビットハブを発売",
         "source": "山陽新聞",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9FZmVvdHRtblJHVUwtN0Qzek94dEpERmI4dkJGOTRwdTRxb2VuVF9xOS1lWldxTVQyTVZBZDZ5clR1ckRVajVqSzdFejhHYU5jTXc?oc=5",
         "publishedAt": "2026-11-27T21:24:09.000Z"
-      },
-      {
-        "time": "22:55",
-        "title": "Tesla、独EMAG買収を推進…マスク氏「Optimus 2万台」生産網を確保",
-        "source": "BigGo ファイナンス",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB2TWF0LWhKeVhydGhYRDhHaTl3SWdKbmhMUnBqZ014VUtJN3FmWUtXQmYxZnJqeDBQeERiQzlKbnBpZmFGR0xvdE50SkxUZldlSm9YZUpUcWxoWmcyNjk0dC1ocU9uNVozSzBZMlJRWC1Cblpu?oc=5",
-        "publishedAt": "2026-11-27T13:55:00.000Z"
       },
       {
         "time": "07:03",
@@ -45,18 +45,18 @@
         "publishedAt": "2026-11-27T17:48:39.000Z"
       },
       {
-        "time": "02:24",
-        "title": "テスラはロボット開発を目指し、ドイツの機械メーカーの買収を進めている。",
-        "source": "Vietnam.vn",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaUdhZmd3WnIyWEFqNnRrTkNyYnljZThLN3lMR3VMNm02VGo3UjdtcjFTcXlxUUxUSEZuanF4a0RPc0ZQeFNqU3BkbFZJa3lLakRxWjlxRWJsUEgzQVJEUHNHZUxpMHg2d0pSWFBjcTNrcHJRck5rWWFOM1BZYmFUVFlMZTVmTkpLNWJxcTJMTVE5M0xUSF9teWlTWWt3Zw?oc=5",
-        "publishedAt": "2026-11-27T17:24:07.000Z"
+        "time": "05:00",
+        "title": "【倒産】負債1億1000万円…日本料理店「割烹渡辺」の運営会社が破産開始決定 新型コロナ禍による宴会需要の縮小や物価上昇が影響 新潟・西蒲区",
+        "source": "ｄメニューニュース",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBWUU5KODFSZmZpQVRON1RuNE5PYTlGZzNCOFVsX3I3UzNXT2FLenhzNE03TmpTS2hpajJYOVBRUzdpckRPS09sX013aEc2bU5VOGVUakYxQUhvNXoxeE5xZDAwX2lnN19sT2xkdTFndkt0bWlZWE840gF3QVVfeXFMUFZRTko4MVJmZmlBVE43VG40Tk9hOUZnM0I4VWxfcjdTM1dPYUt6eHM0TTdOalNLaGlqMlg5UFFTN2lyRE9LT2xfTXdoRzZtTlU4ZVRqRjFBSG81ejF4TnFkMDBfaWc3X2xPbGR1MWd2S3RtaVlYTzg?oc=5",
+        "publishedAt": "2026-11-27T20:00:00.000Z"
       },
       {
-        "time": "10:45",
-        "title": "神戸の松蔭中学・高校の生徒アイデアを採り入れた防災バッグが発売へ [兵庫県]",
-        "source": "朝日新聞",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ucW9SMm8tZnNNeWZMYXdmQXZmeEQ5UFBVZ2JxWUhhY0EtTzRsaW44Uno4eTVVUDFpNHUtc2pCTnNQYWhwWXVYWnFFNEswVEJjazhHWEtyR1l6UV9OOWkzY1BJamZEbjQ?oc=5",
-        "publishedAt": "2026-11-28T01:45:01.000Z"
+        "time": "23:10",
+        "title": "【最新事例シリーズ：ヤンマーHD編】Treasure AI VoiceとTreasure AI Studioを活用し、現場の暗黙知の資産化",
+        "source": "Infoseek",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9KQ3JQOVBQRDRtdlJtOER2RGNtazB1UGpFSklnS3NVdGIzaUlqLWt4ME5jQnJxZWJVZnBYeFJ0VHlZUlpHWkpZamdtU2ZvWDAtMVhKdVJWU2M4VV9vNFdCckV4Yk40SmZzeC1OZjVBUEVqZw?oc=5",
+        "publishedAt": "2026-11-27T14:10:02.000Z"
       }
     ],
     "worldHeadlines": [
@@ -163,13 +163,6 @@
         "publishedAt": "2026-11-28T03:53:24.000Z"
       },
       {
-        "time": "08:20",
-        "title": "2遺体 不明生徒誘拐疑いで男逮捕",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6604260?source=rss",
-        "publishedAt": "2026-11-27T23:20:33.000Z"
-      },
-      {
         "time": "16:44",
         "title": "車同士が正面衝突 運転の女性死亡",
         "source": "Yahoo!ニュース",
@@ -189,6 +182,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6604329?source=rss",
         "publishedAt": "2026-11-28T11:28:33.000Z"
+      },
+      {
+        "time": "22:38",
+        "title": "扱う店が半減 富士宮やきそばの今",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6604339?source=rss",
+        "publishedAt": "2026-11-28T13:38:34.000Z"
       }
     ],
     "subsidyHeadlines": [
