@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-27T23:35:41.305Z",
+  "updatedAt": "2026-11-28T00:28:46.210Z",
   "items": [
     {
-      "time": "23:08",
-      "title": "関氏18年食事会で300万円収入計上",
+      "time": "09:13",
+      "title": "気温変化 暖かい雨から冷たい雨へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604244?source=rss",
-      "publishedAt": "2026-11-27T14:08:54.000Z",
-      "xQuery": "関氏18年食事会で300万円収入計上"
+      "url": "https://news.yahoo.co.jp/pickup/6604269?source=rss",
+      "publishedAt": "2026-11-28T00:13:15.000Z",
+      "xQuery": "気温変化 暖かい雨から冷たい雨へ"
     },
     {
       "time": "07:58",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "政治資金パーティーの収入 37%増"
     },
     {
-      "time": "07:51",
-      "title": "文科相の問責案否決 火種消えず",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604258?source=rss",
-      "publishedAt": "2026-11-27T22:51:18.000Z",
-      "xQuery": "文科相の問責案否決 火種消えず"
-    },
-    {
       "time": "08:20",
       "title": "2遺体 不明生徒誘拐疑いで男逮捕",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6604260?source=rss",
       "publishedAt": "2026-11-27T23:20:33.000Z",
       "xQuery": "2遺体 不明生徒誘拐疑いで男逮捕"
+    },
+    {
+      "time": "08:08",
+      "title": "邦人を売春させた疑い 韓国で捜査",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6604254?source=rss",
+      "publishedAt": "2026-11-27T23:08:30.000Z",
+      "xQuery": "邦人を売春させた疑い 韓国で捜査"
     },
     {
       "time": "07:26",
