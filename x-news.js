@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-28T08:36:01.179Z",
+  "updatedAt": "2026-11-28T09:11:31.399Z",
   "items": [
     {
       "time": "16:56",
@@ -10,12 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "米空軍のシステムに不正侵入 報道"
     },
     {
-      "time": "15:34",
-      "title": "29日にかけ急な強い雨や落雷注意",
+      "time": "17:25",
+      "title": "拘束記者の妻手記 露で相次ぎ報道",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604304?source=rss",
-      "publishedAt": "2026-11-28T06:34:31.000Z",
-      "xQuery": "29日にかけ急な強い雨や落雷注意"
+      "url": "https://news.yahoo.co.jp/pickup/6604316?source=rss",
+      "publishedAt": "2026-11-28T08:25:58.000Z",
+      "xQuery": "拘束記者の妻手記 露で相次ぎ報道"
+    },
+    {
+      "time": "17:18",
+      "title": "サン電子 300億円超申告漏れ指摘",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6604314?source=rss",
+      "publishedAt": "2026-11-28T08:18:37.000Z",
+      "xQuery": "サン電子 300億円超申告漏れ指摘"
     },
     {
       "time": "17:08",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6604307?source=rss",
       "publishedAt": "2026-11-28T07:44:51.000Z",
       "xQuery": "車同士が正面衝突 運転の女性死亡"
-    },
-    {
-      "time": "14:54",
-      "title": "フォークリフトにはねられる 死亡",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604301?source=rss",
-      "publishedAt": "2026-11-28T05:54:26.000Z",
-      "xQuery": "フォークリフトにはねられる 死亡"
     }
   ]
 };
