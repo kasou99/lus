@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-28T14:09:51.446Z",
+  "updatedAt": "2026-11-28T14:35:26.650Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -52,11 +52,11 @@
         "publishedAt": "2026-11-27T20:00:00.000Z"
       },
       {
-        "time": "23:10",
-        "title": "【最新事例シリーズ：ヤンマーHD編】Treasure AI VoiceとTreasure AI Studioを活用し、現場の暗黙知の資産化",
-        "source": "Infoseek",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9KQ3JQOVBQRDRtdlJtOER2RGNtazB1UGpFSklnS3NVdGIzaUlqLWt4ME5jQnJxZWJVZnBYeFJ0VHlZUlpHWkpZamdtU2ZvWDAtMVhKdVJWU2M4VV9vNFdCckV4Yk40SmZzeC1OZjVBUEVqZw?oc=5",
-        "publishedAt": "2026-11-27T14:10:02.000Z"
+        "time": "02:24",
+        "title": "テスラはロボット開発を目指し、ドイツの機械メーカーの買収を進めている。",
+        "source": "Vietnam.vn",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaUdhZmd3WnIyWEFqNnRrTkNyYnljZThLN3lMR3VMNm02VGo3UjdtcjFTcXlxUUxUSEZuanF4a0RPc0ZQeFNqU3BkbFZJa3lLakRxWjlxRWJsUEgzQVJEUHNHZUxpMHg2d0pSWFBjcTNrcHJRck5rWWFOM1BZYmFUVFlMZTVmTkpLNWJxcTJMTVE5M0xUSF9teWlTWWt3Zw?oc=5",
+        "publishedAt": "2026-11-27T17:24:07.000Z"
       }
     ],
     "worldHeadlines": [
@@ -68,18 +68,11 @@
         "publishedAt": "2026-11-28T07:56:12.000Z"
       },
       {
-        "time": "18:09",
-        "title": "韓国の入試不正 前年より69.9%増",
+        "time": "23:09",
+        "title": "金正恩氏が12月に訪中の可能性",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6604213?source=rss",
-        "publishedAt": "2026-11-27T09:09:00.000Z"
-      },
-      {
-        "time": "10:11",
-        "title": "独 核禁止条約再検討会議を欠席へ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6604275?source=rss",
-        "publishedAt": "2026-11-28T01:11:26.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6604346?source=rss",
+        "publishedAt": "2026-11-28T14:09:22.000Z"
       },
       {
         "time": "17:25",
@@ -101,6 +94,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6604299?source=rss",
         "publishedAt": "2026-11-28T05:48:58.000Z"
+      },
+      {
+        "time": "23:25",
+        "title": "政府機関移転で農村→ビル群 韓国",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6604347?source=rss",
+        "publishedAt": "2026-11-28T14:25:04.000Z"
       }
     ],
     "economyHeadlines": [
@@ -149,18 +149,18 @@
     ],
     "localHeadlines": [
       {
+        "time": "23:23",
+        "title": "誘拐疑いで男逮捕 近隣住民は驚き",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6604348?source=rss",
+        "publishedAt": "2026-11-28T14:23:20.000Z"
+      },
+      {
         "time": "15:36",
         "title": "山中に2人の遺体 一部は白骨化",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6604305?source=rss",
         "publishedAt": "2026-11-28T06:36:11.000Z"
-      },
-      {
-        "time": "12:53",
-        "title": "生徒誘拐疑いの男 ネットで接点か",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6604287?source=rss",
-        "publishedAt": "2026-11-28T03:53:24.000Z"
       },
       {
         "time": "16:44",

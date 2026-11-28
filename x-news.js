@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-28T14:09:52.260Z",
+  "updatedAt": "2026-11-28T14:35:27.507Z",
   "items": [
     {
       "time": "21:15",
@@ -10,20 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "高市氏側 昨年企業Gから分散献金"
     },
     {
-      "time": "22:26",
-      "title": "金融43社 片山氏団体のパー券購入",
+      "time": "23:09",
+      "title": "金正恩氏が12月に訪中の可能性",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604337?source=rss",
-      "publishedAt": "2026-11-28T13:26:57.000Z",
-      "xQuery": "金融43社 片山氏団体のパー券購入"
-    },
-    {
-      "time": "20:28",
-      "title": "PL学園全校 28年度生徒募集休止",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604329?source=rss",
-      "publishedAt": "2026-11-28T11:28:33.000Z",
-      "xQuery": "PL学園全校 28年度生徒募集休止"
+      "url": "https://news.yahoo.co.jp/pickup/6604346?source=rss",
+      "publishedAt": "2026-11-28T14:09:22.000Z",
+      "xQuery": "金正恩氏が12月に訪中の可能性"
     },
     {
       "time": "20:55",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "大槻義彦氏が死去 早大名誉教授"
     },
     {
-      "time": "22:38",
-      "title": "扱う店が半減 富士宮やきそばの今",
+      "time": "23:23",
+      "title": "誘拐疑いで男逮捕 近隣住民は驚き",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604339?source=rss",
-      "publishedAt": "2026-11-28T13:38:34.000Z",
-      "xQuery": "扱う店が半減 富士宮やきそばの今"
+      "url": "https://news.yahoo.co.jp/pickup/6604348?source=rss",
+      "publishedAt": "2026-11-28T14:23:20.000Z",
+      "xQuery": "誘拐疑いで男逮捕 近隣住民は驚き"
+    },
+    {
+      "time": "23:25",
+      "title": "政府機関移転で農村→ビル群 韓国",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6604347?source=rss",
+      "publishedAt": "2026-11-28T14:25:04.000Z",
+      "xQuery": "政府機関移転で農村→ビル群 韓国"
     }
   ]
 };
