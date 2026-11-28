@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-28T02:15:10.847Z",
+  "updatedAt": "2026-11-28T02:35:41.324Z",
   "items": [
     {
       "time": "08:53",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "基礎控除上乗せ見直し 先送り方針"
     },
     {
-      "time": "08:47",
-      "title": "ロシア 最新鋭の原潜を極東配備へ",
+      "time": "10:11",
+      "title": "独 核禁止条約再検討会議を欠席へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604264?source=rss",
-      "publishedAt": "2026-11-27T23:47:07.000Z",
-      "xQuery": "ロシア 最新鋭の原潜を極東配備へ"
+      "url": "https://news.yahoo.co.jp/pickup/6604275?source=rss",
+      "publishedAt": "2026-11-28T01:11:26.000Z",
+      "xQuery": "独 核禁止条約再検討会議を欠席へ"
     },
     {
       "time": "08:08",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "邦人を売春させた疑い 韓国で捜査"
     },
     {
-      "time": "08:20",
-      "title": "2遺体 不明生徒誘拐疑いで男逮捕",
+      "time": "10:34",
+      "title": "疲弊する管理職 重荷を下ろす制度",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604260?source=rss",
-      "publishedAt": "2026-11-27T23:20:33.000Z",
-      "xQuery": "2遺体 不明生徒誘拐疑いで男逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6604276?source=rss",
+      "publishedAt": "2026-11-28T01:34:03.000Z",
+      "xQuery": "疲弊する管理職 重荷を下ろす制度"
     },
     {
-      "time": "08:22",
-      "title": "北海道で左タイヤの脱落頻発 なぜ",
+      "time": "10:01",
+      "title": "お台場オワコン説は本当? 分析",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604261?source=rss",
-      "publishedAt": "2026-11-27T23:22:26.000Z",
-      "xQuery": "北海道で左タイヤの脱落頻発 なぜ"
+      "url": "https://news.yahoo.co.jp/pickup/6604270?source=rss",
+      "publishedAt": "2026-11-28T01:01:05.000Z",
+      "xQuery": "お台場オワコン説は本当? 分析"
     }
   ]
 };
