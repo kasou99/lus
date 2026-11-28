@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-28T08:13:31.805Z",
+  "updatedAt": "2026-11-28T08:36:01.179Z",
   "items": [
     {
-      "time": "16:33",
-      "title": "25年参院選 目立ったSNS広告費",
+      "time": "16:56",
+      "title": "米空軍のシステムに不正侵入 報道",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604308?source=rss",
-      "publishedAt": "2026-11-28T07:33:42.000Z",
-      "xQuery": "25年参院選 目立ったSNS広告費"
+      "url": "https://news.yahoo.co.jp/pickup/6604311?source=rss",
+      "publishedAt": "2026-11-28T07:56:12.000Z",
+      "xQuery": "米空軍のシステムに不正侵入 報道"
     },
     {
       "time": "15:34",
@@ -16,6 +16,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6604304?source=rss",
       "publishedAt": "2026-11-28T06:34:31.000Z",
       "xQuery": "29日にかけ急な強い雨や落雷注意"
+    },
+    {
+      "time": "17:08",
+      "title": "「一生結婚しない」が2割超 背景",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6604313?source=rss",
+      "publishedAt": "2026-11-28T08:08:43.000Z",
+      "xQuery": "「一生結婚しない」が2割超 背景"
     },
     {
       "time": "16:44",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6604301?source=rss",
       "publishedAt": "2026-11-28T05:54:26.000Z",
       "xQuery": "フォークリフトにはねられる 死亡"
-    },
-    {
-      "time": "16:52",
-      "title": "書店がYouTube 10分で4千冊完売",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604312?source=rss",
-      "publishedAt": "2026-11-28T07:52:07.000Z",
-      "xQuery": "書店がYouTube 10分で4千冊完売"
     }
   ]
 };
