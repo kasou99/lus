@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-11-28T14:35:27.507Z",
+  "updatedAt": "2026-11-28T15:09:37.721Z",
   "items": [
     {
       "time": "21:15",
@@ -10,36 +10,36 @@ window.LUS_X_NEWS = {
       "xQuery": "高市氏側 昨年企業Gから分散献金"
     },
     {
-      "time": "23:09",
-      "title": "金正恩氏が12月に訪中の可能性",
+      "time": "22:49",
+      "title": "政党収入 グッズ販売で数千万円も",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604346?source=rss",
-      "publishedAt": "2026-11-28T14:09:22.000Z",
-      "xQuery": "金正恩氏が12月に訪中の可能性"
+      "url": "https://news.yahoo.co.jp/pickup/6604340?source=rss",
+      "publishedAt": "2026-11-28T13:49:15.000Z",
+      "xQuery": "政党収入 グッズ販売で数千万円も"
     },
     {
-      "time": "20:55",
-      "title": "大槻義彦氏が死去 早大名誉教授",
+      "time": "23:43",
+      "title": "車5台が絡む事故 女性2人心肺停止",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604332?source=rss",
-      "publishedAt": "2026-11-28T11:55:53.000Z",
-      "xQuery": "大槻義彦氏が死去 早大名誉教授"
+      "url": "https://news.yahoo.co.jp/pickup/6604349?source=rss",
+      "publishedAt": "2026-11-28T14:43:27.000Z",
+      "xQuery": "車5台が絡む事故 女性2人心肺停止"
     },
     {
-      "time": "23:23",
-      "title": "誘拐疑いで男逮捕 近隣住民は驚き",
+      "time": "23:58",
+      "title": "第3子から1千万円給付案 街の声は",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604348?source=rss",
-      "publishedAt": "2026-11-28T14:23:20.000Z",
-      "xQuery": "誘拐疑いで男逮捕 近隣住民は驚き"
+      "url": "https://news.yahoo.co.jp/pickup/6604350?source=rss",
+      "publishedAt": "2026-11-28T14:58:36.000Z",
+      "xQuery": "第3子から1千万円給付案 街の声は"
     },
     {
-      "time": "23:25",
-      "title": "政府機関移転で農村→ビル群 韓国",
+      "time": "22:16",
+      "title": "亡き夫の愛車復活も白煙 妻の思い",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6604347?source=rss",
-      "publishedAt": "2026-11-28T14:25:04.000Z",
-      "xQuery": "政府機関移転で農村→ビル群 韓国"
+      "url": "https://news.yahoo.co.jp/pickup/6604336?source=rss",
+      "publishedAt": "2026-11-28T13:16:43.000Z",
+      "xQuery": "亡き夫の愛車復活も白煙 妻の思い"
     }
   ]
 };
