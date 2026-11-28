@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-28T01:39:34.857Z",
+  "updatedAt": "2026-11-28T02:15:09.223Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,13 +31,6 @@
         "publishedAt": "2026-11-27T17:48:39.000Z"
       },
       {
-        "time": "10:52",
-        "title": "生産状況の３次元管理システム開発 モノプロ、視認性が向上",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5OMWRvWmRQMUVtdnNhSEVWQTZYNGNiQmpJY0xxTXpPVy1EZ0Z3R1JELTVBMUJUTkx0M09XeV92dGwwMHNiMkFTcjJHQnludExIVzdBanJZeEtTWjdu?oc=5",
-        "publishedAt": "2026-11-27T01:52:30.000Z"
-      },
-      {
         "time": "02:24",
         "title": "テスラはロボット開発を目指し、ドイツの機械メーカーの買収を進めている。",
         "source": "Vietnam.vn",
@@ -52,11 +45,18 @@
         "publishedAt": "2026-11-27T13:55:00.000Z"
       },
       {
-        "time": "10:47",
-        "title": "ヤマザキマザック 今井幹則氏が「現代の名工」に選出 ATCの調整精度向上と技能伝承に貢献",
-        "source": "製造現場ドットコム",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFA4VEY2dXotYmFxMUoxYlJpWGNOUi1fQU12b3JHV3ROenVvQndTZElvekxrdHJUc0dZaEsxaTFMYVpuQXhtTnVyUDV3?oc=5",
-        "publishedAt": "2026-11-27T01:47:05.000Z"
+        "time": "13:04",
+        "title": "「第20回 日立建機グループ国際技能競技会」を開催 - Hitachi Construction Machinery Co., Ltd.",
+        "source": "Hitachi Construction Machinery Co., Ltd.",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5BMl9SU2hDaHJZRDNhYl9pdkhWaGd4U2U0UDdMeThQQkxBUTI4Tk1GR2xUYjY3SzYwbDFUUmYwZzNKemZfN3dpX25zZVhQaDJCdFN0aVdHWUZiUi1hbDZKbTlscnpNTk5lMkF0SDhqZw?oc=5",
+        "publishedAt": "2026-11-27T04:04:00.000Z"
+      },
+      {
+        "time": "22:36",
+        "title": "産業用レバー市場2035年展望：更新需要と自動化が成長を下支え - ニュースと統計",
+        "source": "IndexBox",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVnFlRTBMRHhjM2JoRTBlbmZoV3JLZEpsbWFBYUZ1V25LNkJPZ2dWcUxBTHVDZVVNOVRKRXExUUZrZGFWMGhJdWRUVU0xYWVfQ3NKa3VORG9BSGpmNDU3OHVDbWJqc0hndkRSR1NpUnVCbzl2X0FwVHBjMTVPc0JoLU5VWlBEaGdLTTdJVnFYb1BlQmJCTjNSeEN6TTh0b3RRTDlGNTFRTEtiUUFud1h4bXBzLVRrcHhSMHluc25pVHRZa2pzUGN1ZGlLQ1VtR0J0MV9B?oc=5",
+        "publishedAt": "2026-11-27T13:36:04.000Z"
       }
     ],
     "worldHeadlines": [
@@ -126,6 +126,13 @@
         "publishedAt": "2026-11-28T01:34:03.000Z"
       },
       {
+        "time": "10:39",
+        "title": "南海フェリー 撤退回避の壁高く",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6604277?source=rss",
+        "publishedAt": "2026-11-28T01:39:51.000Z"
+      },
+      {
         "time": "15:53",
         "title": "熊本ふっこう応援割 第2弾実施へ",
         "source": "Yahoo!ニュース",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6604267?source=rss",
         "publishedAt": "2026-11-28T00:11:18.000Z"
-      },
-      {
-        "time": "07:26",
-        "title": "「かっぱ寿司」なぜ赤字に転落",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6604250?source=rss",
-        "publishedAt": "2026-11-27T22:26:15.000Z"
       }
     ],
     "localHeadlines": [
@@ -163,11 +163,18 @@
         "publishedAt": "2026-11-27T14:27:39.000Z"
       },
       {
-        "time": "23:31",
-        "title": "4歳死亡 職員ゼリー注意書き認識",
+        "time": "11:06",
+        "title": "男女7人けが 襲ったイノシシ駆除",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6604243?source=rss",
-        "publishedAt": "2026-11-27T14:31:28.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6604280?source=rss",
+        "publishedAt": "2026-11-28T02:06:09.000Z"
+      },
+      {
+        "time": "10:44",
+        "title": "大人紙おむつ ごみ処理悩む自治体",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6604278?source=rss",
+        "publishedAt": "2026-11-28T01:44:12.000Z"
       },
       {
         "time": "20:05",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6604239?source=rss",
         "publishedAt": "2026-11-27T13:00:25.000Z"
-      },
-      {
-        "time": "12:24",
-        "title": "格闘家 ぱんちゃん璃奈容疑者逮捕",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6604172?source=rss",
-        "publishedAt": "2026-11-27T03:24:35.000Z"
       }
     ],
     "subsidyHeadlines": [
